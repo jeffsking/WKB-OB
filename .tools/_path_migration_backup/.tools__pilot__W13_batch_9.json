@@ -1,0 +1,65 @@
+{
+ "batch_id": "W13-9",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7c4efb3b12a4b926ce03b4744759c6e4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Polymer Testing/Handbook of Polymer Testing_ch12_report.md.md",
+   "name": "Handbook of Polymer Testing_ch12_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_935a22f4065bdea29598dc2b9533d4b4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Polymer Testing/Handbook of Polymer Testing_ch9_report.md.md",
+   "name": "Handbook of Polymer Testing_ch9_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e40542f76164fbb4baadb9f6a61f9830001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch2_report.md.md",
+   "name": "Introduction to Physical Polymer Science_ch2_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_57cb3c6ff33f687e8c58ffb9120fdb7b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Introduction_Liquid_Crystals_DeepBook/Introduction_Liquid_Crystals_精简摘要.md.md",
+   "name": "Introduction_Liquid_Crystals_精简摘要.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6afadea84c4f70304cd2e13639c5ca5e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_README.md.md",
+   "name": "LCP_README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_f1b02756ee8abd4d83da000ba3ac107f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch05.md.md",
+   "name": "Manufactured Fibre Technology · analysis_ch05.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e199a1eb197d924f52106845788ac103001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch14.md.md",
+   "name": "Manufactured Fibre Technology · analysis_ch14.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1362d97872f10db8d28f3e85e69554cd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch03_INFINITE_AND_SEMI-INFINITE_MEDIA_report.md.md",
+   "name": "ch03_INFINITE_AND_SEMI-INFINITE_MEDIA_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e80f65eb4ab51704097abea6d9d45ab3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch12_DIFFUSION_IN_HETEROGENEOUS_MEDIA_report.md.md",
+   "name": "ch12_DIFFUSION_IN_HETEROGENEOUS_MEDIA_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b762e23e0f568298a6dc5623b6d07fd9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解/交互式机械变色电子织物传感器_拆解.md.md",
+   "name": "交互式机械变色电子织物传感器_拆解.md.md",
+   "type": "markdown"
+  }
+ ]
+}

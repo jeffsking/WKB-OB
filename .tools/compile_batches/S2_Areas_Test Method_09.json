@@ -1,0 +1,55 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收速度（From Nuoer）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收速度（From Nuoer）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收速度（From Nuoer）.docx.md",
+   "name": "SAM吸收速度（From Nuoer）.docx.md",
+   "title_hint": "SAM吸收速度（From Nuoer）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+   "name": "STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+   "title_hint": "STM-00232布质外层与loop的粘连强度（人工方法）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM密度(From China National Testing Method).docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM密度(From China National Testing Method).docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM密度(From China National Testing Method).docx.md",
+   "name": "SAM密度(From China National Testing Method).docx.md",
+   "title_hint": "SAM密度(From China National Testing Method).docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-64766温湿度纽扣测试方法.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-64766温湿度纽扣测试方法.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-64766温湿度纽扣测试方法.docx.md",
+   "name": "WI-64766温湿度纽扣测试方法.docx.md",
+   "title_hint": "WI-64766温湿度纽扣测试方法.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM水分测定(From China National Testing Method).docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM水分测定(From China National Testing Method).docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM水分测定(From China National Testing Method).docx.md",
+   "name": "SAM水分测定(From China National Testing Method).docx.md",
+   "title_hint": "SAM水分测定(From China National Testing Method).docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00512 绒毛完整性.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00512 绒毛完整性.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00512 绒毛完整性.doc.md",
+   "name": "TTM-00512 绒毛完整性.doc.md",
+   "title_hint": "TTM-00512 绒毛完整性.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲dip and drip 实验.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲dip and drip 实验.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲dip and drip 实验.docx.md",
+   "name": "澳洲dip and drip 实验.docx.md",
+   "title_hint": "澳洲dip and drip 实验.docx"
+  }
+ ]
+}

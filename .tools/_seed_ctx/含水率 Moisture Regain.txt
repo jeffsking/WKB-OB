@@ -1,0 +1,97 @@
+# SEED: 含水率 Moisture Regain
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#
+# 全库正文命中 93 页，117 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (4 句)
+   • Faster crystallization than PET (pp.341–342): "nylon 66 and nylon 6 crystallize relatively more rapidly, primarily because of more flexible molecular chains"; "'Y crystals are favoured by an increase in winding speed" (the source quotes the gamma-symbol the Greek γ as 'Y). Nylon 6 shows **polymorphism 多态性** — α, γ and pseudo-hexagonal forms depending on processing (p.352) — and the structure is highly moisture-sensitive, which the source identifies as the difficulty in spinline stability control
+   • Assessment: polymerization mechanism, process parameters, Tg–regain and speed–structure relations are all triple-supported by figures, tables and citations (strong). Degradation and additives are more narrative (medium). Mechanical behaviour is only trend curves plus one summary table with no mechanism or application mapping (weak) — the source itself marks this inferred.
+   • 1. **The Tg–moisture-regain concept transfers directly**: nylon 6 shows ~50 °C Tg shifted strongly by regain, with a 2.0–3.5% window of minimum Tg sensitivity. Any hydrophilic polymer whose stiffness and set behaviour moves with ambient humidity — including moisture-responsive fibre concepts used in comfort/microclimate work — obeys the same coupling. See Moisture-Responsive Fibre（湿敏变形纤维）.
+2. **Polymer selection for sheath-core bonding**: nylon's ready crystallization and high melting point vers
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — the PET benchmark that nylon is contrasted against for crystallization rate and moisture sensitivity
+- Moisture-Responsive Fibre（湿敏变形纤维） — modern take on the Tg–moisture coupling described here
+- PP基皮芯与PET基皮芯对比 — sheath-core polymer selection actually used in hygiene thermal bonding
+- 无纺布五大工艺对比 — process-route context for nonwovens
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (3 句)
+   • Drying is governed by two simultaneous subprocesses:
+- **Process 1 (External):** Transfer of energy (heat) from environment to evaporate surface moisture
+- **Process 2 (Internal):** Transfer of internal moisture to the surface and its evaporation
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Hygiene implication:** Bound moisture sets the equilibrium moisture content and hence the floor of achievable dryness in cellulose fluff and SAP.
+
+--- [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]]  (3 句)
+   • 文件整合 GB/T 28004.1-2021、Cradle（TTM-00148）、Surface Moisture（TTM-00302）、Low/High Pressure Rewet（TTM-00623）、Retention Capacity（STM-00033）五法在早产儿场景下的要求，并附北美早产儿详细参数与可查到的滞留能力数值。
+   • 逐法结论：**GB/T 28004.1**——标准范围虽含低出生体重尿不湿，但**不考核渗透与防侧漏性能**，无直接适用的早产儿注液参数。**TTM-00148 Cradle**——有，注液量/速度/注液点/次数按尺码与市场预定义。**TTM-00302 Surface Moisture**——注液量继承自 TTM-00148，不单独定义早产儿表，方法流速 7.5 mL/s。**TTM-00623 Low/High Rewet**——推荐用于早产儿回渗，常与 Cradle 组合支撑 Micro/Nano 干爽宣称。**STM-00033 Retention**——推荐用于早产儿滞留能力，是总吸收容量的「金标准」，适用整片产品。
+   • 回渗实测（TTM-00623，Huggies 早产儿，新参数）：Nano Preemie 低压 0.03 g / 高压 0.05 g；Micro Preemie 0.03 / 0.06 g；Preemie 0.04 / **0.99 g**——**Preemie 档高压回渗跳升约 25 倍**，是全表最刺眼的异常点，提示该尺码在高压段存在容量瓶颈。Surface Moisture 未检到北美早产儿专项实测值。
+
+--- [[芯包材料对比（LSN MPM vs PSN MPM）]]  (2 句)
+   • **LSN MPM（200 mm，Unikorn）**：上片，宽度最大——本批**唯二提前到货**的物料，供应稳定性最好；但**本轮的基重/STT/返渗未测**，只有含水率与爬坡。
+- **PSN MPM（150 mm，Unikorn）**：下片，宽度较小（135 Pad 组用 155 mm）——同样已到货，爬坡（37.65 mm）低于 LSN。
+- **LSN 水刺（Wangjin，含三叶形莱赛尔）**：上片的**水刺替代**——爬坡能力显著更强（170.6 mm），但返渗也更高（0.896 g），属"导流强、回渗弱的取舍项"，且 9/20 到货（晚于 MPM）。
+   • 上下两片 MPM 均为 **Unikorn、20 gsm**，差异只在宽度与位置；两者是本批**供应链最稳**的物料（唯二提前到货）。真正的隐忧有两个：**① 试产 20 gsm 高于验收规格 15–18 gsm，原文要求确认适用性；② 本轮只复测含水率与爬坡，基重/STT/返渗缺测**——所以"MPM 够不够格"这个问题，**目前既没有结论、也没有完整数据**。水刺 LSN 是一个方向明确（导流强）但代价明确（返渗高）的替代项。
+
+--- [[Hygiene Absorption Model]]  (2 句)
+   • **6. 干燥耦合（drying coupling）：** 结合水（bound moisture）决定平衡含水率，从而决定纤维素绒毛浆与 SAP 可达干度的**下限**；热风对流是纸浆/纸巾/无纺布穿透干燥的默认方式（源：Industrial Drying Ch1 Principles and Classification）。
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Fibers and Fibrous Materials]]  (2 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Handbook of Industrial Drying]]  (2 句)
+   • 1. **机械脱水优先**：蒸发 1kg 水需 2260kJ，机械脱水仅 1-70kJ/kg——能压掉的水不要去蒸发
+2. **结合水/自由水二分**：残湿下限受物料湿分结合态决定，不是想设多低就多低
+3. **恒速-降速段与临界含水率**：选型、放大与缺陷诊断都绕不开'谁在控速'
+4. **干燥改变材料结构**：角质化/结壳——高温/过干不可逆改变柔软度、溶胀度、强度
+5. **中试放大必须**：任何凭文献值定干燥器的行为都是最高风险动作
+6. **能耗与成本最终裁决**：一切选型在 kJ/kg 水与 $/t 干品上同台竞技
+   • **控制角质化**：flash-dryer 下限含水率以下过热→热交联、难解纤；打浆/解纤能耗（kWh/BDt）与 CSF 作为隐藏角质化 KPI
+- **设定热窗**：非粘合蓬松木浆控温 <150°C 保溶胀性；>150°C 才用于湿法/粘合芯体
+- **SAP 终段温度**：须低于（水塑化）Tg 以防过交联杀溶胀
+
+--- [[Industrial Drying Ch17 Conveyor Dryers]]  (2 句)
+   • **Hygiene implication:** Cross-bed moisture uniformity is set at the feeder. For a nonwoven through-air oven this predicts exactly the streaks/shading defects in webs.
+   • **Safety lever:** Latent heat sink protects heat-sensitive web until bound moisture is gone. Past that, surface temperature climbs — degradation/casehardening window opens.
+
+--- [[Industrial Drying Ch46 Energy Aspects]]  (2 句)
+   • where $E_{ev}$ = energy for moisture evaporation at feed temperature, $E_t$ = total energy supplied
+   • Finish at **max acceptable moisture** (not over-dry)
+- Microcomputer control cuts **6.5–20%** energy (p.1090–1092)
+- Process intensification: raising textile-dryer T from 140→180°C cuts **25%** (p.1076)
+
+--- [[Industrial Drying Ch50 Solid-Liquid Separation]]  (2 句)
+   • **Flocculation/conditioning** (polyelectrolytes, pH, temperature) to enlarge particles is the **cheapest way** to lower residual cake moisture before the dryer.
+   • **Key insight:** Expression pressures of 0.6–2.5 MPa and the membrane filter-press (two-step: filter then consolidate) are the mechanical dewatering tools that get cake moisture below what filtration alone achieves — **the last, cheapest water before the dryer**.
+

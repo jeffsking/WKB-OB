@@ -1,0 +1,47 @@
+{
+ "batch_id": "W18-4",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_70a9f120e762255540b34d03905d4c2b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/KC CapabilityDays2025 深度拆解/KC_CapabilityDays2025_引用索引.csv.md",
+   "name": "KC_CapabilityDays2025_引用索引.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_18d8121b0cb5f57a8dc7f45332a7c98f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/OD/Huggies Diaper Introduction--20260617.pdf.md",
+   "name": "Huggies Diaper Introduction--20260617.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_9380b4ef716791cf5b3bc1522498bb67001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/纸尿裤材料必读书单_v3_非传统资源.xlsx.md",
+   "name": "纸尿裤材料必读书单_v3_非传统资源.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e7a99622424a16aa56516b1091f6ca58001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/KC CapabilityDays2025 深度拆解/KC_CapabilityDays2025_全局合成报告.md.md",
+   "name": "KC_CapabilityDays2025_全局合成报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_0c17b518fe75f665111540341a4c0e78001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_10 BM Leakage design principles.pptx.md",
+   "name": "_10 BM Leakage design principles.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_f56ba4392a0164e423f6316879590cc7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/old BM Test Method Summary.pptx.md",
+   "name": "old BM Test Method Summary.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d34ad9e96253a962c5ed4d5ddf910b67001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Personal Care - Patent Clearance Assessment (PCA) Training.pptx.md",
+   "name": "Personal Care - Patent Clearance Assessment (PCA) Training.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

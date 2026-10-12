@@ -1,0 +1,148 @@
+# SEED: 自由体积 Free Volume
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)
+#
+# 全库正文命中 305 页，489 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[孔隙率 Porosity]]  (7 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **4. 低孔隙率介质的传热机制（BNC）：** ≈90% 孔隙率 → 捕获静止空气（k_air ≈ 0.026）→ 有效导热极低；纳米孔 ≈20–200 nm 接近空气平均自由程（≈68 nm）→ **Knudsen 效应抑制气相导热**；点接触纤维网络 → 最小固相导热路径 + 声子边界散射（源：BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）；PCM-Free Thermoregulation）。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+
+--- [[Specific Air Volume]]  (5 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • **Terminology — is "specific air volume" identical to the vault's "void volume"?** The two are used on a per-mass (cm³/g) basis in adjacent pages, but no source read here states they are the same quantity; keep them distinct until a source defines the equivalence（相关页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、REL增强层）.
+- No source read here gives an absolute measured **V_s value (cm³/g)** for a KC core or a named commercial nonwoven .
+- The packing-fraction range 0.025–0.10 is quoted for webs 
+
+--- [[底膜 Backsheet]]  (5 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。本库引用来源对"底膜 / 背层 backsheet"给出的是**功能性口径**，而非词典式定义。
+- 功能性口径（有来源支撑）：底膜是卫材结构中的**最外层阻隔—透气件**，其阻隔与透气由**层压（lamination）工艺**设计实现 —— "lamination engineers barrier/permeability for backsheets"（源：Nonwoven fabric finishing）；库内把 topsheet / ADL / core / **backsheet** / rewet 并列为卫材主线层级（源：Handbook of Nonwovens）。
+- **两条技术路线**：① 「微孔透气膜 + 纺粘」复合膜背层（film laminate）；② **无膜背层**（以高阻隔熔喷复合无纺布替代，如 30 gsm SMMMS）（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • **抗回渗与阻隔是第一功能**：底膜须在 free liquid / 污染 / 坐压峰值交汇处保持阻隔；工程解是**分区（约 62 % 去膜 + 裆部留膜 + 腿围同级熔喷）**而非整体替换（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **光学兼容性**：某些尿湿指示路线**要求背层透光（light-transmissive backsheet）**，与不透光高遮盖白色背层不兼容 —— 背层选型必须与指示方案联动评估（源：Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）、Wetness Indicator Glue）。
+- **单一材质回收**：PP-only 背层去掉阻塞机身机械回收的 **PE/PP 分相**，被原文称为"战略收益，比那 0.4 分钱更值"（源：Film-Free Backsheet（无膜背层））。
+- **气味是未计价风险**：52 L/m²·s 的高透气让氨气自由逸出，无模型可预测消费者反应，须尽早做气味评审（源：
+   • **SMMMS 的实测（非模拟）静水压与单束成形 CV**仍缺 （源：SMS复合结构）。
+- 真实尿裤中**稀便胆汁盐 / 湿巾液向背层的输运实验**未做；它决定裆部去膜与否（源：Film-Free Backsheet（无膜背层））。
+- **WS/MS 各层克重配比与阻隔性能的定量关系**库内暂无来源 （源：SMS复合结构）。
+- **"底膜"形式化定义**（引用来源未给出明确定义）。
+
+--- [[Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）]]  (5 句)
+   • 本库关于 **PET 纤维/无纺布中锑（Antimony, Sb；会上以「T」代称）** 合规路线的一次内部策略对齐会录音转写：确认「测什么（可迁移 vs 消解 vs 燃烧）、按哪个标准测、目标多少 ppm、用什么仪器、找谁测」，是无锑化（Sb-free）项目的方法论起点。
+   • 会议围绕「无锑（Sb-free）PET 纤维到底怎么定义、怎么测、目标定多少」展开，形成四条主线。
+   • 其一，**三个测试口径的辨析**是最核心的方法论：①**可迁移/溶出法**（醇或弱酸、酸性汗液 GB/T 17593 类、玩具行业模拟胃酸）把 PET 中能迁出的部分标定出来，数值极低（<1 ppm，甚至 <0.1 ppm）；②**消解法**（微波消解 + 硝酸/硫酸/王水强酸）把纤维里绝大部分锑溶出，**接近总含量**，是行业「Sb-free」的现行口径；③**燃烧法（photo/烧却）**为最高 level，法规中少见。会议明确「供应商报的极低数值多半是第一种口径，**不是我们的目标**；我们的方向是消解法」。
+   • **「测可迁移」与「测消解总含量」是两条不可混用的数值口径，供应商历史报告多为前者** —— 支撑页：锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+- **≤10 ppm（消解法）是中国行业现行的无锑门槛，≤1 ppm 是下一阶段** —— 支撑页：Antimony-Free PET Fibre（无锑 PET 纤维）
+- **检出限决定仪器：10 ppm → ICP-OES 够用；1 ppm 及以下 → 必须 ICP-MS** —— 支撑页：锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+- **切换管理（共线/混型）是达标的最大风险源，专线专供是兜底方案** —— 支撑页：Antimony-Free PET Fibre（无锑 PET 纤维）
+- **EU/US 与中国口径不同（消解总数 vs 可迁移数），出口与内销须分别定义** —— 支撑页：锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (5 句)
+   • The problem is framed as "**the microcapsule tax**": phase-change microcapsules solve a heat spike and then charge for it four times over — every gram is paid for in **mass** (+gsm, +cost per unit, every cycle), **risk** (shell fragility → rupture and lot variance; broken capsules contaminate SAP and widen process control limits), **liquid leakage** (free PCM raises skin risk and worsens rewet/odour) and **complexity** (a specialty encapsulation tier is added to the supply chain with inventory a
+   • BNC's thermal behaviour is presented as a direct consequence of its nanofiber geometry: ≈85–95% porosity trapping still air (k_air ≈ 0.026 W/m·K); nano-pores ≈20–200 nm sitting near the air mean free path (≈68 nm) producing Knudsen suppression of gas-phase conduction; a point-contact fibril network (τ ≈ 1.5–3) minimising solid conduction paths plus phonon boundary scattering; a hydroxyl-rich surface whose bound water adds sensible-heat thermal mass; and a nanofiber mat that scatters IR radiation
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further, builds on REL work.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+*Net result: PCM-free parity is ac
+   • **Four functions, three of them structural** — microcapsules address only the fourth —— 支撑页：PCM-Free Thermoregulation
+- **Insulation at aerogel level is a geometry effect** (porosity + Knudsen + point contact) —— 支撑页：细菌纳米纤维素
+- **For multi-hour wear, PCM is redundant; for transients it is marginal** —— 支撑页：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- **The compensation levers are the same structures the REL/capillary work already develops** —— 支撑页：毛细梯度设计、REL增强层、分区密度设计
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (5 句)
+   • 一份**内部换算逻辑拆解**，把 TTM-00038 Compression Test for Absorbent（吸收体压缩测试） 输出的「厚度-压力」曲线，翻译成建模与工程两端各自需要的**孔隙体积（Void Volume, VV）**；并给出 REL 层的 VV 目标区间与四条提升路径。
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[相变材料 Phase Change Material]]  (4 句)
+   • 形式化定义待补（引用来源未给出明确定义）。本页其余结论均来自卫材场景下对 PCM 微胶囊路线的评审（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。
+   • **微胶囊蓄热—释热（thermo-regulatory）**：PCM 微胶囊在较高温度蓄热、较低温度释热，从而提供调温性能（源：Intelligent Textiles and Sports Clothing）。
+- **"microcapsule tax"（微胶囊代价）**：相变微胶囊解决瞬时热峰，但要付出四重代价 ——
+  1. **Mass 质量**：每一克都要以 +gsm、+单位成本、每个循环计入；
+  2. **Risk 风险**：壳层脆性 → 破裂与批次波动，破裂胶囊污染 SAP 并放宽过程控制限；
+  3. **Liquid leakage 液体泄漏**：游离 PCM 提高皮肤风险，并恶化回渗 / 气味；
+  4. **Complexity 复杂度**：供应链新增专用封装层级。
+  （源：PCM-Free Thermoregulation with BNC Nanofiber Network）
+   • PCM knits 的微胶囊蓄放热机制为卫材提供可移植的调温思路（源：Intelligent Textiles and Sports Clothing）。
+- 在吸收性卫生用品中，微胶囊 PCM 是既有的热舒适路线，而 **PCM-free** 的工程化细菌纳米纤维素（BNC）纳米纤维网络是其「成本—机理」对照路线（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。参见 PCM-Free Thermoregulation、BNC-Only vs BNC+PCM (Thermoregulation Ledger)、Diaper Microclimate。
+- 相关材料与概念页：Stimuli-Responsive PCM、纳米纤维素（CNC、CNF、BNC）、智能织物 Smart Textile。
+   • Smart Textiles & Wearables
+- Smart Textiles Review
+- Smart Textiles and Sportswear
+- Intelligent Textiles and Sports Clothing
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+
+--- [[August R&D Meeting 2026（华峰研发会议）]]  (4 句)
+   • Huafon's own August-2026 R&D meeting deck (converted slide PDF): **group profile → hygiene-product overview → spandex production process**. It is the batch-05 source that carries the **nanofibre waterproof-breathable membrane comparison table**, the **bio-based and solvent-free spandex routes**, and Huafon's **DMAC residue test record**.
+（华峰 2026 年 8 月研发会议材料（PPT 转写）：集团概况 → 卫品产品概览 → 氨纶丝生产工艺。本批中**纳米纤维防水透湿膜对照表**、**生物基与无溶剂氨纶路线**及**DMAC 残留检测记录**均出自此处。）
+   • **Capacity figure conflict 产能口径冲突**：本材料记 Huafon Chemical 氨纶 **47 万吨/年（全球第一）**，而同批 Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28） 记**72.5 万吨/年（全球第二）**，与华峰集团会晤纪要（2026-07-29） 记瑞安基地 47 万吨/年。**口径（集团/上市公司/单基地）不明，本页不裁决**。
+- **Nanofibre WBM test conditions unknown 测试条件未知**：对照表给出静水压、透气性、克重、厚度与 WVTR 五组数字，但**未给测试方法与条件**，跨材料比较存在口径风险（见 WVTR 测试口径（失重法 vs 增重法））。
+- **Bio-based spandex recovery gap 生物基氨纶的回复率缺口**：原文只写 "may not consistently match conventional spandex"，*
+   • **Electrospun PU nanofibre membrane is a different material class, not a better film** —— 4 gsm / 8 µm / 8,000 mmH₂O 与 PE 拉伸膜不在同一量纲 —— 支撑页：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+- **Two independent decarbonisation paths exist but trade off against elasticity** —— DMAC-free（无溶剂）与 bio-based（>70% 生物基）各有一个弹性缺口（热粘合窗口 / 回复率） —— 支撑页：无溶剂氨纶（Solvent-free Spandex）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- **Fine denier is the tactile-softness lever for waistbands** —— 120–320 dtex 已验证 —— 支撑页：氨纶干法纺丝（Spand
+   • Entities 实体：华峰集团（Huafon Group）、The LYCRA Company（莱卡）
+- Concepts 概念：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）、无溶剂氨纶（Solvent-free Spandex）、氨纶干法纺丝（Spandex Dry Spinning）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- Comparisons 对比：华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+- Same-block sources 同批来源：与华峰集团会晤纪要（2026-07-29）、Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）
+
+--- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]  (4 句)
+   • **"用细菌纳米纤维素（BNC）纳米纤维网络本身做热管理层，不用相变微胶囊"的技术评审（英文）**。本库价值：它是 PCM-Free Thermoregulation 概念页的**主论证源**——把"温控"从一招拆成**四个可分离的物理功能**，并据此论证**微胶囊对多小时微气候舒适是冗余的**。
+   • 1. **Z 向孔隙率梯度**（致密贴肤侧 / 蓬松芯侧）——进一步减缓皮肤侧 dT/dt（承接既有 REL 工作）；
+2. **贴肤区提高 BNC 克重**——在关键处增加感热热质量；
+3. **结合水管理（保湿剂调节）**——把缓冲窗口延伸到排尿事件之后；
+4. **透气背层 + ADL 协同**——用蒸发消散抵消急性尖峰；
+5. **REL 增强层**——在不增 gsm 的前提下提供机械鲁棒性。
+> 净结论：**PCM-free 的对等性可在现有纤维素材料集内实现，无需新化学**；五条结构杠杆与三条残余差距一一对应。
+   • **温控 = 四个可分离物理功能，其中 3 of 4 是结构性的 → 微胶囊对稳态舒适冗余** —— 支撑页：PCM-Free Thermoregulation
+- **多小时舒适是稳态问题；尖峰吸收只在排尿后最初 ~60 s 有意义** —— 支撑页：Diaper Microclimate
+- **微胶囊税四条账单：克重/成本、壳层脆弱、PCM 泄漏、多供应商链** —— 支撑页：Microencapsulation、Thermochromic Microcapsule (Leuco Dye System)
+- **Knudsen 效应是 BNC 低导热的物理根因：纳米孔 ≈20–200 nm ≈ 空气平均自由程 ≈68 nm** —— 支撑页：细菌纳米纤维素
+- **PCM 加固体壳质量反而略微恶化隔热（0.035 → 0.045–0.060 W/m·K）** —— 支撑页：PCM-Free Thermoregulation
+- **三条残余差距是有界的（超窗口后 PCM 同样无贡献）——PCM-free 是默认路径而非万能答案** —— 支撑页：Diaper Microclima
+   • 概念：PCM-Free Thermoregulation、细菌纳米纤维素、纳米纤维素（CNC、CNF、BNC）、Diaper Microclimate、Microencapsulation、REL增强层、Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）、Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- 对比：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)]]  (4 句)
+   • **D(C) 问题的具体计算结果——SAP D(C) 建模核心参考**——稳态浓度分布解析形式 F(C) 给出水分布形态判据；非稳态等效扩散系数曲线（指数上升型）对应高分子溶胀自由体积增加，是 SAP 吸液非线性行为的定量描述。
+   • **稳态解**：D₀∫{1+f(C)}dC = Ax+B——D 随浓度增加则分布凸向浓度轴，减小则凹向。
+- **非稳态等效 D**：D/D₀ = 1+10(1-e^(-2.303c))——SAP D(C) 常呈指数上升型。
+- **物理图像**：高分子溶胀→自由体积增加→D(C) 指数上升。
+- **参考图表**：可直接查阅的图表是 SAP D(C) 建模的核心参考。
+   • **SAP D(C) 呈指数上升型**——对应高分子溶胀自由体积增加的物理图像。
+- **稳态分布凸/凹向是 D(C) 形态判据**——D↑→凸向，D↓→凹向，可直接从实验数据反推 D(C) 行为。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Boltzmann 变换
+- 自由体积 Free Volume
+

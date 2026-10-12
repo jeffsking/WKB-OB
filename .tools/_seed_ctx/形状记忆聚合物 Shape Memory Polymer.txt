@@ -1,0 +1,78 @@
+# SEED: 形状记忆聚合物 Shape Memory Polymer
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Smart Textiles & Wearables
+#   - Smart Textiles Review
+#   - Smart Textiles and Sportswear
+#
+# 全库正文命中 293 页，638 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization]]  (10 句)
+   • Chapter 7 is the mechanistic foundation of **chain-reaction polymerization**: it covers **cationic**, **anionic** and **complex coordinative（Ziegler-Natta）** mechanisms under the common skeleton of **initiation–propagation–termination**, deriving pathway selection from monomer electronic effects (electron-releasing → cationic; electron-withdrawing → anionic). 本章对卫材的直接价值在于 **§7.4 — Ziegler-Natta 配位聚合是现代等规 PP 工业的全部理论基础**：等规度、氢气控分子量、叔碳原子导致的抗氧化弱点，都在这里定义。
+   • **动力学**：*"the rate of polymerization is proportional to the square of the monomer concentration and to the first power of initiator."*
+- **丁基橡胶 / Butyl rubber (IIR)**：*"Butyl rubber (IIR), widely used for inner tubes and as a sealant, is produced by the cationic low-temperature copolymerization of isobutylene in the presence of a small amount of isoprene (10%)... Thus, the random copolymer chain contains a low concentration of widely isolated double bonds which assume a low cross-linked density.
+   • **单体活性顺序**：*"acrylonitrile ≫ methyl methacrylate ≫ styrene ≫ butadiene"*
+- **Living polymer 活性聚合物**：*"Szwarc has used the term 'living polymers' to describe these active species."*；*"No formal termination step was shown in the previous equations, since in the absence of contaminants the product is a stable macroanion."*
+- **Kraton**：*"Kraton is an ABA block copolymer of styrene (A) and butadiene (B)."* — SBS 三嵌段热塑性弹性体的代表。
+- **Group transfer polymerization**：*"Group transfer polymerizations make 
+   • **Living polymer 五特征 / Five characteristics**：
+
+--- [[Smart Polymers Ch13 Affinity Precipitation of Proteins]]  (9 句)
+   • This chapter is the **bioseparation application** of the smart-polymer toolkit: the soluble–insoluble switch of a stimuli-responsive polymer replaces a chromatography column. It is the most practically oriented chapter of the batch for anyone who must choose a trigger (temperature vs pH vs ionic strength) and a phase behaviour (loose gel vs compact particle).
+   • **Homobifunctional vs heterobifunctional mode** (L138–230): in the homobifunctional mode a bis-ligand cross-links a protein bearing ≥2 binding sites into an insoluble aggregate (e.g. immunoprecipitation), limited to multi-site proteins and not using smart polymers. The **heterobifunctional** mode covalently couples the ligand to a soluble–insoluble polymer to form a macroligand — general in scope, and "the smart polymers are critical for the development of affinity precipitation of protein in a 
+   • **Design checklist for the polymer** (L322–336): reactive groups for ligand coupling; no strong nonspecific interaction with ligand or impurities; complete phase separation; compact precipitates that do not trap impurities; repeatedly re-solubilizable with good recovery; cheap and available.
+   • Selection rule given by the authors: "Precipitation of non-charged thermosensitive polymers shows very low nonspecific coprecipitation of proteins compared with pH-sensitive polymers, where ionic interactions can contribute to the unwanted protein–polymer interactions" (L841–843). 中文：温敏不带电聚合物优先于带电 pH 响应聚合物，因为非特异性共沉淀低。
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (8 句)
+   • Definition (p.318): "A polyamide manufactured from aliphatic monomer(s) is commonly designated as nylon." 尼龙即由脂肪族单体制得的聚酰胺（amide link –NH–CO–）。 The chapter follows the two protagonists along a complete chain — **polymerization → degradation → spinning → structure → application**:
+   • **Nylon 6** via ring-opening polymerization of **caprolactam (CL 己内酰胺)**, an AB-type monomer.
+- **Nylon 66** via polycondensation of **hexamethylene diamine (HMDA 己二胺)** with **adipic acid 己二酸** through the intermediate **AH salt 尼龙66盐**.
+   • 1. **Ring-opening needs a starter** (p.320): "Caprolactam (CL) does not polymerize in a completely dry condition. It requires a catalyst which converts a small amount of CL to aminocaproic acid (ACA)." CL + H₂O → ACA. Water catalysis is industrially dominant because it is controllable; alkali catalysis gives higher rate and higher molecular weight but is hard to control. Typical water-catalysed conditions quoted in the source: temperature **225–280 °C**, water concentration **5–10%**. The contin
+   • Four degradation classes: **thermal 热**, **thermo-oxidative 热氧**, **mechano-chemical 机械化学** and **hydrolytic 水解**, tracked by volatile products (**CO₂, NH₃, HCHO**) and gelation. Depolymerization back to monomer is cited as industrial-scale evidence for hydrolytic routes. Additives covered: mass colouration and **copper-salt heat stabilisers**.
+
+--- [[Seymour Polymer Chemistry Ch09 Copolymerization]]  (8 句)
+   • Chapter 9 elevates copolymerization（共聚）from "mixing two homopolymers" to **controlled sequence design（可控序列设计）**: sequence classification → reactivity-ratio kinetics → Q–e semi-quantitative prediction → commercial copolymers → thermoplastic elastomer (TPE) molecular design. 对卫材的意义有两条主线：**SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂）**，其组成由竞聚率而非投料比决定；**弹性腰围/防漏侧边用的弹性纤维与 TPE** 直接落在本章 §9.4。
+   • **共聚物组成方程 Copolymer composition equation**：
+   • **Composition drift 组成漂移**：*"the composition of the copolymer (n) may be different from that of the reactant mixture or feed (x)."* (line 64) — 两种单体消耗速率不同，进料组成随转化率变化，共聚物组成随之漂移，这是工业上必须做**单体补加（semi-batch feed）**的原因。
+   • **Azeotropic copolymer 共沸共聚物**：*"When x equals n, the product is said to be an azeotropic copolymer."* (line 69)
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (8 句)
+   • Chapter 1 is the foundation chapter of the book: it defines what a smart polymer **is** in thermodynamic terms, explains *why* such systems are useful (critical-point susceptibility 临界点敏感性), and establishes static + dynamic light scattering (SLS/DLS 静态与动态光散射) as the metrology that quantifies those transitions. No device or application is built here — the application domains are only enumerated up front (L98–126): bioseparation, immunoanalysis, immobilized enzymes, drug delivery/targeting, biodet
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • **2. Body-temperature transition window.** "The most applicable stimuli-responsive polymers have their 'smartness,' or working phase transition, at temperatures close to the human body temperature (∼37 °C) where biomacromolecules … can function" (L137–139). 中文：最有用的相变温度落在体温附近。
+   • **5. Flat-top LCST curves are a practical gift.** For PNIPA and PVCL, the coexistence-curve top is flat: (i) the phase-separation temperature does not change over a wide polymer-concentration range; (ii) all phase-separation temperatures equal the LCST; (iii) spinodal and binodal cannot be experimentally distinguished (L2052–2063). This makes the trigger robust against local concentration variation.
+
+--- [[Ebewole Polymer Science Ch02 Polymerization Mechanisms]]  (7 句)
+   • Chapter 2 is the **mechanism hub 机理枢纽** of the book. It replaces classification by *product structure* with classification by *polymerisation mechanism*, and then dissects chain-reaction polymerisation into four elementary steps.
+   • The source states the rationale explicitly: the Carothers condensation/addition dichotomy is judged incomplete because some addition polymers also eliminate small molecules, hence **mechanism-based 机理优先** classification is adopted as "the most general".
+   • Two modes: **combination (coupling) 偶合终止** — "two growing polymer chains react with the mutual destruction of growth activity" and "Coupling reactions produce a single polymer" (Ch.2, p.29); **disproportionation 歧化终止** — "a labile atom (usually hydrogen) is transferred from one polymer radical to another", producing "two polymers from the two reacting polymer chain radicals" (Ch.2, p.29).
+   • Transfer targets 转移对象: monomer / polymer / solvent / initiator / impurity. If the new radical A· is unreactive toward monomer, "the entire reaction could be inhibited" (Ch.2, p.29) — 即链转移剂与阻聚剂的界限取决于新自由基活性。
+
+--- [[Ebewole Polymer Science Ch04 Thermal Transitions in Polymers]]  (7 句)
+   • Chapter 4 is the **thermal–structure–property bridge 热-结构-性能桥梁**: it takes the glass transition temperature **Tg** and the crystalline melting point **Tm** as its two axes and explains why polymer thermal behaviour differs fundamentally from that of simple small molecules.
+   • 本章直接决定 polymer 材料的**选材、加工与应用温度窗口**；对卫材热轧/热风粘合与热熔胶配方尤为关键。
+   • Three-state model for an amorphous polymer: **hard glassy solid → soft rubbery material → viscous liquid 硬玻璃态 → 软橡胶态 → 粘性液体**. For a semicrystalline polymer, between Tg and Tm the material "is composed of rigid crystals and a rubbery amorphous phase" — 半结晶聚合物在 Tg 与 Tm 之间是"刚性晶粒 + 橡胶态无定形相"的复合体。
+   • Other factors enumerated: **branching 支化**, **crystallinity 结晶度**, **plasticization 塑化**, plus external factors (pressure, test rate 压力与测试速率) and **copolymerization 共聚** as an industrial Tg-tuning tool (Ch.8).
+
+--- [[Seymour Polymer Chemistry Ch15 Reactions of Polymers]]  (7 句)
+   • Chapter 15 treats the **polymer chain itself as a chemical substrate** — everything that happens to a polymer *after* it is made. The chapter spans five reaction families: **pendant-group reactions**, **main-chain degradation**, **crosslinking**, **internal cyclization**, and **end-group reactions**, then closes with macromolecular (enzyme) catalysis and the mechanisms by which polymers absorb energy and fail.
+   • **叔氢活性 / tertiary-H reactivity**：*"Since a tertiary hydrogen atom is more readily replaced than a secondary hydrogen, polypropylene is more readily chlorinated than HDPE."* — 这与 Ch.07 中"PP 因叔碳原子而抗氧化性弱于 HDPE"是同一个结构根源（同一弱点，既是易氯化之利，也是易氧化之弊）。
+- **交联 / crosslinking**：*"Polyolefins may be crosslinked by heating with peroxides such as di-tert-butyl peroxide or by irradiation. It is advantageous to crosslink these polymers after they have been fabricated, as in wire coatings. The crosslinked products ar
+   • **PVAc → PVA 水解**：*"Esters such as poly(vinyl acetate) (PVAc) may be hydrolyzed to produce alcohols such as poly(vinyl alcohol) (PVA), which should have the same DP as the ester."*
+- 乙烯醇单体本身不可分离：*"While the enol tautomer of acetaldehyde (vinyl alcohol) cannot be isolated, its water-soluble polymer can be obtained by the hydrolysis of any poly(vinyl carboxylic acid ester)."*
+- 水溶性可控：*"The solubility of the product in water is dependent on the extent of hydrolysis."* — 即 PVA 的水溶性由醇解度（水解程度）调节，这是 PV
+   • **Macromer 大分子单体**：*"Polymers containing one reactive end group are often referred to as macromolecular monomers or macromers."* / *"Macromers are 'short' polymers that contain an active end group. This end group can be a site of unsaturation, heterocycle, or other group that can further react."*
+- **Telechelic polymer 双官能端聚合物**：*"Polymers that contain two active end groups are referred to as telechelic polymers."* — 结构示意：
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (7 句)
+   • This is a **theory chapter** (理论展望章), deliberately analytical rather than experimental. It models what happens when the smart polymers of Chapter 1 are confined by **one-end grafting** to an impermeable surface, and identifies which molecular knobs (N, s, α, χ(T), salt, solvent composition, surfactant) set the thickness and responsiveness of the resulting layer. Chapter authors state the scope plainly: external physical fields (temperature, electrical voltage, light) or chemical fields (pH, sali
+   • **1. Brushes beat adsorbed layers.** Covalent end-grafting combines pronounced responsive behaviour with high coating stability; among fabrication routes, "grafting from" (surface-initiated controlled radical polymerization) avoids the steric hindrance of "grafting to" and enables position-defined monomer incorporation (L113–144). "An inherent feature of a polymer brush with high surface coverage is strong intermolecular interaction that governs chain conformation and ensures stimuli-responsive 
+   • **2. Only two practical response mechanisms survive.** "A responsive polymer brush should therefore exhibit either thermosensitive or ionic pH-sensitive features" (L152–155). 中文：响应性收敛为热敏与离子型pH敏感两条主线。
+   • Key scaling statement: "chains in a planar brush are extended proportionally to their contour length, H ∼ N, and therefore the average monomer concentration inside the brush c ≅ N/Hs is independent of the degree of polymerization N" (L300–302). 中文：刷层浓度不随链长变化——这是区别于稀溶液线团的根本特征。
+
+--- [[Smart Polymers Ch10 Boronate Copolymers and Gels]]  (7 句)
+   • This chapter introduces a **recognition-driven** smart mechanism that differs sharply from the pure solvent-quality physics of earlier chapters: reversible covalent complex formation between boronate and *cis*-diols (特异性分子识别 + 可逆共价络合). It covers the chemistry of phenylboronic acid (PBA) ionization, the multivalent advantage of polymeric presentation, glucose-selective bidentate chelation, nonenzymatic sugar sensing transduction modes, and biological interfaces (red blood cells, leukocytes, endot
+   • **2.Polymer presentation creates avidity.** "An inherent property of the reactive polymers is their multipoint (or multivalent) interaction with biological counterparts, which results in much stronger specific binding compared with low-molecular-weight reagents with the same functional groups" (L122–125). Multivalent binding to available diols can become effectively irreversible — e.g. BCC binding to an agarose gel (L1088–1090).
+   • **3. BCCs are acid–base dual-form polyelectrolytes.** "The BCCs are polyelectrolytes, the pendant groups of phenylboronic acid (PBA) being present in both an uncharged trigonal form and a charged boronate form … in a wide range of pH" (L151–153); for NAAPBA copolymers this equilibrium spans pH 6.5–10 (L153–154).
+   • **5. Glucose fits bidentate chelation; galactose/mannose do not.** "Allowing for bidentate chelation of glucose by the pendant boronate groups" (L518–520) explains both the high sensitivity of soluble copolymers (measurable phase-transition temperature T_P down to 5.6 µM glucose, L517–520) and glucose-specific *cross-linking* shrinkage of gels, whereas mannose, galactose and fructose cause swelling (L658–659). "Other hexoses, such as D-galactose or D-mannose, do not form bidentate complexes with
+

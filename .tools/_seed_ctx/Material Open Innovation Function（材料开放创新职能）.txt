@@ -1,0 +1,102 @@
+# SEED: Material Open Innovation Function（材料开放创新职能）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 519 页，921 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Intelligent Textiles and Sports Clothing]]  (7 句)
+   • *Kristina Savić, Olga Stojanović, Marija Savić Pojužina & Jelica Simeunović (Academy of Technical and Art Applied Studies Belgrade; KTR Jee seetex, Belgrade) — Tekstilna Industrija, Vol. 70, No. 3, 2022. DOI 10.5937/tekstind2203044S. UDC 677:687:796.02-037. Open access CC BY 4.0.*
+   • **First generation**: synthesised fibres (polyamide) — historic cost multiple over cotton and wool, offset by tunable performance.
+- **Second generation**: modified conventional synthetic fibres with greatly increased performance — aramid, carbon, glass, ceramic. Tradenames named: Nomex, Kevlar, Twaron, Technora (aromatic polyamides); Spectra and Dyneema (high-performance polyamides/polyethylene); Vectran (aromatic polyester); Teflon (PTFE), Dacron and Mylar (polyester).
+- **Third generation**: 
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **PCM (Phase Change Materials) knits**: microcapsules accumulate and retain heat at higher temperature and subsequently release it at lower temperature, giving thermo-regulatory performance.
+- **Shape memory polymer (SMP)**: characterised by a large reversible elasticity change at the glass transition temperature. The flagship example is **Diaplex** (Japan), which maintains body temperature by redistributing its particles: at low temperature the particles arrange into a solid plate forming an in
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (7 句)
+   • The **market, competitor and supplier-landscape review** of the Mechanochromic block — it overturns the "buy a commercial pressure material" assumption, maps four technology routes (M1–M4), screens four material candidates, and lands on the sourcing verdict **"build, not buy"** (custom threshold + custom printing process).
+   • The review starts by overturning a Day-1 assumption: the plan was to adopt an existing commercial pressure-activated material (CTI HPP ink, Fujifilm Prescale), but all commercial materials are irreversible metrology types with fixed thresholds at or above 40,000 psi. No skin-close, soft, low-threshold, reversible off-the-shelf spec exists — an innovation white space. The named trap is using **industrial metrology materials as consumer indicator materials**, a triple mismatch of threshold, revers
+   • Market framing: US$1.2 B (2024) → US$4.1 B (2033) at 14.6 % global CAGR; APAC leads at 17.2 %; polymers > 42 % of material forms; North America holds 38 % share but slows; zero diaper-specific SKUs. The review is explicit that a market tailwind is not technical accessibility — head IP sits in the US/EU (Merck, GIVIDI, Avient, Sun Chemical).
+   • Competitive landscape: mid-high concentration with four leaders locking high-value applications (Merck — polymer platform; GIVIDI — proprietary security pressure materials; Avient — elastomers/composites; Sun Chemical — printable mechanochromic inks) plus two printable-ink differentiators at the hygiene gate (CTI, LCR Hallcrest). The entry segment with no giant guarding it is **printable pressure-activated inks**.
+
+--- [[液晶 Liquid Crystal]]  (6 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Mechanochromic route.** A nematic liquid crystal (**5CB**) dispersed in a PDMS matrix (PDLC) is the material basis of a mechanochromic elastomer（源：Mechanochromic Elastomer from PDLC 5CB PDMS）。
+   • **Ion transport.** The bio-inspired discotic LCP proton channels (water-independent, Nafion-comparable, size-selective) are the materials foundation of the ion-transport thread — connected at concept level to the electrolyte/ion behaviour of wet SAP networks, though the vault states no direct SAP measurement （源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。
+   • **Adjacent chromic/optical material families** that share the LC chromic chemistry主线: Chromic Phenomena Solar Energy and Liquid Crystals is described as the base page for the library's LC / chromic-chemistry main line, and Mechanochromic Elastomer from PDLC 5CB PDMS is the pressure-responsive branch（源：Introduction to Liquid Crystals）。Note the antiferroelectric work is aimed at a **room-temperature** device — i.e. pushing the $S_{Calt}$ phase window down into ambient conditions — which is the sam
+
+--- [[热电现象 Thermoelectric]]  (6 句)
+   • In this vault, **thermoelectricity (TE)** is framed as a **thermal-management + energy-harvesting function**: the **"conversion of waste heat into electrical energy"**, positioned as a contribution to reducing dependence on fossil fuels and greenhouse-gas emissions（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）. The same source states that **"over the past 10–15 years, there have been significant advances in the scientific understanding as well as in the performance of thermoele
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+   • **Waste-heat → electricity.** The core rationale in the source is recovery of waste heat as electrical energy（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Figure of merit (ZT) governs performance.** The source's key claim is that **ZT ≈ 1 is a practical, not theoretical, ceiling** — i.e. performance gains beyond that are hard, not impossible in principle（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Material route named**: highly covalent semiconduc
+   • **Adjacent, not yet applied.** The vault's sourcing is textile / wearable-level and materials-level; **no thermoelectric function is evidenced on any hygiene-product page** .
+- TE sits in the "smart textile" conceptual neighbourhood used elsewhere in the vault for powered / functional hygiene concepts — its siblings include 刺激响应聚合物 Stimuli-Responsive Polymer、相变材料 Phase Change Material、导电纱线 Conductive Yarn、智能织物 Smart Textile（源：Smart Textiles & Wearables）.
+- Integration path named for flexible TE:
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (6 句)
+   • The function decomposition then shows that thermoregulation is **four separable physical functions**: insulation (resist conductive heat flow, high R-value), buffering (raise thermal mass so dT/dt is slow), dissipation (move heat out via evaporative and radiative pathways) and spike absorption (absorb a discrete thermal event at a setpoint via latent heat). For multi-hour wear, comfort is a **steady-state** problem — insulation + buffering + dissipation — and spike absorption only matters for th
+   • 1. **Transient spike absorption** — BNC-only lags PCM by ≈1–2 min in the first-window ΔT (model, indicative).
+2. **Setpoint precision** — no sharp isothermal hold at Tm; regulation is rate-based, not temperature-locked.
+3. **Above-window performance** — above the setpoint PCM contributes nothing extra either, so the gap is bounded, not open-ended.
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further, builds on REL work.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+*Net result: PCM-free parity is ac
+   • **RECOMMENDED · BNC-only (steady-state)** for multi-hour microclimate comfort. Gate: AUL/CRC ≥ current; rewet ≤ current; skin-model ΔT/dt ≤ target.
+- **NOT ALONE · BNC-only (acute spikes)** — needs structural compensation. Gate: gradient + evaporative DOE passes wear trial.
+- **FALLBACK · BNC + PCM hybrid** — only if gates fail. Gate: cost-acceptable at scale; otherwise iterate structure.
+- Validation roadmap: P1 material characterisation (k_eff, DSC bound water, SSA; k_eff ≤0.04) → P2 bench the
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (5 句)
+   • 1. **Classify by trigger, not by chemistry（按触发量分类，而非按化学分类）**：the same molecule can serve two classes. Spiropyran is photo-, thermo- **and** mechano-chromic depending on which input drives the ring-opening; the classifying question is *what physically arrives at the material*.
+2. **The working classes for hygiene（卫品可用的类别）**：
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • ✅ **验证记录（2026-09-29）**：温变样品与微胶囊路线为会中口径，**未见实测数据**；阈值数字（36.8 / −2.5 / −2.8）由 ASR 英文转写还原，语义存在歧义，标 。参见 Material Safety Control（材料安全双轨管控）、Skin Health Treatment on Nonwoven（无纺布护肤处理）。
+   • ✅ **验证记录（2026-09-29）**：以上为**会中设想与技术判断**，**无任何样品或实测**；"湿变不可行"为机理推断 [待验证]。参见 V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）、Geometric Optical Mask（几何光学掩膜）、TBCW结构。
+
+--- [[交联 CMC]]  (5 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • **No operational synthesis spec for "交联 CMC" as a standalone concept** was found beyond Ch.7's cross-linked-cellulose account .
+- No KC-specific cross-linked CMC grade, datasheet or in-core test data present in the read sources .
+- Whether the vault's "modified cellulose (CMC)" (16–21% retention) and the Ch.7 "cross-linked CMC" are the same material is **not stated** — treat as adjacent, not identical .
+
+--- [[变色油墨 Color-Changing Ink]]  (5 句)
+   • What the digest *does* evidence is the **classification frame**, not a definition: chromic materials are classified by **trigger quantity**（触发量）, not by chemistry family — the same molecule can fall into two or more classes (e.g. spiropyran may be photo-, thermo- or mechano-chromic depending on which physical quantity actually reaches the material)（源：Chromism Taxonomy（变色现象分类））。A parallel working description of the ink families appears on the vault's sibling page 变色油墨（thermal / mechano / hydro-ch
+   • **Three classification axes（三条分类轴）**（源：Chromism Taxonomy（变色现象分类））
+1. **Trigger quantity（触发量）** — classify by what physical quantity arrives at the material, not by chemistry family.
+2. **Reversibility（可逆性）** — reversible vs irreversible / one-shot；continuous monitoring needs a reversible route, a single alarm may use a semi-reversible or irreversible one。**"This is the axis that eliminates designs, not the chemistry family."**
+3. **Threshold（阈值）** — industrial metrology materials are engineered 
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+
+--- [[智能织物 Smart Textile]]  (5 句)
+   • **No settled definition of smart textiles exists.** Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**（源：Intelligent Textiles and Sports Clothing）。The working definition used by the smart-polymer literature is verbatim: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed 
+   • **Core architecture** is stated as **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output（源：Intelligent Textiles and Sports Clothing）。Two insertion points in the garment manufacturing chain matter: **cutting** (separating plies destined for printing of smart components) and **sewing** (adding electronic components)（源：Intelli
+   • **The integration thesis** is producing fibres with electronic function *without compromising strength, comfort and aesthetic appeal* — stated as the core challenge for seamless, invisible electronics（源：Smart Fabrics and Networked Clothing）。
+   • **Fibre-level function without losing handle** is the one idea with genuine pull — making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces（源：Smart Fabrics and Networked Clothing）。
+
+--- [[气铺 Airlaid]]  (5 句)
+   • Airlaid（air-laid / airlaying，气铺/气流成网）is the **dry-laid web-formation route based on aerodynamic web formation**（气流成网）. The dry-laid chapter progresses from carding physics through feed/weight control to cross-lapping and perpendicular laying, and **"culminates in airlaying (aerodynamic web formation)"** whose raw-material science is **wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends**（源：Dry-laid web formation）. In the hygiene handbook it is one of the forming processes ma
+   • The commercial product form is **airlaid paper（无尘纸）**, defined by the Chinese product standard as the material supplied as **jumbo rolls or sheets** for disposable hygiene products, used in **wipes, diaper acquisition/absorption layers and absorbent cores**, and split into **普通无尘纸 (cellulose-only)** and **合成无尘纸 (with SAP)**（源：GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸））.
+   • **Aerodynamic web formation**（气流成网）: the endpoint of the dry-laid route; input materials are wood pulp, man-made fibres, SAP and bicomponent blends（源：Dry-laid web formation）.
+- **Four-factor causal chain** for nonwoven absorbent structures: Constituent Fiber → Assembly Structure (Web Assemblage) → Type of Bonding → Finish — "Each of these factors can have an effect on the absorbency of the resulting structure"；采购评审须按序追问而非单一比价（源：Nonwovens in Absorbent Materials）.
+- **Binding–absorbency trade-off*
+   • **ADL / acquisition layer**: hydrophobic synthetics preserve wet bulk; pulp + SAP blends form the nappy acquisition layer（源：Dry-laid web formation）. The ADL density gradient — upper 1/3 low density（大孔隙、快速获取）, lower high density（细密毛细管、高压差）— is the chapter-3 capillary-pressure principle engineered into the product（源：Nonwovens in Absorbent Materials）.
+- **Composite-core build**: a typical composite-core stack is **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**（源：Complex Core Landscape in China（201
+

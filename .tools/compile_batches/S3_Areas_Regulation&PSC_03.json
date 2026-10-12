@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7916-1987 化妆品卫生标准.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7916-1987 化妆品卫生标准.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7916-1987 化妆品卫生标准.pdf.md",
+   "name": "GB 7916-1987 化妆品卫生标准.pdf.md",
+   "title_hint": "GB 7916-1987 化妆品卫生标准.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 15979-2024一次性使用卫生用品卫生要求.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 15979-2024一次性使用卫生用品卫生要求.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 15979-2024一次性使用卫生用品卫生要求.pdf.md",
+   "name": "GB 15979-2024一次性使用卫生用品卫生要求.pdf.md",
+   "title_hint": "GB 15979-2024一次性使用卫生用品卫生要求.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/录音纪要_260710100449.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/录音纪要_260710100449.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/录音纪要_260710100449.md",
+   "name": "录音纪要_260710100449.md",
+   "title_hint": "录音纪要_260710100449"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_7_JIS_L_1902_2015_纺织品抗菌活性测试.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_7_JIS_L_1902_2015_纺织品抗菌活性测试.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_7_JIS_L_1902_2015_纺织品抗菌活性测试.pdf.md",
+   "name": "v3非传统资源_⑦抗菌_7_JIS_L_1902_2015_纺织品抗菌活性测试.pdf.md",
+   "title_hint": "v3非传统资源_⑦抗菌_7_JIS_L_1902_2015_纺织品抗菌活性测试.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 43585-2023 一次性卫生棉条.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 43585-2023 一次性卫生棉条.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 43585-2023 一次性卫生棉条.pdf.md",
+   "name": "GB／T 43585-2023 一次性卫生棉条.pdf.md",
+   "title_hint": "GB／T 43585-2023 一次性卫生棉条.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "name": "GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "title_hint": "GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 22875-2018 纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 22875-2018 纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 22875-2018 纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "name": "GB／T 22875-2018 纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "title_hint": "GB／T 22875-2018 纸尿裤和卫生巾用高吸收性树脂.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf.md",
+   "name": "GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf.md",
+   "title_hint": "GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf.md",
+   "name": "GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf.md",
+   "title_hint": "GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 38598-2020消毒产品标签说明书通用要求.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 38598-2020消毒产品标签说明书通用要求.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 38598-2020消毒产品标签说明书通用要求.pdf.md",
+   "name": "GB 38598-2020消毒产品标签说明书通用要求.pdf.md",
+   "title_hint": "GB 38598-2020消毒产品标签说明书通用要求.pdf"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "batch": "seed_fill_l",
+  "done": [
+    "WIKI/concepts/湿感指示条 Wetness Indicator.md",
+    "WIKI/concepts/湿热耦合 Heat-Moisture Coupling.md",
+    "WIKI/concepts/生物基单体 Bio-based Monomer.md",
+    "WIKI/concepts/生物纤维素 Bacterial Cellulose.md",
+    "WIKI/concepts/生物胶黏剂 Bioadhesive.md",
+    "WIKI/concepts/甲醛排放 E1.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/concepts/生物胶黏剂 Bioadhesive.md",
+    "WIKI/concepts/甲醛排放 E1.md"
+  ],
+  "count": 6
+}

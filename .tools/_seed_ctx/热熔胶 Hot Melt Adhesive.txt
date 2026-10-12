@@ -1,0 +1,104 @@
+# SEED: 热熔胶 Hot Melt Adhesive
+# type: concept | 原引用数: 4
+# 原 Cited by 列表:
+#   - Adhesive Handbook
+#   - Adhesive Handbook Part 1 History and Information Resources
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#   - Adhesive Handbook Part 4 Applications
+#
+# 全库正文命中 327 页，612 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Adhesive Technology Full Report]]  (10 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (7 句)
+   • Part Two screens seven families against applicator, cycle life, cost and tox. Only the geometric optical mask survives (TRL 8, native slot-coatable, 1.0× cost index, no new tox package); craze/cavitation whitening is Phase 2 (1.4×), interference pigment is backup (3×); polymer opal (25×), stretchable DBR (15×), cholesteric LCE (40×) and molecular mechanophores (60×) are rejected — the latter because ~240 pN per bond demands covalent incorporation into a cross-linked network, fades after ~3 cycle
+   • Part Three specifies the selected design: the elastic laminate's own corrugation (2.2× bonded, 1.2 mm relaxed pitch) acts as a mechanical shutter under a rigid, CD-zoned opaque hot melt (TB-A). One equation, φ(ε) = 1 − 2a/[λ₀(1+ε)], sets all three thresholds, and the three coat weights (7.5 / 9.0 / 11.0 g/m²) come from one shim whose land lengths (18.0 / 15.0 / 12.0 mm) give a 1.00 : 1.20 : 1.50 flow ratio — within 2 % of the required 1.00 : 1.20 : 1.47.
+   • Part Four covers the process: contact slot die, 200 µm shim (a 100 µm gap would have driven 165 bar and stalled the pump), 400 m/min, 12 °C chill roll, 0.4 s dwell, and a full setpoint table. Sensitivity analysis concludes that three variables matter (panel lamination pre-stretch, coat weight, web tension) and melt viscosity is self-compensating.
+   • Part Five closes cost (US$0.90/1,000 pants, US$38 k capex, 1:4 versus a typical wetness-indicator stripe), safety ("nothing new": every component already sits in diaper construction adhesives or printed backsheets), FTO (K-C US 7,704,589 B2 lapsed, adjusted expiry 2026-10-04 → free to practise, novel only in the coating architecture), a risk register, a measurement protocol (ΔE*ab = 6 crossing on the cycle-2 retraction branch) and a 24-week four-gate plan.
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (6 句)
+   • The **second-generation BM indicator design** for a composite breathable backsheet — it replaces the two-lane concept with a single protein-error lane, and works the problem from the other end: dye loading as the only selectivity knob, melt rheology, slot geometry, thermal load on the breathable film, and a full cost model.
+   • Five candidate triggers are scored. **Soluble protein** (protein-error of a pH dye, 10,000–40,000 mg/L in faecal liquid vs < 150 mg/L in healthy urine) is SELECTED; bilirubin/bile pigment (diazonium coupling) is confirmatory tier 2 because diazonium salts are light- and heat-labile in a 125 °C melt; faecal protease (cleavable chromogen) is R&D only on cost and melt-survival grounds; faecal lipase is rejected for slow kinetics and no aqueous phase; conductivity/ionic strength is rejected for over
+   • Thermal load is the binding constraint: the contact interface reaches 69 °C at a 125 °C melt (comfortable), but the bulk equilibrium temperature reaches 85 °C at 125 °C and 90 °C at 135 °C — and a microporous CaCO₃-filled PE film loses WVTR irreversibly once the drawn structure anneals above ~90 °C. A chilled backing roll moves the ceiling up by ~15 K. Nominal set point 125 °C, window 115–132 °C (lower ≈112 °C by die pressure, upper ≈134 °C by film pore collapse; viscosity floor ≈136 °C).
+   • Cost: US$0.567 per 1,000 diapers all-in (material 0.142, capex amortised 0.109 over 707 M diapers/3 y, OEE allowance 0.240 at 0.30 %), i.e. 0.056–0.057 ¢/diaper. Net new hardware ≈ US$77 k core / US$109 k with in-line colour verification. Test plan covers a protein challenge ladder (0 / 150 / 1,000 / 5,000 / 10,000 / 40,000 mg/L bovine albumin), urine at pH 5.5 and 9.0, aged urine, stability (40 °C/75 % RH 8 weeks; 8 h melt at 130 °C; light; dye leach), process/product (Cpk ≥ 1.33 on 20 ± 3 gsm;
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (6 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Mechanism of permanent set (p.190–191): "The most important mechanism of permanent setting in crystalline polymers is through partial melting and recrystallization, whereby partial melting of small, imperfect crystals takes place below the melting point to allow the growth of larger more perfect and regular crystalline units."
+   • Why it cannot be undone (p.191): "the mechanism of heat-setting is to lead the structure to a position of lower minimum energy from the state prior to heat-setting." Hearle's crystal-size vs. melting-frequency diagram is cited with the plain statement that "small or imperfect crystals will melt and larger crystals will grow. This is a typical process of annealing" (p.192).
+   • Strength assessment from the source itself: the melting–recrystallization mechanism is strongly supported by multiple independent experiments; the tension effect on Tg/tenacity relies mostly on one group (Valk) and is self-consistent but single-sourced; the triacetate section rests on only two early studies and is rated medium-to-weak.
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (6 句)
+   • PET is presented as "the most outstanding member of the polyester fibre family" (ISO definition, p.271): "a polymer comprising synthetic linear macromolecules having in the chain at least 85% (by mass) of an ester of a diol and terephthalic acid". The chapter covers the Whinfield and Dickson invention and commercialization by **DuPont (1953)** and **ICI (1954)** (pp.271–272), then runs the full chain: **polymer production** via two routes → **melt spinning** into four speed-defined product class
+   • Route comparison (pp.291–292): "cost of TPA is usually less than DMT"; "the reaction product in the DE step has a higher molecular weight than that obtained in the EI step"; and "PET produced via the PTA route has lower average molecular weight, lower melting point and higher dye uptake" — the differences are attributed mainly to **diethylene glycol (DEG 二甘醇)** content. DEG forms by etherification of two glycol molecules and makes the chain irregular, lowering melting point and raising dye uptak
+   • **Nucleative collapse 成核崩塌** (p.311): "This has been termed 'nucleative collapse' [36] because a large number of small nuclei come together to form a crystallite." In an oriented melt the entropy penalty is small and the critical nucleus size approaches the unit-cell size, so high-speed spun PET forms dense microcrystallites.
+- **Catalyst effects** (p.312): "the catalyst system could exhibit a greater influence than molecular weight in controlling the rate of crystallization of PET." Residual ca
+   • Assessment: polymerization and spinning sections are evidence-dense and highly credible; structure–property linkage is chart-dependent with shallow mechanism discussion; the applications section is narrative with little quantification. Some figures are OCR-reversed (Fig. 12.1–12.8 captions) and some values (DEG%, a melting-point decrease) are scan-garbled in the source — [待验证].
+
+--- [[Hot-Melt Slot Coating（热熔狭缝涂布）]]  (5 句)
+   • 1. **The governing slot equations（狭缝的支配方程）**：wall shear rate = 6Q/(w·t²); pressure drop over the land ΔP = 12·η·Q·L/(w·t³). **Pressure scales with 1/t³ — so halving the shim to gain a crisper edge multiplies die pressure by eight.**
+2. **Zoning without control loops（无需控制回路的分区）**：flow through a rectangular land is Q ∝ ΔP·g³·b/(12·η·L). With g, b and ΔP common to all zones, the ratio is purely **1/L**. Land lengths machined to ± 0.05 mm fix the coat-weight ratio to better than 1 % for the life of 
+   • （中文：①支配方程——壁面剪切率 6Q/(w·t²)，台面压降 ΔP=12ηQL/(w·t³)，**压降 ∝1/t³，垫片减半则模头压力×8**；②无控制回路分区——矩形台面流量 Q∝ΔP·g³·b/(12ηL)，在 g、b、ΔP 相同时比值纯为 1/L；台面机加工 ±0.05 mm 使涂布量比值在垫片寿命内优于 1%，黏度波动时三区同向移动而自补偿；**绝对**涂布量由泵速设定——一个变量、一个设定点、一张 SPC 图；③刻意近牛顿——熔体在狭缝中承受 9,000–40,000 s⁻¹ 剪切，强剪切变薄的热熔胶在此处损失一半以上黏度、到幅材上再恢复，这种错配正是条纹与边缘溢流的来源；文献显示同毛细数下剪切变薄流体的最小稳定湿膜厚约为牛顿流体的**两倍**，而剪切增稠流体降低约 10%；故须规范 Cross 指数而非只看 Brookfield 值：n ≥ 0.85、λ ≤ 2×10⁻⁴ s——实践上即「蜡+松香基体、不含高分子量苯乙烯嵌段共聚物」；④此毛细数下必须接触式——400 m/min、125 ℃ 下 Ca=272，深处高 Ca 区，粘毛细理论在此最小湿膜厚平台为 t/H≈0.4
+   • 涂布对象：Geometric Optical Mask（几何光学掩膜）、TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）、Protein Error of pH Dye（pH 染料的蛋白误差）
+- 既有页对照：热风粘合无纺布、REL增强层、无锑聚酯
+- 数值判据：SAP性能指标（CRC AUL GBP Vortex）（性能口径对照，非本主题）
+   • 1. **add-on 上限是硬约束** —— 湿态可视化配方在工厂放大三次失败，根因即"工艺带不上足够的量"（调粘度、定制网纹辊、加深网纹辊深度、换基布均无效）。
+2. **水性与油性的路线分野** —— 水性体系适配丝网/柔性印刷但 add-on 低；要走高速狭缝涂布，物料必须是高粘度油剂或固态。
+3. **转移率决定成败** —— 护肤活性物从无纺布转移到皮肤的比率，同类产品（M3）仅约 **2%**；油脂类转移相对容易，活性成分难。必须建立「添加量 → 转移量 → 最低起效量」的反推链。
+4. **中期设想（技术早期）** —— 若能把 **98% 含水量的水凝胶**转化为 **master batch / 类 hot melt** 形态，则可走在线涂布；会中判断该技术**非常初期**，建议引入外部团队评估。
+5. **平台化诉求** —— 涂布工艺应尽快**固定下来**（fix 不动），后续只更换活性物质，从而加快新品开发。
+
+--- [[Adhesive Handbook]]  (5 句)
+   • *Handbook of Adhesive Technology — A. J. Pizzi & K. Mittal, Marcel Dekker, 2003, 680 pp, 50 ch.*
+   • **EN**: A 680-page, 50-chapter definitive reference on adhesive science, chemistry, substrates, and industrial applications — the single most comprehensive source for understanding adhesive bonding mechanisms, material selection, and process optimization in hygiene product manufacturing.
+   • **中文**: 680页50章的胶黏技术权威参考——涵盖粘接机理、胶黏化学、基材与应用四大板块，是理解卫生用品粘接机理、材料选型与工艺优化的最全面资料来源。Ch47 木材工业中的 hot melt 与纤维素化学是芯体复合与湿巾封口的直接理论依据。
+   • 1. **粘接机理五大类**：WLB 湿润、表面能、渗透、锚定、静电——适用于所有粘接场景。
+2. **工艺参数与胶料同等重要**（Ch47: "约50%性能取决于工艺参数"）——卫材粘接优化的双轨策略。
+3. **Hot melt 体系**（EVA/APAO/polyamide/TPU/curing hot melt）——芯体复合、SMS 复合、湿巾封口的最常用胶种。
+4. **UF/湿强剂化学**——UF 树脂 F/U 摩尔比、氨基亚甲基键水解、E1 甲醛排放——直接适用于湿强剂研发与合规。
+5. **CWBL/MWBL 弱边界层**——浆粕表面蜡质覆盖与加工损伤是粘接性能核心变量，映射浆粕采购质量索赔。
+6. **PMDI 渗透深度为 PF 的 5-10 倍**——MDI 类湿强剂性能优势的物理解释。
+7. **生物胶黏剂 mesh size 与 SAP 凝胶网络动力学对应**——交联度→mesh size→吸收速度/倍率 trade-off 的概念桥梁。
+8. **天然基胶黏剂**（tannin/lignin/laccase）——对应卫材"无胶复合"与"bio-based ho
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (5 句)
+   • Mechanism options are ranked by cost per unit of certainty: **A titratable-acidity lane** (buffered halochromic hot melt, ~US$0.4/1,000, Phase 1, sensitivity ~65–80 %, misses low-VFA formula stool), **B bile-pigment mordant lane** (quaternised cationic polymer as an anion-exchange lane, ~US$0.3/1,000, binary marker independent of feeding mode, but meconium and firm stool release little liquor) and **C protease-cleavage film** (crosslinked gelatin 12–20 µm over a dark printed field, ~US$2.5/1,000
+   • The architecture is sample → isolate → react → read: a 10 mm hydrophilic wick at topsheet level in the rear zone; an 18 gsm PE barrier under the wick to stop SAP stealing the sample water and to keep the granular ≥20 mm away in MD; a 90 mm MD travel to the two hot-melt lanes; and read-out under an unprinted clear channel in the backsheet artwork at the rear waist. Two jobs are kept separate — the pH ladder is a load gauge ("change at the right time"), the BM lanes override it ("change now").
+   • （中文摘要：问题源自「自造」——芯体中的除臭颗粒（沸石/硅胶/环糊精）吸附 NH₃、胺类、H₂S 与挥发性脂肪酸，抹掉了妈妈赖以判断便便的气味线索；换尿间隔被拉长，便便更久贴肤，粪便蛋白酶/脂肪酶与 pH 上升推动皮炎，投诉却落到纸尿裤本身。设计陷阱是吸附剂与指示器争夺同一批分子，且沸石（700–800 m²/g 表面）正因胺类容量高而被选用。故设计铁律为：**读液相、靠直接接触，并与颗粒和 SAP 物理隔离**。信号筛选用七项性质对比尿与婴儿便：pH 为弱判别（区间重叠）、可滴定酸度为良（看缓冲容量而非 pH）、胆色素为最佳（二值存在性）、活性酶为最佳但需水性涂覆底物、流变（尿约 1 mPa·s vs 便 3–60 Pa·s）驱动采样几何、温度为无效、顶空挥发物被颗粒阻断。机理三选按「单位确定性成本」排序：A 可滴定酸度通道（缓冲型卤致变色热熔胶，约 US$0.4/千片，Phase 1，灵敏度约 65–80%，漏检低 VFA 配方奶便）、B 胆色素媒染通道（季铵化阳离子聚合物作阴离子交换通道，约 US$0.3/千片，与喂养方式无关的二值标记，但胎便与硬便释液少）、C 蛋白酶裂解膜（交
+   • Phase-1 total capex 合计：US$38–60 k；无车速损失、无新放卷
+- Watch item 注意项：cationic-loaded hot melt can char or pre-trip in a hot tank → screen every candidate for **72 h at 150 °C** tank residence before line trial
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (5 句)
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **效应量排序（Effect Summary）**：**施胶花型（Nozzle – OP）影响最大，胶型影响最小**。Logworth / P 值依次为：**Nozzle – OP 14.020（p 0.00000）**、**Primary Substrate 4.376（p 0.00004）**、**Bonding 3.632（p 0.00023）**、**Add-On (gsm) 1.304（p 0.00548）**、**Adhesive Type（p 0.04965）**。
+   • **各因子细节**：
+- **施胶花型**：Minibead 最强；**Minibead 的剥离强度同时变异最大**——原文提出 CF Swirl 与 Minibead 之间的剥离强度落差**可能正是 Depend 回渗值更不稳定的原因**；另注 **Summit 喷嘴历史上粘合强度 ≥ Signature**，本次偏低疑为试验期间花型质量不达标（Tukey-Kramer 0.05 分组中 CF Swirl 52.879 / Signature 44.119 / Summit 24.097 等均值）。
+- **施胶基材（Primary Substrate）**：**胶应施加在导流层上以获得高剥离强度**——Surge 均值 **408.19**（Std Error 29.750，A 组）vs Liner **230.09**（Std Error 26.434，B 组），**未共享字母即统计显著**。注：面层作基材仅在 Minibead 喷嘴组合中出现，故右图只含 minibead 代码。
+- **压合（Bonding）**：**压合的剥离强度高于不压合**（p = 0.0002）。**
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+
+--- [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]]  (5 句)
+   • P&G's granted patent on a **four-component polyolefin hotmelt built for nonwoven–film bonding in diapers**, whose distinguishing feature is that the **base polymer is itself a two-copolymer metallocene blend split by crystallinity**, and whose performance is expressed as **rheology at body temperature** rather than as a bond-strength number.
+   • The patent claims a hotmelt composition comprising a **low molecular weight metallocene-catalyzed polymer** with peak molecular weight below 130,000 g/mol, a **high molecular weight polyolefin** with peak molecular weight from about 130,000 to about 700,000 g/mol, an **amorphous polyolefin** with enthalpy of crystallization less than 10 J/g, and a **tackifier**. Claim 1 additionally requires that the low-MW metallocene polymer itself comprise **two** low-MW metallocene-catalyzed propylene-ethyle
+   • **The polymer architecture is the invention, not the additives** — a three-way polyolefin molecular-weight/crystallinity split plus tackifier, with no reliance on styrenic block copolymer or large oil load. → Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- **Crystallinity is the control variable** — enthalpy of crystallization thresholds (10 / 20 / 25–45 J/g) divide each component's role. → APAO（非晶态聚α-烯烃）
+- **Low oil content is a deliberate formulation stance** (<10 wt% mineral oil) — relevant for odour,
+   • Concepts 概念：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、APAO（非晶态聚α-烯烃）
+- Entity 实体：The Procter & Gamble Company（宝洁）
+- Same-module patents 同模块（模块三：聚烯烃类热熔胶）专利：EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)、EP4428211A1 Hot Melt Adhesive Composition (Bostik)
+- Comparison 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+

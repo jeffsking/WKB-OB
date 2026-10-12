@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-6",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_82e319abece68c6f9b5aee716bd03069001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/内部测试方法 橡筋回缩率 -20210926最新.pdf.md",
+   "name": "内部测试方法 橡筋回缩率 -20210926最新.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_edc5075a933c63a935480091a65ad033001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00048 SAM含量.docx.md",
+   "name": "STM-00048 SAM含量.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_bcd1a891dc0b4de7bfa455ab010724ed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md",
+   "name": "壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_5f80d606bf767e6b20fced1bf70552bd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00070 皮筋张力.docx.md",
+   "name": "STM-00070 皮筋张力.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_396f71dcf0b3f89d13a807d9e812ac2e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+   "name": "STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_672026c31f8a9f1219886154ce7c037f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1001平面扩散实验.docx.md",
+   "name": "STM-1001平面扩散实验.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_6e4b1239f416be7b21aafce46ea5a683001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00512 绒毛完整性.doc.md",
+   "name": "TTM-00512 绒毛完整性.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_48f765a079523fb852d74125a2de0304001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "name": "STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_6caa1f0ede3a485b4cef40248e7af981001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/拉力松紧可视化技术评估报告.docx.md",
+   "name": "拉力松紧可视化技术评估报告.docx.md",
+   "type": "word"
+  }
+ ]
+}

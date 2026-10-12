@@ -1,0 +1,65 @@
+{
+ "batch_id": "W1-1",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_0ad854874fdcb3b93203ade9aea56508001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BaiKerui BNC.pptx.md",
+   "name": "BaiKerui BNC.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_46ad3b560c9e91a898ec8ee2be6bf5c6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_EN.pptx.md",
+   "name": "Coco_V6_Trial_Raw_Materials_EN.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_f8516a5991c5157cf0143da79fc8c3ab001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_Summary.pptx.md",
+   "name": "Coco_V6_Trial_Raw_Materials_Summary.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_6990fe409821998f46093e6ac45b53ed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md",
+   "name": "Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_4fcc24b008134e3e0e2597a812717982001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx.md",
+   "name": "CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_82582f60ab93701a29c9c335f4d52d01001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md",
+   "name": "Trilobal_PET_Liner_MD_Distribution.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_094686dcb118dba5de0f7621bd8c3b9f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md",
+   "name": "Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_768993bf2ae2e48d52a74b5383b5f9f9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md",
+   "name": "PPC spunbond trial ， 2026 May 1.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_1e220c5bdd7473f545b35cac344be020001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_ADL_Strategic_Blueprint.pptx.md",
+   "name": "CoPET_ADL_Strategic_Blueprint.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8f9f70bea690447c513594d7c6c62139001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "name": "BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

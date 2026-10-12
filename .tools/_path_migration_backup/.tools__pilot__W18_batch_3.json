@@ -1,0 +1,47 @@
+{
+ "batch_id": "W18-3",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4cdf330e5ab102b6ea73b3aee7e09a6b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_02a Urine Leakage Design Principles 2.0.pdf.md",
+   "name": "_02a Urine Leakage Design Principles 2.0.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_4d97c64b8d392ec2233c5664b37137a1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告.md.md",
+   "name": "Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a25153cf2104478211e731d5f9fc5e0a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/EM leadership meeting - R&D presentation -Jan 9th 2025 v4 MDCD.pdf.md",
+   "name": "EM leadership meeting - R&D presentation -Jan 9th 2025 v4 MDCD.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_7fd861f1712e50c8ddec6337a8c9f20f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_05B Pad Zoning on Flat vs Pocketed Screens_GJD.pptx.md",
+   "name": "_05B Pad Zoning on Flat vs Pocketed Screens_GJD.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_759ec0ddda7ac7fbadfff67d4ee0fc08001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Product Drawings 101 (KC Sept2025)/Product_Drawings_101_Sept2025_ch3_Editing_Drawings_拆解报告.md.md",
+   "name": "Product_Drawings_101_Sept2025_ch3_Editing_Drawings_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_1f1336591acc712078b9921144efcd3d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_13 Absorbent_System_Modeling_2021.pptx.md",
+   "name": "_13 Absorbent_System_Modeling_2021.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_f97ab898d278fc8af891e751c9f3d7be001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Odor Testing Capabilities (Odor Central) 2025.pptx.md",
+   "name": "Odor Testing Capabilities (Odor Central) 2025.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

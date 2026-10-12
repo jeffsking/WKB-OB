@@ -1,0 +1,23 @@
+{
+  "batch": "S5_Areas_Meeting Minutes_01",
+  "stage": "S5",
+  "block": "Areas/Meeting Minutes",
+  "source_pages": 10,
+  "concept_pages": 4,
+  "entity_pages": 1,
+  "comparison_pages": 0,
+  "updated_existing": 23,
+  "manual_review": 10,
+  "notes": [
+    "10 份源摘要页全部新建（本批 10 个 source_path 在 WIKI/sources/ 均无既有页，未触发跳过）",
+    "新建 concept：Composite Core Patent Clearance（复合芯体专利规避审查）、TCF Bleaching（全无氯漂白）、Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）、Odour Management Routes（气味管理技术路线）",
+    "新建 entity：Suzano（书赞桉诺）",
+    "追加既有页 23 个，统一使用「## 追加：Meeting Minutes 批（2026-09-29 追加 · …）」小节，不改既有结论",
+    "题名勘误：S5_01 第 4 份原文标题「甘蔗酒业务及合作讨论」为 ASR 误转写，实为 Suzano 浆业务，已在页内标注并按实际内容编译",
+    "全部 10 份均含 > 🔴 manual_review（2026-09-29） 块：报价/合同条款/折扣/客户与供应商商务条件一律不入页面，仅保留量级与决策门槛并回指原文路径",
+    "ASR 讹字统一处理：大汕尾/大扇尾/大三围=哑铃形；星体=芯体；三/散/Sam/sum=SAP；岩浆=延江[待验证]；被max/Be max=Be max；扣/code=code；爱档/I档=ADL",
+    "参会人名单与负责人：ASR 未指名者一律留空并标 [待验证]，未做任何推测性指派",
+    "决策/待决严格分离：中间收窄 80mm 取舍、裆部加密机理、超声波 vs 胶 bonding 毛细差异、亲水胶 benefit 等均归入 Open issues，未写成 Key decisions",
+    "未修改 index.md / log.md；未移动、重命名、复制或删除任何文件"
+  ]
+}

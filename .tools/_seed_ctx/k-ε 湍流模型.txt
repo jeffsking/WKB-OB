@@ -1,0 +1,46 @@
+# SEED: k-ε 湍流模型
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#
+# 全库正文命中 3 页，3 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (1 句)
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Computational Modeling in Absorbent Technology]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）]]  (1 句)
+   • **JAX-Fluids**——基于 JAX 的完全可微分高阶 CFD 求解器，专为**可压缩两相流**设计；支持把既有 ML 模型无缝集成进 CFD 框架并端到端优化，即神经网络可借助含物理 PDE 与数值方法信息的梯度进行训练。
+- **PhiFlow**——面向研究的可微分流体模拟框架，Python 编写，可与 NumPy / TensorFlow / PyTorch 集成；内置多种流体 PDE 操作，可构建含学习模型与物理模拟的端到端可微分函数。
+- **PICT**——近期发布的 PyTorch 开源流体动力学求解器，GPU 加速、可微分；含**可微分 PISO** 压力隐式求解器，支持多块网格，在 lid-driven cavity（顶盖驱动方腔）与湍流通道流基准上验证，主要用于 2D/3D 湍流模型学习。
+- **IncompressibleNavierStokes.jl**——Julia 实现，硬件无关的可微分求解器 + 优化内存管理；单 GPU 上可达 **840³** 分辨率的不可压缩 NS 方程 DNS，并支持把**神经网络闭合模型嵌入 LES 做后验训练**。
+

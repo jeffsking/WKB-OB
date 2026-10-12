@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-7",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_d13469e37d16dccf89182fb5304c70bc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00033 滞留能力.docx.md",
+   "name": "STM-00033 滞留能力.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_0736a60367a58e5861ce1e8c43c0e896001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/STM-00034 FIFE/STM-00034.pdf.md",
+   "name": "STM-00034.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_85888a6a4820af2531b9c5b8f5620c90001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00061 折页渗漏.docx.md",
+   "name": "STM-00061 折页渗漏.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d4a215f0167678f086ff4396af1c1c40001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/高吸水纤维的生产工艺.pdf.md",
+   "name": "高吸水纤维的生产工艺.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_65fa765b90bc687e3fa1b723a6951151001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00240Loop 粘连强度测试.docx.md",
+   "name": "STM-00240Loop 粘连强度测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_536a6c3935e285631199aab1274cb8f7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-1002U型扩散实验.docx.md",
+   "name": "STM-1002U型扩散实验.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_dea00eef4ef97d13a6baf6b3b0b36910001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/TTM-00623高低压反渗测试.docx.md",
+   "name": "TTM-00623高低压反渗测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_2c177d6ccdb25f9c7394fb63f8764d54001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "name": "STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_f21d6858ac1535b95041b79130a4c57b_e18e6c5db6f950b662a984750b2ec881001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md",
+   "name": "纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md",
+   "type": "word"
+  }
+ ]
+}

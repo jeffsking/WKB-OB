@@ -1,0 +1,81 @@
+# SEED: Stokes Number
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#
+# 全库正文命中 78 页，95 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (4 句)
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • ⚠️ The chapter prints **no numbered equations**; all expressions below are labelled reconstructions of its textual scaling statements, per the source ([原文无公式编号]).
+   • No Reynolds or capillary number formula appears in the chapter; low-Reynolds framing is cited, not derived (L1048–1050, L1083–1084).
+   • This extraction does not state an edition year (only title, author, chapter span), so  is 0 per rule; sibling chapters of the same book state CRC Press 2008, which is probable but not citable from this file — [待验证].
+- Page span **pp. 437–457** comes from the chapter TOC and running heads (L10–26, L1197), not invented; individual line claims are cited as L-numbers.
+- All LaTeX expressions are labelled reconstructions of textual statements; the chapter has no numbered equations ([原文无公式编号]).
+- Busi
+
+--- [[Flexible Stretchable Electronics Deep Read]]  (3 句)
+   • The note is organised in 11 numbered sections (本笔记为 11 节结构，此处作为索引概括):
+   • Meander strain-relief relation ε_metal = ε_macroscopic × 1/(1 + h·w/(t·L_meander)) with h = amplitude, w = trace width, t = trace thickness, L_meander = wavelength. 
+- Claimed metal yield strains (~0.2–0.5 % Cu, ~0.1 % Au) as the reason meanders are required. 
+- Reliability test framework: bend cycling at various radii, % strain vs resistance change, −40 °C to +125 °C thermal cycling, 85 °C/85 % RH accelerated ageing, drop/mechanical shock.  — the note itself labels this as "implied".
+- UTCP vs 
+   • **Nothing here touches our materials主线**: no ultra-thin absorbent core, fluff pulp, SAP, ES/PE-PP bicomponent fibre, nonwoven bonding, adhesive, or chromic-ink content. The named materials — Si, spin-on polyimide, PDMS, PU — do not appear in disposable hygiene constructions.
+- **One architectural idea transfers, weakly**:  is the same strain-management principle behind elastic-thread and elastic-laminate design for waistbands and cuffs, where stiff elements must survive large repeated strain in 
+
+--- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]  (3 句)
+   • The **deduped, renumbered portfolio ledger** agreed at the 2026-09-18 review: 19 projects, five technology platforms plus Elastomer, with per-project supplier base, priority, status, key follow-ups and NDA/NNN/JDA state. It is the most operationally current list in this batch and the one that explicitly splits COCO V6 into four workstreams.
+（2026-09-18 评审确定**去重并重编号**后的组合台账：19 个项目、五大平台 + Elastomer，逐项列出供应商、优先级、状态、下一步与法务状态；是本批操作性最强、并首次把 COCO V6 拆为四条工作流的一份。）
+   • Header line: **"Updated 2026-09-18 · 19 projects (deduped from 25) · Priority: High 8 / Medium 8 / Low 3 · Category-based tracking + PPT component 展示."** The 19 rows are grouped as Fiber/Staple Fiber (OI-1…OI-4), Resin/Fiber → NW (OI-5…OI-10), Core = COCO V6 (OI-11 REL, OI-12 Liner, OI-13 SAP, OI-14 3-carded REL + SAP), Chemical+Film/Indicator (OI-15 thermochromic, OI-16 hydrochromic, OI-17 mechanochromic), Odour Control (OI-18) and Elastomer/Adhesive (OI-19, marked ★NEW). COCO V6 REL (OI-11) is
+   • **The portfolio is now 19 items, not 25 — and the numbering changed** —— any OI-xx reference must state which list it comes from —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **COCO V6 is four projects, not one** —— REL / Liner / SAP / 3-carded REL+SAP —— 支撑页：COCO芯体平台
+- **Dual-SAP with staggered swell is the agreed SAP architecture; Code X takes the high-GBP top layer** —— 支撑页：SAP错峰膨胀、SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、诺尔（Nuoer）
+- **Trilobal fibre is the structural lever for MD distribu
+
+--- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]  (3 句)
+   • A K-C internal statistical study (Nov 2022) benchmarking the company's in-house absorbency test methods against industry standards — establishing that capacity/intake/rewet numbers are method-dependent and cannot be compared 1:1 across methods.（金佰利 2022 年 11 月内部统计研究，将公司自研吸收性能测试方法对标行业标准，结论是容量/摄入/回渗数值依赖方法，不可跨方法 1:1 比较。）
+   • **Business objective 业务目标**: Compare K-C methods to other methods used in industry for capacity, intake, and rewet.（对比 K-C 方法与行业其他方法在容量、摄入、回渗上的差异。）
+- **Methods 方法**: Capacity (g) — STM-00033 vs **ISO 11948**; Intake (s) & Rewet (g) — TTM-00672 vs **NWSP 70.9**.（容量：STM-00033 对比 ISO 11948；摄入与回渗：TTM-00672 对比 NWSP 70.9。）
+- **Design 设计**: n = 32 per product and per test, 4 lots per code.（每个产品/方法 n=32，每牌号 4 个批号。）
+- **Products 产品 (6)**: Depend Fit Flex (DFF), Depend Protection Plus (DPP), Kirkland Sign
+   • K-C internal STM/TTM numbers are **not** directly interchangeable with ISO/NWSP external numbers; any competitive benchmark must state the method.（K-C 内部 STM/TTM 数值与外部 ISO/NWSP 不可直接互换，竞品基准必须注明方法。）—— 支撑页：Rewet Test（回渗测试）、芯体测试方法与验收基准（STM）
+- Always Discreet is consistently the lowest-capacity product in this panel; Depend family runs higher rewet under the TTM-00672 protocol.（Always Discreet 在该面板中容量始终最低；Depend 系列在 TTM-00672 下回渗偏高。）
+
+--- [[Washburn Equation]]  (2 句)
+   • What the digest *does* evidence is its **result form and its theoretical family**：in a porous medium the advancing wicking-front distance obeys **x_v ∝ t^(1/2)**，named the **Washburn / Rudd relation**（源：Liquid Flow in Porous Structures，p. 24, p. 37）；the equation is grouped into Chapter 1 "Porous Structure and Liquid Flow Models" of *Absorbent Technology*, alongside the **Péclet number, Darcy's law, Washburn equation and capillary rise**（源：Absorbent Technology）。The full explicit form（in terms of 
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (2 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[Intelligent Textiles and Sports Clothing]]  (2 句)
+   • Five numbered sections, Serbian headings shown with English rendering (五个编号章节):
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+
+--- [[Introduction to Liquid Crystals]]  (2 句)
+   • The file has no numbered sections. Its content falls into five blocks (无编号章节，五个内容块):
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+

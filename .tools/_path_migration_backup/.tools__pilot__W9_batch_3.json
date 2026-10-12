@@ -1,0 +1,65 @@
+{
+ "batch_id": "W9-3",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_28f14128be4dca1b6a1f2c42489665e9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/Raw Material Testing Method Summary.xlsx.md",
+   "name": "Raw Material Testing Method Summary.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_f29c795db0ea9c47b9d02831fb3f5cf2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/Finished Product Testing Method Summary.xlsx.md",
+   "name": "Finished Product Testing Method Summary.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_a850d03fef0b64e8c46af4030573986d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/BM测试方法/TTM-00467 BM Mannequin Absorption NB-S2.docx.md",
+   "name": "TTM-00467 BM Mannequin Absorption NB-S2.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_390f0065388ee6cbb9132f9c62cbf94a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM加压吸收(From Nuoer）.docx.md",
+   "name": "SAM加压吸收(From Nuoer）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_08f64a4a33015e08ec15deef8b62d200001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM密度(From China National Testing Method).docx.md",
+   "name": "SAM密度(From China National Testing Method).docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_1fc1bad5ac72113baed907f4f7ac7f25001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/TTM-00609 面层材料起毛起球测试.doc.md",
+   "name": "TTM-00609 面层材料起毛起球测试.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_2ff86a9056c47147757fc8f9d00ba405001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/China-WI-62416 无纺布变形测试 20240201.docx.md",
+   "name": "China-WI-62416 无纺布变形测试 20240201.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_c61a0e0a2a20fb6825fa6ed1da6e1e75001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 滑渗.doc.md",
+   "name": "GB-T28004-2011 滑渗.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_abc240b48cd2596fb62fcf2621e0c657001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Personal/AI核心设定_王总_2026-06-06_v3.pdf.md",
+   "name": "AI核心设定_王总_2026-06-06_v3.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e15efa33cf9833d97c3093dce82146c7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/TTM-00038 Compression Test for Absorbent .pdf.md",
+   "name": "TTM-00038 Compression Test for Absorbent .pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+# SEED: 活性炭除臭（DARCO）
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - SymDeo™ XPP 抑臭聚合物
+#   - Symrise（德之馨）
+#   - 咖啡炭纤维（异味吸附）
+#
+# 全库正文命中 7 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cabot DARCO KB-G TDS（v3 归档同名件）]]  (4 句)
+   • 本页是 Cabot DARCO KB-G Powdered Activated Carbon (TDS) 的 **v3 归档同名件（same-content archive copy）**：正文、日期（2016-04-06）、全部参数表与主件完全一致。编译时不再重复提炼，所有结论以主件页为准。
+   • Verbatim duplicate of the DARCO® KB-G two-page TDS (Cabot Norit Activated Carbon, 6 April 2016): wood-based phosphoric-acid-activated powdered activated carbon; B.E.T. 1700 m²/g; methylene blue ≥28.0 g/100 g; D50 20 μm; Kosher / U.S. FCC compliant. See the main source page for the full extraction（内容与主件页逐字一致，参数提炼见主件页）.
+   • **同一 TDS 的两个载体，以主件页为唯一提炼口径** —— 支撑页：Cabot DARCO KB-G Powdered Activated Carbon (TDS)
+   • 本地路径：
+- 原文链接：（无）
+- 主件页：Cabot DARCO KB-G Powdered Activated Carbon (TDS)（）
+
+--- [[Cabot Corporation（卡博特）]]  (3 句)
+   • **2026-09-29（编译入库）**：DARCO® KB-G 产品 TDS 进入知识库（批次 S3_Areas_Supply Base_04）。产品定位：木基磷酸法化学活化粉末活性炭，用于高色度/易起泡工艺液体净化，低添加量吸附大分子有机物（大色体、蛋白质）；Kosher 认证、符合美国食品化学法典（FCC）。详见 Cabot DARCO KB-G Powdered Activated Carbon (TDS)。
+- **供货关系现状**：本库中暂无实际供货或打样记录 ；按候选供应商记录。
+   • Powdered Activated Carbon（粉末活性炭）（本厂 DARCO KB-G 所属材料路线）
+- Odour Management Routes（气味管理技术路线）（吸附型除臭路线全景）
+- Zeolite Odour Control（沸石除臭载体）（同族颗粒吸附路线对照）
+- 咖啡炭纤维（异味吸附）（纤维化异味吸附路线对照）
+   • Cabot DARCO KB-G Powdered Activated Carbon (TDS) ——
+
+--- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]  (3 句)
+   • Manufacturer technical datasheet (TDS, dated 6 April 2016) for DARCO® KB-G powdered activated carbon by Cabot Norit Activated Carbon. In this library it anchors the **powdered activated carbon (PAC) option within the odour-control material family**（本页是气味管理材料族中「粉末活性炭」路线的厂商一手参数来源）.
+   • The document is a two-page datasheet. DARCO KB-G is produced by chemical activation of wood using the phosphoric acid process（木基磷酸法化学活化）and targets purification of highly colored and/or foaming process liquids in the food, chemical and pharmaceutical industries. It combines high adsorptive capacity with good filtration characteristics and is especially effective for high-molecular-weight organics such as large color bodies and proteins at low carbon dosage. The product is Kosher certified and me
+   • **PAC 是气味管理材料族中的吸附型路线，本页提供其木基磷酸法活化的一手参数** —— 支撑页：Powdered Activated Carbon（粉末活性炭）
+- **低添加量吸附大分子有机物（色体/蛋白）是 DARCO KB-G 的差异化卖点** —— 支撑页：Cabot Corporation（卡博特）
+
+--- [[Powdered Activated Carbon（粉末活性炭）]]  (1 句)
+   • Cabot DARCO KB-G Powdered Activated Carbon (TDS) ——
+
+--- [[SymDeo™ XPP 抑臭聚合物]]  (1 句)
+   • 同类路线：咖啡炭纤维（异味吸附）（物理吸附）、活性炭除臭（DARCO）（待后续批次）
+- 应用场景：卫品气味控制
+
+--- [[咖啡炭纤维（异味吸附）]]  (1 句)
+   • 同类气味控制：SymDeo™ XPP 抑臭聚合物、活性炭除臭（DARCO）
+- 应用：卫品面层/内裤无纺布消臭
+
+--- [[Symrise（德之馨）]]  (1 句)
+   • SymDeo™ XPP 抑臭聚合物（其抑臭聚合物产品）
+- 咖啡炭纤维（异味吸附）、活性炭除臭（DARCO）（同属气味控制路线，后两者待后续批次）
+

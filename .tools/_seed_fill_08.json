@@ -1,0 +1,57 @@
+{
+  "batch": "08",
+  "done": [
+    "Young's Equation",
+    "Cassie-Baxter Equation",
+    "Hagen-Poiseuille Equation",
+    "Navier-Stokes Equation",
+    "表面活性剂 Surfactant",
+    "动边界 Moving Boundary",
+    "Case II 扩散",
+    "壳聚糖 Chitosan"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Hagen-Poiseuille Equation",
+      "issue": "定义待补 — 引用来源未给出明确定义（仅以工作方程 q = (r_c²/8μ)(ΔP/L) 形式记录，无独立定义句）",
+      "detail": "Unsourceable: no hygiene-product-specific r_c / L / μ value; parameterisation of Φ, r, θ, μ for the vault's own core C/Q model is open."
+    },
+    {
+      "page": "Navier-Stokes Equation",
+      "issue": "定义待补 — 引用来源未给出明确定义（仅作为气流成网 CFD 支配方程组的动量方程出现）",
+      "detail": "Unsourceable: no standalone prose definition; no mesh/solver/turbulence validation error for a real airlaid line; fibre-level wall BC (coefficient of restitution) named but not parameterised."
+    },
+    {
+      "page": "Young's Equation",
+      "issue": "已取到库内方程形式（Eq.18, p.83）与释义，但缺工程参数",
+      "detail": "Unsourceable: roughness factor r for any real hygiene substrate; Wenzel->Cassie transition criterion; whether the '< 30 degrees core-fibre theta' target is a specification or an inference from Young + Wenzel."
+    },
+    {
+      "page": "Cassie-Baxter Equation",
+      "issue": "已取到库内方程形式与释义，但缺工程参数",
+      "detail": "Unsourceable: f1 (solid fraction) and f2 (gas fraction) values for any real hygiene substrate; Wenzel->Cassie transition criterion; whether the '>100 degrees sanitary-pad backsheet' figure is measured or an inferred target."
+    },
+    {
+      "page": "表面活性剂 Surfactant",
+      "issue": "已取到功能型定义与大量参数，但缺卫材落点数字",
+      "detail": "Source caveat: HLB never defined in the source chapter (uses EO/hydrophobe ratio); Table 5 numeric body OCR-truncated. Unsourceable: hygiene-product-specific dose / add-on / residual limit for a named surfactant."
+    },
+    {
+      "page": "动边界 Moving Boundary",
+      "issue": "已取到定义与 Stefan 等价，但无参数化实例",
+      "detail": "Unsourceable: no parameterised Stefan problem for a real SAP/urine system; no measured front velocity, D behind/ahead of front, or gel-glass interface thickness; gel-blocking/salt interaction not addressed."
+    },
+    {
+      "page": "Case II 扩散",
+      "issue": "已取到三分类定义，但无 SAP 专属数值",
+      "detail": "Unsourceable: SAP-specific Case II front velocity or transition-concentration value; exact concentration/time boundaries between Case II / non-Fickian / Case I for a real SAP; how salt / gel blocking shifts the Case II window."
+    },
+    {
+      "page": "壳聚糖 Chitosan",
+      "issue": "已取到定位与配方级数据，但多项工程/安全数据待补",
+      "detail": "Unsourceable in-vault: fineness/strength/spinnability of chitosan fibre; thermal-spray adhesion rub/wash resistance (measured); compatibility with SAP/fluff systems; skin irritation/sensitisation data; price band and supply concentration. Note: antibacterial rate & wash durability are vendor claims only."
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,47 @@
+{
+ "batch_id": "W18-1",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d7a31c7ff42708c75554f0cda23b90e0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/ULDP Cathy Mertz 202006.pptx.md",
+   "name": "ULDP Cathy Mertz 202006.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_f21d6858ac1535b95041b79130a4c57b_bc546bdc44319d96c5b91450e6d134db001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Diaper 101/纸尿裤结构与技术全景_内容大纲_20260428232500.docx.md",
+   "name": "纸尿裤结构与技术全景_内容大纲_20260428232500.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_63fccc13eb0d0568bbb13667beaeee0a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_03 Inco User Fundamentals 101 01-18-2021.pptx.md",
+   "name": "_03 Inco User Fundamentals 101 01-18-2021.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_80152c5b31e002b57f8efea626ab564a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_05A Pad Channels_GJD.pptx.md",
+   "name": "_05A Pad Channels_GJD.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_220f544f0d52c04707364ece299b4f09001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Product Drawings 101 (KC Sept2025)/Product_Drawings_101_Sept2025_ch2_Reading_Drawings_拆解报告.md.md",
+   "name": "Product_Drawings_101_Sept2025_ch2_Reading_Drawings_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_a637ca4f8f1052a64a95795e53c270e7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_11 BM user insights.pptx.md",
+   "name": "_11 BM user insights.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_293cab8666416eda85f2df6eafa16e44001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Gravure Roll 101.pptx.md",
+   "name": "Gravure Roll 101.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

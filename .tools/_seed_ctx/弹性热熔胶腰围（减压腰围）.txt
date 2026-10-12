@@ -1,0 +1,49 @@
+# SEED: 弹性热熔胶腰围（减压腰围）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 7 页，10 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 111973346 A（一种纸尿裤的减压腰围及其制作工艺·贵州卡布）]]  (3 句)
+   • A Chinese manufacturer application（国内厂商申请）for a **pressure-relief waistband**（减压腰围）that swaps spandex threads for an **ultrasonically-bonded elastic hot-melt adhesive sheet** and builds it with a **speed-differential lamination**（速差压合）process — the value for this library is the documented **process window for elastic-HMA waistband manufacture**（熔融粘度-温度-速差-拉伸倍率的量化窗口），plus a third elastic-waistband architecture option alongside spandex and elastic nonwoven laminates.
+   • **「面面接触 vs 线面接触」是全部舒适度论证的基础**——氨纶丝线接触产生交替勒痕，弹性胶膜面接触分散压强 → 弹性热熔胶腰围（减压腰围）
+- **速差压合是「拉伸储能」的工艺实现**：速差比直接决定拉伸倍率与回弹性能，与本库橡筋张力/回缩率方法学互为参照 → Elastic Tension & Creep（橡筋张力与回缩率）
+- **超声波点焊替代喷胶**同时给出省胶与低硬度两个收益，属于腰围区域低胶量化路线 → Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+   • Concept 概念：弹性热熔胶腰围（减压腰围）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Elastic Tension & Creep（橡筋张力与回缩率）
+- Entity 实体：贵州卡布婴童用品有限责任公司
+
+--- [[透气弹性腰围（打孔氨纶）]]  (2 句)
+   • 与 弹性热熔胶腰围（减压腰围）：同为减压目标，本概念靠**减小接触面积**，减压腰围靠**弹性体触感/应力分散**。
+- 与 超细氨纶密排腰围（褶皱布纹）：密排路线追求均匀受力与布纹外观；打孔路线在弹性层上牺牲部分连续面积换通风——两者可叠加但需验证打孔对强度/回缩的影响（来源未记载）。
+- 弹性力/拉断侧的库内基线：Front Belt Force Window（前腰带弹性力窗口）、Elastic Tension & Creep（橡筋张力与回缩率）。
+   • Waist Guard（腰围护挡）、Front Belt Force Window（前腰带弹性力窗口）、弹性热熔胶腰围（减压腰围）、超细氨纶密排腰围（褶皱布纹）
+- Source 来源：CN 210932251 U（一种透气弹性腰围的纸尿裤·广州汉氏卫生用品）
+
+--- [[Cohesive Fastener（自粘扣合系统）]]  (1 句)
+   • 被替代对象：Hook-and-Loop Strength Test（粘扣系统强度测试）（现行系统的测试口径）
+- 同为腰贴/腰围创新：Airy Window（腰围透气窗）、弹性热熔胶腰围（减压腰围）
+- 胶粘剂体系：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）（cohesive 材料的配方邻域）
+
+--- [[压敏胶 PSA]]  (1 句)
+   • Citing sources（3）: Adhesive Handbook Part 1 History and Information Resources、Adhesive Handbook Part 2 Fundamental Aspects、Adhesive Handbook Part 3 Adhesive Classes
+- 汇总 / 父书: Handbook of Adhesive Technology Full Report、Adhesive Handbook Part 4 Applications
+- 相邻概念: 卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhesive、Hot Melt Adhesive、胶黏剂 Adhesive、丙烯酸丙烯酸酯胶 Acrylic Adhesive、Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）、胶乳胶黏剂 Latex、弹性热熔胶腰围（减压腰围）
+- 机理 / 应用: Origin of Rubber Elasticity Boo
+
+--- [[形状记忆聚合物 Shape Memory Polymer]]  (1 句)
+   • Citing sources（3）: Smart Textiles & Wearables、Smart Textiles Review、Smart Textiles and Sportswear
+- 定义 / 案例: Intelligent Textiles and Sports Clothing、Smart Fabric Textiles Recent Advances and Challenges、Smart Textiles and Their Applications
+- 卫材胶黏路径: Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）、Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）、汉高
+- 相邻概念: 刺激响应聚合物 Stimuli-Responsive Polymer、Stimuli-Responsive Polymer Materials (Nature Materials Review)、相变材
+
+--- [[超细氨纶密排腰围（褶皱布纹）]]  (1 句)
+   • 透气弹性腰围（打孔氨纶）：牺牲连续面积换通风；本概念靠间隙透气。
+- 弹性热熔胶腰围（减压腰围）：靠弹性体触感减压；本概念靠多根细分担。
+- 弹性力基线：Front Belt Force Window（前腰带弹性力窗口）、Elastic Tension & Creep（橡筋张力与回缩率）；密排细丝的断丝风险：Elastic Strand Snicking（弹性橡筋断丝失效化）。
+- 材料：内外衬可选纺粘或热风布 → 热风粘合无纺布。
+
+--- [[CN 114376803 A（一种裤型吸收制品弹性腰围·米卫（杭州））]]  (1 句)
+   • **「间隙 0.01–0.1 mm」是透气性的结构来源**（间隙随呼吸伸缩），比打孔方案更被动稳妥 → 超细氨纶密排腰围（褶皱布纹）
+- **1–3× 拉伸倍率与褶皱深度的关系**（1× 浅/3× 深）给腰围外观-弹性调试提供了参数轴 → Elastic Tension & Creep（橡筋张力与回缩率）
+- **背景技术把腰围路线归为粗橡筋/预拉弹性布/弹性膜三类**，与本库 Front Belt Force Window（前腰带弹性力窗口）、弹性热熔胶腰围（减压腰围） 的讨论互为参照 → Elastic Strand Snicking（弹性橡筋断丝失效化）
+

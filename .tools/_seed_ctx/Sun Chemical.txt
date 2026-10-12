@@ -1,0 +1,108 @@
+# SEED: Sun Chemical
+# type: entity | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#
+# 全库正文命中 143 页，200 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[等离子处理 Plasma Treatment]]  (6 句)
+   • The vault never defines plasma treatment as a process; it treats it functionally, as a **dry** route to fix polypropylene's poor wettability — *"Plasma fixes PP's poor wettability dryly"* and *"Plasma makes PP hydrophilic for hygiene without wet chemistry"*（源：Nonwoven fabric finishing）。It is grouped with the emerging/developing finishing technologies (alongside microencapsulation, laser etching, biomimetic lotus-leaf and electrochemical routes)（源：Nonwoven fabric finishing）。
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Dry vs wet route.** Plasma is presented as the alternative to the wet-chemical finishes catalogued in the same source (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV finishes)（源：Nonwoven fabric finishing）。The adjacent spin-finish source adds the durability context that motivates a dry route: surfactant-type finishes are subject to **thermal migration** — the surfactant migrates to and enriches on the fibre surface on heating, so hydrophilicity decays over time（源：Man
+   • **Direct.** Plasma makes PP hydrophilic **for hygiene** without wet chemistry（源：Nonwoven fabric finishing）— this is the PP-based nonwoven in a topsheet/ADL role, where wettability, not chemistry, is the design target. See 亲水整理 Hydrophilic Finish、Topsheet（面层）。
+- **Bonding side.** Because it also improves wetting/bonding of low-energy PP, corona/plasma sits upstream of PP bonding operations（源：Chemical bonding）。See Thermal bonding、粘合剂 Binder。
+- **Motivation — rewet durability.** The wet-chemistry h
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (4 句)
+   • Market framing: US$1.2 B (2024) → US$4.1 B (2033) at 14.6 % global CAGR; APAC leads at 17.2 %; polymers > 42 % of material forms; North America holds 38 % share but slows; zero diaper-specific SKUs. The review is explicit that a market tailwind is not technical accessibility — head IP sits in the US/EU (Merck, GIVIDI, Avient, Sun Chemical).
+   • Competitive landscape: mid-high concentration with four leaders locking high-value applications (Merck — polymer platform; GIVIDI — proprietary security pressure materials; Avient — elastomers/composites; Sun Chemical — printable mechanochromic inks) plus two printable-ink differentiators at the hygiene gate (CTI, LCR Hallcrest). The entry segment with no giant guarding it is **printable pressure-activated inks**.
+   • Sourcing: eight international suppliers/institutes ranked by hygiene fit (CTI primary; Fujifilm Prescale and Sensor Products as metrology tools; Sun Chemical and LCR Hallcrest as ink alternatives; Merck and Avient as platform partners; Chungnam/Hanyang as research partners), and a domestic list where only **Henan Jiayida** and **Shenzhen Xingcheng** are confirmed with real mechanochromic capability. Three application scenarios are ranked: A over-tightness indicator (nearest term), B comfort moni
+   • （中文摘要：综述先推翻初始假设——原计划采购现成商用压力材料（CTI HPP 油墨、Fujifilm Prescale），但商业材料均为不可逆计量型、阈值固定在 ≥40,000 psi，不存在「贴近皮肤、柔软、低阈值、可逆」的现货规格，构成创新空白；被点名的陷阱是把工业计量材料当消费指示材料用。市场面：2024 年 12 亿 → 2033 年 41 亿美元，全球 CAGR 14.6%、亚太 17.2%，聚合物占材料形态 >42%，北美占 38% 但放缓，纸尿裤专用 SKU 为零；同时明确「市场顺风 ≠ 技术可得」，头部 IP 在美欧（Merck、GIVIDI、Avient、Sun Chemical）。竞争格局为中高集中度：四家龙头锁定高值应用，另有两家「可印刷油墨」差异化厂商守在卫品入口（CTI、LCR Hallcrest）；无人把守的入口段正是可印刷压敏油墨。技术路线分 M1 力致变色分子激活、M2 光子晶体结构色、M3 CLCE 介晶取向、M4 表面起皱；结论是连续合身监测须走可逆路线（M2/M3），一次性过紧报警可用半可逆路线（M1）。材料候选四类：HPC（法规金标准、幂律应变—
+
+--- [[Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30）]]  (4 句)
+   • 信越化学（Shin-Etsu Chemical，东证代码 4063）2026-07-30 的**IR 公告**，内容为**第 27、28 次新股预约权（third-party allotment）发行条款的决定**，对应通过 ToSTNeT-3 实施的**全额承诺型股份回购（Japanese ASR）**。⚠️ **归档名为「SAF 表面处理剂专利」，实际内容与 SAF 无关**。
+   • The document is an English-language convenience translation of a Japanese IR release. Shin-Etsu Chemical announces that, following its off-auction own-share repurchase via TSE's ToSTNeT-3, the board resolution of 2026-07-24 fixed the terms of the **27th and 28th issuance of stock acquisition rights via third-party allotment**, a structure used for a **Fully Committed Share Repurchase (Japanese ASR)**. The release details the exercisable-share maximum, the repurchase value and the average-price c
+   • **本文件是信越化学的 ASR 相关 IR 公告，不含任何 SAF 技术或专利内容** —— 支撑页：Shin-Etsu Chemical（信越化学）、Super Absorbent Fibre（超吸水纤维 SAF）
+- **供应基地库中「Shin-Etsu SAF 表面处理剂专利」这一条目目前无有效来源支撑** —— 标
+   • 实体：Shin-Etsu Chemical（信越化学）
+- 概念（待补）：Super Absorbent Fibre（超吸水纤维 SAF）（本文件**未**提供该概念的支撑数据）
+- 同名副本：Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）
+
+--- [[湿迁移 Wet Migration]]  (3 句)
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **6. 干燥过程中的迁移（另一口径）：** 干燥中粘合剂迁移形成**表富里贫（binder-rich skin / starved core）**，导致**分层风险**（源：Chemical bonding）。同一章对聚合物型增塑剂的表述为 "less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+   • **提供正文摘录的库内页面**
+- Numerical Methods for Diffusion (Crank Ch.8)
+- Chemical bonding
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+- Blizzard Core（Blizzard 芯体结构）
+- 可降解生物基材料与薄且强芯体技术深度解析
+- Microencapsulation
+
+--- [[Shin-Etsu Chemical（信越化学）]]  (3 句)
+   • **公告事项（可记量级，不落具体数字）**：2026-07-30 的 IR 公告决定**第 27、28 次新股预约权（third-party allotment，第三方配售）发行条款**，对应通过东证 **ToSTNeT-3** 实施的**全额承诺型股份回购（Fully Committed Share Repurchase / Japanese ASR）**；董事会决议日期为 **2026-07-24**；回购规模为**百亿日元级**（原文含可行使股数上限、回购价值与 VWAP 均价计算，属具体商务 / 金融条款，本页不落数）。（源：Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30））
+- **文件性质**：该文件为日文 IR 公告的**英文便利译本**，含「非投资劝诱」标准免责声明；文中代表董事与 IR 联系人姓名、电话等个人信息依 AGENTS.md §5 **不页面化**。（源：Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30））
+- ⚠️ **归档口径不符（重要）**
+   • **主营与产品牌号全缺**：信越化学的主营业务、SAF / 无纺布 / 卫材相关产品与牌号，本 digest 均无支撑 。
+- **供应基地库条目无有效来源**：供应基地库中「Shin-Etsu SAF 表面处理剂专利」这一条目**目前无有效来源支撑**，标 。（源：Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30））
+- **归档错误需人工确认**：同一归档名下，06_ 件与 v3 件均为 IR 公告，**未取得 SAF 表面处理剂专利信息**，建议人工确认取件 / 链接是否正确 。（源：Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30））
+- **与 KC 的关系**待核（无证据）。
+   • Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30）（主信息源）
+- Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）（同源副本，结论回指主件）
+- Super Absorbent Fibre（超吸水纤维 SAF）（归档名所指概念；本文件**未**提供其支撑数据）
+- SAF vs SAP（超吸水纤维 vs 高吸水树脂）（SAF 概念横向对照）
+
+--- [[Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure]]  (3 句)
+   • Chapter 3 is the **structure–property bridge 结构-性质桥梁** of the book: it starts from chemical bonding, passes through three levels of structural description (primary / secondary / tertiary), and builds the hierarchy **bond → chain → aggregated state 键 → 链 → 聚集态**.
+   • 一级结构是 polymer 性质的"化学基因 chemical gene"：官能度、链节化学、取代基与异构化（isomerism）都在此层面决定后续二级/三级结构。
+   • **Pauling chemical-bond theory (1930s–40s)** — the primary/secondary bond dichotomy derives from it.
+- **London dispersion (1930)** — the quantum-mechanical explanation of van der Waals forces.
+- **IUPAC three-level structure framework (1958)** — primary / secondary / tertiary; the source follows it strictly.
+- **Flory polymer physics** — the relation between physical properties and the aggregate effect of secondary bonds is a cornerstone.
+- **Tension: bond strength vs. aggregate effect 键强 vs. 聚
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Interface chemistry:** SAP particles (50–400 μm sodium polyacrylate) form chemical-physical composite interphase with adjacent adhesive layer [Part 2, Line 2900–2920]
+- **Key constraint:** Adhesive must **wetting + mechanically encase** SAP particles — determines bulk absorbency under pressure
+- **Formulation principle:** Tg must be "substantially below the application temperature" [Part 3, Line 16067–16068]
+- **Chemistry:** Unmodified acrylic dispersions + hot melts dominate [Part 3, Line 165
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+
+--- [[Handbook of Nonwovens]]  (3 句)
+   • A definitive Woodhead/CRC technical handbook (2007) mapping the nonwovens industry end-to-end — from web formation (dry/wet/polymer-laid) through mechanical, thermal and chemical bonding and finishing, to characterisation, testing and modelling — with hygiene-disposables as the dominant application throughout.（中文：2007 年 Woodhead/CRC 权威手册，端到端讲透无纺布——从干/湿/聚合物成网，经机械/热/化学加固与后整理，到表征测试建模，全程以卫生用品为最大应用场景。）
+   • Development of the nonwovens industry — 行业定义、三族分类、原料（PP 63%）与市场结构，卫生用品为最大终端（>33%）。
+- Dry-laid web formation — 干法成网（梳理/交叉铺网/气流成网），绒毛浆 + SAP + 双组分与卫生芯体/导流层配方。
+- Wet-laid web formation — 湿法成网（源自造纸），伯努利堰口速度、天丝/深沟槽 PET、无胶乳双组分热粘。
+- Polymer-laid web formation — 纺粘/熔喷聚合物成网，树脂 MFR 窗口、PP/PE 热粘窗口、SMS 与 Coform® 卫生应用。
+- Mechanical bonding — 机械加固：针刺/缝编/水刺，比能量 K 与 SE_c、射流冲击力 F∝p·d²、原位微纤化。
+- Thermal bonding — 热粘合：轧光/热风/红外/超声，皮芯双组分与"爆点"过粘失效，面层 10–30 g/m²。
+- Chemical bonding — 化学粘合：胶乳/粘合剂、Fox Tg 方程、PP 表面能 23 mN/m
+   • Web formation families 成网三族：drylaid / wetlaid / polymer-laid — 见 Development of the nonwovens industry、Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation
+- Bonding & finishing 加固与整理：mechanical / thermal / chemical / finishing — 见 Mechanical bonding、Thermal bonding、Chemical bonding、Nonwoven fabric finishing
+- Hygiene materials 卫材主线：topsheet / ADL / core / backsheet / rewet — 贯穿全书各章
+- Measurement & modelling 测试与建模：standards, wicking vs demand absorbency, D'Arcy/Lucas–Washburn
+
+--- [[Nonwoven fabric finishing]]  (3 句)
+   • Chapter 8 (A. Ahmed) addresses the finishing stage where nonwoven substrates are transformed into value-added, fitness-for-purpose products via wet/dry finishing, chemical finishes and lamination — the chapter where hygiene function (softening, rewetting, barrier, lotion delivery) is actually engineered.（中文：第 8 章讲后整理——通过湿/干整理、化学整理与复合层压，把无纺布基材转化为功能化成品，是卫生用品功能（柔软、回渗、阻隔、加液）真正被设计的环节。）
+   • It frames finishing as either wet (washing, impregnation, dyeing, coating) or dry (calendering, embossing, emerising, microcreping), stressing end-use-driven process selection.（将整理分为湿法/干法，强调终端驱动选型。）
+- Wet operations (scouring, coloration, printing), chemical finishes (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV) and their application methods are detailed.（详述湿整理、化学整理（抗静电/抗菌/润滑/阻燃/防水/柔软/抗UV）及施加方式。）
+- Mechanical finishing (splitting, perforating, drying/relaxation, Mi
+   • 父书：Handbook of Nonwovens
+- 概念：回渗 Rewet、亲水整理 Hydrophilic Finish、层压 Lamination、底膜 Backsheet、等离子处理 Plasma Treatment、Topsheet（面层）
+- 关联章节：Thermal bonding、Chemical bonding、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）]]  (3 句)
+   • This file is the v3-archived twin of the  document. Its text is identical: an English convenience translation of Shin-Etsu Chemical's 2026-07-30 release fixing the terms of the 27th and 28th issuance of stock acquisition rights via third-party allotment, used for a Fully Committed Share Repurchase (Japanese ASR) after a ToSTNeT-3 off-auction buyback. It contains the same exercisable-share maximum, repurchase-value and VWAP-based average-price mechanics, and the same non-solicitation disclaimer. 
+   • **v3 归档件与 06_ 件为同一份 IR 公告的重复存档，SAF 技术侧无任何新增信息** —— 支撑页：Shin-Etsu Chemical（信越化学）
+   • 实体：Shin-Etsu Chemical（信越化学）
+- 概念（待补）：Super Absorbent Fibre（超吸水纤维 SAF）
+- 同名副本：Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30）
+

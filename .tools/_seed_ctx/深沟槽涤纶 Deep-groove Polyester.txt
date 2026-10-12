@@ -1,0 +1,111 @@
+# SEED: 深沟槽涤纶 Deep-groove Polyester
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#
+# 全库正文命中 46 页，76 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[珠光颜料 Lustre Pigment]]  (5 句)
+   • 1. **Fibre-geometry lustre（纤维几何致光泽）**: for speciality PA/PET yarns, **"the non-circular cross-sections result in greater lustre and covering power and improved handle"**, with geometry set by the **spinneret hole shape**（trilobal, rectangular, hexalobal, hollow）and melt rheology（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+2. **Structural colour without pigment（结构色）**: the Morphotex example produces **"colour from periodic layer thickness rather than from dye m
+   • **Geometry over formulation.** In the vault the sourced route to lustre is **non-circular fibre cross-section**, i.e. a spinneret-hole / melt-rheology design variable rather than an added pigment（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Periodic-layer optics.** Structural colour arises from **periodic layer thickness**, giving colour with no dye molecule — the physics shared with the vault's structural-colour strand（源：Intelligent Textiles and Sports Clo
+   • **Topsheet optics and hand.** The shaped-cross-section trade space（lustre × covering power × handle, p. 387）is named as relevant to **topsheet fibre selection**, though the source sentence tails off（）（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Adjacency to the chromic programme.** Structural colour without pigment is described as "directly adjacent to our chromic programme" — i.e. the vault's functional-colour work is optics-led, not dye-led（源：Intelligent
+   • **No pearlescent-pigment entry exists**: no mica/oxide/titanium-dioxide pearlescent chemistry, no particle-size / haze / gonio-appearance spec, and no supplier is recorded .
+- The vault "lustre" hits are about **fibre geometry** and **structural colour**, not about a pigment additive — the two framings are not interchangeable（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- The Table 14.6 ranking (trilobal bright…) is truncated in the digest and cannot be quoted 
+
+--- [[General Conclusions and Appendixes]]  (4 句)
+   • The thesis capstone: it consolidates both platforms (photoresponsive LCP polyesters for controlled release; oriented columnar membranes for selective, humidity-independent proton transport) and states the EIS-vs-I–V measurement caveat.
+（论文收官章：收束两大平台（光响应液晶聚酯用于控释；取向柱状膜用于选择性、湿度无关质子传输），并给出 EIS 与 I–V 表征的方法学警示。）
+   • Two technical platforms close six chapters under the unified "smart applications" goal: photoresponsive main-chain LCP polyesters and columnar/ordered ion-transport hybrid membranes.（两大平台在"智能应用"总目标下收束六章：光响应主链液晶聚酯与柱状/有序离子传输杂化膜。）
+- Photoisomerization is the controlled-release engine: α-methylstilbene main-chain polyesters undergo UV-triggered Z↔E isomerization causing backbone contraction, releasing vanillin from microcapsules that are dark-stable.（光异构是控释引擎：含 α-甲基芪的主链聚酯经 UV 触发 Z↔E 异构致主链收缩，从而在暗态稳定的
+   • Both LCP platforms realize the thesis "smart applications" goal (controlled release + selective humidity-independent transport) — support page: Liquid Crystalline Polymers Smart Applications.
+- EIS is unreliable for polyamine hybrids; I–V is the correct method — see Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2 and the polyester platform in Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene / Applying 
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 聚酯合成章：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜基础章：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- 纳米线 Part 2：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+
+--- [[Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene]]  (4 句)
+   • Establishes the photoresponsive main-chain LCP polyester family (P1–P4) and proves that α-methylstilbene E–Z isomerization is the switch for reversible liquid-crystalline order and surface wettability — the material basis for later microcapsule/permeability work.
+（确立了光响应主链液晶聚酯 P1–P4 家族，并证明 α-甲基芪 E–Z 异构是液晶序态与表面润湿可逆切换的开关，是后续微胶囊/透过性研究的材料基础。）
+   • The goal is a UV-sensitive main-chain nematic polyester family using 4,4′-dihydroxy-α-methylstilbene as the photoactive mesogen, as precursor shells for light-triggered-release microcapsules.（目标是以 4,4′-二羟基-α-甲基芪为光活性介晶制备主链型 UV 敏感向列液晶聚酯，作为光触发释放微胶囊壳材前驱体。）
+- Homogeneous condensation yields only oligomer (P1, DP≈7.9, 14% yield); liquid–liquid phase-transfer-catalysed interfacial polyesterification (Jegal & Blumstein) gives high-Mw P2 (Mw≈41,400 g/mol, 68% yield) — synthesis route is the key process c
+   • Interfacial polyesterification is required for high-Mw photoactive main-chain LCPs — support page: Liquid Crystalline Polymers Smart Applications.
+- α-Methylstilbene E–Z isomerization = reversible light-controlled order + wettability switch, basis for photo-triggered release — see Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester and An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 微胶囊应用章：Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester
+- 原子级机理章：An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks
+
+--- [[Fibers and Fibrous Materials]]  (3 句)
+   • Chapter 6 (pp. 216–249; Ludwig Rebenfeld, TRI) is the materials catalog plus the one design law that governs all of it: because 'the fiber surfaces constitute the pore walls' in capillary sorption, absorbency is a surface-and-geometry problem — and the chapter proves that special-purpose fibres (alloy rayon, modified cellulose, deep-groove polyester, hollow chicken-feather) win by engineering the pore wall and pore geometry rather than by changing the polymer.（中文：第 6 章确立"毛细吸收中纤维表面即孔壁"这一设计律，并用合金粘
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Liquid Crystalline Polymers for Smart Applications]]  (3 句)
+   • **General Introduction and Objectives** (p.1) — "Smart" materials; liquid crystals; nematic/cholesteric, smectic and columnar mesophases; calamitic vs. discotic molecules; main-chain (MC) vs. side-chain (SC) LCPs; strategy and four stated objectives (p.11).
+- **Part 1. Application of Calamitic Liquid Crystalline Polymers** (p.15) — intro to Microcapsules and Controlled Release.
+  - **Chapter 1** (p.23) Synthesis and Characterisation of a New Family of Photoactive Liquid Crystalline Polyesters ba
+   • 1. **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable.
+2. **Photoresponsive polyesters.** Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight.
+3. **First-order p
+   • Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene — thesis Ch.1 as a standalone chapter page
+- Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester — thesis Ch.2 as a standalone chapter page
+- An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks — thesis Ch.3 as a standalone chapter page
+- Applying Nature's Genius to Discotic Liquid-crystal Po
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (3 句)
+   • PET is presented as "the most outstanding member of the polyester fibre family" (ISO definition, p.271): "a polymer comprising synthetic linear macromolecules having in the chain at least 85% (by mass) of an ester of a diol and terephthalic acid". The chapter covers the Whinfield and Dickson invention and commercialization by **DuPont (1953)** and **ICI (1954)** (pp.271–272), then runs the full chain: **polymer production** via two routes → **melt spinning** into four speed-defined product class
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres — the mechanics behind PET draw ratio 3–6
+- Antimony-Free PET Fibre（无锑 PET 纤维） — PET catalyst compliance, background to the Sb activity series
+- CoPET（低熔点共聚酯） — low-melting copolyester, melting-point depression route
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — PET spunbond topsheet fibre selection
+
+--- [[Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization]]  (3 句)
+   • Chapter 6 is the synthesis-chemistry core. It separates **step-growth（逐步聚合）from chain-growth（链增长）**, then quantifies step-growth with the **Carothers equation** and **Flory's statistical distribution**, extends to **functionality f > 2 → crosslinking → gelation**, and closes with the product spectrum: polyester / polyamide / polyurethane / polycarbonate / polysulfide / polysiloxane / alkyd. 本章把聚合反应从经验工艺提升为可定量预测的统计动力学体系——这也是 SAP（交联聚电解质网络）合成的理论基石。
+   • **聚酯合成路径 / Polyester routes（line 1140-1159）**：
+   • **醇酸树脂 / Alkyd（line 1184-1198）**：*"Glyptal polyesters were produced in 1901 by heating glycerol and phthalic anhydride."*；*"The terms short oil, medium oil, and long oil alkyd are used to signify the 'oil length' obtained by use of 30–50%, 50–65%, and 65–80% of unsaturated oil, respectively."*
+
+--- [[Wet-laid web formation]]  (3 句)
+   • Chapter 3 (C. White) covers wetlaid nonwovens — the papermaking-derived branch — developing the fluid mechanics of slurry deposition, the fibre palette (cellulose, Tencel/Lyocell, SWP, deep-grooved PET) and the bonding toolbox, with hygiene/wipes as named end-uses.（中文：第 3 章讲湿法成网（源自造纸），发展浆料沉积的流体力学、纤维谱系与粘合体系，卫生用品/拭布为明确终端。）
+   • It opens with the standards definition (EN 29092 / ISO / EDANA) separating wetlaid nonwovens from wetlaid papers, then derives the Bernoulli balance for slice velocity.（先以标准定义区分湿法无纺布与湿法纸，再推导堰口速度的伯努利方程。）
+- Two deposition regimes are established: filtration (individual fibres → uniform) vs thickening (pre-flocculated → non-uniform).（两种沉积机制：过滤式均匀、增稠式不均。）
+- The fibre palette is surveyed: cellulose, Tencel/Lyocell (wet strength + fibrillation), SWP synthetic wood pulp, deep-grooved PET, polyolefins.（
+   • The L/D > 300 test is the operational separator from paper at the nonwoven/paper boundary.（L/D>300 是湿法无纺布与纸的操作性分界。）
+- Slice velocity follows a clean square-root law linking machine speed to pond height/pressure.（堰口速度遵循平方根律，联动机速与液位/压力。）
+- Filtration vs thickening deposition is the central uniformity control.（过滤 vs 增稠沉积是均匀性的核心控制。）
+- Deep-grooved PET moves fluid transport from a web-design to a fibre-design problem.（深沟槽 PET 将流体输运从网设计下放到纤维截面设计。）
+
+--- [[双组分纤维 Bicomponent]]  (2 句)
+   • **Conjugated variants:** **island-in-sea（海岛型）** and **radial/split-pie（径向瓣/桔瓣型）** configurations are made spinnable and separable by bicomponent design, and are the direct ancestors of **splittable nonwovens** and high-coverage coverstock/wipe webs（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+   • Bicomponent Fibre Technology Development Trends
+- Bicomponent Fibre Technology Trends China and Abroad
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+- Thermal bonding
+- Dry-laid web formation
+- 皮芯复合纤维
+- ES Fibre Hydrophilic Function and Applications
+- 热风无纺布
+- 三叶形截面纤维（Trilobal Fibre）
+- Absorbent Techn
+
+--- [[导电纱线 Conductive Yarn]]  (2 句)
+   • **Resistive (conductive) sensing.** A controller applies voltage across a conductive thread and monitors the voltage at its ends; in the dry state the reading is ≈ full-scale, and when exudate wets the path the measured potential collapses（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **How fibres are made conductive.** Synthetic fibres are poor conductors and build up electrostatic charge (p. 374); three routes are named — **chemical modification, physical blending, and addin
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+

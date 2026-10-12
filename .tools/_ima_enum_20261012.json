@@ -1,0 +1,22 @@
+{
+  "_mode": "daily-incremental",
+  "_channel": "REST fallback (MCP unavailable this session)",
+  "_note": "Root-level enumeration via openapi/wiki/v1/get_knowledge_list; root returned 39 entries, 32 files already in ledger, 2 new.",
+  "root": [],
+  "items": [
+    {
+      "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515332654669274",
+      "media_type": 11,
+      "title": "会议纪要：2026-10-12",
+      "kb_path": "会议纪要：2026-10-12.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_6467148e3f02d889a14e11e463913d65",
+      "media_type": 6,
+      "title": "芯吸效应：水为什么自己往细缝里钻",
+      "kb_path": "芯吸效应：水为什么自己往细缝里钻.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# SEED: Ardex
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#
+# 全库正文命中 2 页，4 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Clariant]]  (2 句)
+   • 源：Ancient Organic Dyes and Pigments Chemistry —— 供应商清单：BASF · Clariant · Henkel。
+- 源：Chromic Phenomena Introduction and Reversible Colour Change —— 供应商清单：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex。
+   • Clariant 的主营业务与产品线 。
+- 产地 / 生产基地 。
+- 与金佰利（KC）的既有关系 。
+- 在变色材料 / 卫材语境下与本库其他供应商页的关系（参见 BASF、Henkel、PPG Industries、DIC、Sun Chemical、Ardex）。
+
+--- [[Chromic Phenomena Introduction and Reversible Colour Change]]  (2 句)
+   • 父书：Chromic Phenomena
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 电致变色 Electrochromic · 离子变色 Ionochromic · 机械变色 Mechanochromic · 光致变色 Photochromic · 液晶 Liquid Crystal
+- 相关章节：Ancient Organic Dyes and Pigments Chemistry · Mechanochromic Photonic Sensors · Stimuli-Responsive Polymer Materials (Nature Materials Review)
+- 供应商：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex
+   • **BPA 替代是强制项**：热致变色复合颜料的商用核心质子供体是 **Bisphenol A**，FDA/EU 均限制其在婴幼儿用品使用 → 纸尿裤/湿巾功能涂层**必须评估 BPA-free 替代**（BPAF、BPAZ、新型 spirolactone、无 A 型双酚质子供体）。可关注供应商方案：Ardex、Sun Chemical、DIC。
+- Spirooxazine 温度依赖"High"（Table 1.9）→ 不宜用于需要宽温区的产品。
+- Fulgides 疲劳性"Fair" → 需要高循环寿命的卫生用品智能层不宜使用。
+

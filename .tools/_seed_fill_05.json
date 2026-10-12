@@ -1,0 +1,21 @@
+{
+  "batch": "05",
+  "done": [
+    "硅烷偶联剂 Silane Coupling Agent",
+    "超分子 Host-Guest Chemistry",
+    "毛细芯吸 Capillary Wicking",
+    "接枝共聚 Graft Copolymer",
+    "润湿剂 Wetting Agent",
+    "一氯乙酸 Monochloroacetic Acid",
+    "机械脱水 Mechanical Dewatering",
+    "荧光增白剂 Optical Brightener"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "硅烷偶联剂 Silane Coupling Agent：与既有指针页 [[Silane Coupling Agent]]（status=merged，页内已标 manual_review）为同一概念的命名变体，是否删除/合并待人工裁决",
+    "超分子 Host-Guest Chemistry：cited-by 来源与全库摘录均未给出形式化定义（已标定义待补）；正文另引用了同论文来源页 [[Molecular and Supramolecular Systems]]（含「超分子主客体」章节，提供唯一可用事实）",
+    "荧光增白剂 Optical Brightener：定义待补；来源只给可迁移性 FWA 的判定方法，未给卫材定量限值",
+    "机械脱水 Mechanical Dewatering / 一氯乙酸 Monochloroacetic Acid：定义均待补，来源仅给工艺角色与数字"
+  ],
+  "count": 8
+}

@@ -1,0 +1,22 @@
+# SEED: 结构性常数 K
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fluid Absorption in High Bulk Nonwovens
+#
+# 全库正文命中 2 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Specific Air Volume]]  (1 句)
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+

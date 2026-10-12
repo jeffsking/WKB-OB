@@ -1,0 +1,22 @@
+{
+  "batch": "p1_Seymour Polymer Chemistry_03",
+  "book": "Seymour Polymer Chemistry",
+  "done": [
+    "Seymour Polymer Chemistry Ch15 Reactions of Polymers.md",
+    "Seymour Polymer Chemistry Ch16 Synthesis of Reactants.md",
+    "Seymour Polymer Chemistry Ch17 Polymer Technology.md",
+    "Seymour Polymer Chemistry Ch18 Special Topics.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Seymour Polymer Chemistry Ch16 Synthesis of Reactants.md",
+      "issue": "年产量汇总表中除 ethylene/propylene/butylene(52/29/0.4 billion lb)、styrene(~11 billion lb)、VCM(~15 billion lb)、adipic acid(1.8 billion lb US) 为原文逐句引用外，terephthalic acid/EO/EG/formaldehyde/phenol/butadiene/acrylonitrile 等数值来自源文件数据汇总而非原书正文引句，页面已标注 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch18 Special Topics.md",
+      "issue": "源文件标注 §18.3 紫外降解中 'Norrish' 字样在原书 .txt 中未出现（[未找到原句]），页面已按 [待验证] 处理，不得将本书作为 Norrish 反应的引用来源。"
+    }
+  ],
+  "count": 4
+}

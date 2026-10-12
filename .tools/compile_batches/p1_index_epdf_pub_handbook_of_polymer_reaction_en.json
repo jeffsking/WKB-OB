@@ -1,0 +1,12 @@
+{
+  "batch": "p1_index_epdf_pub_handbook_of_polymer_reaction_en",
+  "book": "epdf.pub_handbook-of-polymer-reaction-engineering",
+  "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/epdf.pub_handbook-of-polymer-reaction-engineering.pdf.md",
+  "mode": "index_only",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/epdf.pub_handbook-of-polymer-reaction-engineering.pdf.md",
+      "bytes": 980957
+    }
+  ]
+}

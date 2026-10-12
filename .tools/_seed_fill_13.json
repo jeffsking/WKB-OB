@@ -1,0 +1,25 @@
+{
+  "batch": "13",
+  "done": [
+    "棉纤维 Cotton",
+    "蒙脱土 Montmorillonite",
+    "协同吸附 Cooperative Adsorption",
+    "抗菌整理定量测试（AATCC TM100 _ AATCC 100）",
+    "Donnan 溶胀",
+    "聚合物分散液晶 PDLC",
+    "两亲吸附 Amphipathic Adsorption",
+    "虚拟原型 Virtual Prototyping"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "棉纤维 Cotton: 无棉专属 cost/denier/供应数据；无棉专属吸液量(g/g)；棉自身湿/干强度比未给出（库中仅羊毛 ~60%）——均标 [待补]。",
+    "蒙脱土 Montmorillonite: 无尿液口径数据（源专利面向农林业保水）→ 卫材适用性 [待验证]；+50% / 13× / 500 / 130 g/g 均为摘要级宣称（CN 101787101 A 源页明示'无平行数据支撑'），引用须带该限制；MMT 粒径/CEC/密度缺。",
+    "协同吸附 Cooperative Adsorption: 无独立'一句话定义'原句，本页定义由机理描述（第二层半胶束、电荷中和反号）承担，标 [原文残缺]；无定量 CAC/半胶束尺寸。",
+    "抗菌整理定量测试（AATCC TM100 _ AATCC 100）: 具体接种量/培养条件/测试菌种依方法正文，库中未给 → [待验证]；无卫品合格门槛数值；源读到的部分为标准目录（程序须回方法正文）。",
+    "Donnan 溶胀: 无定量 Donnan 模型参数（固定电荷密度、网络模量）；Donnan 与 Flory-Rehner 的关系仅称'同一物理族'未推导；Ca²⁺ 测试液效应为预测非实测 → [待验证]。",
+    "聚合物分散液晶 PDLC: 无应变-透光率本构曲线、无疲劳/循环数据、无湿度稳定性数据 [待补]；5CB-PDMS 在水/尿液环境稳定性未验证 [待验证]；源为 SUNFEST 2015 学生 poster，非同行评审，仅作配方线索。",
+    "两亲吸附 Amphipathic Adsorption: 无定量吸附等温线(mg/m²) [待补]；无独立'一句话定义'原句，定义由取向描述承担，标 [原文残缺]。",
+    "虚拟原型 Virtual Prototyping: 库内自有吸收模型无量化精度值；0.03%（占总液量）分辨要求被源文判定当前已验证模型'likely not accurate enough'、尚未闭环 → [待验证]；3-D 网扩散类比法依赖经验输入，结果只读趋势不读量级。"
+  ],
+  "count": 8
+}

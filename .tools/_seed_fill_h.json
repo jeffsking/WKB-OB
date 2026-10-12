@@ -1,0 +1,19 @@
+{
+  "batch": "seed_fill_h",
+  "done": [
+    "WIKI/concepts/相变材料 Phase Change Material.md",
+    "WIKI/concepts/82 鼓距与产品节距解耦 repitch 选型.md",
+    "WIKI/concepts/AUL 加压吸水率.md",
+    "WIKI/concepts/Bessel 函数.md",
+    "WIKI/concepts/Boltzmann 变换.md",
+    "WIKI/concepts/Clariant.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/concepts/AUL 加压吸水率.md",
+    "WIKI/concepts/Clariant.md",
+    "WIKI/concepts/相变材料 Phase Change Material.md",
+    "WIKI/concepts/82 鼓距与产品节距解耦 repitch 选型.md"
+  ],
+  "count": 6
+}

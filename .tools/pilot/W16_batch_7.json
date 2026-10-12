@@ -1,0 +1,65 @@
+{
+ "batch_id": "W16-7",
+ "items": [
+  {
+   "media_id": "weburl_3867e2b60070d7dc3f413086d0b0036e_4ed18aa89d8c5a22732d136edf325167",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md",
+   "name": "亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md",
+   "type": "weburl"
+  },
+  {
+   "media_id": "word_e5656dbc3d0f2888096a8b56b414d9fc_b8df7fb628d2c0c154eeba5fa1174cae001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素卫材应用技术路线图_V1.docx.md",
+   "name": "纳米纤维素卫材应用技术路线图_V1.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_cc663b7623066258c55080831177d6b2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Strategic Roadmap_ Commerciali....pdf.md",
+   "name": "Strategic Roadmap_ Commerciali....pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_6a66ecbc3ea2c6b0ba5aafd39b19d34a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP database for COCO.xlsx.md",
+   "name": "SAP database for COCO.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_f21d6858ac1535b95041b79130a4c57b_9abefa9577fd8107ab3b160ed03ea8fc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_sap_analysis.md.md",
+   "name": "bcnf_sap_analysis.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_e9af1c030379522c4bd97845536ad457001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md",
+   "name": "Intake Systems Tech Pipeline - Archive.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_ea8870848895b4f61d7990044b18ddce001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_中文版.docx.md",
+   "name": "SAP选型分析_三PPT对比_中文版.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_478bd181498261887ce76eb2a2771945001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner-Surge Pathway - Feb 2023.pptx.md",
+   "name": "Liner-Surge Pathway - Feb 2023.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_5fd39bf38b939305b8faa2e85781acf6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/2026-05-05 - QUINN.pptx.md",
+   "name": "2026-05-05 - QUINN.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d361ea9436521ca550639d3cb02c701e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.13 - GML update.pptx.md",
+   "name": "2025.03.13 - GML update.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

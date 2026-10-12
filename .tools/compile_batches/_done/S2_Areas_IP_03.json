@@ -1,0 +1,56 @@
+{
+  "batch": "S2_Areas_IP_03",
+  "stage": "S2",
+  "block": "Areas/IP",
+  "source_pages": [
+    "EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)",
+    "EP1581159B1 Method for Producing Diaper Pants（弹性片材）",
+    "US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)",
+    "US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)",
+    "WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)",
+    "US20240099910A1 Digitally Printed Backsheet Film (RKW SE)",
+    "EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)",
+    "US5197958A & US5389093A Wetness Indicating Diaper (Howell)"
+  ],
+  "concept_pages": [
+    "Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）",
+    "Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）",
+    "Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）",
+    "Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）"
+  ],
+  "entity_pages": [
+    "RKW SE",
+    "Unicharm Corporation（尤妮佳）"
+  ],
+  "comparison_pages": [
+    "Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）"
+  ],
+  "updated_existing": [
+    "WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)",
+    "Ontex",
+    "Meltblown Nonwoven（熔喷非织造布）",
+    "The Procter & Gamble Company（宝洁）",
+    "LG Chem（LG 化学）",
+    "SAP性能指标（CRC AUL GBP Vortex）",
+    "Thermochromic Microcapsule (Leuco Dye System)",
+    "Wetness Indicator Ladder（尿湿指示阶梯）"
+  ],
+  "manual_review": [
+    "EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)",
+    "EP1581159B1 Method for Producing Diaper Pants（弹性片材）",
+    "US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)",
+    "US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)",
+    "WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)",
+    "US20240099910A1 Digitally Printed Backsheet Film (RKW SE)",
+    "EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)",
+    "US5197958A & US5389093A Wetness Indicating Diaper (Howell)",
+    "Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）",
+    "Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）",
+    "Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）",
+    "Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）",
+    "Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）",
+    "RKW SE",
+    "Unicharm Corporation（尤妮佳）"
+  ],
+  "notes": "10 个 item → 8 个新源摘要页 + 2 处合并：① JP5604444B2（日本特许公报 B2，登録日 2014-08-29 / 発行日 2014-10-08）经國際出願番号 PCT/SE2009/051446 → WO 2010/071584 判定为既存 SCA 族第 4 个成员，未另建页，仅在该族页追加书目表、权利人（SCA Hygiene Products AB）与 22 项权利要求口径，注明三成员权利要求数不一致（JP 22 / US 28）；② US5389093A 文件载明 [63] Continuation of Ser. No. 861,475 → Pat. No. 5,197,958，与 US5197958A 为同族，合并为一页，并在 front matter 用 source_paths 列双路径。命名一致性：新建源页沿用本块惯例「<专利号> <English Title> (<Assignee>)」；仅 EP1581159B1 采用既存页面 link 中的名称「EP1581159B1 Method for Producing Diaper Pants（弹性片材）」，以消解 01 批遗留的断链（重命名既存文件被禁，故以新建页名适配）。⚠️ 法律状态：一律标注记录日期 2026-09-29 并逐件说明——EP3085346A1（A1 申请公开，是否授权 B1 未载）、EP1581159B1（B1，2012-04-11 公告授权，是否维持/指定国生效未载）、US7195621B2（154(b) 延长 500 天，是否仍在有效期未载）、US5266394A（授权 1993-11-30，分案自 Ser. 393,545/US 5,143,968，期限是否届满属法律结论 → [待验证]）、WO2024111948A1（A1 国际公开 + ISR 引证记录：US 5,597,873 A 为 Y 类、申请人自己 KR 10-2018-0073334 A 为 A 类，claims 7–10 有 PCT 细则 6.4(a) 形式缺陷；未据此推断授权前景）、US20240099910A1（A1 申请公开，所载为待审权利要求）、EP2529717A1（A1，依 Art. 153(4) EPC 公开）、US5,197,958 / US5,389,093（已授权，延续案 2010-03-30 后期限已声明放弃，附 1995-06-13 更正证书将 Claim 1 的 material 改为 insulation layer）。⛔ FTO 边界：全批次共 15 处标 manual_review（2026-09-29），页面内只搬运来源原话与数值，AI 未自行下任何 FTO/侵权/期限届满结论；期限计算亦全部标 [待验证]。派生页门槛：本批新建 4 概念 / 2 实体 / 1 对比，其中比较页两体系的相对单价本库无来源 → 已在表内标 [待验证] 并注明两侧耐热/剪切指标测试方法不同（191 ℃ vs 130 ℃；MPa vs 35 ℃ 静态失效时间）不可换算；另补 8 处既有页的追加记录（只追加注日期，未改原结论）。修正一处本人在编辑期误建于 E:\\WIKI-OB 的目录，已删除，未触碰任何 RAW/RAW_FULL 与既有页。未新建任何 WIKI 三子目录与回执目录之外的目录；未改动 index.md / log.md。"
+}

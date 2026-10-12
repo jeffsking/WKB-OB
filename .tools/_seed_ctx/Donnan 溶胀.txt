@@ -1,0 +1,66 @@
+# SEED: Donnan 溶胀
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 10 页，17 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (4 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Cross-linked Cellulose and Derivatives]]  (3 句)
+   • Chapter VII covers molecular-level chemical modification of cellulose into superabsorbent derivatives — cross-linked CMC (the most commercialized cellulosic route), HEC, phosphonoalkyl/phosphorylated cellulose, sulfonated/oxidized cellulose, microfibrillated cellulose (MFC) and lignin-retaining CTMP — and unifies them under Donnan gel-swelling theory.
+   • 本章在分子层面论述纤维素的化学改性超吸水路线——交联 CMC（最成熟的纤维素基路线）、HEC、磷酸化纤维素、磺化/氧化纤维素、微纤丝化纤维素（MFC）及含木质素 CTMP，并以 Donnan 凝胶溶胀理论统一解释。
+   • **Cross-linked CMC** is the core technology: etherification (monochloroacetic acid, up to 8 mol/mol cellulose) followed by cross-linking (epichlorohydrin, formaldehyde, glutaraldehyde). **Water-insolubility threshold at low DS ≈ 0.35–0.40**; cross-linked CMC gives 5–25 g/g vs 1–2 g/g for unmodified pulp (p. 278).
+- **DS vs cross-link tradeoff**: higher cross-link gives strength and prevents dissolution but limits swell space → lower capacity; must be tuned precisely (p. 278). Thermal/acid treatm
+
+--- [[离子强度 Ionic Strength]]  (2 句)
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • 中文：机理链为「带电基团→亲水性与静电排斥→溶胀」；二价离子可作羧基间的离子交联点（ionomer / 海藻酸钙属此列）；Al³⁺ 离子表面交联 SAP 是可提升凝胶强度与 SFC 的**杠杆**，但外壳对 pH 与离子强度敏感 → 也是**失效模式**；在真实尿液/经血中 Ca²⁺/Mg²⁺ 的竞争络合把「盐水吸液量下降」重解释为竞争络合，而非单纯 Donnan/离子强度屏蔽。
+
+--- [[Industrial Drying Ch28 Osmotic Dehydration and SAP Physics]]  (2 句)
+   • This chapter is the **single most direct bridge to superabsorbent-polymer (SAP) science** in the Handbook. The osmotic pressure framework, semipermeable membrane analogy, and electrolyte ion effect are exactly the physics family of SAP swelling/deswelling governed by Flory-Rehner equilibrium and Donnan osmotic pressure.
+   • **SAP transfer:** This is the seed of Donnan equilibrium — mobile ions distributed across a charged, semipermeable matrix raise Π. It is precisely why SAP (a fixed-charge polyelectrolyte) swells in water but **deswells in saline**: the fixed –COO⁻ groups plus counterions create a Donnan osmotic pressure that is suppressed by external salt.
+
+--- [[WRV 水保留值]]  (1 句)
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[交联 CMC]]  (1 句)
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[毛细压力 Capillary Pressure]]  (1 句)
+   • **毛细压力法（Capillary Pressure Method）**：试样置于与储液池恒连通的载物台上，垂直移动载物台改变**静水压头**，同步称量持液量并归一化为**饱和度 saturation（g/g）**，得 **height–saturation** 曲线；**下降台面得吸收支（absorption），上升台面得解吸支（desorption）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **读数规则**：**毛细压越高 → 孔越想把液体留住**；**解吸能量越低 → 纤维越容易"晾干"**。设计原则：**摄入层（面层/导流层）的毛细性与润湿性必须低于液体最终被锁住的地方（芯体）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **速率与容量解耦**：**孔径控制吸收速率（经 Hagen–Poiseuille ∝ r²），孔体积控制容量** —— 优化其一必罚另一个，需中值最优化（源：Liquid Flow in Porous Structures）。
+- 
+
+--- [[水凝胶 Hydrogel]]  (1 句)
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[Ancient Organic Dyes and Pigments Chemistry]]  (1 句)
+   • 原文：古代用天然硬水（富含钙），Al-Ca-alizarin 复合物即 Turkey Red；两个阴离子氧原子"很可能呈顺式以中和 Ca²⁺ 反离子"。**外推**：在真实尿液/经血（富含 Ca²⁺、Mg²⁺）中，二价阳离子参与 Al 交联 SAP 表面的配位壳，改变使用中的交联密度。这把"SAP 在盐水/尿液中吸液量下降"的经典观察重新解释为**竞争络合**，而非仅 Donnan/离子强度屏蔽——并预测 Ca²⁺ 浓度应作为离心保持/AUL/SFC 测试液的控制变量。
+
+--- [[v10 优化执行方案建议（Claude Code + Gemini CLI 分工评估 · 2026-06-16）]]  (1 句)
+   • 1. **本次选型的核心判据是"不可替代性"而非"更优"** —— Claude Code 是"**更好**（工程代码略优）"，Gemini 是"**不可替代**（1M token 长上下文）"。**⇒ 引入新工具链的决策线应该是"有没有别的方式达成"，而不是"是不是更强"。**
+2. **启动成本为 0 的一方具有压倒性优势** —— 模式 A 的安装成本、学习成本、文件访问成本**全部为 0**；模式 B 在分工后还有**额外协调开销**。**⇒ 工具选型的隐藏成本往往大于能力差。**
+3. **"为 10–20% 的代码质量差异装一套工具链不值得"是可迁移的成本判据** —— **把能力差量化成百分比，再与切换成本比较**，比"哪个更强"的讨论更有效。
+4. **Phase 0.2（网格收敛验证）被单独立项** —— 与 Numerical Diffusion & Grid Convergence（数值扩散与网格收敛） 页的核心关切一致：**网格收敛不是默认完成的动作，需要专门排期（0.5 天）与自动化脚本**。
+5. **Phase 3.5（NaCl 传输）把模型从"纯水"推进
+

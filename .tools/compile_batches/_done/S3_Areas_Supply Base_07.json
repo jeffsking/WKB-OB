@@ -1,0 +1,35 @@
+{
+  "batch": "S3_Areas_Supply Base_07",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）",
+    "德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）",
+    "德福伦高感性聚酯纤维简介（哈希前缀归档同名件）",
+    "苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）",
+    "BASF Biomass Balanced Superabsorbents（v3 归档同名件）",
+    "Toyobo 转换价格调整公告（2011 · 文件名误标 SAF Datasheet）",
+    "盛色科技官网关于我们（BLOCLO 温变与光变材料）",
+    "OASIS SAF 102-80-10 技术数据表（Technical Absorbents）",
+    "OASIS SAF 102-80-10 技术数据表（02_ 归档同名件）",
+    "OASIS SAF 102-80-10 技术数据表（v3 归档同名件）"
+  ],
+  "concept_pages": [
+    "ZnO Antibacterial Fibre（氧化锌抗菌纤维）"
+  ],
+  "entity_pages": [
+    "盛色科技（BLOCLO）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "entities/上海德福伦.md（追加 4T锌力康 + 高感性聚酯产品线与 OEKO-TEX 婴幼儿级认证口径）",
+    "entities/Emon Jiangsu（江苏益盟）.md（追加官网产品线全景 + 主体确认为苏州益盟）",
+    "entities/Technical Absorbents Ltd（TAL）.md（追加 OASIS 102/80/10 TDS 产品级参数）",
+    "concepts/Super Absorbent Fibre（超吸水纤维 SAF）.md（追加验证记录：首个产品级 SAF 参数）"
+  ],
+  "manual_review": [
+    "苏州益盟官网（销售公用邮箱与电话，不页面化）",
+    "批次文件名误标两起：'05_Toyobo Acrylic SAF Datasheet' 实为 2011 可转债转股价 IR 公告（无 SAF 内容）；'02_OASIS…105_80_20' 正文仅含 102/80/10（105/80/20 数据缺失）"
+  ],
+  "notes": "10 项处理：德福伦两份高感性简介（哈希前缀件与主件同内容）→ 主件页 + 归档件页；v3 BASF HySorb 与批次06 Biomass Balanced 主件同内容 → 归档件页；OASIS 三份（02_/17_/v3）为同一份 102/80/10 TDS → 主件页（17_）+ 2 归档件页；4T锌力康实为德福伦产品（其 ZnO 熔体添加路线新立概念页）；盛色科技为新变色材料供应商线索（纯宣传口径，credibility 低）。"
+}

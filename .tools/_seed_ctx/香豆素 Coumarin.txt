@@ -1,0 +1,19 @@
+# SEED: 香豆素 Coumarin
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 1 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]  (2 句)
+   • **喷墨色料两难**：喷墨孔 <100 µm，存在颗粒物堵塞固有风险，故最初选用**水溶性染料**而非颜料；颜料须压至 <0.02 µm 稳定分散才能"大幅改善色彩空间覆盖度、亮度接近染料墨水"。
+- **染料-颜料之争现状**："where light fastness is not a problem, dyes take precedence because of brighter shade, better colour gamut and inherently more stable inks"——光牢度非瓶颈时染料优先。
+- **染料五项功能门槛**：水牢度（可通过纸品涂层改善）/ 热稳定 / **无毒** / 无机盐 <100 ppm / 储存稳定墨水。
+- **减色印刷**：彩色喷墨是减色过程，需 YMC 三色组（黄-洋红-青），如同彩色摄影。
+- **发光第三维度**："Those phenomena that involve absorption of energy and subsequent emission of light are classified ge
+   • 父书：Chromic Phenomena
+- 概念：荧光增白剂 Optical Brightener · 香豆素 Coumarin · 偶氮染料 Azo Dye · 斯托克斯位移 Stokes Shift · 电致发光 Electroluminescence · 光致变色 Photochromic · 热致变色 Thermochromic
+- 相关章节：Chromic Phenomena Introduction and Reversible Colour Change · Ancient Organic Dyes and Pigments Chemistry
+- 材料：木浆 Pulp · 绒毛浆（Fluff Pulp）
+- 供应商：Henkel · PPG Industries · BASF
+

@@ -1,0 +1,77 @@
+# SEED: 流变学 Rheology
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 2 Fundamental Aspects
+#
+# 全库正文命中 32 页，39 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (3 句)
+   • **Speciality yarns 特种纱线** are obtained either from chemically modified polymers by melt spinning, or by physical modification and dedicated equipment (p.360). The family covered is deep-dyeable and cationic-dyeable, **antistatic 抗静电**, **flame-retardant 阻燃**, **hollow 中空**, **microporous 微孔**, **shaped cross-section 异形截面** and **microfibre 超细纤维**. The chapter is explicit that successful commercialization of a new variety depends on **technical capability and favourable market conditions alike** 
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+   • Assessment: dye-modification and spinneret design are the best-supported arguments (reaction chemistry plus computable parameters); the rheology correlations and unpublished data are plausible but lack public verification; flame retardance and micro-structure sections lean on producer case studies with weaker generality. Many empirical relations are flagged "unpublished" and carry no error bounds (pp.363, 396).
+
+--- [[珠光颜料 Lustre Pigment]]  (2 句)
+   • 1. **Fibre-geometry lustre（纤维几何致光泽）**: for speciality PA/PET yarns, **"the non-circular cross-sections result in greater lustre and covering power and improved handle"**, with geometry set by the **spinneret hole shape**（trilobal, rectangular, hexalobal, hollow）and melt rheology（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+2. **Structural colour without pigment（结构色）**: the Morphotex example produces **"colour from periodic layer thickness rather than from dye m
+   • **Geometry over formulation.** In the vault the sourced route to lustre is **non-circular fibre cross-section**, i.e. a spinneret-hole / melt-rheology design variable rather than an added pigment（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Periodic-layer optics.** Structural colour arises from **periodic layer thickness**, giving colour with no dye molecule — the physics shared with the vault's structural-colour strand（源：Intelligent Textiles and Sports Clo
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (2 句)
+   • The **second-generation BM indicator design** for a composite breathable backsheet — it replaces the two-lane concept with a single protein-error lane, and works the problem from the other end: dye loading as the only selectivity knob, melt rheology, slot geometry, thermal load on the breathable film, and a full cost model.
+   • Rheology is specified as near-Newtonian on purpose: 3,200 mPa·s @ 120 °C (2,100 @ 130 °C, 1,400 @ 140 °C), Cross index n = 0.88 (spec ≥ 0.85), λ ≤ 2 × 10⁻⁴ s, flow activation energy 56 kJ/mol, no high-MW styrenic block copolymer. Slot geometry matters because pressure scales with 1/t³: a 200 µm shim gives 13.6 bar over a 5 mm land at 400 m/min, while a 100 µm shim would give 99.7 bar and stall the existing pump. Because Ca = 272, a contact (wiped) slot nozzle on a chilled backing roll is mandato
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (2 句)
+   • Chapter 2 is the one relevant to this vault; its internal structure is: 2.1 Types of PP (homopolymer / random copolymer / impact copolymers), 2.2 Tacticity, 2.3 Molecular weight and MWD, 2.4 Mechanical properties, 2.5 Rheology, 2.6 Morphology, 2.7 Thermal analysis, 2.8 Manufacturing processes (bulk-slurry and gas-phase technology, reactor systems, Amoco gas-phase), 2.9 Applications (fibres and fabrics, strapping, film, sheet/thermoforming, injection moulding, blow moulding, automotive).
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+
+--- [[Seymour Polymer Chemistry Ch05 Rheology and Physical Tests]]  (2 句)
+   • Chapter 5 is the mechanics-and-rheology core. Starting from two elements — the **Hookean spring** and the **Newtonian dashpot** — Seymour builds the mathematical framework of **viscoelasticity**（Maxwell series → stress relaxation；Kelvin-Voigt parallel → creep），then expands into the five classes of stress–strain behaviour, creep, stress relaxation, fatigue, and the ASTM physical test matrix. 本章把聚合物的"固体-液体二元性"从定性描述提升为可由元件模型精确描述的数学对象。
+   • **词源 / Etymology**：*"The branch of science related to the study of deformation and flow of materials was given the name rheology by Bingham, whom some have called the father of modern rheology. The prefix rheo is derived from the Greek term rheos, meaning current or flow."* (line 15-18)
+
+--- [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]]  (2 句)
+   • P&G's granted patent on a **four-component polyolefin hotmelt built for nonwoven–film bonding in diapers**, whose distinguishing feature is that the **base polymer is itself a two-copolymer metallocene blend split by crystallinity**, and whose performance is expressed as **rheology at body temperature** rather than as a bond-strength number.
+   • **The polymer architecture is the invention, not the additives** — a three-way polyolefin molecular-weight/crystallinity split plus tackifier, with no reliance on styrenic block copolymer or large oil load. → Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- **Crystallinity is the control variable** — enthalpy of crystallization thresholds (10 / 20 / 25–45 J/g) divide each component's role. → APAO（非晶态聚α-烯烃）
+- **Low oil content is a deliberate formulation stance** (<10 wt% mineral oil) — relevant for odour,
+
+--- [[Active Diagnostic Zones（主动诊断分区）]]  (1 句)
+   • 1. **The framing idea 命题**：integrating **force-responsive, power-free** sensors turns commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。可译作：**无源 = 无电池、无芯片、无电子件**，这是它能进入一次性用品的先决条件。
+2. **Zone 1 · Waistband tabs（防勒伤）**：integrated visual indicators trigger a high-visibility signal **when tensile force exceeds safe physiological thresholds**，providing immediate over-tightness warnings。（中文：拉力超阈值即显色报警，防勒伤。）
+3. **Zone 3 · Surface ar
+
+--- [[变色油墨 Color-Changing Ink]]  (1 句)
+   • **Mechanochromic candidate short-list（2026-09-29 addendum，源：变色油墨）**
+- HPC（viscoelastic lattice-spacing change → compression blue-shift；edible / non-toxic / degradable）
+- Naphthopyrans（covalent bond cleavage → modular colour change；best stability and synthesis accessibility）
+- Spiropyrans（6π electrocyclic ring-opening → strong colour；**thermochromic transient**）
+- Cu-based HCP（luminescence shift；resistant to environmental contamination）
+- Common bottleneck = the **force gap**: industrial mechanop
+
+--- [[断裂力学 Fracture Mechanics]]  (1 句)
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[热熔胶 Hot Melt Adhesive]]  (1 句)
+   • **延伸关联**
+- 卫材胶黏系统 Hygiene Adhesive Systems
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- APAO（非晶态聚α-烯烃）
+- Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）
+- 胶黏剂 Adhesive
+- 胶接理论 Adhesion Theories
+- 胶接热力学 Adhesion Thermodynamics
+- Work of Adhesion
+- 压敏胶 PSA
+- 断裂力学 Fracture Mechanics
+- 流变学 Rheology
+- 层压 Lamination
+- Nonwoven Lamination
+- TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+- Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- Surge-Liner Adhesive Bondin
+

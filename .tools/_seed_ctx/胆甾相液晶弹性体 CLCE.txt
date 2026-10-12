@@ -1,0 +1,74 @@
+# SEED: 胆甾相液晶弹性体 CLCE
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Self-Powered Photonic Sensor CLCE Sandwich
+#
+# 全库正文命中 15 页，25 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[结构色 Structural Color]]  (4 句)
+   • 结构色（structural colour）= **颜色来自周期层厚 / 物理结构，而非染料分子**（"Colour from periodic layer thickness rather than from dye molecules"）—— 这正是本库变色项目背后的同一物理。（源：Intelligent Textiles and Sports Clothing）
+- 在力致变色语境下：**结构色不由染料驱动而由物理结构驱动** —— 机械应变压缩胆甾螺距 → 结构间隙缩小 → 产生**可预测、可逆的蓝移**。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- 在技术路线分类中记为 **M2 photonic-crystal structural colour**（与 M1 力色团激活、M3 CLCE 介晶取向、M4 表面起皱并列）。（源：Mechanochromic Materials Technical Review（EN v3, 2026-08））
+   • **物理结构驱动呈色**：HPC 自然自组装为**胆甾型液晶相**，是本征力致变色材料，并**选择性反射右旋圆偏振光（RCP）** —— 肉眼或数码相机直视**无需偏振片**；应变压缩胆甾螺距 → 产生可预测、可逆的蓝移。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- **光子晶体 / 聚合物蛋白石**：核壳 PS/PEA 颗粒经剪切组装成弹性蛋白石，可卷对卷（>100 m）；**但有序化需要加热辊间约 300% 应变幅的振荡剪切 —— 是专用产线，不是狭缝模头**。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **胆甾相液晶弹性体（CLCE）**：螺距受压**蓝移**；2025 年工作引入光开关手性掺杂剂做压印图案；单轴红 → 蓝通常需 **>100% 应变**且**强度随位移下降**；成膜需**平面取向与氮气下 UV 固化**（热熔工位没有的两道单元操作）。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **可拉伸 DB
+   • **合身 / 过紧指示的路线选择**：连续合身监测需**可逆路线（M2 结构色 / M3 CLCE）**，而一次性过紧报警可用**半可逆路线（M1 力色团）**；可逆性是本场景**硬要求**（源文原话 "reversibility is a non-negotiable requirement"）。（源：Mechanochromic Materials Technical Review（EN v3, 2026-08）、Structural Colour Mechanochromism（结构色力致变色））
+- **HPC 的幂律关系支持连续合身监测**：照护者可在调整腰围后**看到颜色回到安全基线**，把「结构色可逆性最好」落到连续监测场景。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **可食性（edibility）是一等指标**：终极风险被定义为**婴儿误食耳贴 / 腰围**，这改变了材料筛选项，也是 **HPC 被称为黄金标准的唯一理由**。（源：Active Diagnostic Zones（主动诊断分区））
+- **监测 vs
+   • Structural Colour Mechanochromism（结构色力致变色）（结构色路线总纲、共同失效模式与三条教训）
+- The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）（HPC 胆甾相自组装、RCP 反射与应变上限）
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）（CLCE / MET / 全息薄膜定量数据与热致变色参照系）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 路线分类与约束满足选型）
+- Active Diagnostic Zones（主动诊断分区）（可食性一等指标、监测 vs 记录）
+- Intelligent Textiles and Sports Clothing（结构色的非色素定义与 Morphotex 参照）
+- 引用的 6 个来源页：Hologr
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (2 句)
+   • （中文：①按触发量而非化学分类——同一分子可归两类：螺吡喃视驱动输入不同可属光致、温致或力致变色，判类的关键问题是「到底什么物理量抵达材料」；②卫品可用类别——温致（温度；隐色染料:显色剂:脂肪酸≈1:5:50 微胶囊与胆甾相液晶；尿湿指示、已量产）、湿致（水/湿度；亲水指示剂+吸湿基体、水凝胶溶胀；尿湿的化学比色路线）、卤致（pH/质子活度；溴酚蓝、溴甲酚绿/紫；尿显条主体与便指示的配对元素）、力致（力/应变/压力；力致变色分子、光子晶体、CLCE、几何掩膜；本库 Projects 的合身/张力指示方向）、光致（光；螺吡喃、萘并吡喃、俘精酸酐；与力致/温致共用分子机制，卫品场景中是干扰源而非功能）、电致（电场；导电油墨/共轭聚合物显示；智能纺织显示，尿裤集成为早期）、化学致（化学/生物信号；化学响应水凝胶、分子机器；传感与递送，卫品未落地）；③第二条轴是可逆性——连续监测需可逆路线，单次报警可用半可逆或不可逆路线；**淘汰设计的是这条轴，不是化学类别**；④第三条轴是阈值——工业计量材料为 40,000 psi 以上的结构失效检测而设计，吸收性卫品处在低张力窗口（腰围 20–150 
+   • **原假设**：纸尿裤的拉伸 / 贴合指示可直接采用现有商品化压力激活材料。
+- **翻转结论**：**不能沿用**——现有商品化压力激活材料（CTI HPP 油墨、Fujifilm Prescale、Sensor Products）**全为不可逆计量型**，阈值固定在**超高压（≥40,000 PSI）**或工业接触压力，**没有现成的柔软、低阈值、可逆、可接触皮肤规格**；力致变色纺织品（CLCE 纤维、磁等离激元应变传感器）**均处研究阶段，无卫品皮肤接触商业先例**。因此该方向属**创新空白区**，应走 **build（自建阈值 + 印刷工艺）而非 buy（找现成 SKU）**。
+- **这与本页"教训三（三重错配陷阱）"是同一判断的两次独立出现**：把工业计量材料当消费指示材料用，会在**阈值、可逆性、安全性**三处同时错配。
+
+--- [[Structural Colour Mechanochromism（结构色力致变色）]]  (2 句)
+   • 1. **Photonic crystals / polymer opals（光子晶体 / 聚合物蛋白石）**：core-shell PS/PEA particles ~200–300 nm shear-assemble into elastomeric opals with intense tunable colour; silica-in-rubber photonic fibres on spandex shift red → blue across 127 nm and survive 100+ stretch cycles; roll-to-roll is real (>100 m opal film produced by bending-induced oscillatory shear). **But ordering needs oscillatory shear at ~300 % strain amplitude between heated rollers — a dedicated line, not a slot die.**
+2. **Cholesteri
+   • （中文：①光子晶体/聚合物蛋白石——200–300 nm 核壳 PS/PEA 颗粒经剪切组装成弹性蛋白石，硅-橡胶光子纤维在氨纶上红→蓝位移 127 nm 且耐受 100+ 次拉伸；卷对卷已可实现（>100 m）；**但有序化需要加热辊间约 300% 应变幅的振荡剪切——是专用产线，不是狭缝模头**。②胆甾相液晶弹性体——螺距受压蓝移；2025 年工作引入光开关手性掺杂剂做压印图案；单轴红→蓝通常需 >100% 应变且强度随位移下降；成膜需平面取向与氮气下 UV 固化（热熔工位没有的两道单元操作）；活性介晶对婴儿产品的毒理未解决。③可拉伸 DBR——多层布拉格堆栈，NIR→可见，但仅在 0–50% 应变且为共挤膜。④HPC 结构色——羟丙基纤维素改变黏弹晶格间距，压缩蓝移（红→蓝），具**可预测的幂律应变—色关系**，纸面上最有吸引力。⑤两条共同失效模式——湿与紫外（水凝胶吸水同时改变力学与光学行为、UV 光降解显色单元；纸尿裤面层同时暴露于尿汽、汗液与日光）、角度依赖（布拉格色随视角变化，家长一倾斜就会看到并非应变引起的变色，是合身仪表最糟的失效）。⑥值得借鉴——非虹彩「非晶光子」变
+
+--- [[Chungnam National University and Hanyang University（韩国大学研究伙伴）]]  (2 句)
+   • **2026-08-02**（Mechanochromic Materials Technical Review（EN v3, 2026-08））：在 8 家国际供应商/机构按卫品适配度的排序中列为 **「• Research partner」**，与 Merck / Avient（Platform partner）、Sun Chemical / LCR Hallcrest（Ink alternative）、Fujifilm Prescale / Sensor Products（Metrology tool）并列区分。
+- **2026-08-02**（同源）：在合规与成熟度雷达图中，被归为「universities peak on **IP potential** with no commercial product」（大学在知识产权潜力上得分最高，但无商业化产品）。
+- **2026-08-19**（Mechanochromic Waistband Tension Indicator Proposal（2026-08-19））：在「MAINTAIN: Track A — Molec
+   • Structural Colour Mechanochromism（结构色力致变色）（其 CLCE 纤维方向所属）
+- Mechanophore Mechanochromism（机械力致变色分子）（Track A 的另一研究分支）
+- Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- Mechanochromic Routes Comparison（力致变色技术路线对比）
+
+--- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]  (2 句)
+   • **路线 A（力致变色结构色）**：CLCE（胆甾相液晶弹性体）拉伸时螺距从 **P0 = 438 nm（红态）**收缩至 **P1 = 285 nm（蓝态）**，可逆；颜色由手性剂含量精确定制（**5.8% / 6.4% / 7%** 对应红/绿/蓝膜）；同器件以 PDMS–CLCE–PDMS 摩擦电结构输出电学信号，免电池双模态；CLCEs-S 膜 80 °C 可自修复。MET 织物（纬编涤纶 + 等离子活化 + ALD 沉积 AZO，150 °C）实现结构色 + 电阻双信号同步，0 → 51.6% 应变内 λmax 单调蓝移，**< 15.9% 为快速变化段，可用作定量区间**；韧度 35.6 kJ m⁻³，光/电响应 ≈ 0.30 s、恢复 < 0.22 s，**30,000 次循环后保持恒定**；CPT 半嵌入层合结构抗分层，对腰贴/弹性耳贴的功能层附着工艺有直接借鉴价值。全息结构色薄膜 0 → 20% 应变反射峰 **578.79 → 520.65 nm（约 −58 nm）**，反射率 **41.4% → 13.25%**（降幅约 68%），50 次循环后 SEM 结构完整
+   • **分路线专项**：A——CLCE 特种化学品（RM82/手性剂/光引发剂）**双源锁定**与交期评估、MET 半嵌入工艺在无纺布基材上的附着强度、应变—λmax 定量区间（< 15.9% 线性段）重复性。B——5CB–PDMS 在尿液/水环境下的**溶胀与迁移（核心风险项）**、反复拉伸工况透光率循环寿命、5CB 贴身合规。C——P&G 专利族 **FTO 复核**（含中国/欧洲同族与在审成员）、油墨耐水耐转移实测（对标 water steadfast）、跨缝弧形边界印刷套准公差。D——单件 BOM 成本核算 vs 目标售价、免电池方案（摩擦电）功率预算。
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (2 句)
+   • Technology routes: M1 mechanophore activation, M2 photonic-crystal structural colour, M3 CLCE mesogen orientation, M4 surface wrinkling. The selection implication is that continuous fit monitoring needs a reversible route (M2/M3), while one-shot over-tightness alerts can use semi-reversible routes (M1).
+   • （中文摘要：综述先推翻初始假设——原计划采购现成商用压力材料（CTI HPP 油墨、Fujifilm Prescale），但商业材料均为不可逆计量型、阈值固定在 ≥40,000 psi，不存在「贴近皮肤、柔软、低阈值、可逆」的现货规格，构成创新空白；被点名的陷阱是把工业计量材料当消费指示材料用。市场面：2024 年 12 亿 → 2033 年 41 亿美元，全球 CAGR 14.6%、亚太 17.2%，聚合物占材料形态 >42%，北美占 38% 但放缓，纸尿裤专用 SKU 为零；同时明确「市场顺风 ≠ 技术可得」，头部 IP 在美欧（Merck、GIVIDI、Avient、Sun Chemical）。竞争格局为中高集中度：四家龙头锁定高值应用，另有两家「可印刷油墨」差异化厂商守在卫品入口（CTI、LCR Hallcrest）；无人把守的入口段正是可印刷压敏油墨。技术路线分 M1 力致变色分子激活、M2 光子晶体结构色、M3 CLCE 介晶取向、M4 表面起皱；结论是连续合身监测须走可逆路线（M2/M3），一次性过紧报警可用半可逆路线（M1）。材料候选四类：HPC（法规金标准、幂律应变—
+
+--- [[Self-Powered Photonic Sensor CLCE Sandwich]]  (2 句)
+   • **核心主张** — "A Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromism and Triboelectric Response" (lines 5-7)
+- **螺距直接观测（机制核心）** — "The pitch changes of CLCE in the initial red state and the stretched blue state were tested by SEM. It was found that the pitch decreased from P0 = 438 nm to P1 = 285 nm." (lines 77-78)
+- **颜色配方化可调** — "Reflectance spectra of red, green and blue CLCE films prepared with different chiral agent content
+   • **免电池尿湿/压力可视化指示器（推演，最强应用路径）** — CLCE 的"红→蓝"结构色（438→285 nm）与三色可调配方，可作免染料、免电源的视觉指示。可推演路径：将 CLCE 层与 SAP 溶胀/芯体膨胀耦合，吸水膨胀产生的应变触发变色，实现"尿湿即变色"的肉眼指示以替代现有 pH 染料指示条；颜色由手性剂含量定制，便于按品牌色设计。**论文未做 SAP/湿敏实验。**
+- **自供电降低智能穿戴供电成本（推演）** — 摩擦电输出 VOC/ISC/QSC，无需电池，可避开电池与皮肤接触的安全与回收问题。摩擦电信号适合作为"应变/接触"事件计数通道用于低频人体活动监测；具体灵敏度与循环寿命需查正文。
+- **自修复 + 可拉伸 = 延长贴身产品寿命** — 自修复 PDMS 与 80 °C 愈合的 CLCEs-S 意味着柔性传感器在反复弯折/拉伸后可恢复功能；对腰围、腿围等高频形变区域可提升耐用性、降低"传感失效"客诉风险。
+- **AgNW-PDMS 柔性电路参考（推演）** — "纳米线导电网络 + 弹性封装"是耐形变电极的可行工艺；采购端可关注银纳米线浆料与 PDMS
+
+--- [[力致变色材料研究报告（2026-08-02·纸尿裤应用研判）]]  (2 句)
+   • **短期最可行切入点**：**腰贴/腰围过紧指示**，以 **CTI 食品接触级可印刷压力激活油墨**为主选构建模块，配合**河南佳易达、深圳星成珠光**作成本备份，并以 **Chungnam / Hanyang 大学 CLCE 研究合作**布局中长线「舒适度形变反馈」。
+   • **路线图**：试点（印刷压力油墨，场景 **A/C**，6–12 月）→ 预研（**CLCE / 应变纺织**，场景 B，12–24 月）[A]。
+
+--- [[摩擦电自供电 TENG]]  (1 句)
+   • Self-Powered Photonic Sensor CLCE Sandwich
+
+--- [[银纳米线 AgNW]]  (1 句)
+   • Self-Powered Photonic Sensor CLCE Sandwich
+

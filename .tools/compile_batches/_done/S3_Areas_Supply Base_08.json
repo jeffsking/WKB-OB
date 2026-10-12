@@ -1,0 +1,18 @@
+{
+  "batch": "S3_Areas_Supply Base_08",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "联欣 LXBIO T55P25T20 线纺专用料 TDS（PPC-P-PBAT 可降解）",
+    "河南嘉屹达新材料官网：热压敏染料产品页（JYDR-5）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "entities/联欣环保科技（泰兴）.md（追加 T55P25T20 线纺专用料牌号与双堆肥认证）",
+    "entities/Henan Jiayida（河南嘉亿达）.md（追加官网热压敏染料页；亿/屹异写待人工核对工商全称）"
+  ],
+  "manual_review": [],
+  "notes": "2 项全新编译，均无商务敏感数字；T55P25T20 与 PPC-P 无纺布路线衔接，维卡 60.2 ℃ 提示下游热粘合窗口需重标定；嘉屹达/嘉亿达为同音异写待核对，故未新建实体页而并入既有页。"
+}

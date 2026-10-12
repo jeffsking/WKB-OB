@@ -1,0 +1,105 @@
+# SEED: 亲水整理耐久性
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 35 页，47 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[接触角 Contact Angle]]  (4 句)
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • 形式化定义缺失：本库来源页未给出接触角本身的定义 。
+- 定量曲线缺失：耐久整理在沟槽纤维上的**添加量—接触角—吸力**三者定量曲线未见；整理水平 ±1 档对回渗的实测影响未见（源：亲水整理耐久性）。
+- 接触角与 **回渗/干燥度** 的定量关系未在库内建立； 记录的溯源自测为定性对照，未给接触角数值 。
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[CoPET ADL 转型蓝图（皮层聚合物替代评估）]]  (2 句)
+   • **工程收益真实但条件是「工艺先重调」**——CoPET 不是即插即用件 —— 支撑页：ADL（导流层）、亲水整理耐久性
+- **溢价是供应链结构问题，不是聚合物物理问题** —— 支撑页：CoPET-PET 与 PE-PET 皮芯纤维对比
+- **Tier A 名单收敛为 5 家**，Tier B 是切片层 —— 支撑页：盐城市中联、嘉兴新丰、桐昆集团
+- **厚度/空隙体积是不可让步的验收红线** —— 支撑页：CoPET（低熔点共聚酯）
+   • 概念：CoPET（低熔点共聚酯）、ADL（导流层）、亲水整理耐久性
+- 实体：盐城市中联、嘉兴新丰、厦门翔鹭、桐昆集团、江南高纤
+- 对比：CoPET-PET 与 PE-PET 皮芯纤维对比
+
+--- [[CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版）]]  (2 句)
+   • **ADL 的性能差异只在重复冲击中显现**——首次冲击两者接近，第 2/3 次才分叉 —— 支撑页：ADL（导流层）
+- **「过粘合」是 CoPET 方案的头号工程风险**：厚度/空隙体积是收益载体，不是强度 —— 支撑页：毛细梯度设计
+- **亲水整理的耐久性（抗洗脱/抗老化）是 CoPET 优势的物理来源** —— 支撑页：亲水整理耐久性
+- **最稳妥的落地不是二选一，而是分层选材 + 阶梯共混**：下层用 CoPET、贴面层保留 PE/PET —— 支撑页：CoPET-PET 与 PE-PET 皮芯纤维对比
+   • 概念：ADL（导流层）、CoPET（低熔点共聚酯）、亲水整理耐久性、毛细梯度设计
+- 实体：（本页未点名具体供应商）
+- 对比：CoPET-PET 与 PE-PET 皮芯纤维对比
+
+--- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]  (2 句)
+   • **目标 ≤0.15 g 闭式 Cradle 回渗；路径是逐层清零残液，而非单点优化。** —— 支撑页：Rewet Test（回渗测试）
+- **粘合面积（Oval 18% vs CD Rod 10%）对回渗无显著影响 ⇒ 「开放花型减少小口袋」假设被否证。** —— 支撑页：Rewet Test（回渗测试）
+- **整理剂用量 0.65%→0.3%→0% 回渗单调下降，但与吸收时间无趋势 ⇒ 回渗-吸收权衡存在且未被量化。** —— 支撑页：亲水整理耐久性
+- **HUT 中无处理面层为最差档（7.9 B / 9.5 B）⇒ 台架回渗收益不可外推到使用结果。** —— 支撑页：Rewet Test（回渗测试）
+- **AD 面层更干 = 更低润湿性（TTM-00382：AD 22% vs Depend 92%），而非更大孔径（孔径假设被否证）。** —— 支撑页：亲水整理耐久性
+- **改用「调节液体表面张力」替代「调节整理水平」，可在不重新打样下建立权衡曲线。** —— 支撑页：Rewet Test（回渗测试）
+- **AT Hybrid 头对头确实抬高回渗；归因未解耦（包裹层/
+   • 概念：Rewet Test（回渗测试）、ActiveTech Platform（ActiveTech 在线薄芯体平台）、亲水整理耐久性、Liner-Surge Embossing（面层-导流层压花）、Cradle Intake Test（Cradle 摄入测试）
+- 来源（同主题前后继）：Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）、Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Jiangnan High-Fibre Company Visit & Fibre Technical Exchange（江南高纤公司介绍及产品技术交流会议纪要 · 2026-07-01）]]  (2 句)
+   • 产能与设备口径（12 线 + 小试线）—— 支撑页：江南高纤
+- 永久亲水油剂须耐水刺冲刷与高温挥发 —— 支撑页：亲水整理耐久性
+- 异形截面选型：十字/Y 形利于导流、多叶形利于手感 —— 支撑页：三叶形截面纤维（Trilobal Fibre）、ADL（导流层）
+- PLA 路线受阻（成本/堆肥/分拣）—— 参照：可降解材料路线对比（PPC-P+PBAT vs PDA vs 淀粉基 SAP）
+   • 实体：江南高纤（已追加 2026-09-29 追加节）
+- 概念：亲水整理耐久性、三叶形截面纤维（Trilobal Fibre）、ADL（导流层）、热风粘合无纺布、皮芯复合纤维
+- 对比：可降解材料路线对比（PPC-P+PBAT vs PDA vs 淀粉基 SAP）
+- 同源互证：KC 访厂纪要 2026.7.1（总览·含江南高纤）
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (2 句)
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+   • Concepts 概念：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、Shaped PET Add-On Window、MD Liquid Distribution、Pentagram PET (Star Cross-Section Fibre)、热风粘合无纺布、亲水整理耐久性
+- Entities 实体：福地（Fudi）、Suzhou Yimeng (Mono-PET Spinner)、延江（Yanjan）、兰精集团
+- Comparisons 对比：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]  (2 句)
+   • **Placement beats dosage**: star PET in the lower card only is the design principle; skin-side exposure is gated on proven hand feel and lint —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **Benefit saturates but risk accelerates** (~“performance plateau” above 15%) —— 支撑页：Shaped PET Add-On Window
+- **The groove is the function; denier alone is not enough** (reject lots where the star collapses toward round) —— 支撑页：Pentagram PET (Star Cross-Section Fibre)、Groove Capillary Suction
+- **Finish chemistry is 
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、亲水整理耐久性、热风粘合无纺布
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling sources 同批来源：Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet、ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+
+--- [[REL Simulation Baby Diaper Core（五纤维 TAB 增强层模拟与改进路线图）]]  (2 句)
+   • **REL 三重角色：SAP 隔离 / Z 向毛细传递桥 / 负载下蓬松维持。** —— 支撑页：REL增强层
+- **当前配方：2D ES 40 + 12D ES 10 + 3D PTT/PET 28 + 9D 中空 14 + 4D PVA 8（15 gsm）。** —— 支撑页：REL增强层
+- **唯一关键缺口是湿态强力 58 N/m < 75 N/m；解法为提克重 18–20 gsm + 换 4D PTT/PET。** —— 支撑页：REL增强层
+- **ROI 排序：9D 中空 14→18%（STT 最高 ROI）> 3D PTT/PET 28→34%（回弹/抗凝胶阻塞）> 2D ES 40→32%（解过粘合）。** —— 支撑页：Gel Blocking（凝胶阻塞）
+- **进阶：4D PTT/PET（≥8 卷曲/cm + 四叶截面，蓬松恢复 +35%）；6D 中空（毛细密度 +40%）；2% PET/PA6 微沟槽（亲水耐久 +50%）。** —— 支撑页：PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三
+   • 概念：REL增强层、毛细梯度设计、Gel Blocking（凝胶阻塞）、亲水整理耐久性、ADL（导流层）
+- 来源（**本件的冲突对照方**）：优化 REL 五纤维配方与穿透热风粘合工艺模拟 —— 
+- 对比：PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[优化 REL 五纤维配方与穿透热风粘合工艺模拟]]  (2 句)
+   • **REL 的性能来源是「毛细梯度 + 单向流」，不是单一纤维指标** —— 支撑页：毛细梯度设计
+- **PVA 是增强填料而非粘结剂**，其存在把工艺窗口收窄（不熔融、须靠 ES 锚固、上限 ≤10%）—— 支撑页：REL增强层
+- **PTT/PET 并列自卷曲纤维是关键回弹构件**，但潜卷曲需 ≥135 ℃ 才激活 —— 支撑页：并列复合自卷曲纤维
+- **急冷锁蓬松与「避免过粘合」是同时守住摄入与回渗的前提** —— 支撑页：亲水整理耐久性
+   • 概念：REL增强层、毛细梯度设计、并列复合自卷曲纤维、亲水整理耐久性、ADL（导流层）、CoPET（低熔点共聚酯）
+- 实体：（本页未点名具体供应商，由后续 OI 项目批次补充）
+- 对比：CoPET-PET 与 PE-PET 皮芯纤维对比
+
+--- [[德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）]]  (2 句)
+   • **「表面成孔」与「异形截面」是增大比表面积的两条并行工程路径**——前者可在圆截面纤维上实现，后者靠喷丝板形状 —— 支撑页：扁平形截面纤维（Flat Fibre）、三叶形截面纤维（Trilobal Fibre）
+- **洗 5 次后吸湿指标几乎无衰减，说明成孔结构具有洗耐久性** （洗 50 次后透湿数据未给出）—— 支撑页：亲水整理耐久性
+   • 实体：上海德福伦
+- 概念：亲水-疏水梯度设计、亲水整理耐久性、功能性差别化纤维（PTT_超仿棉_纳米凉感）、ZnO Antibacterial Fibre（氧化锌抗菌纤维）（同厂抗菌路线）
+- 相关：Topsheet（面层）（导湿速干在面层/补品层的潜在映射）
+

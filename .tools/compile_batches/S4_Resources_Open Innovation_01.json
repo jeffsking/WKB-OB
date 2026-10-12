@@ -1,0 +1,27 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx.md",
+   "name": "BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx.md",
+   "title_hint": "BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx.md",
+   "name": "Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx.md",
+   "title_hint": "Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Depend Machine Variability/Depend Rewet Over Time.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Depend Machine Variability/Depend Rewet Over Time.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Depend Machine Variability/Depend Rewet Over Time.xlsx.md",
+   "name": "Depend Rewet Over Time.xlsx.md",
+   "title_hint": "Depend Rewet Over Time.xlsx"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "batch_id": "W8-2",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_66e4420fe1e2f35e250ed3faf5177796001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN112851860A.pdf.md",
+   "name": "CN112851860A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c6204904e592f99d75d30ce4f2edcbed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN114149650A.pdf.md",
+   "name": "CN114149650A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_69e02092e0c01009cce98af72824fce4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN117024899A.pdf.md",
+   "name": "CN117024899A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4c90b041143764384d7fb193335d4e61001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/JP5604444B2.pdf.md",
+   "name": "JP5604444B2.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8d146f9920e0566c8a35007416cbf139001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/Surface_Treatment_of_Superabsorbent_Poly.pdf.md",
+   "name": "Surface_Treatment_of_Superabsorbent_Poly.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d5ef4e9617824154bcfed3686429b900001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US20070270773A1.pdf.md",
+   "name": "US20070270773A1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_78baba28ff8c9d59c79d5eeea3c801bb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US5389093.pdf.md",
+   "name": "US5389093.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_42239074b3c86d38fe0c9c03dd54792f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US9162007.pdf.md",
+   "name": "US9162007.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c6beea23ff0ed7b8b790f3bf76905af3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md",
+   "name": "v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_02c9ae43263d06c00938abfbc32c101f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md",
+   "name": "一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

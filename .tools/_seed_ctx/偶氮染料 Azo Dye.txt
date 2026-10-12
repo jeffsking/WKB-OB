@@ -1,0 +1,15 @@
+# SEED: 偶氮染料 Azo Dye
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 1 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]  (2 句)
+   • 父书：Chromic Phenomena
+- 概念：荧光增白剂 Optical Brightener · 香豆素 Coumarin · 偶氮染料 Azo Dye · 斯托克斯位移 Stokes Shift · 电致发光 Electroluminescence · 光致变色 Photochromic · 热致变色 Thermochromic
+- 相关章节：Chromic Phenomena Introduction and Reversible Colour Change · Ancient Organic Dyes and Pigments Chemistry
+- 材料：木浆 Pulp · 绒毛浆（Fluff Pulp）
+- 供应商：Henkel · PPG Industries · BASF
+   • **研发启示**：若需为湿巾布面加入颜色标识（如香型区分），反应性偶氮染料（Reactive Red 23，Cu 络合）是光牢度 6 级、纤维素结合性最好的选择。
+

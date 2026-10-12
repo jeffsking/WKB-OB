@@ -1,0 +1,82 @@
+[
+ {
+  "name": "6.2EM供应商会议纪要.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_01441f81fb953393a75a064e54718193001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md",
+  "status": "ok",
+  "chars": 3783,
+  "error": ""
+ },
+ {
+  "name": "August R&D Meeting.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c75e87d1ab796ac4a5c1d8dd1768012e001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md",
+  "status": "ok",
+  "chars": 7122,
+  "error": ""
+ },
+ {
+  "name": "TJ工厂访问会前简报_20260907_v3.docx.md",
+  "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a06073f04a7a36bcb27da8c4e3945e001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.docx.md",
+  "status": "ok",
+  "chars": 7664,
+  "error": ""
+ },
+ {
+  "name": "录音纪要_260920002637.md",
+  "media_id": "session_3867e2b60070d7dc3f413086d0b0036e_6aa9e753bf7b47ee442affb2fd5f777f94e3",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260920002637.md",
+  "status": "fail",
+  "chars": 6,
+  "error": "content 过短（仅“录音纪要”标题，6 字符 < 20），判定为无正文"
+ },
+ {
+  "name": "企业介绍及合作交流.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_019fc7fe86bf75cfa279bbb823965032001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/企业介绍及合作交流.md",
+  "status": "ok",
+  "chars": 21261,
+  "error": ""
+ },
+ {
+  "name": "品牌定位与夏季产品策略.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a06d0eacd0745bb6307321a787dfb5001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/品牌定位与夏季产品策略.md",
+  "status": "ok",
+  "chars": 24489,
+  "error": ""
+ },
+ {
+  "name": "尿裤包覆层材料探讨.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a000c654c674d1b694c88f4a872139001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/尿裤包覆层材料探讨.md",
+  "status": "ok",
+  "chars": 14628,
+  "error": ""
+ },
+ {
+  "name": "录音纪要_260903154213.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a06bdc473478be918052fcf9eff3f6001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903154213.md",
+  "status": "ok",
+  "chars": 37354,
+  "error": ""
+ },
+ {
+  "name": "标准录音 2.mp3.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_06402ee4fae95625f0b9545c835070d2001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/标准录音 2.mp3.md",
+  "status": "ok",
+  "chars": 26543,
+  "error": ""
+ },
+ {
+  "name": "项目梳理与资源规划.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a0b39faf467852abbb7003affdacf9001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/项目梳理与资源规划.md",
+  "status": "ok",
+  "chars": 41889,
+  "error": ""
+ }
+]

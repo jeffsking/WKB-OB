@@ -1,0 +1,21 @@
+{
+  "batch": "S4_Resources_FEI_01",
+  "stage": "S4",
+  "block": "Resources/FEI",
+  "source_pages": [
+    "IPC BCC FEI Update（IA2.0 · 2026-06-22）"
+  ],
+  "concept_pages": [
+    "Cohesive Fastener（自粘扣合系统）",
+    "Airy Window（腰围透气窗）"
+  ],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "concepts/IPC BCC OI Portfolio（开放创新项目组合）.md（Verification log 追加 FEI 漏斗口径 141→9 大注 + GRD 管线 TRL4 表；Sources 追加本源页；未改既有台账/裁决）",
+    "concepts/Zeolite Odour Control（沸石除臭载体）.md（追加验证记录：芯体直加粒径窗口 ~0.023–0.038 mm + 三项关键障碍）",
+    "concepts/Odour Management Routes（气味管理技术路线）.md（追加 FEI 四通道框架 Capture/Alter/Microbial/Perception 与 eNose 筛选结论）"
+  ],
+  "manual_review": [],
+  "notes": "1 项全新编译。派生页取舍：仅建 Cohesive Fastener 与 Airy Window 两个新概念页（均为 big bet 且库内无近义页、有具体技术参数与 TRL）；LeakShield/pH balance/Ultra Slim Core/TRY/Thermal Regulation/Microbiome/Smart diaper/Knight IV/AIRism 2.0 等按『避免为每个项目另建重复页』原则**不另建页**，统一登记在源页与 OI Portfolio 追加条目中（COCO V6/ROTC/TRY 等已有库内页，源页已互链）。宣称口径（first-ever、6x、10X、12h、50% 节省）一律标注为 deck 自述宣称。未见 FTO/商务敏感内容需人工裁决项。"
+}

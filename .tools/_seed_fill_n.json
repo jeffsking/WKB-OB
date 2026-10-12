@@ -1,0 +1,22 @@
+{
+  "batch": "seed_fill_n",
+  "done": [
+    "WIKI/concepts/防腐剂 Preservative.md",
+    "WIKI/concepts/驻极体 Electret.md",
+    "WIKI/entities/Henkel.md",
+    "WIKI/entities/PPG Industries.md",
+    "WIKI/entities/华东师范大学.md",
+    "WIKI/entities/昆明理工大学.md",
+    "WIKI/entities/贵州卡布婴童用品有限责任公司.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/concepts/防腐剂 Preservative.md",
+    "WIKI/concepts/驻极体 Electret.md",
+    "WIKI/entities/PPG Industries.md",
+    "WIKI/entities/华东师范大学.md",
+    "WIKI/entities/昆明理工大学.md",
+    "WIKI/entities/贵州卡布婴童用品有限责任公司.md"
+  ],
+  "count": 7
+}

@@ -1,0 +1,65 @@
+{
+ "batch_id": "W9-1",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_45cb71c2f09aef8b1905f89f7ffd282e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/一-3_Superabsorbent_polymer.pdf.md",
+   "name": "一-3_Superabsorbent_polymer.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_7c73c12f9012cde80660a319c8ba9af5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf.md",
+   "name": "一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_c9e7d4b77510ef2512a550271ad3c0bf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/BM测试方法/TTM-00466 BM Benefit Visualization Validation.docx.md",
+   "name": "TTM-00466 BM Benefit Visualization Validation.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_4ef055c259b53383300bf3a92411f7cb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM保水量（From China National Testing Method）.docx.md",
+   "name": "SAM保水量（From China National Testing Method）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_14fd4bf6eb8b05292ab855bf7a09b11c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收量(From China National Testing Method).docx.md",
+   "name": "SAM吸收量(From China National Testing Method).docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_69323e3339509f44ea0cda4a61d94b9e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM通液速度(From Nuoer).docx.md",
+   "name": "SAM通液速度(From Nuoer).docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_53b6f6b0c6fc0e7fde42e3396bc8e9f6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx.md",
+   "name": "TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_fd4d37e2b32cadf93f665a843657e5c8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 回渗渗漏.doc.md",
+   "name": "GB-T28004-2011 回渗渗漏.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_f5ef7857c697ff51a686675e88f8656d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md",
+   "name": "GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a540f3d1f7342c9447de0281da360d8b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md",
+   "name": "STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

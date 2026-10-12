@@ -1,0 +1,136 @@
+# SEED: Electrospinning（静电纺丝）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 18 页，42 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]  (5 句)
+   • Date 日期：**[待验证]** —— 转写未标注会议日期；会中提及"8 月""本周或下周""快的话几个月"等锚点
+- 场景：供应商（华峰集团）公司业务介绍 + 氨纶 DMAC 合规议题 + 新材料路线交流；会后安排去工厂
+- 供应商方：公司/业务介绍主讲人、技术负责人（夏总负责静电纺丝膜项目）、研发与检测相关人员 [待验证]
+- K-C 方：Chris、荷叶、Brian 等（[待验证]）
+- ⚠️ 具体人名一律 **[待验证]**，不做实名指派
+   • 1. **公司盘子（已给出）**：
+   - 1991 年成立（起家于塑料编织袋厂），化工 30 余年；主产品**己二酸、聚氨酯、超纤**，多个品类**产能全球第一**。
+   - 三家上市公司：华峰化学、华峰超纤、华峰铝业；**50 余家子公司**；华峰化学 1999 年成立、2006 年上市，**约 67% 股份仍在刘氏家族手中**。
+   - 聚氨酯产能 **47 万吨/年**（全球最大）；国内市占率第一。生产基地：瑞安（现有）+ 重庆（规模与效率均更高，等待本方 PC 认证）。
+2. **产业关系（已明确）**：与**万华**、**巴斯夫**均为"**既是客户又是竞争对手**"——买万华的 MDI，卖己二酸等给万华做 HDI/TDI/TPU；TPU 上又是竞争对手。
+3. **氨纶 DMAC 合规的三条路线（已梳理清楚）**：
+   - **① 简易方案**：只调整纺丝甬道末段 —— 把**夹点（导丝点）下移**，让丝在甬道中**更早开始挥发、挥发时间更长**（否则丝"抱在一起"很难吹出来）。成本低、**不额外加价**，大部分产线**已在改**。
+   - **② 复杂方案**
+   • 1. **现有工艺的实际残留水平未确认**：会中出现多个口径 —— 现行改进工艺下约 **100 多 PPM**（120 纺线最低）、"最糟 500"、"标准是 500（裸丝 1000）"；本方要求**明确是理论值还是实测值**，并要**看数据波动范围**。
+2. **检测方法的可比性未解决**：
+   - 供应商内部用 **GCMS** 自测，但**不能确定与 SGS 的设备/方法是否一致**；两者数据**有差异**。
+   - 标准操作手法（如 EN 标准）规定得不够细，**取样方法、取样部位（表面 vs 底部）、包装规格（1 kg / 2 kg）**都会影响结果。
+   - 本方提出需要对齐：是找 **SGS** 还是 **GALAB**？是否需要形成 consensus 操作。
+3. **时间节点数据的缺失（本方明确要求补）**：残留量在**出厂 / 到厂 / 开箱**三个节点差别很大；**开箱瞬间会明显下降**（密闭系统内浓度其实在持续上升）。本方希望**用源头某节点的数值换算成品水平**，以便作为质量控制与安全控制手段 → 供应商同意做抽样模拟实验。
+4. **欧盟新标准的
+   • 本次为 K-C 走访华峰集团的供应商交流会，议题分三块：① 集团与化工板块业务介绍；② 氨纶的 DMAC 残留合规应对（欧盟新标准驱动）；③ 新材料路线（生物基、无溶剂/TPU、低熔点氨纶、静电纺丝 PU 膜）。
+
+--- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]  (4 句)
+   • **② 仿生脉络芯™ BioVein**：仿叶脉分叉网络（主脉 → 2 级 → 4 级 → 8 级毛细）；导流层用**静电纺丝纳米纤维膜（纤维直径 200–500 nm）**，宣称比表面积是传统 ADL 的 **50–100 倍**、导流速度提升 **3–5 倍**；主脉区定向排列纤维（高导流）、毛细区随机排列（高锁水）；SAP 按叶脉分布精准涂喷。⚠️ **核心瓶颈**：静电纺丝纳米纤维量产成本比传统 ADL 高 **3–10 倍**，产能仅为传统产线 **1–5%**。
+   • **⑧ 仿生肤芯™ BioSkin**：仿角质层**选择性通透膜（微孔 0.1–1 μm）**——水蒸气（0.0004 μm）可通过、液态水滴（>100 μm）与细菌（0.5–5 μm）被拦截；三层仿生屏障（仿角质层 / 仿真皮层静电纺丝纳米纤维抗菌保湿 / 仿皮下组织高弹 SAP 纤维层）+ 弱酸面层 pH 5.5。竞品占位：好奇 X 系列"物理隔菌"是表层物理阻隔纤维 → 仿生肤芯从"阻隔"升级为"**选择性通透**"。
+   • **P0 两个概念（深睡 / 净味）不需要新材料与新设备——差异化来自"工程优化 + 模块叠加"而非材料创新** —— 支撑页：Marketing Claim Translation Paradigms（市场宣称六大转化范式）
+- **竞品占位检查是概念筛选的第一道门：8 个概念中 7 个判定为"无占位"** —— 支撑页：Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）
+- **呼吸芯是大王"蜂巢"的 2.0 升级占位：从静态透气走向"干湿可变刚度"** —— 支撑页：Multilayer SAP Core（多层SAP芯体）、Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）
+- **节律芯把"分龄"从面层（好奇 3 档）延伸至芯体全结构（5 冲刺期）** —— 支撑页：分区密度设计
+- **静电纺丝成本（3–10×）与产能（1–5%）是仿生双概念的唯一瓶颈** —— 支撑页：Electrospinning（静电纺丝）
+- **知温芯的 PCM
+   • 概念：Marketing Claim Translation Paradigms（市场宣称六大转化范式）、PCM-Free Thermoregulation、Diaper Microclimate、Zeolite Odour Control（沸石除臭载体）、Electrospinning（静电纺丝）、分区密度设计、Sensor-Equipped Absorbent Article（含传感器吸收性物品）、Signal Comprehension Gate
+- 源：Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Elmarco（Elmarco 纳米纤维设备）]]  (3 句)
+   • **2026-09-29（本页建立）**：仅由 Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用） 提及，**无本库内的合作、送样或采购记录**；本页**不推断**任何供货关系。
+   • Electrospinning（静电纺丝）
+- Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+- Electrospinning vs Conventional Nonwoven（静电纺丝纳米纤维与传统非织造对比）
+- ADL（导流层）
+   • Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用） ——
+
+--- [[华峰集团（Huafon Group）]]  (3 句)
+   • **2026-07-28（内部品牌对比纪要）**：千禧 HDS 620 dtex 与莱卡 HYFIT 在抗蠕变、弹性回复率、表面处理与出口合规四维对比；结论**为建议非决策**（见 华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体））。
+- **2026-07-29（IMA 与华峰会晤，刘总 / 夏总等）**：议题为 PU 静电纺丝纳米膜复合、生物基 BPTVG、无溶剂 TPU、无氟、DNF、DEF 替代 DMF，以及欧盟新标准的影响；**双方给出 10 条行动项**（见 与华峰集团会晤纪要（2026-07-29））。
+- **2026-08（August R&D Meeting 材料）**：华峰向客户方做研发会议材料汇报，涵盖卫品用氨纶概览、纳米纤维防水透湿膜、生物基氨纶、无溶剂氨纶与残留检测。
+- **同批关联**：Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）（批次 04 来源，另一份华峰会晤总结）。
+   • 工艺：**高压电把 PU 喷在金属收集器上形成膜**（非静电纺丝纤维网，是成膜路线）。
+- 性能：防水透气优异，最低可做 **3 克**；MVTR 远高常规（>10 万量级 [待验证]，比常规 PE 膜高一到两个数量级）。
+- 进展：**已与无纺布完成复合打样**；印刷无问题；复合方式为**热熔胶 + 热风**。
+- 当前问题：**起皱**（主要）+ **生产效率**（其次）。
+   • ✅ **验证记录（2026-09-29）**：以上参数均为**供应商自述**，未见第三方或本方实测；MVTR 与复合克重（15–20 克 / 28 克）口径存在歧义，标 。参见 DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制、Electrospinning（静电纺丝）、汉高、Wanhua Chemical（万华化学）。
+
+--- [[Bicomponent Fibre Technology Development Trends]]  (3 句)
+   • Type 类型：literature review 文献综述 + industry statistics 产业统计.
+- Data sources 数据来源：INDEX 2008、2008 苏黎世全球 PET 会议、《化学纤维国际》期刊等。
+- Analytical path 分析路径：classify by fibre cross-section 按纤维结构分类（并列 S/S、皮芯 S/C、基质原纤 M/F），cross-compare against process 工艺（纺粘/熔喷/静电纺丝）and application 应用（非织造布、地毯、过滤）。
+- Time anchor 时间锚点：统计主要年份 2007—2008，回顾区间 1988—2008（过去 20 年）。
+   • Melt viscosity window 熔体粘度：melt spinning 熔融纺 80–1000 Pa·s；dry spinning 干法纺 20–200 Pa·s.
+- Spinneret hole diameter 纺丝板孔径：熔融 0.2–2 mm；干法 0.15–0.25 mm；electrospinning 静电纺丝 fibre range 50–2000 nm.
+- Component ratio control 组分比控制：1/99（极不对称）到 50/50（对称）均可.
+- Staple lines 短纤设备：Oerlikon Neumag 450 t/d，组分比 20/80–80/20；Fare 多孔纺丝板，板孔数 28,000–37,750，板径 700 mm，纺速 60–150 m/min，PP/PE 皮芯热粘合纤维 2.2 dtex，产能 200 kg/h，一等品率 >95%.
+- Direct web formation 直接成网（纺粘）：Reifenhäuser（PP/PET 皮芯 = 柔软 + 撕裂强度；PP/PE 并列卷曲）、Fare Super
+   • Market 市场：2007 年 136 亿美元 → 2012 年预计 1150 亿美元.
+- Teijin 帝人：PET 海岛型，500 nm，海/岛 30/70，300 岛，10 圈分布，纤度 0.0025 dtex，强度 4.5 cN/dtex.
+- Toray 东丽：PA/PBT，20–200 nm 纳米长丝.
+- Kuraray 可乐丽：海岛型复合纺粘；NCRC：海组分不溶去（环保路线）；Hills：500 nm 已商业化.
+- Electrospinning 静电纺丝：高知女子大学 PVDF/PMMA 海岛型制多空穴纳米纤维（精密过滤）；C/S 双组分静电纺皮层溶去后纤维网直径缩减 48%.
+- Note 说明：报告中"纳米纤维（ μm）"一处的直径数值同样缺失，[待验证].
+
+--- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]  (3 句)
+   • 全球纳米纤维静电纺丝**设备**市场：2024 年约 **1.12 亿美元** → 2031 年 **1.53 亿美元**（**CAGR 4.3%**）
+- **工业级**电纺设备市场（含配套）：2025 年约 **1.5 亿美元**，预计 2033 年前以 **15% CAGR** 增长
+- 纳米纤维**应用终端市场**（主导细分）：占电纺设备需求的 **32.5%**（约 **9.1 亿美元**，2025 年）
+- 驱动力：空气过滤后疫情常态化 + 医疗器械升级 + 新能源电池隔膜换代
+- 数据来源（源文自陈）：QYResearch、Verified Market Reports、Future Market Report 等 2024–2026 年数据
+   • **TPU/PET S-S 双组分弹性纳米纤维**（源文注明"结合前次报告内容"）：静电纺丝 + 并列型双组分纺丝结合，制备**天然弹性**纳米纤维无纺布，用于**立体护围（3D leg cuff）**或**腰贴弹性耳部**；优势 = 更贴合皮肤曲线、**更安静（无橡胶回弹噪音）**、可调透气性。
+   • 静电纺丝经近 30 年发展，*"已经从实验室走向了工业化的门槛前"*；对卫材行业**不是简单的"材料替代"，而是提供全新产品维度** —— 从"更薄更软"进化到**"功能智能化"**。
+- **核心结论（四条）**：
+  1. 最值得投入 = **ADL 导流层 + 抗菌纳米纤维复合**（技术可行性高、差异化明显、消费者可感知）
+  2. 材料首选 **TPU**（弹性/透气兼顾）与 **PLA**（生物降解/ESG 叙事）
+  3. 采取 **"复合渐进"策略** —— 不追求全面替代，在关键功能层叠加纳米纤维功能层
+  4. 关注 **Elmarco、Inovenso** 等设备商的**中试合作**机会，以及高校联合研发（源文点名：**清华/东华/浙大**均有电纺研究组）
+
+--- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]  (3 句)
+   • **Hygiene portfolio**:
+1. **Common spandex** — **120–1100 dtex**; packages 1.0 / 2.0 / 3.0 / 4.5 kg; colours natural, purple, pink, light blue, dark blue; custom specs available.
+2. **Fine-denier spandex** — **120 / 160 / 240 / 320 dtex** for the **waist of feminine-care pants and baby pull-ups**, all validated by customers; a **new formulation** is offered to **reduce breakage risk**, requiring a process change on the customer side.
+3. **Nanofiber WBM** — **PU** made by **high-voltage electrosp
+   • **华峰把卫品氨纶拆成常规 / 细旦 / 生物基 / 无溶剂四条，其中细旦已客户验证、生物基 >70% 生物基含量、无溶剂通过 DMAC 未检出** —— 支撑页：华峰集团（Huafon Group）、无溶剂氨纶（Solvent-free Spandex）
+- **纳米纤维 WBM 以 PU 静电纺丝实现「远低于 25 gsm 却更高静水压 + 极高 WVTR」的轻量防水透湿** —— 支撑页：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+   • 实体：华峰集团（Huafon Group）
+- 概念：无溶剂氨纶（Solvent-free Spandex）、Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）、Electrospinning（静电纺丝）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- 对比（既有）：华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）、卫材氨纶供应商对比（华峰千禧 vs 莱卡 HYFIT vs 泰和新材 vs 中柏 vs 河北邦泰）
+
+--- [[Electrospinning vs Conventional Nonwoven（静电纺丝纳米纤维与传统非织造对比）]]  (2 句)
+   • **静电纺丝在卫材的合理定位是"高价值部位的功能叠加层"，不是主体结构的替代材料**——先用 **6–12 个月**做 **ADL + 抗菌纳米纤维复合**出样（难度中低、材料成熟），再视产能与成本推进面层（12–18 个月）、芯体（18–36 个月），全气凝胶芯体（36 个月+）作战略储备；**任何阶段都不应以"更薄/可降解"掩盖"单次吸液总量可能不及 SAP 体系"这一自陈短板**。
+   • Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用） —— 
+- Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论） —— （供应商能力叠加瓶颈一条）
+
+--- [[孔隙率 Porosity]]  (2 句)
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+   • **提供正文摘录的库内页面**
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers
+- 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）
+- Gel Blocking（凝胶阻塞）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- PCM-Free Thermoregulation
+- BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- Electrospinning Technolog
+
+--- [[汉高]]  (2 句)
+   • **源起 Meeting**：（2026-05-26 技术交流议程），其下游分析见 Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）。
+- **议程六段 Structure**：交流背景与目标 → 前沿热点（生物基/可降解结构胶、超低添加量胶线、皮肤微生态友好热熔胶、智能响应型）→ 开发痛点（轻薄化、弹性材料、亲水/疏水、工艺窗口）→ 可持续（碳足迹与 LCA、回收/循环适配、无溶剂/UV）→ 探索蓝海（胶线功能集成、**纳米纤维素增强胶（标★）**、静电纺丝无胶粘接、AI 辅助设计）→ 交流策略。
+- **隐含时间分配 Time budget**：三星必谈 40–50%（生物基胶、超低添加量、弹性材）｜二星重点 30–40%｜一星探针 15–20%（智能响应、纳米纤维素、无胶粘接）。
+   • **关键判断（本页登记，非汉高答复）：**
+1. **必谈三项 = 汉高核心优势区** —— 生物基结构胶、超低添加量、弹性材料专用胶被判定为"直接影响下一代产品竞争力"；**这三项可作为评估汉高技术领先度的锚点议题**。
+2. **纳米纤维素增强胶（议题 13）是本方主动出题的 JDA 切入点** —— 与"采购现有产品"不同，这一项的落点是**联合实验室 + IP 归属框架**；**属于共同开发而非供应关系**。
+3. **静电纺丝无胶粘接（议题 14）被定位为"颠覆性思维"话题** —— 用于激发创新对话，**优先级低于 JDA 项**。
+4. **可回收性首次被作为胶的退出路径提问** —— 水热解 / 水解 / 热解场景下胶**是否干扰纤维回收或 SAP 提取**、产物毒性；**DfR（面向回收的设计）落到胶上**。
+5. **一个被明写的内部疑虑** —— 面层与芯体粘接使用**亲水胶是否会加剧反渗**；**胶被纳入回渗归因链**。
+6. **AI 配方设计的基线是 12–18 个月** —— 判断该能力是否外溢的关键问题是**客户能否接入平台自主筛选**。
+

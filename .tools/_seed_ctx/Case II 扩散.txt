@@ -1,0 +1,110 @@
+# SEED: Case II 扩散
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Non-Fickian Diffusion (Crank Ch.11)
+#
+# 全库正文命中 49 页，62 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Non-Fickian Diffusion (Crank Ch.11)]]  (4 句)
+   • **SAP 'S 形'吸液曲线的物理根源——Alfrey-Gurnee-Lloyd 三分类理论**——SAP 干态（玻璃态）→溶胀（橡胶态）过程中，扩散从 Case II→非菲克→Case I 三个阶段，对应吸液曲线不同段；玻璃态不能用 D(C) 形式 Fick 定律描述。
+   • **Alfrey-Gurnee-Lloyd 三分类**：
+  - Case I（Fickian）：扩散速率 << 松弛速率
+  - Case II：扩散速率 >> 松弛速率（快速溶剂化）
+  - 非菲克：扩散与松弛速率可比
+- **SAP 映射**：干态玻璃态→Case II→非菲克→橡胶态 Case I——三阶段对应 S 形曲线。
+- **物理根源**：SAP 干态是玻璃态（T_g），溶胀后进入橡胶态（降低 T_g）——两区域 D 与机制完全不同。
+- **关键限制**：玻璃态高分子扩散不能用 D(C) 形式 Fick 定律描述；橡胶态一般 Fickian。
+   • **SAP S 形吸液曲线的物理根源是 Case II→非菲克→Case I 三阶段**——干态玻璃态的快速溶剂化（Case II）到橡胶态慢扩散（Case I）的过渡。
+- **玻璃态不能用 D(C) 形式 Fick 定律描述**——这是 SAP 建模的重要限制，需动边界模型（Ch 13）补充。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Non-Fickian Diffusion (Crank Ch.11)
+- Case II 扩散
+- Fick 定律
+
+--- [[Structured Minutes — New Material Development & Elastic Recovery Process（录音纪要 2026-09-20）]]  (3 句)
+   • Date 日期：**[待验证]** —— 文件名时间戳  指向 **2026-09-20**；但纪要正文标注"**纪要整理日期 2026-09-04（星期五）**"，**与录音时间矛盾** → 需核对
+- 录音时长：约 **25 分 27 秒**（00:00:00 – 00:25:27）
+- 参会方（推断，未具名）：
+  - **开发方 / 工艺模块方**：推荐新材料、针孔打孔模块、绒毛浆分布、超薄芯体、弹性恢复等工艺；具备 die cutter、张力控制、拉伸工艺、Kirigami 曲面切割能力；正在开发 pinhole 模块的两个型号
+  - **产品方 / 材料应用方**：卫生/个人护理企业，涉及婴儿护理与成人失禁用品；与 **Yuhan-Kimberly** 有业务关联；拥有 **IPC** 与 **Casey China** 团队资源
+- 其他提及对象：Yuhan-Kimberly、IPC、Casey China、Jared/Jerreds、Sam、产品设计/技术负责人 [待验证]
+- ⚠️ 人名与机构简称一律 **[待验证]**
+   • 1. **材料伸长率不能按比例外推（本页最关键的工程判据）**：不同 PE 材料的伸长率差异极大 —— 有的 **>500%**，有的 **<200%**；因此**不能简单按比例放大**（"can't multiply one by eight"）。
+2. **超薄芯体路线（婴儿护理线）**：采用 **绒毛浆（pulp）+ mesh（网材/成网技术）**组合 → **降低整体克重（BK/BW）同时保持性能**。
+3. **绒毛浆分区分布（推荐项）**：替代"在整个芯体上均匀分布绒毛浆"，改为**把绒毛浆精确集中到需要的部位**（芯体/吸收区）→ 同时提升**性能、材料效率与舒适度**；供应商称已成功应用于 core 与 cover [待核对]。
+4. **配比为混合体系但数值待确认**：本方问"是纯绒毛浆还是与 SAP 混合"，确认为**含 SAP 的混合材料**；比例在会中出现 **50/50** 与 **70/30**（"Seven thirty"）两个口径 → **须书面确认**。
+5. **两种 pinhole cutting 方式（已确认）**：**carving part*
+   • 1. **日期矛盾**：文件名时间戳指向 2026-09-20，纪要标注整理日期 2026-09-04 —— **需核对**。
+2. **配比未定**：50/50 与 70/30 两个口径并存 → **须书面确认**。
+3. **克重口径未对齐**：10–18 gsm 与 18/18、30/30 的对应关系不明 → 需结合产品方实际产品确认"高/低克重哪种更容易"。
+4. **涂层安全未闭环（本方核心关注）**：涂层/针与材料**直接接触** → 担心**粘附或迁移到材料上**；要求**对健康无害、对环境无害**；开发方称有多种涂层方案（various coating）会进一步确认，会中认为某一 type 更优 —— **未给出结论**。
+5. **六项推荐中其余项未展开**：录音只清晰展开了部分（PE/克重、绒毛浆分区、超薄芯体、弹性恢复、Kirigami/共开发、打孔数据/涂层/pilot）→ **建议向开发方索取完整推荐清单与议程**。
+6. **术语待确认**：carving part / uncarpeted part、thosson carbide / kirigami、B
+
+--- [[Fick 定律]]  (2 句)
+   • **SAP swelling is not plain Fickian.** The **Alfrey-Gurnee-Lloyd three-way classification** splits behaviour by the ratio of diffusion to relaxation rate: **Case I（Fickian）** when diffusion << relaxation; **Case II** when diffusion >> relaxation; **non-Fickian** when they are comparable. SAP maps onto the sequence 干态玻璃态 → Case II → 非菲克 → 橡胶态 Case I, which is the physical root of the **S-shaped sorption curve**（源：Non-Fickian Diffusion (Crank Ch.11)）. Critically, **a glassy polymer cannot be descr
+   • Mathematics of Diffusion
+- Diffusion Equations (Crank Ch.1)
+- Non-Fickian Diffusion (Crank Ch.11)
+- Moving Boundaries (Crank Ch.13)
+- Case II 扩散
+- Diffusion in a Sphere (Crank Ch.6)
+- Diffusion in a Plane Sheet (Crank Ch.4)
+- Diffusion in Heterogeneous Media (Crank Ch.12)
+- Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+- 时间滞后法 Time Lag Method
+- Boltzmann 变换
+- 湿迁移 Wet Migration
+
+--- [[Adhesive Handbook Part 4 Applications]]  (2 句)
+   • **Ch46 电子工业（Bauer & Schneider）**：PCB/SMD 胶黏剂——CTE 匹配、260°C 回流焊耐受、70-80wt% 银填料渗流、环氧+UV 丙烯酸酯为主流；FR4 环氧树脂同时充当铜箔粘合剂与层压基材粘结剂；导电胶金属含量 70-80wt%。
+- **Ch47 木材工业（Dunky）— 全书最长章**：
+  - 工艺参数占粘接性能约 **50%**（"In wood adhesives the application parameters other than the characteristics of the adhesive itself account for around 50% of performance"）
+  - UF 树脂：F/U 摩尔比最关键；氨基亚甲基键水解→高湿高温下不稳定；E1 甲醛排放法规
+  - PMDI：渗透深度为 PF 的 **5-10 倍**，进入木材聚合物结构
+  - CWBL（化学弱边界层，脂肪/蜡质覆盖）与 MWBL（机械弱边界层，加工损伤）
+  - Hot melt（EVA/APAO/polyamide/TP
+   • **"工艺参数占粘接性能约 50%"**（Ch47）——卫材粘接工艺优化的理论依据：胶料选型与工艺参数同等重要，不能只换胶不换工艺。
+- **UF 化学直接适用于湿强剂研发**——UF/三聚氰胺类湿强剂的交联机理与固化动力学，Ch47 提供教科书级解释。
+- **CWBL/MWBL 弱边界层理论**——浆粕表面蜡质覆盖（CWBL）与加工损伤（MWBL）是浆粕粘接性能的核心变量，直接映射浆粕采购质量索赔技术依据。
+- **PMDI 渗透深度为 PF 的 5-10 倍**——MDI 类湿强剂在纤维渗透能力上远优于 PF，解释 MDI 湿强剂性能优势。
+- **生物胶黏剂 mesh size 与粘附强度正比**——与 SAP 凝胶网络动力学（交联度→mesh size→吸收速度/倍率 trade-off）概念完全对应。
+- **E1 甲醛排放法规逻辑**（室内暴露、婴幼儿风险偏好）——直接映射纸尿裤/婴儿湿巾的 VOC 与气味合规要求，是合规战略采购的关键输入。
+- **天然基胶黏剂（tannin/lignin/laccase）**——对应卫材"无胶复合"与"bio-based hot me
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+
+--- [[Industrial Drying Ch17 Conveyor Dryers]]  (2 句)
+   • **Safety lever:** Latent heat sink protects heat-sensitive web until bound moisture is gone. Past that, surface temperature climbs — degradation/casehardening window opens.
+   • Exhaust air losses: ~**10%** of total (p.419)
+- Preheated make-up air recovers >10% energy (p.419)
+- Casehardening occurs at low humidity — manage relative humidity in the dryer
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (2 句)
+   • Assessment: dye-modification and spinneret design are the best-supported arguments (reaction chemistry plus computable parameters); the rheology correlations and unpublished data are plausible but lack public verification; flame retardance and micro-structure sections lean on producer case studies with weaker generality. Many empirical relations are flagged "unpublished" and carry no error bounds (pp.363, 396).
+   • 1. **Conjugated bicomponent spinning is the direct ancestor of splittable nonwovens**: the island-in-sea and radial-split configurations described at 14.6 are the same geometry used for splittable bicomponent spunbond and for海岛 staple used in high-coverage coverstock and wipes. See PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） for the modern side-by-side variant.
+2. **Non-circular cross-section → lustre, cover and handle** (p.387) is exactly the trade space behind topsheet s
+
+--- [[Moving Boundaries (Crank Ch.13)]]  (2 句)
+   • **动边界定义**：'不可逆瞬时固定反应'的数学等价——尖锐边界表面在介质中移动。
+- **Stefan 问题等价**：动边界数学结构 = 冰融化前沿，可用成熟 Stefan 工具处理。
+- **SAP 映射**：溶胀前沿（凝胶-玻璃界面）——前沿后面全湿凝胶（D 大），前面干态玻璃（D≈0）。
+- **定量实现**：Ch 11 Case II/非菲克过渡区的定量模型。
+   • **SAP 溶胀前沿=Stefan 相变问题**——数学结构等价于冰融化前沿，可用成熟 Stefan 工具处理。
+- **动边界模型是 Case II/非菲克过渡区的定量实现**——补充 D(C) Fick 定律在玻璃态的不足。
+
+--- [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]]  (2 句)
+   • This is the **standard analysis template for vendor visits and project initiation**, built backwards from the BNC × Baikerui（拜科瑞）case of 2026-09. Its purpose in this library is methodological: it defines *how* a new material is allowed to enter the candidate set, which is the upstream gate on every concept and comparison page in the materials track.
+（本页是**供应商拜访与项目立项的标准分析模板**，由 2026-09 的 BNC × 拜科瑞案例反推产出。在本库中的用途是方法论层面的：它定义了「新材料的候选集准入规则」，位于全部材料类概念页/对比页的上游。）
+   • 1. The source states the design intent directly: the old template derived forward from **material performance → possible application**, which structurally misses non-substitution paths such as *intermediates* and *carriers*. Among the four Baikerui needs, three were reachable with the old template; only the **PEG dry-granule intermediate** could not surface — and only backward derivation exposes it.（旧模板「材料性能 → 可能应用」正推，天然漏掉中间体/载体这类非替代型路径；四个需求里三个旧模板也能想到，唯独 PEG 干颗粒中间体只有倒推才能浮出来。）
+2. The revised chai
+
+--- [[Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx]]  (2 句)
+   • Pre-work product-matrix workbook prepared for a 2017 BFS APAC workshop, tabulating bath-tissue SKUs (jumbo / standard / folded rolls) across six APAC markets with five-year (2016–2021) volume plans and per-case economics.（为 2017 年 BFS 亚太研讨会准备的预研产品矩阵，汇集六大亚太市场的卫生纸单品及 2016–2021 五年销量规划与单箱经济性。）
+   • Scope is **bath tissue**, not diapers: Jumbo Roll, Standard Roll and Folded Bath across Australia, New Zealand, China, Taiwan, India and Hong Kong, brands SCOTT / KLEENEX / corporate & private-label.（范围为卫生纸而非纸尿裤：澳/新/中/台/印/港的 Jumbo/Standard/Folded，品牌含 SCOTT、KLEENEX 及自有/贴牌。）
+- Each row carries furnish (EUCA/bagasse/softwood/RF/broke), basis weight, plies, sheet dimensions, yearly plan (cases & MT) for 2016–2021, and per-case NSV / COGS / Dist / GP / GM%.（每行含浆料配比、克重、层数、尺寸、2016–2021 年规划（箱/吨）、单箱 NSV/
+

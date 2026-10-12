@@ -1,0 +1,25 @@
+{
+  "batch": "15",
+  "done": [
+    "纺粘熔喷 Spunbond-Meltblown",
+    "Koch Industries",
+    "戊二醛 Glutaraldehyde",
+    "保湿剂 Humectant",
+    "摩擦电自供电 TENG",
+    "羧甲基纤维素 CMC",
+    "自-sizing Self-sizing",
+    "Freundlich 等温线"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "纺粘熔喷 Spunbond-Meltblown: SSMMS 热轧(calendering)粘合窗口数值在源摘录中 OCR 截断（原文尾 'cal...'）→ 标 [原文残缺]；层数×克重×纤维细度对卫材性能（回渗/透气/柔软）的定量映射缺；纺粘/熔喷 MFR 树脂分野牌号与工艺窗口缺。",
+    "Koch Industries: 引用来源 [[Nonwovens in Absorbent Materials]] 仅给出供应商名录（与东丽、舒美同列），无公司全称/国别/主营/产品牌号/与 KC 关系 → Profile 与 Products 全部 [待补]；无商业数据（按规则 entity 页不记价格/合同/联系人）。",
+    "戊二醛 Glutaraldehyde: 无独立'一句话定义'原句，定义由交联剂谱系角色承担；无残留醛/皮肤接触安全口径；与环氧氯丙烷、甲醛在卫材场景的成本/性能对比缺 → [待补]。",
+    "保湿剂 Humectant: 定义待补（引用来源未给出明确定义）；无定量参数（添加量/保湿率/机理常数）→ 表格仅记'本库命中页未给出'。",
+    "摩擦电自供电 TENG: 库内 CLCE 器件电学输出具体数值与耐久循环数均为源页明示的 [未找到原句/行号缺失]（原文为正文数据）；CLCE+SAP 尿湿可视化指示为源页记录的推演、非论文实验结论，已按推演标注。",
+    "羧甲基纤维素 CMC: 无加压保液(AUL)/回渗的卫材口径数据；生物基 CMC 体系与石油基 SAP 的成本/性能对比缺 → [待补]。",
+    "自-sizing Self-sizing: 无独立'一句话定义'原句，定义由老化失效模式描述承担；无定量老化速率/老化曲线；再润湿剂对自-sizing 的定量恢复幅度缺 → [待补]。",
+    "Freundlich 等温线: 卫材体系（绒毛浆/SAP/芯体）中 R、n 的实测取值缺；与毛细压力/达西流的耦合口径缺 → [待补]。"
+  ],
+  "count": 8
+}

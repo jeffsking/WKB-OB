@@ -1,0 +1,12 @@
+{
+  "batch": "S7_(根层级)_01",
+  "stage": "S7",
+  "block": "(根层级)",
+  "source_pages": 8,
+  "concept_pages": 1,
+  "entity_pages": 0,
+  "comparison_pages": 0,
+  "updated_existing": 4,
+  "manual_review": 5,
+  "notes": "Compiled all 8 items in order. Added one bacterial-cellulose-aerogel drying concept; reused and appended dated evidence to existing LMP-PP, mPP, sheath-core, and route-comparison pages. Business-sensitive partner and execution details were omitted and marked for manual review. index.md and log.md were not modified."
+}

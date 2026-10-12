@@ -1,0 +1,118 @@
+# SEED: Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 649 页，1358 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热熔胶 Hot Melt Adhesive]]  (11 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • ⚠️ 口径提示：本库同时存在 Hot Melt Adhesive 与 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） 等分型页面，引用时应确认层级（通用 vs 聚烯烃分型）。
+   • **1. 粘接机理五大类：** WLB 湿润、表面能、渗透、锚定、静电 —— 适用于所有粘接场景（源：Adhesive Handbook）。含纤网场景下**机械互锁占主导**："penetration of the protruding fiber ends into the rubber was the most important parameter"（Part 2, Line 71–75）（源：Handbook of Adhesive Technology Full Report）。
+   • **2. 胶接界面不是一条线：** "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（Part 2, Line 2900–2920）（源：Handbook of Adhesive Technology Full Report）。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (11 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+
+--- [[Hygiene Absorption Model]]  (9 句)
+   • 该源性内容包括 12 章技术路线（从液体流动物理 → 超吸水树脂 → 非织造布 → 测试），被定义为 **REL / 吸收芯体研发的立论基础**（源：Absorbent Technology Introduction）。
+   • **1. 口径先行（define before design）：** absorbency/absorption 的语义歧义必须在术语层收口，否则**所有下游指标都会继承语义混乱**（源：Absorbent Technology Introduction）。
+   • **2. 科学缺位是绑定约束：** "The development of the majority of those products was not based on a scientific or mechanistic approach, but on trial and error techniques and on the intuitive imagination of innovative tech…"；**真正瓶颈是科学缺位而非资金**，仿真/计算机辅助设计是低成本出路（源：Absorbent Technology Introduction）。
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (9 句)
+   • 回渗测试方法的**参数矩阵底稿（英文）**： 的两个子表—— 与  + 。它是 Rewet Method Comparison（回渗测试方法横向对比） 的**底层数据表**：那张 PPT 讲的是"结论与口径"，本表给的是**逐方法 × 逐参数的原始取值**。
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (7 句)
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • **假说**：*"LOKI liner results in lower rewet, and mechanism could be replicated by domestic vendors"*（LOKI 面层回渗更低，其机理**可被国产供应商复制**）。
+- **验证路径**：**通过毛细测试确认 fiber size / pore size 驱动因素**，再**请美国本土供应商复制关键属性**做试产料。
+- ⚠️ **尚未验证**：12/8/25 完成的是**材料属性与显微表征**，**毛细测试的结果本件未给出**。
+   • 来源：Rewet Principles（回渗设计原则与测试方法关联）（Updated 10/22/25，Draft 1/2/3 三版并存）。
+   • 原文：**回渗由两种机制驱动——解吸（Desorption）与回流（Flowback）**；**在 POISE 的 FIUP 测试中，解吸主导回渗**。
+- **解吸由摄入系统（intake system）控制**：摄入系统中的**高毛细压力与界面会截留液体**，被截留的液体**在受压时表达为回渗**。
+- 机理要素清单（原文）：解吸毛细张力 / 界面 / 回渗 / **液体可得性（availability of fluid）** / **润湿性（wettability）** / **与芯体的分离（separation from core）** / **双向流动（two-way flow）**。
+
+--- [[Rewet Test（回渗测试）]]  (7 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • **教训一（口径）**：**载荷是回渗的第一属性**。8 kg（TTM-00623 高压段）与 1.20 kg（GB 国标）读到的不是同一个物理量；引用回渗门槛前必须写明是哪一套。
+- **教训二（口径）**：**等待时间决定测的是"面层残液"还是"未吸收液"**。2 min 与 15 min 的差别是场景差别，不是严格程度差别。
+- **待补 **：U Rewet 国标回渗压块与 TTM-00623 低压段反渗板的**实际质量 / 压强**（两份原文均未给出）；STM-00059-2 的完整操作规程。
+   • 来源：Rewet Principles（回渗设计原则与测试方法关联）（K. Clemmer – ADT / I. Hoeger – Absorbent Systems，Updated 10/22/25）。
+
+--- [[交联密度 Crosslink Density]]  (7 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+   • **Negotiate against load.** Cross-link density buys strength and insolubility **at the price of capacity**; because a real absorbent core is compressed, the optimum shifts **higher** than free-swell testing implies（源：Cross-linked Cellulose and Its Derivatives）。
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (7 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **Define/update the intake system innovation strategy** to meet the **top 3–5 K-C consumer needs for the next 5+ years**，**detailing by benefits and sub-benefits**（按利益与子利益逐层细化）。
+- **Identify gaps in the current innovation portfolio** that require **new technology development or fundamentals projects**（识别需要新技术开发或基础机理项目的组合缺口）。
+   • **Out of Scope 明确排除**
+|排除项 Excluded|处理方式 Handling|
+|---|---|
+|Menses / Feminine Care 经期与女性护理|待 Voyage to Venus / Sitske 战略更新就绪后从中取用|
+|**吸收芯体技术**（SAM、Fluff、Adhesives、CIRRUS）|**单独处理**，但**必须考虑它们对摄入系统战略的影响**|
+|Tactical material migration plans & glidepaths 战术性材料迁移计划|单独处理|
+|Technology comparison POVs for specific projects & regions 特定项目/区域的技术对比观点|单独处理|
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (7 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+   • **Rewet 回渗量（Table 3, 20 g/m², five specimens）**
+   • **Single-hydrophilic topsheet (Table 4)**: first absorption ≈ 0.86–1.24 s, fifth absorption 7.39–8.62 s; rewet 3.89–6.17 g. Classic single-burst behaviour with rapid decay 单次强亲水、衰减快.
+- **Multi-hydrophilic topsheet (Table 5)**: first absorption 1.39–1.86 s, fifth 1.96–2.41 s; rewet 0.84–1.32 g.
+- **Commercial multi-hydrophilic finish trial (Tables 6 & 7)** — 25 g/m² air-through fabric from whitened hydrophilic ES fibre: embossed topsheet T1–T5 = 1.25 / 1.44 / 1.56 / 1.71 / 1.82 s with rewet 1.06 
+
+--- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]  (7 句)
+   • **Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）回渗进展 2025-12-02（非正式分享 · Depend 拆解与毛细机理）** — 一份以 Depend 为镜头（told through the Depend lens）的回渗进展汇报。核心方法论是：不靠试错，而是用**毛细压力法（Capillary Pressure Method）**定量测出每个摄入层「有多想留住液体」，再逐组件找根因、逐组件消残液。
+   • **Goal 目标**：Best in class rewet（回渗做到业界最佳）。
+- **Approach 方法**：**Systematically eliminate every drop of residual fluid from every component** 系统性地清除每一个组件中的每一滴残液。
+- 组件分解（teardown 拆解）：**Surge 导流层 / Liner 面层 / Core 芯体 / Interstitial 层间**。
+- 因果链（原稿图注）： →  →  密闭 Cradle 回渗由**解吸**驱动，解吸主要由**毛细作用**驱动，因此要逐层测毛细性。
+   • 反直觉现象：**Depend 毛细性更好，但整体排液反而更差**，原因是 **basis weight 克重更高**。
+- AD 是**低克重 + 高毛细性**——对 intake 摄入不利；AD 用 **curly fiber 卷曲纤维**来补偿摄入，**而卷曲纤维不影响回渗**（doesn't impact rewet）。
+- 反向启发：我方拟试用**含卷曲纤维的 wrapsheet 包覆层**，看能否抵消这类导流层带来的摄入损失。
+- **根因判定**：最可能是**孔径差异**；平均孔径（average pore size）AD 与 Depend **相近**，但**孔径分布 PSD 不同**——**Depend 分布更宽、大孔更多**。
+- **机理假设（B）**：**小孔中的液体不会被非常大的孔拉出来**，从而把液体**滞留（stranded）在导流层内**。与 **SIROCCO 学习**一致。
+- **结论性判断**：**Size distribution is just as important as overall size** 孔径分布与孔径大小同等重要。
+- 供应
+   • **AD 的 attachment strength 粘合强度高于 Depend**（即层间空隙 interstitial space 更少）。
+- 假设：更小的层间空隙**同时改善面层的排液**（improves draining of the liner）。
+- 当前手段：**LSE**（用于形成该结构）**会制造小液袋（small pockets），对回渗不利**；但 **LSE 净效应仍为正**。问题被明确提出：**can we find a better way? 能否找到更好的方式？**
+- 行动：DOE #1（adhesive pattern 胶图案 / bonding 粘合方式 / adhesive type 胶类型）；样品已制作，**microCT 预计 1 月出结果**。
+

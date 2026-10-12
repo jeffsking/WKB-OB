@@ -1,0 +1,140 @@
+# SEED: Liquid Modes（TL-1607 液体四态）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 168 页，275 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[液晶 Liquid Crystal]]  (11 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Two thesis application threads.** Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport（源：Liquid Crystalline Polymers Smart Applications）。Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight（源：Liquid Crystalline Polymers Smart Applications）。
+   • **Bio-inspired columnar proton channels.** Bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into **homeotropically oriented columnar proton channels** with water-independent conductivity and size-selective ion transport（源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a **wide temperature range**; hydrophobic mesogeni
+
+--- [[达西定律 Darcy's Law]]  (5 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • **无材料级渗透率 / 孔隙率数值**：库内各页给出达西定律与扩散因子的**公式**，但**未给出绒毛浆/非织造/SAP 层的 k、Φ 实测值**——需回 *Absorbent Technology* 原文补齐。
+- **达西定律的适用上限**：摘要未给出 Reynolds 数适用边界或 Forchheimer 修正的触发条件（源：Porous Structure and Liquid Flow Models 未涉及）。
+- **与毛细动力学的时间标度**：x_v ∝ t^(1/2) 的比例常数在摘要中**未数值化**（源：Liquid Flow in Porous Structures）。
+- **流体性质项**：μ（黏度）在摘要中仅作为 K = k/μ 的组成出现，**具体流体（尿/血/模拟液）黏度值未给出**。
+- **落地方案**：库内无把达西定律直接用于**产线工艺参数（如施胶量、压花）**的记录，属理论接口而非工艺口径。
+
+--- [[Specific Air Volume]]  (4 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[Washburn Equation]]  (4 句)
+   • What the digest *does* evidence is its **result form and its theoretical family**：in a porous medium the advancing wicking-front distance obeys **x_v ∝ t^(1/2)**，named the **Washburn / Rudd relation**（源：Liquid Flow in Porous Structures，p. 24, p. 37）；the equation is grouped into Chapter 1 "Porous Structure and Liquid Flow Models" of *Absorbent Technology*, alongside the **Péclet number, Darcy's law, Washburn equation and capillary rise**（源：Absorbent Technology）。The full explicit form（in terms of 
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane]]  (4 句)
+   • Shows that bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into homeotropically oriented columnar proton channels with water-independent conductivity and size-selective ion transport — the materials foundation of the ion-transport thread.
+（展示仿生盘状/锥形树状液晶聚合物自组装成垂直取向的柱状质子通道，具湿度无关电导与尺寸选择性离子传输，是离子传输主线的材料基础。）
+   • Bio-inspiration: biological systems (protein channels, TMV helical self-assembly via exo-recognition) show water-free, highly selective ion transport, motivating artificial ion-channel design.（仿生：生物离子通道与 TMV 螺旋自组装启发了无水、高选择性人工离子通道设计。）
+- Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a wide temperature range; hydrophobic mesogenic side chains + hydrophilic ether linkages constitute the ion pathway.（锥形树状侧基聚醚在宽温域形成柱状液晶相；疏水介晶侧链+亲水醚键构成离子通路。）
+- H
+   • Bio-inspired discotic LCPs give water-independent, Nafion-comparable proton conductivity via homeotropic columnar channels — support page: Liquid Crystalline Polymers Smart Applications.
+- The "baking process" is a substrate-independent route to oriented proton membranes; extended in Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1 and Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 纳米线 Part 1：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1
+- 纳米线 Part 2：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+
+--- [[General Introduction and Objectives]]  (4 句)
+   • This is the thesis's conceptual foundation: it defines stimulus-responsive "smart materials" via liquid-crystalline polymers and sets the two application threads (photoresponsive microcapsules + proton-conductive membranes).
+（本章是全书的立论基础，界定"智能材料"并以液晶聚合物为核心载体，引出光响应微胶囊与质子导电膜两条应用主线。）
+   • "Smart materials" historically trace to 1800s reports of magnetostriction; the thesis narrows the definition to polymers that can moderately reorganize their structure under stimuli, with novel liquid crystalline polymers (LCPs) as the central carrier for new material design, synthesis and system integration.（"智能材料"概念可溯至 1800s 磁致伸缩；本书将其收窄为可在刺激下中等程度重组结构的聚合物，并以新型液晶聚合物为核心载体。）
+- Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range orde
+   • Smart materials (narrowed): polymers able to moderately reorganize structure under stimuli — support page: Liquid Crystalline Polymers Smart Applications.
+- LCP classification (MC/SC × calamitic/discotic) governs which smart application is pursued — photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 材料平台（后续章）：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜主线（后续章）：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+
+--- [[Introduction to Liquid Crystals]]  (4 句)
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+   • The clear objective is an **antiferroelectric liquid crystal operating at room temperature** — i.e. the whole exercise is about pushing the $S_{Calt}$ phase window down into ambient conditions.
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+   • Antiferroelectric Liquid Crystals — 同一底层工作的另一份摘录（DeepRead），化合物、基准物与 DSC 数值相同，二者互为重复而非独立佐证。
+- Chromic Phenomena Solar Energy and Liquid Crystals — 本库液晶/变色化学主线的基础页，本文的相变-织构方法在此有更完整的化学背景。
+- US20070270773A1 Thermochromic Wetness Indicator — 卫生用品湿热指示专利，是本文"温度触发光学响应"在卫材场景的实际落地形态。
+- Mechanochromic Elastomer from PDLC 5CB PDMS — 以向列相液晶 5CB 分散于 PDMS 的力致变色体系，与本文反铁电近晶体系构成液晶应用的两条不同分支。
+
+--- [[Liquid Crystalline Polymers for Smart Applications]]  (4 句)
+   • The thesis is built on one premise: a liquid crystalline polymer (LCP 液晶聚合物) is a *programmable* smart material because mesophase order couples an external stimulus to macroscopic function. Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport.
+   • **General Introduction and Objectives** (p.1) — "Smart" materials; liquid crystals; nematic/cholesteric, smectic and columnar mesophases; calamitic vs. discotic molecules; main-chain (MC) vs. side-chain (SC) LCPs; strategy and four stated objectives (p.11).
+- **Part 1. Application of Calamitic Liquid Crystalline Polymers** (p.15) — intro to Microcapsules and Controlled Release.
+  - **Chapter 1** (p.23) Synthesis and Characterisation of a New Family of Photoactive Liquid Crystalline Polyesters ba
+   • 1. **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable.
+2. **Photoresponsive polyesters.** Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight.
+3. **First-order p
+   • Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene — thesis Ch.1 as a standalone chapter page
+- Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester — thesis Ch.2 as a standalone chapter page
+- An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks — thesis Ch.3 as a standalone chapter page
+- Applying Nature's Genius to Discotic Liquid-crystal Po
+
+--- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]  (4 句)
+   • The deck frames the 25 gsm liner as an ATB-bonded PE/PET ES bicomponent staple web built from two carding feeds — fine 2D ES for softness and coverage, coarser 4D ES for loft and permeability — where hot-air bonding relies on **PE sheath softening while the PET core stays structural**. The target is to raise capillary absorbency and machine-direction (MD) urine distribution *before* liquid reaches the SAP-rich core, **without** turning the topsheet into a liquid-storing ADL.
+本资料把 25 gsm 面层定位为 AT
+   • Three mechanisms are proposed for the star cross-section: (1) **capillary rails** — open axial grooves act as low-volume liquid pathways once a hydrophilic finish lowers the contact angle, favouring spreading over local pooling; (2) **MD bias** — adding profiled PET to the second card can bias lateral urine distribution along MD; (3) **loft support** — PET is stiffer than PE/PET ES at bonding temperature, so a moderate addition helps preserve void volume under light pressure.
+星形截面给出三条机理：①**毛细导轨*
+   • **Placement beats dosage**: star PET in the lower card only is the design principle; skin-side exposure is gated on proven hand feel and lint —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **Benefit saturates but risk accelerates** (~“performance plateau” above 15%) —— 支撑页：Shaped PET Add-On Window
+- **The groove is the function; denier alone is not enough** (reject lots where the star collapses toward round) —— 支撑页：Pentagram PET (Star Cross-Section Fibre)、Groove Capillary Suction
+- **Finish chemistry is 
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、亲水整理耐久性、热风粘合无纺布
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling sources 同批来源：Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet、ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+
+--- [[Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene]]  (4 句)
+   • Establishes the photoresponsive main-chain LCP polyester family (P1–P4) and proves that α-methylstilbene E–Z isomerization is the switch for reversible liquid-crystalline order and surface wettability — the material basis for later microcapsule/permeability work.
+（确立了光响应主链液晶聚酯 P1–P4 家族，并证明 α-甲基芪 E–Z 异构是液晶序态与表面润湿可逆切换的开关，是后续微胶囊/透过性研究的材料基础。）
+   • The goal is a UV-sensitive main-chain nematic polyester family using 4,4′-dihydroxy-α-methylstilbene as the photoactive mesogen, as precursor shells for light-triggered-release microcapsules.（目标是以 4,4′-二羟基-α-甲基芪为光活性介晶制备主链型 UV 敏感向列液晶聚酯，作为光触发释放微胶囊壳材前驱体。）
+- Homogeneous condensation yields only oligomer (P1, DP≈7.9, 14% yield); liquid–liquid phase-transfer-catalysed interfacial polyesterification (Jegal & Blumstein) gives high-Mw P2 (Mw≈41,400 g/mol, 68% yield) — synthesis route is the key process c
+   • Interfacial polyesterification is required for high-Mw photoactive main-chain LCPs — support page: Liquid Crystalline Polymers Smart Applications.
+- α-Methylstilbene E–Z isomerization = reversible light-controlled order + wettability switch, basis for photo-triggered release — see Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester and An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 微胶囊应用章：Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester
+- 原子级机理章：An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks
+

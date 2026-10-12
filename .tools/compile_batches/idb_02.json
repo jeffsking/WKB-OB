@@ -1,0 +1,36 @@
+{
+  "batch": "idb_02",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch07.md.md",
+      "chapter": "07",
+      "title_hint": "Rotary Drying",
+      "bytes": 19518
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch08.md.md",
+      "chapter": "08",
+      "title_hint": "Fluidized Bed Dryers",
+      "bytes": 22055
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch09.md.md",
+      "chapter": "09",
+      "title_hint": "Drum Dryers",
+      "bytes": 19611
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch10.md.md",
+      "chapter": "10",
+      "title_hint": "Industrial Spray Drying Systems",
+      "bytes": 18966
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch11.md.md",
+      "chapter": "11",
+      "title_hint": "Freeze Drying",
+      "bytes": 18136
+    }
+  ]
+}

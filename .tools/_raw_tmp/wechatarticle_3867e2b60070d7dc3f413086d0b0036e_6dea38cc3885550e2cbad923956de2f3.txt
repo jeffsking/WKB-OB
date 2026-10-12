@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+
+  <h id="#activity-name">CFD人用Codex，建议先装这8个插件！</h>
+  <p id="#js_name">作者: 秃头君君</p>
+  <p id="#publish_time">发布时间: 2026年6月28日 07:00</p>
+  <p id="#js_ip_wording">发布地点: 新疆</p>
+
+  <p id="p1">做CFD的人都知道，仿真工作远不只是"建模—网格—求解—后处理"这么简单。一个完整项目往往还伴随着大量文档记录、参数整理、结果对比、脚本维护、资料查证、报告撰写和团队协作。Codex的价值并不是替代CFD工程师判断流场、选择模型或评估结果，而是把这些分散、重复、容易出错的工程流程变得更清晰、更可追溯。对于刚开始使用Codex的CFD工程师来说，与其一上来追求复杂自动化，不如先把几个基础插件装好，让它们分别服务于文档、表格、汇报、检索、网页操作、桌面软件、代码仓库和文献管理等常见环节。</p>
+
+  <h id="h1">Documents</h>
+  <p id="p2">01</p>
+  <p id="p3">Documents插件主要面向文档类工作，可以用于撰写、修改、整理和结构化长文本内容。它适合处理技术说明书、项目报告、操作规程、会议纪要、研究记录和标准模板。对于工程工作而言，它的价值在于把零散内容转化为结构清楚、便于归档和复用的文档。</p>
+  <p id="p4">在CFD工作中，Documents尤其适合整理算例说明。一个完整的CFD算例通常需要记录几何模型、计算域范围、网格数量、边界条件、湍流模型、离散格式、收敛判据和后处理方法。工程师可以让Codex基于已有记录生成统一模板，减少关键信息遗漏。比如在外流场阻力分析中，可以固定记录"来流速度、雷诺数、壁面y+、升阻力系数收敛情况、参考面积和参考长度"等内容。这样不仅方便复盘，也便于团队成员之间交接。</p>
+  <p id="p5">需要注意的是，Documents只能提升文档组织质量，不能证明算例本身可靠。算例是否可信，仍要依赖网格质量、物理模型、边界条件和验证数据。</p>
+  <image id="i1" src="https://mmbiz.qpic.cn/mmbiz_png/sbfwQmkDgsHXU4kQETzS4QzlnpMWfle10trkuFFezcuZYHZ06AEPHOhRzKqzibzlNuOdQPobOvyDREXHZ0LkbXhMicU7ib2JLYpqE9A92t2YDk/640?wx_fmt=png" alt="Documents 插件 / 01 技术文档整理与撰写 / 核心作用：整理算例说明、技术报告、会议纪要与标准模板。适用场景：算例说明（记录边界条件、网格方案与求解设置，便于复盘）；报告撰写（整理结果说明、方法描述与结论摘要）；规范模板（沉淀统一的文档结构，减少重复整理）；知识沉淀（汇总项目经验，便于团队共享与查阅）"></image>
+
+  <h id="h2">Spreadsheets</h>
+  <p id="p6">02</p>
+  <p id="p7">Spreadsheets插件主要用于表格数据处理，包括数据清洗、公式计算、统计汇总、格式整理和表格结构优化。它适合处理多行多列数据，帮助用户减少复制粘贴错误和公式设置错误。</p>
+  <p id="p8">CFD工程师经常需要处理大量表格，例如网格无关性分析、时间步长敏感性分析、压降统计、升阻力系数对比、质量流量平衡、残差记录和参数化设计结果。Spreadsheets可以帮助计算相对误差、变化率、均值、峰值、标准差和工况排序，也可以把多组计算结果整理成适合汇报的表格。</p>
+  <p id="p9">例如在网格无关性分析中，可以用它整理粗网格、中等网格和细网格下的阻力系数、升力系数、压降或平均温度变化，并计算相邻网格之间的相对偏差。但表格数值只是判断依据之一。即便整体指标变化较小，也仍需检查局部分离、激波位置、边界层分辨率和关键区域网格质量。</p>
+  <image id="i2" src="https://mmbiz.qpic.cn/mmbiz_png/sbfwQmkDgsG9kzbaGb0353w2vUSds1wRicVcrbPzticYELBSKMQomNLqpN89Lws4I2DZAb8I0sNLl7dZgMfACG7a5mxqXDBERUnmiaPGTqliaaU/640?wx_fmt=png" alt="Spreadsheets 插件 / 02 表格与计算数据处理 / 核心作用：处理参数表、结果表、统计汇总与误差对比。适用场景：参数整理（统一工况表结构，减少复制粘贴与格式错误）；网格无关性（整理不同网格结果，计算相对偏差与变化率）；结果统计（汇总压降、升阻力、温度等关键指标）；敏感性分析"></image>
+
+  <h id="h3">Presentations</h>
+  <p id="p10">03</p>
+  <p id="p11">Presentations插件主要用于演示文稿制作和修改，可以帮助组织PPT结构、提炼页面标题、整理汇报逻辑、生成图文说明，并优化页面信息层级。它适合会议汇报、项目评审、教学展示和技术交流。</p>
+  <p id="p12">在CFD项目中，Presentations可以用于整理设计评审或课题汇报材料。典型汇报结构包括研究背景、计算对象、几何模型、网格方案、边界条件、求解设置、收敛情况、主要结果、误差来源和下一步计划。对于多工况对比，它还可以帮助统一页面标题和图注表达，使汇报材料更易读。</p>
+  <p id="p13">不过，CFD图像本身仍应由工程师从ParaView、Tecplot、Fluent CFD-Post或自研后处理脚本中筛选。插件适合帮助组织叙述逻辑，而不是替工程师判断哪张云图最能说明问题。对于关键结论，仍应回到流场结构、定量指标和验证数据本身。</p>
+  <image id="i3" src="https://mmbiz.qpic.cn/mmbiz_png/sbfwQmkDgsGCfbI9ib784YsMvEh7NEhejtmzBPtmOaOtMVj79eKnTIJmxFydXDmsauNIYzEkHNaibvEO9wEIYpaKZZB16ma9DqHia1mNTKtsIs/640?wx_fmt=png" alt="Presentations插件 / 03 技术汇报与展示 / 核心作用：组织汇报结构，整理图文内容，辅助评审展示。适用场景：设计评审（梳理研究背景、方法、结果与风险说明）；项目汇报（统一页面结构，提升技术表达的清晰度）；结果展示（配合云图、曲线与表格进行信息呈现）；客户交流（输出简洁专业的展示材料，便于沟通）"></image>
+
+  <h id="h4">Browser</h>
+  <p id="p14">04</p>
+  <p id="p15">Browser插件主要用于网页检索和公开资料查证，适合查找官方文档、软件手册、技术说明、标准资料、论文页面、开源项目说明和版本更新信息。它的核心价值是减少仅凭记忆处理技术问题的风险。</p>
+  <p id="p16">CFD工程师可以用Browser查询OpenFOAM、SU2、ParaView、PyVista、NumPy、SciPy等工具的官方文档，也可以查找某个边界条件、求解器参数或湍流模型说明。对于版本相关的问题，Browser尤其有用。例如某个配置项在不同版本中的名称、默认值或适用范围可能发生变化，直接查证比凭经验更可靠。</p>
+  <p id="p17">使用Browser时，应优先参考官方文档、论文原文和经过验证的案例。论坛、博客和问答网站可以作为经验线索，但不宜直接作为工程结论依据。CFD问题通常高度依赖模型、网格、边界条件和求解器版本，同一个经验并不一定适用于所有工况。</p>
+  <image id="i4" src="https://mmbiz.qpic.cn/sz_mmbiz_png/sbfwQmkDgsGicib1tFV2bwR2MdYEYHFp46wVxo4S0kNv3xLT9LMdhicicjib7FIXvvCkHcKmY6AaBLWCHYqxC6Fg7UviadPcJuZf2ObhG6epDWURU/640?wx_fmt=png" alt="Browser插件 / 04 公开资料检索与查证 / 核心作用：检索官方文档、论文页面、标准资料与技术说明。适用场景：官方文档（查询求解器、库函数与接口说明）；技术查证（核对模型设定、边界条件与版本差异）；标准检索（查找行业规范、公开报告与资料来源）；版本更新（跟踪软件更新与配置项变化，减少误用）"></image>
+
+  <h id="h5">Chrome</h>
+  <p id="p18">05</p>
+  <p id="p19">Chrome插件更偏向于在浏览器环境中操作网页应用。与Browser侧重公开检索不同，Chrome更适合处理需要登录、点击、下载、查看状态或填写信息的网页系统，例如项目管理平台、云端计算平台、在线知识库、内部数据看板和任务管理页面。</p>
+  <p id="p20">在CFD团队中，Chrome可以辅助查看远程仿真任务状态、下载云端计算结果、整理网页系统中的工况信息，或从内部平台中提取指定算例的运行记录。如果团队使用云HPC平台或网页化仿真平台，这类插件能够减少大量重复点击和手工整理。</p>
+  <p id="p21">但Chrome涉及网页操作和账号权限，使用时必须严格遵守数据安全和保密要求。客户模型、公司内部数据、未公开计算结果和许可证信息都不应被随意暴露。它适合提高合规流程中的操作效率，而不是绕过权限、审批或安全机制。</p>
+  <image id="i5" src="https://mmbiz.qpic.cn/sz_mmbiz_png/sbfwQmkDgsEBGRrAMWv5qGmFAvG0OCN9oIzBNC13xtZr1Nffp4ibbNDSNxFvVSSupZuAjiaWfia8DsvCDHX1icgyglImNU1pS848eCO4UkNVBzQ/640?wx_fmt=png" alt="Chrome 插件 / 05 网页工作流与平台操作 / 核心作用：处理登录网页、云平台操作、任务查看与结果下载。适用场景：云端任务（查看远程计算状态，跟踪运行进度与日志）；平台操作（在网页系统中执行常规流程，减少重复点击）；结果下载（整理输出文件、报告链接与数据页面）；内部系统（配合知识库、看板和项目管理页面使用）"></image>
+
+  <h id="h6">Computer Use</h>
+  <p id="p22">06</p>
+  <p id="p23">Computer Use插件主要面向本机或远程桌面环境中的软件操作。它可以在授权范围内辅助完成打开软件、执行菜单操作、运行已有脚本、导出文件、截图和检查界面状态等任务。对于仍然依赖图形界面的工程软件，它能补足一部分自动化能力。</p>
+  <p id="p24">CFD工程师常常需要使用GUI软件完成前处理和后处理，例如加载结果文件、调整视角、设置剖面、导出云图、生成流线图或保存动画帧。Computer Use可以辅助执行规则明确、可重复的操作，例如批量打开结果文件、导出固定视角图片、运行已验证宏命令等。</p>
+  <p id="p25">它不适合承担高风险判断。网格是否合格、边界条件是否合理、流场结构是否可信、结果异常是否由数值误差导致，这些问题仍需要工程师判断。更稳妥的用法是让它处理低风险、可回退、可检查的桌面流程，把关键技术判断留给人。</p>
+  <image id="i6" src="https://mmbiz.qpic.cn/sz_mmbiz_png/sbfwQmkDgsHmqYvcmAn9jnG7BA30GOWHcic0X8t5U0nlib50Z4o3uDPLsquV6BcIUic3q3YcgfvcuibaHiaXOC4SqFDw0eN0OEWC7FTPoGSNWsj0/640?wx_fmt=png" alt="Computer Use 插件 / 06 桌面软件操作辅助 / 核心作用：辅助桌面软件操作、批量截图、导出结果与执行流程。适用场景：后处理导图（批量导出云图、流线图与固定视角截图）；批量导出（辅助完成重复性结果保存与文件整理）；宏命令执行（配合已有脚本或宏，提升固定流程效率）；桌面流程（支持本地软件中的低风险重复操作）"></image>
+
+  <h id="h7">GitHub</h>
+  <p id="p26">07</p>
+  <p id="p27">GitHub插件主要用于代码仓库和协作开发流程，包括读取代码、查看issue、处理pull request、追踪版本变化、审查代码修改和管理团队协作。对于任何依赖脚本和配置文件的工程团队，GitHub都是非常重要的工具。</p>
+  <p id="p28">现代CFD工作已经高度依赖代码和配置文件。OpenFOAM字典文件、SU2配置文件、Fluent journal、Python后处理脚本、Shell批处理脚本、网格生成脚本、ParaView宏和数据分析程序，都需要版本管理。GitHub可以帮助CFD工程师追踪不同算例配置的变化，比较脚本修改前后的差异，审查后处理代码是否存在逻辑错误，并把常用流程沉淀为团队资产。</p>
+  <p id="p29">需要注意的是，大型网格文件、二进制结果文件和商业机密模型通常不适合直接放入普通代码仓库。代码仓库适合管理脚本、配置、说明文档和轻量级测试数据。对于大规模仿真数据，应采用更合适的数据管理方案。</p>
+  <image id="i7" src="https://mmbiz.qpic.cn/sz_mmbiz_png/sbfwQmkDgsGUyhd1ljmg5qokAgqMMezPADZibtKia0g8zocKHic3r9m3icWA4r1QXANTVpqicbblFk0diaqiaSf3VePNOg9GmwmrRUjIfAvuocRxRI/640?wx_fmt=png" alt="GitHub 插件 / 07 代码仓库管理与协作 / 核心作用：连接代码仓库，辅助PR、代码审查、问题跟踪与团队协作。适用场景：PR管理（创建、更新并总结 Pull Request，减少重复整理）；代码审查（分析代码差异，发现潜在缺陷与可维护性问题）；问题跟踪（创建和整理 Issue，持续跟踪修复进度）；团队协作（同步仓库状态，让需求、代码和讨论保持一致）"></image>
+
+  <h id="h8">Zotero</h>
+  <p id="p30">08</p>
+  <p id="p31">Zotero插件主要用于文献管理和引用整理，适合管理论文、书籍、技术报告、标准文献和阅读笔记。它的价值在于帮助用户追踪资料来源，减少"结论有印象，但找不到依据"的问题。</p>
+  <p id="p32">CFD工作经常涉及模型选择和方法论依据，例如RANS、LES、DES、多相流模型、燃烧模型、气动噪声模型、壁面函数和实验验证方法。Zotero可以帮助工程师整理已有文献，提取关键结论、适用范围和局限条件。比如在讨论某个湍流模型是否适合强分离流动时，可以先从文献库中整理已有研究，再结合雷诺数、几何复杂度、计算资源和验证数据进行判断。</p>
+  <p id="p33">Zotero不能替代模型选择，但可以让模型选择更加可追溯。对于研究型CFD项目，尤其是论文写作、技术报告和课题申报，它能显著减少文献管理和引用整理的负担。</p>
+  <image id="i8" src="https://mmbiz.qpic.cn/mmbiz_png/sbfwQmkDgsFAGgEvK0WSfKKnhiarMSkJClNqf1nkcJV43ZrtNnby5ibL8uWuaJ2b44fWGuRb2uQejTnJbosR9WLAOmj72QOFAwe7ichrGAbDXI/640?wx_fmt=png" alt="Zotero 插件 / 08 文献管理与引用整理 / 核心作用：管理文献与引用，整理阅读笔记，辅助依据追溯。适用场景：文献收集（管理论文、技术报告与标准资料来源）；引用整理（统一引用信息，减少写作中的格式负担）；阅读笔记（沉淀关键结论、适用范围与局限条件）；模型依据（为模型选型、方法说明和报告写作提供支撑）"></image>
+
+  <p id="p34">总体来看，这8个插件对应的并不是某一个单独的仿真步骤，而是CFD工程流程中经常被忽略的"辅助系统"：Documents帮助记录算例，Spreadsheets帮助整理数据，Presentations帮助表达结果，Browser和Chrome帮助查证与处理网页流程，Computer Use辅助桌面操作，GitHub沉淀脚本和配置，Zotero管理文献依据。它们不能替代求解器，也不能替代工程师对物理模型、网格质量、收敛性和误差来源的判断。但如果使用得当，Codex可以成为CFD工作中的流程助手，让工程师把更多精力放在真正需要专业判断的地方。</p>
+
+  <p id="p35">期文章推荐</p>
+  <p id="p36">AI+CFD：AI 智能体驱动 CFD 自动化仿真</p>
+  <p id="p37">如何构建Codex-Fluent自动化仿真工作流？</p>
+  <p id="p38">GPT Codex 如何控制工程软件：一文讲清底层逻辑</p>
+  <p id="p39">GPT Codex 怎么用？一篇讲给 CFD 工程师的实用教程</p>
+  <p id="p40">当 Codex 遇到 Fluent：自动化仿真正在改变 CFD 工作流</p>
+  <p id="p41">Codex 新功能 Computer Use：CFD 工程师的"AI 鼠标手"来了</p>
+
+</body>

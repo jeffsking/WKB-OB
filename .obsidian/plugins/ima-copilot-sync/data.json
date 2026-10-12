@@ -1,0 +1,25 @@
+{
+  "syncFolder": "RAW/ima_sync",
+  "syncIntervalMinutes": 60,
+  "syncNotes": true,
+  "syncKnowledgeBase": true,
+  "personalKnowledgeBases": [
+    {
+      "kbId": "F8DbmyEF1G8cO-4woYjmlpOs1dETfSgd8-mu6PSsPOI=",
+      "name": "WKB"
+    }
+  ],
+  "lastSyncTime": 1791807928490,
+  "enableDebugLog": false,
+  "linkFormat": "auto",
+  "syncDeleteMode": "delete",
+  "downloadImages": true,
+  "imageSizeLimit": 0,
+  "imageSizeLimitUnit": "MB",
+  "downloadFiles": true,
+  "fileSizeLimit": 0,
+  "fileSizeLimitUnit": "MB",
+  "publicKnowledgeBases": [],
+  "forceReadingMode": true,
+  "downloadEnhanced": true
+}

@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-6_高吸水性树脂及其在尿不湿中的应用.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-6_高吸水性树脂及其在尿不湿中的应用.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-6_高吸水性树脂及其在尿不湿中的应用.pdf.md",
+   "name": "一-6_高吸水性树脂及其在尿不湿中的应用.pdf.md",
+   "title_hint": "一-6_高吸水性树脂及其在尿不湿中的应用.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B (1).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B (1).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B (1).pdf.md",
+   "name": "CN104004521B (1).pdf.md",
+   "title_hint": "CN104004521B (1).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B.pdf.md",
+   "name": "CN104004521B.pdf.md",
+   "title_hint": "CN104004521B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md",
+   "name": "v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md",
+   "title_hint": "v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf.md",
+   "name": "10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf.md",
+   "title_hint": "10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf.md",
+   "name": "09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf.md",
+   "title_hint": "09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/10_Method for coating SAP particles (with EDANA ERT citations).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/10_Method for coating SAP particles (with EDANA ERT citations).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/10_Method for coating SAP particles (with EDANA ERT citations).pdf.md",
+   "name": "10_Method for coating SAP particles (with EDANA ERT citations).pdf.md",
+   "title_hint": "10_Method for coating SAP particles (with EDANA ERT citations).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN101679760B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN101679760B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN101679760B.pdf.md",
+   "name": "CN101679760B.pdf.md",
+   "title_hint": "CN101679760B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf.md",
+   "name": "v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf.md",
+   "title_hint": "v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/US20070270773A1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US20070270773A1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US20070270773A1.pdf.md",
+   "name": "US20070270773A1.pdf.md",
+   "title_hint": "US20070270773A1.pdf"
+  }
+ ]
+}

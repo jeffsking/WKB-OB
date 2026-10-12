@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/BM simulant A配方 & BM gun操作.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/BM simulant A配方 & BM gun操作.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/BM simulant A配方 & BM gun操作.docx.md",
+   "name": "BM simulant A配方 & BM gun操作.docx.md",
+   "title_hint": "BM simulant A配方 & BM gun操作.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤中交货水分的测定.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤中交货水分的测定.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤中交货水分的测定.doc.md",
+   "name": "GBT28004.1-2021纸尿裤中交货水分的测定.doc.md",
+   "title_hint": "GBT28004.1-2021纸尿裤中交货水分的测定.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/面层粘合强度测试方法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/面层粘合强度测试方法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/面层粘合强度测试方法.pdf.md",
+   "name": "面层粘合强度测试方法.pdf.md",
+   "title_hint": "面层粘合强度测试方法.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00445 BM Run-off.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00445 BM Run-off.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00445 BM Run-off.docx.md",
+   "name": "TTM-00445 BM Run-off.docx.md",
+   "title_hint": "TTM-00445 BM Run-off.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00059 反渗.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00059 反渗.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00059 反渗.docx.md",
+   "name": "STM-00059 反渗.docx.md",
+   "title_hint": "STM-00059 反渗.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00090 腰围密封强度.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00090 腰围密封强度.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00090 腰围密封强度.doc.md",
+   "name": "STM-00090 腰围密封强度.doc.md",
+   "title_hint": "STM-00090 腰围密封强度.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "name": "STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "title_hint": "STM-01078 OD产品折叠后长度、宽度测量方法.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/产品折叠长度/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/产品折叠长度/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/产品折叠长度/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "name": "STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "title_hint": "STM-01078 OD产品折叠后长度、宽度测量方法.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00440 腰围皮筋张力.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00440 腰围皮筋张力.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00440 腰围皮筋张力.doc.md",
+   "name": "STM-00440 腰围皮筋张力.doc.md",
+   "title_hint": "STM-00440 腰围皮筋张力.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00040 厚度.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00040 厚度.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00040 厚度.docx.md",
+   "name": "STM-00040 厚度.docx.md",
+   "title_hint": "STM-00040 厚度.docx"
+  }
+ ]
+}

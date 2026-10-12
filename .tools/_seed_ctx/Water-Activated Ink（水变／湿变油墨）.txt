@@ -1,0 +1,111 @@
+# SEED: Water-Activated Ink（水变／湿变油墨）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 26 页，40 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[德泽贸易（松井中国代理商）]]  (3 句)
+   • **2026-08-14（水变油墨尿显技术交流）**：作为松井方代表参会并承接**全部 5 条对外行动项**（资料发送、允迪设备核实、阈值/母粒可行性探讨、压力/拉力变色探讨、温变光变资料整理），并协助推进金佰利—松井 NDA。详见 Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）。
+- **渠道口径（原文）**：松井/代理商**只推大品牌**（宝洁、KC 等四家），刻意不推小公司，避免影响大品牌采用意愿；目前仅在**宠物领域**高端产品有落地应用。
+- **日本方配合度限制（原文）**：日本方**不愿在中国本土配油墨或提供粉体配方**，理由是担心技术泄密、前期量小品质难控、配方披露后无法管控。
+   • Water-Activated Ink（水变／湿变油墨）、变色油墨、Microencapsulation
+- Wetness Indicator Glue、智能尿裤功能层
+- 上游品牌方：Matsui Shikiso (松井)
+   • Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14） ——
+
+--- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]  (3 句)
+   • An ASR transcript of a **supplier technical exchange on water-activated (hydrochromic) ink as a wetness indicator**, combined with a product introduction by **Matsui Shikiso (松井) via its China agent**. It is the only batch-05 source that records the **failure mode** of the ink route (optical transmittance + humid storage) and the **action list** that gates the three-party meeting behind an NDA.
+（水变（湿变）油墨用于尿显的**供应商技术交流**转写稿，兼松井产品介绍。是本批唯一记录该油墨路线**真实失效模式**（透显性 + 高湿储存）与**NDA 前置行动项**的来源。）
+   • **The ink's value is patternability, its obstacle is optics** —— 支撑页：Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Glue
+- **Reversible phase-change vs irreversible microcapsule is the first classification axis** —— 支撑页：变色油墨、Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation
+- **Substrate flatness decides whether a microcapsule cue is visible at all** —— 支撑页：Microencapsulation、热风粘合无纺布
+- **Threshold design (graded display) is the differentiating feature versus traditional wetness in
+   • Concepts 概念：Water-Activated Ink（水变／湿变油墨）、变色油墨、Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation、Wetness Indicator Glue、Wetness Indicator Ladder（尿湿指示阶梯）、热风粘合无纺布、智能尿裤功能层
+- Entities 实体：Matsui Shikiso (松井)、德泽贸易（松井中国代理商）、新维盛集团（Xinweisheng Group）、Kimberly-Clark（金佰利）
+- Comparisons 对比：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+
+--- [[Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）]]  (2 句)
+   • 本库现有的两条湿显路线——Wetness Indicator Glue（热熔胶，pH/树脂溶解型，**不可逆**）与 Water-Activated Ink（水变／湿变油墨）——**都依赖化学变色体系**。光散射路线提供第三条路径：
+   • Source 来源：EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)
+- Entity 实体：Unicharm Corporation（尤妮佳）
+- Sibling routes 同族路线：Wetness Indicator Glue、Water-Activated Ink（水变／湿变油墨）、Chromism Taxonomy（变色现象分类）
+- Adjacent 相邻：Wetness Indicator Ladder（尿湿指示阶梯）、Geometric Optical Mask（几何光学掩膜）、Diaper Microclimate、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+
+--- [[变色油墨 Color-Changing Ink]]  (2 句)
+   • **Wetness indication（尿湿指示）**: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy — which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。
+- **Selection criterion**: hydrochromic is the **only class dedicated to diaper wetness display**, hence the first screening condition in ink selection；baro-chromic ink is already on the CTI product line, cre
+   • Ancient Dyes and Pigments
+- Mechanochromic Fluorescent Polymers with AIE Features
+- Mechanochromic Photonic Sensors
+- Photochromism Dihydroindolizines
+- 变色油墨
+- Chromism Taxonomy（变色现象分类）
+- Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）
+- 变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）
+- 变色油墨供应商综合技术联系表
+- 变色油墨供应商综合技术联系表（1）
+- Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+- Qiansebian（千色变新材料）
+- Intellego Technologies AB
+- H.B. Fuller（富乐）
+- Smart Fabric Textiles Recent Advances 
+
+--- [[Matsui Shikiso (松井)]]  (2 句)
+   • **2026-08-14（水变油墨尿显技术交流，经代理商渠道）**：松井方提供三块技术内容——
+  - **水变（湿变）油墨**：三物质体系（一、二遇水显色 + 物质三隔离层，**疑似中低分子量 PEG** ），**不可逆**；现有蓝/绿/橙（粉红）三色 + 定制酒红；干燥态为粉状。详见 Water-Activated Ink（水变／湿变油墨）。
+  - **温变原理（与微胶囊区分）**：属**相变技术**（着色剂 + 显色剂 + 蜡），**可逆**；温度档位 **37 / 40 / 50 / 60 / 80 ℃**，精度约 **±4–5 ℃**（工艺与纯度好的厂家更集中于中间值）。
+  - **微胶囊技术**：松井主打**无甲醛壳**胶囊（原文记作「酚醛类」，该表述在原文内部存疑，**照录不改**）；靠**机械力破碎释放、不可逆**；胶囊壁承压可调。**基材效应**：印在蓬松热风无纺布上触发不明显，印在膜 / SMS 纺粘等平整材料上效果明显。
+- **功能对标结论（原文口径，属对方判断而非本库结论）**：松井**功能性上与国内差异不大**，核心竞争力在**化学品安全性（无甲醛）与日
+   • Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) —— 
+- Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14） —— （2026-09-29 追加）
+- Diaper Microclimate Visualization Feasibility (Dual-MVP) —— 
+- IPC BCC OI Project List 17.9.2026（供应商明细版） —— （2026-09-29 追加）
+- IPC BCC OI Project List 2026-09-18（重构版·19 项） —— （2026-09-29 追加）
+- IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17） —— （2026-09-29 追加）
+
+--- [[CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）]]  (2 句)
+   • **两个变色部用"可逆性"分工，这是本案最巧的一点**：中部可逆部负责**次数**（每次来一次就变一次、凉了又回来），端部不可逆部负责**累计量**（变了就不再回来）。一条"次数"、一条"总量"，两者互补。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **"是否饱和"被写成三条判据的任二成立**：n ≥ N（次数）、a ≥ A（变色面积占比）、t < T₂（温度）——这是把更换时机判断**逻辑化**而非靠单一阈值。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **温色阶梯给了可执行的分档**：<20 / 20–25 / 25–30 / >30 ℃ 四档四色（权 5），且权 9 把 T₁/T₂ 默认值钉在 **28–32 ℃** 与 **18–22 ℃** —— 与人体温及环境温同一量级。→ Thermochromic Microcapsule (Leuco Dye System)
+- **可读性是被结构保证的**：第二表层透明或开窗口，且三处读数**相互错开**——这与本库 Diaper Microclimate 讨论的"如何把内
+   • Concept 概念：Wetness Indicator Ladder（尿湿指示阶梯）、Thermochromic Microcapsule (Leuco Dye System)、Water-Activated Ink（水变／湿变油墨）、Diaper Microclimate
+- Entity 实体：露乐健康科技股份有限公司
+
+--- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]  (2 句)
+   • **这是"显形"而不是"变色"**：干态两层都因**无机粒子光散射**呈白，图案被"盖住"；湿态散射被抑制 → 遮蔽层透明 → 图案**显出本色**。整条链路**不依赖 pH 指示剂或无色染料体系**，与 Wetness Indicator Glue（pH/树脂溶解型）和 Water-Activated Ink（水变／湿变油墨） 是**三条不同的物理化学路径**。→ Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）
+- **真正的发明点在"如何让尿到达指示层"**：说明书用了大量篇幅讲**未粘合边 ≥10 mm**、**波纹结构**、**芯体高密度沟槽**三招。这与本库 Diaper Microclimate 讨论的"把内部状态可靠地传出去"是同一类工程难题。
+- **一个容易被忽略的工艺地雷**：用于粘接的**热熔胶本身会让遮蔽层变透明**（相当于"误报"）。故要求 **间断施胶 + 无油分 + 覆盖 ≤ 图案面积 70 %**。这是把"胶"当作**潜在失效源**来设计，值得转化端注意。
+- **"不影响生产率"是明确的权利
+   • Concept 概念：Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）、Wetness Indicator Ladder（尿湿指示阶梯）、Wetness Indicator Glue、Water-Activated Ink（水变／湿变油墨）、Diaper Microclimate
+- Entity 实体：Unicharm Corporation（尤妮佳）
+
+--- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]  (2 句)
+   • **减胶五驱动：成本（胶占重 3%）/ 轻薄化 / 舒适（硬点）/ 可持续 / 效率（堵塞）。** —— 支撑页：Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- **三路线：设备（最成熟）/ 配方 / 工艺参数。** —— 支撑页：Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- ★ **UFD 核心机理：三维纤维网机械互锁 > 二维胶膜面粘接 ⇒ 同粘接力下用量骤降。** —— 支撑页：Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- **UFD 实测：标准型 ↓20–50% / 0.1 g/m² / 500 m/min；Equity ↓70% / 0.02 g/线性米/股；高速型 700+ m/min / 3.5 ms / 6000 次/min。** —— 支撑页：Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- **图案效率：Random ★★★★★ > Omega ★★★★☆ > Spi
+   • 概念：Ultra-Low Add-On Adhesive Application（超低添加量施胶）、Hot-Melt Slot Coating（热熔狭缝涂布）、Glueless Bonding（无胶粘合工艺族）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）、Water-Activated Ink（水变／湿变油墨）
+- 实体：汉高、Bostik
+- 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）、Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]  (2 句)
+   • **变色油墨供应基盘是"三分层"结构：国际标杆换技术确定性、国内主力换成本、区域厂商换响应速度** —— 支撑页：Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+- **湿敏（hydro-chromic）是唯一专用于纸尿裤湿显的品类，是选型的首要筛选条件** —— 支撑页：Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Ladder（尿湿指示阶梯）
+- **压敏（Baro-Chromic）油墨已在 CTI 产品线上，与力致变色方向存在品类交汇** —— 支撑页：Mechanochromic变色纤维、Chromism Taxonomy（变色现象分类）
+- **产能数据普遍不透明，是供应风险评估的主要盲区** —— 支撑页：Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+   • 概念：变色油墨、Chromism Taxonomy（变色现象分类）、Water-Activated Ink（水变／湿变油墨）、Thermochromic Microcapsule (Leuco Dye System)、Wetness Indicator Ladder（尿湿指示阶梯）、Wetness Indicator Glue
+- 实体：CTI（Chromatic Technologies Inc.）、Matsui Shikiso (松井)、Intellego Technologies AB、Qiansebian（千色变新材料）
+- 对比：Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+
+--- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]  (2 句)
+   • **GO（条件通过）但须走"双低后悔 MVP"，且不得替代现有 WI** —— 支撑页：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+- **微胶囊封装是三条路线的共同 enabling 技术，也是供应商能力分水岭** —— 支撑页：Microencapsulation、Thermochromic Microcapsule (Leuco Dye System)
+- **湿变以液体接触/迁移触发为主，比真正 RH 传感器更现实；尿显胶主流为不可逆** —— 支撑页：Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Glue
+- **false trigger（误触发）率的量化是 MVP 退出的最关键门槛之一** —— 支撑页：Diaper Microclimate
+- **强 claim（"actively maintaining a just-right zone"）接受度不足，宜从"help you know when to act"的视觉 cue 切入** —— 支撑页：
+   • 概念：Thermochromic Microcapsule (Leuco Dye System)、Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Glue、Microencapsulation、Chromism Taxonomy（变色现象分类）、Diaper Microclimate、Wetness Indicator Ladder（尿湿指示阶梯）、Signal Comprehension Gate、Material Safety Control（材料安全双轨管控）
+- 实体：CTI (Chromatic Technologies)、Matsui Shikiso (松井)、Bostik、汉高、H.B. Fuller（富乐）；其余候选（Intellego、OliKrom、DaeHyun、LCR Hallcrest/SpotSee、New Prismatic、Nan Pao、三瑞卫护、千色变、广州乐迪、科维尔 Keywell、格林春天、名博防伪、长沙新诺、崇裕科技、深圳市变色科技）**仅在本文供应商矩阵中登记，未单独建页**
+- 对比：Ther
+

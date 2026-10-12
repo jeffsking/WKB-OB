@@ -1,0 +1,99 @@
+# SEED: Open Diaper Process（开放式纸尿裤工艺）
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - 03_卫材产线约束常量表（准入校验工具）
+#
+# 全库正文命中 510 页，962 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Intelligent Textiles and Sports Clothing]]  (7 句)
+   • *Kristina Savić, Olga Stojanović, Marija Savić Pojužina & Jelica Simeunović (Academy of Technical and Art Applied Studies Belgrade; KTR Jee seetex, Belgrade) — Tekstilna Industrija, Vol. 70, No. 3, 2022. DOI 10.5937/tekstind2203044S. UDC 677:687:796.02-037. Open access CC BY 4.0.*
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **PCM (Phase Change Materials) knits**: microcapsules accumulate and retain heat at higher temperature and subsequently release it at lower temperature, giving thermo-regulatory performance.
+- **Shape memory polymer (SMP)**: characterised by a large reversible elasticity change at the glass transition temperature. The flagship example is **Diaplex** (Japan), which maintains body temperature by redistributing its particles: at low temperature the particles arrange into a solid plate forming an in
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (6 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Entanglement / opening length 缠结·开口长度**：opening length（distance between entanglement points）describes the temporary cohesion of an entangled yarn；methods include manual needle, automatic needle, electrostatic method（Obestat）, automatic thickness measurement（Itemat, Toray profilometer）；Stein's comparison [13] concludes Dynafil detects variation in polymerization, temperature and quench-air speed most effectively（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.267）。
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (6 句)
+   • 1. **Global Trends for Polypropylene** — M. J. Balow
+2. **Polypropylene: Structure, Properties, Manufacturing Processes, and Applications** — W. J. Kissel, J. H. Han, J. A. Meyer
+3. **Chemical Coupling Agents for Filled and Grafted Polypropylene Composites** — D. Roberts, R. C. Constable
+4. *Stabilization of Flame-Retarded Polypropylene* — R. E. Lee, D. Hallenbeck, J. Likens
+5. *Recycling of Polypropylene and Its Blends: Economic and Technology Aspects* — A. A. Adewole, M. D. Wolkowicz
+6. *Impac
+   • Chapter 2 is the one relevant to this vault; its internal structure is: 2.1 Types of PP (homopolymer / random copolymer / impact copolymers), 2.2 Tacticity, 2.3 Molecular weight and MWD, 2.4 Mechanical properties, 2.5 Rheology, 2.6 Morphology, 2.7 Thermal analysis, 2.8 Manufacturing processes (bulk-slurry and gas-phase technology, reactor systems, Amoco gas-phase), 2.9 Applications (fibres and fabrics, strapping, film, sheet/thermoforming, injection moulding, blow moulding, automotive).
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **HIGH 高关联** — this is one of the few sources in the vault that links **resin specification → nonwoven process → delivered fabric property** with numbers attached, and it is the canonical citation for the MFR split between spunbond and meltblown. Directly serves:
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (6 句)
+   • **Nylon 6** via ring-opening polymerization of **caprolactam (CL 己内酰胺)**, an AB-type monomer.
+- **Nylon 66** via polycondensation of **hexamethylene diamine (HMDA 己二胺)** with **adipic acid 己二酸** through the intermediate **AH salt 尼龙66盐**.
+   • 1. **Ring-opening needs a starter** (p.320): "Caprolactam (CL) does not polymerize in a completely dry condition. It requires a catalyst which converts a small amount of CL to aminocaproic acid (ACA)." CL + H₂O → ACA. Water catalysis is industrially dominant because it is controllable; alkali catalysis gives higher rate and higher molecular weight but is hard to control. Typical water-catalysed conditions quoted in the source: temperature **225–280 °C**, water concentration **5–10%**. The contin
+   • Faster crystallization than PET (pp.341–342): "nylon 66 and nylon 6 crystallize relatively more rapidly, primarily because of more flexible molecular chains"; "'Y crystals are favoured by an increase in winding speed" (the source quotes the gamma-symbol the Greek γ as 'Y). Nylon 6 shows **polymorphism 多态性** — α, γ and pseudo-hexagonal forms depending on processing (p.352) — and the structure is highly moisture-sensitive, which the source identifies as the difficulty in spinline stability control
+   • Assessment: polymerization mechanism, process parameters, Tg–regain and speed–structure relations are all triple-supported by figures, tables and citations (strong). Degradation and additives are more narrative (medium). Mechanical behaviour is only trend curves plus one summary table with no mechanism or application mapping (weak) — the source itself marks this inferred.
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (5 句)
+   • GB-T 28004-2011 **《Disposable Diapers（纸尿裤 片、垫）》** is the **historical (superseded) Chinese national product standard** for disposable diapers — retained in this vault for historical version comparison, old-contract / inventory disputes, and lineage tracing of the penetration test method（源：GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫））。It has been replaced as the current CN market baseline by **GB-T 28004.1-2021 Baby Diapers**, recorded as 生效中 with 2022-05-01 实施（源：GB-T 28004-2011 与 GB-T 28004.1-202
+   • **Version lineage (2011 → 2021).** 「吸收速度取代滑渗量」is the **largest methodological change** in the 2021 revision, so **cross-version data cannot be compared directly**（源：GB-T 28004.1-2021（纸尿裤国标））。The change is confirmed across three independently extracted copies of the 2021 part-1 document, i.e. it is **not a single-extraction error**（源：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2））。
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+   • **The 2011-version clause text itself is not in the vault** — the vault only holds the version-lineage notes and the .doc test records, not the full 2011 standard body; a complete clause-by-clause口径 .
+- **No 2008→2011→2021 line-by-line comparison page exists** — the batch explicitly noted the 2008 version texts are not in the library and only the revision foreword's change list exists, "不足以支撑逐项对比"（源：GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂））。
+- **The actual 滑渗量 numeric 
+
+--- [[热致变色 Thermochromic]]  (5 句)
+   • **Thermochromic（热致变色）** is a reversible colour change triggered by **temperature**, used in diapers as a **thermal-mediation wetness/comfort indication** route（以温度为媒介的尿布湿态指示）rather than a hydrochromic one（源：US5197958 Wetness Indicating Diaper）. The mainstream system is a **reversible leuco-dye microcapsule**: **colouring matter（leuco dye，供电子体，本身无色）+ colour-developing matter（受电子体：phenol compound or acid clay）+ desensitizer（溶剂）**, where the **discolouring temperature corresponds to the melting (fu
+   • **The Howell insulation principle:** an insulation layer between wearer and outer shell is **insufficiently thermally conductive when dry** for normal body temperature to raise the outer surface above the threshold, but **sufficiently conductive when wet** to do so（源：US5389093 Wetness Indicating Diaper System、US5197958A & US5389093A Wetness Indicating Diaper (Howell)）.
+   • **Feasibility framing:** the review defines three routes all enabled by microencapsulation — **R1 thermochromic ink/pigment**（printed stripe or laminated label patch; reversible for comfort cues）, **R2 hot-melt wetness glue**（backsheet inner face; urine triggers irreversible yellow/orange→blue; 84% of market）and **R3 hydrochromic ink**. Its stated verdict: **microencapsulation is the differentiator, not the colour**, and **the 'wet' route is mature while the 'thermal' route is the frontier**（源：T
+   • Directly relevant to the **hygiene chromic-ink programme** — thermal-comfort and wetness indication layers on the outer surface of the article（湿感指示条 Wetness Indicator、Wetness Indicator Ladder（尿湿指示阶梯）、Active Diagnostic Zones（主动诊断分区））. The route sits alongside 光致变色 Photochromic、机械变色 Mechanochromic、电致变色 Electrochromic under Chromism Taxonomy（变色现象分类）. Primary thermo suppliers ranked by hygiene fit: **CTI (Chromatic Technologies)** and **Matsui Shikiso (松井)**（the latter with a formaldehyde caution）; 
+
+--- [[芯体通道花型设计]]  (5 句)
+   • **Design constraints (list-level).** (1) Channels should be lengthened, not widened（源：COCO V6 Trial Round-2 Review（录音纪要 2026-09-16））。(2) Reducing SAP while enlarging the open-groove area does **not** pay off — the saved SAP is returned as deteriorated cradle intake at the 2nd/3rd insult（源：COCO V6 Trial Round-2 Review（录音纪要 2026-09-16））。(3) Structural channels raise utilisation more than a higher-GBP SAP grade does, so the GBP target is a downstream of structure（源：SAP Grade Strategy for Composite 
+   • **Related goal — shape stability.** Channel/pattern design shares its objective with shape-stability (SAF/RCF) and glue-free (ultrasonic bonding): **both exist to solve 起坨断层 (clumping / bulk failure)**（源：Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析））。
+   • This is a **direct REL/ultra-thin-core design theme**: raising real SAP utilisation (reported elsewhere as only 30–40%) by structure rather than by material swap（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+- It is the **design object of the patterned SAP-core forming drum**, so pattern design is coupled to the Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） hardware and its forming-drum space / 3-D SAP-array engineering gap（源：V6 Product Design & Process Optimization Workshop（V
+   • 🔴 **Evidence-quality warning:** the transferable mechanism/constraint claims originate in **meeting discussion / process judgement, with no measured data**（源：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓））— treat the 「只加长、不加宽」and 「减 SAP + 加大开槽面积不成立」rules as会议判断, not proven results 。
+- **No geometry specification exists in the vault** — channel width, depth, length, pitch, count, and the boss dimensions are all unstated .
+- **No quantified performance delta** (utilisation %, cradle intake, rewet) at
+
+--- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]  (5 句)
+   • **Thermochromic specialists**: CTI (US, full spectrum, requires diaper customisation); Matsui (Japan, legacy leader, safety checks required); OliKrom (France, custom temperature bands).
+- **Hydrochromic (hot-melt) leaders**: Bostik, Henkel, H.B. Fuller — the mature 84% hot-melt market; lowest risk for MVP B.
+- **Dual-capability & regional partners**: DaeHyun (Korea, full material pool); Qianshebian / Guangzhou Ledi (China, cost-effective regional speed).
+- Scoring frame uses five columns — techn
+   • Stop asking "do you have a product?" and demand exact constraints: **performance** — can you hit a visible 30–37 °C reversible transition specifically on PE film or nonwoven substrates? **bleeding** — do you guarantee zero colour bleeding for liquid-exposure hydrochromics? **process** — what are your exact converting constraints (drying temperatures, lamination pressure, coating methods)? **safety** — do you have proven, documented non-skin-contact hygiene migration data? **logistics** — what ar
+   • **Data vs emotion**: the product is a visual cue to help caregivers know when to act, not a precision clinical thermometer — overpromising will kill the claim.
+- **The trust gap**: the biggest risk is consumer perception (the diaper looks hot but feels cool to the touch); Phase 4 comprehension testing is non-negotiable.
+- **The final gate**: if at any point the technology compromises absorbency, fit, cost or skin safety, the MVP is immediately halted — **core function always wins**.
+   • **Conditional GO, dual-MVP, low-regret sequencing** —— 支撑页：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+- **Temperature and humidity must stay semantically separated** —— 支撑页：Diaper Microclimate
+- **Purity and non-skin-contact are non-negotiable hard boundaries** —— 支撑页：智能尿裤功能层、变色油墨
+- **Comprehension, not chemistry, decides the programme** —— 支撑页：Signal Comprehension Gate
+
+--- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]  (5 句)
+   • The **counterweight deck to the pentagram deep dive**: a literature deep dive + processability screening that recommends *rounded* profiled PET cross-sections instead of sharp star shapes, and gives add-on/dpf windows plus a screening matrix. It is the batch's "**shape must be manufacturable, not just sharp**" page.
+本页是**五角星形深度评估的对照页**：以文献综述 + 可纺性筛选替代尖角星形截面，给出添加量/旦数窗口与筛选矩阵，回答「**截面必须可制造，而不仅是够尖**」。
+   • The deck opens from the current 25 gsm topsheet platform — air-through bonded PE/PET ES with 2D + 4D fibres in a two-carding build — and notes that pentagram PET has high capillary promise but real process risk in extrusion and drawing: sharp star-like cross-sections raise spinneret pressure drop, tip break risk and draw instability.
+资料从当前 25 gsm 面层平台（2D + 4D PE/PET ES、双梳理、穿透热风粘合）出发，指出五角星形 PET 毛细潜力高，但在挤出与拉伸段存在实质工艺风险：尖锐星形截面会抬高喷丝板压降、尖端断裂风险与拉伸不稳定性。
+   • Expected: top candidates may improve MD wetting spread by **about 10–25%**; CD spread may improve modestly if web orientation is also optimised; too much mono-PET can reduce bond integrity and softness. "The best formulation is the one with the best **total diaper performance**, not the highest single wicking number."
+预期：优选方案 MD 润湿铺展可提升约 **10–25%**；若同时优化网面取向，CD 铺展亦可小幅改善；单组分 PET 过量会降低粘合完整性与柔软度。「最优配方是**整裤综合表现最好**的那一个，而不是单项芯吸数据最高的那一个。」
+   • **The ideal topsheet fibre is not the shape with the sharpest edges** but the best total balance of wicking, softness, bondability and process stability —— 支撑页：Pentagram PET (Star Cross-Section Fibre)
+- **Choose shapes that create repeatable channels, not just sharp points** —— 支撑页：Groove Capillary Suction、三叶形截面纤维（Trilobal Fibre）
+- **Shape is a modifier, not the whole design** — orientation and finish still control MD/CD balance —— 支撑页：MD Liquid Distribution、亲水整理耐久性
+- **Cap the one-component fra
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (5 句)
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+   • **吸水纸（blotter）三族**：KC 系用 **100 lb Verigood**（88 × 300 mm，1–2 张）；P&G 系用 **Collagen**（P&G Duck 为 Blotter 75 × 145 mm；Collagen BCC 直径 90 mm；Collagen AFC 31 gsm，112 或 70 mm 直径）；其余用 **Filter Paper**（China U Rewet 145 gsm / 10 张；Diaper Testing Intl Type 102 / 10 张；NWSP 070.9 Grade 950 / ~10 g；Costco FQ Demo Grade 950?）。**张数从 1 张到 10 张，差一个数量级**。
+

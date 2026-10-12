@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf.md",
+   "name": "GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf.md",
+   "title_hint": "GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/09_Standard Test Method for Determining the Antimicrobial Activity of Antimicrobial.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/09_Standard Test Method for Determining the Antimicrobial Activity of Antimicrobial.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/09_Standard Test Method for Determining the Antimicrobial Activity of Antimicrobial.pdf.md",
+   "name": "09_Standard Test Method for Determining the Antimicrobial Activity of Antimicrobial.pdf.md",
+   "title_hint": "09_Standard Test Method for Determining the Antimicrobial Activity of Antimicrobial.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf.md",
+   "name": "v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf.md",
+   "title_hint": "v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.2-2021 纸尿裤 第2部分：成人纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.2-2021 纸尿裤 第2部分：成人纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.2-2021 纸尿裤 第2部分：成人纸尿裤.pdf.md",
+   "name": "GB／T 28004.2-2021 纸尿裤 第2部分：成人纸尿裤.pdf.md",
+   "title_hint": "GB／T 28004.2-2021 纸尿裤 第2部分：成人纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf.md",
+   "name": "GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf.md",
+   "title_hint": "GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md",
+   "name": "QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md",
+   "title_hint": "QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾(1).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾(1).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾(1).pdf.md",
+   "name": "GB／T 27728-2011 湿巾(1).pdf.md",
+   "title_hint": "GB／T 27728-2011 湿巾(1).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾.pdf.md",
+   "name": "GB／T 27728-2011 湿巾.pdf.md",
+   "title_hint": "GB／T 27728-2011 湿巾.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 39951-2021一次性纸制品降解性能评价方法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 39951-2021一次性纸制品降解性能评价方法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 39951-2021一次性纸制品降解性能评价方法.pdf.md",
+   "name": "GBT 39951-2021一次性纸制品降解性能评价方法.pdf.md",
+   "title_hint": "GBT 39951-2021一次性纸制品降解性能评价方法.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 30133-2022一次性卫生用品用面层.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 30133-2022一次性卫生用品用面层.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 30133-2022一次性卫生用品用面层.pdf.md",
+   "name": "GBT 30133-2022一次性卫生用品用面层.pdf.md",
+   "title_hint": "GBT 30133-2022一次性卫生用品用面层.pdf"
+  }
+ ]
+}

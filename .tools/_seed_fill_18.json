@@ -1,0 +1,24 @@
+{
+  "batch": "18",
+  "done": [
+    "胶束 Micelle",
+    "Fiberscope",
+    "Videoimagescope",
+    "Wilhelmy 湿附力法",
+    "乳化剂 Emulsifier",
+    "反应-扩散耦合 Reaction-Diffusion",
+    "承压吸收 AUL",
+    "磷酸化纤维素 Phosphonoalkylcellulose"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "胶束 Micelle: micelle structure/aggregation-number definition not given in citing sources (marked 定义待补)",
+    "Fiberscope: optical configuration/measurement targets not specified in citing sources (marked 定义待补)",
+    "Videoimagescope: imaging configuration/measurement targets not specified in citing sources (marked 定义待补)",
+    "乳化剂 Emulsifier: definition/HLB classification not given in citing sources (marked 定义待补)",
+    "承压吸收 AUL: standard test conditions (load, saline) not evidenced in citing sources (marked 待补)",
+    "反应-扩散耦合 Reaction-Diffusion: specific SAP reaction-diffusion formulations truncated in digest (marked 待补)",
+    "磷酸化纤维素 Phosphonoalkylcellulose: page-specific synthesis chemistry and performance numbers not in excerpts (marked 待补)"
+  ],
+  "count": 8
+}

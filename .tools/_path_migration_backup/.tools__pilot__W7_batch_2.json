@@ -1,0 +1,65 @@
+{
+ "batch_id": "W7-2",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_ebe1dafee0900ad8cf5b527dc3dcae9b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/04_智能尿裤功能层专利地图.md.md",
+   "name": "04_智能尿裤功能层专利地图.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3719d50399f2f00947e4706f3e00aeca001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md",
+   "name": "03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_db9b95780c22be10f17d211a40e96ce8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf.md",
+   "name": "08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b82de2619f82068fc594054269be1bd4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf.md",
+   "name": "10_包覆吸水性聚合物颗粒的方法（含 SFC 详细计算）.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f74bbcd58f5d5f8e147a498e47d55ffc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf.md",
+   "name": "12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_bfd0f9e537ed8079bcb18edad637bd25001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/15_模块三：聚烯烃类热熔胶_US11878492B2_United_States_Patent_(热熔胶含聚烯烃).pdf.md",
+   "name": "15_模块三：聚烯烃类热熔胶_US11878492B2_United_States_Patent_(热熔胶含聚烯烃).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_2787db917515c2899727fa425a6b024a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/18_模块四：氨纶橡筋_弹性纤维_CN111134966A_一种具有防漏尿功能的裤型纸尿裤（ω型腿围橡筋）.pdf.md",
+   "name": "18_模块四：氨纶橡筋_弹性纤维_CN111134966A_一种具有防漏尿功能的裤型纸尿裤（ω型腿围橡筋）.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_70aabb2a3e511550d0bb69ae3332d53c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/21_模块四：氨纶橡筋_弹性纤维_EP0820747A1_Absorbent_article_with_elastic_feature.pdf.md",
+   "name": "21_模块四：氨纶橡筋_弹性纤维_EP0820747A1_Absorbent_article_with_elastic_feature.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c0610fefb4de69ca81bb3e5fe5a748b8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN102245218B.pdf.md",
+   "name": "CN102245218B.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_853648ae588df3748d0bed0fe5d07ed5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN107057251B.pdf.md",
+   "name": "CN107057251B.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+# SEED: LbL 自组装 Layer-by-Layer
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)
+#
+# 全库正文命中 16 页，20 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (2 句)
+   • The vault's cited statements describe this architecture as a **four-layer stratification of changeover elements with change control（换型要素四层分层与变更控制）**. Its stated root principle is an **orthogonal split between 「定相位」(phase-fixed) and 「定尺寸」(dimension-fixed)** variables — "「定相位 vs 定尺寸」的正交切分是全部换型设计的根", attributed to this page's own source page（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））. The four individual layers are **定义待补（引用来源未给出明确定义）** — the citing excerpts state th
+   • The four individual layers are not enumerated in the citing excerpts — layer-by-layer definition .
+- No numeric ratios, timing, or acceptance thresholds are given for the Q4 "不能" branch .
+- The relationship to the sibling concept page Changeover Four-Layer Architecture（换型要素四层分层与变更控制） is unstated and needs de-duplication review .
+
+--- [[结构色 Structural Color]]  (2 句)
+   • **物理结构驱动呈色**：HPC 自然自组装为**胆甾型液晶相**，是本征力致变色材料，并**选择性反射右旋圆偏振光（RCP）** —— 肉眼或数码相机直视**无需偏振片**；应变压缩胆甾螺距 → 产生可预测、可逆的蓝移。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- **光子晶体 / 聚合物蛋白石**：核壳 PS/PEA 颗粒经剪切组装成弹性蛋白石，可卷对卷（>100 m）；**但有序化需要加热辊间约 300% 应变幅的振荡剪切 —— 是专用产线，不是狭缝模头**。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **胆甾相液晶弹性体（CLCE）**：螺距受压**蓝移**；2025 年工作引入光开关手性掺杂剂做压印图案；单轴红 → 蓝通常需 **>100% 应变**且**强度随位移下降**；成膜需**平面取向与氮气下 UV 固化**（热熔工位没有的两道单元操作）。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **可拉伸 DB
+   • Structural Colour Mechanochromism（结构色力致变色）（结构色路线总纲、共同失效模式与三条教训）
+- The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）（HPC 胆甾相自组装、RCP 反射与应变上限）
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）（CLCE / MET / 全息薄膜定量数据与热致变色参照系）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 路线分类与约束满足选型）
+- Active Diagnostic Zones（主动诊断分区）（可食性一等指标、监测 vs 记录）
+- Intelligent Textiles and Sports Clothing（结构色的非色素定义与 Morphotex 参照）
+- 引用的 6 个来源页：Hologr
+
+--- [[Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane]]  (2 句)
+   • Shows that bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into homeotropically oriented columnar proton channels with water-independent conductivity and size-selective ion transport — the materials foundation of the ion-transport thread.
+（展示仿生盘状/锥形树状液晶聚合物自组装成垂直取向的柱状质子通道，具湿度无关电导与尺寸选择性离子传输，是离子传输主线的材料基础。）
+   • Bio-inspiration: biological systems (protein channels, TMV helical self-assembly via exo-recognition) show water-free, highly selective ion transport, motivating artificial ion-channel design.（仿生：生物离子通道与 TMV 螺旋自组装启发了无水、高选择性人工离子通道设计。）
+- Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a wide temperature range; hydrophobic mesogenic side chains + hydrophilic ether linkages constitute the ion pathway.（锥形树状侧基聚醚在宽温域形成柱状液晶相；疏水介晶侧链+亲水醚键构成离子通路。）
+- H
+
+--- [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]  (2 句)
+   • **核心定位**：刺激响应聚合物可适应环境、调控离子/分子传输、改变润湿性与黏附性、将化学/生化信号转译为光学/电学/热学/力学信号，反之亦然——材料既是传感器又是执行器。
+- **四类架构与响应时间权衡**：
+  1. 本体聚合物表面——分钟到数十小时（太慢）
+  2. 聚合物刷——快速可逆开关
+  3. 聚合物网络薄膜——Tanaka-Fillmore 模型：响应时间∝L²，<10μm 时响应~秒级
+  4. 自组装多层薄膜（LbL）——溶胀度高达 400%
+- **聚合物刷物理**：接枝密度高→排除体积使链伸展→构象变化放大为宏观可测量的厚度/润湿/渗透变化。
+  - PNIPAAM 刷：LCST≈32°C，温度↑→脱水坍塌
+  - 聚电解质刷：对离子强度与 pH 大响应
+  - 两性离子刷：出现 UCST
+- **粒子体系（三维延伸）**：Pickering 乳液稳定与刺激触发破乳；温敏壳层催化活性开关；空芯 LbL 胶囊 pH/激光触发释药。
+- **超疏水涂层**：粒子聚集+热触发表面重构→超疏水涂层（热超过 PS 块玻璃化温度时）。
+- **微流控/芯片集成**：可调微透
+   • Stimuli-Responsive Polymers
+- 刺激响应聚合物 Stimuli-Responsive Polymer
+- PNIPAAM
+- LbL 自组装 Layer-by-Layer
+- 聚合物刷 Polymer Brush
+- 光致变色 Photochromic
+- 热致变色
+
+--- [[Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）]]  (1 句)
+   • 1. **核心矛盾 Root conflict**：SAP 吸液溶胀会①**稀释胶层有效成分**（削内聚与粘附）、②在界面产生**巨大膨胀内应力**（微裂纹与剥离）、③而高湿环境又会干扰胶自身固化进程。结果是**湿态剪切强度随时间快速衰减**。
+2. **路线一：分子设计 Molecular design**——通过亲水/疏水单体共聚制备相分离结构的**水下胶粘剂**；进而用阴离子聚合与点击化学合成结构明确的**巨型表面活性剂**（如亲水 POSS 头部 + 疏水 PS 尾部），在选择性溶剂中调控自组装形态（囊泡 / 蠕虫状圆柱体），为封装与胶基质构建提供结构单元。
+3. **路线二：接枝改性 Grafting**——淀粉/纤维素骨架接枝丙烯酸再水解引入羧酸钠（生物降解 SAP 经典路线）；前沿案例是把**废弃聚丙烯酸热固性 SAP 通过开环回收转化为压敏胶 PSA**（酸碱水解断交联 → 酯化转聚丙烯酸酯），LCA 显示其全球变暖潜势优于石油基 PSA 路线。
+4. **路线三：仿生协同保水 Bio-inspired water lock**——如 ESM/GOx/CSO 复合体系，
+
+--- [[Structural Colour Mechanochromism（结构色力致变色）]]  (1 句)
+   • **HPC（hydroxypropyl cellulose）** = 纤维素衍生物；特性：成本低廉、**无毒**、**完全可生物降解**、**可食用**。
+- **自组装条件**：HPC + **约 35 wt% 纯水** → **无需外力即自动自组装**成**胆甾相液晶（cholesteric liquid crystal）**。
+- **呈色机理**：可想象为"**微观螺旋楼梯**"，**螺距**决定反射光 → **结构色**（源于物理间距而非色素，如孔雀羽毛、蝴蝶翅膀）。
+
+--- [[2026-05-05 - QUINN.pptx]]  (1 句)
+   • **Competitive pressure 竞争压力**: K-C lags Always Discreet (AD) on rewet; AD runs a "40% DRIER" competitive claim (160 mL loading, 50 s wait).（金佰利回渗落后 AD；AD 打出「干爽 40%」竞品宣称。）
+- **History 历史**: Prior programs cut rewet via **surge** and **embossing**; current biggest opportunities are in *other materials*.（历史方案靠 surge 与压花降回渗；当前最大机会在其它材料。）
+- **Current approach 当前策略**: Goal = best-in-class rewet (DPU2). Method = systematically identify and eliminate every drop of residual fluid from every component via
+
+--- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]  (1 句)
+   • 文档由两部分组成。**Part 1** 是对交流议程本身的结构分析：议程按「交流背景与目标 → 前沿热点 → 开发痛点 → 可持续发展 → 探索性蓝海 → 交流策略」递进，并以「讨论维度—具体问题」表格化每个议题；隐含时间分配为三星必谈议题 40–50%、二星重点 30–40%、一星探针 15–20%。**Part 2** 是三项技术的可行性深度评估：① **亲水 SAP 包裹胶水**——技术路径已从物理混合演进到分子设计（巨型表面活性剂自组装、反向结构表面活性肽、接枝改性，乃至废弃 SAP 开环回收升级为压敏胶 PSA）；核心矛盾是 SAP 吸液后粘接强度下降，应对包括仿生协同保水体系、界面设计优化、交联涂层低温化（≤150 ℃ 对比传统 >200 ℃）；② **Olefin 基结构胶**——茂金属催化 + 官能化改性（MAH / 硅烷 / NCO）使其在粘接强度、耐温、热稳定性、可持续性上全面超越传统 EVA；并给出设备兼容性评估（191 ℃ 工艺温度、约 5000 cP、喷嘴堵塞与 UFD 适配）与维护体系（周期性清洁、碳化预防的「梯步加温法」与「降温封闭法」、智能过滤）；③ *
+
+--- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]  (1 句)
+   • **BNC 结构表征**：自组装 **sub-100 nm 带状纤维毡**——fibril ribbon 宽 **≈50–100 nm**、inter-fiber pore **≈20–200 nm**、孔隙率 **≈85–95%**、比表面积 **≈100–200 m²/g**、接触形式为**点接触（tortuosity τ ≈1.5–3）**、持水 **≈100× 干重**。**"其几何即其热机制"**。
+
+--- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]  (1 句)
+   • 12. **HPC（羟丙基纤维素）**：**可生物降解、无毒、可食用**；在溶液中**自然自组装成胆甾相液晶**（像一层层螺旋上升的楼梯 / 弹簧玩具 / 彩虹圈）。
+13. **机理 —— 光子带隙的可逆压缩**：
+    - 静止时螺旋**间距宽** → 光子带隙反射**较长波长** → 看到**红色**；
+    - 用力压缩 → **间距变窄** → **光子带隙被压缩** → 反射波长变短 → **可预测、完全可逆的蓝移**。
+14. **反射右旋圆偏振光（RCP）**：HPC 的螺旋结构像**天然的光学筛子**，**选择性反射 RCP** → **肉眼直接看或用普通数码相机拍，都无需加装偏振片**，色彩鲜艳纯粹（对比传统液晶屏与 3D 电影必须戴偏振眼镜）。
+

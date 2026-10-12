@@ -1,0 +1,65 @@
+{
+ "batch_id": "W1-2",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_169efc970294d365d4395b72462b8868001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+   "name": "IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_09c68e97e8dbc2ebc3ed62126f285f49001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md",
+   "name": "KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_8d3ae8a4deb1abab9c4597c57028ac74001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/变色材料书籍_温湿力精表.xlsx.md",
+   "name": "变色材料书籍_温湿力精表.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_358c4d4146e92bbe98e5c4fd50b5dcad001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.xlsx.md",
+   "name": "CoPET Supply Base Summary.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_bcc1744f06c3499b5619b32ce9efa9b5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md",
+   "name": "Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_66762e83f836c52c0d8b048161a34cff001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md",
+   "name": "pentagram_PET_diaper_liner_deep_dive 1.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d8bd88209df4ee83aab9acf2f3ec26f7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md",
+   "name": "Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_344b2f967c0924cb40ba2de68c36c83c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md",
+   "name": "PPC&PGA based NW development 2.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_5dc52c33f94c0d8b3bcc45f0453cc029001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md",
+   "name": "CoPET_Sourcing_Blueprint.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_0b2413066e994dd56ba4bef3a149b8d1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/Diaper_Microclimate_Visualization_Feasibility.pptx.md",
+   "name": "Diaper_Microclimate_Visualization_Feasibility.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+# SEED: SAP 溶胀 SAP Swelling
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Diffusion in a Sphere (Crank Ch.6)
+#   - Mathematics of Diffusion
+#
+# 全库正文命中 50 页，79 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联密度 Crosslink Density]]  (6 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Two opposing structural levers.** Hydrophilic-group content ↑ ⇒ swelling ↑; cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓ — the same trade-off that governs SAP design（源：Hydrogels in Regenerative Medicine）。
+   • **Two orthogonal design axes.** The chemical composition of the polymer matrix determines the **type** of stimulus the hydrogel responds to; the **extent** of swelling is limited by the elasticity of the network — i.e. by ν_c（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。Higher UV intensity shortens chain length, lowering both response time and mechanical strength（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+
+--- [[Hydrogels in Regenerative Medicine]]  (5 句)
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • **Swelling classification 溶胀分级（the single most transferable table）**
+   • General statement: hydrogels can hold **20–100 times their own weight** in water, structure-dependent.
+- Two structural levers oppose each other: **hydrophilic-groups content ↑ ⇒ swelling ↑**; **cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓**. This is the same trade-off that governs SAP designs.
+- An explicit unsolved conflict is flagged: synthetic biodegradable hydrogels combining good mechanical properties with high water content remain a major challenge, because **mechani
+   • **§2.4 is, in effect, a general SAP swelling primer.** The low/medium/high/superabsorbent (>99.5% water) classification and the explicit statement that cross-link density suppresses swelling while raising rigidity are exactly the two-lever structure–property relationship used to reason about CRC (centrifuge retention capacity) vs modulus vs absorption-under-load. Useful as teaching/mechanism background for the SAP programme.
+- **The hydrophilic-group vs cross-link-density opposition** gives clea
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (5 句)
+   • The closing chapter converts the same smart-hydrogel physics into **device components** — sensors, valves, pumps, clutches, lenses, filters — inside microchannels. Its thesis: "Hydrogel materials are both soft and responsive, which makes them ideal candidates in designing biomimetic components (e.g., valves, sensors) for use in microfluidic devices" (L56–59). Autonomy is the point: with hydrogels, "these materials can sense the local environment and undergo phase transition, such as an abrupt sw
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • **Fabrication routes compared** (L237–278): photopolymerization (high placement freedom, but "the radicals formed from the initiators are toxic to the cells"), thermally initiated polymerization (less control over size and location), ionic cross-linking (Ca²⁺ + alginate gives "temporary hydrogel networks"), interfacial polymerization (reagents in adjacent laminar streams at a T-junction), and enzymatic cross-linking (gelatin + transglutaminase cast in a silicone mold). Gradient hydrogels are mad
+   • t_resp ~ L²/D_eff — response time set by initial size L, effective diffusivity D_eff, and pore size [reconstruction of L171–175]
+- Q_max ∝ 1/ν_c — swelling extent falls as cross-link density ν_c (and chain elasticity constraint) rises [reconstruction of L168–169]
+- ↑I_UV ⇒ ↓chain length ⇒ ↓t_resp and ↓mechanical strength [reconstruction of L255–259]
+- r_diss = f(d₀⁻¹, C_reductant, ν_c⁻¹, T) — dissolution rate of a cleavable gel [reconstruction of L423–425, L476–477]
+
+--- [[Smart Polymers Ch11 Smart Polymer Drug Delivery]]  (4 句)
+   • Chapter 11 moves from "smart materials that respond" to **quantitative structure–property–release modelling**. It supplies the canonical toolbox for any cross-linked hydrophilic network — including SAP: network characterization (Mc, ξ, υ₂,ₛ), equilibrium swelling (Flory–Rehner 平衡溶胀), diffusivity in porous media, and the three release-mechanism classes. Its own framing: "Intelligent or smart polymers are biocompatible polymeric materials that can respond to the physiological or biological environ
+   • **Flory–Rehner equilibrium swelling** (Flory–Rehner 平衡溶胀理论): an immersed equilibrium gel is subject to only two opposing forces — "the thermodynamic force of mixing and the retractive force of the polymer chains" (L126–134), giving ΔG_total = ΔG_elastic + ΔG_mixing. Mc relations appear as Eq. 11.3 (neutral network prepared without solvent, L173–181) and Eq. 11.4 (with the relaxed volume fraction υ₂,ᵣ, L190–202). Ionic networks add a ΔG_ionic term.
+   • 1. **SAP design as a mesh-size problem.** ξ = υ₂,ₛ^(−2/3)(2C_n·Mc/M_r)^(1/2)·l and Mc from Flory–Rehner are the proper language for the free-swell vs. gel-strength trade-off: lower Mc ⇒ tighter network, higher modulus, slower uptake. Map ξ against fluid-uptake rate to select SAP grade per layer (acquisition vs. anti-gel-blocking).
+2. **Acquisition/distribution nonwovens.** D_eff = D_iw·(ε/τ)·K_p·K_r makes porosity ε and tortuosity τ explicit process levers for fiber denier, basis weight and cale
+   • Edition year 2008 (CRC Press) is stated explicitly in the source header → .
+- All claims cite source line numbers L1–L1462; printed page numbers are unavailable — [待验证].
+- Prior-/next-chapter cross-references are absent from this extraction; the source itself flags [未找到原句/行号缺失]. The reference list mentions Brannon-Peppas & Harland, *Absorbent Polymer Technology* (refs 2, 20), indicating topical linkage to superabsorbent swelling without citable line-level content here.
+- One tabulated entry for 
+
+--- [[Fick 定律]]  (3 句)
+   • Diffusion is the process by which matter is transported from one part of a system to another as a result of **random molecular motion**（扩散是分子随机运动驱动的物质从系统一部分传输到另一部分的过程）（源：Diffusion Equations (Crank Ch.1)）. **Fick's first law** states the transfer rate is proportional to the concentration gradient, , by analogy with heat conduction (Fourier's law). **Fick's second law**, （一维恒 D）, is described as **the single core PDE** of the whole Mathematics of Diffusion reference, on which every chapter builds.
+   • **SAP swelling is not plain Fickian.** The **Alfrey-Gurnee-Lloyd three-way classification** splits behaviour by the ratio of diffusion to relaxation rate: **Case I（Fickian）** when diffusion << relaxation; **Case II** when diffusion >> relaxation; **non-Fickian** when they are comparable. SAP maps onto the sequence 干态玻璃态 → Case II → 非菲克 → 橡胶态 Case I, which is the physical root of the **S-shaped sorption curve**（源：Non-Fickian Diffusion (Crank Ch.11)）. Critically, **a glassy polymer cannot be descr
+   • This is the mathematical foundation layer for the REL core: **SAP 溶胀 SAP Swelling** kinetics（Diffusion in a Sphere (Crank Ch.6)）, **吸收芯体** uptake and layered structure（Diffusion in a Plane Sheet (Crank Ch.4)、Diffusion in Heterogeneous Media (Crank Ch.12)）and **湿迁移 Wet Migration** all rest on Fick's second law. The series-resistance model  is the modelling basis for the multilayer core, and the  time-lag method is the standard route to measuring D in SAP and films. Coupled heat–moisture diffusion
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (2 句)
+   • **Gap flagged by the vault itself.** Two deswelling tests are explicitly **not yet available**: "SAM deswelling at rewet pressure" is *under development* and "AUL Core deswelling test" is *needed*（源：Rewet Test（回渗测试））。
+   • **Definition, specimen geometry, insult protocol and numeric acceptance limits are absent** from all excerpts — the concept is only evidenced by its method-file names and its channel placement .
+- **The bromocresol chemistry** (what it stains, at what pH, and how the pattern is scored) is not stated；JA-22229 is only a code in a method list 。
+- **No page states whether STM-00305 and JA-22229 are the same method or two parallel ones** — the relationship between the two distribution methods is unre
+
+--- [[离子强度 Ionic Strength]]  (2 句)
+   • The vault never states a formula or units for ionic strength; it treats it operationally as **one of the three parameters** that precisely tune a hydrogel SAP's absorbency / water retention / salt tolerance / oil resistance — **cross-link density + ionic strength + temperature**（源：Hydrogel-based Superabsorbent Polymers）。Its direction of effect is stated directly: **electrolytes such as NaCl and CaCl₂ affect swelling, and high ionic strength *lowers* water absorbency**（源：Hydrogel-based Superabsor
+   • **Charge → hydrophilicity → swelling.** Charged groups raise hydrophilicity (hence higher water absorption), and their **electrostatic repulsion raises solubility and the swelling ratio**（源：Hydrogels in Regenerative Medicine）。
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (2 句)
+   • The study develops citric acid (CA)-crosslinked superabsorbent hydrogels based on cellulose derivatives as sustainable alternatives to conventional petroleum-based SAPs for personal hygiene. **Sodium carboxymethyl cellulose (Na-CMC)** is the primary polymer and **hydroxyethyl cellulose (HEC)** the secondary polymer, blended at varying ratios and crosslinked with CA as a green crosslinking agent. The authors systematically evaluate polymer composition, swelling medium, pH and **absorption under l
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+
+--- [[Cross-linked Cellulose and Derivatives]]  (2 句)
+   • Chapter VII covers molecular-level chemical modification of cellulose into superabsorbent derivatives — cross-linked CMC (the most commercialized cellulosic route), HEC, phosphonoalkyl/phosphorylated cellulose, sulfonated/oxidized cellulose, microfibrillated cellulose (MFC) and lignin-retaining CTMP — and unifies them under Donnan gel-swelling theory.
+   • **Cross-linked CMC** is the core technology: etherification (monochloroacetic acid, up to 8 mol/mol cellulose) followed by cross-linking (epichlorohydrin, formaldehyde, glutaraldehyde). **Water-insolubility threshold at low DS ≈ 0.35–0.40**; cross-linked CMC gives 5–25 g/g vs 1–2 g/g for unmodified pulp (p. 278).
+- **DS vs cross-link tradeoff**: higher cross-link gives strength and prevents dissolution but limits swell space → lower capacity; must be tuned precisely (p. 278). Thermal/acid treatm
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+

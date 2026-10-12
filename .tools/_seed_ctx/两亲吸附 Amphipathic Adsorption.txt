@@ -1,0 +1,69 @@
+# SEED: 两亲吸附 Amphipathic Adsorption
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 11 页，16 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[活性炭除臭（DARCO）]]  (2 句)
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • **Odour control in hygiene products**: the route is applied to **卫品气味控制**（源：SymDeo™ XPP 抑臭聚合物）and listed alongside fibre-based odour adsorption for **面层/内裤无纺布消臭**（源：咖啡炭纤维（异味吸附））.
+- **Route-family sibling**: within the odour-control material family it is cited next to SymDeo™ XPP 抑臭聚合物（抑臭聚合物）and 咖啡炭纤维（异味吸附）（物理吸附纤维）, all under the same supplier landscape note at Symrise（德之馨）（源：SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）、Symrise（德之馨））.
+- **Supply-base context**: Cabot is logged as a **candidate supplier** with n
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (2 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (1 句)
+   • 1. **为什么有味道**：某些化学成分**挥发性强**，挥发后到达嗅觉即产生气味感受 → 干预点要么是「换一个更好闻的挥发物」，要么是「降低该物质的挥发/存在」。
+2. **掩盖（masking）**：引入**挥发性更强**、气味可接受物质，抢先占据嗅觉；**不改变原异味物质**。
+3. **物理捕捉（physical capture）**：与异味物质**物理结合**（隐蔽或绑定），**不发生化学反应、不改变其化学性质**，但因其物理性质被改变，气味表现也被改变。**气味中和（neutralisation）与气味吸附（attraction/adsorption）都属物理捕捉**。
+4. **化学捕捉（chemical capture）**：加入带**化学反应机理**的物质（本批为天然物质），与异味物质发生反应而消除。供应商口径下由**日本团队**研发，**载体是热熔胶**。
+5. **载体与位置决定效果**：化学捕捉物质被加入**热熔胶**，再涂布（或施胶）于无纺布基材；效果取决于**产品结构设计、基材选择、成品上的涂布量**。
+6. **评价方法的固有局限**：VOC 探针只测**
+
+--- [[接触角 Contact Angle]]  (1 句)
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+
+--- [[Fibers and Fibrous Materials]]  (1 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+
+--- [[Hydrogels in Regenerative Medicine]]  (1 句)
+   • **Release control**: porous structure is tunable via cross-link density; drug release rate depends on the diffusion coefficient through the gel network. Low interfacial tension ⇒ minimal protein adsorption from body fluids.
+- **Wound dressing (closest to our adjacency)**: an ideal dressing must maintain a moist interface, allow gas exchange, act as a microorganism barrier and remove excess exudate, while being non-toxic, non-allergenic, non-adherent and removable without trauma. Hydrogel dressin
+
+--- [[Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts]]  (1 句)
+   • lines 78–79 — "Phase separation of PNIPAM and PVCL takes place at approximately 32°C, close to physiological temperature."
+- lines 116–119 — "The balance between the hydrophilic and hydrophobic groups along the polymer chain determines the lower critical solution temperature (LCST)..."
+- lines 205–207 — "Conventional surfactants are held on the particle surface by physical forces; thus, adsorption/desorption equilibrium always exists..."
+- lines 576–578 — "...the hydrodynamic radius decreased to
+
+--- [[Smart Polymers Ch07 Imprinting Using Smart Polymers]]  (1 句)
+   • lines 80–82 — "The hydrogels can recognize a substance if they are synthesized in the presence of such a substance (which acts as a template) in a conformation that corresponds to the global minimum energy."
+- lines 314–319 — "The combination of stimuli sensitivity and imprinting can have considerable practical advantages: the imprinting provides a high loading capacity of specific molecules, while the ability to respond to external stimuli modulates the affinity..."
+- lines 728–731 — "The basic
+
+--- [[Smart Polymers Ch10 Boronate Copolymers and Gels]]  (1 句)
+   • **PLL-g-(PEG;PBA) binding to mannan-containing agarose** (Table 10.2, L1052–1068): PEG/lysine ratios of 1:21 / 1:9 / 1:6 / 1:3 / 1:2 with the tabulated degrees of substitution show that **more PEG chains ⇒ more steric repulsion ⇒ less adsorption, even at high PBA content**. Separately, copolymers with PEG/lysine unit ratios of 1:21 and 1:9 reduced adherent IC-21 cells by more than 90% (L1194–1195).
+

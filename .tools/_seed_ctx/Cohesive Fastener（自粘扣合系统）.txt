@@ -1,0 +1,63 @@
+# SEED: Cohesive Fastener（自粘扣合系统）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 9 页，15 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]  (3 句)
+   • Deck states 141 innovation concepts across tiers were developed to future-proof the business; FEI CATS captured **9 high-potential opportunities**. The winning-protection block centers on **LeakShield** (more coverage, 6x absorption, ready now; scopes CN/AU/BR/YK) and TRY (from proven CN solution to ANZ premium scale-up and BR affordable development — with dtx/spacing/USD costings and 0.4Mn CAPEX per machine). Skin health & breathability block: **pH balance** (first pH-balanced nappy liner infus
+   • **FEI 漏斗 = OI 组合的上游**：9 大注与 2027–29 创新日历构成 OI 清单的需求侧来源 —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **Cohesive fastener 是结构件级降本项目（~50% 成本节省口径）** —— 支撑页：Cohesive Fastener（自粘扣合系统）、Hook-and-Loop Strength Test（粘扣系统强度测试）
+- **腰围透气窗（Airy Window）以"窗口开孔 + 气流"解决腰围闷热** —— 支撑页：Airy Window（腰围透气窗）
+- **除臭路线收敛为 Capture/Alter/Microbial/Perception 四通道**，筛选工具 eNose 先行 —— 支撑页：Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）
+   • 组合与项目：IPC BCC OI Portfolio（开放创新项目组合）、COCO芯体平台、ROTC（Real Online ThinTech Core）、IPC BCC（K-C Baby & Child Care 材料开发团队）
+- 概念：Cohesive Fastener（自粘扣合系统）、Airy Window（腰围透气窗）、Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）、ZnO Antibacterial Fibre（氧化锌抗菌纤维）（Zn 添加的纤维侧近亲）
+- 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）（Odor Control 与"何时更换"指示的权衡语境）
+
+--- [[STM-00071 粘扣结合强度.docx]]  (2 句)
+   • **粘扣类方法按测试对象分四种，本方法测复合牢度** —— 支撑页：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+- **夹具距离 2 英寸是本方法区别于剥离/剪切的硬口径** —— 支撑页：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+- **12 mm 试样宽度是固定约束，分配可调** —— 支撑页：Hook-and-Loop Strength Test（粘扣系统强度测试）
+   • 概念：Hook-and-Loop Strength Test（粘扣系统强度测试）
+- 同族方法：STM-00075 剥离.docx、STM-00076 剪切.docx、STM-00240Loop 粘连强度测试.docx
+- 对比：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+
+--- [[STM-00075 剥离.docx]]  (2 句)
+   • **剥离读平均、剪切读最大——粘扣系统内部存在两套读数口径** —— 支撑页：Fastener Strength Tests Compared（粘扣强度测试口径对比）、STM-00076 剪切.docx
+- **滚轮压合是剥离/剪切共用的前置动作** —— 支撑页：STM-00076 剪切.docx
+- **任何预压或对测试区域施力都会作废样品** —— 支撑页：Hook-and-Loop Strength Test（粘扣系统强度测试）
+   • 概念：Hook-and-Loop Strength Test（粘扣系统强度测试）
+- 同族方法：STM-00076 剪切.docx、STM-00071 粘扣结合强度.docx、STM-00240Loop 粘连强度测试.docx
+- 对比：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+
+--- [[STM-00076 剪切.docx]]  (2 句)
+   • **剪切读最大、剥离读平均；两者试样与滚轮流程相同** —— 支撑页：STM-00075 剥离.docx、Fastener Strength Tests Compared（粘扣强度测试口径对比）
+- **粘扣取向（与穿着同向）与中心对位是有效数据的前提** —— 支撑页：Hook-and-Loop Strength Test（粘扣系统强度测试）
+- **同一日修订的第 4/5 版说明剥离与剪切是成对标定的两项** —— 支撑页：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+   • 概念：Hook-and-Loop Strength Test（粘扣系统强度测试）
+- 同族方法：STM-00075 剥离.docx、STM-00071 粘扣结合强度.docx、STM-00240Loop 粘连强度测试.docx
+- 对比：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+
+--- [[STM-00240Loop 粘连强度测试.docx]]  (2 句)
+   • **粘扣类方法不只看力值，还要看失效模式** —— 支撑页：Hook-and-Loop Strength Test（粘扣系统强度测试）
+- **g/mm 归一化读数必须与 loop 宽度同报** —— 支撑页：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+- **本方法与 STM-00071/00075/00076 的测试对象不同（loop 复合牢度 vs 粘扣-腰贴撕开力）** —— 支撑页：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+   • 概念：Hook-and-Loop Strength Test（粘扣系统强度测试）
+- 同族方法：STM-00075 剥离.docx、STM-00076 剪切.docx、STM-00071 粘扣结合强度.docx
+- 对比：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+
+--- [[Hook-and-Loop Strength Test（粘扣系统强度测试）]]  (1 句)
+   • 材料侧：热风粘合无纺布、Hot-Melt Slot Coating（热熔狭缝涂布）（胶层与复合牢度的物质基础）
+- 部件侧：芯体测试方法与验收基准（STM）（环抱腰贴 / 端封同属成品结构验收）
+- 对比：Fastener Strength Tests Compared（粘扣强度测试口径对比）
+
+--- [[Ebewole Polymer Science Ch04 Thermal Transitions in Polymers]]  (1 句)
+   • CED 桥接：本章的 cohesive energy density（内聚能密度）把 Ch.3 的次键理论（偶极 / 氢键 / 离子）与 Tg 定量关联起来——CED 越高，Tg 越高。
+
+--- [[Polymer Science and Technology (Textbook)]]  (1 句)
+   • 源文件正文中可见的若干小节主线（用于原文检索定位）：Ch1 含 Table 1.1 Introduction of Plastics Materials、§III Classification of Polymers（结构/机理/热行为/制备/终端用途五维分类）；Ch2 含 chain-reaction（引发-增长-终止-链转移）、ionic & coordination、step-growth 典型聚合（聚酯/聚碳酸酯/聚酰胺/聚酰亚胺/甲醛树脂/聚醚/聚砜）、开环聚合与环氧树脂；Ch3 含 Table 3.7 Cohesive Energy of Polymers 与二级/三级结构判据。
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (1 句)
+   • **Window material**（L577-584）: outer surface must be translucent/transparent; candidates **polyethylene, polypropylene, polyester, polystyrene, polyvinyl chloride, polyurethane, polycarbonate, polyacrylate, PTFE** and combinations.
+- **Conventional diaper chassis**（L230-271）: topsheet 24 / backsheet 26 (**thermoplastic film about 0.012–0.051 mm thick**) / absorbent core 28 / side panels 30 / leg cuffs 32 / elastic waist 34 / fastening system 40; the diaper is a **"unitary"** construction（L205-22
+

@@ -1,0 +1,83 @@
+# SEED: Stimuli-Responsive PCM
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications
+#
+# 全库正文命中 31 页，41 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Textiles & Wearables]]  (4 句)
+   • A curated set of 10 Chinese-named 拆解 extractions covering the smart-textiles & wearables knowledge landscape — from stimuli-responsive polymers and wearable sensing/electronics to e-textiles, flexible electronics, chromic/PCM/shape-memory functions, and thermoelectric harvesting.（中文：智能纺织品与可穿戴领域的 10 篇拆解合集，覆盖刺激响应聚合物、可穿戴传感/电子、电子织物、柔性电子、变色/相变/形状记忆、热电采集等主线。）
+   • Stimuli-Responsive Polymer Materials (Nature Materials Review) — 2010 Nature Materials 综述：刺激响应聚合物的2D薄膜/3D粒子架构与应用。
+- Wearable Sensors (Book Preview) — Elsevier《可穿戴传感器》专著预览（目录级）：e-textile→能量采集→算法→WBAN全栈。
+- Wearable Electronics (NSR Editorial) — 彭慧胜 NSR 社论：可穿戴电子从刚性→薄膜/纤维化演进与特刊10篇导读。
+- Smart Textiles and Sportswear — 运动/防护智能纺织品综述：特种纤维代际、感知-响应架构、PCM/SMP/仿生。
+- Smart Textile Visual Perception (GRID) — Koncar GRID 报告：机织光纤与电致变色两类纺织柔性显示及变色机理。
+- Smart & Connected Garments (IEEE) — IEEE 综述：CNT纤维天线/致动器、联网服装与
+   • 刺激响应与变色材料（chromic / responsive polymers）：见 Stimuli-Responsive Polymer Materials (Nature Materials Review)、Smart Textile Visual Perception (GRID)、Smart Textiles Review
+- 可穿戴电子与柔性/可拉伸集成：见 Wearable Electronics (NSR Editorial)、Flexible Stretchable Electronics (imec)、Smart & Connected Garments (IEEE)
+- 电子织物与感知-响应架构：见 Wearable Sensors (Book Preview)、Smart Textiles and Sportswear、Smart Textiles Review
+- 热管理与能量采集：见 Thermoelectric Materials and Applications Review、Smart Textiles and Sportswear、Smart Text
+   • 概念：机械变色 Mechanochromic、光致变色 Photochromic、电致变色 Electrochromic、热致变色 Thermochromic、刺激响应聚合物 Stimuli-Responsive Polymer、液晶 Liquid Crystal、相变材料 Phase Change Material、形状记忆聚合物 Shape Memory Polymer、导电纱线 Conductive Yarn、防水透气 Waterproof Breathable、智能织物 Smart Textile、Wearable Electronics (National Science Review 2023)、热电现象 Thermoelectric
+
+--- [[光致变色 Photochromic]]  (2 句)
+   • **Molecular families and mechanism 分子家族与机理.** The five families approaching the ideal requirements are **spiropyrans、spironaphthoxazines、naphthopyrans、fulgides、diarylethenes**；其中 naphthopyrans 因温依赖中等 + 疲劳性好而成为商用眼科镜片首选（源：Chromic Phenomena Introduction and Reversible Colour Change）。A representative path: **螺吡喃 C_spiro–O 键受力开环 → 有色部花青（merocyanine）异构体**（源：Chromism Taxonomy（变色现象分类））。
+- **Light-driven switching in polymer matrices 聚合物基体中的光开关.** 偶氮苯（cis–trans 异构化）与螺吡喃被嵌入 LC 聚合物或水凝胶，将光子转译为拓扑/功能变化（源：Stim
+   • Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）
+- Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Photochromism Dihydroindolizines
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- Molecular and Supramolecular Systems
+- Smart Textiles and Their Applications
+- Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- Chromism Taxonomy（变色现象分类）
+- Tianjin Security-Chemical（天津塞特瑞科技）
+- 热致变色 Thermoch
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (2 句)
+   • The vault gives an explicit thermodynamic definition: smart / stimuli-responsive polymers are **"thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions"**（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。The useful systems are those whose working transition sits near body temperature — **"the most applicable stimuli-respon
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch04 Therma
+
+--- [[热电现象 Thermoelectric]]  (2 句)
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+   • **Adjacent, not yet applied.** The vault's sourcing is textile / wearable-level and materials-level; **no thermoelectric function is evidenced on any hygiene-product page** .
+- TE sits in the "smart textile" conceptual neighbourhood used elsewhere in the vault for powered / functional hygiene concepts — its siblings include 刺激响应聚合物 Stimuli-Responsive Polymer、相变材料 Phase Change Material、导电纱线 Conductive Yarn、智能织物 Smart Textile（源：Smart Textiles & Wearables）.
+- Integration path named for flexible TE:
+
+--- [[相变材料 Phase Change Material]]  (2 句)
+   • 注：≈37 °C 一行出自 stimuli-responsive smart polymers 的相变讨论（非 PCM 本身），此处仅作 PCM 目标工作窗口的参照。PCM 自身的相变焓 / 相变温度在此三条来源中未见定量数据。
+   • PCM knits 的微胶囊蓄放热机制为卫材提供可移植的调温思路（源：Intelligent Textiles and Sports Clothing）。
+- 在吸收性卫生用品中，微胶囊 PCM 是既有的热舒适路线，而 **PCM-free** 的工程化细菌纳米纤维素（BNC）纳米纤维网络是其「成本—机理」对照路线（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。参见 PCM-Free Thermoregulation、BNC-Only vs BNC+PCM (Thermoregulation Ledger)、Diaper Microclimate。
+- 相关材料与概念页：Stimuli-Responsive PCM、纳米纤维素（CNC、CNF、BNC）、智能织物 Smart Textile。
+
+--- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]  (2 句)
+   • 命题中的"**可实现拉力变色的光致变色材料**"，对应的是一类 **光–力双响应材料（photomechanochromic / dual-stimuli-responsive）** —— 典型如 **螺吡喃（spiropyran, SP）**、**二芳基乙烯（diarylethene）**、**偶氮苯（azobenzene）**、**萘酰亚胺–螺吡喃杂化体**等光致变色分子被**工程化为力致基团（mechanophore）**，在受力（**研磨、拉伸、超声、压缩**）时发生**异构/断裂**并伴随可见光谱变化。
+   • 1. **光–力双响应的命名**：源文用 *photomechanochromic / dual-stimuli-responsive*；库中既有页以 *mechanochromic* 为主线 —— **两条分类口径并存，不合并**。
+2. **"无开箱即用成品"是推断（I-1）**，基于供应商产品目录，**不等于穷尽检索结论**。
+3. **"天津塞特瑞 = 第一采购锚点"是推断（I-2）**，依据为**分子同源性**，**未经样品验证**。
+4. **市场份额 82.11% / CAGR 6.5%** 来自行业博客，**未标注原始报告**，按  但**建议降级使用**。
+5. **广州晶彩的"压力标示"** 源文判为**品牌话术而非力致变色**  —— **未核实其产品说明原文**。
+6. **两次自我更正后新增的厂商**均为"仅光响应"，**与力响应主线无关**，仅在常规采购比选中有效。
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (2 句)
+   • This is a **theory chapter** (理论展望章), deliberately analytical rather than experimental. It models what happens when the smart polymers of Chapter 1 are confined by **one-end grafting** to an impermeable surface, and identifies which molecular knobs (N, s, α, χ(T), salt, solvent composition, surfactant) set the thickness and responsiveness of the resulting layer. Chapter authors state the scope plainly: external physical fields (temperature, electrical voltage, light) or chemical fields (pH, sali
+   • **1. Brushes beat adsorbed layers.** Covalent end-grafting combines pronounced responsive behaviour with high coating stability; among fabrication routes, "grafting from" (surface-initiated controlled radical polymerization) avoids the steric hindrance of "grafting to" and enables position-defined monomer incorporation (L113–144). "An inherent feature of a polymer brush with high surface coverage is strong intermolecular interaction that governs chain conformation and ensures stimuli-responsive 
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (2 句)
+   • An **application chapter** (区域给药). Its organizing claim is that systemic therapy fails by dilution and toxicity, so the drug should be delivered where its whole pharmacological effect is wanted: "Localized drug delivery is defined as a method of delivering a drug (for its local action) from a dosage form to a particular site in the biological system where its entire pharmacological effect is desired" (L110). Stimuli-responsiveness is **peripheral** here — it enters mainly through thermally induc
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+
+--- [[CLC 手性向列晶]]  (1 句)
+   • Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+
+--- [[GST]]  (1 句)
+   • Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications
+

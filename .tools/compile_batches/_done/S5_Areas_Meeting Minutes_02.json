@@ -1,0 +1,22 @@
+{
+ "batch": "S5_Areas_Meeting Minutes_02",
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "source_pages": 10,
+ "concept_pages": 3,
+ "entity_pages": 1,
+ "comparison_pages": 0,
+ "updated_existing": 22,
+ "manual_review": 10,
+ "notes": [
+  "10 份源摘要页全部新建（WIKI/sources/ 事前核查均无同 source_path 既有页，未触发跳过）。",
+  "新建 concept：Antimony-Free PET Fibre（无锑 PET 纤维）、Kirigami Apertured Nonwoven（切割拉伸开孔工艺）、Botanical Extract Efficacy Verification（植物提取物功效验证）。",
+  "新建 entity：新维盛集团（Xinweisheng Group）。",
+  "派生追加既有页 22 个（部分页多次追加）：In-line 3D Nonwoven Formation、ADL（导流层）、热风粘合无纺布、Material Safety Control、The Procter & Gamble Company（宝洁）、福建闽瑞新合纤、福地（Fudi）、TBCW结构、ActiveTech Platform、Skin Health Treatment on Nonwoven、Hot-Melt Slot Coating、Chromism Taxonomy、Probiotic & Skin-Care Topsheet、三叶形截面纤维（Trilobal Fibre）、Mineral-Powder Functional Masterbatch、诺尔（Nuoer）、Patterned SAP Core Forming Drum、分区密度设计、COCO芯体平台、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制、华峰集团（Huafon Group）、Electrospinning（静电纺丝）。",
+  "重要修正 1：批次 02 第 2 份初稿曾把 ASR 的「无 t」误还原为「无钛（TiO2-free）」；编译第 3 份福地文件时由「含锑量／PET 缩聚催化剂／锑型催化可用钛型催化」交叉确认应为「无锑（Sb-free）」，已回改 P&G–KC 源页并同步修正 Material Safety Control、宝洁、新维盛三页残留表述。",
+  "重要修正 2：第 8 份源页文件名原含冒号（14:39）被系统截断为「...14」，已改写为 14-39 版本，并同步修正分区密度设计页中的 wikilink。",
+  "商务敏感信息（客户量级倍数、成本倍数、报价、人事编制/联系方式）一律不入页面，仅在源页以 manual_review（2026-09-29）块标注并回指 RAW 原文路径。",
+  "ASR 讹字按「逐条音转对照 + 无法确定者标 [待验证]」处理；决策与讨论中想法严格分段（Key decisions / Open issues），行动项 Owner 未在原文指名者一律留空并标 [待验证]。",
+  "未改 index.md / log.md；未移动、重命名、复制或删除任何文件；RAW/、RAW_FULL/、AGENTS.md 只读。"
+ ]
+}

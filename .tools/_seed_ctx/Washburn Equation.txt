@@ -1,0 +1,97 @@
+# SEED: Washburn Equation
+# type: concept | 原引用数: 4
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#   - Fluid Absorption in High Bulk Nonwovens
+#   - Porous Structure and Liquid Flow Models
+#   - The Role of Surfactants
+#
+# 全库正文命中 37 页，53 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Absorbent Technology]]  (3 句)
+   • The definitive reference on absorbent product materials and technology: a complete material→structure→product causal chain from porous-media fluid flow theory (Péclet, Darcy, Washburn) through fiber/nonwoven engineering and SAP chemistry to product integration and testing.
+《吸液技术》——吸液产品材料与技术的最权威参考专著，从多孔介质液体流动理论出发，经纤维/非织造工程与 SAP 化学，最终落地到产品整合与测试评价，构成完整的材料→结构→产品因果链。
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • 1. **多孔介质流动理论**：Péclet 数判据、达西定律、Washburn/Lucas-Washburn 方程、毛细压力与 Kelvin 方程——吸液动力学的物理基础，直接对接  仿真接口。
+2. **表面化学第一性原理**：接触角/润湿指数/附着功/Wilhelmy 湿附力法——决定纤维与结构能否有效吸液的材料选择先决条件。
+3. **核心 C/Q 模型**：芯体容量（Capacity）与释放速率（Release rate）的定量关联——超薄芯体设计的核心权衡。
+4. **SAP 谱系两极**：纤维素基（Ch7，Kimberly-Clark 磷烷基工艺）与丙烯酸基/水凝胶基（Ch8–9）——配方侧完整参考，含 2016/2022 综述更新。
+5. **非织造四要素与工艺矩阵**：纤维→排列→粘合→整理因果链；airlaid / spunbond / meltblown / spunlace / SMS 工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配。
+6. **三层功能模型**：Acquisition–Distribution–Ret
+
+--- [[Computational Modeling in Absorbent Technology]]  (3 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Ebewole Polymer Science Ch08 Copolymerization]]  (3 句)
+   • Chapter 8 is the **quantitative core of copolymerisation 共聚反应的定量核心**. It builds the chain from four propagation reactions → steady-state assumption → **reactivity ratios r₁, r₂（竞聚率）** → the **Mayo–Lewis copolymer equation（Mayo–Lewis 共聚方程）**, then classifies copolymer behaviour by the value of r₁r₂.
+   • 1. Designate monomers M₁, M₂ and their chain radicals M₁·, M₂·; write the **four propagation reactions** (k₁₁, k₁₂, k₂₁, k₂₂). → "By designating the two monomers as M₁ and M₂ and their corresponding chain radicals as M₁· and M₂·, the four propagation reactions and the associated rate equations in the copolymerization of two monomers may be written as follows." (Ch.8, p.212)
+2. **Terminal model（末端模型）** assumption: "the terminal monomer unit in a growing chain determines almost exclusively the rea
+   • **Mayo–Lewis equation (1943)** — 本章方程即 Mayo–Lewis 共聚方程，高分子动力学的里程碑。
+- **Alfrey–Goldfinger (1952) 与 penultimate model（倒数第二单元模型）**：本章只采用 **terminal model**，假设末端单元"almost exclusively"决定反应特性；但许多实际体系中 penultimate unit 效应显著 —— 教材为教学简化，工业建模需修正。
+- **"r₁r₂ > 1 无实证"的时效性**：教材（1997）断言无 r₁r₂ > 1 案例；1990s 后活性/可控自由基聚合文献中已出现 r₁r₂ 略大于 1 的体系，此陈述在当代需更新。参见 Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization 的链转移与分子量控制部分。
+- **Azeotrope 存在判据缺失**：教材以图（Figure 8.2）示意恒沸点为曲线交点，但**未给出存在判据**（需 r₁、r₂ 同大于 1 或同小
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (3 句)
+   • This is the book's **methods toolbox 方法工具箱**. Characterization is organized into three levels: **molecular level 分子级** (molecular weight and its distribution), **thermal properties 热性能** (glass transition, melting, crystallization, decomposition) and **physical structure and morphology 物理结构与形态** (crystallinity, crystallite size, orientation). Each level is presented with principles, working equations and instruments, so later fibre-specific chapters can quote crystallinity, orientation function,
+   • **DTA / DSC 差热/差示扫描量热** — Tg, Tm, Tc, decomposition (p.239).
+- **TG / DTG 热重** — thermal stability (p.240).
+- **TMA 热机械分析** — transitions via probe penetration (p.241).
+- **DMA / DMTA 动态力学分析** — loss peaks, WLF equation (p.242).
+- **Optical microscopy 光学显微镜** — ordinary, polarized, phase contrast (p.244).
+- **Electron microscopy SEM / TEM** — replicas, OsO4 staining, etching (p.245).
+   • Assessment from the source: molecular-level and physical-structure sections are strongly argued with complete equations and figure cross-checks; thermal and microscopy sections are enumerative descriptions with fewer worked examples; no systematic comparison of method error and applicability boundaries is given, so independent method selection is hard — flagged as a limitation of methods-survey chapters.
+
+--- [[Surface Tension and Surface Energy]]  (3 句)
+   • Chapter 2 (pp. 74–109) supplies the missing micro-level to Chapter 1's macro hydraulics: it fixes surface tension as a thermodynamic quantity, establishes Young's equation as an energy identity, and — most usefully for hygiene R&D — replaces the textbook flat-plate sessile drop with a rod/tube model that gives the capillary pull on an individual fibre, F = γLV·cos θeq·C.（中文：第 2 章为第 1 章的宏观流体力学补上微观热力学，并以"杆/管"模型取代平面液滴，给出单根纤维的毛细拉力。）
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[Geometric Optical Mask（几何光学掩膜）]]  (2 句)
+   • 1. **The corrugation is a free mechanical shutter（波纹是免费的机械快门）.** A 2.2× bonded elastic laminate arrives with a relaxed corrugation pitch λ₀ of 1.2 mm. Nobody uses it; the mask does.
+2. **Three-layer stack（三层结构）** — (i) the elastic panel laminate (SEBS meltblown or SBL, 2.2× bonded) supplies elasticity *and* the corrugation that gates the read-out; (ii) a supplier-applied CD-continuous flexo **under-print** in three bands (green ✓ / green ✓ / red ✗) — no registration to our coater required; (iii)
+   • Rearranged for design: **2a = λ₀ (1 − φ\*) (1 + ε\*)** — pick the strain at which a bar should light up, and the equation returns the ink arc, which the shim delivers as a coat weight.
+5. **Zoning is machined, not controlled（分区是加工出来的，不是控制出来的）.** One manifold pressure feeds three CD zones whose ratio is fixed by land length (Q ∝ 1/L at constant gap, width and ΔP). Land lengths are machined to ± 0.05 mm, so the coat-weight ratio holds to better than 1 % for the life of the shim; a viscosity excurs
+
+--- [[Ebewole Polymer Science Ch06 Condensation Step-Reaction Polymerization]]  (2 句)
+   • Chapter 6 is the core chapter on **step-reaction (condensation) polymerisation 缩聚/逐步聚合**. It establishes the Flory equal-reactivity principle, presents the three classical treatments (kinetic / stoichiometric / statistical), and derives the design equation **DP = 1/(1−p)**.
+   • **Flory (1936–1939)** — original derivation of the equal-reactivity principle and of the third-/second-order kinetics; the source follows Flory's argument closely.
+- **Carothers equation (1920s)** — the original DP = 1/(1−p) derivation.
+- **Flory statistical method (1940s)** — probability treatment built on the kinetic base.
+- **Boundary of equal reactivity at high conversion**: the principle breaks down as p → 1 because of gel effect / diffusion control — 教材未深入讨论这一工程实际问题。
+- **Cost of the third→
+
+--- [[Liquid Flow in Porous Structures]]  (2 句)
+   • Chapter I establishes the physical foundation of absorbent technology — capillary-driven, unsteady-state liquid flow in porous media — providing the mathematical tools (Darcy, Washburn, diffusivity factor) that govern wicking rate and capacity in diaper/incontinence cores.
+   • Absorption is driven primarily by **capillary pressure** (p_c = 2γcosθ/r); externally imposed gravity or pressure plays only a secondary role (p. 19).
+- Flow in porous media follows **Darcy's law** (q = -K·∇P, K = k/μ) and, under unsteady conditions, is mathematically identical to a diffusion process; the advancing wicking front distance obeys **x_v ∝ t^(1/2)** (Washburn / Rudd relation, p. 24, 37).
+- The **diffusivity factor** F(s) = (k/μΦ)(dp_c/ds) links permeability and capillary gradient; a 
+
+--- [[Porous Structure and Liquid Flow Models]]  (2 句)
+   • **Rate and capacity are antagonists, and both are geometric.** Bigger pores raise rate (Hagen–Poiseuille: flow ∝ r², so Y ×2 → flow ×16) but lower capillary pressure (p_c ∝ 1/r), so capacity falls. The optimum sits mid-range, not at either extreme.
+- **Kozeny–Carman is a leverage equation.** k ∝ Φ³/(1−Φ)² — a small porosity gain yields a large permeability gain, but raising Φ means lower packing fraction, i.e. thinner web, more thickness, or fewer g/m². The trade is real and unavoidable.
+- **Fib
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、毛细管压力 Capillary Pressure、孔隙率 Porosity、渗透率 Permeability、SAP（高吸水树脂）、Gel Blocking（凝胶阻塞）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 相关章节/页面：Absorbent Technology Introduction、Characterisation, testing and modelling of nonwoven fabrics（测试与建模）、Chemical bonding（粘合剂容量税）、Dry-laid web formation（气流成网孔径）
+
+--- [[Seymour Polymer Chemistry Ch13 Fillers and Reinforcements]]  (2 句)
+   • Chapter 13 builds the four-level progression **filler（填料）→ reinforcement（增强材料）→ interfacial coupling（界面偶联）→ composite（复合材料）**. Its quantitative spine runs from the **Einstein viscosity equation** for spherical fillers to the **Kelly–Tyson equation** for fibre reinforcement, with **aspect ratio（长径比）** and **critical fibre length（临界纤维长度 lc）** as the fibre-efficiency parameters. 对卫材的映射：**无纺布是由纤维（而非球形填料）构成的纤维网络**，其强度传递效率由 aspect ratio、取向系数 k 与纤维-基体/纤维-纤维界面决定；CaCO₃/滑石粉填料在 PE 透气膜与 PP 共混体系中的分散与偶联，也直接落在
+   • **短纤维修正 Short-fibre correction**：*"When they are longer than the critical length (lc), it is necessary to modify the first term in the Kelly Tyson equation by multiplying by a factor (l − lc)/lc in which l is equal to the actual fiber length."* (line 103)
+

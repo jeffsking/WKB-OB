@@ -1,0 +1,106 @@
+# SEED: Skin Health Treatment on Nonwoven（无纺布护肤处理）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 401 页，691 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (8 句)
+   • **品牌使命（Brand Purpose）**：*"We exist to Help Navigate the Unknowns of Babyhood"*（我们为帮助穿越育儿中的未知而存在）。
+- **六大战略支柱 Strategic Pillars**：**Baby's Skin Health**（远离刺激与红疹）／**Baby's Comfort**（远离不适）／**Baby's Dryness**（远离漏与湿）／**Baby's Future**（为所有婴儿守护未来）／**Parents' Choices**（守护父母的选择）／**Parenting Skills**（守护父母的育儿能力）。
+- **消费者需求空间 Consumer Need Spaces**：Skin Health / Wellness、Comfortable Fit / Wear、Long-Lasting Leakage Protection and Skin Dryness、Eco-Friendly、Convenience、Self-Fulfillment、Growth。
+- **覆盖品类**：Diape
+   • **结论**：**Rash-Free Skin Health is the #1 Unmet Need**；**尿布疹是最大的消费者痛点之一，也是品牌转换的触发因素**。
+- **三大未满足需求空间（排序）**：**1 Prevent Rash & Irritation（预防红疹与刺激）** → **2 Strengthen & Nurture（强化与滋养）** → **3 Treat & Restore（治疗与修复）**。
+- **尿布疹成因（八项，源文列举）**：
+   • **摄入侧的两条机理路线（源文表述）**：
+  - **"Keeps more rash-causing irritants away from the skin —— Traps 2× more of mess"**（把更多致疹刺激物挡在皮肤之外；**兜住 2 倍的污物**）；
+  - **Breathability 透气性**：**MORE Airflow（更多气流）/ BETTER Temp（更好温感）/ LESS Humid（更低湿度）**。
+   • **框架**：**MENSTRUAL / BLADDER LEAKAGE / INTIMATE HEALTH & WELLNESS**，沿 **Puberty → Period → Sexual experience → Baby → Menopause** 的人生阶段展开；品牌对应 **Kotex（经期）／Poise（膀胱渗漏）／Depend（…）／Intimus（私处健康）**。
+- **三大全球关键词**：**RESPONSIVE**（2D & 3D contour、flexible、breathable、soft、gentle、body-conforming fit；Advanced Freshness = odor-elimination、cooling/thermo-regulation、clean & dry feel、moisture-wicking）／**NO FEEL**（seamless、weightless、moves with the body、thermo-balancing、skin-soothing）／**INTIMATE WELLNESS**（rest
+
+--- [[等离子处理 Plasma Treatment]]  (7 句)
+   • The vault never defines plasma treatment as a process; it treats it functionally, as a **dry** route to fix polypropylene's poor wettability — *"Plasma fixes PP's poor wettability dryly"* and *"Plasma makes PP hydrophilic for hygiene without wet chemistry"*（源：Nonwoven fabric finishing）。It is grouped with the emerging/developing finishing technologies (alongside microencapsulation, laser etching, biomimetic lotus-leaf and electrochemical routes)（源：Nonwoven fabric finishing）。
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Demonstrated mechanism evidence.** The vault's only worked example is O₂-plasma on PP **blood filters**, where improved wetting gives *much higher* flow（源：Nonwoven fabric finishing）。
+   • **Dry vs wet route.** Plasma is presented as the alternative to the wet-chemical finishes catalogued in the same source (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV finishes)（源：Nonwoven fabric finishing）。The adjacent spin-finish source adds the durability context that motivates a dry route: surfactant-type finishes are subject to **thermal migration** — the surfactant migrates to and enriches on the fibre surface on heating, so hydrophilicity decays over time（源：Man
+
+--- [[热风无纺布]]  (6 句)
+   • **热风无纺布（air-through / through-air bonded nonwoven，亦称 热风粘合无纺布）** is a **thermally bonded nonwoven** in which the web is bonded by **hot air passing through it**（热风穿透）. Bonding relies on the **sheath (e.g. PP/PE) partially melting below the sheath/core melting-point gap and re-crystallising into a more perfect crystal form**, which sets the structure permanently; the **through-air temperature must be slightly above the sheath melting point yet not high enough to destroy the core (PET/PP) orientati
+   • The vault carries several overlapping headings for this material/process — 热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven — see Open Questions（源：本页 cited-by 与全库同名标题）.
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+
+--- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]  (6 句)
+   • The recommendation is a **conditional GO for a dual-MVP strategy**, implemented as a low-regret approach focusing on two separate visual signals (MVP A temperature, MVP B humidity) rather than a complex combined sensor. The philosophy is "**simple visual signals, not precision instrumentation**" — providing a reason to believe (RTB) that helps caregivers act, not a clinical thermometer. The priority is explicit: **do not replace the existing wetness indicator (WI)**, focus on differentiation lea
+   • Hard boundaries are then stated: chemical limits (100% BPA-free, zero formaldehyde, zero heavy metals) and a regulatory framework (ISO 10993 for cytotoxicity/irritation, REACH, FDA, GB/T 35613-2017); a caution that **some legacy technology contains trace formaldehyde** and requires strict auditing; and a mandatory rule of absolute zero back-transfer, visible colour bleeding or direct skin contact — the indicator lives **on the outer cover / backsheet window**, never in the skin-contact layer (to
+   • Chemical limits: 100% BPA-free, zero formaldehyde, zero heavy metals.
+- Regulatory: ISO 10993 (cytotoxicity / irritation), REACH, FDA, GB/T 35613-2017.
+- Mandatory rule: absolute zero back-transfer, visible colour bleeding, or direct skin contact; powder forms banned from skin layers until validated.
+- Caution: some legacy technology contains trace formaldehyde — strict auditing required.
+   • Stop asking "do you have a product?" and demand exact constraints: **performance** — can you hit a visible 30–37 °C reversible transition specifically on PE film or nonwoven substrates? **bleeding** — do you guarantee zero colour bleeding for liquid-exposure hydrochromics? **process** — what are your exact converting constraints (drying temperatures, lamination pressure, coating methods)? **safety** — do you have proven, documented non-skin-contact hygiene migration data? **logistics** — what ar
+
+--- [[Nonwoven 非织造布]]  (5 句)
+   • A nonwoven resists a single clean definition — the field is **convergent and boundary-crossing**, because the industry drew on textile, paper and polymer-processing practices（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工）（源：Development of the nonwovens industry）. The vault fixes the **EDANA and INDA definitions** and classifies nonwovens into **drylaid, wetlaid and polymer-laid (spunmelt)** families. These three process families trace to three mother industries: **drylaid → textiles, wetlaid → papermaking, p
+   • **Position-based acceptance（按位置验收）：** the CN standard FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布） organises diaper-nonwoven acceptance by **in-diaper position** — topsheet, backsheet, leak cuffs, ADL, core wrap, waist/side-tape — rather than by process; every property is anchored to the GB/T 24218 test-method series（源：FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布））. **Fibre fineness is not monotonic** — US7195621B2 records that ultra-fine 0.5–2.5 µm meltblown lost both breat
+   • Nonwovens are the load-bearing substrate of every hygiene article layer in this vault: **topsheet（Topsheet（面层））**, **ADL（ADL（导流层））**, core wrap / SAP carrier（Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））, backsheet（Film-Free Backsheet（无膜背层）、Meltblown Nonwoven（熔喷非织造布））and elastic/laminates. The dominant hygiene process families — **热风无纺布（air-through）**, **纺粘 Spunbond**, **熔喷 Meltblown**, **水刺 Hydroentanglement** and their composites（SMS 纺粘熔喷复合、SMS复合结构）— draw on **双组分纤维 Bi
+   • The vault does not carry a single unified numeric property table (gsm × tensile × permeability) for the REL core's own nonwoven stack .
+- MD/CD anisotropy and inter-fibre bond failure mechanics are explicitly **not covered** by the polymer-science chapters (Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）.
+- A named supplier-to-layer mapping for the current REL core build is not evidenced .
+
+--- [[熔喷 Meltblown]]  (5 句)
+   • 熔喷（meltblown）与纺粘（spunbond）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 熔喷非织造布即 **meltblown nonwoven / 熔喷 PP 纤维（meltblown polypropylene）**，以高速热气流牵伸熔融聚合物形成超细纤维网。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造）、Polymer-laid web formation）
+- **树脂牌号分野**：纺粘用 ~35 MFR 的 CR 均聚物；熔喷用 **≥500 MFR、窄分子量分布（narrow-MWD）** 牌号 —— 这是熔喷与纺粘在树脂选型上的分界。（源：Handbook of Polypropylene and Polypropylene Composites）
+   • **阻力限制牵伸（drag-limited attenuation）**：纤维与空气射流达到**速度匹配**后，质量守恒即锁定直径（d ∝ v /(m·Λ·v_a)·…）；**熔体粘度只改变「多快达到匹配」**，不改变最终直径 —— 285 °C 时距模头 2.4 mm、250 °C 时 2.7 mm 达到匹配。（源：Meltblown Nonwoven（熔喷非织造布））
+- **三个真实杠杆**：降低单孔产量（cut g/hole/min，0.73 → 0.20，固定线产量下对应 35 → 130 hpi）、提高射流速度（150 → 250 m/s 带来 2.85 → 2.21 µm，随后饱和），以及「nothing else」。（源：Meltblown Nonwoven（熔喷非织造布））
+- **纤维细度不由温度买来**：在工业窗口内纤维直径受**阻力限制**（由单孔产量与射流速度设定，非熔体粘度）；模头温度 250 → 300 °C 使模拟直径变化 < 1%。（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））
+
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • SMS 各层的**克重配比与阻隔性能的定量关系**，本库暂无来源 。（源：SMS复合结构）
+- SMMMS 的**实测（非模拟）静水压**与单束成形 CV 仍缺 。（源：SMS复合结构）
+- **专利范围警示**：US7195621B2 摘要 / SUMMARY 讲的是 backsheet，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上 —— 读范围时须注意 。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- 上述数据在来源中的**页码待核** 。
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (5 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+   • 1. ES fibre hydrophilic finishes divide into single-hydrophilic and multi-hydrophilic types by chemistry 按油剂化学特性分单亲型、多亲型.
+2. Single-hydrophilic finish gives high rewet and poor in-use experience — 质量档次不高 (low quality tier).
+3. Multi-hydrophilic air-through nonwoven delivers fast multi-insult absorption, short strike-through time and low rewet — the mainstream material and development direction for disposable hygiene products 高档纸尿裤主流原料与发展方向.
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]  (5 句)
+   • The problem framing is explicit: diaper microclimate (heat and humidity) drives skin irritation, caregivers lack a visible cue for "when to act"; a consumer-visible reason-to-believe (RTB) for thermal comfort / wetness is differentiation beyond basic absorbency; existing wetness indicators show "wet" only and do **not** signal thermal comfort or humidity accumulation. Success is bounded — any solution must show measured benefit in **both** dry and wet states with no unacceptable trade-off on abs
+   • Three routes are defined, all sharing microencapsulation as the enabler: **R1 thermochromic ink/pigment** (printed stripe or laminated label patch at the outer-surface core-centreline / crotch panel; reversible for comfort cues); **R2 hot-melt wetness glue** (glue line on the backsheet inner face; urine triggers an irreversible yellow/orange→blue change; 84% of the market; lowest risk, fits existing converting lines); **R3 water/solvent hydrochromic ink** (printed on breathable film or nonwoven 
+   • ISO 10993 (cytotoxicity / skin irritation / sensitisation), EU REACH (SVHC restriction + full substance declaration for the chromic layer), FDA guidance, China GB/T 35613-2017 & GB/T 36420-2018 hygiene-product safety baselines.
+- **Matsui Shikiso (松井) caution**: some legacy products contain trace formaldehyde and official guidance excludes baby direct contact → resolve baby-safety before any skin-adjacent use.
+- The indicator MUST sit on the non-skin-contact face (outer cover / backsheet window)
+   • **International (8 ranked by hygiene fit)**: CTI (Chromatic Technologies, USA) thermo/photo/hydro full range — primary thermo; Matsui Shikiso (Japan) thermo/photo leader (Chromicolor / Thermolock) — primary thermo with a formaldehyde caution; Bostik (Arkema, France) hot-melt wetness glue (90% bio-based) — primary wet; Henkel (Germany) TECHNOMELT — primary wet; H.B. Fuller (USA) Full-Care — primary wet; Intellego Technologies (Sweden) photochromic wetness indicator; OliKrom (France) custom thermo
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (5 句)
+   • **Non-electronic, visually-read health indication integrated into a disposable absorbent article（集成到一次性吸收制品的非电子目视健康指示）** — a **window** in the article's outer surface allowing a **removable thermochromic sensor** to be read from outside.
+   • Conditions the sensor may indicate（说明书列举）: "**body temperature, environmental temperature, article humidity or wetness, pH, skin condition, analyte levels, etc.**"
+   • 1. **Cholesteric liquid crystal, clearing-point type（胆甾型液晶·清亮点型，温度不敏感型）** — "常温有色、升温变透明": at normal temperature the LC reflects a colour; on reaching its **clearing point** it becomes **transparent**. This is the mechanism used in the worked EXAMPLE.
+2. **Temperature-sensitive liquid crystal（温度敏感型液晶）** — colour sequence "无色→红→橙→黄→绿→蓝→紫→无色" as temperature rises.
+3. **Thermochromic inks / leuco dyes（热致变色油墨 / 隐色染料）** — leuco dyes "可直接混入薄膜、无纺布和弹性体"（may be incorporated directly into films, nonwovens 
+   • Source note: the preamble's "for visually detecting health-related conditions" is a **use/intended-purpose limitation**; the source observes that infringing determination normally still requires the structural features. The claim is a five-element combination: **article + window + removable + thermochromic + ~99.5–102 °F + closed material list**.
+
+--- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]  (5 句)
+   • A consolidated report on chitosan and chitosan fibre: core properties, modification and preparation routes, and application status across diapers/sanitary products, wound dressings, water treatment, food packaging and textiles. （中文：壳聚糖及壳聚糖纤维的技术与应用总结报告——核心特性、改性/制备工艺，以及在纸尿裤与卫品、医用敷料、水处理、食品包装与纺织中的应用现状。）
+   • Chitosan is positioned here as a **bio-based functional material whose value is antibacterial + skin-friendly + biodegradable**, rather than an absorbent. For diapers the realistic entry point is the **skin-contact topsheet** (and active-care positioning), not the core — consistent with its modest absorbency role in the literature cited.
+   • Two engineering routes recur: (a) **gel-on-fibre** — chitosan gel thermally spray-bonded onto PET fibre to give fast uptake, lock-in, anti-rewet and antibacterial behaviour in one fibre; (b) **three-layer antibacterial superabsorbent** — breathable kapok/bamboo skins enclosing a chitosan-acrylic acid/alginate microsphere core, explicitly designed to fix the "wet → no breathability" failure mode.
+   • 1. **Antibacterial is the selling point, not absorbency 卖点是抗菌而非吸水** — 壳聚糖的卫材价值在天然抑菌 + 亲肤 + 可降解；吸收性能需通过与 PET 纤维/丙烯酸体系复合获得。
+2. **Topsheet before core 先面层后芯体** — 亲肤面层是壳聚糖最合理的切入点，与 Probiotic & Skin-Care Topsheet（益生菌护肤面层） 的「主动护理」定位同向。
+3. **Gel-on-fibre is the practical route 凝胶附着是可行路线** — 热喷粘附把功能凝胶固定在既有纤维（PET）上，避免壳聚糖单独成纤的强度与成本问题。
+4. **Three-layer design fixes the breathability conflict 三层结构解决透气冲突** — 高透气表皮 + 抗菌吸水芯，直接针对「吸水后不透气」；木棉 160° 接触角是该设计的关键材料手段。
+5. **Feedstock drives cost 原料驱动成本** — 虾蟹壳等工农业副产品 +
+

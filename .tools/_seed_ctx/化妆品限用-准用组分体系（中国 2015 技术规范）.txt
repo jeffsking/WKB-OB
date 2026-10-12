@@ -1,0 +1,84 @@
+# SEED: 化妆品限用-准用组分体系（中国 2015 技术规范）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 20 页，32 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[化妆品安全技术规范（2015年版）·检验方法篇]]  (4 句)
+   • One-sentence positioning 一句话定位：本页是《化妆品安全技术规范》(2015) 检验方法章节的平行提取，聚焦防腐剂组分（含苯氧乙醇）的含量测定方法，与总规范页互为备份。
+   • 内容为《化妆品安全技术规范》(2015) 第4章「理化检验方法」中关于**化妆品中甲基氯异噻唑啉酮等 12 种组分含量的测定**方法。
+- 12 种目标组分为防腐剂：甲基氯异噻唑啉酮、2-溴-2-硝基丙烷-1,3-二醇、甲基异噻唑啉酮、**苯甲醇、苯氧乙醇**、4-羟基苯甲酸甲酯、苯甲酸、4-羟基苯甲酸乙酯、异丙酯、丙酯、异丁酯、丁酯。
+- 文内给出各组分色谱保留时间（如苯氧乙醇约 4.296 min），作为定性/定量依据。
+   • 苯氧乙醇在中国规范中被列为**准用防腐剂**（12 种测定对象之一），其使用限量见规范表4（本页未摘录具体数值，标 ）。
+- 本页与 化妆品安全技术规范（2015年版） 内容同源，差异仅为提取格式。
+   • 同源：化妆品安全技术规范（2015年版）
+- 概念：化妆品限用-准用组分体系（中国 2015 技术规范）、Phenoxyethanol（苯氧乙醇）
+
+--- [[香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）]]  (2 句)
+   • **IFRA Standards 与 12 大产品类别体系**：配方加香时确定香精限用物质在目标产品类别（驻留/淋洗/儿童）下的允许浓度；跨国品牌全球统一口径。
+- **化妆品限用-准用组分体系（中国 2015 技术规范）**：产品在中国上市必须逐物质满足表3/表4 限量，是强制合规红线。
+   • IFRA Standards Guidance (2023-06-30) —— 
+- 化妆品安全技术规范（2015年版） ——
+
+--- [[GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）]]  (2 句)
+   • 上位体系：GB 15979-2024（一次性使用卫生用品卫生要求）（卫生指标维度与本规范化学安全维度互补）
+- 委托来源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）、GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（其表 2 与本规范表 1 纸尿裤列数值一致）
+- 平行限用物质：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、化妆品限用-准用组分体系（中国 2015 技术规范）（湿巾生产用液与防腐剂的上位口径）
+- 元素迁移口径：锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范） —— 
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求） —— 4.2.3 条委托引用 GB 43631
+
+--- [[Phenoxyethanol（苯氧乙醇）]]  (2 句)
+   • 法规体系：化妆品限用-准用组分体系（中国 2015 技术规范）、SCCS（欧盟消费者安全科学委员会）
+- 同类限用防腐剂：甲基氯异噻唑啉酮、4-羟基苯甲酸酯类等（见规范表4）
+   • SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS-1575-16, 2016) —— 
+- 化妆品安全技术规范（2015年版） —— 
+- 化妆品安全技术规范（2015年版）·检验方法篇 ——
+
+--- [[湿巾 Wet Wipes]]  (2 句)
+   • **Compliance layers（合规层级，CN）**
+- GB 43631-2023 is the **mandatory chemical-safety floor**（强制国标，工信部归口）for children's paper products; it covers wipes, diapers and tissue（生活用纸品）and sets one shared floor table across heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines（源：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范））。
+- GB/T 27728.2-2024 layers baby-wipe requirements on top of GB/T 2772
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）]]  (2 句)
+   • **一次性卫生用品不在本标准范围**（附录 A 明列），卫品标签走 GB 38598 + 各产品标准条款 —— 支撑页：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）
+- **标注一致性是「严重缺陷」级要求**：同件产品不同形式标签内容不一致即判严重缺陷 —— 支撑页：本页（附录 B 原文口径）
+   • 来源：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）（婴幼儿纺织品的标签在 5296.4 框架上叠加安全类别与「婴幼儿用品」字样）
+
+--- [[GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）]]  (2 句)
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）、化妆品微生物限值（细菌总数·致病菌）、Phenoxyethanol（苯氧乙醇）
+- 实体：（无本页独有实体；标准归口机构见正文 §1.5 与附加说明）
+- 对比：（**本批未建** —— GB 7916-1987 的现行有效性与是否被《化妆品安全技术规范》（2015）替代尚未核实，标 ，不具备并列对比的事实基础）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：化妆品安全技术规范（2015年版）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+
+--- [[GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）]]  (2 句)
+   • **MIT/MCI 是婴童湿巾防腐体系的硬红线**（生产用液按化妆品规范管控）—— 支撑页：化妆品限用-准用组分体系（中国 2015 技术规范）
+- **婴童湿巾的「安全指标」整体委托给 GB 43631**，本标准不再自设限量 —— 支撑页：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- **卫生指标一票否决**：卫生指标不合格即整批判不合格（6.5）—— 支撑页：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+   • 概念：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）、化妆品限用-准用组分体系（中国 2015 技术规范）
+- 来源：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）、GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求）
+- 同族标准：GB-T 27728-2011 Wipes（湿巾）、GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+
+--- [[IFRA Standards Guidance (2023-06-30)]]  (2 句)
+   • 卫品/湿巾配方加香时，香精供应商须提供符合目标产品类别（如驻留型/淋洗型/儿童）的 IFRA 合规声明。
+- IFRA 体系与中国《化妆品安全技术规范》的限用组分表为**两套互补管理**（香精专项 vs 全组分强制），见对比 香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）。
+   • 概念：IFRA Standards 与 12 大产品类别体系
+- 机构：IFRA（国际香料协会）
+- 对比：香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）
+
+--- [[化妆品安全技术规范（2015年版）]]  (2 句)
+   • One-sentence positioning 一句话定位：中国化妆品安全的顶层强制性技术规范（2015年版，2016-12-01 施行），规定禁限用组分、准用组分及检验方法，是卫品湿巾/护肤配方合规的基线依据。
+   • 概念：化妆品限用-准用组分体系（中国 2015 技术规范）
+- 同源备份：化妆品安全技术规范（2015年版）·检验方法篇
+

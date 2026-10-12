@@ -1,0 +1,29 @@
+{
+  "batch": "p1_Manufactured_Fibre_Technolog_02",
+  "book": "Manufactured_Fibre_Technology",
+  "done": [
+    "Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres.md",
+    "Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres.md",
+    "Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres.md",
+    "Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres.md",
+    "Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres.md",
+    "Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres.md",
+    "Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres.md",
+      "issue": "源文中大量图表为 OCR 残损的镜像乱码（Fig.12.1-12.8 图注反向排版），且 DEG% 数值与熔点下降值存在明显扫描遗漏；页面已标注 [待验证]，需对照原书核实具体数字。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres.md",
+      "issue": "源文内部不一致：p.333 原文摘选给出尼龙66追加单体 19%、尼龙6 为 6%，而同一源文第五节将其表述为「13.5% vs 2% 失重」；残余单体允许值在源文中印成孤立的「%」。页面已标注 [待验证]，需对照原书校正。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns.md",
+      "issue": "第 14.8 节流变经验式（14.17-14.26）源自作者标注的 unpublished 工作，无误差范围与外部验证；外推到现代熔喷/纺粘细旦工艺需谨慎。另源文中岛-in-海等术语为中日混合表述，已按原貌保留。"
+    }
+  ],
+  "count": 7
+}

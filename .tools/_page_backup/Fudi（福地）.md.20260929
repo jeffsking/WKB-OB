@@ -1,0 +1,30 @@
+---
+type: entity
+title: "Fudi（福地）"
+category: 供应商
+relationship: 候选
+real_name_hint: "Fudi / Fudy / 福地——同一实体的三种写法；正页为 [[福地（Fudi）]]"
+updated: 2026-09-29
+tags: [福地, Fudi, Fudy, 别名页, 待合并, 三叶形, ES纤维]
+---
+
+# Fudi（福地）
+
+> ⚠️ **别名页 / Alias page（2026-09-29）**：本页**不是独立实体页**。
+>
+> 本次编译（批次 `S1_Projects_Liner_01`）在未检索到既有页面时按 AGENTS.md §2.2 建立了本页；随后发现**同一实体早已由既有批次建立为 [[福地（Fudi）]]**（COCO 批次，来源 [[Coco V6 试产原料清单（Raw material list v3.0）]]、[[COCO V6 试产原料准备会（v2 Final）]] 等），且其他既有页面（如 [[COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）]]）均以 `[[福地（Fudi）]]` 引用该正页。
+>
+> **处置**：依 AGENTS.md §5「删除任何页面须人工确认」，AI **不删除本页、不合并、不重命名**。本次编译新增的 Liner 批次内容（KC 面层 DOE 中的 C2 上层 3D 三叶形 ES、C3/C4 下层共同组分、供方分级 established、用量与预算口径）**已全部追加至正页** [[福地（Fudi）]] 的「追加：Liner 项目批（2026-09-29 追加）」一节，本页**不重复承载内容**。
+>
+> 待人工确认的名称变体清单：`福地（Fudi）`（正页） / `Fudi（福地）`（本页） / `Fudy`（英文材料拼写）。
+>
+> 🔴 **manual_review（2026-09-29）**：命名统一与页面合并属 AGENTS.md §5 人工确认边界——**建议保留 [[福地（Fudi）]]，删除本页**。
+
+## 去往正页 / Canonical page
+
+- **[[福地（Fudi）]]**
+
+## Sources 来源
+
+- [[福地（Fudi）]] —— 正页（既有批次建立；本次编译内容已并入）
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md`

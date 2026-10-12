@@ -1,0 +1,27 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_4_CIR_Safety_Assessment_of_Butoxyethanol.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_4_CIR_Safety_Assessment_of_Butoxyethanol.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_4_CIR_Safety_Assessment_of_Butoxyethanol.pdf.md",
+   "name": "v3非传统资源_⑤湿巾lotion_4_CIR_Safety_Assessment_of_Butoxyethanol.pdf.md",
+   "title_hint": "v3非传统资源_⑤湿巾lotion_4_CIR_Safety_Assessment_of_Butoxyethanol.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/04_Safety Assessment of Butoxyethanol (湿巾溶剂).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/04_Safety Assessment of Butoxyethanol (湿巾溶剂).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/04_Safety Assessment of Butoxyethanol (湿巾溶剂).pdf.md",
+   "name": "04_Safety Assessment of Butoxyethanol (湿巾溶剂).pdf.md",
+   "title_hint": "04_Safety Assessment of Butoxyethanol (湿巾溶剂).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md",
+   "name": "20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md",
+   "title_hint": "20_Final Opinion on Phenoxyethanol in cosmetic products.pdf"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+# SEED: 莱赛尔 Lyocell
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#   - Mechanical bonding
+#
+# 全库正文命中 28 页，55 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[兰精集团]]  (5 句)
+   • **2026-09-18（原文发布日）**：据 天丝为什么突然这么难买，行业反馈 A100 交期紧张、部分工厂拿不到货；兰精官网**无相关公告**，2026 年 3 月上海春夏面辅料展上兰精在功能运动区主推的仍是 A100。
+- **2023 年**：推出 LF 的升级版 LF 2.0。
+- **2026-03**：在上海首发新型号天丝莱赛尔-HV100，采用 **Variocut 变切技术**控制纤维长度差异，在布面做出类似棉的不规则纹理，主打棉感，首选应用为牛仔；据中华纺织网报道，该产品目前仍处**品牌打样阶段**。
+   • 原纤化
+- 兰精莱赛尔与国产莱赛尔对比
+- 相关实体：赛得利
+   • **2026-08（记录于 v3 表格）**：在 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) 中，**兰精莱赛尔三叶形（Lenzing Lyocell, trilobal）** 被选为 **C1「最优解」方案**的上层异形纤维（**2D 10% Lyocell + 90% ES**），定位为"表面积与手感最佳"；试产用量口径为 **100 kg/month**（同类异形纤维候选的最低量级）。
+- **同批对照路线**：C2 用福地三叶形 ES、C3 用苏州益盟单组分 PET 纺锭型、C4 用十字截面 PET——**兰精是四条路线中唯一的纤维素纤维（莱赛尔）路线**，其余三条均为聚酯/聚烯烃体系。见 Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)。
+- **项目定位（本批口径）**：兰精路线被赋予"**性能上限**"角色（best surface area + feel），同时被同时标注"**highest cost**"。
+   • **记录日期 2026-09-29（追加）**：本批**未给出兰精莱赛尔的具体报价或交期**；仅记录两条**风险口径**——
+  - 「**Lyocell cost premium**」被列为 MEDIUM 风险，原文缓解目标为"**把溢价压到 ≤15% 并谈量价**"；
+  - KC 面层 DOE 的**整体成本门为「相对 C3（苏州单组分 PET 路线）溢价 ≤20%」**，即兰精路线必须在 20% 相对门槛内证明其手感/表面积优势。
+- 该口径**不是报价**，而是内部成本门的相对关系；引用时须带本限定语。
+
+--- [[天丝为什么突然这么难买]]  (5 句)
+   • 一篇从真实采购困境出发的莱赛尔（Lyocell，商品名「天丝」TENCEL™）供需分析，先答「为什么难买」再答「国产能不能替」——**本库「莱赛尔采购与国产替代决策」的核心来源，含可复用的采购动作清单**。
+   • 作者开发产品需用天丝 A100，工厂反馈拿不到货，经多方查证后确认：兰精官网无任何停产公告，微信上检索「天丝 A100 退市停产淘汰」亦无结果，今年三月上海春夏面辅料展兰精在功能运动区主推的仍是 A100——但难买是真的。文章先厘清天丝的三个系列：G100（基本型，有原纤化）、LF（低原纤化）、A100（交联型，非原纤化），三者差别不在细度或价格档次，而在**原纤化**问题。难买的四个原因：① 兰精全球限量控价、抑制产能（行业评论口径，非官方）；② 型号换代期（LF 2.0 于 2023 年推出，HV100 于 2026 年 3 月上海首发、采用 Variocut 变切技术、仍处品牌打样阶段），新型号未放量、老型号在收；③ 需求端莱赛尔需求激增、纱价创两年新高、供应缺口扩大；④ 换代影响不均匀，不同品类受影响程度不同。产地方面指出兰精在规格铺得很细（A100 有 1.25*38、1.4*38；LF 有 0.9*34 等细旦），国产主流规格为 1.33*38。国产厂商盘点：赛得利（产能 60 万吨，常州/南通/山东落地，山东 60 万吨项目一期已投产，三条品牌线）、唐山三友（唐丝品牌）、
+   • **原纤化是莱赛尔的型号分野轴**：三个系列差别不在细度或档次，而在是否原纤化及如何抑制 —— 支撑页：原纤化
+- **难买的三重叠加**：供给收敛 + 需求上行 + 换代排产收缩 —— 支撑页：兰精集团
+- **国产差距落在规格细度与差别化率**：产能与品牌不缺，缺对位型号 —— 支撑页：赛得利、兰精莱赛尔与国产莱赛尔对比
+- **替代的一半是生意问题**：吊牌认知、客户指定纤维文件、风险转移，通常比技术更难 —— 支撑页：兰精莱赛尔与国产莱赛尔对比
+   • 1. 合同写清型号与规格（不写「天丝」或「莱赛尔」，写 G100/LF/A100 并附规格如 1.25dtex×38mm）
+2. 大货与打样必须同型号同批次（型号切换期即为保命条款）
+3. 把国产验证做在平时（同规格、同组织、同后整理平行打样并水洗比对）
+4. 把依赖 A100 的产品单独列出（区分防起毛/防发白/客户指定三类动因）
+5. 专利与吊牌一起问（出口还是内销、客户是否指定纤维与吊牌、专利风险由谁承担）
+
+--- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]  (4 句)
+   • **Rayon 人造丝**：[p.480] "rayon, which is one of the oldest manufactured fibres, is a regenerated cellulose fibre"（最古老的人造纤维之一，属再生纤维素纤维）；"rayon... is a regenerated cellulose fibre with a wide spectrum of properties"（性能谱系极广）。
+- **Cellulose 纤维素**：[p.480] "the essential raw material for its production, namely cellulose, is abundantly available and a renewable source"（原料充足且可再生）。
+- **Viscose 粘胶**：[p.481] "The viscose process resulted from research in the UK by Cross, Bevan and Beadle during the 1880s"。
+-
+   • 17 引言：人造丝定位与历史（铜氨 → 粘胶主导）
+- 17.2 粘胶工艺：17.2.1 化学原理（凝固/中和/脱溶/脱黄化四机制）；17.2.2 制造工序（浸渍→粉碎→老化→黄化→溶解→过滤→混合→熟成→纺丝）；17.2.3 锌在纺丝浴中的作用；17.2.4 改性剂纺丝；17.2.5 polynosic；17.2.6 超 HWM（甲醛增塑，Ten-X）
+- 17.3 粘胶技术进步：17.3.1 工艺技术（连续化、过滤、自动化）；17.3.2 工艺化学（SINI™ 双浸渍减量）
+- 17.4 粘胶纤维变体：17.4.1 蓬松手感（高强卷曲、充气纤维）；17.4.2 高吸纤维（合金纤维、51 Fibre）；17.4.3 阻燃纤维（Tufban，LOI 30–32%）；17.4.4 含碳纤维（导电/吸附/石墨润滑）
+- 17.5 粘胶替代工艺：17.5.1 纤维素衍生物溶液纺丝（铜氨、N₂O₄-DMF、DMSO-PF、Celca）；17.5.2 直接溶剂纺丝（Ca(SCN)₂、NH₃-NH₄SCN、LiCl-DMAc、MMNO/Lyocell-Tencel）
+   • 路线一 纤维素衍生物纺丝：铜氨（cuprammonium）、N₂O₄-DMF、DMSO-PF、Celca。
+- 路线二 直接溶剂纺丝：Ca(SCN)₂、NH₃-NH₄SCN、LiCl-DMAc、MMNO（NMMO）。
+- **Lyocell/Tencel**：以 NMMO 为溶剂，省去黄化与熟成，纤维强度与湿模量超越传统粘胶，但存在原纤化倾向 [p.512] "propensity for some degree of fibrillation"。
+- 性能对比见 Table 17.12（Camilon，[p.505]）与 Table 17.14（Tencel，[p.512]）。
+   • **纤维素吸湿机理的直接参照**：本章对"皮芯结构 → 湿模量 → 吸湿后强度保持"的论述，是理解 绒毛浆（Fluff Pulp） 纤维在湿态下失去网络强度、以及为何需要 SAP 与双组分热粘合纤维补强的教科书级类比。芯部湿强损失 50%、皮层 20% [p.490] 这一量级差异，直观说明"湿态结构均匀性"决定湿强度。
+- **再生纤维素的高吸/高蓬松变体**（17.4.1 高强卷曲与充气纤维、17.4.2 合金纤维与 51 Fibre）是吸收材料高吸纤维路线的早期形态，与 Super Absorbent Fibre（超吸水纤维 SAF） 的技术谱系相接。
+- **溶剂法路线与纳米纤维素**：NMMO/LiCl-DMAc 等直接溶剂体系，是今天纤维素溶解—再生—纳米结构化（nanocellulose）的工艺前身，可对照 Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图） 与 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP） 阅读，理解"溶解—再生"对孔结构、比表面积与保水值的控制逻辑。
+- *
+
+--- [[Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)]]  (3 句)
+   • **C1（莱赛尔三叶形）**：性能上限路线，适合在**手感与表面积优先**且能承受成本溢价与烘箱扁平化风险时使用；必须先完成量价谈判（目标溢价 ≤15%）。
+- **C2（福地三叶形 ES）**：**供应链最稳**的平衡路线，适合作为对比基准或降级方案。
+- **C3（苏州单组分 PET 纺锭型）**：**成本基准**路线；决定性风险不是性能而是**新供方 4–6 周资格认证**，须前置启动。
+- **C4（十字截面 PET）**：**最可能被手感淘汰**的路线（风险登记第 1、10 项），适合作为工艺压力测试而非首选。
+   • KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) —— 
+- 福地（Fudi） —— 供方属性（established）
+- Suzhou Yimeng (Mono-PET Spinner) —— 供方属性（new，4–6 周认证）
+- 兰精集团 —— 莱赛尔供方属性
+   • 来源页 KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx（2026-08-14）：REL 超薄芯体线采用了**同一双梳理四因素框架**（X1 异形纤维类型 / X2 载量 / X3 皮层 / X4 Lyocell / X5 表面结构），与 C1–C4 配方逻辑一致（C1 = 10% Lenzing Lyocell 锚定，C2 = 50/50 Fudi ES，C3 = 苏州单组分 PET 备选，十字 PET 维持 PENDING）。
+- **差异点**：REL 版克重为 **25 gsm（12.5+12.5）**（Liner 版 50 gsm），KPI 基线改挂 REL 指标（1st STT <0.8 s、载压回渗 <0.03 g、湿拉伸 ≥75 N/m、MD 扩散 ≥30%、SAP 利用率 ≥63%），并新增 CoPET/PET 30% 混合下层选项（-24% 三次回渗 / +17% 芯体利用率 / +16% 价格，压陷损失 ≥8% 则归零）。
+- **验证记录**：REL 版风险登记独立确认了 PE 皮层 ~130 ℃ 圆化风险（沿江 1
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (3 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • **要点**：三叶形的收益是**方向性的**（MD 而非 CD），评估时必须看 MD 分布指标，用各向同性指标衡量会低估其价值。
+- **风险**：**供给与手感是两大约束**——异型纤维样本量决定上机，贴肤侧占比决定手感，二者共同限定配比上限。
+- **待补 **：三叶形截面参数与 MD 铺展增益的定量关系；三叶形莱赛尔在 LSN 水刺中的实测爬坡数据（本批复测仅含水率与爬坡 51.1 mm）。
+   • **追加 **：三叶形（trilobal）与其他异形截面（Y 形、哑铃形）的**同条件对比数据**在本批来源中缺失；三叶形莱赛尔的实测流平镜检结果未在本批给出。
+
+--- [[水刺 Hydroentanglement]]  (3 句)
+   • **成布原理**：高速水射流对纤维网施加冲击，迫使纤维相互缠结，从而在**无粘合剂**条件下获得强度（binder-free）。（源：Mechanical bonding）
+- **水刺章节给出的设计工具**：比能量 K、SE_c，射流冲击力 F ∝ p·d²，以及纤维选择规则与**原位微纤化（in-situ microfibre）路线** —— 可分裂双组分（splittable bicomponents）、Lyocell 原纤化 。（源：Mechanical bonding）
+- **纤维选择规则**：粘胶 / 莱赛尔（低湿模量，low wet modulus）**易缠结、成本低**；PP / PET 则**需做亲水处理（hydrophilic finishes）**。（源：Mechanical bonding）
+- **高冲击力解锁高端路线**：提高射流冲击力可解锁微纤化路线 —— 双组分分裂（BICO split）与 Lyocell 原纤化。（源：Mechanical bonding）
+- **湿法成网（wet-laid）相关机理**：湿法成网先以标准定义（EN 29092 /
+   • K、SE_c 的具体数值、水压 / 喷嘴孔径 / 喷孔几何等定量口径未见给出 。
+- 4–12 gsm 之外，底层 spunmelt / SMS 的定量上限与顶层克重未见 。
+- Lyocell 原纤化条件与 BICO 分裂纤维的具体规格未见 。
+- 上述数据在来源中的**页码待核** 。
+   • Mechanical bonding（水刺的成布原理、K / SE_c / F ∝ p·d² 与纤维选择规则）
+- Wet-laid web formation（湿法成网定义、沉积机制与含 Lyocell 的纤维库）
+- Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）（水刺固定 SAP 的分工与双峰纤维设计）
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)（水刺粘合载体的权利要求）
+- Absorbent Technology、Nonwovens in Absorbent Materials、Handbook of Nonwovens、Fluid Absorption in High Bulk Nonwovens（概念并列登记）
+- 相关工艺章节：Dry-laid web formation、Polymer-laid web formation、Thermal bonding
+
+--- [[Mechanical bonding]]  (3 句)
+   • It is organised into three technologies: stitch-bonding (Maliwatt/Malimo/Malipol), needlepunching, and hydroentanglement (spunlacing).（分三技术：缝编、针刺、水刺。）
+- The first two target durable/industrial goods; hydroentanglement is the growth engine most relevant to disposables.（前两者主攻耐用/工业；水刺是面向一次性用品的增长引擎。）
+- The hydroentanglement section supplies the equations (specific energy K, SE_c, jet impact force F ∝ p·d²), fibre-selection rules and in-situ microfibre routes (splittable bicomponents, Lyocell fibrill
+   • Hydroentanglement is high-velocity water-jet mechanical bonding — binder-free, lint-free, soft.（水刺为高速水射流机械加固，无粘合剂、不掉屑、柔软。）
+- K and SE_c are engineerable levers; lowering SE_c at fixed strength cuts water/power cost.（K 与 SE_c 可工程化调控，降 SE_c 即降本。）
+- Viscose/Lyocell (low wet modulus) entangle cheaply; PP/PET need hydrophilic finishes.（粘胶/莱赛尔易缠结，PP/PET 需亲水处理。）
+- High impact force unlocks premium microfibre routes (BICO split, Lyocell fibrillation).（高冲击力解锁微纤化高端路线。）
+   • 父书：Handbook of Nonwovens
+- 概念：水刺 Hydroentanglement、针刺 Needlepunching、莱赛尔 Lyocell、双组分纤维 Bicomponent、Topsheet（面层）
+- 关联章节：Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation
+
+--- [[原纤化]]  (2 句)
+   • 1. **成因在莱赛尔自身结构**：这种纤维表面没有皮层，结晶度和取向度又高，遇水加摩擦后表皮一层层剥开，长出细小原纤。
+2. **湿态最明显**：干着看、上手摸都看不出来，一定要洗过才知道——这决定了验证方法必须是水洗后的布面比对。
+3. **两条解决路径，性质完全不同**：
+   - **纤维本体解决（根治）**：在纤维内部先做交联把结构锁住（兰精 A100 即交联型）。
+   - **工艺端解决（管理）**：纺纱织造时控制张力与摩擦减少磨开机会；染整端用酶处理、控制开纤与砂洗程度，把已起的毛压回去或控制在可接受范围。
+4. **管理型方案的代价**：成本低、手脚灵活，但**批次之间容易波动**——换个染厂、换口缸，结果可能就是两样东西。
+   • 相关实体：兰精集团（交联型 A100 的供给方）、赛得利（国产莱赛尔主要供给方之一）
+- 对比：兰精莱赛尔与国产莱赛尔对比
+
+--- [[粘胶纤维 Viscose Fiber]]  (2 句)
+   • **Alternative routes.** Cellulose-derivative solution spinning and direct solvent spinning (up to MMNO/Lyocell-Tencel) are catalogued as the successor routes（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。These direct-solvent systems are the process ancestor of today's cellulose dissolution–regeneration–nanostructuring work（源：Manufactured Fibre Technology Ch17 Rayon Fibres）— see Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）。
+   • No **quantitative wet-strength value** for viscose in the vault beyond the qualitative "collapses", and no comparison table against cotton or lyocell 。
+- The two **Adhesive Handbook citations contain no viscose content**（only a  entry）— why viscose was linked there is not stated 。
+- No **cost, denier/spec or supply** data for viscose appears in the digests 。
+
+--- [[赛得利]]  (2 句)
+   • **2026-09-18（原文发布日）**：据 天丝为什么突然这么难买，赛得利是国产莱赛尔产能最大的一家，量上已具规模。
+- **技术方向**：行业媒体指出莱赛尔最大的应用瓶颈在**染整环节**，赛得利在这一块做了**底层技术突破**。原文评价「这个方向是对的，因为莱赛尔真正难的地方一直不在纺丝，在染整」。
+   • 原纤化
+- 兰精莱赛尔与国产莱赛尔对比
+- 相关实体：兰精集团
+

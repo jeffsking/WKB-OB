@@ -1,0 +1,76 @@
+# SEED: 棉纤维 Cotton
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#
+# 全库正文命中 16 页，20 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Fibers and Fibrous Materials]]  (3 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • **Buy the surface, not the resin.** Because fibre walls *are* the pore walls, surface energy and roughness dominate absorption; fibre chemistry matters mostly through wettability.
+- **Density and geometry substitute for hydrophilicity.** Polyolefin and PET absorb well through fine denier and non-circular cross-section — the pore network, not the polymer, is the absorber.
+- **Wet strength inverts with crystallinity.** Cotton stiffens when wet; viscose collapses. For wet-wipes and core layers, wet
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[粘胶纤维 Viscose Fiber]]  (2 句)
+   • **Wet collapse is the design problem.** Viscose *collapses* when wet (low wet modulus), the inverse of cotton, which stiffens（源：Fibers and Fibrous Materials）— so wet strength, not dry strength, is the constraint for any core/wipe viscose.
+- **Skin-core explains the fluff-pulp analogy.** The core-loses-50% / skin-loses-20% wet-strength split is the textbook analogy for why fluff pulp loses network strength when wet and why SAP plus bicomponent thermal-bond fibres are added for reinforcement（源：Man
+   • No **quantitative wet-strength value** for viscose in the vault beyond the qualitative "collapses", and no comparison table against cotton or lyocell 。
+- The two **Adhesive Handbook citations contain no viscose content**（only a  entry）— why viscose was linked there is not stated 。
+- No **cost, denier/spec or supply** data for viscose appears in the digests 。
+
+--- [[道恩集团（Dawn Group）]]  (2 句)
+   • **并列双组分非织造布**：自主开发**中国首条并列双组分非织造布生产线**，填补国内该品类生产空白；覆盖设备制造、原料定制、功能母粒改性、产品应用的**一站式布局**。
+- **工艺机理（供应商口径）**：专用纺丝组件 + 自研冷却/牵伸/铺网设备 + 自研柔软改性材料方案 → 纤维形成更多**螺旋卷曲（helical crimp）**，织物更蓬松、柔软、均匀。
+- **产品**：正压牵伸 BICO 纺粘线产出 **Aqua cotton（液态绵）**新品类；宣称较常规负压/正压牵伸纺粘高端柔软产品更蓬松。
+- **关键设备来源**（自主集成）：熔喷模头 **日本 Kasen**；热轧机 **Andritz**；卷绕/分切 **Acelli**；在线检测 **德国 ISRA**；分拣机器人 **KUKA**；真空喂料（Siemens 元件 / Busch 真空 / Aizhen 空气加热）。
+- **知识产权**：国家授权**发明专利 11 项**、**实用新型 17 项**（含热轧机辊筒、亲水双组份无纺布制备、双组份热塑性聚氨酯弹性无纺布、熔喷超细纤维机构等）。
+   • 并列复合自卷曲纤维（螺旋卷曲是并列双组分的成形机理，与本页 Aqua cotton 直接对应）
+- 热风粘合无纺布（卫材非织造布的粘合工艺族）
+- PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）（并列/双组分路线的横向对比）
+
+--- [[Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）]]  (1 句)
+   • 1. **矿物粉功能 Spreadsheet** —— 先把火山石、电气石、玉石粉、氧化锌、石墨烯等按"对应宣称功能"逐一梳理成清单，避免逐项目重复调研。
+2. **纳米研磨供应商** —— 控制粒径（这是可行性的核心变量；粒径控制能力决定能否替代电气石）。
+3. **母粒制备** —— 苏州某美资母粒工厂（与 K-C 合作 30–40 年、保密性极高）承担共聚改性/母粒制备；另拟引入 **Americhem** 作为母粒环节备选。
+4. **成品纤维** —— 母粒 → 热风纤维或仿棉纤维（可纺性验证）。
+5. **排他与法务** —— 电气石路线为 **KC / 闽瑞（Minrui）/ 日方伙伴** 三方架构，目标品类排他；**排他期以"技术可用性确认"触发，而非签约触发**；建议以 **APAC 实体**作为签约主体。
+
+--- [[Topsheet（面层）]]  (1 句)
+   • 1. **功能定位**：液体通过的**第一道界面**，决定穿透速度（吸收时间）与表面残留（液体残留量）→ 直接决定干爽感；同时承担手感与外观。
+2. **四类材质**：天然纤维（棉/粘胶类）、化学纤维（PP/PET 纺粘、热风）、混合纤维、**打孔膜**（PE 打孔膜，常用于卫生巾干爽面层）。打孔膜在**抗张力**与**液体残留量**上标准与其他三类不同（更宽松的强力、更严的残留）。
+3. **两条面层专属红线**（本库其他卫材标准未见）：
+   - **不应使用回收原材料**（GB/T 30133 §5.1）
+   - **不应使用含 PFOS（全氟辛烷磺酰基化合物）和 PFOA（全氟辛酸）的表面活性剂**（同条款；另禁石棉纤维）
+4. **按用途分档**：pH 与甲醛按**是否婴儿用**分档 —— 婴儿纸尿裤用面层 pH 4.0~7.5、甲醛 ≤6 mg/kg；其余用途 pH 4.0~8.0、甲醛 ≤75 mg/kg。
+
+--- [[CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院）]]  (1 句)
+   • 1. **Step 1 – base SAP（基础树脂）**：AA neutralisation 50–90%; functional monomer（PVA / AN / AM / AMPS 类）1–10 wt% for salt tolerance; crosslinker 0.01–0.1 wt%; persulfate initiator 0.05–0.5 wt%; gel at 30–50 °C, then cut–dry–mill–sieve.
+2. **Step 2 – aminated CNC grafting（氨基化纳米晶接枝）**：EDC (0.02–0.1%) then NHS (0.02–0.1%) activation, spray aminated-CNC solution, 30 min RT reaction; CNC dosage only **0.01–0.1 wt%** of granules. CNC made by silane coupling agents（γ-氨丙基三乙氧基硅烷等，10–40 wt% on CNC）from wood/re
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (1 句)
+   • **Function-first definition.** The core "exerts the force necessary to pull the liquid in, distribute it within the structure and hold it without releasing under normal external pressure" — pull, distribute, hold. Everything else in the chapter tests one of those three.
+- **Two metrics, one solvable.** C (cc/g) is predicted from T/W alone; Q (cc/g·s) is not. "The value of capacity can be monitored and predicted effectively by simply measuring thickness per unit mass and using eq. 1."
+- **Rate mo
+
+--- [[GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）]]  (1 句)
+   • 第 5 章要求：5.1 原材料四条红线（禁用有毒有害原料、**禁用回收原料**、**禁用含 PFOS/PFOA 的表面活性剂**、禁用石棉纤维）；5.2 表1 理化指标（四类材质 × 分用途的 pH/甲醛分档）；5.3 卫生指标执行 **GB 15979 中对应成品**的规定；5.4 尺寸偏差（卷幅宽 ≤200 mm → ±3 mm；>200 mm → ±5 mm）；5.5 外观与卷装要求（含打孔膜盲孔数与接头数）。第 6 章试验方法覆盖定量偏差、抗张力（纵向）、吸收时间与液体残留量、pH、可迁移性荧光物质、甲醛、烷基酚聚氧乙烯醚（APEO）、可分解致癌芳香胺染料、AOX、邻苯二甲酸酯、交货水分与卫生指标。
+
+--- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]  (1 句)
+   • 1. **SAP 分配比例未定**：目前口径是 liner 侧 : poly 侧 **50/50**，但实际需求可能不同（例如 liner 侧 3 g、poly 侧另几克）→ 需等 FEI 团队的最终选型输入，再决定成型鼓的不同 OD 设计。
+2. **高速下的 COV 未知**：天津低速 pilot 线已验证机理可行，但**高速（800 / 900 ppm）下的 COV 未知**。
+3. **高速下的 free SAP 未知**：不知有多少 SAP 未被真空 hold 住；若较多则回到常规 BC 工艺的问题。
+4. **速度目标待定**：会中出现多个口径（100 / 300 / 400 / 800 / 900 ppm），低速 demo 线约 **400 ppm**，最终目标待定 [待验证]。
+5. **liner 侧的真空方案更复杂**：poly 侧是"成型—保持—释放"三段；liner 侧还需要把图案从 PSN 转移并确保**不发生 SAP 变形**，方案更复杂。
+6. **CD 分区 vs MD 分区**：CD 分区相对容易（分段计量即可）；**MD 分区更难**（需设计不同的真
+
+--- [[Intelligent Textiles and Sports Clothing]]  (1 句)
+   • **First generation**: synthesised fibres (polyamide) — historic cost multiple over cotton and wool, offset by tunable performance.
+- **Second generation**: modified conventional synthetic fibres with greatly increased performance — aramid, carbon, glass, ceramic. Tradenames named: Nomex, Kevlar, Twaron, Technora (aromatic polyamides); Spectra and Dyneema (high-performance polyamides/polyethylene); Vectran (aromatic polyester); Teflon (PTFE), Dacron and Mylar (polyester).
+- **Third generation**: 
+

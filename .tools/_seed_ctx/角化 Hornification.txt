@@ -1,0 +1,52 @@
+# SEED: 角化 Hornification
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 6 页，7 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Industrial Drying]]  (2 句)
+   • **EN**: The de facto standard reference for industrial drying. 53 chapters covering fundamentals, dryer types, materials, systems, and economics. For hygiene products, the fiber-pulp-polymer axis (Ch33-36, Ch40-41) is directly relevant to diaper/wipe/absorbent core manufacturing. Six core red lines: mechanical dewatering first, bound/free water dichotomy, constant/falling-rate drying skeleton, drying changes material structure (hornification/case-hardening), pilot-scale mandatory, energy and cos
+   • Handbook of Industrial Drying
+- Handbook of Industrial Drying
+- 纤维干燥 Fiber Drying
+- 纸浆干燥 Pulp Drying
+- SAP 干燥 SAP Drying
+- 干燥角质化 Hornification
+- 湿迁移 Wet Migration
+- 机械脱水 Mechanical Dewatering
+- Nonwoven 非织造布
+- SAP（高吸水树脂）
+- Handbook of Nonwovens
+- Handbook of Adhesive Technology Full Report
+- Hygiene Absorption Model
+
+--- [[WRV 水保留值]]  (1 句)
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[交联 CMC]]  (1 句)
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[干燥塌孔（Horrification）]]  (1 句)
+   • 1. **驱动力是毛细管压力**：干燥开裂/塌孔主因 P = 2σcosθ/r_p——孔径 r_p 越小，毛细压力越大；BNC 是纳米级孔（比表面巨大），因此**比常规纤维更易塌**。
+2. **不可逆的根源是氢键再交联**：纤维素表面羟基在失水后直接形成纤维间氢键，重新润湿无法拆开——因此「孔塌了，性能就回不来了」。
+3. **表现是「表面疏水、内部亲水」的假象**：BNC 发泡体表面孔隙差、水渗透慢（需长时间才能透过），但一旦透入内部亲水性其实很好——问题出在**表面孔隙结构**，不是表面化学。
+4. **后果一（路线层面）**：必须与**开放结构（绒毛浆骨架）复合**使用，靠骨架提供表面毛细通道并缓解塌孔。
+5. **后果二（材料层面）**：直接干燥（热风/烘箱）会同时造成**功能受损**——OD-BC 24 h 沉降 95%；70 ℃ 干燥后每 g 干料仅吸水 18.12 g，而未干 BC 为 75.11 g。
+6. **后果三（工艺层面）**：避免塌孔的三条技术路线=保孔（冷冻干燥）· 零毛细应力（溶剂置换 + 超临界 CO₂）· 抑制不可逆氢键（封端助剂，如海藻酸钠封端、P
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Industrial Drying Ch35 Drying of Pulp and Paper]]  (1 句)
+   • **This is THE most actionable sentence in the Handbook for fluff-pulp qualification.** Over-drying market pulp in the final stage welds fibres via thermal cross-linking (hornification), raising defibration energy and hurting pad integrity. Suppliers control pulp temperature °C precisely to avoid this.
+

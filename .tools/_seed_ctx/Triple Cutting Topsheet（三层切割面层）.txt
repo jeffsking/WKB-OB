@@ -1,0 +1,145 @@
+# SEED: Triple Cutting Topsheet（三层切割面层）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 182 页，295 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (6 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • 结构载体：皮芯复合纤维、ATB双梳理面层（Dual-Card Topsheet）
+- 工艺载体：热风粘合无纺布、SMS复合结构
+- 导流家族：ADL（导流层）、毛细梯度设计、分区密度设计
+- 纤维成纤性：成纤性判据、原纤化
+- 对比：COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+   • ✅ **验证记录（2026-09-29）**：分层 10%/0% 与 0%/10% 的双 code 设计为已决方案；打样米数、温度点、旦数口径均来自 ASR 转写，标 ，引用前须与实验记录核对。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Ultrasonic Bonding of PET-Containing Topsheet。
+   • ✅ **验证记录（2026-09-29）**：+20–30% 为**目标值而非实测值**；50/50 为报价前的建议配比；「粘胶亲水、PET 疏水」为机理判断，未见对比测试数据 [待验证]。参见 ADL（导流层）、ATB双梳理面层（Dual-Card Topsheet）、COCO芯体平台。
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (5 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • **Two-tier acceptance 验收双档制**：PRIMARY = **finished-diaper enterprise standard**（rewet <5.9 g @0.5 kPa after 2 insults、core stain uniformity ≥A、SAP utilization ≥63 %、wet tensile ≥75 N/m）；the **material level is a screening gate only** — fuzz ≤2 belongs to the material-level tier（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- **Test architecture 试验架构**：a 3-stage randomised DOE（seed 20260814）totalling 33 runs — Stage 1 configuration screen（4 configs × 3 temps × medium load = 12,
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • **Definition, specimen, rating method, instrument and tolerance of the topsheet fuzz & pilling test** —— （must be checked against TTM-00609 面层材料起毛起球测试.doc）。
+- The unit of "fuzz"（whether it links to TS7 / a visual rating）is not given in the digest 。
+- Quantitative relation between fuzz & pilling and TS7 softness / topsheet free-fibre shedding 。
+- Whether this gate has entered the KC global STM/TTM method system, or remains a project-level screening convention 。
+
+--- [[延江（Yanjan）]]  (5 句)
+   • ATB双梳理面层（Dual-Card Topsheet）（延江供 Liner 网材与 2D/4D ES）
+- 三叶形截面纤维（Trilobal Fibre）（三叶形部分由福地供，延江供其余体系）
+- 皮芯复合纤维（PE/PET Bico）
+- COCO芯体平台
+   • **2026-08（记录于 v3 表格）**：在 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) 的「KEY FACTS FROM KB」中，延江（Yanjiang）**Delta-T 试验**被列为已确认事实（）：**130 / 128 / 126 ℃ 三档批次，测拉伸并用显微镜观察流动**——该批数据是本批把 **126/128/130 ℃** 定为面层 DOE 三个温度水平的直接依据。
+- **项目关联（本批口径）**：该温度窗口用于评估 **PE 皮层在 ~130 ℃ 附近的扁平化**（"strength vs flattening"平衡），并把 **不提高烘箱温度** 设为固定因子（见上一节的构造口径 A/B/C）。详见 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)、热风粘合无纺布。
+   • ✅ **验证记录（2026-09-29）**：以上为会中讨论；"延江核算成本不太行"为**转述判断**，非延江自述 [待验证]。参见 ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、COCO芯体平台。
+   • ✅ **验证记录（2026-09-29）**："从延江大量采购较贵面层"为会中口径，**无采购数据佐证**；巴西 2028 为预计时间点 [待验证]。参见 三叶形截面纤维（Trilobal Fibre）、Ultrasonic Bonding of PET-Containing Topsheet。
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (5 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • **Single-hydrophilic topsheet (Table 4)**: first absorption ≈ 0.86–1.24 s, fifth absorption 7.39–8.62 s; rewet 3.89–6.17 g. Classic single-burst behaviour with rapid decay 单次强亲水、衰减快.
+- **Multi-hydrophilic topsheet (Table 5)**: first absorption 1.39–1.86 s, fifth 1.96–2.41 s; rewet 0.84–1.32 g.
+- **Commercial multi-hydrophilic finish trial (Tables 6 & 7)** — 25 g/m² air-through fabric from whitened hydrophilic ES fibre: embossed topsheet T1–T5 = 1.25 / 1.44 / 1.56 / 1.71 / 1.82 s with rewet 1.06 
+   • **Rating 评级: HIGH 高 — directly applicable to the REL / topsheet / rewet programme.**
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]  (5 句)
+   • Full-English R&D plan workbook (Deliverable 1/2 foundation sheet, prepared 2026-08-14) for a **diffusion-enhanced topsheet（扩散增强面层：下渗快 + 面内扩散）** for the REL ultra-thin core diaper. It is the REL-track sibling of the Liner C1–C4 DOE plan — same dual-card architecture, different product target and KPI baseline. All assumptions are explicitly traced to meeting minutes 2026-08-13 and KB sources; [TBD] items require confirmation.（REL 超薄芯体配套的扩散增强面层六页规划：方案、DOE 矩阵、表征指标、排程、风险与预算。）
+   • Scope defines the layer as a functional topsheet-to-core interface layer responsible for fast acquisition（下渗）+ in-plane lateral distribution（面内扩散）; whether it replaces the current ADL or integrates topsheet+ADL is [TBD]. Architecture: dual-card system — skin-side card = 2D ES + optional 10% Lenzing Lyocell (trilobal) for softness/hydrophilicity; core-side card = profiled fiber + ES (50/50 Fudi ES anchor). Backup formula uses 3D Fudi trilobal ES top + 4D base ES bottom; cross-section (十字) PET fib
+   • **同一双梳理架构服务两条产品线（Liner C1–C4 与 REL 25 gsm），KPI 基线不同** —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)、ATB双梳理面层（Dual-Card Topsheet）
+- **温度窗口是异形纤维方案的第一工艺风险** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **回渗门槛双轨制（材料级 0.03 g vs 成品级 5.9 g）须在 Kickoff 锁定一审门** —— 支撑页：Dryness Measure System（干爽度量三分）
+   • 概念 Concepts：ATB双梳理面层（Dual-Card Topsheet）、CoPET（低熔点共聚酯）、Dryness Measure System（干爽度量三分）
+- 实体 Entities：福地（Fudi）、兰精集团、诺尔（Nuoer）
+- 对比 Comparisons：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[福地（Fudi）]]  (4 句)
+   • **2026-09-11（试产准备会）**：面层配方中所有**三叶形（Trilobal）3D Bico PE/PET** 均标注来自福地——上层 10%、下层 50%（其余 2D/4D Bico 由延江提供）。详见 Coco V6 试产原料清单（Raw material list v3.0）。
+- **2026-09-18（中文汇报稿）**：
+  - **OI-25 Liner Nonwoven** 的供应分工记为"Yanjan（基材/2D/4D ES）、**Fudi（三叶）**"；
+  - **OI-02 异形纤维**（Excel 新编号）的供应方记为"江南高纤、**Fudi**、Emon、Lenzing"，产品方向为 Y 形/哑铃形/**三叶形**（bico PE/PET 及 mono PET）；
+  - 出行计划中记有"泉州出差（Minrui kick off 巴西项目，**顺访福地、起风**）"，即福地位于**泉州**一带。详见 OI项目清单与优先级。
+- **供给约束（关键）**：试产方案 **Code 2-B 为"上层去三叶形"的降级版，上机与否取决于异型纤维样本量**——
+   • 三叶形截面纤维（Trilobal Fibre）（其主打产品与功能机理）
+- ATB双梳理面层（Dual-Card Topsheet）（三叶形在面层中的分层配比）
+- 皮芯复合纤维（PE/PET 3D Bico 即三叶形皮芯）
+- COCO芯体平台
+- 对比：COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+   • **2026-08（记录于 v3 表格）**：在 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) 中，福地三叶形纤维出现在**全部四个配置**：
+  - **C2「备选」方案**：上层 **3D 10% Fudi trilobal ES** + 90% 2D ES；下层 **50% 3D Fudi trilobal + 50% 4D own ES**——C2 被定位为"成本/性能平衡"路线；
+  - **C3 / C4 方案的下层**同样为 **50% 3D Fudi + 50% 4D own ES**（仅上层异形纤维不同）；
+  - 即在本批面层的**下层构造中，福地三叶形是共同组分**。
+- **供方分级（本批口径）**：福地被标注为 **established（成熟供方）**，与其对照的新供方 Suzhou Yimeng (Mono-PET Spinner) 被列为"资格认证 4–6 周、HIGH 风险"；风险登记中"福地或苏州延误"的缓解措施即**双源采购 + 排期缓冲 2 周**。
+- **用量口径**
+   • Coco V6 试产原料清单（Raw material list v3.0） —— 
+- COCO V6 试产原料准备会（英文版，2026-09-11） —— 
+- COCO V6 试产原料准备会（v2 Final） —— 
+- COCO V6 试产原料准备会（Summary 版） —— 
+- IPC BCC OI Project List 17.9.2026（供应商明细版） —— （2026-09-29 追加）
+- IPC BCC OI Project List 2026-09-18（重构版·19 项） —— （2026-09-29 追加）
+- IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17） —— （2026-09-29 追加）
+- OI项目清单与优先级 —— 
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) ——
+
+--- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]  (4 句)
+   • 1. **唯一一手来源**：（2026-06-21），原文记录格菲尼亚/新维盛提到两个感兴趣方向——"**Triple cutting（三层切割）材料开发：研究配方搭配，未来可能不需导流层、中间层，直接用其材料加芯体即可**"及 **3D 压花技术**。
+2. **该记录性质**：**口头术语记录**，**无技术细节、参数或书面材料支撑**。
+3. **真实性核查结论（互联网检索，2026-08-21）**：
+   - 新维盛官方对外披露的**全部技术清单**（集团官网、中产协、行业媒体报道、宣传片）中**均未出现"三层切割"**，亦无"切割成三条窄幅再复合"的表述；
+   - 功能最接近的官方说法是**热风复合无尘纸 / SAP 一体芯做导流层**——属"**复合**"路线而非"**切割**"路线；
+   - **专利层面无对应记录**；无产品页、无商业化客户证据。
+4. **当前判断（原文）**：不排除为**实验室/客户定制能力**（技术上可行，集团有 12 条深加工线）；**更可能是术语转述偏差**——供应商销售将"热风复合 / 一体芯"方案口头包装为"三层切割"。
+   • 1. 「**雷尔与维盛是独立并列的两家公司**」——已被股权信息**证伪**：雷尔是 2021-12 被新维盛集团收购的松溪老厂，属同一集团（原始知识库清单为**信息滞后**）。
+2. 「三层切割的分层功能架构（上层亲肤 / 中层导流 / 下层渗透）、切割-复合工艺路线、Janus 三层不对称毛细驱动原理」——属**早期拜访计划中的推测补写**，无任何供应商书面材料、专利或公开文献佐证，且互联网核查无此产品线，**全部剔除**；仅保留"供应商口头提及 Triple cutting、意图省去导流层/中间层"这一原始事实。
+3. 「三层切割与 3D 压花为并行而非替代关系」——基于上述推测的分析，**随推测一并剔除**。
+4. 「Huayi 双功能导水面层、DID 立体面层为业界对标」——该对标基于**三层切割被假定为真实产品线**，前提不成立，**剔除**（如后续供应商证实三层切割存在，可再行对标）。
+   • **One group, not two companies** —— 纠正是本次考察的第一产出 —— 支撑页：新维盛集团（Xinweisheng Group）
+- **The supply chain is vertically clustered (闽瑞 ES fibre → 新维盛 nonwoven)** —— 41% 客户占比与 150–180 天账期是同一件事的两面 —— 支撑页：福建闽瑞新合纤
+- **Inline 3D embossing is a 15–22% grammage lever** —— 45 → 38/35 g/m² —— 支撑页：热风粘合无纺布
+- **A verbal term is not a product line** —— "三层切割"被降级为未验证概念 —— 支撑页：Triple Cutting Topsheet（三层切割面层）
+- **Deleting claims is a knowledge-management act** —— 本来源的 4 条剔除记录本身应被保留 —— 支撑页：Triple Cutting Topsheet（三层切
+   • Entities 实体：新维盛集团（Xinweisheng Group）、福建闽瑞新合纤、格菲林（Gefilin）、延江（Yanjan）、Huayi Group（待核中文名）
+- Concepts 概念：热风粘合无纺布、Triple Cutting Topsheet（三层切割面层）、皮芯复合纤维、ADL（导流层）、Microencapsulation、变色油墨
+- Same-block sources 同批来源：EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）、Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）
+
+--- [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]]  (4 句)
+   • A fuller English panorama report (market overview → new-product matrix → structure → materials → frontier R&D → roadmap). Richest single source for the China-market, probiotic-topsheet, fluff-free-core, and biodegradable-materials concept pages.
+   • The report sizes the **China baby-diaper market at ~RMB 70B (2025E), CAGR 8-10%**, with three trends: trading-up (skincare), green consumption (degradable/bio-based/natural), and domestic substitution (Babycare, BeBeBus, Qiaoshi). It inventories **20+ new launches (2024-25)** across **six tech directions**: probiotic skincare, ultrafine-fiber topsheet (0.003mm / 0.6-0.8D), seamless waistband, weak-acid/skincare, smart wetness indicator, and bionic acquisition structures. On materials, it documen
+   • **中国市场规模约700亿、CAGR 8-10%，国产替代加速** —— 支撑页：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）
+- **益生菌/弱酸护肤面层是高端价格带核心驱动** —— 支撑页：Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+- **无木浆第四代芯体量产，薄+强+绿成高端标配** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **PLA/PPC 可降解 2026 临界点，从小众走向主流** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • 概念：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 对比：China vs Korea Diaper Market（中韩纸尿裤市场对比）
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (4 句)
+   • The **test-planning page for the 4-configuration diffusion-enhanced topsheet DOE** — it defines the candidate fibre systems, the temperature/loading process window, the acceptance metrics and the 3-stage, 33-run test architecture for the REL ultra-thin core topsheet (50 gsm dual-card ATB). It is the batch's answer to "**which fibre goes on top, at what oven temperature, and how do we know it worked**".
+本页是本批**「扩散增强面层 4 配置 DOE」的试验设计页**：锁定候选纤维体系、温度/载荷工艺窗口、验收指标与「3 阶段 33 次试验」架构，服务于 REL 超薄芯体面层（50 gsm
+   • The workbook (v3, dated 2026-08-14, 7 sheets: Notes / Overview / DOE_Matrix / Characterization / Schedule / Risk / Gantt) evaluates four topsheet configurations on a **50 gsm dual-card air-through-bonded (ATB) web** built as 25 gsm upper + 25 gsm lower, with durable hydrophilic finish and **no increase in oven temperature**.
+本表格（v3，2026-08-14，含 7 个工作表）在 **50 gsm 双梳理穿透热风粘合（ATB）网**（上 25 gsm + 下 25 gsm、耐久亲水整理、**不提高烘箱温度**）上评估 4 种配置。
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+   • Concepts 概念：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、Shaped PET Add-On Window、MD Liquid Distribution、Pentagram PET (Star Cross-Section Fibre)、热风粘合无纺布、亲水整理耐久性
+- Entities 实体：福地（Fudi）、Suzhou Yimeng (Mono-PET Spinner)、延江（Yanjan）、兰精集团
+- Comparisons 对比：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • Filament drawing uses **draw ratios of 3–6** (p.302). The staple line is described step-wise (Fig. 12.16, p.306): spinning and take-up → conditioning → drawing → **heat-setting 热定形** → crimping → drying → cutting, with a troubleshooting section. Typical process parameters and properties are tabled in Table 12.4 (p.309).
+   • PET matters to hygiene mainly as **topsheet / acquisition-layer spunbond** and as the **core of some bicomponent staple**, not as an absorbent.
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres — the mechanics behind PET draw ratio 3–6
+- Antimony-Free PET Fibre（无锑 PET 纤维） — PET catalyst compliance, background to the Sb activity series
+- CoPET（低熔点共聚酯） — low-melting copolyester, melting-point depression route
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — PET spunbond topsheet fibre selection
+

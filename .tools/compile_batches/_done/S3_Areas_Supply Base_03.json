@@ -1,0 +1,46 @@
+{
+  "batch": "S3_Areas_Supply Base_03",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": 0,
+  "concept_pages": 2,
+  "entity_pages": 4,
+  "comparison_pages": 1,
+  "updated_existing": 2,
+  "manual_review": 6,
+  "notes": "本批 10 份的 source_path 在 WIKI/sources/ 均已存在对应页 → 按规则**全部跳过 source 页重建**，未覆盖任何已有页面；本轮只补派生页。新建（6 页）：concept 薄膜压力分布传感（Pressure-Sensing Film）、concept 温变湿变微胶囊（Thermochromic/Hydrochromic Microcapsules）；entity 道恩集团（Dawn Group）、Yundi（佛山裕迪）、PPS（触感压力传感）、SDHY Group（非织造布）；comparison 温变 vs 湿变微胶囊技术参数对比（含「成本」「供应链风险」两列）。追加（2 页，不改既有结论）：entity LG Chem（LG 化学）追加「Supply Base 供应基地批」段（SAPPYER 品牌、全球首个 SAP 的 ISCC+ 认证与 BCB 商业化，并区分「认证归属」与「ADM 生物基丙烯酸单体路线」两个口径）；concept 变色油墨追加「Supply Base 供应基地批」段（两份供应商联系表为同源重复件、敏感信息边界、技术增量在同批的温变湿变对比表）。命名收敛：源页链向 LG Chem（LG化学）缺空格，已收敛至规范页 LG Chem（LG 化学），未建重复页。文件名约定：title 保留「/」，文件名以「_」替代（与库内既有页一致，如 抗菌整理定量测试（AATCC TM100 _ AATCC 100））。manual_review 6 处：道恩（并列双组分产能、集团自产量）、Yundi（一/二期产能、2022–2025 销售额与产量）、SDHY（分国家月产能与 2022–2028 扩产表）、变色油墨联系表 ×2（个人联系方式与可能的未公开合作方，未页面化）、温变湿变成本区间（行业对标估算，仅记区间）。未处理：对比表中仅单次出现的供应商（LCR Hallcrest、Marabu、Microcapsule Pigment、千色变、景艺姿、侨盛、SUNREE、广州乐迪）未达派生门槛，未建 entity 页；CTI、Matsui 已有页。未改 index.md/log.md。",
+  "detail": {
+    "items_total": 10,
+    "source_pages_new_this_run": 0,
+    "source_pages_skipped_existing": 10,
+    "concept_pages_new": [
+      "WIKI/concepts/薄膜压力分布传感（Pressure-Sensing Film）.md",
+      "WIKI/concepts/温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）.md"
+    ],
+    "entity_pages_new": [
+      "WIKI/entities/道恩集团（Dawn Group）.md",
+      "WIKI/entities/Yundi（佛山裕迪）.md",
+      "WIKI/entities/PPS（触感压力传感）.md",
+      "WIKI/entities/SDHY Group（非织造布）.md"
+    ],
+    "comparison_pages_new": [
+      "WIKI/comparisons/温变 vs 湿变微胶囊技术参数对比.md"
+    ],
+    "updated_existing_pages": [
+      "WIKI/entities/LG Chem（LG 化学）.md（追加 Supply Base 段）",
+      "WIKI/concepts/变色油墨.md（追加 Supply Base 段）"
+    ],
+    "manual_review_locations": [
+      "WIKI/entities/道恩集团（Dawn Group）.md — 并列双组分产能与集团自产量：仅记万吨级",
+      "WIKI/entities/Yundi（佛山裕迪）.md — 一/二期产能、销售额与产量：仅记万吨级与外销占比区间",
+      "WIKI/entities/SDHY Group（非织造布）.md — 分国家月产能与扩产表：仅记千吨级/月、万吨级/年",
+      "WIKI/concepts/变色油墨.md — 变色油墨供应商综合技术联系表（1）个人联系方式，未页面化",
+      "WIKI/concepts/变色油墨.md — 变色油墨供应商综合技术联系表 个人联系方式，未页面化",
+      "WIKI/comparisons/温变 vs 湿变微胶囊技术参数对比.md — 成本区间为行业对标估算，非报价"
+    ],
+    "naming_convergence": [
+      "LG Chem（LG化学） → LG Chem（LG 化学）（未新建重复页）"
+    ],
+    "housekeeping": "新建 concept 页时因标题含「/」被写入为目录层级，已就地修正为下划线文件名并清理空目录（vault 既有约定：title 保留 /，文件名用 _）"
+  }
+}

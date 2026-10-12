@@ -1,0 +1,82 @@
+[
+ {
+  "name": "关于我们_盛色科技.html.md",
+  "media_id": "html_3867e2b60070d7dc3f413086d0b0036e_8237cd53ad3866ad2b6ca1bf65d8b7f9001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/关于我们_盛色科技.html.md",
+  "status": "skip-existed",
+  "chars": 850,
+  "error": ""
+ },
+ {
+  "name": "03_SDP Global — Industrial NMP-based SAF.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ba64ff72c3ef3e2434b57e68ce2d11b2001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md",
+  "status": "skip-existed",
+  "chars": 2011,
+  "error": ""
+ },
+ {
+  "name": "06_Shin-Etsu SAF Surface Treatment Patents.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_406adf291a48df0f885bb26ff610b4ef001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/06_Shin-Etsu SAF Surface Treatment Patents.pdf.md",
+  "status": "skip-existed",
+  "chars": 5273,
+  "error": ""
+ },
+ {
+  "name": "260602 SDHY Group ppt for KC_EM BCC R&E.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f298f950d8696669b3e3090c363abade001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/260602 SDHY Group ppt for KC_EM BCC R&E.pdf.md",
+  "status": "skip-existed",
+  "chars": 15112,
+  "error": ""
+ },
+ {
+  "name": "DH-Catalogue-EN-CN.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_aa6612ba6a2561ae73dae46fb6cd1527001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/DH-Catalogue-EN-CN.pdf.md",
+  "status": "ok",
+  "chars": 11377,
+  "error": ""
+ },
+ {
+  "name": "LX-T55P25T20线纺专用料（TDS-CN）.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_477146304f5ecd355983cb61faceb7c7001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/LX-T55P25T20线纺专用料（TDS-CN）.pdf.md",
+  "status": "ok",
+  "chars": 722,
+  "error": ""
+ },
+ {
+  "name": "PPS薄膜压力传感应用场景说明- PPS (中国)触感压力分布技术.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_7781d03d507483674dbf2c1d25c23bec001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/PPS薄膜压力传感应用场景说明- PPS (中国)触感压力分布技术.pdf.md",
+  "status": "ok",
+  "chars": 21685,
+  "error": ""
+ },
+ {
+  "name": "c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3d0f981ab5625a760e1cba85b9266abb001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf.md",
+  "status": "ok",
+  "chars": 2551,
+  "error": ""
+ },
+ {
+  "name": "v3非传统资源_⑥SAF_5_Toyobo_东洋纺_丙烯酸基_SAF_数据手册.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_00c2e11ebcc459f23716039b5a46eb99001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_5_Toyobo_东洋纺_丙烯酸基_SAF_数据手册.pdf.md",
+  "status": "ok",
+  "chars": 368663,
+  "error": ""
+ },
+ {
+  "name": "产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_cd43725ac2c9ddbf76b366a9b3634d85001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md",
+  "status": "ok",
+  "chars": 16685,
+  "error": ""
+ }
+]

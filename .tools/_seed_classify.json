@@ -1,0 +1,1061 @@
+{
+  "have_body": [],
+  "empty": [
+    {
+      "dir": "concepts",
+      "name": "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "87 卫材产线约束常量表（待并入补充行）",
+      "chars": 20,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\87 卫材产线约束常量表（待并入补充行）.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "APAC 卫生纸产品矩阵（2017  workshop 预研）",
+      "chars": 28,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\APAC 卫生纸产品矩阵（2017  workshop 预研）.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Ardex",
+      "chars": 34,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Ardex.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Case II 扩散",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Case II 扩散.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Cassie-Baxter Equation",
+      "chars": 50,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Cassie-Baxter Equation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "CFD 计算流体力学",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\CFD 计算流体力学.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "CLC 手性向列晶",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\CLC 手性向列晶.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "CMC 临界胶束浓度",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\CMC 临界胶束浓度.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "CRC 离心保持能力",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\CRC 离心保持能力.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "CTMP 化学热磨浆",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\CTMP 化学热磨浆.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Danufil 粘胶",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Danufil 粘胶.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）",
+      "chars": 42,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "DIC",
+      "chars": 32,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\DIC.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Donnan 溶胀",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Donnan 溶胀.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "ES 纤维 ES Fiber",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\ES 纤维 ES Fiber.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "ES 纤维驻极研究",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\ES 纤维驻极研究.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Fiberscope",
+      "chars": 39,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Fiberscope.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Flory- Rehner Theory",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Flory- Rehner Theory.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Freundlich 等温线",
+      "chars": 42,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Freundlich 等温线.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "GATS 重力吸收测试",
+      "chars": 39,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\GATS 重力吸收测试.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Grafted Cellulose and Starch",
+      "chars": 54,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Grafted Cellulose and Starch.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "GST",
+      "chars": 32,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\GST.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Hagen-Poiseuille Equation",
+      "chars": 53,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Hagen-Poiseuille Equation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "HEC 羟乙基纤维素",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\HEC 羟乙基纤维素.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Hercules Aqualon",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Hercules Aqualon.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "k-ε 湍流模型",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\k-ε 湍流模型.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Klemm 法",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Klemm 法.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Lagrangian Particle Tracking",
+      "chars": 55,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Lagrangian Particle Tracking.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Laplace 变换",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Laplace 变换.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "LbL 自组装 Layer-by-Layer",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\LbL 自组装 Layer-by-Layer.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Marangoni Effect",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Marangoni Effect.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Navier-Stokes Equation",
+      "chars": 50,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Navier-Stokes Equation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "PAA 聚丙烯酸",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\PAA 聚丙烯酸.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "PLA 玉米纤维",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\PLA 玉米纤维.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "PSA",
+      "chars": 32,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\PSA.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "PVAc 乳液",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\PVAc 乳液.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "SAP 干燥 SAP Drying",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\SAP 干燥 SAP Drying.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "SBS 弹性体",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\SBS 弹性体.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Silane Coupling Agent",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Silane Coupling Agent.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "SMS 复合无纺布",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\SMS 复合无纺布.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Stefan 问题",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Stefan 问题.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Stimuli-Responsive PCM",
+      "chars": 50,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Stimuli-Responsive PCM.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Stimuli-Responsive Polymers",
+      "chars": 55,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Stimuli-Responsive Polymers.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "STM-00146",
+      "chars": 10,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\STM-00146.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Stokes Number",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Stokes Number.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "TPE Tetraphenylethylene",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\TPE Tetraphenylethylene.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Videoimagescope",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Videoimagescope.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "VO2",
+      "chars": 32,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\VO2.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Wenzel Equation",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Wenzel Equation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Wilhelmy 湿附力法",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Wilhelmy 湿附力法.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Work of Adhesion",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Work of Adhesion.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "Young's Equation",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\Young's Equation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "一氯乙酸 Monochloroacetic Acid",
+      "chars": 53,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\一氯乙酸 Monochloroacetic Acid.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "三相接触线 TPL",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\三相接触线 TPL.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "丙烯酸丙烯酸酯胶 Acrylic Adhesive",
+      "chars": 52,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\丙烯酸丙烯酸酯胶 Acrylic Adhesive.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "东丽",
+      "chars": 31,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\东丽.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "两亲吸附 Amphipathic Adsorption",
+      "chars": 54,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\两亲吸附 Amphipathic Adsorption.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "乳化剂 Emulsifier",
+      "chars": 42,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\乳化剂 Emulsifier.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "亲水化 Hydrophilisation",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\亲水化 Hydrophilisation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "亲水整理 Hydrophilic Finish",
+      "chars": 50,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\亲水整理 Hydrophilic Finish.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "保湿剂 Humectant",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\保湿剂 Humectant.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "保留层 Retention Layer",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\保留层 Retention Layer.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "健康监测 Health Monitoring",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\健康监测 Health Monitoring.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "偶氮染料 Azo Dye",
+      "chars": 39,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\偶氮染料 Azo Dye.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "光致变色油墨 Photochromic Ink",
+      "chars": 50,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\光致变色油墨 Photochromic Ink.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "全芯体 vs 混合芯体",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\全芯体 vs 混合芯体.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "再润湿剂 Rewetting Agent",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\再润湿剂 Rewetting Agent.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "分布层 Distribution Layer",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\分布层 Distribution Layer.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "动边界 Moving Boundary",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\动边界 Moving Boundary.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "化妆品科学 Cosmetic Science",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\化妆品科学 Cosmetic Science.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "半胶束 Hemimicelle",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\半胶束 Hemimicelle.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "协同吸附 Cooperative Adsorption",
+      "chars": 54,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\协同吸附 Cooperative Adsorption.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "反应-扩散耦合 Reaction-Diffusion",
+      "chars": 54,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\反应-扩散耦合 Reaction-Diffusion.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "取代度 DS",
+      "chars": 34,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\取代度 DS.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "可冲散拭布 Flushable Wipe",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\可冲散拭布 Flushable Wipe.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "合金粘胶 Alloy Rayon",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\合金粘胶 Alloy Rayon.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "含水率 Moisture Regain",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\含水率 Moisture Regain.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "咖啡炭纤维（异味吸附）",
+      "chars": 408,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\咖啡炭纤维（异味吸附）.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "壳聚糖 Chitosan",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\壳聚糖 Chitosan.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "复合材料 Composite",
+      "chars": 42,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\复合材料 Composite.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "复合膜 Composite Membrane",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\复合膜 Composite Membrane.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "天丝 Tencel",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\天丝 Tencel.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "天然染料 Natural Dye",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\天然染料 Natural Dye.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "层压 Lamination",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\层压 Lamination.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "干燥角质化 Hornification",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\干燥角质化 Hornification.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "微纤丝化纤维素 MFC",
+      "chars": 39,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\微纤丝化纤维素 MFC.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "戊二醛 Glutaraldehyde",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\戊二醛 Glutaraldehyde.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "承压吸收 AUL",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\承压吸收 AUL.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "抗菌整理",
+      "chars": 5,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\抗菌整理.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "抗菌整理定量测试（AATCC TM100 _ AATCC 100）",
+      "chars": 439,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\抗菌整理定量测试（AATCC TM100 _ AATCC 100）.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "接枝共聚 Graft Copolymer",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\接枝共聚 Graft Copolymer.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "摩擦电自供电 TENG",
+      "chars": 39,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\摩擦电自供电 TENG.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "摩擦纳米发电机 TENG",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\摩擦纳米发电机 TENG.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "改性纤维素 Modified Cellulose",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\改性纤维素 Modified Cellulose.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "数值模拟 Numerical Simulation",
+      "chars": 52,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\数值模拟 Numerical Simulation.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "斯托克斯位移 Stokes Shift",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\斯托克斯位移 Stokes Shift.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "智能包装 Smart Packaging",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\智能包装 Smart Packaging.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "有限体积法",
+      "chars": 34,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\有限体积法.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "有限元法",
+      "chars": 33,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\有限元法.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "有限差分法 Finite Difference",
+      "chars": 50,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\有限差分法 Finite Difference.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "有限差分法",
+      "chars": 34,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\有限差分法.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "木浆 Pulp",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\木浆 Pulp.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "机械脱水 Mechanical Dewatering",
+      "chars": 53,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\机械脱水 Mechanical Dewatering.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "染料敏化太阳能电池 DSSC",
+      "chars": 42,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\染料敏化太阳能电池 DSSC.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "柔性电子 Flexible Electronics",
+      "chars": 52,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\柔性电子 Flexible Electronics.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "棉纤维 Cotton",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\棉纤维 Cotton.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "植物提取物 Plant Extract",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\植物提取物 Plant Extract.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "每克厚度 T／W",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\每克厚度 T／W.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "毛细管吸收 Capillary Sorption",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\毛细管吸收 Capillary Sorption.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "毛细芯吸 Capillary Wicking",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\毛细芯吸 Capillary Wicking.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "水性聚氨酯 Waterborne PU",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\水性聚氨酯 Waterborne PU.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "流变学 Rheology",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\流变学 Rheology.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "浊点 Cloud Point",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\浊点 Cloud Point.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "润湿 Wetting",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\润湿 Wetting.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "润湿剂 Wetting Agent",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\润湿剂 Wetting Agent.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "深沟槽涤纶 Deep-groove Polyester",
+      "chars": 54,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\深沟槽涤纶 Deep-groove Polyester.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "渗透率 Permeability",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\渗透率 Permeability.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "温度响应材料",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\温度响应材料.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "湿冷感 Wet-Cool",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\湿冷感 Wet-Cool.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "湿态压缩模量",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\湿态压缩模量.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "湿态强度 Wet Strength",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\湿态强度 Wet Strength.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "热传递 Heat Transfer",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\热传递 Heat Transfer.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "热粘合热风无纺布 Airlaid",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\热粘合热风无纺布 Airlaid.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "热轧粘合 Calender Bonding",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\热轧粘合 Calender Bonding.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "环氧氯丙烷 Epichlorohydrin",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\环氧氯丙烷 Epichlorohydrin.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "甲醛 Formaldehyde",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\甲醛 Formaldehyde.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "电致发光 Electroluminescence",
+      "chars": 52,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\电致发光 Electroluminescence.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "皮肤科学 Dermatology",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\皮肤科学 Dermatology.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "硅烷偶联剂 Silane Coupling Agent",
+      "chars": 53,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\硅烷偶联剂 Silane Coupling Agent.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "磷酸化纤维素 Phosphonoalkylcellulose",
+      "chars": 58,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\磷酸化纤维素 Phosphonoalkylcellulose.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "离子变色 Ionochromic",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\离子变色 Ionochromic.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "离子对吸附 Ion Pair Adsorption",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\离子对吸附 Ion Pair Adsorption.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "稀释便液 BM simulant A",
+      "chars": 16,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\稀释便液 BM simulant A.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "等电点 Isoelectric Point",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\等电点 Isoelectric Point.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "粘合剂 Binder",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\粘合剂 Binder.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "粘胶 Rayon",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\粘胶 Rayon.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "粘附张力 Adhesion Tension",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\粘附张力 Adhesion Tension.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "纤维 Fibril",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\纤维 Fibril.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "纤维干燥 Fiber Drying",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\纤维干燥 Fiber Drying.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "纤维扩散 Fiber Diffusion",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\纤维扩散 Fiber Diffusion.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "纸浆干燥 Pulp Drying",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\纸浆干燥 Pulp Drying.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "纺粘熔喷 Spunbond-Meltblown",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\纺粘熔喷 Spunbond-Meltblown.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "结构性常数 K",
+      "chars": 35,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\结构性常数 K.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "羧甲基纤维素 CMC",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\羧甲基纤维素 CMC.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "聚合物分散液晶 PDLC",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\聚合物分散液晶 PDLC.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "聚集诱导发光 AIE",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\聚集诱导发光 AIE.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胆甾相液晶 Cholesteric Liquid Crystal",
+      "chars": 58,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胆甾相液晶 Cholesteric Liquid Crystal.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胆甾相液晶弹性体 CLCE",
+      "chars": 41,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胆甾相液晶弹性体 CLCE.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胶乳 Latex",
+      "chars": 36,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胶乳 Latex.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胶乳胶黏剂 Latex",
+      "chars": 39,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胶乳胶黏剂 Latex.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胶接热力学 Adhesion Thermodynamics",
+      "chars": 56,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胶接热力学 Adhesion Thermodynamics.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胶接理论 Adhesion Theories",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胶接理论 Adhesion Theories.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胶束 Micelle",
+      "chars": 38,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胶束 Micelle.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "胶黏剂 Adhesive",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\胶黏剂 Adhesive.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "自-sizing Self-sizing",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\自-sizing Self-sizing.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "舒美",
+      "chars": 31,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\舒美.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "荧光增白剂 Optical Brightener",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\荧光增白剂 Optical Brightener.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "获取层 Acquisition Layer",
+      "chars": 48,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\获取层 Acquisition Layer.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "蒙脱土 Montmorillonite",
+      "chars": 47,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\蒙脱土 Montmorillonite.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "藻酸盐 Alginate",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\藻酸盐 Alginate.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "虚拟原型 Virtual Prototyping",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\虚拟原型 Virtual Prototyping.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "螺噁嗪 Spiroxazine",
+      "chars": 43,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\螺噁嗪 Spiroxazine.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "表面交联 Surface Cross-linking",
+      "chars": 53,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\表面交联 Surface Cross-linking.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "表面活性剂 Surfactant",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\表面活性剂 Surfactant.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "角化 Hornification",
+      "chars": 44,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\角化 Hornification.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "解键剂 Debonding Agent",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\解键剂 Debonding Agent.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "超分子 Host-Guest Chemistry",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\超分子 Host-Guest Chemistry.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "辐射冷却材料 Radiation Cooling",
+      "chars": 51,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\辐射冷却材料 Radiation Cooling.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "针刺 Needlepunching",
+      "chars": 45,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\针刺 Needlepunching.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "银纳米线 AgNW",
+      "chars": 37,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\银纳米线 AgNW.md"
+    },
+    {
+      "dir": "concepts",
+      "name": "香豆素 Coumarin",
+      "chars": 40,
+      "path": "E:/WKB-OB\\WIKI\\concepts\\香豆素 Coumarin.md"
+    },
+    {
+      "dir": "entities",
+      "name": "Koch Industries",
+      "chars": 49,
+      "path": "E:/WKB-OB\\WIKI\\entities\\Koch Industries.md"
+    },
+    {
+      "dir": "entities",
+      "name": "OxyChem",
+      "chars": 42,
+      "path": "E:/WKB-OB\\WIKI\\entities\\OxyChem.md"
+    },
+    {
+      "dir": "entities",
+      "name": "Sun Chemical",
+      "chars": 46,
+      "path": "E:/WKB-OB\\WIKI\\entities\\Sun Chemical.md"
+    },
+    {
+      "dir": "entities",
+      "name": "东莞市天正纸业有限公司",
+      "chars": 12,
+      "path": "E:/WKB-OB\\WIKI\\entities\\东莞市天正纸业有限公司.md"
+    }
+  ]
+}

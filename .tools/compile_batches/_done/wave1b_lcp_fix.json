@@ -1,0 +1,20 @@
+{
+  "batch": "wave1b_lcp_fix",
+  "created": [
+    "Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1",
+    "Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2"
+  ],
+  "source_paths": [
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch5_Wires_Part1_深度拆解.md.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch6_Wires_Part2_深度拆解.md.md"
+  ],
+  "skipped": [
+    "General Introduction and Objectives",
+    "Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene",
+    "Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester",
+    "An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks",
+    "Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane",
+    "General Conclusions and Appendixes"
+  ],
+  "index_toc_fixed": true
+}

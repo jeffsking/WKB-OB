@@ -1,0 +1,139 @@
+# SEED: CD Pants Converting Process（CD裤式产品加工工艺）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 303 页，489 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (6 句)
+   • 1. **Global Trends for Polypropylene** — M. J. Balow
+2. **Polypropylene: Structure, Properties, Manufacturing Processes, and Applications** — W. J. Kissel, J. H. Han, J. A. Meyer
+3. **Chemical Coupling Agents for Filled and Grafted Polypropylene Composites** — D. Roberts, R. C. Constable
+4. *Stabilization of Flame-Retarded Polypropylene* — R. E. Lee, D. Hallenbeck, J. Likens
+5. *Recycling of Polypropylene and Its Blends: Economic and Technology Aspects* — A. A. Adewole, M. D. Wolkowicz
+6. *Impac
+   • Chapter 2 is the one relevant to this vault; its internal structure is: 2.1 Types of PP (homopolymer / random copolymer / impact copolymers), 2.2 Tacticity, 2.3 Molecular weight and MWD, 2.4 Mechanical properties, 2.5 Rheology, 2.6 Morphology, 2.7 Thermal analysis, 2.8 Manufacturing processes (bulk-slurry and gas-phase technology, reactor systems, Amoco gas-phase), 2.9 Applications (fibres and fabrics, strapping, film, sheet/thermoforming, injection moulding, blow moulding, automotive).
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **HIGH 高关联** — this is one of the few sources in the vault that links **resin specification → nonwoven process → delivered fabric property** with numbers attached, and it is the canonical citation for the MFR split between spunbond and meltblown. Directly serves:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (5 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+   • **Definition, measuring points, tolerances and instruments of finished-product dimension measurement** —— （must be checked against STM-00433 Pants尺寸.doc）。
+- Mapping between finished-product dimensions and the GB-T 33280-2016 specification system / KC internal STM conventions 。
+- Transfer relation between fibre-level quantities（linear density / shrinkage / opening length）and finished-product dimension measurement — not given in the digest 。
+- Garbled spots（the Vibroscope trap in Ch11, the branche
+
+--- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]  (5 句)
+   • 本批**裤型纸尿裤（CD Pants）两种结构平台的工艺与档位总览（Beth Johnson，2017-11-30）**：把三片式（3-Piece）与一片式（1-Piece）的构件拆解、档位配置与消费者测试结果压成一张对照图。是本库回答「裤型产品为什么分 1P/3P、各档差在哪」的结构来源。
+   • 议程两部分：CD pants 总览（产品构造 PDP vs 3 Piece）与按档位划分的产品设计与材料。美国计划按平台分流——**Milky Way** 采用**三片式设计**，更偏创新管线（CUBIC/PIPA）；**GoodNites Best Underwear** 在评估**一片式设计**。
+   • 项目管线：**Premium & Super Premium（Best）**——2016 COMPASS+ 中国上市、2017 CD BEST 俄罗斯（自中国进口）、2018 Triumph CD Best 中国；**Mainline（Better）**——2015 AMPS 中国、2015 Daisy 南非、2016 JAVA 泰国 + APAC、2017 SPINEL 以色列/意大利/土耳其/印度并升级 ASEAN；**Value（Good）**——2012–14 VIP/AQUAMARINE（ASEAN、巴西、印度等）、2015 T1 印度、2016 PEARL（印度、ASEAN）；**POME & Others**——2016 CD POME 上市 PIPA 印度、2018 技术 CUBIC（更易穿脱，AB EMEA）、2018 技术 Forman-Channels（AB EMEA）。市场背景：HUGGIES CD Pants 快速增长，2012 年首发以来形成 T2–T5+ 与 VIP/AQM/SUN/SPINEL/PEARL 等代际梯队；2018 年 CD Pant 产能版
+   • **1P/3P 是结构平台之分，不是高低之分——消费者数据证明平台本身不产生偏好差异** —— 支撑页：1-Piece vs 3-Piece CD Pants Design（一片式 vs 三片式裤型设计对比）
+- **档位升级的实质是 SAM% 提升 + 悬浮 pad + 曲线腿围 + 模切一体 panel 的组合** —— 支撑页：CD Pants Converting Process（CD裤式产品加工工艺）、Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+- **同为一片式时仍会落败（33:67），差距在平台内产品力而非平台选择** —— 支撑页：Diaper Premiumization（纸尿裤高端化）
+- **1P 引入模切与曲线腿围橡筋，是把复杂度从"物料件数"转移到"工艺能力"** —— 支撑页：1-Piece vs 3-Piece CD Pants Design（一片式 vs 三片式裤型设计对比）
+
+--- [[CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）]]  (5 句)
+   • **标题 / 来源**：*CD PANTS ON-BOARD TRAINING · GIC KOREA · JACK JIN · DEC 19.2016*
+- **密级**：多页标注 **"K-C Internal Use Only"**
+- ⚠️ **时点**：**2016 年**资料，资产数与机台配置均为**当年快照**
+   • **LSE module / JOA *"Surge Cut and Place Module"***，位于 **2 楼夹层（2nd floor mezzanine）**；图注含 **Slip vacuum / Transfer vacuum**。
+- **Flap folding**：*"Normally, we use **3 different folding boards** with dimension difference. Meanwhile, the flap/leg elastics will be laminated with flap material. … Based on product spec, the **flap width and folding boards can be changed**."*
+- **Insert cut off**：*"This is a **critical process** before combining with panel material."*
+- ⚠️ **Insert applicator**：*"The 
+   • **Step 2（转向）**：*"Panel elastics web path is changed from the **vertical position to horizontal position with a twisted angle which is 90 degree**."*（弹性体走向由垂直转水平，**扭转角 90°**）
+- **Chopping**：*"While rotating the chopper module manually or automatically, the panel elastic will be **severing by chopper teeth** after panel material go through."*
+- **Insert to panel**：*"Insert to panel quality really depends on **panel adhesive pattern width** as well as **intermittent adhesive control** which is **so
+   • 1. **"CD Pants"的"CD"来自工艺** —— **insert applicator 把产品方向从 MD 转为 CD** 是整线的枢纽步骤，不是营销词。
+2. **插入体先做好、再与腰围片组合** —— 四段工艺的切分点是 **insert cut off 被明写为"critical process before combining with panel material"**。
+3. **成型鼓用 5 个真空区**（成型 + 释放），并按**芯形**配**轮廓段与成型网** —— 与 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收） 的 **6 区固定角度**是**不同机台/不同代次**口径，**不合并**。
+4. **克重变异靠 scarfing 系统控制**，而非靠成型鼓本身。
+5. **腰围弹性体要转 90°** —— 从垂直走向扭转为水平走向，是裤式产品特有的机构动作。
+6. **间歇胶由电磁阀控制** —— insert-to-panel 质量**取决于胶型宽度 + 间歇胶控制**。
+7. **封合是关键工序** —— 换材料（SMS 
+
+--- [[STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc]]  (5 句)
+   • BCC Pants（拉拉裤/成长裤）系列产品**腰围拉断强度**的厂内 SOP **STM-01086**：用拉力仪以最快速度拉伸试样、读取**峰值载荷（gf）**，量化消费者"快速上提腰围"时产品被拉断的抵抗能力。本文件存放于  目录。
+   • 实验目的为测量 Pants 系列**腰围拉断强度**，结果取峰值载荷、单位 **gf**。设备准备：打开拉力仪并检查压力表，**夹具气压不得超过 0.6 MPa**；选择"产品拉断测试方法"（明确注明**参考端封方法 STM-00078 修改参数**），设置为**拉伸速度 1000 ± 10 mm/min、夹具距离 3 in、单位 gf**。制样：取 1 片合格产品，按穿着方向标记前后端（交替取样）；撕开腰围处并将腰围绷直，用 **3 in 切刀**在产品中心位置裁出**宽 3 in、至少 100 mm 长**的试样；沿芯体（Insert）边缘**向下量取 2 in 划线**作为夹具位置。带**丢弃贴**的品相沿用同一取样方式，不需单独处理。测试：载荷与位移清零，将 2 in 划线处夹入下夹具、捋直后用腰围夹在上夹具（避免松弛，底膜侧面朝操作者），点击开始，记录最大值（gf）。注意样品夹持须与夹面平行、不得倾斜或有皱褶。安全上要求佩戴防护手套与安全剪刀、护目镜与口罩，并给出拉力仪夹手的急停处置。
+   • **Pants 拉断是"快速上提"工况，故取拉力仪最快速度** —— 支撑页：Product Waist Break Test（产品腰围拉断测试）
+- **拉断方法复用端封 STM-00078 的仪器口径，只改速度与夹具** —— 支撑页：Seal Strength Test（端封·侧封强度测试）
+- **读峰值不读平台值，因断裂是瞬时事件** —— 支撑页：Product Waist Break Test（产品腰围拉断测试）
+   • 概念：Product Waist Break Test（产品腰围拉断测试）、Seal Strength Test（端封·侧封强度测试）
+- 对比：峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）
+- 实体：KC Nanjing Plant（金佰利南京厂）
+
+--- [[Seal Strength Test（端封·侧封强度测试）]]  (4 句)
+   • 在本库中该方法有**双重身份**：
+1. **独立判据**：直接判定端封/侧封的胶量与粘合是否合格；
+2. **母方法**：STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc 与 Topical liner Supporting layer Embossing pressure.pdf（WI-57507）**均直接复用 STM-00078 的程序**并只改夹具/速度——因此三条方法构成同一 **gf 峰值法族**，但**夹具距离与对象不同，不可混为一条**。
+   • 1. **制样可复现性决定读数**：产品须挂在灯箱上、以 **1000 g 双配重夹**把腰部松紧带**完全拉平**，再用 **P.O11946994 模块**定位端封边并量取 **3 in × 100 mm** 区域——**松紧带未拉平会使密封边歪斜，读数系统性偏低**。
+2. **去绒毛但不破坏密封边**：剪样后须轻轻去除绒毛，任何对密封边的损伤都会直接污染结果。
+3. **分离位置须居中**：外层与体侧层的分离边缘应位于上下夹具中心，出现滑动即判无效并重新取样。
+4. **夹具气压是隐形变量**：气压 **≤ 0.6 MPa**，超限会压溃试样、不足则打滑。
+5. **派生方法改的是"尺子"不是"原理"**：Pants 拉断把夹具距离从 2 in 改成 3 in、速度提到 1000 ± 10 mm/min；面层压纹沿用 2 in 但增加 **23 ± 1 ℃ / 50 ± 2% RH** 恒温恒湿要求。
+   • 同族方法：Product Waist Break Test（产品腰围拉断测试）、Liner-Surge Embossing（面层-导流层压花）、Peel Test STM-00438（剥离强度测试）
+- 上游对象：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- 体系归属：芯体测试方法与验收基准（STM）
+- 对比：峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）
+   • STM-00078 端封强度.doc —— 
+- STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc —— 
+- Topical liner Supporting layer Embossing pressure.pdf ——
+
+--- [[Ultrasonic Bonding of PET-Containing Topsheet]]  (4 句)
+   • 1. **Ultrasonic bonding is a microstructure effect（超声粘合是微观结构效应）**：performance depends on microstructure, local energy concentration and pattern profile — not simply on polymer softening. Too much non-bondable mono-PET reduces pattern reliability.（效果取决于微观结构、局部能量集中与花型轮廓，而不只是聚合物软化；不可粘的单组分 PET 过量会降低花型可靠性。）
+2. **PET does not soften at PP/PE ultrasonic settings（PET 在 PP/PE 超声参数下不软化）**：in a cuff or side-seam lane it behaves as **unbonded filler** and seal strength drops **without warning**. The failure
+   • Ingredients 组分：皮芯复合纤维（4D 偏心 ES）、三叶形截面纤维（Trilobal Fibre）
+- Constraint 约束：PE-PET Bond Efficiency Model、Shaped PET Add-On Window
+- Process 工艺：热风粘合无纺布、SMS复合结构
+- Structure 结构：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- Acceptance 验收：芯体测试方法与验收基准（STM）
+   • 1. **超声波模头的钛/稀有金属合金程度** → 决定效率与频率稳定性；
+2. **传动形式**：直线式摆动臂 vs 横仓/滚动式摆动臂 → 影响高频震荡时焊头与基材的间距控制；
+3. **发生器能量选型与模头匹配**：过载（如选用过大功率发生器）会加速磨损，模头间距的经验值需由 process 侧摸索；
+4. **成功标准尚未量化**：车速、连续运行稳定性、外观焦状等指标需工程部与工厂工艺共同定义——**本批明确为待办，非既有结论**。
+   • ✅ **验证记录（2026-09-29）**：毛细差异为会议中提出的**机理假设**，9 月对比实验尚未执行；交付时间为当时预估，须以实际 PO 与到货记录复核。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）。
+
+--- [[热风无纺布]]  (4 句)
+   • The vault carries several overlapping headings for this material/process — 热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven — see Open Questions（源：本页 cited-by 与全库同名标题）.
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+   • Development of the nonwovens industry
+- Handbook of Nonwovens
+- Thermal bonding
+- Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres
+- Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）
+- Multilayer SAP Core（多层SAP芯体）
+- 可降解皮芯架构对比（PPC-PBAT 皮 × 四芯层）
+- Huayi Group（待核中文名）
+- GFL General Presentation for KC Asia 20260603
+- 中科依兰
+
+--- [[EP1581159B1 Method for Producing Diaper Pants（弹性片材）]]  (4 句)
+   • Title: "METHOD FOR PRODUCING DIAPER PANTS OF THE DISPOSABLE TYPE" (DE: VERFAHREN ZUR HERSTELLUNG VON WINDELHÖSCHEN VOM EINWEGTYP; FR: PROCEDE DE FABRICATION DE COUCHES-CULOTTES JETABLES). The blank comprises an absorbent body (1) enclosed between an inner liquid-permeable cover sheet (2) and an outer cover sheet (3), at least one cover sheet being thermally weldable, and further comprising front portion (4), rear portion (5) and a crotch portion (6) delimited by leg openings (10), with side part
+   • **这是一条"免内翻"的工序路线**——不用把空白片材里外翻面，靠单层搭接就能得到外观好的焊缝，并因此**不臃肿**。→ CD Pants Converting Process（CD裤式产品加工工艺）
+- **焊缝只承受剪切力，所以能被做成"既够牢又能手撕"**——这正是可脱卸/ Standing-change 功能的结构基础。→ Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+- **三组数值是本案最有价值的转移know-how**：搭接 < 4 mm、焊缝宽 8 mm、强度 10–45 N/25mm，且明确焊缝**可撕开**。→ CD Pants Converting Process（CD裤式产品加工工艺）
+- **折边由支撑件（turning the supports）完成，且待焊接区保持无张力**——说明弹性侧片在这个过程中由夹具托住，不让弹性参与定尺寸。→ Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+   • Concept 概念：Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、CD Pants Converting Process（CD裤式产品加工工艺）、Waist Guard（腰围护挡）
+- Entity 实体：SCA Hygiene Products AB
+   • Local path 本地路径：
+- Original link 原文链接：（无；专利文献）
+- Note 备注：文件名中的英文标题为 "Method for producing diaper pants"；封面标题三种语言并列（EN/DE/FR）。
+
+--- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]  (4 句)
+   • **BCC 成品测试方法的最新总索引**（表头自述 *Sep 2026 Check by R&D Lab Tester*），按品类与 OD / Pants 形态两列把「指标 → 方法编号」一一锁定；是本批各单项方法文档的**上位清单与查表入口**。
+   • 指标按品类分组，每组按 **OD（Open Diaper，开放式纸尿裤）** 与 **Pants（拉拉裤/成长裤）** 分列方法编号，能直接看出哪些方法两形态共用、哪些仅适用于其一。
+   • 适合度类（Well Fit Related）列出耳贴三项（STM-00071 结合强度、STM-00076 剪切、STM-00075 剥离）、腰围两项（STM-00440 整裤腰围张力；Pants 另加 STM-00090 侧缝强度/张力/拉至止）、弹性五项（STM-00070 弹性张力、STM-00065 弹性蠕变、WI-59910 MDP Plus 弧形腿围张力、STM-00066 腰围弹性蠕变、STM-00686 一片式 CD 裤弧形腿围弹性张力、China-STM-10 弹性拉伸倍率）。**注意：耳贴三项在 Pants 列均为「/」**——即拉拉裤不适用。
+   • **本表是成品方法的唯一总索引，任何单项方法的「是否现行」应回到本表核对** —— 支撑页：芯体测试方法与验收基准（STM）
+- **滞留能力的正式压力口径为 3.45 kPa（0.5 PSI），与 FIFE 回渗载荷同源** —— 支撑页：Retention Capacity Test（滞留能力测试）
+- **国标法已占据 pH、回渗/摄入/渗漏、滑渗、防漏、交货水分、杂质、微生物、荧光 9 项** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **假人测试分动态（TTM-00318）、静态强制失效（TTM-00459）、BM 假人（TTM-00467）三条** —— 支撑页：Static Mannequin Test（静态假人测试）、Mannequin BM Test（BM 假人测试）
+- **耳贴三法（STM-00071/00076/00075）仅适用于 OD，Pants 不适用** —— 支撑页：芯体测试方法与验收基准（STM）
+- **「差异点总结」表为空，说明截至 2026-09 无已登记的操作-标准偏差** —— 支撑页：Kimberly-Clark
+

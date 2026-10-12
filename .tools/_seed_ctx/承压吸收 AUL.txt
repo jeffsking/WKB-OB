@@ -1,0 +1,35 @@
+# SEED: 承压吸收 AUL
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fluid Absorption in High Bulk Nonwovens
+#
+# 全库正文命中 4 页，5 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[AUL 加压吸水率]]  (2 句)
+   • AUL（加压吸水率）是 SAP（高吸水树脂）的评价项之一，与 CRC 离心保持能力、表面交联 Surface Cross-linking 等在 SAP 综述文献中并列出现（源：Research Advances in Superabsorbent Polymers (Polymers 2024)、Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）。
+- 本库同主题页面（交叉引用，未据其取数）：承压吸收 AUL、SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）、SAP（高吸水树脂）。
+   • Research Advances in Superabsorbent Polymers (Polymers 2024)
+- Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)
+- 承压吸收 AUL
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAM Testing Methods（超级吸水材料测试方法）
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (1 句)
+   • **腰贴 / 侧贴 / 顶贴的 PSA 选型基准** — 行业直接命中："Personal hygiene products such as disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate this application... in particular the adhesive must not cause skin irritation."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **芯体点胶** — 施胶花型（喷嘴）是最大杠杆、**胶型是最小杠杆**：HSBL 数据给出施胶应施加在导流层（surge）上以获得高剥离强度；"间隙小 → 回渗低"仍为未验证假设（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）、Surge-Liner Adhesive Bonding（导流层-面
+
+--- [[Adhesive Handbook Part 2 Fundamental Aspects]]  (1 句)
+   • **芯体点胶工艺的核心方程** — 婴儿抓挠与穿着运动是高速剥离，ψ(v,T) 的峰值位置决定"低速不漏、高速不脱层"；热熔胶（POP/EVA/SEBS）中蜡/树脂/弹性体比例调节本质就是设计 ψ(v,T)。
+- **胶量最优区间** — 0.07-0.08 mm 最优，过低漏胶、过高浪费并引入固化收缩内应力 → 直接用于芯层点胶克重设定与耗材成本优化。
+- **柔化助剂的高杠杆性** — 20 phr 硫橡胶使模量 2200→160 MPa、韧性 +340 %；少量高价助剂替代整体高成本胶基；随机共聚物比嵌段共聚物更便宜且同样可增韧界面。
+- **湿态强度与保质期** — 卫材长期处于尿液/汗液高湿环境；未改性 POP 热熔胶与水基胶在高湿下的强度衰减可类比 85 % 损失。硅烷偶联剂形成的 Si-O-M 一次键（50-250 kcal/mol）显著改善浸液后层合稳定性。
+- **无纺布润湿条件** — PP 无纺布 γS ≈ 29-31 mJ/m²（低表面能），点胶热熔胶的 γ_L 必须低于此值才能保证 100 % 接触。
+- **SAP 界面的"包裹 + 机械"复合** — SA
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+

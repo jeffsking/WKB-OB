@@ -1,0 +1,116 @@
+# SEED: 智能织物 Smart Textile
+# type: concept | 原引用数: 8
+# 原 Cited by 列表:
+#   - Flexible Stretchable Electronics (imec)
+#   - Smart & Connected Garments (IEEE)
+#   - Smart Textile Visual Perception (GRID)
+#   - Smart Textiles & Wearables
+#   - Smart Textiles Review
+#   - Smart Textiles and Sportswear
+#   - Wearable Electronics (NSR Editorial)
+#   - Wearable Sensors (Book Preview)
+#
+# 全库正文命中 123 页，199 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Intelligent Textiles and Sports Clothing]]  (5 句)
+   • **First generation**: synthesised fibres (polyamide) — historic cost multiple over cotton and wool, offset by tunable performance.
+- **Second generation**: modified conventional synthetic fibres with greatly increased performance — aramid, carbon, glass, ceramic. Tradenames named: Nomex, Kevlar, Twaron, Technora (aromatic polyamides); Spectra and Dyneema (high-performance polyamides/polyethylene); Vectran (aromatic polyester); Teflon (PTFE), Dacron and Mylar (polyester).
+- **Third generation**: 
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • Embedded electronics monitor heart, lungs and muscles; data stored locally or transferred wirelessly. Cases cited: Australian **CSIRO** basketball shooting sleeve using rhythmic sound waves; cycling garment with Bluetooth-driven grouped LEDs on the back showing direction, powered by batteries or small solar panels.
+- Two insertion points in the manufacturing chain matter: **cutting** (separating plies destined for printing of smart components) and **sewing** (adding electronic components; trend 
+   • **No absorbency content at all** — nothing on fluff pulp, SAP, core structure, acquisition, strike-through or rewet. The paper's performance axes are protection, thermoregulation, motion and electronics.
+- **No polyolefin, bicomponent or ES fibre content**; the named fibres (aramid, UHMWPE, polyester, PA) are outside our material set, and their function is entirely permanent-garment rather than disposable.
+- **Evidence quality is weak**: it is a Serbian-language professional review whose citatio
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (5 句)
+   • Open-access review, published 21 November 2022. DOI: 10.3390/textiles2040034. **Note 注:** this is a journal review article, not a monograph — it is indexed here under  because it sits in the Ebook/ directory and functions as a survey, not because of format.
+   • 1. **Introduction** — why natural and chemical fibres no longer meet user requirement; the passive / active / ultra-smart taxonomy; history from the late-1980s Japanese shape-memory silk thread; global smart textiles market at **25% CAGR 2021→2031, US$23.82 Bn by 2031**.
+2. **Brief History** — wearable computation traced to the 1850s (corsets, belts), first wearable computer 1955, integrated electronics from the early 1990s; three generations: wearable computing → fabric as circuit element → fib
+   • 1. **The three-tier taxonomy is the organising idea.** Passive smart textiles sense; active ones sense *and respond*; ultra-smart ones sense, react and adapt. This is a useful way to grade how ambitious any proposed hygiene-product feature is.
+2. **Seven chromic mechanisms named.** Photochromic, thermochromic, electrochromic, solvatochromic, **halochromic (pH)**, tribochromic (friction), mechanochromic (pressure). Colour reverts when the stimulus is removed because the original state is more sta
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+
+--- [[Smart Polymers Ch13 Affinity Precipitation of Proteins]]  (5 句)
+   • This chapter is the **bioseparation application** of the smart-polymer toolkit: the soluble–insoluble switch of a stimuli-responsive polymer replaces a chromatography column. It is the most practically oriented chapter of the batch for anyone who must choose a trigger (temperature vs pH vs ionic strength) and a phase behaviour (loose gel vs compact particle).
+   • Definition used: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed and pronounced way" (L298–300).
+   • **Homobifunctional vs heterobifunctional mode** (L138–230): in the homobifunctional mode a bis-ligand cross-links a protein bearing ≥2 binding sites into an insoluble aggregate (e.g. immunoprecipitation), limited to multi-site proteins and not using smart polymers. The **heterobifunctional** mode covalently couples the ligand to a soluble–insoluble polymer to form a macroligand — general in scope, and "the smart polymers are critical for the development of affinity precipitation of protein in a 
+   • 1. **Trigger tolerances directly usable.** ΔpH ≤ 0.5 unit for sharp pH-induced precipitation (L362–363) sets the tolerance budget for any pH-active acquisition layer; 0.4 M NaCl for quantitative precipitation below 30 °C (L1011–1014) is a scaled proxy for the electrolyte content needed to activate ion-triggered gelation. 中文：pH 触发窗口窄（≤0.5），产品设计必须控制尿液 pH 波动带来的误触发。
+2. **Thermoresponsive lock-in near skin temperature.** The LCST series is tunable from 4 to 100 °C with PNIPAM at 32 °C (L627–632) — th
+
+--- [[Smart Textiles and Their Applications]]  (5 句)
+   • **Naming caution 命名提示.** This is a single **conference paper** (an invited lecture), not the monograph *Smart Textiles and Their Applications* (Woodhead Publishing, 2016) with which it shares a title and an author. Do not cite this page's page-range or claims as coming from the book.
+   • 1. **Introduction** — the two-part split of the field: *passive smart textiles* change their properties according to environmental stimulation (shape memory materials, hydrophobic or hydrophilic textiles), while *active smart textiles* carry sensors and actuators, detect signals (temperature, light intensity, pollution), decide locally via embedded textile electronics or remotely via cloud and AI, and act through textile-based, flexible or miniaturised actuators (textile displays, micro-vibratin
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+   • **The cost verdict is the most useful sentence in the paper.** Both active-fibre and electrochromic routes are explicitly blocked on cost/integration and on lifetime/reliability respectively. Anyone proposing a powered or electrically-switched indicator on a disposable should read that as a negative result from the smart-textile community's own work — see US20070270773A1 Thermochromic Wetness Indicator for the passive, power-free alternative that a disposable actually uses.
+- **Layer-count reduc
+
+--- [[GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）]]  (4 句)
+   • China's **mandatory labeling standard** for textiles and apparel（GB 5296 系列第 4 部分）—— defines the seven mandatory label items and the durable-label rule; for this library it matters as the labeling regime for textile components (e.g. woven labels on elastic waistbands) while disposable hygiene products are explicitly out of scope.
+   • GB 5296.4-2012 is fully mandatory and governs instructions-for-use of textiles and apparel sold in China. Seven content items are compulsory: maker identity, product name, size/spec, fibre content (per FZ/T 01053), care symbols (per GB/T 8685), executed product standard, and GB 18401 safety class. The durable-label clause mandates that size, fibre content and care method live on a permanent label (with carve-outs for goods where such labels impair use, and for group-customized non-personal-care 
+   • **一次性卫生用品不在本标准范围**（附录 A 明列），卫品标签走 GB 38598 + 各产品标准条款 —— 支撑页：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）
+- **标注一致性是「严重缺陷」级要求**：同件产品不同形式标签内容不一致即判严重缺陷 —— 支撑页：本页（附录 B 原文口径）
+   • 来源：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）（婴幼儿纺织品的标签在 5296.4 框架上叠加安全类别与「婴幼儿用品」字样）
+
+--- [[General Introduction and Objectives]]  (4 句)
+   • This is the thesis's conceptual foundation: it defines stimulus-responsive "smart materials" via liquid-crystalline polymers and sets the two application threads (photoresponsive microcapsules + proton-conductive membranes).
+（本章是全书的立论基础，界定"智能材料"并以液晶聚合物为核心载体，引出光响应微胶囊与质子导电膜两条应用主线。）
+   • "Smart materials" historically trace to 1800s reports of magnetostriction; the thesis narrows the definition to polymers that can moderately reorganize their structure under stimuli, with novel liquid crystalline polymers (LCPs) as the central carrier for new material design, synthesis and system integration.（"智能材料"概念可溯至 1800s 磁致伸缩；本书将其收窄为可在刺激下中等程度重组结构的聚合物，并以新型液晶聚合物为核心载体。）
+- Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range orde
+   • Smart materials (narrowed): polymers able to moderately reorganize structure under stimuli — support page: Liquid Crystalline Polymers Smart Applications.
+- LCP classification (MC/SC × calamitic/discotic) governs which smart application is pursued — photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 材料平台（后续章）：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜主线（后续章）：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+
+--- [[Smart Fabrics and Networked Clothing]]  (4 句)
+   • **Opening** — garments as transmitters, sensors or energy harvesters, potentially cloud-connected; target applications are first responders, military, miners, industrial workers; framed against today's fitness wristbands as the precursor of networked clothing. Includes a substantial section on downside risk: garments can always be exploited by hackers, body surveillance erodes privacy, and switching the fabric off "may not be sufficient, since the entire garment may act as an antenna."
+- **Poten
+   • 1. **Property headline.** CNTs rated at elastic modulus >1 TPa (diamond 1.2 TPa), thermal conductivity ~2× diamond, current-carrying capacity 1,000× copper wire, single-walled strength 10–100× the strongest steel at a fraction of the weight.
+2. **The integration thesis.** Achieving seamless, invisible electronics means producing fibres with electronic function **without compromising strength, comfort and aesthetic appeal** — stated as the core challenge, and one that forces a redesign of antenna
+   • The only idea with genuine pull is **fibre-level function without losing handle** (finding 2 and 3): making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces. The article's candid statement that as-prepared CNT fibres **fail** on softness and processability is a useful negative result — it indicates a CNT-based route is premature for a disposable.
+- The power-budget arithmetic (finding 6) is transferable as 
+   • Smart Fabric Textiles Recent Advances and Challenges — the 2022 survey of the same field, with the broader chromic/shape-memory/breathable taxonomy this article omits
+- Flexible and Stretchable Electronics — realistic assessment of what integrating function into flexible substrates actually costs
+- Smart & Connected Garments (IEEE) — parallel IEEE treatment of connected garments
+- Interactively Mechanochromic Electronic Textile Sensor — printed conductive-line sensing on fabric, the practical fo
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (4 句)
+   • Chapter 1 is the foundation chapter of the book: it defines what a smart polymer **is** in thermodynamic terms, explains *why* such systems are useful (critical-point susceptibility 临界点敏感性), and establishes static + dynamic light scattering (SLS/DLS 静态与动态光散射) as the metrology that quantifies those transitions. No device or application is built here — the application domains are only enumerated up front (L98–126): bioseparation, immunoanalysis, immobilized enzymes, drug delivery/targeting, biodet
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • **2. Body-temperature transition window.** "The most applicable stimuli-responsive polymers have their 'smartness,' or working phase transition, at temperatures close to the human body temperature (∼37 °C) where biomacromolecules … can function" (L137–139). 中文：最有用的相变温度落在体温附近。
+   • Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch11 Smart Polymer Drug Delivery
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- Acrylic-Based Superabsorbent Polymers
+- Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）
+- Active Hygiene Roadmap（力致变色材料商业化路线图）
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (4 句)
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+   • 1. **SAP as a dry hydrogel.** The imbibition range "10 to 20% up to thousands of times their dry weight" (L1911–1913) and the chemical tie-point vs physical entanglement cross-link distinction (L1914) frame cross-link density ↔ swelling ratio ↔ retention-under-load mapping. 中文：SAP 可按水凝胶网络科学同一框架建模。
+2. **Environmentally sensitive gels for indicators.** Response variables are swelling, network structure, permeability and mechanical strength against pH, ionic strength, temperature, fields, glucose (
+   • This extraction does **not** state an edition year, only the book title and edition ("Smart Polymers: Applications in Biotechnology and Biomedicine, 2nd Ed."). Per the fallback rule,  is set to 0. Sibling chapters of the same title state CRC Press 2008, so 2008 is probable but not citable from this file — [待验证].
+- All quantitative data are line-cited to the extracted body L1–L1998; printed page numbers are unavailable — [待验证].
+- Cross-chapter claims about Ch.11/Ch.13 come from this file's own TO
+   • Smart Polymers Ch11 Smart Polymer Drug Delivery — mechanistic counterpart: same networks modelled by mesh size and release class.
+- Smart Polymers Ch13 Affinity Precipitation of Proteins — the source identifies Ch.12's LCST gelling and alginate-Ca²⁺ gelation as direct precursors to Ch.13's smart-polymer precipitation.
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polyme
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (4 句)
+   • The closing chapter converts the same smart-hydrogel physics into **device components** — sensors, valves, pumps, clutches, lenses, filters — inside microchannels. Its thesis: "Hydrogel materials are both soft and responsive, which makes them ideal candidates in designing biomimetic components (e.g., valves, sensors) for use in microfluidic devices" (L56–59). Autonomy is the point: with hydrogels, "these materials can sense the local environment and undergo phase transition, such as an abrupt sw
+   • This is the **most directly transferable chapter of the batch** for smart hygiene, and the read-across is legitimate rather than forced: an absorbent core is a confined microfluidic system made of a superabsorbent hydrogel plus fibrous channels, and the chapter's parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space.
+   • Nothing in the chapter concerns textiles mechanics, shape memory, or adhesive peel performance separately from the hydrogel; no such angle is claimed. The book's own diaper/SAP discussion is elsewhere — the Index locates "Diapers 161, 170", not in Ch.14 (L1419).
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering — the phase-transition and nonergodic-network physics behind these devices.
+- Smart Polymers Ch11 Smart Polymer Drug Delivery — mesh size ξ and cross-link density formalised for the same network.
+- Smart Polymers Ch13 Affinity Precipitation of Proteins — the source's own contrast: Ch.13 uses the smart-polymer transition as a bulk **separation** engine; Ch.14 uses it as a confined **actuation and sensing** engine.
+- Smart Polymers Ch02 Re
+

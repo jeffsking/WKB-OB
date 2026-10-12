@@ -1,0 +1,24 @@
+{
+  "batch": "S3_Areas_Regulation&PSC_02",
+  "stage": "S3",
+  "block": "Areas/Regulation&PSC",
+  "source_pages": [
+    "IFRA Standards Guidance (2023-06-30)",
+    "IFRA Standards Guidance (2023-06-30) · 12 大产品类别版",
+    "EDANA AHPs Dossier (2022 V2.0) — CODEX™ 痕量物质与 Stewardship Program"
+  ],
+  "concept_pages": [
+    "IFRA Standards 与 12 大产品类别体系",
+    "AHPs Stewardship Program 与 CODEX™ 痕量物质管控"
+  ],
+  "entity_pages": [
+    "IFRA（国际香料协会）",
+    "EDANA（欧洲非织造布协会）"
+  ],
+  "comparison_pages": [
+    "香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）"
+  ],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "【上一轮（前序代理）已完成，见上列各页】本轮（2026-09-29）按跳过重编译规则复核：3 个 item 的 source_path 在 WIKI/sources/ 均已存在对应页，跳过 source 页重建；派生页（IFRA 体系概念、CODEX™ 痕量物质概念、IFRA/EDANA 实体、香精合规跨批对比）均已存在，无需补建。未覆盖任何既有页面，未改动 index.md / log.md。"
+}

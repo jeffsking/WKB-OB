@@ -1,0 +1,107 @@
+# SEED: 尿液模拟液（Urine Analog）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 116 页，174 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (5 句)
+   • The design rule is stated first: the BM lane must key off a molecule abundant in stool and effectively absent from urine, through a mechanism that is **not pH, not humidity, not temperature**. Four reasons are given — urine arrives first and often (6–8 voids per 12 h) so any moisture/pH lane is saturated before the first stool; stool carries very little free water so the liquid must be transported to the lane; ammonia rewrites the pH landscape (urea → NH₃ pushes a used diaper to pH 8–9 within ho
+   • Five candidate triggers are scored. **Soluble protein** (protein-error of a pH dye, 10,000–40,000 mg/L in faecal liquid vs < 150 mg/L in healthy urine) is SELECTED; bilirubin/bile pigment (diazonium coupling) is confirmatory tier 2 because diazonium salts are light- and heat-labile in a 125 °C melt; faecal protease (cleavable chromogen) is R&D only on cost and melt-survival grounds; faecal lipase is rejected for slow kinetics and no aqueous phase; conductivity/ionic strength is rejected for over
+   • Cost: US$0.567 per 1,000 diapers all-in (material 0.142, capex amortised 0.109 over 707 M diapers/3 y, OEE allowance 0.240 at 0.30 %), i.e. 0.056–0.057 ¢/diaper. Net new hardware ≈ US$77 k core / US$109 k with in-line colour verification. Test plan covers a protein challenge ladder (0 / 150 / 1,000 / 5,000 / 10,000 / 40,000 mg/L bovine albumin), urine at pH 5.5 and 9.0, aged urine, stability (40 °C/75 % RH 8 weeks; 8 h melt at 130 °C; light; dye leach), process/product (Cpk ≥ 1.33 on 20 ± 3 gsm;
+   • Concepts 概念：Protein Error of pH Dye（pH 染料的蛋白误差）、Odour-Control Granular Interference（除臭颗粒干扰）、Hot-Melt Slot Coating（热熔狭缝涂布）、Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- Comparisons 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- Existing pages 既有页：智能尿裤功能层、变色油墨
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (5 句)
+   • The dual urine + BM visual indicator concept for a diaper core carrying an effective odour-control granular — it frames the odour-vs-indicator molecule conflict, screens three BM mechanisms and specifies material composition, placement, converting process, cost model and validation protocol.
+   • Signal selection compares urine and infant BM across seven properties. pH is a WEAK discriminator (ranges overlap); titratable acidity is GOOD (buffer capacity, not pH); bile pigment is BEST (binary presence); active enzyme is BEST but needs an aqueous-coated substrate; rheology (urine ≈1 mPa·s vs BM 3–60 Pa·s) is GOOD and drives sampling geometry; temperature is NONE; head-space volatiles are BLOCKED by the granular.
+   • Validation pairs bench simulants (breastfed BM simulant: 78 % water, 3–8 Pa·s, lactate 60 mM + acetate 60 mM, pH 5.0, bilirubin 1.5 mg/g, pancreatin 1.5 mg/g, mucin 1 %; formula-fed: 72 % water, 20–60 Pa·s, total VFA 45 mM, pH 6.8, bilirubin 0.8 mg/g) with a 40-sample real-stool panel and a 60-infant in-home use test, against acceptance criteria of ΔE*ab ≥ 15 within 90 s on BM insult and ≤ 5 at 4 h on any urine challenge, false positive < 2 %, false negative < 10 % breastfed / < 20 % formula-fed
+   • **除臭颗粒与指示器争分子** —— 这是决定整个设计的陷阱，也是本批最有价值的工程警示。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **pH 不是可用的便判别量** —— 第二条 pH 条是「掷硬币」。支撑页：Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- **双通道并行，失效模式互补** —— 联合漏检率为乘积而非求和。支撑页：Bile Pigment Mordant Lane（胆色素媒染通道）
+- **必须在含除臭颗粒、且老化过的整片上验证** —— 无颗粒结构上的验证毫无证明力。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **这是宣称与投诉规避项目，不是降本项目** —— 真正的成本是失去的 OEE 与「看不见的线索」的替代价值。支撑页：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+
+--- [[Urine and BM Absorbent Basic Training Introduction（尿与便吸收体基础培训·开篇·2021-02）]]  (4 句)
+   • 2021 年 K-C「Urine and BM Basic Absorbent Training」系列的**开篇/时间表讲义**：给出席规则、四场时间与全场 13 个讲题的分工总表；与 Absorbency Core 议程表互为印证（议程的 PPT 版镜像）。
+   • The deck lists the four sessions with two attendance options each: Session 1 Absorbent Foundations (Feb 25, 2.5 h), Session 2 Absorbent Material Basics (Mar 3/4, 1 h), Session 3 Fluid and BM Foundations (Mar 9/11, 1 h), Session 4 Absorbent Bench and Modeling Tools (Mar 16/17, 1.5 h). Attendance rules: attend either option, only sessions of interest; every session recorded (Panopto) with slide links shared; PCM members count each session toward personal training objectives. The Training Overview 
+   • **培训定位是"能对话、能理解建议"，非供应链/制造深潜**（与 Agenda 中"删去 SAM 制造/供应/牌号"的删减指令一致）—— 支撑页：Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）
+- **Pad zoning（flat vs pocketed）与 channel/void absorbent 在 2021 年即为正式讲题** —— 支撑页：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+   • 系列同源：Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）、Absorbent System Overview（K-C 吸收系统概览培训·2021-02）
+- 概念：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+
+--- [[Protein Error of pH Dye（pH 染料的蛋白误差）]]  (3 句)
+   • 1. **Buffer hard, then let protein do the work（先强缓冲，再让蛋白起作用）**：the lane is buffered to pH 3.0 with a citrate / stearyl-phosphate acid system. The lane therefore reports **protein concentration, not pH**.
+2. **Urine cannot move it（尿搬不动它）**：urine can arrive at pH 5.5 or at pH 9 after ammoniacal ageing and the lane does not move — the trigger is not a proton. This is described as **the load-bearing defence** against false BM signals.
+3. **Trip point is set by dye loading alone（触发点仅由染料负载决定）**：D × C*
+   • 同族通道：Titratable Acidity Lane（可滴定酸度通道）、Bile Pigment Mordant Lane（胆色素媒染通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 干扰源：Odour-Control Granular Interference（除臭颗粒干扰）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 既有页对照：变色油墨
+- 选型：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+   • BM Indicator Design — Viscosity & Cost（便指示·流变与成本） —— 
+- BM Urine Indicator Concept（尿+便双指示概念） ——
+
+--- [[Wetness Indicator Ladder（尿湿指示阶梯）]]  (3 句)
+   • 1. **The point is to spend nothing here（这一层刻意不花钱）**：this is proven, commodity chemistry — the intent is to keep this element as the cheapest reliable part of the diaper so the budget goes to the BM lanes.
+2. **Ladder trick, at no extra cost（零额外成本的阶梯技巧）**：print three short dashes instead of one long stripe. Same glue mass, same applicator, same registration-free continuous pass — but Mom now reads a **load gauge**, which is what "change at the right time" actually requires.
+3. **Reading logic（读出逻
+   • 配对读出：Protein Error of pH Dye（pH 染料的蛋白误差）、Bile Pigment Mordant Lane（胆色素媒染通道）、Titratable Acidity Lane（可滴定酸度通道）
+- 干扰源：Odour-Control Granular Interference（除臭颗粒干扰）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 芯体设计：分区密度设计、SAP错峰膨胀、毛细梯度设计、ADL（导流层）
+- 既有页对照：变色油墨、智能尿裤功能层
+- 选型：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+   • BM Urine Indicator Concept（尿+便双指示概念） —— 
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本） —— 
+- 智能尿裤功能层专利地图 —— （既有页，尿显量产口径对照）
+
+--- [[变色油墨 Color-Changing Ink]]  (3 句)
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+   • **Wetness indication（尿湿指示）**: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy — which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。
+- **Selection criterion**: hydrochromic is the **only class dedicated to diaper wetness display**, hence the first screening condition in ink selection；baro-chromic ink is already on the CTI product line, cre
+
+--- [[智能织物 Smart Textile]]  (3 句)
+   • **Direct mechanism transfer — wetness indication.** The halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。Concrete disposable implementations to read alongside: US20070270773A1 Thermochromic Wetness Indicator and the purchasable-ink view in Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商
+   • **Contra-indications (where the analogy fails).** The sports-clothing review contains **no absorbency content at all** — nothing on fluff pulp, SAP, core structure, acquisition, strike-through or rewet; its performance axes are protection, thermoregulation, motion and electronics（源：Intelligent Textiles and Sports Clothing）。It also has **no polyolefin, bicomponent or ES-fibre content** — the named fibres (aramid, UHMWPE, polyester, PA) are outside the hygiene material set and serve permanent-garm
+   • **Trigger tolerances usable for design.** The narrow pH window (ΔpH ≤ 0.5) and the 0.4 M NaCl tolerance set budgets for any pH-active or ion-triggered acquisition layer — urine pH fluctuation must be managed to avoid false triggering（源：Smart Polymers Ch13 Affinity Precipitation of Proteins）。
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (3 句)
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+   • **回渗压力跨方法差 670×（0.005 ↔ 3.35 psi）是"回渗不可跨法比较"最直接的量化证据** —— 支撑页：Rewet Method Comparison（回渗测试方法横向对比）
+- **吸水纸三族（Verigood / Collagen / Filter Paper）与张数 1–10 张，构成第二重不可比** —— 支撑页：Rewet Test（回渗测试）
+- **温度 23 / 36 / 37 °C 三档与 Saline / Synthetic Urine 两类液体，构成第三重不可比** —— 支撑页：尿液模拟液（Urine Analog）
+- **加液位置按性别分化（Closed Cradle 女 95 / 男 200 mm）⇒ 同一产品的"男女口径"本就是两套数据** —— 支撑页：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+- **Poise 分 Research 与 Ad Claim 两套加液口径，Ad Claim 更保守** —— 支撑页：R150540-TL-14137 Poise Use-Tes
+   • 对比：Rewet Method Comparison（回渗测试方法横向对比）
+- 源：Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）、Rewet Method Parameters（回渗测试方法参数沿革）、Rewet Principles（回渗设计原则与测试方法关联）、STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）- 概念：Rewet Test（回渗测试）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）、尿液模拟液（Urine Analog）、芯体测试方法与验收基准（STM）
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）（本资料使用 TTM/STM 方法编号体系，**与 OI 编号无关、不得换算**）
+
+--- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]  (3 句)
+   • **动态假人同时回答「漏不漏」与「贴不贴」，是唯一带运动的成品评价方法** —— 支撑页：Static Mannequin Test（静态假人测试）
+- **模拟液用牛黄酸胆酸钠 + 盐水，37 ± 1 ℃，与纯盐水体系不同** —— 支撑页：尿液模拟液（Urine Analog）
+- **校准是双轨的：液体 ± 3% + 管路 ± 1%，且每次测试前必做** —— 支撑页：Mannequin Lab（Rockwell 假人平台）
+- **漏尿位置按 17 区记录，位置信息比总量信息更有诊断价值** —— 支撑页：Run-off & Leakage Test（滑渗与渗漏测试）
+- **Tab Spacing 按假人型号取 19–38 mm，Pants 跳过此步** —— 支撑页：Static Mannequin Test（静态假人测试）
+- **合身性六项指标须测试前后各测一次，差值才是运动的影响** —— 支撑页：Skin Contact Pressure（皮肤接触压力）
+- **本测试不涉及 FIA，Pants 需另行讨论** —— 支撑页：芯体测试方法与验收基准（STM）
+   • 概念：Static Mannequin Test（静态假人测试）、Mannequin BM Test（BM 假人测试）、尿液模拟液（Urine Analog）、芯体测试方法与验收基准（STM）、Run-off & Leakage Test（滑渗与渗漏测试）、Skin Contact Pressure（皮肤接触压力）、Elastic Tension & Creep（橡筋张力与回缩率）
+- 实体：Mannequin Lab（Rockwell 假人平台）、KC Tianjin Mill（金佰利天津厂）、Kimberly-Clark（金佰利）
+- 对比：（本批对比页见 GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比）
+   • 本地路径：
+- 原文链接：（无；内部作业指导书）
+- 参考文稿（文件自述）：TTM-00313-8 Mannequin Wet and Dry Motion Fit Test；Urine Analog # WI-33165；Operation of Mannequin Lab Rockwell System Platform # WI-38044；Fit Image Analysis (FIA) Mannequin Procedure # WI-45237；Motion Mannequin Full System Calibration # WI-45322；Mannequin Wet and Dry Motion Fit Test Data Sheet # FORM-51078；Mannequin Lab Study Builder Tool # WI-38046
+
+--- [[Bile Pigment Mordant Lane（胆色素媒染通道）]]  (2 句)
+   • 1. **Binary presence, not a threshold（二值存在性，而非阈值）**：bile pigment is **BEST** as a discriminator because normal urine contains none (bilirubin absent), while infant BM carries bilirubin / biliverdin / stercobilin — strongly anionic and intensely coloured. This is the only signal in the concept that is **independent of feeding mode**.
+2. **Chromatographic concentration（色谱式浓缩）**：capture happens by ion exchange, so a faint sample is concentrated in place — **the concentration step makes a faint samp
+   • BM Urine Indicator Concept（尿+便双指示概念） —— 
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本） ——
+

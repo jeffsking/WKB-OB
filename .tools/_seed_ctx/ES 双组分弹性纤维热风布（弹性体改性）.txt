@@ -1,0 +1,45 @@
+# SEED: ES 双组分弹性纤维热风布（弹性体改性）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 5 页，9 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 105862253 A（一种热粘合无纺布及其生产方法·湖北高翔）]]  (3 句)
+   • A 2016 supplier-side application claiming **elastomer-doped ES sheath-core fibres**（掺弹性体的皮芯 ES 纤维）for **through-air bonded nonwovens** — the standard industry answer to "热风布要更软、低模量、无摩擦感"：把弹性体（Vistamaxx 类）加进皮层或芯层母粒，再用常规开松-梳理-热风线生产。对本库是**热风布弹性体改性的配方+工艺窗口锚点**（皮芯比、弹性体 5–50%、梳理线速、热风温度/车速均有量化）。
+   • **「弹性体加在哪一层」是本申请的权利要求骨架**（皮/芯/双弹性三态），比单一配方权利要求覆盖面更宽 → ES 双组分弹性纤维热风布（弹性体改性）
+- **热风粘合窗口 120–140 °C 与常规 ES（PE 皮熔点约 130 °C）一致**，说明弹性体掺入未抬高热风工艺门槛 → 热风粘合无纺布
+- **Vistamaxx 的耐曲绕/抗应力发白论点**对卫材面层动态摩擦场景有直接参考价值 → ES 双组分弹性纤维热风布（弹性体改性）
+   • Concept 概念：热风粘合无纺布、ES 双组分弹性纤维热风布（弹性体改性）
+
+--- [[Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres]]  (2 句)
+   • **双组分纤维（bicomponent fibre 复合纤维）热风粘合的窗口就在这章**：ES 纤维（PE sheath / PP core 皮芯结构）的热风穿透粘合本质是利用皮层 PE 的 Tm 远低于芯层 PP 的 Tm —— 加工温度必须落在"皮层熔融、芯层仍保持取向与强度"的区间；本章的两相模型与 Tm = ΔHm/ΔSm 正是解释该窗口为何存在的理论依据。见 ES 双组分弹性纤维热风布（弹性体改性）。
+- **取向度 = 纺粘布强力的直接杠杆**：p.17 的"取向↑ → 断裂负荷↑、断裂伸长↓"对应纺粘/熔喷线的牵伸比（draw ratio）设定；追求高强力会牺牲伸长与手感，是面层/底层设计的固有折中。见 Meltblown Nonwoven（熔喷非织造布）。
+- **聚烯烃改性要用结晶度而非只盯分子量**：PP 纤维级分子量约 150000（vs 塑料级 60000，p.23），但熔体粘度 ∝ z^3.4 意味着提高分子量会迅速恶化可纺性 —— 因此 PP/PE 纺粘的低克重化更应通过**结晶动力学调控**（成核剂、共聚）实现。见 Olefin Block Copolym
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch01 Introduction — 上一章：纤维定义与制造二分法
+- ES 双组分弹性纤维热风布（弹性体改性）
+- Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+- Meltblown Nonwoven（熔喷非织造布）
+- Pentagram PET (Star Cross-Section Fibre)
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (2 句)
+   • 1. **Free vs tension annealing 直接对应产线张力窗口**：自由 annealing 降取向降强力、增直径增旦数；张力 annealing 提强力而旦数不变。热风烘箱里网带是约束还是松弛状态，决定了成品布的 CD/MD 强力比与手感 — this is the same variable discussed in Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） and Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）。
+2. **永久定形机理解释了为什么热粘合后的布不再回缩**：皮层 PP/PE 的小不完善晶体在低于熔点处部分熔融并重结晶为更完善晶体，结构落到更低能量极小态。这是热风穿透温度必须略高于皮层熔点、又不能破坏芯层 PET/PP 取向的原因。参见 ES 双组分弹性纤维热风布（弹性体改性）。
+3. **两步收缩模型对尺寸公差有用**：非晶区解取向是快速的第一步，如果把商品布存放/再受热控制在第一步之后的结晶阶
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres — the orientation that heat-setting must stabilize
+- Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比） — bonding routes where set and shrinkage are set by the tension window
+- ES 双组分弹性纤维热风布（弹性体改性） — sheath-core ES fibre used in through-air bonding
+- Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） — hot-air oven practice and line tension control
+- Elastic Tension & Cr
+
+--- [[热风无纺布]]  (1 句)
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (1 句)
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+

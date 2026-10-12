@@ -1,0 +1,122 @@
+# SEED: Liner-Surge Embossing（面层-导流层压花）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 58 页，97 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (5 句)
+   • 本批**面层-导流层（liner-surge）界面附着强度的 DOE 结果报告（2025-11-18）**：用剥离强度（peel strength）作为界面间隙的代理指标，量化施胶花型、施胶基材、是否压合、施胶量与胶型五个因子的影响大小。是本库回答「界面间隙怎么降、先动哪个变量」的实验依据。
+   • **结论（如何减小界面间隙）**：① **考虑把施胶花型从 Summit 改为 Signature 或 CF Swirl**——其影响**可能大于面层-导流层压花（liner-surge embossing）**（待 MicroCT 结果确认）；**注意：Summit 的偏低可能是花型质量不达标的异常**，历史上 Summit 的粘合强度 ≥ Signature。② **继续把胶施加在导流层上**。③ **可考虑提高施胶量（add-on），但影响很可能很小**。④ **胶型大概率不值得更换**，除非 microCT 测试中观察到异常。
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+   • 概念：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Measurement Variability（回渗测试变异性）、Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- 实体：汉高、Rextac（APAO 热熔胶）
+- 对比：（本页为单因子 DOE 结果，不构成对比页；花型间比较见 Liner-Surge Interstitial Space（面层-导流层界面间隙））
+
+--- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]  (4 句)
+   • **干爽域（Dryness）**：Surge（Resilient Surge：MOJAVE / REXHA / VONN；ATACAMA+ CT5）→ Liner-Surge Embossing（LSE）→ Capillary Network（ATACAMA+ / BUFF BABY / ARTEMIS）→ Liner（Resilient + Converting / Hollow Bico / Capillary Surge）→ Rewet Fundamentals；**未规划（not yet planned）**：Surge Liner B SB Liners、BUFF BABY ARTEMIS、Core Wrapsheet GRIFFIN SMS、ActivTech Hybrid、以及 **Rewet Fundamentals 的一致性与变异降低（Depend）+ 统一方法**。
+   • **多数品牌**通过**改进导流层设计 + 面层-导流层压花（LSE）**来降低回渗；
+- **当前回渗最优的导流层是 Depend CT5（ATACAMA+），但它在加工（converting）上有权衡**；
+- **其他品牌使用 MOJAVE 系列导流层，但将被中空双组分（hollow bico）取代** —— **中空双组分可在降低克重（降本）的同时改善加工性**。
+   • **管线按性能域组织，三档时点（Commercial / 2025–2026 / 2027+）。** —— 支撑页：（无，登记于本页）
+- **导流层换代：MOJAVE 家族 → 中空双组分，主因是降克重降本 + 改善加工，而非性能。** —— 支撑页：ADL（导流层）
+- **当前回渗最优导流层是 Depend CT5（ATACAMA+），但有加工权衡。** —— 支撑页：ADL（导流层）
+- **成人护理下一步在导流层之外；MicroCT 显示面层持液多于导流层。** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **六条假设（面层粗纤维 / 胶替代 LSE / 收窄孔径分布 / SMS 包裹层嫌疑 / 卷曲纤维+绒毛浆 / APAC SAP）。** —— 支撑页：ADL（导流层）、Liner-Surge Embossing（面层-导流层压花）
+- **DOE：Total SAM 显著（P≈0.000）、Surge 不显著（P≈0.523）⇒ 支持转向芯体。** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高
+   • 概念：ADL（导流层）、Liner-Surge Embossing（面层-导流层压花）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、In-line 3D Nonwoven Formation（在线三维成形非织造）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[面层粘合强度测试方法.pdf]]  (4 句)
+   • 南京厂作业指导书 **WI-56934（第 1 版，2022-08-10）**——**CIDER 3D Embossing Lamination Strength**：测 **CIDER 产品在线复合的 3D 压花面层（topical liner）与支持层（support layer）之间的层压结合强度**，峰值载荷以 **gf** 表示。
+   • **在线复合（in-line lamination）的结合强度被做成独立验收项，读数同为峰值 gf** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **试样"只含 3D 压花、不含侧封边"是本页与端封类方法的分界线** —— 支撑页：Seal Strength Test（端封·侧封强度测试）
+- **同一界面存在两条厂内方法，引用须带 WI 号** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+   • 概念：Liner-Surge Embossing（面层-导流层压花）、Seal Strength Test（端封·侧封强度测试）
+- 对比：3D 面层-支持层结合强度两法对比（WI-56934 vs WI-57507）
+- 实体：KC Nanjing Plant（金佰利南京厂）
+   • 本地路径：
+- 原文链接：（无；内部 WI）
+- 同界面另一方法：Topical liner Supporting layer Embossing pressure.pdf（WI-57507）
+
+--- [[Seal Strength Test（端封·侧封强度测试）]]  (3 句)
+   • 在本库中该方法有**双重身份**：
+1. **独立判据**：直接判定端封/侧封的胶量与粘合是否合格；
+2. **母方法**：STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc 与 Topical liner Supporting layer Embossing pressure.pdf（WI-57507）**均直接复用 STM-00078 的程序**并只改夹具/速度——因此三条方法构成同一 **gf 峰值法族**，但**夹具距离与对象不同，不可混为一条**。
+   • 同族方法：Product Waist Break Test（产品腰围拉断测试）、Liner-Surge Embossing（面层-导流层压花）、Peel Test STM-00438（剥离强度测试）
+- 上游对象：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- 体系归属：芯体测试方法与验收基准（STM）
+- 对比：峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）
+   • STM-00078 端封强度.doc —— 
+- STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc —— 
+- Topical liner Supporting layer Embossing pressure.pdf ——
+
+--- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]  (3 句)
+   • 前瞻部分指向 **ActivTech Hybrid**：该芯体从未被用于如此严苛的超低回渗场景，可能尚未充分优化；早期数据显示 AT hybrid 回渗偏高，但该代码缺少对 ATACAMA 回渗改善至关重要的**面层-导流层压花（liner-surge embossing）**。对比表给出 Nov 2024 GRIFFIN HUT 产品的两个代码：SAM/Fluff（17 gsm tissue 包裹、12 gsm SB 未印花面层、Shalag SS7CT5H80 导流层、有压花）vs AT Hybrid（12 gsm dSB 包裹、12 gsm SB 印花面层、无压花）；芯体由 ADL 生产、成品由 GML 生产，在 GADT 实验室测试。
+   • **回渗是系统性残液问题，不是单点材料问题** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **面层-导流层压花（LSE）是 ATACAMA+ 回渗改善的关键工艺，AT Hybrid 早期数据不可直接对比** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **导流层优化与摄入性能存在结构性互斥，必须同轮验证** —— 支撑页：Intake System（摄入系统）、Shalag（Shalag 导流层与面层材料）
+- **液体积聚点会随方案迭代迁移（surge → liner），每轮须重新定位** —— 支撑页：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+   • 概念：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Liner-Surge Embossing（面层-导流层压花）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、Shalag（Shalag 导流层与面层材料）、Fitesa（Fitesa 非织造布）
+- 对比：（本页未提供可直接落表的成本/供应链数据；竞品回渗对标见下节结论）
+
+--- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]  (3 句)
+   • 本库**"面层—导流层界面"这一层的施胶工艺与回渗假设的完整试验设计**：它把「为什么要在这一层施胶」（提升连接性 → 降回渗）与「施胶可能带来的两个反作用」（堵排液通道、压扁导流层）明确写成四条可证伪的假设，并配一套可直接上机的**流量—泵速—喷嘴速度计算表**。与 Liner-Surge Embossing（面层-导流层压花） 是同一界面的两种结合机制（压花 vs 施胶）。
+   • 派生概念：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- 同界面另一机制：Liner-Surge Embossing（面层-导流层压花）（压花 vs 施胶）
+- 供应商：汉高（Henkel 5402 / DM5402U）、Rextac（APAO 热熔胶）（RT-8723）
+- 基材：Resilient Surge（PET 回弹导流层）（CT5 = 100% PET）
+- 判读前提：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（本试验的回渗读数须先声明是哪一个口径）
+   • "Higher coverage will yield lower reset because of higher liner-surge connection; but more adhesive may also block drainage"（施胶花型假设）
+- "Higher add-on yield higher connectivity, thus lower rewet"（添加量假设）
+- "Surface Energy will impact rewet…may need more definition"（胶种假设）
+- "Liner-surge connectivity, but also compresses surge so could help or hurt"（压合花型假设）
+- "Testing Plan | Peel testing; Capillarity, MicroCT"（Sheet1 右栏）
+- "Tweak Run Order (Adh Type, Pattern, Bonder, Then Add-on)"（运行顺序策略：先胶种 → 花型 → 
+
+--- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]  (3 句)
+   • 文件结构统一：每张一页纸均含 Consumer Insight & Benefit、Feature / Technical Solution、Success Criteria、Test Results、Timeline、TRL Status 六段。**代表性页面**：① **DOS Bodyside Material（MD/CD 对花分区）**沿用 DualZone™ 概念，在小便区/大便区做对花分区图案，依赖供应商对花能力（Vietnam BlueZone 为先例），2026 年 Q2–Q3 需建立或改造 IPC 对花能力。② **DAM Liner（CD 分区 + 边缘液体坝）**已在 China T6 Natural Pro 上完成对照测试，Phase 1 于 2025 上市，Phase 3 预计 2027。③ **AC4 for urine / ZENDOS**：前者针对 Textor surge 处理尿液回渗偏高的短板（提高克重补空体积、提高旦尼尔降残留液）；后者把现有 ZEN 配方「超配」加入抗粪便酶成分。④ **Hollow Bico / MOAB Surge**：围绕 
+   • **摄入层的一切收益都来自「受压下仍保有的空体积」——压花、克重、纤维截面、卷曲风格是同一变量的不同表达** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **LSE 图案不是视觉装饰：bond 面积越大、bond 间距越小 → 空体积越小 → 摄入变慢、回渗升高** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **柔软与干爽此消彼长：细旦带来软感，也带来毛细残留液（回渗）** —— 支撑页：热风粘合无纺布
+- **可持续性存在多条并行且互不替代的跑道：无锑 / 无塑（PLA、Lyocell）/ 天然纤维 / 微生物组认证** —— 支撑页：无锑聚酯、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • 概念 Concept：Liner-Surge Embossing（面层-导流层压花）（本页派生）、分区密度设计、ATB双梳理面层（Dual-Card Topsheet）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、无锑聚酯、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 实体 Entity：延江（Yanjan）（原文提及 YanJan 3D topical surge）
+- 组合 Portfolio：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Topical liner Supporting layer Embossing pressure.pdf]]  (3 句)
+   • 南京厂作业指导书 **WI-57507（第 1 版，2022-10-17）**：用拉力仪测 **Topical Liner（3D 面层）与 Supporting Layer（支持层）之间压纹压合强度**，峰值载荷以 **gf** 表示——是**压花（embossing）工艺强度**的可量化判据。
+   • **压花强度被转译为"层间剥离峰值 gf"，使外观工艺可被量化验收** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **恒温恒湿 23 ± 1 ℃ / 50 ± 2% RH 是本页与端封母法的关键差异** —— 支撑页：Seal Strength Test（端封·侧封强度测试）
+- **压花强度与摄入性能是一对取舍（结合强 vs 空体积）** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+   • 概念：Liner-Surge Embossing（面层-导流层压花）、Seal Strength Test（端封·侧封强度测试）
+- 对比：峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）
+- 实体：KC Nanjing Plant（金佰利南京厂）
+
+--- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]  (3 句)
+   • **数据来源**：**2024–2025 Step 4 LabVantage 请求**（**BUFF BABY 已筛选为 16 gsm Platinum 面层、无面层-导流层压花**）。
+- **图中对照**：Huggies T4（McFLY）、Pampers Baby Dry、Huggies T4/T5/T6（BUFF BABY）、Huggies T5（DEFENDER）、Huggies T6（BEACON / ZEN）。
+   • 1. **"孔径分布过宽 ⇒ 孤立小口袋"是 Depend 线的第一假设** —— 不是"孔径太大/太小"，而是**分布宽度**问题；**控制 PSD 宽度而非均值**是可迁移的判据。
+2. **两条已被证伪的路线被显式移出范围** —— **开放 bond pattern 无改善**、**降低面层润湿性导致 HUT 泄漏升高**。**"降低润湿性换回渗"的代价在本库中第二次被证实**（SIROCCO / GRIFFIN），**且这次是被正式出局而非仅登记风险**。
+3. **LSE（面层-导流层压花）在婴儿线已"连接已证明"并商业化** —— 同一机制在 **Poise 线却是"早期有希望、最近数据不鼓舞"**；**同一机理在不同产品线上结论不同 ⇒ 不能跨线平移结论**。
+4. **成人线与婴儿线的胜负方向相反** —— **Huggies 的 LPR 本来就不差、HPR 才落后**；**只看"回渗"一个词会完全误判**。**LPR/HPR 分档是回渗工作的必要前提**。
+5. **"分布是否在帮他们"是一个反直觉的新问题** —— AD 回渗差但**全长全宽、芯吸良好的 surg
+   • LPR vs HPR Rewet（低压回渗 vs 高压回渗机制） —— **Huggies LPR 本来不差、HPR 才落后**是本页分档论据的实证；**T6 surge 持续高回渗**指向 HPR 档的结构性来源。
+- Liner-Surge Embossing（面层-导流层压花） —— **Huggies 线"连接已证明 + 与 BB T5 推广"** vs **Poise 线"最近数据不鼓舞"**，构成同一机理的**跨线结论冲突**。
+- Surge-Liner Adhesive Bonding（导流层-面层施胶粘合） —— Depend 线假设：**LSE 净正向，但换一种施胶配置可能更好**。
+- Rewet Test（回渗测试） —— **blotter media 改变结果**与**测试变异性**是方法层的直接风险；**TIM-00672 / FIUP research rewet** 的方法口径。
+- Residual Fluid & Pore Stranding（残液与孔隙滞留） —— "孔径分布过宽 ⇒ 孤立小口袋"与"更低毛细压力 = 孔隙困住更少液体"。
+- 亲
+
+--- [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]]  (3 句)
+   • Internal discussion plan. Minrui session (8/20): role framing — ES fibre supplier to Yanjan, which serves KC; also direct ES supplier to Xinweisheng, creating a four-node chain and a **potential information-boundary conflict (G1)** when both suppliers serve KC. Question set covers C2 anchor-recipe ES denier/crimp/hydrophility batch variation (Q1), REL trial round status vs C1 baseline wet-tensile/first-strike/rewet (Q2, G2), hydrophilic treatment durability (Q3), antibacterial ES mechanism and O
+   • **三层切割是 REL 扩散卡层（异形纤维+ES）的替代候选，但两条路线更可能并行而非互斥** —— 支撑页：Triple Cutting Topsheet（三层切割面层）、REL增强层
+- **3D 压花解决的是「面层」问题（降克重+透气），不解决「扩散卡层」问题** —— 支撑页：3D In-line Embossing Topsheet（3D 在线压花面层）
+- **闽瑞同时供货延江与新维盛，双供应商均服务 KC 时存在信息边界风险（G1）** —— 支撑页：福建闽瑞新合纤
+   • 实体：福建闽瑞新合纤、新维盛集团（Xinweisheng Group）、延江（Yanjan）、格菲林（Gefilin）（Q8 对照对象）
+- 概念：Triple Cutting Topsheet（三层切割面层）、3D In-line Embossing Topsheet（3D 在线压花面层）、REL增强层、热风粘合无纺布
+

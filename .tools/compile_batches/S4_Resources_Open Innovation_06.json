@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519.docx.md",
+   "name": "PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519.docx.md",
+   "title_hint": "PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM Database-CW.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM Database-CW.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM Database-CW.xlsx.md",
+   "name": "SAM Database-CW.xlsx.md",
+   "title_hint": "SAM Database-CW.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md",
+   "name": "Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md",
+   "title_hint": "Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAF芯体应用可行性评估报告_20260708.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAF芯体应用可行性评估报告_20260708.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAF芯体应用可行性评估报告_20260708.pdf.md",
+   "name": "SAF芯体应用可行性评估报告_20260708.pdf.md",
+   "title_hint": "SAF芯体应用可行性评估报告_20260708.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/86-SAP落料速度匹配与容差规范.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/86-SAP落料速度匹配与容差规范.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/86-SAP落料速度匹配与容差规范.md.md",
+   "name": "86-SAP落料速度匹配与容差规范.md.md",
+   "title_hint": "86-SAP落料速度匹配与容差规范.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨供应商综合技术联系表.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨供应商综合技术联系表.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨供应商综合技术联系表.xlsx.md",
+   "name": "变色油墨供应商综合技术联系表.xlsx.md",
+   "title_hint": "变色油墨供应商综合技术联系表.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Summary of Pressures on Products.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Summary of Pressures on Products.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Summary of Pressures on Products.pptx.md",
+   "name": "Summary of Pressures on Products.pptx.md",
+   "title_hint": "Summary of Pressures on Products.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/JD-Material_Development_Engineer_Bilingual.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/JD-Material_Development_Engineer_Bilingual.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/JD-Material_Development_Engineer_Bilingual.docx.md",
+   "name": "JD-Material_Development_Engineer_Bilingual.docx.md",
+   "title_hint": "JD-Material_Development_Engineer_Bilingual.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.31 - ADT Rewet Update.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.31 - ADT Rewet Update.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.31 - ADT Rewet Update.pptx.md",
+   "name": "2026.03.31 - ADT Rewet Update.pptx.md",
+   "title_hint": "2026.03.31 - ADT Rewet Update.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Parameters.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Parameters.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Parameters.pptx.md",
+   "name": "Rewet Method Parameters.pptx.md",
+   "title_hint": "Rewet Method Parameters.pptx"
+  }
+ ]
+}

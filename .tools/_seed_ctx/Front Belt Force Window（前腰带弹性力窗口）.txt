@@ -1,0 +1,128 @@
+# SEED: Front Belt Force Window（前腰带弹性力窗口）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 229 页，359 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (6 句)
+   • **Non-electronic, visually-read health indication integrated into a disposable absorbent article（集成到一次性吸收制品的非电子目视健康指示）** — a **window** in the article's outer surface allowing a **removable thermochromic sensor** to be read from outside.
+   • **Thermochromic clearing-point transition read through a window（透过窗口读取的热致变色 clearing point 转变）** — two distinct chromic mechanisms are described:
+   • **Window material**（L577-584）: outer surface must be translucent/transparent; candidates **polyethylene, polypropylene, polyester, polystyrene, polyvinyl chloride, polyurethane, polycarbonate, polyacrylate, PTFE** and combinations.
+- **Conventional diaper chassis**（L230-271）: topsheet 24 / backsheet 26 (**thermoplastic film about 0.012–0.051 mm thick**) / absorbent core 28 / side panels 30 / leg cuffs 32 / elastic waist 34 / fastening system 40; the diaper is a **"unitary"** construction（L205-22
+   • Source note: the preamble's "for visually detecting health-related conditions" is a **use/intended-purpose limitation**; the source observes that infringing determination normally still requires the structural features. The claim is a five-element combination: **article + window + removable + thermochromic + ~99.5–102 °F + closed material list**.
+
+--- [[变色油墨 Color-Changing Ink]]  (5 句)
+   • **Three classification axes（三条分类轴）**（源：Chromism Taxonomy（变色现象分类））
+1. **Trigger quantity（触发量）** — classify by what physical quantity arrives at the material, not by chemistry family.
+2. **Reversibility（可逆性）** — reversible vs irreversible / one-shot；continuous monitoring needs a reversible route, a single alarm may use a semi-reversible or irreversible one。**"This is the axis that eliminates designs, not the chemistry family."**
+3. **Threshold（阈值）** — industrial metrology materials are engineered 
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+   • **Mechanochromic candidate short-list（2026-09-29 addendum，源：变色油墨）**
+- HPC（viscoelastic lattice-spacing change → compression blue-shift；edible / non-toxic / degradable）
+- Naphthopyrans（covalent bond cleavage → modular colour change；best stability and synthesis accessibility）
+- Spiropyrans（6π electrocyclic ring-opening → strong colour；**thermochromic transient**）
+- Cu-based HCP（luminescence shift；resistant to environmental contamination）
+- Common bottleneck = the **force gap**: industrial mechanop
+   • **Wetness indication（尿湿指示）**: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy — which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。
+- **Selection criterion**: hydrochromic is the **only class dedicated to diaper wetness display**, hence the first screening condition in ink selection；baro-chromic ink is already on the CTI product line, cre
+
+--- [[湿迁移 Wet Migration]]  (4 句)
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **6. 干燥过程中的迁移（另一口径）：** 干燥中粘合剂迁移形成**表富里贫（binder-rich skin / starved core）**，导致**分层风险**（源：Chemical bonding）。同一章对聚合物型增塑剂的表述为 "less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+   • ：湿迁移的**定义句与量纲口径**（含水量 / 饱和度 / 迁移通量）在引用来源中均未给出。
+- ：本库尚无把「湿迁移」与回渗（rewet）定量关联的摘录；湿迁移 ≠ 回渗，引用时不可混用（源：Diffusion Equations (Crank Ch.1)）。
+- ：微胶囊语境下的迁移表述在摘录中**被截断**（"Migration is the hard …"），原文残缺，不予补写（源：Microencapsulation）。
+- ：助剂迁移「未被量化」——原章只定性给出 less susceptible to migration / less extractible，**未给出迁移速率模型或萃取限量数值**（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+- ：GB/T 34405-2017 的 LOQ 数值在摘录中被截断（LOD 0.005 mg/kg 可读，LOQ 不可读）（源：GB-T 34405-2017 Determination of Acrylamide Migration 
+   • **提供正文摘录的库内页面**
+- Numerical Methods for Diffusion (Crank Ch.8)
+- Chemical bonding
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+- Blizzard Core（Blizzard 芯体结构）
+- 可降解生物基材料与薄且强芯体技术深度解析
+- Microencapsulation
+
+--- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]  (4 句)
+   • A **strategy roadmap** for commercialising mechanochromic（力致变色）materials in consumer absorbent hygiene. Its purpose in this library is to supply the *commercial* half of the mechanochromic story — the pathway choice, the regulatory gate and the force-threshold gap — that the existing materials-side page（Mechanochromic变色纤维）does not cover.
+（本页是**机械变色材料在消费级吸收卫生用品中商业化的战略路线图**。在本库中的用途是补齐力致变色的**商业侧**信息——路径选择、监管闸门、力量阈值缺口——这些是既有材料侧页面未覆盖的部分。）
+   • 1. **Thesis**：integrating force-responsive, **power-free** sensors transforms commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。（论点：力响应、无源传感，让日用品纸尿裤变成「智能」安全装置，且不依赖昂贵电子件。）
+2. **Moat**：first-mover advantage hinges on successfully **de-risking the massive leap from lab-scale mechanochemistry to high-speed industrial nonwoven lines**。（护城河在于把「实验室力化学 → 高速工业无纺线」的跳跃降险。）
+3. **Two diagnostic zones are named**：**Zone 1 waistband tabs（防
+   • **Two pathways, one gate**：printable inks（速度/规模化）vs covalent mechanophores（IP 护城河），二者都从属于监管放行。 —— 支撑页：Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- **The central problem is a 3-order-of-magnitude force gap**（40,000 PSI → 20–150 kPa），其解法是化学/流变工程（stabilization bridge），不是器件工程。 —— 支撑页：Mechanochromic变色纤维
+- **Regulatory position is the strategy, not a compliance afterthought**：HPC 的价值一半在材料、一半在「可食 → 免试验」。 —— 支撑页：Active Diagnostic Zones（主动诊断分区）
+- **The product architecture is
+   • Local path 本地路径：
+- Original link 原文链接：（无；内部资料）
+- Extraction note 提取说明：源 front matter 记录 extract_method = ima-mcp fetch_media_content，clean_rules v2（dead-image-link→text、repeat-digits 压缩）；正文本页引用处已标注「OCR 残片 / 口径待确认」。
+
+--- [[Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure]]  (4 句)
+   • **Ionic bond 离子键** — "The bonding force in sodium chloride is a result of the electrostatic attraction between the two ions." (Ch.3, p.61). Exception in polymers: "Ionic bonds are not common features in polymeric materials. However, divalent ions are known to act as cross-links between carboxyl groups in natural resins. The relatively new class of polymers known as ionomers contain ionic bonds." (Ch.3, p.61)
+- **Covalent bond 共价键** — "Bonds formed by electron sharing are called covalent bonds." 
+   • **Dipole force 偶极力** — "Molecules … will have a permanent dipole if the centers of the positive and negative charges do not coincide; this arises if the electrons shared by two atoms spend more time on one of the atoms due to differences in electronegativity." (Ch.3, p.62); HCl is used as the model molecule.
+- **Hydrogen bond 氢键** — "The hydrogen is generally part of such groups as carboxyl, hydroxyl, amine, or amide, while the other atom in the hydrogen bond is frequently oxygen (in carbonyl, e
+   • **Pauling chemical-bond theory (1930s–40s)** — the primary/secondary bond dichotomy derives from it.
+- **London dispersion (1930)** — the quantum-mechanical explanation of van der Waals forces.
+- **IUPAC three-level structure framework (1958)** — primary / secondary / tertiary; the source follows it strictly.
+- **Flory polymer physics** — the relation between physical properties and the aggregate effect of secondary bonds is a cornerstone.
+- **Tension: bond strength vs. aggregate effect 键强 vs. 聚
+   • 1. **Secondary bonds and thermal bonding windows 热轧/热风粘合窗口.** 聚烯烃（PE/PP）非极性，链间只有 van der Waals 力（Table 3.3: 0.08–4.0 kJ/mol）；其熔点却因长链聚合效应而高（Example 3.1）。这解释了热轧粘合必须把纤网加热到接近 Tm 才能使界面链段互相扩散缠结——粘合强度来自"链缠结 + 次键重建"，而非化学键。参见 Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins。
+2. **Hydrogen bonding in cellulosics 纤维素材料的氢键.** 绒毛浆、纤维素纤维的性质由氢键（≤50 kJ/mol，温度依赖性强）主导；这是纤维素亲水、吸湿并在润湿时强度下降的结构根源。
+3. **Ionic cross-linking and SAP 离子交联与超吸水性树脂.** "divalent ions are known to act as cross-links between carbo
+
+--- [[Introduction to Liquid Crystals]]  (4 句)
+   • The clear objective is an **antiferroelectric liquid crystal operating at room temperature** — i.e. the whole exercise is about pushing the $S_{Calt}$ phase window down into ambient conditions.
+   • **Shortening the ethyl-branched terminal chain** from ethylpentyl to ethylpropyl lowers every transition: B1 → B2 drops the clearing point by 12.8 °C (157.7 → 144.9) and the S_A–S_Calt transition by 15 °C (132 → 117). The same applies within the fluorinated pair (F1 → F2: 126.8 → 114.2 and 96.2 → 84.1).
+- **3-Fluorination has the larger effect**: within each alkyl pair, the fluorinated analogue is lower by ~31 °C on clearing (B1 157.7 → F1 126.8; B2 144.9 → F2 114.2) and by ~36 °C / ~33 °C on th
+   • S_A phase identified by **focal-conic texture** — imaged for B2 at 130 °C, consistent with B2's S_A window (144.9 → 117 °C).
+- $S_{Calt}$ phase identified by **broken focal-conic texture** in B1 at 55 °C, and by **schlieren texture exhibiting both two- and four-brush defects** in F1 at 95.6 °C. The two-brush defects are consistent with the anticlinic/antiferroelectric-like assignment rather than a simple synclinic smectic C.
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (4 句)
+   • The **test-planning page for the 4-configuration diffusion-enhanced topsheet DOE** — it defines the candidate fibre systems, the temperature/loading process window, the acceptance metrics and the 3-stage, 33-run test architecture for the REL ultra-thin core topsheet (50 gsm dual-card ATB). It is the batch's answer to "**which fibre goes on top, at what oven temperature, and how do we know it worked**".
+本页是本批**「扩散增强面层 4 配置 DOE」的试验设计页**：锁定候选纤维体系、温度/载荷工艺窗口、验收指标与「3 阶段 33 次试验」架构，服务于 REL 超薄芯体面层（50 gsm
+   • Process variables are **temperature (X2, 3 levels: 126 / 128 / 130 °C)** — the PE sheath melts/flows near 130 °C while PET stays stable to ~220 °C, so the window exists to find the "strength vs flattening" balance — and **loading (X3, 2 levels: Low / High)**, which affects acquisition rate and bonding strength.
+工艺变量为**温度**（3 水平：126/128/130 ℃；PE 皮层约 130 ℃ 流动、PET 约 220 ℃ 稳定，该窗口用于寻找「强度 vs 扁平化」平衡点）与**载荷**（2 水平：低/高，影响摄入速率与粘合强度）。
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+   • Concepts 概念：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、Shaped PET Add-On Window、MD Liquid Distribution、Pentagram PET (Star Cross-Section Fibre)、热风粘合无纺布、亲水整理耐久性
+- Entities 实体：福地（Fudi）、Suzhou Yimeng (Mono-PET Spinner)、延江（Yanjan）、兰精集团
+- Comparisons 对比：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]  (4 句)
+   • The **counterweight deck to the pentagram deep dive**: a literature deep dive + processability screening that recommends *rounded* profiled PET cross-sections instead of sharp star shapes, and gives add-on/dpf windows plus a screening matrix. It is the batch's "**shape must be manufacturable, not just sharp**" page.
+本页是**五角星形深度评估的对照页**：以文献综述 + 可纺性筛选替代尖角星形截面，给出添加量/旦数窗口与筛选矩阵，回答「**截面必须可制造，而不仅是够尖**」。
+   • The design window is then set: 10–20 wt% rounded trilobal (start 15%) at 1.5–2.0 dpf; 8–15 wt% rounded 4-groove (start 12%) at 1.3–1.8 dpf; 10–18 wt% Y-shaped at 1.5–2.2 dpf; 10–15 wt% hollow trilobal at 2.0–3.0 dpf — all with PE/PET ES held at 80–90 wt%, the existing hydrophilic finish package maintained, and staple length matched to the current carding line (typically 38–44 mm).
+设计窗口为：圆角三叶形 10–20 wt%（起 15%）@1.5–2.0 dpf；圆角四沟槽 8–15 wt%（起 12%）@1.3–1.8 dpf；Y 形 10–18 wt% @1.5–2.2 dpf；中空三叶形 10–15 wt
+   • **The ideal topsheet fibre is not the shape with the sharpest edges** but the best total balance of wicking, softness, bondability and process stability —— 支撑页：Pentagram PET (Star Cross-Section Fibre)
+- **Choose shapes that create repeatable channels, not just sharp points** —— 支撑页：Groove Capillary Suction、三叶形截面纤维（Trilobal Fibre）
+- **Shape is a modifier, not the whole design** — orientation and finish still control MD/CD balance —— 支撑页：MD Liquid Distribution、亲水整理耐久性
+- **Cap the one-component fra
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、三叶形截面纤维（Trilobal Fibre）、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling source 同批来源：Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)
+
+--- [[Smart Polymers Ch11 Smart Polymer Drug Delivery]]  (4 句)
+   • **Flory–Rehner equilibrium swelling** (Flory–Rehner 平衡溶胀理论): an immersed equilibrium gel is subject to only two opposing forces — "the thermodynamic force of mixing and the retractive force of the polymer chains" (L126–134), giving ΔG_total = ΔG_elastic + ΔG_mixing. Mc relations appear as Eq. 11.3 (neutral network prepared without solvent, L173–181) and Eq. 11.4 (with the relaxed volume fraction υ₂,ᵣ, L190–202). Ionic networks add a ΔG_ionic term.
+   • Key quote for the moving front: "the polymer matrix begins to swell, and two distinct phases can be observed … an inner glassy phase and a swollen rubbery phase. Drug molecules are able to diffuse out of the rubbery phase … no drug diffuses out of the glassy region" (L1137–1143).
+   • **Interpolymer complexes (聚合物间复合物)** are classified by secondary binding force:
+   • 1. **SAP design as a mesh-size problem.** ξ = υ₂,ₛ^(−2/3)(2C_n·Mc/M_r)^(1/2)·l and Mc from Flory–Rehner are the proper language for the free-swell vs. gel-strength trade-off: lower Mc ⇒ tighter network, higher modulus, slower uptake. Map ξ against fluid-uptake rate to select SAP grade per layer (acquisition vs. anti-gel-blocking).
+2. **Acquisition/distribution nonwovens.** D_eff = D_iw·(ε/τ)·K_p·K_r makes porosity ε and tortuosity τ explicit process levers for fiber denier, basis weight and cale
+
+--- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]  (4 句)
+   • A full **re-engineering proposal for a 45 gsm two-card / four-dosing ATB liner**: substitute trilobal mono-PET in the lower card only, raise MD fluid spreading by ~30%, and hold converting at 600 m/min without losing skin softness or CD tensile. It is the batch's most complete **engineering-physics page** (groove capillary pressure, wicking-front kinetics, bond-density model, process window, converting failure modes, cost view).
+本页是**45 gsm 双梳理 / 四给料 ATB 面层的完整重构方案**：仅在下层替换三叶形单组分 PET，机向铺展提升约 30%，
+   • The ask is four-fold: maximise MD urine distribution length (replace part of the ES with trilobal-section mono-PET), protect skin-contact softness (no measurable regression in hand or surface feel), hold CD tensile at the level a 600 m/min converting line demands, and specify fibre composition per carding layer plus the process window.
+需求有四条：最大化 MD 尿液铺展长度（以三叶形单组分 PET 替代部分 ES）、保护贴肤柔软（手感/表面触感无可测退化）、维持 600 m/min 转化线所需的 CD 拉伸、并逐梳理层给出纤维配比与工艺窗口。
+   • The diagnosis is that an all-round-fibre web spreads badly in MD because fluid must repeatedly re-form a meniscus to hop from pore to pore — every hop costs pressure, and the front stalls once the large pores drain into the core. A trilobal axial groove, by contrast, is a capillary that never breaks along the fibre axis: where the fibre is MD-aligned the groove is an MD conduit, and it keeps drawing after the bulk pores have emptied. The deck cites ≈300% surface area of a round fibre at equal de
+   • Concepts 概念：三叶形截面纤维（Trilobal Fibre）、Groove Capillary Suction、PE-PET Bond Efficiency Model、Shaped PET Add-On Window、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、热风粘合无纺布、亲水整理耐久性、Ultrasonic Bonding of PET-Containing Topsheet
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+

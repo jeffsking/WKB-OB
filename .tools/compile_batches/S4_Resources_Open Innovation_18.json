@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+   "name": "2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+   "title_hint": "2025.10.03 - STEC 2025 - Rewet Design Principles.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP collagen Testing Victoria Maria.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP collagen Testing Victoria Maria.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP collagen Testing Victoria Maria.pptx.md",
+   "name": "FIUP collagen Testing Victoria Maria.pptx.md",
+   "title_hint": "FIUP collagen Testing Victoria Maria.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.18 - Raegan Informal.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.18 - Raegan Informal.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.18 - Raegan Informal.pptx.md",
+   "name": "2026.02.18 - Raegan Informal.pptx.md",
+   "title_hint": "2026.02.18 - Raegan Informal.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析汇报.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析汇报.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析汇报.pptx.md",
+   "name": "SAM_511_分析汇报.pptx.md",
+   "title_hint": "SAM_511_分析汇报.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Development.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Development.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Development.pptx.md",
+   "name": "Rewet Development.pptx.md",
+   "title_hint": "Rewet Development.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/engineering proposal.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/engineering proposal.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/engineering proposal.pptx.md",
+   "name": "engineering proposal.pptx.md",
+   "title_hint": "engineering proposal.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison_brief.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison_brief.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison_brief.pptx.md",
+   "name": "Rewet Method Comparison_brief.pptx.md",
+   "title_hint": "Rewet Method Comparison_brief.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布分类工艺及性能差异.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布分类工艺及性能差异.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布分类工艺及性能差异.docx.md",
+   "name": "无纺布分类工艺及性能差异.docx.md",
+   "title_hint": "无纺布分类工艺及性能差异.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx.md",
+   "name": "BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx.md",
+   "title_hint": "BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md",
+   "name": "诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md",
+   "title_hint": "诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx"
+  }
+ ]
+}

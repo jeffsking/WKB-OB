@@ -1,0 +1,47 @@
+{
+ "batch_id": "W18-7",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_99965053462689d90c2992f62fdd8a1a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch2_Basesheet_拆解报告.md.md",
+   "name": "Baby_Wipes_101_Sept2025_ch2_Basesheet_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e5d71f8d084faeda4eb3419004e66712001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告.md.md",
+   "name": "Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b7c561043436c6391279f49adc318a63001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/MD Pants innovation_YK R&E.pdf.md",
+   "name": "MD Pants innovation_YK R&E.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d8f34fea87f8df790b8e72cd3700f97d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_07 Fibers & Fluff.pptx.md",
+   "name": "_07 Fibers & Fluff.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b37f1ed43ed51422cc36a2b5b4df1d18001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Product Drawings 101 (KC Sept2025)/Product_Drawings_101_Sept2025_ch5_Appendix_DRCS_Access_拆解报告.md.md",
+   "name": "Product_Drawings_101_Sept2025_ch5_Appendix_DRCS_Access_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_b9526ce20e7d06420cad8bb5e60a7ad2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Baby Wipes 101 - September 2025.pptx.md",
+   "name": "Baby Wipes 101 - September 2025.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_f5dc3aaafe72652e65a4a2b11ab5f5ab001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/SAM/SAM Category Strategy - GADT 2022.pptx.md",
+   "name": "SAM Category Strategy - GADT 2022.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

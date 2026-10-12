@@ -1,0 +1,36 @@
+{
+  "batch": "idb_03",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch12.md.md",
+      "chapter": "12",
+      "title_hint": "Microwave and Dielectric Drying",
+      "bytes": 14191
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch13.md.md",
+      "chapter": "13",
+      "title_hint": "Solar Drying",
+      "bytes": 15000
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch14.md.md",
+      "chapter": "14",
+      "title_hint": "Spouted Bed Drying",
+      "bytes": 18621
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch16.md.md",
+      "chapter": "16",
+      "title_hint": "Pneumatic and Flash Drying",
+      "bytes": 18042
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch18.md.md",
+      "chapter": "18",
+      "title_hint": "Infrared Drying",
+      "bytes": 17940
+    }
+  ]
+}

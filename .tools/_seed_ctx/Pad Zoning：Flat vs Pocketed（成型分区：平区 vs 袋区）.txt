@@ -1,0 +1,96 @@
+# SEED: Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 51 页，70 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[芯体通道花型设计]]  (3 句)
+   • **Spatial-dimension zoning.** Core Channel Pattern is listed as the **spatial-dimension** mitigation of gel blocking, against MD Liquid Distribution (the *inverse* distribution indicator) and SAP错峰膨胀 (the *time-dimension* mitigation)（源：Gel Blocking（凝胶阻塞））。It is likewise framed as the advanced form of zoning thinking — channel/void absorbent is the progression beyond flat vs pocketed forming（源：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区））。
+   • **Structural counter-examples from models/minutes.** Model v8 flags that the two outermost slices are near-zero absorbing at 240 s — an edge-bypass route requiring barrier or edge-densified SAP（源：2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告））; and a "Code 10"-class observation notes that **centre densification can itself be detrimental** — a structural-zoning counter-example（源：Gel Blocking（凝胶阻塞））。
+   • Gel Blocking（凝胶阻塞）
+- Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- COCO芯体平台
+- COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+- Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+- ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+- 2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+- Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+- SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+- 
+
+--- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]  (3 句)
+   • The document has three parts: a WKB knowledge inventory, an update-scope/justification part, and the full 32-page + 2-appendix outline. **Scale 规模**：25 OI projects (24 in the source Excel + OI-25 added from the Coco V6 trial material of 2026-09-16), 33 supplier engagements, 5 technology platforms, 12 material categories, 5 signed legal documents (NDA/NNN), 4 on-hold, 48 knowledge assets. **Reference frame 参照系**：the industry roadmap gives a 4-stage commercialisation path (2026–2029) and a TRL tab
+   • 1. **Zoning over uniformity 分区化取代均匀化** → OI-02 / OI-20 / OI-14 / OI-25
+2. **Ultrasonics from fallback to cost mainline 超声波升为降本主线** → OI-05 / OI-04
+3. **Degradables at the cost-crossover countdown 可降解进入成本拐点倒计时** → OI-24 / OI-06 / OI-12 / OI-13
+4. **Smart indication demoted to "visual language" 智能指示降级为视觉语言** → OI-15/16/21/22/23 (acceptance = decodable rate ≥70%)
+5. **Compliance as a pre-condition 合规升为选材前置条件** → all 25 (high risk: OI-09/15/16/21/22)
+6. **Patents & exclusivity as the first deliverab
+   • **The OI portfolio has no TRL grading while the industry already has nine TRL 9 technologies** —— the deck's core argument for introducing an external yardstick —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **Zoning over uniformity is the single most consequential route shift** —— it rewrites OI-02 / OI-14 / OI-20 / OI-25 targets —— 支撑页：分区密度设计、ATB双梳理面层（Dual-Card Topsheet）
+- **COCO V6's blocking gap is that the pilot line cannot do zoned SAP density** —— V7 is the answer —— 支撑页：COCO芯体平台
+- **The liner i
+
+--- [[Surface Tension and Surface Energy]]  (3 句)
+   • Chapter 2 (pp. 74–109) supplies the missing micro-level to Chapter 1's macro hydraulics: it fixes surface tension as a thermodynamic quantity, establishes Young's equation as an energy identity, and — most usefully for hygiene R&D — replaces the textbook flat-plate sessile drop with a rod/tube model that gives the capillary pull on an individual fibre, F = γLV·cos θeq·C.（中文：第 2 章为第 1 章的宏观流体力学补上微观热力学，并以"杆/管"模型取代平面液滴，给出单根纤维的毛细拉力。）
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+
+--- [[Urine and BM Absorbent Basic Training Introduction（尿与便吸收体基础培训·开篇·2021-02）]]  (3 句)
+   • The deck lists the four sessions with two attendance options each: Session 1 Absorbent Foundations (Feb 25, 2.5 h), Session 2 Absorbent Material Basics (Mar 3/4, 1 h), Session 3 Fluid and BM Foundations (Mar 9/11, 1 h), Session 4 Absorbent Bench and Modeling Tools (Mar 16/17, 1.5 h). Attendance rules: attend either option, only sessions of interest; every session recorded (Panopto) with slide links shared; PCM members count each session toward personal training objectives. The Training Overview 
+   • **培训定位是"能对话、能理解建议"，非供应链/制造深潜**（与 Agenda 中"删去 SAM 制造/供应/牌号"的删减指令一致）—— 支撑页：Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）
+- **Pad zoning（flat vs pocketed）与 channel/void absorbent 在 2021 年即为正式讲题** —— 支撑页：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+   • 系列同源：Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）、Absorbent System Overview（K-C 吸收系统概览培训·2021-02）
+- 概念：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+
+--- [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]]  (3 句)
+   • 「高分子物理学」公众号的异形纤维科普（原创 刘幸妮，2024-10-31）：**截面形状 → 性能**的通识映射与四种制法；在本库中为 三叶形截面纤维（Trilobal Fibre）、扁平形截面纤维（Flat Fibre） 等异形纤维概念页提供教科书级的机理补充（非供应商信息）。
+   • **十字/异形截面的导湿机理是「比表面积 + 表面微孔沟槽」——与库内三叶/偏心路线的扩散增益机理同源** —— 支撑页：三叶形截面纤维（Trilobal Fibre）
+- **扁平纤维抗起球的机理是比表面积增大 → 纤维间抱合力增大** —— 支撑页：扁平形截面纤维（Flat Fibre）
+   • 概念：三叶形截面纤维（Trilobal Fibre）、扁平形截面纤维（Flat Fibre）、功能性差别化纤维（PTT_超仿棉_纳米凉感）、原纤化（对照）
+- 实体：福地（Fudi）（三叶形路线的国产供方）、Emon Jiangsu（江苏益盟）（十字形 mono PET）
+
+--- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]  (2 句)
+   • **What 是什么**：Strategic placement of SAM（中文：按位置策略性投放 SAM），最多**去除 2 g SAM/片**。
+- **How 怎么做**：SAM flow is **pulsed 21 times per second**（中文：SAM 流每秒脉冲 21 次）以实现分区。
+- **Value 价值**：**$2–4/SU** 节省；MD Zoning 口径年节省 **$6–12MM（$2–3/SU）**，Capex **$0.4–0.5MM / asset**。
+- **Readiness**：**Product TRL 4 / Process TRL 5**；on track **$2/SU by 2028**。
+- **Applies to 适用范围**：LM、SND、OVN、SKE（POME & AB）、CP（POME & AB）。
+- **Evidence 证据**：HUT **40835** 中去 2 g 的 AT 2.0 **did not negatively impact leakage performance**，但**整体
+   • 1. **AT 2.0 渗漏结论的两句表述并存**：源文既记"去 2 g 未对渗漏产生负面影响"，又记"整体渗漏高于预期（约 5.7%–7.2%）"。二者**不构成直接矛盾**（相对不劣化 vs 绝对水平偏高），但**是否与 ≤4% 目标冲突**，需人工确认。（中文：不裁决、不换算。）
+2. **"$2–4/SU" 与 MD Zoning "$2–3/SU"** 两个节省区间口径不同（平台口径 vs MD 分区口径），未在同一句中给出换算关系，**不做换算**。
+3. **10-10-40 / 15-30** 的含义源文未展开，仅并列于 Next Gen 目标，**不推断**。
+4. 本材料自述"Latest Deck 已并入 Technology and Innovation Review – April 8–9 2026.pptx"，**date_published 依此推定为 2026-04-09**（文件自身无独立日期）。（中文：日期为推定，非原文明示。）
+5. pptx 解析含图片文字与重复数字串噪声（如"19 19 19 ×28"），已剔除；图片中的对比数据**未转写为数值
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (2 句)
+   • Process variables are **temperature (X2, 3 levels: 126 / 128 / 130 °C)** — the PE sheath melts/flows near 130 °C while PET stays stable to ~220 °C, so the window exists to find the "strength vs flattening" balance — and **loading (X3, 2 levels: Low / High)**, which affects acquisition rate and bonding strength.
+工艺变量为**温度**（3 水平：126/128/130 ℃；PE 皮层约 130 ℃ 流动、PET 约 220 ℃ 稳定，该窗口用于寻找「强度 vs 扁平化」平衡点）与**载荷**（2 水平：低/高，影响摄入速率与粘合强度）。
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+
+--- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]  (2 句)
+   • A **physics-based feasibility study** asking whether an all-PP SMMMMS structure can replace the breathable backsheet film. Its purpose in this library is to supply the quantitative barrier, attenuation and degradation limits behind any "drop the film" proposal, and to supply a **zoning** answer instead of a yes/no answer.
+（本页回答「全 PP 的 SMMMMS 结构能否替代透气背层膜」，属**基于物理模型的可行性研究**。在本库中的用途是：为任何「去膜」提案提供量化的阻隔／拉伸衰减／降解边界，并把答案从「行不行」改成**分区**。）
+   • **Fibre fineness is bought with throughput per hole and jet velocity, not with temperature.** —— 支撑页：Meltblown Nonwoven（熔喷非织造布）
+- **Thermal decoupling of the die tip is the real benefit of the laser**, because degradation is dose = rate × time and the capillary shortens the time by 80,000×. —— 支撑页：Laser-Assisted Die Tip（激光辅助模头）、熔融指数与化学降解
+- **Barrier is formation-limited**, so beam count and local basis-weight CV — not median pore size — set hydrohead. —— 支撑页：Formation-Limited Barrier（阻隔的成形受限机理）
+
+
+--- [[Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester]]  (2 句)
+   • Embedding a stilbene/azobenzene E–Z photoisomerizable unit in the polymer main chain grants remote, non-contact light control of shell morphology/permeability without destroying bulk structure.（将 E–Z 光异构单元嵌入主链即可远程、非接触地调控壳层形貌与渗透性。）
+- A flat P4 membrane made by the same phase-inversion precipitation (PIP) process models the microcapsule shell; it shows an asymmetric dense-skin / spongy-support morphology matching the capsule wall.（用相同相转化沉淀（PIP）工艺制备的平面 P4 膜作为微胶囊壳模型，呈非对称致密皮层+海绵支撑结构。）
+- E→Z isomeriza
+   • Phototriggered release = P4 backbone conformational change from α-methylstilbene E→Z isomerization (experimentally verified) — support page: Liquid Crystalline Polymers Smart Applications.
+- The flat P4 membrane is only a shell surrogate; the system is microcapsule-based, not a pervaporation membrane — see An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks for the atomistic confirmation.
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (2 句)
+   • **5. Flat-top LCST curves are a practical gift.** For PNIPA and PVCL, the coexistence-curve top is flat: (i) the phase-separation temperature does not change over a wide polymer-concentration range; (ii) all phase-separation temperatures equal the LCST; (iii) spinodal and binodal cannot be experimentally distinguished (L2052–2063). This makes the trigger robust against local concentration variation.
+   • 1. **SAP as a nonergodic cross-linked network.** The swelling balance is ionic osmotic pressure (electrostatic repulsion) vs. network swelling pressure (L2197–2205), and ⟨I_S⟩_E scales with cross-linking density (L2638). 中文：把 SAP 当作非遍历水凝胶做 SLS/DLS，可用 ⟨I_S⟩_E 反推交联密度对凝胶强度的贡献。Action: quantify how surface cross-link density moves ⟨I_S⟩_E, to tune free-swell capacity vs. gel-bed permeability.
+2. **Thermoresponsive layers near body/urine temperature.** Flat-top LCST means the trigger is concentration-
+

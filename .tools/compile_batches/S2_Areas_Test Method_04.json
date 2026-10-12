@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00623高低压反渗测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00623高低压反渗测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00623高低压反渗测试.docx.md",
+   "name": "TTM-00623高低压反渗测试.docx.md",
+   "title_hint": "TTM-00623高低压反渗测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00279产品30°滑渗测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00279产品30°滑渗测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00279产品30°滑渗测试.docx.md",
+   "name": "TTM-00279产品30°滑渗测试.docx.md",
+   "title_hint": "TTM-00279产品30°滑渗测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1002U型扩散实验.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1002U型扩散实验.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1002U型扩散实验.docx.md",
+   "name": "STM-1002U型扩散实验.docx.md",
+   "title_hint": "STM-1002U型扩散实验.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00071 粘扣结合强度.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00071 粘扣结合强度.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00071 粘扣结合强度.docx.md",
+   "name": "STM-00071 粘扣结合强度.docx.md",
+   "title_hint": "STM-00071 粘扣结合强度.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md",
+   "name": "TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md",
+   "title_hint": "TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00466 BM Benefit Visualization Validation.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00466 BM Benefit Visualization Validation.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00466 BM Benefit Visualization Validation.docx.md",
+   "name": "TTM-00466 BM Benefit Visualization Validation.docx.md",
+   "title_hint": "TTM-00466 BM Benefit Visualization Validation.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00296产品外层滚轮测试（Pin Hole）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00296产品外层滚轮测试（Pin Hole）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00296产品外层滚轮测试（Pin Hole）.docx.md",
+   "name": "TTM-00296产品外层滚轮测试（Pin Hole）.docx.md",
+   "title_hint": "TTM-00296产品外层滚轮测试（Pin Hole）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 PH.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 PH.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 PH.doc.md",
+   "name": "GB-T28004-2011 PH.doc.md",
+   "title_hint": "GB-T28004-2011 PH.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 回渗渗漏.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 回渗渗漏.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 回渗渗漏.doc.md",
+   "name": "GB-T28004-2011 回渗渗漏.doc.md",
+   "title_hint": "GB-T28004-2011 回渗渗漏.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00305 SAM分布.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00305 SAM分布.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00305 SAM分布.docx.md",
+   "name": "STM-00305 SAM分布.docx.md",
+   "title_hint": "STM-00305 SAM分布.docx"
+  }
+ ]
+}

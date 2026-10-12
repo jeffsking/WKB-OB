@@ -1,0 +1,100 @@
+# SEED: 底膜 Backsheet
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Handbook of Nonwovens
+#   - Nonwoven fabric finishing
+#   - Surface Tension and Surface Energy
+#
+# 全库正文命中 63 页，105 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）]]  (4 句)
+   • A Chinese published patent application (applicant: **福建恒安集团有限公司 / Hengan**) on a **zoned breathable backsheet** with multiple independent feed ports for differentiated breathability — for adult diapers (air permeability + leak-proof). Backsheet manufacturing patent → FTO-relevant.
+   • The invention discloses a zoned breathable backsheet and its preparation / a diaper. By increasing a conventional cast film's single feed port to multiple ports, each independently controls the additive recipe, extruded through corresponding screws into corresponding flow channels, merged and secondarily drawn into an integrally formed zoned breathable film. Versus conventional backsheet, the zoned film is usable as an adult-diaper backsheet: by designing zone-specific breathability it both impr
+   • **Multi-feed-port zoned breathable backsheet (differentiated breathability + leak-proof)** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+- Assignee tracked at 恒安（Hengan）.
+   • 概念/对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）
+- 实体：恒安（Hengan）
+
+--- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]  (4 句)
+   • A **physics-based feasibility study** asking whether an all-PP SMMMMS structure can replace the breathable backsheet film. Its purpose in this library is to supply the quantitative barrier, attenuation and degradation limits behind any "drop the film" proposal, and to supply a **zoning** answer instead of a yes/no answer.
+（本页回答「全 PP 的 SMMMMS 结构能否替代透气背层膜」，属**基于物理模型的可行性研究**。在本库中的用途是：为任何「去膜」提案提供量化的阻隔／拉伸衰减／降解边界，并把答案从「行不行」改成**分区**。）
+   • 1. The deck opens with an executive verdict of three findings, and its first finding is **negative**: in the industrial window fibre diameter is drag-limited — set by throughput per hole and jet velocity, not by melt viscosity — so the stated premise that better melt flow at the nozzle gives finer fibres does not hold（模头温度 250 → 300 °C 使模拟直径变化 < 1%）.
+2. Its second finding is the **real prize**: capillary residence time is 4–20 ms against 480 s for the rest of the melt path, so heating only the t
+   • **Fibre fineness is bought with throughput per hole and jet velocity, not with temperature.** —— 支撑页：Meltblown Nonwoven（熔喷非织造布）
+- **Thermal decoupling of the die tip is the real benefit of the laser**, because degradation is dose = rate × time and the capillary shortens the time by 80,000×. —— 支撑页：Laser-Assisted Die Tip（激光辅助模头）、熔融指数与化学降解
+- **Barrier is formation-limited**, so beam count and local basis-weight CV — not median pore size — set hydrohead. —— 支撑页：Formation-Limited Barrier（阻隔的成形受限机理）
+
+   • Concepts 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、Laser-Assisted Die Tip（激光辅助模头）、SMS复合结构、熔融指数与化学降解、茂金属聚丙烯
+- Comparisons 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、无纺布五大工艺对比
+- Sibling project directory 同目录项目：
+
+--- [[US11612524B2 Breathable Diaper Backsheet (Colormasters)]]  (4 句)
+   • Granted US patent (Colormasters, LLC) on a **breathable diaper backsheet** — a backsheet-film construction patent in the "backsheet" cluster of this IP block.
+   • The patent (title: "BREATHABLE DIAPER BACKSHEET") grants a breathable diaper backsheet. The bibliographic header lists assignee Colormasters, LLC (Albertville, AL, US), inventor Robert Estill Chambliss, and a classification set spanning A61F 13/514, A61F 13/49, A61L 15/18, A61L 15/26 and B32B (multilayer film constructions). It is a continuation of US 2021/0251819 A1 (filed Feb. 19, 2020). Detailed claim language on the breathable backsheet structure is in the full text; this summary captures th
+   • Breathable backsheet film construction — supporting page: Film-Free Backsheet（无膜背层）
+   • 概念 Concept：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+- 实体 Entity：Colormasters, LLC（本批仅 1 次提及，未单独建页；仅正文标注）
+
+--- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]  (4 句)
+   • P&G 的**已授权美国专利（US 7,195,621 B2，仅 1 项权利要求）**：用**熔喷无纺布（meltblown nonwoven）替代 PE 膜**作为一次性衣物的阻隔/透气组件，并给出一套**可执行的四参数窗口**（纤维直径、克重、透气度、透湿度）+ 三个通过 10 psi 不漏的实施例。是本库 Film-Free Backsheet（无膜背层） 路线最早、且参数最硬的一份一手出处。
+   • Title: "DISPOSABLE GARMENT COMPRISING MELTBLOWN NONWOVEN BACKSHEET". The invention addresses the discomfort of polyethylene film backsheets: a plastic film has insufficient moisture breathability and almost no air permeability, causing skin irritation. Microporous polyfilm is the next attempt, but may deliver "sometimes less than 50% of the desired level" of breathability and still almost no air permeability. The inventor's diagnosis of the competing nonwoven prior art (unexamined Japanese publi
+   • **去膜背层（film-free backsheet）不是新想法，2000 年就有量化专利**——本案把"熔喷替代 PE 膜"落成了四个可直接验收的数字，而非概念性主张。→ Film-Free Backsheet（无膜背层）
+- **本案的经验是"纤维不是越细越好"**——0.5–2.5 µm 的先行技术因孔径过小而失去透气并拉低强度；本案反向取 **3–10 µm**，与本库 Formation-Limited Barrier（阻隔的成形受限机理） 关于"成形/均匀性而非平均直径决定阻隔"的论述方向一致。→ Meltblown Nonwoven（熔喷非织造布）
+- **同时限定模量（230–650 gf/mm）是工艺性要求**：既要够软能悬垂，又要够强能在加工线上跑起来——这解释了为什么单纯追求超细纤维没有产线价值。
+- **权利要求与说明书的差异极大，读范围时必须注意**：摘要/SUMMARY 讲的是 **backsheet**，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上。→ 见下方 manual_review。
+   • Concept 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、SMS复合结构
+- Entity 实体：The Procter & Gamble Company（宝洁）
+
+--- [[Film-Free Backsheet（无膜背层）]]  (3 句)
+   • 1. **Two barrier mechanisms, not one 两种阻隔机理**：the film's barrier is a **solid wall**；the nonwoven's barrier is a **capillary**。That is why the film holds **> 1000 mbar in every contamination column** while the nonwoven collapses as surface tension falls。中文：膜是实壁、无纺布是毛细——所以污染物一进场，两者不是「差一点」，而是「差两个数量级」。
+2. **Where it wins unconditionally 无条件胜出的位置**：chassis outside the core footprint（芯体足迹以外的机身）——no free liquid ever reaches it, breathability is a pure win, and the softness/drape gain is what the consu
+   • 支配机理 支配机理：Formation-Limited Barrier（阻隔的成形受限机理）
+- 载体工艺 载体工艺：Meltblown Nonwoven（熔喷非织造布）、SMS复合结构
+- 硬件 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- 对照 对照：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）
+- 相邻结构议题 相邻结构议题：亲水-疏水梯度设计、分区密度设计、热风粘合无纺布
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- SMS复合结构 —— 库内页（PFAS 风险基线）
+
+--- [[Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）]]  (3 句)
+   • **一种不依赖染料、指示剂或微胶囊的尿湿指示原理**：在亲水基片上依次设置**含无机光散射粒子的显色层**（first coating layer）与**含同类粒子的遮蔽层**（second coating layer），两层在**干态**因**二氧化硅（SiO₂）／氧化铝（Al₂O₃）粒子的光散射**而呈**白色或乳白色**，遮蔽层把显色层的图案"盖住"；**被尿液润湿后散射被抑制**、遮蔽层**转为透明**，显色层**显出其本色**，透过**透光背层**（light-transmissive backsheet）被外部观察到。
+   • **热熔胶是潜在失效源**：用于把指示器粘到背层的热熔胶**会渗入遮蔽涂层并使其"像被尿湿一样"变透明**，造成**干态误报**。故要求**间断施胶 + 无油分配方 + 覆盖面积 ≤ 图案面积 70 %**。这一条对任何"印刷层 + 胶粘接"结构都有普适意义。
+- **"让尿到达指示层"是主要工程问题**：EP 0 776 645 用三招解决——①基片留 **≥10 mm 未粘合边**以便变形贴芯；②**波纹状（undulated）**基片，波峰触芯、波谷粘背层；③芯体开**局部压缩高密度沟槽**，自前/后区延伸到裆区并横穿指示器，把尿快速导到远处的指示器。
+- **背层必须透光**：本路线**与不透光背层不兼容**；换成高遮盖白色背层后方案直接失效。与 SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层） 的选型需联动评估。
+- **未验证项 **：来源未给出显色时间、最小可检出尿量、干态高湿储存误触发、循环可逆次数、色牢度与迁移数据——**这些正是 Wetness Indicator Glue 页已记录的关键参数，
+   • Source 来源：EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)
+- Entity 实体：Unicharm Corporation（尤妮佳）
+- Sibling routes 同族路线：Wetness Indicator Glue、Water-Activated Ink（水变／湿变油墨）、Chromism Taxonomy（变色现象分类）
+- Adjacent 相邻：Wetness Indicator Ladder（尿湿指示阶梯）、Geometric Optical Mask（几何光学掩膜）、Diaper Microclimate、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+
+--- [[SMS复合结构]]  (3 句)
+   • 组成工艺：热风粘合无纺布（同类复合思路的另一载体）
+- 对比：无纺布五大工艺对比、SMMMS vs SMMSMMS（成本·性能·供应链）
+- 2026-09-29 追加：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）
+   • **⚠️ 本库重点风险提示（来源原文强调）**：**PFAS 风险不只在「防水」宣称里**。熔喷布的**驻极助剂**常含含氟电荷俘获剂，是最容易被忽视的隐藏 PFAS 来源；常规质检思路经常遗漏这一点。应对方向：驻极助剂需专项核查，转向 C0 无氟体系。
+- **2026-09-29 追加（无氟路线已出现可执行的化学选项）**：无膜背层方案要求疏水化走 **PFAS-free alkyl-modified polyolefin masterbatch（无氟烷基改性聚烯烃母粒）**，advancing contact angle 105° → 118–122°，约 +35 % hydrohead，成本 3.5 EUR-c/kg——可作为「转向 C0 无氟体系」的具体落点。出处：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）。
+- **待补**：SMS 各层的克重配比与阻隔性能定量关系，本库暂无来源 ；2026-09-29 追加：SMMMS 的**实测**（非模拟）静水压与单束成形 CV 仍缺。
+   • 无纺布-五大工艺论剑 —— 
+- Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） ——
+
+--- [[RKW SE]]  (3 句)
+   • **2026-09-29（首次入库，尚无比对外的商务往来）**：本实体由 Areas/IP 专利块引入——**US 2024/0099910 A1「DIGITALLY PRINTED BACKSHEET FILM」**（公开日 2024-03-28，PCT/EP2021/086997，德国优先权 10 2021 102 610.5，申请日 2021-02-04），申请人/专利权人逐字照抄为 **RKW SE, Mannheim (DE)**；发明人 Robert KOPLIN、Christoph MEIER、Dennis BECKER。见 US20240099910A1 Digitally Printed Backsheet Film (RKW SE)。
+- 本页**未记录任何报价、询单或试样**信息。
+   • WVTR 测试口径（失重法 vs 增重法）（本件以 **ASTM D6701-01** 定 WVTR 门槛 ≥500 g/m²·24h）
+- SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）（透气膜 vs 无膜无纺布两条背层路线）
+- Geometric Optical Mask（几何光学掩膜）（同为本库关于背层外观/光学处理的论述）
+   • US20240099910A1 Digitally Printed Backsheet Film (RKW SE) ——
+
+--- [[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]  (3 句)
+   • A Chinese published patent application (applicant: **湖北宏裕新型包材股份有限公司**) on an **ultra-thin PE microporous breathable film** (10–14 gsm) for baby-diapers backsheet — an upgrade over cast breathable film. Backsheet-film manufacturing patent → FTO-relevant.
+   • **Low-basis-weight (10–14 gsm) PE microporous breathable film via co-extrusion** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+   • 概念/对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）
+- 实体：—
+
+--- [[mocon底膜透气率测试.docx]]  (3 句)
+   • **底膜透湿率标准仪器法（英文：backsheet WVTR by MOCON PERMATRAN-W 101K）**：测试底膜（backsheet）的透气/透湿性能（中文：透湿量 gm/m²·day），第 0 版（2024-01-18）—— breathable 底膜呼吸性能的仲裁级读数。
+   • **Cal C + 标准膜双层校准是 MOCON 数据可信度的前提，两项校准记录须与测试数据同批保存** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **6 腔平行 + Convergence 判停，适合底膜来料批次横向比对** —— 支撑页：Film-Free Backsheet（无膜背层）
+   • 概念：WVTR 测试口径（失重法 vs 增重法）（追加 2026-09-29 注记）、Film-Free Backsheet（无膜背层）
+- 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+

@@ -1,0 +1,606 @@
+{
+  "generated": "2026-09-29",
+  "scope": "P0 + P2(index_only)",
+  "books": [
+    {
+      "name": "A review on superabsorbent polymers",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/A review on superabsorbent polymers.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Absorbent Technology (Chatterjee & Gupta)",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 16,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch02_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch03_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch04_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch05_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch06_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch07_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch08_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch09_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch09_report_20260823_031404.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch10_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch10_report_20260823_031404.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch11_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch11_report_20260823_031405.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch12_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch12_report_20260823_031406.md.md"
+      ]
+    },
+    {
+      "name": "Absorbent-technology-textile-science-and-technology",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Absorbent-technology-textile-science-and-technology.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Ancient_Dyes_Pigments_Chemistry",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ancient_Dyes_Pigments_Chemistry",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ancient_Dyes_Pigments_Chemistry/Ancient_Dyes_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Book_Review_Handbook_of_Adhesion_By_Davi",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Book_Review_Handbook_of_Adhesion_By_Davi.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Chromic_Phenomena_The_Technological_Appl",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": true,
+      "has_chapters": true,
+      "n_chapters": 3,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Chromic_Phenomena_The_Technological_Appl.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_Ch1_解析.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_Ch2_3_解析.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_Ch4_5_解析.md.md"
+      ]
+    },
+    {
+      "name": "edana_2022_absorbent-hygiene-products",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/edana_2022_absorbent-hygiene-products.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Emerging_applications_of_stimuli_respons",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Emerging_applications_of_stimuli_respons.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "ES纤维热风非织造布驻极性能初探",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/ES纤维热风非织造布驻极性能初探.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "handbook-of-adhesive-technology",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": true,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/handbook-of-adhesive-technology.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Adhesive Technology",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Adhesive Technology/Handbook of Adhesive Technology_full_report.md.md"
+      ]
+    },
+    {
+      "name": "Handbook_of_adhesion",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_adhesion.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Handbook_of_Industrial_Drying",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": true,
+      "has_chapters": true,
+      "n_chapters": 53,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_Industrial_Drying.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch01.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch02.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch03.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch04.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch05.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch06.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch07.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch08.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch09.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch10.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch11.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch12.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch13.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch14.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch15.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch16.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch17.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch18.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch19.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch20.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch21.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch22.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch23.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch24.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch25.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch26.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch27.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch28.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch29.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch30.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch31.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch32.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch33.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch34.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch35.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch36.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch37.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch38.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch39.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch40.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch41.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch42.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch43.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch44.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch45.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch46.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch47.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch48.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch49.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch50.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch51.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch52.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch53.md.md"
+      ]
+    },
+    {
+      "name": "Handbook_of_nonwovens",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": true,
+      "has_chapters": true,
+      "n_chapters": 9,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_nonwovens.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch01.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch02.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch03.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch04.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch05.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch06.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch07.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch08.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch09.md.md"
+      ]
+    },
+    {
+      "name": "Interactively mechanochromic electronic textile sensor",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Interactively mechanochromic electronic textile sensor.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Liquid Crystalline Polymers Smart Applications",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 8,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch0_General_Intro_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch1_Photoactive_LC_Polyesters_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch2_Light_Responsive_Membrane_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch3_Atomistic_Insight_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch4_Discotic_Natures_Genius_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch5_Wires_Part1_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch6_Wires_Part2_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch7_Conclusions_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Mechanochromic_Fluorescent_Polymers_AIE",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Fluorescent_Polymers_AIE",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Fluorescent_Polymers_AIE/Mechanochromic_AIE_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Mechanochromic_Fluorescent_Polymers_with",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Mechanochromic_Fluorescent_Polymers_with.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Mechanochromic_Photonic_Sensors_拆解",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 4,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解/LCE自供电光子传感器_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解/交互式机械变色电子织物传感器_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解/全息结构色机械变色薄膜_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解/机械变色弹性体制备_PPT_拆解.md.md"
+      ]
+    },
+    {
+      "name": "Photochromism_Dihydroindolizines",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Photochromism_Dihydroindolizines",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Photochromism_Dihydroindolizines/Photochromism_DHI_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Preparation of a Mechanochromic Elastomer",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Preparation of a Mechanochromic Elastomer.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Preparation of a Mechanochromic Elastomer-ppt",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Preparation of a Mechanochromic Elastomer-ppt.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Research_Advances_in_Superabsorbent_Polymers",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Research_Advances_in_Superabsorbent_Polymers.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "SAP Research Advances",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/SAP Research Advances",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/SAP Research Advances/SAP Research Advances_report.md.md"
+      ]
+    },
+    {
+      "name": "Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromism and Triboelectric Response",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromism and Triboelectric Response.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Smart_Textiles_Wearables_拆解",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 10,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/刺激响应聚合物材料综述_NatureMater_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/可穿戴传感器_书预览_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/可穿戴电子_NSR社论_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/智能纺织品与运动服装_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/智能纺织品视觉感知_GRID_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/智能织物与联网服装_IEEE_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/智能织物纺织品综述_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/柔性可拉伸电子_IMEC_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/液晶物理学_书评_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/热电现象材料应用综述_拆解.md.md"
+      ]
+    },
+    {
+      "name": "Stimuli_Responsive_PCM_Optical",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_PCM_Optical",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_PCM_Optical/Stimuli_Responsive_PCM_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Stimuli_Responsive_Phase_Change_Material",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Stimuli_Responsive_Phase_Change_Material.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Stimuli_Responsive_Photonic_Coatings",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_Photonic_Coatings",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_Photonic_Coatings/Photonic_Coatings_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Stimuli_responsive_photonic_polymer_coat",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Stimuli_responsive_photonic_polymer_coat.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Stimuli_Responsive_Polymers_DeepBook",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_Polymers_DeepBook",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_Polymers_DeepBook/EMS_NatureMaterials_综述_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "Structurally Colored Films with Mechanochromic Shifts via Holographic",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Structurally Colored Films with Mechanochromic Shifts via Holographic.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Superabsorbent_Polymers_and_Superabsorbe",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Superabsorbent_Polymers_and_Superabsorbe.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Superabsorbent_Polymers_SAP_Composites",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 1,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Superabsorbent_Polymers_SAP_Composites",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Superabsorbent_Polymers_SAP_Composites/Superabsorbent_Polymers_深度拆解.md.md"
+      ]
+    },
+    {
+      "name": "THE_MATHEMATICS_OF_DIFFUSION_CLARENDON_P",
+      "priority": "P0",
+      "compile_as": "chapter",
+      "has_root": true,
+      "has_chapters": true,
+      "n_chapters": 15,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/THE_MATHEMATICS_OF_DIFFUSION_CLARENDON_P.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch01_THE_DIFFUSION_EQUATIONS_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch02_METHODS_OF_SOLUTION_WHEN_THE_DIFFUSION_COEFFICIENT_IS_CONSTANT_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch03_INFINITE_AND_SEMI-INFINITE_MEDIA_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch04_DIFFUSION_IN_A_PLANE_SHEET_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch05_DIFFUSION_IN_A_CYLINDER_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch06_DIFFUSION_IN_A_SPHERE_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch07_CONCENTRATION-DEPENDENT_DIFFUSION_METHODS_OF_SOLUTION_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch08_NUMERICAL_METHODS_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch09_SOME_CALCULATED_RESULTS_FOR_VARIABLE_DIFFUSION_COEFFICIENTS_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch10_THE_DEFINITION_AND_MEASUREMENT_OF_DIFFUSION_COEFFICIENTS_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch11_NON-FICKIAN_DIFFUSION_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch12_DIFFUSION_IN_HETEROGENEOUS_MEDIA_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch13_MOVING_BOUNDARIES_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch14_DIFFUSION_AND_CHEMICAL_REACTION_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch15_SIMULTANEOUS_DIFFUSION_OF_HEAT_AND_MOISTURE_report.md.md"
+      ]
+    },
+    {
+      "name": "Wearable_electronics",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Wearable_electronics.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Wearable_Sensors_Fundamentals_implementa",
+      "priority": "P0",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Wearable_Sensors_Fundamentals_implementa.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Barel_Paye_Maibach_Handbook_of_Cosmetic",
+      "priority": "P2",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Barel_Paye_Maibach_Handbook_of_Cosmetic.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Cosmetic Science and Technology",
+      "priority": "P2",
+      "compile_as": "index_only",
+      "has_root": false,
+      "has_chapters": true,
+      "n_chapters": 15,
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology",
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch06_Safety_Terminology_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch07_Percutaneous_Absorption_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch08_Skin_Irritation_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch09_Allergy_and_Hypoallergenic_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch14_Main_Cosmetic_Vehicles_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch22_Skin_Irritancy_and_Anti-irritant_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch23_Anti-irritants_for_Surfactant_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch26_Antioxidants_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch34_Silicones_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch36_Surfactants_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch37_Classification_of_Surfactants_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch58_Baby_Care_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch60_EEC_Cosmetic_Directive_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch61_US_Regulatory_Requirements_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch65_Proof_of_Claims_report.md.md"
+      ]
+    },
+    {
+      "name": "Cosmetic_Formulation_of_Skin_Care_Produc",
+      "priority": "P2",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Cosmetic_Formulation_of_Skin_Care_Produc.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    },
+    {
+      "name": "Modern_Chemistry_of_the_Ancient_Chemical",
+      "priority": "P2",
+      "compile_as": "index_only",
+      "has_root": true,
+      "has_chapters": false,
+      "n_chapters": 0,
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Modern_Chemistry_of_the_Ancient_Chemical.pdf.md",
+      "extract_dir_rel": null,
+      "chapter_source_paths": []
+    }
+  ]
+}

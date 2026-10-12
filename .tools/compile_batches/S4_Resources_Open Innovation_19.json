@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.docx.md",
+   "name": "Rewet Principles.docx.md",
+   "title_hint": "Rewet Principles.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Stakeholder Report-Out.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Stakeholder Report-Out.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Stakeholder Report-Out.pptx.md",
+   "name": "Stakeholder Report-Out.pptx.md",
+   "title_hint": "Stakeholder Report-Out.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Product Team Report-Outs.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Product Team Report-Outs.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Product Team Report-Outs.pptx.md",
+   "name": "Product Team Report-Outs.pptx.md",
+   "title_hint": "Product Team Report-Outs.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+   "name": "Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+   "title_hint": "Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Surge Evolution.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Surge Evolution.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Surge Evolution.pptx.md",
+   "name": "Liner Surge Evolution.pptx.md",
+   "title_hint": "Liner Surge Evolution.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pdf.md",
+   "name": "Rewet Principles.pdf.md",
+   "title_hint": "Rewet Principles.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Hypothesis Map.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Hypothesis Map.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Hypothesis Map.xlsx.md",
+   "name": "Hypothesis Map.xlsx.md",
+   "title_hint": "Hypothesis Map.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+   "name": "04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+   "title_hint": "04_B-CNF细菌纤维素纳米纤维技术研究报告.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+   "name": "2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+   "title_hint": "2026.04.21 - Capillarity Expansion - Raegan Informal.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles v10.07.25.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles v10.07.25.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles v10.07.25.pdf.md",
+   "name": "Rewet Principles v10.07.25.pdf.md",
+   "title_hint": "Rewet Principles v10.07.25.pdf"
+  }
+ ]
+}

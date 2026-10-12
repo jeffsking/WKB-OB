@@ -1,0 +1,74 @@
+# SEED: IFRA Standards 与 12 大产品类别体系
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 35 页，52 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[IFRA Standards Guidance (2023-06-30)]]  (5 句)
+   • One-sentence positioning 一句话定位：国际香料协会（IFRA）发布的香精使用标准应用指南（2023-06-30 版），为湿巾/护肤/香氛配方中香精限用物质提供按产品类别分档的合规框架。
+   • 文件为 **IFRA Standards 使用指南**，版本日期 **2023-06-30**；由 IFRA 与 RIFM（香料研究协会）联合制定。
+- 核心方法：将消费产品归入 **12 大产品类别（Category 1–12）**，基于皮肤致敏暴露（QRA2）并兼顾光毒性与系统毒性考量分组，每类对应不同的香精允许浓度。
+- 合规时间表：第 **51 修正案（51st Amendment）** 的合规期限在对应 Notification Letter 及表1/图1 中规定（具体日期见原文，标 ）。
+- 特殊规定：玩具等儿童产品若有口腔接触可能，禁止/限制香精使用并归入 Category 1（唇部产品档）；医疗装置不在 IFRA 分类范围内。
+   • 卫品/湿巾配方加香时，香精供应商须提供符合目标产品类别（如驻留型/淋洗型/儿童）的 IFRA 合规声明。
+- IFRA 体系与中国《化妆品安全技术规范》的限用组分表为**两套互补管理**（香精专项 vs 全组分强制），见对比 香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）。
+   • 概念：IFRA Standards 与 12 大产品类别体系
+- 机构：IFRA（国际香料协会）
+- 对比：香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）
+
+--- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]  (4 句)
+   • 台系变色材料供方（CHT1608V2 系列）的**芳香微胶囊（fragrance microcapsule）材料说明**：在本库中对应 Microencapsulation 的香味缓释分支——卫品加香（湿巾/纸尿裤）应用的剂量与合规窗口来源；其「部分香精未过 IFRA」提示是关键风险点。
+   • Product guide. Principle: microencapsulated perfume oils release slowly via pressure, friction, heating or natural diffusion; scent lasts >6 months ("长效型香味材料"). Fragrance menu: standard（玫瑰/薰衣草/茉莉/尤加利/香茅/薄荷；草莓/柠檬/橘子/苹果/葡萄；桧木/檀香/樟脑）与 special（香草/洋甘菊/紫罗兰/郁金香/松树/野莓/兰花；西瓜/樱桃/哈密瓜/香蕉/凤梨；蜂蜜/肉桂/咖啡）；可代工客制包覆（须纯油性香精）。Forms: **芳香水乳液**（3–10 µm 微胶囊水性分散液；香精易挥发故无法测定标准固含量；水性网印/涂料/油墨 5–30% w/w 典型 25%；凝集分层可 45 ℃ 水浴再分散）；**芳香微胶囊粉**（**美耐皿 Melamine 壳材**，耐溶剂耐分散；油墨/涂料 5–30% w/w 典型 25%；射出/押出 1–5% w/w 典型 3%，建议低温树脂如 EVA/PU；油
+   • **芳香微胶囊的壳材为美耐皿、释放靠机械力/热触发——与温变/湿变微胶囊同为 Microencapsulation 平台的不同功能载荷** —— 支撑页：Microencapsulation
+- **「部分香精未通过 IFRA」是该系列用于卫品前必须逐项核对的第一道合规闸门** —— 支撑页：IFRA Standards 与 12 大产品类别体系
+   • 概念：Microencapsulation、IFRA Standards 与 12 大产品类别体系、Phenoxyethanol（苯氧乙醇）（防腐/香精安全对照）
+- 实体：Symrise（德之馨）、Matsui Shikiso (松井)（微胶囊技术对照）
+- 对比：CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）
+
+--- [[香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）]]  (3 句)
+   • **IFRA Standards 与 12 大产品类别体系**：配方加香时确定香精限用物质在目标产品类别（驻留/淋洗/儿童）下的允许浓度；跨国品牌全球统一口径。
+- **化妆品限用-准用组分体系（中国 2015 技术规范）**：产品在中国上市必须逐物质满足表3/表4 限量，是强制合规红线。
+   • 两套体系**互补而非替代**：IFRA 管「香精专项、按暴露分档」，中国规范管「全组分、强制清单」；出口/内销产品须同时满足（香精既需 IFRA 类别合规，也需落入中国限用组分表）。
+   • IFRA Standards Guidance (2023-06-30) —— 
+- 化妆品安全技术规范（2015年版） ——
+
+--- [[IFRA（国际香料协会）]]  (3 句)
+   • **IFRA Standards 使用指南（2023-06-30 版）**：按 12 大产品类别（Category 1–12）分档设定香精限用物质允许浓度，基于 QRA2 / Crème RIFM 模型。详见 IFRA Standards Guidance (2023-06-30)。
+- 当前为 **51st Amendment** 合规周期。
+   • IFRA Standards 与 12 大产品类别体系、AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+   • IFRA Standards Guidance (2023-06-30) —— 
+- IFRA Standards Guidance (2023-06-30) · 12 大产品类别版 ——
+
+--- [[IFRA Standards Guidance (2023-06-30) · 12 大产品类别版]]  (3 句)
+   • One-sentence positioning 一句话定位：IFRA 香精使用标准指南（2023-06-30）的平行备份，文件名标注「12 大产品类别」，内容主体与总指南一致。
+   • 内容为 **IFRA Standards 使用指南（2023-06-30）**，与 IFRA Standards Guidance (2023-06-30) 同源，主要差异为文件命名前缀（v3 湿巾 lotion）与标点全/半角格式。
+- 核心仍为 12 大产品类别分档设定香精限用物质允许浓度（见 IFRA Standards 与 12 大产品类别体系）。
+   • 同源：IFRA Standards Guidance (2023-06-30)
+- 概念：IFRA Standards 与 12 大产品类别体系、IFRA（国际香料协会）
+
+--- [[CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）]]  (2 句)
+   • **UV 感光**：需要"户外/UV 出现即显色"的营销与防伪互动（湿巾盖、包装、腰贴外侧）；忌用于需要计量精度的场景（光疲乏）。
+- **TM 感温**：尿显阶梯、体温感应区等需要**温度阈值触发**的功能指示；选型时按 IT/DT 滞回与基材导热标定阈值。
+- **SS 芳香**：湿巾与卫品的缓释加香（压力/摩擦触发释放贴合使用场景）；落地前置条件是 IFRA 合规核对与美耐皿壳材的皮肤接触评估。
+   • 同一微胶囊平台的三种功能载荷：**TM 感温系列的功能成熟度与温区覆盖最贴合卫品指示需求，UV 感光胜在用量成本最低但耐久性最脆弱，SS 芳香则卡在 IFRA 合规缺口**——三者共用「美耐皿/高分子壳微胶囊 + 3–10 µm 粒径 + ≤200 ℃（芳香 ≤140 ℃）工艺窗口」的平台参数，可按功能需要同源扩展。
+
+--- [[Characterisation, testing and modelling of nonwoven fabrics]]  (2 句)
+   • Chapter 9 (N. Mao & S.J. Russell, §9.22 B. Pourdeyhimi) is the measurement-and-modelling capstone: it compiles test standards and structure→property models that let the bonding/finishing chapters be verified and optimised — the quantitative backbone for every hygiene metric.（中文：第 9 章是测量与建模总章，汇总测试标准与"结构→性能"模型，使前序粘合/整理章可被验证与优化，是所有卫生指标的量化工具有。）
+   • It asserts performance = composition × structure, then organises the field into bond-structure characterisation, dimensional parameters (weight, thickness, density, FOD, porosity, pore size), a compendium of test standards, measurement techniques and a modelling section.（主张性能=组成×结构，再分粘合结构表征、尺寸参数、测试标准汇编、测量技术、建模。）
+- Fluid-handling properties are explicitly enumerated (permeability, absorbency, penetration time, wicking rate, re-wet, barrier, strike time) — effectively the test menu for absorbent h
+
+--- [[IMA 知识库索引（2026-08-21）]]  (2 句)
+   • This early archival index records the knowledge base at 194 entries and documents the arrival of standards, supplier-visit planning, bicomponent-fiber technology, and nonwoven process material.  
+（中文：该早期归档索引记录知识库达到 194 条时，标准、供应商拜访计划、皮芯纤维技术与无纺布工艺资料的入库情况。）
+   • **Bicomponent-fiber technology and supply-base profiling entered the library together.（皮芯纤维技术与供应基盘画像同时进入知识库。）** — related page: 皮芯复合纤维.
+- **Standards and test-method coverage became part of the project compliance base.（标准与测试方法覆盖成为项目合规基础的一部分。）** — related page: 芯体测试方法与验收基准（STM）.
+- **Early REL-related material was already linked to supplier-visit planning.（早期 REL 相关资料已与供应商拜访计划关联。）** — related page: REL增强层.
+
+--- [[移动版的workbuddy还可以选择Claude的模型？]]  (2 句)
+   • A Q&A note archived from the IMA knowledge base covering two unrelated questions: mobile WorkBuddy model availability, and a primer on the EDANA/INDA standards organisations. （中文：一份知识库问答归档，内容为「移动端 WorkBuddy 能否选择 Claude 模型」与「EDANA / INDA 简介」两个问答。）
+   • This source is filed as a source-only page: it links to the existing EDANA（欧洲非织造布协会） entity and 芯体测试方法与验收基准（STM） rather than spawning new concept or entity pages, because the standards bodies are already represented in the wiki.
+
+--- [[AHPs Stewardship Program 与 CODEX™ 痕量物质管控]]  (1 句)
+   • 关联机构：EDANA（欧洲非织造布协会）、IFRA（国际香料协会）
+- 强制标准对照：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）（后续批次建立）
+

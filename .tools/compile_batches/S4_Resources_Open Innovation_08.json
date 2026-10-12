@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Learning Plan.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Learning Plan.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Learning Plan.xlsx.md",
+   "name": "Learning Plan.xlsx.md",
+   "title_hint": "Learning Plan.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/海水降解SAP技术研究报告.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/海水降解SAP技术研究报告.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/海水降解SAP技术研究报告.docx.md",
+   "name": "海水降解SAP技术研究报告.docx.md",
+   "title_hint": "海水降解SAP技术研究报告.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pptx.md",
+   "name": "Rewet Principles.pptx.md",
+   "title_hint": "Rewet Principles.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Differentiation Discussion v2.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Differentiation Discussion v2.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Differentiation Discussion v2.pptx.md",
+   "name": "Liner Differentiation Discussion v2.pptx.md",
+   "title_hint": "Liner Differentiation Discussion v2.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx.md",
+   "name": "Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx.md",
+   "title_hint": "Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/80-高速pattern芯体成型工程总纲.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/80-高速pattern芯体成型工程总纲.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/80-高速pattern芯体成型工程总纲.md.md",
+   "name": "80-高速pattern芯体成型工程总纲.md.md",
+   "title_hint": "80-高速pattern芯体成型工程总纲.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD Pants Process Overview -GIC Korea.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD Pants Process Overview -GIC Korea.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD Pants Process Overview -GIC Korea.pptx.md",
+   "name": "CD Pants Process Overview -GIC Korea.pptx.md",
+   "title_hint": "CD Pants Process Overview -GIC Korea.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨生产商研究报告_20260612.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨生产商研究报告_20260612.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨生产商研究报告_20260612.md.md",
+   "name": "变色油墨生产商研究报告_20260612.md.md",
+   "title_hint": "变色油墨生产商研究报告_20260612.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/韩国.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/韩国.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/韩国.xlsx.md",
+   "name": "韩国.xlsx.md",
+   "title_hint": "韩国.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/2D_v9_RedTeaming优化报告.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/2D_v9_RedTeaming优化报告.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/2D_v9_RedTeaming优化报告.pdf.md",
+   "name": "2D_v9_RedTeaming优化报告.pdf.md",
+   "title_hint": "2D_v9_RedTeaming优化报告.pdf"
+  }
+ ]
+}

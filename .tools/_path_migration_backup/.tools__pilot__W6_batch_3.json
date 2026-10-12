@@ -1,0 +1,47 @@
+{
+ "batch_id": "W6-3",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_76e413aa1f6d3d700d5f14570614d4a2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Market Insight/China_Diaper_Tech_Report_2026.pptx.md",
+   "name": "China_Diaper_Tech_Report_2026.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a06d0e135074b7bd6b76a7e76f275b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Market Insight/韩国尿布市场分析及竞争格局.md",
+   "name": "韩国尿布市场分析及竞争格局.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "session_3867e2b60070d7dc3f413086d0b0036e_6a83c52e43adca9a1d60f56b91c331d2e27d",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/移动版的workbuddy还可以选择Claude的模型？.md",
+   "name": "移动版的workbuddy还可以选择Claude的模型？.md",
+   "type": "session"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_2ef3b3991c64802eee38a9d564399003001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Market Insight/China_Diaper_Tech_Roadmap_2026.pptx.md",
+   "name": "China_Diaper_Tech_Roadmap_2026.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a0c3635482774faf0160e17d56c895001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/LMP-PP Resin Development Brief.docx.md",
+   "name": "LMP-PP Resin Development Brief.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d1229c6723bea95178c15aeed3defe79001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/IMA知识库索引_20260911.md.md",
+   "name": "IMA知识库索引_20260911.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a0c362e27d757f9ab5b4ce40becf78001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/低熔点PP粒子开发任务书.docx.md",
+   "name": "低熔点PP粒子开发任务书.docx.md",
+   "type": "word"
+  }
+ ]
+}

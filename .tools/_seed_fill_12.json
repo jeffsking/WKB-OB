@@ -1,0 +1,25 @@
+{
+  "batch": "12",
+  "done": [
+    "棉纤维 Cotton",
+    "蒙脱土 Montmorillonite",
+    "协同吸附 Cooperative Adsorption",
+    "抗菌整理定量测试（AATCC TM100 _ AATCC 100）",
+    "Donnan 溶胀",
+    "聚合物分散液晶 PDLC",
+    "两亲吸附 Amphipathic Adsorption",
+    "虚拟原型 Virtual Prototyping"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "棉纤维 Cotton: 引用来源未给出正式定义，且全库无任何定量湿态强度/吸液量/纤度/成本数据，均标 [待补]",
+    "蒙脱土 Montmorillonite: 「凝胶强度 13×」与「+50%」为摘要级/衍生宣称，需回原文全文核对",
+    "协同吸附 Cooperative Adsorption: 无定量 CAC/CMC 与协同结合常数，且未测卫材相关纤维素/聚烯烃表面",
+    "抗菌整理定量测试（AATCC TM100 _ AATCC 100）: 方法正文（接种量/培养时间/测试菌种）不在本库，仅存标准目录条目",
+    "Donnan 溶胀: 无定量 Donnan 参数（固定电荷密度、离子强度依赖），未与 CRC/AUL 数值配对",
+    "聚合物分散液晶 PDLC: 水/尿液环境稳定性被列为最大未验证风险；5CB 贴身合规与迁移未评估",
+    "两亲吸附 Amphipathic Adsorption: 无定量吸附等温线/表面覆盖度数据",
+    "虚拟原型 Virtual Prototyping: 回渗预测 0.03%（占总液量）分辨率为当前模型未达门槛，须先做网格收敛/数值扩散验证"
+  ],
+  "count": 8
+}

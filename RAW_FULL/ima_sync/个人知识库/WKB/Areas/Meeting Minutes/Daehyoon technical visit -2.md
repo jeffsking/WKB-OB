@@ -1,0 +1,413 @@
+---
+media_id: "note_3867e2b60070d7dc3f413086d0b0036e_7501561924163978"
+source_file: "Daehyoon technical visit -2"
+original_path: "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Daehyoon technical visit -2.md"
+extracted: "2026-09-30"
+extract_method: "ima-mcp fetch_media_content"
+extract_status: "ok"
+---
+
+# Daehyoon technical visit -2
+
+### 3. 婴儿护理线超薄芯体开发（Ultra-thin core）（00:07:42 – 00:08:30）
+
+
+屏幕上展示了 infant care line configuration（婴儿护理产品线配置） 示例。
+
+
+开发内容：采用绒毛浆（pulp）与 mesh（网材/成网技术）组合，开发超薄芯体（ultra-thin core）。
+
+
+目的/效果：通过组合工艺，可降低整体基重/克重（overall basis weight，录音作 BK/BW），同时仍能保证/维持性能（securing performance）。
+
+
+## 六、待澄清/风险点（Open Questions）
+
+
+新 pinhole 模块仍为概念，开发周期约 2–3 年；高速下热量导致材料变形是关键风险，需通过针密度、DLC 涂层、孔—针间隙安全余量解决。
+
+
+涂层与材料直接接触后的安全性、粘附/迁移风险，是产品方核心关注点。
+
+
+弹性恢复工艺中 “未使用 cyber / 使用 spanx” 及成人产品具体材料体系待确认。
+
+
+转写中 “carving part / uncarpeted part”“thosson carbide / kirigami”“BK/BW”“PLO/jo for p area” 等术语识别不清，建议以双方确认后的术语表为准。
+
+
+开发方 6 项推荐内容中，除上述可识别项外，其余推荐项建议补充完整议程后再闭环总结。
+
+
+特殊涂层需求：
+
+
+对于 taper/针，需要寻找特殊涂层（special coating），涂覆在针（pin/key）外部。
+
+
+涂层两个作用：
+
+
+1）减轻热量（alleviate the heat）；
+
+
+2）使表面/切割更光滑（more smooth）。
+
+
+形状难度与粘料问题：
+
+
+圆孔较容易，其他形状/工况（job）有时困难，材料会粘/撞在一起（hitting together）。
+
+
+特殊涂层可使材料不易粘在一起（not together）。
+
+
+圆孔精度要求较低；圆孔之后做其他形状难度增加，对精度等要求更高。
+
+
+涂层安全/环境关注：
+
+
+由于该涂层/针会与材料直接接触（directly contact with the material），产品方担心涂层会粘附/转移到材料上（adhere to the material）。
+
+
+要求涂层对健康无害、对环境无害（not harmful to health / environment），需与其他涂层方案（different coating）核对安全合规性。
+
+
+开发方表示有多种方案/记录（various coating），会进一步确认；会议认为某一类型（type）更优。
+
+
+开发方说明 pilot 模块在开发阶段无法完全验证，开发完成后会有验证；模块头也不小。
+
+
+产品方表示目前已非常清楚（very clear now）。
+
+
+切割/清洁问题：录音提及切割后清理/无法修复、很难洗（如 “清理切过来，修不掉。切，肯定洗不掉，很难洗”），涉及模块安装或材料切割后的处理，需后续澄清。
+
+
+### 9. 名片交换、涂层确认与两项开发提示（00:22:16 – 00:25:27）
+
+
+名片交换：会议开始时漏了交换名片，结尾补交换并致意（Nice to meet you）。
+
+
+涂层确认：
+
+
+产品方/开发方刚弄清楚之前已有的特殊涂层（录音作 CI），将与产品设计/技术负责人（technology owner/boss）沟通。
+
+
+确认特殊涂层为 diamond，即 DLC（Diamond-Like Carbon，类金刚石）涂层；其作用是减轻热量，并确保材料/切口不粘在一起（cannot actually be together）。
+
+
+该涂层方案也来自另一个项目提议。
+
+
+共同开发两项技术提示（two tips）：
+
+
+DLC 涂层：用于减热、光滑、防粘。
+
+
+孔—针间隙（hole pin gap）：高速下必须计算孔尺寸与针尺寸；在决定针的外径（pin outside diameter）与孔的内径（hole inside diameter）时，必须留有安全余量/安全缓冲（safety buffer）。
+
+
+会议结束，双方离开（Okay, we go? Yeah, sure, let's go）。
+
+
+### 4. 第六项/最终推荐：弹性恢复工艺（Elastic recovery）（00:08:30 – 00:10:37）
+
+
+工艺定义：材料可被拉伸，从 100% 拉伸至最高 250%，然后回复到 100%（recover back to 100%）；该“拉伸—回复”循环定义该工艺（recovery process）。
+
+
+目的：降低初始穿着/初始层时的僵硬感（stiffness）和不适（discomfort）。弹性材料初次穿着常有紧绷或束缚感（tightness or restrict），该工艺可释放初始张力，使穿着瞬间即更舒适。
+
+
+材料使用说明：录音识别为 “only Y Y use cyber. We didn’t use cyber, we use spanx”，涉及 Spandex/氨纶或竞品材料使用差异，具体待核对。
+
+
+应用对象：面向成人产品（adult，录音提及 Defender/Depends 类成人失禁用品）；成人产品被抱怨穿着不适。若不进行拉伸，损失/影响很大。
+
+
+产品方反馈：产品方表示，如之前邮件所述，对开发方任何“可成孔/打孔（make the holes）”的工艺都非常感兴趣；认为该弹性恢复方案 “very interesting / very good”。
+
+
+## 四、后续行动项（Action Items / Follow-up）
+
+
+## 三、讨论内容与细节
+
+
+### 1. PE 原材料、克重与针孔模块现状（00:00 – 00:05:42）
+
+
+原材料与克重：讨论涉及 PE 原料，克重/定量出现 “from ten GSM to eighteen GSM”，并提及 “eighteen, eighteen. Thirty, thirty” 等数值；高低克重哪种更容易，需结合产品方实际产品确认。
+
+
+材料弹性差异：不同材料弹性表现差异大，例如 PE 材料有的伸长率 >500%，有的 <200%；不能简单按比例放大，录音中明确提到 “can’t multiply one by eight”。
+
+
+现有针孔模块：已有一种 pinhole 模块在机台上高速运行、在线安装（high speed already installed inline）。
+
+
+新 pinhole 模块：
+
+
+是开发方新开发、拟推广给 Yuhan-Kimberly 的模块。
+
+
+两种型号（both models）均在开发中；目前仅是概念，预计开发周期约 2–3 年。
+
+
+开发方的工作是厘清工艺（figure out the process），提供细节使工艺可行；产品方认为如项目推进，可共同开发（co-develop）。
+
+
+产品方资源：产品方表示其拥有来自 IPC 以及 Casey China 的团队/人员（录音称 “K from IPC and also from Casey, China”），如项目推进，认为可以 co-develop。
+
+
+### 2. 绒毛浆定向/分区分布（Fluff formation zoned type）（00:06:02 – 00:07:42）
+
+
+推荐内容：采用按区域变化的绒毛浆定向/分区分布，替代在整个芯体上均匀（uniform）分布绒毛浆。
+
+
+做法：将绒毛浆（pulp）精确集中到需要的部位，例如芯体区域/吸收区域（录音识别为 “jo for p area / core area”）。
+
+
+收益：目标分布可提升性能、材料效率（material efficiency）和舒适性（comfort）。
+
+
+应用情况：已成功应用于 core 以及 cover 等（录音转写为 “care and care / core and core”，待核对）。
+
+
+材料构成：产品方询问是纯绒毛浆还是绒毛浆与 SAP 混合；确认为含 SAP 的混合材料。
+
+
+配比讨论：
+
+
+询问比例是否为 50/50 或其他；
+
+
+转写中出现 “Fifty, fifty percent… Seven thirty, okay, thank you”；
+
+
+会议中最终提到 “Seven thirty”（70/30），但同时保留 50/50 的讨论，建议与开发方书面确认最终配比。
+
+
+### 5. Kirigami 曲面切割、pinhole 模块兴趣与共开发意向（00:10:37 – 00:11:42）
+
+
+Kirigami / 曲面切割（curved cut）：
+
+
+产品方将其称为 kirigami。
+
+
+理解开发方同时具备 die cutter（模切/刀具） 以及 张力控制（tension control）、拉伸工艺（stretch process） 能力。
+
+
+产品方认为很有兴趣；未来若开发此类项目，会通知开发方并寻求方案/报价（proposal）。
+
+
+Pinhole 模块：
+
+
+产品方此前曾与 Jareds/jerreds 讨论过。
+
+
+可考虑某种标准原材料；希望在开发方开发过程中，评估是否能切割产品方材料（cut our materials）。
+
+
+若成功，考虑共同开发该类模块（Co-develop）。
+
+
+成本：产品方询问完整针孔模块（complete pinhole module）的成本，并表示会让采购（procurement）联系开发方。
+
+
+### 8. Pilot/中试能力、机台安装与材料提供（00:17:51 – 00:19:57）
+
+
+Pilot 问询：
+
+
+产品方问是否有用于长时间高速试验的 pilot line；
+
+
+开发方表示不是真正的 pilot line，而是小型（small）pilot 模块/设备（small pilot module）。
+
+
+后续安排：
+
+
+稍后可快速过一遍（quickly go through），以了解开发方拥有的 pilot 类型。
+
+
+若产品方想在高速下测试，可讨论将该模块安装到产品方机台（install this module to our machine）。（具体安装责任/可行性需进一步确认。）
+
+
+材料提供与共同开发：
+
+
+产品方将向开发方提供材料（we will provide the material to you）。
+
+
+该工艺具挑战性，但若前景良好（promising），产品方希望共同开发（co-develop together）。
+
+
+通道与速度：
+
+
+提及某通道（录音：Ining channel，可能为 unwinding/rewinding channel）可以更换。
+
+
+开发方 pilot 模块速度最高可达 500 米/分钟，产品方认为足够（up to five hundred, that's good enough）。
+
+
+## 五、会议结论
+
+
+双方同意在 针孔模块、kirigami 曲面切割、弹性恢复工艺 等方向保持沟通与共同开发探讨。
+
+
+开发方需补充：完整模块成本、500 m/min 下针孔尺寸范围、异形图案可行性、两种切割类型说明、DLC 涂层安全说明及 pilot 模块细节。
+
+
+产品方将：提供测试材料、安排采购联系开发方、内部协调 IPC/Casey China 团队评估 co-develop、整理并发出 follow-up 摘要。
+
+
+针孔模块目前仍处概念阶段，预计 2–3 年开发周期，两种型号开发中；高速热变形、涂层安全/粘附、孔—针间隙安全余量是后续关键技术风险点。
+
+
+弹性恢复方案中“100%→250%→100%”拉伸回复、成人产品应用及 Spandex/spanx 材料差异需进一步确认；超薄芯体与绒毛浆 70/30 配比建议纳入后续书面确认。
+
+
+# Daehyoon technical visit -2
+
+
+已调用会议纪要技能，根据您提供的录音转写文字（文档1：新材料开发与弹性恢复工艺探讨）整理如下会议纪要。
+
+
+说明：原始转写存在较多语音识别（ASR）错误，部分人名、术语、比例已尽量还原并标注“待核对”。建议关键数据由双方书面确认。
+
+# 会议纪要：新材料开发与弹性恢复工艺探讨
+
+
+## 一、会议基本信息
+
+
+|项目|内容|
+|---|---|
+
+|会议主题|新材料开发与弹性恢复工艺探讨（New Material Development and Elastic Recovery Process）|
+
+|录音时长|约 25 分 27 秒（00:00:00 – 00:25:27）|
+
+|会议日期|录音中未明确标注，建议补充|
+
+|纪要整理日期|2026-09-04（星期五，UTC+8）|
+
+|会议地点/形式|未提及|
+
+|主要参会方（推断，未具名）|1）开发方/工艺模块方：推荐新材料、针孔打孔模块、绒毛浆分布、超薄芯体、弹性恢复等工艺；具备打孔（die cutter）、张力控制、拉伸工艺、kirigami 曲面切割等能力；正在开发 pinhole 模块及两种型号。 2）产品方/材料应用方：卫生/个人护理产品企业，涉及婴儿护理、成人失禁用品等；与 Yuhan-Kimberly 有业务关联；拥有 IPC、Casey China 等团队资源；关注成孔、弹性恢复等工艺，愿提供材料并共同开发。|
+
+|其他提及对象|Yuhan-Kimberly（开发方拟推广对象）、IPC、Casey China、Jared/jerreds、Sam、产品设计/技术负责人等|
+
+|后续摘要责任人|产品方表示将由自己整理并发出 follow-up 摘要|
+
+
+|序号|行动项|责任方|要求/备注|
+|---|---|---|---|
+
+|1|提供完整针孔模块（complete pinhole module）成本信息|开发方|产品方采购将联系开发方；用于评估经济性|
+
+|2|提供约 500 m/min 高速下针孔尺寸范围数据：最小→最大针孔尺寸|开发方|产品方重点关注，需明确测试速度约 500 米/分钟|
+
+|3|反馈是否支持异形/非圆针孔图案（abnormal patterns）及可行形状|开发方|目前仅见圆孔，需确认其他形状能力|
+
+|4|说明两种 pinhole cutting type：carving part 与 tapered，及锥形针对小孔优势|开发方|与尺寸范围、图案能力一并回复|
+
+|5|提供 DLC/特殊涂层方案与安全合规说明|开发方（协同产品方产品设计/技术负责人）|确认与材料直接接触时不会粘附/迁移，对健康及环境无害；核对既有 CI/DLC 涂层方案|
+
+|6|明确 pilot 模块细节并安排演示/评估|双方|开发方 pilot 为小型模块、最高速度 500 m/min；确认是否可安装到产品方机台；澄清切割/清洁问题|
+
+|7|产品方向开发方提供测试材料|产品方|用于针孔/切割及弹性恢复等工艺评估；如 promising 则推进 co-develop|
+
+|8|产品方内部与 IPC、Casey China 团队评估 co-develop；如推进 kirigami/曲面切割或针孔模块项目，通知开发方并索取 proposal|产品方|此前曾与 Jareds 讨论；考虑标准原材料及切割产品方材料|
+
+|9|产品方整理并发出会议 follow-up 摘要|产品方/记录人|产品方明确表示 “I will summarize what our follow up”|
+
+|10|业务推广：开发方拟将新 pinhole 模块推广至 Yuhan-Kimberly；产品方建议同时也向产品方推荐|开发方/产品方|新模块仍为概念，周期约 2–3 年，两型号开发中|
+
+|11|术语与数据核对|双方|因 ASR 错误较多，需核对：70/30 配比、Spandex/spanx 材料、IPC/Casey、Jareds、carving/uncarpeted、thosson carbide/kirigami、BK/BW 等|
+
+
+## 二、会议背景与目标
+
+
+开发方向产品方介绍/推荐若干新材料与工艺开发项目（录音中明确提到“our sixth and final recommended item”，说明至少有 6 项推荐内容），重点讨论新开发的针孔/打孔模块（pinhole module）。
+
+
+产品方围绕工艺细节、打孔能力、高速适应性、涂层安全、成本、中试（pilot）与共同开发（co-develop）等进行询问，双方探讨后续合作可能。
+
+
+根据转写可识别的主要讨论项包括：
+
+
+PE 原材料、克重与 pinhole 模块现状
+
+
+绒毛浆定向/分区分布（Fluff formation zoned type）
+
+
+婴儿护理线超薄芯体开发（Ultra-thin core）
+
+
+第六项/最终推荐：弹性恢复工艺（Elastic recovery）
+
+
+Kirigami 曲面切割与 pinhole 模块共开发意向
+
+
+针孔模块技术数据、涂层、Pilot 与后续行动
+
+
+其余推荐项未在转写文本中清晰展开，建议向开发方索取完整推荐清单/议程。
+
+### 6. 针孔模块需跟进的技术数据（00:11:42 – 00:13:21）
+
+
+产品方要求开发方后续跟进（不需当天答复，但需 follow up）：
+
+
+针孔尺寸范围
+
+
+在约 500 米/分钟高速运行条件下，可实现的针孔尺寸范围：从 最小针孔尺寸（minimum pinhole size） 到 最大针孔尺寸（maximum pinhole size）；产品方需要该数据。
+
+
+针孔图案/形状
+
+
+目前只看到圆孔（round holes），是否可能制作异形/非圆图案（abnormal patterns）？
+
+
+高速热量与材料变形风险
+
+
+产品方担心小尺寸/对位（alignment）问题；在高速下可能产生热量，导致材料变形（material deformation），此点非常关键。讨论认为可通过针的密度（density of pins）来缓解或解决。
+
+
+### 7. 打孔切割类型、锥形针与特殊涂层（00:13:21 – 00:17:14）
+
+
+两种针孔切割方式：开发方表示有两种类型（two types of pinhole cutting）：
+
+
+一种为 carving part（雕刻/凸起部分，录音含 uncarpeted part，待核对）；
+
+
+另一种为 tapered（锥形）；锥形对小微孔/小尺寸更容易（easier for small）。

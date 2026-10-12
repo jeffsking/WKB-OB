@@ -1,0 +1,20 @@
+{
+ "stage": "S1",
+ "block": "Projects/BM",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md",
+   "name": "BM_Urine_Indicator_Concept.pptx.md",
+   "title_hint": "BM_Urine_Indicator_Concept.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md",
+   "name": "BM_Indicator_Design_Viscosity_Cost.pptx.md",
+   "title_hint": "BM_Indicator_Design_Viscosity_Cost.pptx"
+  }
+ ]
+}

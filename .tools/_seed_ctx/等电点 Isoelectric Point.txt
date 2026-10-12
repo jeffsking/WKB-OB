@@ -1,0 +1,100 @@
+# SEED: 等电点 Isoelectric Point
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 125 页，180 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (5 句)
+   • Chapter 1 is the foundation chapter of the book: it defines what a smart polymer **is** in thermodynamic terms, explains *why* such systems are useful (critical-point susceptibility 临界点敏感性), and establishes static + dynamic light scattering (SLS/DLS 静态与动态光散射) as the metrology that quantifies those transitions. No device or application is built here — the application domains are only enumerated up front (L98–126): bioseparation, immunoanalysis, immobilized enzymes, drug delivery/targeting, biodet
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • **4. Phase diagrams must be measured, not predicted.** Coexistence curves are highly diverse (UCST, LCST, closed-loop, overlapping gaps, up to three critical points) and "no existing microscopic or phenomenological theory can analytically represent the coexistence curve over a wide parameter range" (L200–230). Empirical phase diagrams are a prerequisite for any bioprocess design (工艺设计的先决条件).
+   • **Cloud-point determination methods compared (L1944–2042)**
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • Route comparison (pp.291–292): "cost of TPA is usually less than DMT"; "the reaction product in the DE step has a higher molecular weight than that obtained in the EI step"; and "PET produced via the PTA route has lower average molecular weight, lower melting point and higher dye uptake" — the differences are attributed mainly to **diethylene glycol (DEG 二甘醇)** content. DEG forms by etherification of two glycol molecules and makes the chain irregular, lowering melting point and raising dye uptak
+   • Assessment: polymerization and spinning sections are evidence-dense and highly credible; structure–property linkage is chart-dependent with shallow mechanism discussion; the applications section is narrative with little quantification. Some figures are OCR-reversed (Fig. 12.1–12.8 captions) and some values (DEG%, a melting-point decrease) are scan-garbled in the source — [待验证].
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres — the mechanics behind PET draw ratio 3–6
+- Antimony-Free PET Fibre（无锑 PET 纤维） — PET catalyst compliance, background to the Sb activity series
+- CoPET（低熔点共聚酯） — low-melting copolyester, melting-point depression route
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — PET spunbond topsheet fibre selection
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (4 句)
+   • The function decomposition then shows that thermoregulation is **four separable physical functions**: insulation (resist conductive heat flow, high R-value), buffering (raise thermal mass so dT/dt is slow), dissipation (move heat out via evaporative and radiative pathways) and spike absorption (absorb a discrete thermal event at a setpoint via latent heat). For multi-hour wear, comfort is a **steady-state** problem — insulation + buffering + dissipation — and spike absorption only matters for th
+   • BNC's thermal behaviour is presented as a direct consequence of its nanofiber geometry: ≈85–95% porosity trapping still air (k_air ≈ 0.026 W/m·K); nano-pores ≈20–200 nm sitting near the air mean free path (≈68 nm) producing Knudsen suppression of gas-phase conduction; a point-contact fibril network (τ ≈ 1.5–3) minimising solid conduction paths plus phonon boundary scattering; a hydroxyl-rich surface whose bound water adds sensible-heat thermal mass; and a nanofiber mat that scatters IR radiation
+   • 1. **Transient spike absorption** — BNC-only lags PCM by ≈1–2 min in the first-window ΔT (model, indicative).
+2. **Setpoint precision** — no sharp isothermal hold at Tm; regulation is rate-based, not temperature-locked.
+3. **Above-window performance** — above the setpoint PCM contributes nothing extra either, so the gap is bounded, not open-ended.
+   • **Four functions, three of them structural** — microcapsules address only the fourth —— 支撑页：PCM-Free Thermoregulation
+- **Insulation at aerogel level is a geometry effect** (porosity + Knudsen + point contact) —— 支撑页：细菌纳米纤维素
+- **For multi-hour wear, PCM is redundant; for transients it is marginal** —— 支撑页：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- **The compensation levers are the same structures the REL/capillary work already develops** —— 支撑页：毛细梯度设计、REL增强层、分区密度设计
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (4 句)
+   • **Thermochromic clearing-point transition read through a window（透过窗口读取的热致变色 clearing point 转变）** — two distinct chromic mechanisms are described:
+   • 1. **Cholesteric liquid crystal, clearing-point type（胆甾型液晶·清亮点型，温度不敏感型）** — "常温有色、升温变透明": at normal temperature the LC reflects a colour; on reaching its **clearing point** it becomes **transparent**. This is the mechanism used in the worked EXAMPLE.
+2. **Temperature-sensitive liquid crystal（温度敏感型液晶）** — colour sequence "无色→红→橙→黄→绿→蓝→紫→无色" as temperature rises.
+3. **Thermochromic inks / leuco dyes（热致变色油墨 / 隐色染料）** — leuco dyes "可直接混入薄膜、无纺布和弹性体"（may be incorporated directly into films, nonwovens 
+   • Source: **Liquid Crystal Resources, LLC**, formulation "**Unsealed Cholesteric Liquid Crystal Clearing Point Formulation with Hysteresis**".
+   • 1. **The closest competitive patent to the chromic-ink programme's "smart but non-electronic" branch.** P&G's architecture delivers a **battery-free, circuit-free visual readout** — the same value proposition as a chromic wetness/comfort indicator. It is the benchmark to read before positioning our own chromic concept. See Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) and Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）.
+2. **Two different chr
+
+--- [[BNC Application Red Line（BNC 应用红线）]]  (3 句)
+   • 1. **The rule before 2026-09-05**：a single sentence — "do not start projects replacing fluff pulp / SAP". Its judgement basis was the substitution object, so any BNC scheme had to be expressible as "replacing X".（中文：旧红线一句话按「替代对象」判，所有方案必须能写成「替代 X」。）
+2. **The measured failure**：the Baikerui PEG displacement intermediate（方向四）replaced neither fluff pulp nor SAP — its substitution object was *empty* — so the old rule blocked a route that the new rule explicitly permits.（中文：替代对象为空 → 无类别可归 → 被一刀切拦下。）
+3
+   • Companion method 配套方法：Pain-Point Backward Derivation（痛点倒推法）
+- Routes the rule was written around 规则所针对的路线：BNC-PEG 母粒（干态可复水中介体）、BNC 基 SAP 表面交联、干燥塌孔（Horrification）
+- Material background 材料背景：纳米纤维素（CNC、CNF、BNC）、细菌纳米纤维素、绒毛浆（Fluff Pulp）
+- Application carriers 功能载体落点：智能尿裤功能层、智能尿裤功能层专利地图
+- Comparisons 对比：BNC功能层嫁接可行性对比、三类纳米纤维素对比（CNC、CNF、BNC）
+   • BNC Application Red Line Revision 20260905（BNC 应用红线修订说明） —— 
+- Pain-Point Backward Derivation Template v2（材料合作分析模板 v2） —— 
+- BNC 卫生用品技术可行性评估（访前尽调详细版） ——
+
+--- [[可穿戴传感器 Wearable Sensor]]  (3 句)
+   • **可穿戴传感器（wearable sensor）** is a sensing function **integrated into a garment, textile or substrate worn on the body**, used to monitor a physiological or environmental signal. The vault frames the field as **wearable electronics**, "a cross-disciplinary field of chemistry / physics / materials science & engineering / electrical engineering / biomedical engineering" with two mainstream directions — **thin-film devices** (reduce one dimension) and **fibre-form devices**（纤维形态，further reduce two di
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (3 句)
+   • The mechanism is worked out in detail: the lane is buffered hard to pH 3.0 with a citrate / stearyl-phosphate acid system so the dye sits fully in its yellow protonated form; free amino groups on the polypeptide bind the dye anion electrostatically and stabilise it, shifting the apparent pKa down so the dye ionises and turns violet **while the bulk pH is still 3**. Trip point is set by dye loading alone via D × C* ≈ 2,500. Four independent defences against a false BM signal are listed (protein b
+   • Thermal load is the binding constraint: the contact interface reaches 69 °C at a 125 °C melt (comfortable), but the bulk equilibrium temperature reaches 85 °C at 125 °C and 90 °C at 135 °C — and a microporous CaCO₃-filled PE film loses WVTR irreversibly once the drawn structure anneals above ~90 °C. A chilled backing roll moves the ceiling up by ~15 K. Nominal set point 125 °C, window 115–132 °C (lower ≈112 °C by die pressure, upper ≈134 °C by film pore collapse; viscosity floor ≈136 °C).
+   • Cost: US$0.567 per 1,000 diapers all-in (material 0.142, capex amortised 0.109 over 707 M diapers/3 y, OEE allowance 0.240 at 0.30 %), i.e. 0.056–0.057 ¢/diaper. Net new hardware ≈ US$77 k core / US$109 k with in-line colour verification. Test plan covers a protein challenge ladder (0 / 150 / 1,000 / 5,000 / 10,000 / 40,000 mg/L bovine albumin), urine at pH 5.5 and 9.0, aged urine, stability (40 °C/75 % RH 8 weeks; 8 h melt at 130 °C; light; dye leach), process/product (Cpk ≥ 1.33 on 20 ± 3 gsm;
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (3 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[LMP-PP Resin Development Brief]]  (3 句)
+   • This project brief establishes a three-tier target architecture and acceptance criteria for domestic fiber-grade low-melting-point polypropylene used in hygiene nonwovens.  
+（中文：该任务书建立国产卫材用纤维级低熔点 PP 的三档目标架构与验收标准。）
+   • The technical principle is to introduce ethylene or C4–C10 α-olefin comonomers that interrupt isotactic PP sequences and reduce lamellar perfection. Plan A targets a conventional 150–158°C grade compatible with early line trials; Plan B targets a 135–150°C binder resin with higher comonomer loading and a controlled low-isotacticity fraction; Plan C is an experimental ≤135°C resin for the sheath of an all-PP bicomponent fiber. The brief identifies xylene-solubles growth, slow crystallization, sur
+   • **Melting-point reduction must be engineered together with spinnability.（降熔点必须与成纤性协同设计。）** — supporting page: 低熔点聚丙烯.
+- **Plan C assigns low-temperature bonding to a sheath around a mechanically stable core.（方案 C 将低温粘合作用交给包覆稳定芯层的皮层。）** — supporting page: 皮芯复合纤维.
+- **Route selection balances technical ceiling, cost, and supply-chain exposure.（路线选择需平衡技术上限、成本与供应链风险。）** — comparison: 低熔点PP技术路线对比.
+
+--- [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]]  (3 句)
+   • 1. The source states the design intent directly: the old template derived forward from **material performance → possible application**, which structurally misses non-substitution paths such as *intermediates* and *carriers*. Among the four Baikerui needs, three were reachable with the old template; only the **PEG dry-granule intermediate** could not surface — and only backward derivation exposes it.（旧模板「材料性能 → 可能应用」正推，天然漏掉中间体/载体这类非替代型路径；四个需求里三个旧模板也能想到，唯独 PEG 干颗粒中间体只有倒推才能浮出来。）
+2. The revised chai
+   • **The template's real product is a candidate-set admission rule, not a form.** —— 支撑页：Pain-Point Backward Derivation（痛点倒推法）
+- **Role-based wording is what de-fuses the red line.** The role-library phrasing changes the red line to "not starting projects that replace fluff/SAP *as an end material*", so intermediate roles stop being collateral damage. —— 支撑页：BNC Application Red Line（BNC 应用红线）
+- **Delivery form is the load-bearing cell.** Both the template and the PEG page converge on the same rule:
+   • Concepts 概念：Pain-Point Backward Derivation（痛点倒推法）、BNC Application Red Line（BNC 应用红线）、BNC-PEG 母粒（干态可复水中介体）、水凝胶脱水干燥工艺族谱、智能尿裤功能层
+- Entities 实体：海南拜瑞科（案例对象）
+- Comparisons 对比：三类纳米纤维素对比（CNC、CNF、BNC）、BNC功能层嫁接可行性对比
+- Sibling document 同族文档：BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）
+

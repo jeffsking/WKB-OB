@@ -1,0 +1,118 @@
+# SEED: 丙烯酸丙烯酸酯胶 Acrylic Adhesive
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#
+# 全库正文命中 205 页，376 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热熔胶 Hot Melt Adhesive]]  (11 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • ⚠️ 口径提示：本库同时存在 Hot Melt Adhesive 与 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） 等分型页面，引用时应确认层级（通用 vs 聚烯烃分型）。
+   • **1. 粘接机理五大类：** WLB 湿润、表面能、渗透、锚定、静电 —— 适用于所有粘接场景（源：Adhesive Handbook）。含纤网场景下**机械互锁占主导**："penetration of the protruding fiber ends into the rubber was the most important parameter"（Part 2, Line 71–75）（源：Handbook of Adhesive Technology Full Report）。
+   • **2. 胶接界面不是一条线：** "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（Part 2, Line 2900–2920）（源：Handbook of Adhesive Technology Full Report）。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (10 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+
+--- [[交联密度 Crosslink Density]]  (6 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+   • **Acrylic-SAP double-essence.** High absorption/retention comes from **hydrophilic carboxyl/hydroxyl groups + a 3-D cross-linked network skeleton**, both indispensable; the network is the ν_c-bearing structure（源：Acrylic-Based Superabsorbent Polymers）。
+
+--- [[聚氨酯 Polyurethane]]  (6 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Waterborne shift.** Waterborne PU adhesives emit **no VOC** and are nonflammable, hence "more environmentally friendly"; the shift was driven by rising solvent prices（源：Adhesive Handbook Part 3 Adhesive Classes）。
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (5 句)
+   • 卫材胶黏系统 = 一次性卫生用品（纸尿裤 / 卫生巾 / 湿巾）中**承担结构粘接、层合、SAP 包裹与皮肤接触自粘的胶黏剂体系总和**：从芯体点胶、面层-导流层-背膜层合，到腰贴/侧贴的压敏胶（PSA），再到防漏边"胶-密一体"的封边胶。
+- 口径不在"胶"这个名词上，而在**接头本身**：source 明确 "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（接头不是一条线，而是三维过渡层）（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **六大胶接理论互补而非互斥**："each of these theories is valid to some extent... they do not negate each other"（源：Adhesive Handbook Part 2 Fundamental Asp
+   • **粘弹性耗散主导强度，而非界面热力学。** 剥离强度 **G = G₀·ψ(v,T)**：G₀ = 本征断裂能，ψ(v,T) = 频率/温度相关的粘弹性函数。卫材含义："Temperature and peel rate directly determine core retention"— 配方开发的核心是设计 ψ(v,T) 的峰值（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **机械互锁是橡胶-纺织/绒毛浆界面的主导机制。** "penetration of the protruding fiber ends into the rubber was the most important parameter"，对应热熔胶点到浆纤维 / SAP 颗粒的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）。
+- **水基化转型不可逆。** 水性聚氨酯"no VOC emissions and
+   • **腰贴 / 侧贴 / 顶贴的 PSA 选型基准** — 行业直接命中："Personal hygiene products such as disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate this application... in particular the adhesive must not cause skin irritation."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **芯体点胶** — 施胶花型（喷嘴）是最大杠杆、**胶型是最小杠杆**：HSBL 数据给出施胶应施加在导流层（surge）上以获得高剥离强度；"间隙小 → 回渗低"仍为未验证假设（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）、Surge-Liner Adhesive Bonding（导流层-面
+   • **HSBL 试产的实测结果**（Peel / Capillarity / MicroCT / 回渗）与覆盖率—添加量的最优区间未见 （源：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合））。
+- **SAP-胶复合界面的标准测试方法**（界面相容性、防霉）库内记载"尚无"（源：Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶））。
+- **湿态/尿液环境下的长期强度衰减**库内只有类比（85 % 损失为有机涂层数据），**卫材专属衰减曲线未见** 。
+- 以上定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+
+--- [[压敏胶 PSA]]  (5 句)
+   • **压敏胶（PSA, pressure-sensitive adhesive）** = 在**轻压**下即产生粘接的胶，无需溶剂、热或固化即可"润湿"基材。Source 原话："Tack is also believed to stem from the viscoelasticity of many polymers, allowing them to conform to the substrate to be adhered and 'wet' it even in the dry state."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **产品三分类**："Pressure-sensitive adhesives fall into three broad product categories: water based, solvent based, and hot melt."（水基 / 溶剂型 / 热熔型）（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **卫材直接命中口径
+   • **初粘力来自粘弹性润湿。** tack 由聚合物的粘弹性主导，使其在**干态**下即可贴合并"润湿"基材；因此 Tg 必须显著低于使用温度（源：Adhesive Handbook Part 3 Adhesive Classes）。
+- **剥离强度由粘弹性耗散主导。** 与结构胶同源，PSA 的剥离强度服从 **G = G₀·ψ(v,T)** —— 温度与剥离速率（"婴儿抓挠与穿着运动是高速剥离"）直接决定粘接表现（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **三类体系的加工代价不同。** 水性化由 VOC 法规与溶剂价格推动（"as the price of solvents soared"），但"processing and end use performance are usually superior"指向溶剂型；因此水性 PSAs 应只用在不可逆环节（贴身面材、封条）（源：Adhesive Handbook Part 3 Adh
+   • **腰贴 / 侧贴 / 顶贴的皮肤接触主战场**：书中直接确认一次性纸尿裤自粘条由**非改性丙烯酸乳液 + 热熔胶**主导，且**皮肤不刺激是第一约束**（与急救敷料同一标准）（源：Adhesive Handbook Part 3 Adhesive Classes）。
+- **采购关注点**：自然橡胶基 PSA 仍是最大基料之一，但价格随农产品周期波动，需多源对冲（源：Adhesive Handbook Part 1 History and Information Resources）。
+- **结构胶（热熔）与 PSA 的边界**：卫材防漏边/腰围的 "SBS/SIS 热熔 PSA" 同时承担结构粘接与压敏功能，见 Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶） 与 Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）。
+- **供应商侧**：国内供应商将 PSA 与尿显水性油墨、热熔胶**配套供应**（热封胶 / 纸塑胶 / 压敏胶），面向一次性卫生用品工厂（源：Hygiene
+   • 卫材 PSA 的**皮肤刺激性定量阈值**与浸液/汗液后的**剪切保持衰减曲线**库内未见 。
+- **是否有独立概念页 PSA**：本库另存在一页仅 1 处引用的种子页 （引 Handbook of Adhesive Technology Full Report），与本页主题重叠，**页面合并 / 去重待决** 。
+- 上述定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (5 句)
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **效应量排序（Effect Summary）**：**施胶花型（Nozzle – OP）影响最大，胶型影响最小**。Logworth / P 值依次为：**Nozzle – OP 14.020（p 0.00000）**、**Primary Substrate 4.376（p 0.00004）**、**Bonding 3.632（p 0.00023）**、**Add-On (gsm) 1.304（p 0.00548）**、**Adhesive Type（p 0.04965）**。
+   • **各因子细节**：
+- **施胶花型**：Minibead 最强；**Minibead 的剥离强度同时变异最大**——原文提出 CF Swirl 与 Minibead 之间的剥离强度落差**可能正是 Depend 回渗值更不稳定的原因**；另注 **Summit 喷嘴历史上粘合强度 ≥ Signature**，本次偏低疑为试验期间花型质量不达标（Tukey-Kramer 0.05 分组中 CF Swirl 52.879 / Signature 44.119 / Summit 24.097 等均值）。
+- **施胶基材（Primary Substrate）**：**胶应施加在导流层上以获得高剥离强度**——Surge 均值 **408.19**（Std Error 29.750，A 组）vs Liner **230.09**（Std Error 26.434，B 组），**未共享字母即统计显著**。注：面层作基材仅在 Minibead 喷嘴组合中出现，故右图只含 minibead 代码。
+- **压合（Bonding）**：**压合的剥离强度高于不压合**（p = 0.0002）。**
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+
+--- [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]  (5 句)
+   • **Dow 的已授权美国专利（US 5,266,394，1993-11-30，29 项权利要求）**，用**窄窗口的 SIS（聚苯乙烯-聚异戊二烯-聚苯乙烯）嵌段共聚物**配一套**四参数同时命中**的热熔胶体系，专用于**纸尿裤/卫生巾等多线（multi-line）结构粘接**。它是本库 styrene 系热熔胶（SIS/SBS）一侧的**基准参数页**，也是 Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链） 对比中"SIS/SBS 一侧"的直接出处。
+   • Title on the face: "DISPOSABLE ARTICLES OF MANUFACTURE CONTAINING POLYSTYRENE-POLYISOPRENE-POLYSTYRENE BLOCK COPOLYMERS" (文件名所示的 "hot melt adhesive compositions (block co…)" 为文件命名，非封面标题). The polymers carry **high average molecular weight polystyrene blocks (12,000 to 20,000)** while keeping the **overall average molecular weight low (60,000 to 110,000)**; blended with a compatible tackifier resin, preferably also a secondary tackifying resin or plasticizing oil, and a stabilizer, they form hot-
+   • **这是一份"低粘度 + 高耐热 + 长剪切保持三者同时成立"的配方专利**：常规的权衡被打破的关键在于高 PS 嵌段分子量（12k–20k）与低整体分子量（60k–110k）的组合。→ Hot-Melt Slot Coating（热熔狭缝涂布）
+- **四个参数必须同时命中，不是取平均就行**——这一条是可迁移的工程教训：买现成牌号（Kraton D1107 等）而不控窗口，测得 SAFT 47 ℃、保持 80 min。→ Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- **面向的应用正是本库的 multi-line 结构粘接**：PE/PP 膜与无纺布/绒毛浆粘合，且**施胶温度必须低到不使聚烯烃基材变形**。→ Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **真假 SBS/SIS 之争在 1993 年就被量化过**：本案主张 SIS 优于当时标杆 SBS（Stereon 840 A），与更早 US 4,526,577 的结论相反。→ Polyolefin HM vs SIS-SBS H
+   • Concept 概念：Hot-Melt Slot Coating（热熔狭缝涂布）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- Comparison 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- Entity 实体：Dow Chemical Company
+
+--- [[Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）]]  (4 句)
+   • **耐久数据缺口**：反复吸湿-干燥循环、动态压力、不同温度下的界面长期耐久数据不足。
+- **标准缺口**：SAP-胶复合体系的界面相容性、防霉性能**尚无统一高效的标准化测试方法**。
+- **性能极限**：追求超低添加量（<0.1 g/m²）时，"粘接强度 / 耐水性 / 不影响 SAP 吸液速率"存在材料学上的固有矛盾（见 Ultra-Low Add-On Adhesive Application（超低添加量施胶））。
+   • 上位 Upstream：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、SAP性能指标（CRC AUL GBP Vortex）
+- 平行 Parallel：Ultra-Low Add-On Adhesive Application（超低添加量施胶）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- 材料交叉 Material crossover：纳米纤维素（CNC、CNF、BNC）（增强增强相与联合研发方向）、Biodegradable SAP（可降解高吸水树脂）
+- 工程侧 Engineering：REL增强层（REL/SAP 层同属芯体定位，见 R10「结构胶固定过度限制 SAP 自由膨胀」）
+   • ✅ **验证记录（2026-09-29）**：8/9 月排程与 DNC 分工为会议已决事项；「亲水胶是否带来 benefit」**尚无结论**，须待 9 月实验与 DNC 产线验证。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）。
+   • Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶） ——
+
+--- [[Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）]]  (4 句)
+   • 同界面另一机制：Liner-Surge Embossing（面层-导流层压花）（压花提供连接，无胶；本页为其施胶版）
+- 胶与设备族：Ultra-Low Add-On Adhesive Application（超低添加量施胶）（芯体侧的极低添加量路线，与本页 1.7–3.9 gsm 属不同量级）、Olefin-Based vs EVA Construction Hot Melt（烯烃基 vs EVA 结构胶）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- 基材：Resilient Surge（PET 回弹导流层）（CT5 = 100% PET；PET 不易粘结正是本页施胶的动因之一）
+- 判读前提：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（毛细测试是本页三种验证手段之一）
+   • **教训**：**别把"更多胶 = 更好"当默认**。源资料自己在假设里写了"more adhesive may also block drainage"——覆盖率与添加量都要找**最优区间**而非单调加大。
+- **教训**：**压合的正负效应必须分开测**。压合同时带来"连接↑"与"空隙↓"，两者对回渗方向相反；只测回渗会把净效应误当成单向结论，必须配合 **MicroCT 看空隙、Peel 看连接**。
+- **教训**：**换胶或换喷嘴必须重算工艺设定**。密度差 10% → 泵速差约 9%；喷嘴孔数/孔径差 → 出口速度差可达 30 倍。**设错这两项，试验结论就是错的**。
+- **教训**：**运行顺序要先"大变量"后"小变量"**（胶种 → 花型 → 压合 → 最后添加量），因为换胶需要冲洗施胶机（源计划中单独排了 8 h），把小变量放前面会造成重复冲洗。
+- **待补 **：本试验的实测结果（Peel / Capillarity / MicroCT / 回渗）；覆盖率与添加量的最优区间；表面能影响回渗的机理。
+   • HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划） ——
+   • **层间空隙是独立变量**：AD 的 **attachment strength 粘合强度高于 Depend** → **层间空隙（interstitial space）更少**；假设这**同时改善面层的排液（draining of the liner）**。即：粘合不只是力学/手感变量，**也是回渗变量**。
+- **目标函数由此变为双目标**：粘合强度↑ 有利于排液与结构完整，但**过度粘合/熔掉空隙**会恶化摄入与铺展（见本页上方关于空隙体积的约束）。**「粘得更紧」与「留得住空隙」需成对验收**。
+- **LSE 的两面性（重要修正性认识）**：当前用 **LSE** 形成该结构，但 **LSE 会制造 small pockets 小液袋，对回渗不利**；整体判断仍是 **net positive 净效应为正**，但问题被明确抛出：**can we find a better way 能否找到更好的方式？** —— LSE 不应被视为终态方案。
+- **验证路径**：DOE #1（**adhesive pattern 施胶图案 / bonding 粘合方式 / adhesive
+

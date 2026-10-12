@@ -1,0 +1,52 @@
+# SEED: FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 5 页，9 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Nonwoven 非织造布]]  (2 句)
+   • **Position-based acceptance（按位置验收）：** the CN standard FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布） organises diaper-nonwoven acceptance by **in-diaper position** — topsheet, backsheet, leak cuffs, ADL, core wrap, waist/side-tape — rather than by process; every property is anchored to the GB/T 24218 test-method series（源：FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布））. **Fibre fineness is not monotonic** — US7195621B2 records that ultra-fine 0.5–2.5 µm meltblown lost both breat
+   • Development of the nonwovens industry
+- Nonwovens in Absorbent Materials
+- Absorbent Technology
+- Handbook of Polypropylene and Polypropylene Composites
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)
+- Bicomponent Fibre Technology Development Trends
+- FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）
+- Ebewole Polymer Science Ch15 Polymer Properties and Applications
+- SMS 纺粘熔喷复合
+- 水刺 Hydroentanglem
+
+--- [[Ebewole Polymer Science Ch13 Mechanical Properties of Polymers]]  (2 句)
+   • 1. **Tear / tensile / puncture 撕裂、拉伸与穿刺的理论底座.** 非织造布的拉伸断裂、撕破、穿刺强度评估全部落在本章的 stress–strain 体系内；K_Ic / G_Ic 为穿刺与撕破提供断裂力学的定量语言。参见 Characterisation, testing and modelling of nonwoven fabrics、FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）。
+2. **Softness vs. strength trade-off 手感-强度矛盾.** "Modulus, yield, and tensile strengths generally decrease with the addition of plasticizers"（p.367）与增塑三态序列（硬脆→硬韧→软韧）是**柔软化必然伴随强度损失**的定性根据；但如 §批判所述，tan δ 不应被当作柔软度代理指标。
+3. **Strain-rate sensitivity → 测试速度的选择.** 
+   • Ebewole Polymer Science Ch04 Thermal Transitions in Polymers
+- Ebewole Polymer Science Ch08 Copolymerization
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- Characterisation, testing and modelling of nonwoven fabrics
+- FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）
+- Handbook of Nonwovens
+
+--- [[FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）]]  (2 句)
+   • **「按位置分类」是本标准对卫材采购的最大价值**：面层、导流层、包裹层在同一标准下按各自功能族验收，取代按工艺（热风/纺粘/水刺）各自找标准的碎片化做法 —— 支撑页：FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）
+- **返湿量方法锚点 = GB/T 24218.14**（包覆材料返湿量）——与非织造布层面的回渗口径衔接 —— 支撑页：Rewet Test（回渗测试）
+   • 概念：FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）、Topsheet（面层）、ADL（导流层）、Rewet Test（回渗测试）
+- 方法语境：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（成品层标准，与本原料层标准互补）
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (2 句)
+   • 1. **Crimp testing is directly usable for hot-air bonded staple**: crimp frequency (ASTM D3937) and percentage crimp are the standard descriptors of ES staple; both affect carding openness, web loft and the final bulky hand of the through-air bonded layer. There is no substitute for them in this chapter's framework, and the source's warning about the vibroscope needing extra tension to remove crimp is a real trap when measuring crimped ES staple.
+2. **CRE principle** underpins essentially every 
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres — complementary structure-level vs property-level measurement methods
+- FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准） — Chinese nonwoven industry standard for hygiene materials
+- 面层粘合强度测试方法.pdf — topsheet bond strength testing, same CRE/logic family
+- 3D面层CD拉伸强度测试.pdf — topsheet CD tensile strength testing
+
+--- [[Absorbent Technology]]  (1 句)
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+

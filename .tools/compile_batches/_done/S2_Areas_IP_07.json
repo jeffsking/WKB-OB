@@ -1,0 +1,12 @@
+{
+  "batch": "S2_Areas_IP_07",
+  "stage": "S2",
+  "block": "Areas/IP",
+  "source_pages": 10,
+  "concept_pages": 9,
+  "entity_pages": 1,
+  "comparison_pages": 0,
+  "updated_existing": 4,
+  "manual_review": 10,
+  "notes": "10/10 全新编译（查重确认无一已落盘）。sources：CN117024899A（抗菌除臭SAP·制浆造纸研究院）、CN114044919A（TEMPO-CNF双网络水凝胶·陕科大）、CN116731354A（自膨胀纳米纤维素·华东师大）、CN112851860A（ATRP接枝可降解保水剂·杭州所予）、CN111973346A（减压腰围·贵州卡布，文件名四-1）、CN120285261A（超吸收纸尿裤·广东宜柔，文件名一-8）、CN101787101A（CMC/AA/OMMT纳米复合SAP·陕科大）、CN218515875U（SAP速度梯度芯体·实用新型·福建三只小猪，文件名一-2）、CN105862253A（弹性体ES热风布·湖北高翔）、CN108035071A（局部亲水锥形孔面层·杭州可靠护理）。concepts：AMPS耐盐单体、抗菌除臭CNC载体SAP、双物理交联水凝胶、快速自膨胀纳米纤维素、蒙脱土纳米复合SAP、季铵化壳聚糖复合芯层、弹性热熔胶腰围、ES弹性体热风布、局部亲水印花面层。entities：陕西科技大学（批内2次）。updated_existing：中国制浆造纸研究院（实体追加专利动态）、Biodegradable SAP、热风粘合无纺布、SAP错峰膨胀（均追加2026-09-29验证记录，未改结论）。manual_review=10：每份源页均按区块规则挂🔴FTO manual_review（2026-09-29），法律状态A文本授权状态一律[待验证]。勘误：临时产物『双物理交联网络水凝胶（PVA/壳聚糖/TOCNF）』因文件名含/被解析为目录，已即时删除并以『（PVA-壳聚糖-TOCNF）』重建，链接已同步修正。"
+}

@@ -1,0 +1,41 @@
+{
+ "stage": "S1",
+ "block": "Projects/(直属文件)",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+   "name": "IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+   "title_hint": "IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/录音纪要_260724133403.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/录音纪要_260724133403.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/录音纪要_260724133403.md",
+   "name": "录音纪要_260724133403.md",
+   "title_hint": "录音纪要_260724133403"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+   "name": "IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+   "title_hint": "IPC BCC OI Project List - 20260918 (Restructured).xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md",
+   "name": "IPC BCC OI Project List - 17.9.2026.xlsx.md",
+   "title_hint": "IPC BCC OI Project List - 17.9.2026.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Priority List From Bryan.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Priority List From Bryan.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Priority List From Bryan.docx.md",
+   "name": "Priority List From Bryan.docx.md",
+   "title_hint": "Priority List From Bryan.docx"
+  }
+ ]
+}

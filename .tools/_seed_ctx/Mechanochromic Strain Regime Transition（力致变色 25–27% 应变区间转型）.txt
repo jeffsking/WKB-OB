@@ -1,0 +1,89 @@
+# SEED: Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 219 页，453 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (9 句)
+   • The **market, competitor and supplier-landscape review** of the Mechanochromic block — it overturns the "buy a commercial pressure material" assumption, maps four technology routes (M1–M4), screens four material candidates, and lands on the sourcing verdict **"build, not buy"** (custom threshold + custom printing process).
+   • （中文：本批 Mechanochromic 的**市场 / 竞品 / 供应商格局综述**——推翻「买一款商用压力材料」的初始假设，铺开 M1–M4 四条技术路线，筛查四类候选材料，最终给出「自建而非采购」（自定义阈值 + 自定义印刷工艺）的寻源结论。）
+   • Competitive landscape: mid-high concentration with four leaders locking high-value applications (Merck — polymer platform; GIVIDI — proprietary security pressure materials; Avient — elastomers/composites; Sun Chemical — printable mechanochromic inks) plus two printable-ink differentiators at the hygiene gate (CTI, LCR Hallcrest). The entry segment with no giant guarding it is **printable pressure-activated inks**.
+   • Material candidates: HPC (regulatory gold standard, power-law strain–colour relation), naphthopyrans (covalent scission, modular colour), spiropyrans (vivid but polar-sensitive and thermally transient), Cu-based HCP (coordination-polymer emission). Engineering hurdles are T1 threshold down-shift, T2 the 25–27 % strain regime (Barty-King et al. 2025: HPC stays viscoelastic below 25 % strain and collapses into a flowing/sheared state beyond it) and T3 rheology/signal stability. The honest limit: a
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (8 句)
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • （中文：①按触发量而非化学分类——同一分子可归两类：螺吡喃视驱动输入不同可属光致、温致或力致变色，判类的关键问题是「到底什么物理量抵达材料」；②卫品可用类别——温致（温度；隐色染料:显色剂:脂肪酸≈1:5:50 微胶囊与胆甾相液晶；尿湿指示、已量产）、湿致（水/湿度；亲水指示剂+吸湿基体、水凝胶溶胀；尿湿的化学比色路线）、卤致（pH/质子活度；溴酚蓝、溴甲酚绿/紫；尿显条主体与便指示的配对元素）、力致（力/应变/压力；力致变色分子、光子晶体、CLCE、几何掩膜；本库 Projects 的合身/张力指示方向）、光致（光；螺吡喃、萘并吡喃、俘精酸酐；与力致/温致共用分子机制，卫品场景中是干扰源而非功能）、电致（电场；导电油墨/共轭聚合物显示；智能纺织显示，尿裤集成为早期）、化学致（化学/生物信号；化学响应水凝胶、分子机器；传感与递送，卫品未落地）；③第二条轴是可逆性——连续监测需可逆路线，单次报警可用半可逆或不可逆路线；**淘汰设计的是这条轴，不是化学类别**；④第三条轴是阈值——工业计量材料为 40,000 psi 以上的结构失效检测而设计，吸收性卫品处在低张力窗口（腰围 20–150 
+   • 力致变色分支：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）
+- 卤致变色分支：Protein Error of pH Dye（pH 染料的蛋白误差）、Titratable Acidity Lane（可滴定酸度通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 既有页对照：变色油墨、Mechanochromic变色纤维、智能尿裤功能层、认证与法规的区别
+   • **教训一（先问「要指示什么物理量」）**：**按触发量分类，而不是按化学分类**——同一种分子可以同时是光致、温致与力致变色材料；决定方案的是「哪个物理量抵达材料」，而不是分子叫什么。
+- **教训二（可逆性才是淘汰轴）**：连续监测与一次性报警对可逆性的要求截然不同；**先定可逆性，再选化学类别**。
+- **教训三（三重错配陷阱）**：把工业计量材料当消费指示材料用，会在阈值、可逆性、安全性三处同时错配——这是本批最有价值的方法论警示。
+- **教训四（文献分类即情报）**：力致变色文献「一半分子、一半器件」的分裂，直接对应两条互不通用的技术组织方式：**要选路线，先决定自己在解决哪一半的问题。**
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (8 句)
+   • Chapter 1 is the foundation chapter of the book: it defines what a smart polymer **is** in thermodynamic terms, explains *why* such systems are useful (critical-point susceptibility 临界点敏感性), and establishes static + dynamic light scattering (SLS/DLS 静态与动态光散射) as the metrology that quantifies those transitions. No device or application is built here — the application domains are only enumerated up front (L98–126): bioseparation, immunoanalysis, immobilized enzymes, drug delivery/targeting, biodet
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • **2. Body-temperature transition window.** "The most applicable stimuli-responsive polymers have their 'smartness,' or working phase transition, at temperatures close to the human body temperature (∼37 °C) where biomacromolecules … can function" (L137–139). 中文：最有用的相变温度落在体温附近。
+   • **3. Light scattering is not a matter of taste.** "The choice is already predetermined by the thermodynamic and statistical nature of the macromolecular solutions: it is static and dynamic light scattering" (L181–182). Since phase behaviour near transitions is governed by **concentration fluctuations**, LS combined as SLS + DLS gives both microscopic and macroscopic parameters — M₂, A₂, R_g, R_h (L183–195).
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (8 句)
+   • The engineering deep-dive behind the pull-strain fit meter on elastic side panels — it fixes the seven hard requirements, screens seven mechanochromic families, and lands on a single-pass slot-coated **geometric optical mask** with cost, safety and FTO closed out. This is the most implementation-complete document of the Mechanochromic block.
+   • （中文：弹性侧片「拉伸式合身指示器」的工程深化报告——定下 7 条硬约束、筛查 7 大变色族，最终落到「单道狭缝涂布 + 几何光学掩膜」方案，并把成本、安全与 FTO 一并向内闭环。是本批 Mechanochromic 落地度最高的一份。）
+   • The brief fixes seven requirements: discrete strain-keyed colour states (not a smooth fade), compatibility with the installed HMA slot die (140–170 °C, 20–70 bar, 2–8 k s⁻¹ shear), a force-relevant reading, baby-safe outer-face chemistry (EN 71-3 Cat III, REACH, CPSIA), one printing pass, reversibility over tens of don/doff cycles, and < 0.2 ¢/pant all-in.
+   • Part One proves strain is a usable proxy for force: for a 2.2× SEBS laminate, 38 / 67 / 101 % panel strain map to 1.4 / 2.5 / 3.9 N retraction force; converting tension to skin pressure (P = T/(r·w)) shows a broad 85 mm panel delivers only ~4.3 mmHg at 101 % strain, so the panel band is **not** the red-mark source — the risk is the ~10 mm waist elastic downstream, which reaches ~20–29 mmHg. Hence the indicator is positioned as a **fit and containment guide, never a pressure-safety claim**.
+
+--- [[Mechanophore Mechanochromism（机械力致变色分子）]]  (7 句)
+   • 1. **Spiropyran activation（螺吡喃活化）**：6π electrocyclic ring-opening under tensile force — the spiro C–O bond scissions at ≈ 240 pN per bond; spiropyran (SP, colourless) → merocyanine (MC, intense purple/violet); reversible upon release of force（MC relaxes back to SP）.
+2. **Force must reach the bond（力必须抵达那个键）**：single-molecule force spectroscopy puts spiropyran ring-opening at roughly 240 pN on a tens-of-millisecond timescale. That force only arrives if the mechanophore sits in a taut, load-bearing
+   • （中文：①螺吡喃活化——拉伸力下 6π 电环化开环，螺 C–O 键在约 240 pN/键断裂，螺吡喃（无色）→ 部花青（深紫），撤力可逆；②力必须抵达该键——单分子力谱显示开环需约 240 pN、时间尺度数十毫秒，只有处于张紧承载链中的变色团才能被加载；③本体活化本就微弱——本体现有研究都在「放大」活化（双变色团交联剂、纳米颗粒界面力聚焦、溶胀预张力），全部增加成本与化学复杂度；④阈值会漂移——活化应变随交联密度、应变速率、温度与拉伸几何而变，家长拉得快、设计者标定得慢，读数不可信；⑤因此必须共价接入——须作为交联剂建进化学固化网络，而**热熔胶是未交联热塑性体，链会滑移而非承载，几乎不会活化**；⑥会衰减——报道的活化约 3 次后峰值颜色即下降，因为承载变色团的过度应变链被破坏，而纸尿裤的穿脱次数远多于 3 次；⑦完整毒理包——婴儿产品中引入新发色团意味着完整毒理卷宗 + 迁移研究，首次出货前需 18–30 个月与六位数费用；⑧已记录反向证据——Orado 等（2025）把螺吡喃接入聚氨酯形状记忆聚合物（PUR-SP），荧光增强 56%、细胞相容、可逆并经小鼠模型验证（p<0.05）
+   • 替代路线：Geometric Optical Mask（几何光学掩膜）、Structural Colour Mechanochromism（结构色力致变色）
+- 分类学：Chromism Taxonomy（变色现象分类）
+- 既有页对照：Mechanochromic变色纤维、变色油墨、应力诱导取向与结晶
+- 选型：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- 跨批相邻（2026-09-29 追加）：Active Hygiene Roadmap（力致变色材料商业化路线图）（另一批次产物，提出「共价力色团 = Pathway B / 永久 IP 护城河」的产业化路径，与本页「保留为 Track A 研究轨」的判断互为补充）、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+   • **教训一（选型）**：**"文献里最有名"不等于"产线上最可行"**。螺吡喃是力致变色研究最多、最经典的比色应变探针，也恰好是与热熔涂布机最不兼容的一种。
+- **教训二（工艺）**：热熔胶是未交联热塑性体——**链滑移而非承载**，这决定了共价变色团路线在当前产线上物理性地无法工作，不是配方优化问题。
+- **教训三（安全）**：婴儿产品中任何**新发色团**都意味着完整毒理卷宗 + 迁移研究，18–30 个月与六位数成本，须在项目立项时即计入时间轴。
+- **保留路线**：原文建议把分子路线降级为 **Track A（大学合作，12–24 个月）**，不阻塞 Track B 的里程碑——即「否决用于量产」不等于「否决研究」。
+
+--- [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]]  (7 句)
+   • A curated 22-title bibliography on chromic materials, indexed by stimulus class (thermo- / hydro- / mechanochromic) — it is the library's **reading map for the chromism family**, and the anchor source for the taxonomy concept page.
+   • （中文：一份按刺激类别（温致 / 湿致 / 力致变色）索引的 22 册变色材料书目——是本库**变色材料族的阅读地图**，也是「变色现象分类」概念页的锚定来源。）
+   • The workbook catalogues 22 books with author, year, subject area and a stimulus tag, then repeats the list under three thematic sheets (温致变色 / 湿致变色 / 力致变色) with a "role in this theme" column. Together with the library's existing 无纺布 — 五大工艺论剑 and related sources it is the entry-level reference shelf.
+   • The general overview sheet scores each title on a 温/湿/力 axis; the thematic sheets re-rank them for the specific job. Thermo- and hydrochromism have the deepest shelves (11 and 8 titles respectively), while mechanochromism has 8 — and those 8 are heterogeneous: four are chromic-molecule books (Xu & Chi's *Mechanochromic Fluorescent Materials*, Dürr's *Photochromism*, Bamfield's *Chromic Phenomena*, Zwicker's *Wearable Sensors* context) and four are wearable/stretchable electronics or smart-textil
+
+--- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]  (7 句)
+   • The decision-gate proposal for the waistband tension indicator — it converts the technical deep-dive into a one-page verdict (Track B proceeds, Track A maintained) with market sizing, risk register, 24-week roadmap and business impact. This is the **project-approval document** of the Mechanochromic block.
+   • （中文：腰围张力指示器的决策门径提案——把技术深化报告转成一页裁决（Track B 推进、Track A 维持），并附市场测算、风险矩阵、24 周路线图与业务影响。是本批 Mechanochromic 的**项目立项文件**。）
+   • The proposal frames an invisible problem: waistband tension is a continuous variable (1.4–3.9 N) with zero feedback to the caregiver; studies cited in the deck put 67 % of caregivers as uncertain about optimal tightness. Too-loose panels (< 38 % strain) sag and leak; too-tight panels (> 101 %) restrict movement, and the 10 mm waist elastic at 2.5 N produces ~29 mmHg, above the 20–30 mmHg discomfort threshold. No current product signals either state.
+   • The deck also publishes the mechanochromic market trajectory (US$1.2 B 2024 → US$4.1 B 2033; 14.6 % global CAGR, 17.2 % APAC CAGR), a five-candidate screening table that selects the geometric mask, a seven-row risk matrix (R1 threshold drift and R2 signal relaxation both HIGH), quantified milestones (M1 bench protocol at month 4, M2 line integration at month 9, M3 compliance/FTO at month 16, M4 commercial launch at month 24) and a bibliography that this page records as the block's literature anc
+
+--- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]  (7 句)
+   • 命题中的"**可实现拉力变色的光致变色材料**"，对应的是一类 **光–力双响应材料（photomechanochromic / dual-stimuli-responsive）** —— 典型如 **螺吡喃（spiropyran, SP）**、**二芳基乙烯（diarylethene）**、**偶氮苯（azobenzene）**、**萘酰亚胺–螺吡喃杂化体**等光致变色分子被**工程化为力致基团（mechanophore）**，在受力（**研磨、拉伸、超声、压缩**）时发生**异构/断裂**并伴随可见光谱变化。
+   • 1. **商用光致变色产值 82% 集中于镜片染料**，其配方封闭、仅光响应 ；
+2. **颜料/油墨/成品段**（盛色、崇誉、CTI、QCR、Transitions 等）**均仅光响应，无拉力变色 SKU** ；
+3. **力学刺激响应仅在螺吡喃等原料分子 + 高校配方层面成立**，无现成成品 。
+   • 1. 光致变色供应链**成熟且集中**，但**几乎全部仅光响应**；镜片段由 Transitions/Essilor、Tokuyama、Mitsui、Vivimed 主导，**颜料/油墨/成品段中国厂商性价比与交期优势显著** 。
+2. **力学刺激响应是"原料级机会"而非"成品级供给"** —— 可采购的力响应光致变色供给 = **螺吡喃/螺噁嗪分子**（**天津塞特瑞为最务实来源**），成品化须自研或联合定制商（OliKrom）与高校 。
+3. **天津塞特瑞是连接"光致变色"与"力致变色"的关键枢纽供应商** —— 其分子骨架与文献双响应体系同源，是任何力响应应用落地的**第一采购锚点** 。
+   • 1. **若目标为力学指示应用**（如贴身穿戴拉力/贴合度可视化）：以**天津塞特瑞螺吡喃/螺噁嗪原料**为起点，联合 **OliKrom（定制配方）** 或高校（华盛顿大学式 3D 打印/棉布涂层路线）做配方开发。
+2. **若目标为常规光致变色成品采购**：镜片/太阳镜走 **Transitions 体系**或中国 OEM/ODM（KARUSON、温州/广州集群）；颜料/油墨走**盛色、崇誉、CTI、QCR**，按应用场景比选成本与合规。
+3. **合规前置**：贴身/婴幼儿场景须过 **FDA 21 CFR、EU 10-2011、REACH**；盛色已标"食品接触级"可作优先筛查对象。
+4. **建立双响应技术雷达**：跟踪螺吡喃力致变色（**TDBA-SP、NSP、Rh–SP**）与可印刷力响应油墨的专利与中试进展，锁定早期 IP 与供应商。
+
+--- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]  (7 句)
+   • 本批**力致变色（mechanochromic）从实验室合成走向高速商业化生产的战略蓝图**：提出「Micro 分子 / Macro 材料 / Market 生态」三级放大框架，把纸尿裤从被动吸收体重新定位为**主动安全器件**。是本库回答「力致变色怎么落地、卡在哪、按什么节奏推进」的主索引。
+   • 三级放大框架：**Micro 分子层**——设计把机械力转译为可量化光信号的 mechanophore（力致变色分子）；**Macro 材料层**——把分子反应放大为在 **25% 应变上限内**工作的功能物理架构；**Market 生态层**——穿越 FDA 安全门并部署定向供应商矩阵，弥合到商业可行性的鸿沟。
+   • 两个关键门槛。**下调激活阈值**：工业级 mechanophore 为检测高性能聚合物灾难性失效而设计、需极大力，必须把配方调到儿科人体工效的低张力区间——方案是压敏油墨定制配方 + 引入流变凝胶剂（rheological gelling agents）从根本降低激活势垒；目标窗口 **20–150 kPa**。**25–27% 应变区间转型**：Zone 1（<25% 应变，黏弹区）材料呈弹性，稳定性高、输出方波状信号、颜色松弛一致；Zone 2（>25% 应变，非弹性流动区）剪切变稀导致横向流动，灵敏度最大但信号稳定性下降、出现假阴性颜色衰减；工程结论是**信号完整性完全取决于把材料配方严格控制在 Zone 1**。
+   • 法规三门：Gate 1 迁移测试（EU 10/2011，证明零化学迁移至婴儿皮肤）、Gate 2 非致敏与 FDA 21 CFR（长期皮肤接触 + 潜在口腔暴露许可）、Gate 3 口腔毒性（婴儿有口腔探索行为，故可食用药用级 HPC 具巨大战略优势）。供应策略为定制开发格局：CTI（Chromatic Technologies Inc.）为**主供/短期**，价值在现有食品接触级可印刷油墨带来即时法规豁免；Henan Jiayida New Materials（河南嘉亿达）为**次供/成本备份**，价值在医用色料的放大能力以驱动长期成本优化；Chungnam / Hanyang 大学为**研究伙伴**，提供面向未来智能舒适管线的先进液晶弹性体（CLCE）。IP 护城河指向 Duke Capital Partners 的 Dr. Cary Ritter（新型专有力致变色配方原创者），尽调矩阵四支柱为方法学严谨性（对照基础物理定律验证）、时间线容忍度（资本预期对齐硬件/深科技成熟周期）、生态杠杆（大学转化办公室与校友网络）、使命对齐。
+
+--- [[Introduction to Liquid Crystals]]  (6 句)
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+   • **Transition temperatures 相变温度（DSC, cooling 5 °C/min）**
+   • **Shortening the ethyl-branched terminal chain** from ethylpentyl to ethylpropyl lowers every transition: B1 → B2 drops the clearing point by 12.8 °C (157.7 → 144.9) and the S_A–S_Calt transition by 15 °C (132 → 117). The same applies within the fluorinated pair (F1 → F2: 126.8 → 114.2 and 96.2 → 84.1).
+- **3-Fluorination has the larger effect**: within each alkyl pair, the fluorinated analogue is lower by ~31 °C on clearing (B1 157.7 → F1 126.8; B2 144.9 → F2 114.2) and by ~36 °C / ~33 °C on th
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+

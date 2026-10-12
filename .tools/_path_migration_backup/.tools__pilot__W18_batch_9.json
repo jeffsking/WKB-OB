@@ -1,0 +1,41 @@
+{
+ "batch_id": "W18-9",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_cbe69febf0b53202738216be0ea58c32001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Principles_of_Polymerization_原始引用索引.csv.md",
+   "name": "Principles_of_Polymerization_原始引用索引.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_afa85420939fac170709e21f4695e86b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/纸尿裤材料必读书单_v2_专题.xlsx.md",
+   "name": "纸尿裤材料必读书单_v2_专题.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_62063e6f59e5fad794814fc68f03a9d7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Gravure Roll 101 (KC 2025)/Gravure_Roll_101_ch3_Vendors_and_Patterns_拆解报告.md.md",
+   "name": "Gravure_Roll_101_ch3_Vendors_and_Patterns_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_5ec9fec9baee275ff8fcf1e25f701c63001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_08 Nonwovens Technologies.pptx.md",
+   "name": "_08 Nonwovens Technologies.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_f995baa3db289ea29b760c7c9637caa8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/纸尿裤生产线两周学习计划_20260724.md.md",
+   "name": "纸尿裤生产线两周学习计划_20260724.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_1d9552213c5eacdacf71fcf1084e5e60001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Child Care 101 -Capability Days.pptx.md",
+   "name": "Child Care 101 -Capability Days.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

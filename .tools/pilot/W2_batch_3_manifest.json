@@ -1,0 +1,66 @@
+[
+ {
+  "name": "TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md",
+  "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_06a1c6ecf25105aa2e8d8882adafb396001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md",
+  "status": "ok",
+  "chars": 13825
+ },
+ {
+  "name": "TJ工厂访问会前简报_20260907_v3.1.docx.md",
+  "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_a7d3d8639a278339e090e6fbfd246456001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.1.docx.md",
+  "status": "ok",
+  "chars": 7522
+ },
+ {
+  "name": "录音纪要_260829135725.md",
+  "media_id": "session_3867e2b60070d7dc3f413086d0b0036e_6a2a4b2ae44c642b3695db77b392562cac54",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260829135725.md",
+  "status": "fail",
+  "chars": 6,
+  "error": "content 仅为占位标题「录音纪要」，长度 6 < 20，判定为无效正文"
+ },
+ {
+  "name": "产品研发与实验计划.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a0b8f98dea76baaf664fe27f577717001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/产品研发与实验计划.md",
+  "status": "ok",
+  "chars": 44494
+ },
+ {
+  "name": "公司业务介绍及发展情况.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_019faddc296e77fc9726cf11bf668315001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司业务介绍及发展情况.md",
+  "status": "ok",
+  "chars": 16633
+ },
+ {
+  "name": "在线新品竞争与策略.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a0b8fd61447eec993744f111689490001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/在线新品竞争与策略.md",
+  "status": "ok",
+  "chars": 33692
+ },
+ {
+  "name": "市场、政府关系及产品问题探讨.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a06d0ee3e3737482e429f8d312fe09001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/市场、政府关系及产品问题探讨.md",
+  "status": "ok",
+  "chars": 14722
+ },
+ {
+  "name": "录音纪要_260916112250.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a0b8fb751b7df6baab8770d46726fb001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260916112250.md",
+  "status": "ok",
+  "chars": 32446
+ },
+ {
+  "name": "植物提取物功效测试与验证.md",
+  "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a0b8fc32867d068280445a7d95307c001a693ee6c0644e",
+  "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/植物提取物功效测试与验证.md",
+  "status": "ok",
+  "chars": 20522
+ }
+]

@@ -1,0 +1,87 @@
+# SEED: 相变材料 Phase Change Material
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Smart Textiles & Wearables
+#   - Smart Textiles Review
+#   - Smart Textiles and Sportswear
+#
+# 全库正文命中 496 页，933 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[液晶 Liquid Crystal]]  (10 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Bio-inspired columnar proton channels.** Bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into **homeotropically oriented columnar proton channels** with water-independent conductivity and size-selective ion transport（源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a **wide temperature range**; hydrophobic mesogeni
+   • **Phase-transition identification loop.** The standard discipline is: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window**（源：Introduction to Liquid Crystals）。**The method is the transferable asset, not the molecule**（源：Introduction to Liquid Crystals）。
+   • **Mechanochromic route.** A nematic liquid crystal (**5CB**) dispersed in a PDMS matrix (PDLC) is the material basis of a mechanochromic elastomer（源：Mechanochromic Elastomer from PDLC 5CB PDMS）。
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (8 句)
+   • The dual urine + BM visual indicator concept for a diaper core carrying an effective odour-control granular — it frames the odour-vs-indicator molecule conflict, screens three BM mechanisms and specifies material composition, placement, converting process, cost model and validation protocol.
+   • The problem framing is a self-inflicted one: the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids, which removes Mom's learned head-space signal for a BM. Change intervals stretch, BM sits against skin longer, and faecal protease + lipase and rising pH drive dermatitis — with the blame attaching to the diaper rather than to the missing cue. The design trap: the odour sorbent and the indicator compete for the same molecules, and inte
+   • Mechanism options are ranked by cost per unit of certainty: **A titratable-acidity lane** (buffered halochromic hot melt, ~US$0.4/1,000, Phase 1, sensitivity ~65–80 %, misses low-VFA formula stool), **B bile-pigment mordant lane** (quaternised cationic polymer as an anion-exchange lane, ~US$0.3/1,000, binary marker independent of feeding mode, but meconium and firm stool release little liquor) and **C protease-cleavage film** (crosslinked gelatin 12–20 µm over a dark printed field, ~US$2.5/1,000
+   • The architecture is sample → isolate → react → read: a 10 mm hydrophilic wick at topsheet level in the rear zone; an 18 gsm PE barrier under the wick to stop SAP stealing the sample water and to keep the granular ≥20 mm away in MD; a 90 mm MD travel to the two hot-melt lanes; and read-out under an unprinted clear channel in the backsheet artwork at the rear waist. Two jobs are kept separate — the pH ladder is a load gauge ("change at the right time"), the BM lanes override it ("change now").
+
+--- [[Introduction to Liquid Crystals]]  (8 句)
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+   • Also present: a small two-column first-order/isotropic-phase snippet naming B1, B2, F1, F2 and the value 30 °C, whose meaning is unclear in the flattened extract and is therefore **not reproduced as a finding**.
+   • The clear objective is an **antiferroelectric liquid crystal operating at room temperature** — i.e. the whole exercise is about pushing the $S_{Calt}$ phase window down into ambient conditions.
+   • **Shortening the ethyl-branched terminal chain** from ethylpentyl to ethylpropyl lowers every transition: B1 → B2 drops the clearing point by 12.8 °C (157.7 → 144.9) and the S_A–S_Calt transition by 15 °C (132 → 117). The same applies within the fluorinated pair (F1 → F2: 126.8 → 114.2 and 96.2 → 84.1).
+- **3-Fluorination has the larger effect**: within each alkyl pair, the fluorinated analogue is lower by ~31 °C on clearing (B1 157.7 → F1 126.8; B2 144.9 → F2 114.2) and by ~36 °C / ~33 °C on th
+
+--- [[US5197958 Wetness Indicating Diaper]]  (8 句)
+   • **Thermal-mediation wetness indication for diapers（以温度为媒介的尿布湿态指示）** — a *reusable cloth diaper* carrying a thermochromic ink on its **outer surface**, triggered by the heat of the excreted liquid conducted through a layer whose thermal conductivity changes on wetting.
+   • 1. **Insulating interlayer（隔热中间层）** — material between the inner (skin-facing) and outer surfaces that **at least partially thermally insulates** the outer surface from the inner surface. **When DRY its thermal conductivity is too low for normal body temperature to raise the outer surface above the threshold; when WET it becomes sufficiently conductive to do so.** （E4 of Claim 1）
+2. **Wicking（导流）** — Claim 2: "said material **wicks moisture** secreted from said baby toward said outer layer"; the
+   • **This is the thermochromic route, not hydrochromic** — the trigger is *temperature*, and the chromic material is **thermochromic ink**（Claim 8）.
+   • **Three-component system（三组分体系，Table 1）**: "(1) an **electron donating coloring organic compound** for determining the color, (2) an **electron accepting compound** for determining the concentration of the color, and (3) a **fatty acid** for determining the color-change temperature."
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (7 句)
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • **2. Body-temperature transition window.** "The most applicable stimuli-responsive polymers have their 'smartness,' or working phase transition, at temperatures close to the human body temperature (∼37 °C) where biomacromolecules … can function" (L137–139). 中文：最有用的相变温度落在体温附近。
+   • **3. Light scattering is not a matter of taste.** "The choice is already predetermined by the thermodynamic and statistical nature of the macromolecular solutions: it is static and dynamic light scattering" (L181–182). Since phase behaviour near transitions is governed by **concentration fluctuations**, LS combined as SLS + DLS gives both microscopic and macroscopic parameters — M₂, A₂, R_g, R_h (L183–195).
+   • **4. Phase diagrams must be measured, not predicted.** Coexistence curves are highly diverse (UCST, LCST, closed-loop, overlapping gaps, up to three critical points) and "no existing microscopic or phenomenological theory can analytically represent the coexistence curve over a wide parameter range" (L200–230). Empirical phase diagrams are a prerequisite for any bioprocess design (工艺设计的先决条件).
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (6 句)
+   • The vault's cited statements describe this architecture as a **four-layer stratification of changeover elements with change control（换型要素四层分层与变更控制）**. Its stated root principle is an **orthogonal split between 「定相位」(phase-fixed) and 「定尺寸」(dimension-fixed)** variables — "「定相位 vs 定尺寸」的正交切分是全部换型设计的根", attributed to this page's own source page（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））. The four individual layers are **定义待补（引用来源未给出明确定义）** — the citing excerpts state th
+   • **Architecture-defect detector（架构缺陷检测器）：** the digest records a **Q4 "不能"（cannot）branch** that acts as a defect detector — "任何『随尺寸变、又必须换实体件、且换起来很贵』的量，都是设计没做干净"（any quantity that *varies with size*, *requires swapping a physical part*, and is *expensive to change* is a design that was not done cleanly）（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））.
+   • **Consequence for :** because  is a line-level parameter shared by both forming drums, changing it is asserted to touch only the Recipe column plus a sleeve change（源：Repitch（鼓距与产品节距解耦））; this is the mechanism that keeps gear-pitch changeover cheap under this architecture.
+   • The architecture governs **changeover design for the patterned SAP core forming line** — it is the change-control framework behind drum-pitch selection（81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配））, drum-to-chassis pitch decoupling（82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））and sleeve changeover（84 Sleeve 工程规格与换装防错设计）. Its stated value to the REL absorbent core is **lower marginal cost when extending the width family**, and a design rule that keeps size-dependent quanti
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (6 句)
+   • 1. **Classify by trigger, not by chemistry（按触发量分类，而非按化学分类）**：the same molecule can serve two classes. Spiropyran is photo-, thermo- **and** mechano-chromic depending on which input drives the ring-opening; the classifying question is *what physically arrives at the material*.
+2. **The working classes for hygiene（卫品可用的类别）**：
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • 初步检索发现：**许多温变化学成分把甲醛（formaldehyde）作为实现变色功能的一部分**。
+- 明确立场：**"甲醛是我们永远不会在产品中使用的东西"** → 正在寻找**无甲醛**的温变替代方案。
+- 北美团队此前也在找同类"great change indicator"，两边需求一致。
+   • ✅ **验证记录（2026-09-29）**：温变样品与微胶囊路线为会中口径，**未见实测数据**；阈值数字（36.8 / −2.5 / −2.8）由 ASR 英文转写还原，语义存在歧义，标 。参见 Material Safety Control（材料安全双轨管控）、Skin Health Treatment on Nonwoven（无纺布护肤处理）。
+
+--- [[热电现象 Thermoelectric]]  (6 句)
+   • In this vault, **thermoelectricity (TE)** is framed as a **thermal-management + energy-harvesting function**: the **"conversion of waste heat into electrical energy"**, positioned as a contribution to reducing dependence on fossil fuels and greenhouse-gas emissions（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）. The same source states that **"over the past 10–15 years, there have been significant advances in the scientific understanding as well as in the performance of thermoele
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+   • **Waste-heat → electricity.** The core rationale in the source is recovery of waste heat as electrical energy（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Figure of merit (ZT) governs performance.** The source's key claim is that **ZT ≈ 1 is a practical, not theoretical, ceiling** — i.e. performance gains beyond that are hard, not impossible in principle（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Material route named**: highly covalent semiconduc
+   • **Adjacent, not yet applied.** The vault's sourcing is textile / wearable-level and materials-level; **no thermoelectric function is evidenced on any hygiene-product page** .
+- TE sits in the "smart textile" conceptual neighbourhood used elsewhere in the vault for powered / functional hygiene concepts — its siblings include 刺激响应聚合物 Stimuli-Responsive Polymer、相变材料 Phase Change Material、导电纱线 Conductive Yarn、智能织物 Smart Textile（源：Smart Textiles & Wearables）.
+- Integration path named for flexible TE:
+
+--- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]  (6 句)
+   • **第一原则**（源文件 P8 副标题原文）：*"Everything that defines phase is on the drum body; everything that defines size is on the sleeve."* 即按「**定相位** vs **定尺寸**」正交切分：鼓体 Body 承载一切决定相位基准与机械几何的量（**永不动**）；Sleeve 承载一切决定尺寸的量（**必换**，每次 2 片）。
+   • **强约束**（P4）：*"Both drums (skin and poly) always carry the same ups — the nip requires identical pitch and phase on each side."* → **skin 鼓与 poly 鼓的 ups 必须始终相同**，这不是可选项，因为双鼓对压要求两侧鼓距与相位完全一致。**故 ups 是整线级参数，不是单鼓参数。**
+   • **四层清单**：
+- **Layer 1 · Body（永不动）**：节圆直径 Ø882.0 mm @ NW 中面（周长 2,771 mm）、鼓壳（估算 270 kg，J ≈ 52 kg·m²）、轴承、真空扇区（**固定角度，与 ups 无关**，P8："No sector change at grade change"）、力矩电机（≥250 Nm 连续 / ≥600 Nm 峰值）+ ≥23 bit 绝对值编码器、压合间隙 **land-to-land 0.15–0.18 mm**、轴向对中（100/110/120 共用同一轴向设定）、镜像手（skin/poly 同本体镜像）、风机/管路/胶模块。
+- **Layer 2 · Sleeve（必换）**：**22 片 = 11 尺寸 × 2 侧**；pocket-and-land 浮雕、land 高 0.45 mm；**端区也是 land**（保证芯间无 SAP）；屏 Ø0.6–0.8 mm、30–40% 开孔、各 sleeve 一致；pattern 公差 **±0.02 mm over 2,771 mm**（等节距 = 同一相位适配全
+   • P8「At grade change」双栏：**Changes** = 2 sleeves (skin + poly) · SAP chute width insert · Recipe (ups, cams, fan, glue) · Knife insert (NB, S only)；**Stays** = Drum bodies, bearings, sectors · Torque motors and encoders · Nip gap and axial alignment · Fans, ducts, glue modules。
+
+--- [[Intelligent Textiles and Sports Clothing]]  (6 句)
+   • **First generation**: synthesised fibres (polyamide) — historic cost multiple over cotton and wool, offset by tunable performance.
+- **Second generation**: modified conventional synthetic fibres with greatly increased performance — aramid, carbon, glass, ceramic. Tradenames named: Nomex, Kevlar, Twaron, Technora (aromatic polyamides); Spectra and Dyneema (high-performance polyamides/polyethylene); Vectran (aromatic polyester); Teflon (PTFE), Dacron and Mylar (polyester).
+- **Third generation**: 
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **PCM (Phase Change Materials) knits**: microcapsules accumulate and retain heat at higher temperature and subsequently release it at lower temperature, giving thermo-regulatory performance.
+- **Shape memory polymer (SMP)**: characterised by a large reversible elasticity change at the glass transition temperature. The flagship example is **Diaplex** (Japan), which maintains body temperature by redistributing its particles: at low temperature the particles arrange into a solid plate forming an in
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+

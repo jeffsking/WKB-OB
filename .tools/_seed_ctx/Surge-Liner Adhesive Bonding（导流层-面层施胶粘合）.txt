@@ -1,0 +1,115 @@
+# SEED: Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 412 页，814 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Adhesive Technology Full Report]]  (12 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • where $G$ = peel strength, $G_0$ = intrinsic fracture energy, $\psi(v,T)$ = viscoelastic function (frequency/temperature dependent). The value of $\psi$ is "usually far higher than that of E" [Part 2, Line 5182–5213] — meaning process parameters (temperature, peel rate) dominate core-bonding performance.
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Leak-guard edges require "bonding + sealing" integration — procurement cannot separate pricing.
+
+--- [[热熔胶 Hot Melt Adhesive]]  (11 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • ⚠️ 口径提示：本库同时存在 Hot Melt Adhesive 与 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） 等分型页面，引用时应确认层级（通用 vs 聚烯烃分型）。
+   • **1. 粘接机理五大类：** WLB 湿润、表面能、渗透、锚定、静电 —— 适用于所有粘接场景（源：Adhesive Handbook）。含纤网场景下**机械互锁占主导**："penetration of the protruding fiber ends into the rubber was the most important parameter"（Part 2, Line 71–75）（源：Handbook of Adhesive Technology Full Report）。
+   • **2. 胶接界面不是一条线：** "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（Part 2, Line 2900–2920）（源：Handbook of Adhesive Technology Full Report）。
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (9 句)
+   • 结构载体：皮芯复合纤维、ATB双梳理面层（Dual-Card Topsheet）
+- 工艺载体：热风粘合无纺布、SMS复合结构
+- 导流家族：ADL（导流层）、毛细梯度设计、分区密度设计
+- 纤维成纤性：成纤性判据、原纤化
+- 对比：COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+   • 旦数约束：常规面层为两弹（2 denier [待验证]），三叶形纤维**只有三弹**（3 denier [待验证]）可选，「这个没办法选，因为它就是三弹的」→ 分层时旦数无法对齐，属已知不可控变量。
+- 复合顺序：上下层各 15 g 单独成层 → 在延江处复合为 30 g 面层（转写「岩浆」[待验证]）→ 再到传越做超声波 bonding 粘合 ADL。与巴西方案同构。
+   • ✅ **验证记录（2026-09-29）**：分层 10%/0% 与 0%/10% 的双 code 设计为已决方案；打样米数、温度点、旦数口径均来自 ASR 转写，标 ，引用前须与实验记录核对。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Ultrasonic Bonding of PET-Containing Topsheet。
+   • → **永远是"形态保持"与"bonding strength"的平衡**：温度越低越保形，但 bonding 强度有风险。
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (9 句)
+   • 本批**面层-导流层（liner-surge）界面附着强度的 DOE 结果报告（2025-11-18）**：用剥离强度（peel strength）作为界面间隙的代理指标，量化施胶花型、施胶基材、是否压合、施胶量与胶型五个因子的影响大小。是本库回答「界面间隙怎么降、先动哪个变量」的实验依据。
+   • 背景给出方法学桥梁：**剥离强度与面层-导流层之间的界面间隙（interstitial space）量相关——剥离强度越高，界面间隙越小**。假设（**明确标注"尚待验证"**）：界面间隙更小的产品（高剥离强度）会滞留更少间隙液，因而回渗更低。
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **结论（如何减小界面间隙）**：① **考虑把施胶花型从 Summit 改为 Signature 或 CF Swirl**——其影响**可能大于面层-导流层压花（liner-surge embossing）**（待 MicroCT 结果确认）；**注意：Summit 的偏低可能是花型质量不达标的异常**，历史上 Summit 的粘合强度 ≥ Signature。② **继续把胶施加在导流层上**。③ **可考虑提高施胶量（add-on），但影响很可能很小**。④ **胶型大概率不值得更换**，除非 microCT 测试中观察到异常。
+
+--- [[Ultrasonic Bonding of PET-Containing Topsheet]]  (7 句)
+   • 1. **Ultrasonic bonding is a microstructure effect（超声粘合是微观结构效应）**：performance depends on microstructure, local energy concentration and pattern profile — not simply on polymer softening. Too much non-bondable mono-PET reduces pattern reliability.（效果取决于微观结构、局部能量集中与花型轮廓，而不只是聚合物软化；不可粘的单组分 PET 过量会降低花型可靠性。）
+2. **PET does not soften at PP/PE ultrasonic settings（PET 在 PP/PE 超声参数下不软化）**：in a cuff or side-seam lane it behaves as **unbonded filler** and seal strength drops **without warning**. The failure
+   • **各 bonding 线的 bond area 必须相等**：无论采用哪种 pattern，line 1–5 的**粘合面积/间距必须一致**，否则拉伸时会变形、**破坏已形成的 3D 效果**，且张力不均。
+- 该原则同时解释了「为什么 pattern 不能随意加宽/加密」——**bond area 不等 → 张力差 → 3D 变形**（与 COCO V6 Trial Round-2 Review（录音纪要 2026-09-16） 中「切与未切之间密度张力不同、产生前后张力差」互为呼应）。
+   • **超声波 bonding vs 胶 bonding 的毛细差异（待验证假设，非已决）：**
+   • 判断：**超声波 bonding 不提供毛细**，而**胶 bonding 自带一定毛细渗透** → 二者在液体传导上的行为可能不同。
+- 验证计划（已排）：**9 月**做对比实验 —— 用**两个压辊 / 两个 code** 对比。⚠️ 结论未出，不得写成已决。
+
+--- [[聚氨酯 Polyurethane]]  (6 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Waterborne shift.** Waterborne PU adhesives emit **no VOC** and are nonflammable, hence "more environmentally friendly"; the shift was driven by rising solvent prices（源：Adhesive Handbook Part 3 Adhesive Classes）。
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+
+--- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]  (6 句)
+   • 本批**GRIFFIN 回渗项目的学习周期复盘（2025-06-24/25）**：按 Liner / Core / Adhesives 三条工作流盘点进展，并把 SIROCCO 时代三处施胶试验的结论固化为可复用知识。是本库回答「吸收系统里施胶到底怎么影响回渗」的关键证据页。
+   • **工作流回顾 —— Liner（面层）**：GRIFFIN HUT 已投放**未处理（untreated）面层**（渗漏结果预计 7 月底）。**未能完成**"通过用 SF19 改变盐水表面张力来研究摄入/回渗权衡"的实验，后续可考察其他表面活性剂。Always Discreet 面层分析：① 看起来**可能有更多胶**（SIROCCO 总结 slide 5）；② **Summit 喷头可能带来增量回渗改善**；③ 自 4/22 分享后是否有新学习（开放问题）；④ **随着更多批次被测，AD 持续显得比 Depend 更不亲水（less philic）**；⑤ **AD 产品在同一时间段、不同机台上存在 2 种不同的胶型**；⑥ **Depend/AD 摄入系统互换**——**假设是 AD 的差异来自面层/导流层，而不是卷曲纤维（curly fiber）**。
+   • **工作流回顾 —— Core（芯体）**：**无 SAM 的 ActivTech Hybrid（ATH）芯体**——诊断 ATH 芯体相对 SAM/fluff 芯体回渗更高的原因；已在 GML 成功生产；测试计划待定：**MicroCT**、**毛细压力测试**（已有摄入系统即面层/导流层，是否要做芯体（包裹层/绒毛浆）？另有独立芯体与包裹层样品）、**积压排期**（可相对于其他 ADT 项目优先，高于 RED1，延迟 1 周）；策略是**先测整体系统，再按需拆分（芯体）**；可选尝试**2-丙醇溶液**下的回渗/摄入。**绒毛浆层中加入 SAM**——假设是**这将使绒毛浆脱水并降低回渗，因为在 ATH 芯体中绒毛浆起到了摄入层的作用**；回渗测试结果待提交（Kerry）。**1 gsm dSB vs 20 gsm BCW 包裹层**——假设其可能影响回渗（因为在纸尿裤中确有影响）；若会增加摄入时间，则考虑搭配**更低克重的导流层**（历史上此举有助于回渗）。**卷曲纤维复合材料**——感兴趣材料为 **50/50 绒毛浆与卷曲纤维（Helix）混纺**、**90 gsm 卷曲纤维
+   • **Depend 施胶（本节最可复用）**：吸收系统三处施胶为 **Surge Adhesive（SLA，导流层胶）**、**LTD Adhesive（面层固定胶）**、**PAA Adhesive（吸收体附着胶）**，另有 SAM/Fluff 与 Wrapsheet。**SIROCCO 曾考察三者的各种改动，唯一统计显著的回渗改善是"降低 LTD 施胶量"**；同时在三处都试过**亲水胶——方向性乃至统计显著地增加回渗**。三份文档的学习点为：
+- **ERR-61012（LTD 面层固定胶施胶量）**：**降低施胶量降低了回渗**——假设是 **LTD 胶阻碍了液体向下层流动**；**亲水胶增加回渗**；**分区/TRIO 施加理论上最优，但测试中并不总是带来回渗改善，因此资本开支无法被证明合理**（据 Monica）。
+- **ERR-61046（PAA 吸收体附着胶花型）**：**去掉 pad 中央 50 mm 条带的 PAA，方向性降低回渗**；**亲水胶方向性增加回渗**。
+- **ERR-61047（SLA 导流层胶型号）**：**Signature 喷头相对对照 Sum
+
+--- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]  (6 句)
+   • **Goal 目标**：Best in class rewet（回渗做到业界最佳）。
+- **Approach 方法**：**Systematically eliminate every drop of residual fluid from every component** 系统性地清除每一个组件中的每一滴残液。
+- 组件分解（teardown 拆解）：**Surge 导流层 / Liner 面层 / Core 芯体 / Interstitial 层间**。
+- 因果链（原稿图注）： →  →  密闭 Cradle 回渗由**解吸**驱动，解吸主要由**毛细作用**驱动，因此要逐层测毛细性。
+   • 反直觉现象：**Depend 毛细性更好，但整体排液反而更差**，原因是 **basis weight 克重更高**。
+- AD 是**低克重 + 高毛细性**——对 intake 摄入不利；AD 用 **curly fiber 卷曲纤维**来补偿摄入，**而卷曲纤维不影响回渗**（doesn't impact rewet）。
+- 反向启发：我方拟试用**含卷曲纤维的 wrapsheet 包覆层**，看能否抵消这类导流层带来的摄入损失。
+- **根因判定**：最可能是**孔径差异**；平均孔径（average pore size）AD 与 Depend **相近**，但**孔径分布 PSD 不同**——**Depend 分布更宽、大孔更多**。
+- **机理假设（B）**：**小孔中的液体不会被非常大的孔拉出来**，从而把液体**滞留（stranded）在导流层内**。与 **SIROCCO 学习**一致。
+- **结论性判断**：**Size distribution is just as important as overall size** 孔径分布与孔径大小同等重要。
+- 供应
+   • **AD 的 attachment strength 粘合强度高于 Depend**（即层间空隙 interstitial space 更少）。
+- 假设：更小的层间空隙**同时改善面层的排液**（improves draining of the liner）。
+- 当前手段：**LSE**（用于形成该结构）**会制造小液袋（small pockets），对回渗不利**；但 **LSE 净效应仍为正**。问题被明确提出：**can we find a better way? 能否找到更好的方式？**
+- 行动：DOE #1（adhesive pattern 胶图案 / bonding 粘合方式 / adhesive type 胶类型）；样品已制作，**microCT 预计 1 月出结果**。
+   • **AD 的面层 + 导流层单独就足以把 Depend 回渗从 ~0.51 g 降到 0.15–0.17 g**（降幅约 3 倍）。
+- **AD 的卷曲纤维没有额外的回渗收益**（no incremental rewet benefit）——它只对 **intake 摄入**有益。
+> 证据等级：**A（台架实测）**。这是一条**归因级证据**：回渗差距定位在摄入系统（liner+surge），不在芯体。
+
+--- [[Kirigami Apertured Nonwoven（切割拉伸开孔工艺）]]  (5 句)
+   • **关键机理推论（本方在会上提出的开放问题）**：
+1. 用作 **surge（导流层）** 时，形变有利于创造 **void volume（空隙体积）** → 有利。
+2. 用作 **topsheet / topical liner（面层）** 时，变形的切边会带来**与皮肤的摩擦**问题 → **未解**，理论上取决于 draw（拉伸倍率）。
+   • ADL（导流层）
+- TBCW结构
+- Ultrasonic Bonding of PET-Containing Topsheet
+- ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- ROTC（Real Online ThinTech Core）
+- 热风粘合无纺布
+- IPC BCC（K-C Baby & Child Care 材料开发团队）
+   • ✅ **验证记录（2026-09-29）**：以上为**供应商自述能力**，未见第三方或本方实测数据；10% 拉伸与"结构增强 10%"为供应商口径 [待验证]。参见 TBCW结构、ADL（导流层）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）。
+   • ✅ **验证记录（2026-09-29）**：以上来自**内部准备文件**，非实测数据；文件自身标注 —— **Kirigami 的放大/在线切割速度/成本对比数据不可得**，**SemiCircle 10 mm 是否为终版待现场确认** [待验证]。参见 ADL（导流层）、Gasketing Effectiveness（防漏阻隔有效性）、Coform Composite Nonwoven（熔喷-木浆复合非织造）。
+
+--- [[LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）]]  (5 句)
+   • 1. **液体位置决定机理**：低压下能回来的液体，是**还留在摄入系统（面层/导流层/绒毛浆）里的残液**——它们从未真正进入芯体的持留结构；高压下挤出来的液体，是**已经进入芯体但只被松散持留（Liquid Modes（TL-1607 液体四态） 的 Mode 3）**的那部分。位置不同 → 压力响应不同。
+2. **因此容量只影响 HPR**：在 GRIFFIN 上反复调整保液容量，**closed cradle 回渗纹丝不动**——因为容量是芯体的属性，而 CCR 的液体根本不在芯体里。这条观察是"两种机理"最硬的证据。
+3. **绒毛浆是 LPR 的主角**：ATH 结构中回渗高于 SAM/Fluff，假说是**绒毛浆在 ATH 里实际充当摄入系统的一部分**，把液体留在自己身上随后解吸出来。毛细测试给出两条旁证：**有浆时解吸能更高（更难晾干）、且截留残液更多**。
+4. **"多加浆"因此是双向操作**：**降低 LPR、却可能升高 HPR**。因为浆既能在低压下把液体从面层拉走（降 LPR），又在高压下贡献松散持留液（升 HPR）。
+5. **SAM 是 HPR 的主角
+   • 状态坐标：Liquid Modes（TL-1607 液体四态）（Mode 3 松散持留 = HPR 的液体来源；Mode 4 表面残液 = LPR 的液体来源）
+- 方法口径：Rewet Test（回渗测试）（TTM-00623 的低压/高压分段与载荷）、Rewet Method Comparison（回渗测试方法横向对比）（CCR 与 FIUP 的实测差异）
+- 材料杠杆：绒毛浆（Fluff Pulp）（LPR 的主角）、SAP错峰膨胀（HPR 侧的时间维度解法）、Resilient Surge（PET 回弹导流层）（导流层对 LPR 的一等影响）
+- 判读前提：GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）（限制发生在哪一段；与本页的"哪种回渗"互补）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（直接给出解吸能与残液量，是本页机理的仪器化度量）
+   • **教训**：**不要用一个回渗指标评价一个改动**。若只测 HPR，"多加浆"会被判为恶化；若只测 LPR，"多加浆"会被判为改善。两者同时测才是完整评价。
+- **教训**：**边界条件必须随结论一起记录**。同一因子在六套 DOE 中排序摇摆，绝大部分差异来自胶种/垫长/LSE/导流层的不同；只抄"因子排序"而不抄条件，会把结论用错场景。
+- **教训**：**承认无解比强行解释更有价值**。文件把 SiF 在 CCR 上反向、容量排序在两条芯体路线上相反两处明确标为 "Why?" 未解——本库沿用该处理，**不裁决、不换算**。
+- **待补 **：SiF 反向现象的机理假设与验证试验；LPR/HPR 的效应量（每 +1 g 浆对应多少 g 回渗变化）；容量 ↔ 回渗在两条芯体路线上出现相反排序的原因。
+   • 1. **两档的竞争态势是相反的** —— **LPR 本来就有竞争力，HPR 才是落后项**。**若只报"回渗"一个词，会把"我们本来不错"和"我们很差"混为一谈。** 这直接支持本页的**分档必要性**。
+2. **改善只发生在 HPR 档** —— BUFF BABY 之后的收益描述是"**更一致且更低**"，且**明确挂在 HPR 档**。**⇒ BUFF BABY 的收益是"降低波动 + 降低均值"，两者都要报。**
+3. **T6 surge 是 HPR 的结构性来源** —— 「**T6 surges continue to result in high rewet**」；**⇒ 高压档的回渗可被单一结构件（surge）持续驱动，即使整体方案已改善。**
+4. **吸收体 DOE 已把因果指向 flowback** —— 源文假设：「**Absorbent core characteristics are driving differences in high pressure rewet via flowback**」，code 已产出、统计师在分析。**⇒ HPR 档
+

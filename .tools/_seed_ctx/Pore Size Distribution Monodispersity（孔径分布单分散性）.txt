@@ -1,0 +1,139 @@
+# SEED: Pore Size Distribution Monodispersity（孔径分布单分散性）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 233 页，374 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[孔隙率 Porosity]]  (6 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+   • **收敛性尚未确认**：孔隙率下限从 0.347 降到 0.284，源文建议再试 60×24 网格 —— 说明尚未收敛；「细网格结果更可信」是源文判断，**无实验佐证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **v9 不含反渗**（不含二次加载后的反渗），故本页结论**不能外推到回渗**（源：Numerical Diffusion & Grid Convergence（数值扩散与网格收敛））。
+- **渗透率下降倍数与实测对应关系未明确**：「渗透率下降约 2–5 倍」与细网格 20.3%（≈5×）、粗网格 44.6%（≈2.2×）的对应关系源文未明确（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **自由液体最终 0.0 mL（细网格）** 是否意味着全部被 SAP 吸收？源文未说明 SAP 是否已饱和（源：2D Absorption Model v9 
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (6 句)
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • **Fabrication routes compared** (L237–278): photopolymerization (high placement freedom, but "the radicals formed from the initiators are toxic to the cells"), thermally initiated polymerization (less control over size and location), ionic cross-linking (Ca²⁺ + alginate gives "temporary hydrogel networks"), interfacial polymerization (reagents in adjacent laminar streams at a T-junction), and enzymatic cross-linking (gelatin + transglutaminase cast in a silicone mold). Gradient hydrogels are mad
+   • t_resp ~ L²/D_eff — response time set by initial size L, effective diffusivity D_eff, and pore size [reconstruction of L171–175]
+- Q_max ∝ 1/ν_c — swelling extent falls as cross-link density ν_c (and chain elasticity constraint) rises [reconstruction of L168–169]
+- ↑I_UV ⇒ ↓chain length ⇒ ↓t_resp and ↓mechanical strength [reconstruction of L255–259]
+- r_diss = f(d₀⁻¹, C_reductant, ν_c⁻¹, T) — dissolution rate of a cleavable gel [reconstruction of L423–425, L476–477]
+   • This is the **most directly transferable chapter of the batch** for smart hygiene, and the read-across is legitimate rather than forced: an absorbent core is a confined microfluidic system made of a superabsorbent hydrogel plus fibrous channels, and the chapter's parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space.
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (5 句)
+   • **定义待补（引用来源未给出明确定义）** —— the vault registers this concept through its method documents rather than a definition. It is evidenced as a **core/material test**: the cited method files are **STM-00305 SAM分布.docx** and **STM-4597纸尿裤SAM分布测试.docx**（源：STM-00305 SAM分布.docx、STM-4597纸尿裤SAM分布测试.docx）。The vault's other register of the concept is a **bromocresol-indicator SAM-distribution method, JA-22229**, listed under the *可达性 / accessibility* channel of the core-test family（源：Rewet Test（回渗测试））。What the te
+   • **Related SAM metrics that do carry numbers.** SAM characterisation by the five indicators (PSD / GBP / CRC / AUL / Vortex) is the **formal KC口径 for SAP incoming-material judging** and has complete STM numbering（源：SAM Testing Methods（超级吸水材料测试方法））; the same five-indicator set is confirmed in the raw-material method index（源：Raw Material Testing Method Summary（原材料测试方法汇总表））。**PSD** here is particle-size distribution — a material-level distribution distinct from the spatial, in-core SAM distribution 
+   • **REL core relevance is direct but under-specified.** SAM spatial distribution governs the target-zone capacity and the rewet/slide-through behaviour of an ultra-thin REL core; the method is therefore a structural-quality check on SAP placement, not a raw-material grade check （源：STM-00305 SAM分布.docx）。
+- **Fits the core-test acceptance framework** — any distribution result must be read back against 芯体测试方法与验收基准（STM） and the finished-product method index（源：Finished Product Testing Method Summary（成品
+   • **Definition, specimen geometry, insult protocol and numeric acceptance limits are absent** from all excerpts — the concept is only evidenced by its method-file names and its channel placement .
+- **The bromocresol chemistry** (what it stains, at what pH, and how the pattern is scored) is not stated；JA-22229 is only a code in a method list 。
+- **No page states whether STM-00305 and JA-22229 are the same method or two parallel ones** — the relationship between the two distribution methods is unre
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (5 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • 目标：提升面层扩散，量化指标为 **MD 方向尿液分布（MD urine distribution）+20–30%**。
+- 配比建议：若未涨价则 **50 / 50**（三叶形 50 配 50）；若偏贵则降。
+- 本方判断："**大部分是价格的问题，而不是功能的问题**" → 主要障碍是成本。
+   • 1. 对 **pattern（花型）**改善有没有帮助；
+2. **皮肤手感有没有变糙**（柔软性）；
+3. **performance** —— **MD distribution 的扩散长度有没有增加**；
+4. 目标是**找到平衡点**，不是单向最大化。
+   • 1. **异形纤维的收益有配比上限**：不是越多越好 —— homo PET 上限 30% 的背后是**中间层粘合强度**的约束。
+2. **温度窗口是异形纤维的通用门槛**（与本页既有结论一致）：PE ≈ 130 ℃ 是参照锚点；要让 homo PET 异形纤维存活，要么**改材料（低温 PP）**，要么**改工艺（降加工温度）**。
+3. **"+15% MD 分布"目前是理论值** —— 与 Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证） 中"10 月拿初始样品"的排程对应，属**待验证目标**而非实测。
+
+--- [[回渗 Rewet]]  (5 句)
+   • Rewet（回渗）is the liquid that returns out of an absorbent article toward the skin under load. The vault's physical account: after being taken up by SAP, part of the liquid still sits as **毛细水 / 颗粒间隙水** in the topsheet and the top of the core; under skin pressure this fraction is **squeezed out onto the filter paper** — so the rewet reading is **extremely sensitive to load and to waiting time**（源：Rewet Test（回渗测试））。回渗与滑渗是**互补指标而非重复**：回渗量液体「返出」，滑渗量液体「漏走」（源：Rewet Test（回渗测试））。A mechanistic refinement f
+   • **Capillary-pressure account 毛细压力解释.** Rewet in the closed-cradle configuration is **解吸（desorption）驱动**，解吸主要由**毛细作用**驱动，因此需逐层测毛细性；residual-fluid drivers are **wettability (θ)** and **pore radius (R)** via **Young–Laplace ΔP = −2γcosθ/R**（源：Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）、2026-05-05 - QUINN.pptx）。
+- **Two principle sets 两套机理原则.** Rewet = **Flowback + Desorption** 两套机理，各有原则集；贯穿原则是评估变异与能力（源：Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩））。
+- **Waiting time defines what is me
+   • **Method identity governs the number 方法身份决定数值.** K-C internal STM/TTM numbers are **not** directly interchangeable with ISO/NWSP external numbers; any competitive benchmark must state the method（源：NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx）。这与 Cradle 协议的「注液点必须带产品类型与性别」同一逻辑（源：Cradle Intake Test（Cradle 摄入测试））。
+- **Liner + surge are the primary lever 面层与导流层是主杠杆.** 互换实验证明 **AD 的面层 + 导流层单独就足以把 Depend 回渗降到 AD 水平**，且 **AD 的卷曲纤维没有额外的回渗收益**（只利于摄入）——回渗差距定位在摄入系统（liner+surge），不在芯体（源：Rewet 
+   • **U Rewet 国标回渗压块与 TTM-00623 低压段反渗板**的**实际质量 / 压强**——两份原文均未给出（源：Rewet Test（回渗测试））。
+- **STM-00059-2 的完整操作规程**未在摘要中给出（源：Rewet Test（回渗测试））。
+- **HPR 的 <0.3 g 机理未确认**（源：Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩））。
+- **毛细测试结果未给出**：12/8/25 完成的是材料属性与显微表征，毛细测试结果本件未给出（源：Residual Fluid & Pore Stranding（残液与孔隙滞留））。
+- 本页数值来自**多套不可互换的方法口径**（Closed Cradle / FIFE / NWSP / 国标），跨行比较前须人工确认方法与载荷档位。
+
+--- [[TTM-00038 Compression Test for Absorbent（吸收体压缩测试）]]  (5 句)
+   • TTM-00038 是 KC 研发侧的**吸收复合材料压缩载荷—厚度曲线**测试方法，其真正价值不在曲线本身，而在附录 9.1 给出的**孔隙空间模量（Pore Space Modulus, PSM）反演流程**——把压缩曲线换算成可供吸收/力学建模使用的孔隙本构参数。
+   • 附录 9.1「Establishing Pore Space Modulus」给出完整反演流程：把「应力—修正后间距」两列数据存为 ，用 **Cda.exe（Exponential Kernel Compliance Distribution Program）** 做指数核柔量分布反卷积；Setup 中 Lower Edge 取极小值（<<0）、First Order、Elements = 1000、Smoothing = 0.001，Upper Edge 由同类材料经验值起步或先取 ~10；运行后 RMSQ 应较低表示拟合良好；**L(inf-stress) 与 delta-L 相加即零载荷厚度**（AFEA 重要输入）。随后经 OutputVars 输入**质量（g）、面积（cm²）、固相密度（g/cc，注意是颗粒与纤维的平均密度，含已吸收的液体）**；应力范围典型为近零至 **10 kPa**；不建议勾选 "Use Porosity Approximation"。最终在  中取得关键 AFEA 数据：**第 1 列为压力（kPa），第 2 列为调和平均孔隙空间模量 hpmsm（h
+   • **压缩曲线本身不是目的，PSM 与零载荷厚度才是建模输入** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **TTM 与 STM 有明确分工：TTM 研发用、STM 验收与放行用** —— 支撑页：芯体测试方法与验收基准（STM）
+- **PSM 反演是反卷积问题，Upper Edge 的选取直接影响真假峰** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **固相密度须取含液平均密度，是 VV 与 PSM 互相换算的关键接口** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **盐水浓度可上探至 20%，远超常规 0.9% 口径** —— 支撑页：尿液模拟液（Urine Analog）
+- **0.05 psi（VV 法）与 10–20 kPa（压缩法）是两套相差约两个数量级的压力尺度** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、芯体测试方法与验收基准（STM）、尿液模拟液（Urine Analog）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (5 句)
+   • **测试本身测什么**：TTM-00038 / TTM-00437（Pore Space Modulus，孔隙模量）测量吸收芯体与导入系统材料在多次压缩循环后的**回弹性（resiliency）**；直接输出是**厚度随压力的函数曲线 Thickness as f(Pressure)**，VV 由后处理换算得到。典型加载为**多循环压缩（如 3-Cycle）**，HPP 参考样品如 85 gsm，加载至 **10 kPa**。用途是吸收系统建模输入，以及评估材料变更对 VV 的影响。
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (4 句)
+   • **假说**：*"LOKI liner results in lower rewet, and mechanism could be replicated by domestic vendors"*（LOKI 面层回渗更低，其机理**可被国产供应商复制**）。
+- **验证路径**：**通过毛细测试确认 fiber size / pore size 驱动因素**，再**请美国本土供应商复制关键属性**做试产料。
+- ⚠️ **尚未验证**：12/8/25 完成的是**材料属性与显微表征**，**毛细测试的结果本件未给出**。
+   • **源文给出的"少孔"解法**：*"Less pores (i.e.: **lower BW at same density**, **non-fibrous film surge**)"* —— 即**同密度下更低克重**、或**非纤维的 film surge**。
+- ⚠️ **毛细具有两面性**：*"Drawing fluid may be a desirable trait to drain fluid from upper layers into lower layers"* —— 把液体从上层往下抽**本身是想要的**，滞留只是其副作用。
+   • Draft 2：*"Materials have **large pores to reduce capillarity**"* / *"Materials are **minimally wettable** to reduce capillarity"*（**绝对属性**）
+- Draft 3：*"Materials have **lower capillarity and wettability compared to where fluid is locked up**"*（**相对属性**）
+   • **决定性区分：平均孔径相近 ≠ 排液行为相同**。Depend 与 AD 导流层的**平均孔径（average pore size）相近**，但 **Depend 的 PSD 更宽、大孔更多**，回渗更差 → 直接坐实本页「孔径分布比平均孔径更重要」的判断。
+- **滞留机理（假设，B）**：**小孔里的液体不会被紧邻的非常大的孔拉出来**（大孔的毛细压低于小孔，无法把小孔抽空），于是液体被 **stranded 滞留**在导流层内。与 **SIROCCO 学习**一致。
+- **量化路径**：该假设的判据是**收窄 PSD 后回渗是否下降**（Shalag 已提供样品：先查 PSD，再上产品验回渗）。
+- **配套设计原则（本批新增）**：
+  -  —— **孔的数量要尽量少**，减少液体可被困住的位置；
+  -  —— **孔网络要连通良好，界面处不滞液**。
+- **归因级证据**：摄入互换实验显示，**仅替换面层+导流层**（芯体不变）即可把 Depend 回渗从 ~0.51 g 降到 0.15–0.17 g —— 残液主战场在**摄入系统**，不在芯体容量。
+- 方法论出
+
+--- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]  (4 句)
+   • The deck frames the 25 gsm liner as an ATB-bonded PE/PET ES bicomponent staple web built from two carding feeds — fine 2D ES for softness and coverage, coarser 4D ES for loft and permeability — where hot-air bonding relies on **PE sheath softening while the PET core stays structural**. The target is to raise capillary absorbency and machine-direction (MD) urine distribution *before* liquid reaches the SAP-rich core, **without** turning the topsheet into a liquid-storing ADL.
+本资料把 25 gsm 面层定位为 AT
+   • Three mechanisms are proposed for the star cross-section: (1) **capillary rails** — open axial grooves act as low-volume liquid pathways once a hydrophilic finish lowers the contact angle, favouring spreading over local pooling; (2) **MD bias** — adding profiled PET to the second card can bias lateral urine distribution along MD; (3) **loft support** — PET is stiffer than PE/PET ES at bonding temperature, so a moderate addition helps preserve void volume under light pressure.
+星形截面给出三条机理：①**毛细导轨*
+   • **Placement beats dosage**: star PET in the lower card only is the design principle; skin-side exposure is gated on proven hand feel and lint —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **Benefit saturates but risk accelerates** (~“performance plateau” above 15%) —— 支撑页：Shaped PET Add-On Window
+- **The groove is the function; denier alone is not enough** (reject lots where the star collapses toward round) —— 支撑页：Pentagram PET (Star Cross-Section Fibre)、Groove Capillary Suction
+- **Finish chemistry is 
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、亲水整理耐久性、热风粘合无纺布
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling sources 同批来源：Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet、ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (4 句)
+   • **Release-control variables** for microparticulates are named as: particle size, polymer degradation/erosion rates, erosion mechanism (bulk vs surface), and additives (L1411). Surface-eroding polymers such as polyanhydrides "simplify the drug-release kinetics, since water penetration into the microsphere interior is minimized, and the drug release rate becomes predominantly dependent on the polymer erosion rate" (L1501–1503).
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+   • 1. **SAP as a dry hydrogel.** The imbibition range "10 to 20% up to thousands of times their dry weight" (L1911–1913) and the chemical tie-point vs physical entanglement cross-link distinction (L1914) frame cross-link density ↔ swelling ratio ↔ retention-under-load mapping. 中文：SAP 可按水凝胶网络科学同一框架建模。
+2. **Environmentally sensitive gels for indicators.** Response variables are swelling, network structure, permeability and mechanical strength against pH, ionic strength, temperature, fields, glucose (
+   • Smart Polymers Ch11 Smart Polymer Drug Delivery — mechanistic counterpart: same networks modelled by mesh size and release class.
+- Smart Polymers Ch13 Affinity Precipitation of Proteins — the source identifies Ch.12's LCST gelling and alginate-Ca²⁺ gelation as direct precursors to Ch.13's smart-polymer precipitation.
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polyme
+

@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00148 Cradle测试.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00148 Cradle测试.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00148 Cradle测试.doc.md",
+   "name": "TTM-00148 Cradle测试.doc.md",
+   "title_hint": "TTM-00148 Cradle测试.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/内部测试方法 橡筋回缩率 -20210926最新.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/内部测试方法 橡筋回缩率 -20210926最新.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/内部测试方法 橡筋回缩率 -20210926最新.pdf.md",
+   "name": "内部测试方法 橡筋回缩率 -20210926最新.pdf.md",
+   "title_hint": "内部测试方法 橡筋回缩率 -20210926最新.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00433 Pants尺寸.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00433 Pants尺寸.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00433 Pants尺寸.doc.md",
+   "name": "STM-00433 Pants尺寸.doc.md",
+   "title_hint": "STM-00433 Pants尺寸.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/MDP plus弧形皮筋张力测试.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/MDP plus弧形皮筋张力测试.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/MDP plus弧形皮筋张力测试.pdf.md",
+   "name": "MDP plus弧形皮筋张力测试.pdf.md",
+   "title_hint": "MDP plus弧形皮筋张力测试.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00075 剥离.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00075 剥离.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00075 剥离.docx.md",
+   "name": "STM-00075 剥离.docx.md",
+   "title_hint": "STM-00075 剥离.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/GBP（From Nuoer）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/GBP（From Nuoer）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/GBP（From Nuoer）.docx.md",
+   "name": "GBP（From Nuoer）.docx.md",
+   "title_hint": "GBP（From Nuoer）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00609 面层材料起毛起球测试.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00609 面层材料起毛起球测试.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00609 面层材料起毛起球测试.doc.md",
+   "name": "TTM-00609 面层材料起毛起球测试.doc.md",
+   "title_hint": "TTM-00609 面层材料起毛起球测试.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/KC U Rewet测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/KC U Rewet测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/KC U Rewet测试.docx.md",
+   "name": "KC U Rewet测试.docx.md",
+   "title_hint": "KC U Rewet测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00240Loop 粘连强度测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00240Loop 粘连强度测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00240Loop 粘连强度测试.docx.md",
+   "name": "STM-00240Loop 粘连强度测试.docx.md",
+   "title_hint": "STM-00240Loop 粘连强度测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00076 剪切.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00076 剪切.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00076 剪切.docx.md",
+   "name": "STM-00076 剪切.docx.md",
+   "title_hint": "STM-00076 剪切.docx"
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+[
+  [
+    {
+      "name": "针刺 Needlepunching",
+      "sent": 5,
+      "dir": "concepts",
+      "chars": 45
+    },
+    {
+      "name": "Ardex",
+      "sent": 4,
+      "dir": "concepts",
+      "chars": 34
+    },
+    {
+      "name": "GATS 重力吸收测试",
+      "sent": 4,
+      "dir": "concepts",
+      "chars": 39
+    },
+    {
+      "name": "微纤丝化纤维素 MFC",
+      "sent": 4,
+      "dir": "concepts",
+      "chars": 39
+    },
+    {
+      "name": "湿态压缩模量",
+      "sent": 4,
+      "dir": "concepts",
+      "chars": 35
+    },
+    {
+      "name": "Danufil 粘胶",
+      "sent": 3,
+      "dir": "concepts",
+      "chars": 38
+    },
+    {
+      "name": "HEC 羟乙基纤维素",
+      "sent": 3,
+      "dir": "concepts",
+      "chars": 38
+    },
+    {
+      "name": "k-ε 湍流模型",
+      "sent": 3,
+      "dir": "concepts",
+      "chars": 36
+    }
+  ],
+  [
+    {
+      "name": "STM-00146",
+      "sent": 3,
+      "dir": "concepts",
+      "chars": 10
+    },
+    {
+      "name": "每克厚度 T／W",
+      "sent": 3,
+      "dir": "concepts",
+      "chars": 36
+    },
+    {
+      "name": "CFD 计算流体力学",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 38
+    },
+    {
+      "name": "CLC 手性向列晶",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 37
+    },
+    {
+      "name": "CMC 临界胶束浓度",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 38
+    },
+    {
+      "name": "三相接触线 TPL",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 37
+    },
+    {
+      "name": "偶氮染料 Azo Dye",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 39
+    },
+    {
+      "name": "半胶束 Hemimicelle",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 43
+    }
+  ],
+  [
+    {
+      "name": "有限体积法",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 34
+    },
+    {
+      "name": "有限元法",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 33
+    },
+    {
+      "name": "染料敏化太阳能电池 DSSC",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 42
+    },
+    {
+      "name": "离子变色 Ionochromic",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 44
+    },
+    {
+      "name": "结构性常数 K",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 35
+    },
+    {
+      "name": "银纳米线 AgNW",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 37
+    },
+    {
+      "name": "香豆素 Coumarin",
+      "sent": 2,
+      "dir": "concepts",
+      "chars": 40
+    },
+    {
+      "name": "OxyChem",
+      "sent": 1,
+      "dir": "entities",
+      "chars": 42
+    }
+  ],
+  [
+    {
+      "name": "PLA 玉米纤维",
+      "sent": 1,
+      "dir": "concepts",
+      "chars": 36
+    },
+    {
+      "name": "东莞市天正纸业有限公司",
+      "sent": 1,
+      "dir": "entities",
+      "chars": 12
+    },
+    {
+      "name": "温度响应材料",
+      "sent": 1,
+      "dir": "concepts",
+      "chars": 35
+    },
+    {
+      "name": "皮肤科学 Dermatology",
+      "sent": 1,
+      "dir": "concepts",
+      "chars": 44
+    },
+    {
+      "name": "DIC",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 32
+    },
+    {
+      "name": "ES 纤维驻极研究",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 37
+    },
+    {
+      "name": "GST",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 32
+    },
+    {
+      "name": "PSA",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 32
+    }
+  ],
+  [
+    {
+      "name": "TPE Tetraphenylethylene",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 51
+    },
+    {
+      "name": "VO2",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 32
+    },
+    {
+      "name": "东丽",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 31
+    },
+    {
+      "name": "聚集诱导发光 AIE",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 38
+    },
+    {
+      "name": "舒美",
+      "sent": 0,
+      "dir": "concepts",
+      "chars": 31
+    }
+  ]
+]

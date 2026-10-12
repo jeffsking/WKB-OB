@@ -1,0 +1,59 @@
+{
+ "batch_id": "W2-5",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7d5106cd9f54561d1fad7efb1cc6cebb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+   "name": "Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a0b901f35f748c8165ad931c891686001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/不同人员自我介绍交流.md",
+   "name": "不同人员自我介绍交流.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_604b6c608e12ef80407d62663c73ca6f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+   "name": "会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a02a07182273a58ce2882c3ef23f97001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/热风无纺布供应商考察纪要（修订版）.docx.md",
+   "name": "热风无纺布供应商考察纪要（修订版）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_e7e6a2cdacadcc3ec96cca09fa3427bd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/压力变色环保屏.md",
+   "name": "压力变色环保屏.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_019fb8bd98e87d63a6457fab5bf69cd4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/复合芯体产品市场推广.md",
+   "name": "复合芯体产品市场推广.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a023b88c147d6c81aef48c8166b59c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/录音纪要_260817133440.md",
+   "name": "录音纪要_260817133440.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a06bdbd81873a3adb04a9c47de8a2a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/新材料开发与弹性恢复工艺探讨.md",
+   "name": "新材料开发与弹性恢复工艺探讨.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01bf93c21c778c6448d03851339f0a21001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md",
+   "name": "甘蔗酒业务及合作讨论.md",
+   "type": "soundrecording"
+  }
+ ]
+}

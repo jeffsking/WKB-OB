@@ -1,0 +1,27 @@
+{
+ "stage": "S1",
+ "block": "Projects/Thermal Comfort",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md",
+   "name": "ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md",
+   "title_hint": "ThermoHydro_TechReview_EN_v3_2026-08-05.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "name": "BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "title_hint": "BNC_PCMfree_Thermoregulation_v1_20260731.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/Diaper_Microclimate_Visualization_Feasibility.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/Diaper_Microclimate_Visualization_Feasibility.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/Diaper_Microclimate_Visualization_Feasibility.pptx.md",
+   "name": "Diaper_Microclimate_Visualization_Feasibility.pptx.md",
+   "title_hint": "Diaper_Microclimate_Visualization_Feasibility.pptx"
+  }
+ ]
+}

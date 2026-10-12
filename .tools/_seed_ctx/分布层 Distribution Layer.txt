@@ -1,0 +1,128 @@
+# SEED: 分布层 Distribution Layer
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Products and Technology Perspective
+#
+# 全库正文命中 270 页，407 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (5 句)
+   • 1. **Scope 定义范围**：ActiveTech enables **continuous, online formation** of Blizzard-type cores。在 ROTC 实现中包含：**ACF module**、**SAP feeding and metering**、**vacuum-assisted formation and transfer**、**wrapping/folding**、**core sealing**。
+2. **Critical process control 1 — SAP metering and distribution SAP 计量与分布**：ROTC uses **volumetric feeding** and **can employ two feeders**。（中文：体积式供料，可用双供料器——对应 SAP 分层/配比可编程。）
+3. **Critical process control 2 — Vacuum and web transfer 真空与转移**：low-fluff or fluffless str
+   • ✅ **验证记录（2026-09-29）**：以上为 **Workshop 准备材料 v1.0** 口径（属**外部/竞品视角**的描述），引用 、 **原始文件未随本批次提供**；"KC 专有需规避专利"与 Blizzard 对标为文档判断 [待验证]。参见 COCO芯体平台、Composite Core Patent Clearance（复合芯体专利规避审查）、Multilayer SAP Core（多层SAP芯体）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）。
+   • 1. **ATH 推高回渗已被"确认"** —— 源文用词为 **"Confirmed ActivTech Hybrid core system is increasing rewet"**，归因指向两点：**不同的包裹层（wrapsheet）**与**不同的 SAM/绒毛浆配置**。**这比上一节的"AT Hybrid 回渗归因"更进一步：从推断变为确认。**
+2. **核心机理是"系统边界变了"** —— **「Fluff becomes part of the intake system in ATH system」**：**在 ATH 体系里，绒毛浆不再属于吸收部分，而属于摄入系统的一部分**。**⇒ 同一个材料在不同结构中属于不同功能域，回渗归因必须先划边界。**
+3. **第二机理是"层数"** —— **「More layers = more places fluid can be trapped」**。**⇒ ATH 的结构复杂度本身就是持液点的来源，不是某个材料单方面的问题。**
+4. **对策方向是"内移吸收剂"** —— **在绒毛浆中加入少量 SAM，把该层解吸
+   • **总假设（源文原话）**：「AT hybrid core products will have **parity or higher rewet** than SAM/fluff products because **the pulp layer is part of the intake system**」。
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (5 句)
+   • **定义待补（引用来源未给出明确定义）** —— the vault registers this concept through its method documents rather than a definition. It is evidenced as a **core/material test**: the cited method files are **STM-00305 SAM分布.docx** and **STM-4597纸尿裤SAM分布测试.docx**（源：STM-00305 SAM分布.docx、STM-4597纸尿裤SAM分布测试.docx）。The vault's other register of the concept is a **bromocresol-indicator SAM-distribution method, JA-22229**, listed under the *可达性 / accessibility* channel of the core-test family（源：Rewet Test（回渗测试））。What the te
+   • **Related SAM metrics that do carry numbers.** SAM characterisation by the five indicators (PSD / GBP / CRC / AUL / Vortex) is the **formal KC口径 for SAP incoming-material judging** and has complete STM numbering（源：SAM Testing Methods（超级吸水材料测试方法））; the same five-indicator set is confirmed in the raw-material method index（源：Raw Material Testing Method Summary（原材料测试方法汇总表））。**PSD** here is particle-size distribution — a material-level distribution distinct from the spatial, in-core SAM distribution 
+   • **REL core relevance is direct but under-specified.** SAM spatial distribution governs the target-zone capacity and the rewet/slide-through behaviour of an ultra-thin REL core; the method is therefore a structural-quality check on SAP placement, not a raw-material grade check （源：STM-00305 SAM分布.docx）。
+- **Fits the core-test acceptance framework** — any distribution result must be read back against 芯体测试方法与验收基准（STM） and the finished-product method index（源：Finished Product Testing Method Summary（成品
+   • **Definition, specimen geometry, insult protocol and numeric acceptance limits are absent** from all excerpts — the concept is only evidenced by its method-file names and its channel placement .
+- **The bromocresol chemistry** (what it stains, at what pH, and how the pattern is scored) is not stated；JA-22229 is only a code in a method list 。
+- **No page states whether STM-00305 and JA-22229 are the same method or two parallel ones** — the relationship between the two distribution methods is unre
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (5 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • 目标：提升面层扩散，量化指标为 **MD 方向尿液分布（MD urine distribution）+20–30%**。
+- 配比建议：若未涨价则 **50 / 50**（三叶形 50 配 50）；若偏贵则降。
+- 本方判断："**大部分是价格的问题，而不是功能的问题**" → 主要障碍是成本。
+   • 1. 对 **pattern（花型）**改善有没有帮助；
+2. **皮肤手感有没有变糙**（柔软性）；
+3. **performance** —— **MD distribution 的扩散长度有没有增加**；
+4. 目标是**找到平衡点**，不是单向最大化。
+   • 1. **异形纤维的收益有配比上限**：不是越多越好 —— homo PET 上限 30% 的背后是**中间层粘合强度**的约束。
+2. **温度窗口是异形纤维的通用门槛**（与本页既有结论一致）：PE ≈ 130 ℃ 是参照锚点；要让 homo PET 异形纤维存活，要么**改材料（低温 PP）**，要么**改工艺（降加工温度）**。
+3. **"+15% MD 分布"目前是理论值** —— 与 Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证） 中"10 月拿初始样品"的排程对应，属**待验证目标**而非实测。
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (5 句)
+   • This is a **theory chapter** (理论展望章), deliberately analytical rather than experimental. It models what happens when the smart polymers of Chapter 1 are confined by **one-end grafting** to an impermeable surface, and identifies which molecular knobs (N, s, α, χ(T), salt, solvent composition, surfactant) set the thickness and responsiveness of the resulting layer. Chapter authors state the scope plainly: external physical fields (temperature, electrical voltage, light) or chemical fields (pH, sali
+   • **1. Brushes beat adsorbed layers.** Covalent end-grafting combines pronounced responsive behaviour with high coating stability; among fabrication routes, "grafting from" (surface-initiated controlled radical polymerization) avoids the steric hindrance of "grafting to" and enables position-defined monomer incorporation (L113–144). "An inherent feature of a polymer brush with high surface coverage is strong intermolecular interaction that governs chain conformation and ensures stimuli-responsive 
+   • **5. Counterintuitive solvent-exchange transition.** In a mixed water/oil solvent of high incompatibility, adding a *better* minor solvent collapses the brush: the layer expels the major solvent to keep the internal water concentration low (L744–747, L819). Trigger requires **χ_AB > 2** (L821); the jump is Δc·a³ = 1 − (v_B/v_A)^{1/2} with v_i = 1/2 − χ_i (Eq 2.17, L830). Whether the collapse is continuous (large c·a³(B)) or jumplike (small c·a³(B)) depends on the pre-transition state.
+   • 1. **SAP as a salted polyelectrolyte brush.** The (Σ c_bj)^{−1/3} scaling (Eq 2.30) and v_eff = α²/(2Σ c_bj) (Eq 2.31) give a quantitative correction for absorbency loss in high-salinity urine — a physically grounded complement to standard saline-swell specs. Tuning charge density α and effective N between crosslinks moves free-swell capacity along a known scaling law. 中文：把溶胀SAP当作盐态聚电解质刷建模，电荷密度α与交联点间链长是直接旋钮。
+2. **Thermoresponsive gating.** PNIPAAm with LCST ≈ 28 °C sits below skin temperature 37
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (4 句)
+   • The vault's cited statements describe this architecture as a **four-layer stratification of changeover elements with change control（换型要素四层分层与变更控制）**. Its stated root principle is an **orthogonal split between 「定相位」(phase-fixed) and 「定尺寸」(dimension-fixed)** variables — "「定相位 vs 定尺寸」的正交切分是全部换型设计的根", attributed to this page's own source page（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））. The four individual layers are **定义待补（引用来源未给出明确定义）** — the citing excerpts state th
+   • **Architecture-defect detector（架构缺陷检测器）：** the digest records a **Q4 "不能"（cannot）branch** that acts as a defect detector — "任何『随尺寸变、又必须换实体件、且换起来很贵』的量，都是设计没做干净"（any quantity that *varies with size*, *requires swapping a physical part*, and is *expensive to change* is a design that was not done cleanly）（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））.
+   • The four individual layers are not enumerated in the citing excerpts — layer-by-layer definition .
+- No numeric ratios, timing, or acceptance thresholds are given for the Q4 "不能" branch .
+- The relationship to the sibling concept page Changeover Four-Layer Architecture（换型要素四层分层与变更控制） is unstated and needs de-duplication review .
+   • 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+- 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- 82 鼓距与产品节距解耦 repitch 选型
+- 84 Sleeve 工程规格与换装防错设计
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 03_卫材产线约束常量表（准入校验工具）
+- Repitch（鼓距与产品节距解耦）
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+
+--- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]  (4 句)
+   • 设备商 **Fameccanica（Angelini Technologies， fameccanica 法麦凯尼卡）** 2026 年创新路线总览（中文：婴儿 / 卫生巾与轻失禁 / 成人失禁三条产品线的技术清单）。本库价值在于提供**工艺侧的外部参照系**：去绒毛浆、去胶化、在线成形三条主线，可与自研的 Multilayer SAP Core（多层SAP芯体）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Ultra-Low Add-On Adhesive Application（超低添加量施胶） 路线对读。
+   • 材料按**品类 × 技术**双维组织。婴儿线六项：① **Multilayer SAP Core**（把 SAP 夹在两层高蓬松热风无纺布之间、无胶固定，示例构型为水刺 35 gsm + 胶 3 gsm + 高渗透 SAP 200 gsm + 高蓬松热风 50 gsm + 胶 3 gsm + 高保水 SAP 200 gsm + 高蓬松热风 50 gsm + 胶 3 gsm + 水刺 35 gsm，即 C 折双层 SAP 结构），可切换**无绒毛浆双 SAP 层 / 单 SAP 层 / 单 SAP 层 + 绒毛浆混合芯体**三种构型；② **在线 3D 非织造成形**；③ **在线粘扣（hook）成形**（超声波局部熔融成钩，钩型由砧面孔型决定）；④ **Ari-El 弹性化方案**（可用 310 dtex 弹性丝、断丝率下降）；⑤ **Glueless™ cuffs 与窄 cuffs**；⑥ **Glueless™ ADL 贴合**。巾类与轻失禁线五项：高密度绒毛浆芯体、在线 3D 非织造、**在线打孔（Holex-in 专利）**、Multilayer SAP Core、高速单片包（
+   • **去绒毛浆与去胶化是同一条工艺主线（在线成形 + 焊接/热封替代胶）** —— 支撑页：Multilayer SAP Core（多层SAP芯体）、Glueless Bonding（无胶粘合工艺族）
+- **在线 3D 成形的价值主张是「厚度/柔软度提升 + 成本下降」同时成立** —— 支撑页：In-line 3D Nonwoven Formation（在线三维成形非织造）
+- **高密度绒毛浆芯体把单位厚度的浆量上限从 100 gsm/mm 抬到 170 gsm/mm** —— 支撑页：High-Density Fluff Core（高密度绒毛浆芯体）
+- **可焊性的前提是同聚合物体系，不是粘合工艺本身** —— 支撑页：ADL（导流层）、SMS复合结构
+   • 概念：Multilayer SAP Core（多层SAP芯体）、In-line 3D Nonwoven Formation（在线三维成形非织造）、Glueless Bonding（无胶粘合工艺族）、High-Density Fluff Core（高密度绒毛浆芯体）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- 实体：Fameccanica（Angelini Technologies）
+- 对比：无纺布五大工艺对比
+
+--- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]  (4 句)
+   • The deck frames the 25 gsm liner as an ATB-bonded PE/PET ES bicomponent staple web built from two carding feeds — fine 2D ES for softness and coverage, coarser 4D ES for loft and permeability — where hot-air bonding relies on **PE sheath softening while the PET core stays structural**. The target is to raise capillary absorbency and machine-direction (MD) urine distribution *before* liquid reaches the SAP-rich core, **without** turning the topsheet into a liquid-storing ADL.
+本资料把 25 gsm 面层定位为 AT
+   • Three mechanisms are proposed for the star cross-section: (1) **capillary rails** — open axial grooves act as low-volume liquid pathways once a hydrophilic finish lowers the contact angle, favouring spreading over local pooling; (2) **MD bias** — adding profiled PET to the second card can bias lateral urine distribution along MD; (3) **loft support** — PET is stiffer than PE/PET ES at bonding temperature, so a moderate addition helps preserve void volume under light pressure.
+星形截面给出三条机理：①**毛细导轨*
+   • **Placement beats dosage**: star PET in the lower card only is the design principle; skin-side exposure is gated on proven hand feel and lint —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **Benefit saturates but risk accelerates** (~“performance plateau” above 15%) —— 支撑页：Shaped PET Add-On Window
+- **The groove is the function; denier alone is not enough** (reject lots where the star collapses toward round) —— 支撑页：Pentagram PET (Star Cross-Section Fibre)、Groove Capillary Suction
+- **Finish chemistry is 
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、亲水整理耐久性、热风粘合无纺布
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling sources 同批来源：Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet、ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+
+--- [[Products and Technology Perspective]]  (4 句)
+   • REL 超薄芯体项目的**系统设计总纲**：三层功能模型（获取-分布-保留）+ 绒毛浆减量因果链 + 子层（Sublayer）成本约束 + 生物纤维素远期路线，将前 11 章材料/工艺/测试串成完整产品架构。
+   • **复合结构命题与大尺度非均质性**：吸液产品是"多种聚合物材料的复合体，具有极复杂的设计与孔隙几何"。结构-性能关系难建立的根本原因：孔隙几何无法充分定义、大尺度非均质性（密度变化、组分界面、元素分布不均、化学/形态/结构性质不均匀）、吸液过程中结构自发改变。
+- **静态 vs 动态使用机制根本差异**：产品在使用中受局部压力变化，界面物理特性持续变化。"液体流动机制在静态条件下与动态使用条件下截然不同"——实验室测试与实际使用存在根本鸿沟。
+- **吸收流体复杂性**：体液（尿液、汗液、血液、经血）化学组成和流变学性质随时间与环境变化，且含颗粒物质（红细胞主径 8.1μm、最大厚度 2μm；血小板）产生过滤效应、逐渐改变孔隙结构。血液蛋白质含量约 7%（白蛋白占蛋白质质量 50%，分子量约 69,000）。
+- **三层功能模型**（Figure 2, p.476）：
+  - **获取层** Acquisition：P&G 路线（交联纤维素，干湿态均高孔隙率）+ K-C 路线（独立非织造层，亲/疏水层序）+ Surge Layer（涌流层，快速吸收+暂时持留→释放给保留层）
+  
+   • 父书：Absorbent Technology
+- 概念：吸收芯体 · ADL（导流层） · 获取层 Acquisition Layer · 分布层 Distribution Layer · 保留层 Retention Layer · Gel Blocking（凝胶阻塞） · 回渗 Rewet · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose · 绒毛浆（Fluff Pulp） · SAP（高吸水树脂）
+- 相关章节：Nonwovens in Absorbent Materials · Absorbent Product Testing · Acrylic-Based Superabsorbent Polymers · Cross-linked Cellulose and Its Derivatives
+- 竞品路线：Kimberly-Clark（金佰利）（K-C 交联纤维素路线）· The Procter & Gamble Company（宝洁）（P&G 交联纤维素路线）
+   • **近中期**：优化三层密度梯度与毛细压力梯度，建立亲/疏水层序；量化评估 gel blocking 对获取速率的影响。
+- **中期**：女性护理产品线引入微沟槽纤维（需评估增量成本）；婴儿尿布产品线审慎对待分布层增量投资。
+- **远期**：跟踪生物技术路线——微生物合成纤维素（Acetobacter xylinum，微纤丝带 40–60nm）可能提供新一代高纯度纤维素原料，从根本上改变绒毛浆供应链格局；跟踪基因工程与植物组织培养对纤维原料的长期影响。
+- **全程**：建立基于专利分析（活动量/时效/主导/聚簇四维）的技术监控体系，识别 P&G、Kimberly-Clark 等竞品动向。
+
+--- [[Smart Textiles and Their Applications]]  (4 句)
+   • 1. **Introduction** — the two-part split of the field: *passive smart textiles* change their properties according to environmental stimulation (shape memory materials, hydrophobic or hydrophilic textiles), while *active smart textiles* carry sensors and actuators, detect signals (temperature, light intensity, pollution), decide locally via embedded textile electronics or remotely via cloud and AI, and act through textile-based, flexible or miniaturised actuators (textile displays, micro-vibratin
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+   • **The cost verdict is the most useful sentence in the paper.** Both active-fibre and electrochromic routes are explicitly blocked on cost/integration and on lifetime/reliability respectively. Anyone proposing a powered or electrically-switched indicator on a disposable should read that as a negative result from the smart-textile community's own work — see US20070270773A1 Thermochromic Wetness Indicator for the passive, power-free alternative that a disposable actually uses.
+- **Layer-count reduc
+   • Smart Fabric Textiles Recent Advances and Challenges — the wider 2022 survey; uses a three-tier passive/active/ultra-smart taxonomy instead of this paper's two-tier one
+- Smart Fabrics and Networked Clothing — the parallel fibre-first (CNT yarn) integration philosophy
+- Chromic Phenomena Solar Energy and Liquid Crystals — physical chemistry behind the reversible colour change used in §2.3
+- US20070270773A1 Thermochromic Wetness Indicator — the low-cost passive route that avoids this paper's stat
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (3 句)
+   • An **improved composite elastic feature（复合弹性部件）** for absorbent articles that is easier to handle during manufacture and subsequent processing, disclosed in EP0820747A1 Absorbent Article with Elastic Feature (P&G)（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. The feature comprises **at least one extruded elastomeric layer** and **at least one extruded, substantially non-elastomeric layer** which together form a film（至少一层挤出弹性体层 + 至少一层挤出、基本非弹性层，共同构成薄膜）. Before the film is elasticise
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+   • No numeric values for layer thickness, basis weight, elastomeric-layer modulus or activation stretch ratio are given in the citing excerpts .
+- The activation mechanism's effect on the non-elastomeric layer is  in the digest — needs re-reading of the full claim text.
+- No commercial/lineage link to a specific REL core or SAP architecture is evidenced .
+

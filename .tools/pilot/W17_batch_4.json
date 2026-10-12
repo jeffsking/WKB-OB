@@ -1,0 +1,65 @@
+{
+ "batch_id": "W17-4",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_8c9d5c58be2246e7a11c196d8c539b88001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Learning Plan.xlsx.md",
+   "name": "Learning Plan.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e323669c7e60e4e2130099673f061ba7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf.md",
+   "name": "R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_971cf9b54fde5a234fcc355ddfd66ef1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/History of FIUP.docx.md",
+   "name": "History of FIUP.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_07286184bb5fee54b88bc653a54ab314001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.xlsx.md",
+   "name": "Relevant Product Measurements.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_3abac19c3c8a7f81f3fdf97a03e4ef92001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md",
+   "name": "Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8f24af82d7a683b4b907168e689dfe33001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v11_simulation_report_20260708.pdf.md",
+   "name": "v11_simulation_report_20260708.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8a689970b728c96974ba490bae55f4d1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Scope Contract - 2025 Fundamental Rewet Improvement.pptx.md",
+   "name": "Scope Contract - 2025 Fundamental Rewet Improvement.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_c2637d22400b97d633713eb3f5c4e618001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.pptx.md",
+   "name": "Relevant Product Measurements.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_45ab73af182808a4e25604f1cc60b75f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.16 - Adult Care Manager Rewet Update.pptx.md",
+   "name": "2026.03.16 - Adult Care Manager Rewet Update.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_5480ce1d67c8a19b4ebe3ac06fcae74c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/ActivTech Spring Portfolio 2026.pptx.md",
+   "name": "ActivTech Spring Portfolio 2026.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

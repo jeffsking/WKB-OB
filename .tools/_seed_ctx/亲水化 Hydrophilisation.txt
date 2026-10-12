@@ -1,0 +1,86 @@
+# SEED: 亲水化 Hydrophilisation
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Surface Tension and Surface Energy
+#
+# 全库正文命中 11 页，13 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (2 句)
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Surface Tension and Surface Energy]]  (2 句)
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[Washburn Equation]]  (1 句)
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+
+--- [[接触角 Contact Angle]]  (1 句)
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+
+--- [[毛细压力 Capillary Pressure]]  (1 句)
+   • **毛细压力法（Capillary Pressure Method）**：试样置于与储液池恒连通的载物台上，垂直移动载物台改变**静水压头**，同步称量持液量并归一化为**饱和度 saturation（g/g）**，得 **height–saturation** 曲线；**下降台面得吸收支（absorption），上升台面得解吸支（desorption）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **读数规则**：**毛细压越高 → 孔越想把液体留住**；**解吸能量越低 → 纤维越容易"晾干"**。设计原则：**摄入层（面层/导流层）的毛细性与润湿性必须低于液体最终被锁住的地方（芯体）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **速率与容量解耦**：**孔径控制吸收速率（经 Hagen–Poiseuille ∝ r²），孔体积控制容量** —— 优化其一必罚另一个，需中值最优化（源：Liquid Flow in Porous Structures）。
+- 
+
+--- [[Absorbent Technology]]  (1 句)
+   • The Role of Surfactants — 第 5 章｜表面活性剂的作用（降表面张力、亲水化、分散）
+- Fibers and Fibrous Materials — 第 6 章｜纤维与纤维材料（纤维素/合成纤维、亲疏水改性、截面形状）
+
+--- [[Computational Modeling in Absorbent Technology]]  (1 句)
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+
+--- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]  (1 句)
+   • Local path 本地路径：
+- Original link 原文链接：（无；专利文献）
+- Note 备注：文件名标注「亲水化SMS面层」，而封面正式标题为 "DISPOSABLE ABSORBENT ARTICLE"；引用时以封面 [54] 为准。
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (1 句)
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[Handbook of Nonwovens]]  (1 句)
+   • Development of the nonwovens industry — 行业定义、三族分类、原料（PP 63%）与市场结构，卫生用品为最大终端（>33%）。
+- Dry-laid web formation — 干法成网（梳理/交叉铺网/气流成网），绒毛浆 + SAP + 双组分与卫生芯体/导流层配方。
+- Wet-laid web formation — 湿法成网（源自造纸），伯努利堰口速度、天丝/深沟槽 PET、无胶乳双组分热粘。
+- Polymer-laid web formation — 纺粘/熔喷聚合物成网，树脂 MFR 窗口、PP/PE 热粘窗口、SMS 与 Coform® 卫生应用。
+- Mechanical bonding — 机械加固：针刺/缝编/水刺，比能量 K 与 SE_c、射流冲击力 F∝p·d²、原位微纤化。
+- Thermal bonding — 热粘合：轧光/热风/红外/超声，皮芯双组分与"爆点"过粘失效，面层 10–30 g/m²。
+- Chemical bonding — 化学粘合：胶乳/粘合剂、Fox Tg 方程、PP 表面能 23 mN/m
+

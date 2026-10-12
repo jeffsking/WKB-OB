@@ -1,0 +1,146 @@
+# SEED: 机械变色 Mechanochromic
+# type: concept | 原引用数: 13
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 4 Applications
+#   - Chromic Phenomena
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#   - Holographic Structurally Colored Mechanochromic Films
+#   - Interactively Mechanochromic Electronic Textile Sensor
+#   - Mechanochromic Elastomer from PDLC 5CB PDMS
+#   - Mechanochromic Fluorescent Polymers with AIE Features
+#   - Mechanochromic Photonic Sensors
+#   - Photochromism Dihydroindolizines
+#   - Self-Powered Photonic Sensor CLCE Sandwich
+#   - Smart Textile Visual Perception (GRID)
+#   - Smart Textiles & Wearables
+#
+# 全库正文命中 69 页，139 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (6 句)
+   • The **market, competitor and supplier-landscape review** of the Mechanochromic block — it overturns the "buy a commercial pressure material" assumption, maps four technology routes (M1–M4), screens four material candidates, and lands on the sourcing verdict **"build, not buy"** (custom threshold + custom printing process).
+   • （中文：本批 Mechanochromic 的**市场 / 竞品 / 供应商格局综述**——推翻「买一款商用压力材料」的初始假设，铺开 M1–M4 四条技术路线，筛查四类候选材料，最终给出「自建而非采购」（自定义阈值 + 自定义印刷工艺）的寻源结论。）
+   • Competitive landscape: mid-high concentration with four leaders locking high-value applications (Merck — polymer platform; GIVIDI — proprietary security pressure materials; Avient — elastomers/composites; Sun Chemical — printable mechanochromic inks) plus two printable-ink differentiators at the hygiene gate (CTI, LCR Hallcrest). The entry segment with no giant guarding it is **printable pressure-activated inks**.
+   • Sourcing: eight international suppliers/institutes ranked by hygiene fit (CTI primary; Fujifilm Prescale and Sensor Products as metrology tools; Sun Chemical and LCR Hallcrest as ink alternatives; Merck and Avient as platform partners; Chungnam/Hanyang as research partners), and a domestic list where only **Henan Jiayida** and **Shenzhen Xingcheng** are confirmed with real mechanochromic capability. Three application scenarios are ranked: A over-tightness indicator (nearest term), B comfort moni
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (5 句)
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • （中文：①按触发量而非化学分类——同一分子可归两类：螺吡喃视驱动输入不同可属光致、温致或力致变色，判类的关键问题是「到底什么物理量抵达材料」；②卫品可用类别——温致（温度；隐色染料:显色剂:脂肪酸≈1:5:50 微胶囊与胆甾相液晶；尿湿指示、已量产）、湿致（水/湿度；亲水指示剂+吸湿基体、水凝胶溶胀；尿湿的化学比色路线）、卤致（pH/质子活度；溴酚蓝、溴甲酚绿/紫；尿显条主体与便指示的配对元素）、力致（力/应变/压力；力致变色分子、光子晶体、CLCE、几何掩膜；本库 Projects 的合身/张力指示方向）、光致（光；螺吡喃、萘并吡喃、俘精酸酐；与力致/温致共用分子机制，卫品场景中是干扰源而非功能）、电致（电场；导电油墨/共轭聚合物显示；智能纺织显示，尿裤集成为早期）、化学致（化学/生物信号；化学响应水凝胶、分子机器；传感与递送，卫品未落地）；③第二条轴是可逆性——连续监测需可逆路线，单次报警可用半可逆或不可逆路线；**淘汰设计的是这条轴，不是化学类别**；④第三条轴是阈值——工业计量材料为 40,000 psi 以上的结构失效检测而设计，吸收性卫品处在低张力窗口（腰围 20–150 
+   • 力致变色分支：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）
+- 卤致变色分支：Protein Error of pH Dye（pH 染料的蛋白误差）、Titratable Acidity Lane（可滴定酸度通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 既有页对照：变色油墨、Mechanochromic变色纤维、智能尿裤功能层、认证与法规的区别
+   • Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版） 在正文前设置**范围声明**：只覆盖由**拉伸、压力、形变或剪切**触发的变色，**全程排除湿致变色（hydrochromic）、吸湿响应与液体感知**。
+- 这与本页"**按触发量分类，而不是按化学分类**"完全一致，且给出了一条更硬的实务规则：**中文语境里"变色材料"同时涵盖温/湿/光/力四族，询证时必须问"触发量是什么"，而不是问"有没有变色材料"。**
+- 报告据此**明确排除**了两项常被误并入"力致"的对象：广州精彩（含湿致变色）、东华大学 BC/CNT 液体传感器（湿响应 + 电子式）。
+
+--- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]  (5 句)
+   • The decision-gate proposal for the waistband tension indicator — it converts the technical deep-dive into a one-page verdict (Track B proceeds, Track A maintained) with market sizing, risk register, 24-week roadmap and business impact. This is the **project-approval document** of the Mechanochromic block.
+   • （中文：腰围张力指示器的决策门径提案——把技术深化报告转成一页裁决（Track B 推进、Track A 维持），并附市场测算、风险矩阵、24 周路线图与业务影响。是本批 Mechanochromic 的**项目立项文件**。）
+   • The deck also publishes the mechanochromic market trajectory (US$1.2 B 2024 → US$4.1 B 2033; 14.6 % global CAGR, 17.2 % APAC CAGR), a five-candidate screening table that selects the geometric mask, a seven-row risk matrix (R1 threshold drift and R2 signal relaxation both HIGH), quantified milestones (M1 bench protocol at month 4, M2 line integration at month 9, M3 compliance/FTO at month 16, M4 commercial launch at month 24) and a bibliography that this page records as the block's literature anc
+   • **腰围张力不可测是核心痛点** —— 强度足以支撑一个新品类定位。支撑页：Skin Contact Pressure（皮肤接触压力）
+- **分子路线不能上产线** —— 三条否决理由（阈值、热/极性稳定性、循环寿命）在各来源间一致。支撑页：Mechanophore Mechanochromism（机械力致变色分子）
+- **几何掩膜是唯一 TRL 8 方案** —— 无限循环 + 零新化学品是它的全部卖点。支撑页：Geometric Optical Mask（几何光学掩膜）
+- **信号弛豫的假阴性比没有指示器更糟** —— R2 与 R4 互为对偶。支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (5 句)
+   • The engineering deep-dive behind the pull-strain fit meter on elastic side panels — it fixes the seven hard requirements, screens seven mechanochromic families, and lands on a single-pass slot-coated **geometric optical mask** with cost, safety and FTO closed out. This is the most implementation-complete document of the Mechanochromic block.
+   • （中文：弹性侧片「拉伸式合身指示器」的工程深化报告——定下 7 条硬约束、筛查 7 大变色族，最终落到「单道狭缝涂布 + 几何光学掩膜」方案，并把成本、安全与 FTO 一并向内闭环。是本批 Mechanochromic 落地度最高的一份。）
+   • **几何遮光优于任何变色化学** —— 过不了热熔涂布机与数十次循环，是文献方案的共同死因。支撑页：Geometric Optical Mask（几何光学掩膜）、Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **面板伸长可用，但面板不是压迫源** —— 指示器只能定位为合身/防漏指引。支撑页：Skin Contact Pressure（皮肤接触压力）
+- **阈值标定必须落在卸载支（回弹曲线）** —— 否则舒适度被高估约 30 %。支撑页：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+- **控制点在上游来料** —— 预拉伸比与松弛波纹间距须写进面板采购规格（Cpk ≥ 1.33 + 逐批证书）。支撑页：Geometric Optical Mask（几何光学掩膜）
+- **不新增任何化学品类别** —— 全部组分已存在于纸尿裤结构胶或印刷底膜中。支撑页：TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+   • Concepts 概念：Geometric Optical Mask（几何光学掩膜）、TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）、Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）、Skin Contact Pressure（皮肤接触压力）、Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- Entities 实体：Kimberly-Clark（金佰利）
+- Comparisons 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- Existing pages 既有页：Mechanochromic变色纤维、变色油墨、智能尿裤功能层
+
+--- [[CTI (Chromatic Technologies)]]  (4 句)
+   • **2026-08-02**（Mechanochromic Materials Technical Review（EN v3, 2026-08））：列入 8 家国际供应商/机构按卫品适配度排序榜，标「★ Primary」，理由为压敏油墨 + 多印刷工艺兼容 + 食品接触级合规；结论称其「在合规与商业成熟度两项均居首」。
+- **2026-08-19**（Mechanochromic Waistband Tension Indicator Proposal（2026-08-19））：在立项提案中被指定为**索取报价与样品**的接收方，并把「samples within 2–4 weeks」设为门径。
+- **⚠️ 供货事实**：库内**无**任何已发生的采购、打样或交付记录；上述均为**筛选结论与计划动作**，非历史合作。
+- **库内无报价**：本批资料原文未落任何报价或价格区间（仅含索取报价的动作项）。
+   • 本批派生对比页：Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）、Mechanochromic Routes Comparison（力致变色技术路线对比）
+- 本批同一对象的其他命名变体：（原文简写）、（另一批次用名，库内现为别名锚点页 CTI（Chromatic Technologies Inc.））→ 命名统一待人工确认。
+   • **2026-09-17（供应商台账）**：CTI 出现在**三条舒适调节指示器线**（Hydrochromic / Thermochromic / Mechanochromic）的候选池中；力致变色方向的池内另有 Henan Jiayida（河南嘉亿达）。
+- **2026-09-18（重构版）**：**OI-15 热致变色**（Medium / In progress，'Conditional GO' Dual-MVP）候选池含 CTI；**OI-17 力致变色**（Medium，概念研究完成 GO，~0.09¢/pant、ΔE*ab >18、全可逆）的候选为 Jiayida 与 CTI 两家。
+- **2026-09-17（大纲 P20–P24）**：供应商分级——**Bostik pH 指示剂热熔胶 ★★★★★（行业标杆）、Henkel ★★★★☆、H.B. Fuller ★★★★☆、3M（无卤）★★★★☆、千色变 ★★☆☆☆**；**温变 MVP 首选 CTI + Matsui（定制）**；**力致变色主选 CTI 食品接触级油墨，Tier 2 为河南佳易达，IP 收购标的为
+   • Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) —— 
+- Diaper Microclimate Visualization Feasibility (Dual-MVP) —— 
+- IPC BCC OI Project List 17.9.2026（供应商明细版） —— （2026-09-29 追加）
+- IPC BCC OI Project List 2026-09-18（重构版·19 项） —— （2026-09-29 追加）
+- IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17） —— （2026-09-29 追加）
+- Active Hygiene Roadmap（力致变色材料商业化路线图） —— （2026-09-29 追加：力致变色「油墨路径」的食品接触级油墨能力位点）
+- **批次追加（2026-09-29，Mechanochromic/BM）**：Mechanochromic Materials Technical Review
+
+--- [[力致变色材料研究报告（2026-08-02·纸尿裤应用研判）]]  (4 句)
+   • 面向**纸尿裤领域的力致变色（Mechanochromic）应用研判**，综合《战略路线图》与《供应商选型》两份材料。本库价值有三：① **自带证据分级（[F]/[I]/[A]/[E]）**，是本库中第一份；② **显式证伪了 Day-1 主假设**（不能买现成，只能自建）；③ 给出**阈值鸿沟（≥40,000 PSI → 20–150 kPa）与假阴性区间（25–27% 应变）**这两个可直接转成实验设计的量化边界。
+   • **范围自限：仅力致变色，排除湿致变色；证据分级 [F]/[I]/[A]/[E]。** —— 支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **创新空白：无成熟 SKU，必须 build 而非 buy。** —— 支撑页：Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- **Day-1 假设被证伪：市售压力激活材料均不可逆计量型、阈值超高。** —— 支撑页：Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- **阈值鸿沟：≥40,000 PSI → 20–150 kPa。** —— 支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **25–27% 应变假阴性区间（Barty-King et al., 2025）。** —— 支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- 
+   • 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- 来源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）、Active Hygiene Roadmap（力致变色材料商业化路线图）
+- 实体：CTI（Chromatic Technologies Inc.）、Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）、Chungnam National University and Hanyang University（韩国大学研究伙伴）、Henan Jiayida（河南嘉亿达）、Shenzhen Xingcheng（深圳星辰）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+   • 本地路径：
+- 原文链接：（无）
+- 引用材料：①《Strategic Roadmap: Commercializing Mechanochromic Materials for the Consumer Hygiene Market》（战略路线图 PDF）；② 供应商选型报告（机制分类综述 DOI: **10.1177/00405175251352163**）；市场规模来源 **Marketintelo**
+- **待补充项（原文标注 [A]/[E]）**：各候选**精确力阈值范围**、**可逆循环次数**、**皮肤/口服安全检测报告**、**CTI 压力墨下移至卫材低张力的可行性与报价**
+
+--- [[Active Diagnostic Zones（主动诊断分区）]]  (3 句)
+   • 1. **The framing idea 命题**：integrating **force-responsive, power-free** sensors turns commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。可译作：**无源 = 无电池、无芯片、无电子件**，这是它能进入一次性用品的先决条件。
+2. **Zone 1 · Waistband tabs（防勒伤）**：integrated visual indicators trigger a high-visibility signal **when tensile force exceeds safe physiological thresholds**，providing immediate over-tightness warnings。（中文：拉力超阈值即显色报警，防勒伤。）
+3. **Zone 3 · Surface ar
+   • 材料与技术路线 材料与技术路线：Mechanochromic变色纤维、变色油墨、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- 并发批次已立页的相关概念（2026-09-29 追加交叉链接）：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）、Chromism Taxonomy（变色现象分类）、Wetness Indicator Ladder（尿湿指示阶梯）、Signal Comprehension Gate
+- 并发批次已立页的相邻对比（2026-09-29 追加）：Mechanochromic Routes Comparison（力致变色技术路线对比）（带成本指数与 TRL）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- 功能层图谱 功能层图谱：智能尿
+   • Active Hygiene Roadmap（力致变色材料商业化路线图） —— 
+- Mechanochromic变色纤维 —— 库内页（力致变色材料侧基线）
+- 智能尿裤功能层专利地图 —— 库内页（功能层与 FTO 基线）
+
+--- [[Structural Colour Mechanochromism（结构色力致变色）]]  (3 句)
+   • 1. **Photonic crystals / polymer opals（光子晶体 / 聚合物蛋白石）**：core-shell PS/PEA particles ~200–300 nm shear-assemble into elastomeric opals with intense tunable colour; silica-in-rubber photonic fibres on spandex shift red → blue across 127 nm and survive 100+ stretch cycles; roll-to-roll is real (>100 m opal film produced by bending-induced oscillatory shear). **But ordering needs oscillatory shear at ~300 % strain amplitude between heated rollers — a dedicated line, not a slot die.**
+2. **Cholesteri
+   • 替代路线：Geometric Optical Mask（几何光学掩膜）、Mechanophore Mechanochromism（机械力致变色分子）
+- 分类学：Chromism Taxonomy（变色现象分类）
+- 既有页对照：Mechanochromic变色纤维（可机洗液晶弹性体变色纤维）、变色油墨、三叶形截面纤维（Trilobal Fibre）
+- 选型：Mechanochromic Routes Comparison（力致变色技术路线对比）
+   • Stretch-Triggered Colour Indicator for Diaper Pant Side Panels —— 
+- Mechanochromic Materials Technical Review（EN v3, 2026-08） —— 
+- Mechanochromic Waistband Tension Indicator Proposal（2026-08-19） —— 
+- Chromic Materials Bibliography（变色材料书籍·温湿力精表） —— 
+- Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版） —— （2026-09-29 追加）
+
+--- [[智能尿裤功能层]]  (3 句)
+   • 材料载体：细菌纳米纤维素、BNC功能层嫁接可行性对比
+- 相关技术：变色油墨（热致变色/力致变色）
+- 项目关联：智能尿裤功能层专利地图（源）、Mechanochromic变色纤维
+- 2026-09-29 追加：Active Diagnostic Zones（主动诊断分区）（贴合/安全诊断层）、Wetness Indicator Ladder（尿湿指示阶梯）、Mechanophore Mechanochromism（机械力致变色分子）
+   • **本页原有「压力传感·量程 0.1–3 psi（≈0.7–20 kPa）」与 Mechanochromic 批的接触压力数据不可直接互换**：前者是**芯体内/体表载荷压力**（kPa 口径），后者是**带体对皮肤的接触压力**（mmHg 口径，取决于带宽与曲率）。库内按各自来源原口径记录，跨页比较前须人工确认口径。
+- **力度量的换算链**：应变 → 力（85 mm 面板在 38/67/101% 应变下为 1.4/2.5/3.9 N）→ 皮肤压力（P = T/(r·w)）。宽 85 mm 面板在 101% 应变下仅约 **4.3 mmHg**，远低于 20–30 mmHg 持续毛细血管闭塞阈值；**真正的红印来源是约 10 mm 的窄腰弹性体（2.5 N 下约 29 mmHg）**。详见 Skin Contact Pressure（皮肤接触压力）。
+- **对**「功能层定位」**的修正性提示**：合身/张力指示器只能定位为**合身与防漏指引**，**绝不可作医疗或压力安全声明**——这是本批对②压力传感层商业主张的硬约束。原文同时要求在「压力/医疗/安全」三类声明上以使用测试数
+   • 智能尿裤功能层专利地图 —— 
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) —— 
+- Diaper Microclimate Visualization Feasibility (Dual-MVP) —— 
+- PCM-Free Thermoregulation with BNC Nanofiber Network —— 
+- Active Hygiene Roadmap（力致变色材料商业化路线图） —— （2026-09-29 追加：无源贴合诊断分区与安全闸门口径）
+- **Mechanochromic / BM 项目批（2026-09-29 追加）**：
+  - Stretch-Triggered Colour Indicator for Diaper Pant Side Panels —— 
+  - Mechanochromic Waistband Tension Indicator Proposal（2026-08-19） —— 
+  - Mechanochromic
+
+--- [[Chungnam National University and Hanyang University（韩国大学研究伙伴）]]  (3 句)
+   • **2026-08-02**（Mechanochromic Materials Technical Review（EN v3, 2026-08））：在 8 家国际供应商/机构按卫品适配度的排序中列为 **「• Research partner」**，与 Merck / Avient（Platform partner）、Sun Chemical / LCR Hallcrest（Ink alternative）、Fujifilm Prescale / Sensor Products（Metrology tool）并列区分。
+- **2026-08-02**（同源）：在合规与成熟度雷达图中，被归为「universities peak on **IP potential** with no commercial product」（大学在知识产权潜力上得分最高，但无商业化产品）。
+- **2026-08-19**（Mechanochromic Waistband Tension Indicator Proposal（2026-08-19））：在「MAINTAIN: Track A — Molec
+   • Structural Colour Mechanochromism（结构色力致变色）（其 CLCE 纤维方向所属）
+- Mechanophore Mechanochromism（机械力致变色分子）（Track A 的另一研究分支）
+- Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- Mechanochromic Routes Comparison（力致变色技术路线对比）
+   • Mechanochromic Materials Technical Review（EN v3, 2026-08） —— 
+- Mechanochromic Waistband Tension Indicator Proposal（2026-08-19） ——
+

@@ -1,0 +1,76 @@
+{
+ "stage": "S1",
+ "block": "Projects/REL",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.xlsx.md",
+   "name": "CoPET Supply Base Summary.xlsx.md",
+   "title_hint": "CoPET Supply Base Summary.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.pdf.md",
+   "name": "CoPET Supply Base Summary.pdf.md",
+   "title_hint": "CoPET Supply Base Summary.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/COPET.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/COPET.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/COPET.pptx.md",
+   "name": "COPET.pptx.md",
+   "title_hint": "COPET.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/REL simulation.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/REL simulation.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/REL simulation.pptx.md",
+   "name": "REL simulation.pptx.md",
+   "title_hint": "REL simulation.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx.md",
+   "name": "CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx.md",
+   "title_hint": "CoPET双组份热粘合纤维_市场与供应商_20260709_095959.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_ADL_Strategic_Blueprint.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_ADL_Strategic_Blueprint.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_ADL_Strategic_Blueprint.pptx.md",
+   "name": "CoPET_ADL_Strategic_Blueprint.pptx.md",
+   "title_hint": "CoPET_ADL_Strategic_Blueprint.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_PET与PE_PET成本结构拆解报告.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_PET与PE_PET成本结构拆解报告.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_PET与PE_PET成本结构拆解报告.docx.md",
+   "name": "CoPET_PET与PE_PET成本结构拆解报告.docx.md",
+   "title_hint": "CoPET_PET与PE_PET成本结构拆解报告.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET与PET成本差异对比.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET与PET成本差异对比.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET与PET成本差异对比.pdf.md",
+   "name": "CoPET与PET成本差异对比.pdf.md",
+   "title_hint": "CoPET与PET成本差异对比.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET双组份热粘合纤维_市场与供应商_20260709_095959.pdf.md",
+   "name": "CoPET双组份热粘合纤维_市场与供应商_20260709_095959.pdf.md",
+   "title_hint": "CoPET双组份热粘合纤维_市场与供应商_20260709_095959.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md",
+   "name": "CoPET_Sourcing_Blueprint.pptx.md",
+   "title_hint": "CoPET_Sourcing_Blueprint.pptx"
+  }
+ ]
+}

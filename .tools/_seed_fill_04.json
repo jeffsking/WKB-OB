@@ -1,0 +1,25 @@
+{
+  "batch": "04",
+  "done": [
+    "Sun Chemical",
+    "湿态强度 Wet Strength",
+    "APAC 卫生纸产品矩阵（2017  workshop 预研）",
+    "复合材料 Composite",
+    "浊点 Cloud Point",
+    "等电点 Isoelectric Point",
+    "植物提取物 Plant Extract",
+    "化妆品科学 Cosmetic Science"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Sun Chemical — 公司全称/母公司/规模、产品牌号与阈值、皮肤接触合规均无来源；与 KC 的关系记作待核",
+    "APAC 卫生纸产品矩阵（2017  workshop 预研） — 来源页自述为 bath tissue 成本矩阵、与芯体主线关联弱；单箱金额按 §5 不落数",
+    "浊点 Cloud Point — 非离子表活浊点具体温度无数值；cloud-point 测定方法细节未展开",
+    "等电点 Isoelectric Point — 库内无通用形式化定义；无 SAP 体系实测 IEP 数值",
+    "植物提取物 Plant Extract — 定义待补；监管边界（渗透后是否仍按一次性卫生用品监管）未决；紫松果菊 inulin 浓度 15% 为 [待验证]",
+    "化妆品科学 Cosmetic Science — 定义待补；系列 15 章未逐一编译；防腐/微生物限值缺失",
+    "复合材料 Composite — 无纺布专用复合强度实测值（k、长径比有效取值）缺失",
+    "湿态强度 Wet Strength — 形式化定义与测试方法缺失；无纺布本身湿态强度数据缺失"
+  ],
+  "count": 8
+}

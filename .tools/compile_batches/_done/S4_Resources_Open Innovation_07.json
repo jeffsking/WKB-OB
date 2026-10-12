@@ -1,0 +1,51 @@
+{
+  "batch": "S4_Resources_Open Innovation_07",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": [
+    "One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）",
+    "Intake Systems Development Pathway 2023（摄入系统开发通路）",
+    "Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）",
+    "Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）",
+    "03_卫材产线约束常量表（准入校验工具）",
+    "84 Sleeve 工程规格与换装防错设计",
+    "2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）",
+    "85 双层pattern芯体套准工程规格",
+    "Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）",
+    "Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）"
+  ],
+  "concept_pages": [
+    "Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）",
+    "Gel Blocking（凝胶阻塞）",
+    "Intake System（摄入系统）"
+  ],
+  "entity_pages": [
+    "Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）",
+    "Nichidai（日丝）",
+    "Tianjin Security-Chemical（天津塞特瑞科技）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "concepts/Resilient Surge（PET 回弹导流层）.md",
+    "concepts/Dryness Measure System（干爽度量三分）.md",
+    "concepts/Structural Colour Mechanochromism（结构色力致变色）.md",
+    "concepts/Rewet Test（回渗测试）.md",
+    "concepts/Residual Fluid & Pore Stranding（残液与孔隙滞留）.md",
+    "concepts/Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）.md",
+    "concepts/MD Liquid Distribution.md",
+    "concepts/Chromism Taxonomy（变色现象分类）.md"
+  ],
+  "manual_review": [
+    "One Drum 方案（设备方案/仿真值，SAP 选型目标源文自述为待与供应商讨论）：只记参数与风险，不记设备商商务条款与价格。",
+    "Intake Systems Development Pathway 2023（内部战略规划）：TRL 为内部自评、项目状态为时点快照；只记相对关系与供应链约束，不含价格。",
+    "Strategic Roadmap X-Chromic 版（无日期无署名的综述性战略文档）：只记框架与阈值方向，不记 IP 收购目标（Dr. Cary Ritter / Duke Capital Partners）的估值、报价或交易条件。",
+    "Depend Rewet Update 2025-04-04（内部汇报，含竞品实测与内部编号）：竞品回渗/渗漏数据仅记口径与相对关系；P&G 专利五件的解读为源文观点，不作法律意见；Fibertex 化学品为供应商专有，不记配方。",
+    "03_卫材产线约束常量表（内部自编汇编，A/B 自评）：§6 目标价位不落价格表，只记目标价与市场价的量级关系与导入前提；价格类数据时效性强。",
+    "84 Sleeve 工程规格（派生工程笔记，B 级目标值）：RFQ 询价条目只记结构与等级，不落商务条款；孔径分布/pattern 细节为 KC 专有技术，须 NDA；不得作验收合同值。",
+    "2D Absorption Model v11（自研仿真报告）：无实验标定与实验验证，不得作产品性能数据；只记机理方向与相对比较。",
+    "85 套准工程规格（派生工程笔记，B 级仿真值 + 推断）：点名 UV 相机 MA-10 与胶供应商，只记规格与待确认事项；Cpk 目标写入设备协议前须设备商确认。",
+    "Global Overview Intake Workshop（K-C Confidential，May contain uncleared third-party rights）：品牌战略与宣称仅登记类别，不转述完整文案；项目代号按原样登记不做反推；不得外发。",
+    "Photochromic Supplier Report 2026-08-03（自编调研，含 [F]/[I]/[A]/[E] 分级，市场数据来源为博客与 B2B 平台）：份额与排名须尽调；30+ 家供应商名录只保留格局与能力分级；建议为 [A] 假设级。"
+  ],
+  "notes": "Batch 07 = 10 items, ALL NEW source pages (no source_path collisions). New pages: 3 concepts + 3 entities; 0 comparisons (the Closed Cradle vs NWSP 070.9 method table was appended to concepts/Rewet Test instead of creating a comparison page, because a comparison page requires Cost and Supply-chain-risk columns that a test-method comparison cannot carry). 8 existing pages were APPENDED with dated '## 追加：Open Innovation 批（2026-09-29 追加 · …）' sections; NO existing conclusion was modified; Patterned SAP Core Forming Drum received two separate appendices (84 sleeve spec, 85 registration chain). Conflicts recorded WITHOUT adjudication: (1) AD rewet 0.19 g (this batch, 2025-04) vs 0.20 g (2026-03 ADT version); (2) liner wettability route judged 'direction works, leakage to verify' in 2025-04 vs 'HUT failure' in 2026-03 (time series, not contradiction); (3) land height 0.45 mm is a 230 gsm condition value, not a global constant, and the 160 gsm value is absent; (4) bed-height back-calculated bulk density 0.516-0.523 vs spec 0.62-0.70 (~20-35% gap); (5) screen spec this plan Ø0.6-0.8 mm / 30-40% vs Nichidai hexagonal ≥1.4 mm / 60-70-80% (~2x on both axes); (6) sleeve changeover ≤15 min/drum vs Nichidai 30 s/screen (30x, different scopes); (7) phase accuracy ±0.02 mm (spec) vs ±0.05 mm (practice) (2.5x); (8) registration in-spec ≥99.99% vs landing 92.7% (different causes - chute speed, not registration); (9) 15-20 pieces (splice) vs 17 pieces (phase convergence) (coincidentally similar, different causes); (10) Active Hygiene Roadmap (Projects/Active Hygiene pptx) vs Strategic Roadmap X-Chromic (X-Chromic pdf) have near-identical theses/figures but DIFFERENT source_path - kept as separate pages, not merged; (11) same-ups size confusion is NOT caught if sleeve ID only encodes ups (inference, unconfirmed with PLC supplier); (12) MD spread theoretical limit 36.7% is a grid-discretisation limit, not a physical limit; (13) D_aniso ≥10 results (40.0%/36.9%) come from unstable runs (+1374/+4229 mL mass error) and must not be cited as valid; (14) 'minimum viable performance' and 'clinically measured skin health benefit' coexist in the same regional table, unreconciled; (15) photochromic vs mechanochromic vs photo-mechano dual-response are three distinct classes with distinct supply chains - not merged. Global constraints respected: index.md / log.md untouched; no file moved/renamed/copied/deleted; RAW/ and RAW_FULL/ and AGENTS.md read-only; no PowerShell used for writes; no directories created outside WIKI sources/concepts/entities/comparisons and the receipt directory."
+}

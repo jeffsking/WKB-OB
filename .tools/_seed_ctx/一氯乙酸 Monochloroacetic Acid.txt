@@ -1,0 +1,100 @@
+# SEED: 一氯乙酸 Monochloroacetic Acid
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 98 页，144 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (5 句)
+   • The problem framing is a self-inflicted one: the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids, which removes Mom's learned head-space signal for a BM. Change intervals stretch, BM sits against skin longer, and faecal protease + lipase and rising pH drive dermatitis — with the blame attaching to the diaper rather than to the missing cue. The design trap: the odour sorbent and the indicator compete for the same molecules, and inte
+   • Signal selection compares urine and infant BM across seven properties. pH is a WEAK discriminator (ranges overlap); titratable acidity is GOOD (buffer capacity, not pH); bile pigment is BEST (binary presence); active enzyme is BEST but needs an aqueous-coated substrate; rheology (urine ≈1 mPa·s vs BM 3–60 Pa·s) is GOOD and drives sampling geometry; temperature is NONE; head-space volatiles are BLOCKED by the granular.
+   • Mechanism options are ranked by cost per unit of certainty: **A titratable-acidity lane** (buffered halochromic hot melt, ~US$0.4/1,000, Phase 1, sensitivity ~65–80 %, misses low-VFA formula stool), **B bile-pigment mordant lane** (quaternised cationic polymer as an anion-exchange lane, ~US$0.3/1,000, binary marker independent of feeding mode, but meconium and firm stool release little liquor) and **C protease-cleavage film** (crosslinked gelatin 12–20 µm over a dark printed field, ~US$2.5/1,000
+   • **除臭颗粒与指示器争分子** —— 这是决定整个设计的陷阱，也是本批最有价值的工程警示。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **pH 不是可用的便判别量** —— 第二条 pH 条是「掷硬币」。支撑页：Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- **双通道并行，失效模式互补** —— 联合漏检率为乘积而非求和。支撑页：Bile Pigment Mordant Lane（胆色素媒染通道）
+- **必须在含除臭颗粒、且老化过的整片上验证** —— 无颗粒结构上的验证毫无证明力。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **这是宣称与投诉规避项目，不是降本项目** —— 真正的成本是失去的 OEE 与「看不见的线索」的替代价值。支撑页：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (4 句)
+   • Peer-reviewed journal article that benchmarks a **citric-acid–crosslinked cellulose superabsorbent hydrogel (SAH)** head-to-head against commercial sodium-polyacrylate SAP in both DI water and 0.9 % saline — the library's cleanest **saline-based performance comparison** for the biodegradable-SAP route.
+   • The study develops citric acid (CA)-crosslinked superabsorbent hydrogels based on cellulose derivatives as sustainable alternatives to conventional petroleum-based SAPs for personal hygiene. **Sodium carboxymethyl cellulose (Na-CMC)** is the primary polymer and **hydroxyethyl cellulose (HEC)** the secondary polymer, blended at varying ratios and crosslinked with CA as a green crosslinking agent. The authors systematically evaluate polymer composition, swelling medium, pH and **absorption under l
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+   • Concepts 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- Entity 实体：University of Waterloo（滑铁卢大学）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[Hydrogels in Regenerative Medicine]]  (4 句)
+   • Hydrogel identity = a 3D polymeric network that absorbs water/biological fluids; **cross-links are mandatory** precisely to stop the hydrophilic chains dissolving in the aqueous phase.
+- **Physical vs chemical cross-linking is the central trade-off**: physical gels form by ionic interaction, hydrogen bonds, coordination bonds, hydrophobic interaction, crystallisation or protein interaction, are **reversible** (re-gel on returning to initial pH/temperature/solvent) and are **generally unstable an
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • **§2.4 is, in effect, a general SAP swelling primer.** The low/medium/high/superabsorbent (>99.5% water) classification and the explicit statement that cross-link density suppresses swelling while raising rigidity are exactly the two-lever structure–property relationship used to reason about CRC (centrifuge retention capacity) vs modulus vs absorption-under-load. Useful as teaching/mechanism background for the SAP programme.
+- **The hydrophilic-group vs cross-link-density opposition** gives clea
+   • **No SAP-specific content at all.** The word "superabsorbent" appears only in the swelling-classification table. Nothing on polyacrylic-acid SAP, surface cross-linking, particle size distribution, GBP (gel bed permeability), AUL, or saline/urine absorbency test methods.
+- **No nonwoven, fluff pulp, ES fibre, adhesive or chromic-material content.**
+- **Biological performance requirements dominate** (cell adhesion, proliferation, biodegradation matching tissue regeneration) and are irrelevant — so
+
+--- [[Smart Polymers Ch10 Boronate Copolymers and Gels]]  (4 句)
+   • This chapter introduces a **recognition-driven** smart mechanism that differs sharply from the pure solvent-quality physics of earlier chapters: reversible covalent complex formation between boronate and *cis*-diols (特异性分子识别 + 可逆共价络合). It covers the chemistry of phenylboronic acid (PBA) ionization, the multivalent advantage of polymeric presentation, glucose-selective bidentate chelation, nonenzymatic sugar sensing transduction modes, and biological interfaces (red blood cells, leukocytes, endot
+   • **3. BCCs are acid–base dual-form polyelectrolytes.** "The BCCs are polyelectrolytes, the pendant groups of phenylboronic acid (PBA) being present in both an uncharged trigonal form and a charged boronate form … in a wide range of pH" (L151–153); for NAAPBA copolymers this equilibrium spans pH 6.5–10 (L153–154).
+   • **4. Higher pH ≠ better binding.** "The affinity of ring-substituted PBAs to sugars does not always increase with pH" (L194–198) — 4-bromophenylboronic acid (pKa 8.3) binds glucose best at pH 7.5, above its values at pH 6.5 or 8.5.
+   • **7. Nonenzymatic sensors beat enzymes on stability.** "Glucose sensors utilize the enzyme glucose oxidase; however, these sensors often display poor stability" (L536–537) — whereas "the most effective synthetic ligands for binding glucose in aqueous media are derived from boronic acids" (L582–584).
+
+--- [[US5197958 Wetness Indicating Diaper]]  (4 句)
+   • **Three-component system（三组分体系，Table 1）**: "(1) an **electron donating coloring organic compound** for determining the color, (2) an **electron accepting compound** for determining the concentration of the color, and (3) a **fatty acid** for determining the color-change temperature."
+   • **Fatty acid transition-temperature table（脂肪酸转变温度表，Table 2）** — the temperature-tuning switch:
+   • **Microencapsulation（微胶囊化）** — required because the fatty acid is liquid and would otherwise be lost: "In-situ polymerization with **urea formalin resin** used as wall material"; the TC slurry is an aqueous dispersion containing about **"45% wt. of capsule particles"**, then formulated with a **water-based binder** into a water-based thermochromic ink. Table 3 lists chemical (interfacial/in-situ polymerization), physico-chemical (coacervation, organic-solution coacervation) and mechano-chemical 
+   • 1. **Direct formulation starting point（配方级起点）.** The **leuco dye : phenol : fatty acid = 1 : 5 : 50** three-component system, with the **fatty acid as the colour-change temperature switch**, is a concrete, quotable specification to take to chromic-ink suppliers. Cross-check against 温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18） and Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） — the question to put to suppliers is whether their TC slurry matches the **~45% wt capsule / urea-formal
+
+--- [[Odour-Control Granular Interference（除臭颗粒干扰）]]  (3 句)
+   • 1. **The problem the granular created（颗粒制造出的问题）**：the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids. That removes **Mom's learned head-space signal for a BM** — she now only finds out at the scheduled change. Change intervals stretch, BM sits against skin longer, faecal protease + lipase and rising pH drive dermatitis, and the rash/leak blame lands on the diaper rather than on the missing cue.
+2. **Why any head-space indicator is
+   • 6. **Screen-it-first protocol（先筛查的规程）**：(i) slurry 5 g granular in 50 mL deionised water, 1 h, 25 °C — measure pH and titratable base to pH 4; (ii) **accept only if slurry pH ≤ 7.5 and titratable base ≤ 0.2 mmol/g**; (iii) build a full diaper and age it 8 weeks at 40 °C / 75 % RH, grading the lane weekly 0–5 and rejecting at grade 1; (iv) if the granular fails, **the fix is a barrier — move it above the core wrap, or micro-encapsulate it — not more acid in the lane**.
+7. **The test everyone forg
+   • 受影响通道：Protein Error of pH Dye（pH 染料的蛋白误差）、Bile Pigment Mordant Lane（胆色素媒染通道）、Titratable Acidity Lane（可滴定酸度通道）
+- 与尿湿指示的关系：Wetness Indicator Ladder（尿湿指示阶梯）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 既有页对照：智能尿裤功能层（抗菌除臭功能层与除臭四路线）、SAP错峰膨胀、分区密度设计
+- 选型：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+
+--- [[水凝胶 Hydrogel]]  (3 句)
+   • **交联是定义性条件。** 无交联则亲水链在水相中溶解，网络不成立（源：Hydrogels in Regenerative Medicine）。
+- **物理交联 vs 化学交联是中心取舍。** 物理凝胶由离子作用、氢键、配位键、疏水作用、结晶或蛋白相互作用形成，**可逆**且generally unstable；化学交联给出稳定网络（源：Hydrogels in Regenerative Medicine）。
+- **亲水性来自极性/可离子化基团。** −SO₃H、−COOH、−CONH₂、−OH、−NH₂；带电网络（−SO₃⁻、−COO⁻）可静电吸附金属离子。三类结构：中性（非离子）、离子型（聚电解质）、互穿网络（源：Hydrogels in Regenerative Medicine）。
+- **两个反向杠杆。** 亲水基团含量 ↑ ⇒ 溶胀 ↑；交联密度 ↑ ⇒ 链段活动性 ↓、柔性 ↓、溶胀 ↓ ——这与 SAP 设计的取舍同源（源：Hydrogels in Regenerative Medicine）。
+- **溶胀具有 pH/离子响应方向性。** 酸性基团水凝胶在碱性介质
+   • **SAP 是干态水凝胶。** SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，可用同一网络科学框架建模；常用骨架为聚丙烯酰胺（PAM）、聚丙烯酸（PAA），生物基路线为纤维素、淀粉、壳聚糖、海藻酸钙（源：Hydrogel-based Superabsorbent Polymers）。
+- **性能四参量调控。** 交联密度（低→吸水高但稳定性差；高→保水好但吸水受限，**存在最优值**）、亲水基团分布、离子强度（高离子强度降低吸水性）、温度（部分水凝胶具温度响应性）（源：Hydrogel-based Superabsorbent Polymers）。
+- **吸水速率先受粒径控制。**  预测有效半径减半 ⇒ 摄入快约 4 倍；当摄入速度或回渗是失败 KPI 时，应据此设定 PSD 档位（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+- **盐水敏感性是可比性红线。** 盐水中 Na⁺ 与网络 −COO⁻ 静电结合，减少可用于氢键的离子化基团，同一样品吸收相比纯水下降三倍以上（源：Citric Acid Crosslinke
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[University of Waterloo（滑铁卢大学）]]  (3 句)
+   • **2026-09-29 记录**（来源 Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)）：
+  - 通讯作者 **Tizazu H. Mekonnen** 团队（第一作者 Muhammad Shahidul Islam）发表柠檬酸交联纤维素超吸水凝胶研究，刊于 *Chemical Engineering Journal* 526 (2025) 170721。
+  - 合作方：**CTKBio Canada**（Surrey, BC, V3S 2A7, Canada）。
+  - 与本库的关联：其优化的 **CMC–1.5 % CA** 配方在 0.9 % 生理盐水中 38 ℃ 的平衡吸水倍率 **110 g/g**，略高于商用聚丙烯酸钠 SAP（93 g/g）；**7 周堆肥降解 72 %**；**细胞存活率 >80 %**。
+   • Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）
+- 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+   • Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025) ——
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (3 句)
+   • The mechanism is worked out in detail: the lane is buffered hard to pH 3.0 with a citrate / stearyl-phosphate acid system so the dye sits fully in its yellow protonated form; free amino groups on the polypeptide bind the dye anion electrostatically and stabilise it, shifting the apparent pKa down so the dye ionises and turns violet **while the bulk pH is still 3**. Trip point is set by dye loading alone via D × C* ≈ 2,500. Four independent defences against a false BM signal are listed (protein b
+   • Micro-environment spec: equilibrium water uptake ≤ 5 wt % at 37 °C/95 % RH/24 h, accessible acid ≥ 1.8 µeq H⁺/cm² (titrated pH 2.5 → 4.5). The formulation is a rosin/wax matrix (pentaerythritol rosin ester 34 %, polymerised rosin 14 %, Fischer-Tropsch wax C40–C60 26 %, hydrogenated C5 9 %, micronised citric acid 6 %, monostearyl citrate 3.5 %, stearyl phosphate 2 %, C12-14 alcohol ethoxylate 3 %, organoclay 1.2 %, AO 1.25 %, bromocresol purple 0.025 %, Solvent Red 24 0.025 %) at a blended cost o
+   • Concepts 概念：Protein Error of pH Dye（pH 染料的蛋白误差）、Odour-Control Granular Interference（除臭颗粒干扰）、Hot-Melt Slot Coating（热熔狭缝涂布）、Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- Comparisons 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- Existing pages 既有页：智能尿裤功能层、变色油墨
+
+--- [[CMC-Na CA CNF SAP original article.pdf]]  (3 句)
+   • Peer-reviewed 2025 study of a fully bio-based **cellulose aerogel** superabsorbent (CMC-Na + citric-acid crosslinker + CNF scaffold) reaching 153 g/g absorption — a low-microplastic alternative to petro-based acrylic SAP for hygiene.（2025 年同行评议研究：全生物基纤维素气凝胶高吸水材料（CMC-Na + 柠檬酸交联剂 + CNF 骨架）吸水达 153 g/g，是卫品中石油基丙烯酸酯 SAP 的低微塑料替代。）
+   • **Material 材料**: Sodium carboxymethyl cellulose (**CMC-Na**) as the absorbent body; **cellulose nanofibers (CNF)** as the structural scaffold; **citric acid (CA)** as the crosslinker adding carboxylate sites.（材料：羧甲基纤维素钠（CMC-Na）为吸水主体；纤维素纳米纤丝（CNF）为结构骨架；柠檬酸（CA）为交联剂并引入羧酸位点。）
+- **Process 工艺**: homogeneous mixing → freeze-drying (lyophilization, 48 h) → **160 °C thermal cross-linking** to form a robust network.（工艺：均匀混合 → 冷冻干燥（48h） → 160°C 热交联成网。）
+- **Motivation 动机**: conventional SAPs are petroleum-ba
+   • 概念：SAP（高吸水树脂）、纳米纤维素（CNC、CNF、BNC）、Biodegradable SAP（可降解高吸水树脂）、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- 相关：Bagasse Nanocellulose SAP（蔗髓纳米纤维素基复合保水剂）同源生物基方向
+

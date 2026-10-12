@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-11T23:56:04+08:00",
+  "ledger": {
+    "total": 1384,
+    "stages": {
+      "discovered": 1,
+      "synced": 30,
+      "compiled": 1353
+    },
+    "with_kb_path": 1384
+  },
+  "dedup": {
+    "rc": 0,
+    "compiled": 1384,
+    "uncompiled": 0,
+    "raw_entries": 1384,
+    "dup_live": 0,
+    "merged_pages": 4
+  },
+  "ledger_vs_raw": {
+    "ledger_count": 1384,
+    "raw_count": 1384,
+    "only_in_raw": [],
+    "only_in_ledger": []
+  },
+  "drift": []
+}

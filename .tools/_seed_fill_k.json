@@ -1,0 +1,19 @@
+{
+  "batch": "seed_fill_k",
+  "done": [
+    "WIKI/concepts/接触角 Contact Angle.md",
+    "WIKI/concepts/断裂力学 Fracture Mechanics.md",
+    "WIKI/concepts/时间滞后法 Time Lag Method.md",
+    "WIKI/concepts/格林函数 Green's Function.md",
+    "WIKI/concepts/水凝胶 Hydrogel.md",
+    "WIKI/concepts/湿强剂 Wet-Strength Resin.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/concepts/接触角 Contact Angle.md",
+    "WIKI/concepts/断裂力学 Fracture Mechanics.md",
+    "WIKI/concepts/格林函数 Green's Function.md",
+    "WIKI/concepts/湿强剂 Wet-Strength Resin.md"
+  ],
+  "count": 6
+}

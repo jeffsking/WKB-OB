@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15-8",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9a7b2bf9c4c6d04000c6a39384ff12b1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_Industrial_Drying.pdf.md",
+   "name": "Handbook_of_Industrial_Drying.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_cda3ca1e8fcfebcffa190455fdac5d57001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/热电现象材料应用综述_拆解.md.md",
+   "name": "热电现象材料应用综述_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8882e95a1aba5527733d9f898b34e91d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Interactively mechanochromic electronic textile sensor.pdf.md",
+   "name": "Interactively mechanochromic electronic textile sensor.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_eb00aa476aa91ef3ab46ea6313ade3a5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US20070270773A1_P&G热变色湿态指示_拆解.md.md",
+   "name": "US20070270773A1_P&G热变色湿态指示_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_dcd950bcd69008acf30e661e74ba264b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/POLYMER_CHEMISTRY.pdf.md",
+   "name": "POLYMER_CHEMISTRY.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_9f2a80937e1b48e2f11283eca01c4c77001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/03_卫材产线约束常量表.md.md",
+   "name": "03_卫材产线约束常量表.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_94e589087954ec892bb07f63c2e73103001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ssmart-polymers-applications-in-biotechnology-and-biomedicine-second-edition.pdf.md",
+   "name": "Ssmart-polymers-applications-in-biotechnology-and-biomedicine-second-edition.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_25eada7959bb66cbd65c047ae4d8e1bf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Synthesis_of_Biodegradable_Thermoplastic.pdf.md",
+   "name": "Synthesis_of_Biodegradable_Thermoplastic.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9bfb61c8a122e82368f75be356a5173d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/epdf.pub_handbook-of-polymer-reaction-engineering.pdf.md",
+   "name": "epdf.pub_handbook-of-polymer-reaction-engineering.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_98c3ad3a4026276018bf46860e25791d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md",
+   "name": "IPC BCC FEI update (IA2.0)- 20260622.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

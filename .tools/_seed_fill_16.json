@@ -1,0 +1,25 @@
+{
+  "batch": "16",
+  "done": [
+    "干燥角质化 Hornification",
+    "湿冷感 Wet-Cool",
+    "角化 Hornification",
+    "CRC 离心保持能力",
+    "Hercules Aqualon",
+    "Klemm 法",
+    "PVAc 乳液",
+    "Stefan 问题"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "干燥角质化 Hornification: 源文未给出精确浆粕温度窗口/过干阈值，未与 WRV 建立定量映射（已标 [待补]）",
+    "角化 Hornification: 与「干燥角质化 Hornification」同源近重复；角化程度—WRV—解纤能耗定量关系未在库内成文",
+    "湿冷感 Wet-Cool: 缺定量舒适性阈值/可接受温降口径（已标 [待补]）",
+    "CRC 离心保持能力: 本页原始 cited-by 源 Research Advances in Superabsorbent Polymers (Polymers 2024) 未给出定义/口径/数值；定义与数值取自库内同主题页（SAP性能指标、SAM Testing Methods、四牌号对比），已逐条标注来源",
+    "Hercules Aqualon: 现行供应/牌号状态及 Aqualon/CLD 具体 DS·交联密度数值未在库内成文（已标 [待补]，未涉价格/合同/联系人）",
+    "Klemm 法: 原始 cited-by 源未见定义展开；定义取自 Absorbent Product Testing（毛细前沿 lg h vs t → Washburn k₀），试样/液体/时间口径待补",
+    "PVAc 乳液: 芯体/湿巾用乳液固含量·粘度·上胶量口径待补；与 VAE 定量差异待补",
+    "Stefan 问题: 前沿推进速度（恒定/变速）判据与 D 值标定未在库内成文（已标 [待补]）"
+  ],
+  "count": 8
+}

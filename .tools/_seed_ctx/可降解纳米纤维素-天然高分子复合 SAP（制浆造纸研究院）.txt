@@ -1,0 +1,46 @@
+# SEED: 可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 13 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）]]  (2 句)
+   • **「NC 补强度 + 天然高分子供降解」的双组分分工**是相对既有可降解 SAP 路线的差异化主张 → 可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）
+- **降解率可调且吸收代价可控**（Ex.1 vs Ex.2：降解 25%→80%、吸收仅 -2.4 g/g） → Biodegradable SAP（可降解高吸水树脂）
+- **同一团队的 CN 117024899 A（抗菌除臭 SAP）与本件共享纳米纤维素表面化学**，可视为该院「功能化 SAP」系列的两件 → China National Pulp and Paper Research Institute（中国制浆造纸研究院）
+   • Concept 概念：可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）、Biodegradable SAP（可降解高吸水树脂）、AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体、SAP（高吸水树脂）
+- Entity 实体：China National Pulp and Paper Research Institute（中国制浆造纸研究院）
+
+--- [[GB-T 28004.1-2021（纸尿裤国标）]]  (1 句)
+   • ⚠️ **渗透性能测试装置专利（本批新增）**：附录A 涉及中国制浆造纸研究院有限公司 4 项已申请专利（202010745623.7、202021535721.X、202021533589.9、202021533696.1），自建台架须注意专利边界。
+
+--- [[抗菌除臭高吸水树脂（CNC 载体双功能 SAP）]]  (1 句)
+   • CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院） ——
+
+--- [[纳米纤维素基高吸水树脂（茶渣-CNC 接枝）]]  (1 句)
+   • **「废弃物纤维素→SAP」家族**：废茶渣（本件）≈ 蔗髓（蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP））——同以废弃物纳米纤维素为骨架，本件工艺减法最激进。
+- **审查链证据**：本件在 CN 112442152 B（可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院））审查中被引为对比文件，说明「纤维素接枝 AA/AM」是 2019 年前后审查员惯引的现有技术基线。
+- 未记载任何卫生用品/纸尿裤场景数据（应用领域仅列「医疗卫生」一词）→ 卫生适用性 。
+
+--- [[China National Pulp and Paper Research Institute（中国制浆造纸研究院）]]  (1 句)
+   • **2026-09-29**：新增一件以该院为第一申请人的发明专利申请 **CN 117024899 A**（一种抗菌除臭高吸水树脂及其制备方法；申请日 2023-08-04，申请号 202310980086.8；共同申请人 **中轻(晋江)卫生用品研究有限公司**；发明人 李焕焕 毛萃 曹青福 孟凡锦 张月 史记 沈臻煌 孙文刚；代理机构未在扉页显示）。核心方案为「氨基化纤维素纳米晶接枝 + 固载抗菌/除臭成分」。授权状态来源未记载 → 。详见 CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院）。
+- **2026-09-29（Areas/IP 第 8 批追加）**：同团队（李焕焕 毛萃 孟凡锦，另有霍晓楠）发明专利**已授权**——**CN 112442152 B**「一种高吸水树脂及其制备方法」（申请号 201910829995.5，申请日 2019-09-04，授权公告日 **2023-01-10**；专利权人：中国制浆造纸研究院有限公司）。四元体系：AA（中和 50–80%）+ 助吸盐单体（AM/AN/AMPS）+ 纳米纤维素 0.5–20% 
+
+--- [[CN 114044919 A（TEMPO氧化纳米纤维素基复合水凝胶及制备方法·陕西科技大学）]]  (1 句)
+   • **无化学交联剂的双网络是本申请唯一方法论卖点**——交联全部靠静电+氢键+冷冻结晶 → 双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）
+- **TOCNF 的羧基是静电交联的官能团来源**，与 CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院） 中「氨基化 CNC 接枝」同属"纳米纤维素表面化学驱动功能化"路线 → 纳米纤维素（CNC、CNF、BNC）
+- **壳聚糖侧承担抑菌功能**，与 CN117024899A 的抗菌成分谱（壳聚糖/PHMB）重合 → 纳米纤维素（CNC、CNF、BNC）
+
+--- [[CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院）]]  (1 句)
+   • Concept 概念：抗菌除臭高吸水树脂（CNC 载体双功能 SAP）、SAP（高吸水树脂）、纳米纤维素（CNC、CNF、BNC）
+- Entity 实体：China National Pulp and Paper Research Institute（中国制浆造纸研究院）（共同申请人中轻(晋江)卫生用品研究有限公司为其关联主体，一并记入该实体页）
+
+--- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]  (1 句)
+   • GB/T 21331-2021 (ICS 85.040 / CCS Y31, SAC/TC 141) is the first revision of the 2008 fluff pulp standard. It drops the old product-grade split and instead classifies pulp by chemical treatment: **treated**（处理浆，耐破度显著降低，利于散纤）vs **untreated**（未处理浆）. The 2021 revision's main technical changes: migratable fluorescent substances, AOX, and four heavy metals (Pb/As/Cd/Hg) are now specified with test methods; 二氯甲烷抽出物 is replaced by 丙酮抽出物; dry bulk, absorption time/capacity methods are reworked in normati
+
+--- [[GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）]]  (1 句)
+   • Part 2 of the GB/T 27728 series (ICS 85.080 / CCS Y39), drafted under SAC/TC 141 (全国造纸工业标准化技术委员会), proposed by 中国轻工业联合会. Drafting units include 中国制浆造纸研究院、好孩子、维达、恒安、金佰利（中国）、广州宝洁、花王（中国）研发中心、露乐健康、赛得利（九江）等 — i.e. essentially the whole CN wipes/hygiene value chain. The standard layers baby-wipe requirements on top of the general requirements of GB/T 27728.1: raw-material minimization and long-safe-use-history principle, fragrance per GB/T 22731, production lotion per the 2015 Cosmetics Safety Technic
+
+--- [[GB-T 27731-2011 Release Paper for Sanitary Products（卫生用品用离型纸）]]  (1 句)
+   • GB/T 27731-2011 (SAC/TC 141; drafters 中国制浆造纸研究院、佛山新飞卫生材料、小护士（天津）、广州宝洁、国家纸张质检中心) covers release paper supplied in jumbo rolls for one-time hygiene products. Technical requirements combine paper physics (basis weight series 29.0–44.0 g/m², density, MD tensile, tear index) with silicone-release performance: peel force against a standardized tape of 0.05–0.20 N/25 mm (Annex A) and residual adhesion rate ≥80.0% after 70 ℃ / 20 h aging (Annex B) — the two parameters that actually decide whether the re
+

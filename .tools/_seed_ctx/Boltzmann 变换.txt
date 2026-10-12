@@ -1,0 +1,52 @@
+# SEED: Boltzmann 变换
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)
+#   - Concentration-Dependent Diffusion Methods (Crank Ch.7)
+#
+# 全库正文命中 4 页，7 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Concentration-Dependent Diffusion Methods (Crank Ch.7)]]  (4 句)
+   • **D(C) 浓度依赖扩散的方法论**——Boltzmann 变换 η=x/2√t 将 PDE 化为 ODE，是 SAP 吸液问题（D 强烈依赖浓度）的核心数学工具；对半无限 SAP 颗粒表面有效，有限厚片层需数值方法。
+   • **Boltzmann 变换**：η = x/2√t，将 PDE 化为二阶 ODE：d²C/dη² + 2η·d/dη(D·dC/dη) = 0。
+- **适用条件**：初始/边界条件须可表为 η 的函数，x 和 t 不单独出现。
+- **SAP 映射**：半无限 SAP 颗粒表面→适用；有限厚 SAP 片层（边界含 t）→需数值方法。
+- **推导逻辑**：Boltzmann 变换→PDE 化 ODE→解析/数值求解→Ch 9 给出具体图表结果。
+   • **Boltzmann 变换是 SAP 吸液建模的核心数学工具**——把二阶 PDE 化为二阶 ODE，解析或数值可解。
+- **适用条件严格**——对半无限 SAP 颗粒表面有效，有限厚片层需数值方法。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Boltzmann 变换
+- Fick 定律
+
+--- [[Fick 定律]]  (1 句)
+   • Mathematics of Diffusion
+- Diffusion Equations (Crank Ch.1)
+- Non-Fickian Diffusion (Crank Ch.11)
+- Moving Boundaries (Crank Ch.13)
+- Case II 扩散
+- Diffusion in a Sphere (Crank Ch.6)
+- Diffusion in a Plane Sheet (Crank Ch.4)
+- Diffusion in Heterogeneous Media (Crank Ch.12)
+- Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+- 时间滞后法 Time Lag Method
+- Boltzmann 变换
+- 湿迁移 Wet Migration
+
+--- [[Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Boltzmann 变换
+- 自由体积 Free Volume
+
+--- [[Mathematics of Diffusion]]  (1 句)
+   • 1. **Fick 定律与扩散 PDE**（Ch 1）：F = -D dC/dx 是核心假设；∂C/∂t = D∂²C/∂x² 是全书唯一核心 PDE
+2. **恒 D 解析解法**（Ch 2-3）：反射/叠加、分离变量、Laplace 变换；误差函数类与三角函数级数
+3. **三维几何模型**（Ch 4-6）：片层（芯体/湿巾）、柱（纤维）、球（SAP 颗粒）——u=Cr 变换是关键技巧
+4. **D(C) 变系数扩散**（Ch 7-9）：Boltzmann 变换、数值方法、等效扩散系数——SAP D(C) 常呈指数上升型
+5. **D 测量方法学**（Ch 10）：时间滞后法 L=l²/6D 是行业标准；SAP 必须用质量固定参考系
+6. **非菲克扩散**（Ch 11）：Alfrey-Gurnee-Lloyd 三分类——SAP S 形吸液曲线的物理根源
+7. **复合介质**（Ch 12）：串联阻力模型 Σ(lᵢ/Pᵢ)——芯体多层结构建模基础
+8. **动边界/Stefan 问题**（Ch 13）：SAP 溶胀前沿的定量实现
+9. **反应-扩散耦合**（Ch 14）：SAP 
+

@@ -1,0 +1,25 @@
+{
+  "batch": "p1_Smart_Polymers_Biotech_Biome_02",
+  "book": "Smart_Polymers_Biotech_Biomed",
+  "done": [
+    "Smart Polymers Ch03 Conformational Transitions in Ionic Gels.md",
+    "Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts.md",
+    "Smart Polymers Ch05 Microgels from Smart Polymers.md",
+    "Smart Polymers Ch06 Protein-Based Smart Polymers.md",
+    "Smart Polymers Ch07 Imprinting Using Smart Polymers.md",
+    "Smart Polymers Ch08 Smart Hydrogels.md",
+    "Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Smart Polymers Ch03 Conformational Transitions in Ionic Gels.md",
+      "issue": "源拆解放未标注出版年份（仅写 2nd Ed., CRC Press），date_published 按规则填 0；同批 Ch04/05/07/08/09 源内明确标注 2008，Ch06 标注 © 2008 Taylor & Francis 之外的章未标年，故 Ch06 亦为 0。建议后续按全书统一补为 2008。"
+    },
+    {
+      "page": "Smart Polymers Ch06 Protein-Based Smart Polymers.md",
+      "issue": "源文本未给出出版年份，date_published 填 0；且本章为纯生物医学导向（ELP/ITT/组织工程），材料迁移价值有限，已在 Hygiene Implication 中明确说明，未强行挂钩卫材。"
+    }
+  ],
+  "count": 7
+}

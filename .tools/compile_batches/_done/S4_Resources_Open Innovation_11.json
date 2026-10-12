@@ -1,0 +1,27 @@
+{
+  "batch": "S4_Resources_Open Innovation_11",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 10,
+  "concept_pages": 0,
+  "entity_pages": 0,
+  "comparison_pages": 0,
+  "updated_existing": 13,
+  "manual_review": 23,
+  "notes": [
+    "source_pages 新建（10）：CoPET-PET 与 PE-PET 成本差异对比 v3（卫材级对等口径修正）；ADT POV 2025 Complex Core Strategy（ActivTech vs 外部复合芯体）；异型截面涤纶纤维卫生用品生产商清单（11 家·产能与应用确认）；2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）；Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）；力致变色材料研究报告（2026-08-02·纸尿裤应用研判）；力致变色供应商甄选报告（2026-08-01·证据标注版）；Rewet Principles History and Opportunity（2025-03-04 回渗总纲与历史沿革）；纳米纤维素增强无纺布技术研究报告（2026-04·NFC_CNC 路线）；Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）",
+    "concept/entity/comparison 新建为 0：本批技术点在本库中**均已存在对应页面**（CoPET 对比、ActiveTech 平台、回渗体系、力致变色路线、纳米纤维素、超低添加量施胶等），按『先查再建』未新建；本批出现的**新供应商**（Zuiko / Winsun / Thrive / 天富龙 / 安顺 / 美力斯 / 象屿兴泓 / 百宏 / 华西村 / 华宏 / CelluForce / Borregaard 等）**均只单份提及**，未达 ≥2 份门槛，仅登记于对应源页",
+    "updated_existing 追加（13，均为 2026-09-29 追加段、未修正原结论）：CoPET-PET 与 PE-PET 皮芯纤维对比；CoPET 与 PET 成本对比；ActiveTech Platform；福建闽瑞新合纤；江南高纤；MD Liquid Distribution；LPR vs HPR Rewet；Mechanochromic Routes Comparison；Mechanochromic Ink Supplier Comparison；Rewet Test；三类纳米纤维素对比（CNC、CNF、BNC）；Ultra-Low Add-On Adhesive Application；汉高",
+    "manual_review（23）：10 份源页 + 13 处追加段。敏感类型分别为——报价区间与毛利率（CoPET v3、纳米纤维素、异型截面厂商表）；资产投资额/年度物耗增量/ECM 名单/IP 释放策略（ADT POV）；竞品实测回渗与项目代号（Rewet Quarterly、Rewet Principles History、LPR vs HPR）；IP 收购标的与研究合作对象（力致变色两份）；供应商询价与 JDA/联合实验室意向（Henkel 议题补充、汉高实体页）",
+    "🔴 个人联系方式**未页面化**：异型截面厂商源表含 11 家企业的联系人姓名、电话、传真、邮箱，本页**全部剔除**，仅在 manual_review 中指引回源表查阅；ADT POV 源文的参考文献作者与受访者姓名亦不予页面化，仅保留文献题名与日期",
+    "⚠️ 成本口径纠偏（本批最重要的知识冲突）：CoPET v3 指出『CoPET/PET 比 PE/PET 便宜 12~30%』是**工业级 vs 卫材级不对等比对**的假象；**卫材级对等同价（0~±5%）**。与既有对比页『溢价 +10~16%』**方向相反，未裁决，并列保留**。另登记两处待核冲突：毛利率 10~15% vs 3~6%；纺丝加工费 800/950 vs 1,850/2,050 元/吨",
+    "⚠️ 第二处冲突（模型侧）：v8 报告给出 SAP 利用率 87%（15×6 网格），但 v9 警示『15×6 粗网格下约 30 个百分点利用率来自数值扩散』⇒ **v8 的绝对值须按 v9 打折理解**。已在 MD Liquid Distribution 页建立三代（v8/v9/v11）网格-利用率对照，明确『不可用于 SAP 用量优化』",
+    "★ 反向范式登记（本批新增概念性内容）：Pull-Ups『LIFESAVERS』**刻意制造更高回渗作为如厕训练的学习线索**，四条设计方向全部反转（更小孔/更润湿/可压缩/受限容量），但**渗漏不得恶化** ⇒ **回渗不是单向指标，最优值取决于产品目的**。已追加至 Rewet Test 页",
+    "★ 机理区分登记：Flowback = **芯体内未锁住**的液体；Desorption = **卡在吸收系统里没进芯体**的液体 ⇒ 位置不同、解法不同。已在 Rewet Test 页登记为『裸引回渗值的第二层风险（机理归属）』",
+    "存疑 1：**厂商中文用字三源不一致**——河南 嘉怡达（08-01）/ 佳易达（08-02）/ 嘉亿达（实体页）；深圳 兴盛珠光 / 星成珠光 / 星辰；厦门、上海、广州三家亦各有两三种写法。已并列登记，**不改名不合并**，待人工核名",
+    "存疑 2：**AcitvTech / ActiveTech 异写在第三份文件中出现**（本批 ADT POV 写 ActivTech，库内概念页写 ActiveTech），已统一按既有页面拼写互链并登记同义异写",
+    "存疑 3：2D v8 报告内有 5 处图文不符（Flory-Rehner 曲线 21.5 vs 参数表 21.2；质量误差 ~0 vs 图 2 常值 5.0~5.1；Figure 4 纵轴与文字结论关系不明；Figure 6 数据表与文字不符等），已在源页『存疑』段照录，未做反推",
+    "存疑 4：Rewet Quarterly 2025-08 的两个 HUT 表**表头缺失**（数值-档位关系为『越小越好』，推测为潮湿感/渗漏类综合评分），与批次 10 的 ATACAMA+/MOJAVE 表同类问题，未做定量外推",
+    "存疑 5：Henkel 议题补充末尾的 **Q1–Q13 建议提问清单**含联合研究（JDA）/联合实验室合作意向，按 AGENTS.md §5 **未页面化**，仅登记其存在与性质；同日的 `Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx` 属批次 12，将单独编译"
+  ]
+}

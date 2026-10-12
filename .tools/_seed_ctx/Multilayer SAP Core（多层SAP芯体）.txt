@@ -1,0 +1,97 @@
+# SEED: Multilayer SAP Core（多层SAP芯体）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 342 页，643 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]  (11 句)
+   • 1. 多层 ADL + Core 结构把 **SAP 利用率从 48.1% 提升至 63.6%（+32%）**，液体**均匀分布到 8 层 Core**，**完全避免单层凝胶阻塞**。
+2. **MD spread 从 0.9%（凝胶阻塞）提升至 34.9%（D_aniso = 3）**，接近**理论极限 36.7%**，**提升 38 倍**。
+3. **ADL 排水机制（step_adl_drainage）绕过了 Carman-Kozeny 干界面瓶颈**（kr 在干芯层中接近 0，压力求解器无法驱动重力流）。
+4. **质量误差全程 <0.015 mL（<0.01%）**，在所有场景下严格守恒。
+5. **D_aniso = 3 为最大稳定值**；**D_aniso ≥ 10 时显式方案不稳定，需隐式方案**。
+   • **4 层 ADL（顶部 j = 8–11）+ 8 层 Core（底部 j = 0–7）**
+   • 1. ADL 层高渗透率（**k = 5e-11 m²，约为 Core 的 50 倍**）使液体快速通过；
+2. ADL 保留阈值 **S_thresh = 0.15**，超出液体立即排水；
+3. 排水量受 **ADL 渗透率 × ρg × dt** 物理限制；
+4. 液体**均匀分配到 8 层 Core（等量分水）**，避免单层凝胶阻塞。
+   • 在**排水之前**对 ADL 层执行 x 方向非线性 **D_cap** 扩散：
+  - **D_cap(Sw) = k(φ)·kr(Sw)/μ · \|dPc/dSw\|**；**D_cap_eff = D_cap × D_aniso_ratio**
+- ADL 层 k = 5e-11 产生 **D_cap ≈ 3e-4 m²/s（比 Core 大 50 倍）**；添加**保守通量限制器（每步最多流出 40%）**防止负体积。
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (7 句)
+   • 1. **Scope 定义范围**：ActiveTech enables **continuous, online formation** of Blizzard-type cores。在 ROTC 实现中包含：**ACF module**、**SAP feeding and metering**、**vacuum-assisted formation and transfer**、**wrapping/folding**、**core sealing**。
+2. **Critical process control 1 — SAP metering and distribution SAP 计量与分布**：ROTC uses **volumetric feeding** and **can employ two feeders**。（中文：体积式供料，可用双供料器——对应 SAP 分层/配比可编程。）
+3. **Critical process control 2 — Vacuum and web transfer 真空与转移**：low-fluff or fluffless str
+   • 产出构造与产品 产出构造与产品：Blizzard Core（Blizzard 芯体结构）、ROTC（Real Online ThinTech Core）
+- 材料侧材料侧：绒毛浆（Fluff Pulp）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀
+- 结构设计 结构设计：分区密度设计、ADL（导流层）、毛细梯度设计、亲水-疏水梯度设计
+- 库内同类平台 库内同类平台：COCO芯体平台、TBCW结构
+- 对照：芯体测试方法与验收基准（STM）
+   • ✅ **验证记录（2026-09-29）**：ROTC 离线执行的分工为会中口径；「三类产品」中第三类的具体所指转写不清，标 。参见 ROTC（Real Online ThinTech Core）、Kirigami Apertured Nonwoven（切割拉伸开孔工艺）、TBCW结构。
+   • ✅ **验证记录（2026-09-29）**：以上为 **Workshop 准备材料 v1.0** 口径（属**外部/竞品视角**的描述），引用 、 **原始文件未随本批次提供**；"KC 专有需规避专利"与 Blizzard 对标为文档判断 [待验证]。参见 COCO芯体平台、Composite Core Patent Clearance（复合芯体专利规避审查）、Multilayer SAP Core（多层SAP芯体）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）。
+
+--- [[芯体通道花型设计]]  (7 句)
+   • **核心通道花型（Core Channel Pattern）** is the deliberate forming of **channels / grooves and bosses** into the absorbent core; it is named in the vault as "the design object of the channels and bosses"（通道与凸台的设计对象）of the patterned SAP-core forming drum（源：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓））。It sits within the core-differentiation手段 list — **分区密度设计、毛细梯度设计、芯体通道花型设计** — used to raise SAP utilisation rather than to swap materials（源：ActivTech Spring Portfolio 2026（ActivTech 春季组合评审））。定义待补（引用来源未给出几何定义
+   • **Spatial-dimension zoning.** Core Channel Pattern is listed as the **spatial-dimension** mitigation of gel blocking, against MD Liquid Distribution (the *inverse* distribution indicator) and SAP错峰膨胀 (the *time-dimension* mitigation)（源：Gel Blocking（凝胶阻塞））。It is likewise framed as the advanced form of zoning thinking — channel/void absorbent is the progression beyond flat vs pocketed forming（源：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区））。
+   • **What channels can and cannot do.** A channel is a **「物理槽」** — it addresses physical routing but **cannot solve U-shaped anti-gravity diffusion**; that half depends on material capillarity（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。**Bonding is double-edged:** it preserves the wet-state channel but harms U-shaped capillary conduction, so bonds **must be made narrow**（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+   • **Design constraints (list-level).** (1) Channels should be lengthened, not widened（源：COCO V6 Trial Round-2 Review（录音纪要 2026-09-16））。(2) Reducing SAP while enlarging the open-groove area does **not** pay off — the saved SAP is returned as deteriorated cradle intake at the 2nd/3rd insult（源：COCO V6 Trial Round-2 Review（录音纪要 2026-09-16））。(3) Structural channels raise utilisation more than a higher-GBP SAP grade does, so the GBP target is a downstream of structure（源：SAP Grade Strategy for Composite 
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (6 句)
+   • **定义待补（引用来源未给出明确定义）** —— the vault registers this concept through its method documents rather than a definition. It is evidenced as a **core/material test**: the cited method files are **STM-00305 SAM分布.docx** and **STM-4597纸尿裤SAM分布测试.docx**（源：STM-00305 SAM分布.docx、STM-4597纸尿裤SAM分布测试.docx）。The vault's other register of the concept is a **bromocresol-indicator SAM-distribution method, JA-22229**, listed under the *可达性 / accessibility* channel of the core-test family（源：Rewet Test（回渗测试））。What the te
+   • **Where it sits in the core-test family.** The vault groups core tests into channels — 容量 / capacity, **可达性 / accessibility**, 受压持液 / retention under load, 及时锁液 / prompt lock-up — and places the **Bromocresol SAM 分布（JA-22229）** method in the 可达性 channel, alongside GBP (STM-00229), Composite permeability (TTM-00006) / X-ray imaging (TTM-00631) and Mannequin Forced Failure（源：Rewet Test（回渗测试））。That grouping implies the method characterises how liquid reaches and is held within the swollen SAM mass,
+   • **Related SAM metrics that do carry numbers.** SAM characterisation by the five indicators (PSD / GBP / CRC / AUL / Vortex) is the **formal KC口径 for SAP incoming-material judging** and has complete STM numbering（源：SAM Testing Methods（超级吸水材料测试方法））; the same five-indicator set is confirmed in the raw-material method index（源：Raw Material Testing Method Summary（原材料测试方法汇总表））。**PSD** here is particle-size distribution — a material-level distribution distinct from the spatial, in-core SAM distribution 
+   • **Gap flagged by the vault itself.** Two deswelling tests are explicitly **not yet available**: "SAM deswelling at rewet pressure" is *under development* and "AUL Core deswelling test" is *needed*（源：Rewet Test（回渗测试））。
+
+--- [[气铺 Airlaid]]  (6 句)
+   • Airlaid（air-laid / airlaying，气铺/气流成网）is the **dry-laid web-formation route based on aerodynamic web formation**（气流成网）. The dry-laid chapter progresses from carding physics through feed/weight control to cross-lapping and perpendicular laying, and **"culminates in airlaying (aerodynamic web formation)"** whose raw-material science is **wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends**（源：Dry-laid web formation）. In the hygiene handbook it is one of the forming processes ma
+   • The commercial product form is **airlaid paper（无尘纸）**, defined by the Chinese product standard as the material supplied as **jumbo rolls or sheets** for disposable hygiene products, used in **wipes, diaper acquisition/absorption layers and absorbent cores**, and split into **普通无尘纸 (cellulose-only)** and **合成无尘纸 (with SAP)**（源：GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸））.
+   • **Aerodynamic web formation**（气流成网）: the endpoint of the dry-laid route; input materials are wood pulp, man-made fibres, SAP and bicomponent blends（源：Dry-laid web formation）.
+- **Four-factor causal chain** for nonwoven absorbent structures: Constituent Fiber → Assembly Structure (Web Assemblage) → Type of Bonding → Finish — "Each of these factors can have an effect on the absorbency of the resulting structure"；采购评审须按序追问而非单一比价（源：Nonwovens in Absorbent Materials）.
+- **Binding–absorbency trade-off*
+   • **ADL / acquisition layer**: hydrophobic synthetics preserve wet bulk; pulp + SAP blends form the nappy acquisition layer（源：Dry-laid web formation）. The ADL density gradient — upper 1/3 low density（大孔隙、快速获取）, lower high density（细密毛细管、高压差）— is the chapter-3 capillary-pressure principle engineered into the product（源：Nonwovens in Absorbent Materials）.
+- **Composite-core build**: a typical composite-core stack is **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**（源：Complex Core Landscape in China（201
+
+--- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]  (6 句)
+   • COCO V6 第二轮实验数据的逐条复盘会：确认「减 SAP + 增大开槽面积」这条路走不通，把设计约束收敛为「**下层 SAP 维持 7 g、channel 只加长不加宽**」，并暴露出哑铃形的重量波动与熔喷 core wrap 的强度风险。
+   • 1. **下层 SAP 添加量维持约 7 g**：再往下调虽对回渗影响不大，但**U 型回渗会出现明显劣势** → 定为下限口径。
+2. **channel 不加宽（会上一致反对）**：① 对扩散方向不利；② 宽度越大、局部无 SAP 区域越大，**CD 方向毛细更差**（侧漏风险）；③ **channel 对 cradle 本身是负面影响**，中间越宽负面越大。
+3. **channel 加长可以继续考虑**，但必须匹配 SAP 的能力（且实际减量是「均匀减」，中心区域的 SAP 也会一起降低）。
+4. **三叶草纤维打样温度压到 139 ℃ 以下**：实测**142 ℃ 以上异形截面会流平**（丧失截面形状）。
+5. **熔喷 core wrap 的强度问题要立项**：若方向成立，需尽快组织 project team 解决材料在高速下的强度问题。
+6. **SAP 的实验策略调整**：实验阶段**不要只等现有供应商开发**，可先把其他家的 SAP 拿来证明 concept 可行，再让现有供应商跟进。
+   • **减 SAP 的假设被数据否定**：假设「有 SAP 处 density 与 5.6 一致 + 开槽面积增加 → 可减量且性能维持」，实测**回渗/高低压无大影响，但第二轮 cradle intake 与第三轮 input 明显变差**（某 code 时间远超 CTRL 与 code 2）。→ 该路径**未走通**。
+- **哑铃形的重量波动原因未定义**：最窄模块（5 号）实测值明显低于理论值，其余模块趋势一致偏低。候选解释：① **负压**（切掉处无负压，SAP 撒上去后往两边跑、没被吸住）；② 面积；③ geometry。需设计实验区分。另一观察：code 10 的波动远小于 code 4。
+- **大范围（哑铃形/两头加宽）的价值未证实**：带来约 **4.8%** 的成本上涨（REL、PSN、IL 与包裹部加宽至前后 130），但**第二轮侧漏测试未看出对前后漏有帮助**。
+- **侧漏测试的统计强度不足**：第二轮为节约时间**每人只测 6 片**（CTRL 为第一轮 12 片，且 100% 漏）。code 6 的漏点相对平均，CTRL / code 2 / code 1
+   • COCO V6 第一轮已确认 channel 设计八条规则；第二轮把「能否靠增大开槽面积来减少 SAP 用量」作为核心假设做验证，同时并行评估哑铃形、三叶草纤维与熔喷 core wrap 三个新材料/结构方案。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (6 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • where $G$ = peel strength, $G_0$ = intrinsic fracture energy, $\psi(v,T)$ = viscoelastic function (frequency/temperature dependent). The value of $\psi$ is "usually far higher than that of E" [Part 2, Line 5182–5213] — meaning process parameters (temperature, peel rate) dominate core-bonding performance.
+   • **Hygiene implication:** Temperature and peel rate directly determine core retention. Formulation core is designing the $\psi(v,T)$ peak, not just interfacial thermodynamics.
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+
+--- [[COCO芯体平台]]  (5 句)
+   • **2026-09（专利排查会，日期 ）**：以 COCO V6 / 客户 V5、V6 结构为对象做 FTO 比对，确认了 V6 相对同行专利的**七条结构差异**（详见 Composite Core Patent Clearance（复合芯体专利规避审查））。其中与平台直接相关的两条：
+  1. **胶与 SAP 混合施胶、无独立胶层** —— 是本次最主要的规避支点；但**分层施胶仍是保留 option**，若切换则该支点失效。
+  2. **压合位置设计**：理想设计是**所有无 SAP 的凹槽位都压合**，但高速下能否 100% 覆盖**未验证**；「狗骨头/哑铃形」花型的侧边区域目前**不规划压**。
+- **对 V7 的提示**：V7 的「分区密度」方向与竞品（如 恒安（Hengan））的 **SAP 分区化专利**属同一趋势，**落地前须重做 FTO**（原话：「后面设计上的变化跟生产工艺上的变化，肯定还是要重新来做的」）。
+   • ✅ **验证记录（2026-09-29）**：Be max 不进 V6 为会议中已明确结论；面层 50 gsm 构成与巴西方案对比为会议口径，其中「延江」供应商名由 ASR 音转（原文作「岩浆」）[待验证]。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、Core Channel Pattern（芯体通道花型设计）、Ultrasonic Bonding of PET-Containing Topsheet。
+   • ✅ **验证记录（2026-09-29）**：路线互斥为会中**判断**而非已决业务决策；时间表为计划值，须以项目立项文件复核。参见 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、分区密度设计、ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）。
+   • ✅ **验证记录（2026-09-29）**：全部牌号代号由 ASR 音转还原（511 / 950 / 610S）[待验证]；时间点为会中排程，实际执行结果未回溯。参见 Multilayer SAP Core（多层SAP芯体）、三叶形截面纤维（Trilobal Fibre）、Chromism Taxonomy（变色现象分类）。
+
+--- [[分区密度设计]]  (5 句)
+   • ✅ **验证记录（2026-09-29）**：以上为会中机制性口径；分区设计**尚未完成**（概念已有，需工程师验证是否可行）。参见 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、COCO芯体平台、ActiveTech Platform（ActiveTech 在线薄芯体平台）。
+   • ✅ **验证记录（2026-09-29）**：以上为**供应商技术推荐口径**，**无实测数据**；"已在 care 与 adult care 成功应用"未给出具体产品与指标 [待验证]；50/50 配比的上下文在 ASR 中不完整 [待验证]。参见 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、COCO芯体平台、Multilayer SAP Core（多层SAP芯体）。
+   • **超薄芯体（ultra-thin core）路线（本批新增）：**
+   • ✅ **验证记录（2026-09-29）**：本页内容来自**二手整理纪要**（非原始转写），且纪要自身标注多处"待核对"；50/50 与 70/30 **未收敛**[待验证]。参见 Pin-Hole Module, Targeted Fluff Distribution & Elastic Recovery Process Review（新材料开发与弹性恢复工艺探讨）、Multilayer SAP Core（多层SAP芯体）。
+
+--- [[吸收芯体]]  (5 句)
+   • The vault has no standalone generic definition of 吸收芯体 (the absorbent core); the working sense used across the citing sources is **the liquid-storing middle layer of a disposable absorbent article**, built from a fibre phase plus superabsorbent polymer. For the composite variant, the vault *does* give an explicit regulatory definition: 复合吸收芯体（Composite Absorbent Core）是**以无尘纸/无纺布包裹 SAP + 绒毛浆的预制芯**（a pre-formed core of airlaid/nonwoven wrapping around SAP plus fluff pulp）（源：QB-T 5650-2021 Composit
+   • **Void-volume (VV) characterisation 孔隙体积表征.** Pore-space modulus (TTM-00038 / TTM-00437) measures the **resiliency 回弹性** of the absorbent core and intake-system materials after repeated compression cycles; its direct output is **thickness as a function of pressure**, from which VV is derived by post-processing. It applies to fluffy materials such as the absorbent core, ADL/surge and REL（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **Saturation-state display architecture 饱和度显示结构.** CN 116327488 B（露乐健康科技）lays a **饱和度显示层（saturation display layer）** between the absorbent core and the second topsheet: a substrate carrying a **reversible 温敏变色部 in the middle**（records voiding *count*）and an **irreversible 温敏变色部 at the end**（records voiding *total*）, plus a third **示温记录标签**. Claim 6 guarantees visibility by a transparent/windowed second topsheet, with the label offset from the two colour zones; claim 8's decision rule compares , 
+   • **Core as a distinct standard layer 芯体作为独立标准层级.** QB/T 5650-2021 places the composite absorbent core at its own层级, and its **吸收速度（≤40 s）比婴儿成品（≤50 s）更严**（源：QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体））——芯体作为「中间品」层级是供应商准入与技术协议的直接判定依据。
+- **Core covering process 芯体包覆工艺.** 热风法非织造布是纸尿裤吸收芯体包覆层的典型场景，其蓬松结构提供导流空间（源：无纺布五大工艺对比）；复合结构上，**热风棉 + SAP + 底膜**构成纸尿裤/卫生巾吸收芯体的整体结构（源：SMS复合结构）。
+- **Interfaces with the intake system 与摄入系统的界面.** ADL 对芯体的三层职责为 ACQUIRE → D
+

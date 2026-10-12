@@ -1,0 +1,65 @@
+{
+ "batch_id": "W7-3",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a7be81c7bb36409d14a096407ec60fe5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/01_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+   "name": "01_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3a91f6d3bff711c0f307050f10bd1a16001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md",
+   "name": "04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_14ce730bebd516b045ee27f924d501e7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf.md",
+   "name": "09_包覆吸水性聚合物颗粒的方法 (EDANA ERT 完整引用).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_22f6222353add125b169e49dd1294bb1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/11_模块三：聚烯烃类热熔胶_EP2456819B1_Hot_melt_adhesive_based_on_olefin_block_.pdf.md",
+   "name": "11_模块三：聚烯烃类热熔胶_EP2456819B1_Hot_melt_adhesive_based_on_olefin_block_.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1a581de3ec21b077ef241cdf5ee2b3b4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf.md",
+   "name": "13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9f932e9e36118252877772b80a528b5e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md",
+   "name": "16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_64e2b6a10a9a2ee6778815928c9d87b4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md",
+   "name": "19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e7c942370800830983fe120a654b1ddb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN101679760B.pdf.md",
+   "name": "CN101679760B.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b473c2345717decec1551bf41b4c2cc3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN104004521B (1).pdf.md",
+   "name": "CN104004521B (1).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3416c5afb440a77f91ea2d0587311506001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN108659171A.pdf.md",
+   "name": "CN108659171A.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

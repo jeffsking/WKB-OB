@@ -1,0 +1,102 @@
+# SEED: 斯托克斯位移 Stokes Shift
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 54 页，72 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]  (5 句)
+   • 功能性色料选型的**定量门槛页**：给出墨水染料五项功能门槛、染料/颜料取舍判据、斯托克斯位移与量子产率的定量标准，以及"偶氮普遍无荧光"这一关键约束——直接服务于木浆增白剂、湿巾包装荧光标识与数字印刷供应商评审。
+   • **喷墨色料两难**：喷墨孔 <100 µm，存在颗粒物堵塞固有风险，故最初选用**水溶性染料**而非颜料；颜料须压至 <0.02 µm 稳定分散才能"大幅改善色彩空间覆盖度、亮度接近染料墨水"。
+- **染料-颜料之争现状**："where light fastness is not a problem, dyes take precedence because of brighter shade, better colour gamut and inherently more stable inks"——光牢度非瓶颈时染料优先。
+- **染料五项功能门槛**：水牢度（可通过纸品涂层改善）/ 热稳定 / **无毒** / 无机盐 <100 ppm / 储存稳定墨水。
+- **减色印刷**：彩色喷墨是减色过程，需 YMC 三色组（黄-洋红-青），如同彩色摄影。
+- **发光第三维度**："Those phenomena that involve absorption of energy and subsequent emission of light are classified ge
+   • 父书：Chromic Phenomena
+- 概念：荧光增白剂 Optical Brightener · 香豆素 Coumarin · 偶氮染料 Azo Dye · 斯托克斯位移 Stokes Shift · 电致发光 Electroluminescence · 光致变色 Photochromic · 热致变色 Thermochromic
+- 相关章节：Chromic Phenomena Introduction and Reversible Colour Change · Ancient Organic Dyes and Pigments Chemistry
+- 材料：木浆 Pulp · 绒毛浆（Fluff Pulp）
+- 供应商：Henkel · PPG Industries · BASF
+   • **关键行动**：木浆增白剂供应商评估时，应要求提供**斯托克斯位移、量子产率、光牢度**三项定量数据（标准见行 9829–9835）。
+
+--- [[结构色 Structural Color]]  (4 句)
+   • 结构色（structural colour）= **颜色来自周期层厚 / 物理结构，而非染料分子**（"Colour from periodic layer thickness rather than from dye molecules"）—— 这正是本库变色项目背后的同一物理。（源：Intelligent Textiles and Sports Clothing）
+- 在力致变色语境下：**结构色不由染料驱动而由物理结构驱动** —— 机械应变压缩胆甾螺距 → 结构间隙缩小 → 产生**可预测、可逆的蓝移**。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- 在技术路线分类中记为 **M2 photonic-crystal structural colour**（与 M1 力色团激活、M3 CLCE 介晶取向、M4 表面起皱并列）。（源：Mechanochromic Materials Technical Review（EN v3, 2026-08））
+   • **物理结构驱动呈色**：HPC 自然自组装为**胆甾型液晶相**，是本征力致变色材料，并**选择性反射右旋圆偏振光（RCP）** —— 肉眼或数码相机直视**无需偏振片**；应变压缩胆甾螺距 → 产生可预测、可逆的蓝移。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- **光子晶体 / 聚合物蛋白石**：核壳 PS/PEA 颗粒经剪切组装成弹性蛋白石，可卷对卷（>100 m）；**但有序化需要加热辊间约 300% 应变幅的振荡剪切 —— 是专用产线，不是狭缝模头**。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **胆甾相液晶弹性体（CLCE）**：螺距受压**蓝移**；2025 年工作引入光开关手性掺杂剂做压印图案；单轴红 → 蓝通常需 **>100% 应变**且**强度随位移下降**；成膜需**平面取向与氮气下 UV 固化**（热熔工位没有的两道单元操作）。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **可拉伸 DB
+   • **尿液环境下的稳定性是所有变色路线共同的未验证项** 。（源：Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）、尿液模拟液（Urine Analog））
+- **HPC 存在明确的应变上限（>25–27% 颜色松弛）**，是器件设计硬边界，但配套的回复曲线与循环寿命未见 。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- **活性介晶（reactive mesogens）对婴儿产品的毒理尚未解决** 。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **角度依赖（非虹彩化）尚未在近期解决范围内** 。（源：Structural Colour Mechanochromism（结构色力致变色））
+- 上述数据在来源中的**页码待核** 。
+   • Structural Colour Mechanochromism（结构色力致变色）（结构色路线总纲、共同失效模式与三条教训）
+- The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）（HPC 胆甾相自组装、RCP 反射与应变上限）
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）（CLCE / MET / 全息薄膜定量数据与热致变色参照系）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 路线分类与约束满足选型）
+- Active Diagnostic Zones（主动诊断分区）（可食性一等指标、监测 vs 记录）
+- Intelligent Textiles and Sports Clothing（结构色的非色素定义与 Morphotex 参照）
+- 引用的 6 个来源页：Hologr
+
+--- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]  (4 句)
+   • The **annual-review outline (v7) of the IPC BCC OI Materials Development Team**, and the only source in this batch that carries both halves of the picture: the **portfolio/project facts** (25 projects, KPIs, supplier and legal status) and the **knowledge-base-derived direction judgements** (6 route shifts, 15 industry benchmarks, TRL anchor table). It is the master document behind the OI pages.
+（IPC BCC OI 材料开发团队**年度汇报大纲 v7**，本批唯一同时承载"项目事实"与"知识库反向修正的方向判断"的来源，是 OI 系列页面背后的总纲。）
+   • The document has three parts: a WKB knowledge inventory, an update-scope/justification part, and the full 32-page + 2-appendix outline. **Scale 规模**：25 OI projects (24 in the source Excel + OI-25 added from the Coco V6 trial material of 2026-09-16), 33 supplier engagements, 5 technology platforms, 12 material categories, 5 signed legal documents (NDA/NNN), 4 on-hold, 48 knowledge assets. **Reference frame 参照系**：the industry roadmap gives a 4-stage commercialisation path (2026–2029) and a TRL tab
+   • **Six route shifts 六条技术路线新方向**
+   • **The OI portfolio has no TRL grading while the industry already has nine TRL 9 technologies** —— the deck's core argument for introducing an external yardstick —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **Zoning over uniformity is the single most consequential route shift** —— it rewrites OI-02 / OI-14 / OI-20 / OI-25 targets —— 支撑页：分区密度设计、ATB双梳理面层（Dual-Card Topsheet）
+- **COCO V6's blocking gap is that the pilot line cannot do zoned SAP density** —— V7 is the answer —— 支撑页：COCO芯体平台
+- **The liner i
+
+--- [[Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）]]  (2 句)
+   • 1. **Zone 1（<25% 应变，黏弹区 Viscoelastic Regime）**：材料呈弹性响应。特征为**高稳定性、可靠的方波状（square-like）输出信号、一致的颜色松弛（color relaxation）**——即受力变色、卸载复色可重复。
+2. **Zone 2（>25% 应变，非弹性流动区 Inelastic Flow Regime）**：剪切变稀（shear-thinning）导致横向流动（lateral flow）。此时**灵敏度最大化，但信号稳定性下降，出现假阴性颜色衰减（false-negative color attenuation）**——看上去"没变色"，实为信号被流动抹平。
+3. **转型带 25–27%**：两区之间的过渡是材料设计的临界带，也是工程上最需要精确标定的区域；文件把「掌握 25–27% 应变区间转型」列为推进的**准确前置条件（exact prerequisite）**。
+4. **工程结论（Engineering Takeaway）**：信号完整性**完全取决于**把材料配方设计为严格工作在 Zone 1——不是"尽量"，而
+   • 上位：Mechanochromic变色纤维、Chromism Taxonomy（变色现象分类）
+- 并列窗口：Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）
+- 路线相关：Structural Colour Mechanochromism（结构色力致变色）、Mechanophore Mechanochromism（机械力致变色分子）、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- 流变与施加工艺：Ultra-Low Add-On Adhesive Application（超低添加量施胶）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- 应用：Front Belt Force Window（前腰带弹性力窗口）、Active Diagnostic Zones（主动诊断分区）、Skin Contact Pressure（皮肤接触压力）
+
+--- [[全息存储 Holographic Storage]]  (2 句)
+   • In this vault the term is used in the sense of **holographic recording** — writing a **periodic (grating) structure** into a photopolymer film so that the film develops **structural colour**. The anchor source defines it as a recipe space for "holographically written structural-colour films that shift colour monotonically with strain": **holographic recording writes a periodic structure into a PEGDA-TDE film, giving mechanochromic structural colour with a monotonic strain → wavelength map**（源：Ho
+   • **Recording → periodicity → colour.** Holographic exposure writes a periodic grating into the film; the grating period sets the reflected wavelength, so colour is produced **without pigment**, by periodic structure（源：Holographic Structurally Colored Mechanochromic Films）.
+- **Strain reads out as a blue-shift.** Stretching the film changes the grating period; 0 → 20% strain blue-shifts the peak ~58 nm and drops reflectance ~68%, giving **three simultaneous read-out channels** (λmax, reflectance, 
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径）]]  (2 句)
+   • A synthesis of the **four main drivers** reshaping diaper R&D — consumer value-shift, accelerating materials/process innovation, cost-vs-sustainability rebalancing, and the resulting R&D focus. Good for trend/landscape concept pages.
+   • The article frames the industry's shift from basic protection to a **systematic solution** built on four converging drivers. **Driver 1 — consumer value shift**: Gen-Z parents want green + smart + premium; they pay **20-30% premium** for biodegradable/plant-based and expect IoT wetness sensors (module cost forecast to fall from RMB 23-66 to 5-15 in 5 yrs). **Driver 2 — tech acceleration**: SAP moves to bio-based (bioSAP, carbon −15-25% but +20-50% cost) and functionalized; PLA fiber reaches full
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (2 句)
+   • Material candidates: HPC (regulatory gold standard, power-law strain–colour relation), naphthopyrans (covalent scission, modular colour), spiropyrans (vivid but polar-sensitive and thermally transient), Cu-based HCP (coordination-polymer emission). Engineering hurdles are T1 threshold down-shift, T2 the 25–27 % strain regime (Barty-King et al. 2025: HPC stays viscoelastic below 25 % strain and collapses into a flowing/sheared state beyond it) and T3 rheology/signal stability. The honest limit: a
+   • Local path 本地路径：
+- Original link 原文链接：（无；内部资料）
+- Evidence grading 证据分级（原文口径）：F Fact 可检索事实 / I Inference 由公开信息推断 / A Assumption 行业锚定基线 / E Estimate 插值近似
+- Open data to be filled 待补数据（原文自述）：exact force-threshold ranges、reversible cycle counts、skin/oral safety reports for each candidate、CTI ink down-shifted to hygiene low-tension 的可行性与报价
+
+--- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]  (2 句)
+   • **力致变色的真正门槛不是化学，而是把工业级材料「下调」到儿科力区并锁在黏弹区** —— 支撑页：Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）、Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）
+- **结构色路线凭可食用药用级属性在口腔毒性门上取得战略优势** —— 支撑页：Structural Colour Mechanochromism（结构色力致变色）、Material Safety Control（材料安全双轨管控）
+- **深科技商业化必须同时掌握 Micro/Macro/Market 三个量级的转译** —— 支撑页：Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+- **供应格局是定制开发型：主供换法规豁免、次供换成本、高校换下一代** —— 支撑页：CTI（Chromatic Technologies Inc.）、Henan Jiayida（河南嘉亿达）、Chun
+   • 概念：Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）、Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）、Mechanochromic变色纤维、Structural Colour Mechanochromism（结构色力致变色）、Chromism Taxonomy（变色现象分类）、Material Safety Control（材料安全双轨管控）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：CTI（Chromatic Technologies Inc.）、Henan Jiayida（河南嘉亿达）、Chungnam National University and Hanyang University（韩国大学研究伙伴）、Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）
+- 对比：Printable Pressure-Activated Inks vs Covalent 
+
+--- [[Smart Polymers Ch11 Smart Polymer Drug Delivery]]  (2 句)
+   • Experimentally: PEG critical MW for complexation = **2000 g/mol (PMAA)** and **6000 g/mol (PAA)** (L1237–1247); a PMAA gel collapses at PEG < 5 wt% and re-swells at ≈5–10 wt% (L1318–1321); FT-IR shows the PMAA dimer band at 1700 cm⁻¹ shifting to 1733 cm⁻¹ in the PMAA–PEG complex (L1309–1312).
+   • 1. **SAP design as a mesh-size problem.** ξ = υ₂,ₛ^(−2/3)(2C_n·Mc/M_r)^(1/2)·l and Mc from Flory–Rehner are the proper language for the free-swell vs. gel-strength trade-off: lower Mc ⇒ tighter network, higher modulus, slower uptake. Map ξ against fluid-uptake rate to select SAP grade per layer (acquisition vs. anti-gel-blocking).
+2. **Acquisition/distribution nonwovens.** D_eff = D_iw·(ε/τ)·K_p·K_r makes porosity ε and tortuosity τ explicit process levers for fiber denier, basis weight and cale
+

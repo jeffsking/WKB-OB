@@ -1,0 +1,20 @@
+{
+  "batch": "wave1_papers",
+  "created": [
+    "E:/WKB-OB/WIKI/sources/A review on superabsorbent polymers.md",
+    "E:/WKB-OB/WIKI/sources/Research Advances in Superabsorbent Polymers.md",
+    "E:/WKB-OB/WIKI/sources/Superabsorbent Polymers and Superabsorbent Polymer Composites.md",
+    "E:/WKB-OB/WIKI/sources/Emerging applications of stimuli-responsive polymer materials.md",
+    "E:/WKB-OB/WIKI/sources/Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications.md",
+    "E:/WKB-OB/WIKI/sources/EDANA 2022 Absorbent Hygiene Products.md"
+  ],
+  "source_paths": [
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/a_review_on_superabsorbent_polymers.pdf.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/research_advances_in_superabsorbent_polymers.pdf.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/superabsorbent_polymers_and_superabsorbent_polymer_composites.pdf.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/emerging_applications_of_stimuli-responsive_polymer_materials.pdf.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/stimuli-responsive_phase_change_materials_optical_and_optoelectronic_applications.pdf.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/edana_2022_absorbent-hygiene-products.pdf.md"
+  ],
+  "skipped": []
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "idb_08",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch45.md.md",
+      "chapter": "45",
+      "title_hint": "Dryer Emission Control Systems",
+      "bytes": 19642
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch47.md.md",
+      "chapter": "47",
+      "title_hint": "Heat Pump Drying Systems",
+      "bytes": 17331
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch49.md.md",
+      "chapter": "49",
+      "title_hint": "Control of Industrial Dryers",
+      "bytes": 20665
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch51.md.md",
+      "chapter": "51",
+      "title_hint": "Industrial Crystallization",
+      "bytes": 20273
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch52.md.md",
+      "chapter": "52",
+      "title_hint": "Frying of Foods",
+      "bytes": 19301
+    }
+  ]
+}

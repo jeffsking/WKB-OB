@@ -1,0 +1,65 @@
+{
+ "batch_id": "W7-1",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_141d55607ea44c6366df9e23918f08e8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/01_模块一：SMMS_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+   "name": "01_模块一：SMMS_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e88c6730cc85814ecbe8c821c3fd5a85001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf.md",
+   "name": "02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b6b086818d1f1e705e92286989d51cac001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md",
+   "name": "07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_01ae42fe658c83373c85ab2ef63e6d1a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/10_Method for coating SAP particles (with EDANA ERT citations).pdf.md",
+   "name": "10_Method for coating SAP particles (with EDANA ERT citations).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_19d120e25a5b36d26baa9061f8713080001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf.md",
+   "name": "12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4b0bc0a02f0a110ed70f51a04df48314001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf.md",
+   "name": "14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4906b6a27de9382c88173204d444d144001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(嵌段共聚物).pdf.md",
+   "name": "16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(嵌段共聚物).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_12d881dcb3effca5d91b579cfd5dd466001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md",
+   "name": "20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_192d2741e633487c6aa54e3da089b56d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN101787101A.pdf.md",
+   "name": "CN101787101A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_488379d8d5f98854156043bde1c1be8e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B.pdf.md",
+   "name": "CN104004521B.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

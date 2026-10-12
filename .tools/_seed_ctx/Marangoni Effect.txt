@@ -1,0 +1,80 @@
+# SEED: Marangoni Effect
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Surface Tension and Surface Energy
+#
+# 全库正文命中 89 页，105 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch10 Boronate Copolymers and Gels]]  (3 句)
+   • **2.Polymer presentation creates avidity.** "An inherent property of the reactive polymers is their multipoint (or multivalent) interaction with biological counterparts, which results in much stronger specific binding compared with low-molecular-weight reagents with the same functional groups" (L122–125). Multivalent binding to available diols can become effectively irreversible — e.g. BCC binding to an agarose gel (L1088–1090).
+   • **7. Nonenzymatic sensors beat enzymes on stability.** "Glucose sensors utilize the enzyme glucose oxidase; however, these sensors often display poor stability" (L536–537) — whereas "the most effective synthetic ligands for binding glucose in aqueous media are derived from boronic acids" (L582–584).
+   • **Pig-urethra plugging, BCC precoat + PVA–borax gel** (Table 10.3, L1488–1491): NAAPBA–DMAA at increasing PBA molar content and NAAPBA–AAm (12 mol%) show a monotonic trend — higher PBA molar content gives more effective complete sealing (L1447–1449).
+
+--- [[Surface Tension and Surface Energy]]  (3 句)
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）]]  (2 句)
+   • 1. **Capillary-stress route 毛细应力路线**: ambient, hot-air, and oven drying pass through a liquid–gas interface; capillary pressure can pull nanofibers together, increase density, and reduce swelling or gas permeability.
+2. **Sublimation route 升华路线**: freeze-drying first immobilizes water as ice and then removes it by sublimation. Ice-crystal size and orientation template the final pore architecture, so freezing rate and direction matter.
+3. **Critical-point route 临界点路线**: supercritical CO₂ drying s
+   • Effect of Drying Methods on Bacterial Cellulose Aerogel —
+
+--- [[Kirigami Apertured Nonwoven（切割拉伸开孔工艺）]]  (2 句)
+   • 若开孔区**延伸到腿围 / 腰围垫片区域**，会创造**新的最小阻力泄漏路径** → 面层议题与垫片议题**必须交叉评审**，不能各自优化。见 Gasketing Effectiveness（防漏阻隔有效性）。
+   • ✅ **验证记录（2026-09-29）**：以上来自**内部准备文件**，非实测数据；文件自身标注 —— **Kirigami 的放大/在线切割速度/成本对比数据不可得**，**SemiCircle 10 mm 是否为终版待现场确认** [待验证]。参见 ADL（导流层）、Gasketing Effectiveness（防漏阻隔有效性）、Coform Composite Nonwoven（熔喷-木浆复合非织造）。
+
+--- [[离子强度 Ionic Strength]]  (2 句)
+   • The vault never states a formula or units for ionic strength; it treats it operationally as **one of the three parameters** that precisely tune a hydrogel SAP's absorbency / water retention / salt tolerance / oil resistance — **cross-link density + ionic strength + temperature**（源：Hydrogel-based Superabsorbent Polymers）。Its direction of effect is stated directly: **electrolytes such as NaCl and CaCl₂ affect swelling, and high ionic strength *lowers* water absorbency**（源：Hydrogel-based Superabsor
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+
+--- [[Fibers and Fibrous Materials]]  (2 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • **Buy the surface, not the resin.** Because fibre walls *are* the pore walls, surface energy and roughness dominate absorption; fibre chemistry matters mostly through wettability.
+- **Density and geometry substitute for hydrophilicity.** Polyolefin and PET absorb well through fine denier and non-circular cross-section — the pore network, not the polymer, is the absorber.
+- **Wet strength inverts with crystallinity.** Cotton stiffens when wet; viscose collapses. For wet-wipes and core layers, wet
+
+--- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]  (2 句)
+   • **"更少的胶"和"非亲水的胶"是两个独立且方向一致的有利变量** —— 支撑页：Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）
+- **亲水胶增加回渗是反直觉但三处一致的结论，应作为配方红线而非可选项** —— 支撑页：Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **ATH 芯体回渗偏高的根因假设是"绒毛浆充当了摄入层"——故解法是给绒毛浆层加 SAM** —— 支撑页：ActiveTech Platform（ActiveTech 在线薄芯体平台）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **喷头覆盖面积（Signature > Summit）是继花型之后的第二层变量** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）
+- **理论最优不等于测试有效：分区/TRIO 施
+   • 概念：Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、ActiveTech Platform（ActiveTech 在线薄芯体平台）、Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Interstitial Space（面层-导流层界面间隙）、Intake System（摄入系统）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[Handbook of Plastic Films]]  (2 句)
+   • 1.1 Introduction；1.2 Structures of the Polyolefins（1.2.1 LDPE / 1.2.2 HDPE-MDPE-UHMWPE / 1.2.3 LLDPE / 1.2.4 VLDPE-ULDPE / 1.2.5 PP / 1.2.6 PP copolymers）
+- 1.3 Morphology of Polyolefin Films；1.4 Rheological Characterisation of the Polyolefins（1.4.1 HDPE / 1.4.2 LLDPE / 1.4.3 VLDPE-ULDPE / 1.4.4 LDPE, Long Branches / 1.4.5 PP）
+- 1.5 Blown Film Production (Tubular Extrusion)：1.5.1 Extruder Characteristics / 1.5.2 Screw Design / **1.5.3 Frost-line and Blow Ratio**
+- 1.6 Cast Film Production：1.6.1 
+   • Ch2 结构（PE 加工主线）：2.2 Parameters Influencing Resin Basic Properties（Molecular Weight & Dispersity Index / Melt Index / Density / Chain Branching / Intrinsic Viscosity / Melting Point & Heat of Fusion / Melt Properties–Rheology / Elongational Viscosity / Elasticity）→ 2.3 Blown Film Extrusion（冷却方式、挤出机规模、功率）→ 2.4 Cast Film Extrusion（2.4.2 Effects of Extrusion Variables、2.4.3 Effect of Blow-up Ratio on Film Properties）→ 2.5 Processing Troubleshooting Guidelines → 2.6 Shrink Film（类型/性能/制造/收缩隧道）。
+
+--- [[Intelligent Textiles and Sports Clothing]]  (2 句)
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+
+--- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]  (2 句)
+   • 1. **图案芯体的第一性原理是"真空即模板"** —— 有孔有风就有 SAP，无孔无风就无 SAP；**花型不再是压出来的，而是"没落上去"的**。这使**洁净通道与复杂花型同时可得**，且无需分段式 pocket 结构。
+2. **"风量调定量"把分区变成连续量而非离散档** —— MD / CD / 复合 / 图案四种能力共用一套执行机构；**分区 know-how 落在风量分布与孔型设计上**，而非机械换型。
+3. **节材量级值得单独立项** —— **每片 1 g** 在 800 PPM、75% 利用率下就是**单线每年 311 吨**；**这是把"少放一点 SAP"从成本控制项提升为结构创新收益项的关键换算**。
+4. **COV 的真正敌人是颗粒本身的不均一** —— Particle Sizer Effect 说明**定量偏差不是设备精度问题，而是颗粒密度/风阻分布问题**；**窄 PSD 是材料侧的 COV 解法**，与设备侧的"少放一点/多鼓分摊"并列。
+5. **"多鼓分摊"是高速化的结构性解法** —— 总定量固定下把 SAP 分到 2–3 个鼓，**每个鼓的
+   • IPC BCC OI Portfolio（开放创新项目组合） —— 本方案署名为 **IPC FEI & OI（2026-07）**，属**开放创新/前瞻工程**产物；**具体的 OI 编号未在本源中标注**，故本页不指定编号（OI 编号基准见该页重构版 19 项）。
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） —— 本源是该概念页的**工艺原理与产业能力来源**（真空即模板、孔心距 0.14 mm、多鼓同步）。
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差） —— "Particle Sizer Effect"与 ±2.5% 喂入精度是**落料计量一致性的直接输入**。
+- 分区密度设计 —— MD/CD 分区与沙漏型设计；本源给出**分区的执行机构解法（风量）**。
+- Core Channel Pattern（芯体通道花型设计） —— 洁净通道的四重收益（尿液分布 / 透气 / 视觉线索 / 便于 LSN·PSN 压花）。
+- Multilayer SAP Core（多层SAP芯体） —— 双 
+

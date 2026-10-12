@@ -1,0 +1,74 @@
+# SEED: 离子对吸附 Ion Pair Adsorption
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 44 页，51 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[活性炭除臭（DARCO）]]  (2 句)
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • **Odour control in hygiene products**: the route is applied to **卫品气味控制**（源：SymDeo™ XPP 抑臭聚合物）and listed alongside fibre-based odour adsorption for **面层/内裤无纺布消臭**（源：咖啡炭纤维（异味吸附））.
+- **Route-family sibling**: within the odour-control material family it is cited next to SymDeo™ XPP 抑臭聚合物（抑臭聚合物）and 咖啡炭纤维（异味吸附）（物理吸附纤维）, all under the same supplier landscape note at Symrise（德之馨）（源：SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）、Symrise（德之馨））.
+- **Supply-base context**: Cabot is logged as a **candidate supplier** with n
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (2 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+
+--- [[Hydrogels in Regenerative Medicine]]  (2 句)
+   • Natural polymers bring biological compatibility and inherent biodegradability (collagen, silk, gelatin, fibrin, lysozyme, Matrigel, elastin-like polypeptides; HA, dextran, agarose, chitosan; hybrid pairs; DNA). Synthetic polymers win on **reproducible physical and chemical properties** and tunability of block structure, molecular weight, mechanical strength and biodegradability.
+- Biodegradation rate should coincide with new-tissue regeneration rate at the defect site — a design requirement, not
+   • **Release control**: porous structure is tunable via cross-link density; drug release rate depends on the diffusion coefficient through the gel network. Low interfacial tension ⇒ minimal protein adsorption from body fluids.
+- **Wound dressing (closest to our adjacency)**: an ideal dressing must maintain a moist interface, allow gas exchange, act as a microorganism barrier and remove excess exudate, while being non-toxic, non-allergenic, non-adherent and removable without trauma. Hydrogel dressin
+
+--- [[Surface Tension and Surface Energy]]  (2 句)
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+
+--- [[Marketing Claim Translation Paradigms（市场宣称六大转化范式）]]  (1 句)
+   • 1. **宣称门槛是被"分级"定义的，不是单一阈值** —— **Target 与 Minimum 两档并存**，且**Minimum 只要求"持平"**。**⇒ 干爽类宣称的最低入场券是"不落后"，不是"领先"。**
+2. **"一项优势 + 其余持平"是可迁移的宣称范式** —— 要宣称某一项（气味控制或回渗）领先，**必须同时保证摄入、透气、EWL 三项不落后**。**⇒ 单点优势不足以支撑宣称，必须付出"其余项不得退步"的代价。**
+3. **对标对象随性别而变** —— **女性对标 PL 与 AD，男性对标 PL 与 Tena**。**⇒ 宣称的对标集合是分市场的，不能一套文案打全线。**
+4. **"可感知优势（BV）"与"实测优势"被区分为两条路径** —— Target 档允许**气味控制或干爽的"消费者可感知优势"**；Minimum 档则写**"实际或感知"**。**⇒ 感知数据与实测数据被正式并列为两种可接受的支撑。**
+5. **柔软度类宣称要另付代价** —— LUGH 的柔软度是 **Must**，但**回渗/摄入/泄漏必须全部"持平"**，且**成本不得
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (1 句)
+   • 1. **为什么有味道**：某些化学成分**挥发性强**，挥发后到达嗅觉即产生气味感受 → 干预点要么是「换一个更好闻的挥发物」，要么是「降低该物质的挥发/存在」。
+2. **掩盖（masking）**：引入**挥发性更强**、气味可接受物质，抢先占据嗅觉；**不改变原异味物质**。
+3. **物理捕捉（physical capture）**：与异味物质**物理结合**（隐蔽或绑定），**不发生化学反应、不改变其化学性质**，但因其物理性质被改变，气味表现也被改变。**气味中和（neutralisation）与气味吸附（attraction/adsorption）都属物理捕捉**。
+4. **化学捕捉（chemical capture）**：加入带**化学反应机理**的物质（本批为天然物质），与异味物质发生反应而消除。供应商口径下由**日本团队**研发，**载体是热熔胶**。
+5. **载体与位置决定效果**：化学捕捉物质被加入**热熔胶**，再涂布（或施胶）于无纺布基材；效果取决于**产品结构设计、基材选择、成品上的涂布量**。
+6. **评价方法的固有局限**：VOC 探针只测**
+
+--- [[Probiotic & Skin-Care Topsheet（益生菌护肤面层）]]  (1 句)
+   • **未来可能加入**：**d-Panthenol、SymRepair、Cluster Dextrin** 等更高级成分。
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (1 句)
+   • **Definition, measuring points, tolerances and instruments of finished-product dimension measurement** —— （must be checked against STM-00433 Pants尺寸.doc）。
+- Mapping between finished-product dimensions and the GB-T 33280-2016 specification system / KC internal STM conventions 。
+- Transfer relation between fibre-level quantities（linear density / shrinkage / opening length）and finished-product dimension measurement — not given in the digest 。
+- Garbled spots（the Vibroscope trap in Ch11, the branche
+
+--- [[Titratable Acidity Lane（可滴定酸度通道）]]  (1 句)
+   • 1. **Why not pH（为什么不用 pH）**：a pH-only BM stripe is a coin toss — roughly half of formula-fed stool and most late-day urine land in the same pH window. Setting the trip point tight enough to reject urine loses breastfed stool; loosening it turns every wet diaper into a false BM alarm.
+2. **Buffer capacity is the discriminator（判别量是缓冲容量）**：titratable acidity is **low** in urine (heavily diluted by SAP gel water) and **high** in infant BM — lactate + acetate + butyrate from bifidobacterial fermentat
+

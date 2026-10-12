@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-5",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_59c0dcb74e1d9898896e01aee52fbdea001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Pressure Sensory 测试方法.docx.md",
+   "name": "Pressure Sensory 测试方法.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_fa46081f422efd496e72f128fadda933001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/BCC成品STM-南京南厂 1.pdf.md",
+   "name": "BCC成品STM-南京南厂 1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_95c0790533fe1100d7d0f5a8ddcb7bed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00060 导流性能.docx.md",
+   "name": "STM-00060 导流性能.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8fdbdf86f0f11a852ac0ac6d7d24a02d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纸尿裤的核心结构及市场主流方向.pdf.md",
+   "name": "纸尿裤的核心结构及市场主流方向.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_ee3786b39a8785f7db20792fb920925d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00090 腰围密封强度.doc.md",
+   "name": "STM-00090 腰围密封强度.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_9483c52fdc6f35e1c5475090fd728a7e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "name": "STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_79a6b71d90cdfc0b9045d2536b1125fa001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00302 面层干爽性.doc.md",
+   "name": "TTM-00302 面层干爽性.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_cb18e2a0cb17a9d9e02dfce57a0c6925001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲厚度测试.docx.md",
+   "name": "澳洲厚度测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_068f84e02698858fe9466fa69c4c8091001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/产品折叠长度/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "name": "STM-01078 OD产品折叠后长度、宽度测量方法.docx.md",
+   "type": "word"
+  }
+ ]
+}

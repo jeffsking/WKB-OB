@@ -1,0 +1,65 @@
+{
+ "batch_id": "W11-5",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e00d000aeaecca77c5e29d7ebfae867e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/A review on superabsorbent polymers.pdf.md",
+   "name": "A review on superabsorbent polymers.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e0da65c7c7dba79bc9e27f50b154e88f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Book_Review_Handbook_of_Adhesion_By_Davi.pdf.md",
+   "name": "Book_Review_Handbook_of_Adhesion_By_Davi.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_45f3aaaec769a27c7e386c054e690be4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/ES纤维亲水功能与应用分析.pdf.md",
+   "name": "ES纤维亲水功能与应用分析.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_4b04217870eacb9c4332c290955f1d2b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch11_report_20260823_031405.md.md",
+   "name": "Absorbent Technology_ch11_report_20260823_031405.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7258793c294d3fe263f76a7ab7924d15001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_Ch2_3_解析.md.md",
+   "name": "Chromic_Phenomena_Ch2_3_解析.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_67a3e65e6d269e7bff58a563f082f2e8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch14_Main_Cosmetic_Vehicles_report.md.md",
+   "name": "ch14_Main_Cosmetic_Vehicles_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_8f81dfb64602077ca42d8fca7ca84495001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch61_US_Regulatory_Requirements_report.md.md",
+   "name": "ch61_US_Regulatory_Requirements_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_8a4a6578b997ed0787779b791945ae35001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/Ebewole Polymer Science Technology_batch1_concepts.md.md",
+   "name": "Ebewole Polymer Science Technology_batch1_concepts.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b18efc9bc07b4a53e90364653dc69770001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch07.md.md",
+   "name": "Ebewole Polymer Science Technology_ch07.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_303202c0ad18292e265f8ae641736439001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Flexible_Stretchable_Electronics_DeepBook/Flexible_Stretchable_Electronics_精简摘要.md.md",
+   "name": "Flexible_Stretchable_Electronics_精简摘要.md.md",
+   "type": "markdown"
+  }
+ ]
+}

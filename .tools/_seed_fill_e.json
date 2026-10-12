@@ -1,0 +1,21 @@
+{
+  "batch": "seed_fill_e",
+  "done": [
+    "WIKI/concepts/孔隙率 Porosity.md",
+    "WIKI/concepts/湿迁移 Wet Migration.md",
+    "WIKI/concepts/热熔胶 Hot Melt Adhesive.md",
+    "WIKI/entities/BASF.md",
+    "WIKI/entities/锦琪昶（KSC, King's Choice）.md",
+    "WIKI/concepts/Hygiene Absorption Model.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/entities/BASF.md — 与 KC 的关系无证据，relationship 记为 待核；HySorb N7059 的 AAP 值在摘录中截断；4 条原始 Cited by（染料/颜料/变色/发光侧）无对应正文",
+    "WIKI/entities/锦琪昶（KSC, King's Choice）.md — 与 KC 的正式供货关系待核；厂址/产能缺失；原 Cited by 4 处中有 3 处重复指向同一来源页，实为 2 处独立来源",
+    "WIKI/concepts/Hygiene Absorption Model.md — 3 条原始 Cited by（Handbook of Industrial Drying / Ch28 渗透脱水 / Ch50 固液分离）在本批摘录中无对应正文句，未据以填写",
+    "WIKI/concepts/湿迁移 Wet Migration.md — 「migration」在本库有三义（湿迁移 / 助剂-粘合剂迁移 / 化学迁移量），已在页内做口径提示，建议人工确认是否拆分",
+    "WIKI/concepts/孔隙率 Porosity.md — 无独立定义句，按规则标记「定义待补」；TTM-00038 中 Porosity 输出公式未在引用页给出",
+    "WIKI/concepts/热熔胶 Hot Melt Adhesive.md — 无独立定义句；与既有 [[Hot Melt Adhesive]] 页的层级关系需人工确认（避免重复页）"
+  ],
+  "count": 6
+}

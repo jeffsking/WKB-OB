@@ -1,0 +1,31 @@
+{
+ "batch": "S3_Areas_Regulation&PSC_05",
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "source_pages": [
+  "GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）",
+  "GB-T 21331-2021 Fluff Pulp（绒毛浆）",
+  "GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）",
+  "GB-T 27731-2011 Release Paper for Sanitary Products（卫生用品用离型纸）",
+  "GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫）",
+  "GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）",
+  "GB-T 34448-2017 Determination of Formaldehyde in Tissue Paper and Disposable Products（生活用纸及纸制品 甲醛含量的测定）",
+  "GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）",
+  "GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）",
+  "GB-T 13519-2016 Polyethylene Heat-Shrinkable Film for Packaging（包装用聚乙烯热收缩薄膜）"
+ ],
+ "concept_pages": [
+  "GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）",
+  "Airlaid Paper（无尘纸）"
+ ],
+ "entity_pages": [],
+ "comparison_pages": [
+  "GB-T 28004-2011 与 GB-T 28004.1-2021 婴儿纸尿裤指标对比"
+ ],
+ "updated_existing": [
+  "绒毛浆（Fluff Pulp）·追加国标验收口径与验证记录（2026-09-29）",
+  "Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）·追加 GB/T 21331 行 + 方法标准锚点 GB/T 27741-2018（2026-09-29）"
+ ],
+ "manual_review": [],
+ "notes": "源文件名年份残缺已按标准正文纠正：GB 43631-2023（文件名误写 202）、GB/T 34448-2017（文件名误写 201…7）。GB/T 24292-2009 表1 纵向抗张指数数值在 OCR 中缺失，页面标 [待验证]。GB/T 27731-2011 表1 部分不等号方向 OCR 退化，已逐项标 [待验证]。GB 31701-2015 范围明确排除一次性卫生用品（负知识已在页面标注）。全程未改 index.md/log.md。"
+}

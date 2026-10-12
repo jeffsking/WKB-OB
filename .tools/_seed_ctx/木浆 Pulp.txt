@@ -1,0 +1,122 @@
+# SEED: 木浆 Pulp
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 132 页，212 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Coform Composite Nonwoven（熔喷-木浆复合非织造）]]  (4 句)
+   • **一句话定义**：把**熔喷 PP 纤维（meltblown polypropylene）**与**木浆纤维（fluff pulp / cellulose）**在同一成形过程中直接复合而成的非织造材料 —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；典型用于湿巾基材，本库关注其在**纸尿裤芯体包裹层（core wrap）**上的迁移可行性。
+   • Meltblown Nonwoven（熔喷非织造布）
+- 绒毛浆（Fluff Pulp）
+- ADL（导流层）
+- Composite Core Patent Clearance（复合芯体专利规避审查）
+- 延江（Yanjan）
+- Kimberly-Clark（金佰利）
+   • ✅ **验证记录（2026-09-29）**：结构与用量来自**内部技术文件**（Coform technical solution & material-use calculation），非现场实测；"TJ" 指大田（Taejon）为**推断**，文件自标注 Medium [待验证]。参见 Meltblown Nonwoven（熔喷非织造布）、绒毛浆（Fluff Pulp）、Kimberly-Clark（金佰利）。
+   • Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨） ——
+
+--- [[WRV 水保留值]]  (4 句)
+   • **WRV（水保留值，Water Retention Value）** is the vault's name for a **water-retention metric used in pulp / fibre characterisation and acceptance**. In the vault it appears only as a **named metric** — it is listed among the required acceptance indicators for wood-pulp / viscose fibres, and among the concept set of the cross-linked-cellulose chapter — but **no operational definition (test geometry, load, time, units) is given in any read source**（定义待补（引用来源未给出明确定义））.
+   • **Fibre/pulp acceptance metric.** In *Absorbent Technology* Ch.11 the vault places WRV in the four-metric acceptance block for wood-pulp / viscose fibres — **静态容量 + INDA 10.1 速率 + AUL + WRV + 湿态压缩模量** — with the explicit warning that capacity alone is not acceptable（源：Absorbent Product Testing）.
+- **Cellulose-superabsorbent context.** WRV is registered as a concept of the cross-linked-cellulose chapter (Ch.7), alongside DS, cross-link density, HEC, MFC, grafting and gel blocking — i.e. it belong
+   • **Operational definition, method and units of WRV** — not given in any read source .
+- Whether WRV is reported as **g water / g fibre** (centrifuge retention basis) or another basis — unstated .
+- No WRV value for a KC pulp grade or a named commercial fluff pulp is present in the read sources .
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[Dry-laid web formation]]  (4 句)
+   • Chapter 2 is the Handbook's deepest treatment of drylaid web formation — the textile-derived branch — culminating in airlaying and the raw-material science (fluff pulp, SAP, bicomponent blends) that defines modern hygiene cores and ADLs.（中文：第 2 章系统阐述干法成网（源自纺织），重点在气流成网与绒毛浆/SAP/双组分配比，直接定义现代卫生芯体与导流层。）
+   • The chapter progresses from carding physics (worker/stripper/licker-in/doffer, metallic wire geometry, aerodynamic control) through feed/weight-control systems to cross-lapping and perpendicular-laid structures.（从梳理机理、喂入与称重控制，到交叉铺网与垂直铺网。）
+- It culminates in airlaying (aerodynamic web formation) and its raw-material science: wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends.（高潮在气流成网及其原料科学：木浆、人造纤维、SAP 与双组分混合。）
+- For hygiene R&D the chapter explicitly names the "liquid acquis
+   • Airlaid webs are isotropic; carded webs are not — isotropy is a design variable for omnidirectional acquisition.（气流成网各向同性，是各向同性导流的设计变量。）
+- Hydrophobic synthetics preserve wet bulk; blends with pulp + SAP form the nappy acquisition layer.（疏水合成纤维保湿态蓬松，与浆/SAP 混合成导流层。）
+- SAP immobilises fluid under compression — core must not rewet under buttock pressure.（SAP 受压 immobilises 液体，是芯体抗回渗的设计依据。）
+- Cross-lapping bath-tub profile propagates into bonding and must be co-designed.（交叉铺网缺陷会传递至加固，须协同设计。）
+   • 父书：Handbook of Nonwovens
+- 概念：SAP（高吸水树脂）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 后续工艺：Mechanical bonding、Thermal bonding
+
+--- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]  (4 句)
+   • China's product standard for **fluff pulp**（绒毛浆）used as raw material for disposable hygiene products — the CN-market acceptance baseline for fluff pulp lots (quality, chemical safety, microbial).
+   • GB/T 21331-2021 (ICS 85.040 / CCS Y31, SAC/TC 141) is the first revision of the 2008 fluff pulp standard. It drops the old product-grade split and instead classifies pulp by chemical treatment: **treated**（处理浆，耐破度显著降低，利于散纤）vs **untreated**（未处理浆）. The 2021 revision's main technical changes: migratable fluorescent substances, AOX, and four heavy metals (Pb/As/Cd/Hg) are now specified with test methods; 二氯甲烷抽出物 is replaced by 丙酮抽出物; dry bulk, absorption time/capacity methods are reworked in normati
+   • **绒毛浆入厂验收的化学安全四件套（荧光物质/AOX/重金属/丙酮抽出物）是 2021 版新增** —— 支撑页：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **处理浆 vs 未处理浆的取舍本质是「蓬松/吸速 vs 强度」**：处理浆蓬松度门槛更高（17.0 vs 15.0 cm³/g）但耐破度更低 —— 支撑页：绒毛浆（Fluff Pulp）
+   • 概念：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、TCF Bleaching（全无氯漂白）（AOX 与漂白工艺相关）
+- 来源：GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）
+
+--- [[Nonwovens in Absorbent Materials]]  (4 句)
+   • **无纺布定义与双属性**：非针织、非机织、非编织、非纸的纤维/微纤维纤网，关键判别是"absence of a yarn element"。适合作为吸液材料的两大根本原因： + 。
+- **四要素因果链**：Constituent Fiber → Assembly Structure（Web Assemblage）→ Type of Bonding → Finish。"Each of these factors can have an effect on the absorbency of the resulting structure"——采购评审须按序追问而非单一比价。
+- **纤维吸液机制二元性**：亲水溶胀纤维通过 fiber imbibition + fiber swelling 吸收；疏水纤维仅靠毛细管与结构空隙（capillary and structure voids）。直接决定面材（顶面）与芯体选材逻辑。
+- **粘合-吸液权衡**：多数 binder 疏水，"the net effect usually is some reduction in absorbenc
+   • 1. **双属性论**：无纺布适合吸液结构的两个根本原因是单位质量储液能力高（high bulk）与原料-成品转换成本低——构成后续一切工艺-产品选择的底层约束。
+2. **四要素因果链**：纤维→排列→粘合→整理是因果链而非平行关系，采购评审必须按序分层评价供应商。
+3. **粘合-吸液权衡**：化学粘合（binder 多疏水）通常削弱吸液；机械粘合保持本征吸液但限制溶胀、增强抗压回弹——是面材/芯体粘合方式选择的核心权衡。
+4. **ADL 密度梯度机理**：上 1/3 低密度（大孔隙、快速获取）+ 下部高密度（细密毛细管、高压差），是 Ch3 毛细管压力原理在产品的直接工程化落地。
+5. **范式转移信号**：preformed airlaid pulp fabric 可直供 converting line，消除现场粉碎木浆的"大而吵且粉尘"工序——虽原料单价略高，但"简化集成后的整机运营成本可抵消"。
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+   • **降克重**：13 g/m² SMMS ≈ 15 g/m² SS 拉伸强度，阻隔/SAP 控制更优 → "以 SMMS 替换 SS"降本。
+- **粘合剂**：airlaid pulp 中 binder 13–25% wt → 占 airlaid 采购价 15–25%，是议价重点。
+- **原料替代**：PP 13→458 百万磅 → 供应端议价已成熟，需关注原油传导。
+
+--- [[Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers]]  (4 句)
+   • Chapter 10 is the largest chapter in the book and brings biopolymers into the unified polymer-chemistry framework: **carbohydrates（cellulose → regenerated cellulose → cellulose esters/ethers → starch → heteropolysaccharides）→ proteins → nucleic acids → natural rubber → renewable resources**. 对卫材的直接意义：**绒毛浆（fluff pulp）就是纤维素**，本章给出其 DP、结晶密度、氢键网络与制浆工艺的化学基础；**粘胶纤维、醋酸纤维、Lyocell 类再生纤维素纤维**是面层/导流层原料；**CMC 等纤维素衍生物**是 SAP 的辅助吸水剂。
+   • **制浆工艺 Pulping**：亚硫酸盐法（sulfite process）与硫酸盐法/牛皮纸法（kraft process）——原文指出 kraft 更环保且更常用（line 84-85）。
+   • **绒毛浆就是纤维素，本章是其材料化学基础**：绒毛浆（fluff pulp）由针叶木硫酸盐浆制得，其 DP（3,500–36,000）、α-cellulose 含量与结晶度直接决定纤维的**刚度、成网性与毛细吸液速率**；line 190 的氢键网络解释了绒毛浆「不溶于水但高度亲水」——吸液发生在纤维间毛细空隙与无定形区羟基，而非溶解。这与 GB-T 21331-2021 绒毛浆标准的指标口径可直接对照。
+- **再生纤维素纤维（Rayon/粘胶、Lyocell 类）用于面层与导流层**：Rayon 结晶度与取向度低于棉、湿态强度低（line 237），这既是其柔软亲水的来源，也是**湿态掉毛/强度衰减**的机理依据；设计导流层时必须权衡其湿强。
+- **CMC / HEC 等纤维素醚是 SAP 的辅助吸水剂**：DS 决定其水溶性与粘度行为（line 196-202）；EHEC 的假塑性非牛顿特性（line 127）在亲水整理剂流变控制上有直接参考意义。
+- **HA 是 SAP 的天然类比**：透明质酸分子量可达 10⁷ Da 的高分子量聚电解质（line 152, 331），其
+   • Seymour Polymer Chemistry Ch02 Polymer Structure and Morphology
+- Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- GB-T 21331-2021 Fluff Pulp（绒毛浆）
+- ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[交联 CMC]]  (3 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[气铺 Airlaid]]  (3 句)
+   • Airlaid（air-laid / airlaying，气铺/气流成网）is the **dry-laid web-formation route based on aerodynamic web formation**（气流成网）. The dry-laid chapter progresses from carding physics through feed/weight control to cross-lapping and perpendicular laying, and **"culminates in airlaying (aerodynamic web formation)"** whose raw-material science is **wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends**（源：Dry-laid web formation）. In the hygiene handbook it is one of the forming processes ma
+   • **Aerodynamic web formation**（气流成网）: the endpoint of the dry-laid route; input materials are wood pulp, man-made fibres, SAP and bicomponent blends（源：Dry-laid web formation）.
+- **Four-factor causal chain** for nonwoven absorbent structures: Constituent Fiber → Assembly Structure (Web Assemblage) → Type of Bonding → Finish — "Each of these factors can have an effect on the absorbency of the resulting structure"；采购评审须按序追问而非单一比价（源：Nonwovens in Absorbent Materials）.
+- **Binding–absorbency trade-off*
+   • **ADL / acquisition layer**: hydrophobic synthetics preserve wet bulk; pulp + SAP blends form the nappy acquisition layer（源：Dry-laid web formation）. The ADL density gradient — upper 1/3 low density（大孔隙、快速获取）, lower high density（细密毛细管、高压差）— is the chapter-3 capillary-pressure principle engineered into the product（源：Nonwovens in Absorbent Materials）.
+- **Composite-core build**: a typical composite-core stack is **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**（源：Complex Core Landscape in China（201
+
+--- [[湿强剂 Wet-Strength Resin]]  (3 句)
+   • UF（脲醛）湿强树脂的固化机理为 **condensation + crosslink（缩合 + 交联）**，基材为 paper / pulp，达成的湿强为基值的 **2–5 ×**（源：Handbook of Adhesive Technology Full Report）。
+- 湿强剂的**交联机理与固化动力学**由木材工业 UF 化学给出教科书级解释（源：Adhesive Handbook Part 4 Applications）。
+   • **湿巾湿强是直接应用。** UF Wet-Strength Resin 在材料速查表中被明确归为 **wet-wipe wet strength** 用途，基材 paper / pulp，湿强 2–5 ×（源：Handbook of Adhesive Technology Full Report）。
+- **甲醛合规是硬门槛。** E1 甲醛排放法规的逻辑（室内暴露、婴幼儿风险偏好）**直接映射纸尿裤 / 婴儿湿巾的 VOC 与气味合规要求**（源：Adhesive Handbook Part 4 Applications）—— 而 UF/三聚氰胺类湿强剂正是甲醛来源所在，故该合规链必须与湿强剂选型一起判定。
+- **浆粕采购的质量索赔技术依据。** CWBL/MWBL 弱边界层理论直接映射**浆粕表面蜡质覆盖与加工损伤**，是浆粕粘接性能评估与采购质量索赔的技术依据（源：Adhesive Handbook）。
+- **与热熔/乳液胶的并列关系。** 同一 Ch47 语境下，hot melt（EVA / APAO / polyamide / TPU / curing hot melt
+   • Citing sources 引用来源：Adhesive Handbook、Adhesive Handbook Part 4 Applications
+- Additional vault pages used 另有正文来源：Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：湿态强度 Wet Strength、甲醛排放 E1、生物胶黏剂 Bioadhesive、胶接理论 Adhesion Theories、热熔胶 Hot Melt Adhesive、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、吸收芯体、粘胶纤维 Viscose Fiber
+- Family pages 同族章节页：Adhesive Handbook Part 1 History and Information Resources、Adhesive Handbook Part 2 Fundamental Aspects、Adhesive Handbook Part 3 Adhesive Classes
+

@@ -1,0 +1,13 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Competitive Benchmark - 1Q 2026.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Competitive Benchmark - 1Q 2026.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Competitive Benchmark - 1Q 2026.xlsx.md",
+   "name": "Competitive Benchmark - 1Q 2026.xlsx.md",
+   "title_hint": "Competitive Benchmark - 1Q 2026.xlsx"
+  }
+ ]
+}

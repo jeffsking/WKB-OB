@@ -1,0 +1,88 @@
+# SEED: 防水透气 Waterproof Breathable
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Smart Textiles & Wearables
+#   - Smart Textiles Review
+#
+# 全库正文命中 43 页，63 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[August R&D Meeting 2026（华峰研发会议）]]  (3 句)
+   • Huafon's own August-2026 R&D meeting deck (converted slide PDF): **group profile → hygiene-product overview → spandex production process**. It is the batch-05 source that carries the **nanofibre waterproof-breathable membrane comparison table**, the **bio-based and solvent-free spandex routes**, and Huafon's **DMAC residue test record**.
+（华峰 2026 年 8 月研发会议材料（PPT 转写）：集团概况 → 卫品产品概览 → 氨纶丝生产工艺。本批中**纳米纤维防水透湿膜对照表**、**生物基与无溶剂氨纶路线**及**DMAC 残留检测记录**均出自此处。）
+   • **Electrospun PU nanofibre membrane is a different material class, not a better film** —— 4 gsm / 8 µm / 8,000 mmH₂O 与 PE 拉伸膜不在同一量纲 —— 支撑页：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+- **Two independent decarbonisation paths exist but trade off against elasticity** —— DMAC-free（无溶剂）与 bio-based（>70% 生物基）各有一个弹性缺口（热粘合窗口 / 回复率） —— 支撑页：无溶剂氨纶（Solvent-free Spandex）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- **Fine denier is the tactile-softness lever for waistbands** —— 120–320 dtex 已验证 —— 支撑页：氨纶干法纺丝（Spand
+   • Entities 实体：华峰集团（Huafon Group）、The LYCRA Company（莱卡）
+- Concepts 概念：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）、无溶剂氨纶（Solvent-free Spandex）、氨纶干法纺丝（Spandex Dry Spinning）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- Comparisons 对比：华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+- Same-block sources 同批来源：与华峰集团会晤纪要（2026-07-29）、Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）
+
+--- [[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]  (3 句)
+   • A Chinese published patent application (applicant: **湖北宏裕新型包材股份有限公司**) on an **ultra-thin PE microporous breathable film** (10–14 gsm) for baby-diapers backsheet — an upgrade over cast breathable film. Backsheet-film manufacturing patent → FTO-relevant.
+   • The invention provides an ultra-thin PE microporous breathable film co-extruded by a blown-film machine with outer/middle/inner layers: inner layer = CaCO3 masterbatch 45–60 kg + PE 25–30 kg + ethylene-octene copolymer 18–25 kg + lubricant 1–3 kg; middle layer = CaCO3 masterbatch 60–70 kg + PE 25–30 kg + lubricant 1–3 kg; outer layer = same as inner. The product shows basis weight 10–14 gsm, WVTR 1800–3200 g/24h/m², hydrostatic resistance ≥50 mmH2O, with low basis weight, high breathability and 
+   • **Low-basis-weight (10–14 gsm) PE microporous breathable film via co-extrusion** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+
+--- [[CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）]]  (3 句)
+   • A Chinese published patent application (applicant: **福建恒安集团有限公司 / Hengan**) on a **zoned breathable backsheet** with multiple independent feed ports for differentiated breathability — for adult diapers (air permeability + leak-proof). Backsheet manufacturing patent → FTO-relevant.
+   • The invention discloses a zoned breathable backsheet and its preparation / a diaper. By increasing a conventional cast film's single feed port to multiple ports, each independently controls the additive recipe, extruded through corresponding screws into corresponding flow channels, merged and secondarily drawn into an integrally formed zoned breathable film. Versus conventional backsheet, the zoned film is usable as an adult-diaper backsheet: by designing zone-specific breathability it both impr
+   • **Multi-feed-port zoned breathable backsheet (differentiated breathability + leak-proof)** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+- Assignee tracked at 恒安（Hengan）.
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (3 句)
+   • 1. **Introduction** — why natural and chemical fibres no longer meet user requirement; the passive / active / ultra-smart taxonomy; history from the late-1980s Japanese shape-memory silk thread; global smart textiles market at **25% CAGR 2021→2031, US$23.82 Bn by 2031**.
+2. **Brief History** — wearable computation traced to the 1850s (corsets, belts), first wearable computer 1955, integrated electronics from the early 1990s; three generations: wearable computing → fabric as circuit element → fib
+   • 1. **The three-tier taxonomy is the organising idea.** Passive smart textiles sense; active ones sense *and respond*; ultra-smart ones sense, react and adapt. This is a useful way to grade how ambitious any proposed hygiene-product feature is.
+2. **Seven chromic mechanisms named.** Photochromic, thermochromic, electrochromic, solvatochromic, **halochromic (pH)**, tribochromic (friction), mechanochromic (pressure). Colour reverts when the stimulus is removed because the original state is more sta
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+
+--- [[US11013641 Garment for Detecting Absorbent Article Leakage]]  (3 句)
+   • 1. **Conductive element as the transducer** — conductive materials listed: **conductive threads, conductive tape, conductive rubber, conductive wires**. Preferred: **silver-plated conductive thread at 60 ohms/meter**, exemplified by **Shieldex® 110/34 dtex 2 ply HC Premium Line**（polyamide 6.6 trilobal filament, **99% silver plating**）.
+2. **Read-out** — a controller applies **3.3 VDC** across the conductive thread and monitors the voltage at its ends. **Dry state ≈ full-scale 3.3 V; wet state v
+   • Figures: FIG.1 front plan view of garment 10 (onesie form) showing substrate 14, wetness detection system 12, mechanisms 16/20/28/32 and detection zones 18/22/30/34; FIG.1A partial cross-section showing porous material 15, waterproof backing 17, substrate inner surface 42; FIG.2 perspective of an exemplary absorbent article (diaper 100) with outer cover 102, bodyside liner 104, fastening system 106, leg flaps 108, front end edge 110 / rear end edge 112 / first side edge 114 / second side edge 11
+   • 1. **Direct route contrast: electronic vs chromic.** This patent is the *electronic* branch — silver-plated conductive thread + controller + ADC read-out. The KB's chromic branch（thermochromic / hydrochromic）answers the same "is it wet / did it leak" question **without power, electronics or an app**. Compare directly with Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3); see also Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04） for the broader se
+
+--- [[US11612524B2 Breathable Diaper Backsheet (Colormasters)]]  (3 句)
+   • Granted US patent (Colormasters, LLC) on a **breathable diaper backsheet** — a backsheet-film construction patent in the "backsheet" cluster of this IP block.
+   • The patent (title: "BREATHABLE DIAPER BACKSHEET") grants a breathable diaper backsheet. The bibliographic header lists assignee Colormasters, LLC (Albertville, AL, US), inventor Robert Estill Chambliss, and a classification set spanning A61F 13/514, A61F 13/49, A61L 15/18, A61L 15/26 and B32B (multilayer film constructions). It is a continuation of US 2021/0251819 A1 (filed Feb. 19, 2020). Detailed claim language on the breathable backsheet structure is in the full text; this summary captures th
+   • Breathable backsheet film construction — supporting page: Film-Free Backsheet（无膜背层）
+
+--- [[Airy Window（腰围透气窗）]]  (2 句)
+   • 1. **消费者痛点**：腰围区闷热与湿气积聚是皮肤刺激的前因（deck 的 Skin Light Boat 概念语境）。
+2. **结构方案**：unique waistband design with **breathable holes acting like mini windows**——腰围开孔提高空气流通（air circulation），即"窗口"不是涂层而是**结构性开孔**。
+3. **宣称口径**：Keep skin dry for up to **12 hours**，全天 breeze comfort and ventilation（deck 宣称，非本库实测）。
+4. **工程验证范围（GRD 支持，2026-06 口径）**：FEI owner Du Tingting × GRD Chadwick Choy；支持焦点 = breathable waistband · **die-cut 工艺** · speed & safety validation（高速产线上的开孔安全与速度）· breathability concept win；TRL4 目标 **2
+   • 透气路线（材料侧）：Film-Free Backsheet（无膜背层）、Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+- 热舒适语境：PCM-Free Thermoregulation、Diaper Microclimate
+- 工艺关联：Kirigami Apertured Nonwoven（切割拉伸开孔工艺）（开孔结构的面层侧亲戚）、Ultrasonic Bonding of PET-Containing Topsheet（无胶开孔加工）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[底膜 Backsheet]]  (2 句)
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • Citing sources（3）: Handbook of Nonwovens、Nonwoven fabric finishing、Surface Tension and Surface Energy
+- 路线与对照: Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）
+- 结构 / 机理: SMS复合结构、Meltblown Nonwoven（熔喷非织造布）、纺粘 Spunbond、Formation-Limited Barrier（阻隔的成形受限机理）、层压 Lamination、Cassie-Baxter Equation、Contact Angle、Young's Equation
+- 专利与实体: CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524
+
+--- [[形状记忆聚合物 Shape Memory Polymer]]  (2 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。
+- 功能口径（有来源支撑，属**刺激响应聚合物**的一支）：SMP 是**在转变温度（Tg / Tm）附近改变弹性与隔热行为的聚合物** —— "shape-memory polymers (e.g. Diaplex) changing elasticity/insulation near Tg"（源：Smart Textiles and Sportswear）。
+- 在智能纺织品功能版图中，shape-memory 与 chromic（变色）、thermoregulation、waterproof-breathable、wearable electronics、PCM 并列为六条功能主线之一（源：Smart Textiles Review）。
+- 在卫材胶黏语境下被归为**温度响应路径**："聚氨酯 / 聚己内酯形状记忆聚合物，**Tg/Tm 附近模量突变 → 粘接力切换**"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- 历史锚点：shape-memory **silk thr
+   • **转变点附近的模量突变。** SMP 的开关来自 Tg / Tm 附近的力学—（乃至光学/阻隔）性质突变：Diaplex 靠**粒子在约 25 °C 转变点上下的重分布**工作，并据此宣称**无孔隙的防水透气防冷凝**（源：Intelligent Textiles and Sports Clothing）。在胶黏语境中，这一突变被表述为"Tg/Tm 附近模量突变 → 粘接力切换"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- **被动 → 主动 → 超智能的三级框架。** 智能纺织品按"被动（感知）/ 主动（感知 + 响应）/ 超智能（感知 + 响应 + 适应）"分类，SMP 属**能改变形状/性能的响应材料**；核心组件为传感器、致动器、控制单元（源：Smart Textiles Review、Smart Textiles and Sportswear）。
+- **SMP 作为动态粘接路径。** 传统热熔胶"施胶 → 冷却 → **固定**粘接力（被动、不可逆）"；智能响应胶"施胶 → 固化 → **感知刺激** → **动态调整**
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (2 句)
+   • **框架**：**MENSTRUAL / BLADDER LEAKAGE / INTIMATE HEALTH & WELLNESS**，沿 **Puberty → Period → Sexual experience → Baby → Menopause** 的人生阶段展开；品牌对应 **Kotex（经期）／Poise（膀胱渗漏）／Depend（…）／Intimus（私处健康）**。
+- **三大全球关键词**：**RESPONSIVE**（2D & 3D contour、flexible、breathable、soft、gentle、body-conforming fit；Advanced Freshness = odor-elimination、cooling/thermo-regulation、clean & dry feel、moisture-wicking）／**NO FEEL**（seamless、weightless、moves with the body、thermo-balancing、skin-soothing）／**INTIMATE WELLNESS**（rest
+   • 头部宣称**围绕"全方位防护"**，且**跨市场、跨品牌高度一致**：
+  - *Zero Leaks, Zero Odor, Zero Wetness*（NA、Brazil）
+  - *100% Fresh Protection. Zero Leaks, Zero Odor, Zero Wetness*（**NA 的 Lighthouse Claim**）
+  - *100% Breathable. Keeps Skin Dry And Fresh*（Russia）
+- **皮肤清新与透气类宣称在所有市场都能引起共鸣**，仅措辞有微调：
+  - *Breathable Materials Keep You Feeling Cool And Dry, Never Sweaty*（Brazil、NA 的 Sandberg 2023）
+  - *Thin And Breathable, Away From Wetness And Stuffiness*（China）
+

@@ -1,0 +1,86 @@
+# SEED: Antimony-Free PET Fibre（无锑 PET 纤维）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 231 页，513 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (10 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Section order（尺寸/形态类量）**：fineness 11.2, crimp 11.3, tensile properties 11.4, evenness 11.5, friction 11.6, shrinkage 11.7, entanglement 11.8（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+
+--- [[粘胶纤维 Viscose Fiber]]  (8 句)
+   • **Rayon is a regenerated cellulose fibre** — *"rayon, which is one of the oldest manufactured fibres, is a regenerated cellulose fibre"*, with *"a wide spectrum of properties"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Its raw material is cellulose, *"abundantly available and a renewable source"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。The **viscose** route specifically *"resulted from research in the UK by Cross, Bevan and Beadle during the 1880s"*（源：Manufactured Fibre Techn
+   • **Viscose process.** Chemistry is described by four mechanisms — **coagulation / neutralisation / desolvation / dexanthation（凝固/中和/脱溶/脱黄化）**; the manufacturing sequence is **steeping → shredding → ageing → xanthation → dissolution → filtration → mixing → ripening → spinning（浸渍→粉碎→老化→黄化→溶解→过滤→混合→熟成→纺丝）**（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Zinc is structural.** *"over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Zinc regulates structure → **skin-core structure** → high strength; wet modulus can be raised stepwise (modifiers, low-temperature low-acid bath, formaldehyde) along the ladder **ordinary viscose → tyre yarn → HWM → polynosic → Ten-X**（源：Manufactured Fibre T
+   • **Variants.** Named families: high-bulk/high-crimp and inflated fibres; **high-absorbency fibres (alloy rayon, 51 Fibre)**; **flame-retardant Tufban**; and **carbon-containing fibres** (conductive / adsorptive)（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+
+--- [[莱赛尔 Lyocell]]  (7 句)
+   • **Lyocell / Tencel is a regenerated cellulose fibre spun from a direct solvent, NMMO (N-methylmorpholine-N-oxide)** — a route that **omits xanthation and ripening**, such that *viscose's* fibre strength and wet modulus are exceeded, while it **retains a propensity for fibrillation**, verbatim *"propensity for some degree of fibrillation"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Property comparisons are tabulated there as Table 17.12 (Camilon) and Table 17.14 (Tencel)（源：Manufactured Fi
+   • **Solvent route.** Lyocell sits under **direct solvent spinning (MMNO/NMMO)**, which needs no derivatisation — unlike the viscose process — and that is why its strength and wet modulus exceed viscose's; the same property set brings the fibrillation liability（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Fibrillation mechanism and its two fixes.** The cause is intrinsic: the fibre has **no skin layer** and high crystallinity/orientation, so **water plus friction peels the surface open into fine fibrils**; it is most visible **wet** — invisible dry — so validation must be a **post-wash fabric comparison**（源：原纤化）。Two routes exist: (a) **intrinsic** cross-linking to lock the structure (Lenzing **A100** is the cross-linked type); (b) **process-side management** — tension/friction control in spinni
+   • **Hydroentanglement behaviour.** Viscose/Lyocell have **low wet modulus and entangle cheaply**, whereas PP/PET need hydrophilic finishes; and **high jet impact force unlocks the Lyocell-fibrillation microfibre route**（源：Mechanical bonding）。
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (7 句)
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • **Crimp frequency 卷曲频率** (p.250): "the number of crimps or waves per unit length of extended or straightened fibre".
+- Methods: wave-counting per **ASTM D3937-90**, the percentage-crimp method, and automatic instruments such as the Lenzing **Vibrotex**.
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+   • **Static friction is always greater than kinetic friction** (p.263). Staple friction governs yarn properties; filament friction governs torque transmission and filament migration in false-twist and air-jet texturing.
+- Methods: block-on-fibre-mat, yarn-to-metal and yarn-to-yarn tension methods based on **Amonton's law** (p.264): **T2/T1 = e^(μθ)**, obtaining the friction coefficient from the tension ratio around a friction pin. Instruments cited: Rothschild F-Meter, Zweigle.
+
+--- [[Manufactured Fibre Technology Ch15 Acrylic Fibres]]  (7 句)
+   • **Acrylic fibre 腈纶**：[p.406] "a fibre containing at least 85% acrylonitrile monomer"（含丙烯腈单体 ≥85% 的纤维）。
+- **Modacrylic 改性腈纶**：[p.406] "the percentage of acrylonitrile must be less than 85% but greater than 35%"（丙烯腈含量 35–85%）。
+   • **核心机理 — 染座来源（dye-site origin）**：氧化还原引发剂碎片留在链端形成可染基团。[p.412–414] "These reactions (IV-VI) would give rise to polyacrylonitrile chains with sulphonate, sulphate and hydroxyl end groups, respectively." 因此 [p.416] "the dye site content of the fibre is therefore inversely related to the Mn of the polymer and is very sensitive to the fraction of low molecular weight polymer." Ito 等测得每条链强酸端基数 ≈1 [p.417]；Ebdon 等以 FTIR / ¹³C NMR 证实磺酸/硫酸酯端基 [p.414]。
+   • **Protofibre 原纤**：凝固后未拉伸的凝胶纤维，其结构决定最终强度与耐磨性 [p.432]。
+   • **Tow 丝束**：[p.998] "the filaments from several spinnerets are often combined to form a single fibre tow."
+- 后处理序列：拉伸（drawing）→ 干燥（drying）→ 卷曲（crimping）→ 热定形（heat-setting）→ 蓬松化（bulking）。卷曲与热定形是赋予腈纶羊毛般蓬松手感的关键步骤。
+- 15.7 节给出力学性能；具体数值在本摘录中未展开 [待验证]。
+
+--- [[双组分纤维 Bicomponent]]  (6 句)
+   • A **bicomponent（双组分/复合）fibre** is a fibre formed by **conjugate spinning** of two polymers into one filament, classified by cross-section into **side-by-side (S/S, 并列)**, **sheath-core (S/C, 皮芯)** and **matrix-fibril (M/F, 基质-原纤)** architectures（源：Bicomponent Fibre Technology Development Trends）. Sheath-core variants are **concentric 同心型**（core centred）and **eccentric 偏心型**（core off-centre, enabling self-crimping）. The hygiene workhorse is the **low-melting bonding fibre**: the source states ver
+   • **Thermal-bonding mechanism（热粘合机理）：** during **air-through or calender bonding** the low-melting **sheath melts to form bond points** while the high-melting **core retains fibre integrity** — the structural basis of through-air bonding for sheath-core bicomponents（源：Bicomponent Fibre Technology Development Trends）. The bond is **intrinsic to the fibre polymer, not an added adhesive**; the target is **surface sintering**, and **over-bonding embrittles the web and causes point-bond "popping"**（源：T
+   • **Conjugated variants:** **island-in-sea（海岛型）** and **radial/split-pie（径向瓣/桔瓣型）** configurations are made spinnable and separable by bicomponent design, and are the direct ancestors of **splittable nonwovens** and high-coverage coverstock/wipe webs（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+   • Bicomponent fibres are the bonding and functional backbone of the hygiene stack: **carded / air-through webs**（热风无纺布）, **topsheet**（Topsheet（面层））, **ADL**（ADL（导流层））and spunbond/meltblown layers（纺粘 Spunbond、Meltblown Nonwoven（熔喷非织造布））all depend on low-melting sheath fibres — the industrial form of which is **ES fibre（PE/PP 皮芯）**（ES Fibre Hydrophilic Function and Applications、皮芯复合纤维）. In the drylaid branch, bicomponent blends are named alongside fluff pulp and SAP as the raw-material science that 
+
+--- [[Intelligent Textiles and Sports Clothing]]  (6 句)
+   • **First generation**: synthesised fibres (polyamide) — historic cost multiple over cotton and wool, offset by tunable performance.
+- **Second generation**: modified conventional synthetic fibres with greatly increased performance — aramid, carbon, glass, ceramic. Tradenames named: Nomex, Kevlar, Twaron, Technora (aromatic polyamides); Spectra and Dyneema (high-performance polyamides/polyethylene); Vectran (aromatic polyester); Teflon (PTFE), Dacron and Mylar (polyester).
+- **Third generation**: 
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+
+--- [[Manufactured Fibre Technology Ch01 Introduction]]  (6 句)
+   • 本章为全书导论（introduction 导论）：从纤维的定义与分类出发，勾勒人造纤维（manufactured fibres 人造纤维）的技术全景——"是什么 → 从何来 → 怎么做 → 用在哪 → 书怎么写"。全章含七个子节：定义与分类（1.1）、人造纤维演进（1.2）、成纤工艺（1.3）、纤维产品与性能（1.4）、生产趋势（1.5）、应用领域（1.6）、本书范围（1.7）。
+   • 判别标准在**几何形态与基本使用性能**，而非化学来源（p.1）：>"A textile fibre is a long thin object with a high ratio of length to thickness. It is characterized by a high degree of fineness and outstanding flexibility. In addition, it should have dimensional and thermal stability and minimum levels of strength and extensibility consistent with the end use."
+- 天然纤维多为短纤维（staple fibres 短纤维），长度约 10–500 mm；蚕丝为长丝（filament 长丝）。人造纤维先制成连续长丝，需要时再切断成短纤（p.1）。
+- 人造纤维分三子类：**改性天然聚合物**（modified natural polymers，如再生纤维素）、**全合成**（wholly sy
+   • >"It is noteworthy that compared with the natural fibres, the manufactured fibres have a wider property spectrum. This is an important and useful feature of these fibres." (p.6) —— 以 Table 1.2 的密度、回潮（moisture regain）、强度数据支撑，说明性能可通过分子设计定制。
+- >"In 1995, 23.19 million tonnes of manufactured fibres were produced, accounting for almost 53% of the total (natural and manufactured) world fibre production of 43.651 million tonnes; nearly 87% of the total manufactured fibre production was from synthetic p
+   • ✅ 亮点（strength 强项）：历史叙事与机理结合紧密，并以数据收束；例如 p.2 交代"纤维素硝酸酯因溶于醇-醚混合溶剂而可纺"的化学缘由，使工艺演进有因果而非罗列。
+- ⚠️ 不足（limitation 局限）：**Table 1.3（世界产量统计，p.7）出现严重 OCR 乱码**（字符逆序、数字错位），原始数据无法可靠辨识；本章产量结论主要依赖 p.8 正文叙述而非该表 —— 该表数据需回查原书 [待验证]。
+- ⚠️ "高性能纤维（high-performance fibres）"与"高温纤维（high-temperature fibres）"的包含关系在 p.5 表述循环，分类边界不够严密。
+- 文献依据：Carothers (1929)、Yang (1989, *Aromatic High Strength Fibres*, p.15)。
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (6 句)
+   • This is the book's **methods toolbox 方法工具箱**. Characterization is organized into three levels: **molecular level 分子级** (molecular weight and its distribution), **thermal properties 热性能** (glass transition, melting, crystallization, decomposition) and **physical structure and morphology 物理结构与形态** (crystallinity, crystallite size, orientation). Each level is presented with principles, working equations and instruments, so later fibre-specific chapters can quote crystallinity, orientation function,
+   • Opening claim (p.203): "However, fibre characterization has received relatively less attention than polymer characterization [1-3]." 纤维表征相对聚合物表征受关注不足。
+   • The starting axiom (p.219): "polymers and fibres have a two phase structure comprising an ordered (also called crystalline) and a disordered (also called amorphous) phase." The five widely used techniques: "(1) density measurement, (2) optical birefringence, (3) X-ray diffraction, (4) small angle X-ray scattering and (5) infrared spectroscopy."
+   • **Amorphous orientation by IR + X-ray** (p.238): "One of the most important and useful applications of IR spectroscopy to the study of fibres is the possibility of using the IR data in combination with X-ray data to estimate amorphous orientation." The logic: **trans** conformers occur in both phases, **gauche** only in the amorphous phase (p.238). Worked examples use PET trans/gauche quantification and nylon/PET end-group titration.
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (6 句)
+   • **Speciality yarns 特种纱线** are obtained either from chemically modified polymers by melt spinning, or by physical modification and dedicated equipment (p.360). The family covered is deep-dyeable and cationic-dyeable, **antistatic 抗静电**, **flame-retardant 阻燃**, **hollow 中空**, **microporous 微孔**, **shaped cross-section 异形截面** and **microfibre 超细纤维**. The chapter is explicit that successful commercialization of a new variety depends on **technical capability and favourable market conditions alike** 
+   • Statement of the problem (p.374): "synthetic fibres are poor conductors… create problems related to electrostatic charge". Three routes (p.374): "Chemical modification… Physical blending… Electrical conducting materials such as carbon, metal or metal oxide powders are added". Chemical bonding gives the best wash durability, physical blending the worst, and conductive particles need **conjugated bicomponent filament spinning** to retain strength (p.377). For PET the cited routes are block poly(et
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+   • **This is the most directly applicable chapter in the whole batch for the owner's scope** — specifically sections 14.6 (conjugated microfibre) and 14.7 (shaped cross-sections), which are the industrial origin of today's topsheet and fine-denier nonwoven fibre design.
+

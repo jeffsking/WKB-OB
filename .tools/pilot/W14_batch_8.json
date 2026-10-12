@@ -1,0 +1,65 @@
+{
+ "batch_id": "W14-8",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_5edd51fa2cdd3b41de44f93eb990260e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/SAP Research Advances/SAP Research Advances_index.csv.md",
+   "name": "SAP Research Advances_index.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_3fad4b1668a92dec2ed808dacc88deb7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Physics_Liquid_Crystals_DeepBook/Physics_of_Liquid_Crystals_精简摘要.md.md",
+   "name": "Physics_of_Liquid_Crystals_精简摘要.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_ff0aac4e9a0bc9fdb2d3f69f0648456b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch03_FRP_Homogeneous.md.md",
+   "name": "Polymer Reaction Engineering_ch03_FRP_Homogeneous.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e0029d9972013e835e684be385730c0c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch1_report.md.md",
+   "name": "ch1_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_5b8a13b2cff5bf43ffed0774aa0f3623001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/SAP Research Advances/SAP Research Advances_README.md.md",
+   "name": "SAP Research Advances_README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_8de2bc193c3152e03268ae2cdc4ed5e8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch02.md.md",
+   "name": "Seymour Polymer Chemistry_ch02.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_a1ffc5f75ece9658ff33b772a56a9e1a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch11.md.md",
+   "name": "Seymour Polymer Chemistry_ch11.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_99b71bf1b28f5c338f1df55ebcc98b7c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/SmartPolymers_全局合成报告.md.md",
+   "name": "SmartPolymers_全局合成报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b1e407edab1d5757a2c30292e4514ddd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch4_深度拆解.md.md",
+   "name": "SmartPolymers_Ch4_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_ad1d290fc06626a02edb4f56ab098fc2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/可穿戴电子_NSR社论_拆解.md.md",
+   "name": "可穿戴电子_NSR社论_拆解.md.md",
+   "type": "markdown"
+  }
+ ]
+}

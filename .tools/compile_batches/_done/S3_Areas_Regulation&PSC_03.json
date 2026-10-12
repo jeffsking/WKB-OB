@@ -1,0 +1,45 @@
+{
+  "batch": "S3_Areas_Regulation&PSC_03",
+  "stage": "S3",
+  "block": "Areas/Regulation&PSC",
+  "source_pages": [
+    "GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）",
+    "GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）",
+    "Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）",
+    "JRCA RCES SER01 Standards Development Expert Qualification（规格开发专家资格基准 · 文件名误标 JIS L 1902）",
+    "GB-T 43585-2023 Disposable Tampons（一次性卫生棉条）",
+    "GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）",
+    "GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂 · 平行备份）",
+    "GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）",
+    "GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本1）",
+    "GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求）"
+  ],
+  "concept_pages": [
+    "GB 15979-2024（一次性使用卫生用品卫生要求）",
+    "中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）",
+    "化妆品微生物限值（细菌总数·致病菌）",
+    "Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）",
+    "环氧乙烷残留（EO Residue）",
+    "抗（抑）菌性能评价（杀菌率·抑菌率）",
+    "锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧",
+    "消毒产品标签宣称红线（中国 GB 38598-2020）"
+  ],
+  "entity_pages": [
+    "China National Pulp and Paper Research Institute（中国制浆造纸研究院）"
+  ],
+  "comparison_pages": [
+    "GB 15979-2024 与 GB 15979-2002 主要技术变化对比",
+    "湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）",
+    "锑测试方法：ICP-MS vs ICP-OES（检出限·成本·适用性）"
+  ],
+  "updated_existing": [
+    "Phenoxyethanol（苯氧乙醇）— 追加「Evidence Update 证据追加（2026-09-29 · 中国早期标准口径）」，仅补 GB 7916-1987 表4 #37 苯氧乙醇 1.0% 证据，并明示与 EU SCCS/1575/16 的 1.0% 属不同来源、不得合并为一条",
+    "Antimony-Free PET Fibre（无锑 PET 纤维）— 追加「追加：Regulation&PSC 批」测试三口径表与 ≤10 / ≤1 ppm 目标，未改动原有成本结论",
+    "GB-T 28004.1-2021（纸尿裤国标）— 追加「Evidence Update（2026-09-29 · 2021 版合格限值补齐）」，回填原 [待验证] 的吸收速度/回渗/渗漏等限值"
+  ],
+  "manual_review": [
+    "JRCA RCES SER01（文件名误标 JIS L 1902）：文件名与正文不符，正文无 JIS L 1902 抗菌内容，JIS 参数留 [待验证]，需人工确认 RAW 抽取是否错位",
+    "无锑合规策略会录音纪要：涉及供应商承诺与 +500 元/吨 加价口径，属商务敏感，按 §5 标 manual_review，未作为结论写入"
+  ],
+  "notes": "10 个 item 全部新建 source 页。GB/T 22875-2018 与 GB/T 28004.1-2021 各有一份平行/重复 RAW 副本，按「不同 media_id 分别建页 + 互链 + 注明不可当作多份不同标准」处理。标准号/地区/限值均已标清：GB 15979-2024（2024-06-25 发布 / 2025-07-01 实施，过渡期已记 2026-09-29 记录）、GB 7916-1987（生效中，[待验证] 是否被后续规范替代）、GB/T 22875-2018（2018-06-07 发布 / 2019-01-01 实施，第1号修改单 2020-07-21）、GB 38598-2020（强制性，第1号修改单 2025-05-01 实施）、GB/T 43585-2023、GB/T 28004.1-2021。GB/T 22875-2018 表1 吸收速度/CRC/AAP 列错位、GB/T 43585-2023 吸收量与重金属限值缺失均标 [待验证]，未推测补齐。录音纪要 credibility 低，ASR 中「T」=锑 Sb、「5G/五T」=无锑已解码说明。未改动 index.md / log.md；未移动/重命名/删除任何文件。"
+}

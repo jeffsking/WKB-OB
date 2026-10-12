@@ -1,0 +1,12 @@
+{
+  "batch": "S7_Areas_(直属文件)_01",
+  "stage": "S7",
+  "block": "Areas/(直属文件)",
+  "source_pages": 7,
+  "concept_pages": 2,
+  "entity_pages": 0,
+  "comparison_pages": 0,
+  "updated_existing": 12,
+  "manual_review": 1,
+  "notes": "Compiled all 7 items in order. Two new concept pages were created where no prior page existed and at least two sources support the topic: Super Absorbent Fibre (SAF) — fibre-form absorbent material, process windows and hygiene role; Chitosan Fibre — antibacterial/skin-friendly bio-based fibre (seed status, cross-supported only by the BC:chitosan 10:90 microgel formula from the visit plan). The supplier visit plan V3.1 was filed with a manual_review block: named supplier roster, visit priority and routing, company registry details, price benchmarks, negotiation anchors, MOQ/exclusivity and equity/IP terms were not page-ised; only process and performance parameters were extracted and appended to existing nanocellulose, BNC, SAP, meltblown, biodegradable-materials and smart-diaper pages. The two diaper-structure reviews heavily overlap; the second was kept for its incremental ADL vs REL split and design windows (denier layering, 15-50 gsm meltblown turning layer, 3-20 funnel holes/cm2, 35-65% open area, 12-22 um fibre diameter, 0.8-1.2 mm at 0.5 kPa). Brand performance figures (98% leak protection, 99% bacterial barrier, 89% redness reduction, 50-wash antibacterial retention) are tagged as vendor claims without cited protocols. index.md and log.md were not modified."
+}

@@ -1,0 +1,76 @@
+{
+ "stage": "S1",
+ "block": "Projects/BNC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Tech_Sharing_PPT_EN_20260911.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Tech_Sharing_PPT_EN_20260911.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Tech_Sharing_PPT_EN_20260911.pptx.md",
+   "name": "BNC_Tech_Sharing_PPT_EN_20260911.pptx.md",
+   "title_hint": "BNC_Tech_Sharing_PPT_EN_20260911.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/海南拜科瑞.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/海南拜科瑞.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/海南拜科瑞.pdf.md",
+   "name": "海南拜科瑞.pdf.md",
+   "title_hint": "海南拜科瑞.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Hygiene_Feasibility_Slides_EN.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Hygiene_Feasibility_Slides_EN.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Hygiene_Feasibility_Slides_EN.md.md",
+   "name": "BNC_Hygiene_Feasibility_Slides_EN.md.md",
+   "title_hint": "BNC_Hygiene_Feasibility_Slides_EN.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNCforHygieneProduct.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNCforHygieneProduct.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNCforHygieneProduct.pdf.md",
+   "name": "BNCforHygieneProduct.pdf.md",
+   "title_hint": "BNCforHygieneProduct.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT讲稿版_20260908.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT讲稿版_20260908.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT讲稿版_20260908.pptx.md",
+   "name": "BNC技术分享_PPT讲稿版_20260908.pptx.md",
+   "title_hint": "BNC技术分享_PPT讲稿版_20260908.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/02_PEG多元醇_纤维素吸水体系_交叉索引.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/02_PEG多元醇_纤维素吸水体系_交叉索引.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/02_PEG多元醇_纤维素吸水体系_交叉索引.md.md",
+   "name": "02_PEG多元醇_纤维素吸水体系_交叉索引.md.md",
+   "title_hint": "02_PEG多元醇_纤维素吸水体系_交叉索引.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT大纲_20260908.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT大纲_20260908.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT大纲_20260908.md.md",
+   "name": "BNC技术分享_PPT大纲_20260908.md.md",
+   "title_hint": "BNC技术分享_PPT大纲_20260908.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BCC RD Vendor Visit Intelligence- Baikerui(拜科瑞).pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BCC RD Vendor Visit Intelligence- Baikerui(拜科瑞).pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BCC RD Vendor Visit Intelligence- Baikerui(拜科瑞).pptx.md",
+   "name": "BCC RD Vendor Visit Intelligence- Baikerui(拜科瑞).pptx.md",
+   "title_hint": "BCC RD Vendor Visit Intelligence- Baikerui(拜科瑞).pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/01_脱水干燥工艺族谱_一页纸.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/01_脱水干燥工艺族谱_一页纸.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/01_脱水干燥工艺族谱_一页纸.md.md",
+   "name": "01_脱水干燥工艺族谱_一页纸.md.md",
+   "title_hint": "01_脱水干燥工艺族谱_一页纸.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/BaiKerui BNC.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BaiKerui BNC.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BaiKerui BNC.pptx.md",
+   "name": "BaiKerui BNC.pptx.md",
+   "title_hint": "BaiKerui BNC.pptx"
+  }
+ ]
+}

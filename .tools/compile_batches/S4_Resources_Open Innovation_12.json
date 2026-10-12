@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R160739_TL-15582_Updated Approaches for Defining DEPEND and POISE Single Insult and Total Product Loading Targets.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R160739_TL-15582_Updated Approaches for Defining DEPEND and POISE Single Insult and Total Product Loading Targets.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R160739_TL-15582_Updated Approaches for Defining DEPEND and POISE Single Insult and Total Product Loading Targets.pdf.md",
+   "name": "R160739_TL-15582_Updated Approaches for Defining DEPEND and POISE Single Insult and Total Product Loading Targets.pdf.md",
+   "title_hint": "R160739_TL-15582_Updated Approaches for Defining DEPEND and POISE Single Insult and Total Product Loading Targets.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline.pptx.md",
+   "name": "Intake Systems Tech Pipeline.pptx.md",
+   "title_hint": "Intake Systems Tech Pipeline.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/REL_Simulation_Baby_Diaper_Core.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/REL_Simulation_Baby_Diaper_Core.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/REL_Simulation_Baby_Diaper_Core.pptx.md",
+   "name": "REL_Simulation_Baby_Diaper_Core.pptx.md",
+   "title_hint": "REL_Simulation_Baby_Diaper_Core.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md",
+   "name": "纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md",
+   "title_hint": "纸尿裤 2D 吸收模型 v10 优化结果报告.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.26 - Raegan Informal.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.26 - Raegan Informal.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.26 - Raegan Informal.pptx.md",
+   "name": "2025.03.26 - Raegan Informal.pptx.md",
+   "title_hint": "2025.03.26 - Raegan Informal.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/Diaper_Core_simulation.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/Diaper_Core_simulation.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/Diaper_Core_simulation.pptx.md",
+   "name": "Diaper_Core_simulation.pptx.md",
+   "title_hint": "Diaper_Core_simulation.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md",
+   "name": "Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md",
+   "title_hint": "Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Patterned SAP core 6.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Patterned SAP core 6.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Patterned SAP core 6.pptx.md",
+   "name": "Patterned SAP core 6.pptx.md",
+   "title_hint": "Patterned SAP core 6.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.26 - ACoP Rewet and the Consumer Experience.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.26 - ACoP Rewet and the Consumer Experience.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.26 - ACoP Rewet and the Consumer Experience.pptx.md",
+   "name": "2026.02.26 - ACoP Rewet and the Consumer Experience.pptx.md",
+   "title_hint": "2026.02.26 - ACoP Rewet and the Consumer Experience.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/华峰化学拜访议题清单_超细旦皮筋与去DMAC工艺.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/华峰化学拜访议题清单_超细旦皮筋与去DMAC工艺.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/华峰化学拜访议题清单_超细旦皮筋与去DMAC工艺.docx.md",
+   "name": "华峰化学拜访议题清单_超细旦皮筋与去DMAC工艺.docx.md",
+   "title_hint": "华峰化学拜访议题清单_超细旦皮筋与去DMAC工艺.docx"
+  }
+ ]
+}

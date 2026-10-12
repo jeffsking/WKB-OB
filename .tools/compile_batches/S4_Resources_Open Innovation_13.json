@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2026.01.21 - Raegan Informal.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2026.01.21 - Raegan Informal.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2026.01.21 - Raegan Informal.pptx.md",
+   "name": "2026.01.21 - Raegan Informal.pptx.md",
+   "title_hint": "2026.01.21 - Raegan Informal.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx.md",
+   "name": "2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx.md",
+   "title_hint": "2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf.md",
+   "name": "Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf.md",
+   "title_hint": "Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v10_优化_Claude_Code_Gemini_CLI_执行方案建议.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v10_优化_Claude_Code_Gemini_CLI_执行方案建议.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v10_优化_Claude_Code_Gemini_CLI_执行方案建议.pdf.md",
+   "name": "v10_优化_Claude_Code_Gemini_CLI_执行方案建议.pdf.md",
+   "title_hint": "v10_优化_Claude_Code_Gemini_CLI_执行方案建议.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.07.29 - ATH SAM Relocation.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.07.29 - ATH SAM Relocation.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.07.29 - ATH SAM Relocation.pptx.md",
+   "name": "2025.07.29 - ATH SAM Relocation.pptx.md",
+   "title_hint": "2025.07.29 - ATH SAM Relocation.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v10_optimization_report.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v10_optimization_report.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v10_optimization_report.md.md",
+   "name": "v10_optimization_report.md.md",
+   "title_hint": "v10_optimization_report.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/温变湿变微胶囊技术参数对比表.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/温变湿变微胶囊技术参数对比表.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/温变湿变微胶囊技术参数对比表.xlsx.md",
+   "name": "温变湿变微胶囊技术参数对比表.xlsx.md",
+   "title_hint": "温变湿变微胶囊技术参数对比表.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.12.02 - Raegan Informal.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.12.02 - Raegan Informal.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.12.02 - Raegan Informal.pptx.md",
+   "name": "2025.12.02 - Raegan Informal.pptx.md",
+   "title_hint": "2025.12.02 - Raegan Informal.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/02_生物基SAP_SAF技术研究报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/02_生物基SAP_SAF技术研究报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/02_生物基SAP_SAF技术研究报告.md.md",
+   "name": "02_生物基SAP_SAF技术研究报告.md.md",
+   "title_hint": "02_生物基SAP_SAF技术研究报告.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/2022 Intake Strategy Charter - 8-4-22.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/2022 Intake Strategy Charter - 8-4-22.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/2022 Intake Strategy Charter - 8-4-22.xlsx.md",
+   "name": "2022 Intake Strategy Charter - 8-4-22.xlsx.md",
+   "title_hint": "2022 Intake Strategy Charter - 8-4-22.xlsx"
+  }
+ ]
+}

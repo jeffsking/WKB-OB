@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx.md",
+   "name": "NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx.md",
+   "title_hint": "NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf.md",
+   "name": "R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf.md",
+   "title_hint": "R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/2026-05-05 - QUINN.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/2026-05-05 - QUINN.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/2026-05-05 - QUINN.pptx.md",
+   "name": "2026-05-05 - QUINN.pptx.md",
+   "title_hint": "2026-05-05 - QUINN.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.13 - GML update.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.13 - GML update.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.13 - GML update.pptx.md",
+   "name": "2025.03.13 - GML update.pptx.md",
+   "title_hint": "2025.03.13 - GML update.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CMC-Na CA CNF SAP original article.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CMC-Na CA CNF SAP original article.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CMC-Na CA CNF SAP original article.pdf.md",
+   "name": "CMC-Na CA CNF SAP original article.pdf.md",
+   "title_hint": "CMC-Na CA CNF SAP original article.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf.md",
+   "name": "R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf.md",
+   "title_hint": "R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md",
+   "name": "KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md",
+   "title_hint": "KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.xlsx.md",
+   "name": "Relevant Product Measurements.xlsx.md",
+   "title_hint": "Relevant Product Measurements.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC与FBI团队创新合作计划.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC与FBI团队创新合作计划.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC与FBI团队创新合作计划.md",
+   "name": "IPC与FBI团队创新合作计划.md",
+   "title_hint": "IPC与FBI团队创新合作计划"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/未来3-5年纸尿裤商业化技术集与开发方向.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/未来3-5年纸尿裤商业化技术集与开发方向.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/未来3-5年纸尿裤商业化技术集与开发方向.md",
+   "name": "未来3-5年纸尿裤商业化技术集与开发方向.md",
+   "title_hint": "未来3-5年纸尿裤商业化技术集与开发方向"
+  }
+ ]
+}

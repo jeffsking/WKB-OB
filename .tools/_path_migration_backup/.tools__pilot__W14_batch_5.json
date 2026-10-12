@@ -1,0 +1,65 @@
+{
+ "batch_id": "W14-5",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_9739bea9ece47e2c29cc90068523d458001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity/Origin of Rubber Elasticity_README.md.md",
+   "name": "Origin of Rubber Elasticity_README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_b415f6669a51f91d0315247f05559914001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/Seymour Polymer Chemistry_batch3_index.csv.md",
+   "name": "Seymour Polymer Chemistry_batch3_index.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7dc858a1048599c36dde08784b178be1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/Polymer Reaction Engineering_synthesis.md.md",
+   "name": "Polymer Reaction Engineering_synthesis.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d5ec5ba34d8a8678ad901c57352f1152001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering_深度拆书报告_academic_20260813.md.md",
+   "name": "Polymer Reaction Engineering_深度拆书报告_academic_20260813.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b6038b19eba0ac321c731ab5dff8a134001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch7_report.md.md",
+   "name": "ch7_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e57706540f3c243fa12475ece02e3eef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/Seymour Polymer Chemistry_batch3_concepts.md.md",
+   "name": "Seymour Polymer Chemistry_batch3_concepts.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_99da926891d06b815c289daba0755f83001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch08.md.md",
+   "name": "Seymour Polymer Chemistry_ch08.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_27eee76c178f9386c89c9127fb5780a0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch17.md.md",
+   "name": "Seymour Polymer Chemistry_ch17.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_448e3eaa75b5e4a2826fccb49ebfa861001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch1_深度拆解.md.md",
+   "name": "SmartPolymers_Ch1_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_2f65814f4b17917ebbb8d2eafa45295c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/刺激响应聚合物材料综述_NatureMater_拆解.md.md",
+   "name": "刺激响应聚合物材料综述_NatureMater_拆解.md.md",
+   "type": "markdown"
+  }
+ ]
+}

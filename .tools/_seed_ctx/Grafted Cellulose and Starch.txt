@@ -1,0 +1,101 @@
+# SEED: Grafted Cellulose and Starch
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 113 页，209 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联密度 Crosslink Density]]  (6 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+   • **Negotiate against load.** Cross-link density buys strength and insolubility **at the price of capacity**; because a real absorbent core is compressed, the optimum shifts **higher** than free-swell testing implies（源：Cross-linked Cellulose and Its Derivatives）。
+   • **It is the枢纽 of the SAP formulation playbook.** The REL project's core material SAP is treated with **cross-link density as the pivotal parameter** connecting monomer system, initiation/cross-linking route, absorption kinetics (diffusion + swelling coupling) and green/structured 2024 strategies（源：Acrylic-Based Superabsorbent Polymers）。
+- **Simulation interface.** Cross-link density feeds directly into the **Flory-Rehner swelling model** as a parameter interface（源：Acrylic-Based Superabsorbent Po
+
+--- [[交联 CMC]]  (5 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • **No operational synthesis spec for "交联 CMC" as a standalone concept** was found beyond Ch.7's cross-linked-cellulose account .
+- No KC-specific cross-linked CMC grade, datasheet or in-core test data present in the read sources .
+- Whether the vault's "modified cellulose (CMC)" (16–21% retention) and the Ch.7 "cross-linked CMC" are the same material is **not stated** — treat as adjacent, not identical .
+
+--- [[Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers]]  (5 句)
+   • Chapter 10 is the largest chapter in the book and brings biopolymers into the unified polymer-chemistry framework: **carbohydrates（cellulose → regenerated cellulose → cellulose esters/ethers → starch → heteropolysaccharides）→ proteins → nucleic acids → natural rubber → renewable resources**. 对卫材的直接意义：**绒毛浆（fluff pulp）就是纤维素**，本章给出其 DP、结晶密度、氢键网络与制浆工艺的化学基础；**粘胶纤维、醋酸纤维、Lyocell 类再生纤维素纤维**是面层/导流层原料；**CMC 等纤维素衍生物**是 SAP 的辅助吸水剂。
+   • 流程：纤维素 → 碱纤维素（alkali cellulose）→ 纤维素黄原酸酯（cellulose xanthate, "viscose"）→ 酸浴中再生为纤维素（line 92）。黄原酸酯的 **DS ≈ 1**（平均每个葡萄糖单元仅一个羟基反应，line 96）。
+   • **棉花 vs Rayon**（line 235-237）：化学组成相同（都是纤维素），但物理结构不同——棉花为天然高结晶度 α-cellulose、纤维形态规则；Rayon 结晶度与取向度较低，**湿态强度低**。
+   • **无机酯**：Cellulose nitrate（硝化纤维素，1833 年首次合成，用于火药、赛璐珞 Celluloid、涂料）；Cellulose sulfate/phosphate（医学应用，line 116-117）。
+- **有机酯**：*"The most important cellulose ester is cellulose acetate because of its use in fibers and plastics."* (line 121) — 1865 年由醋酐与棉花反应制得；通过取代度调性：低取代→极性/可溶，高取代→疏水。
+- **醚类**：Methylcellulose（MC，碱纤维素 + 氯甲烷，用于粘合剂/陶瓷/化妆品/食品）；Ethylhydroxyethylcellulose（EHEC，**非牛顿流体、假塑性**）；Cyanoethylcellulose（与丙烯腈的 Michael 加成，line 128）。
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (4 句)
+   • Peer-reviewed journal article that benchmarks a **citric-acid–crosslinked cellulose superabsorbent hydrogel (SAH)** head-to-head against commercial sodium-polyacrylate SAP in both DI water and 0.9 % saline — the library's cleanest **saline-based performance comparison** for the biodegradable-SAP route.
+   • The study develops citric acid (CA)-crosslinked superabsorbent hydrogels based on cellulose derivatives as sustainable alternatives to conventional petroleum-based SAPs for personal hygiene. **Sodium carboxymethyl cellulose (Na-CMC)** is the primary polymer and **hydroxyethyl cellulose (HEC)** the secondary polymer, blended at varying ratios and crosslinked with CA as a green crosslinking agent. The authors systematically evaluate polymer composition, swelling medium, pH and **absorption under l
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+   • Concepts 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- Entity 实体：University of Waterloo（滑铁卢大学）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[CMC-Na CA CNF SAP original article.pdf]]  (4 句)
+   • Peer-reviewed 2025 study of a fully bio-based **cellulose aerogel** superabsorbent (CMC-Na + citric-acid crosslinker + CNF scaffold) reaching 153 g/g absorption — a low-microplastic alternative to petro-based acrylic SAP for hygiene.（2025 年同行评议研究：全生物基纤维素气凝胶高吸水材料（CMC-Na + 柠檬酸交联剂 + CNF 骨架）吸水达 153 g/g，是卫品中石油基丙烯酸酯 SAP 的低微塑料替代。）
+   • **Material 材料**: Sodium carboxymethyl cellulose (**CMC-Na**) as the absorbent body; **cellulose nanofibers (CNF)** as the structural scaffold; **citric acid (CA)** as the crosslinker adding carboxylate sites.（材料：羧甲基纤维素钠（CMC-Na）为吸水主体；纤维素纳米纤丝（CNF）为结构骨架；柠檬酸（CA）为交联剂并引入羧酸位点。）
+- **Process 工艺**: homogeneous mixing → freeze-drying (lyophilization, 48 h) → **160 °C thermal cross-linking** to form a robust network.（工艺：均匀混合 → 冷冻干燥（48h） → 160°C 热交联成网。）
+- **Motivation 动机**: conventional SAPs are petroleum-ba
+   • A cellulose aerogel can reach >150 g/g absorption while being fully bio-based and microplastic-free — directly relevant to the bio-SAP roadmap.（纤维素气凝胶可在全生物基、无微塑料前提下达到 >150 g/g 吸水，与生物基 SAP 路线图直接相关。）—— 支撑页：Biodegradable SAP（可降解高吸水树脂）、纳米纤维素（CNC、CNF、BNC）
+- Retention under centrifugal force and heat shows practical robustness for hygiene loading.（在离心力与高温下的保水表现显示卫品载荷下的实用性。）
+   • 概念：SAP（高吸水树脂）、纳米纤维素（CNC、CNF、BNC）、Biodegradable SAP（可降解高吸水树脂）、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- 相关：Bagasse Nanocellulose SAP（蔗髓纳米纤维素基复合保水剂）同源生物基方向
+
+--- [[CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）]]  (4 句)
+   • A granted Chinese invention patent (assignee: Kunming University of Science & Technology) on a **bagasse-pith nanocellulose composite superabsorbent** made by graft copolymerisation onto cationic cellulose ether. It is an agronomy water-retainer, but the nanocellulose–SAP route is adjacent to the KB's bacterial-nanocellulose (BNC) work.
+   • The invention discloses a preparation method for a bagasse-pith nanocellulose composite water-retaining agent. Sugarcane bagasse is air-dried and sieved to obtain bagasse-pith raw material; cellulose is extracted (acetic acid / hydrogen peroxide method) and deagglomerated by high-intensity ultrasound to obtain nanocellulose; the nanocellulose is etherified under alkaline conditions to a cationic cellulose ether; the cationic cellulose ether is graft-copolymerised / crosslinked by aqueous-solutio
+   • **Nanocellulose–SAP composite route via cationic etherification + graft copolymerisation** — supporting page 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）.
+- **Adjacent to BNC nanocellulose knowledge** — see 纳米纤维素（CNC、CNF、BNC）.
+   • 概念：蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）、纳米纤维素（CNC、CNF、BNC）
+- 实体：昆明理工大学
+- 对比：—
+
+--- [[CN 107057251 B（一种聚丙烯酸钠-纳米纤维素晶体复合高吸水性树脂及其制备方法）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **南京林业大学 / Nanjing Forestry University**) on a **sodium-polyacrylate / nanocellulose-crystal (NCC) composite SAP** made by photopolymerisation, with high absorbency (1200–3000 g/g). A nanocellulose–SAP route from academia — FTO-relevant.
+   • The SAP is sodium polyacrylate / nanocellulose-crystal composite, prepared by photopolymerisation from acrylic acid, nanocellulose-crystal-g-polyacrylamide, crosslinker N,N'-methylenebisacrylamide and photoinitiator 2-hydroxy-4'-(2-hydroxyethoxy)-2-methylpropiophenone at mass ratio 1 : 0.005–0.04 : 0.0001–0.0005 : 0.02–0.04. The method has mild conditions and is easy to implement. Water absorbency reaches 1200–3000 g/g and saline absorbency 71–139 g/g; the composite has a rich pore structure tha
+   • **NaPAA–NCC composite SAP via photopolymerisation (1200–3000 g/g)** — supporting page 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）.
+- Adjacent to nanocellulose theme 三类纳米纤维素对比（CNC、CNF、BNC）.
+   • 概念：蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）、三类纳米纤维素对比（CNC、CNF、BNC）、SAP（高吸水树脂）
+- 实体：南京林业大学
+
+--- [[CN 113423778 B（吸水性组合物及其制造方法·花王）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **花王株式会社 / Kao Corporation**) on a **water-absorbing composition of cellulose nanofiber (CNF) + a high-viscosity, low-etherification cellulose derivative (e.g. CMC-Na)**. A nanocellulose–SAP route from a global hygiene major — FTO-relevant.
+   • The invention is a water-absorbing composition containing cellulose nanofiber and a cellulose derivative, and its production method. The cellulose derivative has a 1 wt% aqueous-solution viscosity at 25 °C of ≥1000 mPa·s and an etherification degree < 0.9; it is preferably selected from carboxymethyl cellulose, carboxyethyl cellulose, and their salts, more preferably sodium carboxymethyl cellulose (CMC-Na).
+   • **CNF + high-viscosity low-etherification cellulose derivative (CMC-Na) absorbent composition** — supporting page 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）.
+- Adjacent to nanocellulose theme 三类纳米纤维素对比（CNC、CNF、BNC）.
+   • 概念：蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）、三类纳米纤维素对比（CNC、CNF、BNC）、SAP（高吸水树脂）
+- 实体：花王株式会社（Kao Corporation）
+- 同族：—
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (4 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Effect of Drying Methods on Bacterial Cellulose Aerogel]]  (4 句)
+   • This peer-reviewed review consolidates how drying methods govern the thermal and mechanical behavior of bacterial cellulose (BC，细菌纤维素) aerogels and provides a parameter-backed basis for selecting a preservation route.  
+（中文：该同行评审综述系统梳理干燥方法如何影响细菌纤维素气凝胶的热学与力学表现，为干燥路线选型提供参数依据。）
+   • Bacterial cellulose offers high purity, crystallinity, hydrophilicity, and a nanoscale fiber network without the lignin-removal burden of plant cellulose. The review compares hot-air, freeze, ambient, supercritical CO₂, microwave, bidirectional-freezing, and oven-drying routes. Drying changes pore morphology, density, hydrogen bonding, crystallinity, water uptake, gas permeability, thermal conductivity, and strength. Freeze-drying is the most frequently reported route because it preserves porous
+   • **Freeze-drying preserves pore structure but does not universally maximize mechanical strength.（冻干保孔，但不必然带来最高机械强度。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Pre-freezing rate and architecture are part of the drying process window.（预冻结速率与结构同属干燥工艺窗口。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Commercial selection must balance property retention, energy, cost, and scalability.（商业选型需平衡性能保持、能耗、成本与可规模化性。）** — supporting page: Bacterial Cel
+   • Concept 概念：Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+

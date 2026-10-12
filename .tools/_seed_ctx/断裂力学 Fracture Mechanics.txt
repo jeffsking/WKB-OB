@@ -1,0 +1,100 @@
+# SEED: 断裂力学 Fracture Mechanics
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 2 Fundamental Aspects
+#   - Book Review Handbook of Adhesion by Packham
+#
+# 全库正文命中 21 页，27 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Book Review Handbook of Adhesion by Packham]]  (3 句)
+   • **Handbook of Adhesion（Packham 第2版）的书评**——250+ 篇短文、60+ 位专家撰写的胶接科学与技术最全面参考，覆盖胶接热力学/表面力/润湿/断裂力学/胶接理论/定量测量/粘合胶接/密封胶/复合材料/涂料/橡胶/环境可持续性，是学生教科书与研究专著之间的桥梁。
+   • **Handbook of Adhesion 简介**：David E. Packham（ed.），John Wiley & Sons, Chichester, UK, 2005，liv+672 页，$270，ISBN 0-471-80874-1。
+- **胶接定义**：粘附是微观分子力作用下的表面相互作用与宏观力学性能（剪切强度、剥离强度、粘性）的多尺度现象。
+- **覆盖领域**：基础科学（物理、化学、生物）、材料科学与工程、医学；工业应用包括复合材料、纺织品、印刷、涂料等。
+- **内容范围**：250+ 篇短文，60+ 位专家撰写；交叉引用、自包含；覆盖胶接热力学、表面力、润湿、聚合物、断裂力学、胶接理论、定量测量、粘合胶接、密封胶/沥青、焊接与结构工程、复合材料/涂料/橡胶、环境考量/可持续性/可再生原料。
+- **读者定位**：从学生到专业研究人员的桥梁——填补简化教科书与专注研究专著之间的空白。
+- **目录**：字母表+分类双目录，便于定位具体信息与获得主题概览。
+- **评价**：高度推荐作为可靠、简洁的信息来源。
+   • Book Review Handbook of Adhesion by Packham
+- Adhesive Handbook
+- 胶接热力学 Adhesion Thermodynamics
+- 润湿 Wetting
+- 断裂力学 Fracture Mechanics
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • where $G$ = peel strength, $G_0$ = intrinsic fracture energy, $\psi(v,T)$ = viscoelastic function (frequency/temperature dependent). The value of $\psi$ is "usually far higher than that of E" [Part 2, Line 5182–5213] — meaning process parameters (temperature, peel rate) dominate core-bonding performance.
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • Handbook of Adhesive Technology Full Report — Full 4-part detailed compilation
+- Absorbent Technology — Core absorption mechanics
+- Handbook of Nonwovens — Nonwoven lamination
+- SAP（高吸水树脂） — Super Absorbent Polymer
+- PSA — Pressure-Sensitive Adhesive
+- Hot Melt Adhesive — Hot melt adhesives
+- Silane Coupling Agent — Silicon coupling agents
+- Nonwoven Lamination — Nonwoven lamination technology
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (2 句)
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (2 句)
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres — the mechanics behind PET draw ratio 3–6
+- Antimony-Free PET Fibre（无锑 PET 纤维） — PET catalyst compliance, background to the Sb activity series
+- CoPET（低熔点共聚酯） — low-melting copolyester, melting-point depression route
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — PET spunbond topsheet fibre selection
+
+--- [[Nonwoven 非织造布]]  (1 句)
+   • The vault does not carry a single unified numeric property table (gsm × tensile × permeability) for the REL core's own nonwoven stack .
+- MD/CD anisotropy and inter-fibre bond failure mechanics are explicitly **not covered** by the polymer-science chapters (Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）.
+- A named supplier-to-layer mapping for the current REL core build is not evidenced .
+
+--- [[Technology Roadmap 2026-2029（技术路线图）]]  (1 句)
+   • Container 容器：IPC BCC OI Portfolio（开放创新项目组合）
+- Compliance 合规：Material Safety Control（材料安全双轨管控）
+- Mechanics 机理页：分区密度设计、可家庭堆肥无纺布（Home Compostable Nonwoven）、SAP错峰膨胀
+
+--- [[全息存储 Holographic Storage]]  (1 句)
+   • **Anti-counterfeit / brand label.** Colour arises from holographic recording, tunable by recording angle (0/15/30/45°) and by a large thickness/dose window — a hard-to-copy, angle-dependent optical feature suited to premium diaper/wipes packaging anti-counterfeit and traceability (推演)（源：Holographic Structurally Colored Mechanochromic Films）.
+- **Humidity-stable visual label.** Reflectance spectra remain measurable at **RH 100% and 80 °C for 120 h**, a precondition for a label surviving the wear 
+
+--- [[热熔胶 Hot Melt Adhesive]]  (1 句)
+   • **延伸关联**
+- 卫材胶黏系统 Hygiene Adhesive Systems
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- APAO（非晶态聚α-烯烃）
+- Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）
+- 胶黏剂 Adhesive
+- 胶接理论 Adhesion Theories
+- 胶接热力学 Adhesion Thermodynamics
+- Work of Adhesion
+- 压敏胶 PSA
+- 断裂力学 Fracture Mechanics
+- 流变学 Rheology
+- 层压 Lamination
+- Nonwoven Lamination
+- TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+- Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- Surge-Liner Adhesive Bondin
+
+--- [[Adhesive Handbook Part 2 Fundamental Aspects]]  (1 句)
+   • **六大理论互补不互斥** — "each of these theories is valid to some extent, depending on the nature of the solids in contact and the conditions of formation of the bonded system. Therefore, they do not negate each other" (Line 57-62)
+- **机械互锁是橡胶-纺织物胶接的主导** — "penetration of the protruding fiber ends into the rubber was the most important parameter in such adhesive joints" (Line 73-75) — 直接对应 SAP 层热熔胶点到浆纤维的锚固深度
+- **粘弹性耗散主导强度** — "the value of ψ is usually far higher than that of E and the energy dissipated 
+
+--- [[Ebewole Polymer Science Ch13 Mechanical Properties of Polymers]]  (1 句)
+   • 1. **Tear / tensile / puncture 撕裂、拉伸与穿刺的理论底座.** 非织造布的拉伸断裂、撕破、穿刺强度评估全部落在本章的 stress–strain 体系内；K_Ic / G_Ic 为穿刺与撕破提供断裂力学的定量语言。参见 Characterisation, testing and modelling of nonwoven fabrics、FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）。
+2. **Softness vs. strength trade-off 手感-强度矛盾.** "Modulus, yield, and tensile strengths generally decrease with the addition of plasticizers"（p.367）与增塑三态序列（硬脆→硬韧→软韧）是**柔软化必然伴随强度损失**的定性根据；但如 §批判所述，tan δ 不应被当作柔软度代理指标。
+3. **Strain-rate sensitivity → 测试速度的选择.** 
+

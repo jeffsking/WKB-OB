@@ -1,0 +1,44 @@
+# SEED: Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 5 页，9 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）]]  (5 句)
+   • 核心机制：**把传统 CFD 求解流程包裹进 PyTorch/JAX 的自动微分图**，使整个数值模拟可微分，梯度可从物理模拟反向传播到神经网络，用于训练与优化。
+   • **JAX-Fluids**——基于 JAX 的完全可微分高阶 CFD 求解器，专为**可压缩两相流**设计；支持把既有 ML 模型无缝集成进 CFD 框架并端到端优化，即神经网络可借助含物理 PDE 与数值方法信息的梯度进行训练。
+- **PhiFlow**——面向研究的可微分流体模拟框架，Python 编写，可与 NumPy / TensorFlow / PyTorch 集成；内置多种流体 PDE 操作，可构建含学习模型与物理模拟的端到端可微分函数。
+- **PICT**——近期发布的 PyTorch 开源流体动力学求解器，GPU 加速、可微分；含**可微分 PISO** 压力隐式求解器，支持多块网格，在 lid-driven cavity（顶盖驱动方腔）与湍流通道流基准上验证，主要用于 2D/3D 湍流模型学习。
+- **IncompressibleNavierStokes.jl**——Julia 实现，硬件无关的可微分求解器 + 优化内存管理；单 GPU 上可达 **840³** 分辨率的不可压缩 NS 方程 DNS，并支持把**神经网络闭合模型嵌入 LES 做后验训练**。
+   • **MindSpore Flow**——昇思 MindSpore 上的流体仿真领域套件，三大类技术：
+  - 物理驱动——基于 PINNs 求解偏微分方程；
+  - 数据驱动——傅里叶神经算子 **FNO**、Koopman 神经算子 **KNO**，以及工业级流体仿真大模型**「东方·御风」/「东方·翼风」**；
+  - 数据机理融合——**PDE-Net**。
+  - 另含端到端可微分 CFD 求解器，支持 **WENO5** 重构等数值方法。
+- **DeepCFD**——用深度 CNN 高效近似**稳态层流**，相对传统 CFD 约 **3 个数量级**加速；输入为几何形状与流动区域信息，输出真值为速度场与压力场，训练后可集成进既有工程流。
+   • **AI 流体力学科学家系统（RPI / 伦斯勒理工学院）**——「协调器」接收自然语言任务后分派三支专业队：
+  1. 常规实验队——调用 OpenFOAM 自动配置参数扫描；
+  2. 代码修改队——用 LLM 生成 C++ 源码并编译自定义 OpenFOAM 库；
+  3. 开放式探索队——自主生成物理假设并迭代优化。
+  - **最关键环节是 VLM 物理验证关卡**：由视觉语言模型审查渲染出的流场图片，判断物理特征是否正确，以确保结果可信。
+- **CFD Solvers & Turbulence Ecosystem for AI Agents**——CfdOF（FreeCAD 的 CFD 工作台）、Nek5000（高保真谱元法求解器）、classy_blocks（OpenFOAM 网格生成 Python 接口）等工具正被适配为「AI 就绪」基础设施，使智能体能自主执行流体模拟、网格划分与后分析。
+
+--- [[Open-Source AI-CFD Framework Routes（开源 AI+CFD 五类路线对比）]]  (1 句)
+   • Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+- Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）]]  (1 句)
+   • Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+
+--- [[Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）]]  (1 句)
+   • 1. **代理模型不会取消网格收敛问题，只会把它前移到训练集** —— 神经算子/DeepCFD 类路线是「几何 + 流动区域 → 速度场/压力场」的映射学习，**训练真值仍由传统 CFD 产生**；若 ground truth 本身含数值扩散（见上方 v9 证据），模型学到的是**被伪造的扩散**，且误差不再可诊断。**判据：换用 AI 路线后，网格收敛性测试的义务从「每次运行」变成「每次生成训练集」，不能省略。**
+2. **可微分路线给「误差来源清单」增加了第四类** —— 此前已列为离散化 / 边界条件 / 本构模型三类；可微分求解器加入后，**自动微分图与数值格式的耦合**会成为新的误差与可复现性来源（同一套 PDE 在不同 AD 框架下梯度不一定一致）。
+3. **加速倍数是口径陷阱，与「够不够准」无关** —— DeepCFD 宣称的「约 3 个数量级加速」针对**稳态层流**；本页关心的分辨力门槛（0.03% 量级，见上一节）**没有被任何一条路线声明**。加速解决的是「能不能跑得起参数扫描」，**不解决「能不能分辨」**。
+4. **VLM 物理验证关卡是一条可迁移的
+
+--- [[Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester]]  (1 句)
+   • Phototriggered release = P4 backbone conformational change from α-methylstilbene E→Z isomerization (experimentally verified) — support page: Liquid Crystalline Polymers Smart Applications.
+- The flat P4 membrane is only a shell surrogate; the system is microcapsule-based, not a pervaporation membrane — see An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks for the atomistic confirmation.
+

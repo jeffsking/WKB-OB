@@ -1,0 +1,12 @@
+{
+  "batch": "S2_Areas_Test Method_01",
+  "stage": "S2",
+  "block": "Areas/Test Method",
+  "source_pages": 10,
+  "concept_pages": 2,
+  "entity_pages": 2,
+  "comparison_pages": 3,
+  "updated_existing": 9,
+  "manual_review": 1,
+  "notes": "sources(10): 南京南厂BCC成品STM汇编WI-56234 Rev.8 / 质量成品标准测试方法-TJ / STM-00034 FIFE Rev.5 / 原材料STM-TJ WI-60632 / STM-00429 VV模板 / STM-00429 VV方法正文 / 原材料STM-NJ / TTM-00038 压缩测试 / 成品测试方法汇总表 / 原材料测试方法汇总表。concepts(new 2): Void Volume & Pore Space Modulus、GB-T 28004.1-2021。entities(new 2): KC Tianjin Mill、KC Nanjing Plant。comparisons(new 3): GB-T 28004.1-2021 vs KC STM 成品吸收性能、KC内部STM vs EDANA vs GB-T 原材料体系、Void Volume vs Pore Space Modulus。updated_existing(9，仅追加不改结论): 芯体测试方法与验收基准（STM）、Rewet Test、SAM Testing Methods、尿液模拟液、WVTR 测试口径、Elastic Tension & Creep、Retention Capacity Test、Run-off & Leakage Test、Cradle Intake Test。manual_review(1): AUL 加压吸收编号在库内并存 STM-00020（原材料总表，PAN METHOD）与 STM-00220（天津厂 WI-60632 现场），南京厂另用「内控-9」，三者是否同法异版需查 EtQ 方法主档人工确认。口径治理重点：① 14±1 inH2O = 3.4 kPa / 3447 Pa，回渗载荷 0.5 psi，SAT CAP 上限 2.0 psi；② 国标 36±1℃/40-60-80mL/2.0-4.0kPa/5片均值 与 KC 内部 37℃/50-60-70-85-100-100mL/14inH2O 不可互比；③ VV 试样规格三处不一致（正文 φ76mm、模板说明 φ60.3mm、示例 φ76mm；培养皿 80-84mm vs 65mm）；④ 滑渗标准号混用（GB/T 28004-2011 vs GB/T 24218.2-2011 vs GB/T 24218.3）；⑤ WVTR 天津 38℃/90%RH 减重法 vs 南京 23℃/50%RH 12-24h。单源数值已标 [待验证]：VV 崩塌曲线（仅模板内嵌单一示例）、0.9 砝码≈1500g 的单位、Flow rate 量纲。"
+}

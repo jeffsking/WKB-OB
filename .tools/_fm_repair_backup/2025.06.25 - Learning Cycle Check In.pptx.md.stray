@@ -1,0 +1,108 @@
+8
+# GRIFFIN Rewet Update
+
+6/24/25
+
+# Workstream Review
+
+## Liner
+
+$\bullet$ GRIFFIN HUT placed untreated liner (leakage results expected end of July)
+
+* Unable to complete experiment on intake/rewet tradeoff by modifying saline surface tension with SF19
+
+* Future opportunity to investigate other surfactants
+
+* Always Discreet liner analysis
+
+* Seems to maybe have more adhesive – SIROCCO summary (slide 5)
+
+* Summit tips may make incremental improvement to rewet
+
+* Any new learnings since 4/22 share out?
+
+* AD continues to look less philic than Depend with more lots tested
+
+* AD products have 2 different glue patterns during same timeframe on different assets
+
+* Depend/AD intake system swap
+
+* Hypothesis is that liner/surge is making the difference for AD, not curly fiber
+
+4212478600 83
+
+2122254
+
+21090311
+
+5031478600
+
+0311908
+
+2112503
+
+# Workstream Review
+
+## Core
+
+* SAM-less ActivTech Hybrid core - diagnosis of higher rewet in ATH core vs SAM/fluff core
+
+$\bullet$ Produced successfully on GML
+
+$\bullet$ What is testing plan?
+
+* MicroCT
+
+* Capillary pressure – have intake system (liner/surge), do we do core (wrapsheet/fluff)? We also have standalone core and wrapsheet
+
+* Backlog – can prioritize vs other ADT projects (higher than RED1, 1 week delay)
+
+* Try entire system, then break out where needed (core)
+
+* Try rewet/intake with 2-propanol solution?
+
+* SAM in fluff layer
+
+$\bullet$ Hypothesis is this will dewater the fluff and reduce rewet, because fluff is acting as an intake layer in ATH core
+
+$\bullet$ When is rewet testing back? – need to submit (Kerry)
+
+# Workstream Review
+
+## Core
+
+$\bullet$ 1gsm dSB vs 20gsm BCW wrapsheet
+
+$\bullet$ Hypothesis is it might have an impact on rewet because it did in diapers
+
+$\bullet$ Does this increase intake time? If so, consider pairing with a lower basis weight surge, as this has helped rewet in the past.
+
+* Curly fiber composite material
+
+* Materials of interest:
+
+* 50/50 blend fluff and curly fiber (Helix)
+
+* 90gsm composite curly fiber/PET web – in widths for surge and wrapsheet usages
+
+$\bullet$ Trying to source for July GML trial (7/14-8/1)
+
+# Depend Adhesives
+
+![Surge Adhesive\nSurge\nLTD Adhesive\nPAA Adhesive\nSAM/Fluff\nWrapsheet\n](2/Oy0YFe4o874ND9Udefofxe/ppt_3867e2b60070d7dc3f413086d0b0036e_ca99e664684a5daa92ccc9f7a415fe23001a693ee6c0644e/tmp_zip_img/8c1590fd-37c5-4627-be3f-6dc610984315.png)
+* SIROCCO looked at modifications to all 3 adhesives in absorbent system
+
+* Only statistical improvement in rewet was decreasing LTD adhesive add-on
+
+$\bullet$ Also trialed hydrophilic adhesives in all 3 locations
+
+* Directionally to statistically increased rewet
+
+# Depend Adhesives
+
+|Document|Takeaways|
+|---|---|
+|ERR-61012: Liner tack down (LTD) adhesive add-on|Reduced add-on lowered rewet – hypothesis is LTD adhesive is blocking fluid flow down into further layersHydrophilic adhesive increased rewetZoned/TRIO application would theoretically be the best, but didn't always result in rewet improvements in testing so capital wasn't justified (per Monica)|
+|ERR-61046: Pad attachment (PAA) adhesive pattern|Removing PAA from 50mm strip in center of pad directionally reduced rewetHydrophilic adhesive directionally increased rewet|
+|ERR-61047: Surge adhesive (SLA) style|Signature tip directionally reduced rewet vs control Summit – Signature (random fibers) has higher surface coverage area than Summit (swirl)Hydrophilic adhesive increased rewet|
+

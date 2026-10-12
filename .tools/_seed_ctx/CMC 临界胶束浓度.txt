@@ -1,0 +1,19 @@
+# SEED: CMC 临界胶束浓度
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 2 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[接触角 Contact Angle]]  (1 句)
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[The Role of Surfactants]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+

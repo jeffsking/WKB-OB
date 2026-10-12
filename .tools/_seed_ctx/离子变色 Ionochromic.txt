@@ -1,0 +1,17 @@
+# SEED: 离子变色 Ionochromic
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#
+# 全库正文命中 2 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[电致变色 Electrochromic]]  (1 句)
+   • **Powered indicators are a negative result for disposables.** The smart-textile community's own verdict is that **electrochromic routes are blocked on lifetime / reliability**; the source reads this as a warning to anyone proposing a **powered or electrically-switched indicator on a disposable**, and points to the **passive, power-free alternative** — US20070270773A1 Thermochromic Wetness Indicator（源：Smart Textiles and Their Applications）.
+- **Family context**: it sits among the vault's chromic 
+
+--- [[Chromic Phenomena Introduction and Reversible Colour Change]]  (1 句)
+   • 父书：Chromic Phenomena
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 电致变色 Electrochromic · 离子变色 Ionochromic · 机械变色 Mechanochromic · 光致变色 Photochromic · 液晶 Liquid Crystal
+- 相关章节：Ancient Organic Dyes and Pigments Chemistry · Mechanochromic Photonic Sensors · Stimuli-Responsive Polymer Materials (Nature Materials Review)
+- 供应商：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex
+

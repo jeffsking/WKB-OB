@@ -1,0 +1,98 @@
+# SEED: 热致变色
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - 卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）
+#
+# 全库正文命中 34 页，46 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Chromic Phenomena Introduction and Reversible Colour Change]]  (4 句)
+   • **五机制分类基石**：颜色产生途径可归为五类——(I) 振动与简单激发；(II) 配体场效应；(III) 分子轨道间跃迁（有机/无机吸光染料与颜料、荧光）；(IV) 能带间跃迁（金属、纯/掺杂半导体）；(V) 几何与物理光学（干涉、虹彩、衍射、液晶）。作者进一步采用 Nassau"十五因"的再整合，形成五类 chromic phenomena 全书骨架。
+- **第三参数洞见**：颜色传统两参数（波长、强度）之外，引入"可逆外部刺激"作为第三参数，应用潜力"significantly widen"。
+- **四大商业化色变**：photochromism、thermochromism、electrochromism、ionochromism。
+- **光致变色五大理想性质**：① 显色发展；② 回到无色态的可控性；③ 宽色域；④ 长寿命；⑤ 无色休息态——第 ⑤ 条直接对应卫生用品"常态无色、遇刺激显色"的产品设计要求。
+- **光致变色五大家族**：spiropyrans、spironaphthoxazines、naphthopyrans、fulgides、diarylethene
+   • 1. **三参数理论**：颜色的传统两参数（波长、强度）+ 第三参数（可逆外部刺激）= 色变应用爆发性增长的理论基础。
+2. **五大家族选型总纲**：光致变色仅五类化合物能接近理想要求（spiropyrans、spironaphthoxazines、naphthopyrans、fulgides、diarylethenes），其中 naphthopyrans 因温依赖中等+疲劳性好成为商用眼科镜片首选。
+3. **热致变色二分法**：intrinsic（热为唯一致因）与 indirect（热改变色原体周围环境）的技术区分，比"内在/间接"模糊表述更可操作。
+4. **复合热致变色三组分体系**：pH 敏染料+质子供体（商用核心双酚 A）+疏水非挥发性共溶剂——共溶剂熔化即触发显色，是"尿湿即显色"的直接技术路径。
+5. **机械变色尚未商用**：压变与摩擦变色"未在任何商用方式中被开发"——意味着该方向仍是技术窗口期；而时间变色已有日化落地先例（牙膏）。
+   • 父书：Chromic Phenomena
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 电致变色 Electrochromic · 离子变色 Ionochromic · 机械变色 Mechanochromic · 光致变色 Photochromic · 液晶 Liquid Crystal
+- 相关章节：Ancient Organic Dyes and Pigments Chemistry · Mechanochromic Photonic Sensors · Stimuli-Responsive Polymer Materials (Nature Materials Review)
+- 供应商：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex
+   • **BPA 替代是强制项**：热致变色复合颜料的商用核心质子供体是 **Bisphenol A**，FDA/EU 均限制其在婴幼儿用品使用 → 纸尿裤/湿巾功能涂层**必须评估 BPA-free 替代**（BPAF、BPAZ、新型 spirolactone、无 A 型双酚质子供体）。可关注供应商方案：Ardex、Sun Chemical、DIC。
+- Spirooxazine 温度依赖"High"（Table 1.9）→ 不宜用于需要宽温区的产品。
+- Fulgides 疲劳性"Fair" → 需要高循环寿命的卫生用品智能层不宜使用。
+
+--- [[Mechanochromic变色纤维]]  (3 句)
+   • 1. **技术路线**：光子晶体结构变色、液晶弹性体（LCE）取向变色、染料-聚合物体系受力构象变化变色。已报道的突破方向为**可机洗的液晶弹性体变色纤维**（Nature Materials 系报道），使布料自带应变可视化能力。
+2. **卫生用品相关性**：可对应「穿戴张力/贴合指示」——尿液或体位变化引起弹性侧片拉伸，通过力致变色提供视觉反馈（K-C US7704589B2 拉伸变色专利已失效，说明该方向有早期探索与 FTO 空间）。
+3. **与热致变色的分工**：热致变色（温敏）用于湿态指示（尿温触发）；力致变色（力敏）用于贴合/张力指示——二者可组合成多信号织物。
+4. **工程约束**：耐水洗性、循环疲劳寿命、色牢度、与一次性制品成本的匹配。
+   • **要点**：力致变色与热致变色是**互补而非替代**的信号机制，产品设计时应先确定「要指示什么物理量」再选机制。
+   • **编译追记（2026-09-29）**：本页原「待编译」状态**已解除**；原 4 条要点（技术路线 / 卫生用品相关性 / 与热致变色的分工 / 工程约束）与新增来源**一致**——尤其第 3 条「力致变色与热致变色互补而非替代」在 Chromism Taxonomy（变色现象分类） 中被提升为分类学判据（先定要指示的物理量，再选机制）。
+- **编译追记 （2026-09-29）**：本页原引用的「可机洗液晶弹性体变色纤维（Nature Materials）」那份资料**不在本批 6 份内**（），仍待编译，其独立源摘要页尚未建立。
+- **2026-09-29 追加要点（材料细目）**：路线图给出四种候选机理与各自战略优势——**HPC**（黏弹性格点间距变化 → 压缩蓝移，红→蓝；可食/无毒/可降解，被称战略黄金标准，理由是**充当即时监管护盾**）、**Naphthopyrans**（共价键断裂 → 模块化变色；合成可达性与稳定性最优）、**Spiropyrans**（6π 电环化开环 → 强显色；**热致瞬态**）、**Cu-based HCP**（杂化配位聚合物发射位移
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (3 句)
+   • **Thermochromic clearing-point transition read through a window（透过窗口读取的热致变色 clearing point 转变）** — two distinct chromic mechanisms are described:
+   • 1. **Cholesteric liquid crystal, clearing-point type（胆甾型液晶·清亮点型，温度不敏感型）** — "常温有色、升温变透明": at normal temperature the LC reflects a colour; on reaching its **clearing point** it becomes **transparent**. This is the mechanism used in the worked EXAMPLE.
+2. **Temperature-sensitive liquid crystal（温度敏感型液晶）** — colour sequence "无色→红→橙→黄→绿→蓝→紫→无色" as temperature rises.
+3. **Thermochromic inks / leuco dyes（热致变色油墨 / 隐色染料）** — leuco dyes "可直接混入薄膜、无纺布和弹性体"（may be incorporated directly into films, nonwovens 
+   • US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G) — 同一专利的既有另一摘要页
+- US20070270773A1 Thermochromic Wetness Indicator — 湿态指示用热致变色（95–104°F 窗口）对照
+- US5197958 Wetness Indicating Diaper — leuco 染料／脂肪酸体系与 1–2°C 灵敏度对照
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) — 本库热变/湿变路线可行性评审（主线）
+- Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） — 变色油墨/液晶供应商与印刷工艺能力
+- Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026
+
+--- [[智能尿裤功能层]]  (2 句)
+   • 1. **四层功能定位与载体要求**：
+   - **①湿态指示**——热致变色（体温/尿温触发，载体为印刷油墨/涂层，贴底膜外侧）、电子导电回路（导电墨带印刷于芯条/外层）、pH 化学比色（纳米纤维膜/无纺布试纸）。尿显线已量产，温变属早期。
+   - **②压力传感**——电容/压阻织物阵列（织物基底 + 交叉导电条）；尿裤内置**尚无量产**。尿裤内实际压力 0.1–3 psi（约 0.7–20 kPa），设计要求耐非平面弯折。
+   - **③抗菌除臭**——纳米 Ag/ZnO/TiO₂ 复合 SAP 或面层；除臭四路线为物理吸附、化学中和 + 生物抑制、缓释微胶囊、消臭 SAP/布料一体化。
+   - **④导电加热**——印刷导电油墨柔性加热（Ag/碳/PEDOT:PSS/CNT 油墨，PTC 自限温），可穿戴领域已量产，尿裤集成仍早期。
+2. **成熟度梯度**：尿显线（量产）> 抗菌 SAP（量产）> 印刷导电油墨（量产，跨行业）> 电子湿感（原型→量产）> 压力传感内置（空白）。
+3. **FTO 是硬约束**：有效专利需规避（US8273939B2 P&G、CN11
+   • 材料载体：细菌纳米纤维素、BNC功能层嫁接可行性对比
+- 相关技术：变色油墨（热致变色/力致变色）
+- 项目关联：智能尿裤功能层专利地图（源）、Mechanochromic变色纤维
+- 2026-09-29 追加：Active Diagnostic Zones（主动诊断分区）（贴合/安全诊断层）、Wetness Indicator Ladder（尿湿指示阶梯）、Mechanophore Mechanochromism（机械力致变色分子）
+
+--- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]  (2 句)
+   • **商业化参照系——热致变色湿感指示**：五种印刷工艺（gravure / flexo / inkjet / slot / screen）均有落地案例；leuco 染料三组分体系（供电子显色化合物 + 受电子化合物 + 脂肪酸决定变色温度），变色温度可在 **−30 °C 至 +80 °C** 设定，灵敏度 **1–2 °C**，可逆变色可达数万次；微胶囊化采用脲醛树脂原位聚合、约 **45% wt** 胶囊颗粒水基浆料；供应链有 Dynacolor、ThermaSOFT、Liquid Crystal Resources 等现成渠道。**设计教训**：P&G 案例提示隔热因子 / RH 因子会影响实际激活温度——卫材环境下的标定必须实测产品热阻与湿度环境。
+   • **门槛不是变色材料，而是蠕变工况下 8 小时后的标定有效性** —— 支撑页：Elastic Tension & Creep（橡筋张力与回缩率）
+- **目标应变窗口为 0–20%（常在 0–10%），由穿戴实测给出而非材料极限给出** —— 支撑页：Skin Contact Pressure（皮肤接触压力）
+- **路线 C（印刷图形）零新增供应链、成熟度最高，是唯一可立即量产的方案** —— 支撑页：Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+- **路线 A 的 < 15.9% 线性段与 30,000 次循环是性能天花板，但受制于特种化学品供应** —— 支撑页：Structural Colour Mechanochromism（结构色力致变色）、Mechanophore Mechanochromism（机械力致变色分子）
+- **尿液环境下的稳定性是所有变色路线共同的未验证项** —— 支撑页：尿液模拟液（Urine Analog）
+- **热致变色湿感指示是可对标的成熟参照系，其「隔热/RH 因子误触发」教训直接迁移** —— 支撑
+
+--- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]  (2 句)
+   • **Naphthopyran 的三个优势**：① **抗疲劳**——开环态保留部分芳香性，电荷中性醌型基态高度稳定；② **刺激专一性**——严格需要外力或 UV，因高热活化势垒而**热致变色可忽略**；③ **可调性**——丰富的光化学结构-性能关系可精确工程化吸收谱。
+   • **力致变色把力信号直接转光学信号，绕过电子传感器** —— 支撑页：Sensor-Equipped Absorbent Article（含传感器吸收性物品）、Mechanochromic变色纤维
+- **两条路线的分野在"化学键断裂" vs "物理结构压缩"，而非性能高低** —— 支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **Naphthopyran 的热致变色可忽略（高热活化势垒）⇒ 刺激专一性是相对其它变色体系的关键优势** —— 支撑页：Chromism Taxonomy（变色现象分类）、Thermochromic Microcapsule (Leuco Dye System)
+- **HPC 的可生物降解/可食用/卷对卷属性使其生态属性显著优于合成化学品路线** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- **HPC 存在明确的应变上限（>25–27% 颜色松弛）——这是器件设计硬边界** —— 支撑页：Structural Co
+
+--- [[US20070270773A1 Thermochromic Wetness Indicator]]  (2 句)
+   • **Thermochromic wetness indication on absorbent articles/garments（吸收制品与服装上的热致变色湿态指示）**.
+   • **Thermochromic leuco dye(s)（热致变色隐色染料）** — conventional, ink-form, screen-printable;
+- **Thermochromic liquid crystal(s)（热致变色液晶）**.
+
+--- [[US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)]]  (2 句)
+   • 个人申请人（inventor = applicant）**Farnaz Zand 的美国申请公开**（US 2022/0125319 A1）：一条**可抛弃的毛细虹吸条**同时承担两件事——尿湿检测（丝印导电油墨带 + 可重复使用的报警单元）与**发烧监测**（另一面的一条热致变色油墨带 + **颜色传感器** + 无线通知）。它的参考价值在于把"温变油墨"从**给人看**升级为**给机器读**，并明确给出 **>98.6 °F（高于正常体温）** 这一数值判据。
+   • **把"温变油墨"从人眼读数升级为机器读数**——Claim 1 的核心不在油墨本身，而在**颜色传感器 + 无线传输**这一级；这一点补上了本库 Thermochromic Microcapsule (Leuco Dye System) 现有讨论里偏视觉的读法。
+- **两个传感器共用一条耗材**：尿湿走导电油墨带（电学），温度走热致变色油墨带（光学），耗材可抛、报警单元可重复使用——减少了"每次换裤子都要换掉电子部件"的成本。→ Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+- **>98.6 °F 是一个可直接落地的数值判据**：这意味着"高于正常体温"这一发烧阈值可以被直接写成权利要求。→ Diaper Microclimate
+- **背景误报清单值得抄进坑表**：电子式在先方案会因"坐在潮湿或金属的长椅/公园滑梯上"而误触发——这与本案改用毛细虹吸条迁移液体、而非用暴露电极直接测量的思路相呼应。
+
+--- [[Mechanochromic Routes Comparison（力致变色技术路线对比）]]  (1 句)
+   • **Naphthopyran 的三个优势（本批新增）**：① **抗疲劳**——开环态保留部分芳香性、电荷中性醌型基态高度稳定；② **刺激专一性**——严格需外力或 UV，**因高热活化势垒而热致变色可忽略**；③ **可调性**——光化学结构-性能关系可精确工程化吸收谱。
+
+--- [[Active Diagnostic Zones（主动诊断分区）]]  (1 句)
+   • 1. **The framing idea 命题**：integrating **force-responsive, power-free** sensors turns commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。可译作：**无源 = 无电池、无芯片、无电子件**，这是它能进入一次性用品的先决条件。
+2. **Zone 1 · Waistband tabs（防勒伤）**：integrated visual indicators trigger a high-visibility signal **when tensile force exceeds safe physiological thresholds**，providing immediate over-tightness warnings。（中文：拉力超阈值即显色报警，防勒伤。）
+3. **Zone 3 · Surface ar
+

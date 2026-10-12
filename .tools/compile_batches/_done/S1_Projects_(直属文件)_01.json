@@ -1,0 +1,12 @@
+{
+  "batch": "S1_Projects_(直属文件)_01",
+  "stage": "S1",
+  "block": "Projects/(直属文件)",
+  "source_pages": ["IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）"],
+  "concept_pages": ["OI Portfolio（开放创新组合）", "Technology Roadmap 2026-2029（技术路线图）", "Material Safety Control（材料安全双轨管控）"],
+  "entity_pages": ["Guoke Haina（国科海纳）", "Kuraray（可乐丽）"],
+  "comparison_pages": ["REL Variant C vs Option B Dual-Layer（成本·性能·供应链）", "Degradable SAP Routes（可降解 SAP 四路线对比）"],
+  "updated_existing": ["IPC BCC OI 项目清单 2026 v2（2026-09-17）"],
+  "manual_review": ["报价/议价结论（Huafeng 报价过高、REL 成本阶梯、改造 capex、可降解 SAP 成本口径）", "逐项目 NDA/NNN/JDA 状态与签署日期（合同条款类）", "采购 POC 与内部 Owner 个人姓名（个人身份）", "未公开合作方与排他条款（矿物粉体平台排他触发、APAC 签约主体、SAP 双源策略、OI-10 排他 MOU）"],
+  "notes": "本批 1 份来源为年度汇报大纲 v7（32 页 PPT 规范 + 项目全景）。按任务指引只建 1 个 source 页 + 与既有项目页互链的概念/实体/对比页，未为每个 OI 项目另建页（现有 WIKI 已覆盖 COCO/REL/分区密度/三叶形/ATB 等项目页）。新增页均为 §2.0 双语（英文为主 + 中文对照）。对比页均含「成本」「供应链风险」两列并逐行标源。发现 v7 大纲与本库既有 IPC BCC OI 项目清单 2026 v2 的组合口径冲突（25/33/5-8-8-4/6-15-4 vs 22-23/27/7 已签/0 On-hold），已按 §5 在既有 v2 源摘要页追加「矛盾记录（2026-09-29）」，不做取舍、待人工确认。v7 的红白配色与字号规范属汇报版式（非材料知识），仅在源摘要页摘记、未单独页面化。源文件中的商务敏感项（报价、法律日期、个人姓名、排他条款）标 manual_review，未页面化。"
+}

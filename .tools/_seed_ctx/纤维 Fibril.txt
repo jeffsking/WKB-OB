@@ -1,0 +1,84 @@
+# SEED: 纤维 Fibril
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#
+# 全库正文命中 26 页，43 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[莱赛尔 Lyocell]]  (5 句)
+   • **Lyocell / Tencel is a regenerated cellulose fibre spun from a direct solvent, NMMO (N-methylmorpholine-N-oxide)** — a route that **omits xanthation and ripening**, such that *viscose's* fibre strength and wet modulus are exceeded, while it **retains a propensity for fibrillation**, verbatim *"propensity for some degree of fibrillation"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Property comparisons are tabulated there as Table 17.12 (Camilon) and Table 17.14 (Tencel)（源：Manufactured Fi
+   • **Solvent route.** Lyocell sits under **direct solvent spinning (MMNO/NMMO)**, which needs no derivatisation — unlike the viscose process — and that is why its strength and wet modulus exceed viscose's; the same property set brings the fibrillation liability（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Fibrillation mechanism and its two fixes.** The cause is intrinsic: the fibre has **no skin layer** and high crystallinity/orientation, so **water plus friction peels the surface open into fine fibrils**; it is most visible **wet** — invisible dry — so validation must be a **post-wash fabric comparison**（源：原纤化）。Two routes exist: (a) **intrinsic** cross-linking to lock the structure (Lenzing **A100** is the cross-linked type); (b) **process-side management** — tension/friction control in spinni
+   • **Hydroentanglement behaviour.** Viscose/Lyocell have **low wet modulus and entangle cheaply**, whereas PP/PET need hydrophilic finishes; and **high jet impact force unlocks the Lyocell-fibrillation microfibre route**（源：Mechanical bonding）。
+
+--- [[SCA Hygiene Products AB]]  (4 句)
+   • **2026-09-29 记录（本批 IP 专利块，1 个专利族 / 3 个原始文件）**：
+  - **WO 2010/071584 A1**「SUPERABSORBENT POLYMER COMPOSITE COMPRISING A SUPERABSORBENT POLYMER AND CELLULOSIC NANOFIBRILS」——国际公开 2010-06-24；申请 PCT/SE2009/051446，申请日 2009-12-17
+  - **US 9,162,007 B2**（同族美国成员）——授权日 2015-10-20；28 项权利要求
+  - 优先权：PCT/SE2008/051542（2008-12-19）
+  - 发明人：BITIS, Rozalia；ABBAS, Shabira；MALMGREN, Kent；LARSSON, Mikael；LARSSON, Anette
+  - 见 WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)
+   • **把纳米纤丝"嵌进"SAP 网络内部**（而非作为外部纤维基体共混）：权利要求 1 的结构限定是「nanofibrils ≤100 nm incorporated within a three-dimensional network of polymer chains of a superabsorbent polymer」。
+- **要解决的是凝胶强度与凝胶堵塞（gel blocking）的取舍**：提高交联度会牺牲溶胀并导致凝胶脆裂，纳米纤丝被宣称可在保留吸水性的同时提高凝胶强度。
+- **用量口径极低**：纳米纤丝最优先用量仅 0.5–5 wt%（相对 SAP 单体量）。
+   • 本批派生概念：SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）、SAP（高吸水树脂）、纳米纤维素（CNC、CNF、BNC）
+- 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+- 同类权利人：The Procter & Gamble Company（宝洁）、Kimberly-Clark（金佰利）
+   • WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA) —— （同族另含 、）
+
+--- [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]]  (4 句)
+   • SCA Hygiene Products AB's foundational patent family on **embedding cellulosic nanofibrils (NFC) inside the SAP polymer network** — the source page for the "nanocellulose × SAP" route, and the earliest document in the library that ties nanofibrillated cellulose to diaper-core SAP performance.
+   • The family discloses a superabsorbent polymer composite in which **cellulosic nanofibrils of diameter ≤100 nm** are incorporated **within the three-dimensional network of polymer chains of a superabsorbent polymer** (i.e. not merely blended as a fibrous matrix). The stated problem is twofold: SAP particles are hard to fix in place inside an absorbent structure, and **gel blocking**（凝胶堵塞）occurs when swollen SAP gel blocks liquid transport. A further problem is that raising crosslink density to ga
+   • **Nanofibrils must be inside the SAP network, not beside it** — claim 1's "incorporated within a three-dimensional network" is the structural discriminator versus conventional fibre-blended SAP composites. → SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- **Gel strength is the target property** — the fifth aspect explicitly claims using NFC to increase SAP gel strength. → SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- **Gel blocking is the named failure mode being solved.** → SAP（高吸
+   • Concept 概念：SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）、SAP（高吸水树脂）、纳米纤维素（CNC、CNF、BNC）、细菌纳米纤维素
+- Entity 实体：SCA Hygiene Products AB
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）]]  (2 句)
+   • 1. **结构判据是"在网内"**：SCA 专利族权利要求 1 的限定是 "cellulosic nanofibrils having a diameter equal to or less than 100 nm **incorporated within a three-dimensional network of polymer chains of a superabsorbent polymer**"。这把它与传统的"纤维基体中分散 SAP 颗粒"的复合吸水芯体区分开。
+2. **要解决的两个既有缺陷**：
+   - **SAP 颗粒在吸收结构中的定位与保持困难**（储存与使用中易迁移）；
+   - **凝胶堵塞（gel blocking）**——含液 SAP 颗粒溶胀成凝胶后阻断液体输送，导致局部积液、其余部分未被利用。
+3. **交联度的两难**：交联度↑ → 机械强度↑，但溶胀能力↓，且高度交联的 SAP 变脆易碎。复合纳米纤丝是"第三条路"：靠纤维网络增强凝胶，而不必靠提高交联密度。
+4. **形态可调**：复合体可为**颗粒**，也可为**泡沫**（此时纳米纤丝位于泡
+   • WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA) —— （同族另含 、）
+
+--- [[Cross-linked Cellulose and Derivatives]]  (2 句)
+   • Chapter VII covers molecular-level chemical modification of cellulose into superabsorbent derivatives — cross-linked CMC (the most commercialized cellulosic route), HEC, phosphonoalkyl/phosphorylated cellulose, sulfonated/oxidized cellulose, microfibrillated cellulose (MFC) and lignin-retaining CTMP — and unifies them under Donnan gel-swelling theory.
+   • **Cross-linked CMC** is the core technology: etherification (monochloroacetic acid, up to 8 mol/mol cellulose) followed by cross-linking (epichlorohydrin, formaldehyde, glutaraldehyde). **Water-insolubility threshold at low DS ≈ 0.35–0.40**; cross-linked CMC gives 5–25 g/g vs 1–2 g/g for unmodified pulp (p. 278).
+- **DS vs cross-link tradeoff**: higher cross-link gives strength and prevents dissolution but limits swell space → lower capacity; must be tuned precisely (p. 278). Thermal/acid treatm
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+
+--- [[Fibers and Fibrous Materials]]  (2 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Mechanical bonding]]  (2 句)
+   • It is organised into three technologies: stitch-bonding (Maliwatt/Malimo/Malipol), needlepunching, and hydroentanglement (spunlacing).（分三技术：缝编、针刺、水刺。）
+- The first two target durable/industrial goods; hydroentanglement is the growth engine most relevant to disposables.（前两者主攻耐用/工业；水刺是面向一次性用品的增长引擎。）
+- The hydroentanglement section supplies the equations (specific energy K, SE_c, jet impact force F ∝ p·d²), fibre-selection rules and in-situ microfibre routes (splittable bicomponents, Lyocell fibrill
+   • Hydroentanglement is high-velocity water-jet mechanical bonding — binder-free, lint-free, soft.（水刺为高速水射流机械加固，无粘合剂、不掉屑、柔软。）
+- K and SE_c are engineerable levers; lowering SE_c at fixed strength cuts water/power cost.（K 与 SE_c 可工程化调控，降 SE_c 即降本。）
+- Viscose/Lyocell (low wet modulus) entangle cheaply; PP/PET need hydrophilic finishes.（粘胶/莱赛尔易缠结，PP/PET 需亲水处理。）
+- High impact force unlocks premium microfibre routes (BICO split, Lyocell fibrillation).（高冲击力解锁微纤化高端路线。）
+
+--- [[Seymour Polymer Chemistry Ch18 Special Topics]]  (2 句)
+   • Chapter 18 is the book's **frontier and cross-disciplinary extension**: conductive polymers (§18.1), molecular wires and nanofibrils, solid waste and sustainability (§18.3), polymerization reactor engineering (batch / PFR / CSTR), combinatorial chemistry (§18.8), proteomics (§18.11), optical fibers (§18.12) and materials selection charts (§18.14).
+   • 纳米尺度方向：*"The search for flexible, noncorrosive inexpensive conductive materials has recently focused on polymeric materials. This search has increased to include, for some applications, nano-sized fibrils and tubes."*
+
+--- [[WO 2009-071584 A1（Grindeks 咪唑类制备工艺·文件名标注有误）]]  (2 句)
+   • **不要因文件名就把本件当成 SCA 的 CNF-SAP 资料**——它是一份药物化学工艺专利，与本库主题无关。**本库对应的 SCA 主题内容已在 WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA) 页面覆盖**（PCT/SE2009/051446 → WO **2010**/071584），因此**没有内容缺失**。
+- **需要人工确认的是采集环节**：原始文件为何张冠李戴（下载错件？命名串位？），以及是否还有其他同名/近似命名的文件同样被标错。
+   • 同族/同名易混：WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA) —— 这才是 WO **2010**/071584（PCT/SE2009/051446，SCA）的本库页面；两者**公开号相差一年，极易混淆**。
+

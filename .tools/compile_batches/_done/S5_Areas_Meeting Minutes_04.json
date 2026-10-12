@@ -1,0 +1,31 @@
+{
+  "batch": "S5_Areas_Meeting Minutes_04",
+  "stage": "S5",
+  "block": "Areas/Meeting Minutes",
+  "source_pages": [
+    "Jiangnan High-Fibre Company Visit & Fibre Technical Exchange（江南高纤公司介绍及产品技术交流会议纪要 · 2026-07-01）",
+    "TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）",
+    "TJ Mill Visit Pre-Brief v3.1（中文版 · TJ工厂访问会前简报 2026-09-07）",
+    "Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）",
+    "V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）",
+    "Probiotic-Prebiotic-Postbiotic Diaper Project Review（益生菌-益生元-后生元尿布项目方案评审 · 录音纪要 2026-08）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "江南高纤（追加：Meeting Minutes 批 2026-09-29 · 访厂技术交流口径）",
+    "华峰集团（Huafon Group）（追加：Meeting Minutes 批 04 2026-09-29 · 合作会议行动项；并修复 Huafeng 源页红链指向）"
+  ],
+  "manual_review": [
+    "TJ Mill Visit Pre-Brief v3（中文版）（内部项目代号/产能资产/专利号不页面化）",
+    "TJ Mill Visit Pre-Brief v3.1（中文版）（同 v3）"
+  ],
+  "skipped_already_compiled": [
+    "把压力变成颜色.md",
+    "Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+    "合作开发新模具设计.md",
+    "I sap生产流程介绍.md"
+  ],
+  "notes": "10 项中 4 项已编译跳过（source_path 查重）；6 项新建源页。TJ v3 与 v3.1 中文版内容与已编译的 v3.1 EN 版高度重合，源页精简并互链。V6 与 益生菌 纪要为 ASR 转写，大量术语标 [待验证] 或原文照录（如 国民党/荧光型/热核/Nate-3/巴威/大造/克复）。无新建概念/实体页（相关主题已有页面：江南高纤、华峰集团、DMAC、Probiotic Topsheet、Kirigami、Coform、Gasketing 等），仅对已有实体页追加注日期记录。index.md/log.md 未改动。"
+}

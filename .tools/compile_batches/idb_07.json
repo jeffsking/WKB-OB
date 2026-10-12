@@ -1,0 +1,36 @@
+{
+  "batch": "idb_07",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch38.md.md",
+      "chapter": "38",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 20201
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch39.md.md",
+      "chapter": "39",
+      "title_hint": "Drying of Biotechnological Products",
+      "bytes": 19562
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch42.md.md",
+      "chapter": "42",
+      "title_hint": "Drying of Enzymes",
+      "bytes": 16055
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch43.md.md",
+      "chapter": "43",
+      "title_hint": "Drying of Coal",
+      "bytes": 14856
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch44.md.md",
+      "chapter": "44",
+      "title_hint": "Dryer Feeding Systems",
+      "bytes": 16869
+    }
+  ]
+}

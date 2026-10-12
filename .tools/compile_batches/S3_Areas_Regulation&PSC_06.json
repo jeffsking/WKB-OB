@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5009.137-2025 食品安全国家标准 食品中锑的测定.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5009.137-2025 食品安全国家标准 食品中锑的测定.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5009.137-2025 食品安全国家标准 食品中锑的测定.pdf.md",
+   "name": "GB 5009.137-2025 食品安全国家标准 食品中锑的测定.pdf.md",
+   "title_hint": "GB 5009.137-2025 食品安全国家标准 食品中锑的测定.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf.md",
+   "name": "GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf.md",
+   "title_hint": "GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28005-2011 纸内裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28005-2011 纸内裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28005-2011 纸内裤.pdf.md",
+   "name": "GB／T 28005-2011 纸内裤.pdf.md",
+   "title_hint": "GB／T 28005-2011 纸内裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 34405-2017家用纸制品中丙烯酰胺迁移量的测定 液相色谱-串联质谱法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 34405-2017家用纸制品中丙烯酰胺迁移量的测定 液相色谱-串联质谱法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 34405-2017家用纸制品中丙烯酰胺迁移量的测定 液相色谱-串联质谱法.pdf.md",
+   "name": "GBT 34405-2017家用纸制品中丙烯酰胺迁移量的测定 液相色谱-串联质谱法.pdf.md",
+   "title_hint": "GBT 34405-2017家用纸制品中丙烯酰胺迁移量的测定 液相色谱-串联质谱法.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.4-2012 消费品使用说明 第4部分 纺织品和服装使用说明.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.4-2012 消费品使用说明 第4部分 纺织品和服装使用说明.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.4-2012 消费品使用说明 第4部分 纺织品和服装使用说明.pdf.md",
+   "name": "GB 5296.4-2012 消费品使用说明 第4部分 纺织品和服装使用说明.pdf.md",
+   "title_hint": "GB 5296.4-2012 消费品使用说明 第4部分 纺织品和服装使用说明.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28207-2011 离型原纸.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28207-2011 离型原纸.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28207-2011 离型原纸.pdf.md",
+   "name": "GB／T 28207-2011 离型原纸.pdf.md",
+   "title_hint": "GB／T 28207-2011 离型原纸.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "name": "GB／T 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "title_hint": "GB／T 33280-2016 纸尿裤规格与尺寸.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "name": "GBT 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "title_hint": "GBT 33280-2016 纸尿裤规格与尺寸.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf.md",
+   "name": "GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf.md",
+   "title_hint": "GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf.md",
+   "name": "GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf.md",
+   "title_hint": "GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "batch": "S2_Areas_Test Method_06",
+  "stage": "S2",
+  "block": "Areas/Test Method",
+  "source_pages": 10,
+  "concept_pages": 2,
+  "entity_pages": 0,
+  "comparison_pages": 3,
+  "updated_existing": 8,
+  "manual_review": 1,
+  "notes": "source_pages: BM simulant A配方 & BM gun操作 / GBT28004.1-2021纸尿裤中交货水分的测定 / 面层粘合强度测试方法 / TTM-00445 BM Run-off / STM-00059 反渗 / STM-00090 腰围密封强度 / STM-01078 OD产品折叠后长度宽度测量方法（成品·NJ）/ STM-01078 …（产品折叠长度）/ STM-00440 腰围皮筋张力 / STM-00040 厚度。concept_pages(新建): BM Simulant A（便液模拟液 A）/ Folded Product Dimension Test（折叠后长度·宽度测量）。comparison_pages: 成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）/ 3D 面层-支持层结合强度两法对比（WI-56934 vs WI-57507）/ BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗）——均含【成本】【供应链风险】列。updated_existing: Thickness Test（补齐 STM-00040 列）/ Rewet Test / Run-off & Leakage Test / Seal Strength Test / Elastic Tension & Creep / Liner-Surge Embossing / GB-T 28004.1-2021 / KC Nanjing Plant（均仅追加 2026-09-29 记录）。manual_review(1): TTM-00445 文件页眉同时出现 TTM-00645 与题名 TTM-00445，编号并存未裁决，需人工确认正式编号。存疑/待验证: 交货水分未抄录国标限值；STM-00040/00059/00090/00440 均未给合格阈值；WI-56934 与 WI-57507 速度口径一方未明示；STM-00440 读数单位未明示；WI-62416 类同。口径差异已分别标注：厚度 0.2 PSI 两法（10 s vs 3 s、去皮筋 vs 不去、两点均值 vs 单点）、3D 面层同一界面两 WI、BM 滑渗 vs 尿滑渗（非牛顿流体/11 mL/铺展尺寸 vs 盐水/60-180 mL/体积或质量）、弹性三级尺度（整圈 STM-00440 vs 单根 STM-00070 vs 部位级 STM-00686/WI-59910）。"
+}

@@ -1,0 +1,29 @@
+{
+  "batch": "p1_Ebewole Polymer Science Tech_01",
+  "book": "Ebewole Polymer Science Technology",
+  "done": [
+    "Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification.md",
+    "Ebewole Polymer Science Ch02 Polymerization Mechanisms.md",
+    "Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure.md",
+    "Ebewole Polymer Science Ch04 Thermal Transitions in Polymers.md",
+    "Ebewole Polymer Science Ch05 Polymer Modification.md",
+    "Ebewole Polymer Science Ch06 Condensation Step-Reaction Polymerization.md",
+    "Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Ebewole Polymer Science Ch04 Thermal Transitions in Polymers.md",
+      "issue": "等规 PP 的 Tm ≈ 165 °C 来自本章摘录的应用注记，原书页码未在源文件中标明，已标 [待验证]；Table 4.1–4.7 的 Tg 数值为摘录转述，建议回原书核对表号与单位。"
+    },
+    {
+      "page": "Ebewole Polymer Science Ch06 Condensation Step-Reaction Polymerization.md",
+      "issue": "化学计量比形式 DP = (1+r)/(1+r–2rp) 在源摘录中标注为 [未找到原句]，仅以 [待验证] 记入正文，未作为定量结论使用。"
+    },
+    {
+      "page": "Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure.md",
+      "issue": "Table 3.3 键能区间（ionic 560–1000 / covalent 60–600 / hydrogen ≤50 / dipole ≤20 / induction ≤2 / van der Waals 0.08–4.0 kJ/mol）与 Example 3.1 的 PE 135 °C vs F₂ −219.6 °C 为摘录转述值，建议回原书 Table 3.3 / Table 3.4 复核。"
+    }
+  ],
+  "count": 7
+}

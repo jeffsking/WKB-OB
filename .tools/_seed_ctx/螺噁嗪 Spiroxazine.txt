@@ -1,0 +1,46 @@
+# SEED: 螺噁嗪 Spiroxazine
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Photochromism Dihydroindolizines
+#
+# 全库正文命中 5 页，11 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]  (4 句)
+   • **价值链三层**：① **染料/分子**（spiropyran、diarylethene、螺噁嗪等）→ ② **配方化颜料/油墨**（微胶囊粉、色膏、印刷墨）→ ③ **终端成品**（镜片、太阳镜、智能纺织品、玩具、防伪标签）。
+   • **力响应能力现状**：**无商用"开箱即用"的力–光双响应光致变色材料** ；能力分布在 **(a)** 少数可供应螺吡喃/螺噁嗪原料分子的特种化学品厂商，与 **(b)** 掌握双响应配方 know-how 的高校研究组 。
+   • 1. 光致变色供应链**成熟且集中**，但**几乎全部仅光响应**；镜片段由 Transitions/Essilor、Tokuyama、Mitsui、Vivimed 主导，**颜料/油墨/成品段中国厂商性价比与交期优势显著** 。
+2. **力学刺激响应是"原料级机会"而非"成品级供给"** —— 可采购的力响应光致变色供给 = **螺吡喃/螺噁嗪分子**（**天津塞特瑞为最务实来源**），成品化须自研或联合定制商（OliKrom）与高校 。
+3. **天津塞特瑞是连接"光致变色"与"力致变色"的关键枢纽供应商** —— 其分子骨架与文献双响应体系同源，是任何力响应应用落地的**第一采购锚点** 。
+   • 1. **若目标为力学指示应用**（如贴身穿戴拉力/贴合度可视化）：以**天津塞特瑞螺吡喃/螺噁嗪原料**为起点，联合 **OliKrom（定制配方）** 或高校（华盛顿大学式 3D 打印/棉布涂层路线）做配方开发。
+2. **若目标为常规光致变色成品采购**：镜片/太阳镜走 **Transitions 体系**或中国 OEM/ODM（KARUSON、温州/广州集群）；颜料/油墨走**盛色、崇誉、CTI、QCR**，按应用场景比选成本与合规。
+3. **合规前置**：贴身/婴幼儿场景须过 **FDA 21 CFR、EU 10-2011、REACH**；盛色已标"食品接触级"可作优先筛查对象。
+4. **建立双响应技术雷达**：跟踪螺吡喃力致变色（**TDBA-SP、NSP、Rh–SP**）与可印刷力响应油墨的专利与中试进展，锁定早期 IP 与供应商。
+
+--- [[光致变色 Photochromic]]  (2 句)
+   • **Molecular families and mechanism 分子家族与机理.** The five families approaching the ideal requirements are **spiropyrans、spironaphthoxazines、naphthopyrans、fulgides、diarylethenes**；其中 naphthopyrans 因温依赖中等 + 疲劳性好而成为商用眼科镜片首选（源：Chromic Phenomena Introduction and Reversible Colour Change）。A representative path: **螺吡喃 C_spiro–O 键受力开环 → 有色部花青（merocyanine）异构体**（源：Chromism Taxonomy（变色现象分类））。
+- **Light-driven switching in polymer matrices 聚合物基体中的光开关.** 偶氮苯（cis–trans 异构化）与螺吡喃被嵌入 LC 聚合物或水凝胶，将光子转译为拓扑/功能变化（源：Stim
+   • **Wetness / UV indication in absorbent articles 尿湿与 UV 指示.** 光致变色 novelty printing & textile 可直接对接成人失禁用品的「湿度/UV 指示」智能面层（UV 暴露后变色 → 提醒更换）（源：Chromic Phenomena Introduction and Reversible Colour Change）；Smart Textiles 亦记录 photochromics 用于提示紫外线辐射水平的防晒场景，以及阳光下显色的枕套图案（源：Smart Textiles and Their Applications）。
+- **Supplier base already serving hygiene 已服务卫材的供应面.** CTI 的 Hydro-Chromic（遇水/尿液变色）**专门用于纸尿裤湿显**，客户包括 P&G、Kimberly-Clark；松井色素服务尤妮佳、花王、大王等日系品牌；Intellego Technologies 的湿敏指示器（Wetness Indicator）用于纸尿裤
+
+--- [[Tianjin Security-Chemical（天津塞特瑞科技）]]  (2 句)
+   • **唯一 ● 级**：在  的力响应评级中，**全部 30+ 家受评供应商里，只有本实体被评为 ●（具备：原料级，可改造为力响应）**；其余为 ◐（潜力）或 —（仅光响应）。
+- **分子同源性（判据）**：其所售 **螺吡喃/螺噁嗪骨架**与**文献已证双响应（光 + 力）体系同源**——螺吡喃的 **C_spiro–O 键受力开环 → 有色部花青异构**。
+- **⚠️ 但它是原料级，不是成品级**：源文明确——**"可采购（原料级），非终端力响应产品"**。即**买到的是分子，不是能直接用的力响应油墨/涂层**。
+- **⚠️ 锚点地位是推断（I-2）**：源文把"第一采购锚点"标注为 ** 推断**，依据是**分子同源性**，**未经样品验证**。
+   • **2026-08-03**（Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应））：被列为力响应应用落地的**第一采购锚点**；建议路线为「**以其螺吡喃/螺噁嗪原料为起点，联合 OliKrom（定制配方）或高校（华盛顿大学式 3D 打印 / 棉布涂层路线）做配方开发**」（该建议为 ** 假设级**）。
+- **⚠️ 无任何实际接触记录**：库内**无**样品、报价、TDS/SDS、产能数据或送样记录；**全部信息来自公开产品目录与检索**。
+
+--- [[Photochromism Dihydroindolizines]]  (2 句)
+   • **商业范式已存在** — "an important impetus was brought to the field … by the optimization of known systems such as spiroxazines … being commercially used in ophthalmic lenses" (lines 30-31)
+- **DHI 的卖点** — "a new class of photochromic molecules, e.g. dihydroindolizines (DHI) … can be prepared easily" (lines 59-60)
+- **完整光化学回路** — "The photochemically induced ring opening leads to a betaine, which reacts via the E- to the Z-isomer. Ring closure or 1,5-electrocyclization occurs thermally in a concerted f
+   • **UV 显影防伪包装（最直接可迁移）** — 螺噁嗪已在透明塑料基体中商业化，是纸尿裤/卫生巾纸箱与柔性包装上做 UV 显影图形、隐藏信息、品牌防伪的直接、已验证模板。
+- **光驱动可复位湿敏/饱和度指示** — DHI 是可由光调谐的可逆开关；湿敏指示目前依赖 pH/染料一次性体系，光致变色叠层可作可复位的视觉线索，与一次性 pH 化学互补。
+- **储运光暴露计时标签** — 彩态寿命可调（2b 达 213 min），可为光敏原料（SAP、胶黏剂）料桶设计"时编码"UV 暴露标签。
+- **体液离子选择性光学指示** — 冠醚 DHI 提供"结合可调的反应性"与色离子载体分子识别，是嵌入面层或试纸条的离子选择性（如尿液 Na⁺/NH₄⁺）光学指示路线。
+- **生物相容的工艺结论** — 关键制造准则是"把光致变色体分散在稳定聚合物膜中（ionomer/TPU 与无纺布层压），而非裸露在 SAP 芯层中"，因为湿化学环境会主导其失效。
+- **放置约束** — DHI/螺噁嗪为有机光致变色体，需 UV 激发且有有限疲劳寿命；适合包装、标签与非接触外层指示，不适合置于吸水 SAP
+
+--- [[Molecular and Supramolecular Systems]]  (1 句)
+   • 本文是一篇**基于会议报告撰写的光致变色综述论文**（非教科书），篇幅 14 页（pp. 645–658），覆盖范围从"已知光致变色分子分类"到"新一类 DHI 光致变色分子的制备、机理与结构-反应性关系"，再到"超分子主客体调控"与"螺噁嗪商业镜片应用"。
+

@@ -1,0 +1,119 @@
+# SEED: 复合膜 Composite Membrane
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Diffusion in Heterogeneous Media (Crank Ch.12)
+#
+# 全库正文命中 130 页，217 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Polypropylene Handbook Preview]]  (6 句)
+   • **Duplicate warning 重复提示.** The vault filename suggests a standalone "Polypropylene Handbook", but the document itself opens on the cover and front matter of *Handbook of Polypropylene and Polypropylene Composites*, Second Edition, Revised and Expanded, edited by Harutun G. Karian, ISBN 0-8247-4064-5, Marcel Dekker.
+   • Identical to Handbook of Polypropylene and Polypropylene Composites — see that page for the full 20-chapter table of contents and the chapter-by-chapter annotations. Reproduced here only to the depth needed to use this entry independently:
+   • **Ch.1 Global Trends for Polypropylene** — M. J. Balow: regional consumption, growth by conversion process, suppliers and consolidation, recycling, specialty PP.
+- **Ch.2 Polypropylene: Structure, Properties, Manufacturing Processes, and Applications** — W. J. Kissel, J. H. Han, J. A. Meyer: PP types (homopolymer / random copolymer / impact copolymer), tacticity, MW and MWD, mechanical properties, rheology, morphology, thermal analysis, bulk-slurry and gas-phase manufacturing processes, then **2
+   • **HIGH 高关联 — but redundant within this vault 但在本库内冗余.** The technical content is highly relevant (see Handbook of Polypropylene and Polypropylene Composites for the full rating and the SSMMS / resin-selection / thermal-bond argument). Since this document carries no text the twin does not, it should be treated as a **duplicate registration**, not as an independent corroboration:
+
+--- [[液晶 Liquid Crystal]]  (5 句)
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Bio-inspired columnar proton channels.** Bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into **homeotropically oriented columnar proton channels** with water-independent conductivity and size-selective ion transport（源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a **wide temperature range**; hydrophobic mesogeni
+   • **Thermal-transition bridge.** Polymer thermal behaviour is bridged by **Tg** and **Tm**: a semicrystalline polymer between Tg and Tm is a composite of rigid crystals + a rubbery amorphous phase（源：Ebewole Polymer Science Ch04 Thermal Transitions in Polymers）。
+   • **Ion transport.** The bio-inspired discotic LCP proton channels (water-independent, Nafion-comparable, size-selective) are the materials foundation of the ion-transport thread — connected at concept level to the electrolyte/ion behaviour of wet SAP networks, though the vault states no direct SAP measurement （源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。
+
+--- [[06_SSMMS无纺布技术研究报告.md]]  (4 句)
+   • Industry research compilation (2026-04, web-sourced: 企业官网/行业报告/展会信息) on SSMMS spunmelt composite nonwovens（五层纺粘-熔喷复合无纺布）, centered on 广鸿新材's industrialization. Supplies the structure-performance baseline and China supply landscape for hygiene top/backsheet material selection.（SSMMS 结构-性能基线与中国供应格局。）
+   • SSMMS = Spunbond-Spunbond-Meltblown-Meltblown-Spunbond: S layers (PP, 15–30 μm) give strength/abrasion; the double M layers (PP, 1–5 μm) give filtration/barrier/antibacterial. Vs SMS: hydrostatic head >50 cmH₂O (vs 30–40), filtration efficiency >95% (vs 85–90%), strength +20–30%, softer hand, comparable breathability. One-step process: 3 spunbond + 2 meltblown extruders → metering → forming → thermal calendering; window: extrusion 190–250 °C, meltblown 230–280 °C, spinning 3,000–5,000 m/min, cal
+   • **SSMMS 用约 1,200 元/吨的溢价换取阻隔与强度的代际提升**，是中高端卫材底膜/面层的候选升级路线 —— 支撑页：Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- **广鸿新材是国内 SSMMS 产能领跑者** —— 支撑页：广鸿新材
+   • 概念 Concepts：Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- 实体 Entities：广鸿新材
+
+--- [[General Conclusions and Appendixes]]  (4 句)
+   • The thesis capstone: it consolidates both platforms (photoresponsive LCP polyesters for controlled release; oriented columnar membranes for selective, humidity-independent proton transport) and states the EIS-vs-I–V measurement caveat.
+（论文收官章：收束两大平台（光响应液晶聚酯用于控释；取向柱状膜用于选择性、湿度无关质子传输），并给出 EIS 与 I–V 表征的方法学警示。）
+   • Two technical platforms close six chapters under the unified "smart applications" goal: photoresponsive main-chain LCP polyesters and columnar/ordered ion-transport hybrid membranes.（两大平台在"智能应用"总目标下收束六章：光响应主链液晶聚酯与柱状/有序离子传输杂化膜。）
+- Photoisomerization is the controlled-release engine: α-methylstilbene main-chain polyesters undergo UV-triggered Z↔E isomerization causing backbone contraction, releasing vanillin from microcapsules that are dark-stable.（光异构是控释引擎：含 α-甲基芪的主链聚酯经 UV 触发 Z↔E 异构致主链收缩，从而在暗态稳定的
+   • Both LCP platforms realize the thesis "smart applications" goal (controlled release + selective humidity-independent transport) — support page: Liquid Crystalline Polymers Smart Applications.
+- EIS is unreliable for polyamine hybrids; I–V is the correct method — see Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2 and the polyester platform in Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene / Applying 
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 聚酯合成章：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜基础章：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- 纳米线 Part 2：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+
+--- [[General Introduction and Objectives]]  (4 句)
+   • This is the thesis's conceptual foundation: it defines stimulus-responsive "smart materials" via liquid-crystalline polymers and sets the two application threads (photoresponsive microcapsules + proton-conductive membranes).
+（本章是全书的立论基础，界定"智能材料"并以液晶聚合物为核心载体，引出光响应微胶囊与质子导电膜两条应用主线。）
+   • "Smart materials" historically trace to 1800s reports of magnetostriction; the thesis narrows the definition to polymers that can moderately reorganize their structure under stimuli, with novel liquid crystalline polymers (LCPs) as the central carrier for new material design, synthesis and system integration.（"智能材料"概念可溯至 1800s 磁致伸缩；本书将其收窄为可在刺激下中等程度重组结构的聚合物，并以新型液晶聚合物为核心载体。）
+- Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range orde
+   • Smart materials (narrowed): polymers able to moderately reorganize structure under stimuli — support page: Liquid Crystalline Polymers Smart Applications.
+- LCP classification (MC/SC × calamitic/discotic) governs which smart application is pursued — photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 材料平台（后续章）：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜主线（后续章）：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+
+--- [[AUL 加压吸水率]]  (3 句)
+   • 同列概念（源：Research Advances in Superabsorbent Polymers (Polymers 2024)）：SAP（高吸水树脂）、吸收芯体、PAA 聚丙烯酸、CRC 离心保持能力。
+- 同列概念（源：Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）：SAP（高吸水树脂）、表面交联 Surface Cross-linking、蒙脱土 Montmorillonite。
+   • AUL（加压吸水率）是 SAP（高吸水树脂）的评价项之一，与 CRC 离心保持能力、表面交联 Surface Cross-linking 等在 SAP 综述文献中并列出现（源：Research Advances in Superabsorbent Polymers (Polymers 2024)、Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）。
+- 本库同主题页面（交叉引用，未据其取数）：承压吸收 AUL、SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）、SAP（高吸水树脂）。
+   • Research Advances in Superabsorbent Polymers (Polymers 2024)
+- Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)
+- 承压吸收 AUL
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAM Testing Methods（超级吸水材料测试方法）
+
+--- [[Meltblown Nonwoven（熔喷非织造布）]]  (3 句)
+   • 1. **Drag-limited attenuation 阻力限制的牵伸**：filament reaches velocity-matching with the air jet, and after that mass conservation fixes the diameter（d ∝ v(m / Λ v_a)）。Melt viscosity only changes how fast matching is reached — 2.4 mm from the tip at 285 °C, 2.7 mm at 250 °C。中文：一旦与射流速度匹配，质量守恒即锁定直径；粘度只影响「多快达到匹配」。
+2. **Three real levers 三个真实杠杆**：cut g/hole/min（0.73 → 0.20 at fixed line output means 35 → 130 hpi）、raise jet velocity（150 → 250 m/s buys 2.85 → 2.21 µm, then saturates）、and **nothing else** —
+   • Composite structures 复合结构：SMS复合结构、Film-Free Backsheet（无膜背层）
+- Process peers 同层工艺：热风粘合无纺布、无纺布五大工艺对比
+- Governing physics 支配物理：Formation-Limited Barrier（阻隔的成形受限机理）、熔融指数与化学降解
+- Hardware 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- Resin 树脂：茂金属聚丙烯
+   • ✅ **验证记录（2026-09-29）**：以上均为**供应商自述 + 本方现场判断**，未见实测数据；强力数值为供应商现有产品的干态口径 [待验证]。参见 Coform Composite Nonwoven（熔喷-木浆复合非织造）、绒毛浆（Fluff Pulp）。
+
+--- [[吸收芯体]]  (3 句)
+   • The vault has no standalone generic definition of 吸收芯体 (the absorbent core); the working sense used across the citing sources is **the liquid-storing middle layer of a disposable absorbent article**, built from a fibre phase plus superabsorbent polymer. For the composite variant, the vault *does* give an explicit regulatory definition: 复合吸收芯体（Composite Absorbent Core）是**以无尘纸/无纺布包裹 SAP + 绒毛浆的预制芯**（a pre-formed core of airlaid/nonwoven wrapping around SAP plus fluff pulp）（源：QB-T 5650-2021 Composit
+   • **Core as a distinct standard layer 芯体作为独立标准层级.** QB/T 5650-2021 places the composite absorbent core at its own层级, and its **吸收速度（≤40 s）比婴儿成品（≤50 s）更严**（源：QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体））——芯体作为「中间品」层级是供应商准入与技术协议的直接判定依据。
+- **Core covering process 芯体包覆工艺.** 热风法非织造布是纸尿裤吸收芯体包覆层的典型场景，其蓬松结构提供导流空间（源：无纺布五大工艺对比）；复合结构上，**热风棉 + SAP + 底膜**构成纸尿裤/卫生巾吸收芯体的整体结构（源：SMS复合结构）。
+- **Interfaces with the intake system 与摄入系统的界面.** ADL 对芯体的三层职责为 ACQUIRE → D
+   • QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）
+- CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- Manufactured Fibre Technology Ch15 Acrylic Fibres
+- ADL（导流层）
+- Intake System（摄入系统）
+- SMS复合结构
+- 无纺布五大工艺对比
+- GB 15979-2024（一次性使用卫生用品卫生要求）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 传统芯体 vs 复合芯体（性能·成本·供应链）
+- SAP（高吸水树脂）
+- 绒毛浆（Fluff Pulp）
+- Rewet Test（回渗测试）
+
+--- [[熔喷 Meltblown]]  (3 句)
+   • 熔喷（meltblown）与纺粘（spunbond）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 熔喷非织造布即 **meltblown nonwoven / 熔喷 PP 纤维（meltblown polypropylene）**，以高速热气流牵伸熔融聚合物形成超细纤维网。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造）、Polymer-laid web formation）
+- **树脂牌号分野**：纺粘用 ~35 MFR 的 CR 均聚物；熔喷用 **≥500 MFR、窄分子量分布（narrow-MWD）** 牌号 —— 这是熔喷与纺粘在树脂选型上的分界。（源：Handbook of Polypropylene and Polypropylene Composites）
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • Polymer-laid web formation（熔喷作为一体化熔融挤出成网；§4.9–4.13 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites（纺粘 / 熔喷 MFR 树脂分野的一手出处）
+- Meltblown Nonwoven（熔喷非织造布）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）、Laser-Assisted Die Tip（激光辅助模头）（牵伸机理与激光加热）
+- Formation-Limited Barrier（阻隔的成形受限机理）、Film-Free Backsheet（无膜背层）、SMS复合结构、SMS 纺粘熔喷复合（阻隔与载体）
+- Coform Composite Nonwoven（熔喷-木浆复合非织造）、绒毛浆（Fluff Pulp）、ADL（导流层）（芯体包裹层相关）
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backshe
+
+--- [[纺粘 Spunbond]]  (3 句)
+   • 纺粘（spunbond）与熔喷（meltblown）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 纺粘 / 熔喷是**熔体纺丝（melt spinning）的工程化延伸** —— PP 熔体经过喷丝板（spinneret）后被高速气流牵伸成细纤维；本章给出熔纺的物理框架（熔融 → 过滤 → 喷丝板 → 牵伸取向）。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- **非织造四要素因果链**：纤维 → 排列 → 粘合 → 整理；airlaid / spunbond / meltblown / spunlace / SMS 等工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配 —— 纺粘是其中一种成网工艺。（源：Absorbent Technology）
+- **树脂牌号分野**：纺粘用 
+   • **PET 在卫材中的角色**：PET 主要以**面层 / 导流层纺粘（topsheet / acquisition-layer spunbond）**以及**部分双组分短纤的芯层（core of some bicomponent staple）**出现，而非作为吸收体。（源：Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres）
+- **ATB 面层 + 双组分纺粘载体**：25 gsm 梳理 ATB 网 + 12 gsm PE/PP 双组分纺粘载体，在 600 m/min 车速下在线超声粘合与 3D 花型成型 —— **纺粘是载体 / 支撑层，不是导流芯（carrier, not a wick）**。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination、SMS复合结构）
+- **超声响应是 ES 属性**：不可粘的单组分 PET 会稀释花型可靠性；在腿围或侧封通道，PET 在 PP/PE 超声参数下**不软化**，作
+   • Polymer-laid web formation（纺粘作为一体化熔融挤出成网；§4.3–4.7 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites、Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins（纺粘 / 熔喷 MFR 树脂分野）
+- Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing、Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification（纤维挤出硬件与分子描述符）
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres、Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres、Manufactured F
+

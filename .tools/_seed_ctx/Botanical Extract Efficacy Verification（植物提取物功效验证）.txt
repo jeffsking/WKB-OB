@@ -1,0 +1,76 @@
+# SEED: Botanical Extract Efficacy Verification（植物提取物功效验证）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 76 页，94 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 115368497 B（一种纸尿裤生产用高吸水性树脂及其制备方法）]]  (3 句)
+   • A granted Chinese invention patent (assignee: **宜兴丹森科技有限公司**, a SAP maker) on a **diaper-production SAP** with controlled extractables & surface-crosslink ratio to avoid oily/slick touch after long use. SAP composition/process → FTO-relevant.
+   • The invention relates to a diaper-production SAP and its preparation: SAP-A 80–120 phr, organic solvent 100–200 phr, crosslinker aqueous solution 19–42 phr, reducing-agent aqueous solution 3–6 phr, with controlled temperature and added water, yielding a SAP with 4-h static extractables 0.7–2.5 wt% and excellent hand-feel; the ratio of 4-h static extractables to the 16-h stirred extractables of the pre-surface-crosslink SAP-A is 2–9. It solves crosslink-layer cracking / insufficient restriction o
+   • **Controlled-extractable diaper SAP with defined surface-crosslink ratio** — supporting page SAP（高吸水树脂） / SAP 表面包覆（SAP Particle Surface Coating）.
+- Assignee 宜兴丹森科技有限公司 is a SAP supplier (tracked as entity).
+
+--- [[Synthesis of Thermoplastic Polyester Elastomers]]  (3 句)
+   • **Introduction / review of prior art** — general TPE behaviour: TPEs show the mechanical properties of chemically crosslinked elastomers (high tensile strength, impact resistance, resilient elasticity, low-temperature flexibility) while being processed like thermoplastics by extrusion, injection or rotational moulding and calendering. Increasing soft-segment content lowers enthalpy and melting temperature, lowers tensile strength and hardness, gives less crystalline polymers, and raises elongati
+   • 1. **Design intent: non-polar soft segment.** Soft non-polar olefinic prepolymers are built into the polyester chain specifically to **improve hydrolytic and thermal stability and achieve better phase separation**, which particularly shows up as increased elasticity. Literature coverage of polyolefin soft segments in TPEs is explicitly called very scarce.
+2. **Why solution polycondensation.** Phase separation occurs during polycondensation because soft non-polar segments mix poorly with polar DM
+   • **Elastic components.** The waistband, cuff and ear-panel elastication work in this vault needs a working model of what makes a TPE elastic and how it survives converting heat. Finding 8 gives it crisply: crystallised hard phase is the physical crosslink, so anything that disrupts hard-phase crystallisation destroys recovery. Chaining to the practical side, see Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres — heat-setting is exactly the process by which crystallinity is 
+
+--- [[湿巾 Wet Wipes]]  (2 句)
+   • **Coating and drying（涂层与干燥，制造侧）**
+- Emulsion / lotion coatings on wipes behave like latex — a longer benign constant-rate period before the defect-prone falling-rate zone（源：Industrial Drying Ch40 Drying of Coated Webs）。
+- For skin-contact hygiene films and wipes, **100 % solids UV/EB** is the regulatory-friendly route — no solvent VOC, no extractable cross-linker residuals（源：Industrial Drying Ch40 Drying of Coated Webs）。
+   • A definition of the concept itself —— 。
+- Remaining **quantitative limits** of GB/T 27728.2-2024 beyond the rows above are not given in this digest 。
+- GB-T 27728-2011 page/date missing: the two in-vault copies are the same standard and both lack the date page — judged **not a single-extraction error**（源：GB-T 27728-2011 Wipes（湿巾 · 副本1））。
+
+--- [[湿迁移 Wet Migration]]  (2 句)
+   • **6. 干燥过程中的迁移（另一口径）：** 干燥中粘合剂迁移形成**表富里贫（binder-rich skin / starved core）**，导致**分层风险**（源：Chemical bonding）。同一章对聚合物型增塑剂的表述为 "less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+   • ：湿迁移的**定义句与量纲口径**（含水量 / 饱和度 / 迁移通量）在引用来源中均未给出。
+- ：本库尚无把「湿迁移」与回渗（rewet）定量关联的摘录；湿迁移 ≠ 回渗，引用时不可混用（源：Diffusion Equations (Crank Ch.1)）。
+- ：微胶囊语境下的迁移表述在摘录中**被截断**（"Migration is the hard …"），原文残缺，不予补写（源：Microencapsulation）。
+- ：助剂迁移「未被量化」——原章只定性给出 less susceptible to migration / less extractible，**未给出迁移速率模型或萃取限量数值**（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+- ：GB/T 34405-2017 的 LOQ 数值在摘录中被截断（LOD 0.005 mg/kg 可读，LOQ 不可读）（源：GB-T 34405-2017 Determination of Acrylamide Migration 
+
+--- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]  (2 句)
+   • 1. **Thesis**：integrating force-responsive, **power-free** sensors transforms commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。（论点：力响应、无源传感，让日用品纸尿裤变成「智能」安全装置，且不依赖昂贵电子件。）
+2. **Moat**：first-mover advantage hinges on successfully **de-risking the massive leap from lab-scale mechanochemistry to high-speed industrial nonwoven lines**。（护城河在于把「实验室力化学 → 高速工业无纺线」的跳跃降险。）
+3. **Two diagnostic zones are named**：**Zone 1 waistband tabs（防
+   • Local path 本地路径：
+- Original link 原文链接：（无；内部资料）
+- Extraction note 提取说明：源 front matter 记录 extract_method = ima-mcp fetch_media_content，clean_rules v2（dead-image-link→text、repeat-digits 压缩）；正文本页引用处已标注「OCR 残片 / 口径待确认」。
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (2 句)
+   • **Eq. 9.1 是取向连续纤维纵向模量的上限估计**：对非连续、随机取向的短纤维或非织造结构，需引入取向效率与长度效率因子；本章未给出 —— 直接套用会高估模量。[待验证] 修正系数需另引复合材料文献。
+- **Alloy vs. Blend 的二分是语义约定而非热力学判据**：本章以"synergy"定义 alloy，以"≤ 算术平均"定义 blend；是否出现协同取决于 Eq. 9.3 中 I 的符号，而 I 本身由相容化水平决定 —— 二者并非截然两类，而是同一连续谱的两端。
+- **ΔG_m = ΔH_m − TΔS_m 只给出平衡判据**：高分子混合的 ΔS_m 极小，故"Polymers, in general, tend to be immiscible"；但本章未讨论**动力学锁定（加工剪切下的分散与相区尺寸冻结）**，而工业共混的实际形貌恰恰由动力学决定。
+- **助剂迁移与健康合规未被量化**：本章只定性给出"less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值 —— 卫材与食
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+
+--- [[GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）]]  (2 句)
+   • A **migration-caliber**（迁移量口径）method for acrylamide in household papers — artificial-sweat extraction at 37 ℃ followed by isotope-dilution LC-MS/MS; the counterpart (not substitute) of the GB/T 37859 content-caliber method cited by GB 43631-2023.
+   • GB/T 34405-2017 (SAC/TC 374) measures acrylamide migrating out of household paper products under simulated skin contact: the sample soaks in freshly prepared artificial sweat (GB/T 3922-2013 recipe) with D3-acrylamide internal standard, at 37±2 ℃ for 10 min (tissue/wipes) or 4 h (diaper & sanitary-towel skin-contact cover layers only), then the extract is run on LC-MS/MS in ESI+ MRM mode (72>55 quantifier). Calibration spans 0.05–5.0 µg per 50 mL. Performance is strong — LOD 0.005 mg/kg, LOQ 0.0
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (2 句)
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[Introduction to Liquid Crystals]]  (2 句)
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+   • Also present: a small two-column first-order/isotropic-phase snippet naming B1, B2, F1, F2 and the value 30 °C, whose meaning is unclear in the flattened extract and is therefore **not reproduced as a finding**.
+
+--- [[Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments]]  (2 句)
+   • **EN**: A scholarly review of the advanced chemistry applied by ancient dyers to organic dyes and pigments from flora and fauna sources. Covers ionic/covalent/intermolecular bonding, coordinate complexation, enzymatic hydrolysis, photochemical chromogenic precursor oxidation, anaerobic bacterial fermentative reduction, and redox reactions. Some textile dyeings survive after six millennia. Cross-references with hygiene products in natural dyes, plant-based materials, and botanical extracts.
+   • 天然染料 Natural Dye
+- 植物基材料 Plant-Based Material
+- 植物提取物 Plant Extract
+- 湿巾 Wet Wipes
+

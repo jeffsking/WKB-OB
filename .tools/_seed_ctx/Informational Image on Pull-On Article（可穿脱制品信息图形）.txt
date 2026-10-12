@@ -1,0 +1,119 @@
+# SEED: Informational Image on Pull-On Article（可穿脱制品信息图形）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 151 页，255 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[US11013641 Garment for Detecting Absorbent Article Leakage]]  (6 句)
+   • **Electronic wetness/leakage detection on an over-garment（外穿服装上的电子湿感/渗漏检测）** — a substrate (garment) carrying a distributed wetness detection system, used to localise and time leakage from an absorbent article worn underneath.
+   • Int. Cl. **A61F 13/42**（吸收制品的湿气/湿度指示装置）, **A61F 13/74**（吸收制品的固定/附着件）, **A61F 13/84**；CPC 另含 A61F 2013/424, A61F 2013/8482.
+- Target absorbent articles named in the source: diapers, training pants, incontinence products, feminine care products, swim pants.
+- **Key boundary: the claimed article is the GARMENT, not the absorbent article**（权利要求对象是外穿服装，不是吸收制品本身）.
+   • 1. **Conductive element as the transducer** — conductive materials listed: **conductive threads, conductive tape, conductive rubber, conductive wires**. Preferred: **silver-plated conductive thread at 60 ohms/meter**, exemplified by **Shieldex® 110/34 dtex 2 ply HC Premium Line**（polyamide 6.6 trilobal filament, **99% silver plating**）.
+2. **Read-out** — a controller applies **3.3 VDC** across the conductive thread and monitors the voltage at its ends. **Dry state ≈ full-scale 3.3 V; wet state v
+   • Figures: FIG.1 front plan view of garment 10 (onesie form) showing substrate 14, wetness detection system 12, mechanisms 16/20/28/32 and detection zones 18/22/30/34; FIG.1A partial cross-section showing porous material 15, waterproof backing 17, substrate inner surface 42; FIG.2 perspective of an exemplary absorbent article (diaper 100) with outer cover 102, bodyside liner 104, fastening system 106, leg flaps 108, front end edge 110 / rear end edge 112 / first side edge 114 / second side edge 11
+
+--- [[Intelligent Textiles and Sports Clothing]]  (5 句)
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **PCM (Phase Change Materials) knits**: microcapsules accumulate and retain heat at higher temperature and subsequently release it at lower temperature, giving thermo-regulatory performance.
+- **Shape memory polymer (SMP)**: characterised by a large reversible elasticity change at the glass transition temperature. The flagship example is **Diaplex** (Japan), which maintains body temperature by redistributing its particles: at low temperature the particles arrange into a solid plate forming an in
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+
+--- [[Smart Fabrics and Networked Clothing]]  (5 句)
+   • **Note 注:** this is a **magazine/journal feature article**, not a monograph; the extraction carries no cover or imprint page, so publisher, journal title, volume and year are **not stated** in the source text and are recorded here as unknown. The latest cited reference is from 2016, which places publication at roughly 2016–2017 — treat that as inference, not as retrieved metadata.
+   • The article argues for a **fibre-level** integration strategy: rather than bolting electronics onto cloth, make the fibre itself the device. Sections:
+   • **LOW–MODERATE 低到中等关联.** Honest assessment: this article has essentially **no** route into an absorbent core product. Nothing addresses acquisition, distribution, SAP, PP nonwoven, bonding, or converting. Its relevance is to a *sensing and connectivity* programme, and even there it fails on cost grounds for a single-use disposable.
+   • The only idea with genuine pull is **fibre-level function without losing handle** (finding 2 and 3): making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces. The article's candid statement that as-prepared CNT fibres **fail** on softness and processability is a useful negative result — it indicates a CNT-based route is premature for a disposable.
+- The power-budget arithmetic (finding 6) is transferable as 
+
+--- [[US10905605 Pull-On Wearable Article with Informational Image]]  (5 句)
+   • Pull-on pants-type wearable articles（套穿式裤型可穿戴制品）adapted for use by a **pre-literate child（学龄前不识字儿童）**. The invention sits in the field of *visual + tactile user guidance on the garment exterior*, not in electronics or wetness chemistry:
+   • 1. **Cognitively functional graphic（认知功能图形）** — a graphic *in the image of a hand* placed on the side region. The hand image is self-explanatory: it tells the child "grasp here" without words.
+2. **Texture feature（纹理特征）** — a physical, feelable structure formed *in the laminate*: outer nonwoven layer + inner nonwoven layer + **elastomeric element（弹性体元件）disposed between** them, where **the outer layer comprises apertures（开孔）which expose portions of the elastomeric element**, thereby providing the
+   • Figures cited: FIG.1 closed-configuration pull-on; FIG.2/3 refastenable variant; FIG.4/5 further refastenable side panel; FIG.6 flat-open plan view (front waist 38 / rear waist 40 / crotch 42, longitudinal axis 31 / transverse axis 33); FIG.7 auxiliary layer 122; FIG.8–10 image placements; FIG.11 icon array; FIG.12–14 texture cross-sections (protrusion / depression / apertures 176 exposing elastomeric element 174); FIG.15A/B, 16A/B, 17A/B relaxed vs extended readability on zero-strain / film / p
+   • 1. **Not a chromic-ink patent — but a strong "where to print" reference.** This patent claims *where* and *how* a graphic sits on an extensible side panel (relaxed-state legibility, apertured-nonwoven texture proximity). A chromic wetness or comfort indicator placed on a stretch laminate must meet the same **relaxed-state legibility（松弛态可读）** and **print-durability（耐水/尿液不洇渗、不转移）** requirements spelled out here. See Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）.
+2. **Explicit 
+
+--- [[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]]  (5 句)
+   • P&G's granted patent covering the **"grab here" hand graphic on the side panel of a pull-on diaper, legible in the relaxed state and reinforced by a texture feature** — the library's reference for the *user-communication* (as opposed to leakage-indication) use of graphics on a diaper.
+   • A pull-on wearable article includes a main portion comprising an outer cover, defining front waist, rear waist and crotch regions. First and second extendable side regions connect the front and rear waist regions to form the article in a closed waist configuration, at least a portion of each side region being extendable between a relaxed state and an extended state. An **informational image**（信息图形）is disposed in at least the first side region. The article may further include a **texture feature*
+   • **This is a communication patent, not a leakage-indicator patent** — the graphic tells the caregiver/child *how to use* the article; it does not measure or signal wetness. → Informational Image on Pull-On Article（可穿脱制品信息图形）
+- **Relaxed-state legibility is the design constraint** — images are placed/made for the rest state, which drives how they are printed onto elastic laminates. → Informational Image on Pull-On Article（可穿脱制品信息图形）
+- **Graphic + texture = composite image** — the aperture texture 
+   • Concept 概念：Informational Image on Pull-On Article（可穿脱制品信息图形）、Graphic Sheet in Non-Stretch Zone（非弹性区图形片）、Wetness Indicator Ladder（尿湿指示阶梯）
+- Entity 实体：The Procter & Gamble Company（宝洁）
+- Related 相关：US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (4 句)
+   • An **improved composite elastic feature（复合弹性部件）** for absorbent articles that is easier to handle during manufacture and subsequent processing, disclosed in EP0820747A1 Absorbent Article with Elastic Feature (P&G)（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. The feature comprises **at least one extruded elastomeric layer** and **at least one extruded, substantially non-elastomeric layer** which together form a film（至少一层挤出弹性体层 + 至少一层挤出、基本非弹性层，共同构成薄膜）. Before the film is elasticise
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+   • Directly relevant to **diaper/pant elastication** — waist, cuff and ear-panel elastic components. The co-extruded film feature is the material route behind the elastic-feature cluster that also covers Elastic Strand Snicking（弹性橡筋断丝失效化）, Elastic Tension & Creep（橡筋张力与回缩率） and Waist Guard（腰围护挡）, and it links to pant-type articles (Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、EP2413866B1 Disposable Wearing Article (Unicharm)）. Because the film must be adhesively attached, it is the attachment t
+   • EP0820747A1 Absorbent Article with Elastic Feature (P&G)
+- EP2413866B1 Disposable Wearing Article (Unicharm)
+- EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)
+- CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）
+- Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- Elastic Strand Snicking（弹性橡筋断丝失效化）
+- Elastic Tension & Creep（橡筋张力与回缩率）
+- Waist Guard（腰围护挡）
+- Synthesis of Thermoplastic Polyester Elastomers
+- Origin of Rubber Elasticity Book
+- SMMMS Film-Free vs Microporous F
+
+--- [[可穿戴传感器 Wearable Sensor]]  (4 句)
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+   • **No source read here integrates a wearable sensor into a disposable hygiene core with validated detection accuracy, power budget or cost** .
+- The wearable-electronics market and hardware figures are field-level; no hygiene-product-specific sensor spec (sensitivity, drift, lifetime) is present .
+- Recyclability / e-waste conflict with single-use hygiene is flagged as a structural obstacle but unresolved .
+- Freedom-to-operate of the cited sensor patents is **not** assessed（源：Sensor-Equipped Abs
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[导电纱线 Conductive Yarn]]  (4 句)
+   • **导电纱线（conductive yarn）** is a yarn that carries an electrical function — used in e-textiles as **wiring and/or as the sensing transducer**. In the vault's one hygiene-grade application it is the **conductive element of an electronic wetness-detection system**: the conductive materials listed are **conductive threads, conductive tape, conductive rubber, conductive wires**, with the preferred element being a **silver-plated conductive thread at 60 ohms/meter**（源：US11013641 Garment for Detecting A
+   • **Resistive (conductive) sensing.** A controller applies voltage across a conductive thread and monitors the voltage at its ends; in the dry state the reading is ≈ full-scale, and when exudate wets the path the measured potential collapses（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **How fibres are made conductive.** Synthetic fibres are poor conductors and build up electrostatic charge (p. 374); three routes are named — **chemical modification, physical blending, and addin
+   • **The vault's hygiene use-case is a conductive-thread wetness sensor.** K-C's leakage-detection garment uses a silver-plated conductive thread (60 Ω/m) + controller + ADC read-out to answer "is it wet / did it leak" — but the claimed article is the **garment**, not the absorbent article, i.e. the yarn sits on an over-garment rather than in the core（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **Electronic vs chromic branch.** This conductive-thread route is the **electronic**
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+
+--- [[热致变色 Thermochromic]]  (4 句)
+   • **Thermal-mediation chain（热媒介机理链）：** urine/body waste contacts the article → **local temperature rises** → the thermochromic compound crosses its transition → **visual colour change**. Claim 8 of US20070270773A1 requires activation "upon exposure to **temperature change generated by urine, and/or bodily wastes and/or bodily excretions**, either with **direct or indirect contact**"（源：US20070270773A1 Thermochromic Wetness Indicator）.
+   • **Two further thermochromic mechanisms** are documented on the windowed-sensor page: (1) **cholesteric liquid crystal, clearing-point type（胆甾型液晶·清亮点型）** — "常温有色、升温变透明"; (2) **temperature-sensitive liquid crystal（温度敏感型液晶）** — colour sequence "无色→红→橙→黄→绿→蓝→紫→无色"（源：US8273939 Windowed Removable Sensor Absorbent Article）. **Leuco dyes may be incorporated directly into films, nonwovens and elastomers**（source: same page）.
+   • Directly relevant to the **hygiene chromic-ink programme** — thermal-comfort and wetness indication layers on the outer surface of the article（湿感指示条 Wetness Indicator、Wetness Indicator Ladder（尿湿指示阶梯）、Active Diagnostic Zones（主动诊断分区））. The route sits alongside 光致变色 Photochromic、机械变色 Mechanochromic、电致变色 Electrochromic under Chromism Taxonomy（变色现象分类）. Primary thermo suppliers ranked by hygiene fit: **CTI (Chromatic Technologies)** and **Matsui Shikiso (松井)**（the latter with a formaldehyde caution）; 
+   • US5197958 Wetness Indicating Diaper
+- US5197958A & US5389093A Wetness Indicating Diaper (Howell)
+- US5389093 Wetness Indicating Diaper System
+- US20070270773A1 Thermochromic Wetness Indicator
+- US8273939 Windowed Removable Sensor Absorbent Article
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)
+- 变色油墨
+- Thermochromic Microcapsule (Leuco Dye System)
+- Microencapsulation
+- CTI (Chromatic Technologies)
+- Matsui Shikiso (松井)
+- 智能尿裤功能层
+
+--- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating superabsorbent polymer (SAP) particles** — spraying a liquid below the product-bed surface in a mixer with movable tools. The variant copy in this batch additionally exposes an **SFC (surface-crosslinking fraction [待验证]) calculation formula**, of direct interest to OEM SAP test protocols.
+   • The invention relates to a method for preparing superabsorbent polymer particles by polymerising a monomer solution or suspension. In a mixer equipped with a movable mixing tool, a liquid is sprayed through at least one nozzle to a position below the surface of the product bed. The disclosed variant further details an SFC calculation formula (surface-crosslinking fraction, abbreviation expansion [待验证]) for characterising the coated particles.
+   • **Liquid-below-bed-surface coating of SAP particles** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **SFC formula variant** supports surface-crosslinking process control for OEM SAP test protocols.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+

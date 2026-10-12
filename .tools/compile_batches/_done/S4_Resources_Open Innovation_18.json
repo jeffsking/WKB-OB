@@ -1,0 +1,54 @@
+{
+  "batch": "S4_Resources_Open Innovation_18",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": {
+    "new_this_run": [],
+    "preexisting_verified": [
+      "WIKI/sources/2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+      "WIKI/sources/FIUP collagen Testing Victoria Maria.pptx.md",
+      "WIKI/sources/2026.02.18 - Raegan Informal.pptx.md",
+      "WIKI/sources/SAM_511_分析汇报.pptx.md",
+      "WIKI/sources/Rewet Development.pptx.md",
+      "WIKI/sources/engineering proposal.pptx.md",
+      "WIKI/sources/Rewet Method Comparison_brief.pptx.md",
+      "WIKI/sources/无纺布分类工艺及性能差异.docx.md",
+      "WIKI/sources/BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx.md",
+      "WIKI/sources/诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md"
+    ],
+    "frontmatter_sourcepath_corrected_to_batch_src": [
+      "2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+      "FIUP collagen Testing Victoria Maria.pptx.md",
+      "2026.02.18 - Raegan Informal.pptx.md",
+      "SAM_511_分析汇报.pptx.md",
+      "Rewet Development.pptx.md",
+      "engineering proposal.pptx.md",
+      "Rewet Method Comparison_brief.pptx.md",
+      "无纺布分类工艺及性能差异.docx.md",
+      "BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx.md",
+      "诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md"
+    ]
+  },
+  "concept_pages": {
+    "new_this_run": [],
+    "preexisting_verified": [
+      "WIKI/concepts/Nonwoven Process Classification（非织造布工艺分类）.md"
+    ]
+  },
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "WIKI/concepts/FIUP Test Method TTM-00643（女性摄入与回渗测试法）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/Rewet Measurement Variability（回渗测试变异性）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/Dryness Measure System（干爽度量三分）.md （已核实存在）",
+    "WIKI/entities/诺尔（Nuoer）.md （含 37 处 2026-09-29 dated note + 8 处 manual_review 边界标注，已核实）",
+    "WIKI/concepts/Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）.md （已核实存在）",
+    "WIKI/comparisons/Rewet Method Comparison（回渗测试方法横向对比）.md （已核实存在）",
+    "WIKI/concepts/ActiveTech Platform（ActiveTech 在线薄芯体平台）.md （已核实存在）"
+  ],
+  "manual_review": 1,
+  "manual_review_items": [
+    "engineering proposal.pptx.md — knowledge_update_status=manual_review，页内含 🔴 manual_review（2026-09-29）标注：完整报价明细/交付期/质保条款/免费租赁一律不页面化，仅记技术配置（已核实标记在位）"
+  ],
+  "notes": "复核轮（2026-09-29 第二代理）结论：前代理（冻结轮）的 10/10 source 页**实际均已落盘**且内容完整（46-74 行/页）。唯一系统性缺陷：source 页 front matter 的 source_path 写成 RAW_FULL/ 前缀（而非批单 src 的 RAW/ 前缀），导致按 src 精确查重时 10 项被判缺失。本轮未重编译、未覆盖任何页面，仅将 10 页 source_path 一字不改校正为批单 src，使 10/10 全部通过 src 精确登记校验。诺尔拜访页经通读核查：仅含供应商自述产能/牌号参数（附口径警示），无报价/合同条款/个人联系方式，无需新增 manual_review。"
+}

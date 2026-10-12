@@ -1,0 +1,16 @@
+# SEED: 染料敏化太阳能电池 DSSC
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chromic Phenomena Solar Energy and Liquid Crystals
+#
+# 全库正文命中 1 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Chromic Phenomena Solar Energy and Liquid Crystals]]  (2 句)
+   • **DSSC 固态化（Toshiba）** — "Toshiba have been able to develop solid electrolytes that can be combined with DSSC technology, but on polymer rather than glass substrates. These are exciting developments opening the way for cheaper, lighter materials that can be used for applications in home, wall mounted solar batteries, and in hand held personal digital products, such as watches and mobile phones." (lines 16781-16786)
+- **商业化瓶颈（全书最尖锐的实用主义判断）** — "Whilst these approaches are extremely interesting sci
+   • **婴儿体温 / 尿湿指示（高相关）** — 书中明确提到胆甾液晶温控变色微胶囊化用于 "thermographic… for baby thermometers"（lines 17873-17876），与卫生用品的湿/温指示功能直接对口。
+- **包装珠光升级（高相关）** — 云母+TiO₂ 珠光片层（200-500 nm）提供角度依赖珠光，云母基成本低，适合大规模纸尿裤/湿巾包装；Fe₂O₃ 50-250 nm 涂层出金/红铜"组合色"，适合高端线。
+- **TiO₂ 跨规格协同（中相关）** — DSSC 纳米晶 TiO₂（光阳极）与纸品增白/涂料用的微米级 TiO₂ 属同一材料品类不同规格，存在供应商协同机会。
+- **木浆原料种植优化（中相关，间接）** — 红色地膜光生物调控（12-20% 增产）原理可外推至桉树/松树种植端的原料成本优化。
+- **防伪与新鲜度指示（中高相关）** — 全息术（§5.4）与光致变色（偶氮苯等，§5.2.2.4）可用于防伪包装与货架新鲜度指示。
+

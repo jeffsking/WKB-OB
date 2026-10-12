@@ -1,0 +1,44 @@
+# SEED: Videoimagescope
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#
+# 全库正文命中 2 页，5 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Computational Modeling in Absorbent Technology]]  (3 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Hygiene Absorption Model]]  (2 句)
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+

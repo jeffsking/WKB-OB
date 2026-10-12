@@ -1,0 +1,37 @@
+{
+  "batch": "S3_Areas_Supply Base_06",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "华南理工异形纤维：创新科技的纺织材料（公众号科普）",
+    "中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）",
+    "感光变色材料产品资料（UV_CHT1608V2 · 台系变色供方）",
+    "SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）",
+    "SDP Global 控制自由基聚合 SAP 公告（18_ 归档同名件）",
+    "SDP Global 控制自由基聚合 SAP 公告（v3 归档同名件）",
+    "感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）",
+    "BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）",
+    "BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）",
+    "芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）"
+  ],
+  "concept_pages": [
+    "扁平形截面纤维（Flat Fibre）",
+    "Controlled Radical Polymerization SAP（控制自由基聚合 SAP）"
+  ],
+  "entity_pages": [
+    "中弘芯（青岛）传感科技（Zhonghangxin Sensing）",
+    "Sanyo Chemical · SDP Global（三洋化成工业）"
+  ],
+  "comparison_pages": [
+    "CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）"
+  ],
+  "updated_existing": [
+    "entities/巴斯夫欧洲公司（BASF SE）.md（追加 HySorb 生物质平衡与 N7059 典型值）"
+  ],
+  "manual_review": [
+    "中弘芯宣传册（青岛-张经理/苏州-田经理联系人，不页面化）",
+    "BASF-YPC N7059（销售/技术联系人姓名电话邮箱，不页面化）",
+    "SDP 公告批次文件名误标：'NMP-based SAF' 实为 SAP 有机碘控制自由基聚合（已在主件页标注）"
+  ],
+  "notes": "10 项处理：03_/18_/v3 三份 SDP 文件为同一份公告（No.1814 · 2018-05-21）→ 1 主件页 + 2 归档件页；UV/TM/SS_CHT1608V2 为同厂 CHT1608 文件族三系列 → 3 源页 + 1 族内对比页（与批次05 NL 夜光系列同族）。⚠️ 遗留问题：处理实体页标题时因文件名含 '/' 误建了 'Sanyo Chemical '（尾随空格目录，内含 ' SDP Global（三洋化成工业）.md'）——删除操作被用户拒绝，残留未清理，请人工删除 E:/WKB-OB/WIKI/entities/Sanyo Chemical / 目录（可用 MSYS: rm -rf \"E:/WKB-OB/WIKI/entities/Sanyo Chemical /\"）。规范实体页已按无斜杠标题重建。"
+}

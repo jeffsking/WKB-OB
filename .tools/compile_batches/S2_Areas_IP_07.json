@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN117024899A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN117024899A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN117024899A.pdf.md",
+   "name": "CN117024899A.pdf.md",
+   "title_hint": "CN117024899A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN114044919A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN114044919A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN114044919A.pdf.md",
+   "name": "CN114044919A.pdf.md",
+   "title_hint": "CN114044919A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN116731354A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN116731354A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN116731354A.pdf.md",
+   "name": "CN116731354A.pdf.md",
+   "title_hint": "CN116731354A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN112851860A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN112851860A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN112851860A.pdf.md",
+   "name": "CN112851860A.pdf.md",
+   "title_hint": "CN112851860A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/四-1_减压腰围及制备工艺.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-1_减压腰围及制备工艺.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-1_减压腰围及制备工艺.pdf.md",
+   "name": "四-1_减压腰围及制备工艺.pdf.md",
+   "title_hint": "四-1_减压腰围及制备工艺.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-8_超吸水纸尿裤及其制备方法和应用.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-8_超吸水纸尿裤及其制备方法和应用.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-8_超吸水纸尿裤及其制备方法和应用.pdf.md",
+   "name": "一-8_超吸水纸尿裤及其制备方法和应用.pdf.md",
+   "title_hint": "一-8_超吸水纸尿裤及其制备方法和应用.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN101787101A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN101787101A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN101787101A.pdf.md",
+   "name": "CN101787101A.pdf.md",
+   "title_hint": "CN101787101A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-2_强吸水婴儿纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-2_强吸水婴儿纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-2_强吸水婴儿纸尿裤.pdf.md",
+   "name": "一-2_强吸水婴儿纸尿裤.pdf.md",
+   "title_hint": "一-2_强吸水婴儿纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md",
+   "name": "07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md",
+   "title_hint": "07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf.md",
+   "name": "08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf.md",
+   "title_hint": "08_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN108035071A_热风无纺布及其在纸尿裤上的应用和纸尿裤.pdf"
+  }
+ ]
+}

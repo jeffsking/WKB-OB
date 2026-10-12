@@ -1,0 +1,113 @@
+# SEED: 润湿剂 Wetting Agent
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 115 页，149 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Consumer Relevancy of FIUP Method Feb 2025.docx]]  (4 句)
+   • Method-justification memo（2025-02）tabulating FIUP（TTM-00643）against P&G's AFC method parameter-by-parameter, citing wetting-pattern studies and pressure research as the consumer-relevancy evidence chain. Companion to FIUP Test Method TTM-00643（女性摄入与回渗测试法） and the dryness claim substantiation work（TL-15927/R164444）。方法参数的"为什么这么设"证据页。）
+   • Parameters compared: insult position — P&G mid-pad vs FIUP Total Length/12 forward & backward of center, grounded in wetting-pattern studies showing WP centroid sits 2.5–11 mm from pad center (R168596 appendix, studies 37110/37470); fluid — saline both（ionic strength representative）; amount — per-HUT, FIUP uses 75th-percentile total loading ÷ 3 across three insults（majority ≤2 voids, ≥11% have ≥3）; flow rate 8 mL/s（peak flow for adults with bladder/urinary dysfunction, McSorley 1991）; temperatur
+   • **KC FIUP 在加液位置、温度、加液量上更贴消费者真实场景，在吸水纸与等待时间上比宝洁口径更严苛**——为"方法可比性"争议提供逐参数辩护 —— 支撑页：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- **加液位置的依据直接来自润湿图谱研究（质心 ±2.5–11 mm）**——方法与基础研究互锁 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+   • 概念 Concepts：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Wetting Pattern Target Zone（润湿图谱目标区）
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- 同族源 Related sources：R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf、R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf
+
+--- [[Handbook of Adhesive Technology Full Report]]  (4 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Interface chemistry:** SAP particles (50–400 μm sodium polyacrylate) form chemical-physical composite interphase with adjacent adhesive layer [Part 2, Line 2900–2920]
+- **Key constraint:** Adhesive must **wetting + mechanically encase** SAP particles — determines bulk absorbency under pressure
+- **Formulation principle:** Tg must be "substantially below the application temperature" [Part 3, Line 16067–16068]
+- **Chemistry:** Unmodified acrylic dispersions + hot melts dominate [Part 3, Line 165
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • Handbook of Adhesive Technology Full Report — Full 4-part detailed compilation
+- Absorbent Technology — Core absorption mechanics
+- Handbook of Nonwovens — Nonwoven lamination
+- SAP（高吸水树脂） — Super Absorbent Polymer
+- PSA — Pressure-Sensitive Adhesive
+- Hot Melt Adhesive — Hot melt adhesives
+- Silane Coupling Agent — Silicon coupling agents
+- Nonwoven Lamination — Nonwoven lamination technology
+
+--- [[R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf]]  (4 句)
+   • K-C confidential technical report (Nettekoven & Berceau, 2018) documenting eight new single-insult wetting pattern (单次排尿润湿图谱) studies for DEPEND® and POISE® in 2015–2016. It is the库内基准 for adult-care Target Zone design criteria, X-ray-based wetting pattern measurement methodology, and the evidence that outdated design inputs create cost and brand-equity risk.（成人失禁产品目标区设计与润湿图谱测量方法学的权威内部依据。）
+   • After 13–15 years without funded research, nearly all DEPEND/POISE wetting pattern inputs were outdated or assumed — e.g., only 2 of 9 POISE pad codes had ever been tested (Extra & Ultra Plus, 2000). The AFC Materials Team placed eight new studies (Apr 2015–May 2016, projects SAFARI and SHOPAD) using consumer study agencies instead of local clinical recruiting. Methodology development covered protocol questions (can consumers detect a single insult — subjects reported insult number for 71–88% of
+   • **Target zones must be re-measured on a cadence, not extrapolated from 15-year-old data** —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+- **X-ray + image-analysis replaces ruler-based visual assessment** —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+- **Garment WP must be referenced to product center, not absorbent front edge**（裤型产品须以产品中心线为基准） —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+   • 概念 Concepts：Wetting Pattern Target Zone（润湿图谱目标区）
+- 方法族 Related method：FIUP Test Method TTM-00643（女性摄入与回渗测试法）
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[Relevant Product Measurements.xlsx]]  (4 句)
+   • Released-variant dimension workbook (extracted 2026-09-28) listing per-code geometry for **DEPEND pull-up garments（DPU2 / DPU3 / DPU-ULT，男女各尺码）** and **POISE pads（Originals 4–8 滴 / UltraThins 3–6 滴）**: pad crotch width, surge（导流层）width/position/length, pledget（芯垫）dimensions, endseal lengths, and computed insult-point geometry relative to pad/surge. It is the **spec-side companion** to the wetting-pattern research dataset R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Meth
+   • The workbook contains four blocks: (1) released variant assets for DEPEND L14–L19 codes with full dimension chains (product length 689–867 mm by size; pad length uniform 396 mm; insert length 446 mm; crotch width 75 mm male DPU2/DPU-ULT, 95 mm DPU3); (2) a Depend Summary computing surge registration vs insult point — DPU2/DPU-ULT surge sits 30 mm from the front absorbent edge (length 250 mm female / 288 mm male), DPU3 surge sits 15 mm from front edge (length 350 mm, crotch 95 mm), confirming the
+   • **DPU3 的 surge 更长（350 mm）更靠前（15 mm）**，是三条 DEPEND 代码中护围覆盖最强的设计 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+- **规格表给出加液点几何基准（女 95 mm / 男 200 mm 位于产品中点前方）**，可直接用于台架/假人加液点设置 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）、Mannequin Lab（Rockwell 假人平台）
+   • 概念 Concepts：Wetting Pattern Target Zone（润湿图谱目标区）
+- 相关源 Sources：R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[等离子处理 Plasma Treatment]]  (3 句)
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Demonstrated mechanism evidence.** The vault's only worked example is O₂-plasma on PP **blood filters**, where improved wetting gives *much higher* flow（源：Nonwoven fabric finishing）。
+   • **Direct.** Plasma makes PP hydrophilic **for hygiene** without wet chemistry（源：Nonwoven fabric finishing）— this is the PP-based nonwoven in a topsheet/ADL role, where wettability, not chemistry, is the design target. See 亲水整理 Hydrophilic Finish、Topsheet（面层）。
+- **Bonding side.** Because it also improves wetting/bonding of low-energy PP, corona/plasma sits upstream of PP bonding operations（源：Chemical bonding）。See Thermal bonding、粘合剂 Binder。
+- **Motivation — rewet durability.** The wet-chemistry h
+
+--- [[CN 114149650 A（一种抗盐抗菌型高吸水树脂及其制备方法）]]  (3 句)
+   • A Chinese published patent application (applicant: **安徽富瑞雪化工科技股份有限公司**) on a **salt-tolerant, antibacterial SAP** loaded with nano-TiO2/SiO2 and a composite antibacterial agent. SAP composition → FTO-relevant.
+   • The invention discloses a salt-tolerant antibacterial SAP made from (wt parts): unsaturated sulfonic-acid small monomer 25–38, nano-TiO2 11–17, nano-SiO2 9–13, composite fibre 11–19, composite nano-antibacterial agent 3–8, composite crosslinker 7–11, N,N'-methylenebisacrylamide 9–17, high-substitution crosslinked carboxymethyl cellulose 3–7, antioxidant 1–5. The composite fibre is made of carboxymethyl chitosan, saponin, montmorillonite, sepiolite and diatomite. It overcomes prior-art shortcomin
+   • **Nano-oxide + composite-antibacterial-agent salt-tolerant antibacterial SAP** — supporting page SAP（高吸水树脂）.
+- Adjacent to SAP 表面包覆（SAP Particle Surface Coating）.
+
+--- [[GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）]]  (3 句)
+   • GB/T 27741-2018 (SAC/TC 141) replaces the 2011 edition and provides one qualitative and two quantitative routes for migratable fluorescent whitening agents（可迁移性荧光增白剂）in paper, board and pulp. The qualitative method is the de-facto gate for hygiene papers: extract with pH 7.5–9.0 ammonia-buffered water, acidify the filtrate to pH 3.0–5.0, let a 5×5 cm gauze adsorb the FWAs for 30 min at 40 ℃, then inspect under 254/365 nm UV against a blank — fluorescence brighter than the blank in both parallels
+   • **「不得检出」条款的方法学落点就是本标准的定性纱布法**——凡卫生用品标准引用「可迁移性荧光增白剂不得检出」，判定按本标准第 5 章执行 —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **绒毛浆的荧光判定是定性引用**（GB/T 21331-2021 第 6.10 条引用本标准第 5 章）—— 支撑页：GB-T 21331-2021 Fluff Pulp（绒毛浆）
+   • 概念：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 来源：GB-T 21331-2021 Fluff Pulp（绒毛浆）
+
+--- [[Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）]]  (2 句)
+   • 1. **可微分路径（differentiable path）**：求解器本身由 PyTorch/JAX/Julia AD 承载，PDE 离散与数值格式进入计算图 → 损失函数可对求解结果求导 → 神经网络（闭合模型、源项、边界模型）可用物理梯度训练。工程价值在于**训练目标与物理一致**，而不是只拟合数据。
+   - 后验训练（a posteriori training）：把 NN 闭合模型嵌入 LES 后按实际模拟结果训练，而非先离线拟合再插入——避免训练/部署分布不一致。
+2. **嵌入路径（embedding path）**：保留 OpenFOAM 等成熟求解器作计算核心，把 DNN 插到特定环节——替代 RANS 的线性动量耗散项、预测 LES 动态 Smagorinsky 系数，或在求解器运行中在线训练（IN_SITU）。
+3. **神经算子路径（neural operator path）**：FNO / KNO 等学习的是**函数到函数的映射**（与离散分辨率无关），PINNs 以 PDE 残差作损失，PDE-Net 走机理融合；优势是推理快，代价是外推与守恒性需额外约束
+   • **教训一（选型按需求分叉）**：要梯度反传与模型优化 → 可微分求解器（JAX-Fluids / PhiFlow）；要复用 OpenFOAM 生态 → 嵌入路线（DeepFlame / TensorFlowFoam）；要全栈 AI 与极速推理 → 神经算子（MindSpore Flow / DeepCFD）；要自主仿真与物理发现 → AI Agent + VLM 验证。
+- **教训二（加速倍数是口径陷阱）**：「3 个数量级」类数字的比较基线不同（稳态层流 vs 通用求解器、网格数、硬件），**跨项目倍率不可比**。
+- **教训三（守恒性优先）**：代理模型进入工程流前必须检查**质量守恒与稳定性**；NeuralDEM 明确宣称单 GPU 实时且守恒，说明守恒是被当作卖点而非默认属性。
+- **待补 **：各框架的开源许可证与维护活跃度；对多孔介质/可变孔隙率/毛细驱动的支持程度；与现有吸收模型的耦合路径。
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (2 句)
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+   • GB-T28004-2011 PH.doc
+- GB-T28004-2011 回渗渗漏.doc
+- GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫）
+- GB-T 28004.1-2021（纸尿裤国标）
+- GB-T 28004-2011 与 GB-T 28004.1-2021 婴儿纸尿裤指标对比
+- Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279）
+- Run-off & Leakage Test（滑渗与渗漏测试）
+- Rewet Test（回渗测试）
+- GBT28004.1-2021纸尿裤中交货水分的测定.doc
+- GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）
+- SAP（高吸水树脂）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+

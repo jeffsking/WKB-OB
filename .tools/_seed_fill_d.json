@@ -1,0 +1,21 @@
+{
+  "batch": "seed_fill_d",
+  "done": [
+    "WIKI/concepts/湿巾 Wet Wipes.md",
+    "WIKI/entities/GHC（福建冠泓·冠和）.md",
+    "WIKI/concepts/Product Dimension Measurement（成品尺寸测量）.md",
+    "WIKI/concepts/Topsheet Fuzz & Pilling Test（面层起毛起球测试）.md",
+    "WIKI/concepts/Washburn Equation.md",
+    "WIKI/concepts/变色油墨 Color-Changing Ink.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/concepts/Product Dimension Measurement（成品尺寸测量）.md —— 主引用源 STM-00433 Pants尺寸.doc 正文未出现在 digest 摘录内，成品尺寸测量的定义/公差/仪器全部标 [待补]；本页可用内容仅限纤维级尺寸量（Ch11）。",
+    "WIKI/concepts/Topsheet Fuzz & Pilling Test（面层起毛起球测试）.md —— 主引用源 TTM-00609 面层材料起毛起球测试.doc 正文未出现在 digest 摘录内；起毛的方法/单位/评级均标 [待补]，可用数字仅 fuzz ≤2（材料级筛选门）。",
+    "WIKI/concepts/湿巾 Wet Wipes.md —— 概念定义缺失（定义待补）；GB/T 27728.2-2024 其余定量限值 digest 未给出。",
+    "WIKI/concepts/Washburn Equation.md —— 方程完整显式解析式缺失（定义待补）；一维 Washburn 局限原文截断 [原文残缺]。",
+    "WIKI/concepts/变色油墨 Color-Changing Ink.md —— 概念定义缺失（定义待补）；迁移/安全合规口径、力值缺口 bridging 定量均标 [待补]。",
+    "WIKI/entities/GHC（福建冠泓·冠和）.md —— 与 KC 实际关系 待核（客户名单为供应商自述）；牌号/克重/产能等明细 [待补]。"
+  ],
+  "count": 6
+}

@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15R_batch_5",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ed0b260a147e6b03689e779aedb681b6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_adhesion.pdf.md",
+   "name": "Handbook_of_adhesion.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b8c1a8df4afaefac68b534e6b90b1e5b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Superabsorbent Polymers Review_深度拆书报告_academic_20260813.md.md",
+   "name": "Superabsorbent Polymers Review_深度拆书报告_academic_20260813.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c4af67daf64ac092b97fa97fd4f75078001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Mechanochromic_Fluorescent_Polymers_with.pdf.md",
+   "name": "Mechanochromic_Fluorescent_Polymers_with.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_0c28b929e6d2dff8c082b0887031c370001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Viscoelastic Properties/Viscoelastic Properties_README.md.md",
+   "name": "Viscoelastic Properties_README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_068c3a92042effeff0a9309ab8877ea6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Research_Advances_in_Superabsorbent_Polymers.pdf.md",
+   "name": "Research_Advances_in_Superabsorbent_Polymers.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6968af4c378f1c50182070abff729682001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/83-换型要素四层分层与变更控制.md.md",
+   "name": "83-换型要素四层分层与变更控制.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1a5c0f90c73c63eeb24cd05237bfb85e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Superabsorbent_Polymers_and_Superabsorbe.pdf.md",
+   "name": "Superabsorbent_Polymers_and_Superabsorbe.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c37c86ebea1dd35ad48defa7d67f96fc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/edana_2022_absorbent-hygiene-products.pdf.md",
+   "name": "edana_2022_absorbent-hygiene-products.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c0a7cf6a42b8e0de9bff713ffcf45810001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/聚氨酯弹性体手册第二版pdf课件.pdf.md",
+   "name": "聚氨酯弹性体手册第二版pdf课件.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9a7b2bf9c4c6d04000c6a39384ff12b1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_Industrial_Drying.pdf.md",
+   "name": "Handbook_of_Industrial_Drying.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

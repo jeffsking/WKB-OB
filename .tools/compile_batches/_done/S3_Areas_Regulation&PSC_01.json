@@ -1,0 +1,21 @@
+{
+  "batch": "S3_Areas_Regulation&PSC_01",
+  "stage": "S3",
+  "block": "Areas/Regulation&PSC",
+  "source_pages": [
+    "化妆品安全技术规范（2015年版）",
+    "化妆品安全技术规范（2015年版）·检验方法篇",
+    "SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS/1575/16, 2016)"
+  ],
+  "concept_pages": [
+    "化妆品限用/准用组分体系（中国 2015 技术规范）",
+    "Phenoxyethanol（苯氧乙醇）"
+  ],
+  "entity_pages": [
+    "SCCS（欧盟消费者安全科学委员会）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "【上一轮（前序代理）已完成，见上列 source_pages/concept_pages/entity_pages】本轮（2026-09-29）按跳过重编译规则复核：3 个 item 的 source_path 在 WIKI/sources/ 均已存在对应页，故跳过 source 页重建，未覆盖、未改名、未删除任何既有页面；派生页（Phenoxyethanol 概念页、SCCS 实体页）亦已存在，仅需补证据时采用「追加 2026-09-29 注」方式，不改原结论。本轮对 batch 01 未新建页面。未改动 index.md / log.md。"
+}

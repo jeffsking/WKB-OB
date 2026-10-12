@@ -1,0 +1,82 @@
+# SEED: 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 32 页，53 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）]]  (4 句)
+   • A granted Chinese invention patent (assignee: Kunming University of Science & Technology) on a **bagasse-pith nanocellulose composite superabsorbent** made by graft copolymerisation onto cationic cellulose ether. It is an agronomy water-retainer, but the nanocellulose–SAP route is adjacent to the KB's bacterial-nanocellulose (BNC) work.
+   • The invention discloses a preparation method for a bagasse-pith nanocellulose composite water-retaining agent. Sugarcane bagasse is air-dried and sieved to obtain bagasse-pith raw material; cellulose is extracted (acetic acid / hydrogen peroxide method) and deagglomerated by high-intensity ultrasound to obtain nanocellulose; the nanocellulose is etherified under alkaline conditions to a cationic cellulose ether; the cationic cellulose ether is graft-copolymerised / crosslinked by aqueous-solutio
+   • **Nanocellulose–SAP composite route via cationic etherification + graft copolymerisation** — supporting page 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）.
+- **Adjacent to BNC nanocellulose knowledge** — see 纳米纤维素（CNC、CNF、BNC）.
+   • 概念：蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）、纳米纤维素（CNC、CNF、BNC）
+- 实体：昆明理工大学
+- 对比：—
+
+--- [[CN 107057251 B（一种聚丙烯酸钠-纳米纤维素晶体复合高吸水性树脂及其制备方法）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **南京林业大学 / Nanjing Forestry University**) on a **sodium-polyacrylate / nanocellulose-crystal (NCC) composite SAP** made by photopolymerisation, with high absorbency (1200–3000 g/g). A nanocellulose–SAP route from academia — FTO-relevant.
+   • The SAP is sodium polyacrylate / nanocellulose-crystal composite, prepared by photopolymerisation from acrylic acid, nanocellulose-crystal-g-polyacrylamide, crosslinker N,N'-methylenebisacrylamide and photoinitiator 2-hydroxy-4'-(2-hydroxyethoxy)-2-methylpropiophenone at mass ratio 1 : 0.005–0.04 : 0.0001–0.0005 : 0.02–0.04. The method has mild conditions and is easy to implement. Water absorbency reaches 1200–3000 g/g and saline absorbency 71–139 g/g; the composite has a rich pore structure tha
+   • **NaPAA–NCC composite SAP via photopolymerisation (1200–3000 g/g)** — supporting page 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）.
+- Adjacent to nanocellulose theme 三类纳米纤维素对比（CNC、CNF、BNC）.
+   • 概念：蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）、三类纳米纤维素对比（CNC、CNF、BNC）、SAP（高吸水树脂）
+- 实体：南京林业大学
+
+--- [[CN 113423778 B（吸水性组合物及其制造方法·花王）]]  (3 句)
+   • A granted Chinese invention patent (assignee: **花王株式会社 / Kao Corporation**) on a **water-absorbing composition of cellulose nanofiber (CNF) + a high-viscosity, low-etherification cellulose derivative (e.g. CMC-Na)**. A nanocellulose–SAP route from a global hygiene major — FTO-relevant.
+   • **CNF + high-viscosity low-etherification cellulose derivative (CMC-Na) absorbent composition** — supporting page 蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）.
+- Adjacent to nanocellulose theme 三类纳米纤维素对比（CNC、CNF、BNC）.
+   • 概念：蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）、三类纳米纤维素对比（CNC、CNF、BNC）、SAP（高吸水树脂）
+- 实体：花王株式会社（Kao Corporation）
+- 同族：—
+
+--- [[IMA 知识库索引（2026-09-11）]]  (3 句)
+   • This archival index records the 2026-09-11 weekly snapshot and documents how the knowledge base consolidated bacterial nanocellulose, nanocellulose, nonwovens, biodegradable materials, and methodology assets.  
+（中文：该归档索引记录 2026-09-11 周度快照，展示知识库如何沉淀细菌纳米纤维素、纳米纤维素、无纺布、可降解材料与方法论资产。）
+   • The snapshot reports 464 cumulative entries and 35 additions, all concentrated at the root level. It groups the week’s material into bacterial nanocellulose sharing decks, nanocellulose review, application-red-line revision, methodological templates, smart-material evaluation, nonwoven process articles, biodegradable polymer notes, and supplier-visit intelligence. The index documents a shift from performance-driven supplier analysis toward pain-point-driven analysis, and it records the introduct
+   • **Bacterial nanocellulose consolidation included application-positioning and red-line governance.（细菌纳米纤维素沉淀包含应用定位与红线治理。）** — related page: 细菌纳米纤维素.
+- **Nanocellulose comparison work separated CNC, CNF, and BNC material roles.（纳米纤维素对比工作区分了 CNC、CNF 与 BNC 的材料角色。）** — related page: 纳米纤维素（CNC、CNF、BNC）.
+- **Drying-process selection was formalized as a reusable methodological asset.（干燥工艺选择被形式化为可复用方法论资产。）** — related page: 水凝胶脱水干燥工艺族谱.
+
+--- [[Nanocellulose Technology Roadmap for Hygiene Materials（纳米纤维素卫材应用技术路线图 V1）]]  (3 句)
+   • 本批**纳米纤维素（nanocellulose）在卫材领域的方向筛选与分阶段落地总纲**：把三大类材料（CNF/CNC/BC）映射到八大应用方向，用可行性-价值矩阵排出梯队，并给出三阶段实施与风险应对。是本库回答「纳米纤维素先做哪个方向、什么时候做、卡点在哪」的主索引。
+   • **纳米纤维素的价值落点在「增强 + 涂层」，不在大宗替代** —— 支撑页：纳米纤维素（CNC、CNF、BNC）、Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+- **成本（$5–20/kg）与供应基盘薄是同一枚硬币的两面，须同步破解** —— 支撑页：Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）
+- **涂层 / Core Wrap 是投入产出比最高的短期突破口** —— 支撑页：Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+- **IP 风险须以 FTO 先行 + 自有 PCT 申请加节奏对** —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+   • 概念：纳米纤维素（CNC、CNF、BNC）、Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：（本页未落具名供应商商务条款，供应商适配仅记参数需求）
+- 对比：Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）、三类纳米纤维素对比（CNC、CNF、BNC）
+
+--- [[纳米纤维素供应商拜访计划 V3.1（2026Q2）]]  (3 句)
+   • The document is an engagement plan, not a technical study: each supplier entry carries a company profile, the technical talking points drawn from the corresponding report, and a question清单 split across technical / commercial / strategic dimensions. Its durable value lies in the **process-parameter tables** it consolidates — nanocellulose preparation energy, BC fermentation windows, SSMMS structure and process settings, SAP reverse-phase suspension conditions, bio-based SAP route comparison, and 
+   • The plan also contains a global benchmarking layer (NatureWorks / TotalEnergies Corbion / 丰原 for PLA; Nippon Shokubai / BASF / Evonik / Sumitomo for SAP; CelluForce / Borregaard / Nippon Paper for nanocellulose; Ontex / P&G for smart diapers) and a three-tier strategic recommendation (Tier 1 立即行动, Tier 2 积极跟踪, Tier 3 技术储备).
+   • 1. **Nanocellulose is a reinforcement lever, not yet a cost lever 纳米纤维素当前是增强杠杆而非成本杠杆** — 1–10 wt% CNF delivers 20–100% tensile and 30–200% modulus gains, but the energy route (TEMPO 1–5 vs 30–50 kWh/kg) is what decides whether it becomes affordable; see 纳米纤维素（CNC、CNF、BNC） and 三类纳米纤维素对比（CNC、CNF、BNC）.
+2. **BC is high-purity but long-cycle 细菌纤维素高纯度但周期长** — >99% purity, 84–89% crystallinity and 200–1000× water uptake at 28–30 °C, yet 7–14 天静置周期 dominates cost; the 10:90 BC/壳聚糖 microgel route shows h
+
+--- [[Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）]]  (2 句)
+   • 上位：纳米纤维素（CNC、CNF、BNC）、Material Open Innovation Function（材料开放创新职能）、IPC BCC OI Portfolio（开放创新项目组合）
+- 技术落点：SAP（高吸水树脂）、ADL（导流层）、Rewet Test（回渗测试）、智能尿裤功能层
+- 对比：Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）、三类纳米纤维素对比（CNC、CNF、BNC）、BNC 与绒毛浆和 SAP 定位对比
+   • Nanocellulose Technology Roadmap for Hygiene Materials（纳米纤维素卫材应用技术路线图 V1） ——
+
+--- [[纳米纤维素基高吸水树脂（茶渣-CNC 接枝）]]  (2 句)
+   • **「废弃物纤维素→SAP」家族**：废茶渣（本件）≈ 蔗髓（蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP））——同以废弃物纳米纤维素为骨架，本件工艺减法最激进。
+- **审查链证据**：本件在 CN 112442152 B（可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院））审查中被引为对比文件，说明「纤维素接枝 AA/AM」是 2019 年前后审查员惯引的现有技术基线。
+- 未记载任何卫生用品/纸尿裤场景数据（应用领域仅列「医疗卫生」一词）→ 卫生适用性 。
+   • Biodegradable SAP（可降解高吸水树脂）、纳米纤维素（CNC、CNF、BNC）、SAP（高吸水树脂）、蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）
+- Source 来源：CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院）
+
+--- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]  (2 句)
+   • **BCNF 与 SAP 的差距不在"吸多少"而在"压住还能留多少"——CRC 与 AAP 是判决性指标** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）、BNC 与绒毛浆和 SAP 定位对比
+- **吸收速度反向（BCNF 分钟级）使其无法担任第一响应层** —— 支撑页：Intake System（摄入系统）、SAP错峰膨胀
+- **复合结构（气凝胶:SAP = 50:50）是把 BCNF 从"替代者"改为"增效剂"的工程解** —— 支撑页：细菌纳米纤维素、SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- **成本是唯一的一票否决项：规模化替代的门槛是量化的（¥50–80/kg）** —— 支撑页：Nanocellulose Route Cost Structure（纳米纤维素三路线成本结构对比）
+   • 概念：细菌纳米纤维素、纳米纤维素（CNC、CNF、BNC）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、Intake System（摄入系统）
+- 实体：（本页未落具名供应商商务条款）
+- 对比：BNC 与绒毛浆和 SAP 定位对比、Nanocellulose Route Cost Structure（纳米纤维素三路线成本结构对比）、三类纳米纤维素对比（CNC、CNF、BNC）
+
+--- [[IMA 知识库索引（2026-09-04）]]  (2 句)
+   • The snapshot reports 429 cumulative entries, including 235 additions during the reported week. Most additions were placed under Resources and included polymer-science books, fiber and adhesive references, KC training materials, simulation reports, product documentation, standards, and project records. It also records a smaller set of newly added Area-level reports on nanocellulose, superabsorbent fibers, chitosan fibers, diaper architecture, and biodegradable core materials. The index identifies
+   • **The bulk intake established a broad raw-material base for later concept compilation.（本次批量入库为后续概念编译建立了广泛原始资料基础。）**
+- **Nanocellulose, bicomponent fibers, and absorbent-core engineering were already visible as connected themes.（纳米纤维素、双组分纤维与吸收芯体工程已形成相互关联主题。）** — related pages: 细菌纳米纤维素, 皮芯复合纤维, and COCO芯体平台.
+

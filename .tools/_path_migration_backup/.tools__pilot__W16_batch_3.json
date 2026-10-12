@@ -1,0 +1,65 @@
+{
+ "batch_id": "W16-3",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_41e957fd81a6e760ea130eafb514a220001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md",
+   "name": "KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_f21d6858ac1535b95041b79130a4c57b_11ecea07a50f90e6989806b5f86f34e5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/06_SSMMS无纺布技术研究报告.md.md",
+   "name": "06_SSMMS无纺布技术研究报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_a4173de630be127336579a9ad40e62ab001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md",
+   "name": "诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_f21d6858ac1535b95041b79130a4c57b_aab98d5360dbe68f12b0bbdd11536cd1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/CNF&CNC/04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+   "name": "04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_f21d6858ac1535b95041b79130a4c57b_ce7482b2372f7c7413b69c67270ce407001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_nonwoven_analysis.md.md",
+   "name": "bcnf_nonwoven_analysis.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_42b670d4c691e861ca06374e53702ae7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Intake/Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+   "name": "Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_c8bb0d2bd3a16950e8066387a8f3813f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_EN.docx.md",
+   "name": "SAP选型分析_三PPT对比_EN.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_cd7e17d18346aa8b6df1cd58634af780001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Depend Machine Variability/Depend Rewet Over Time.xlsx.md",
+   "name": "Depend Rewet Over Time.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_288fe096b41bfaf5d486193a314c7153001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Intake/Stakeholder Report-Out.pptx.md",
+   "name": "Stakeholder Report-Out.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_3021a698c2ba2d0b02c46669ca51fee5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/力致变色材料研究报告_2026-08-02.docx.md",
+   "name": "力致变色材料研究报告_2026-08-02.docx.md",
+   "type": "word"
+  }
+ ]
+}

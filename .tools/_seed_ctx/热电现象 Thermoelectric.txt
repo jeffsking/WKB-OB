@@ -1,0 +1,41 @@
+# SEED: 热电现象 Thermoelectric
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Smart & Connected Garments (IEEE)
+#   - Smart Textiles & Wearables
+#   - Thermoelectric Materials and Applications Review
+#
+# 全库正文命中 3 页，8 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Textiles & Wearables]]  (4 句)
+   • A curated set of 10 Chinese-named 拆解 extractions covering the smart-textiles & wearables knowledge landscape — from stimuli-responsive polymers and wearable sensing/electronics to e-textiles, flexible electronics, chromic/PCM/shape-memory functions, and thermoelectric harvesting.（中文：智能纺织品与可穿戴领域的 10 篇拆解合集，覆盖刺激响应聚合物、可穿戴传感/电子、电子织物、柔性电子、变色/相变/形状记忆、热电采集等主线。）
+   • Stimuli-Responsive Polymer Materials (Nature Materials Review) — 2010 Nature Materials 综述：刺激响应聚合物的2D薄膜/3D粒子架构与应用。
+- Wearable Sensors (Book Preview) — Elsevier《可穿戴传感器》专著预览（目录级）：e-textile→能量采集→算法→WBAN全栈。
+- Wearable Electronics (NSR Editorial) — 彭慧胜 NSR 社论：可穿戴电子从刚性→薄膜/纤维化演进与特刊10篇导读。
+- Smart Textiles and Sportswear — 运动/防护智能纺织品综述：特种纤维代际、感知-响应架构、PCM/SMP/仿生。
+- Smart Textile Visual Perception (GRID) — Koncar GRID 报告：机织光纤与电致变色两类纺织柔性显示及变色机理。
+- Smart & Connected Garments (IEEE) — IEEE 综述：CNT纤维天线/致动器、联网服装与
+   • 刺激响应与变色材料（chromic / responsive polymers）：见 Stimuli-Responsive Polymer Materials (Nature Materials Review)、Smart Textile Visual Perception (GRID)、Smart Textiles Review
+- 可穿戴电子与柔性/可拉伸集成：见 Wearable Electronics (NSR Editorial)、Flexible Stretchable Electronics (imec)、Smart & Connected Garments (IEEE)
+- 电子织物与感知-响应架构：见 Wearable Sensors (Book Preview)、Smart Textiles and Sportswear、Smart Textiles Review
+- 热管理与能量采集：见 Thermoelectric Materials and Applications Review、Smart Textiles and Sportswear、Smart Text
+   • 概念：机械变色 Mechanochromic、光致变色 Photochromic、电致变色 Electrochromic、热致变色 Thermochromic、刺激响应聚合物 Stimuli-Responsive Polymer、液晶 Liquid Crystal、相变材料 Phase Change Material、形状记忆聚合物 Shape Memory Polymer、导电纱线 Conductive Yarn、防水透气 Waterproof Breathable、智能织物 Smart Textile、Wearable Electronics (National Science Review 2023)、热电现象 Thermoelectric
+
+--- [[Thermoelectric Polymer Materials ZT Figure of Merit and PGEC]]  (3 句)
+   • 1. **Decade-scale progress 十年进展**：
+   > "Over the past 10–15 years, there have been significant advances in the scientific understanding as well as in the performance of thermoelectric (TE) materials."
+   > "The conversion of waste heat into electrical energy will certainly play a role in our current challenge for alternative energy technologies to reduce our dependence on fossil fuels and to reduce greenhouse gas emissions."
+2. **ZT ≈ 1 is a practical, not theoretical, ceiling**：
+   > "The best
+   • Bridge quotes 桥接句：
+> "This approach works especially well in highly covalent semiconductor materials based on clathrates (Si, Ge, or Sn) and void structures formed by heavy elements..." (728–730)
+> "Several automotive applications are beginning to use thermoelectric materials either for climate-controlled cooling in automotive cabins or for waste heat recovery from automobile exhaust systems." (837–839)
+   • Thermoelectric Materials and Applications Review — 同主题的另一篇热电材料与应用综述。
+- Smart Textiles & Wearables — 智能纺织与可穿戴，TE 柔性化的应用载体。
+- Flexible Stretchable Electronics (imec) — 柔性可拉伸电子，柔性 TE 单元的集成路径。
+- Wearable Electronics (National Science Review 2023) — 可穿戴电子综述，自供电与传感的背景。
+- Smart Textile Visual Perception (GRID) — 智能纺织视觉感知，与卫品传感化方向相邻。
+
+--- [[电子纺织品 E-textile]]  (1 句)
+   • **Landscape placement.** In this vault, e-textiles sit inside the broader smart-textiles & wearables landscape, which spans stimuli-responsive polymers, wearable sensing/electronics, flexible electronics, chromic/PCM/shape-memory functions and thermoelectric harvesting（源：Smart Textiles & Wearables）。The Wearable Sensors book preview places e-textile as the first link of its chain — e-textile → energy harvesting → algorithms → WBAN full stack（源：Wearable Sensors Fundamentals Implementation and Appl
+

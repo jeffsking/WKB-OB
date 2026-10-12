@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00048 SAM含量.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00048 SAM含量.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00048 SAM含量.docx.md",
+   "name": "STM-00048 SAM含量.docx.md",
+   "title_hint": "STM-00048 SAM含量.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 滑渗.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 滑渗.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 滑渗.doc.md",
+   "name": "GB-T28004-2011 滑渗.doc.md",
+   "title_hint": "GB-T28004-2011 滑渗.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "name": "STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "title_hint": "STM-01086 BCC Pants 产品拉断测试.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "name": "STM-01086 BCC Pants 产品拉断测试.doc.md",
+   "title_hint": "STM-01086 BCC Pants 产品拉断测试.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00078 端封强度.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00078 端封强度.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00078 端封强度.doc.md",
+   "name": "STM-00078 端封强度.doc.md",
+   "title_hint": "STM-00078 端封强度.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00302 面层干爽性.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00302 面层干爽性.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00302 面层干爽性.doc.md",
+   "name": "TTM-00302 面层干爽性.doc.md",
+   "title_hint": "TTM-00302 面层干爽性.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00686弧形皮筋张力.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00686弧形皮筋张力.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00686弧形皮筋张力.doc.md",
+   "name": "STM-00686弧形皮筋张力.doc.md",
+   "title_hint": "STM-00686弧形皮筋张力.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Topical liner Supporting layer Embossing pressure.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Topical liner Supporting layer Embossing pressure.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Topical liner Supporting layer Embossing pressure.pdf.md",
+   "name": "Topical liner Supporting layer Embossing pressure.pdf.md",
+   "title_hint": "Topical liner Supporting layer Embossing pressure.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲厚度测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲厚度测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲厚度测试.docx.md",
+   "name": "澳洲厚度测试.docx.md",
+   "title_hint": "澳洲厚度测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/China-WI-62416 无纺布变形测试 20240201.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/China-WI-62416 无纺布变形测试 20240201.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/China-WI-62416 无纺布变形测试 20240201.docx.md",
+   "name": "China-WI-62416 无纺布变形测试 20240201.docx.md",
+   "title_hint": "China-WI-62416 无纺布变形测试 20240201.docx"
+  }
+ ]
+}

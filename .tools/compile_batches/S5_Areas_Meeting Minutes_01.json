@@ -1,0 +1,76 @@
+{
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/产品研发与实验计划.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/产品研发与实验计划.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/产品研发与实验计划.md",
+   "name": "产品研发与实验计划.md",
+   "title_hint": "产品研发与实验计划"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/导流压槽区结构及压合方式探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/导流压槽区结构及压合方式探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/导流压槽区结构及压合方式探讨.md",
+   "name": "导流压槽区结构及压合方式探讨.md",
+   "title_hint": "导流压槽区结构及压合方式探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/项目梳理与资源规划.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/项目梳理与资源规划.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/项目梳理与资源规划.md",
+   "name": "项目梳理与资源规划.md",
+   "title_hint": "项目梳理与资源规划"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md",
+   "name": "甘蔗酒业务及合作讨论.md",
+   "title_hint": "甘蔗酒业务及合作讨论"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/在线新品竞争与策略.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/在线新品竞争与策略.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/在线新品竞争与策略.md",
+   "name": "在线新品竞争与策略.md",
+   "title_hint": "在线新品竞争与策略"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/气味管理技术介绍.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/气味管理技术介绍.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/气味管理技术介绍.md",
+   "name": "气味管理技术介绍.md",
+   "title_hint": "气味管理技术介绍"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260916112250.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260916112250.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260916112250.md",
+   "name": "录音纪要_260916112250.md",
+   "title_hint": "录音纪要_260916112250"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903154213.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903154213.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903154213.md",
+   "name": "录音纪要_260903154213.md",
+   "title_hint": "录音纪要_260903154213"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合芯体产品市场推广.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合芯体产品市场推广.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合芯体产品市场推广.md",
+   "name": "复合芯体产品市场推广.md",
+   "title_hint": "复合芯体产品市场推广"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260817133440.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260817133440.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260817133440.md",
+   "name": "录音纪要_260817133440.md",
+   "title_hint": "录音纪要_260817133440"
+  }
+ ]
+}

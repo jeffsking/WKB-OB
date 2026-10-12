@@ -1,0 +1,36 @@
+{
+  "batch": "idb_04",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch19.md.md",
+      "chapter": "19",
+      "title_hint": "Superheated Steam Drying",
+      "bytes": 17635
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch20.md.md",
+      "chapter": "20",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 19501
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch21.md.md",
+      "chapter": "21",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 16717
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch22.md.md",
+      "chapter": "22",
+      "title_hint": "Drying of Fish and Seafood",
+      "bytes": 16975
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch23.md.md",
+      "chapter": "23",
+      "title_hint": "Grain Drying",
+      "bytes": 15386
+    }
+  ]
+}

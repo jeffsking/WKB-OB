@@ -1,0 +1,154 @@
+# SEED: Residual Fluid & Pore Stranding（残液与孔隙滞留）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 174 页，282 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[孔隙率 Porosity]]  (6 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+   • **收敛性尚未确认**：孔隙率下限从 0.347 降到 0.284，源文建议再试 60×24 网格 —— 说明尚未收敛；「细网格结果更可信」是源文判断，**无实验佐证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **v9 不含反渗**（不含二次加载后的反渗），故本页结论**不能外推到回渗**（源：Numerical Diffusion & Grid Convergence（数值扩散与网格收敛））。
+- **渗透率下降倍数与实测对应关系未明确**：「渗透率下降约 2–5 倍」与细网格 20.3%（≈5×）、粗网格 44.6%（≈2.2×）的对应关系源文未明确（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **自由液体最终 0.0 mL（细网格）** 是否意味着全部被 SAP 吸收？源文未说明 SAP 是否已饱和（源：2D Absorption Model v9 
+
+--- [[离子强度 Ionic Strength]]  (5 句)
+   • **Ionic cross-linking.** The polymer-chemistry source states verbatim: *"divalent ions are known to act as cross-links between carboxyl groups in natural resins"*, and notes ionomers as the polymer class that carries ionic bonds — ionic bonds are otherwise uncommon in polymers（源：Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure）。In the microfluidics source the same route appears as a fabrication option, where **Ca²⁺ + alginate gives "temporary hydrogel networks"**（源：Smart Polym
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+   • No formula, units or numeric ionic-strength values appear in the citing sources — the "high ionic strength lowers absorbency" statement is qualitative 。
+- No quantitative CRC/AUL/SFC-vs-ionic-strength curve is evidenced; the Ca²⁺-as-control-variable point is an inference the source itself labels as 外推 。
+- The bulk high ionic strength route: no vault evidence yet of test-fluid Ca²⁺ levels specified in KC internal test standards 。
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (5 句)
+   • The closing chapter converts the same smart-hydrogel physics into **device components** — sensors, valves, pumps, clutches, lenses, filters — inside microchannels. Its thesis: "Hydrogel materials are both soft and responsive, which makes them ideal candidates in designing biomimetic components (e.g., valves, sensors) for use in microfluidic devices" (L56–59). Autonomy is the point: with hydrogels, "these materials can sense the local environment and undergo phase transition, such as an abrupt sw
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • t_resp ~ L²/D_eff — response time set by initial size L, effective diffusivity D_eff, and pore size [reconstruction of L171–175]
+- Q_max ∝ 1/ν_c — swelling extent falls as cross-link density ν_c (and chain elasticity constraint) rises [reconstruction of L168–169]
+- ↑I_UV ⇒ ↓chain length ⇒ ↓t_resp and ↓mechanical strength [reconstruction of L255–259]
+- r_diss = f(d₀⁻¹, C_reductant, ν_c⁻¹, T) — dissolution rate of a cleavable gel [reconstruction of L423–425, L476–477]
+   • This is the **most directly transferable chapter of the batch** for smart hygiene, and the read-across is legitimate rather than forced: an absorbent core is a confined microfluidic system made of a superabsorbent hydrogel plus fibrous channels, and the chapter's parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space.
+
+--- [[TTM-00038 Compression Test for Absorbent（吸收体压缩测试）]]  (5 句)
+   • TTM-00038 是 KC 研发侧的**吸收复合材料压缩载荷—厚度曲线**测试方法，其真正价值不在曲线本身，而在附录 9.1 给出的**孔隙空间模量（Pore Space Modulus, PSM）反演流程**——把压缩曲线换算成可供吸收/力学建模使用的孔隙本构参数。
+   • 附录 9.1「Establishing Pore Space Modulus」给出完整反演流程：把「应力—修正后间距」两列数据存为 ，用 **Cda.exe（Exponential Kernel Compliance Distribution Program）** 做指数核柔量分布反卷积；Setup 中 Lower Edge 取极小值（<<0）、First Order、Elements = 1000、Smoothing = 0.001，Upper Edge 由同类材料经验值起步或先取 ~10；运行后 RMSQ 应较低表示拟合良好；**L(inf-stress) 与 delta-L 相加即零载荷厚度**（AFEA 重要输入）。随后经 OutputVars 输入**质量（g）、面积（cm²）、固相密度（g/cc，注意是颗粒与纤维的平均密度，含已吸收的液体）**；应力范围典型为近零至 **10 kPa**；不建议勾选 "Use Porosity Approximation"。最终在  中取得关键 AFEA 数据：**第 1 列为压力（kPa），第 2 列为调和平均孔隙空间模量 hpmsm（h
+   • **压缩曲线本身不是目的，PSM 与零载荷厚度才是建模输入** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **TTM 与 STM 有明确分工：TTM 研发用、STM 验收与放行用** —— 支撑页：芯体测试方法与验收基准（STM）
+- **PSM 反演是反卷积问题，Upper Edge 的选取直接影响真假峰** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **固相密度须取含液平均密度，是 VV 与 PSM 互相换算的关键接口** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **盐水浓度可上探至 20%，远超常规 0.9% 口径** —— 支撑页：尿液模拟液（Urine Analog）
+- **0.05 psi（VV 法）与 10–20 kPa（压缩法）是两套相差约两个数量级的压力尺度** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、芯体测试方法与验收基准（STM）、尿液模拟液（Urine Analog）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (5 句)
+   • **测试本身测什么**：TTM-00038 / TTM-00437（Pore Space Modulus，孔隙模量）测量吸收芯体与导入系统材料在多次压缩循环后的**回弹性（resiliency）**；直接输出是**厚度随压力的函数曲线 Thickness as f(Pressure)**，VV 由后处理换算得到。典型加载为**多循环压缩（如 3-Cycle）**，HPP 参考样品如 85 gsm，加载至 **10 kPa**。用途是吸收系统建模输入，以及评估材料变更对 VV 的影响。
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[ADL（导流层）]]  (4 句)
+   • ⚠️ **取舍（源文明写）**：*"Since smaller fibers are perceived as softer, **softness and rewet are often opposites**"* —— **越细越软 → 柔软与回渗常相反**。
+- ⚠️ **与上文"旦尼尔分层（上层 >5 d / 下层 <5 d）"的关系**：两者**都涉及纤维直径**，但上文出自**产业综述的导流设计窗口**，本条出自**K-C 内部回渗原则稿的解吸机制**，**来源与目的不同（导流 vs 低回渗），本页并列不换算**。
+- **"少孔"的另一条路径**（源文举例）：*"Less pores (i.e.: **lower BW at same density**, **non-fibrous film surge**)"* —— 同密度下降低克重，或改用**非纤维 film surge**（表面积更低，可作**单向阀**）。
+   • 原文：*"Adult care improvements focused on driving out all residual fluid via capillarity changes… **Mostly focused outside surge as surge is fairly good for residual fluid**"*
+   • 原文假设：*"**Reducing pore size distribution will eliminate last drops of residual fluid**"*
+   • **毛细性不是单值指标**：Depend 导流层**毛细性优于 AD**，但**整体排液更差**，原因是**克重更高** → 高毛细性 + 高克重 = **持液更多、下送更慢**。评价导流层必须**同时看毛细性与克重**。
+- **AD 侧的对偶问题**：AD 采用**低克重 + 高毛细性**，对 **intake 摄入不利**；其补偿手段是 **curly fiber 卷曲纤维**（改善摄入），且**卷曲纤维不影响回渗** —— 摄入与回渗的解耦手段。
+- **我方反向路径**：试制**含卷曲纤维的 wrapsheet 包覆层**，看能否抵消「低克重/窄 PSD 导流层」带来的摄入损失（即：用包覆层补摄入，让导流层专心降回渗）。
+- **孔径分布（PSD）是第一根因**：Depend 与 AD 平均孔径相近，但 **Depend PSD 更宽、大孔更多**；大孔抽不空小孔 → 液体滞留。因此导流层的开发目标应写成 **「窄 PSD」而非「更小/更大孔径」**（见 Residual Fluid & Pore Stranding（残液与孔隙滞留））。
+- **供应侧**：Shalag 已
+
+--- [[Specific Air Volume]]  (4 句)
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • **Terminology — is "specific air volume" identical to the vault's "void volume"?** The two are used on a per-mass (cm³/g) basis in adjacent pages, but no source read here states they are the same quantity; keep them distinct until a source defines the equivalence（相关页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、REL增强层）.
+- No source read here gives an absolute measured **V_s value (cm³/g)** for a KC core or a named commercial nonwoven .
+- The packing-fraction range 0.025–0.10 is quoted for webs 
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[回渗 Rewet]]  (4 句)
+   • Rewet（回渗）is the liquid that returns out of an absorbent article toward the skin under load. The vault's physical account: after being taken up by SAP, part of the liquid still sits as **毛细水 / 颗粒间隙水** in the topsheet and the top of the core; under skin pressure this fraction is **squeezed out onto the filter paper** — so the rewet reading is **extremely sensitive to load and to waiting time**（源：Rewet Test（回渗测试））。回渗与滑渗是**互补指标而非重复**：回渗量液体「返出」，滑渗量液体「漏走」（源：Rewet Test（回渗测试））。A mechanistic refinement f
+   • **Capillary-pressure account 毛细压力解释.** Rewet in the closed-cradle configuration is **解吸（desorption）驱动**，解吸主要由**毛细作用**驱动，因此需逐层测毛细性；residual-fluid drivers are **wettability (θ)** and **pore radius (R)** via **Young–Laplace ΔP = −2γcosθ/R**（源：Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）、2026-05-05 - QUINN.pptx）。
+- **Two principle sets 两套机理原则.** Rewet = **Flowback + Desorption** 两套机理，各有原则集；贯穿原则是评估变异与能力（源：Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩））。
+- **Waiting time defines what is me
+   • **U Rewet 国标回渗压块与 TTM-00623 低压段反渗板**的**实际质量 / 压强**——两份原文均未给出（源：Rewet Test（回渗测试））。
+- **STM-00059-2 的完整操作规程**未在摘要中给出（源：Rewet Test（回渗测试））。
+- **HPR 的 <0.3 g 机理未确认**（源：Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩））。
+- **毛细测试结果未给出**：12/8/25 完成的是材料属性与显微表征，毛细测试结果本件未给出（源：Residual Fluid & Pore Stranding（残液与孔隙滞留））。
+- 本页数值来自**多套不可互换的方法口径**（Closed Cradle / FIFE / NWSP / 国标），跨行比较前须人工确认方法与载荷档位。
+   • Rewet Test（回渗测试）
+- Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）
+- Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）
+- Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）
+- Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- ES Fibre Hydrophilic Function and Applications
+- Cradle Intake Test（Cradle 摄入测试）
+- 2025.03.13 - GML update.pptx
+- 2026-05-05 - QUINN.pptx
+- NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx
+- LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- Rewet Protocols Compared（回渗测试口径对比）
+
+--- [[Fibers and Fibrous Materials]]  (4 句)
+   • Chapter 6 (pp. 216–249; Ludwig Rebenfeld, TRI) is the materials catalog plus the one design law that governs all of it: because 'the fiber surfaces constitute the pore walls' in capillary sorption, absorbency is a surface-and-geometry problem — and the chapter proves that special-purpose fibres (alloy rayon, modified cellulose, deep-groove polyester, hollow chicken-feather) win by engineering the pore wall and pore geometry rather than by changing the polymer.（中文：第 6 章确立"毛细吸收中纤维表面即孔壁"这一设计律，并用合金粘
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • **Buy the surface, not the resin.** Because fibre walls *are* the pore walls, surface energy and roughness dominate absorption; fibre chemistry matters mostly through wettability.
+- **Density and geometry substitute for hydrophilicity.** Polyolefin and PET absorb well through fine denier and non-circular cross-section — the pore network, not the polymer, is the absorber.
+- **Wet strength inverts with crystallinity.** Cotton stiffens when wet; viscose collapses. For wet-wipes and core layers, wet
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]  (4 句)
+   • **Goal 目标**：Best in class rewet（回渗做到业界最佳）。
+- **Approach 方法**：**Systematically eliminate every drop of residual fluid from every component** 系统性地清除每一个组件中的每一滴残液。
+- 组件分解（teardown 拆解）：**Surge 导流层 / Liner 面层 / Core 芯体 / Interstitial 层间**。
+- 因果链（原稿图注）： →  →  密闭 Cradle 回渗由**解吸**驱动，解吸主要由**毛细作用**驱动，因此要逐层测毛细性。
+   • 毛细测试显示 AD 与 Depend 面层存在差异：**Depend 面层把液体留得更久**（keeps a hold of more fluid longer than AD）。
+- 毛细性与**解吸能量（desorption energy）**两项指标**都偏向 Always Discreet（AD）**。
+- 根本判定（capillary physics 毛细物理）：差距只能来自 **wettability 润湿性**或 **pore size 孔径**；实测 **AD 的润湿性低于 Depend**，除此之外两面层看起来一样。
+- **反直觉结果**：不做亲水整理的面层（untreated liner）在 **GRIFFIN HUT 上渗漏更高**——与早前 **ATACAMA+ HUT** 的结论一致；该路线此前在 BCC 曾成功过，但现在需要 **go back to the drawing board 回炉重做**。
+   • 反直觉现象：**Depend 毛细性更好，但整体排液反而更差**，原因是 **basis weight 克重更高**。
+- AD 是**低克重 + 高毛细性**——对 intake 摄入不利；AD 用 **curly fiber 卷曲纤维**来补偿摄入，**而卷曲纤维不影响回渗**（doesn't impact rewet）。
+- 反向启发：我方拟试用**含卷曲纤维的 wrapsheet 包覆层**，看能否抵消这类导流层带来的摄入损失。
+- **根因判定**：最可能是**孔径差异**；平均孔径（average pore size）AD 与 Depend **相近**，但**孔径分布 PSD 不同**——**Depend 分布更宽、大孔更多**。
+- **机理假设（B）**：**小孔中的液体不会被非常大的孔拉出来**，从而把液体**滞留（stranded）在导流层内**。与 **SIROCCO 学习**一致。
+- **结论性判断**：**Size distribution is just as important as overall size** 孔径分布与孔径大小同等重要。
+- 供应
+   • Rewet Test（回渗测试） · Cradle Intake Test（Cradle 摄入测试）
+- Residual Fluid & Pore Stranding（残液与孔隙滞留） · ADL（导流层）
+- Surge-Liner Adhesive Bonding（导流层-面层施胶粘合） · 亲水整理耐久性
+- LPR vs HPR Rewet（低压回渗 vs 高压回渗机制） · Shalag（Shalag 导流层与面层材料）
+- 并列复合自卷曲纤维 · Intake System（摄入系统）
+- Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）
+

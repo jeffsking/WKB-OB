@@ -1,0 +1,13 @@
+{
+ "stage": "S1",
+ "block": "Projects/Film",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md",
+   "name": "Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md",
+   "title_hint": "Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx"
+  }
+ ]
+}

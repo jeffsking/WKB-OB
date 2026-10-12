@@ -1,0 +1,41 @@
+# SEED: Freundlich 等温线
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Diffusion and Chemical Reaction (Crank Ch.14)
+#
+# 全库正文命中 4 页，7 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Diffusion and Chemical Reaction (Crank Ch.14)]]  (4 句)
+   • **扩散+化学反应耦合——SAP 吸水'慢'的分子尺度原因**——瞬时线性反应 D_eff=D/(R+1) 解释 SAP 交联网络水固定化；非线性等温线 S=RCⁿ 给出等效 D(C) 的浓度依赖性（n<1→后期加速，n>1→饱和减速）。
+   • **瞬时线性反应**：S=RC，等效 D_eff=D/(R+1)——SAP 交联网络水固定化使等效 D 下降 (R+1) 倍。
+- **非线性等温线**：S=RCⁿ——n<1（Freundlich 型）等效 D 随含水率上升（后期加速）；n>1 等效 D 下降（饱和减速）。
+- **应用场景**：SAP 交联网络水固定化、湿巾抗菌剂缓释、芯体酶/化学剂扩散反应。
+   • **SAP 吸水'慢'的分子尺度原因是水被固定化在交联网络中**——等效 D 下降 (R+1) 倍。
+- **非线性等温线决定 SAP 吸液加速/减速行为**——n<1 对应后期加速（Freundlich 型），n>1 对应饱和减速。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 反应-扩散耦合 Reaction-Diffusion
+- Freundlich 等温线
+
+--- [[Absorbent Product Testing]]  (1 句)
+   • **分层测试哲学**：测试必须遵循"构成材料 → 二维结构（网布/片材）→ 装配产品"三级递进，每层有独立指标体系与测试方法，"The single most important property of interest is the customer satisfaction"，需逐层筛选 + 最终 in vivo 现场验证。
+- **三类方法定位**：标准方法（ASTM/AATCC/INDA/TAPPI/EDANA/Scan-C，用于 process control、QC、ranking、R&D）；研究工具（fluid intrusion/extrusion，提供机理洞察）；in vitro / in vivo（企业专有，模拟用况，是竞争壁垒来源）。
+- **界面能第一性原理**：Wilhelmy 湿附力法 → F_w = γ_lv · P · cos θ，可获前进/后退接触角、附着功 W_A = γ_sv(1+cos θ)、润湿指数 WI、Hysteresis = W_AR/W_AA、表面能（dispersion/polar/total）。
+- **标准方法映射**：INDA I
+
+--- [[Absorbent Technology]]  (1 句)
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+
+--- [[Smart Polymers Ch07 Imprinting Using Smart Polymers]]  (1 句)
+   • Tanaka Eq 7.1（lines 424–426）：筛 [Ad]、[Xl]、[Re]、p、ε 的组合。
+- Langmuir Eq 7.2（lines 450–459）：由吸附等温线提取 SK（≡ Q）。
+- 网孔/链长 Eq 7.6：$l = nb = ([NIPA]/2[Xl])^a$（line 661）→ 由 [Xl] 映射吸附基间距。
+- 熵系数 Eq 7.8：$c = 2m/([NIPA]\cdot b^2)$（line 683），实测 c = 0.32 → b ≈ 2.9 nm（lines 1036–1039）。
+- 开关 crossover Eq 7.10：$\ln([Ad]/[Re]) \approx ([Ad]^{2/3} nb^2)^{-1} + \beta\varepsilon$（line 741）→ 选择 p 从 1↔pmax 翻转的阈值。
+- 设计包络：刚性 MIP 50–90% 交联剂（无开关）；智能印迹凝胶 <2 mol%；MAA pKa ≈ 4.5（line 1835）；20/60 °C 溶胀比 6.0–6.5 / 0.9（line 1691）。
+
+

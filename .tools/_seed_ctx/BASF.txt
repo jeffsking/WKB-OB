@@ -1,0 +1,83 @@
+# SEED: BASF
+# type: entity | 原引用数: 4
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Ancient Organic Dyes and Pigments Chemistry
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 37 页，58 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[巴斯夫欧洲公司（BASF SE）]]  (6 句)
+   • **2026-09-29**：本批编译识别到 BASF 为两项中国授权 SAP 包覆专利的专利权人——CN 101641398 B（液体喷涂包覆）与 CN 101679760 B（气流分散微粒固体包覆）。两专利均为 SAP 颗粒后处理/表面交联核心工艺。
+   • **记录日期 2026-09-29**：本批未含 BASF 商务报价；仅记录其专利权属。具体供货/报价待人工补充。
+   • SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 同族专利：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）、CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+   • CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF） —— 
+- CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF） ——
+
+--- [[BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）]]  (4 句)
+   • BASF Personal Care & Hygiene 的**生物质平衡（Biomass Balanced）SAP** 单页宣传：HySorb® B/N/BG/BX/T 系列的可持续化路线说明；在本库中对应 SAP 供应格局中的**低碳/可再生牌号维度**（对照 Biodegradable SAP（可降解高吸水树脂））。
+   • One-page advertisement. The biomass balance approach replaces fossil with renewable feedstock at the very first steps of BASF's integrated production Verbund（生产联合体）; the certified renewable portion is then allocated to selected products (mass-balance allocation). Claimed benefits: saves fossil resources, reduces greenhouse-gas emissions, drives certified sustainable renewable feedstock use, readily available high-performance **drop-in** solution requiring no re-formulation, third-party certified
+   • **BASF 的 SAP 可持续路线是「生物质平衡质量守恒分配」而非改性——性能与常规牌号等同、免重新配方** —— 支撑页：巴斯夫欧洲公司（BASF SE）、SAP（高吸水树脂）
+   • 实体：巴斯夫欧洲公司（BASF SE）
+- 概念：SAP（高吸水树脂）、Biodegradable SAP（可降解高吸水树脂）（对照：降解路线 vs 生物质平衡路线）
+
+--- [[BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）]]  (4 句)
+   • 扬子石化-巴斯夫（BASF-YPC，南京）的 **HySorb® N7059 SAP 产品介绍**：国产化 BASF SAP 牌号的一手典型值（CRC/AAP/残留单体）；在本库中是 SAP性能指标（CRC AUL GBP Vortex） 的供应商标尺之一，也是 SAPP/吸水纸芯体路线的候选料源。
+   • Product introduction from BASF-YPC Company Limited（扬子石化-巴斯夫有限责任公司，南京江北新区新华东路 8 号）. HySorb® N7059 = SAP with **high Centrifuge Retention Capacity and high Absorption Against Pressure**; hygiene products using it claim high saline retention, strong absorption, long-lasting dryness. Applicable to baby diapers, adult incontinence, female hygiene; usable in **absorbed paper cores**（吸水纸芯体）as well as traditional cores. Typical values (not specifications): CRC 35.8 g/g（EDANA NWSP 241）; AAP 0.3 psi 29.0 
+   • **N7059 的 CRC 35.8 / AAP 29.0 组合落在「高保水 + 高压吸收」双高定位，可作为国产化 BASF SAP 的对标基线** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）
+- **BASF-YPC 应用实验室自带吸水纸芯体打样设备——SAPP 路线的供应商端验证能力可直接对接** —— 支撑页：SAP 吸水纸（SAPP）
+   • 实体：巴斯夫欧洲公司（BASF SE）
+- 概念：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP 吸水纸（SAPP）
+- 对比：SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+
+--- [[SAP 表面包覆（SAP Particle Surface Coating）]]  (3 句)
+   • 1. **目的**：SAP 颗粒表面包覆用于改善粉尘、流动性、表面交联层（surface-crosslinking），从而影响 AUL / CRC 等性能与加工性。
+2. **液体喷涂法（CN 101641398 B）**：在带可移动混合工具的混合器中，经至少一个喷嘴将液体喷至产物床表面以下。
+3. **气流分散微粒固体法（CN 101679760 B）**：在混合器中用经气流分散的微粒固体包覆 SAP 颗粒，分散微粒的进料终止于产物床层表面之下。
+4. **SFC（表面交联率/表面交联分数，Surface-Crosslinking Fraction [待验证]）**：本批 BASF 变体副本披露了 SFC 计算公式，用于表征包覆/表面交联程度——缩写完整展开 [待验证]。
+   • 上位：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- 工艺：BNC 基 SAP 表面交联
+- 同族专利：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）、CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+   • CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF） —— 
+- CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF） —— 
+- Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理） —— （2026-09-29 追加：玉米淀粉作为可再生表面改性剂，0.04 g/g 淀粉用量下 AUP 优于未处理 SAP，GLP 显著提升）
+
+--- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]  (3 句)
+   • **覆盖的供应商与牌号数（源文统计）**：BASF（约 24 个牌号，含 Saviva 系列）、Danson（12）、Evonik（9）、Formosa（10）、LG（16）、Nippon Shokubai（8）、Nuoer（7）、Satellite（12，含 CR-630 的重复行）、SDP（8，含 Sandia 系列）、Sumitomo（4）、WanHua（4）。
+   • **出处标签 / Provenance labels**：、、、、、、、。
+**Legacy / current**：源文逐行标注；例如 BASF 5400/8760/9410/9630/9700/9807/9810/9900、Evonik 5600/5630/9300/9394/9500、LG GS4700/LK208PN/LK3800/LK501、SDP 全系、Danson 228x2 标记为 **Legacy**。
+   • 指标口径：SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）
+- 供应方：巴斯夫欧洲公司（BASF SE）、诺尔（Nuoer）、Nippon Shokubai（日本触媒）、Satellite Chemical（卫星化学）、Sumitomo Seika（住友精化）、LG Chem（LG 化学）、宜兴丹森科技有限公司、Evonik（赢创）、Formosa Plastics（台塑）、Wanhua Chemical（万华化学）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[BASF Biomass Balanced Superabsorbents（v3 归档同名件）]]  (2 句)
+   • BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列） 的 **v3 归档同名件（same-document copy）**： 与主件为同一份单页宣传（Biomass Balanced Superabsorbents，正文与图示一致）。全部提炼以主件页为准。
+   • 本地路径：
+- 主件页：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）
+
+--- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (2 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating superabsorbent polymer (SAP) particles** — spraying a liquid below the product-bed surface in a mixer with movable tools. The variant copy in this batch additionally exposes an **SFC (surface-crosslinking fraction [待验证]) calculation formula**, of direct interest to OEM SAP test protocols.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (2 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating SAP particles with a particulate solid dispersed by a gas stream**, fed below the product-bed surface. Process sibling of CN 101641398 B (liquid-spray coating) — both are BASF SAP post-treatment/core patents.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]  (2 句)
+   • **备援与双源**：SAP3 主用 NR-950、备份 BASF 9635（CRC 38），以双源认证对冲 Nuoer 交付（OTIF）风险；SAP1 备选 Satellite CR740（区域成本方案）。**关键结构增量**：在皮侧 SAP 与混合层之间夹一层 **REL 五纤 TAB 层（24 gsm）**，提供毛细梯度与单向 z 向流——这正是 PPT 2 用"混合层内高 GBP 牌号"来实现的导流/抗凝胶堵塞功能。
+   • 概念：SAP错峰膨胀、Multilayer SAP Core（多层SAP芯体）、Gel Blocking（凝胶阻塞）、SAP性能指标（CRC AUL GBP Vortex）、REL增强层、分区密度设计、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+- 实体：LG Chem（LG 化学）、诺尔（Nuoer）、巴斯夫欧洲公司（BASF SE）、Satellite Chemical（卫星化学）
+- 对比：SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）、SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+
+--- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]  (2 句)
+   • 文档上部是**参数底表**：按 BASF / Danson（丹森）/ Evonik / Formosa（台塑）/ LG Chem / Nippon Shokubai（日本触媒）/ Nuoer（诺尔）/ Satellite（卫星化学）/ SDP-Sandia / Sumitomo（住友精化）/ WanHua（万华）逐家列出 CRC（离心保留量）/ AUL（加压吸收量）/ GBP（凝胶床渗透率）/ Vortex（涡旋时间）与数据来源年份，另附 KCC-YJ 口径的**货架期（Shelf life，12–36 月）与在用产品（OEM-T5 / BCC / AC / EMEA / 墨西哥）**列。中部是**选型方法论**：9 牌号横评（吸水倍率 DI 54–63 vs 离心保水 30.6–36.7）、性能三象限（高容量型 / 平衡型 / 高渗透型）、按产品类型给出的推荐区间（薄型无绒毛浆婴儿裤 CRC 32–36 / AUL 24–28 / GBP ≥20 等）、多层角色定义（SAP1 皮侧快吸 / SAP2 快膨 / SAP3 延迟储库）。下部是**实验判决**：8 个配方单元 ×3 套测试
+   • 概念 Concept：GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）、SAP错峰膨胀、SAP性能指标（CRC AUL GBP Vortex）、分区密度设计、REL增强层、芯体测试方法与验收基准（STM）
+- 实体 Entity：诺尔（Nuoer）、LG Chem（LG 化学）、巴斯夫欧洲公司（BASF SE）、Satellite Chemical（卫星化学）、Sumitomo Seika（住友精化）、Nippon Shokubai（日本触媒）、IPC BCC（K-C Baby & Child Care 材料开发团队）
+- 组合 Portfolio：IPC BCC OI Portfolio（开放创新项目组合）、COCO芯体平台
+

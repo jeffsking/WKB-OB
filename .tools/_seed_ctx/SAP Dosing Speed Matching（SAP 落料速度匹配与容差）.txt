@@ -1,0 +1,90 @@
+# SEED: SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 91 页，119 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres]]  (5 句)
+   • This chapter treats **drawing 牵伸（orientation stretching 取向拉伸）** as the decisive post-spinning step that converts an as-spun filament of low strength and low orientation into a usable fibre. It moves from the mechanics of the drawing unit (draw twister 牵伸加捻机), through the necking/cold-drawing mechanism, to the structure–property chain "draw ratio → crystallinity / orientation / birefringence / density → tenacity and modulus", and closes with industrial routes including high-tenacity two-stage dra
+   • 1. **Drawing is orientation strengthening, not elastic deformation 牵伸的本质是取向强化而非弹性形变** (p.170). Source wording: "Through the drawing operation the fibre is orientationally strengthened due to alignment of the molecular chains along the fibre axis and shows enhanced recovery." 强度、模量与尺寸稳定性（dimensional stability）随之提升。
+2. **Spinning speed sets the residual draw ratio 纺速决定残留牵伸比** (p.171). Source wording: "an increase in spinning speed increases the orientation of the molecular chains along the fibre a
+   • Three-region load–elongation model on an undrawn filament (Fig. 8.3): region I elastic, region II post-yield plastic, region III strain hardening before break. Key parameters: **yield strain 屈服应变**, **yield stress 屈服应力**, **neck angle 细颈角**.
+- Neck angle is controlled by hot-plate temperature, hot-pin temperature, draw ratio and feed speed; a **snubbing pin 阻滞销** is used to stabilize the neck position. Necking 细颈: "the sample first yields with the appearance of a neck and thereafter the neck pro
+   • **Draw twister 牵伸加捻机**: two zones (drawing + twisting); **machine draw ratio** is set by feed roll / draw roll speeds, distinct from the actual draw ratio.
+- **High-tenacity drawing 高强化牵伸**: hot drawing and two-stage drawing to lower tension and limit chain scission (p.184).
+- **High-speed spinning and spin-draw 高速纺与纺牵一步法**: treated only briefly here because Chapter 4 already covers high-speed spinning in detail (p.185). The source itself flags this as a completeness gap — 在本章内论证较弱。
+- **Draw-war
+
+--- [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]  (4 句)
+   • SAP Dosing Speed Matching（SAP 落料速度匹配与容差）（本平台的头号失效模式）
+- Core Channel Pattern（芯体通道花型设计）（通道与凸台的设计对象）
+- SAP性能指标（CRC AUL GBP Vortex）（选型目标的指标口径）
+- ActiveTech Platform（ActiveTech 在线薄芯体平台）（在线薄芯体的平台级对照）
+- Nichidai（日丝）（套筒供应方）
+- IPC BCC OI Portfolio（开放创新项目组合）
+   • 1. **输送过程中 SAP 颗粒破碎**（particle breakage）—— 因输送摩擦所致；
+2. **计量偏差**（inconsistent dosing deviation）—— 由材料在到达目的地前的行为不一致造成。
+   • 改造后能否**保证同样的 SAP 投加速率（dosing rate per second）** —— 本方提出，对方未给出结论。
+- 落地产线编号为 **TJ 21** [待验证]。
+   • One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案） —— 
+- 85 双层pattern芯体套准工程规格 —— （2026-09-29 追加）
+- SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范） —— （由本源派生的工程规范，提供 Δp 缺口与口径警示）
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • PET is presented as "the most outstanding member of the polyester fibre family" (ISO definition, p.271): "a polymer comprising synthetic linear macromolecules having in the chain at least 85% (by mass) of an ester of a diol and terephthalic acid". The chapter covers the Whinfield and Dickson invention and commercialization by **DuPont (1953)** and **ICI (1954)** (pp.271–272), then runs the full chain: **polymer production** via two routes → **melt spinning** into four speed-defined product class
+   • At higher speed the pre-orientation consumes the drawing headroom: "natural draw ratio characteristic of low-oriented yarns disappears as the spinning speed increases" (p.313). LOY after drawing can "develop high birefringence of 0.21 or even more" (p.272). DTA evidence (Fig. 12.12, p.300): at **birefringence 0.038** the POY crystallization temperature drops by about **30 °C**.
+   • **Nucleative collapse 成核崩塌** (p.311): "This has been termed 'nucleative collapse' [36] because a large number of small nuclei come together to form a crystallite." In an oriented melt the entropy penalty is small and the critical nucleus size approaches the unit-cell size, so high-speed spun PET forms dense microcrystallites.
+- **Catalyst effects** (p.312): "the catalyst system could exhibit a greater influence than molecular weight in controlling the rate of crystallization of PET." Residual ca
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (4 句)
+   • **Melt spinning 熔体纺丝** with spinline structure evolution; the effect of spinning speed on birefringence, crystallinity and axial shrinkage is the experimental core (Fig. 13.15–13.19), again producing the **LOY / POY / HOY / FOY** classes (pp.347–349).
+- Integrated **spin-draw (SD)** and mass-colouration spinning variants.
+- After-treatment: drawing, texturing, **heat-setting 热定形**.
+- Practical value flagged by the source: Fig. 13.17–13.19 reveal the **time-dependent instability of undrawn yarn s
+   • Faster crystallization than PET (pp.341–342): "nylon 66 and nylon 6 crystallize relatively more rapidly, primarily because of more flexible molecular chains"; "'Y crystals are favoured by an increase in winding speed" (the source quotes the gamma-symbol the Greek γ as 'Y). Nylon 6 shows **polymorphism 多态性** — α, γ and pseudo-hexagonal forms depending on processing (p.352) — and the structure is highly moisture-sensitive, which the source identifies as the difficulty in spinline stability control
+   • Assessment: polymerization mechanism, process parameters, Tg–regain and speed–structure relations are all triple-supported by figures, tables and citations (strong). Degradation and additives are more narrative (medium). Mechanical behaviour is only trend curves plus one summary table with no mechanism or application mapping (weak) — the source itself marks this inferred.
+   • 1. **The Tg–moisture-regain concept transfers directly**: nylon 6 shows ~50 °C Tg shifted strongly by regain, with a 2.0–3.5% window of minimum Tg sensitivity. Any hydrophilic polymer whose stiffness and set behaviour moves with ambient humidity — including moisture-responsive fibre concepts used in comfort/microclimate work — obeys the same coupling. See Moisture-Responsive Fibre（湿敏变形纤维）.
+2. **Polymer selection for sheath-core bonding**: nylon's ready crystallization and high melting point vers
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (3 句)
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+   • **Opening length 开口长度** — the distance between two entanglement points, describing the temporary cohesion of an entangled yarn (p.267).
+- Methods: manual needle, automatic needle, electrostatic method (Obestat), automatic thickness measurement (Itemat, Toray profilometer).
+- Stein's comparison [13] concludes **Dynafil** detects variation in polymerization, temperature and quench-air speed most effectively (p.267).
+   • 1. **Crimp testing is directly usable for hot-air bonded staple**: crimp frequency (ASTM D3937) and percentage crimp are the standard descriptors of ES staple; both affect carding openness, web loft and the final bulky hand of the through-air bonded layer. There is no substitute for them in this chapter's framework, and the source's warning about the vibroscope needing extra tension to remove crimp is a real trap when measuring crimped ES staple.
+2. **CRE principle** underpins essentially every 
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (2 句)
+   • GB-T 28004-2011 **《Disposable Diapers（纸尿裤 片、垫）》** is the **historical (superseded) Chinese national product standard** for disposable diapers — retained in this vault for historical version comparison, old-contract / inventory disputes, and lineage tracing of the penetration test method（源：GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫））。It has been replaced as the current CN market baseline by **GB-T 28004.1-2021 Baby Diapers**, recorded as 生效中 with 2022-05-01 实施（源：GB-T 28004-2011 与 GB-T 28004.1-202
+   • **The 2011 penetration口径 — 30° run-off（滑渗）.** The GB-T28004-2011 滑渗.doc test answers the question "**尿液冲击下有没有被及时吸收**" — urine has large volume and low viscosity, so the dominating issue is absorption speed（源：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗））。Its intended use is **国标符合性与出厂放行** — a fixed caliber, robust to outliers (去极值), suited to external reports and cross-factory benchmarking（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。The 30° run-off method is contrasted with the in-house **TTM
+
+--- [[REL增强层]]  (2 句)
+   • 3. **PART 进展**：OI-02 第 2 次实验室试验（7 月）结果良好，等待天津实验室第 3 次 Intake-Speed 验证；OI-04 的 6 卷 REL（145mm×300m）预计 9/18 到天津。
+4. **供应与放大**：Minrui（网）、Yanjan（放大）、皖维（PVA）、C1 Life（PTT）、Fudi（三叶）、大原（梳理）。
+5. **专利启动条件**：OI-02 数据确认后立即启动专利撰写（Teng 负责），需明确专利范围（PVA 改性 / 工艺 / 应用）。
+   • **要点**：REL 是当前 OI 项目群的重心（4 个项目），且路线正在从「探索」升级为「与工艺主线协同」——评审时应关注**架构级对齐**（V6 vs V7、分区密度）而非单点参数。
+- **待补 **：天津第 3 次 Intake-Speed 验证结果；各 REL 路线的成本-性能对比。
+
+--- [[Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）]]  (2 句)
+   • **一句话定义**：旋转模切 / 打孔刀具的**材质路线选择** —— **高速钢（high speed steel, HSS）易加工、可做出任意花型，用于打样与原型**；**硬质合金（tungsten carbide）耐磨、用于量产刀具，但花型自由度受限（须规避刚性角度与刚性边）**。二者构成"**原型材质 ≠ 量产材质**"的经典可行性陷阱。
+   • Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计） —— 
+- Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流） —— 
+- Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner —— （分切刀材质口径：steel vs carbide/ceramic）
+
+--- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]  (2 句)
+   • **SAP 转阀脉冲频率与 ups 无关（16.7 Hz @1,000 ppm）——随 ups 变的只有落料速度** —— 支撑页：SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- **整线真空风量与单鼓成型风机差 8–19×，属不同口径，不可比较或相加** —— 支撑页：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- **SAP/胶工序顺序存在 A 级与 B 级资料的实质分歧，必须并列、禁止择一** —— 支撑页：03_卫材产线约束常量表（准入校验工具）
+- **「计量精度公差」与「落料速度公差」是不同维度，禁止混用** —— 支撑页：SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+   • 概念：Repitch（鼓距与产品节距解耦）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- 源：03_卫材产线约束常量表（准入校验工具）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+

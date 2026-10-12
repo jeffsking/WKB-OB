@@ -1,0 +1,76 @@
+# SEED: 87 卫材产线约束常量表（待并入补充行）
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+#
+# 全库正文命中 12 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Pain-Point Backward Derivation（痛点倒推法）]]  (2 句)
+   • 1. **Two classification axes, and only one of them admits intermediates.** The forward axis (old) asked "what performance does the material have → who can it replace", and classified by substitution object（面层／ADL／SAP／绒毛浆）. The backward axis (new) asks "what pain point does the line or product have → what role is needed → what form can board the line".（中文：正推以「替代谁」为分类轴；倒推以「角色 × 交付形态」为分类轴。）
+2. **Why the forward axis fails structurally rather than accidentally**：a candidate that replaces nothing（e.g
+   • **Lesson 1（先问形态）**：把「材料性能」当起点会天然漏掉中间体；把「交付形态」当起点才会先问「能不能上车」。立项书若写不出交付形态，应回到 Step 3 而不是继续论证性能。
+- **Lesson 2（角色化表述可以防误伤）**：同一份 BNC 材料，写成「替代绒毛浆」被拦，写成「中间体／载体」放行——**表述方式直接决定候选集资格**，故角色库与红线必须成对维护。
+- **Lesson 3（三条自检须真的执行）**：三问自检里最容易被跳过的是第三条——工艺路线在族谱／常量表无位置时，必须标「工艺空白」立项验证，**不得默认可行**。
+- **待补 **：《03 卫材产线约束常量表》《01 脱水干燥工艺族谱》《02 PEG 多元醇 × 纤维素交叉索引》《04 智能尿裤功能层专利地图》四份配套文档在本库内的**入库状态与本页 Step 1／Step 4 的引用完整性**；模板 v2 的下游采纳记录（哪些立项／拜访实际使用了本模板）。
+
+--- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]  (2 句)
+   • **SAP 转阀脉冲频率与 ups 无关（16.7 Hz @1,000 ppm）——随 ups 变的只有落料速度** —— 支撑页：SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- **整线真空风量与单鼓成型风机差 8–19×，属不同口径，不可比较或相加** —— 支撑页：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- **SAP/胶工序顺序存在 A 级与 B 级资料的实质分歧，必须并列、禁止择一** —— 支撑页：03_卫材产线约束常量表（准入校验工具）
+- **「计量精度公差」与「落料速度公差」是不同维度，禁止混用** —— 支撑页：SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+   • 概念：Repitch（鼓距与产品节距解耦）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- 源：03_卫材产线约束常量表（准入校验工具）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+
+--- [[82 鼓距与产品节距解耦 repitch 选型]]  (1 句)
+   • 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- Repitch（鼓距与产品节距解耦）
+- 83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (1 句)
+   • 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+- 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- 82 鼓距与产品节距解耦 repitch 选型
+- 84 Sleeve 工程规格与换装防错设计
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 03_卫材产线约束常量表（准入校验工具）
+- Repitch（鼓距与产品节距解耦）
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+
+--- [[Intake System（摄入系统）]]  (1 句)
+   • Intake Systems Development Pathway 2023（摄入系统开发通路） —— 
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） —— 
+- Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展） —— 
+- 03_卫材产线约束常量表（准入校验工具） ——
+
+--- [[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]  (1 句)
+   • SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范） —— 
+- 87 Hygiene Line Constraint Constants（待并入补充行·合并脚本） —— （2026-09-29 追加）
+
+--- [[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]  (1 句)
+   • 1. ⚠️ **Cpk 口径冲突**：本件 **MD 2.43 / 2.49、CD 1.39** 与 85 双层pattern芯体套准工程规格 中的 **Cpk 1.67 / 2.00（需 σ 降 17%/31%）** 数值不同 —— **两件口径（已达成 vs 目标需降 σ）可能不同，源文未说明，本页并列不换算**。
+2. **保形压力 39 Pa vs 裸算 31 Pa** —— 源文自陈"推导未闭合"；两种口径（17.3 g 等效 / 净图案面积 ÷0.77）**并列**。
+3. **停车扭矩 455 Nm vs 稳态 180 Nm** —— 隐含摩擦扭矩 152 Nm 与表列 180 Nm 差 **~15%**，源文**未解释**；处置只给"按峰值取"。
+4. **风机隐含效率 ~65%** —— 由 8.5 kW 反推，**源文未直接给出**。
+5. **鼓惯量 J ≈ 52 kg·m²** 基于 **270 kg 壳体的薄环上限假设**，源文标注"**保守**"，但**未给实际质量分布**。
+6. **chassis pitch 假设（芯长 +110 mm open / +
+
+--- [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]  (1 句)
+   • 概念：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Core Channel Pattern（芯体通道花型设计）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- 源：80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）、One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）、84 Sleeve 工程规格与换装防错设计
+- 同族待补：82 鼓距与产品节距解耦 repitch 选型、83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、87 卫材产线约束常量表（待并入补充行）
+
+--- [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]  (1 句)
+   • 概念：Repitch（鼓距与产品节距解耦）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Core Channel Pattern（芯体通道花型设计）
+- 源：81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）、03_卫材产线约束常量表（准入校验工具）
+- 参考标准：GB-T 28004.1-2021（纸尿裤国标）
+
+--- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]  (1 句)
+   • 概念：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Repitch（鼓距与产品节距解耦）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- 源：81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）、84 Sleeve 工程规格与换装防错设计、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）、03_卫材产线约束常量表（准入校验工具）
+- 实体：Nichidai（日丝）
+

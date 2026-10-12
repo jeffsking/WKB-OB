@@ -1,0 +1,45 @@
+# SEED: 戊二醛 Glutaraldehyde
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 7 页，9 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (3 句)
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[交联 CMC]]  (1 句)
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+
+--- [[快速吸水自膨胀纳米纤维素材料（华东师大）]]  (1 句)
+   • 1. **整体性来源**：柠檬酸/戊二醛/环氧氯丙烷等共价交联使纳米纤维成整体网络，吸水膨胀后保持形状。
+2. **膨胀驱动力**：CNF 亲水性强，水侵入打断纤维间氢键；压缩态储能释放 → 秒级回弹。
+3. **形态可控**：冷冻/超临界干燥得气凝胶（体积不变）；其他干燥+再压缩（裁剪/切割/粉碎/压缩）得粉末、薄膜、片、块。
+
+--- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]  (1 句)
+   • **产业化障碍**（五星最高）：**生产成本**——细菌发酵周期长（7–14 天）、成本高（约 **¥500–800/kg**）；**吸水性能**——加压下保液能力不足；**规模化生产**（静态培养 vs 动态发酵，产能受限）；**抗菌性**——天然 BC 无抗菌功能、易染菌；**标准化**——缺乏行业标准、质量不稳定。技术突破方向：① 改性提升吸水（TEMPO 氧化引入羧基、接枝丙烯酸类单体形成半互穿网络、戊二醛/环氧氯丙烷交联提升凝胶强度）；② 低成本工艺（连续发酵替代静态培养、农业废料为原料（椰子水、甘蔗渣）、气凝胶干燥由超临界改为常压）。
+
+--- [[CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学）]]  (1 句)
+   • 1. **原料谱系最宽**：提取/再生/化学改性（磺酸化、羧甲基化、TEMPO 化、磷酸化，取代度 0–3 优选取 0–0.8）/细菌纳米纤维素（醋酸菌属、土壤杆菌属、根瘤菌属、八叠球菌属）均可。
+2. **交联剂谱系**：甲醛/尿素、柠檬酸、乙二醛、戊二醛、硅烷偶联剂、酸酐偶联剂、环氧氯丙烷；CNF(干):交联剂 = 1:(0.0001–10)，优选 1:0.01–1。
+3. **工艺自由度**：先交联后干燥 / 先干燥后交联 / 干燥中交联均可；再加工（裁剪、切割、粉碎、压缩）任意组合。
+4. **实施例数据**：CMC-NFC+柠檬酸 85 °C/12 h → 压缩球 8.2 s 膨胀、8600%；CMC-NFC+环氧氯丙烷 90 °C/6 h → 12.1 s、8400%；CMC-NFC 粉末 100 °C 干燥交联 → 2.6 s、4100%；TEMPO-NFC+戊二醛 60 °C/6 h → 10.5 s、8100%。
+
+--- [[Cross-linked Cellulose and Derivatives]]  (1 句)
+   • **Cross-linked CMC** is the core technology: etherification (monochloroacetic acid, up to 8 mol/mol cellulose) followed by cross-linking (epichlorohydrin, formaldehyde, glutaraldehyde). **Water-insolubility threshold at low DS ≈ 0.35–0.40**; cross-linked CMC gives 5–25 g/g vs 1–2 g/g for unmodified pulp (p. 278).
+- **DS vs cross-link tradeoff**: higher cross-link gives strength and prevents dissolution but limits swell space → lower capacity; must be tuned precisely (p. 278). Thermal/acid treatm
+
+--- [[PEG-多元醇 × 纤维素吸水体系交叉索引]]  (1 句)
+   • 索引由「三处纠偏 → 12 条交叉索引总表 → 专利清单 → 缺口 → 对 BNC 项目的启示」五节构成。**三处纠偏**：①「日本触媒专利明确用 PEG(400–20000) 包覆 SAP、0.005–2 wt%」这一含量参数实为 **BASF SE** 专利族（CN101641398B = WO2008/113790A1 / EP2137239B1 / US 8,663,734 B2 / JP 5150718 B2，优先权 2007-03-19），KB 文件疑似误标权利人；② CN116731354A 全文无 PEG/多元醇，其机理为 CNF 化学交联（柠檬酸/戊二醛/环氧氯丙烷/乙二醛等，1:0.0001–10）+ 干燥收缩，遇水 2–30 s 自膨胀 3000–90000%，属干态复水旁证（对照事件）；③ 拜科瑞纪要方向四（PEG 中间体）确认是最强一手线索，但全部参数处于小试未出数状态。**总表**覆盖 12 条事件：BASF 族 PEG 包覆 SAP（MW 400–20000，0.005–2 wt%）· PEG 0.5% 复配交联 CMC · PEG 置换 BNC 水凝胶（
+

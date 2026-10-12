@@ -1,0 +1,127 @@
+# SEED: Resilient Surge（PET 回弹导流层）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 94 页，201 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (7 句)
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • **源文给出的"少孔"解法**：*"Less pores (i.e.: **lower BW at same density**, **non-fibrous film surge**)"* —— 即**同密度下更低克重**、或**非纤维的 film surge**。
+- ⚠️ **毛细具有两面性**：*"Drawing fluid may be a desirable trait to drain fluid from upper layers into lower layers"* —— 把液体从上层往下抽**本身是想要的**，滞留只是其副作用。
+   • *"**Film surge** is non-fibrous (so has lower surface area) and can be a **one-way valve**"*
+- *"**Less wettable fibers** reduce adhesion of fluid and can be a **buffer between core & blotter**"*
+   • **更难解吸是双重原因**（Young-LaPlace ）：**孔径 R 更小** + **润湿性更高（θ 更小）**。滴液润湿性（0→60 s）：Liner **POISE 2.4→4.7 vs AD 8.4→9.5**；Surge **POISE 8.4→9.2 vs AD 9.6→9.8**。
+- **BET 比表面积**：AD Core **17.48** vs POISE Core **1.37 m²/g**（约 **12.8×**）；AD 拆分为 composite 1 **56.25**、composite 2 **47.57**、SAM 颗粒（带胶）**0.70** → **高比表面积来自复合层，不是 SAP 颗粒**。
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (7 句)
+   • 本批**面层-导流层（liner-surge）界面附着强度的 DOE 结果报告（2025-11-18）**：用剥离强度（peel strength）作为界面间隙的代理指标，量化施胶花型、施胶基材、是否压合、施胶量与胶型五个因子的影响大小。是本库回答「界面间隙怎么降、先动哪个变量」的实验依据。
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **结论（如何减小界面间隙）**：① **考虑把施胶花型从 Summit 改为 Signature 或 CF Swirl**——其影响**可能大于面层-导流层压花（liner-surge embossing）**（待 MicroCT 结果确认）；**注意：Summit 的偏低可能是花型质量不达标的异常**，历史上 Summit 的粘合强度 ≥ Signature。② **继续把胶施加在导流层上**。③ **可考虑提高施胶量（add-on），但影响很可能很小**。④ **胶型大概率不值得更换**，除非 microCT 测试中观察到异常。
+   • **各因子细节**：
+- **施胶花型**：Minibead 最强；**Minibead 的剥离强度同时变异最大**——原文提出 CF Swirl 与 Minibead 之间的剥离强度落差**可能正是 Depend 回渗值更不稳定的原因**；另注 **Summit 喷嘴历史上粘合强度 ≥ Signature**，本次偏低疑为试验期间花型质量不达标（Tukey-Kramer 0.05 分组中 CF Swirl 52.879 / Signature 44.119 / Summit 24.097 等均值）。
+- **施胶基材（Primary Substrate）**：**胶应施加在导流层上以获得高剥离强度**——Surge 均值 **408.19**（Std Error 29.750，A 组）vs Liner **230.09**（Std Error 26.434，B 组），**未共享字母即统计显著**。注：面层作基材仅在 Minibead 喷嘴组合中出现，故右图只含 minibead 代码。
+- **压合（Bonding）**：**压合的剥离强度高于不压合**（p = 0.0002）。**
+
+--- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]  (7 句)
+   • **K-C 北美个人护理（NA PC – Tech ICT – ADT）的吸收系统技术管线图**，由 Kerry Clemmer 与 Bernardita Quesada Gonzalez 维护（尿/便线 **2025-11-11** 更新；Resilient Performance **2026-04-15**；经期线 **2024-05**）。本库价值：它把**材料、机理、项目代号与商业化时点**放进同一张图——**既能读出「现在用什么」，也能读出「下一步押什么」**。
+   • 管线按**性能域**组织（Dryness / Resilient / Softness / 3D-Apertured / Skin Health / Menses），每域给出 **Commercial → Near-Term（FEI/IMF，2025–2026）→ Long-Term（2027+）** 三档时点。
+   • **干爽域（Dryness）**：Surge（Resilient Surge：MOJAVE / REXHA / VONN；ATACAMA+ CT5）→ Liner-Surge Embossing（LSE）→ Capillary Network（ATACAMA+ / BUFF BABY / ARTEMIS）→ Liner（Resilient + Converting / Hollow Bico / Capillary Surge）→ Rewet Fundamentals；**未规划（not yet planned）**：Surge Liner B SB Liners、BUFF BABY ARTEMIS、Core Wrapsheet GRIFFIN SMS、ActivTech Hybrid、以及 **Rewet Fundamentals 的一致性与变异降低（Depend）+ 统一方法**。
+   • **面层与导流层**：
+- **Premium / Super Premium 3D 打孔**：TEXTOR AC4（3D 面层）、SHALAG HEX BCW、YANJAN / DAYUAN 局部导流层（topical surges）、BITESA 3D SB、CLEANSHIELD KIRIGAMI；
+- **传统面层**：BNW liner 3S、SIROCCO Thesis SAMS、Spun ATB、GNW liner 3S、传统 BCW HPP（Shalag、Tredegar）；
+- **柔软度升级**：更软的 SB（含 Silastol）、更软的 BCW、Spun ATB、GNW liner 3S。
+
+--- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]  (6 句)
+   • **为什么 AD 更难解吸（Young-LaPlace）**： —— 两个因素同时作用：① **孔径 R 更小**（AD liner 与 surge 的**模态孔径**均明显小于 POISE）；② **润湿性更高（接触角 θ 更小）**。滴液润湿性测试（0 s → 60 s）：**Liner POISE 2.4 → 4.7 vs AD 8.4 → 9.5**；**Surge POISE 8.4 → 9.2 vs AD 9.6 → 9.8**。
+   • **Micro-CT（10 cm / 0.14 psi 受压下）**：**两个面层都没有被很好地解吸**，但 **AD 的 surge 非常湿**。
+   • **三个解释性假说（原文自列，未证实）**：① 尺寸差异——POISE surge 蓬松度约为 AD 的 2 倍但**易解吸**；**AD surge 与 liner 等长等宽**，而 POISE surge 仅 **50 mm 宽**（芯体最窄处 80 mm）、长度约为护垫的一半（6-drop long）；② **AD surge 芯吸好，是否反而降低回渗？** ③ **高比表面积材料的作用是什么？**
+   • **回渗 = 解吸 + 回流两种机制；POISE 的 FIUP 中解吸主导** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **解吸由摄入系统控制：高毛细压力与界面截留液体，受压时表达为回渗** —— 支撑页：Intake System（摄入系统）
+- **AD 的摄入系统毛细压力全面更高（更难解吸），按机理应回渗更高——但实测未如此 ⇒ 机理与实测之间存在未解释的缺口** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- **更难解吸是双重原因：更小孔径 + 更高润湿性（Young-LaPlace 的 R 与 θ 同时作用）** —— 支撑页：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+- **AD 芯体 BET 比表面积约为 POISE 的 12.8×，且高比表面积来自复合层而非 SAP 颗粒** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **"蓬松度"与"解吸难易"是两
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (4 句)
+   • **粘弹性耗散主导强度，而非界面热力学。** 剥离强度 **G = G₀·ψ(v,T)**：G₀ = 本征断裂能，ψ(v,T) = 频率/温度相关的粘弹性函数。卫材含义："Temperature and peel rate directly determine core retention"— 配方开发的核心是设计 ψ(v,T) 的峰值（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **机械互锁是橡胶-纺织/绒毛浆界面的主导机制。** "penetration of the protruding fiber ends into the rubber was the most important parameter"，对应热熔胶点到浆纤维 / SAP 颗粒的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）。
+- **水基化转型不可逆。** 水性聚氨酯"no VOC emissions and
+   • **腰贴 / 侧贴 / 顶贴的 PSA 选型基准** — 行业直接命中："Personal hygiene products such as disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate this application... in particular the adhesive must not cause skin irritation."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **芯体点胶** — 施胶花型（喷嘴）是最大杠杆、**胶型是最小杠杆**：HSBL 数据给出施胶应施加在导流层（surge）上以获得高剥离强度；"间隙小 → 回渗低"仍为未验证假设（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）、Surge-Liner Adhesive Bonding（导流层-面
+   • **HSBL 试产的实测结果**（Peel / Capillarity / MicroCT / 回渗）与覆盖率—添加量的最优区间未见 （源：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合））。
+- **SAP-胶复合界面的标准测试方法**（界面相容性、防霉）库内记载"尚无"（源：Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶））。
+- **湿态/尿液环境下的长期强度衰减**库内只有类比（85 % 损失为有机涂层数据），**卫材专属衰减曲线未见** 。
+- 以上定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+   • Citing sources（3）: Adhesive Handbook Part 1 History and Information Resources、Adhesive Handbook Part 2 Fundamental Aspects、Adhesive Handbook Part 3 Adhesive Classes
+- 父书 / 汇总: Handbook of Adhesive Technology Full Report、Adhesive Handbook Part 4 Applications
+- 胶类概念: 压敏胶 PSA、热熔胶 Hot Melt Adhesive、Hot Melt Adhesive、胶黏剂 Adhesive、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）、丙烯酸丙烯酸酯胶 Acrylic Adhesive、APAO（非晶态聚α-烯烃）
+- 机理 / 界面: 胶接理论 Adhesion Theories、胶接热力学 
+
+--- [[CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）]]  (4 句)
+   • **LSE module / JOA *"Surge Cut and Place Module"***，位于 **2 楼夹层（2nd floor mezzanine）**；图注含 **Slip vacuum / Transfer vacuum**。
+- **Flap folding**：*"Normally, we use **3 different folding boards** with dimension difference. Meanwhile, the flap/leg elastics will be laminated with flap material. … Based on product spec, the **flap width and folding boards can be changed**."*
+- **Insert cut off**：*"This is a **critical process** before combining with panel material."*
+- ⚠️ **Insert applicator**：*"The 
+   • **Machine phasing control**：*"will be selected when the **buttonbox turns white to purple**"*；子项含 **Forming Drum / Pad Channels Emboss / Pad Cut Off / Surge Applicator / Insert Applicator**（均标 Manual 档）。
+- **Adhesive phasing control**：同样以 **buttonbox 由白变紫**选中；子项同上。
+- 示例机台：**ND33**（*"providing an example of ND33 machine"*）。
+   • **K-C 内部资料**：多页标注 **"K-C Internal Use Only"**，**不得对外分发**；安全规程与 PPE 要求**属现场管理要求**，**不转写为通用规范**。
+- **商务敏感**：*"How much does one CD pants machine cost?"* **源文未答**，本页**不补值、不估量级**。
+- **第三方厂商**：**JOA**（Surge Cut and Place Module / LSE module）、**HCH**（final cut off）、**Optima**（包装）、**Lycra**（腰围/侧片氨纶丝）按原样登记，**不构成供应商评价或选型结论**。
+- **图纸号**：、、、、、、、、 **仅作追溯登记**。
+- **人员信息**：作者 Jack Jin 与"mill authorizer"等**按原样登记**，不作组织推断。
+   • 1. **KCI vs KGIC** —— 标题写 **KCI**，正文指向 **KGIC** 表格，**关系未说明**。
+2. **"Do Not" 规则编号缺第 4 条** —— 源文从 3 跳到 5，**照录不补**。
+3. **3 PIECE 与 1 PIECE 的工艺差异** —— 两页均为设问，**正文未答**。
+4. **资产清单不可靠** —— 21 台为明写数字，但**具体代码来自图片 alt 且含大量重复串**，**不构成清单**。
+5. **首台机时间与地点** —— 源文设问但**未答**；图内 "Suzan TSU **2019**"、"Coris-**on hold**" 等**不足以反推**。
+6. **Insert-to-panel 胶相位示例数值（132 / 250 等）** —— 来自 **alt 重复串**，**对应关系不可确认**。
+7. **LSE 缩写** —— 源文未展开（结合 Surge-Liner Adhesive Bonding（导流层-面层施胶粘合） 可作推测，但**本件未定义**，**不合并**）。
+8. **TABCW** ——
+
+--- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]  (4 句)
+   • 项目史三段：**ATACAMA+ 之前** Depend 回渗约 1.6 g，Always Discreet 0.20 g 且对我们有 BV（better-than 宣称）；ATACAMA+ 把回渗改善到与 Always Discreet 持平，根因调查发现绝大部分回渗来自**导流层（surge）与摄入层界面**。**SIROCCO** 阶段 Always Discreet 又把回渗降到 0.16–0.18 g，Depend 停在 0.25 g 不再持平；SIROCCO 沿用 ATACAMA+ 的成功经验先攻导流层，结果**导流层方案与摄入性能互斥**（CT8 surge / Shalag 3 回渗改善但摄入变差），进一步改芯体已来不及测试，项目在可用时间窗内未成功。**Post-SIROCCO** 由 CRO 继续追查，发现液体积聚的位置已从导流层转移到**面层（liner）**。
+   • 前瞻部分指向 **ActivTech Hybrid**：该芯体从未被用于如此严苛的超低回渗场景，可能尚未充分优化；早期数据显示 AT hybrid 回渗偏高，但该代码缺少对 ATACAMA 回渗改善至关重要的**面层-导流层压花（liner-surge embossing）**。对比表给出 Nov 2024 GRIFFIN HUT 产品的两个代码：SAM/Fluff（17 gsm tissue 包裹、12 gsm SB 未印花面层、Shalag SS7CT5H80 导流层、有压花）vs AT Hybrid（12 gsm dSB 包裹、12 gsm SB 印花面层、无压花）；芯体由 ADL 生产、成品由 GML 生产，在 GADT 实验室测试。
+   • **回渗是系统性残液问题，不是单点材料问题** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **面层-导流层压花（LSE）是 ATACAMA+ 回渗改善的关键工艺，AT Hybrid 早期数据不可直接对比** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **导流层优化与摄入性能存在结构性互斥，必须同轮验证** —— 支撑页：Intake System（摄入系统）、Shalag（Shalag 导流层与面层材料）
+- **液体积聚点会随方案迭代迁移（surge → liner），每轮须重新定位** —— 支撑页：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+   • 概念：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Liner-Surge Embossing（面层-导流层压花）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、Shalag（Shalag 导流层与面层材料）、Fitesa（Fitesa 非织造布）
+- 对比：（本页未提供可直接落表的成本/供应链数据；竞品回渗对标见下节结论）
+
+--- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]  (4 句)
+   • 本库**摄入（Intake）议题的"档案柜"**：一份文件同时给出材料侧（resilient surge / MOJAVE）、功能侧（皮肤健康处理剂与 BM 捕获）、方法侧（解剖位与污渍遮蔽）与区域侧（女性护理 POV + LAO 试验）四条线索。它最重要的价值是**把"性能提升"与"加工代价"放在同一张表里**——MOJAVE 把回渗砍掉七成的同时也让断头翻倍，这条取舍线是本批多条议题的底色。
+   • **① 摄入材料开发管线（NA PC - Tech ICT - ADT）**：以「Resilient Surge + Standard Liner」为主轴，服务 Skin Health / Inge Dryness / Urine Protection / BM Protection 四类消费者利益。核心材料命题是**用 PET 驱动使用中表现**：PET 越多 → 表现越好、成本越低，但纤网越弱。牌号端给出 MOJAVE（40% PET）与 CT5（100% PET）的**成本—强度对照**，以及二者与两类芯体（SAM/Fluff 与 AT hybrid）组合后的摄入/回渗档位（CT5 在含浆芯体上摄入与回渗均"最佳"）。随后是 MOJAVE 的完整故事：为什么做（对 HPP/PICASSO 的干爽优势）、换来的代价（断头/粉尘/幅宽波动）、MOJAVE 2.1 的问题排查表与配方调整，以及下一步（接头强度一致性、Poise 紫色 MOJAVE、用 2.0d 替代 1.5d bico 消除 neps、在 T4 POME 与 GFM 中替换 HPP、优化克重、**认证 coPET 纤维
+   • 派生概念：Resilient Surge（PET 回弹导流层）、Skin Health Treatment on Nonwoven（无纺布护肤处理）、Liquid Modes（TL-1607 液体四态）
+- 已有相关：Liner-Surge Embossing（面层-导流层压花）（本页 PICASSO 与 MOJAVE 的回渗数据为其上游材料背景）、Intake Tech One-Pagers（摄入系统技术一页纸管线）（同主题的另一份一页纸管线）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）（本 block 默认互链；本页未引用任何 OI 编号，故无编号换算问题）
+   • "Resilient surges use PET to drive performance in-use / More PET can result in better performance and lower cost / More PET causes weaker webs, increasing converting risk / Current LL of BCC asset process window is within 3,000-6,000gf"（Comparing Resilient Surge Grades）
+- "MOJAVE 2.1 addresses most converting issues"（MOJAVE Problem-Solve）
+- "Depending on technology, claim, + intent of use, FDA may consider product with skin health treatments as an OTC Drug or Cosmetic"（Global regulatory complexi
+
+--- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]  (4 句)
+   • K-C **摄入系统（Intake System）的技术管线总表**：15 张一页纸覆盖「液体进得来」（surge / liner 结构与压花）与「受压后仍留得住空隙」两大命题，是本库了解 KCNA 内部摄入层技术优先级与基线产品的最佳入口。
+   • 文件结构统一：每张一页纸均含 Consumer Insight & Benefit、Feature / Technical Solution、Success Criteria、Test Results、Timeline、TRL Status 六段。**代表性页面**：① **DOS Bodyside Material（MD/CD 对花分区）**沿用 DualZone™ 概念，在小便区/大便区做对花分区图案，依赖供应商对花能力（Vietnam BlueZone 为先例），2026 年 Q2–Q3 需建立或改造 IPC 对花能力。② **DAM Liner（CD 分区 + 边缘液体坝）**已在 China T6 Natural Pro 上完成对照测试，Phase 1 于 2025 上市，Phase 3 预计 2027。③ **AC4 for urine / ZENDOS**：前者针对 Textor surge 处理尿液回渗偏高的短板（提高克重补空体积、提高旦尼尔降残留液）；后者把现有 ZEN 配方「超配」加入抗粪便酶成分。④ **Hollow Bico / MOAB Surge**：围绕 
+   • **摄入层的一切收益都来自「受压下仍保有的空体积」——压花、克重、纤维截面、卷曲风格是同一变量的不同表达** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **LSE 图案不是视觉装饰：bond 面积越大、bond 间距越小 → 空体积越小 → 摄入变慢、回渗升高** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **柔软与干爽此消彼长：细旦带来软感，也带来毛细残留液（回渗）** —— 支撑页：热风粘合无纺布
+- **可持续性存在多条并行且互不替代的跑道：无锑 / 无塑（PLA、Lyocell）/ 天然纤维 / 微生物组认证** —— 支撑页：无锑聚酯、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • 概念 Concept：Liner-Surge Embossing（面层-导流层压花）（本页派生）、分区密度设计、ATB双梳理面层（Dual-Card Topsheet）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、无锑聚酯、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 实体 Entity：延江（Yanjan）（原文提及 YanJan 3D topical surge）
+- 组合 Portfolio：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]  (4 句)
+   • 本批**面层-导流层（liner-surge）层压件的厚度与密度实测数据表**：在材料固定（12 gsm 面层 + 80 gsm 导流层）的前提下，按三档施胶量测 22 个代码的六点厚度并推算密度。是本库回答「界面施胶量如何改变层压密度（进而可能影响回渗）」的原始数据集。
+   • 数据表结构：每个代码给出 6 个厚度测点（Thickness 1–6，mm）、平均厚度（Average Thickness, mm）、**施胶量（Adhesive Add-On, gsm）**、由平均厚度换算的密度（Density，g/m³ 与 g/cc）。表末固定材料条件：**Liner 12 gsm、Surge 80 gsm**。
+   • **界面施胶量在本数据集中不是密度的主导变量，厚度才是** —— 支撑页：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **层压密度是本批可直接量化、可复现的界面状态指标** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **厚度测量本身存在点间离散，均值比较须配合离散度** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+   • 概念：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）、Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、Rewet Measurement Variability（回渗测试变异性）、Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- 实体：（本页未落供应商）
+- 对比：（本页为单条件数据集，不构成对比页）
+

@@ -1,0 +1,121 @@
+# SEED: 荧光增白剂 Optical Brightener
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 80 页，118 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）]]  (4 句)
+   • The **test-method standard** behind every "可迁移性荧光增白剂不得检出" clause in CN hygiene-product standards (GB 15979-2024, GB/T 21331-2021, GB 43631) — it defines *how* migratable FWA is judged, not the limit itself.
+   • GB/T 27741-2018 (SAC/TC 141) replaces the 2011 edition and provides one qualitative and two quantitative routes for migratable fluorescent whitening agents（可迁移性荧光增白剂）in paper, board and pulp. The qualitative method is the de-facto gate for hygiene papers: extract with pH 7.5–9.0 ammonia-buffered water, acidify the filtrate to pH 3.0–5.0, let a 5×5 cm gauze adsorb the FWAs for 30 min at 40 ℃, then inspect under 254/365 nm UV against a blank — fluorescence brighter than the blank in both parallels
+   • **「不得检出」条款的方法学落点就是本标准的定性纱布法**——凡卫生用品标准引用「可迁移性荧光增白剂不得检出」，判定按本标准第 5 章执行 —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **绒毛浆的荧光判定是定性引用**（GB/T 21331-2021 第 6.10 条引用本标准第 5 章）—— 支撑页：GB-T 21331-2021 Fluff Pulp（绒毛浆）
+   • 概念：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 来源：GB-T 21331-2021 Fluff Pulp（绒毛浆）
+
+--- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]  (4 句)
+   • **喷墨色料两难**：喷墨孔 <100 µm，存在颗粒物堵塞固有风险，故最初选用**水溶性染料**而非颜料；颜料须压至 <0.02 µm 稳定分散才能"大幅改善色彩空间覆盖度、亮度接近染料墨水"。
+- **染料-颜料之争现状**："where light fastness is not a problem, dyes take precedence because of brighter shade, better colour gamut and inherently more stable inks"——光牢度非瓶颈时染料优先。
+- **染料五项功能门槛**：水牢度（可通过纸品涂层改善）/ 热稳定 / **无毒** / 无机盐 <100 ppm / 储存稳定墨水。
+- **减色印刷**：彩色喷墨是减色过程，需 YMC 三色组（黄-洋红-青），如同彩色摄影。
+- **发光第三维度**："Those phenomena that involve absorption of energy and subsequent emission of light are classified ge
+   • 1. **喷墨色料两难**：颗粒尺寸与光牢度是核心工程约束——喷墨孔 <100 µm 的堵塞风险使水溶性染料成为初始选择，颜料须压至 <0.02 µm 才能接近染料亮度。
+2. **染料优先判据**：光牢度不是问题时，染料因更亮色调、更佳色域与固有上更稳定的墨水而占优。
+3. **五项功能门槛**：水牢度、热稳定、无毒、无机盐 <100 ppm、储存稳定墨水——任何色料供应商评估必须同时考察。
+4. **发光为颜色化学第三维度**：能量吸收后发射光的现象统称 luminescence，是功能性色料（荧光增白剂、安全标识、防伪、诊断）的科学基础。
+5. **激发态寿命决定应用**：荧光（瞬时 1–10 ns）用于增白、分析、显示；磷光（延迟余辉）用于安全标识、夜光材料。
+6. **偶氮荧光缺失**：偶氮发色团虽是最主要的纸品/纺织染料，却几乎没有荧光能力——纸品要获得"荧光白"必须依赖非偶氮荧光增白剂。
+7. **化学发光量子产率是选型核心**：鲁米诺仅约 1% 限制其灵敏度，AMPPD 达 20–30% 才是生物分析/诊断的实用工具。
+   • 父书：Chromic Phenomena
+- 概念：荧光增白剂 Optical Brightener · 香豆素 Coumarin · 偶氮染料 Azo Dye · 斯托克斯位移 Stokes Shift · 电致发光 Electroluminescence · 光致变色 Photochromic · 热致变色 Thermochromic
+- 相关章节：Chromic Phenomena Introduction and Reversible Colour Change · Ancient Organic Dyes and Pigments Chemistry
+- 材料：木浆 Pulp · 绒毛浆（Fluff Pulp）
+- 供应商：Henkel · PPG Industries · BASF
+   • **采购行动项**：
+1. 建立色料分级目录：偶氮（低成本基础色）/ 酞菁（蓝绿主力）/ 喹吖啶酮（高端，价格×30）/ 荧光增白剂（功能性）；
+2. 供应商技术评估增加"量子产率、斯托克斯位移、光牢度"三指标；
+3. 与数字印刷合作商要求"25 年存档稳定性"测试报告。
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (4 句)
+   • The engineering deep-dive behind the pull-strain fit meter on elastic side panels — it fixes the seven hard requirements, screens seven mechanochromic families, and lands on a single-pass slot-coated **geometric optical mask** with cost, safety and FTO closed out. This is the most implementation-complete document of the Mechanochromic block.
+   • Part Two screens seven families against applicator, cycle life, cost and tox. Only the geometric optical mask survives (TRL 8, native slot-coatable, 1.0× cost index, no new tox package); craze/cavitation whitening is Phase 2 (1.4×), interference pigment is backup (3×); polymer opal (25×), stretchable DBR (15×), cholesteric LCE (40×) and molecular mechanophores (60×) are rejected — the latter because ~240 pN per bond demands covalent incorporation into a cross-linked network, fades after ~3 cycle
+   • **几何遮光优于任何变色化学** —— 过不了热熔涂布机与数十次循环，是文献方案的共同死因。支撑页：Geometric Optical Mask（几何光学掩膜）、Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **面板伸长可用，但面板不是压迫源** —— 指示器只能定位为合身/防漏指引。支撑页：Skin Contact Pressure（皮肤接触压力）
+- **阈值标定必须落在卸载支（回弹曲线）** —— 否则舒适度被高估约 30 %。支撑页：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+- **控制点在上游来料** —— 预拉伸比与松弛波纹间距须写进面板采购规格（Cpk ≥ 1.33 + 逐批证书）。支撑页：Geometric Optical Mask（几何光学掩膜）
+- **不新增任何化学品类别** —— 全部组分已存在于纸尿裤结构胶或印刷底膜中。支撑页：TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+   • Concepts 概念：Geometric Optical Mask（几何光学掩膜）、TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）、Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）、Skin Contact Pressure（皮肤接触压力）、Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- Entities 实体：Kimberly-Clark（金佰利）
+- Comparisons 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- Existing pages 既有页：Mechanochromic变色纤维、变色油墨、智能尿裤功能层
+
+--- [[TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）]]  (3 句)
+   • 1. **The whole formulation exists to hit one number（整个配方只为一件事）**：2,500–3,500 mPa·s at the die (design 2,900 ± 400 mPa·s @ 160 °C), so it runs on a standard diaper hot-melt system.
+2. **Stiffness is the mechanism, not a property（刚性即机理）**：the α-methylstyrene resin raises the film modulus to ≈ 85 MPa so the mask does not stretch with the panel. **The α-methylstyrene level, not the pigment level, is the release-critical parameter** — if the mask softens toward the panel modulus it stretches with the
+   • （中文：①配方目标只有一个数——模头处 2,500–3,500 mPa·s（设计 2,900±400 @160 ℃），以兼容标准纸尿裤热熔系统；②刚性即机理——α-甲基苯乙烯树脂把膜模量抬到约 85 MPa，**α-甲基苯乙烯含量（而非颜料含量）才是放行关键参数**；③遮盖力须彻底——金红石 TiO₂（d50 0.28 µm、铝硅表面处理、以预分散母粒形态供应）承担全部遮盖功能，沉淀 CaCO₃（d50 0.8 µm、硬脂酸包覆）作填充与消光剂，使掩膜呈平光白；④刻意排除——荧光增白剂（迁移风险）、偶氮颜料（芳香胺裂解）、邻苯二甲酸酯增塑剂、任何重金属发色团；白色是刻意的，颜色全部放在已被毒理放行的供应商柔印底印中；⑤底层化学——APAO（富丙烯、Mw≈40 kDa）无需底涂即可锚定 PP 纺粘面层，氢化 C5 增粘树脂在 0.4 s 开放时间内润湿纤维冠，FT 蜡（熔点 105 ℃）降黏、<0.5 s 固化并防卷绕粘连；⑥毒理包「无新增」——仅用于贴身外侧、位于吸收芯之外、距腿围与腰缘 15 mm 以上，颜料完全包裹在黏结剂中。）
+   • 应用架构：Geometric Optical Mask（几何光学掩膜）
+- 工艺：Hot-Melt Slot Coating（热熔狭缝涂布）、热风粘合无纺布
+- 对照（既有页）：变色油墨
+- 选型对照：Mechanophore Mechanochromism（机械力致变色分子）
+
+--- [[液晶 Liquid Crystal]]  (3 句)
+   • **Adjacent chromic/optical material families** that share the LC chromic chemistry主线: Chromic Phenomena Solar Energy and Liquid Crystals is described as the base page for the library's LC / chromic-chemistry main line, and Mechanochromic Elastomer from PDLC 5CB PDMS is the pressure-responsive branch（源：Introduction to Liquid Crystals）。Note the antiferroelectric work is aimed at a **room-temperature** device — i.e. pushing the $S_{Calt}$ phase window down into ambient conditions — which is the sam
+   • **Contra-indication.** The vault does not evidence any absorbency (fluff pulp / SAP / ADL) content in the LC-focused pages; the read-across is by shared mechanism (stimulus→optical/ion response) rather than by direct hygiene data 。
+   • Chromic Phenomena
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- Mechanochromic Elastomer from PDLC 5CB PDMS
+- Physics of Liquid Crystals (Book Review)
+- Introduction to Liquid Crystals
+- Antiferroelectric Liquid Crystals
+- Liquid Crystalline Polymers Smart Applications
+- Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 
+
+--- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]  (3 句)
+   • The technical verdict rejects molecular mechanophores on three counts — the ~240 pN/bond threshold equals ~40,000 psi, two orders of magnitude above the 20–150 kPa diaper target; the merocyanine state is thermally transient at 37 °C and polar-sensitive (hygiene moisture accelerates relaxation → false negatives); and the signal fades after ~3 stretch cycles. It notes the counter-evidence too: Orado et al. (2025) incorporated spiropyran into a polyurethane shape-memory polymer (PUR-SP) with +56 % 
+   • **腰围张力不可测是核心痛点** —— 强度足以支撑一个新品类定位。支撑页：Skin Contact Pressure（皮肤接触压力）
+- **分子路线不能上产线** —— 三条否决理由（阈值、热/极性稳定性、循环寿命）在各来源间一致。支撑页：Mechanophore Mechanochromism（机械力致变色分子）
+- **几何掩膜是唯一 TRL 8 方案** —— 无限循环 + 零新化学品是它的全部卖点。支撑页：Geometric Optical Mask（几何光学掩膜）
+- **信号弛豫的假阴性比没有指示器更糟** —— R2 与 R4 互为对偶。支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+   • Concepts 概念：Geometric Optical Mask（几何光学掩膜）、TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）、Skin Contact Pressure（皮肤接触压力）、Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）
+- Entities 实体：CTI（Chromatic Technologies Inc.）、Henan Jiayida（河南嘉亿达）、Shenzhen Xingcheng（深圳星辰）、Chungnam National University and Hanyang University（韩国大学研究伙伴）、Kimberly-Clark（金佰利）
+- Comparisons 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+
+--- [[Smart Textiles and Their Applications]]  (3 句)
+   • 1. **Introduction** — the two-part split of the field: *passive smart textiles* change their properties according to environmental stimulation (shape memory materials, hydrophobic or hydrophilic textiles), while *active smart textiles* carry sensors and actuators, detect signals (temperature, light intensity, pollution), decide locally via embedded textile electronics or remotely via cloud and AI, and act through textile-based, flexible or miniaturised actuators (textile displays, micro-vibratin
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+   • **The cost verdict is the most useful sentence in the paper.** Both active-fibre and electrochromic routes are explicitly blocked on cost/integration and on lifetime/reliability respectively. Anyone proposing a powered or electrically-switched indicator on a disposable should read that as a negative result from the smart-textile community's own work — see US20070270773A1 Thermochromic Wetness Indicator for the passive, power-free alternative that a disposable actually uses.
+- **Layer-count reduc
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (2 句)
+   • 力致变色分支：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）
+- 卤致变色分支：Protein Error of pH Dye（pH 染料的蛋白误差）、Titratable Acidity Lane（可滴定酸度通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 既有页对照：变色油墨、Mechanochromic变色纤维、智能尿裤功能层、认证与法规的区别
+   • ✅ **验证记录（2026-09-29）**：以上为**会中设想与技术判断**，**无任何样品或实测**；"湿变不可行"为机理推断 [待验证]。参见 V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）、Geometric Optical Mask（几何光学掩膜）、TBCW结构。
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (2 句)
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+   • GB-T28004-2011 PH.doc
+- GB-T28004-2011 回渗渗漏.doc
+- GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫）
+- GB-T 28004.1-2021（纸尿裤国标）
+- GB-T 28004-2011 与 GB-T 28004.1-2021 婴儿纸尿裤指标对比
+- Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279）
+- Run-off & Leakage Test（滑渗与渗漏测试）
+- Rewet Test（回渗测试）
+- GBT28004.1-2021纸尿裤中交货水分的测定.doc
+- GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）
+- SAP（高吸水树脂）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+
+--- [[Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）]]  (2 句)
+   • → 该路线与本库 Geometric Optical Mask（几何光学掩膜） 属同一"用光学手段控制信号可见性"的思路，但前者是**液体触发的可逆/半可逆光学切换**，后者是静态几何遮蔽。
+   • Source 来源：EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)
+- Entity 实体：Unicharm Corporation（尤妮佳）
+- Sibling routes 同族路线：Wetness Indicator Glue、Water-Activated Ink（水变／湿变油墨）、Chromism Taxonomy（变色现象分类）
+- Adjacent 相邻：Wetness Indicator Ladder（尿湿指示阶梯）、Geometric Optical Mask（几何光学掩膜）、Diaper Microclimate、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+

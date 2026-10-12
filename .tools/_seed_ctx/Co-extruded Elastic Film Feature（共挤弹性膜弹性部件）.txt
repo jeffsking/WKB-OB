@@ -1,0 +1,116 @@
+# SEED: Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+# type: concept | 原引用数: 10
+# 原 Cited by 列表:
+#   - Elastic Strand Snicking（弹性橡筋断丝失效化）
+#   - Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+#   - Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+#   - The Procter & Gamble Company（宝洁）
+#   - Waist Guard（腰围护挡）
+#
+# 全库正文命中 234 页，383 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Synthesis of Thermoplastic Polyester Elastomers]]  (5 句)
+   • **Introduction / review of prior art** — general TPE behaviour: TPEs show the mechanical properties of chemically crosslinked elastomers (high tensile strength, impact resistance, resilient elasticity, low-temperature flexibility) while being processed like thermoplastics by extrusion, injection or rotational moulding and calendering. Increasing soft-segment content lowers enthalpy and melting temperature, lowers tensile strength and hardness, gives less crystalline polymers, and raises elongati
+   • 1. **Design intent: non-polar soft segment.** Soft non-polar olefinic prepolymers are built into the polyester chain specifically to **improve hydrolytic and thermal stability and achieve better phase separation**, which particularly shows up as increased elasticity. Literature coverage of polyolefin soft segments in TPEs is explicitly called very scarce.
+2. **Why solution polycondensation.** Phase separation occurs during polycondensation because soft non-polar segments mix poorly with polar DM
+   • **MODERATE 中等关联.** There is no nonwoven, no PP, no SAP and no absorbent core here. The value is as a **structure–property reference for any elastomeric component** in the product — elasticity is the one mechanical function the paper is about.
+   • **Elastic components.** The waistband, cuff and ear-panel elastication work in this vault needs a working model of what makes a TPE elastic and how it survives converting heat. Finding 8 gives it crisply: crystallised hard phase is the physical crosslink, so anything that disrupts hard-phase crystallisation destroys recovery. Chaining to the practical side, see Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres — heat-setting is exactly the process by which crystallinity is 
+
+--- [[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]  (4 句)
+   • A Chinese published patent application (applicant: **湖北宏裕新型包材股份有限公司**) on an **ultra-thin PE microporous breathable film** (10–14 gsm) for baby-diapers backsheet — an upgrade over cast breathable film. Backsheet-film manufacturing patent → FTO-relevant.
+   • The invention provides an ultra-thin PE microporous breathable film co-extruded by a blown-film machine with outer/middle/inner layers: inner layer = CaCO3 masterbatch 45–60 kg + PE 25–30 kg + ethylene-octene copolymer 18–25 kg + lubricant 1–3 kg; middle layer = CaCO3 masterbatch 60–70 kg + PE 25–30 kg + lubricant 1–3 kg; outer layer = same as inner. The product shows basis weight 10–14 gsm, WVTR 1800–3200 g/24h/m², hydrostatic resistance ≥50 mmH2O, with low basis weight, high breathability and 
+   • **Low-basis-weight (10–14 gsm) PE microporous breathable film via co-extrusion** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+   • 概念/对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）
+- 实体：—
+
+--- [[EP0820747A1 Absorbent Article with Elastic Feature (P&G)]]  (4 句)
+   • A 1996-priority P&G European application that replaces the **nonwoven + elastomer laminate** approach to diaper elastics with a **co-extruded elastomeric / non-elastomeric film**, using mechanical activation to switch elasticity on — the earliest "activation" document in the library's elastic-feature cluster.
+   • The application discloses an absorbent article having an improved **composite elastic feature**（复合弹性部件）that is easier to handle during manufacture and subsequent processing. The feature comprises at least one **extruded elastomeric layer** and at least one **extruded, substantially non-elastomeric layer** which together form a film. Before the film is elasticised by **activation**（激活）, the non-elastomeric layer inhibits the elastic properties of the elastomeric layer; after activation, that inhi
+   • **"Activation" is the invention's switch** — the film ships/stores in a non-elastic, easy-to-handle state and becomes elastic only after mechanical stretching. → Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- **Removing the nonwoven removes two manufacturing pains** — weak nonwoven tensile strength and fibre/glue contamination. → Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- **Co-extrusion is preferred over lamination** — one process step from the same die head. → Co-extruded Elastic Film Feature
+   • Concept 概念：Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）、并列复合自卷曲纤维
+- Entity 实体：The Procter & Gamble Company（宝洁）
+- Same-module patents 同模块（模块四：氨纶橡筋/弹性纤维）专利：EP2413866B1 Disposable Wearing Article (Unicharm)、EP1581159B1 Method for Producing Diaper Pants（弹性片材）
+
+--- [[EP2413866B1 Disposable Wearing Article (Unicharm)]]  (4 句)
+   • Granted European patent (Unicharm) on a **disposable wearing article** with an elastic/fit feature — a pant-type article in the "elastic component" cluster of this IP block.
+   • The patent (title: "DISPOSABLE WEARING ARTICLE") grants a disposable wearing article. The bibliographic header lists proprietor Unicharm Corporation (Ehime, JP), multiple inventors (Yamashita, Otsubo, Hashimoto, Ishikawa, Okuda), and classification A61F 13/15, A61F 13/49. It is the European phase of PCT/JP2010/002334 (WO 2010/113488), priority JP 2009080821 and JP 2010068328. The filename tags it as an elastic-component (弹性部件) patent. Detailed claim language on the elastic/fit feature is in the 
+   • Pant-type wearing article with elastic/fit feature — supporting page: Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+   • 概念 Concept：Elastic Tension & Creep（橡筋张力与回缩率）、Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+- 实体 Entity：Unicharm（本批仅 1 次提及，未单独建页；仅正文标注）
+
+--- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]  (4 句)
+   • European granted patent (B1) that defines the **OBC-based hot melt adhesive** formulation window used for **elastic attachment**（弹性粘合，即把氨纶/橡筋粘在膜或无纺布上） in disposable diapers — the reference formulation page for the "模块三：聚烯烃类热熔胶" patent cluster.
+   • Bostik's EP 2 456 819 B1 claims a hot melt adhesive built on an **olefin block copolymer (OBC)** as the primary polymer, combined with a high-softening-point tackifying resin, a low-crystallinity secondary polymer (APAO or semi-crystalline polyolefin), an optional aromatic reinforcing resin, plasticizer, wax and stabilizer. The stated problem is that the disposable-industry standard for sprayability has been **styrene-isoprene-styrene (SIS)** block copolymers, and no olefinic polymer had matched
+   • **A polyolefin can match SIS/SBS for elastic attachment** — the patent's core assertion; sprayability + application window is the barrier being broken. → Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- **OBC ≠ APAO** — block vs random architecture; DSC enthalpy-of-fusion boundary (>25 J/g) is used as the discriminator. → Olefin Block Copolymer (OBC) 烯烃嵌段共聚物、APAO（非晶态聚α-烯烃）
+- **Low-crystallinity secondary polymer is a processing modifier, not filler** — it tunes viscosity, adhesion, low-temperature resista
+   • Concepts 概念：Olefin Block Copolymer (OBC) 烯烃嵌段共聚物、APAO（非晶态聚α-烯烃）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、热风粘合无纺布
+- Entities 实体：Bostik、Dow Chemical Company
+- Comparison 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- Same-module patents 同模块专利：EP0820747A1 Absorbent Article with Elastic Feature (P&G)、US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+
+--- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]  (4 句)
+   • A **physics-based feasibility study** asking whether an all-PP SMMMMS structure can replace the breathable backsheet film. Its purpose in this library is to supply the quantitative barrier, attenuation and degradation limits behind any "drop the film" proposal, and to supply a **zoning** answer instead of a yes/no answer.
+（本页回答「全 PP 的 SMMMMS 结构能否替代透气背层膜」，属**基于物理模型的可行性研究**。在本库中的用途是：为任何「去膜」提案提供量化的阻隔／拉伸衰减／降解边界，并把答案从「行不行」改成**分区**。）
+   • 1. The deck opens with an executive verdict of three findings, and its first finding is **negative**: in the industrial window fibre diameter is drag-limited — set by throughput per hole and jet velocity, not by melt viscosity — so the stated premise that better melt flow at the nozzle gives finer fibres does not hold（模头温度 250 → 300 °C 使模拟直径变化 < 1%）.
+2. Its second finding is the **real prize**: capillary residence time is 4–20 ms against 480 s for the rest of the melt path, so heating only the t
+   • **Fibre fineness is bought with throughput per hole and jet velocity, not with temperature.** —— 支撑页：Meltblown Nonwoven（熔喷非织造布）
+- **Thermal decoupling of the die tip is the real benefit of the laser**, because degradation is dose = rate × time and the capillary shortens the time by 80,000×. —— 支撑页：Laser-Assisted Die Tip（激光辅助模头）、熔融指数与化学降解
+- **Barrier is formation-limited**, so beam count and local basis-weight CV — not median pore size — set hydrohead. —— 支撑页：Formation-Limited Barrier（阻隔的成形受限机理）
+
+   • Concepts 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、Laser-Assisted Die Tip（激光辅助模头）、SMS复合结构、熔融指数与化学降解、茂金属聚丙烯
+- Comparisons 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、无纺布五大工艺对比
+- Sibling project directory 同目录项目：
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (4 句)
+   • **重要性**：*Yes, for competitive advantage*（是，为取得竞争优势）。
+  - *"POISE Originals will need to **beat Equate** for preference."*
+  - *"POISE UT & Originals need to offer the **same features** (other than thickness). Currently in same tier."*
+- **现状**：*"**Off track** on Poise Originals, with trickle effects on GFM (GN inserts discontinued)."*
+- **机会**：立即修 POISE Original 面层；*"Can we afford more expensive materials? **Note: Equate is already doing that.**"*；若 **ActivTech 2.0 for POISE** 获批，与 POISE UT 的诉求联
+   • **重要性**：Yes。
+  - **T6**：继续顶档收益 —— **actives、最强的 BM 摄入、最好的柔软**与某些超高端收益。
+  - **T5**：T6 特性下放；*"Need to up our game on softness **beyond TETRIS options**"*；**Cleanshield 仅用于 POME**；LM —— **透气性**与潜在的**吸湿排汗**。
+  - **T4**：**TBD，回渗宣称**。
+  - 追问：*"What's the **weakest link/feature** in the product for softness?"*
+- **现状**：*On track, but need to progress*。
+- **机会**：T6 与 T5 更软；确保创新**守得住档位目标**。
+- **障碍**：柔软度的工序能力；*"**Cost disadvantage if going beyond internal sourcing**"*（超出内部 sourcing 则有成本劣势）。
+   • **重要性**：Yes。*"UBK hypothesized that **BSL change on CleanWear was one of reasons for share loss**. **LORI** gets us back on track."*
+- **现状**：*Off track on SP, but LORI gets us back on track*。
+- **机会方向**：
+  - **Feel clean & dry**：*"Key focus area that BSL could support. However, **knowledge gaps exist on the cues that convey clean & dry** for UBK consumer targets."*
+  - ⚠️ *"consumers picked up on **softness & dryness** of better stain masking liners, **not directly the stain masking benefit**"*
+   • **短期**：LORI 评估**印刷质量**影响；*"**No BSL changes are needed in the short-term** for LORI 2024 or Overnight back bump 2025/2026"*；*"No formal asks yet for the FEI materials team."*
+- **未来**：视觉外观与材料类型的重要性；⚠️ *"**Degree of changes in LORI was not enough to influence the consumer experience. \"Zero menses on skin.\"**"*；*"Similar to POISE UT, UBK may need **3D features, visual cues, layers...and functional performance**"*。
+- **透气**：*"Have a breathable material, **not necessarily need to be full product b
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (4 句)
+   • The review starts by overturning a Day-1 assumption: the plan was to adopt an existing commercial pressure-activated material (CTI HPP ink, Fujifilm Prescale), but all commercial materials are irreversible metrology types with fixed thresholds at or above 40,000 psi. No skin-close, soft, low-threshold, reversible off-the-shelf spec exists — an innovation white space. The named trap is using **industrial metrology materials as consumer indicator materials**, a triple mismatch of threshold, revers
+   • Material candidates: HPC (regulatory gold standard, power-law strain–colour relation), naphthopyrans (covalent scission, modular colour), spiropyrans (vivid but polar-sensitive and thermally transient), Cu-based HCP (coordination-polymer emission). Engineering hurdles are T1 threshold down-shift, T2 the 25–27 % strain regime (Barty-King et al. 2025: HPC stays viscoelastic below 25 % strain and collapses into a flowing/sheared state beyond it) and T3 rheology/signal stability. The honest limit: a
+   • Sourcing: eight international suppliers/institutes ranked by hygiene fit (CTI primary; Fujifilm Prescale and Sensor Products as metrology tools; Sun Chemical and LCR Hallcrest as ink alternatives; Merck and Avient as platform partners; Chungnam/Hanyang as research partners), and a domestic list where only **Henan Jiayida** and **Shenzhen Xingcheng** are confirmed with real mechanochromic capability. Three application scenarios are ranked: A over-tightness indicator (nearest term), B comfort moni
+   • （中文摘要：综述先推翻初始假设——原计划采购现成商用压力材料（CTI HPP 油墨、Fujifilm Prescale），但商业材料均为不可逆计量型、阈值固定在 ≥40,000 psi，不存在「贴近皮肤、柔软、低阈值、可逆」的现货规格，构成创新空白；被点名的陷阱是把工业计量材料当消费指示材料用。市场面：2024 年 12 亿 → 2033 年 41 亿美元，全球 CAGR 14.6%、亚太 17.2%，聚合物占材料形态 >42%，北美占 38% 但放缓，纸尿裤专用 SKU 为零；同时明确「市场顺风 ≠ 技术可得」，头部 IP 在美欧（Merck、GIVIDI、Avient、Sun Chemical）。竞争格局为中高集中度：四家龙头锁定高值应用，另有两家「可印刷油墨」差异化厂商守在卫品入口（CTI、LCR Hallcrest）；无人把守的入口段正是可印刷压敏油墨。技术路线分 M1 力致变色分子激活、M2 光子晶体结构色、M3 CLCE 介晶取向、M4 表面起皱；结论是连续合身监测须走可逆路线（M2/M3），一次性过紧报警可用半可逆路线（M1）。材料候选四类：HPC（法规金标准、幂律应变—
+
+--- [[Origin of Rubber Elasticity Book]]  (4 句)
+   • （出自书籍 *Elasticity of Materials* 的一章 · Rubber Technology Centre, Indian Institute of Technology Kharagpur）
+   • **EN**: A concise chapter covering the thermodynamics and statistical mechanics of rubber elasticity: entropy origin of the restoring force, thermoelastic inversion, the role of crosslink density, filler reinforcement (Guth-Smallwood) and Mullins stress-softening, strain-induced crystallization, and the time–temperature superposition principle. Written at a level "sufficient to develop an interest" for readers moving on to more complex rubbery materials.
+   • **弹性纤维与橡筋**：交联密度-模量关系（G₀ ∝ 1/M_c）直接对应氨纶/弹性体的张力设计——见 Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）。
+- **热熔胶/结构胶**：时温等效与应力松弛是热熔胶开放时间、蠕变与剥离行为的核心；对应 EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik) 等胶粘剂专利体系。
+- **共机理参考**：与 Viscoelastic Properties of Amorphous Polymers、Ebewole Polymer Science Ch14 Polymer Viscoelasticity 互补——前者偏橡胶网络，后两者偏非晶聚合物黏弹。
+- **填料的现实意义**：Guth-Smallwood 与 Mullins 效应解释填充体系（如含填料的弹性体/胶层）首循环软化的成因，是服役性能与回弹一致性评估的机理提醒。
+   • Origin of Rubber Elasticity — 本内容的库内编译页
+- Viscoelastic Properties of Amorphous Polymers — 非晶聚合物黏弹
+- Ebewole Polymer Science Ch14 Polymer Viscoelasticity — 高分子黏弹教科书章
+- Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28） — 弹性纤维工程背景
+- EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik) — 热熔胶应用
+
+--- [[US10905605 Pull-On Wearable Article with Informational Image]]  (4 句)
+   • 1. **Cognitively functional graphic（认知功能图形）** — a graphic *in the image of a hand* placed on the side region. The hand image is self-explanatory: it tells the child "grasp here" without words.
+2. **Texture feature（纹理特征）** — a physical, feelable structure formed *in the laminate*: outer nonwoven layer + inner nonwoven layer + **elastomeric element（弹性体元件）disposed between** them, where **the outer layer comprises apertures（开孔）which expose portions of the elastomeric element**, thereby providing the
+   • Figures cited: FIG.1 closed-configuration pull-on; FIG.2/3 refastenable variant; FIG.4/5 further refastenable side panel; FIG.6 flat-open plan view (front waist 38 / rear waist 40 / crotch 42, longitudinal axis 31 / transverse axis 33); FIG.7 auxiliary layer 122; FIG.8–10 image placements; FIG.11 icon array; FIG.12–14 texture cross-sections (protrusion / depression / apertures 176 exposing elastomeric element 174); FIG.15A/B, 16A/B, 17A/B relaxed vs extended readability on zero-strain / film / p
+   • Claim 2: "wherein the graphic is printed directly on the laminate." Claim 3: "wherein the elastomeric element includes at least one of an elastic film and a strand."
+   • 1. **Not a chromic-ink patent — but a strong "where to print" reference.** This patent claims *where* and *how* a graphic sits on an extensible side panel (relaxed-state legibility, apertured-nonwoven texture proximity). A chromic wetness or comfort indicator placed on a stretch laminate must meet the same **relaxed-state legibility（松弛态可读）** and **print-durability（耐水/尿液不洇渗、不转移）** requirements spelled out here. See Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）.
+2. **Explicit 
+

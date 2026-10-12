@@ -1,0 +1,72 @@
+# SEED: 全息存储 Holographic Storage
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Chromic Phenomena Solar Energy and Liquid Crystals
+#   - Holographic Structurally Colored Mechanochromic Films
+#
+# 全库正文命中 19 页，22 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[水凝胶 Hydrogel]]  (2 句)
+   • **SAP 是干态水凝胶。** SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，可用同一网络科学框架建模；常用骨架为聚丙烯酰胺（PAM）、聚丙烯酸（PAA），生物基路线为纤维素、淀粉、壳聚糖、海藻酸钙（源：Hydrogel-based Superabsorbent Polymers）。
+- **性能四参量调控。** 交联密度（低→吸水高但稳定性差；高→保水好但吸水受限，**存在最优值**）、亲水基团分布、离子强度（高离子强度降低吸水性）、温度（部分水凝胶具温度响应性）（源：Hydrogel-based Superabsorbent Polymers）。
+- **吸水速率先受粒径控制。**  预测有效半径减半 ⇒ 摄入快约 4 倍；当摄入速度或回渗是失败 KPI 时，应据此设定 PSD 档位（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+- **盐水敏感性是可比性红线。** 盐水中 Na⁺ 与网络 −COO⁻ 静电结合，减少可用于氢键的离子化基团，同一样品吸收相比纯水下降三倍以上（源：Citric Acid Crosslinke
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[Intelligent Textiles and Sports Clothing]]  (2 句)
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+   • Smart Textiles & Wearables — 本库智能纺织品/可穿戴上层页面，本文分类框架（被动/主动/超智能）可回链其中。
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素） — 本文 PCM 微胶囊温控是我们试图绕开的既有路线，二者构成对照。
+- Holographic Structurally Colored Mechanochromic Films — 与本文 Morphotex 结构色同属"非色素、依靠周期结构呈色"路线，本库在该页有更完整的技术展开与数据。
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 非织造成型工艺；本文仅把非织造列为基底之一，真正的工艺数据在此页。
+
+--- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]  (2 句)
+   • An ASR transcript of a **supplier technical exchange on water-activated (hydrochromic) ink as a wetness indicator**, combined with a product introduction by **Matsui Shikiso (松井) via its China agent**. It is the only batch-05 source that records the **failure mode** of the ink route (optical transmittance + humid storage) and the **action list** that gates the three-party meeting behind an NDA.
+（水变（湿变）油墨用于尿显的**供应商技术交流**转写稿，兼松井产品介绍。是本批唯一记录该油墨路线**真实失效模式**（透显性 + 高湿储存）与**NDA 前置行动项**的来源。）
+   • **Chroma-threshold / graded display**：希望不是一沾水就显色，需达到一定尿量（如 **60–80 mL**）或多次排尿后触发——需与松井探讨「调物质三分子量设溶解阈值」或「在一、二体系中加多级变色物质」；同时须考虑**芯体高分子饱和渗透点、开槽芯体直接渗透**等实际场景。（原文为「初步结论 = 需与松井技术探讨」，**未决**）
+- **Printing parameter mismatch**：恒耀柔印一下午即完成打样，允迪设备上始终找不到合适参数点（疑与设备档次有关，**待确认允迪柔印设备品牌**）。
+- **Storage stability**：25 ℃/90% RH 下有数据支撑，允迪有更长周期（数月）数据，但高湿储存**仍有提前变色风险**，未闭合。
+- **Late-stage decay**：显色后 **10 小时内深浅有衰减**，但仍保持一定变色稳定性——是否可接受未定。
+- **Particle / masterbatch route**：温变粒子进母粒已有成熟案例（注塑、PP，贝亲固态粒子）；水变因需水冲走物质三，**在纤维中大
+
+--- [[Odour-Control Granular Interference（除臭颗粒干扰）]]  (1 句)
+   • 6. **Screen-it-first protocol（先筛查的规程）**：(i) slurry 5 g granular in 50 mL deionised water, 1 h, 25 °C — measure pH and titratable base to pH 4; (ii) **accept only if slurry pH ≤ 7.5 and titratable base ≤ 0.2 mmol/g**; (iii) build a full diaper and age it 8 weeks at 40 °C / 75 % RH, grading the lane weekly 0–5 and rejecting at grade 1; (iv) if the granular fails, **the fix is a barrier — move it above the core wrap, or micro-encapsulate it — not more acid in the lane**.
+7. **The test everyone forg
+
+--- [[光子晶体 Photonic Crystal]]  (1 句)
+   • Interactively Mechanochromic Electronic Textile Sensor（结构色定义、Bragg 晶格调控与全部 MET 定量数据）
+- Chromic Phenomena（三工程层级：supramolecular = 液晶 / 光子晶体；λ 由结构决定）
+- Chromic Phenomena Solar Energy and Liquid Crystals（Ch.5 光子晶体；可见光区 3D 光子带隙材料尚待实现）
+- 结构色 Structural Color、Structural Colour Mechanochromism（结构色力致变色）（结构色总纲、共同失效模式、蛋白石工艺）
+- Chromism Taxonomy（变色现象分类）、Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 分类与路线裁决）
+- 相邻条目：机械变色 Mechanochromic、Mechanochro
+
+--- [[结构色 Structural Color]]  (1 句)
+   • Structural Colour Mechanochromism（结构色力致变色）（结构色路线总纲、共同失效模式与三条教训）
+- The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）（HPC 胆甾相自组装、RCP 反射与应变上限）
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）（CLCE / MET / 全息薄膜定量数据与热致变色参照系）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 路线分类与约束满足选型）
+- Active Diagnostic Zones（主动诊断分区）（可食性一等指标、监测 vs 记录）
+- Intelligent Textiles and Sports Clothing（结构色的非色素定义与 Morphotex 参照）
+- 引用的 6 个来源页：Hologr
+
+--- [[Chromic Phenomena Solar Energy and Liquid Crystals]]  (1 句)
+   • **DSSC 固态化（Toshiba）** — "Toshiba have been able to develop solid electrolytes that can be combined with DSSC technology, but on polymer rather than glass substrates. These are exciting developments opening the way for cheaper, lighter materials that can be used for applications in home, wall mounted solar batteries, and in hand held personal digital products, such as watches and mobile phones." (lines 16781-16786)
+- **商业化瓶颈（全书最尖锐的实用主义判断）** — "Whilst these approaches are extremely interesting sci
+
+--- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]  (1 句)
+   • Bostik's EP 2 456 819 B1 claims a hot melt adhesive built on an **olefin block copolymer (OBC)** as the primary polymer, combined with a high-softening-point tackifying resin, a low-crystallinity secondary polymer (APAO or semi-crystalline polyolefin), an optional aromatic reinforcing resin, plasticizer, wax and stabilizer. The stated problem is that the disposable-industry standard for sprayability has been **styrene-isoprene-styrene (SIS)** block copolymers, and no olefinic polymer had matched
+
+--- [[Fibers and Fibrous Materials]]  (1 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (1 句)
+   • **Capacity is measurable before you build; rate is not.** T/W predicts C reliably, so areal density/thickness is the design variable to lock in early. Rate needs empirical K — treat any Q prediction from first principles as upper-bound only.
+- **Thinning is the highest-return lever in the chapter.** Every 40 g/m² of core removed pays back in both capacity and rate (40→160 costs 34%/54%); "thin" is not a comfort claim, it is a permeability-and-bulk argument.
+- **Low-melt share is a channel-plug d
+

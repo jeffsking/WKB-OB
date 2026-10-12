@@ -1,0 +1,76 @@
+{
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/尿裤包覆层材料探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/尿裤包覆层材料探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/尿裤包覆层材料探讨.md",
+   "name": "尿裤包覆层材料探讨.md",
+   "title_hint": "尿裤包覆层材料探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/市场、政府关系及产品问题探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/市场、政府关系及产品问题探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/市场、政府关系及产品问题探讨.md",
+   "name": "市场、政府关系及产品问题探讨.md",
+   "title_hint": "市场、政府关系及产品问题探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合纤维生产及性能探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合纤维生产及性能探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合纤维生产及性能探讨.md",
+   "name": "复合纤维生产及性能探讨.md",
+   "title_hint": "复合纤维生产及性能探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/GDP提升工艺探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/GDP提升工艺探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/GDP提升工艺探讨.md",
+   "name": "GDP提升工艺探讨.md",
+   "title_hint": "GDP提升工艺探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260806171934.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260806171934.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260806171934.md",
+   "name": "录音纪要_260806171934.md",
+   "title_hint": "录音纪要_260806171934"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md",
+   "name": "TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md",
+   "title_hint": "TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/纤维加工温度与成本验证.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/纤维加工温度与成本验证.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/纤维加工温度与成本验证.md",
+   "name": "纤维加工温度与成本验证.md",
+   "title_hint": "纤维加工温度与成本验证"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/压力变色环保屏.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/压力变色环保屏.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/压力变色环保屏.md",
+   "name": "压力变色环保屏.md",
+   "title_hint": "压力变色环保屏"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/新材料开发与弹性恢复工艺探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/新材料开发与弹性恢复工艺探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/新材料开发与弹性恢复工艺探讨.md",
+   "name": "新材料开发与弹性恢复工艺探讨.md",
+   "title_hint": "新材料开发与弹性恢复工艺探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260920002641.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260920002641.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260920002641.md",
+   "name": "录音纪要_260920002641.md",
+   "title_hint": "录音纪要_260920002641"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+# SEED: Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 116 页，241 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (11 句)
+   • The **market, competitor and supplier-landscape review** of the Mechanochromic block — it overturns the "buy a commercial pressure material" assumption, maps four technology routes (M1–M4), screens four material candidates, and lands on the sourcing verdict **"build, not buy"** (custom threshold + custom printing process).
+   • （中文：本批 Mechanochromic 的**市场 / 竞品 / 供应商格局综述**——推翻「买一款商用压力材料」的初始假设，铺开 M1–M4 四条技术路线，筛查四类候选材料，最终给出「自建而非采购」（自定义阈值 + 自定义印刷工艺）的寻源结论。）
+   • The review starts by overturning a Day-1 assumption: the plan was to adopt an existing commercial pressure-activated material (CTI HPP ink, Fujifilm Prescale), but all commercial materials are irreversible metrology types with fixed thresholds at or above 40,000 psi. No skin-close, soft, low-threshold, reversible off-the-shelf spec exists — an innovation white space. The named trap is using **industrial metrology materials as consumer indicator materials**, a triple mismatch of threshold, revers
+   • Competitive landscape: mid-high concentration with four leaders locking high-value applications (Merck — polymer platform; GIVIDI — proprietary security pressure materials; Avient — elastomers/composites; Sun Chemical — printable mechanochromic inks) plus two printable-ink differentiators at the hygiene gate (CTI, LCR Hallcrest). The entry segment with no giant guarding it is **printable pressure-activated inks**.
+
+--- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]  (7 句)
+   • The decision-gate proposal for the waistband tension indicator — it converts the technical deep-dive into a one-page verdict (Track B proceeds, Track A maintained) with market sizing, risk register, 24-week roadmap and business impact. This is the **project-approval document** of the Mechanochromic block.
+   • （中文：腰围张力指示器的决策门径提案——把技术深化报告转成一页裁决（Track B 推进、Track A 维持），并附市场测算、风险矩阵、24 周路线图与业务影响。是本批 Mechanochromic 的**项目立项文件**。）
+   • The proposal frames an invisible problem: waistband tension is a continuous variable (1.4–3.9 N) with zero feedback to the caregiver; studies cited in the deck put 67 % of caregivers as uncertain about optimal tightness. Too-loose panels (< 38 % strain) sag and leak; too-tight panels (> 101 %) restrict movement, and the 10 mm waist elastic at 2.5 N produces ~29 mmHg, above the 20–30 mmHg discomfort threshold. No current product signals either state.
+   • The technical verdict rejects molecular mechanophores on three counts — the ~240 pN/bond threshold equals ~40,000 psi, two orders of magnitude above the 20–150 kPa diaper target; the merocyanine state is thermally transient at 37 °C and polar-sensitive (hygiene moisture accelerates relaxation → false negatives); and the signal fades after ~3 stretch cycles. It notes the counter-evidence too: Orado et al. (2025) incorporated spiropyran into a polyurethane shape-memory polymer (PUR-SP) with +56 % 
+
+--- [[变色油墨 Color-Changing Ink]]  (6 句)
+   • **Three classification axes（三条分类轴）**（源：Chromism Taxonomy（变色现象分类））
+1. **Trigger quantity（触发量）** — classify by what physical quantity arrives at the material, not by chemistry family.
+2. **Reversibility（可逆性）** — reversible vs irreversible / one-shot；continuous monitoring needs a reversible route, a single alarm may use a semi-reversible or irreversible one。**"This is the axis that eliminates designs, not the chemistry family."**
+3. **Threshold（阈值）** — industrial metrology materials are engineered 
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+   • **Mechanochromic candidate short-list（2026-09-29 addendum，源：变色油墨）**
+- HPC（viscoelastic lattice-spacing change → compression blue-shift；edible / non-toxic / degradable）
+- Naphthopyrans（covalent bond cleavage → modular colour change；best stability and synthesis accessibility）
+- Spiropyrans（6π electrocyclic ring-opening → strong colour；**thermochromic transient**）
+- Cu-based HCP（luminescence shift；resistant to environmental contamination）
+- Common bottleneck = the **force gap**: industrial mechanop
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (6 句)
+   • The engineering deep-dive behind the pull-strain fit meter on elastic side panels — it fixes the seven hard requirements, screens seven mechanochromic families, and lands on a single-pass slot-coated **geometric optical mask** with cost, safety and FTO closed out. This is the most implementation-complete document of the Mechanochromic block.
+   • （中文：弹性侧片「拉伸式合身指示器」的工程深化报告——定下 7 条硬约束、筛查 7 大变色族，最终落到「单道狭缝涂布 + 几何光学掩膜」方案，并把成本、安全与 FTO 一并向内闭环。是本批 Mechanochromic 落地度最高的一份。）
+   • Part Three specifies the selected design: the elastic laminate's own corrugation (2.2× bonded, 1.2 mm relaxed pitch) acts as a mechanical shutter under a rigid, CD-zoned opaque hot melt (TB-A). One equation, φ(ε) = 1 − 2a/[λ₀(1+ε)], sets all three thresholds, and the three coat weights (7.5 / 9.0 / 11.0 g/m²) come from one shim whose land lengths (18.0 / 15.0 / 12.0 mm) give a 1.00 : 1.20 : 1.50 flow ratio — within 2 % of the required 1.00 : 1.20 : 1.47.
+   • **几何遮光优于任何变色化学** —— 过不了热熔涂布机与数十次循环，是文献方案的共同死因。支撑页：Geometric Optical Mask（几何光学掩膜）、Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **面板伸长可用，但面板不是压迫源** —— 指示器只能定位为合身/防漏指引。支撑页：Skin Contact Pressure（皮肤接触压力）
+- **阈值标定必须落在卸载支（回弹曲线）** —— 否则舒适度被高估约 30 %。支撑页：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+- **控制点在上游来料** —— 预拉伸比与松弛波纹间距须写进面板采购规格（Cpk ≥ 1.33 + 逐批证书）。支撑页：Geometric Optical Mask（几何光学掩膜）
+- **不新增任何化学品类别** —— 全部组分已存在于纸尿裤结构胶或印刷底膜中。支撑页：TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+
+--- [[US5197958 Wetness Indicating Diaper]]  (6 句)
+   • **Dry/wet thermal-conductivity switch + thermal threshold indicator（干湿导热开关 + 温度阈值指示）** — the physical core of the invention:
+   • 1. **Insulating interlayer（隔热中间层）** — material between the inner (skin-facing) and outer surfaces that **at least partially thermally insulates** the outer surface from the inner surface. **When DRY its thermal conductivity is too low for normal body temperature to raise the outer surface above the threshold; when WET it becomes sufficiently conductive to do so.** （E4 of Claim 1）
+2. **Wicking（导流）** — Claim 2: "said material **wicks moisture** secreted from said baby toward said outer layer"; the
+   • Three ink modes: ① a mixture of two thermochromic inks, one becoming **colourless above** the threshold; ② **colourless below** the threshold and **colourful above**（干燥无色、湿时有色）; ③ **colourless above** the threshold and therefore **colourful below**（湿时无色、干燥有色）.
+   • Reversibility claim（可逆性，Claim 7）: "wherein said thermal indicator is **no longer visible when said outer shell has a temperature which falls below said threshold**." Claims 19–22: indicators form a **repeating pattern**; visible above threshold / not visible above threshold; and **one colour above threshold, another colour below**.
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (5 句)
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • （中文：①按触发量而非化学分类——同一分子可归两类：螺吡喃视驱动输入不同可属光致、温致或力致变色，判类的关键问题是「到底什么物理量抵达材料」；②卫品可用类别——温致（温度；隐色染料:显色剂:脂肪酸≈1:5:50 微胶囊与胆甾相液晶；尿湿指示、已量产）、湿致（水/湿度；亲水指示剂+吸湿基体、水凝胶溶胀；尿湿的化学比色路线）、卤致（pH/质子活度；溴酚蓝、溴甲酚绿/紫；尿显条主体与便指示的配对元素）、力致（力/应变/压力；力致变色分子、光子晶体、CLCE、几何掩膜；本库 Projects 的合身/张力指示方向）、光致（光；螺吡喃、萘并吡喃、俘精酸酐；与力致/温致共用分子机制，卫品场景中是干扰源而非功能）、电致（电场；导电油墨/共轭聚合物显示；智能纺织显示，尿裤集成为早期）、化学致（化学/生物信号；化学响应水凝胶、分子机器；传感与递送，卫品未落地）；③第二条轴是可逆性——连续监测需可逆路线，单次报警可用半可逆或不可逆路线；**淘汰设计的是这条轴，不是化学类别**；④第三条轴是阈值——工业计量材料为 40,000 psi 以上的结构失效检测而设计，吸收性卫品处在低张力窗口（腰围 20–150 
+   • 力致变色分支：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）
+- 卤致变色分支：Protein Error of pH Dye（pH 染料的蛋白误差）、Titratable Acidity Lane（可滴定酸度通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 既有页对照：变色油墨、Mechanochromic变色纤维、智能尿裤功能层、认证与法规的区别
+   • Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版） 在正文前设置**范围声明**：只覆盖由**拉伸、压力、形变或剪切**触发的变色，**全程排除湿致变色（hydrochromic）、吸湿响应与液体感知**。
+- 这与本页"**按触发量分类，而不是按化学分类**"完全一致，且给出了一条更硬的实务规则：**中文语境里"变色材料"同时涵盖温/湿/光/力四族，询证时必须问"触发量是什么"，而不是问"有没有变色材料"。**
+- 报告据此**明确排除**了两项常被误并入"力致"的对象：广州精彩（含湿致变色）、东华大学 BC/CNT 液体传感器（湿响应 + 电子式）。
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (5 句)
+   • An **improved composite elastic feature（复合弹性部件）** for absorbent articles that is easier to handle during manufacture and subsequent processing, disclosed in EP0820747A1 Absorbent Article with Elastic Feature (P&G)（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. The feature comprises **at least one extruded elastomeric layer** and **at least one extruded, substantially non-elastomeric layer** which together form a film（至少一层挤出弹性体层 + 至少一层挤出、基本非弹性层，共同构成薄膜）. Before the film is elasticise
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+   • The digest's excerpt of the claim language breaks off at the sentence describing what happens to the inhibition after activation — recorded as （"…after activation, that inhi…"）.
+   • Directly relevant to **diaper/pant elastication** — waist, cuff and ear-panel elastic components. The co-extruded film feature is the material route behind the elastic-feature cluster that also covers Elastic Strand Snicking（弹性橡筋断丝失效化）, Elastic Tension & Creep（橡筋张力与回缩率） and Waist Guard（腰围护挡）, and it links to pant-type articles (Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、EP2413866B1 Disposable Wearing Article (Unicharm)）. Because the film must be adhesively attached, it is the attachment t
+
+--- [[Geometric Optical Mask（几何光学掩膜）]]  (5 句)
+   • 1. **The corrugation is a free mechanical shutter（波纹是免费的机械快门）.** A 2.2× bonded elastic laminate arrives with a relaxed corrugation pitch λ₀ of 1.2 mm. Nobody uses it; the mask does.
+2. **Three-layer stack（三层结构）** — (i) the elastic panel laminate (SEBS meltblown or SBL, 2.2× bonded) supplies elasticity *and* the corrugation that gates the read-out; (ii) a supplier-applied CD-continuous flexo **under-print** in three bands (green ✓ / green ✓ / red ✗) — no registration to our coater required; (iii)
+   • where φ = exposed under-print fraction at panel strain ε; 2a = the arc of the corrugation covered by ink (set by coat weight); λ₀ = relaxed corrugation pitch; φ* = visual threshold, set at 0.30 (validated by ΔE*ab ≥ 6).
+   • Rearranged for design: **2a = λ₀ (1 − φ\*) (1 + ε\*)** — pick the strain at which a bar should light up, and the equation returns the ink arc, which the shim delivers as a coat weight.
+5. **Zoning is machined, not controlled（分区是加工出来的，不是控制出来的）.** One manifold pressure feeds three CD zones whose ratio is fixed by land length (Q ∝ 1/L at constant gap, width and ΔP). Land lengths are machined to ± 0.05 mm, so the coat-weight ratio holds to better than 1 % for the life of the shim; a viscosity excurs
+   • Chemistry it replaces 被它替代的化学路径：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）
+- Ink and process 墨与工艺：TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- Calibration 标定：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）、Skin Contact Pressure（皮肤接触压力）
+- Decision 选型：Mechanochromic Routes Comparison（力致变色技术路线对比）
+
+--- [[Structural Colour Mechanochromism（结构色力致变色）]]  (5 句)
+   • 1. **Photonic crystals / polymer opals（光子晶体 / 聚合物蛋白石）**：core-shell PS/PEA particles ~200–300 nm shear-assemble into elastomeric opals with intense tunable colour; silica-in-rubber photonic fibres on spandex shift red → blue across 127 nm and survive 100+ stretch cycles; roll-to-roll is real (>100 m opal film produced by bending-induced oscillatory shear). **But ordering needs oscillatory shear at ~300 % strain amplitude between heated rollers — a dedicated line, not a slot die.**
+2. **Cholesteri
+   • 替代路线：Geometric Optical Mask（几何光学掩膜）、Mechanophore Mechanochromism（机械力致变色分子）
+- 分类学：Chromism Taxonomy（变色现象分类）
+- 既有页对照：Mechanochromic变色纤维（可机洗液晶弹性体变色纤维）、变色油墨、三叶形截面纤维（Trilobal Fibre）
+- 选型：Mechanochromic Routes Comparison（力致变色技术路线对比）
+   • ✅ **验证记录（2026-09-29）**：全部为**二手转述**，**未见原始文献与实验条件**；52 ms / 500 μm / 35 wt% / 200 μm / 19×19 等数字**在回溯原始文献前不得作为设计依据** [待验证]。25 阈值与本页既有 25–27% 区间互相印证，但单位口径仍待确认。参见 Mechanophore Mechanochromism（机械力致变色分子）、Chromism Taxonomy（变色现象分类）、Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）。
+   • ✅ **验证记录（2026-09-29）**：全部为**二手转述**，**未见  原始文件**；14 ms / 631 ms / 5 Hz / 1.40 nm/% / 25–27% 等数字**在回溯前不得作为设计依据** [待验证]。25–27% 的单位口径**在本批得到确证**（此前记为"25，单位不明"）。参见 Mechanophore Mechanochromism（机械力致变色分子）、Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）、Chromism Taxonomy（变色现象分类）。
+
+--- [[机械变色 Mechanochromic]]  (5 句)
+   • Mechanochromic（机械变色 / 力致变色）is colour change triggered by a **mechanical** input. The vault sets a hard scope rule: it covers **只由拉伸、压力、形变或剪切触发的变色**，**全程排除湿致变色（hydrochromic）、吸湿响应与液体感知**（源：Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版））。The governing classification principle is **按触发量分类，而不是按化学分类** — 判类的关键问题是「到底什么物理量抵达材料」；中文语境里「变色材料」同时涵盖温/湿/光/力四族，**询证时必须问「触发量是什么」，而不是问「有没有变色材料」**（源：Chromism Taxonomy（变色现象分类））。
+   • **Four technology routes / build-not-buy 四条路线与自建结论.** The Mechanochromic block maps **M1–M4 four routes**, screens four material candidates, and lands on **「build, not buy」**（自定义阈值 + 自定义印刷工艺）——推翻「买一款商用压力材料」的初始假设（源：Mechanochromic Materials Technical Review（EN v3, 2026-08））。Day-1 主假设被显式证伪：**无成熟 SKU，必须 build 而非 buy**（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判））。
+- **Three routes named 三条命名路线.** 力致变色分支含 **Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几
+   • **Power-free safety indication 无源安全指示.** 整合 **force-responsive, power-free** 传感器可把普通纸尿裤变为「智能」安全装置，**无源 = 无电池、无芯片、无电子件**——这是进入一次性用品的先决条件；Zone 1（腰围 tabs）在拉力超出生理安全阈值时触发高可见信号以**防勒伤**（源：Active Diagnostic Zones（主动诊断分区））。
+- **Fitness, not medical claim 合身指引而非医疗声明.** 面板伸长可用，但**面板不是压迫源**，指示器只能定位为**合身/防漏指引**，**绝不可作医疗或压力安全声明**（源：Stretch-Triggered Colour Indicator for Diaper Pant Side Panels、智能尿裤功能层）。换算链的结论：宽 85 mm 面板在 101% 应变下仅约 4.3 mmHg，远低于 20–30 mmHg 持续毛细血管闭塞阈值；**真正的红印来源是约 10 mm 的窄腰弹性体**（源：智能尿裤功能层）。
+- **
+   • 各候选的**精确力阈值范围**、**可逆循环次数**、**皮肤/口服安全检测报告**均缺（原文标 [A]/[E]）（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判））。
+- **CTI 压力墨下移至卫材低张力的可行性与报价**未验证；库内**无报价或价格区间**（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判）、CTI (Chromatic Technologies)）。
+- **R1 阈值漂移与 R2 信号弛豫均为 HIGH 风险**；**信号弛豫的假阴性比没有指示器更糟**（源：Mechanochromic Waistband Tension Indicator Proposal（2026-08-19））。
+- **两种力度量口径不可直接互换**：芯体内/体表载荷（kPa）与带体对皮肤的接触压力（mmHg）；跨页比较前须人工确认口径（源：智能尿裤功能层）。
+- **精确门槛数值**：力致变色材料研究报告的完整 DOI 为 10.1177/00405175251352163，市场规模来源 Marketintelo——但各量化边界仍待原文补足（源：力致变
+

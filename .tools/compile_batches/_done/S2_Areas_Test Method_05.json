@@ -1,0 +1,12 @@
+{
+  "batch": "S2_Areas_Test Method_05",
+  "stage": "S2",
+  "block": "Areas/Test Method",
+  "source_pages": 10,
+  "concept_pages": 4,
+  "entity_pages": 0,
+  "comparison_pages": 2,
+  "updated_existing": 6,
+  "manual_review": 1,
+  "notes": "source_pages: STM-00048 SAM含量 / GB-T28004-2011 滑渗 / STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）/ STM-01086 BCC Pants 产品拉断测试（成品）/ STM-00078 端封强度 / TTM-00302 面层干爽性 / STM-00686弧形皮筋张力 / Topical liner Supporting layer Embossing pressure / 澳洲厚度测试 / China-WI-62416 无纺布变形测试 20240201。concept_pages(新建): Seal Strength Test（端封·侧封强度测试）/ Surface Moisture Test（面层干爽性测试）/ Thickness Test（成品厚度测试）/ Nonwoven Deformation Force Test（无纺布形变力测试）。comparison_pages: Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279）/ 峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）——均含【成本】【供应链风险】列。updated_existing: SAM Testing Methods / Run-off & Leakage Test / Product Waist Break Test / Elastic Tension & Creep / Liner-Surge Embossing / KC Nanjing Plant（仅追加 2026-09-29 记录，未改既有结论）。manual_review(1): STM-01086 在 RAW 的 成品/ 与 成品/Pants 产品拉断测试方法/ 两个目录下各存一份且正文一致，RAW 只读不可删，需人工决定是否去重；两页已互注副本提示且结论只计一次。存疑/待验证: STM-00048 未给钠浓度→SAM 含量换算式与阈值；GB-T28004-2011 滑渗未给盐水浓度与温度；STM-00078/WI-57507 未给合格阈值；STM-00686 未给阈值；澳洲厚度测试未给阈值；WI-62416 单一来源、未给阈值。口径差异已分别标注：30° 滑渗两法（60 mL 体积法 vs Cradle 180 mL 质量法）、弧形皮筋两法（STM-00686 99/144 mm vs WI-59910 100 mm）、gf 峰值法族夹具距离 2 in/3 in 之别。"
+}

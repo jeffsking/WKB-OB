@@ -1,0 +1,122 @@
+# SEED: 纤维干燥 Fiber Drying
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Industrial Drying
+#
+# 全库正文命中 192 页，298 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (7 句)
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+   • **6. 干燥耦合（drying coupling）：** 结合水（bound moisture）决定平衡含水率，从而决定纤维素绒毛浆与 SAP 可达干度的**下限**；热风对流是纸浆/纸巾/无纺布穿透干燥的默认方式（源：Industrial Drying Ch1 Principles and Classification）。
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • ：**「Hygiene Absorption Model」作为模型的自身定义、状态变量与支配方程组**在引用来源中均未给出；现有摘录只提供吸收性口径与建模方法论。
+- ： 摘录中 "One-dimensional Washburn is a lowe…" 一句被截断，未予补写（源：Computational Modeling in Absorbent Technology）。
+- ： 中 25 g/m² 商用样回渗值（1.06 …）截断（源：ES Fibre Hydrophilic Function and Applications）。
+- ：本页摘录中  的命中属**粘接侧**内容（core retention 与 ψ(v,T)），非吸收模型正文，未作为本页主体证据。
+- ：三条原始引用来源（Handbook of Industrial Drying、Industrial Drying Ch28 Osmotic Dehydration and SAP Physics、Industrial Drying Ch50 Solid-Liquid Separation）**在本批摘录中无对应正
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (7 句)
+   • Drying is governed by two simultaneous subprocesses:
+- **Process 1 (External):** Transfer of energy (heat) from environment to evaporate surface moisture
+- **Process 2 (Internal):** Transfer of internal moisture to the surface and its evaporation
+   • **Constant-rate period:** Surface evaporation dominates; drying rate independent of internal structure
+- **Falling-rate period:** Internal diffusion/capillarity becomes rate-controlling; time scales with square of thickness
+   • **Hygiene implication:** For thin, fast sheets (tissue, nonwoven web) drying may occur almost entirely in the constant-rate period. For thick/packed hygroscopic beds (fluff in a core) the falling-rate period dominates — argue for thin layers / agitation.
+   • **Clausius-Clapeyron:** Relates vapor pressure to temperature for evaporation design
+- **Humidity ratio (ω):** Mass of water vapor per mass of dry air
+- **Wet-bulb temperature (T_wb):** Adiabatic saturation temperature — limits convective drying floor
+- **Enthalpy-humidity chart:** Standard design tool for air-water systems
+
+--- [[Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）]]  (5 句)
+   • Bacterial cellulose aerogel drying is the controlled removal of liquid from a bacterial cellulose (BC，细菌纤维素) hydrogel while managing capillary stress, ice templating, fiber bonding, and pore preservation to obtain a target thermal–mechanical property set.  
+（中文：细菌纤维素气凝胶干燥是在液体脱除过程中控制毛细应力、冰模板、纤维结合与孔结构保持，以获得目标热—力性能组合的过程。）
+   • 1. **Capillary-stress route 毛细应力路线**: ambient, hot-air, and oven drying pass through a liquid–gas interface; capillary pressure can pull nanofibers together, increase density, and reduce swelling or gas permeability.
+2. **Sublimation route 升华路线**: freeze-drying first immobilizes water as ice and then removes it by sublimation. Ice-crystal size and orientation template the final pore architecture, so freezing rate and direction matter.
+3. **Critical-point route 临界点路线**: supercritical CO₂ drying s
+   • **Key conclusion 关键结论：Drying is a structure-forming operation rather than a simple water-removal step.（干燥不是单纯除水，而是结构成形步骤。）**
+   • Related 相关：nanocellulose aerogels（纳米纤维素气凝胶）[待建立]
+- Related 相关：freeze-drying（冷冻干燥）[待建立]
+
+--- [[交联 CMC]]  (4 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[相变材料 Phase Change Material]]  (4 句)
+   • 形式化定义待补（引用来源未给出明确定义）。本页其余结论均来自卫材场景下对 PCM 微胶囊路线的评审（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。
+   • **微胶囊蓄热—释热（thermo-regulatory）**：PCM 微胶囊在较高温度蓄热、较低温度释热，从而提供调温性能（源：Intelligent Textiles and Sports Clothing）。
+- **"microcapsule tax"（微胶囊代价）**：相变微胶囊解决瞬时热峰，但要付出四重代价 ——
+  1. **Mass 质量**：每一克都要以 +gsm、+单位成本、每个循环计入；
+  2. **Risk 风险**：壳层脆性 → 破裂与批次波动，破裂胶囊污染 SAP 并放宽过程控制限；
+  3. **Liquid leakage 液体泄漏**：游离 PCM 提高皮肤风险，并恶化回渗 / 气味；
+  4. **Complexity 复杂度**：供应链新增专用封装层级。
+  （源：PCM-Free Thermoregulation with BNC Nanofiber Network）
+   • PCM knits 的微胶囊蓄放热机制为卫材提供可移植的调温思路（源：Intelligent Textiles and Sports Clothing）。
+- 在吸收性卫生用品中，微胶囊 PCM 是既有的热舒适路线，而 **PCM-free** 的工程化细菌纳米纤维素（BNC）纳米纤维网络是其「成本—机理」对照路线（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。参见 PCM-Free Thermoregulation、BNC-Only vs BNC+PCM (Thermoregulation Ledger)、Diaper Microclimate。
+- 相关材料与概念页：Stimuli-Responsive PCM、纳米纤维素（CNC、CNF、BNC）、智能织物 Smart Textile。
+   • Smart Textiles & Wearables
+- Smart Textiles Review
+- Smart Textiles and Sportswear
+- Intelligent Textiles and Sports Clothing
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+
+--- [[Effect of Drying Methods on Bacterial Cellulose Aerogel]]  (4 句)
+   • This peer-reviewed review consolidates how drying methods govern the thermal and mechanical behavior of bacterial cellulose (BC，细菌纤维素) aerogels and provides a parameter-backed basis for selecting a preservation route.  
+（中文：该同行评审综述系统梳理干燥方法如何影响细菌纤维素气凝胶的热学与力学表现，为干燥路线选型提供参数依据。）
+   • Bacterial cellulose offers high purity, crystallinity, hydrophilicity, and a nanoscale fiber network without the lignin-removal burden of plant cellulose. The review compares hot-air, freeze, ambient, supercritical CO₂, microwave, bidirectional-freezing, and oven-drying routes. Drying changes pore morphology, density, hydrogen bonding, crystallinity, water uptake, gas permeability, thermal conductivity, and strength. Freeze-drying is the most frequently reported route because it preserves porous
+   • **Freeze-drying preserves pore structure but does not universally maximize mechanical strength.（冻干保孔，但不必然带来最高机械强度。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Pre-freezing rate and architecture are part of the drying process window.（预冻结速率与结构同属干燥工艺窗口。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Commercial selection must balance property retention, energy, cost, and scalability.（商业选型需平衡性能保持、能耗、成本与可规模化性。）** — supporting page: Bacterial Cel
+   • Concept 概念：Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+
+--- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]  (4 句)
+   • **LUGH 面线进展**：LUGH 的 **Fibertex 12 gsm SB 面层回渗低于对照**，但**改善幅度随测试而异**（R25-0274：对照 0.44 vs Fibertex 0.35；R25-0491：0.36 vs 0.33；R25-0927：0.28 vs 0.25）。**14 gsm Fibertex SB 更柔软但回渗高于 12 gsm 对照**，原因是**克重更高**；且**无法在降克重的同时保持柔软度**。后续**更换表面活性剂/柔软体系（surfactant/softness package）帮助降低了回渗**：14 gsm Fibertex（160% TL13、639 g RC、Fem Lar DPU2 ATCA）由 0.41 g 降至 0.28 g，与对照 0.28 g 持平。LUGH 时间线：HUT 结果已回、8/28 ACLT 决定继续推进的面层（**推荐 12 gsm 带印花**）、启动三阶段认证、**2026 年 1 月上市**。
+   • **GRIFFIN 面层选择**：对照为 **Fitesa 12 gsm SB、oval 花型、0.65% Lertisan（分区施加）**；HUT 回渗代码为 **Fitesa 12 gsm SB、CD rod 花型、未处理（untreated）**。TTM-00672 闭式摇篮回渗对比中，CD Rod - 0.3% 与 CD Rod - 0.65% 等代码落在 0.19–0.22 g 区间。GRIFFIN 时间线：HUT 结果 10 月中、订购未处理 12 gsm Fibertex 用于测试。
+   • **竞品分析**：**摄入系统互换实验**发现——把 **Always Discreet 的面层/导流层装入 DPU2 即可显著降低回渗**，而**卷曲纤维（curly fiber）没有带来增量差异**（对比组：Depend Core + Depend Liner/Surge、Depend Core + AD Liner/Surge、加卷曲纤维）。对 AD 面层的早期分析显示**处理类型（treatment type）以及可能的单双面性（sidedness）存在异常现象**，完整分析于 2025-09-11 评审。另一未解问题：**Always Discreet 存在两种不同的导流层附着胶型**（P&G Line 80：17 / 17 / 71 mm；Line 82、83：32.5 / 32.5 / 67 mm），动因未知，将在 9/29 当周的 **HSBL 试验**中研究施胶图案、添加量与胶型，结果 10 月底返回；后续排队议题为粘合花型与粘合方式（超声波、热粘合）。
+   • 概念：Rewet Measurement Variability（回渗测试变异性）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、LUGH Liner Program（LUGH 面层项目）、Fibertex（Fibertex 非织造布供应商）、Fitesa（Fitesa 非织造布）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[Industrial Drying Ch46 Energy Aspects]]  (4 句)
+   • **Paper:** ~**33%** of sector energy (Table 46.2)
+- Drying removes the least water in absolute terms but is the most costly step
+   • **Warning:** Do NOT confuse "energy efficiency" with "drying efficiency" (Eq 46.6, accounting for exhaust enthalpy) — vendors may quote the flatterer.
+   • **MVR:** 134 kJ/kg water — "20 times better than the typical adiabatic spray drying" (p.1086)
+   • Handbook of Industrial Drying — Full book index
+- Industrial Drying Ch50 Solid-Liquid Separation — Mechanical dewatering (4% national potential)
+- Industrial Drying Ch53 Cost Estimation — Cost methodology
+- Industrial Drying Ch15 Impingement Drying — 3100 kJ/kg benchmark
+- Industrial Drying Ch35 Drying of Pulp and Paper — Steam drying 30% advantage
+
+--- [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]]  (4 句)
+   • 与核心桉木浆供应商围绕 **TCF 等级认证进度、PSC 合规流程、区域供应分配、以及 fiber-to-fiber（短纤替代长纤）联合推广** 的一次业务 + 技术对齐会。
+   • 1. **TCF 等级继续推进，8 月恢复试产**：供应商 7 家浆厂中多数已完成 TCF 转换，剩余一家仍在进行中；此前因「同一时间叠加多个项目」造成过程不稳，已**回退到已知条件、用同一化学品体系重新上路**，计划 **8 月恢复**，中国/亚洲交付时间约**年底**（土耳其为 8 月）。
+2. **样品 grade 名称必须与未来商业化一致**：发给客户（尤其韩国）的样品，**只要能保证同一 grade、同一性能即可立即发**；若届时 grade 名不同，认证流程要重跑。需以邮件明确告知对方。
+3. **文档更新是硬性前置**：grade 变更（含 TCF）必须同步更新 **spec / TDS / PS number / RMS（raw material spec）**；由 productivity 团队（全球团队，运营层面在印度）执行。
+4. **PSC 的触发时点**：**TCF 等级商业化之后**才申请产品安全认证；仍在 trial 阶段时不应启动（spec 尚未冻结）。
+5. **ECM 项目统一切换**：中国湿巾代工厂（wipes）正在把不可批准的浆等级全部换掉；为避
+   • 核心桉木浆供应商正在把浆产品切换到 TCF 漂白等级，同时与 KC 推进 fiber-to-fiber（以短纤桉木浆替代部分长纤 BSKP）的联合降本项目；两条线都卡在认证流程与文档更新上，故召开本次业务 + 技术对齐。
+   • **TCF 等级切换的真实瓶颈是「过程稳定性」与「文档合规」，不是漂白技术本身** —— 支撑页：TCF Bleaching（全无氯漂白）、Suzano（书赞桉诺）
+- **Fiber-to-fiber 的落点在打浆段：磨片选型决定短纤方案的成败** —— 支撑页：Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+- **认证流程因 JV 而分叉：IP 侧集中化、韩国侧常规化，文档口径必须分别管理** —— 支撑页：Suzano（书赞桉诺）
+- **pitch 是下游最敏感的质量指标，且受下游工艺条件放大** —— 支撑页：绒毛浆（Fluff Pulp）
+
+--- [[PCM-Free Thermoregulation]]  (3 句)
+   • A bacterial-nanocellulose (BNC) nanofiber mat suppresses every conductive/radiative route and adds two dissipative loops:（BNC 纳米纤维垫抑制所有传导/辐射路径，并增加两个耗散回路：）
+   • 1. **Solid conduction** — point-contact fibril skeleton (τ ≈1.5–3) minimises solid path + phonon boundary scattering.
+2. **Gas conduction** — nano-pores ≈20–200 nm sit near the air mean free path (≈68 nm) → **Knudsen suppression**.
+3. **Radiation** — nanofiber mat scatters IR; low-emittance tortuous path.
+4. **Convection** — sealed, sub-mm pores block air movement within the layer.
+5. **Loop A · bound-water sensible buffering** — hydroxyl-bound water raises thermal mass and slows dT/dt **without
+   • PCM-Free Thermoregulation with BNC Nanofiber Network —— 
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素） —— （2026-09-29 追加）
+

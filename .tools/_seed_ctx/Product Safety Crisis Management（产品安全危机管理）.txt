@@ -1,0 +1,128 @@
+# SEED: Product Safety Crisis Management（产品安全危机管理）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 424 页，613 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (6 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Specification labelling（邻接维度）**：CN textile/apparel labelling is a mandatory standard with seven compulsory content items, including **size/spec**；size, fibre content and care method must live on a **durable label**（源：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装））。⚠️ Disposable hygiene products are **explicitly out of scope** of GB 5296.4（Annex A）（源：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+
+--- [[变色油墨 Color-Changing Ink]]  (5 句)
+   • **Three classification axes（三条分类轴）**（源：Chromism Taxonomy（变色现象分类））
+1. **Trigger quantity（触发量）** — classify by what physical quantity arrives at the material, not by chemistry family.
+2. **Reversibility（可逆性）** — reversible vs irreversible / one-shot；continuous monitoring needs a reversible route, a single alarm may use a semi-reversible or irreversible one。**"This is the axis that eliminates designs, not the chemistry family."**
+3. **Threshold（阈值）** — industrial metrology materials are engineered 
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+   • **Wetness indication（尿湿指示）**: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy — which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。
+- **Selection criterion**: hydrochromic is the **only class dedicated to diaper wetness display**, hence the first screening condition in ink selection；baro-chromic ink is already on the CTI product line, cre
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (5 句)
+   • The review starts by overturning a Day-1 assumption: the plan was to adopt an existing commercial pressure-activated material (CTI HPP ink, Fujifilm Prescale), but all commercial materials are irreversible metrology types with fixed thresholds at or above 40,000 psi. No skin-close, soft, low-threshold, reversible off-the-shelf spec exists — an innovation white space. The named trap is using **industrial metrology materials as consumer indicator materials**, a triple mismatch of threshold, revers
+   • Material candidates: HPC (regulatory gold standard, power-law strain–colour relation), naphthopyrans (covalent scission, modular colour), spiropyrans (vivid but polar-sensitive and thermally transient), Cu-based HCP (coordination-polymer emission). Engineering hurdles are T1 threshold down-shift, T2 the 25–27 % strain regime (Barty-King et al. 2025: HPC stays viscoelastic below 25 % strain and collapses into a flowing/sheared state beyond it) and T3 rheology/signal stability. The honest limit: a
+   • Sourcing: eight international suppliers/institutes ranked by hygiene fit (CTI primary; Fujifilm Prescale and Sensor Products as metrology tools; Sun Chemical and LCR Hallcrest as ink alternatives; Merck and Avient as platform partners; Chungnam/Hanyang as research partners), and a domestic list where only **Henan Jiayida** and **Shenzhen Xingcheng** are confirmed with real mechanochromic capability. Three application scenarios are ranked: A over-tightness indicator (nearest term), B comfort moni
+   • Core strategy verdict: **build, not buy** — custom threshold + custom printing process.
+- Pathway: Path 1 waistband/tab indicators（最短可行）→ Path 2 full-field pressure distribution（智能涂层 + 手机辅助读数）→ Path 3 structural-colour strain feedback（HPC 膜连续跟踪）。
+- Note also recorded: this deck is **not legal advice**; regulatory conformity for infant skin-contact products must be certified by professional consultants; powder-form materials must not contact skin layers until validated.
+
+--- [[湿巾 Wet Wipes]]  (4 句)
+   • **Compliance layers（合规层级，CN）**
+- GB 43631-2023 is the **mandatory chemical-safety floor**（强制国标，工信部归口）for children's paper products; it covers wipes, diapers and tissue（生活用纸品）and sets one shared floor table across heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines（源：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范））。
+- GB/T 27728.2-2024 layers baby-wipe requirements on top of GB/T 2772
+   • **Labelling and lotion wording（标签与用液表述）**
+- "Two-mode date marking + no medical claims"（日期双模式 + 无医疗用语）is the 30-year-stable skeleton of CN cosmetic labelling; the wipes-lotion ingredient declaration（GB/T 27728.2 INCI descending order）is its modern extension（源：GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签））。
+   • Formulation cross-over: the skincare-formulation reference covers formulation design, ingredient selection, processing and stability, and cross-references hygiene products in **moisturising / care wet-wipes formulation** and **nonwoven–skin interface comfort assessment**（源：Cosmetic Formulation of Skin Care Products）。
+- Related concepts: Nonwoven 非织造布、乳化剂 Emulsifier、保湿剂 Humectant、防腐剂 Preservative（源：Cosmetic Formulation of Skin Care Products）。
+- Shared chemical floor with diapers: GB/T 28004.1-202
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]  (4 句)
+   • The **decision-frame page for microclimate visualization**: a conditional GO on a dual-MVP (temperature + humidity) indicator strategy, with hard safety boundaries, a supplier scoring frame, an RFQ strategy and a 12-month phased roadmap. It is the batch's "**how the programme is allowed to proceed**" page.
+本页是**微气候可视化决策框架页**：对「温度 + 湿度」双 MVP 指示方案给出有条件 GO，并明确安全硬边界、供应商评分框架、RFQ 策略与 12 个月分阶段路线图，回答「**该项目被允许以什么条件推进**」。
+   • **Thermochromic specialists**: CTI (US, full spectrum, requires diaper customisation); Matsui (Japan, legacy leader, safety checks required); OliKrom (France, custom temperature bands).
+- **Hydrochromic (hot-melt) leaders**: Bostik, Henkel, H.B. Fuller — the mature 84% hot-melt market; lowest risk for MVP B.
+- **Dual-capability & regional partners**: DaeHyun (Korea, full material pool); Qianshebian / Guangzhou Ledi (China, cost-effective regional speed).
+- Scoring frame uses five columns — techn
+   • Stop asking "do you have a product?" and demand exact constraints: **performance** — can you hit a visible 30–37 °C reversible transition specifically on PE film or nonwoven substrates? **bleeding** — do you guarantee zero colour bleeding for liquid-exposure hydrochromics? **process** — what are your exact converting constraints (drying temperatures, lamination pressure, coating methods)? **safety** — do you have proven, documented non-skin-contact hygiene migration data? **logistics** — what ar
+   • **Data vs emotion**: the product is a visual cue to help caregivers know when to act, not a precision clinical thermometer — overpromising will kill the claim.
+- **The trust gap**: the biggest risk is consumer perception (the diaper looks hot but feels cool to the touch); Phase 4 comprehension testing is non-negotiable.
+- **The final gate**: if at any point the technology compromises absorbency, fit, cost or skin safety, the MVP is immediately halted — **core function always wins**.
+
+--- [[GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）]]  (4 句)
+   • China's **mandatory labeling standard** for textiles and apparel（GB 5296 系列第 4 部分）—— defines the seven mandatory label items and the durable-label rule; for this library it matters as the labeling regime for textile components (e.g. woven labels on elastic waistbands) while disposable hygiene products are explicitly out of scope.
+   • GB 5296.4-2012 is fully mandatory and governs instructions-for-use of textiles and apparel sold in China. Seven content items are compulsory: maker identity, product name, size/spec, fibre content (per FZ/T 01053), care symbols (per GB/T 8685), executed product standard, and GB 18401 safety class. The durable-label clause mandates that size, fibre content and care method live on a permanent label (with carve-outs for goods where such labels impair use, and for group-customized non-personal-care 
+   • **一次性卫生用品不在本标准范围**（附录 A 明列），卫品标签走 GB 38598 + 各产品标准条款 —— 支撑页：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）
+- **标注一致性是「严重缺陷」级要求**：同件产品不同形式标签内容不一致即判严重缺陷 —— 支撑页：本页（附录 B 原文口径）
+   • 来源：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）（婴幼儿纺织品的标签在 5296.4 框架上叠加安全类别与「婴幼儿用品」字样）
+
+--- [[GB 5296.5-2006 Instructions for Use of Products of Consumer Interest Part 5 Toys（消费品使用说明 第5部分 玩具）]]  (4 句)
+   • China's labeling standard for **toys**（玩具使用说明）— partially mandatory; for this library it documents the toy-side labeling regime (age range + safety warnings per GB 6675) that borders the children's paper-product safety space.
+   • GB 5296.5-2006 governs instructions-for-use of toys for children under 14, replacing the 1996 edition. Six content blocks are compulsory (4.1, 4.4, chapter 5, 6.2, 6.3, 8.2): the chapter-5 list covers product name/model/standard number, age range and safety warnings (both delegated to GB 6675), plush-toy material disclosure, assembly instructions, maintenance, safe-use period, and producer identity. Safety warnings must live on durable labels and follow the font-size rules (警示词 ≥四号黑体). Historica
+   • **GB 5296 系列结构在 2006 与 2012 版之间重排**（Part 3/4 互换），跨版本引用必须注明年份 —— 支撑页：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）
+- **玩具安全体系（GB 6675）通过 GB 43631 表 2 的可迁移元素口径延伸进儿童纸品** —— 支撑页：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+   • 概念：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- 来源：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）（同系列姊妹篇）
+
+--- [[GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）]]  (4 句)
+   • A **management-system standard**（体系标准，非限值标准）：要求生活用纸企业建立化学品与原料的供应商评价 → 安全评价 → 采购验收 → 贮存领用 → 可追溯闭环；其资料性附录 A/B 提供了 GB 43631-2023 之前最系统的卫品化学品建议清单（中文：化学品及原料安全评价体系）。
+   • GB/T 36420-2018 (SAC/TC 141) defines how tissue/hygiene-paper manufacturers shall organize chemical and raw-material safety management: suppliers must deliver quality certificates plus MSDS (or a CAS-anchored ingredient list), an internal assessment team evaluates every chemical and raw material, approved items enter controlled lists with process documents, acceptance includes COA verification (Annex C lists suggested upstream product standards, e.g. GB/T 21331 绒毛浆、GB/T 22875/22905 SAP、QB/T 4508
+   • **「体系标准 vs 限值标准」双轨**：GB/T 36420 管流程与台账，GB 43631-2023 管法定限值；附录数字是**建议基线**，不能当作合规终裁依据 —— 支撑页：GB-T 36420-2018（生活用纸化学品安全评价体系）、GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- **苯氧乙醇 ≤1.0% 的湿巾限值与化妆品规范一致**（2015 版《化妆品安全技术规范》防腐剂表同口径）—— 支撑页：Phenoxyethanol（苯氧乙醇）
+- **附录 C 是上游原料标准清单**（绒毛浆、SAP、面层、吸水衬纸等 11 项），可直接作为供应商 COA 核验 checklist —— 支撑页：Material Safety Control（材料安全双轨管控）
+   • 概念：GB-T 36420-2018（生活用纸化学品安全评价体系）、GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）、Phenoxyethanol（苯氧乙醇）、Material Safety Control（材料安全双轨管控）
+- 来源：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（化学品管理条款引用本标准）
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (4 句)
+   • 1. **Is BSL tier differentiation important to this brand for product tier differentiation?**（面层分档对该品牌的档位差异化是否重要？）
+2. **What would that look like? (Cues, functionality, etc.)**（那会长什么样？线索、功能……）
+3. **How much interest is there to address common BSL barriers to product tier differentiation? (Cost, process, etc.)**（有多大意愿去解决**共性障碍**——成本、工序……）
+   • **重要性**：Yes。
+  - **T6**：继续顶档收益 —— **actives、最强的 BM 摄入、最好的柔软**与某些超高端收益。
+  - **T5**：T6 特性下放；*"Need to up our game on softness **beyond TETRIS options**"*；**Cleanshield 仅用于 POME**；LM —— **透气性**与潜在的**吸湿排汗**。
+  - **T4**：**TBD，回渗宣称**。
+  - 追问：*"What's the **weakest link/feature** in the product for softness?"*
+- **现状**：*On track, but need to progress*。
+- **机会**：T6 与 T5 更软；确保创新**守得住档位目标**。
+- **障碍**：柔软度的工序能力；*"**Cost disadvantage if going beyond internal sourcing**"*（超出内部 sourcing 则有成本劣势）。
+   • **重要性**：Yes。*"UBK hypothesized that **BSL change on CleanWear was one of reasons for share loss**. **LORI** gets us back on track."*
+- **现状**：*Off track on SP, but LORI gets us back on track*。
+- **机会方向**：
+  - **Feel clean & dry**：*"Key focus area that BSL could support. However, **knowledge gaps exist on the cues that convey clean & dry** for UBK consumer targets."*
+  - ⚠️ *"consumers picked up on **softness & dryness** of better stain masking liners, **not directly the stain masking benefit**"*
+   • **短期**：LORI 评估**印刷质量**影响；*"**No BSL changes are needed in the short-term** for LORI 2024 or Overnight back bump 2025/2026"*；*"No formal asks yet for the FEI materials team."*
+- **未来**：视觉外观与材料类型的重要性；⚠️ *"**Degree of changes in LORI was not enough to influence the consumer experience. \"Zero menses on skin.\"**"*；*"Similar to POISE UT, UBK may need **3D features, visual cues, layers...and functional performance**"*。
+- **透气**：*"Have a breathable material, **not necessarily need to be full product b
+
+--- [[Antimony-Free PET Fibre（无锑 PET 纤维）]]  (3 句)
+   • Material Safety Control（材料安全双轨管控）
+- AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+- DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- 热风粘合无纺布
+- 福地（Fudi）
+- 新维盛集团（Xinweisheng Group）
+- The Procter & Gamble Company（宝洁）
+- Kimberly-Clark（金佰利）
+   • 1. **锑进入卫材管控不是因为卫材本身出了事**，而是从彩妆品类外溢过来的 —— 这是"关注化学物质清单"的典型生成路径，与加湿器杀菌剂、CMIT 牙膏同类。
+2. **韩国市场的锑要求是 2018 年前后才有法规基础的**，与 Material Safety Control（材料安全双轨管控） 中"驱动来源是当地法律法规"的表述一致，可互相印证。
+3. 会中另一条相关判断：韩国消费者倾向认为"**蛋白 / 天然更安全**"，liner / 面层议题属常见敏感议题 → **无锑在韩国不只是合规问题，也是消费者心智问题**。
+   • ✅ **验证记录（2026-09-29）**：以上为单一来源的低质量英文 ASR，"2018 年前无国家级法规"为会中口径，**未见法规原文**；"antimony" 由转写中的「anti money / antimony」还原。参见 Material Safety Control（材料安全双轨管控）、Product Safety Crisis Management（产品安全危机管理）。
+

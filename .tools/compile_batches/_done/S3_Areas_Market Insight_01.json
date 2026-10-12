@@ -1,0 +1,30 @@
+{
+  "batch": "S3_Areas_Market Insight_01",
+  "stage": "S3",
+  "block": "Areas/Market Insight",
+  "source_pages": [
+    "Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局）",
+    "Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径）",
+    "China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图）",
+    "China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026）",
+    "China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）",
+    "New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025）"
+  ],
+  "concept_pages": [
+    "China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）",
+    "Diaper Premiumization（纸尿裤高端化）",
+    "Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）",
+    "Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）",
+    "Probiotic & Skin-Care Topsheet（益生菌护肤面层）"
+  ],
+  "entity_pages": [
+    "HaoYue Nursing（豪悦护理）",
+    "Levima New Materials（联泓新材料）"
+  ],
+  "comparison_pages": [
+    "China vs Korea Diaper Market（中韩纸尿裤市场对比）"
+  ],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "6 份市场/行业资料全部新建源摘要页；派生 5 概念页（趋势/格局/技术主线）+ 2 实体页（豪悦/联泓，采购相关核心供应商）+ 1 对比页（中韩市场，含成本与供应链风险两列）。所有页均为新建、无覆盖；标题=文件名=wikilink 一致；§2.0 双语（英文为主+中文对照）。发布日期缺失项以内容引用年份估算并注明。未改动 index.md/log.md、RAW*/AGENTS.md。"
+}

@@ -1,0 +1,41 @@
+{
+ "batch_id": "W4-2",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d8dc9e10335ba4aa6a3a4e70fd33b642001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/天富龙集团-扬州富威尔简介20250510.pdf.md",
+   "name": "天富龙集团-扬州富威尔简介20250510.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "html_3867e2b60070d7dc3f413086d0b0036e_b5a2489648c4928d7a0f2f846de3a91e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/纺纱纤维-苏州益盟新材料科技有限公司.html.md",
+   "name": "纺纱纤维-苏州益盟新材料科技有限公司.html.md",
+   "type": "html"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_b83436401c199f21766bb2ea22c32266001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商综合技术联系表.xlsx.md",
+   "name": "变色油墨供应商综合技术联系表.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_7cd4b3243074613ce1953b538cdd117a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商联系表.xlsx.md",
+   "name": "变色油墨供应商联系表.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_fd39d4519a6d110cfe4fb7296a9b37ef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/国内CoPET纤维厂商_无锑细旦核实.xlsx.md",
+   "name": "国内CoPET纤维厂商_无锑细旦核实.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_a13dee2c582d8d871e64e81f03fa797c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/温变湿变微胶囊技术参数对比表.xlsx.md",
+   "name": "温变湿变微胶囊技术参数对比表.xlsx.md",
+   "type": "excel"
+  }
+ ]
+}

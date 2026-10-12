@@ -1,0 +1,148 @@
+# SEED: 渗透率 Permeability
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Porous Structure and Liquid Flow Models
+#
+# 全库正文命中 58 页，94 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Gel Blocking（凝胶阻塞）]]  (7 句)
+   • 1. **膨胀即堵塞**：SAP 吸液后体积膨胀、占据孔隙，使局部**渗透率急剧下降**。仿真中有效渗透率从基准 **1e-12 m² 降至 ~2e-13 m²**（约 1/5），液体无法继续向更深层输运。
+2. **Carman-Kozeny 干界面瓶颈（关键）**：在干芯层界面，**相对渗透率 kr ~ Sw³ → 0**，因此**压力求解器无法驱动重力流**穿过干/湿界面。这是**均匀芯体模型根本性失效**的原因——不是参数不对，而是**机制上走不动**。
+3. **容量不是约束，输运才是**：v11 模型中理论总容量 = **320 g SAP × 26.6 g/g ≈ 8,500 mL**，而注入量仅 **200 mL**（**约 4 倍余量**）。实际利用率却只有 **48.1%**（均匀模型）——**余量与利用率之间的落差就是凝胶阻塞的量化口径**。
+4. **表现是"全在顶层"**：均匀模型中 200 mL 全部进入**顶层 9 格**（中心 30% 区域），**19 个活跃细胞中 18 个在注入区内**，MD spread 仅 **0.9%**。
+   • **教训一（先问"到不到得了"）**：容量算得再大也没用——**8,500 mL 容量 vs 200 mL 注入**仍有 **51.9% 的 SAP 用不上**。评估芯体时**先查输运路径，再查容量**。
+- **教训二（均匀是结构性失败，不是参数没调好）**：均匀模型的失效来自 **kr → 0 的干界面瓶颈**，靠调渗透率或吸收速率修不好，**必须改结构**（分层 + 排水）。
+- **教训三（顺序本身就是设计变量）**：**先扩散、后排水** 与 **先排水、后扩散** 的结果不同；Bug 3 的修复正是把 x-diff 移到排水之前。
+- **教训四（数值稳定上限不是物理上限）**：**D_aniso = 3 是显式方案的稳定上限**，**≥10 就发散**（质量误差 +1,374 / +4,229 mL）——**不要把"稳定边界"读成"最优值"**；隐式方案（Crank-Nicolson）才是继续提高的前提。
+- **教训五（堆料会加重）**： 的 **Code 10 反例**说明**中心加密并非越密越好**——与"教训一"同向。
+   • **全部数值来自 v11 仿真**：**参数未实验标定**（Brooks-Corey 取自文献）、**无实验验证**（ISO 11948 验证仍在 P2 待办）。**不得作为产品性能数据引用。**
+-  **有效渗透率 ~2e-13 m²** 为模型反推量，**无实测对应**。
+-  **MD spread 理论极限 36.7%** 是**网格离散口径**（21/30），**不是物理极限**。
+-  **"完全避免单层凝胶阻塞"的作用域**——仅指多层分配层面，层内阻塞仍在。
+   • **v8 的问题（红队反馈）**： **全程不变**，即使 SAP 溶胀使孔隙率从 **0.42** 显著下降 —— *"如果不动态衰减渗透率，模型会严重高估芯体在多次吸收后的导流能力，无法捕捉到真实纸尿裤中常见的「芯体断层」或「阻水」现象"*。
+- **v9 的修复（Carman-Kozeny）**：
+
+--- [[孔隙率 Porosity]]  (6 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **1. 孔隙率—渗透率动态耦合（凝胶阻塞）：** 由**颗粒填充床微观流道理论**（Carman-Kozeny）推导，模型自动捕捉凝胶膨胀导致的孔隙堵塞 —— SAP 溶胀 → 降低孔隙率 → 降低渗透率 → 限制后续液体到达更深层，形成**自限性机制**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。细网格能更精确解析 SAP 颗粒附近的**局部孔隙结构**，因而解析出更低的局部孔隙率（0.284 vs 0.347）（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+
+--- [[2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）]]  (5 句)
+   • 1. **质量守恒修复**：v8 中 **~5 mL 常数偏移**（源自**未扣除初始液体质量**）已彻底消除；**v9 质量误差降至 0.025 mL（<0.012%）**。
+2. ⚠️ **网格收敛验证（最重要发现）**：**细网格 SAP 利用率仅 58%**，相比粗网格的 **98%** 大幅下降 —— **证实 v8 的 87% 利用率被数值扩散显著虚增**；**细网格结果更可信**。
+3. **非线性 D_cap(Sw)** 产生**更陡峭的湿润前沿**，改善 v8 常数扩散系数造成的"过度平滑"。
+4. **Carman-Kozeny 渗透率模型**成功捕捉凝胶阻塞效应：**吸收区渗透率下降约 2–5 倍**。
+   • **问题诊断**：v8 中  **全程不变**，即使 SAP 溶胀使孔隙率从 **0.42** 显著下降。红队指出：**不动态衰减渗透率会严重高估芯体多次吸收后的导流能力**，无法捕捉真实纸尿裤常见的"**芯体断层**"或"**阻水**"现象。
+- **修复**：（由**颗粒填充床微观流道理论**推导，自动捕捉凝胶膨胀导致的孔隙堵塞）。
+- **效果**：
+   • **自限性机制**：SAP 溶胀 → 降低孔隙率 → 降低渗透率 → **限制后续液体到达更深层**。
+- **细网格更显著**：最低孔隙率 **0.284**（vs 粗网格 **0.347**），因为细网格能更精确解析 SAP 颗粒附近的**局部孔隙结构**。
+- ⚠️ *"这一效应在产品设计中至关重要：它解释了**为什么高 SAP 含量的纸尿裤有时反而容易出现侧漏**。"*
+   • 1. **"完美守恒"要被怀疑** —— 摘要写 0 mL，曲线却有 5 mL 常数偏移；**看曲线，不要看摘要**。
+2. ⚠️ **网格粗 = 结果假** —— 15×6 下 **约 30 个百分点**的 SAP 利用率来自**数值扩散**；**用粗网格指导 SAP 用量优化会过高估计**。
+3. **常数扩散系数会抹平湿润前沿** —— 常数 D_cap 让前沿"像热传导"；真实前沿是**陡峭**的。
+4. **凝胶阻塞必须建模，否则高估多次吸收能力** —— Carman-Kozeny 使吸收区渗透率**下降 2–5 倍**，产生**自限性**。
+5. **高 SAP 含量反而易侧漏，机理在此** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层。
+6. **细化网格后差异更大，说明尚未收敛** —— 孔隙率下限从 0.347 降到 0.284；源文建议再试 60×24。
+7. **"残液 0.0 mL" 也可能是网格效应** —— 粗网格残留 2.6 mL vs 细网格 0.0 mL，**方向需谨慎解读**（源文表述为"暗示"）。
+8. ⚠️ **v9 不含反渗** 
+
+--- [[达西定律 Darcy's Law]]  (4 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • **无材料级渗透率 / 孔隙率数值**：库内各页给出达西定律与扩散因子的**公式**，但**未给出绒毛浆/非织造/SAP 层的 k、Φ 实测值**——需回 *Absorbent Technology* 原文补齐。
+- **达西定律的适用上限**：摘要未给出 Reynolds 数适用边界或 Forchheimer 修正的触发条件（源：Porous Structure and Liquid Flow Models 未涉及）。
+- **与毛细动力学的时间标度**：x_v ∝ t^(1/2) 的比例常数在摘要中**未数值化**（源：Liquid Flow in Porous Structures）。
+- **流体性质项**：μ（黏度）在摘要中仅作为 K = k/μ 的组成出现，**具体流体（尿/血/模拟液）黏度值未给出**。
+- **落地方案**：库内无把达西定律直接用于**产线工艺参数（如施胶量、压花）**的记录，属理论接口而非工艺口径。
+
+--- [[Porous Structure and Liquid Flow Models]]  (4 句)
+   • Chapter 1 (pp. 18–73) is the physics bedrock of the whole handbook: it converts "fast-absorbing core" into three measurable quantities — capillary pressure, permeability/flow rate, and pore volume — and closes with the specific-air-volume relation that lets REL teams predict capacity from fibre density and packing fraction before any prototype is spun.（中文：第 1 章把"吸得快"翻译成三个可测量——毛细压力、渗透率/流速、孔隙体积，并以比空气体积关系给出"料定产能"的前置预测工具。）
+   • **Driving force.** "The driving force for absorption of the bulk of the liquid into an absorbing material, which is in most cases a porous medium, is the capillary pressure" (p. 19); gravity/pressure are secondary.
+- **Unsteady flow = diffusion.** "Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process" (p. 36). The governing PDE is ∂s/∂t = ∇·[F(s)∇s], where F(s) = (k/μΦ)(dp/ds) is the diffusivity factor (soil-physics "moisture diffusivity").
+- **The 
+   • **Rate and capacity are antagonists, and both are geometric.** Bigger pores raise rate (Hagen–Poiseuille: flow ∝ r², so Y ×2 → flow ×16) but lower capillary pressure (p_c ∝ 1/r), so capacity falls. The optimum sits mid-range, not at either extreme.
+- **Kozeny–Carman is a leverage equation.** k ∝ Φ³/(1−Φ)² — a small porosity gain yields a large permeability gain, but raising Φ means lower packing fraction, i.e. thinner web, more thickness, or fewer g/m². The trade is real and unavoidable.
+- **Fib
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、毛细管压力 Capillary Pressure、孔隙率 Porosity、渗透率 Permeability、SAP（高吸水树脂）、Gel Blocking（凝胶阻塞）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 相关章节/页面：Absorbent Technology Introduction、Characterisation, testing and modelling of nonwoven fabrics（测试与建模）、Chemical bonding（粘合剂容量税）、Dry-laid web formation（气流成网孔径）
+
+--- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]  (3 句)
+   • 1. ADL 层高渗透率（**k = 5e-11 m²，约为 Core 的 50 倍**）使液体快速通过；
+2. ADL 保留阈值 **S_thresh = 0.15**，超出液体立即排水；
+3. 排水量受 **ADL 渗透率 × ρg × dt** 物理限制；
+4. 液体**均匀分配到 8 层 Core（等量分水）**，避免单层凝胶阻塞。
+   • **Core 8 层合计 M_abs = 180.5 mL**；**ADL 合计 V_liq = 26.4 mL**（15% 饱和度阈值，占总液体 12.8%）。
+- **总液体 = 206.9 mL = 200 mL（注入）+ 6.9 mL（初始 Sw = 0.02）**。
+- **液体利用率 = 180.5 / 200 = 90.3%**。
+- ⚠️ **理论总容量 ~8,500 mL 远未被充分利用** —— ADL 排水绕过了干界面瓶颈，但 **Core 层内部的凝胶阻塞仍限制进一步深度渗透**（有效渗透率 ~2e-13 m²）。
+   • **机理页**：（本件的量化证据：0.9% MD spread、有效渗透率 ~2e-13 m²、48.1% vs 63.6%）、（MD spread 与 D_aniso 校准）、（ADL 排水的物理角色）、、。
+- **参数页**： —— 本件 **Q_eq = 26.6 g/g（0.9% NaCl）由热力学模型算出**，与该页的实测 CRC 口径**来源不同，不可直接等同**。
+- **方法页**： —— 本件**尚无 rewet 模型**（P0 待办），因此**不能用于回渗预测**。
+- **组合页**：。
+
+--- [[CN 107854223 B（一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法）]]  (3 句)
+   • A granted Chinese invention patent (assignee: **露乐健康科技(广州)有限公司 / Lolle**) on a **SAP specifically for fluff-pulp-core diapers**, with in-situ nano-SiO2 to raise permeability/diffusion and low rewet. SAP composition/process → FTO-relevant.
+   • The invention discloses an SAP for fluff-pulp cores and its preparation: acrylic acid is mixed with deionised water and neutralised with NaOH; sodium silicate, acrylamide, crosslinker and initiator are added to give a milky solution; under N2, UV polymerisation yields a transparent gel; the gel is granulated, dried, milled to powder; the powder is stirred with sodium aluminate and surface-treated with a treatment liquid. Nano-SiO2 generated during neutralisation disperses uniformly, raising liqu
+   • **Fluff-pulp-core SAP with in-situ nano-SiO2 (permeability/diffusion ↑, rewet ↓)** — supporting page SAP（高吸水树脂） / SAP 表面包覆（SAP Particle Surface Coating）.
+
+--- [[Hydrogels in Regenerative Medicine]]  (3 句)
+   • **Release control**: porous structure is tunable via cross-link density; drug release rate depends on the diffusion coefficient through the gel network. Low interfacial tension ⇒ minimal protein adsorption from body fluids.
+- **Wound dressing (closest to our adjacency)**: an ideal dressing must maintain a moist interface, allow gas exchange, act as a microorganism barrier and remove excess exudate, while being non-toxic, non-allergenic, non-adherent and removable without trauma. Hydrogel dressin
+   • **§2.4 is, in effect, a general SAP swelling primer.** The low/medium/high/superabsorbent (>99.5% water) classification and the explicit statement that cross-link density suppresses swelling while raising rigidity are exactly the two-lever structure–property relationship used to reason about CRC (centrifuge retention capacity) vs modulus vs absorption-under-load. Useful as teaching/mechanism background for the SAP programme.
+- **The hydrophilic-group vs cross-link-density opposition** gives clea
+   • **No SAP-specific content at all.** The word "superabsorbent" appears only in the swelling-classification table. Nothing on polyacrylic-acid SAP, surface cross-linking, particle size distribution, GBP (gel bed permeability), AUL, or saline/urine absorbency test methods.
+- **No nonwoven, fluff pulp, ES fibre, adhesive or chromic-material content.**
+- **Biological performance requirements dominate** (cell adhesion, proliferation, biodegradation matching tissue regeneration) and are irrelevant — so
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (3 句)
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[Washburn Equation]]  (2 句)
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+

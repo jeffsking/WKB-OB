@@ -1,0 +1,18 @@
+{
+  "batch": "S4_Resources_Pulp World_01",
+  "stage": "S4",
+  "block": "Resources/Pulp World",
+  "source_pages": [
+    "Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [
+    "TTOBMA（木浆市场研究与价格指数机构）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "concepts/绒毛浆（Fluff Pulp）.md（关键参数表追加价格行补『价格库内暂无』缺口：TTO 2026-02 $828/ADMT +$14、中国转售 30 天 +~$20；供应侧背景追加；未改既有结论）"
+  ],
+  "manual_review": [],
+  "notes": "1 项全新编译（本库 Resources/Pulp World 批次首份月报页）。数据月份口径已在源页顶部显式声明：价格=TTO 2026-02 净价指数（DP 为 1 月），事件与预测截至 2026-03-15；后续月报更新按追加方式登记。价格/供需要点沉淀于源页数字表：绒毛浆 $828/ADMT、NBSK 现货 ~$670、BSK 预测 $660–680→夏季中 $600 区间、中国 BSK 产量 +150–200 万吨（需求 -20~25%）、市场浆需求预测 +1%→-0.5%、运费与汇率影响。报告含地缘政治事件（源文表述）仅作事实转录，不作本库判断。未建对比页（单份月报无对照对象）。"
+}

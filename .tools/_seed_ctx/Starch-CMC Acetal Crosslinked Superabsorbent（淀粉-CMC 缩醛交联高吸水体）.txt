@@ -1,0 +1,124 @@
+# SEED: Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 120 页，193 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联密度 Crosslink Density]]  (7 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+   • **Acrylic-SAP double-essence.** High absorption/retention comes from **hydrophilic carboxyl/hydroxyl groups + a 3-D cross-linked network skeleton**, both indispensable; the network is the ν_c-bearing structure（源：Acrylic-Based Superabsorbent Polymers）。
+
+--- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]  (5 句)
+   • **韩国授权发明专利**（등록특허 10-2205294，B1；专利权人 **주식회사 아시아나노텍 / Asiananotech**）。它给出了一条**不含任何外加化学交联剂**的生物基高吸水体路线：**氧化淀粉的醛基**（aldehyde group）与 **CMC 的羟基**（hydroxyl group）以及**球形纳米纤维素的羟基**发生**缩醛交联**（acetal crosslinking），形成聚合物 A 与聚合物 B。说明书自报的 0.9 % 盐水吸收量最高 **45.8 g/g**、保水量 **37.5 g/g**，**均超过同批对照的合成 SAP**（41.5 / 34.1 g/g）。这是本库少见的、用**淀粉＋CMC＋纳米纤维素三组分**把"生物基"与"性能不输 SAP"同时写进权利要求的专利。
+   • 发明名称（韩文原题）：**나노 셀룰로오스와 카르복시메틸 셀룰로오스에 전분을 가교시켜 제조한 고흡수성 흡수체 및 이의 제조 방법**（以淀粉交联纳米纤维素与羧甲基纤维素制得的高吸水性吸收体及其制造方法）。摘要（(57)）逐字要点：**氧化淀粉的醛基（aldehyde group）与羧甲基纤维素的羟基（hydroxyl group）缩醛交联（acetal crosslinking）结合**的高吸水性吸收体及其制造方法。
+   • **"无外加交联剂"是本案的核心工程主张**：网络完全由**氧化淀粉醛基 × CMC/纳米纤维素羟基的缩醛反应**自交联形成（[0030]、[0041]），从而绕开了传统纤维素醚化工艺中 **MSDS 列为有害毒性气体的环氧乙烷／环氧丙烷**（[0006]）。→ Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+- **三组分而非两组分**：权 6 同时要求聚合物 **A**（淀粉–CMC）与聚合物 **B**（淀粉–纳米纤维素）；实施例显示 **O-CNF 从 0 → 1 → 2 wt%** 时，凝胶形成评价由 **○ → ◎ → ◎**，窗口由 6:4–8:2 拓宽至 **4:6–9:1**，吸水量由 35.3 → 43.6 → 45.8 g/g。O-CNF 是性能跃迁的关键变量。
+- **生物基路线首次在本库中做到"超过合成 SAP"**：SAC 2 (1 g) 与 SAC 2 (2 g) 在**吸水量与保水量两项上同时超过**对照合成 SAP（约 +5 % 与 +10 %）。但对照 SAP 仅一款且未标注
+   • Concept 概念：Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、SAP性能指标（CRC AUL GBP Vortex）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+- Entity 实体：아시아나노텍 주식회사（Asiananotech）
+
+--- [[水凝胶 Hydrogel]]  (4 句)
+   • 水凝胶基 SAP 的补充口径：**以亲水聚合物为骨架、经交联形成三维网络**，吸水后能维持吸水结构、不溶胀崩解，兼具高吸水/保水与形状恢复能力（源：Hydrogel-based Superabsorbent Polymers）。
+   • **交联是定义性条件。** 无交联则亲水链在水相中溶解，网络不成立（源：Hydrogels in Regenerative Medicine）。
+- **物理交联 vs 化学交联是中心取舍。** 物理凝胶由离子作用、氢键、配位键、疏水作用、结晶或蛋白相互作用形成，**可逆**且generally unstable；化学交联给出稳定网络（源：Hydrogels in Regenerative Medicine）。
+- **亲水性来自极性/可离子化基团。** −SO₃H、−COOH、−CONH₂、−OH、−NH₂；带电网络（−SO₃⁻、−COO⁻）可静电吸附金属离子。三类结构：中性（非离子）、离子型（聚电解质）、互穿网络（源：Hydrogels in Regenerative Medicine）。
+- **两个反向杠杆。** 亲水基团含量 ↑ ⇒ 溶胀 ↑；交联密度 ↑ ⇒ 链段活动性 ↓、柔性 ↓、溶胀 ↓ ——这与 SAP 设计的取舍同源（源：Hydrogels in Regenerative Medicine）。
+- **溶胀具有 pH/离子响应方向性。** 酸性基团水凝胶在碱性介质
+   • **SAP 是干态水凝胶。** SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，可用同一网络科学框架建模；常用骨架为聚丙烯酰胺（PAM）、聚丙烯酸（PAA），生物基路线为纤维素、淀粉、壳聚糖、海藻酸钙（源：Hydrogel-based Superabsorbent Polymers）。
+- **性能四参量调控。** 交联密度（低→吸水高但稳定性差；高→保水好但吸水受限，**存在最优值**）、亲水基团分布、离子强度（高离子强度降低吸水性）、温度（部分水凝胶具温度响应性）（源：Hydrogel-based Superabsorbent Polymers）。
+- **吸水速率先受粒径控制。**  预测有效半径减半 ⇒ 摄入快约 4 倍；当摄入速度或回渗是失败 KPI 时，应据此设定 PSD 档位（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+- **盐水敏感性是可比性红线。** 盐水中 Na⁺ 与网络 −COO⁻ 静电结合，减少可用于氢键的离子化基团，同一样品吸收相比纯水下降三倍以上（源：Citric Acid Crosslinke
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[离子强度 Ionic Strength]]  (4 句)
+   • The vault never states a formula or units for ionic strength; it treats it operationally as **one of the three parameters** that precisely tune a hydrogel SAP's absorbency / water retention / salt tolerance / oil resistance — **cross-link density + ionic strength + temperature**（源：Hydrogel-based Superabsorbent Polymers）。Its direction of effect is stated directly: **electrolytes such as NaCl and CaCl₂ affect swelling, and high ionic strength *lowers* water absorbency**（源：Hydrogel-based Superabsor
+   • **Ionic surface cross-linking is a design lever *and* a failure mode.** Modern SAP practice uses a cation (Al³⁺) to ionically surface-crosslink polyacrylic-acid carboxyls, which raises gel strength, SFC/permeability and reduces gel blocking; the Al-crosslinked shell is only **partly reversible and is sensitive to pH and ionic strength**（源：Ancient Organic Dyes and Pigments Chemistry）。
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • Hydrogel-based Superabsorbent Polymers
+- Ancient Organic Dyes and Pigments Chemistry
+- Hydrogels in Regenerative Medicine
+- Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (4 句)
+   • Peer-reviewed journal article that benchmarks a **citric-acid–crosslinked cellulose superabsorbent hydrogel (SAH)** head-to-head against commercial sodium-polyacrylate SAP in both DI water and 0.9 % saline — the library's cleanest **saline-based performance comparison** for the biodegradable-SAP route.
+   • The study develops citric acid (CA)-crosslinked superabsorbent hydrogels based on cellulose derivatives as sustainable alternatives to conventional petroleum-based SAPs for personal hygiene. **Sodium carboxymethyl cellulose (Na-CMC)** is the primary polymer and **hydroxyethyl cellulose (HEC)** the secondary polymer, blended at varying ratios and crosslinked with CA as a green crosslinking agent. The authors systematically evaluate polymer composition, swelling medium, pH and **absorption under l
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+   • Concepts 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- Entity 实体：University of Waterloo（滑铁卢大学）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[AUL 加压吸水率]]  (3 句)
+   • 同列概念（源：Research Advances in Superabsorbent Polymers (Polymers 2024)）：SAP（高吸水树脂）、吸收芯体、PAA 聚丙烯酸、CRC 离心保持能力。
+- 同列概念（源：Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）：SAP（高吸水树脂）、表面交联 Surface Cross-linking、蒙脱土 Montmorillonite。
+   • AUL（加压吸水率）是 SAP（高吸水树脂）的评价项之一，与 CRC 离心保持能力、表面交联 Surface Cross-linking 等在 SAP 综述文献中并列出现（源：Research Advances in Superabsorbent Polymers (Polymers 2024)、Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）。
+- 本库同主题页面（交叉引用，未据其取数）：承压吸收 AUL、SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）、SAP（高吸水树脂）。
+   • Research Advances in Superabsorbent Polymers (Polymers 2024)
+- Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)
+- 承压吸收 AUL
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAM Testing Methods（超级吸水材料测试方法）
+
+--- [[BASF]]  (3 句)
+   • **专利权属（SAP 表面包覆核心工艺）**：2026-09-29 编译识别 BASF SE 为两项中国授权专利的专利权人 —— CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）（液体喷涂包覆）与 CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）（气流分散微粒固体包覆）；两专利均为 **SAP 颗粒后处理/表面交联核心工艺**（源：巴斯夫欧洲公司（BASF SE））。
+- **记录口径**：2026-09-29 该批**未含 BASF 商务报价**，仅记录专利权属；具体供货/报价待人工补充（源：巴斯夫欧洲公司（BASF SE））。
+- **可持续路线的商业定位**：BASF 的 SAP 可持续路线是「**生物质平衡质量守恒分配**」而非改性 —— 性能与常规牌号等同、**免重新配方**；与降解路线（Biodegradable SAP（可降解高吸水树脂））属**不同维度**，不可混引（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- **国产化对接口径**：
+   • **与 KC 的关系**：现有摘录**无**BASF 与金佰利的供货 / 合作 / 竞品关系证据 → 关系字段记 **待核**。
+- ：公司国别、成立信息、组织架构等基本盘信息在引用页中均未给出。
+- ：HySorb® N7059 的 AAP 值（0.3 psi 29.0）在摘录中截断，单位与后续指标不可读（源：BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫））。
+- ： 缩写的完整展开在源页标注为 ；相关公式见 SAP 表面包覆（SAP Particle Surface Coating）。
+- ：BASF 在生物质平衡 SAP 上的**认证机构与证书编号**在宣传页摘录中未给出具体名称（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- ：原始引用来源 4 页（Absorbent Technology / Ancient Organic Dyes and Pigments Chemistry / Chromic Phenomena… / Luminescence…
+   • **提供正文摘录的库内页面**
+- 巴斯夫欧洲公司（BASF SE）
+- BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）
+- BASF Biomass Balanced Superabsorbents（v3 归档同名件）
+- BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）
+- SAP 表面包覆（SAP Particle Surface Coating）
+- CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+- CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+- SAM Database-CW（全球 SAM 牌号性能数据库）
+- SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）
+- SAP Selection Decision Base（17-SAP选型与实验数据决策库）
+
+--- [[LG Chem（LG 化学）]]  (3 句)
+   • **2026-09-29 记录**：**US 9,950,308 B2**「Superabsorbent Polymer」——授权日 2018-04-24（PCT/KR2014/007068，WO2015/016643）
+- **2026-09-29 记录**：**EP 3 636 698 B1**「Super Absorbent Resin」——授权日 2022-11-09（PCT/KR2018/009352，WO2019/050183）
+- **2026-09-29 记录**：**US 12,145,129 B2**「Superabsorbent Polymer Composition and Method for Preparing the Same」——授权日 2024-11-19（PCT/KR2019/013302，WO2020/122390）
+- 发明人（部分）：Sang Gi Lee、Kyu Pal Kim、Gi Cheul Kim、Bohee Park、Jun Kyu Kim、Dong Hyun Kim（均 Daejeon, KR）
+   • **2026-09-29 追加（Areas/IP 第 3 批，追加不改原结论）**：**WO 2024/111948 A1**「Superabsorbent Polymer and Preparation Method Therefor / 고흡수성 수지 및 이의 제조방법」——**PCT 国际申请公开**（PCT/KR2023/017661，申请日 2023-11-06，公开日 **2024-05-30**，韩文本）；发明人 윤형기 HYOON, Hyungki / 주진혁 JU, Jin Hyuck / 신광인 SHIN, Kwangin / 안태번 AIN, Taebin。**主张的五项并列门槛**：CRC ≥30 g/g、EFFC(0.3 psi) >29.5 g/g、Vortex 速度 <37 s、1 分钟自来水吸收量 >115 g、加压盐水 2 小时再润湿 <3.7 g。见 WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)。
+   • US9950308B2 Superabsorbent Polymer (LG Chem) —— 
+- EP3636698B1 Super Absorbent Resin (LG Chem) —— 
+- US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem) —— 
+- WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem) —— （2026-09-29 追加）
+
+--- [[University of Waterloo（滑铁卢大学）]]  (3 句)
+   • **2026-09-29 记录**（来源 Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)）：
+  - 通讯作者 **Tizazu H. Mekonnen** 团队（第一作者 Muhammad Shahidul Islam）发表柠檬酸交联纤维素超吸水凝胶研究，刊于 *Chemical Engineering Journal* 526 (2025) 170721。
+  - 合作方：**CTKBio Canada**（Surrey, BC, V3S 2A7, Canada）。
+  - 与本库的关联：其优化的 **CMC–1.5 % CA** 配方在 0.9 % 生理盐水中 38 ℃ 的平衡吸水倍率 **110 g/g**，略高于商用聚丙烯酸钠 SAP（93 g/g）；**7 周堆肥降解 72 %**；**细胞存活率 >80 %**。
+   • Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）
+- 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+   • Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025) ——
+
+--- [[Hydrogels in Regenerative Medicine]]  (3 句)
+   • **§2.4 is, in effect, a general SAP swelling primer.** The low/medium/high/superabsorbent (>99.5% water) classification and the explicit statement that cross-link density suppresses swelling while raising rigidity are exactly the two-lever structure–property relationship used to reason about CRC (centrifuge retention capacity) vs modulus vs absorption-under-load. Useful as teaching/mechanism background for the SAP programme.
+- **The hydrophilic-group vs cross-link-density opposition** gives clea
+   • **No SAP-specific content at all.** The word "superabsorbent" appears only in the swelling-classification table. Nothing on polyacrylic-acid SAP, surface cross-linking, particle size distribution, GBP (gel bed permeability), AUL, or saline/urine absorbency test methods.
+- **No nonwoven, fluff pulp, ES fibre, adhesive or chromic-material content.**
+- **Biological performance requirements dominate** (cell adhesion, proliferation, biodegradation matching tissue regeneration) and are irrelevant — so
+   • Smart Polymers Ch08 Smart Hydrogels — 同一水凝胶主题的本库章节页，刺激响应水凝胶视角与本页结构与溶胀视角互补。
+- Smart Polymers Ch03 Conformational Transitions in Ionic Gels — 离子凝胶构象转变，为本文 §2.2 "离子化基团→静电排斥→溶胀↑" 提供理论机制支持。
+- A review on superabsorbent polymers — SAP 综述，缺失的聚丙烯酸系 SAP 专项内容在此补足。
+- GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂） — 纸尿裤/卫生巾用 SAP 国标，是本文溶胀分级落到卫生产品规格的正式出口。
+- Industrial Drying Ch28 Osmotic Dehydration and SAP Physics — SAP 渗透脱水物理，与本页 §2.4 溶胀分级/交联密度内容构成理论与工程应用的配对。
+

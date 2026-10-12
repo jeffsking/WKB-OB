@@ -1,0 +1,12 @@
+{
+  "batch": "S2_Areas_IP_02",
+  "stage": "S2",
+  "block": "Areas/IP",
+  "source_pages": [],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "本批 10 个 item 的 source_path 在 WIKI/sources/ 均已有对应页（10/10 命中），依「跳过重编译」规则全部跳过，未覆盖任何既有页：一-3_Superabsorbent_polymer→US9950308B2 Superabsorbent Polymer (LG Chem)；13_EP1347788B1→EP1347788B1 Antimicrobial Hot Melt Adhesive (Bostik)；US11013641→US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark)；14_EP4428211A1→EP4428211A1 Hot Melt Adhesive Composition (Bostik)；US8273939→US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)；一-4_SUPER_ABSORBENT_RESIN→EP3636698B1 Super Absorbent Resin (LG Chem)；19_EP2413866B1→EP2413866B1 Disposable Wearing Article (Unicharm)；一-1_Superabsorbent_polymer_composition→US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem)；12_EP1146916B1→EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik)；三-1_Breathable_diaper_backsheet→US11612524B2 Breathable Diaper Backsheet (Colormasters)。派生页检查结果：本批 10 份源摘要页 pages_linked 指向的派生页中，仅 2 项目前缺失——comparison「Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）」与 concept「Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）」。二者均属跨多批的机理对比/结构主题，且 S2_Areas_IP_03 会引入 US5266394A（嵌段共聚物热熔胶）与 EP1581159B1（裤型尿裤制造方法）两份一手来源，可提供更充分且带出处的参数支撑，故按「处理完一项立即落盘」的节奏顺延至 03 批新建（届时同样满足「≥2 份提及」门槛）；本批不再重复复制既有结论。其余 8 份涉及的概念/实体页（如 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、The Procter & Gamble Company（宝洁）、LG Chem（LG 化学）、Sensor-Equipped Absorbent Article（含传感器吸收性物品）等）均已存在且状态正常。"
+}

@@ -1,0 +1,69 @@
+# SEED: 环氧乙烷残留（EO Residue）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 17 页，21 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+
+--- [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]]  (2 句)
+   • **「上市时 ≤10 µg/g」与「消毒后 ≤250 µg/g」是 EO 残留的两个不同时点口径，检验判定须明确取哪一个** —— 支撑页：环氧乙烷残留（EO Residue）
+- **非织造布与纸类原料的可迁移性荧光增白剂「不得检出」是卫材供应链的硬红线** —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **高吸水材料（SAP/绒毛浆芯体）若宣称抑菌，抑菌率门槛为 ≥99%，显著高于普通抑菌 ≥50%** —— 支撑页：抗（抑）菌性能评价（杀菌率·抑菌率）
+- **婴儿用产品毒理学口径加严（无刺激性 + 未见皮肤变态反应）** —— 支撑页：GB 15979-2024（一次性使用卫生用品卫生要求）
+- **湿巾/卫生湿巾生产用水须达药典纯化水，是工艺与成本的隐性门槛** —— 支撑页：GB 15979-2024（一次性使用卫生用品卫生要求）
+   • 概念：GB 15979-2024（一次性使用卫生用品卫生要求）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）、化妆品微生物限值（细菌总数·致病菌）
+- 实体：（无）
+- 对比：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）、GB 15979-2024 与 GB 15979-2002 主要技术变化对比
+
+--- [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]]  (2 句)
+   • An internal two-part assessment minute that benchmarks the two leading **spandex (氨纶 / Spandex-Elastane) brands used in diaper waist / leg / cuff elastics** and, separately, audits **DMAC residue and its regulatory exposure** — the batch-05 origin of both the Huafon-vs-LYCRA comparison and the DMAC regulatory page.
+（内部两段式评估纪要：一是纸尿裤腰围/腿围/侧边弹性体用氨纶的**华峰千禧 vs 莱卡 HYFIT** 品牌对比，二是**DMAC 残留与法规风险**盘点。本批中「华峰 vs 莱卡」对比页与 DMAC 法规页均从此处起。）
+   • **Which DMAC residue limit to write into incoming inspection** — the source proposes ≤0.05% as a safety margin, but notes Huafon publishes no dedicated residue test report .（入料检验的 DMAC 残留判据未定：原文建议 ≤0.05% 留余量，但指出华峰未公开专项检测报告。）
+- **EU REACH timeline ownership** — the 48-month man-made-fibre transition (approx. 2028Q4) is flagged, but no internal owner or lock-in plan is recorded.（REACH 48 个月过渡期（约 2028Q4）已提示，但**未记录**内部责任人与锁定计划。）
+- **REACH compliance cost for the domestic route** — listed as "需关注" wi
+
+--- [[Synthesis of Thermoplastic Polyester Elastomers]]  (2 句)
+   • **Introduction / review of prior art** — general TPE behaviour: TPEs show the mechanical properties of chemically crosslinked elastomers (high tensile strength, impact resistance, resilient elasticity, low-temperature flexibility) while being processed like thermoplastics by extrusion, injection or rotational moulding and calendering. Increasing soft-segment content lowers enthalpy and melting temperature, lowers tensile strength and hardness, gives less crystalline polymers, and raises elongati
+   • 1. **Design intent: non-polar soft segment.** Soft non-polar olefinic prepolymers are built into the polyester chain specifically to **improve hydrolytic and thermal stability and achieve better phase separation**, which particularly shows up as increased elasticity. Literature coverage of polyolefin soft segments in TPEs is explicitly called very scarce.
+2. **Why solution polycondensation.** Phase separation occurs during polycondensation because soft non-polar segments mix poorly with polar DM
+
+--- [[DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制]]  (1 句)
+   • 1. **Residue is inherent to the process, not a defect**——干法纺丝必须在原液中用 DMAC 溶解聚合物；溶剂回收技改只降低残值，不改变"存在残留"这一事实。（见 氨纶干法纺丝（Spandex Dry Spinning））
+2. **Percutaneous absorption is the key exposure route**——DMAC 脂溶性强，可穿透皮肤屏障进入血液；叠加纸尿裤**贴身接触 8–12 小时/天**、婴幼儿为高敏感人群，构成长期低剂量慢性暴露场景。
+3. **Hazard profile**——慢性肝肾损伤（肝酶升高、肝功能异常）；日本产业卫生学会（2014）列为**生殖毒性第 2 群**，EU 以生殖毒性将其列入限制物质；大鼠 LD50 4,300 mg/kg（中等急性毒性），婴幼儿耐受阈值远低于成人。
+4. **Regulatory logic**——EU 限制 DMAC 的根本原因与甲酰胺如出一辙：**生殖毒性 + 经皮吸收 + 长期低剂量慢性风险**。
+
+--- [[Formation-Limited Barrier（阻隔的成形受限机理）]]  (1 句)
+   • 1. **The ideal-pore model over-predicts by 15× 理想孔模型高估 15 倍**：Laplace on the median pore of a 1.5 µm web gives roughly **800 mbar**；real webs deliver **40–140 mbar**。The gap is not pore size — it is that **liquid finds the thinnest patch on the sheet and breaks through there**。（中文：差距不在孔径，而在液体总从最薄处击穿。）
+2. **The governing relation 支配关系式**：P ∝ weakest local gsm × γ |cos θ| ÷ fibre diameter。Note that this makes surface tension（γ）与接触角（θ）与克重均一性**同位阶**的杠杆，而不是并列的三个独立变量。
+3. **The weakest patch is an extr
+
+--- [[GB 15979-2024（一次性使用卫生用品卫生要求）]]  (1 句)
+   • 下位/被引：GB-T 28004.1-2021（纸尿裤国标）、Topsheet（面层）、复合吸收芯体（Composite Absorbent Core）
+- 平行限用物质：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）
+- 标识：消毒产品标签宣称红线（中国 GB 38598-2020）
+- 湿巾口径：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+
+--- [[Material Safety Control（材料安全双轨管控）]]  (1 句)
+   • **Formamide incident 甲酰胺事件**（China market, 2026-06）：caused a marked sales decline; "in the worst case we may lose a generation of consumers"（中国市场，造成明显销量下滑，最坏情况「可能失去一代消费者」）。
+- **Korea wet-wipes precedent 韩国湿巾先例**：after the incident, "market share has not recovered in nearly twenty years"（近二十年未恢复市场份额）→ material selection must lean toward natural, safe materials（选材须倾向天然、安全材料）。
+- **SAP residue 树脂残留**：SAP monomer residue ≤1000 mg/kg；heavy metals ≤20 mg/kg 须并行评估（见 OI-06）。
+
+--- [[Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）]]  (1 句)
+   • 上位：GB 15979-2024（一次性使用卫生用品卫生要求）（一次性卫生用品总纲，原料与成品双层约束）
+- 平行限用物质：环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）
+- 材料层：复合吸收芯体（Composite Absorbent Core）、Topsheet（面层）
+- 方法层：可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）（同属合规方法族）
+
+--- [[抗（抑）菌性能评价（杀菌率·抑菌率）]]  (1 句)
+   • 上位：GB 15979-2024（一次性使用卫生用品卫生要求）
+- 平行：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、环氧乙烷残留（EO Residue）
+- 湿巾分档：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+- 宣称限制：消毒产品标签宣称红线（中国 GB 38598-2020）（**「抗菌/抑菌」字样在湿巾标签上被禁**）
+

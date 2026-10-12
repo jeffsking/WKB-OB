@@ -1,0 +1,92 @@
+# SEED: 辐射冷却材料 Radiation Cooling
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Wearable Electronics (National Science Review 2023)
+#
+# 全库正文命中 37 页，48 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Wearable Electronics (National Science Review 2023)]]  (4 句)
+   • **可穿戴电子领域全景式客座社论**——系统综述两大主流方向（薄膜电子器件与纤维形态电子器件），介绍下一代电源系统、可穿戴显示、人工肌肉、摩擦纳米发电机、界面键合、热拉伸纤维、辐射冷却材料与表观电子学十大前沿方向，是了解可穿戴电子全貌的入口文献。
+   • **领域定位**：可穿戴电子是化学/物理/材料科学与工程/电气工程/生物医学工程的交叉多学科领域，近十年蓬勃发展。
+- **两大主流方向**：
+  1. **薄膜电子器件**：减小一个维度尺寸→最薄化→最佳柔性（软聚合物电极/活性层，或刚性材料设计成波浪结构）
+  2. **纤维形态电子器件**：进一步减小两个维度→可编织成高柔性透气纺织品→可水洗数百次→如普通衣物
+- **特种专题 10 篇论文**：
+  - 4 篇前瞻：下一代电源系统（Joseph Wang; Ye Zhang & Peter G. Bruce）、可穿戴显示技术（Zhenan Bao; Huisheng Peng）
+  - 1 篇研究：人工肌肉材料（Xiang Zhou; Zunfeng Liu）
+  - 4 篇综述：摩擦纳米发电机（Zhong Lin Wang）、界面键合策略（Xiaodong Chen）、热拉伸纤维（Wei Yan）、辐射冷却材料（Cheng-Wei Qiu; Guangming Tao）
+  - 1 篇访谈：表观电子学（Enming Song 采访 John A. Rogers）
+- **市场
+   • **薄膜化与纤维化是两大主流**——薄膜（减小一个维度）与纤维（减小两个维度）是可穿戴电子的两个互补发展方向。
+- **纤维形态电子器件可水洗数百次**——电子纺织品的可洗性是区别于传统电子器件的关键特性。
+- **摩擦纳米发电机（TENG）是无源传感器的重要方向**——Zhong Lin Wang 综述的自供电传感器对智能纺织品/卫生用品传感有直接意义。
+- **辐射冷却材料是新兴方向**——Cheng-Wei Qiu & Guangming Tao 综述的辐射冷却对可穿戴热管理有潜力。
+- **表观电子学（John A. Rogers）**——表皮级柔性电子是可穿戴电子的终极形态。
+   • Wearable Electronics (National Science Review 2023)
+- 可穿戴传感器 Wearable Sensor
+- 电子纺织品 E-textile
+- 摩擦纳米发电机 TENG
+- 辐射冷却材料 Radiation Cooling
+- 柔性电子 Flexible Electronics
+
+--- [[GHC（福建冠泓·冠和）]]  (3 句)
+   • **Product family 产品族**: spunbond / air-through nonwovens（源：GHC 福建冠泓·冠和 公司介绍（KC 2026））。
+- **Four differentiation platforms 四条差异化技术平台**（源：GHC 福建冠泓·冠和 公司介绍（KC 2026））：
+  - Softness 柔软
+  - Embossing 压花
+  - Elasticity 弹性 —— via the **SEBS zero-adhesive route**（SEBS 零胶路线）
+  - Cooling 凉感 —— via the **microcapsule PCM dip-coating route**（微胶囊 PCM 浸涂路线）
+- Same-batch peer suppliers（list co-occurrence, not the same company）：锦琪昶（KSC, King's Choice）、SDHY Group（非织造布）（源：锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03））
+   • **The customer list is supplier self-reported**（自述含 P&G、KC、恒安、维达、稳健、豪悦等）and **does not equal a cooperative relationship**；commercial statements must be independently verified（源：GHC 福建冠泓·冠和 公司介绍（KC 2026））。
+- Technology positioning: elasticity is presented via an SEBS zero-adhesive route and cooling via a microcapsule PCM dip-coating route, which is what differentiates GHC from generic air-through nonwovens（源：GHC 福建冠泓·冠和 公司介绍（KC 2026））。
+- No prices or contract terms on this page；quantitative comme
+   • Actual relationship with KC（supplier / partner / competitor）——。
+- **Quantitative performance** of the SEBS zero-adhesive elasticity route and the PCM dip-coating cooling route（e.g. elastic recovery, cooling ΔT）—— not given in this digest。
+- Grade table, capacity, site breakdown and certification status 。
+
+--- [[Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing]]  (2 句)
+   • **Cooling rate → structure → properties 冷却速率决定结构（滚塑）**：
+   • 1. **Fiber extrusion 是纺粘/熔喷的硬件基础.** "hundreds of continuous filaments extruded from the same die and drawn to hair-sized thickness"（p.285）直接描述熔体纺丝；"crimped for added bulk or made into staples" 对应短纤→针刺/热风非织造路线。但**拉伸比、冷却气流、纺丝甬道等专有参数本章未覆盖**。参见 Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes、Handbook of Nonwovens。
+2. **Die swell 与熔喷模头设计.** 熔体黏弹性导致的模口膨胀（p.285）直接决定熔喷纺丝孔出口的初始纤维直径与射流稳定性 —— 这是"口模孔径 ≠ 纤维直径"的根因。参见 Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Pro
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (2 句)
+   • **框架**：**MENSTRUAL / BLADDER LEAKAGE / INTIMATE HEALTH & WELLNESS**，沿 **Puberty → Period → Sexual experience → Baby → Menopause** 的人生阶段展开；品牌对应 **Kotex（经期）／Poise（膀胱渗漏）／Depend（…）／Intimus（私处健康）**。
+- **三大全球关键词**：**RESPONSIVE**（2D & 3D contour、flexible、breathable、soft、gentle、body-conforming fit；Advanced Freshness = odor-elimination、cooling/thermo-regulation、clean & dry feel、moisture-wicking）／**NO FEEL**（seamless、weightless、moves with the body、thermo-balancing、skin-soothing）／**INTIMATE WELLNESS**（rest
+   • **POD（功能差异点）**：**Most responsive comfortable protection**；**POP（共同点）**：Leakage protection、Clean and dry、Safe for her body、Environmentally safe。
+- **RTB（相信理由）**：**解剖学导向的产品设计**（3D dimples、bodyside lines/pleats、"barely there" layer）／**响应身体的技术**（cooling、anti-bac）／**倡导行动**（She Can Initiative）／端到端设计。
+
+--- [[Introduction to Liquid Crystals]]  (2 句)
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+   • **Transition temperatures 相变温度（DSC, cooling 5 °C/min）**
+
+--- [[Smart Fabrics and Networked Clothing]]  (2 句)
+   • **Opening** — garments as transmitters, sensors or energy harvesters, potentially cloud-connected; target applications are first responders, military, miners, industrial workers; framed against today's fitness wristbands as the precursor of networked clothing. Includes a substantial section on downside risk: garments can always be exploited by hackers, body surveillance erodes privacy, and switching the fabric off "may not be sufficient, since the entire garment may act as an antenna."
+- **Poten
+   • 1. **Property headline.** CNTs rated at elastic modulus >1 TPa (diamond 1.2 TPa), thermal conductivity ~2× diamond, current-carrying capacity 1,000× copper wire, single-walled strength 10–100× the strongest steel at a fraction of the weight.
+2. **The integration thesis.** Achieving seamless, invisible electronics means producing fibres with electronic function **without compromising strength, comfort and aesthetic appeal** — stated as the core challenge, and one that forces a redesign of antenna
+
+--- [[Thermal bonding]]  (2 句)
+   • Chapter 6 (A. Pourmohammadi) presents thermal bonding as web consolidation via heating a thermoplastic component to its softening/melting point then cooling — eliminating externally applied chemical adhesive in many cases, and the dominant route for diaper topsheet/ADL and many wipes.（中文：第 6 章讲热粘合——加热热塑组分至软化/熔融后冷却成布，多数情况免去外添化学粘合剂，是纸尿裤面层/导流层与多数拭布的主导工艺。）
+   • It opens with the historical origin (Reed, 1942) and the energy/environment shift away from latex bonding, then surveys raw materials: binder fibres, bicomponent (conjugate) fibres, polymeric powder binders, with Tg/Tm tables.（先讲起源（1942 Reed）与节能/环保驱动，再列原料与玻璃化/熔融温度表。）
+- The core systematically treats four heat-transfer routes: calender (conduction, area/point bonding), through-air/impingement (convection), and thermal-radiation/IR plus ultrasonic bonding.（核心梳理四种传热路径：轧光（传导）、热风/冲击（对流）、热辐射/红外与超声波。）
+
+
+--- [[Thermoelectric Polymer Materials ZT Figure of Merit and PGEC]]  (2 句)
+   • Bridge quotes 桥接句：
+> "This approach works especially well in highly covalent semiconductor materials based on clathrates (Si, Ge, or Sn) and void structures formed by heavy elements..." (728–730)
+> "Several automotive applications are beginning to use thermoelectric materials either for climate-controlled cooling in automotive cabins or for waste heat recovery from automobile exhaust systems." (837–839)
+   • Not directly relevant. 本综述讨论的是无机热电半导体与废热发电/固态制冷器件，与纸尿裤芯体、SAP、无纺布、热熔胶无直接技术接口。仅有的间接价值：
+1. **智能卫品的可穿戴供电概念**：人体皮肤约 33°C 与环境约 20°C 的温差可驱动柔性 TE 发电（报告模块 5.2 的推论，非原文数据），若未来在纸尿裤集成湿度/温度传感器，TE 自供电是一条免电池路径；但原文明确效率 <10%，短期不具备量产经济性。
+2. **局部制冷/温控纺织**：原文 "small-scale, localized cooling" 与 "seat coolers for comfort" 可对应温控服装方向，与卫品的热舒适诉求有弱关联。
+结论：本页对当前卫材研发**不构成可落地输入**，保留作为智能卫品（传感 + 自供电）方向的技术背景资料。
+
+--- [[Airy Window（腰围透气窗）]]  (1 句)
+   • 1. **消费者痛点**：腰围区闷热与湿气积聚是皮肤刺激的前因（deck 的 Skin Light Boat 概念语境）。
+2. **结构方案**：unique waistband design with **breathable holes acting like mini windows**——腰围开孔提高空气流通（air circulation），即"窗口"不是涂层而是**结构性开孔**。
+3. **宣称口径**：Keep skin dry for up to **12 hours**，全天 breeze comfort and ventilation（deck 宣称，非本库实测）。
+4. **工程验证范围（GRD 支持，2026-06 口径）**：FEI owner Du Tingting × GRD Chadwick Choy；支持焦点 = breathable waistband · **die-cut 工艺** · speed & safety validation（高速产线上的开孔安全与速度）· breathability concept win；TRL4 目标 **2
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (1 句)
+   • **Manufacturing / inbound checks in the family (2021).** Delivery moisture is measured by the **「恒重法」 (constant-weight method) rather than a fixed-time method** — the 0.1% criterion matters more than the 4 h period; desiccator cooling for 15 min with tinfoil covering are the two key anti-reabsorption steps（源：GBT28004.1-2021纸尿裤中交货水分的测定.doc）。Sampling representativeness is **2 包 × 1 片 × 2 组平行**（源：GBT28004.1-2021纸尿裤中交货水分的测定.doc）。
+

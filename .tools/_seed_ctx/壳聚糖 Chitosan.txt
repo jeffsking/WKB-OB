@@ -1,0 +1,91 @@
+# SEED: 壳聚糖 Chitosan
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Research Advances in Superabsorbent Polymers (Polymers 2024)
+#
+# 全库正文命中 36 页，61 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]  (7 句)
+   • A consolidated report on chitosan and chitosan fibre: core properties, modification and preparation routes, and application status across diapers/sanitary products, wound dressings, water treatment, food packaging and textiles. （中文：壳聚糖及壳聚糖纤维的技术与应用总结报告——核心特性、改性/制备工艺，以及在纸尿裤与卫品、医用敷料、水处理、食品包装与纺织中的应用现状。）
+   • Chitosan is positioned here as a **bio-based functional material whose value is antibacterial + skin-friendly + biodegradable**, rather than an absorbent. For diapers the realistic entry point is the **skin-contact topsheet** (and active-care positioning), not the core — consistent with its modest absorbency role in the literature cited.
+   • Two engineering routes recur: (a) **gel-on-fibre** — chitosan gel thermally spray-bonded onto PET fibre to give fast uptake, lock-in, anti-rewet and antibacterial behaviour in one fibre; (b) **three-layer antibacterial superabsorbent** — breathable kapok/bamboo skins enclosing a chitosan-acrylic acid/alginate microsphere core, explicitly designed to fix the "wet → no breathability" failure mode.
+   • 1. **壳聚糖凝胶强吸水纤维**：壳聚糖化学改性引入可聚合基团 → 与丙烯酰胺等单体聚合形成支化网络凝胶 → 热喷粘附于 PET 纤维表面，集快吸、锁水、防反渗、抗菌、可降解于一体。
+2. **壳聚糖基抗菌高吸水材料（三层）**：上下表层为木棉纤维/竹纤维/改性蒙脱土/PVA 高透气层；中间层为壳聚糖与丙烯酸缩聚交联后复合海藻酸的抗菌高吸水微球；木棉改性后水接触角可达 **160°**。解决吸后透气性下降与缺抗菌。
+3. **壳聚糖微凝胶化**：与 BC 等交联制备粒径可调微凝胶/纳米凝胶，作缓释载体（抗菌剂、药物、香精、护肤活性成分）。
+
+--- [[CN 114044919 A（TEMPO氧化纳米纤维素基复合水凝胶及制备方法·陕西科技大学）]]  (4 句)
+   • A university application（高校申请）for an **all-physical double-network, bilayer hydrogel** of PVA / chitosan / TEMPO-oxidized CNF（聚乙烯醇/壳聚糖/TEMPO氧化纳米纤维素）— mechanically reinforced and antibacterial without any chemical crosslinker. 对本库的价值是**纳米纤维素在软湿材料中的增强与抑菌证据**，而非直接的结构专利对标。一件绿色双网络水凝胶申请，可作为纳米纤维素应用图谱的补充证据。
+   • 1. **Network 1（第一重网络）**：chitosan 0.5–2.5 wt% + PVA 1–10 wt% dissolved in 0.1–2 vol% acetic acid at 85–100 °C; TOCNF solution (1–5 wt%) added at RT; electrostatic (NH3+/COO−) + H-bond crosslinking; freeze −30~−10 °C for 1–2 h.
+2. **Network 2（第二重网络）**：2–10 wt% PVA solution poured onto the gel surface; freeze 12–24 h, thaw at RT → PVA crystallite domains（结晶微区）form the second physical network.
+3. **Evidence（实验证据）**：adhesion to Cu/wood/Si/foam/Ti/skin; compression holds a 500 g weight; interlayer ten
+   • **无化学交联剂的双网络是本申请唯一方法论卖点**——交联全部靠静电+氢键+冷冻结晶 → 双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）
+- **TOCNF 的羧基是静电交联的官能团来源**，与 CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院） 中「氨基化 CNC 接枝」同属"纳米纤维素表面化学驱动功能化"路线 → 纳米纤维素（CNC、CNF、BNC）
+- **壳聚糖侧承担抑菌功能**，与 CN117024899A 的抗菌成分谱（壳聚糖/PHMB）重合 → 纳米纤维素（CNC、CNF、BNC）
+   • Concept 概念：双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）、纳米纤维素（CNC、CNF、BNC）
+- Entity 实体：陕西科技大学
+
+--- [[CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）]]  (4 句)
+   • A 2025 Chinese manufacturer application claiming an **adult-diaper hybrid core**（成人纸尿裤复合芯层）that blends acrylic SAP with **PAM microspheres + quaternized chitosan + a three-component modifier** to attack the salt-tolerance（耐盐）and gel-blocking problems at the core-recipe level rather than the SAP-particle level. 对本库的意义：提供了「芯层配方级耐盐改性」的量化对比表（去离子 272 vs 生理盐水 56 g/g 的同样品双口径），是**DI 口径与盐水口径差距的直接量化证据**。
+   • 1. **配方（重量份）**：SAP 50–60 / PAM 微球 20–30 / 季铵化壳聚糖 20–30 / 改性剂 10–15 / 催化剂 1–5（次亚磷酸钠:过硫酸钾 = 1:0.5–1.5）。
+2. **改性剂三元比**：酒石酸 : 2-丙烯酰胺-2-甲基丙磺酸（AMPS）: N,N'-双(丙烯酰)胱胺 = 1:(2–3):(1–1.5)；三组分分别承担氢键增强、耐盐、补充交联。
+3. **芯层工艺**：乙醇分散（70–80 vol%，2–3 倍量）→ N2 → pH 3–4 → 50–60 °C 1–2 h → 模塑 80–90 °C → 干燥 100–120 °C 10–20 min。
+4. **整机工艺**：热熔胶 2–4 g/m² 双面涂布 → 热压 130–150 °C / 0.3–0.5 MPa → 裁切折叠压边 → 两侧弹性侧封（20–30 wt% 氨纶无纺布）。
+   • **「吸尿≈吸水 1/10」的背景陈述是本申请的问题定义**——表 1 的 DI 272 vs 盐水 56 g/g（约 1/5）给出量化锚点 → SAP性能指标（CRC AUL GBP Vortex）
+- **三元改性剂缺一即崩**（盐水倍率 56→31–36，反渗 0.32→~1.2 g）说明其体系高度依赖组分协同，配方鲁棒性存疑 → 季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）
+- **PAM 微球当储水单元+防凝胶堵塞**，与库内「SAP 错峰膨胀」「多层芯体」思路同属空间分区策略 → SAP错峰膨胀
+   • Concept 概念：季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀
+
+--- [[Chitosan Fibre（壳聚糖纤维）]]  (3 句)
+   • 1. **抑菌来源**：分子链上的**氨基（–NH₂）**赋予天然抑菌性，可抑制大肠杆菌、金黄色葡萄球菌等常见菌；宣称 50 次洗涤后仍保持抗菌率（厂商宣称，未附协议）。（壳聚糖及壳聚糖纤维技术与应用总结报告）
+2. **亲肤与安全**：与人体组织亲和，无毒、无免疫原性、对皮肤无刺激，适合做皮肤接触层。（同上）
+3. **多孔网络成膜**：吸湿性好且能形成多孔网络结构，因此可作**吸液与保湿载体**，也是微凝胶化的结构基础。（同上）
+4. **可修饰性**：氨基/羟基是「分子挂钩」，可化学改性引入可聚合基团，进而与丙烯酰胺等单体聚合形成支化网络凝胶。（同上）
+5. **复合获得吸水**：单独壳聚糖纤维不承担吸收主力；吸水通过与 **PET 纤维热喷粘附**、或与 **丙烯酸缩聚交联 + 海藻酸**形成抗菌高吸水微球来实现。（同上）
+6. **与 BNC 的耦合**：BC:壳聚糖 = 10:90 (v/v) 是已验证的微凝胶配方，壳聚糖在此承担包封与缓释载体角色。（纳米纤维素供应商拜访计划 V3.1（2026Q2））
+   • **教训一（定位）**：把壳聚糖当「吸水材料」评估会得出负面结论；正确问法是「哪个位点需要**天然抑菌 + 亲肤 + 可降解**」——答案是**面层与功能涂层**，不是芯体。
+- **教训二（工艺）**：壳聚糖很少单独成纤承担结构载荷，实际路线是**附着于既有纤维**（热喷粘附 PET）或**做成微球/微凝胶**嵌入复合结构；立项时应按「功能添加剂」而非「基材」管理。
+- **教训三（宣称管理）**：抗菌率与洗涤耐久性是卫品宣称的高风险区，须以定量方法（AATCC 100 一类）复核，不能直接引用厂商数字。
+- **待补 **：壳聚糖纤维的纤度/强度与可纺性；热喷粘附层的耐摩擦与耐洗涤实测；壳聚糖与 SAP/绒毛浆体系的相容性；皮肤刺激性与致敏性数据；壳聚糖纤维的价格带与供应集中度。
+   • 壳聚糖及壳聚糖纤维技术与应用总结报告 —— 
+- 纳米纤维素供应商拜访计划 V3.1（2026Q2） —— （BC:壳聚糖 10:90 微凝胶配方）
+
+--- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]  (3 句)
+   • 一份 **IMA 会话型资料**（multi-turn Q&A dump）：把「纸尿裤结构与品牌差异」「ADL（Acquisition & Distribution Layer，导流层）与 REL（Reception and Transfer Layer，收集/传递层）辨析」「吸收芯体新材料（SAF / bioSAP / PLA-PHA）」以及一份**壳聚糖纤维报告**混编在同一文件内。**用途是线索表与参数核对起点，不是可引用的结论源**。
+   • 资料主体由四个可分离的板块构成。**板块 A｜基础结构**：纸尿裤由表层、导流层、吸收芯层、底膜四大层加闭合系统、立体防漏护围、尿显条等辅助部件构成，一片成品约涉及近 20 种原材料；芯体口径分流为**混合芯体（绒毛浆 + SAP）**与**复合芯体（无尘纸 + 蓬松无纺布 + SAP）**。**板块 B｜ADL 与 REL 辨析**：REL 为事后第一道防线，靠低密度大孔径"容得下、不塌陷"承接瞬间涌流；ADL 为事后枢纽，靠中等密度定向孔径"导得快、分得匀"实现纵向扩散；两者在高端产品中常被密度梯度设计合并为一层。提升 ADL 效率的三条杠杆分别为高低旦尼尔分层、**增设熔喷转向层**、以及**冲压漏斗形贯通孔**形成单向阀效应。**板块 C｜芯体新材料与工艺**：SAF（超吸水纤维）与 RCF（再生纤维素纤维）梳理-针刺混纺芯体（SR-2，SAF 60%）、bioSAP 碳足迹降低 15–25%、PLA/PHA 包裹层、EAM "按需分布"多通道干法纸、以及**差异化超声波粘接蜂巢芯**（大王）与在线一体成型。**板块 D｜壳聚糖纤维报告**（2026-05-09）：此外该文件还
+   • 本地路径 Local path：
+- 原文链接 Original link：（无；IMA 会话导出 sessions）
+- 混入内容 Interleaved content：①「壳聚糖及壳聚糖纤维技术与应用综合报告」（报告日期 2026-05-09）② REL 在冶金/焊接语境下的释义（与本库语境无关，已标注歧义）
+
+--- [[AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体]]  (2 句)
+   • 1. 尿液的 Na⁺/Ca²⁺ 等阳离子会压缩聚丙烯酸网络的双电层，抑制渗透压吸水（盐敏性 salt sensitivity）。
+2. AMPS 的 —SO₃H 在宽 pH 下完全电离，受盐离子屏蔽影响远小于 —COOH，共聚后维持网络内外渗透压差。
+3. 在阳离子型聚合物（如季铵化壳聚糖）存在时，磺酸基可与季铵基形成**离子对**，把耐盐性与网络稳定性绑在一起。
+   • 相关：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）、蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）
+
+--- [[两性离子高吸水树脂（纤维素接枝耐电解质）]]  (2 句)
+   • **0.9% NaCl 115 g/g（2005 年）**是库内纤维素系 SAP 中最高生理盐水口径之一，可作为「两性化收益」的量化锚点 → SAP性能指标（CRC AUL GBP Vortex）
+- 库内阳离子相关路线：季铵化壳聚糖复合芯层（季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系））走的是**复合**路线；本概念走**共聚**路线——两者机理同源（阳离子基团）但实现层级不同。
+- 卫生用品应用提示：耐电解质直接对应**含盐体液（尿）中的有效吸量**，与 AUL/生理盐水口径正相关；来源未记载皮肤刺激性/细胞毒性数据 → 安全性 。
+   • SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、Biodegradable SAP（可降解高吸水树脂）、季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）
+- Source 来源：CN 1330679 C（两性离子高吸水树脂及其制备方法·中国林科院林化所）
+
+--- [[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]  (2 句)
+   • 1. **第一重网络**：乙酸体系中壳聚糖/PVA/TOCNF 共溶，静电+氢键成胶；−30~−10 °C 冷冻 1–2 h 定型。
+2. **第二重网络**：在胶面倾倒 2–10 wt% PVA 溶液，再冷冻 12–24 h、室温解冻，PVA 结晶微区成第二网络并形成双层。
+3. **不对称功能**：壳聚糖侧抑菌（大肠杆菌/金葡 0 CFU/mL vs 纯 PVA 层 8 CFU/mL），PVA 侧力学增强；层间结合耐 ~188.9% 拉伸不分层。
+   • 相关：纳米纤维素（CNC、CNF、BNC）、抗菌除臭高吸水树脂（CNC 载体双功能 SAP）（同为壳聚糖抗菌谱）
+- 应用定位：专利自述面向医药卫生、生物传感；本库无芯体场景实测数据。
+
+--- [[水凝胶 Hydrogel]]  (2 句)
+   • **SAP 是干态水凝胶。** SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，可用同一网络科学框架建模；常用骨架为聚丙烯酰胺（PAM）、聚丙烯酸（PAA），生物基路线为纤维素、淀粉、壳聚糖、海藻酸钙（源：Hydrogel-based Superabsorbent Polymers）。
+- **性能四参量调控。** 交联密度（低→吸水高但稳定性差；高→保水好但吸水受限，**存在最优值**）、亲水基团分布、离子强度（高离子强度降低吸水性）、温度（部分水凝胶具温度响应性）（源：Hydrogel-based Superabsorbent Polymers）。
+- **吸水速率先受粒径控制。**  预测有效半径减半 ⇒ 摄入快约 4 倍；当摄入速度或回渗是失败 KPI 时，应据此设定 PSD 档位（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+- **盐水敏感性是可比性红线。** 盐水中 Na⁺ 与网络 −COO⁻ 静电结合，减少可用于氢键的离子化基团，同一样品吸收相比纯水下降三倍以上（源：Citric Acid Crosslinke
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[陕西科技大学]]  (2 句)
+   • **2026-09-29**：入库两件发明专利申请——**CN 101787101 A**（2010，CMC/丙烯酸/OMMT 纳米复合高吸水树脂，发明人 马建中 鲍艳 李娜，代理机构 西安通大专利代理有限责任公司 61200）与 **CN 114044919 A**（2021，PVA/壳聚糖/TEMPO-CNF 双物理交联网络水凝胶，发明人 戴磊 李紫秀 贺瓶 王晓婉 王建 倪永浩）。两件均为申请公布（A）文本，授权状态 。
+   • 蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）、双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）、Biodegradable SAP（可降解高吸水树脂）、纳米纤维素（CNC、CNF、BNC）
+

@@ -1,0 +1,29 @@
+{
+  "batch": "p1_Manufactured_Fibre_Technolog_01",
+  "book": "Manufactured_Fibre_Technology",
+  "done": [
+    "Manufactured Fibre Technology Ch01 Introduction.md",
+    "Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres.md",
+    "Manufactured Fibre Technology Ch03 Fluid Flow in Fibre Spinning.md",
+    "Manufactured Fibre Technology Ch04 Melt-Spinning Processes.md",
+    "Manufactured Fibre Technology Ch05 Computer Simulation of Melt Spinning.md",
+    "Manufactured Fibre Technology Ch06 Solution Spinning Processes.md",
+    "Manufactured Fibre Technology Ch07 Spin Finishes.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Manufactured Fibre Technology Ch01 Introduction.md",
+      "issue": "原书 Table 1.3（p.7 世界产量统计）OCR 乱码，产量结论仅依赖 p.8 正文叙述；页面已标注 [待验证]，需回查原书核对。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch05 Computer Simulation of Melt Spinning.md",
+      "issue": "PET 零剪切粘度关联式 (5.5) 指数项 OCR 变形（原文 (IV)^5.28⁹³），且物性数据来自作者私人通讯、IV>0.9 时粘度被低估；定量外推至聚烯烃体系前需重新标定。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch06 Solution Spinning Processes.md",
+      "issue": "纺丝拉伸比关系式原文写作 V_L/V_0 = d_0⁶/d_L⁶（p.126），指数疑为平方关系，已标注 [待验证]；另引用数据多为 1967–1995 年二手文献。"
+    }
+  ],
+  "count": 7
+}

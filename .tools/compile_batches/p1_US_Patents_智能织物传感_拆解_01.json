@@ -1,0 +1,31 @@
+{
+  "batch": "p1_US_Patents_智能织物传感_拆解_01",
+  "book": "US_Patents_智能织物传感_拆解",
+  "root_file_rel": null,
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US10905605_吸收制品传感_拆解.md.md",
+      "bytes": 10964
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US11013641_失禁传感_拆解.md.md",
+      "bytes": 9608
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US20070270773A1_P&G热变色湿态指示_拆解.md.md",
+      "bytes": 12303
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US5197958_纸尿裤湿态指示_拆解.md.md",
+      "bytes": 16560
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US5389093_温度型湿态指示_拆解.md.md",
+      "bytes": 11835
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US8273939_P&G吸收制品_拆解.md.md",
+      "bytes": 9330
+    }
+  ]
+}

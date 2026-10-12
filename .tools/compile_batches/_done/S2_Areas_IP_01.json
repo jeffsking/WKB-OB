@@ -1,0 +1,16 @@
+{
+  "batch": "S2_Areas_IP_01",
+  "stage": "S2",
+  "block": "Areas/IP",
+  "source_pages": [],
+  "concept_pages": [
+    "Informational Image on Pull-On Article（可穿脱制品信息图形）"
+  ],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [
+    "Informational Image on Pull-On Article（可穿脱制品信息图形）"
+  ],
+  "notes": "本批 10 个 item 的 source_path 在 WIKI/sources/ 均已有对应页（10/10 命中），依「跳过重编译」规则全部跳过，未覆盖任何既有页：11_EP2456819B1→EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)；四-3_Underpants-style→US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)；四-2_Pant-type→US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)；WO2010071584A1.pdf.md 与 US9162007.pdf.md 与 US9162007 (1).pdf.md 三件已合并于 WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)；21_EP0820747A1→EP0820747A1 Absorbent Article with Elastic Feature (P&G)；15_US11878492B2→US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)；NEW SAP idea→Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)；US10905605→US10905605B2 Pull-On Wearable Article with Informational Image (P&G)。仅按需补派生页 1 份：Informational Image on Pull-On Article（可穿脱制品信息图形）——补的是 US10905605 既有源摘要页 pages_linked 中指向但实际不存在的派生页；内容全部取自该源摘要页已摘录的专利要点，未新增未经来源支持的参数。⚠️ FTO 边界：该专利（US 10,905,605 B2，2021-02-02 授权，受 terminal disclaimer 约束）授权范围仅 3 项且被限定为「手形图形 + 开孔纹理」组合，是否可自由实施属新结论，AI 不作判断，已在概念页标 manual_review（2026-09-29）。另发现 4 处既存断链未在本批处理（属历史遗留，移交§5治理）：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）、Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）、Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）、EP1581159B1 Method for Producing Diaper Pants（弹性片材）——其中前三者拟在 S2_Areas_IP_03/04 取得新来源后补齐，EP1581159B1 将在 03 批编译时以该名称建源摘要页以消解断链。"
+}

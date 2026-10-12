@@ -1,0 +1,85 @@
+# SEED: 达西定律 Darcy's Law
+# type: concept | 原引用数: 10
+# 原 Cited by 列表:
+#   - Absorbent Product Testing
+#   - Absorbent Technology
+#   - Acrylic-Based Superabsorbent Polymers
+#   - Characterisation, testing and modelling of nonwoven fabrics
+#   - Computational Modeling in Absorbent Technology
+#   - Fibers and Fibrous Materials
+#   - Fluid Absorption in High Bulk Nonwovens
+#   - Liquid Flow in Porous Structures
+#   - Nonwovens in Absorbent Materials
+#   - Porous Structure and Liquid Flow Models
+#
+# 全库正文命中 9 页，13 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Absorbent Technology]]  (3 句)
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • 1. **多孔介质流动理论**：Péclet 数判据、达西定律、Washburn/Lucas-Washburn 方程、毛细压力与 Kelvin 方程——吸液动力学的物理基础，直接对接  仿真接口。
+2. **表面化学第一性原理**：接触角/润湿指数/附着功/Wilhelmy 湿附力法——决定纤维与结构能否有效吸液的材料选择先决条件。
+3. **核心 C/Q 模型**：芯体容量（Capacity）与释放速率（Release rate）的定量关联——超薄芯体设计的核心权衡。
+4. **SAP 谱系两极**：纤维素基（Ch7，Kimberly-Clark 磷烷基工艺）与丙烯酸基/水凝胶基（Ch8–9）——配方侧完整参考，含 2016/2022 综述更新。
+5. **非织造四要素与工艺矩阵**：纤维→排列→粘合→整理因果链；airlaid / spunbond / meltblown / spunlace / SMS 工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配。
+6. **三层功能模型**：Acquisition–Distribution–Ret
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[Liquid Flow in Porous Structures]]  (2 句)
+   • Absorption is driven primarily by **capillary pressure** (p_c = 2γcosθ/r); externally imposed gravity or pressure plays only a secondary role (p. 19).
+- Flow in porous media follows **Darcy's law** (q = -K·∇P, K = k/μ) and, under unsteady conditions, is mathematically identical to a diffusion process; the advancing wicking front distance obeys **x_v ∝ t^(1/2)** (Washburn / Rudd relation, p. 24, 37).
+- The **diffusivity factor** F(s) = (k/μΦ)(dp_c/ds) links permeability and capillary gradient; a 
+   • 父书 Parent book：Absorbent Technology
+- 概念 Concepts：SAP（高吸水树脂）、吸收芯体、ADL（导流层）、毛细压力 Capillary Pressure、达西定律 Darcy's Law、孔隙率 Porosity、绒毛浆（Fluff Pulp）、回渗 Rewet
+
+--- [[Porous Structure and Liquid Flow Models]]  (2 句)
+   • **Driving force.** "The driving force for absorption of the bulk of the liquid into an absorbing material, which is in most cases a porous medium, is the capillary pressure" (p. 19); gravity/pressure are secondary.
+- **Unsteady flow = diffusion.** "Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process" (p. 36). The governing PDE is ∂s/∂t = ∇·[F(s)∇s], where F(s) = (k/μΦ)(dp/ds) is the diffusivity factor (soil-physics "moisture diffusivity").
+- **The 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、毛细管压力 Capillary Pressure、孔隙率 Porosity、渗透率 Permeability、SAP（高吸水树脂）、Gel Blocking（凝胶阻塞）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 相关章节/页面：Absorbent Technology Introduction、Characterisation, testing and modelling of nonwoven fabrics（测试与建模）、Chemical bonding（粘合剂容量税）、Dry-laid web formation（气流成网孔径）
+
+--- [[Absorbent Product Testing]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：Wilhelmy 湿附力法 · 达西定律 Darcy's Law · 回渗 Rewet · 湿态压缩模量 · WRV 水保留值 · Klemm 法
+- 相关章节：Nonwovens in Absorbent Materials · Products and Technology Perspective · Computational Modeling in Absorbent Technology
+- 标准组织：ASTM · AATCC · INDA · TAPPI · EDANA · Scan-C
+
+--- [[Acrylic-Based Superabsorbent Polymers]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：SAP（高吸水树脂） · 交联密度 Crosslink Density · 生物基单体 Bio-based Monomer · Flory- Rehner Theory · 吸收芯体 · 达西定律 Darcy's Law
+- 相关章节：Cross-linked Cellulose and Its Derivatives · Polyolefin Absorbent Materials · The Role of Surfactants
+- 仿真接口：交联密度→Flory-Rehner 溶胀模型（ 参数接口）
+
+--- [[Characterisation, testing and modelling of nonwoven fabrics]]  (1 句)
+   • 父书：Handbook of Nonwovens
+- 概念：回渗 Rewet、ADL（导流层）、吸收芯体、孔隙率 Porosity、达西定律 Darcy's Law、毛细芯吸 Capillary Wicking
+- 关联章节：Thermal bonding、Chemical bonding、Nonwoven fabric finishing
+
+--- [[Computational Modeling in Absorbent Technology]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+
+--- [[Nonwovens in Absorbent Materials]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+

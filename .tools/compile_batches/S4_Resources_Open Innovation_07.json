@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md",
+   "name": "One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md",
+   "title_hint": "One_Drum_Two_Ups_11_Sizes_1000ppm.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner-Surge Pathway - Feb 2023.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner-Surge Pathway - Feb 2023.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner-Surge Pathway - Feb 2023.pptx.md",
+   "name": "Liner-Surge Pathway - Feb 2023.pptx.md",
+   "title_hint": "Liner-Surge Pathway - Feb 2023.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Strategic Roadmap_ Commerciali....pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Strategic Roadmap_ Commerciali....pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Strategic Roadmap_ Commerciali....pdf.md",
+   "name": "Strategic Roadmap_ Commerciali....pdf.md",
+   "title_hint": "Strategic Roadmap_ Commerciali....pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet.pptx.md",
+   "name": "2025.04.04 - Discover-DC Connect - Depend Rewet.pptx.md",
+   "title_hint": "2025.04.04 - Discover-DC Connect - Depend Rewet.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/03_卫材产线约束常量表.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/03_卫材产线约束常量表.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/03_卫材产线约束常量表.md.md",
+   "name": "03_卫材产线约束常量表.md.md",
+   "title_hint": "03_卫材产线约束常量表.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/84-Sleeve工程规格与换装防错设计.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/84-Sleeve工程规格与换装防错设计.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/84-Sleeve工程规格与换装防错设计.md.md",
+   "name": "84-Sleeve工程规格与换装防错设计.md.md",
+   "title_hint": "84-Sleeve工程规格与换装防错设计.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v11_simulation_report_20260708.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v11_simulation_report_20260708.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v11_simulation_report_20260708.pdf.md",
+   "name": "v11_simulation_report_20260708.pdf.md",
+   "title_hint": "v11_simulation_report_20260708.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/85-双层pattern芯体套准工程规格.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/85-双层pattern芯体套准工程规格.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/85-双层pattern芯体套准工程规格.md.md",
+   "name": "85-双层pattern芯体套准工程规格.md.md",
+   "title_hint": "85-双层pattern芯体套准工程规格.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Global Overview_ Intake Workshop.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Global Overview_ Intake Workshop.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Global Overview_ Intake Workshop.pptx.md",
+   "name": "Global Overview_ Intake Workshop.pptx.md",
+   "title_hint": "Global Overview_ Intake Workshop.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/photochromic-supplier-report-2026-08-03.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/photochromic-supplier-report-2026-08-03.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/photochromic-supplier-report-2026-08-03.docx.md",
+   "name": "photochromic-supplier-report-2026-08-03.docx.md",
+   "title_hint": "photochromic-supplier-report-2026-08-03.docx"
+  }
+ ]
+}

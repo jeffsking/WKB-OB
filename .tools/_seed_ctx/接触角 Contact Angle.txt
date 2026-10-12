@@ -1,0 +1,141 @@
+# SEED: 接触角 Contact Angle
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#   - The Role of Surfactants
+#
+# 全库正文命中 170 页，239 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (4 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Section order（尺寸/形态类量）**：fineness 11.2, crimp 11.3, tensile properties 11.4, evenness 11.5, friction 11.6, shrinkage 11.7, entanglement 11.8（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Entanglement / opening length 缠结·开口长度**：opening length（distance between entanglement points）describes the temporary cohesion of an entangled yarn；methods include manual needle, automatic needle, electrostatic method（Obestat）, automatic thickness measurement（Itemat, Toray profilometer）；Stein's comparison [13] concludes Dynafil detects variation in polymerization, temperature and quench-air speed most effectively（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.267）。
+   • **Polymer-structure characterisation（Ch10）**：a two-phase structure（ordered / crystalline + disordered / amorphous）；five widely used techniques are density measurement, optical birefringence, X-ray diffraction, small-angle X-ray scattering and infrared spectroscopy（源：Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres，p.219）；the chapter says **nothing** about fluff pulp, SAP or absorbency measurement（源：Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibr
+
+--- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]  (4 句)
+   • Hard boundaries are then stated: chemical limits (100% BPA-free, zero formaldehyde, zero heavy metals) and a regulatory framework (ISO 10993 for cytotoxicity/irritation, REACH, FDA, GB/T 35613-2017); a caution that **some legacy technology contains trace formaldehyde** and requires strict auditing; and a mandatory rule of absolute zero back-transfer, visible colour bleeding or direct skin contact — the indicator lives **on the outer cover / backsheet window**, never in the skin-contact layer (to
+   • Chemical limits: 100% BPA-free, zero formaldehyde, zero heavy metals.
+- Regulatory: ISO 10993 (cytotoxicity / irritation), REACH, FDA, GB/T 35613-2017.
+- Mandatory rule: absolute zero back-transfer, visible colour bleeding, or direct skin contact; powder forms banned from skin layers until validated.
+- Caution: some legacy technology contains trace formaldehyde — strict auditing required.
+   • Stop asking "do you have a product?" and demand exact constraints: **performance** — can you hit a visible 30–37 °C reversible transition specifically on PE film or nonwoven substrates? **bleeding** — do you guarantee zero colour bleeding for liquid-exposure hydrochromics? **process** — what are your exact converting constraints (drying temperatures, lamination pressure, coating methods)? **safety** — do you have proven, documented non-skin-contact hygiene migration data? **logistics** — what ar
+   • **Conditional GO, dual-MVP, low-regret sequencing** —— 支撑页：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+- **Temperature and humidity must stay semantically separated** —— 支撑页：Diaper Microclimate
+- **Purity and non-skin-contact are non-negotiable hard boundaries** —— 支撑页：智能尿裤功能层、变色油墨
+- **Comprehension, not chemistry, decides the programme** —— 支撑页：Signal Comprehension Gate
+
+--- [[Mechanical bonding]]  (4 句)
+   • Chapter 5 completes the web-formation side by treating mechanical bonding — needlepunching, stitch-bonding and hydroentanglement — the family of consolidation methods that interlock fibres without adhesive, thermal or chemical binders.（中文：第 5 章讲机械加固（针刺、缝编、水刺），是不用粘合剂/热/化学粘合剂的纤维互锁成布方式。）
+   • It is organised into three technologies: stitch-bonding (Maliwatt/Malimo/Malipol), needlepunching, and hydroentanglement (spunlacing).（分三技术：缝编、针刺、水刺。）
+- The first two target durable/industrial goods; hydroentanglement is the growth engine most relevant to disposables.（前两者主攻耐用/工业；水刺是面向一次性用品的增长引擎。）
+- The hydroentanglement section supplies the equations (specific energy K, SE_c, jet impact force F ∝ p·d²), fibre-selection rules and in-situ microfibre routes (splittable bicomponents, Lyocell fibrill
+   • Hydroentanglement is high-velocity water-jet mechanical bonding — binder-free, lint-free, soft.（水刺为高速水射流机械加固，无粘合剂、不掉屑、柔软。）
+- K and SE_c are engineerable levers; lowering SE_c at fixed strength cuts water/power cost.（K 与 SE_c 可工程化调控，降 SE_c 即降本。）
+- Viscose/Lyocell (low wet modulus) entangle cheaply; PP/PET need hydrophilic finishes.（粘胶/莱赛尔易缠结，PP/PET 需亲水处理。）
+- High impact force unlocks premium microfibre routes (BICO split, Lyocell fibrillation).（高冲击力解锁微纤化高端路线。）
+   • 父书：Handbook of Nonwovens
+- 概念：水刺 Hydroentanglement、针刺 Needlepunching、莱赛尔 Lyocell、双组分纤维 Bicomponent、Topsheet（面层）
+- 关联章节：Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation
+
+--- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]  (4 句)
+   • The problem framing is explicit: diaper microclimate (heat and humidity) drives skin irritation, caregivers lack a visible cue for "when to act"; a consumer-visible reason-to-believe (RTB) for thermal comfort / wetness is differentiation beyond basic absorbency; existing wetness indicators show "wet" only and do **not** signal thermal comfort or humidity accumulation. Success is bounded — any solution must show measured benefit in **both** dry and wet states with no unacceptable trade-off on abs
+   • Mechanisms: thermochromic systems are **reversible leuco-dye microcapsules** (leuco dye + developer + solvent, stable below threshold, electron transfer / phase change at or above threshold, reversible on cooling) with a customisable 30–37 °C activation band and representative display points 32/34/36 °C; hydrochromic systems trigger on **liquid contact** (far more realistic than a true RH sensor). For MVP the review prefers the hot-melt route and treats water-based ink as the phase-2 differentia
+   • ISO 10993 (cytotoxicity / skin irritation / sensitisation), EU REACH (SVHC restriction + full substance declaration for the chromic layer), FDA guidance, China GB/T 35613-2017 & GB/T 36420-2018 hygiene-product safety baselines.
+- **Matsui Shikiso (松井) caution**: some legacy products contain trace formaldehyde and official guidance excludes baby direct contact → resolve baby-safety before any skin-adjacent use.
+- The indicator MUST sit on the non-skin-contact face (outer cover / backsheet window)
+   • **International (8 ranked by hygiene fit)**: CTI (Chromatic Technologies, USA) thermo/photo/hydro full range — primary thermo; Matsui Shikiso (Japan) thermo/photo leader (Chromicolor / Thermolock) — primary thermo with a formaldehyde caution; Bostik (Arkema, France) hot-melt wetness glue (90% bio-based) — primary wet; Henkel (Germany) TECHNOMELT — primary wet; H.B. Fuller (USA) Full-Care — primary wet; Intellego Technologies (Sweden) photochromic wetness indicator; OliKrom (France) custom thermo
+
+--- [[Nonwoven 非织造布]]  (3 句)
+   • **Position-based acceptance（按位置验收）：** the CN standard FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布） organises diaper-nonwoven acceptance by **in-diaper position** — topsheet, backsheet, leak cuffs, ADL, core wrap, waist/side-tape — rather than by process; every property is anchored to the GB/T 24218 test-method series（源：FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布））. **Fibre fineness is not monotonic** — US7195621B2 records that ultra-fine 0.5–2.5 µm meltblown lost both breat
+   • Nonwovens are the load-bearing substrate of every hygiene article layer in this vault: **topsheet（Topsheet（面层））**, **ADL（ADL（导流层））**, core wrap / SAP carrier（Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））, backsheet（Film-Free Backsheet（无膜背层）、Meltblown Nonwoven（熔喷非织造布））and elastic/laminates. The dominant hygiene process families — **热风无纺布（air-through）**, **纺粘 Spunbond**, **熔喷 Meltblown**, **水刺 Hydroentanglement** and their composites（SMS 纺粘熔喷复合、SMS复合结构）— draw on **双组分纤维 Bi
+   • Development of the nonwovens industry
+- Nonwovens in Absorbent Materials
+- Absorbent Technology
+- Handbook of Polypropylene and Polypropylene Composites
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)
+- Bicomponent Fibre Technology Development Trends
+- FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）
+- Ebewole Polymer Science Ch15 Polymer Properties and Applications
+- SMS 纺粘熔喷复合
+- 水刺 Hydroentanglem
+
+--- [[Washburn Equation]]  (3 句)
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[亲水整理耐久性]]  (3 句)
+   • **沟槽吸力的前提是低接触角**：，沟槽吸力 ≈40–50 kPa 是在 **θ→20°** 下算出的；**一旦 θ 在第 2/3 次冲击后回升到 60° 以上，沟槽吸力即归零**——"整理剂失效 = 截面白买"。见 Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、Groove Capillary Suction。
+- **整理过量同样是失效模式**：冲洗过度（too high finish / retention）会把液体**滞留在面层**，表现为"首次穿透快、但第 2/3 次回渗高"。见 Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive) 的重复冲击示意。
+- **首试建议**：3D 星形 PET 用**中等强度耐久亲水整理**；在回渗被标定之前，**贴肤侧 2D ES 不加额外亲水处理**。见 Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive
+   • **追加要点**：异形纤维的整理规格应把"**多次冲击后的接触角**"写进技术协议，而不是只写"亲水"二字。
+- **追加 **：耐久整理在沟槽纤维上的**添加量—接触角—吸力**三者的定量曲线；整理水平 ±1 档对回渗的实测影响。
+   • 1. **长期悬案被裁决** —— 此前本页登记的是"回渗↓ / 渗漏↑"的**权衡风险**（SIROCCO 教训、ATACAMA 上 AFC 见到渗漏上升、BCC 侧 HUT 未见差异）。本源用**两个 HUT 的直接对照**给出了边界：**无护翼 ⇒ 泄漏升高；有护翼 ⇒ 泄漏不升高**。
+2. **⇒ "降润湿性"不是不可用，而是有结构前提** —— **护翼（flap）存在时，降润湿性只带来回渗收益；护翼缺失时，回渗收益要以泄漏为代价。**
+3. **这说明权衡发生在系统层，不在材料层** —— **同一处理方式在两种产品结构上给出相反结果**；**⇒ 评价面层润湿性变量时，必须连同防漏结构一起判定，孤立看材料无意义。**
+4. **机理也被同步说清** —— 源文：降润湿处理**「降低毛细性，并阻止液体滞留于上层」**。**⇒ 判据应为"上层残液量"，而非"接触角"或"润湿等级"。**
+5. **后续动作印证该判据已被采纳** —— 源文的下一步是：**LUGH 与 GRIFFIN 联合采购"14 gsm 柔软 + 更低润湿处理"面层，但明确警告「若无 GRIFFIN 的护翼
+
+--- [[水刺 Hydroentanglement]]  (3 句)
+   • Hydroentanglement (also called **spunlacing 水刺**) is **high-velocity water-jet mechanical bonding** — **binder-free, lint-free, soft**.（源：Mechanical bonding）
+- 水刺属于**机械加固 mechanical bonding** 三技术之一，另两者为**缝编 stitch-bonding**（Maliwatt / Malimo / Malipol）与**针刺 needlepunching**。三者共同点是：不依赖粘合剂、热粘合或化学粘合剂，而是让纤维**互锁**成布。（源：Mechanical bonding）
+- 定位差异：缝编与针刺主要面向**耐用 / 工业制品**；水刺是**面向一次性用品（disposables）的增长引擎**。（源：Mechanical bonding）
+   • 水刺被明确列为**面向一次性用品的增长引擎**，是三者中最贴近卫材应用的机械加固方式。（源：Mechanical bonding）
+- **SAP 固定载体**：水刺用于把 SAP 颗粒固定在薄载体中 —— 底层选 spunmelt / SMS，因其在**很低的克重（最优选仅 4–12 gsm）**下仍能提供足够强度与足够小的孔径，这是把载体做薄的前提；顶层按**双峰纤维设计**（≤50% 短而轻 + ≥50% 长而重，至少两类 PET / PE / PP）。（源：Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））
+- **柔软 / 不掉屑（soft, lint-free）** 与**无粘合剂**特性，适合与面层等贴身层相关的应用。（源：Mechanical bonding）
+- **成本杠杆**：K 与 SE_c 可工程化调控 —— 在强度不变的前提下**降低 SE_c 即降低水耗 / 电耗（water/power cost）**。（源：Mechanical bonding）
+- 库内相关条目并
+   • Mechanical bonding（水刺的成布原理、K / SE_c / F ∝ p·d² 与纤维选择规则）
+- Wet-laid web formation（湿法成网定义、沉积机制与含 Lyocell 的纤维库）
+- Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）（水刺固定 SAP 的分工与双峰纤维设计）
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)（水刺粘合载体的权利要求）
+- Absorbent Technology、Nonwovens in Absorbent Materials、Handbook of Nonwovens、Fluid Absorption in High Bulk Nonwovens（概念并列登记）
+- 相关工艺章节：Dry-laid web formation、Polymer-laid web formation、Thermal bonding
+
+--- [[Absorbent Technology]]  (3 句)
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • 1. **多孔介质流动理论**：Péclet 数判据、达西定律、Washburn/Lucas-Washburn 方程、毛细压力与 Kelvin 方程——吸液动力学的物理基础，直接对接  仿真接口。
+2. **表面化学第一性原理**：接触角/润湿指数/附着功/Wilhelmy 湿附力法——决定纤维与结构能否有效吸液的材料选择先决条件。
+3. **核心 C/Q 模型**：芯体容量（Capacity）与释放速率（Release rate）的定量关联——超薄芯体设计的核心权衡。
+4. **SAP 谱系两极**：纤维素基（Ch7，Kimberly-Clark 磷烷基工艺）与丙烯酸基/水凝胶基（Ch8–9）——配方侧完整参考，含 2016/2022 综述更新。
+5. **非织造四要素与工艺矩阵**：纤维→排列→粘合→整理因果链；airlaid / spunbond / meltblown / spunlace / SMS 工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配。
+6. **三层功能模型**：Acquisition–Distribution–Ret
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (3 句)
+   • Rheology is specified as near-Newtonian on purpose: 3,200 mPa·s @ 120 °C (2,100 @ 130 °C, 1,400 @ 140 °C), Cross index n = 0.88 (spec ≥ 0.85), λ ≤ 2 × 10⁻⁴ s, flow activation energy 56 kJ/mol, no high-MW styrenic block copolymer. Slot geometry matters because pressure scales with 1/t³: a 200 µm shim gives 13.6 bar over a 5 mm land at 400 m/min, while a 100 µm shim would give 99.7 bar and stall the existing pump. Because Ca = 272, a contact (wiped) slot nozzle on a chilled backing roll is mandato
+   • Thermal load is the binding constraint: the contact interface reaches 69 °C at a 125 °C melt (comfortable), but the bulk equilibrium temperature reaches 85 °C at 125 °C and 90 °C at 135 °C — and a microporous CaCO₃-filled PE film loses WVTR irreversibly once the drawn structure anneals above ~90 °C. A chilled backing roll moves the ceiling up by ~15 K. Nominal set point 125 °C, window 115–132 °C (lower ≈112 °C by die pressure, upper ≈134 °C by film pore collapse; viscosity floor ≈136 °C).
+   • 90-day plan：W1–2 screen the odour granular（go/no-go before any spend）→ W3–6 bench formulation（three dye loadings × two buffer levels）→ W7–9 pilot coater（capillary rheometer + 100–200 m/min + WVTR/hydrohead）→ W10–13 line trial（contact nozzle + chilled roll on one lane；Cpk、8-week ageing pull、stool panel）。
+- Odour-granular chemistry screen（risks）：Zeolite 4A/13X pH 9–11 HIGH；sodium bicarbonate pH 8.3 HIGH；activated carbon pH 6–10 MEDIUM（还会吸附染料）；cyclodextrin pH 6–7 LOW（兼容选择）；ion-exchange resin H⁺ for
+

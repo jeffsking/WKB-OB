@@ -1,0 +1,71 @@
+---
+type: concept
+title: "OI Portfolio（开放创新组合）"
+domain: [卫材研发, 组合管理]
+status: growing
+updated: 2026-09-29
+tags: [OI, 开放创新, 组合管理, 优先级, TRL]
+aliases: ["OI Portfolio", "Open Innovation Portfolio", "开放创新组合"]
+---
+
+# OI Portfolio（开放创新组合）Open Innovation Portfolio
+
+> Definition 定义：**IPC BCC** 的 Open Innovation（开放创新 / 材料与技术寻源）项目组合——按「技术平台 × 协作成熟度」组织的 25 个 OI 项目，每个项目标注平台、优先级、采购 POC、法律状态与 IP 状态。它是本库「项目层」的顶层容器，下挂各具体项目页（如 [[COCO芯体平台]]、[[分区密度设计]]）。
+
+## Structure 结构拆解
+
+The portfolio is a **5-platform × 25-project** matrix（5 平台 × 25 项目矩阵）:
+
+| # | Platform 平台 | Projects 项目 | Project count 项数 |
+|---|---|---|---|
+| ① | Resins & Fibre Substrates（树脂与纤维基材） | OI-01 · OI-02 · OI-24 · OI-03 | 4 |
+| ② | Nonwoven Functionality（无纺布功能化） | OI-04 · OI-13 · OI-08 · OI-10 · OI-17 · OI-25 · OI-11 · OI-12 | 8 |
+| ③ | Fibre Morphology & Structural Parts（纤维形态与结构件） | OI-07 · OI-19 · OI-05 | 3 |
+| ④ | Chemical Function & Sensing Materials（化学功能与感知材料） | OI-15 · OI-16 · OI-21 · OI-22 · OI-23 · OI-09 | 6 |
+| ⑤ | Cores & Absorbent Materials（芯体与吸收材料） | OI-20 · OI-14 · OI-18 · OI-06 | 4 |
+
+- **Collaboration maturity 协作成熟度**（P3 矩阵 4 列）：legal documents signed 5 ｜ in progress 8 ｜ not started 8 ｜ paused / On-hold 4。合计 25。
+- **TRL gap TRL 差距**：all 25 projects sit at the **Exploration** stage with **no TRL rating**; the industry reference table places 9 cognate technologies at **TRL 9**（全部处于探索阶段、无 TRL 评级；对照表 9 项同类技术已达 TRL 9）→ the review introduces an external TRL ruler as a calibration. See [[Technology Roadmap 2026-2029（技术路线图）]].
+- **Labels 标识**：each project carries an OI number (OI-01…OI-25), a technology platform, a priority marker, a procurement POC and a legal / IP status. 编号体系与 [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]] 存在口径差异（见该页与源摘要页的矛盾记录）。
+
+## Key Parameters 关键参数表
+
+| Parameter 参数 | Typical value / range 典型值 / 范围 | Source 出处 |
+|---|---|---|
+| Project count 项目数 | 25（原 OI 表 24 + 新增 OI-25） | [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]] |
+| Technology platforms 平台数 | 5 | 同上 |
+| Supplier records 供应商记录 | 33 | 同上 |
+| Priority distribution 优先级分布 | high 6 / medium 15 / low 4 | 同上 |
+| Collaboration maturity 协作成熟度 | signed 5 / in progress 8 / not started 8 / On-hold 4 | 同上 |
+| Knowledge assets 知识资产 | 48 | 同上 |
+
+## Priority Convention 优先级规范（三档）
+
+The original OI "Priority" column mixes true priorities with status values; v7 normalises them into three tiers（原列混入状态值，规范化后）:
+
+| Tier 档位 | Rule 规则 | Count 数量 |
+|---|---|---|
+| high | original value High（含注记形式）；或已试产/上线/签约且无阻碍 | 6 |
+| medium | original value Medium；或状态 Not started / In progress 且无阻碍 | 15 |
+| low | 状态 Paused / On-hold，即存在未清除的阻碍 | 4 |
+
+- **Consistency check 一致性**：the 4 low items（OI-03 / OI-05 / OI-06 / OI-09）恰好是 P3 矩阵的 4 个 On-hold 项；6 个 high 中 5 个落在「signed / in progress」列，唯一例外是 OI-25（不在原 OI 表中，依 9/18 天津试产判 high）。
+- **Alternative convention 备选口径**：若改为完全取自 P3 协作阶段，则为 high 13 / medium 8 / low 4（high 覆盖 13 项，区分度下降）——一字切换。
+
+## Adjacent Concepts 相邻概念
+
+- Calibration 校准层：[[Technology Roadmap 2026-2029（技术路线图）]]
+- Compliance 合规层：[[Material Safety Control（材料安全双轨管控）]]
+- Core projects 核心项目：[[COCO芯体平台]]、[[分区密度设计]]、[[ATB双梳理面层（Dual-Card Topsheet）]]、[[三叶形截面纤维（Trilobal Fibre）]]
+- Portfolio source 组合来源：[[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]、[[OI项目清单与优先级]]
+
+## 经验教训 Lessons
+
+> ⚠️ 本页为 growing 状态：组合口径在不同文档间存在差异（项目数与状态分布），引用前应确认以哪一份为准。
+
+- **要点**：OI 组合是**寻源进度视图**而非技术路线图——同一编号在不同文档中可能指向不同阶段/口径，跨文档引用编号时须核对。
+- **待补 `[待验证]`**：各项目的 TRL 评级（库内尚无）；内部 Owner（全部 25 项缺失）。
+
+## Source 来源
+
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md`

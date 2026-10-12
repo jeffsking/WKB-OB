@@ -1,0 +1,61 @@
+# SEED: 锦琪昶（KSC, King's Choice）
+# type: entity | 原引用数: 4
+# 原 Cited by 列表:
+#   - GHC 福建冠泓·冠和 公司介绍（KC 2026）
+#   - 锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）
+#
+# 全库正文命中 22 页，24 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）]]  (3 句)
+   • **KSC / 锦琪昶（King's Choice，江苏锦琪昶新材料有限公司）** 面向 KC 的公司与产品介绍（2026-06-03），主打**热风粘合（ATB）非织造布**的**视觉差异化 + 高性能**路线。本批作为「ATB 非织造布供应商」信息源。
+   • **KSC 以超细旦（0.4–1.2 D）ATB 非织造布 + 超声波无胶复合做差异化，且已取得 EDANA-QAP 与三体系认证** —— 支撑页：锦琪昶（KSC, King's Choice）
+- **其产品矩阵同时覆盖面层（亲水）与背层（疏水），超声波路线主打去胶、低气味与花型保持** —— 支撑页：热风粘合无纺布
+   • 实体：锦琪昶（KSC, King's Choice）
+- 概念：热风粘合无纺布、ATB双梳理面层（Dual-Card Topsheet）、亲水-疏水梯度设计
+- 同批供应方：SDHY Group（非织造布）、GHC（福建冠泓·冠和）
+
+--- [[Degradable SAP Routes（可降解 SAP 四路线对比）]]  (1 句)
+   • All degradable routes carry a **2–5× conventional-PAAS cost premium**; the **PDA-type route is the fastest to industrialisation** and sits in a patent window, making it the short-term entry choice（成本 2–5× 是共性约束，PDA 路线因产业化最快而入围短期首选）——一句话结论。
+
+--- [[Microencapsulation]]  (1 句)
+   • Four consequences follow directly:
+1. **Reversibility is an encapsulation design choice** — hot-melt wetness glue is irreversible; a custom microcapsule can be engineered reversible for "real-time wetness level" cues.（可逆性是包封设计的选择：热熔尿显胶不可逆，而定制微胶囊可做成可逆以支持"实时湿量"提示。）
+2. **Shell integrity maps to process risk** — in the PCM case, shell fragility causes rupture, lot variance, SAP contamination and wider process-control limits.（壳层完整性对应工艺风险：在相变材料案例中，壳脆导致破裂、批次波动、SAP 污染与控制限放宽。）
+3. **Migration is the hard 
+
+--- [[GHC（福建冠泓·冠和）]]  (1 句)
+   • GHC 福建冠泓·冠和 公司介绍（KC 2026）
+- GHC 福建冠泓·冠和 公司介绍（KC 2026）
+- GHC 福建冠泓·冠和 公司介绍（KC 2026）
+- GHC 福建冠泓·冠和 公司介绍（KC 2026）
+- 锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）
+
+--- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]  (1 句)
+   • A **strategy roadmap** for commercialising mechanochromic（力致变色）materials in consumer absorbent hygiene. Its purpose in this library is to supply the *commercial* half of the mechanochromic story — the pathway choice, the regulatory gate and the force-threshold gap — that the existing materials-side page（Mechanochromic变色纤维）does not cover.
+（本页是**机械变色材料在消费级吸收卫生用品中商业化的战略路线图**。在本库中的用途是补齐力致变色的**商业侧**信息——路径选择、监管闸门、力量阈值缺口——这些是既有材料侧页面未覆盖的部分。）
+
+--- [[Chemical bonding]]  (1 句)
+   • Chapter 7 (R.A. Chapman) systematically treats chemical (latex/binder) bonding — the dominant alternative to thermal consolidation and the route of choice when a broad property palette must be engineered, with explicit flushable-wipe and incontinence binder chemistry.（中文：第 7 章系统讲化学（胶乳/粘合剂）粘合——热粘的主要替代路线，需在柔软/防水/透气/阻燃/可回收间做多目标设计，并明确给出可冲散拭布与失禁用品粘合剂化学。）
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (1 句)
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+
+--- [[Development of the nonwovens industry]]  (1 句)
+   • Nonwovens resist a single clean definition — the field is convergent and boundary-crossing.（无纺布无单一洁净定义，属跨界聚合产业。）
+- Three process families trace to three mother industries: drylaid→textiles, wetlaid→papermaking, polymer-laid→polymer extrusion.（三工艺族分别源自纺织、造纸、高分子挤出。）
+- Hygiene is the dominant end-use, justifying the book's hygiene-centred lens.（卫生用品是主导终端。）
+- PP's 63% share is the master variable for polymer/process choice in hygiene nonwovens.（聚丙烯 63% 占比决定卫材无纺布的聚合物与工艺选择。）
+
+--- [[GHC 福建冠泓·冠和 公司介绍（KC 2026）]]  (1 句)
+   • 实体：GHC（福建冠泓·冠和）
+- 概念：热风粘合无纺布、无纺布五大工艺对比、PCM-Free Thermoregulation
+- 同批供应方：锦琪昶（KSC, King's Choice）、SDHY Group（非织造布）
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (1 句)
+   • **品牌使命（Brand Purpose）**：*"We exist to Help Navigate the Unknowns of Babyhood"*（我们为帮助穿越育儿中的未知而存在）。
+- **六大战略支柱 Strategic Pillars**：**Baby's Skin Health**（远离刺激与红疹）／**Baby's Comfort**（远离不适）／**Baby's Dryness**（远离漏与湿）／**Baby's Future**（为所有婴儿守护未来）／**Parents' Choices**（守护父母的选择）／**Parenting Skills**（守护父母的育儿能力）。
+- **消费者需求空间 Consumer Need Spaces**：Skin Health / Wellness、Comfortable Fit / Wear、Long-Lasting Leakage Protection and Skin Dryness、Eco-Friendly、Convenience、Self-Fulfillment、Growth。
+- **覆盖品类**：Diape
+

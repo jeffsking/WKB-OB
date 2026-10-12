@@ -1,0 +1,78 @@
+# -*- coding: utf-8 -*-
+"""修正 RAW_FULL 中路径错位（少一段目录）的游魂文件：移到台账 dst 正确位置并回填 front matter。
+
+背景：子代理按 dst 落盘时偶尔漏掉中间目录段（如 `GRIFFIN Rewet`、`Ebook Extract`），
+导致文件路径不在台账 dst 集合内。本脚本按台账权威 dst 归位，正文不动。
+"""
+import json
+import hashlib
+import os
+from datetime import datetime
+
+VAULT = r'E:\WKB-OB'
+LEDGER = os.path.join(VAULT, '.tools', '_extract_ledger.json')
+BACKUP = os.path.join(VAULT, '.tools', '_fm_repair_backup')
+CLEAN_RULES = 'v2: dead-image-link->text(alt kept); repeat-digits->compressed'
+
+STRAY = [
+    r'RAW_FULL\ima_sync\WKB\Resources\Ebook\Viscoelastic Properties\Viscoelastic Properties_README.md.md',
+    r'RAW_FULL\ima_sync\WKB\Resources\Open Innovation\Performance\Rewet\Updates\2025.06.25 - Learning Cycle Check In.pptx.md',
+]
+
+
+def main():
+    os.chdir(VAULT)
+    led = json.load(open(LEDGER, encoding='utf-8'))
+    by_name = {}
+    for e in led:
+        by_name.setdefault(e['name'], []).append(e)
+    os.makedirs(BACKUP, exist_ok=True)
+
+    for src in STRAY:
+        name = os.path.basename(src)
+        cands = by_name.get(name, [])
+        if len(cands) != 1:
+            print('[跳过] %s —— 台账匹配 %d 条' % (name, len(cands)))
+            continue
+        e = cands[0]
+        dst = e['dst'].replace('/', os.sep)
+        if os.path.exists(dst):
+            print('[跳过] 目标已存在: %s' % dst)
+            continue
+        body = open(src, encoding='utf-8', errors='ignore').read()
+        h_before = hashlib.md5(body.encode('utf-8')).hexdigest()
+
+        # 备份
+        bp = os.path.join(BACKUP, name + '.stray')
+        with open(bp, 'w', encoding='utf-8') as fh:
+            fh.write(body)
+
+        mt = datetime.fromtimestamp(os.path.getmtime(src)).strftime('%Y-%m-%d')
+        fm = ('---\n'
+              'media_id: "%s"\n'
+              'source_file: "%s"\n'
+              'original_path: "%s"\n'
+              'extracted: "%s"\n'
+              'extract_method: "ima-mcp fetch_media_content"\n'
+              'extract_status: "ok"\n'
+              'clean_rules: "%s"\n'
+              'processed: "%s"\n'
+              'fm_repaired: "2026-09-29 (路径归位+回填追溯字段，正文未改动)"\n'
+              '---\n\n' % (e['media_id'], name, e['src'], mt, CLEAN_RULES, mt))
+        new = fm + body
+
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        with open(dst, 'w', encoding='utf-8') as fh:
+            fh.write(new)
+        h_after = hashlib.md5(new[len(fm):].encode('utf-8')).hexdigest()
+        if h_after != h_before:
+            os.remove(dst)
+            print('[失败] 正文校验不一致，已回滚: %s' % name)
+            continue
+        os.remove(src)
+        print('[归位] %s' % dst)
+        print('        移动 %d 字节，正文 MD5 校验一致' % len(body.encode('utf-8')))
+
+
+if __name__ == '__main__':
+    main()

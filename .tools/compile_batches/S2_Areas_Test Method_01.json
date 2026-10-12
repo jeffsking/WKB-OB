@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/BCC成品STM-南京南厂 1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/BCC成品STM-南京南厂 1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/BCC成品STM-南京南厂 1.pdf.md",
+   "name": "BCC成品STM-南京南厂 1.pdf.md",
+   "title_hint": "BCC成品STM-南京南厂 1.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/质量成品标准测试方法-TJ.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/质量成品标准测试方法-TJ.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/质量成品标准测试方法-TJ.pdf.md",
+   "name": "质量成品标准测试方法-TJ.pdf.md",
+   "title_hint": "质量成品标准测试方法-TJ.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/STM-00034.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/STM-00034.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/STM-00034.pdf.md",
+   "name": "STM-00034.pdf.md",
+   "title_hint": "STM-00034.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM原材料-TJ.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM原材料-TJ.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM原材料-TJ.pdf.md",
+   "name": "STM原材料-TJ.pdf.md",
+   "title_hint": "STM原材料-TJ.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 Void Volume Template.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 Void Volume Template.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 Void Volume Template.xlsx.md",
+   "name": "STM-00429 Void Volume Template.xlsx.md",
+   "title_hint": "STM-00429 Void Volume Template.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md",
+   "name": "STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md",
+   "title_hint": "STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/原材料STM-NJ.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/原材料STM-NJ.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/原材料STM-NJ.pdf.md",
+   "name": "原材料STM-NJ.pdf.md",
+   "title_hint": "原材料STM-NJ.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00038 Compression Test for Absorbent .pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00038 Compression Test for Absorbent .pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00038 Compression Test for Absorbent .pdf.md",
+   "name": "TTM-00038 Compression Test for Absorbent .pdf.md",
+   "title_hint": "TTM-00038 Compression Test for Absorbent .pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Finished Product Testing Method Summary.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Finished Product Testing Method Summary.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Finished Product Testing Method Summary.xlsx.md",
+   "name": "Finished Product Testing Method Summary.xlsx.md",
+   "title_hint": "Finished Product Testing Method Summary.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/Raw Material Testing Method Summary.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/Raw Material Testing Method Summary.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/Raw Material Testing Method Summary.xlsx.md",
+   "name": "Raw Material Testing Method Summary.xlsx.md",
+   "title_hint": "Raw Material Testing Method Summary.xlsx"
+  }
+ ]
+}

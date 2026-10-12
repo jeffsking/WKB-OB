@@ -1,0 +1,29 @@
+{
+  "batch": "19",
+  "done": [
+    "针刺 Needlepunching",
+    "Ardex",
+    "GATS 重力吸收测试",
+    "微纤丝化纤维素 MFC",
+    "湿态压缩模量",
+    "Danufil 粘胶",
+    "HEC 羟乙基纤维素",
+    "k-ε 湍流模型"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "GATS 重力吸收测试",
+      "reason": "引用来源仅以导航清单形式提及（与 Klemm 法/Groove Capillary Suction 并列），无测试程序定义或定量数据，正文标注 [待补]"
+    },
+    {
+      "page": "Danufil 粘胶",
+      "reason": "数据行 'Danufil rayon blend ~30% → ~15% absorbency uplift' 的两个数值对应的掺混比例与测试条件在来源页未给出，已如实标注"
+    },
+    {
+      "page": "k-ε 湍流模型",
+      "reason": "来源页仅在计算建模章节方法清单中列出方法名，无方程/系数/应用细节；与开源 AI-CFD 框架页为松散关联"
+    }
+  ],
+  "count": 8
+}

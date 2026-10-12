@@ -1,0 +1,124 @@
+# SEED: Waist Guard（腰围护挡）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 90 页，128 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]]  (5 句)
+   • P&G application publication that **quantifies blowout leakage**（稀便爆漏）as a measurable article property and claims a **waist guard + pocket** structure on the back elastic belt to suppress it — the source that connects diaper top-of-back architecture to a testable leakage number.
+   • The publication discloses a pant-type absorbent article having a **waist guard**（腰围护挡）on the back elastic belt, the waist guard comprising a waist guard elastic portion. Claim 1 defines the article by: front and back elastic belts whose transverse edge lengths are fully seamed over a seam length LS; the back elastic belt divided into zones as a percentage of LS (distal edge = 0%, proximal edge = 100%); a waist guard extending from a closed base line toward an open edge, **partially bonded to the
+   • **Blowout leakage is quantified, not asserted** — the patent supplies a test method (artificial BM on a tared paper towel) and a numeric gate. → Blowout Leakage Test（爆漏测试）
+- **Decoupled elastic zones are the mechanism** — the waist guard elastic portion and the correlated belt portion must have different tensile stress, otherwise the pocket cannot form/act. → Waist Guard（腰围护挡）
+- **The pocket is a geometric feature with a bounded location** (5%–60% of LS) — this is the claim-critical limitation. 
+   • Concepts 概念：Waist Guard（腰围护挡）、Blowout Leakage Test（爆漏测试）
+- Entities 实体：The Procter & Gamble Company（宝洁）
+- Related 相关：US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)、US10905605B2 Pull-On Wearable Article with Informational Image (P&G)
+
+--- [[Blowout Leakage Test（爆漏测试）]]  (3 句)
+   • 3. **重复与精度**：同一型号制品测 **3–4 次**，报告均值，精度 **±0.01 %**。
+4. **配套派生指标**：
+   - **Efficiency Factor 效率因子** = (Blowout Leakage Weight / Diaper Weight) × 100 —— 把制品自重纳入考虑，避免"用更厚的材料换低漏量"；
+   - **Waist Circumference Force 腰围力**（另有独立测试方法）——把防漏与腰围贴合/上拉手感并列约束。
+5. **相关测试（同一专利文件内）**：**Belt Zone Tensile Stress Measurement**（腰带区拉伸应力测定）——用于定义护挡弹性部的 20–70 N/m。
+6. **干态重量条件**：测试前制品须在 **23 ℃ ±3 ℃、相对湿度 50 % ±2 %** 下**至少平衡 2 小时**。
+   • 被测结构：Waist Guard（腰围护挡）
+- 其他芯体/结构测试：芯体测试方法与验收基准（STM）、SAP性能指标（CRC AUL GBP Vortex）
+- 同类"用户体验"指标：Skin Contact Pressure（皮肤接触压力）、Diaper Microclimate
+- 权利人：The Procter & Gamble Company（宝洁）
+   • US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G) ——
+
+--- [[Product Waist Break Test（产品腰围拉断测试）]]  (3 句)
+   • 本方法是**为应对消费者投诉而新创建**的方法，不是 KC 全球 STM 体系内的既有编号方法。它来自 BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）（Tulip Cai，2026-03）；Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编） 中亦出现「**STM-产品拉断新**」这一未编号方法，说明该指标已在厂内落地。
+   • 上位 / 相关：芯体测试方法与验收基准（STM）、Hook-and-Loop Strength Test（粘扣系统强度测试）、Elastic Tension & Creep（橡筋张力与回缩率）
+- 结构相关：Waist Guard（腰围护挡）、COCO芯体平台、Hot-Melt Slot Coating（热熔狭缝涂布）
+- 失效相关：Elastic Strand Snicking（弹性橡筋断丝失效化）
+   • BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建） —— 
+- Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编） —— 
+- STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc —— （2026-09-29 追加）
+- STM-01086 BCC Pants 产品拉断测试（成品）.doc —— （2026-09-29 追加，内容相同的副本）
+
+--- [[机械变色 Mechanochromic]]  (3 句)
+   • **Four technology routes / build-not-buy 四条路线与自建结论.** The Mechanochromic block maps **M1–M4 four routes**, screens four material candidates, and lands on **「build, not buy」**（自定义阈值 + 自定义印刷工艺）——推翻「买一款商用压力材料」的初始假设（源：Mechanochromic Materials Technical Review（EN v3, 2026-08））。Day-1 主假设被显式证伪：**无成熟 SKU，必须 build 而非 buy**（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判））。
+- **Three routes named 三条命名路线.** 力致变色分支含 **Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几
+   • 各候选的**精确力阈值范围**、**可逆循环次数**、**皮肤/口服安全检测报告**均缺（原文标 [A]/[E]）（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判））。
+- **CTI 压力墨下移至卫材低张力的可行性与报价**未验证；库内**无报价或价格区间**（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判）、CTI (Chromatic Technologies)）。
+- **R1 阈值漂移与 R2 信号弛豫均为 HIGH 风险**；**信号弛豫的假阴性比没有指示器更糟**（源：Mechanochromic Waistband Tension Indicator Proposal（2026-08-19））。
+- **两种力度量口径不可直接互换**：芯体内/体表载荷（kPa）与带体对皮肤的接触压力（mmHg）；跨页比较前须人工确认口径（源：智能尿裤功能层）。
+- **精确门槛数值**：力致变色材料研究报告的完整 DOI 为 10.1177/00405175251352163，市场规模来源 Marketintelo——但各量化边界仍待原文补足（源：力致变
+   • Mechanochromic Materials Technical Review（EN v3, 2026-08）
+- 力致变色材料研究报告（2026-08-02·纸尿裤应用研判）
+- Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels
+- Chromism Taxonomy（变色现象分类）
+- Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）
+- Structural Colour Mechanochromism（结构色力致变色）
+- Active Diagnostic Zones（主动诊断分区）
+- CTI (Chromatic Technologies)
+- 智能尿裤功能层
+- Mechanochromic Routes Comparison（力致变色技术路线对比）
+- Geometric Optical Mask（几何
+
+--- [[The Procter & Gamble Company（宝洁）]]  (3 句)
+   • **2026-09-29 记录（本批 IP 专利块，4 件）**：
+  - **US 10,905,605 B2**「Pull-On Wearable Article with Informational Image（可穿脱制品信息图形）」——授权日 2021-02-02 —— 见 US10905605B2 Pull-On Wearable Article with Informational Image (P&G)
+  - **US 11,878,492 B2**「Tackified Hotmelt Adhesive Composition（聚烯烃热熔胶）」——授权日 2024-01-23 —— 见 US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+  - **US 2022/0339044 A1**「Pant-Type Absorbent Article with Waist Guard（腰围护挡）」——申请公开 2022-10-27 —— 见 US2022-0339044A1 Pant-Type Absorbent
+   • 本批派生概念：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Waist Guard（腰围护挡）、Blowout Leakage Test（爆漏测试）、Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）、Informational Image on Pull-On Article（可穿脱制品信息图形）
+- 第 4 批派生概念：Front Belt Force Window（前腰带弹性力窗口）
+- 竞品对标：Kimberly-Clark（金佰利）、Daio Paper Corporation（大王製紙）、Ontex
+   • US10905605B2 Pull-On Wearable Article with Informational Image (P&G) —— 
+- US11878492B2 Tackified Hotmelt Adhesive Composition (P&G) —— 
+- US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G) —— 
+- EP0820747A1 Absorbent Article with Elastic Feature (P&G) —— 
+- CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁） —— （2026-09-29 追加）
+
+--- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]  (3 句)
+   • **"前腰带力要低"是对常识的反转**：直观上腰带越紧越防漏，但本案指出的失效模式是**穿戴流程层面**的——**褶皱导致贴不上粘带、U 形变形导致松垂、后粘带触皮肤引发不适**。→ Front Belt Force Window（前腰带弹性力窗口）
+- **"后 >前"的比值被写进权利要求**：4–40（优选 5–30）。这意味着前后腰带的**功能定位不同**：后腰带提供主弹力与防漏，前腰带只提供**轻度贴合与防前漏**。
+- **力值可由"股线数量 + 分特值"双旋钮调节，且两种腰带可同源共线生产**（权 6、权 15）。实施例给出 11 根 × 620 dtex（后）vs 3 根 × 470 dtex（前）→ 1.98 N vs 0.1 N。→ Elastic Tension & Creep（橡筋张力与回缩率）
+- **测量方法本身是本案的重要交付**：EGEL / L最大 = 0.95×EGEL / L读取 = 0.85×EGEL、23±2 ℃、0.01 N 分辨度。**没有这套方法，0.03–0.32 N 这个窗口无法复现**——引用该窗口时必须连方法一起引用。→ Produ
+   • Concept 概念：Front Belt Force Window（前腰带弹性力窗口）、Waist Guard（腰围护挡）、Elastic Tension & Creep（橡筋张力与回缩率）、Elastic Strand Snicking（弹性橡筋断丝失效化）、Product Waist Break Test（产品腰围拉断测试）、Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+- Entity 实体：The Procter & Gamble Company（宝洁）
+   • Local path 本地路径：
+- Original link 原文链接：（无；专利文献）
+- Note 备注：文件名作"**具有前后弹性腰围**的胶粘吸收制品"，而发明名称（(54)）逐字为"**具有前弹性腰带和后弹性腰带的胶粘吸收制品**"（belt 而非 waist circumference）——本页标题与正文采用**发明名称原文**。另：说明书附图（图 1–10）在 IMA 抽取件中未识别出文本内容，本页结构描述以权利要求与说明书正文为准。
+
+--- [[弹性评价三条路径对比（张力 vs 拉断 vs 可视化指示）]]  (2 句)
+   • STM-00070 Elastic Tension - BCC Products（皮筋张力测试 第4版） —— 
+- BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建） —— 
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估） ——
+   • 概念：Elastic Tension & Creep（橡筋张力与回缩率）、Product Waist Break Test（产品腰围拉断测试）、Elastic Strand Snicking（弹性橡筋断丝失效化）、Mechanochromic变色纤维、芯体测试方法与验收基准（STM）
+- 实体：Kimberly-Clark（金佰利）、KC Nanjing Plant（金佰利南京厂）
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (2 句)
+   • Directly relevant to **diaper/pant elastication** — waist, cuff and ear-panel elastic components. The co-extruded film feature is the material route behind the elastic-feature cluster that also covers Elastic Strand Snicking（弹性橡筋断丝失效化）, Elastic Tension & Creep（橡筋张力与回缩率） and Waist Guard（腰围护挡）, and it links to pant-type articles (Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、EP2413866B1 Disposable Wearing Article (Unicharm)）. Because the film must be adhesively attached, it is the attachment t
+   • EP0820747A1 Absorbent Article with Elastic Feature (P&G)
+- EP2413866B1 Disposable Wearing Article (Unicharm)
+- EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)
+- CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）
+- Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- Elastic Strand Snicking（弹性橡筋断丝失效化）
+- Elastic Tension & Creep（橡筋张力与回缩率）
+- Waist Guard（腰围护挡）
+- Synthesis of Thermoplastic Polyester Elastomers
+- Origin of Rubber Elasticity Book
+- SMMMS Film-Free vs Microporous F
+
+--- [[Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）]]  (2 句)
+   • 上位 / 相关：CD Pants Converting Process（CD裤式产品加工工艺）（加工路线在同库该工艺页另有归纳）
+- 相关结构：Waist Guard（腰围护挡）（同为裤型产品的防漏/贴合部件，见 P&G US 2022/0339044 A1）
+- 相关工艺失效：Elastic Strand Snicking（弹性橡筋断丝失效化）（侧翼切断与橡筋风险相邻）
+- 用户沟通：Informational Image on Pull-On Article（可穿脱制品信息图形）、Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+   • EP1581159B1 Method for Producing Diaper Pants（弹性片材） —— 
+- EP2413866B1 Disposable Wearing Article (Unicharm) —— 
+- US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G) ——
+
+--- [[Skin Contact Pressure（皮肤接触压力）]]  (2 句)
+   • 1. **The chain that justifies a fit indicator（支撑合身指示器的物理链）**：strain → force → skin pressure. For a given panel construction the elongation-to-force map is fixed, so **reading elongation is reading force**.
+2. **Step 1 — panel force at the design points（第一步：设计点面板力）**：for an 85 mm panel, 38 / 67 / 101 % strain give 1.4 / 2.5 / 3.9 N retraction force.
+3. **Step 2 — convert tension to skin pressure（第二步：张力换算接触压力）**：P = T/(r·w), where T = band tension (N), r = hip radius (76 mm at size 4), w = effecti
+   • Stretch-Triggered Colour Indicator for Diaper Pant Side Panels —— 
+- Mechanochromic Waistband Tension Indicator Proposal（2026-08-19） —— 
+- 智能尿裤功能层专利地图 —— （既有页，压力口径对照）
+

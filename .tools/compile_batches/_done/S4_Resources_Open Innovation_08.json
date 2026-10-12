@@ -1,0 +1,23 @@
+{
+  "batch": "S4_Resources_Open Innovation_08",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 10,
+  "concept_pages": 4,
+  "entity_pages": 3,
+  "comparison_pages": 1,
+  "updated_existing": 10,
+  "manual_review": 10,
+  "notes": [
+    "逐份串行完成 10 项；每项读完即建 source 页并落盘，再按需派生/追加；未改 index.md 与 log.md，未移动/重命名/复制/删除任何文件。",
+    "新建 source 页（10）：Rewet Learning Plan（回渗学习计划工作表）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）、Rewet Principles（回渗设计原则与测试方法关联）、Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）、Electrospinning Technology Analysis - Diaper Application 2026-05-20、80 高速pattern芯体成型工程总纲、CD Pants Process Overview - GIC Korea、变色油墨生产商研究报告 2026-06-12、韩国行程与世界遗产清单（12日·个人旅行计划表）、2D Absorption Model v9 Red-Teaming Optimization Report。",
+    "新建 concept 页（4）：BSL Tier Differentiation（面层分档与产品档位差异化）、Electrospinning（静电纺丝）、CD Pants Converting Process（CD裤式产品加工工艺）、Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）。",
+    "新建 entity 页（3）：Elmarco（Elmarco 纳米纤维设备）、GIC Korea（K-C 韩国 GIC）、H.B. Fuller（富乐）。",
+    "新建 comparison 页（1）：Electrospinning vs Conventional Nonwoven（静电纺丝纳米纤维与传统非织造对比）——已含强制的「成本」与「供应链风险」两列。",
+    "追加既有页（10，均注 2026-09-29 追加、不改原结论）：Rewet Test（回渗测试）×2（item1 变异排查否定性证据、item3 定义句与参数清单）、Residual Fluid & Pore Stranding（残液与孔隙滞留）×2（item1 PSD 假说/LSE 两种语气、item3 滞留三方式与更粗纤维）、Guoke Haina（国科海纳）、Seawater-Degradable 3D Hydrogel System、Biodegradable SAP、ADL（导流层）（更粗纤维一击多因 + 柔软-回渗反向）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）（80 号总纲：两条相反路线 + 验收 KPI + 证据等级红线）、变色油墨（市场结构 + 可逆性要求分化 + 合规清单）、MD Liquid Distribution、Gel Blocking（凝胶阻塞）。",
+    "⚠️ 冲突/并列不裁决（15 项）：① 松井甲醛口径相反——既有页记「无卤无甲醛 BPA-free」，2026-06-12 报告记「部分产品含微量甲醛，不建议用于婴儿产品直接接触」；② v9 的 D_cap 正文 1E-7 与图 4-1 表 5.2e-6 差 1–2 个数量级；③ v9 的 MD 扩散 2.3%（汇总表）vs 2.5%（图 6-1 表头）；④ 80 号总纲 Cpk MD 2.43/2.49·CD 1.39 vs 85 号 Cpk 1.67/2.00（口径疑为「已达成」vs「目标需降 σ」，未说明）；⑤ 80 号保形压力 39 Pa vs 裸算 31 Pa（源文自陈推导未闭合）；⑥ 80 号停车扭矩 455 Nm vs 稳态 180 Nm（隐含摩擦扭矩差 ~15%）；⑦ 80 号 in-spec ≥99.99%（chute 重设）vs 92.7%（未重设）——是否与 03 常量表的 99.996%→92.7% 同一事件需人工核对；⑧ 80 号端区均值 52 mm vs K6 端区 ≥30 mm（均值 vs 下限不可互换）；⑨ CD Pants 2016 的 5 区成型鼓 vs 80 号 6 区扇区（代次/机台不同，不换算）；⑩ v9（MD 3.5%→2.3%、SAP 58%/98%）vs v11（MD 0.9%→34.9%、SAP 48.1%→63.6%）代次不同不合并；⑪ 变色油墨两份供应基地来源（2026-06-12 报告 vs X-Chromic 综合技术联系表）source_path 不同、厂商集合可能重叠，未做去重比对；⑫ 韩国.xlsx 为个人旅行计划表，与卫材/开放创新无技术关联，疑误归档，credibility 记低并只记结构事实；⑬ CTI 的「Pressure Activated Ink」源文仅列名无参数，未与 mechanochromic 归并；⑭ Liner Differentiation 的 UBK 两段（2022 outdated vs 2023-09-26）对 LORI 评价相反，并列；⑮ 静电纺丝设备市场（亿美元级）与终端市场（百亿—千亿美元级）差两个数量级，不可混引。",
+    "商务敏感处置（manual_review 10 份全部标注）：竞品对标（Equate/Assurance/Easy Ups、P&G·尤妮佳·恒安等客户名单）只记相对关系不转述规格价格；内部项目代号（RIDDLER/SIROCCO/LORI/TOOTSIE ROLL/BONNIE/CIRRUS/TETRIS/BUFF BABY 等）按原样登记不反推；设备与机器成本问（CD Pants 机台成本、电纺成本 3–10×）只记量级或记「源文未答」不补值；供应商名录（Elmarco/Inovenso/Contipro/Kato Tech/Donaldson、Bostik/Henkel/H.B. Fuller/南宝/三瑞/3M/科维尔 等）不作合格供应商结论；内部培训材料（K-C Internal Use Only）与图纸号只作追溯；个人信息（韩国行程、作者署名）只记结构性事实。",
+    "未建页说明：Inovenso 仅在电纺设备名录中出现一行，未达建页门槛，未建 entity 页并已从 pages_linked 移除该 wikilink；COCO-v6 页库内不存在，已从 80 号 pages_linked 移除该 wikilink，避免悬空引用。",
+    "OI 编号：本批 10 份均未出现 OI-xx 编号，未做任何编号换算；与 [[IPC BCC OI Portfolio（开放创新项目组合）]] 的互链已在各 source 页 pages_linked 中保持。"
+  ]
+}

@@ -1,0 +1,107 @@
+# SEED: Hygiene Absorption Model
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Handbook of Industrial Drying
+#   - Industrial Drying Ch28 Osmotic Dehydration and SAP Physics
+#   - Industrial Drying Ch50 Solid-Liquid Separation
+#
+# 全库正文命中 284 页，420 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Adhesive Technology Full Report]]  (7 句)
+   • **Hygiene implication:** Temperature and peel rate directly determine core retention. Formulation core is designing the $\psi(v,T)$ peak, not just interfacial thermodynamics.
+   • **Hygiene implication:** Leak-guard edges require "bonding + sealing" integration — procurement cannot separate pricing.
+   • **Hygiene implication:** Directly addresses VOC regulations tightening + skin safety compliance.
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (6 句)
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Hygiene implication:** Hot-air convection is the default for pulp, tissue and nonwoven through-dryers.
+   • **Hygiene implication:** Bound moisture sets the equilibrium moisture content and hence the floor of achievable dryness in cellulose fluff and SAP.
+   • **Hygiene implication:** For thin, fast sheets (tissue, nonwoven web) drying may occur almost entirely in the constant-rate period. For thick/packed hygroscopic beds (fluff in a core) the falling-rate period dominates — argue for thin layers / agitation.
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (5 句)
+   • The **"remove the microcapsules" feasibility review**: engineered bacterial-nanocellulose (BNC) nanofiber networks as a standalone thermal-management layer for absorbent hygiene products, with no phase-change chemistry. It is the batch's cost-and-mechanism counterweight to microcapsule-based thermal comfort, and the bridge between 细菌纳米纤维素 and Diaper Microclimate.
+本页是**「去掉微胶囊」的可行性评审**：以工程化细菌纳米纤维素（BNC）纳米纤维网络作为吸收性卫生用品的独立调温层，完全不使用相变化学。它是本批针对微胶囊路线的**成本—机理对照页**，也是 细菌纳米纤维素 与 Diaper Microclimate 之间的桥梁。
+   • The function decomposition then shows that thermoregulation is **four separable physical functions**: insulation (resist conductive heat flow, high R-value), buffering (raise thermal mass so dT/dt is slow), dissipation (move heat out via evaporative and radiative pathways) and spike absorption (absorb a discrete thermal event at a setpoint via latent heat). For multi-hour wear, comfort is a **steady-state** problem — insulation + buffering + dissipation — and spike absorption only matters for th
+   • 1. **Transient spike absorption** — BNC-only lags PCM by ≈1–2 min in the first-window ΔT (model, indicative).
+2. **Setpoint precision** — no sharp isothermal hold at Tm; regulation is rate-based, not temperature-locked.
+3. **Above-window performance** — above the setpoint PCM contributes nothing extra either, so the gap is bounded, not open-ended.
+   • **RECOMMENDED · BNC-only (steady-state)** for multi-hour microclimate comfort. Gate: AUL/CRC ≥ current; rewet ≤ current; skin-model ΔT/dt ≤ target.
+- **NOT ALONE · BNC-only (acute spikes)** — needs structural compensation. Gate: gradient + evaporative DOE passes wear trial.
+- **FALLBACK · BNC + PCM hybrid** — only if gates fail. Gate: cost-acceptable at scale; otherwise iterate structure.
+- Validation roadmap: P1 material characterisation (k_eff, DSC bound water, SSA; k_eff ≤0.04) → P2 bench the
+
+--- [[Absorbent Technology Introduction]]  (4 句)
+   • The Introduction (pp. 12–17) of Chatterjee & Gupta's Elsevier handbook is the field's canonical framing: it defines absorbency precisely, names the scientific deficit of the hygiene-disposables industry, and sets up the 12-chapter arc from liquid-flow physics to superabsorbents, nonwovens and testing — the intellectual spine for any REL/absorbent-core R&D programme.（中文：全书引言行界定了"吸收性"、点明卫生用品行业"重结构优化、轻基础科学"的失衡，并铺出 12 章技术路线，是 REL/芯体研发的立论基础。）
+   • **Scope definition.** The book confines *absorbency* to "the absorption of aqueous fluids by porous media, or more specifically, by fibrous and polymeric systems" (p. 12), explicitly excluding the biomedical/skin-absorption usage — a discipline that the whole library should adopt.
+- **The core indictment.** "The development of the majority of those products was not based on a scientific or mechanistic approach, but on trial and error techniques and on the intuitive imagination of innovative tech
+   • **Define before design.** The absorbency/absorption ambiguity must be closed at the terminology level, or every downstream metric inherits the confusion.（口径先行：不做此界定，所有下游指标都会继承语义混乱。）
+- **Science is the binding constraint, not capital.** A century of trial-and-error is the real bottleneck; modelling/computer-aided design is offered as the cost-effective escape.（真正瓶颈是科学缺位而非资金，仿真建模是低成本出路。）
+- **SAP selection must be load-conditioned.** Because SAP's uniqueness is *under-pressure* retention, supplier 
+   • 父书：Absorbent Technology
+- 概念：SAP（高吸水树脂）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、回渗 Rewet、复合材料 Composite
+- 相关章节：Porous Structure and Liquid Flow Models（Ch.1 物理基石）、Dry-laid web formation（气流成网/SAP 混合）
+
+--- [[Computational Modeling in Absorbent Technology]]  (4 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (4 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • **Single-hydrophilic topsheet (Table 4)**: first absorption ≈ 0.86–1.24 s, fifth absorption 7.39–8.62 s; rewet 3.89–6.17 g. Classic single-burst behaviour with rapid decay 单次强亲水、衰减快.
+- **Multi-hydrophilic topsheet (Table 5)**: first absorption 1.39–1.86 s, fifth 1.96–2.41 s; rewet 0.84–1.32 g.
+- **Commercial multi-hydrophilic finish trial (Tables 6 & 7)** — 25 g/m² air-through fabric from whitened hydrophilic ES fibre: embossed topsheet T1–T5 = 1.25 / 1.44 / 1.56 / 1.71 / 1.82 s with rewet 1.06 
+   • 1. ES fibre hydrophilic finishes divide into single-hydrophilic and multi-hydrophilic types by chemistry 按油剂化学特性分单亲型、多亲型.
+2. Single-hydrophilic finish gives high rewet and poor in-use experience — 质量档次不高 (low quality tier).
+3. Multi-hydrophilic air-through nonwoven delivers fast multi-insult absorption, short strike-through time and low rewet — the mainstream material and development direction for disposable hygiene products 高档纸尿裤主流原料与发展方向.
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[Surface Tension and Surface Energy]]  (4 句)
+   • Chapter 2 (pp. 74–109) supplies the missing micro-level to Chapter 1's macro hydraulics: it fixes surface tension as a thermodynamic quantity, establishes Young's equation as an energy identity, and — most usefully for hygiene R&D — replaces the textbook flat-plate sessile drop with a rod/tube model that gives the capillary pull on an individual fibre, F = γLV·cos θeq·C.（中文：第 2 章为第 1 章的宏观流体力学补上微观热力学，并以"杆/管"模型取代平面液滴，给出单根纤维的毛细拉力。）
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[纳米纤维素纤维技术及应用深度研究报告]]  (4 句)
+   • A deep-dive report on nanocellulose fibre: classification and core properties, preparation and modification routes, the global producer landscape, and a stage-by-stage assessment of its application in hygiene (especially diapers). （中文：纳米纤维素纤维深度研究报告——分类与核心特性、制备与改性路线、全球生产商格局，以及在卫材（尤其纸尿裤）中的应用阶段评估。）
+   • The report is the most hygiene-focused nanocellulose document in this batch. It positions nanocellulose as a **multi-site material** — topsheet/ADL (fine fibre, hydrophilic, skin-friendly), core (SAP synergist and reinforcement), and core wrap (high-barrier film) — while being explicit that **absorbency is not its selling point**: BCNF at 60–120 g/g is well below SAP's 300–500 g/g, so the economic case rests on SAP reduction (30–50%), softness, biodegradability and structure stability in thin co
+   • Its commercialisation ladder is useful for roadmapping: medical dressings (mature) → paper/packaging and cosmetics (commercial) → hygiene (R&D/pilot). The binding constraints are named and ranked: cost, then capacity, then dry-process dispersion and PP/PE compatibility, then equipment and standards.
+   • 1. **Absorbency is not the argument 吸水倍率不是卖点** — BCNF 60–120 g/g vs SAP 300–500 g/g；价值在 **SAP 减量 30–50%**、柔软度、可降解与结构稳定，与 BNC 与绒毛浆和 SAP 定位对比 的既有结论一致。
+2. **Three classes are dimensionally different 三类尺寸不同** — CNC 3–20 nm 棒状高模量（100–150 GPa）、CNF 10–100 nm 成网、BNC 20–100 nm 纯度 99%；参数落点见 三类纳米纤维素对比（CNC、CNF、BNC）。
+3. **Cost is the gate 成本是闸门** — $40–100+/kg → 需降 60–70%；$5/kg 是进入主流卫材的临界量级。
+4. **Dry-process dispersion is the real engineering problem 干法分散是真正的工程问题** — 团聚 + 与 PP/PE 不相容，解决手段是母粒化与表面改性，而非提高添加量。
+5
+
+--- [[Characterisation, testing and modelling of nonwoven fabrics]]  (3 句)
+   • Chapter 9 (N. Mao & S.J. Russell, §9.22 B. Pourdeyhimi) is the measurement-and-modelling capstone: it compiles test standards and structure→property models that let the bonding/finishing chapters be verified and optimised — the quantitative backbone for every hygiene metric.（中文：第 9 章是测量与建模总章，汇总测试标准与"结构→性能"模型，使前序粘合/整理章可被验证与优化，是所有卫生指标的量化工具有。）
+   • It asserts performance = composition × structure, then organises the field into bond-structure characterisation, dimensional parameters (weight, thickness, density, FOD, porosity, pore size), a compendium of test standards, measurement techniques and a modelling section.（主张性能=组成×结构，再分粘合结构表征、尺寸参数、测试标准汇编、测量技术、建模。）
+- Fluid-handling properties are explicitly enumerated (permeability, absorbency, penetration time, wicking rate, re-wet, barrier, strike time) — effectively the test menu for absorbent h
+   • Performance = composition × structure — every test/model traces back to both.（性能=组成×结构，所有测试与模型均源于二者。）
+- Wicking (in-plane) vs demand absorbency (through-plane) underpins ADL vs core uptake design.（面内芯吸 vs 贯穿吸收是导流层 vs 芯体吸收的设计基础。）
+- Wettability is a measurable surface-energy balance, linkable to Ch.7/Ch.8 finishes.（润湿性是可测的表面能平衡，与第 7/8 章整理关联。）
+- Standardised hygiene-specific test methods already exist for compliance QC.（针对卫生用品的标准化测试已存在，可用于合规 QC。）
+
+--- [[CMC-Na CA CNF SAP original article.pdf]]  (3 句)
+   • Peer-reviewed 2025 study of a fully bio-based **cellulose aerogel** superabsorbent (CMC-Na + citric-acid crosslinker + CNF scaffold) reaching 153 g/g absorption — a low-microplastic alternative to petro-based acrylic SAP for hygiene.（2025 年同行评议研究：全生物基纤维素气凝胶高吸水材料（CMC-Na + 柠檬酸交联剂 + CNF 骨架）吸水达 153 g/g，是卫品中石油基丙烯酸酯 SAP 的低微塑料替代。）
+   • **Material 材料**: Sodium carboxymethyl cellulose (**CMC-Na**) as the absorbent body; **cellulose nanofibers (CNF)** as the structural scaffold; **citric acid (CA)** as the crosslinker adding carboxylate sites.（材料：羧甲基纤维素钠（CMC-Na）为吸水主体；纤维素纳米纤丝（CNF）为结构骨架；柠檬酸（CA）为交联剂并引入羧酸位点。）
+- **Process 工艺**: homogeneous mixing → freeze-drying (lyophilization, 48 h) → **160 °C thermal cross-linking** to form a robust network.（工艺：均匀混合 → 冷冻干燥（48h） → 160°C 热交联成网。）
+- **Motivation 动机**: conventional SAPs are petroleum-ba
+   • A cellulose aerogel can reach >150 g/g absorption while being fully bio-based and microplastic-free — directly relevant to the bio-SAP roadmap.（纤维素气凝胶可在全生物基、无微塑料前提下达到 >150 g/g 吸水，与生物基 SAP 路线图直接相关。）—— 支撑页：Biodegradable SAP（可降解高吸水树脂）、纳米纤维素（CNC、CNF、BNC）
+- Retention under centrifugal force and heat shows practical robustness for hygiene loading.（在离心力与高温下的保水表现显示卫品载荷下的实用性。）
+

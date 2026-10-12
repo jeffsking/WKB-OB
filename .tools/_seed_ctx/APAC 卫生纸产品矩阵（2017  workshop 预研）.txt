@@ -1,0 +1,140 @@
+# SEED: APAC 卫生纸产品矩阵（2017  workshop 预研）
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx
+#
+# 全库正文命中 125 页，188 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]  (5 句)
+   • A K-C internal statistical study (Nov 2022) benchmarking the company's in-house absorbency test methods against industry standards — establishing that capacity/intake/rewet numbers are method-dependent and cannot be compared 1:1 across methods.（金佰利 2022 年 11 月内部统计研究，将公司自研吸收性能测试方法对标行业标准，结论是容量/摄入/回渗数值依赖方法，不可跨方法 1:1 比较。）
+   • **Business objective 业务目标**: Compare K-C methods to other methods used in industry for capacity, intake, and rewet.（对比 K-C 方法与行业其他方法在容量、摄入、回渗上的差异。）
+- **Methods 方法**: Capacity (g) — STM-00033 vs **ISO 11948**; Intake (s) & Rewet (g) — TTM-00672 vs **NWSP 70.9**.（容量：STM-00033 对比 ISO 11948；摄入与回渗：TTM-00672 对比 NWSP 70.9。）
+- **Design 设计**: n = 32 per product and per test, 4 lots per code.（每个产品/方法 n=32，每牌号 4 个批号。）
+- **Products 产品 (6)**: Depend Fit Flex (DFF), Depend Protection Plus (DPP), Kirkland Sign
+   • Per-product highlights (rewet, TTM-00672):
+- Depend Fit Flex (DFF) ≈ 0.44 g; Depend Protection Plus (DPP) ≈ 0.46 g — highest rewet.（回渗最高。）
+- Always Discreet (AD) and Kirkland (KS) ≈ 0.11–0.12 g — lowest rewet.
+- Capacity (ISO 11948): Assurance highest (≈1317 g), Always Discreet lowest (≈871 g).
+   • K-C internal STM/TTM numbers are **not** directly interchangeable with ISO/NWSP external numbers; any competitive benchmark must state the method.（K-C 内部 STM/TTM 数值与外部 ISO/NWSP 不可直接互换，竞品基准必须注明方法。）—— 支撑页：Rewet Test（回渗测试）、芯体测试方法与验收基准（STM）
+- Always Discreet is consistently the lowest-capacity product in this panel; Depend family runs higher rewet under the TTM-00672 protocol.（Always Discreet 在该面板中容量始终最低；Depend 系列在 TTM-00672 下回渗偏高。）
+
+--- [[Specific Air Volume]]  (4 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[芯体通道花型设计]]  (4 句)
+   • **What channels can and cannot do.** A channel is a **「物理槽」** — it addresses physical routing but **cannot solve U-shaped anti-gravity diffusion**; that half depends on material capillarity（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。**Bonding is double-edged:** it preserves the wet-state channel but harms U-shaped capillary conduction, so bonds **must be made narrow**（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+   • This is a **direct REL/ultra-thin-core design theme**: raising real SAP utilisation (reported elsewhere as only 30–40%) by structure rather than by material swap（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+- It is the **design object of the patterned SAP-core forming drum**, so pattern design is coupled to the Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） hardware and its forming-drum space / 3-D SAP-array engineering gap（源：V6 Product Design & Process Optimization Workshop（V
+   • 🔴 **Evidence-quality warning:** the transferable mechanism/constraint claims originate in **meeting discussion / process judgement, with no measured data**（源：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓））— treat the 「只加长、不加宽」and 「减 SAP + 加大开槽面积不成立」rules as会议判断, not proven results 。
+- **No geometry specification exists in the vault** — channel width, depth, length, pitch, count, and the boss dimensions are all unstated .
+- **No quantified performance delta** (utilisation %, cradle intake, rewet) at
+   • Gel Blocking（凝胶阻塞）
+- Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- COCO芯体平台
+- COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+- Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+- ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+- 2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+- Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+- SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+- 
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (4 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+   • **③ Post-workshop 会后**：通过 **KCNA Triangle Meetings** 与 **BCC/AFC global collaboration meetings** 做客户/相关方汇报。
+   • Intake System（摄入系统） · Cradle Intake Test（Cradle 摄入测试）
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） · Intake Systems Development Pathway 2023（摄入系统开发通路）
+
+--- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]  (4 句)
+   • Nuoer Group's own 2026 company deck (a converted slide PDF) — the **supplier-side counterpart** to the library's Nuoer pages. It supplies the group structure, the **2026–2030 capacity map**, Nuoer's **three-process / three-granule comparison**, its **grade catalogue with CRC and Vortex numbers**, and the **SAPP thickness benchmark**.
+（诺尔集团自述的 2026 年公司介绍（PDF 转写）。本库诺尔相关页面的**供应商侧对照来源**：提供集团结构、2026–2030 产能图、三种工艺/三种颗粒形态对比、带 CRC/Vortex 的牌号目录，以及 SAPP 厚度基准。）
+   • 原文标注中国市场**份额第一**（No.1 market share in China）。
+- **与 KC 的业务起点记作 2021 年**；同年 SAP 开始提供卫生巾解决方案。
+- 2024–2025 记录 **capacity 560 KT** 与 **new plant 3 lines**。
+   • **Capacity vs actual output**：本资料将 SAP 产能记为 560 KT，与库内既有记录（诺尔（Nuoer），国内市占率 60%+）方向一致，但**已运行产能与建成产能的区分未给出** 。
+- **NR-950 / NR-959 指标值缺失**：路线图把二者列为 2026 新品，但**目录中未给 CRC/AUL/Vortex 数值** 。
+- **N8 的"低 SAP 配比"适用性**：N8（CRC 40）明确标注用于 fluff diaper（low SAP ratio），与库内 COCO V6 的**高 SAP 低绒毛浆**方向相反，是否适用未讨论。
+   • **Backward integration to GAA is the structural story** —— GAA 240 KT → +80 KT（2027 Q1）是 SAP 成本与供应稳定性的上游支点 —— 支撑页：诺尔（Nuoer）、SAP（高吸水树脂）
+- **Granule morphology is the supplier's own selection axis** —— 蜂窝 / 不规则 / 珍珠-葡萄三态 —— 支撑页：SAP（高吸水树脂）
+- **SAPP is a thickness play, not a capacity play** —— 0.35 mm vs 0.82/1.1 mm 材料厚度 —— 支撑页：SAP 吸水纸（SAPP）
+- **Post-polymerisation claims the "low extractable" slot** —— 与预聚合的 high extractable 形成对照 —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (3 句)
+   • **北美**仍在研究 3.0 并拟 **11 月决策**；我方（亚太侧）内部已倾向放弃，但**当前不是告知北美的合适时机**，拟于 **10 月 workshop 之后**再谈，且需论证「转向 active 方向 capex 更低」。KC 侧方向**尚未确认**。
+- **平台化的真正缺口是可交付性**：global 在没有产品设计时先开发平台（属工程技术准备），**local 以落地为主**；缺一名**专职工程资源**作为全球开发方与各市场 local 团队之间的固定接口，用于把方案标准化并交付执行 → **目前没有这个资源**。
+- **不可能为每个市场单独开发工程方案**，也不能只做一套不顾差异 → 需要定义「可 handed over、便于 local 改装（retrofit）」的技术就绪度门槛，**该门槛未定义**。
+   • 1. **ActivTech 的价值不在"薄"，而在"成本 -10–15%"** —— 薄是手段，成本才是差异化；这也解释了为什么自研路线（Blizzard）值得投入。
+2. **专利属性改变了优先级排序**：技术本身评级高，但因"KC 专有、需规避专利"被 Workshop 降到 ⭐⭐ —— **专利风险可以独立否决一个高性能方案**。
+3. **"薄"有一个物理下限，由凝胶阻塞决定** —— 减薄不是无代价的；评估超薄方案时必须同时评估 **GBP**（GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制））。
+4. **去木浆 + 在线制造 = 双刃**：省掉木浆与离线成型环节，但把**渗透性的重任**全部压到 SAP 本身 → 这也是为什么 GBP 优化选型会成为解法的关键一环。
+   • ✅ **验证记录（2026-09-29）**：以上为 **Workshop 准备材料 v1.0** 口径（属**外部/竞品视角**的描述），引用 、 **原始文件未随本批次提供**；"KC 专有需规避专利"与 Blizzard 对标为文档判断 [待验证]。参见 COCO芯体平台、Composite Core Patent Clearance（复合芯体专利规避审查）、Multilayer SAP Core（多层SAP芯体）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）。
+
+--- [[Intake System（摄入系统）]]  (3 句)
+   • **教训一（摄入是系统，不是材料）**：换一层材料常常改的是**层序与界面**，而非单一指标。ATH 把绒毛浆并入摄入系统后回渗升高，就是反例。
+- **教训二（摄入层不该"装"液体）**：摄入层的价值在于**快速向下送**，装得越多回渗与皮肤湿润风险越高；评估摄入材料时**必须同时看它的"留住量"**。
+- **教训三（离开芯体谈摄入无效）**：同一导流层在 SAM/Fluff 与 AT hybrid 上档位不同，**引用摄入指标必须带芯体口径**。
+- **教训四（需求侧驱动 ≠ 技术判据）**：**"无疹皮肤健康是全球第一未满足需求"** 是需求判断，**不是可验收的技术指标**；把它转成判据需要**临床可测的终点**（区域表已把 "clinically measured skin health benefit" 列为机会，但**未给方法**）。
+- **教训五（区域约束不同，材料路线不能一刀切）**：同样的机会清单，EMEA 受**本地法规**、LAO 受**供应链**、APAC 受**上市速度**约束——**同一材料在不同区域的可行性不同**。
+   • Intake Systems Development Pathway 2023（摄入系统开发通路） —— 
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） —— 
+- Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展） —— 
+- 03_卫材产线约束常量表（准入校验工具） ——
+   • **权威边界（2022 战略章程口径）**：**In Scope = Enterprise（Global & KCNA）Adult Care + Baby/Child Care，液体为尿液与稀便（Runny BM）**；**Out of Scope = 女性护理、以及吸收芯体技术（SAM / Fluff / Adhesives / CIRRUS）**。
+  - 关键补充：芯体虽被划出界，但章程要求**「consider how these impact the intake systems strategy」** → **摄入系统与芯体是「分域但必须做影响传递」**的关系，不是互不相关。
+  - 同样被排除的还有：**战术性材料迁移计划与 glidepath**、**特定项目/区域的技术对比 POV** —— 即摄入系统战略管的是**技术域与机理**，不管具体牌号迁移与区域选型。
+- **顶级需求即组织维度**：四大企业级需求为 **Skin Health & Wellness（含 Fresh Protection）、Leakage Protection、Comfortable Wea
+
+--- [[SAP性能指标（CRC AUL GBP Vortex）]]  (3 句)
+   • 1. **CRC（Centrifuge Retention Capacity，离心保水率）**：0.9% 盐水、250 G 离心后的持液量（g/g）。代表**静态容量**——储库型 SAP 的主指标（NR-950 典型值最高）。
+2. **AUL（Absorbency Under Load，加压吸收）**：在一定载荷下（**0.3 / 0.7 / 0.9 psi**）的吸收量。代表**抗压容量**——穿在身上被体重压住时仍能吸多少。**口径必须随值标注**，0.9psi 与 0.7psi 不可横比。
+3. **GBP（Gel Bed Permeability，凝胶床渗透率）**：单位 Darcy。代表**液体穿过已膨胀凝胶床的能力**——高 GBP 让液体在吸湿后仍能向下渗透，是**顶层（第一响应层）**的关键指标，直接对抗凝胶阻塞与高回渗。
+4. **Vortex（涡旋吸收时间）**：一定量盐水在磁力搅拌下被 SAP 吸尽、涡旋消失的时间（s）。代表**吸收速率**——面层第一响应的速度。
+5. **PSD（粒径分布）**：以 850 / 600 / 300 / 150 / 45 μ
+   • 1. **AUL 的加压条件必须写明（0.9 psi）** —— 不同 psi 下的 AUL 不可直接比较；引述 AUL 时须同时给出载荷条件。
+2. **GBP 有独立区间（25–40 Darcy）**，与 CRC/AUL 并列而非派生 —— 这解释了为什么"高 CRC"产品仍可能渗透差：三者是**三个正交维度**。
+3. **产品分层的指标落点**（Workshop 口径）：
+   - **主流款**：单 SAP 层优化 → 只做 baseline；
+   - **高端款**：用 **REL 4 + 空隙体积优化** 补足，而非堆 CRC；
+   - **旗舰款**：**多 SAP 层系统**（快速层 + 主体层 + 保留层）→ 用**分层**绕开单一牌号的 CRC/AUL trade-off。
+4. **多 SAP 层是破解 CRC/AUL trade-off 的结构性办法**：不同层用不同牌号各司其职（快速吸入层低 CRC 高 AUL、主体层高 CRC），而不是要求一颗 SAP 同时做到两者。
+   • ✅ **验证记录（2026-09-29）**：以上区间来自 **Workshop 准备材料 v1.0**，其引用  **原始文件未随本批次提供**；标准号为文档口径，须回溯 EDANA 原文确认 [待验证]。参见 Multilayer SAP Core（多层SAP芯体）、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）、诺尔（Nuoer）。
+
+--- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]  (3 句)
+   • Date 日期：**2026-06-05**（文档生成日期）
+- 用途：**纸尿裤新品开发 Workshop** 的技术讨论参考
+- 准备方：纸尿裤研发专家团队（三个角色）—— **芯体工匠**（芯体结构 / ULDP / 仿真与测试 / 竞品对标）、**SAP 配方专家**（SAP 四大指标 / 供应商数据库 / 消臭型 SAP）、**无纺布工程专家**（亲疏水原理 / SMS 复合 / 壳聚糖纤维 / 纳米纤维素）
+- 文档版本：v1.0 ｜ 生成日期 2026-06-05
+   • 这是为纸尿裤新品开发 Workshop 准备的技术参考件：把候选 Feature 按 **Absorbency / Skin Health / Comfort** 三个维度拆开，给出参数、收益、成本与优先级，并组合成四个产品层级与一条 18 个月路线图，供 Workshop 做优先级投票与 GO/NO-GO 决策。
+   • 原始记录：（Workshop 准备材料 v1.0，2026-06-05）
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (3 句)
+   • Chapter 3 (pp. 93–127) is the most practically actionable chapter in the handbook: it converts "fast and full core" into two measurable numbers (C, Q), proves Capacity is predictable from thickness-per-gram while Rate is not (hence the structural constant K), and supplies the airlaid/needlepunched experimental dataset that directly maps areal density, low-melt ratio, needling intensity and SAP fraction onto product performance.（中文：第 3 章把"吸得快、吸得多"量化为 C 与 Q，证明容量可由每克厚度预测、速率必须引入结构常数 K，并给出可直接指导轻量化与非织
+   • **Function-first definition.** The core "exerts the force necessary to pull the liquid in, distribute it within the structure and hold it without releasing under normal external pressure" — pull, distribute, hold. Everything else in the chapter tests one of those three.
+- **Two metrics, one solvable.** C (cc/g) is predicted from T/W alone; Q (cc/g·s) is not. "The value of capacity can be monitored and predicted effectively by simply measuring thickness per unit mass and using eq. 1."
+- **Rate mo
+   • **Capacity is measurable before you build; rate is not.** T/W predicts C reliably, so areal density/thickness is the design variable to lock in early. Rate needs empirical K — treat any Q prediction from first principles as upper-bound only.
+- **Thinning is the highest-return lever in the chapter.** Every 40 g/m² of core removed pays back in both capacity and rate (40→160 costs 34%/54%); "thin" is not a comfort claim, it is a permeability-and-bulk argument.
+- **Low-melt share is a channel-plug d
+

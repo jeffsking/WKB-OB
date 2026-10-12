@@ -1,0 +1,1589 @@
+01_PLA_PPC_可降解材料研究报告.md
+03_卫材产线约束常量表（准入校验工具）
+04_B-CNF细菌纤维素纳米纤维技术研究报告.md
+05_细菌纤维素微凝胶技术研究报告.md
+06_SSMMS无纺布技术研究报告.md
+1-Piece vs 3-Piece CD Pants Design（一片式 vs 三片式裤型设计对比）
+2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）
+2025.03.13 - GML update.pptx
+2025.06.25 - Learning Cycle Check In（GRIFFIN 学习周期复盘）
+2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）
+2025.09.02 - AC Brand Connect.pptx
+2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx
+2025.10.03 - STEC 2025 - Rewet Design Principles.pptx
+2025至2030中国聚乙醇酸（PGA）行业投资策略与可持续发展建议报告
+2026-05-05 - QUINN.pptx
+2026.02.18 - Raegan Informal.pptx
+2026.04.21 - Capillarity Expansion - Raegan Informal.pptx
+2026年上半年国内茂金属催化剂突破
+2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）
+2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）
+3D In-line Embossing Topsheet（3D 在线压花面层）
+3D 面层-支持层结合强度两法对比（WI-56934 vs WI-57507）
+3D面层CD拉伸强度测试.pdf
+80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+82 鼓距与产品节距解耦 repitch 选型
+83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+84 Sleeve 工程规格与换装防错设计
+85 双层pattern芯体套准工程规格
+87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）
+87 卫材产线约束常量表（待并入补充行）
+A review on superabsorbent polymers
+AATCC 100 抗菌整理定量测试方法
+AATCC TM100-2019 抗菌整理测试
+ADL（导流层）
+ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）
+ADT POV 2025 Complex Core Strategy（ActivTech vs 外部复合芯体）
+ADT Rewet Update 2026-03-31（回渗进展 ADT 版）
+AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+AI Core Settings for Chris Wang 2026-06-06 v3（AI核心设定_王总_2026-06-06_v3）
+AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体
+APAC 卫生纸产品矩阵（2017  workshop 预研）
+APAO（非晶态聚α-烯烃）
+ASTM E2149-20 Dynamic Contact Antimicrobial Activity（平行备份 · 正文同样缺失）
+ASTM E2149-20 Dynamic Contact Antimicrobial Activity（标准正文缺失 · 仅 ASTM 知识产权政策前置页）
+ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+ATB双梳理面层（Dual-Card Topsheet）
+ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）
+AUL 加压吸水率
+Absorbent Product Testing
+Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）
+Absorbent System Overview（K-C 吸收系统概览培训·2021-02）
+Absorbent Technology
+Absorbent Technology Introduction
+Absorbent Technology Textile Science and Technology
+Acquisition Test STM-00060（导流性能测试）
+Acrylic-Based Superabsorbent Polymers
+ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+Active Diagnostic Zones（主动诊断分区）
+Active Hygiene Roadmap（力致变色材料商业化路线图）
+ActiveTech Platform（ActiveTech 在线薄芯体平台）
+Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）
+Adhesive Handbook
+Adhesive Handbook Part 1 History and Information Resources
+Adhesive Handbook Part 2 Fundamental Aspects
+Adhesive Handbook Part 3 Adhesive Classes
+Adhesive Handbook Part 4 Applications
+Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）
+Airlaid Paper（无尘纸）
+Airy Window（腰围透气窗）
+Always Discreet Adhesive Pattern Dimensions.pptx
+An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks
+Ancient Dyes and Pigments
+Ancient Organic Dyes and Pigments Chemistry
+Antiferroelectric Liquid Crystals
+Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）
+Antimony-Free PET Fibre（无锑 PET 纤维）
+Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+Ardex
+August R&D Meeting 2026（华峰研发会议）
+BASF
+BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）
+BASF Biomass Balanced Superabsorbents（v3 归档同名件）
+BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）
+BC Microgel（细菌纤维素微凝胶）
+BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）
+BCC RD 供应商拜访情报 — 拜科瑞（20260831）
+BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）
+BCNF Nonwoven vs PP Nonwoven（BCNF 无纺布 vs 常规 PP 无纺布）
+BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）
+BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx
+BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗）
+BM Simulant A（便液模拟液 A）
+BM Urine Indicator Concept（尿+便双指示概念）
+BM simulant A配方 & BM gun操作.docx
+BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）
+BNC Application Red Line（BNC 应用红线）
+BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）
+BNC 与绒毛浆和 SAP 定位对比
+BNC 卫品应用路线对比（A–F 六赛道）
+BNC 卫品技术可行性评估（Slide 大纲版，20260824）
+BNC 卫生用品技术可行性评估（访前尽调详细版）
+BNC 基 SAP 表面交联
+BNC 技术分享 PPT 大纲（20260908）
+BNC 技术分享讲稿（中文，20260908）
+BNC 技术分享（英文完整版，20260911）
+BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+BNC-PEG 母粒（干态可复水中介体）
+BNC功能层嫁接可行性对比
+BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx
+BSL Tier Differentiation（面层分档与产品档位差异化）
+Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）
+Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）
+Bessel 函数
+Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+Bicomponent Fibre Technology Development Trends
+Bicomponent Fibre Technology Trends China and Abroad
+Bile Pigment Mordant Lane（胆色素媒染通道）
+Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+Biodegradable SAP（可降解高吸水树脂）
+Biodegradable Thermoplastic Synthesis PLA Triblock Elastomers
+Bladder Box Intake Test（膀胱箱压载摄入测试）
+Blizzard Core（Blizzard 芯体结构）
+Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）
+Blowout Leakage Test（爆漏测试）
+Boltzmann 变换
+Book Review Handbook of Adhesion by Packham
+Bostik
+Botanical Extract Efficacy Verification（植物提取物功效验证）
+Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）
+Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）
+C1 Life Biotech
+CBC Lab Report 2026-06-04（检验报告20260708132924）
+CD Pants Converting Process（CD裤式产品加工工艺）
+CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）
+CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）
+CD pants machine process.pptx
+CFD 计算流体力学
+CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）
+CI-06 COCO V6 第三轮试产测试结果
+CLC 手性向列晶
+CMC 临界胶束浓度
+CMC-Na CA CNF SAP original article.pdf
+CN 101464548 A（光缆-电缆阻水材料及其制备方法·含超吸水纤维 SAF）
+CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）
+CN 102961219 A（一种新型尿不湿·南通蒲公英）
+CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）
+CN 105862253 A（一种热粘合无纺布及其生产方法·湖北高翔）
+CN 107057251 B（一种聚丙烯酸钠-纳米纤维素晶体复合高吸水性树脂及其制备方法）
+CN 107854223 B（一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法）
+CN 108035071 A（热风无纺布及其在纸尿裤上的应用和纸尿裤·杭州可靠护理）
+CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院）
+CN 110776598 B（一种高吸水性树脂及其在尿不湿中的应用）
+CN 110862635 A（一种抗菌耐盐高吸水树脂及其制备方法和应用）
+CN 111317617 A（可判断大小便的纸尿裤·马西臣）
+CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）
+CN 111973346 A（一种纸尿裤的减压腰围及其制作工艺·贵州卡布）
+CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）
+CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）
+CN 112851860 A（可降解的纤维素-聚丙烯酰胺复合保水剂和制备方法·杭州所予科技）
+CN 113423778 B（吸水性组合物及其制造方法·花王）
+CN 114044919 A（TEMPO氧化纳米纤维素基复合水凝胶及制备方法·陕西科技大学）
+CN 114149650 A（一种抗盐抗菌型高吸水树脂及其制备方法）
+CN 114376803 A（一种裤型吸收制品弹性腰围·米卫（杭州））
+CN 115368497 B（一种纸尿裤生产用高吸水性树脂及其制备方法）
+CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）
+CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学）
+CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院）
+CN 117379257 A（具有护脐功能的超高腰婴儿纸尿裤及其生产工艺·江西安秀）
+CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）
+CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）
+CN 1330679 C（两性离子高吸水树脂及其制备方法·中国林科院林化所）
+CN 210932251 U（一种透气弹性腰围的纸尿裤·广州汉氏卫生用品）
+CN 218515875 U（一种吸水性强的婴幼儿用尿裤·福建三只小猪）
+CN 222018549 U（一种百褶裤型纸尿裤·湖州因爱伟大）
+COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）
+COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+COCO V6 试产原料准备会（Summary 版）
+COCO V6 试产原料准备会（v2 Final）
+COCO V6 试产原料准备会（英文版，2026-09-11）
+COCO 芯体成型质量判读方法对比（China-STM-03_04_05 vs TTM-02_03）
+COCO芯体平台
+CRC 离心保持能力
+CTI (Chromatic Technologies)
+CTI（Chromatic Technologies Inc.）
+CTMP 化学热磨浆
+Cabot Corporation（卡博特）
+Cabot DARCO KB-G Powdered Activated Carbon (TDS)
+Cabot DARCO KB-G TDS（v3 归档同名件）
+Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)
+Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）
+Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）
+Case II 扩散
+Cassie-Baxter Equation
+Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+Characterisation, testing and modelling of nonwoven fabrics
+Chemical bonding
+China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）
+China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）
+China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图）
+China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026）
+China National Pulp and Paper Research Institute（中国制浆造纸研究院）
+China vs Korea Diaper Market（中韩纸尿裤市场对比）
+China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）
+China-WI-62416 无纺布变形测试 20240201.docx
+Chitosan Fibre（壳聚糖纤维）
+Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+Chromic Materials Bibliography（变色材料书籍·温湿力精表）
+Chromic Phenomena
+Chromic Phenomena Introduction and Reversible Colour Change
+Chromic Phenomena Solar Energy and Liquid Crystals
+Chromism Taxonomy（变色现象分类）
+Chungnam National University and Hanyang University（韩国大学研究伙伴）
+Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)
+Clariant
+Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）
+Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+CoPET ADL 转型蓝图（皮层聚合物替代评估）
+CoPET 与 PET 成本对比
+CoPET 与 PET 成本差异对比（2026 年 7 月）
+CoPET 供应基盘背调汇总（26 家企业·联系方式版）
+CoPET 供应基盘背调汇总（布局核实精简版）
+CoPET 双组份热粘合纤维市场与供应商（供应链分层·文档版）
+CoPET 双组份热粘合纤维市场与供应商（供应链分层·明细表）
+CoPET 采购蓝图：成本拆解与供应分层
+CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）
+CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版）
+CoPET-PET 与 PE-PET 成本差异对比 v3（卫材级对等口径修正）
+CoPET-PET 与 PE-PET 成本结构深度拆解报告
+CoPET-PET 与 PE-PET 皮芯纤维对比
+CoPET_PET与PE_PET成本结构拆解.xlsx
+CoPET（低熔点共聚酯）
+Coating and Laminating Technology
+Coco V6 试产原料清单（Raw material list v3.0）
+Coform Composite Nonwoven（熔喷-木浆复合非织造）
+Cohesive Fastener（自粘扣合系统）
+Competitive Benchmark - 1Q 2026.xlsx
+Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）
+Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）
+Composite Core Patent Clearance（复合芯体专利规避审查）
+Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）
+Computational Modeling in Absorbent Technology
+Concentration-Dependent Diffusion Methods (Crank Ch.7)
+Consumer Relevancy of FIUP Method Feb 2025.docx
+Contact Angle
+Controlled Radical Polymerization SAP（控制自由基聚合 SAP）
+Core Channel Pattern（芯体通道花型设计）
+Core Wrap（芯体包裹层）
+Cosmetic Formulation of Skin Care Products
+Cosmetic Science and Technology
+Cradle Intake Test（Cradle 摄入测试）
+Cross-linked Cellulose and Derivatives
+Cross-linked Cellulose and Its Derivatives
+DIC
+DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一）
+Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN）
+Daehyun（大炆·微胶囊）
+Daio Paper Corporation（大王製紙）
+Danufil 粘胶
+Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）
+Dayuan（大原）
+Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+Degradable SAP Routes（可降解 SAP 四路线对比）
+Depend Rewet Over Time.xlsx
+Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）
+Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）
+Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）
+Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）
+Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+Development of the nonwovens industry
+Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）
+Diaper Microclimate
+Diaper Microclimate Visualization Feasibility (Dual-MVP)
+Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）
+Diaper Premiumization（纸尿裤高端化）
+Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径）
+Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+Diffusion Equations (Crank Ch.1)
+Diffusion and Chemical Reaction (Crank Ch.14)
+Diffusion in Heterogeneous Media (Crank Ch.12)
+Diffusion in a Cylinder (Crank Ch.5)
+Diffusion in a Plane Sheet (Crank Ch.4)
+Diffusion in a Sphere (Crank Ch.6)
+Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+Donnan 溶胀
+Dow Chemical Company
+Dry-laid web formation
+Dryness Measure System（干爽度量三分）
+Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）
+EDANA 2022 Absorbent Hygiene Products
+EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program
+EDANA（欧洲非织造布协会）
+EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）
+EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)
+EP0820747A1 Absorbent Article with Elastic Feature (P&G)
+EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik)
+EP1347788B1 Antimicrobial Hot Melt Adhesive (Bostik)
+EP1581159B1 Method for Producing Diaper Pants（弹性片材）
+EP2413866B1 Disposable Wearing Article (Unicharm)
+EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)
+EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)
+EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)
+EP3636698B1 Super Absorbent Resin (LG Chem)
+EP4428211A1 Hot Melt Adhesive Composition (Bostik)
+ES Fibre Hydrophilic Function and Applications
+ES 双组分弹性纤维热风布（弹性体改性）
+ES 纤维 ES Fiber
+ES 纤维热风非织造布驻极性能初探
+ES 纤维驻极研究
+Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification
+Ebewole Polymer Science Ch02 Polymerization Mechanisms
+Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure
+Ebewole Polymer Science Ch04 Thermal Transitions in Polymers
+Ebewole Polymer Science Ch05 Polymer Modification
+Ebewole Polymer Science Ch06 Condensation Step-Reaction Polymerization
+Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization
+Ebewole Polymer Science Ch08 Copolymerization
+Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+Ebewole Polymer Science Ch10 Polymer Reaction Engineering
+Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing
+Ebewole Polymer Science Ch12 Solution Properties of Polymers
+Ebewole Polymer Science Ch13 Mechanical Properties of Polymers
+Ebewole Polymer Science Ch14 Polymer Viscoelasticity
+Ebewole Polymer Science Ch15 Polymer Properties and Applications
+Effect of Drying Methods on Bacterial Cellulose Aerogel
+Elastic Strand Snicking（弹性橡筋断丝失效化）
+Elastic Tension & Creep（橡筋张力与回缩率）
+Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）
+Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）
+Electrospinning vs Conventional Nonwoven（静电纺丝纳米纤维与传统非织造对比）
+Electrospinning（静电纺丝）
+Elite Color (ECER) Company Profile（优彩环保英文版公司介绍）
+Elmarco（Elmarco 纳米纤维设备）
+Embedded vs Detachable Smart Diaper Architecture（嵌入式 vs 可拆卸式智能纸尿裤架构对比）
+Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)
+Emerging applications of stimuli-responsive polymer materials
+Emon Jiangsu（江苏益盟）
+Evonik（赢创）
+Experiments to parallel Poise studies.docx
+FENC（远东新世纪）
+FIFE Test（FIFE 摄入-回渗评价）
+FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）
+FIUP Test Method TTM-00643（女性摄入与回渗测试法）
+FIUP collagen Testing Victoria Maria.pptx
+FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）
+FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）
+Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）
+Fameccanica（Angelini Technologies）
+Fastener Strength Tests Compared（粘扣强度测试口径对比）
+Fibers and Fibrous Materials
+Fiberscope
+Fibertex（Fibertex 非织造布供应商）
+Fick 定律
+Film-Free Backsheet（无膜背层）
+Finished Product Testing Method Summary（成品测试方法汇总表）
+Fitesa（Fitesa 非织造布）
+Flexible Stretchable Electronics (imec)
+Flexible Stretchable Electronics Deep Read
+Flexible and Stretchable Electronics
+Flory- Rehner Theory
+Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+Fluid Absorption in High Bulk Nonwovens
+Folded Product Dimension Test（折叠后长度·宽度测量）
+Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）
+Formation-Limited Barrier（阻隔的成形受限机理）
+Formosa Plastics（台塑）
+Freundlich 等温线
+Front Belt Force Window（前腰带弹性力窗口）
+Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流）
+Full Results.xlsx
+GATS 重力吸收测试
+GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+GB 15979-2024 与 GB 15979-2002 主要技术变化对比
+GB 15979-2024（一次性使用卫生用品卫生要求）
+GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）
+GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求）
+GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+GB 5009.137-2025 Determination of Antimony in Foods（食品安全国家标准 食品中锑的测定）
+GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）
+GB 5296.5-2006 Instructions for Use of Products of Consumer Interest Part 5 Toys（消费品使用说明 第5部分 玩具）
+GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）
+GB 7917.1-1987 Hygienic Chemical Test Methods for Cosmetics Mercury（化妆品卫生化学标准检验方法 汞）
+GB 7918.1-1987 Microbiological Test Methods for Cosmetics General（化妆品微生物标准检验方法 总则）
+GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）
+GB 7918.5-1987 Microbiological Test Methods for Cosmetics Staphylococcus aureus（化妆品微生物标准检验方法 金黄色葡萄球菌）
+GB-T 13519-2016 Polyethylene Heat-Shrinkable Film for Packaging（包装用聚乙烯热收缩薄膜）
+GB-T 21331-2021 Fluff Pulp（绒毛浆）
+GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂 · 平行备份）
+GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）
+GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）
+GB-T 27728-2011 Wipes（湿巾 · 副本1）
+GB-T 27728-2011 Wipes（湿巾）
+GB-T 27728-2011 与 GB-T 27728.3-2024 湿巾标准对比
+GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+GB-T 27731-2011 Release Paper for Sanitary Products（卫生用品用离型纸）
+GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）
+GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫）
+GB-T 28004-2011 与 GB-T 28004.1-2021 婴儿纸尿裤指标对比
+GB-T 28004-2011（纸尿裤国标测试口径）
+GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）
+GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本1）
+GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2）
+GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）
+GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+GB-T 28004.1-2021（纸尿裤国标）
+GB-T 28004.2-2021 Adult Diapers（纸尿裤 第2部分 成人纸尿裤）
+GB-T 28005-2011 Paper Underpants（纸内裤）
+GB-T 28207-2011 Release Base Paper（离型原纸）
+GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）
+GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸 · GBT 重复源）
+GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）
+GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+GB-T 34448-2017 Determination of Formaldehyde in Tissue Paper and Disposable Products（生活用纸及纸制品 甲醛含量的测定）
+GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）
+GB-T 36420-2018（生活用纸化学品安全评价体系）
+GB-T 39951-2021 Degradability Evaluation for Disposable Paper Products（一次性纸制品降解性能评价方法）
+GB-T 43585-2023 Disposable Tampons（一次性卫生棉条）
+GB-T28004-2011 PH.doc
+GB-T28004-2011 回渗渗漏.doc
+GB-T28004-2011 滑渗.doc
+GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+GBP（From Nuoer）.docx
+GBT28004.1-2021纸尿裤中交货水分的测定.doc
+GBT28004.1-2021面层附着物.doc
+GFL General Presentation for KC Asia 20260603
+GFL（热风无纺布）
+GHC 福建冠泓·冠和 公司介绍（KC 2026）
+GHC（福建冠泓·冠和）
+GIC Korea（K-C 韩国 GIC）
+GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）
+GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）
+GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）
+GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）
+GST
+Gasketing Effectiveness（防漏阻隔有效性）
+Gel Blocking（凝胶阻塞）
+General Conclusions and Appendixes
+General Introduction and Objectives
+Geometric Optical Mask（几何光学掩膜）
+Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）
+Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）
+Glueless Bonding（无胶粘合工艺族）
+Grafted Cellulose and Starch
+Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+Groove Capillary Suction
+Guoke Haina（国科海纳）
+H.B. Fuller（富乐）
+HEC 羟乙基纤维素
+HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）
+HSBL Peel Test Results（面层-导流层剥离强度实测）
+HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）
+Hagen-Poiseuille Equation
+Handbook of Adhesive Technology Full Report
+Handbook of Cosmetic Science
+Handbook of Industrial Drying
+Handbook of Nonwovens
+Handbook of Plastic Films
+Handbook of Polymer Reaction Engineering
+Handbook of Polypropylene and Polypropylene Composites
+HaoYue Nursing（豪悦护理）
+Henan Jiayida（河南嘉亿达）
+Henkel
+Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）
+Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）
+Hercules Aqualon
+High-Density Fluff Core（高密度绒毛浆芯体）
+High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）
+History of FIUP TTM-00643（FIUP 测试方法沿革史）
+Holographic Structurally Colored Mechanochromic Films
+Hook-and-Loop Strength Test（粘扣系统强度测试）
+Hot Melt Adhesive
+Hot-Melt Slot Coating（热熔狭缝涂布）
+Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）
+Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）
+Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）
+Huayi Group（待核中文名）
+Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）
+Hydrogel-based Superabsorbent Polymers
+Hydrogels in Regenerative Medicine
+Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+Hygiene Absorption Model
+Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）
+Hypothesis Map.xlsx
+IFRA Standards Guidance (2023-06-30)
+IFRA Standards Guidance (2023-06-30) · 12 大产品类别版
+IFRA Standards 与 12 大产品类别体系
+IFRA（国际香料协会）
+IMA 知识库索引（2026-08-21）
+IMA 知识库索引（2026-09-04）
+IMA 知识库索引（2026-09-11）
+IMA 知识库索引（2026-09-18）
+IMA 知识库索引（2026-09-25）
+IPA（间苯二甲酸）
+IPC BCC FEI Update（IA2.0 · 2026-06-22）
+IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）
+IPC BCC OI Portfolio（开放创新项目组合）
+IPC BCC OI Project List 17.9.2026（供应商明细版）
+IPC BCC OI Project List 2026-09-18（重构版·19 项）
+IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）
+IPC BCC OI 项目清单 2026 v2（2026-09-17）
+IPC BCC（K-C Baby & Child Care 材料开发团队）
+IPC与FBI团队创新合作计划
+In-line 3D Nonwoven Formation（在线三维成形非织造）
+Industrial Drying Ch1 Principles and Classification
+Industrial Drying Ch15 Impingement Drying
+Industrial Drying Ch17 Conveyor Dryers
+Industrial Drying Ch28 Osmotic Dehydration and SAP Physics
+Industrial Drying Ch33 Drying of Fibrous Materials
+Industrial Drying Ch34 Drying of Textile Products
+Industrial Drying Ch35 Drying of Pulp and Paper
+Industrial Drying Ch40 Drying of Coated Webs
+Industrial Drying Ch41 Drying of Polymers
+Industrial Drying Ch46 Energy Aspects
+Industrial Drying Ch48 Safety Aspects
+Industrial Drying Ch50 Solid-Liquid Separation
+Industrial Drying Ch53 Cost Estimation
+Infinite and Semi-Infinite Media (Crank Ch.3)
+Informational Image on Pull-On Article（可穿脱制品信息图形）
+Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx
+Intake Systems Development Pathway 2023（摄入系统开发通路）
+Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）
+Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）
+Intake System（摄入系统）
+Intake Tech One-Pagers（摄入系统技术一页纸管线）
+Intellego Technologies AB
+Intelligent Textiles and Sports Clothing
+Interactively Mechanochromic Electronic Textile Sensor
+Introduction to Liquid Crystals
+Introduction to Physical Polymer Science
+JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）
+JRCA RCES SER01 Standards Development Expert Qualification（规格开发专家资格基准 · 文件名误标 JIS L 1902）
+Jiangnan High-Fibre Company Visit & Fibre Technical Exchange（江南高纤公司介绍及产品技术交流会议纪要 · 2026-07-01）
+KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+KC Nanjing Plant（金佰利南京厂）
+KC Tianjin Mill（金佰利天津厂）
+KC U Rewet测试.docx
+KC 内部 STM 与 EDANA _ GB-T 原材料测试方法体系对比
+KC 访厂纪要 2026.7.1（总览·含江南高纤）
+KC 访厂纪要 2026.7.1（江南高纤）
+KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx
+KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）
+Kimberly-Clark（金佰利）
+Kimtech（毛细测试设备外协加工与装配）
+Kirigami Apertured Nonwoven（切割拉伸开孔工艺）
+Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）
+Klemm 法
+Koch Industries
+Korea Visa Grant Notice APEV03R08CH（APEV03R08CH-new passport）
+Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局）
+Kuraray（可乐丽）
+LG Chem SAP Product Page（Chinaplas Acrylates_SAP）
+LG Chem SAPPYER SAP（Chinaplas Acrylates_SAP）
+LG Chem（LG 化学）
+LMP-PP Brief — Plan C Technical Supplement
+LMP-PP Resin Development Brief
+LMP-PP Resin Development Brief (Integrated Edition)
+LMP-PP方案C技术论证
+LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+LUGH Liner Program（LUGH 面层项目）
+LXBIO 拜访报告（2025-09-25 泰兴 PPC-P 基地）
+Lagrangian Particle Tracking
+Laplace Pressure
+Laplace 变换
+Laser-Assisted Die Tip（激光辅助模头）
+Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）
+LbL 自组装 Layer-by-Layer
+Levima New Materials（联泓新材料）
+Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）
+Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）
+Liner Surge Development - Active Swoosh - Sept 2023.pptx
+Liner Surge Evolution.pptx
+Liner-Surge Embossing（面层-导流层压花）
+Liner-Surge Interface HSBL Trial.xlsx
+Liner-Surge Interstitial Space（面层-导流层界面间隙）
+Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）
+Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1
+Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+Liquid Crystalline Polymers Smart Applications
+Liquid Crystalline Polymers for Smart Applications
+Liquid Diffusion Test（液体扩散测试）
+Liquid Flow in Porous Structures
+Liquid Modes（TL-1607 液体四态）
+Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）
+Luminescence Fluorescence Phosphorescence and Electroluminescence
+MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+MD Liquid Distribution
+MDP plus弧形皮筋张力测试.pdf
+MR Fiber 福建闽瑞新合纤公司介绍（KC 2026-07-06）
+MXD G-100 技术数据表（PGA 树脂）
+MXD G-101 技术数据表（PGA 树脂）
+Main S.p.A.（SOFTCARE HAF）
+Mannequin BM Test（BM 假人测试）
+Mannequin Lab（Rockwell 假人平台）
+Mannequin 三条假人测试路线对比（Static vs Motion vs BM）
+Manufactured Fibre Technology
+Manufactured Fibre Technology Ch01 Introduction
+Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres
+Manufactured Fibre Technology Ch03 Fluid Flow in Fibre Spinning
+Manufactured Fibre Technology Ch04 Melt-Spinning Processes
+Manufactured Fibre Technology Ch05 Computer Simulation of Melt Spinning
+Manufactured Fibre Technology Ch06 Solution Spinning Processes
+Manufactured Fibre Technology Ch07 Spin Finishes
+Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres
+Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres
+Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres
+Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres
+Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres
+Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres
+Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+Manufactured Fibre Technology Ch15 Acrylic Fibres
+Manufactured Fibre Technology Ch16 Polypropylene Fibres
+Manufactured Fibre Technology Ch17 Rayon Fibres
+Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres
+Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes
+Manufactured Fibre Technology Ch20 Reuse of Polymer and Fibre Waste
+Marangoni Effect
+Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）
+Market, Government Relations & Product Safety Crisis Review（市场、政府关系及产品问题探讨）
+Marketing Claim Translation Paradigms（市场宣称六大转化范式）
+Material Open Innovation Function（材料开放创新职能）
+Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）
+Material Safety Control（材料安全双轨管控）
+Mathematics of Diffusion
+Matsui Shikiso (松井)
+Mechanical bonding
+Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）
+Mechanochromic Elastomer from PDLC 5CB PDMS
+Mechanochromic Fluorescent Polymers with AIE Features
+Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+Mechanochromic Materials Technical Review（EN v3, 2026-08）
+Mechanochromic Photonic Sensors
+Mechanochromic Routes Comparison（力致变色技术路线对比）
+Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）
+Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）
+Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）
+Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）
+Mechanochromic变色纤维
+Mechanophore Mechanochromism（机械力致变色分子）
+Median Absorption Pressure Gradient（中值吸收压梯度）
+Meltblown Nonwoven（熔喷非织造布）
+Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+Microencapsulation
+Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments
+Modern Size Exclusion Liquid Chromatography
+Moisture-Responsive Fibre（湿敏变形纤维）
+Molecular and Supramolecular Systems
+Motion Mannequin Test（动态假人测试）
+Moving Boundaries (Crank Ch.13)
+Multilayer SAP Core（多层SAP芯体）
+NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）
+NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx
+Nagase（长濑产业）
+Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）
+Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）
+Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）
+Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+Nanocellulose Review（纳米纤维素综述 · 2026-09-09）
+Nanocellulose Route Cost Structure（纳米纤维素三路线成本结构对比）
+Nanocellulose Technology Roadmap for Hygiene Materials（纳米纤维素卫材应用技术路线图 V1）
+Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+Natural Superabsorbent Plastic Materials Based on Functionalized Soy Protein
+Navier-Stokes Equation
+New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）
+New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025）
+Nichidai（日丝）
+Nippon Shokubai（日本触媒）
+Non-Fickian Diffusion (Crank Ch.11)
+Nonwoven Deformation Force Test（无纺布形变力测试）
+Nonwoven Lamination
+Nonwoven Process Classification（非织造布工艺分类）
+Nonwoven Supplier Capability & 3D Embossing Platform Review（标准录音 2）
+Nonwoven fabric finishing
+Nonwoven 非织造布
+Nonwovens in Absorbent Materials
+Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+Numerical Methods for Diffusion (Crank Ch.8)
+Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）
+Nuoer Group 2026（诺尔集团公司介绍）
+Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）
+OASIS SAF 102-80-10 技术数据表（02_ 归档同名件）
+OASIS SAF 102-80-10 技术数据表（Technical Absorbents）
+OASIS SAF 102-80-10 技术数据表（v3 归档同名件）
+OEKO-TEX
+OI项目清单与优先级
+Odor Control Technology Landscape（异味控制技术图谱）
+Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）
+Odour Management Routes（气味管理技术路线）
+Odour-Control Granular Interference（除臭颗粒干扰）
+Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+Olefin-Based vs EVA Construction Hot Melt（烯烃基 vs EVA 结构胶）
+One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）
+Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+Ontex
+Open Diaper Process（开放式纸尿裤工艺）
+Open-Source AI-CFD Framework Routes（开源 AI+CFD 五类路线对比）
+Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）
+Origin of Rubber Elasticity
+Origin of Rubber Elasticity Book
+OxyChem
+P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）
+P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况）
+PAA 聚丙烯酸
+PCM-Free Thermoregulation
+PCM-Free Thermoregulation with BNC Nanofiber Network
+PE-PET Bond Efficiency Model
+PEG-多元醇 × 纤维素吸水体系交叉索引
+PET（聚酯）
+PGA（聚乙醇酸）
+PLA 玉米纤维
+PNIPAAM
+PPC 纺粘试产记录（2026-05-01）
+PPC&PGA 基无纺布开发方案（第二版）
+PPC-P 基与 PGA 基可堆肥纤维路线对比
+PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）
+PPG Industries
+PPS 薄膜压力传感应用场景（触感压力分布技术）
+PPS（触感压力传感）
+PP基皮芯与PET基皮芯对比
+PP纤维级树脂技术综述
+PSA
+PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）
+PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）
+PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）
+PTT（聚对苯二甲酸丙二醇酯）
+PVAc 乳液
+PVA纤维（湿强骨架）
+Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）
+Pain-Point Backward Derivation（痛点倒推法）
+Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）
+Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+Peel Test STM-00438（剥离强度测试）
+Pentagram PET (Star Cross-Section Fibre)
+Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)
+Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet
+Personal Care Process 101 - How It's Made（卫品加工工艺入门）
+Phenoxyethanol（苯氧乙醇）
+Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）
+Photochromism Dihydroindolizines
+Physics of Liquid Crystals (Book Review)
+Pin-Hole Module, Targeted Fluff Distribution & Elastic Recovery Process Review（新材料开发与弹性恢复工艺探讨）
+Polymer Reaction Engineering
+Polymer Science and Technology (Textbook)
+Polymer Testing Handbook
+Polymer Testing Handbook Short-Term Mechanical Tests
+Polymer-laid web formation
+Polyolefin Absorbent Materials
+Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+Polypropylene Handbook Preview
+Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins
+Polyurethane Elastomer Handbook
+Pore Size Distribution Monodispersity（孔径分布单分散性）
+Porous Structure and Liquid Flow Models
+Powdered Activated Carbon（粉末活性炭）
+Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx
+Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流）
+Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）
+Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester
+Pressure Sensory Test（压力触感测试）
+Pressure Sensory 测试方法.docx
+Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）
+Principles of Polymerization
+Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+Probiotic-Prebiotic-Postbiotic Diaper Project Review（益生菌-益生元-后生元尿布项目方案评审 · 录音纪要 2026-08）
+Product Development & Trial Plan Workshop（产品研发与实验计划研讨）
+Product Dimension Measurement（成品尺寸测量）
+Product Report-Out FB.xlsx
+Product Safety Crisis Management（产品安全危机管理）
+Product Team Report-Outs.pptx
+Product Waist Break Test（产品腰围拉断测试）
+Products and Technology Perspective
+Project Portfolio Review & Resource Planning（项目梳理与资源规划）
+Protein Error of pH Dye（pH 染料的蛋白误差）
+Public Alternatives（书籍公开替代资源清单）
+QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）
+QUOTATION For Dual forming drum system 20260721.pdf
+Qiansebian（千色变新材料）
+Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）
+Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021)
+Questions and Concerns Against the 1st Draft
+R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）
+R160739 TL-15582（单次加液与总载荷目标的方法学更新 · 2015）
+R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf
+R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf
+REL Simulation Baby Diaper Core（五纤维 TAB 增强层模拟与改进路线图）
+REL Splice Tensile Test（REL 拼接拉断力测试）
+REL Variant C vs Option B Dual-Layer（成本·性能·供应链）
+REL for 100% SAP Core（全SAP芯体增强层设计）
+REL vs ADL（收集传递层 vs 导流层）
+REL增强层
+RKW SE
+ROTC（Real Online ThinTech Core）
+Raw Material STM - Nanjing Plant（原材料STM-NJ）
+Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）
+Raw Material Testing Method Summary（原材料测试方法汇总表）
+Relevant Product Measurements.pptx
+Relevant Product Measurements.xlsx
+Rengo Nonwoven Products
+Repitch（鼓距与产品节距解耦）
+Research Advances in Superabsorbent Polymers
+Research Advances in Superabsorbent Polymers (Polymers 2024)
+Residual Fluid & Pore Stranding（残液与孔隙滞留）
+Resilient Surge（PET 回弹导流层）
+Retention Capacity Test（滞留能力测试）
+Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）
+Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）
+Rewet Development.pptx
+Rewet Learning Plan（回渗学习计划工作表）
+Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx
+Rewet Measurement Variability（回渗测试变异性）
+Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+Rewet Method Comparison_brief.pptx
+Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）
+Rewet Method Comparison（回渗测试方法横向对比）
+Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）
+Rewet Method Parameters（回渗测试方法参数沿革）
+Rewet Principles History and Opportunity（2025-03-04 回渗总纲与历史沿革）
+Rewet Principles v10.07.25.pdf
+Rewet Principles.docx
+Rewet Principles.pdf
+Rewet Principles（回渗设计原则与测试方法关联）
+Rewet Protocols Compared（回渗测试口径对比）
+Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）
+Rewet Test（回渗测试）
+Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）
+Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）
+Rextac（APAO 热熔胶）
+Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）
+Run-off & Leakage Test（滑渗与渗漏测试）
+Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279）
+SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）
+SAF vs SAP（超吸水纤维 vs 高吸水树脂）
+SAF 高吸水纤维的生产工艺与技术进展
+SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）
+SAM Database-CW（全球 SAM 牌号性能数据库）
+SAM Distribution Test（SAM 分布膨胀测试）
+SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+SAM Testing Methods（超级吸水材料测试方法）
+SAM_511_分析汇报.pptx
+SAM保水量（From China National Testing Method）.docx
+SAM加压吸收(From Nuoer).docx
+SAM吸收速度（From Nuoer）.docx
+SAM吸收量(From China National Testing Method).docx
+SAM密度(From China National Testing Method).docx
+SAM水分测定(From China National Testing Method).docx
+SAM通液速度(From Nuoer).docx
+SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）
+SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）
+SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）
+SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）
+SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）
+SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）
+SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+SAP Production Process Walkthrough — Polymerisation, Grinding & Surface Treatment（I sap生产流程介绍）
+SAP Selection Decision Base（17-SAP选型与实验数据决策库）
+SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）
+SAP Zoned Blend vs Mono Design（分区混掺 vs 单牌号均布 · SAP 设计对比）
+SAP database for COCO.xlsx
+SAP 吸水纸（SAPP）
+SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）
+SAP 干燥 SAP Drying
+SAP 溶胀 SAP Swelling
+SAP 表面包覆（SAP Particle Surface Coating）
+SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+SAPPYER® SLI_SLIM_SLIE + Bio-balanced SAP（LG Chem）
+SAP性能指标（CRC AUL GBP Vortex）
+SAP错峰膨胀
+SAP（高吸水树脂）
+SBS 弹性体
+SCA Hygiene Products AB
+SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS-1575-16, 2016)
+SCCS（欧盟消费者安全科学委员会）
+SDHY Group ppt for KC_EM BCC R&E
+SDHY Group（非织造布）
+SDP Global 控制自由基聚合 SAP 公告（18_ 归档同名件）
+SDP Global 控制自由基聚合 SAP 公告（v3 归档同名件）
+SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）
+SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+SMMMS vs SMMSMMS（成本·性能·供应链）
+SMS 复合无纺布
+SMS 纺粘熔喷复合
+SMS复合结构
+SNF FloSorb & DryTech Superabsorbent（企业介绍）
+SNF（法国）
+STM-00033 滞留能力.docx
+STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）
+STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）
+STM-00040 厚度.docx
+STM-00048 SAM含量.docx
+STM-00049 绒毛纤维度.docx
+STM-00059 反渗.docx
+STM-00060 导流性能.docx
+STM-00061 折页渗漏.docx
+STM-00064 Diaper尺寸.docx
+STM-00069 重量.docx
+STM-00070 Elastic Tension - BCC Products（皮筋张力测试 第4版）
+STM-00071 粘扣结合强度.docx
+STM-00075 剥离.docx
+STM-00076 剪切.docx
+STM-00078 端封强度.doc
+STM-00090 腰围密封强度.doc
+STM-00146
+STM-00232布质外层与loop的粘连强度（人工方法）.docx
+STM-00240Loop 粘连强度测试.docx
+STM-00305 SAM分布.docx
+STM-00429 Void Volume as a Function of Saturation（方法正文）
+STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）
+STM-00433 Pants尺寸.doc
+STM-00440 腰围皮筋张力.doc
+STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）
+STM-00686弧形皮筋张力.doc
+STM-01078 OD产品折叠后长度、宽度测量方法（产品折叠长度）.docx
+STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx
+STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc
+STM-01086 BCC Pants 产品拉断测试（成品）.doc
+STM-1001平面扩散实验.docx
+STM-1002U型扩散实验.docx
+STM-4597纸尿裤SAM分布测试.docx
+Sabic
+Sanyo Chemical · SDP Global（三洋化成工业）
+Satellite Chemical（卫星化学）
+Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）
+Scope Contract - 2025 Fundamental Rewet Improvement.pptx
+Seal Strength Test（端封·侧封强度测试）
+Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）
+Seawater-Degradable SAP 3D Hydrogel System Technical Report（海水可降解SAP三维水凝胶体系技术调研）
+Self-Powered Photonic Sensor CLCE Sandwich
+Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+Seymour Carraher Polymer Chemistry
+Seymour Polymer Chemistry Ch01 Introduction to Polymer Science
+Seymour Polymer Chemistry Ch02 Polymer Structure and Morphology
+Seymour Polymer Chemistry Ch03 Molecular Weight of Polymers
+Seymour Polymer Chemistry Ch04 Testing and Spectrometric Characterization
+Seymour Polymer Chemistry Ch05 Rheology and Physical Tests
+Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization
+Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+Seymour Polymer Chemistry Ch08 Free Radical Chain Polymerization
+Seymour Polymer Chemistry Ch09 Copolymerization
+Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers
+Seymour Polymer Chemistry Ch11 Inorganic-Organic Polymers
+Seymour Polymer Chemistry Ch12 Inorganic Polymers
+Seymour Polymer Chemistry Ch13 Fillers and Reinforcements
+Seymour Polymer Chemistry Ch14 Plasticizers and Additives
+Seymour Polymer Chemistry Ch15 Reactions of Polymers
+Seymour Polymer Chemistry Ch16 Synthesis of Reactants
+Seymour Polymer Chemistry Ch17 Polymer Technology
+Seymour Polymer Chemistry Ch18 Special Topics
+Shalag（Shalag 导流层与面层材料）
+Shandong Nameixin Biotechnology（山东纳美欣生物科技）
+Shaped PET Add-On Window
+Shenghong Group（盛虹集团）
+Shenzhen Xingcheng（深圳星辰）
+Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）
+Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30）
+Shin-Etsu Chemical（信越化学）
+Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+Signal Comprehension Gate
+Silane Coupling Agent
+Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)
+Skin Contact Pressure（皮肤接触压力）
+Skin Health Treatment on Nonwoven（无纺布护肤处理）
+Smart & Connected Garments (IEEE)
+Smart Fabric Textiles Recent Advances and Challenges
+Smart Fabrics and Networked Clothing
+Smart Polymers Ch01 Phase Transitions and Light Scattering
+Smart Polymers Ch02 Responsive Polymer Brush Theory
+Smart Polymers Ch03 Conformational Transitions in Ionic Gels
+Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts
+Smart Polymers Ch05 Microgels from Smart Polymers
+Smart Polymers Ch06 Protein-Based Smart Polymers
+Smart Polymers Ch07 Imprinting Using Smart Polymers
+Smart Polymers Ch08 Smart Hydrogels
+Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers
+Smart Polymers Ch10 Boronate Copolymers and Gels
+Smart Polymers Ch11 Smart Polymer Drug Delivery
+Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+Smart Polymers Ch13 Affinity Precipitation of Proteins
+Smart Polymers Ch14 Hydrogels in Microfluidics
+Smart Polymers in Biotechnology and Biomedicine (Book)
+Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）
+Smart Textile Visual Perception (GRID)
+Smart Textiles & Wearables
+Smart Textiles Review
+Smart Textiles and Sportswear
+Smart Textiles and Their Applications
+Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）
+Specific Air Volume
+Stakeholder Report-Out.pptx
+Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+Static Mannequin Test（静态假人测试）
+Stefan 问题
+Stimuli-Responsive PCM
+Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications
+Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+Stimuli-Responsive Polymer Materials (Nature Materials Review)
+Stimuli-Responsive Polymers
+Stokes Number
+Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）
+Stretch-Triggered Colour Indicator for Diaper Pant Side Panels
+Structural Colour Mechanochromism（结构色力致变色）
+Structured Minutes — New Material Development & Elastic Recovery Process（录音纪要 2026-09-20）
+Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）
+Sumitomo Seika（住友精化）
+Summary of Pressures on Products（产品在使用中的受压汇总）
+Sun Chemical
+Super Absorbent Fibre（超吸水纤维 SAF）
+Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)
+Superabsorbent Polymers and Superabsorbent Polymer Composites
+Surface Moisture Test（面层干爽性测试）
+Surface Tension and Surface Energy
+Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）
+Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）
+Suzano（书赞桉诺）
+Suzhou Yimeng (Mono-PET Spinner)
+SymDeo™ XPP 抑臭聚合物
+Symrise SymDeo™ XPP Polymer (Deo Polymer)
+Symrise SymDeo™ XPP 抑臭聚合物（中文版）
+Symrise（德之馨）
+Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+Synthesis of Biodegradable Thermoplastics
+Synthesis of Thermoplastic Polyester Elastomers
+T5 Pants COCO V2 TD34 Trial Results（四个 Bench Code 与试产数据）
+TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+TBCW结构
+TCF Bleaching（全无氯漂白）
+TJ Mill Visit Pre-Brief v3.1（中文版 · TJ工厂访问会前简报 2026-09-07）
+TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）
+TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）
+TPE Tetraphenylethylene
+TTM-00038 Compression Test for Absorbent（吸收体压缩测试）
+TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+TTM-00148 Cradle测试.doc
+TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx
+TTM-00279产品30°滑渗测试.docx
+TTM-00296产品外层滚轮测试（Pin Hole）.docx
+TTM-00302 面层干爽性.doc
+TTM-00445 BM Run-off.docx
+TTM-00466 BM Benefit Visualization Validation.docx
+TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）
+TTM-00512 绒毛完整性.doc
+TTM-00609 面层材料起毛起球测试.doc
+TTM-00623高低压反渗测试.docx
+TTOBMA（木浆市场研究与价格指数机构）
+Technical Absorbents Ltd（TAL）
+Technology Roadmap 2026-2029（技术路线图）
+The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）
+The LYCRA Company（莱卡）
+The Physics of Liquid Crystals
+The Procter & Gamble Company（宝洁）
+The Role of Surfactants
+Thermal bonding
+Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)
+Thermochromic Microcapsule (Leuco Dye System)
+Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）
+Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+Thermoelectric Materials and Applications Review
+Thermoelectric Phenomena and Materials
+Thermoelectric Polymer Materials ZT Figure of Merit and PGEC
+Thickness Test（成品厚度测试）
+Three-Way SAP Design Comparison（三方案 SAP 设计仿真对比）
+Tianjin Security-Chemical（天津塞特瑞科技）
+Titratable Acidity Lane（可滴定酸度通道）
+Topical liner Supporting layer Embossing pressure.pdf
+Topsheet Fuzz & Pilling Test（面层起毛起球测试）
+Topsheet（面层）
+Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）
+TotalEnergies
+Toyobo Group Integrated Report FY2025（东洋纺）
+Toyobo 转换价格调整公告（2011 · 文件名误标 SAF Datasheet）
+Toyobo（东洋纺）
+Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner
+Triple Cutting Topsheet（三层切割面层）
+US 20070270773 A1（Thermochromic Wetness Indicator）
+US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui)
+US10905605 Pull-On Wearable Article with Informational Image
+US10905605B2 Pull-On Wearable Article with Informational Image (P&G)
+US11013641 Garment for Detecting Absorbent Article Leakage
+US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark)
+US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)
+US11612524B2 Breathable Diaper Backsheet (Colormasters)
+US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem)
+US20070270773A1 Thermochromic Wetness Indicator
+US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)
+US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)
+US20240099910A1 Digitally Printed Backsheet Film (RKW SE)
+US5197958 Wetness Indicating Diaper
+US5197958A & US5389093A Wetness Indicating Diaper (Howell)
+US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)
+US5389093 Wetness Indicating Diaper System
+US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)
+US8273939 Windowed Removable Sensor Absorbent Article
+US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)
+US9950308B2 Superabsorbent Polymer (LG Chem)
+Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+Ultrasonic Bonding of PET-Containing Topsheet
+Unicharm Corporation（尤妮佳）
+Unikorn
+University of Waterloo（滑铁卢大学）
+Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）
+Urine and BM Absorbent Basic Training Introduction（尿与便吸收体基础培训·开篇·2021-02）
+Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）
+V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）
+VO2
+Videoimagescope
+Viscoelastic Properties of Amorphous Polymers
+Viscoelastic Properties of Amorphous Polymers Book
+Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+Void Volume 与压缩模量两条孔隙表征路线对比
+WI-19395外层材料剥离测试.docx
+WI-60236 REL拼接拉断测试.pdf
+WI-63848 Static mannequin.docx
+WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）
+WI-64766温湿度纽扣测试方法.docx
+WKB 标签体系统计报告（2026-08-29）
+WO 2009-071584 A1（Grindeks 咪唑类制备工艺·文件名标注有误）
+WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)
+WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)
+WRV 水保留值
+WVTR 测试口径（失重法 vs 增重法）
+Waist Guard（腰围护挡）
+Wanhua Chemical（万华化学）
+War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）
+War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）
+Washburn Equation
+Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）
+Water-Activated Ink（水变／湿变油墨）
+Wearable Electronics (NSR Editorial)
+Wearable Electronics (National Science Review 2023)
+Wearable Sensors (Book Preview)
+Wearable Sensors Fundamentals Implementation and Applications
+Wenzel Equation
+Wet-laid web formation
+Wetness Indicator Glue
+Wetness Indicator Ladder（尿湿指示阶梯）
+Wetting Pattern Target Zone（润湿图谱目标区）
+Wilhelmy 湿附力法
+Work of Adhesion
+X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）
+Young's Equation
+Yundi Introduction 20260603（佛山裕迪）
+Yundi（佛山裕迪）
+Zeolite Odour Control（沸石除臭载体）
+Zihua 上海紫华薄膜科技公司介绍（KC 2026-06-02）
+ZnO Antibacterial Fibre（氧化锌抗菌纤维）
+bluesign
+engineering proposal.pptx
+indicator-video-mechanism-judgment.docx
+k-ε 湍流模型
+mocon底膜透气率测试.docx
+pH 响应材料
+v10 优化执行方案建议（Claude Code + Gemini CLI 分工评估 · 2026-06-16）
+一氯乙酸 Monochloroacetic Acid
+三叶形截面纤维（Trilobal Fibre）
+三房巷
+三相接触线 TPL
+三类纳米纤维素对比（CNC、CNF、BNC）
+上海德福伦
+与华峰集团会晤纪要（2026-07-29）
+丙烯酸丙烯酸酯胶 Acrylic Adhesive
+东丽
+东华大学
+东莞市天正纸业有限公司
+两亲吸附 Amphipathic Adsorption
+两性离子高吸水树脂（纤维素接枝耐电解质）
+中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+中国母婴市场未来3-5年趋势洞察_2027-2030.pptx
+中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）
+中弘芯（青岛）传感科技（Zhonghangxin Sensing）
+中石化
+中石油石化研究院
+中科依兰
+中空纤维 Hollow Fibre
+乳化剂 Emulsifier
+交联 CMC
+交联密度 Crosslink Density
+亲水-疏水梯度设计
+亲水化 Hydrophilisation
+亲水整理 Hydrophilic Finish
+亲水整理耐久性
+仪征化纤
+优化 REL 五纤维配方与穿透热风粘合工艺模拟
+优彩环保
+传统芯体 vs 复合芯体（性能·成本·供应链）
+低温PP纺粘与TBCW低成本方案
+低熔点 PP 开发任务书：方案 C 技术要点补充页
+低熔点 PP 粒子开发任务书
+低熔点PP技术路线对比
+低熔点PP的冲突地图
+低熔点共聚酯及皮芯复合纤维技术突破
+低熔点聚丙烯
+保湿剂 Humectant
+保留层 Retention Layer
+健康监测 Health Monitoring
+偶氮染料 Azo Dye
+光子晶体 Photonic Crystal
+光致变色 Photochromic
+光致变色油墨 Photochromic Ink
+全息存储 Holographic Storage
+全芯体 vs 混合芯体
+全芯体材料清单与实验计划 v2.0
+兰精莱赛尔与国产莱赛尔对比
+兰精集团
+内部测试方法 橡筋回缩率 -20210926最新.pdf
+再润湿剂 Rewetting Agent
+分区密度设计
+分布层 Distribution Layer
+利安德巴塞尔
+刺激响应聚合物 Stimuli-Responsive Polymer
+力致变色供应商甄选报告（2026-08-01·证据标注版）
+力致变色材料研究报告（2026-08-02·纸尿裤应用研判）
+功能性差别化纤维（PTT_超仿棉_纳米凉感）
+功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）
+动边界 Moving Boundary
+化妆品安全技术规范（2015年版）
+化妆品安全技术规范（2015年版）·检验方法篇
+化妆品微生物限值（细菌总数·致病菌）
+化妆品科学 Cosmetic Science
+化妆品限用-准用组分体系（中国 2015 技术规范）
+半胶束 Hemimicelle
+华东师范大学
+华南理工异形纤维：创新科技的纺织材料（公众号科普）
+华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）
+华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）
+华峰集团（Huafon Group）
+协同吸附 Cooperative Adsorption
+单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+卫材氨纶供应商对比（华峰千禧 vs 莱卡 HYFIT vs 泰和新材 vs 中柏 vs 河北邦泰）
+卫材胶黏系统 Hygiene Adhesive Systems
+卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）
+卫生护理用品行业特种变色油墨（光敏温敏湿.pdf
+卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）
+卫生用品五大认证体系对比
+卫生用品认证体系完全指南
+压敏胶 PSA
+原纤化
+厦门翔鹭
+双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）
+双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）
+双组分纤维 Bicomponent
+反应-扩散耦合 Reaction-Diffusion
+取代度 DS
+变色材料 Chromic Materials
+变色油墨
+变色油墨 Color-Changing Ink
+变色油墨供应商综合技术联系表
+变色油墨供应商综合技术联系表（1）
+变色油墨供应商联系表（19 家 · 联系方式敏感）
+变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）
+可冲散拭布 Flushable Wipe
+可家庭堆肥无纺布（Home Compostable Nonwoven）
+可穿戴传感器 Wearable Sensor
+可降解材料路线对比（PPC-P+PBAT vs PDA vs 淀粉基 SAP）
+可降解生物基材料与薄且强芯体技术深度解析
+可降解皮芯架构对比（PPC-PBAT 皮 × 四芯层）
+可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）
+可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）
+合金粘胶 Alloy Rayon
+含水率 Moisture Regain
+吸收芯体
+咖啡炭纤维（异味吸附）
+嘉兴新丰
+回渗 Rewet
+国产mPP与进口mPP对比
+国内 CoPET 纤维厂商与无锑细旦核实表（2026-07-09）
+壳聚糖 Chitosan
+壳聚糖及壳聚糖纤维技术与应用总结报告
+复合吸收芯体（Composite Absorbent Core）
+复合材料 Composite
+复合膜 Composite Membrane
+天丝 Tencel
+天丝为什么突然这么难买
+天富龙集团与扬州富威尔公司简介（Tinfulong／Fuweier 2025-05-10）
+天富龙集团（Tinfulong Group）
+天津石化
+天然染料 Natural Dye
+婴儿纸尿裤 GB-T 28004.1-2021 与成人纸尿裤 GB-T 28004.2-2021 指标差异对比
+孔隙率 Porosity
+季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）
+宁波大发
+宜兴丹森科技有限公司
+导电无纺布 Conductive Nonwoven
+导电纱线 Conductive Yarn
+尾水培养基（非粮生物合成）
+尿液模拟液（Urine Analog）
+局部亲水印花面层（锥形孔导流）
+层压 Lamination
+峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）
+巴斯夫欧洲公司（BASF SE）
+干燥塌孔（Horrification）
+干燥角质化 Hornification
+并列复合自卷曲纤维
+广州石化
+广鸿新材
+应力诱导取向与结晶
+底膜 Backsheet
+延江（Yanjan）
+异型截面涤纶纤维卫生用品生产商清单（11 家·产能与应用确认）
+弹性热熔胶腰围（减压腰围）
+弹性评价三条路径对比（张力 vs 拉断 vs 可视化指示）
+形状记忆聚合物 Shape Memory Polymer
+微纤丝化纤维素 MFC
+德泽贸易（松井中国代理商）
+德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）
+德福伦高感性聚酯纤维简介（哈希前缀归档同名件）
+德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）
+快速吸水自膨胀纳米纤维素材料（华东师大）
+恒安（Hengan）
+恒碳（Hengtan）
+恒逸
+感光变色材料产品资料（UV_CHT1608V2 · 台系变色供方）
+感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）
+感湿-感温双变色层大小便判别
+戊二醛 Glutaraldehyde
+成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）
+成纤性判据
+成纤聚合物的判据
+扁平形截面纤维（Flat Fibre）
+承压吸收 AUL
+投研圆桌报告（恒生科技·先导智能·卧龙电驱·斯瑞新材 20260530）
+抗菌整理
+抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+抗菌除臭高吸水树脂（CNC 载体双功能 SAP）
+抗（抑）菌性能评价（杀菌率·抑菌率）
+拜科瑞 BNC 发酵与发泡线纪要
+接枝共聚 Graft Copolymer
+接触角 Contact Angle
+摩擦电自供电 TENG
+摩擦纳米发电机 TENG
+改性纤维素 Modified Cellulose
+数值模拟 Numerical Simulation
+断裂力学 Fracture Mechanics
+斯托克斯位移 Stokes Shift
+新维盛集团（Xinweisheng Group）
+无溶剂氨纶（Solvent-free Spandex）
+无纺布-五大工艺论剑
+无纺布五大工艺对比
+无纺布分类工艺及性能差异.docx
+无锑聚酯
+时间滞后法 Time Lag Method
+昆明理工大学
+智能包装 Smart Packaging
+智能尿裤功能层
+智能尿裤功能层专利地图
+智能尿裤功能层专利地图（湿态指示-压力传感-抗菌除臭-导电加热·2026-09-05）
+智能织物 Smart Textile
+有限体积法
+有限元法
+有限差分法
+有限差分法 Finite Difference
+木浆 Pulp
+未来3-5年纸尿裤商业化技术集与开发方向
+机械变色 Mechanochromic
+机械脱水 Mechanical Dewatering
+染料敏化太阳能电池 DSSC
+柔性电子 Flexible Electronics
+格林函数 Green's Function
+格菲林（Gefilin）
+桐昆集团
+棉纤维 Cotton
+植物基材料 Plant-Based Material
+植物提取物 Plant Extract
+橡筋拉伸比测试.doc
+每克厚度 T／W
+毛细压力 Capillary Pressure
+毛细梯度设计
+毛细管压力 Capillary Pressure
+毛细管吸收 Capillary Sorption
+毛细芯吸 Capillary Wicking
+气铺 Airlaid
+氨纶干法纺丝（Spandex Dry Spinning）
+水凝胶 Hydrogel
+水凝胶脱水干燥工艺族谱
+水刺 Hydroentanglement
+水性聚氨酯 Waterborne PU
+汇维仕
+汉高
+江南高纤
+河南嘉屹达新材料官网：热压敏染料产品页（JYDR-5）
+活性炭除臭（DARCO）
+流变学 Rheology
+浊点 Cloud Point
+海南拜瑞科
+海南拜科瑞公司介绍（纳米纤维素全产业链智造方案）
+海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+消毒产品标签宣称红线（中国 GB 38598-2020）
+润湿 Wetting
+润湿剂 Wetting Agent
+液晶 Liquid Crystal
+深沟槽涤纶 Deep-groove Polyester
+渗透率 Permeability
+温变 vs 湿变微胶囊技术参数对比
+温变湿变微胶囊技术参数对比表
+温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）
+温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）
+温度响应材料
+湿冷感 Wet-Cool
+湿巾 Wet Wipes
+湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+湿强剂 Wet-Strength Resin
+湿态压缩模量
+湿态强度 Wet Strength
+湿感指示条 Wetness Indicator
+湿热耦合 Heat-Moisture Coupling
+湿迁移 Wet Migration
+澳洲dip and drip 实验.docx
+澳洲厚度测试.docx
+热传递 Heat Transfer
+热熔胶 Hot Melt Adhesive
+热电现象 Thermoelectric
+热粘合热风无纺布 Airlaid
+热致变色
+热致变色 Thermochromic
+热轧粘合 Calender Bonding
+热风与针刺无纺布
+热风无纺布
+热风粘合无纺布
+热风非织造 Hot-Air Bonded Nonwoven
+熔喷 Meltblown
+熔融指数与化学降解
+爆裂纤维 Burst Fibre
+环氧乙烷残留（EO Residue）
+环氧氯丙烷 Epichlorohydrin
+珠光颜料 Lustre Pigment
+生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）
+生物基单体 Bio-based Monomer
+生物基高吸水材料（大豆蛋白 SAP）
+生物纤维素 Bacterial Cellulose
+生物胶黏剂 Bioadhesive
+甲醛 Formaldehyde
+甲醛排放 E1
+电子纺织品 E-textile
+电致发光 Electroluminescence
+电致变色 Electrochromic
+皖维高新
+皮肤科学 Dermatology
+皮芯复合纤维
+皮芯架构决策矩阵（可降解热风无纺布）
+盐城市中联
+盛色科技官网关于我们（BLOCLO 温变与光变材料）
+盛色科技（BLOCLO）
+相变材料 Phase Change Material
+硅烷偶联剂 Silane Coupling Agent
+磷酸化纤维素 Phosphonoalkylcellulose
+福地（Fudi）
+福建兴泰
+福建闽瑞新合纤
+离型纸 vs 离型原纸（GB-T 27731-2011 vs GB-T 28207-2011）
+离子变色 Ionochromic
+离子对吸附 Ion Pair Adsorption
+离子强度 Ionic Strength
+移动版的workbuddy还可以选择Claude的模型？
+稀释便液 BM simulant A
+等电点 Isoelectric Point
+等离子处理 Plasma Treatment
+粘合剂 Binder
+粘胶 Rayon
+粘胶纤维 Viscose Fiber
+粘附张力 Adhesion Tension
+紫华公司（Zihua, Zijiang Group）
+纤维 Fibril
+纤维干燥 Fiber Drying
+纤维扩散 Fiber Diffusion
+纳米纤维素供应商拜访计划 V3.1（2026Q2）
+纳米纤维素基高吸水树脂（茶渣-CNC 接枝）
+纳米纤维素增强无纺布技术研究报告（2026-04·NFC_CNC 路线）
+纳米纤维素纤维技术及应用深度研究报告
+纳米纤维素（CNC、CNF、BNC）
+纸尿裤 2D 吸收模型 v10 优化结果报告（Markdown 原稿版 · 2026-06-16）
+纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner）
+纸尿裤核心技术与应用材料全景解析
+纸尿裤的异味控制与消除.pdf
+纸尿裤的核心结构及市场主流方向
+纸浆干燥 Pulp Drying
+纺粘 Spunbond
+纺粘熔喷 Spunbond-Meltblown
+细菌纳米纤维素
+绒毛浆（Fluff Pulp）
+结构性常数 K
+结构色 Structural Color
+美鑫达（XDM）
+羧甲基纤维素 CMC
+联欣 LXBIO T55P25T20 线纺专用料 TDS（PPC-P-PBAT 可降解）
+联欣环保科技（泰兴）
+聚合物分散液晶 PDLC
+聚合物刷 Polymer Brush
+聚氨酯 Polyurethane
+聚酯为什么要控制水分：水解机理、动力学与纺丝后果
+聚酯水解与水分控制
+聚集诱导发光 AIE
+胆甾相液晶 Cholesteric Liquid Crystal
+胆甾相液晶弹性体 CLCE
+胶乳 Latex
+胶乳胶黏剂 Latex
+胶接热力学 Adhesion Thermodynamics
+胶接理论 Adhesion Theories
+胶束 Micelle
+胶黏剂 Adhesive
+脱水干燥工艺族谱（一页纸）
+自-sizing Self-sizing
+自由体积 Free Volume
+舒美
+芯体测试方法与验收基准（STM）
+芯体花型设计评审会（录音纪要 20260724）
+芯体通道花型方案对比（中轴 vs 叶脉 vs 八字 vs 特斯拉）
+芯体通道花型设计
+芯包材料对比（LSN MPM vs PSN MPM）
+花王株式会社（Kao Corporation）
+芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）
+苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）
+茂金属聚丙烯
+茂金属聚丙烯进口依赖度较高，进口替代空间广阔
+荧光增白剂 Optical Brightener
+莱赛尔 Lyocell
+获取层 Acquisition Layer
+蒙脱土 Montmorillonite
+蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）
+蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）
+薄膜压力分布传感（Pressure-Sensing Film）
+藻酸盐 Alginate
+虚拟原型 Virtual Prototyping
+螺噁嗪 Spiroxazine
+表面交联 Surface Cross-linking
+表面活性剂 Surfactant
+角化 Hornification
+解键剂 Debonding Agent
+认证与法规的区别
+诺尔集团供应商拜访会议纪要_含流程图.docx
+诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx
+诺尔（Nuoer）
+贵州卡布婴童用品有限责任公司
+赛得利
+超分子 Host-Guest Chemistry
+超细氨纶密排腰围（褶皱布纹）
+超高腰护脐结构（5-10cm 腰围）
+辐射冷却材料 Radiation Cooling
+达西定律 Darcy's Law
+过滤材料 Filter Material
+透气弹性腰围（打孔氨纶）
+道恩集团介绍（道恩斯维特 2026）
+道恩集团（Dawn Group）
+针刺 Needlepunching
+银纳米线 AgNW
+锑测试方法：ICP-MS vs ICP-OES（检出限·成本·适用性）
+锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）
+锦琪昶（KSC, King's Choice）
+防水透气 Waterproof Breathable
+防腐剂 Preservative
+陕西科技大学
+露乐健康科技股份有限公司
+非织造芯体材料技术讨论会（Bryan 优先清单 2026-06-09）
+面层粘合强度测试方法.pdf
+韩国行程与世界遗产清单（12日·个人旅行计划表）
+香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）
+香豆素 Coumarin
+驻极体 Electret
+高吸水纤维技术应用.pdf
+鸡毛纤维 Chicken-feather Fibre
+아시아나노텍 주식회사（Asiananotech）

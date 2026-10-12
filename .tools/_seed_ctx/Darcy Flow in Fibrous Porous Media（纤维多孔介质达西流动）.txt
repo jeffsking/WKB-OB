@@ -1,0 +1,148 @@
+# SEED: Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+#
+# 全库正文命中 217 页，337 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Washburn Equation]]  (5 句)
+   • What the digest *does* evidence is its **result form and its theoretical family**：in a porous medium the advancing wicking-front distance obeys **x_v ∝ t^(1/2)**，named the **Washburn / Rudd relation**（源：Liquid Flow in Porous Structures，p. 24, p. 37）；the equation is grouped into Chapter 1 "Porous Structure and Liquid Flow Models" of *Absorbent Technology*, alongside the **Péclet number, Darcy's law, Washburn equation and capillary rise**（源：Absorbent Technology）。The full explicit form（in terms of 
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • **The full explicit Washburn expression and its corrected form in fibrous / nonwoven porous media** —— 。
+- Boundary conditions where one-dimensional Washburn fails（the excerpt is truncated）——，not guess-repaired。
+- The distinction and applicability domains of the Rudd and Washburn relations 。
+- Parameterisation of the equation in this vault's core C/Q model（values of Φ, r, θ, μ）。
+
+--- [[孔隙率 Porosity]]  (5 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **2. 大孔水凝胶的两条制备主线：** 反应诱导相分离（RIPS）与冷冻凝胶化（cryogelation）；制备过程中的相分离是形成大孔的主因（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。冷冻凝胶反应区聚合物浓度 $c = \nu_2 \rho$，凝固关系见 Eq 9.2（$T_{prep}$、$T_f^0$、$\nu_2$、$\nu_e$、$\chi$ 诸项）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。交联剂浓度、惰性稀释剂（造孔剂）用量与种类、温度三者共同决定不均一性/孔隙率，并与溶胀和力学耦合（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+   • **原始引用来源（Cited by, 4 处）**
+- Characterisation, testing and modelling of nonwoven fabrics
+- Fibers and Fibrous Materials
+- Liquid Flow in Porous Structures
+- Porous Structure and Liquid Flow Models
+   • **提供正文摘录的库内页面**
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers
+- 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）
+- Gel Blocking（凝胶阻塞）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- PCM-Free Thermoregulation
+- BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- Electrospinning Technolog
+
+--- [[达西定律 Darcy's Law]]  (5 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • **无材料级渗透率 / 孔隙率数值**：库内各页给出达西定律与扩散因子的**公式**，但**未给出绒毛浆/非织造/SAP 层的 k、Φ 实测值**——需回 *Absorbent Technology* 原文补齐。
+- **达西定律的适用上限**：摘要未给出 Reynolds 数适用边界或 Forchheimer 修正的触发条件（源：Porous Structure and Liquid Flow Models 未涉及）。
+- **与毛细动力学的时间标度**：x_v ∝ t^(1/2) 的比例常数在摘要中**未数值化**（源：Liquid Flow in Porous Structures）。
+- **流体性质项**：μ（黏度）在摘要中仅作为 K = k/μ 的组成出现，**具体流体（尿/血/模拟液）黏度值未给出**。
+- **落地方案**：库内无把达西定律直接用于**产线工艺参数（如施胶量、压花）**的记录，属理论接口而非工艺口径。
+
+--- [[Bessel 函数]]  (4 句)
+   • *"Bessel 函数：I₀, J₀, J₁ 是柱 / 球坐标下的标准工具"*（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- *"Bessel 函数 J₀ 级数是单纤维吸液动力学的解析工具"*（源：Diffusion in a Cylinder (Crank Ch.5)）。
+   • Bessel 函数由**分离变量法**在**柱 / 球坐标**下解恒 D 扩散方程时自然出现：C = u(x)·exp(−Dα²t) 得到 Bessel / 三角本征值问题（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- 在**柱坐标**（纤维 / 圆柱颗粒）中，Bessel 函数是扩散解析解的标准工具；J₀ 级数用于**单纤维吸液动力学**建模（源：Diffusion in a Cylinder (Crank Ch.5)）。
+- 在**圆盘源**（湿巾湿斑）解中，[J₁(ωa)]² 出现在积分核里（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+   • **单纤维吸液动力学**：J₀ 级数用于建模纤维径向吸液（源：Diffusion in a Cylinder (Crank Ch.5)）。
+- **湿巾湿斑扩散**：圆盘源解 Q(t) 含 [J₁(ωa)]² 项，作为湿斑扩散模型（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- 关联概念页：纤维扩散 Fiber Diffusion、湿迁移 Wet Migration、格林函数 Green's Function、SAP（高吸水树脂）、Nonwoven 非织造布、湿巾 Wet Wipes。
+   • Diffusion in a Cylinder (Crank Ch.5)
+- Infinite and Semi-Infinite Media (Crank Ch.3)
+- Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+- Mathematics of Diffusion
+- 纤维扩散 Fiber Diffusion
+- 格林函数 Green's Function
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (4 句)
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • **源文给出的"少孔"解法**：*"Less pores (i.e.: **lower BW at same density**, **non-fibrous film surge**)"* —— 即**同密度下更低克重**、或**非纤维的 film surge**。
+- ⚠️ **毛细具有两面性**：*"Drawing fluid may be a desirable trait to drain fluid from upper layers into lower layers"* —— 把液体从上层往下抽**本身是想要的**，滞留只是其副作用。
+   • *"**Film surge** is non-fibrous (so has lower surface area) and can be a **one-way valve**"*
+- *"**Less wettable fibers** reduce adhesion of fluid and can be a **buffer between core & blotter**"*
+   • 原文：**回渗由两种机制驱动——解吸（Desorption）与回流（Flowback）**；**在 POISE 的 FIUP 测试中，解吸主导回渗**。
+- **解吸由摄入系统（intake system）控制**：摄入系统中的**高毛细压力与界面会截留液体**，被截留的液体**在受压时表达为回渗**。
+- 机理要素清单（原文）：解吸毛细张力 / 界面 / 回渗 / **液体可得性（availability of fluid）** / **润湿性（wettability）** / **与芯体的分离（separation from core）** / **双向流动（two-way flow）**。
+
+--- [[Specific Air Volume]]  (4 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[交联 CMC]]  (4 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[底膜 Backsheet]]  (4 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。本库引用来源对"底膜 / 背层 backsheet"给出的是**功能性口径**，而非词典式定义。
+- 功能性口径（有来源支撑）：底膜是卫材结构中的**最外层阻隔—透气件**，其阻隔与透气由**层压（lamination）工艺**设计实现 —— "lamination engineers barrier/permeability for backsheets"（源：Nonwoven fabric finishing）；库内把 topsheet / ADL / core / **backsheet** / rewet 并列为卫材主线层级（源：Handbook of Nonwovens）。
+- **两条技术路线**：① 「微孔透气膜 + 纺粘」复合膜背层（film laminate）；② **无膜背层**（以高阻隔熔喷复合无纺布替代，如 30 gsm SMMMS）（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • **抗回渗与阻隔是第一功能**：底膜须在 free liquid / 污染 / 坐压峰值交汇处保持阻隔；工程解是**分区（约 62 % 去膜 + 裆部留膜 + 腿围同级熔喷）**而非整体替换（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **光学兼容性**：某些尿湿指示路线**要求背层透光（light-transmissive backsheet）**，与不透光高遮盖白色背层不兼容 —— 背层选型必须与指示方案联动评估（源：Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）、Wetness Indicator Glue）。
+- **单一材质回收**：PP-only 背层去掉阻塞机身机械回收的 **PE/PP 分相**，被原文称为"战略收益，比那 0.4 分钱更值"（源：Film-Free Backsheet（无膜背层））。
+- **气味是未计价风险**：52 L/m²·s 的高透气让氨气自由逸出，无模型可预测消费者反应，须尽早做气味评审（源：
+   • Citing sources（3）: Handbook of Nonwovens、Nonwoven fabric finishing、Surface Tension and Surface Energy
+- 路线与对照: Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）
+- 结构 / 机理: SMS复合结构、Meltblown Nonwoven（熔喷非织造布）、纺粘 Spunbond、Formation-Limited Barrier（阻隔的成形受限机理）、层压 Lamination、Cassie-Baxter Equation、Contact Angle、Young's Equation
+- 专利与实体: CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524
+
+--- [[Absorbent Technology]]  (4 句)
+   • The definitive reference on absorbent product materials and technology: a complete material→structure→product causal chain from porous-media fluid flow theory (Péclet, Darcy, Washburn) through fiber/nonwoven engineering and SAP chemistry to product integration and testing.
+《吸液技术》——吸液产品材料与技术的最权威参考专著，从多孔介质液体流动理论出发，经纤维/非织造工程与 SAP 化学，最终落地到产品整合与测试评价，构成完整的材料→结构→产品因果链。
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • The Role of Surfactants — 第 5 章｜表面活性剂的作用（降表面张力、亲水化、分散）
+- Fibers and Fibrous Materials — 第 6 章｜纤维与纤维材料（纤维素/合成纤维、亲疏水改性、截面形状）
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]  (4 句)
+   • A Chinese published patent application (applicant: **湖北宏裕新型包材股份有限公司**) on an **ultra-thin PE microporous breathable film** (10–14 gsm) for baby-diapers backsheet — an upgrade over cast breathable film. Backsheet-film manufacturing patent → FTO-relevant.
+   • The invention provides an ultra-thin PE microporous breathable film co-extruded by a blown-film machine with outer/middle/inner layers: inner layer = CaCO3 masterbatch 45–60 kg + PE 25–30 kg + ethylene-octene copolymer 18–25 kg + lubricant 1–3 kg; middle layer = CaCO3 masterbatch 60–70 kg + PE 25–30 kg + lubricant 1–3 kg; outer layer = same as inner. The product shows basis weight 10–14 gsm, WVTR 1800–3200 g/24h/m², hydrostatic resistance ≥50 mmH2O, with low basis weight, high breathability and 
+   • **Low-basis-weight (10–14 gsm) PE microporous breathable film via co-extrusion** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+   • 概念/对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）
+- 实体：—
+

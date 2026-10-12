@@ -1,0 +1,43 @@
+# SEED: GATS 重力吸收测试
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fluid Absorption in High Bulk Nonwovens
+#
+# 全库正文命中 2 页，4 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Washburn Equation]]  (2 句)
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (2 句)
+   • **Function-first definition.** The core "exerts the force necessary to pull the liquid in, distribute it within the structure and hold it without releasing under normal external pressure" — pull, distribute, hold. Everything else in the chapter tests one of those three.
+- **Two metrics, one solvable.** C (cc/g) is predicted from T/W alone; Q (cc/g·s) is not. "The value of capacity can be monitored and predicted effectively by simply measuring thickness per unit mass and using eq. 1."
+- **Rate mo
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+

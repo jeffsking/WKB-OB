@@ -1,0 +1,40 @@
+{
+  "batch": "p1_Manufactured_Fibre_Technolog_03",
+  "book": "Manufactured_Fibre_Technology",
+  "done": [
+    "Manufactured Fibre Technology Ch15 Acrylic Fibres.md",
+    "Manufactured Fibre Technology Ch16 Polypropylene Fibres.md",
+    "Manufactured Fibre Technology Ch17 Rayon Fibres.md",
+    "Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres.md",
+    "Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes.md",
+    "Manufactured Fibre Technology Ch20 Reuse of Polymer and Fibre Waste.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Manufactured Fibre Technology Ch15 Acrylic Fibres.md",
+      "issue": "原书 Table 15.3、15.5 因 OCR 排版混乱无法核对数值，已在正文标注 [待验证]；15.7 节力学性能数值在摘录中未展开。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch16 Polypropylene Fibres.md",
+      "issue": "date_published 取 0（源文件未声明出版年）；原文对 MFI 统计口径落后于当前工艺的判断自带 [未找到原句支撑，此为推断] 标注。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch17 Rayon Fibres.md",
+      "issue": "源文件存在 OCR 术语错误（p.483 'Xonthotion'、p.482 'Corbon disulphide'/'Coustic soda'），术语准确性需回原书核对，已标注 [待验证]。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres.md",
+      "issue": "本章未单列 PBI 等常见高温纤维（原文标注为推断）；作者自陈表格数据仅作 rough guide [p.516]，跨表对比需谨慎。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes.md",
+      "issue": "本章未展开双组分纺粘与异形截面（原文无相关论述），已在 Hygiene implication 标注 [待验证]；纺粘成网纤维取向分布缺公开数据支撑 [p.572]。"
+    },
+    {
+      "page": "Manufactured Fibre Technology Ch20 Reuse of Polymer and Fibre Waste.md",
+      "issue": "腈纶交联废料制吸水剂一节未给出吸水倍率与工艺参数，已标注 [待验证]；p.598 引文含 OCR 残留符号 'chemical!'。"
+    }
+  ],
+  "count": 6
+}

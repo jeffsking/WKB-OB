@@ -1,0 +1,65 @@
+{
+ "batch_id": "W9-4",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4c9fc62abb4a04b46a7513936aed242c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/一-4_SUPER_ABSORBENT_RESIN.pdf.md",
+   "name": "一-4_SUPER_ABSORBENT_RESIN.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_be5c09e283d4b13d16da81f9759576ba001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/一-6_高吸水性树脂及其在尿不湿中的应用.pdf.md",
+   "name": "一-6_高吸水性树脂及其在尿不湿中的应用.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_596b924e0bdd0f879e0bb8f3273245c3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf.md",
+   "name": "七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_25a4c2830164bf6563d05102dfadae77001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/三-2_Digitally_printed_backsheet_film.pdf.md",
+   "name": "三-2_Digitally_printed_backsheet_film.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1816d3378830e230f715b7fadf0ce660001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md",
+   "name": "五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_342573815e7a1b774ccb3ba42a47ef58001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf.md",
+   "name": "六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1039e851e7a2f647d90456f9782c6425001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/四-3_Underpants-style_disposable_diaper_and_manufacturing_method_therefor.pdf.md",
+   "name": "四-3_Underpants-style_disposable_diaper_and_manufacturing_method_therefor.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_fb6efe062271583bdd852b517da43bc7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/四-7_一种百褶裤型纸尿裤.pdf.md",
+   "name": "四-7_一种百褶裤型纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f711453ea54a42c980a578d6d68d4ced001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Personal/APEV03R08CH-new passport.pdf.md",
+   "name": "APEV03R08CH-new passport.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_223fc7f859335c3b25a7427a30c6a118001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/WI-60236 REL拼接拉断测试.pdf.md",
+   "name": "WI-60236 REL拼接拉断测试.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

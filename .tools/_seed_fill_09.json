@@ -1,0 +1,20 @@
+{
+  "batch": "09",
+  "done": [
+    "热粘合热风无纺布 Airlaid",
+    "粘合剂 Binder",
+    "天然染料 Natural Dye",
+    "离子对吸附 Ion Pair Adsorption",
+    "胶接热力学 Adhesion Thermodynamics",
+    "Flory- Rehner Theory",
+    "胶接理论 Adhesion Theories",
+    "辐射冷却材料 Radiation Cooling"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "热粘合热风无纺布 Airlaid: 标题合并/所有权未决 —— 库内 ≥4 个重叠标题（本页、热风无纺布、热风粘合无纺布、热风非织造 Hot-Air Bonded Nonwoven），且本页名把 Airlaid（气铺）与热风（air-through）两个不同材料/工艺并置，须人工裁决是否合并或重定向。",
+    "Flory- Rehner Theory: v8 报告内 Q_eq 口径并列未裁决 —— Flory-Rehner 曲线读数 21.5 g/g 与参数表精算 21.2 g/g 差 0.3 g/g，本页按原样并列登记，不裁决。",
+    "胶接理论 Adhesion Theories: 六大胶接理论的名目未在库内逐条列出，仅有『互补不互斥』原则与若干机制，定义待人工补齐。"
+  ],
+  "count": 8
+}

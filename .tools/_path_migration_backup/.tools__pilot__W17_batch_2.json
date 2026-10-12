@@ -1,0 +1,65 @@
+{
+ "batch_id": "W17-2",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1085ca24cb1062e75106c589d930bc6d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles v10.07.25.pdf.md",
+   "name": "Rewet Principles v10.07.25.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_0e5d301cb2f8f50ed2bf821232afb536001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md",
+   "name": "53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_fdb20d478c56d7025afbc45e888e9774001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.07.29 - ATH SAM Relocation.pptx.md",
+   "name": "2025.07.29 - ATH SAM Relocation.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ee2f55c4f33084c9d908509a8b9ec8ca001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf.md",
+   "name": "Day 1.2 Complex core landscape in China_20170807_COCO F2F Neenah.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_d7a81413e8b10b7294a4d3ece21a8efc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx.md",
+   "name": "投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_ae3f248c8833f9e2d1be92241916cbcc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/韩国.xlsx.md",
+   "name": "韩国.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_19db3cd4b75523d19019d4f38907ee9b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Simulation Model/纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md",
+   "name": "纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_9b6b91db975ffef95c9afd899bc06465001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP collagen Testing Victoria Maria.pptx.md",
+   "name": "FIUP collagen Testing Victoria Maria.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_5e4ed19d7419e880c24989c7800b3ba8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.02.18 - Raegan Informal.pptx.md",
+   "name": "2026.02.18 - Raegan Informal.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_941a6da37b08553b65e78eb1a6237fdd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md",
+   "name": "T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

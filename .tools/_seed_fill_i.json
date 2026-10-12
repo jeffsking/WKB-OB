@@ -1,0 +1,21 @@
+{
+  "batch": "seed_fill_i",
+  "done": [
+    "WIKI/concepts/Laplace Pressure.md",
+    "WIKI/concepts/Open Diaper Process（开放式纸尿裤工艺）.md",
+    "WIKI/concepts/pH 响应材料.md",
+    "WIKI/concepts/PNIPAAM.md",
+    "WIKI/concepts/SAP 溶胀 SAP Swelling.md",
+    "WIKI/concepts/SMS 纺粘熔喷复合.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "SMS 纺粘熔喷复合：与库内 [[SMS复合结构]]、[[纺粘熔喷 Spunbond-Meltblown]] 三页同主题重叠，需人工裁定是否合并/改标题（AI 未擅自合并或删除）",
+    "PNIPAAM：LCST 跨源不一致（Ch01 ≈34.9±0.1 °C / Ch02 ≈28 °C / Ch12 ≈32 °C / ChemComm 30–35 °C），库内已标 [待验证]，本页照录未裁决",
+    "SAP 溶胀 SAP Swelling：源内数字不一致（加压载荷正文 ~170 g vs 图注 ~320 g；CMC–1.5% CA 加压损失 32% vs 39%），照录未裁决",
+    "SMS 纺粘熔喷复合：纺粘纤维直径两处口径（14–22 μm vs 7–30 μm）未裁决",
+    "Laplace Pressure / Open Diaper Process / pH 响应材料：定义待补（引用来源均未给出明确定义句）",
+    "Open Diaper Process / pH 响应材料 / SAP 溶胀 / SMS：seed digest 中无本主题正文摘录，事实改由引用来源页与库内相关页面交叉取证，逐条附源"
+  ],
+  "count": 6
+}

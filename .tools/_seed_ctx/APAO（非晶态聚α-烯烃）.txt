@@ -1,0 +1,124 @@
+# SEED: APAO（非晶态聚α-烯烃）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 24 页，40 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热熔胶 Hot Melt Adhesive]]  (4 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • **最常用胶种**：Hot melt（EVA/APAO/polyamide/TPU/curing hot melt）用于**芯体复合、SMS 复合、湿巾封口**（源：Adhesive Handbook）。
+- **施胶花型是剥离强度的最大杠杆**：效应量排序 **Nozzle–OP 14.020（p 0.00000）> Primary Substrate 4.376（p 0.00004）> Bonding 3.632（p 0.00023）> Add-On 1.304（p 0.00548）> Adhesive Type（p 0.04965）**；**Minibead 花型剥离强度远高于其他**，Summit 最低（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- **施胶基材**：**胶应施加在导流层上以获得高剥离强度** —— Surge 均值 **408.19**（Std Error 29.750）vs Liner **230.09**（Std Error 26.434），未共享字母即统计显著（源：HSB
+   • ：热熔胶的**定义句与基础分类学**（EVA / APAO / PO / PUR 等的判据）在引用页中未展开；引用来源仅给出胶种名录。
+- ： 摘录中的 G = G₀·ψ(v,T) 未给出 ψ 的函数形式与参数范围（源：Handbook of Adhesive Technology Full Report）。
+- ：CF Swirl 与 Minibead 之间的剥离强度落差**可能**是 Depend 回渗值更不稳定的原因 —— 原文表述为「可能」，属**未验证假设**；「间隙小 → 回渗低」亦只证明了前半段（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- ：Source pages 未给出热熔胶的**老化 / 黄变 / 迁移**定量模型（源：Adhesive Handbook）。
+- ： 摘录中的成本与 FTO 结论（US$0.90/1,000 pants、US$38 k capex）为**该案专用**，不可外推为通用热熔胶成本（源：Stretch-Triggered Colour Indicator 
+   • **延伸关联**
+- 卫材胶黏系统 Hygiene Adhesive Systems
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- APAO（非晶态聚α-烯烃）
+- Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）
+- 胶黏剂 Adhesive
+- 胶接理论 Adhesion Theories
+- 胶接热力学 Adhesion Thermodynamics
+- Work of Adhesion
+- 压敏胶 PSA
+- 断裂力学 Fracture Mechanics
+- 流变学 Rheology
+- 层压 Lamination
+- Nonwoven Lamination
+- TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+- Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- Surge-Liner Adhesive Bondin
+
+--- [[Olefin Block Copolymer (OBC) 烯烃嵌段共聚物]]  (3 句)
+   • 1. **与 APAO / 茂金属无规共聚物的本质差别是"嵌段 vs 无规"**：OBC 是**特意造出结晶区**的嵌段结构；APAO 的低结晶度是 Ziegler-Natta 无规聚合的副产物。因此两者**不可互换**。
+2. **结构带来的性能**：相对同密度的茂金属无规共聚物，OBC 的高温耐受性与弹性更好（更好的弹性回复、压缩永久变形与高温阻抗）。
+3. **分子量分布更窄**：来源记述 OBC 的 poly-dispersity 显著窄于 APAO，从而影响其 DSC 熔融曲线——窄分布 + 嵌段结构共同给出 improved hot tack、adhesion、低温柔韧性，同时不牺牲高温耐受。
+4. **用量与功能分工**：在 EP2456819B1 的配方中 OBC 是**主聚合物**（10–30 wt%，最优 12–20 wt%），另配低结晶度次级聚合物调节加工。
+5. **判据（不能只看熔融焓）**：来源明确指出有些 Infuse® 牌号的熔融焓约 **20 J/g**，**仍不能算 APAO**，因为"聚合物架构完全不同（嵌段 vs 无规）且被专门制造出结晶区"。→
+   • 上位/同族：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、APAO（非晶态聚α-烯烃）、茂金属聚丙烯
+- 判据对照：熔融指数与化学降解、成纤性判据
+- 供应方：Dow Chemical Company
+- 应用：Elastic Strand Snicking（弹性橡筋断丝失效化）、Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+   • **教训一（物料识别）**：在技术协议或询价中把 OBC 与 APAO 混为一谈，会导致性能预期错配——两者在弹性回复、压缩永久变形与高温阻抗上是不同的。
+- **待补 **：OBC 的价格与在国内卫生用品供应链的可得性；除 Dow Infuse® 外的商业 OBC 来源（来源为时点记述，未做全市场尽调）。
+
+--- [[TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）]]  (3 句)
+   • 1. **The whole formulation exists to hit one number（整个配方只为一件事）**：2,500–3,500 mPa·s at the die (design 2,900 ± 400 mPa·s @ 160 °C), so it runs on a standard diaper hot-melt system.
+2. **Stiffness is the mechanism, not a property（刚性即机理）**：the α-methylstyrene resin raises the film modulus to ≈ 85 MPa so the mask does not stretch with the panel. **The α-methylstyrene level, not the pigment level, is the release-critical parameter** — if the mask softens toward the panel modulus it stretches with the
+   • （中文：①配方目标只有一个数——模头处 2,500–3,500 mPa·s（设计 2,900±400 @160 ℃），以兼容标准纸尿裤热熔系统；②刚性即机理——α-甲基苯乙烯树脂把膜模量抬到约 85 MPa，**α-甲基苯乙烯含量（而非颜料含量）才是放行关键参数**；③遮盖力须彻底——金红石 TiO₂（d50 0.28 µm、铝硅表面处理、以预分散母粒形态供应）承担全部遮盖功能，沉淀 CaCO₃（d50 0.8 µm、硬脂酸包覆）作填充与消光剂，使掩膜呈平光白；④刻意排除——荧光增白剂（迁移风险）、偶氮颜料（芳香胺裂解）、邻苯二甲酸酯增塑剂、任何重金属发色团；白色是刻意的，颜色全部放在已被毒理放行的供应商柔印底印中；⑤底层化学——APAO（富丙烯、Mw≈40 kDa）无需底涂即可锚定 PP 纺粘面层，氢化 C5 增粘树脂在 0.4 s 开放时间内润湿纤维冠，FT 蜡（熔点 105 ℃）降黏、<0.5 s 固化并防卷绕粘连；⑥毒理包「无新增」——仅用于贴身外侧、位于吸收芯之外、距腿围与腰缘 15 mm 以上，颜料完全包裹在黏结剂中。）
+   • **教训一（认知）**：**"安全"的论据是"没有新东西"**——APAO、氢化树脂、FT 蜡、金红石 TiO₂、包覆 CaCO₃ 今天都已存在于纸尿裤结构胶与印刷底膜中；这不是"低毒"，是"已在使用清单内"。
+- **教训二（规格）**：控制刚度要控 **α-甲基苯乙烯树脂含量**，不是控颜料含量。
+- **教训三（采购）**：TiO₂ 的监管状态近年多次变动，且吸入危害针对**自由粉体**而非膜内结合颜料；两道控制——只买预分散母粒 + 保持无 TiO₂ 配方并行合格；上市决策前须复核当时的分类结论。
+- **待补 **：TB-A 在 155 °C 下超过 48 h 的黏度漂移；在 40 °C/48 h/5 kPa 之外更严苛仓储条件下的抗粘连数据。
+
+--- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]  (3 句)
+   • Bostik's EP 2 456 819 B1 claims a hot melt adhesive built on an **olefin block copolymer (OBC)** as the primary polymer, combined with a high-softening-point tackifying resin, a low-crystallinity secondary polymer (APAO or semi-crystalline polyolefin), an optional aromatic reinforcing resin, plasticizer, wax and stabilizer. The stated problem is that the disposable-industry standard for sprayability has been **styrene-isoprene-styrene (SIS)** block copolymers, and no olefinic polymer had matched
+   • **A polyolefin can match SIS/SBS for elastic attachment** — the patent's core assertion; sprayability + application window is the barrier being broken. → Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- **OBC ≠ APAO** — block vs random architecture; DSC enthalpy-of-fusion boundary (>25 J/g) is used as the discriminator. → Olefin Block Copolymer (OBC) 烯烃嵌段共聚物、APAO（非晶态聚α-烯烃）
+- **Low-crystallinity secondary polymer is a processing modifier, not filler** — it tunes viscosity, adhesion, low-temperature resista
+   • Concepts 概念：Olefin Block Copolymer (OBC) 烯烃嵌段共聚物、APAO（非晶态聚α-烯烃）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、热风粘合无纺布
+- Entities 实体：Bostik、Dow Chemical Company
+- Comparison 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- Same-module patents 同模块专利：EP0820747A1 Absorbent Article with Elastic Feature (P&G)、US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+
+--- [[Dow Chemical Company]]  (2 句)
+   • **2026-09-29 记录**（来源 EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)，Bostik 专利正文）：
+  - **OBC（烯烃嵌段共聚物）**：来源原文写明 "At this time, they are manufactured by Dow Chemical under the trade name of **Infuse®**"——即**在本来源写作时，OBC 的商业供应方被记为 Dow 一家**（单一来源记述，非全市场尽调）。专利举出的牌号：**Infuse 9817（密度 0.877 g/cm³, MI 15）**、**Infuse 9807（0.866 g/cm³, MI 15）**。
+  - **茂金属/单活性中心聚乙烯**：来源记为 Dow Chemical 与 Exxon Mobil Chemical 供应，商品牌号为 **AFFINITY™ / EXACT™**（EXACT™ 属 Exxon Mobil）。
+  - **茂金属催化丙烯基共聚物**：来源记为 Dow 的 **V
+   • Olefin Block Copolymer (OBC) 烯烃嵌段共聚物、APAO（非晶态聚α-烯烃）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、茂金属聚丙烯
+- 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- 同层原料商：TotalEnergies、利安德巴塞尔、Sabic
+
+--- [[Adhesive Handbook Part 4 Applications]]  (2 句)
+   • **Part 4 是全书唯一直接覆盖卫生用品粘接应用场景的部分**——Ch47 木材工业的 hot melt（EVA/APAO/polyamide/TPU/curing hot melt）+ PVAc 乳液是芯体复合与湿巾封口的最常用胶种；纤维素/木浆化学（CWBL/MWBL、羟基、木质素）直接映射浆粕品质评估与采购谈判；Ch48 生物胶黏剂与皮肤接触胶存在技术共通性；Ch50 汽车包装封合技术同宗。
+   • **Ch46 电子工业（Bauer & Schneider）**：PCB/SMD 胶黏剂——CTE 匹配、260°C 回流焊耐受、70-80wt% 银填料渗流、环氧+UV 丙烯酸酯为主流；FR4 环氧树脂同时充当铜箔粘合剂与层压基材粘结剂；导电胶金属含量 70-80wt%。
+- **Ch47 木材工业（Dunky）— 全书最长章**：
+  - 工艺参数占粘接性能约 **50%**（"In wood adhesives the application parameters other than the characteristics of the adhesive itself account for around 50% of performance"）
+  - UF 树脂：F/U 摩尔比最关键；氨基亚甲基键水解→高湿高温下不稳定；E1 甲醛排放法规
+  - PMDI：渗透深度为 PF 的 **5-10 倍**，进入木材聚合物结构
+  - CWBL（化学弱边界层，脂肪/蜡质覆盖）与 MWBL（机械弱边界层，加工损伤）
+  - Hot melt（EVA/APAO/polyamide/TP
+
+--- [[Ebewole Polymer Science Ch08 Copolymerization]]  (2 句)
+   • 1. **SAP 交联剂分布 交联网链均匀性.** 聚丙烯酸（钠）系 SAP 由丙烯酸与少量**三官能交联单体**（本章 §I 列举的 "trifunctional monomer incorporated into the polymer to ensure cross-linking"）共聚而成；r₁、r₂ 决定交联单元沿链的分布均匀性，进而决定**凝胶模量与吸液倍率**的平衡。参见 Acrylic-Based Superabsorbent Polymers。
+2. **耐盐单体共聚 序列与组成控制.** 引入 AMPS 等含磺酸基共聚单体以提升耐盐性时，其与丙烯酸的竞聚率差异直接决定共聚组成；若 r 差异大，须按 §IV 控制转化率或补料，否则批次内组成漂移导致吸液性能波动。参见 AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体。
+3. **APAO / 烯烃共聚热熔胶 组成决定粘弹窗口.** 非晶态聚 α-烯烃（乙烯-丙烯-丁烯共聚）用于卫材热熔胶/结构胶，其**共聚组成与序列分布**决定 Tg、软化点与开放时间；本章的组成漂移分析对应胶黏剂批间一致性问题。参见 APAO（非
+   • Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch05 Polymer Modification
+- Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization
+- Acrylic-Based Superabsorbent Polymers
+- APAO（非晶态聚α-烯烃）
+- AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体
+
+--- [[Ebewole Polymer Science Ch14 Polymer Viscoelasticity]]  (2 句)
+   • 1. **Elastic strand tension decay 橡筋张力衰减 = 应力松弛.** 纸尿裤/裤式产品的弹性腰围与橡筋在使用期内的张力衰减，本质即 Maxwell 型的 **σ = σ₀ exp(−t/τ)**；τ = η/E 决定衰减快慢，"回缩率不足"即松弛过快或永久变形过大。参见 Elastic Tension & Creep（橡筋张力与回缩率）、Elastic Strand Snicking（弹性橡筋断丝失效化）。
+2. **Compression set and recovery 压缩回复 = 蠕变六分量.** 芯体与非织造层的长期使用压缩回复是 Maxwell（黏性流动 → 永久变形）与 Voigt（延迟弹性 → 可回复）竞争的结果；四参数模型的 permanent set 项即"压痕持久性"的定量表达。
+3. **TTSP + WLF → 货架寿命外推.** 用不同温度下的短期松弛/蠕变数据沿时间轴平移构建主曲线（p.408），可在数周内评估数年尺度的常温行为 —— 适用于包装受压、长期储存的形变评估。注意 WLF 的 Tg~Tg+100 °C 适用边界。
+   • Ebewole Polymer Science Ch04 Thermal Transitions in Polymers
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- Ebewole Polymer Science Ch13 Mechanical Properties of Polymers
+- Elastic Tension & Creep（橡筋张力与回缩率）
+- Elastic Strand Snicking（弹性橡筋断丝失效化）
+- APAO（非晶态聚α-烯烃）
+
+--- [[EP1347788B1 Antimicrobial Hot Melt Adhesive (Bostik)]]  (2 句)
+   • The invention provides a hot melt adhesive having antimicrobial properties for the manufacture of disposable nonwoven articles (diapers, sanitary napkins, surgical drapes, adult incontinence products). Suitable polymers listed include polybutene-1, SIS/SBS/SEBS block copolymers, EVA and APAO. The claimed composition (by weight) is: about 10–80% polymer; about 20–70% tackifying resin; about 0–50% plasticizer; about 0–50% wax; about 0.1–5% antioxidant; about 0.01–5% bacteriostat; totalling 100%. T
+   • 概念 Concept：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、APAO（非晶态聚α-烯烃）
+- 实体 Entity：Bostik
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (2 句)
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+   • 概念：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Measurement Variability（回渗测试变异性）、Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- 实体：汉高、Rextac（APAO 热熔胶）
+- 对比：（本页为单因子 DOE 结果，不构成对比页；花型间比较见 Liner-Surge Interstitial Space（面层-导流层界面间隙））
+

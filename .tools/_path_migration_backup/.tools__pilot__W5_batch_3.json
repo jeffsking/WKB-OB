@@ -1,0 +1,59 @@
+{
+ "batch_id": "W5-3",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8b5b289b36bfa41e3f9d941b5d4ebf6b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/20_EDANA_AHPs_Whitepaper_2022.pdf.md",
+   "name": "20_EDANA_AHPs_Whitepaper_2022.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8b17233df4c432100e8d0c46900f471a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf.md",
+   "name": "GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b2d7eabbf793a39a7f6f57923fe5fe37001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf.md",
+   "name": "GB 5296.5-2006 消费品使用说明 第5部分 玩具.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a5abc6c3a38a3b4943fc9495494a4c1b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf.md",
+   "name": "GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_147bb97af147984deff50608bf9ff0c3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf.md",
+   "name": "GBT 36420-2018生活用纸和纸制品 化学品及原料安全评价管理体系.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ae746cc039b3f08fa2ae3bbf656a2570001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB／T 27728-2011 湿巾.pdf.md",
+   "name": "GB／T 27728-2011 湿巾.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d523db5c4f54fac2e5d0685d27ea7def001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf.md",
+   "name": "GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤(1).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3b050d2710a1f717e4419d33bc74f413001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB／T 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "name": "GB／T 33280-2016 纸尿裤规格与尺寸.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_880db4f8bf8a0ee6eedcf79feedd4691001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf.md",
+   "name": "v3非传统资源_⑦抗菌_9_ASTM_E2149-20_动态接触抗菌活性.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

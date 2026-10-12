@@ -1,0 +1,78 @@
+# SEED: AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 61 页，80 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program]]  (4 句)
+   • One-sentence positioning 一句话定位：欧洲非织造布协会（EDANA）关于吸收性卫生用品（AHPs）中痕量化学物质（CODEX™ 清单）分析与风险评估的技术白皮书，是卫品原料与成品安全管控的权威行业基准。
+   • 文件为 **EDANA Dossier / AHPs 技术档案**，版本 **V2.0（2022-04-01）**，由 EDANA（1971 年成立，>300 家会员）发布。
+- 聚焦 AHPs（纸尿裤、卫生巾、湿巾等）中 **CODEX™ 清单痕量化学物质**的分析方法（均匀化制样、生物体液模拟萃取、化学分析）与暴露/效应风险评估（EBRA 参数）。
+- **CODEX™** 是 EDANA 选定的痕量化学物质清单；加入 Stewardship Program 的企业承诺：用统一的、消费者相关的测试方法，使 AHP 中这些物质浓度不超过各自指导值。
+- 涉及物质类：PAHs（多环芳烃）、二噁英和呋喃（dioxins & furans）、dl-PCBs、邻苯二甲酸酯（phthalates）、某些酚类（phenols）、农药（pesticides）、有机锡（organotins）、金属（metals）、甲醛（formaldehyde）（见原文档表2）。
+- Stewardship Program 为**自愿性**，旨在超越现行 EU 及国家法规。
+   • 卫品（AHP）合规不仅是强制国标，还受 EDANA Stewardship / CODEX™ 行业基准约束，原料与成品需做痕量物质管控。
+- 与中国《一次性使用卫生用品卫生要求》（GB 15979）形成「强制 + 自愿行业基准」双层管控（后续批次建对比）。
+   • 概念：AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+- 机构：EDANA（欧洲非织造布协会）
+
+--- [[Scope Contract - 2025 Fundamental Rewet Improvement.pptx]]  (4 句)
+   • K-C internal scope contract（requestor Kerry Clemmer，2025-06-13）establishing the ground-up rewet fundamentals program across NA adult care (Depend/Poise) and baby (Huggies). The program's competitive frame, benchmark numbers, method assignments and timing make it the charter document for the库's rewet workstream.（回渗改进项目章程：目标、基准、方法、时间表。）
+   • Rationale: rewet is an active claims space where competitors can show superiority; P&G's recent gains make incremental fixes insufficient — a fundamental, ground-up approach is needed to approach zero rewet. Evidence: Depend Fresh Protect metanalysis（post-ATACAMA, Female Large）shows Assurance 0.36 g vs Depend Fresh Protect 0.19 g vs Always Discreet 0.19 g (A/B statistical grouping); privileged data shows Always Discreet recently improved. Huggies: BUFF BABY T4 glidepath（HUT 40744, codes S & G on
+   • **回渗是竞品可宣示优势的活跃赛道，P&G 的进步使渐进式改良失效**——项目以"逼近零回渗"为目标 —— 支撑页：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、Dryness Measure System（干爽度量三分）
+- **三条产品线绑定三种回渗方法（TTM-00672/00643/00623），跨线结论须注意方法口径** —— 支撑页：FIUP Test Method TTM-00643（女性摄入与回渗测试法）
+   • 实体 Entities：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、诺尔（Nuoer）
+- 概念 Concepts：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Dryness Measure System（干爽度量三分）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+
+--- [[EDANA（欧洲非织造布协会）]]  (3 句)
+   • **EDANA Stewardship Program**：AHPs 自愿性痕量物质管控计划，以 **CODEX™** 清单为指导值基准。详见 EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program。
+- CODEX™ 管控 PAHs、二噁英&呋喃、dl-PCBs、邻苯二甲酸酯、酚类、农药、有机锡、金属、甲醛等。
+   • AHPs Stewardship Program 与 CODEX™ 痕量物质管控、IFRA（国际香料协会）
+   • EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program —— 
+- 移动版的workbuddy还可以选择Claude的模型？ ——
+
+--- [[Introduction to Liquid Crystals]]  (3 句)
+   • **Rating 评级: MEDIUM 中 for the chromic/indicator programme; essentially zero for absorbency, SAP, nonwovens and adhesives.**
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+   • **Antiferroelectric smectic phases address electro-optic displays**, not colour change. Their cited virtues — fast response, matrix addressability, low driving voltage, contrast, viewing angle — are display figures of merit with no meaning for a passive hygiene indicator.
+- **No absorption, swelling, substrate, ink-formulation, binder or printability content whatsoever**; nothing about polyolefin or nonwoven substrates, which is what actually constrains printing a chromic layer onto a diaper com
+
+--- [[智能织物 Smart Textile]]  (2 句)
+   • **No settled definition of smart textiles exists.** Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**（源：Intelligent Textiles and Sports Clothing）。The working definition used by the smart-polymer literature is verbatim: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed 
+   • **Direct mechanism transfer — wetness indication.** The halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。Concrete disposable implementations to read alongside: US20070270773A1 Thermochromic Wetness Indicator and the purchasable-ink view in Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商
+
+--- [[液晶 Liquid Crystal]]  (2 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Chromic-ink tuning (the main read-across).** Exactly the "synthesise → DSC → polarising microscope → iterate" loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-temperature（源：Introduction to Liquid Crystals）。The disposable-implementation counterpart is US20070270773A1 Thermochromic Wetness Indicator（源：Introduction to Liquid Crystals）。
+
+--- [[2025.03.13 - GML update.pptx]]  (2 句)
+   • GML-site update on the **GRIFFIN rewet** program (2025-03-13): a Feb-2025 GML trial tearing down SAM/Fluff vs ActivTech Hybrid cores and liner bond/treatment levers for rewet, benchmarked against Always Discreet on TTM-00672 Closed Cradle.（GRIFFIN 回渗项目的 GML 站点更新（2025-03-13）：2025 年 2 月 GML 试产拆解 SAM/Fluff 与 ActivTech Hybrid 芯体及面层键合/处理杠杆，以 TTM-00672 Closed Cradle 对标 Always Discreet。）
+   • 概念：Rewet Test（回渗测试）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- 实体：Kimberly-Clark（金佰利）
+- 关联：GRIFFIN program also covered in 2026-05-05 QUINN and 2026.03.16 Adult Care Manager Rewet Update（同批源页）
+
+--- [[2026-05-05 - QUINN.pptx]]  (2 句)
+   • **Competitive pressure 竞争压力**: K-C lags Always Discreet (AD) on rewet; AD runs a "40% DRIER" competitive claim (160 mL loading, 50 s wait).（金佰利回渗落后 AD；AD 打出「干爽 40%」竞品宣称。）
+- **History 历史**: Prior programs cut rewet via **surge** and **embossing**; current biggest opportunities are in *other materials*.（历史方案靠 surge 与压花降回渗；当前最大机会在其它材料。）
+- **Current approach 当前策略**: Goal = best-in-class rewet (DPU2). Method = systematically identify and eliminate every drop of residual fluid from every component via
+   • 概念：Rewet Test（回渗测试）
+- 实体：Kimberly-Clark（金佰利）
+- 关联：GRIFFIN rewet program（见本批 GML update 2025.03.13 与 2026.03.16 Adult Care Manager Rewet Update 源页）
+
+--- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]  (2 句)
+   • The **decision-frame page for microclimate visualization**: a conditional GO on a dual-MVP (temperature + humidity) indicator strategy, with hard safety boundaries, a supplier scoring frame, an RFQ strategy and a 12-month phased roadmap. It is the batch's "**how the programme is allowed to proceed**" page.
+本页是**微气候可视化决策框架页**：对「温度 + 湿度」双 MVP 指示方案给出有条件 GO，并明确安全硬边界、供应商评分框架、RFQ 策略与 12 个月分阶段路线图，回答「**该项目被允许以什么条件推进**」。
+   • **Conditional GO, dual-MVP, low-regret sequencing** —— 支撑页：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+- **Temperature and humidity must stay semantically separated** —— 支撑页：Diaper Microclimate
+- **Purity and non-skin-contact are non-negotiable hard boundaries** —— 支撑页：智能尿裤功能层、变色油墨
+- **Comprehension, not chemistry, decides the programme** —— 支撑页：Signal Comprehension Gate
+
+--- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]  (2 句)
+   • **回渗不是"测一次就可信"的指标：批次与测试请求间的变异与干厚度耦合** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **面层降回渗的两条独立杠杆是克重与表面活性剂体系，但它们互相牵制** —— 支撑页：LUGH Liner Program（LUGH 面层项目）
+- **回渗优势可被"整体摄入系统"搬运：AD 面层/导流层装进 DPU2 即生效** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **竞品存在两套导流层附着胶型，界面施胶是被低估的变量** —— 支撑页：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+   • 概念：Rewet Measurement Variability（回渗测试变异性）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、LUGH Liner Program（LUGH 面层项目）、Fibertex（Fibertex 非织造布供应商）、Fitesa（Fitesa 非织造布）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+

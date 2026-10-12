@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/早产儿测试方法.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/早产儿测试方法.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/早产儿测试方法.docx.md",
+   "name": "早产儿测试方法.docx.md",
+   "title_hint": "早产儿测试方法.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md",
+   "name": "CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md",
+   "title_hint": "CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/拉力松紧可视化技术评估报告.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/拉力松紧可视化技术评估报告.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/拉力松紧可视化技术评估报告.docx.md",
+   "name": "拉力松紧可视化技术评估报告.docx.md",
+   "title_hint": "拉力松紧可视化技术评估报告.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/关于pants类产品拉断的研究分享- Tulip.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/关于pants类产品拉断的研究分享- Tulip.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/关于pants类产品拉断的研究分享- Tulip.pdf.md",
+   "name": "关于pants类产品拉断的研究分享- Tulip.pdf.md",
+   "title_hint": "关于pants类产品拉断的研究分享- Tulip.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx.md",
+   "name": "TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx.md",
+   "title_hint": "TTM-00038_Pore_Space_Modulus_to_Void_Volume_换算逻辑.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md",
+   "name": "GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md",
+   "title_hint": "GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00070 皮筋张力.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00070 皮筋张力.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00070 皮筋张力.docx.md",
+   "name": "STM-00070 皮筋张力.docx.md",
+   "title_hint": "STM-00070 皮筋张力.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00034 FIFE.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00034 FIFE.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00034 FIFE.docx.md",
+   "name": "STM-00034 FIFE.docx.md",
+   "title_hint": "STM-00034 FIFE.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00467 BM Mannequin Absorption NB-S2.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00467 BM Mannequin Absorption NB-S2.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00467 BM Mannequin Absorption NB-S2.docx.md",
+   "name": "TTM-00467 BM Mannequin Absorption NB-S2.docx.md",
+   "title_hint": "TTM-00467 BM Mannequin Absorption NB-S2.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63849 Motion mannequin.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63849 Motion mannequin.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63849 Motion mannequin.docx.md",
+   "name": "WI-63849 Motion mannequin.docx.md",
+   "title_hint": "WI-63849 Motion mannequin.docx"
+  }
+ ]
+}

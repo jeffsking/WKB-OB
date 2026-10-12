@@ -1,0 +1,112 @@
+# SEED: WVTR 测试口径（失重法 vs 增重法）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 54 页，90 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (5 句)
+   • Thermal load is the binding constraint: the contact interface reaches 69 °C at a 125 °C melt (comfortable), but the bulk equilibrium temperature reaches 85 °C at 125 °C and 90 °C at 135 °C — and a microporous CaCO₃-filled PE film loses WVTR irreversibly once the drawn structure anneals above ~90 °C. A chilled backing roll moves the ceiling up by ~15 K. Nominal set point 125 °C, window 115–132 °C (lower ≈112 °C by die pressure, upper ≈134 °C by film pore collapse; viscosity floor ≈136 °C).
+   • Cost: US$0.567 per 1,000 diapers all-in (material 0.142, capex amortised 0.109 over 707 M diapers/3 y, OEE allowance 0.240 at 0.30 %), i.e. 0.056–0.057 ¢/diaper. Net new hardware ≈ US$77 k core / US$109 k with in-line colour verification. Test plan covers a protein challenge ladder (0 / 150 / 1,000 / 5,000 / 10,000 / 40,000 mg/L bovine albumin), urine at pH 5.5 and 9.0, aged urine, stability (40 °C/75 % RH 8 weeks; 8 h melt at 130 °C; light; dye leach), process/product (Cpk ≥ 1.33 on 20 ± 3 gsm;
+   • （中文摘要：设计铁律先立——便通道须以「便中丰富、尿中基本不存在」的分子为触发，且机制**不得是 pH、湿度或温度**。四条理由：尿先到且频繁（12 h 内 6–8 次），任何湿度/pH 通道在首次排便前就饱和；粪便自由水极少，液体须被输运到通道；氨改写了 pH 格局（尿素→NH₃ 使使用中纸尿裤数小时内 pH 8–9）；体温恒在，31–34 ℃ 温度通道一直处于导通态。五候选打分：**可溶性蛋白**（pH 染料蛋白误差，粪便液 10,000–40,000 mg/L vs 健康尿 <150 mg/L）中选；胆红素/胆色素（重氮偶联）列为二级确认项（重氮盐在 125 ℃ 熔体中光热不稳）；粪便蛋白酶仅作研发；脂肪酶因动力学慢且熔体无连续水相被否；电导/离子强度因与尿重叠且需电子件被否。机理细节：通道用柠檬酸/硬脂基磷酸把微环境缓冲到 pH 3.0，使染料处于完全质子化黄色态；多肽游离氨基以静电结合染料阴离子、稳定之并下移表观 pKa，染料电离转为紫色，**而本体 pH 仍为 3**；触发点仅由染料负载决定，D × C* ≈ 2,500。四重防假阳性（蛋白结合非 pH；5,000 mg/L
+   • 90-day plan：W1–2 screen the odour granular（go/no-go before any spend）→ W3–6 bench formulation（three dye loadings × two buffer levels）→ W7–9 pilot coater（capillary rheometer + 100–200 m/min + WVTR/hydrohead）→ W10–13 line trial（contact nozzle + chilled roll on one lane；Cpk、8-week ageing pull、stool panel）。
+- Odour-granular chemistry screen（risks）：Zeolite 4A/13X pH 9–11 HIGH；sodium bicarbonate pH 8.3 HIGH；activated carbon pH 6–10 MEDIUM（还会吸附染料）；cyclodextrin pH 6–7 LOW（兼容选择）；ion-exchange resin H⁺ for
+
+--- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]  (4 句)
+   • One day, four supplier technical exchanges recorded in a single internal minute (2026-06-02): **紫华** (PE backsheet film), **恒碳** (PTT), **格菲林** and **Huayi Group** (nonwovens). It is the batch-05 source that carries the **film test-method conflict (WVTR loss vs gain in weight)** and the **PTT/PET side-by-side project definition**.
+（同一天四场供应商技术交流的单份内部纪要。本批中**膜材测试口径冲突（WVTR 失重法 vs 增重法）**与 **PTT/PET 并列短纤项目定义**均出自此处。）
+   • **公司**：紫华隶属**紫江集团**（80 多家企业），1996 年成立，**国内首家流延 PE 膜供应商**；2025-11 集团在越南成立首家海外子公司「紫日」，未来紫华拟在越南新建卫材工厂（**选址将靠近 KC 客户**）。
+- **合作历史**：双方自 1999 年合作至今 **27 年**。
+- **在推项目**：KC Soft Test BCCC（Sweety 项目，**6 月上机**）、KC VN（Purple 项目）、KC China（**ACE 1C 15g 认证中**）、拉美 AFC 业务。
+- **产能与设备**：总产能 **25,000 t/年**；流延 / 吹膜线速**均为行业最快（250 m/min，日产能 15 t）**；**可供 KC 产能各 200 t/月**；柔印最多 **6 色（无双面印刷）**；是 **KC China 首家 VMI 供应商**；2026 年计划落地**自动包装项目（行业首创，以降低毛发 / 异物风险及罚款）**。
+- **市场与技术分析**：
+  - 亚太市场 BCC 底膜以**吹膜和流延膜**为主；**流延膜成本更低**，*
+   • **Test-method alignment is a prerequisite, not an afterthought** —— WVTR 2× 差异与渗漏测试口径是本批最可操作的采购/技术问题 —— 支撑页：WVTR 测试口径（失重法 vs 增重法）、紫华公司（Zihua, Zijiang Group）
+- **PTT's value proposition is thickness-at-equal-weight** —— 降克重 5–6% + 厚度 +20–35% —— 支撑页：PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、恒碳（Hengtan）
+- **Low-weight blown film is now a physical-property problem, not a gauge problem** —— 12–13 g 已可做、瓶颈在物性 —— 支撑页：紫华公司（Zihua, Zijiang Group）
+- **Nonwoven 3D embossing is splitting into roll-count schools (TR three-ro
+   • Concepts 概念：PTT（聚对苯二甲酸丙二醇酯）、WVTR 测试口径（失重法 vs 增重法）、并列复合自卷曲纤维、热风粘合无纺布、亲水-疏水梯度设计、皮芯复合纤维、ADL（导流层）
+- Entities 实体：紫华公司（Zihua, Zijiang Group）、恒碳（Hengtan）、格菲林（Gefilin）、Huayi Group（待核中文名）、Kimberly-Clark（金佰利）、江南高纤、新维盛集团（Xinweisheng Group）
+- Same-block sources 同批来源：Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）
+
+--- [[US20240099910A1 Digitally Printed Backsheet Film (RKW SE)]]  (4 句)
+   • **RKW SE 的美国申请公开**（US 2024/0099910 A1，2024-03-28）：一张**可透气、聚烯烃、填充并拉伸（filled & stretched）**的背层膜，把**胶黏剂整合进膜的某一层**，从而使**印刷层（优选数字印刷）可以直接落在该层上**。它同时给出两个可验收的门槛值：**WVTR ≥500 g/m²·24h（ASTM D6701-01）**与**耐水柱 >300 mm（EDANA WSP 80.6）**——是本库"背层既透气又耐水压"这一对矛盾的量化出处。
+   • The application (title: "DIGITALLY PRINTED BACKSHEET FILM") relates to a breathable, polyolefinic, filled, stretched film comprising an imprint which is bonded to the film via an adhesive, to a method of producing it and to its use. **Breathability is achieved by adding hard fillers to the polymer matrix prior to extrusion and then stretching the extruded film**, giving a film that is impermeable to liquid yet permeable to water vapour; the specification links this to reduced skin irritation and
+   • **把"胶"做进膜里，印刷才有落点**——Claim 1 的落脚点不是"加了图案"，而是"膜有至少一层把胶黏剂整合在其中"，从而印刷可以直接压在这一层上。→ RKW SE
+- **透气与耐水在这里是同时验收的两个数**：WVTR ≥500 g/m²·24h 与耐水柱 >300 mm **并列出现在同一权利要求**，说明两者都要满足而非二选一。→ WVTR 测试口径（失重法 vs 增重法）
+- **两个胶黏剂方案可选**：EVA（5–50 wt%，VA 10–60 wt%）或金属氧化物/氧化钙（20–80 wt%）——后者本身就是填充剂与胶黏剂的二合一（Granic WAC 就是氧化钙 + PE 共聚物）。
+- **出发点是把现有印刷方式的痛点（只对大批量经济）换掉**：朝向可灵活换版的数字/直接印刷，并且不许牺牲手感（低沙沙声、柔软）与与非织造布复合的能力。→ SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+   • Concept 概念：WVTR 测试口径（失重法 vs 增重法）、Geometric Optical Mask（几何光学掩膜）
+- Comparison 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+- Entity 实体：RKW SE
+
+--- [[Hot-Melt Slot Coating（热熔狭缝涂布）]]  (3 句)
+   • 1. **The governing slot equations（狭缝的支配方程）**：wall shear rate = 6Q/(w·t²); pressure drop over the land ΔP = 12·η·Q·L/(w·t³). **Pressure scales with 1/t³ — so halving the shim to gain a crisper edge multiplies die pressure by eight.**
+2. **Zoning without control loops（无需控制回路的分区）**：flow through a rectangular land is Q ∝ ΔP·g³·b/(12·η·L). With g, b and ΔP common to all zones, the ratio is purely **1/L**. Land lengths machined to ± 0.05 mm fix the coat-weight ratio to better than 1 % for the life of 
+   • （中文：①支配方程——壁面剪切率 6Q/(w·t²)，台面压降 ΔP=12ηQL/(w·t³)，**压降 ∝1/t³，垫片减半则模头压力×8**；②无控制回路分区——矩形台面流量 Q∝ΔP·g³·b/(12ηL)，在 g、b、ΔP 相同时比值纯为 1/L；台面机加工 ±0.05 mm 使涂布量比值在垫片寿命内优于 1%，黏度波动时三区同向移动而自补偿；**绝对**涂布量由泵速设定——一个变量、一个设定点、一张 SPC 图；③刻意近牛顿——熔体在狭缝中承受 9,000–40,000 s⁻¹ 剪切，强剪切变薄的热熔胶在此处损失一半以上黏度、到幅材上再恢复，这种错配正是条纹与边缘溢流的来源；文献显示同毛细数下剪切变薄流体的最小稳定湿膜厚约为牛顿流体的**两倍**，而剪切增稠流体降低约 10%；故须规范 Cross 指数而非只看 Brookfield 值：n ≥ 0.85、λ ≤ 2×10⁻⁴ s——实践上即「蜡+松香基体、不含高分子量苯乙烯嵌段共聚物」；④此毛细数下必须接触式——400 m/min、125 ℃ 下 Ca=272，深处高 Ca 区，粘毛细理论在此最小湿膜厚平台为 t/H≈0.4
+   • **教训一（几何换控制）**：先用**垫片台面长度**把分区比值做进金属里，再用**泵速**控绝对值——这样产线上就没有需要实时控制的变量。是「用设计换控制」的教科书范例。
+- **教训二（压降是 1/t³）**：为了边缘更锐利而减薄垫片，会把模头压力乘 8 并憋停泵。边缘锐度应用**台面几何**买，不要用垫片厚度买。
+- **教训三（基材决定上限）**：透气膜约 90 ℃ 以上塌孔即不可逆损失 WVTR，**而且线上看不出来**。加冷却背辊比重新配方降施胶温度便宜得多。
+- **教训四（流变规范要写 Cross 指数）**：只写 Brookfield 黏度会漏掉剪切变薄行为，而条纹与边缘溢流正是由它产生的；须同时规范 n 与 λ。
+- **教训五（颗粒）**：每一切固体须满足垫片 ≥ 10 × d90 —— 200 µm 垫片对应 d90 ≤ 20 µm。这是「流变规范」之外的第二条硬门槛，也是最容易在配方阶段被忽略的一条。
+
+--- [[KC U Rewet测试.docx]]  (3 句)
+   • **U Rewet 测试**（第 2 版）：在 Cradle 试架 + 定量注液的基础上加"国标回渗压块"环节，一次测出**吸收时间 / 扩散长度 / 回渗量**三个读数。是 Rewet Protocols Compared（回渗测试口径对比） 中"低负载、短等待"的代表口径。
+   • **U Rewet 与 Cradle 共用注液参数但等待时长不同（5 min vs 15 min）** —— 支撑页：Rewet Protocols Compared（回渗测试口径对比）、TTM-00148 Cradle测试.doc
+- **一份方法三读数（speed / spread / rewet）** —— 支撑页：Rewet Test（回渗测试）、Liquid Diffusion Test（液体扩散测试）
+- **扩散长度按 MD 取值且量尺不得接触产品表面** —— 支撑页：Liquid Diffusion Test（液体扩散测试）
+   • 概念：Rewet Test（回渗测试）、Cradle Intake Test（Cradle 摄入测试）、Liquid Diffusion Test（液体扩散测试）
+- 同族来源：TTM-00148 Cradle测试.doc
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+
+--- [[mocon底膜透气率测试.docx]]  (3 句)
+   • **底膜透湿率标准仪器法（英文：backsheet WVTR by MOCON PERMATRAN-W 101K）**：测试底膜（backsheet）的透气/透湿性能（中文：透湿量 gm/m²·day），第 0 版（2024-01-18）—— breathable 底膜呼吸性能的仲裁级读数。
+   • **Cal C + 标准膜双层校准是 MOCON 数据可信度的前提，两项校准记录须与测试数据同批保存** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **6 腔平行 + Convergence 判停，适合底膜来料批次横向比对** —— 支撑页：Film-Free Backsheet（无膜背层）
+   • 概念：WVTR 测试口径（失重法 vs 增重法）（追加 2026-09-29 注记）、Film-Free Backsheet（无膜背层）
+- 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+
+--- [[Raw Material STM - Nanjing Plant（原材料STM-NJ）]]  (3 句)
+   • 方法编号有三类混用：**KC STM**（STM-00067 静水压、STM-00102 基重、STM-00230 球磨、STM-2470 SAM 颗粒分布、STM-00214 亲水性、STM-5670 PP/PE 膜拉伸、STM-00146 无纺布拉伸、STM-00024 内聚力、STM-00382 耳贴剥离、STM-00383 腰贴、STM-00191 Loop 剥离、STM-00192 Loop 剪切、STM-00140 卫生纸拉伸）、**内控编号**（内控-6 SAM 吸收速率、内控-7 SAM 吸收倍数、内控-8 SAM 离心保水、内控-9 SAM 加压吸收、内控-14 无纺布返渗、内控-16 透气膜 WVTR）、**纯中文命名无编号**（柔软度、动摩擦系数、热熔胶软化点等）。
+   • **南京与天津两厂对同一 SAM 指标采用不同内控编号，参数大体一致但公差与容器有别** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）
+- **无纺布返渗滤纸尺寸（10 cm vs 12 cm）是跨厂数据不可比的主因** —— 支撑页：Rewet Test（回渗测试）
+- **WVTR 在南京厂是常温常湿长周期法，在天津厂是高温高湿短周期法** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **透气性结果严格依赖试验头：不同试验头不可比** —— 支撑页：热风粘合无纺布
+- **静水压以 60 mbar/min 增速、24 ± 5 ℃ 净化水为标准口径** —— 支撑页：Formation-Limited Barrier（阻隔的成形受限机理）
+- **拉力类方法普遍以夹具 75–76 mm、速度 250–508 mm/min 为族内变体** —— 支撑页：芯体测试方法与验收基准（STM）
+   • 概念：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）、WVTR 测试口径（失重法 vs 增重法）、Rewet Test（回渗测试）、亲水整理耐久性、热风粘合无纺布、芯体测试方法与验收基准（STM）、Formation-Limited Barrier（阻隔的成形受限机理）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：KC 内部 STM 与 EDANA _ GB-T 原材料测试方法体系对比
+
+--- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]  (3 句)
+   • 方法来源分三族并明确写出「参考文件」：**KC 内部 STM**（STM-00146 热风无纺布拉伸、STM-00198 纺粘无纺布拉伸、STM-5670 底膜拉伸、STM-00149 马丁代尔起毛耐磨、STM-00040 SAM 颗粒分布、STM-00428 SAM 吸收速率、STM-00219 离心保水、STM-00220 加压吸收、RTM-6405 底膜 WVTR）、**EDANA**（无纺布返渗 EDANA 150.3-02）、**中国 GB/T**（基重 GB/T 24218.1-2009、厚度 GB/T 24218.2-2009、滑渗 GB/T 24218.2-2011、pH GB/T 7573-2009）。另有数项标注「参考文件：RMS / 内控」，属厂内自定方法。
+   • **天津厂原材料检验同时挂在 KC 内部法、EDANA、GB/T 三套体系上** —— 支撑页：EDANA（欧洲非织造布协会）、芯体测试方法与验收基准（STM）
+- **SAM 四指标（速率 / 倍数 / CRC / AUL）口径完整，是本库 SAP 来料判读的基准** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）
+- **复合芯体进厂判读用 80 mL 双次注液 + 1.2 kg 压块，与成品 FIFE 法口径完全不同** —— 支撑页：Rewet Test（回渗测试）、COCO芯体平台
+- **WVTR 取减重法（38 ℃ / 90% RH）而非增重法，与库内既有 WVTR 口径须区分** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **0.9% 盐水配比 18 g NaCl → 2000 g 总重是全册唯一明文配比** —— 支撑页：尿液模拟液（Urine Analog）
+- **滑渗法在原材料层取「7 条去极值取 5 条均值」，与成品层 3 次重复口径不同** —— 支撑页
+   • 概念：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）、WVTR 测试口径（失重法 vs 增重法）、Rewet Test（回渗测试）、Run-off & Leakage Test（滑渗与渗漏测试）、热风粘合无纺布、COCO芯体平台、尿液模拟液（Urine Analog）
+- 实体：EDANA（欧洲非织造布协会）、Kimberly-Clark（金佰利）
+- 对比：（本批对比页见 KC 内部 STM 与 EDANA _ GB-T 原材料测试方法体系对比）
+
+--- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]  (3 句)
+   • **Film** 组 10 项：基重（STM-00109）、尺寸、厚度（内控-4）、强力与伸长（STM-00214 POLY FILMS 屈服与极限强度）、静水压、WVTR（内控-12）、Mocon（WI-62362）、高温收缩（WI-62658）、白度。
+   • **SAM 五指标（PSD/GBP/CRC/AUL/Vortex）已有完整 KC STM 编号，是本库 SAP 来料判读的正式口径** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）
+- **复合芯体九项判读全部依赖内控标准，尚未纳入全球 STM 体系** —— 支撑页：COCO芯体平台、芯体测试方法与验收基准（STM）
+- **GB/T 22875-2018 是 SAM 的国标总括方法，覆盖 7 项化学与物理指标** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）
+- **无纺布判读以 GB/T 24218 系列为主干，KC STM 仅作补充** —— 支撑页：热风粘合无纺布
+- **WVTR 归入内控-12，另有 Mocon 法 WI-62362，属两条并行的透气/透湿路线** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **「差异点汇总」表为空，截至 2026-09 无已登记的操作-标准偏差** —— 支撑页：Kimberly-Clark（金佰利）
+   • 概念：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）、热风粘合无纺布、WVTR 测试口径（失重法 vs 增重法）、Rewet Test（回渗测试）、Run-off & Leakage Test（滑渗与渗漏测试）、COCO芯体平台、芯体测试方法与验收基准（STM）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：KC 内部 STM 与 EDANA _ GB-T 原材料测试方法体系对比
+
+--- [[TTM-00623高低压反渗测试.docx]]  (3 句)
+   • **高低压反渗（High/Low-Load Rewet）** 方法（第 5 版）：把回渗拆成"低压短等"与"高压长等"两段，量化再注液后面层残液量，以及自重压力下长时间、多次注液后仍未被吸收的液量。是 Rewet Protocols Compared（回渗测试口径对比） 中**载荷最重**的一档。
+   • **反渗值必须连「载荷 + 等待时间」一起引用，否则不可比** —— 支撑页：Rewet Protocols Compared（回渗测试口径对比）
+- **8 kg 压块是本库最重的高压反渗口径** —— 支撑页：Rewet Protocols Compared（回渗测试口径对比）
+- **本方法是 Cradle 协议的变体（注液参数完全继承）** —— 支撑页：Cradle Intake Test（Cradle 摄入测试）、TTM-00148 Cradle测试.doc
+   • 概念：Rewet Test（回渗测试）、Cradle Intake Test（Cradle 摄入测试）
+- 同族来源：TTM-00148 Cradle测试.doc、KC U Rewet测试.docx、GB-T28004-2011 回渗渗漏.doc
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+

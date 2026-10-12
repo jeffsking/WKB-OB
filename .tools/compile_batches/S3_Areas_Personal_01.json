@@ -1,0 +1,27 @@
+{
+ "stage": "S3",
+ "block": "Areas/Personal",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Personal/AI核心设定_王总_2026-06-06_v3.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/AI核心设定_王总_2026-06-06_v3.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/AI核心设定_王总_2026-06-06_v3.pdf.md",
+   "name": "AI核心设定_王总_2026-06-06_v3.pdf.md",
+   "title_hint": "AI核心设定_王总_2026-06-06_v3.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Personal/APEV03R08CH-new passport.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/APEV03R08CH-new passport.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/APEV03R08CH-new passport.pdf.md",
+   "name": "APEV03R08CH-new passport.pdf.md",
+   "title_hint": "APEV03R08CH-new passport.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Personal/检验报告20260708132924.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/检验报告20260708132924.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/检验报告20260708132924.pdf.md",
+   "name": "检验报告20260708132924.pdf.md",
+   "title_hint": "检验报告20260708132924.pdf"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+  "batch": "S3_Areas_Supply Base_05",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "Cabot DARCO KB-G TDS（v3 归档同名件）",
+    "Elite Color (ECER) Company Profile（优彩环保英文版公司介绍）",
+    "天富龙集团与扬州富威尔公司简介（Tinfulong / Fuweier 2025-05-10）",
+    "Nuoer Group 2026（诺尔集团公司介绍 · Supply Base 归档同名件）",
+    "双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）",
+    "卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）",
+    "变色油墨供应商联系表（19 家 · 联系方式敏感）",
+    "国内 CoPET 纤维厂商与无锑细旦核实表（2026-07-09）",
+    "NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）",
+    "卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）"
+  ],
+  "concept_pages": [
+    "Triple Cutting Topsheet（三层切割面层）",
+    "3D In-line Embossing Topsheet（3D 在线压花面层）"
+  ],
+  "entity_pages": [
+    "天富龙集团（Tinfulong Group）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "entities/优彩环保.md（追加英文版 deck 产能口径，矛盾记录继续挂起）",
+    "entities/福建闽瑞新合纤.md（追加 REL 拜访预案节 + 来源）",
+    "entities/新维盛集团（Xinweisheng Group）.md（追加 REL 拜访预案节 + 来源）",
+    "entities/盐城市中联.md（追加 2026-07-09 公开核实记录）",
+    "entities/嘉兴新丰.md（追加 2026-07-09 公开核实记录）",
+    "concepts/无锑聚酯.md（追加验证记录：无锑卡在切片与纤维之间）",
+    "comparisons/Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）.md（追加三来源新线索）",
+    "entities/天富龙集团（Tinfulong Group）.md（2026-09-29 补记：修复 2 处指向畸形文件名的断链 → 正名页）"
+  ],
+  "manual_review": [
+    "双供应商拜访讨论计划（内部保密：KC 项目分工、跨供应商信息边界 G1）",
+    "变色油墨供应商联系表（19 家：电话/手机/邮箱/实名销售代表不页面化）",
+    "国内CoPET纤维厂商_无锑细旦核实表（联系人姓名与电话不页面化）",
+    "两份 AI 生成变色油墨调研件 credibility 低，产能/客户数字须商务核实",
+    "（2026-09-29 补记）天富龙-富威尔源页：前次运行 '/' 误建目录未清干净（notes 声称已重建但实际残留）。本轮已建正名页 [[天富龙集团与扬州富威尔公司简介（Tinfulong／Fuweier 2025-05-10）]] 并修复实体页断链；畸形目录 WIKI/sources/天富龙集团与扬州富威尔公司简介（Tinfulong␣ （尾随空格）及其子文件请人工删除——AI 禁移动/重命名/删除"
+  ],
+  "notes": "10 项处理：#1 v3 DARCO 与批次04 主件同内容→归档同名件页；#4 NUOER GROUP 2026 发现与 Meeting Minutes 子目录已编译件同文档（不同 source_path 子目录）→ 按信越先例改为归档同名件页指向主件 [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]，未重复提炼；#2/#3/#5/#6/#7/#8/#9/#10 全新编译。过程说明：曾因文件名含 '/' 误建目录，已即时清理并以无斜杠标题重建（仅涉自建文件）。"
+}

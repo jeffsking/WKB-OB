@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-3_Superabsorbent_polymer.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-3_Superabsorbent_polymer.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-3_Superabsorbent_polymer.pdf.md",
+   "name": "一-3_Superabsorbent_polymer.pdf.md",
+   "title_hint": "一-3_Superabsorbent_polymer.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf.md",
+   "name": "13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf.md",
+   "title_hint": "13_模块三：聚烯烃类热熔胶_EP1347788B1_Hot_melt_adhesives_(disposable).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/US11013641.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US11013641.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US11013641.pdf.md",
+   "name": "US11013641.pdf.md",
+   "title_hint": "US11013641.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf.md",
+   "name": "14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf.md",
+   "title_hint": "14_模块三：聚烯烃类热熔胶_EP4428211A1_Hot_melt_adhesive_composition.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/US8273939.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US8273939.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US8273939.pdf.md",
+   "name": "US8273939.pdf.md",
+   "title_hint": "US8273939.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-4_SUPER_ABSORBENT_RESIN.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-4_SUPER_ABSORBENT_RESIN.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-4_SUPER_ABSORBENT_RESIN.pdf.md",
+   "name": "一-4_SUPER_ABSORBENT_RESIN.pdf.md",
+   "title_hint": "一-4_SUPER_ABSORBENT_RESIN.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md",
+   "name": "19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md",
+   "title_hint": "19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md",
+   "name": "一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md",
+   "title_hint": "一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf.md",
+   "name": "12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf.md",
+   "title_hint": "12_模块三：聚烯烃类热熔胶_EP1146916B1_Hot_melt_adhesive_(disposable用).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/三-1_Breathable_diaper_backsheet.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-1_Breathable_diaper_backsheet.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-1_Breathable_diaper_backsheet.pdf.md",
+   "name": "三-1_Breathable_diaper_backsheet.pdf.md",
+   "title_hint": "三-1_Breathable_diaper_backsheet.pdf"
+  }
+ ]
+}

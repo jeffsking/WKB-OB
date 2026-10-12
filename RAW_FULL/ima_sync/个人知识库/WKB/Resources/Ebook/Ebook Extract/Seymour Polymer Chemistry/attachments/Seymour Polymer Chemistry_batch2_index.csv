@@ -1,0 +1,65 @@
+章节,原句,行号,引用目的
+Ch.7,"chain-reaction polymerization is usually rapid, and the initiated species continue to propagate until termination",line 5-7,链增长聚合定义
+Ch.7,"Cationic polymerizations require monomers that have electron-releasing groups such as an alkoxy, a phenyl, or a vinyl group.",line 18-20,阳离子聚合单体选择规则
+Ch.7,"Anionic polymerization occurs with monomers containing electron-withdrawing groups such as carboxyl, nitrile, or halide.",line 20-22,阴离子聚合单体选择规则
+Ch.7,"The 'energetic window' that allows the formation of such charged species is narrow.",line 67-68,能量窗口概念
+Ch.7,"Butyl rubber (IIR), widely used for inner tubes and as a sealant, is produced by the cationic low-temperature copolymerization of isobutylene in the presence of a small amount of isoprene (10%).",line 207-210,丁基橡胶合成
+Ch.7,"Szwarc has used the term 'living polymers' to describe these active species.",line 377-378,活性聚合物定义
+Ch.7,"Kraton is an ABA block copolymer of styrene (A) and butadiene (B).",line 380-381,Kraton 嵌段共聚物
+Ch.7,"Living polymers are generally characterized by (1) an initiation rate that is much larger than the polymerization rate; (2) polymer molecular weight is related to [monomer]/[initiator]",line 388-389,活性聚合物五特征
+Ch.7,"Ziegler prepared high-density polyethylene by polymerizing ethylene at low pressure and ambient temperatures using mixtures of triethylaluminum and titanium tetrachloride.",line 508-509,Ziegler-Natta 催化 HDPE
+Ch.7,"Natta, used Ziegler's complex coordination catalyst to produce crystalline polypropylene.",line 510-511,Natta 合成等规 PP
+Ch.7,"a monomer molecule (H₂C=CHCH₃) is inserted between the titanium atom and the terminal carbon atom in the growing chain",line 528-529,Ziegler-Natta 催化机理
+Ch.7,"The percentage of polymer insoluble in n-hexane is called the isotactic index.",line 566-567,等规指数定义
+Ch.7,"Polypropylene, TPX, and LDPE are less resistant to oxidation than HDPE because of the tertiary carbon atoms present in the chain.",line 575-577,PP 抗氧性问题
+Ch.7,"Stereospecific polymers of nonpolar monomers may be produced by polymerization with a Ziegler-Natta catalyst.",line 1232-1235,总结12: 立体规整聚合物
+Ch.8,"free radical initiators are produced by homolytic cleavage of covalent bonds",line 14-16,自由基引发剂定义
+Ch.8,"Free radical initiation can occur through application of heat (thermal), (ultraviolet and visible) light (photochemical), (ionizing) light, redox reagents, electricity (electrochemical), etc.",line 19-21,五种引发方式
+Ch.8,"the initiator efficiency is seldom 100%. Hence, an efficiency factor (f) is employed.",line 524-525,引发效率因子 f
+Ch.8,"Polystyrene (PS) is produced by free radical polymerization at an annual rate of 2.9 million metric tons.",line 628-629,PS 年产量
+Ch.8,"Rp = kp[M](fkd[I]/kt)^(1/2)",line 650-660,自由基聚合总速率方程
+Ch.8,"In chain transfer, the growing macroradical abstracts an atom from a chain transfer agent, S, thus generating a new radical S⋅ and a dead polymer chain.",line 900-905,链转移反应
+Ch.8,"1/DP = 1/DP₀ + Cs[S]/[M]",line 1011-1017,Mayo 方程
+Ch.8,"Cs = ktr/kp",line 1018-1020,链转移常数定义
+Ch.8,"When used in large proportions, they are called telogens, since they produce low molecular weight polymers (telomers).",line 1081-1084,遥聚反应
+Ch.8,"The principal methods are bulk, solution, and emulsion polymerization",line 1096-1099,四种聚合工艺
+Ch.8,"This autoacceleration, called the Norris-Trommsdorff, or gel, effect, causes the formation of unusually high molecular weight polymers.",line 1248-1249,自动加速/凝胶效应
+Ch.8,"Because the concentration of micelles (about 10²¹/Liter) is high compared with the concentration of monomer droplets (about 10¹⁴/Liter)",line 1224-1226,乳液聚合微团优势
+Ch.8,"This suspension is called a latex.",line 1229,乳胶定义
+Ch.9,"Copolymers may be alternating copolymers... random copolymers... block copolymers... or graft copolymers",line 15-19,四种共聚物类型
+Ch.9,"r₁ = k₁₁/k₁₂ and r₂ = k₂₂/k₂₁",line 62-64,竞聚率定义
+Ch.9,"This phenomenon is called the composition drift.",line 46-48,组成漂移
+Ch.9,"When x equals n, the product is said to be an azeotropic copolymer.",line 43-44,共沸共聚物
+Ch.9,"A useful scheme for predicting r₁ and r₂ values for free radical copolymerizations was proposed by Alfrey and Price in 1947.",line 460-462,Q-e 方案
+Ch.9,"Over 8 million tons of SBR were produced worldwide in 1995.",line 610,SBR 年产量
+Ch.9,"Copolymers of ethylene and methacrylic acid (ionomers) also have good adhesive properties and transparency.",line 604-606,离子聚合物
+Ch.9,"Thermoplastic elastomers contain two or more distinct phases and their properties depend on these phases being intimately mixed and small.",line 1059-1062,TPE 定义
+Ch.9,"'dynamic vulcanization' and produces a finely dispersed discontinuous crosslinked elastomer phase.",line 1097-1099,动态硫化
+Ch.9,"Worldwide sales of thermoplastic elastomers are on the order of one and a half million tons with a value of about $5 billion.",line 1104-1105,TPE 市场规模
+Ch.9,"Styrene-butadiene-styrene (SBS) block copolymers differ from the structurally related random copolymer of styrene and butadiene (SBR).",line 1106-1108,SBS vs SBR 对比
+Ch.10,"Physically there is no difference in the behavior, study, or testing of natural and synthetic polymers",line 11-13,天然vs合成聚合物
+Ch.10,"Cellulose is a polydisperse polymer with a degree of polymerization (DP) that ranges from 3500 to 36,000.",line 339-340,纤维素 DP
+Ch.10,"Cellulose, which comprises more than one-third of all vegetable matter, is the world's most abundant organic compound.",line 343-345,纤维素丰度
+Ch.10,"they are not soluble in water because of the presence of strong intermolecular hydrogen bonds",line 364-367,纤维素不溶性
+Ch.10,"The xanthate viscose process which is used for the production of rayon and cellophane is the most widely used regeneration process.",line 536-538,粘胶工艺
+Ch.10,"the average number of hydroxyl groups that are reacted are often given as the degree of substitution, or DS.",line 804-805,取代度 DS
+Ch.10,"The most important cellulose ester is cellulose acetate because of its use in fibers and plastics.",line 833-834,醋酸纤维素
+Ch.10,"humans contain enzymes that degrade the α-glucose units of starch allowing it to be metabolized as a major food source but we are not able to convert the β unit, found in cellulose, into glucose",line 1062-1065,α vs β 糖苷键
+Ch.10,"Starch is the second most abundant polysaccharide weightwise.",line 1041-1042,淀粉丰度
+Ch.10,"Hyaluronic acid is found in connective tissues, umbilical cord, skin, and it is the synovial fluid of joints.",line 1318-1320,透明质酸
+Ch.10,"This network can also act as a shock absorber since on compression the water is squeezed out",line 1340-1341,软骨蛋白聚糖减震
+Ch.10,"Both are able to form double helices containing two parallel staggered chains creating a gel.",line 1367-1369,卡拉胶双螺旋
+Ch.11,"With the exception of metals present in metallocene 'sandwich' compounds, the organic to inorganic bonding is of the same general nature as that present in organic compounds.",line 16-19,无机-有机键本质
+Ch.11,"The polysiloxanes were incorrectly named silicones by Kipping in the 1920s",line 411-412,"Silicone"命名由来
+Ch.11,"Rochow discovered that a silicon-copper alloy reacted with organic chlorides forming a new class of compounds called organosilanes.",line 463-465,Rochow 反应
+Ch.11,"Organosiloxanes are characterized by combinations of chemical, mechanical, and electrical properties which taken together are not common to any other commercially available class of polymers.",line 479-483,聚硅氧烷独特性能
+Ch.11,"Silly Putty is a dilatant material meaning it has an inverse thixotropy",line 516-517,Silly Putty 膨胀性
+Ch.12,"Alkaline silicate glass was used in the Badarian period in Egypt (about 12,000 B.C.) as a glaze.",line 13-15,玻璃历史
+Ch.12,"Common cement consists of anhydrous crystalline calcium silicates (the major ones being tricalcium silicate, Ca₃SiO₅, and β-dicalcium silicate, Ca₂SiO₄), lime (CaO, 60%), and alumina",line 134-137,水泥组成
+Ch.12,"This arrangement is referred to as short-range order—long-range disorder",line 143-145,短程有序长程无序
+Ch.12,"Each of these steps is based on a tetrahedral silicon atom attached to four oxygen atoms.",line 411,硅氧四面体
+Ch.12,"glass is an inorganic product of fusion that has been cooled to a rigid condition without crystallization.",line 534-536,玻璃定义
+Ch.12,"Glass is referred to as a supercooled liquid or a very viscous liquid.",line 541-542,玻璃为过冷液体
+Ch.12,"A typical window glass will contain 95–99% silica sand with the remainder being soda ash (Na₂CO₃), limestone (CaCO₃), feldspar, and borax or boric acid.",line 579-581,窗玻璃组成
+Ch.12,"The purity required is about 99.9999996% or a level of impurity of about 1 ppb.",line 945-946,半导体硅纯度
+Ch.12,"Optical fibers can be glass fibers that are coated with a highly reflective polymer coating such that light entering one end of the fiber is transmitted through the fiber.",line 786-790,光纤原理

@@ -1,0 +1,23 @@
+{
+  "batch": "06",
+  "done": [
+    "含水率 Moisture Regain",
+    "再润湿剂 Rewetting Agent",
+    "解键剂 Debonding Agent",
+    "Marangoni Effect",
+    "SBS 弹性体",
+    "Lagrangian Particle Tracking",
+    "Stokes Number",
+    "渗透率 Permeability"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "含水率 Moisture Regain",
+    "再润湿剂 Rewetting Agent",
+    "解键剂 Debonding Agent",
+    "Marangoni Effect",
+    "Lagrangian Particle Tracking",
+    "Stokes Number"
+  ],
+  "count": 8
+}

@@ -1,0 +1,30 @@
+{
+ "batch": "S3_Areas_Regulation&PSC_06",
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "source_pages": [
+  "GB 5009.137-2025 Determination of Antimony in Foods（食品安全国家标准 食品中锑的测定）",
+  "GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）",
+  "GB-T 28005-2011 Paper Underpants（纸内裤）",
+  "GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）",
+  "GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）",
+  "GB-T 28207-2011 Release Base Paper（离型原纸）",
+  "GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）",
+  "GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸 · GBT 重复源）",
+  "GB 5296.5-2006 Instructions for Use of Products of Consumer Interest Part 5 Toys（消费品使用说明 第5部分 玩具）",
+  "GB 7917.1-1987 Hygienic Chemical Test Methods for Cosmetics Mercury（化妆品卫生化学标准检验方法 汞）"
+ ],
+ "concept_pages": [
+  "GB/T 36420-2018（生活用纸化学品安全评价体系）"
+ ],
+ "entity_pages": [],
+ "comparison_pages": [
+  "离型纸 vs 离型原纸（GB-T 27731-2011 vs GB-T 28207-2011）"
+ ],
+ "updated_existing": [
+  "锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧 · 追加 GB 5009.137-2025 消解口径方法锚点与验证记录（2026-09-29）",
+  "Phenoxyethanol（苯氧乙醇） · 追加湿巾 ≤1.0% 第三口径（GB/T 36420-2018 附录 B.1）及同表防腐剂限值（2026-09-29）"
+ ],
+ "manual_review": [],
+ "notes": "33280-2016 两个文件（GB／T 与 GBT 前缀）经 diff 确认为同一标准的重复转写：主源页承载全部内容，GBT 源建重复源登记页并互链，未合并未覆盖。GB/T 36420-2018 附录限值（湿巾/纸尿裤甲醛 20/6 差异、邻苯 0.0012% 新口径）已与 GB 43631-2023 逐项对照并注明口径不可混引。GB 7917.1-1987 生效状态未在来源出现，标 [待验证]。迁移量（GB/T 34405）与含量（GB/T 37859）丙烯酰胺两口径已在两页分别标注。一次工具路径笔误（文件名含 / 被解析为子目录）当场修复：正确重写为 LC-MS-MS 文件名，仅删除该次误建的空壳目录，未触碰任何既有文件。"
+}

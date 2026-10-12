@@ -1,0 +1,24 @@
+{
+  "batch": "S5_Areas_Meeting Minutes_05",
+  "stage": "S5",
+  "block": "Areas/Meeting Minutes",
+  "source_pages": [
+    "与华峰集团会晤纪要（2026-07-29）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [
+    "与华峰集团会晤纪要（2026-07-29）（合规改造成本增幅/生物基成本倍数/产能数字/客户-竞对关系，仅记要点与区间）"
+  ],
+  "skipped_already_compiled": [
+    "会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+    "录音纪要_260814232451_1.md",
+    "6.2EM供应商会议纪要.pdf.md",
+    "NUOER GROUP 2026.pdf.md",
+    "August R&D Meeting.pdf.md",
+    "热风无纺布供应商考察纪要（修订版）.docx.md"
+  ],
+  "notes": "7 项中 6 项已编译跳过（source_path 查重）；仅 与华峰集团会晤纪要_20260729.docx.md 新建。源页标题按实体页既有预链命名（与华峰集团会晤纪要（2026-07-29）），使此前断链全部接通。瑞安产能 47 万吨/年与另一来源 72.5 万吨/年的口径冲突已在实体页 Notes 并列待人工确认，本页不裁决。index.md/log.md 未改动。"
+}

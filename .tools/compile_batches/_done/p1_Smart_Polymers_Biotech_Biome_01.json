@@ -1,0 +1,29 @@
+{
+  "batch": "p1_Smart_Polymers_Biotech_Biome_01",
+  "book": "Smart_Polymers_Biotech_Biomed",
+  "done": [
+    "Smart Polymers Ch01 Phase Transitions and Light Scattering.md",
+    "Smart Polymers Ch02 Responsive Polymer Brush Theory.md",
+    "Smart Polymers Ch10 Boronate Copolymers and Gels.md",
+    "Smart Polymers Ch11 Smart Polymer Drug Delivery.md",
+    "Smart Polymers Ch12 Polymeric Carriers Regional Therapy.md",
+    "Smart Polymers Ch13 Affinity Precipitation of Proteins.md",
+    "Smart Polymers Ch14 Hydrogels in Microfluidics.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Smart Polymers Ch12 Polymeric Carriers Regional Therapy.md",
+      "issue": "date_published set to 0: the ch12 extraction states only the book title/edition (Smart Polymers: Applications in Biotechnology and Biomedicine, 2nd Ed.) with no year or publisher. Sibling chapters Ch2/Ch10/Ch11/Ch13 state CRC Press 2008, so 2008 is probable but not citable from this file — owner to confirm and backfill if desired."
+    },
+    {
+      "page": "Smart Polymers Ch14 Hydrogels in Microfluidics.md",
+      "issue": "date_published set to 0: the ch14 extraction gives author, printed page span pp. 437-457 and line range, but no publication year; same 2008 inference problem as Ch12. Page span cited in the page came from the chapter TOC, not invented."
+    },
+    {
+      "page": "Smart Polymers Ch01 Phase Transitions and Light Scattering.md",
+      "issue": "Cross-chapter contradiction on PNIPA/PNIPAAm LCST that I did NOT reconcile, per AGENTS.md §5.1 (conflicts must be flagged, not adjudicated): Ch1 gives 34.9 ± 0.1 °C (L1976), Ch2 gives ~28 °C (L628-629), Ch12 gives ~32 °C (L1768), Ch13 gives 32 °C (L629). Each page records its own value with a note; no value was selected or averaged."
+    }
+  ],
+  "count": 7
+}

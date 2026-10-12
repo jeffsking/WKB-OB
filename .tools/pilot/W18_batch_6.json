@@ -1,0 +1,47 @@
+{
+ "batch_id": "W18-6",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8345927050c6cf516dc74f526a621f5d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Urine Leakage Design Principles.pptx.md",
+   "name": "Urine Leakage Design Principles.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8a7e76c149a010ca812409ca66b22b68001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_02 Urine Leakage Design Principles final.pptx.md",
+   "name": "_02 Urine Leakage Design Principles final.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1168509591a5d3abb8b7e860030cb2a2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Gravure Roll 101 (KC 2025)/Gravure_Roll_101_ch2_Engraving_and_Specs_拆解报告.md.md",
+   "name": "Gravure_Roll_101_ch2_Engraving_and_Specs_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_490068be41dbdff63d512cb2be0aeabf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/KC CapabilityDays2025 深度拆解/README.md.md",
+   "name": "README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_a93ca5c534e81da1ed722197c115a397001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_10b BM Test Methods (out dated).pptx.md",
+   "name": "_10b BM Test Methods (out dated).pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_3540145754dac9f78e9a794407302057001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Adhesive Product & Process - 201.pptx.md",
+   "name": "Adhesive Product & Process - 201.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_e759a9f0a710b343fe738479e1655ff6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/RLC Overview Training.pptx.md",
+   "name": "RLC Overview Training.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

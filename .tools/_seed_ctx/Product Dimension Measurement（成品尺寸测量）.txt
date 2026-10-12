@@ -1,0 +1,111 @@
+# SEED: Product Dimension Measurement（成品尺寸测量）
+# type: concept | 原引用数: 4
+# 原 Cited by 列表:
+#   - STM-00433 Pants尺寸.doc
+#
+# 全库正文命中 395 页，534 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (6 句)
+   • Purposes of testing are stated in 11.1: **quality control 质量控制**, **process control 工艺控制**, **product development 产品开发** and **process optimisation 工艺优化**. The chapter then works through, section by section: **fineness 细度** (11.2), **crimp 卷曲** (11.3), **tensile properties 拉伸性能** (11.4), **evenness 均匀度** (11.5), **friction 摩擦** (11.6), **shrinkage 收缩** (11.7) and **entanglement 缠结** (11.8) — each following the chain "definition → quantifying index → standard method → commercial instrument".
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • **Shrinkage 收缩** (p.264): "the decrease in length of a specimen"; a negative value is called stretch.
+- Discontinuous and continuous methods; commercial instruments **Toray FTA-500**, **Lawson-Hemphill CTT-DST**, **Textechno Dynafil**, **Rothschild DEFT/CCT**; standard **ASTM D2102-90**.
+- Key claim (p.265): "there must be a means of assessing and controlling shrinkage behaviour of the yarn." Simultaneous measurement of boiling-water / dry-heat shrinkage **and** shrinkage force on a running yarn
+   • **Opening length 开口长度** — the distance between two entanglement points, describing the temporary cohesion of an entangled yarn (p.267).
+- Methods: manual needle, automatic needle, electrostatic method (Obestat), automatic thickness measurement (Itemat, Toray profilometer).
+- Stein's comparison [13] concludes **Dynafil** detects variation in polymerization, temperature and quench-air speed most effectively (p.267).
+
+--- [[GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）]]  (4 句)
+   • China's **mandatory labeling standard** for textiles and apparel（GB 5296 系列第 4 部分）—— defines the seven mandatory label items and the durable-label rule; for this library it matters as the labeling regime for textile components (e.g. woven labels on elastic waistbands) while disposable hygiene products are explicitly out of scope.
+   • GB 5296.4-2012 is fully mandatory and governs instructions-for-use of textiles and apparel sold in China. Seven content items are compulsory: maker identity, product name, size/spec, fibre content (per FZ/T 01053), care symbols (per GB/T 8685), executed product standard, and GB 18401 safety class. The durable-label clause mandates that size, fibre content and care method live on a permanent label (with carve-outs for goods where such labels impair use, and for group-customized non-personal-care 
+   • **一次性卫生用品不在本标准范围**（附录 A 明列），卫品标签走 GB 38598 + 各产品标准条款 —— 支撑页：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）
+- **标注一致性是「严重缺陷」级要求**：同件产品不同形式标签内容不一致即判严重缺陷 —— 支撑页：本页（附录 B 原文口径）
+   • 来源：GB 31701-2015 Safety Technical Code for Infants and Children Textile Products（婴幼儿及儿童纺织产品安全技术规范）（婴幼儿纺织品的标签在 5296.4 框架上叠加安全类别与「婴幼儿用品」字样）
+
+--- [[GB 5296.5-2006 Instructions for Use of Products of Consumer Interest Part 5 Toys（消费品使用说明 第5部分 玩具）]]  (4 句)
+   • China's labeling standard for **toys**（玩具使用说明）— partially mandatory; for this library it documents the toy-side labeling regime (age range + safety warnings per GB 6675) that borders the children's paper-product safety space.
+   • GB 5296.5-2006 governs instructions-for-use of toys for children under 14, replacing the 1996 edition. Six content blocks are compulsory (4.1, 4.4, chapter 5, 6.2, 6.3, 8.2): the chapter-5 list covers product name/model/standard number, age range and safety warnings (both delegated to GB 6675), plush-toy material disclosure, assembly instructions, maintenance, safe-use period, and producer identity. Safety warnings must live on durable labels and follow the font-size rules (警示词 ≥四号黑体). Historica
+   • **GB 5296 系列结构在 2006 与 2012 版之间重排**（Part 3/4 互换），跨版本引用必须注明年份 —— 支撑页：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）
+- **玩具安全体系（GB 6675）通过 GB 43631 表 2 的可迁移元素口径延伸进儿童纸品** —— 支撑页：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+   • 概念：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- 来源：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）（同系列姊妹篇）
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (4 句)
+   • 1. **Is BSL tier differentiation important to this brand for product tier differentiation?**（面层分档对该品牌的档位差异化是否重要？）
+2. **What would that look like? (Cues, functionality, etc.)**（那会长什么样？线索、功能……）
+3. **How much interest is there to address common BSL barriers to product tier differentiation? (Cost, process, etc.)**（有多大意愿去解决**共性障碍**——成本、工序……）
+   • **重要性**：Yes。
+  - **T6**：继续顶档收益 —— **actives、最强的 BM 摄入、最好的柔软**与某些超高端收益。
+  - **T5**：T6 特性下放；*"Need to up our game on softness **beyond TETRIS options**"*；**Cleanshield 仅用于 POME**；LM —— **透气性**与潜在的**吸湿排汗**。
+  - **T4**：**TBD，回渗宣称**。
+  - 追问：*"What's the **weakest link/feature** in the product for softness?"*
+- **现状**：*On track, but need to progress*。
+- **机会**：T6 与 T5 更软；确保创新**守得住档位目标**。
+- **障碍**：柔软度的工序能力；*"**Cost disadvantage if going beyond internal sourcing**"*（超出内部 sourcing 则有成本劣势）。
+   • **重要性**：Yes。*"UBK hypothesized that **BSL change on CleanWear was one of reasons for share loss**. **LORI** gets us back on track."*
+- **现状**：*Off track on SP, but LORI gets us back on track*。
+- **机会方向**：
+  - **Feel clean & dry**：*"Key focus area that BSL could support. However, **knowledge gaps exist on the cues that convey clean & dry** for UBK consumer targets."*
+  - ⚠️ *"consumers picked up on **softness & dryness** of better stain masking liners, **not directly the stain masking benefit**"*
+   • **短期**：LORI 评估**印刷质量**影响；*"**No BSL changes are needed in the short-term** for LORI 2024 or Overnight back bump 2025/2026"*；*"No formal asks yet for the FEI materials team."*
+- **未来**：视觉外观与材料类型的重要性；⚠️ *"**Degree of changes in LORI was not enough to influence the consumer experience. \"Zero menses on skin.\"**"*；*"Similar to POISE UT, UBK may need **3D features, visual cues, layers...and functional performance**"*。
+- **透气**：*"Have a breathable material, **not necessarily need to be full product b
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (4 句)
+   • Why distributions matter (p.204): "The molecular weight distribution, which influences the properties of the final product, must be characterized and controlled through appropriate variation of process parameters." Hence several averages are needed together — number-average **Mn**, weight-average **Mw**, z-average — plus **polydispersity 多分散性** = Mw/Mn (1 for monodisperse, normally well above 1). Table 10.1 gives typical values by route: **addition polymerization 1.5–2.0**, **branched polymer 20
+   • The starting axiom (p.219): "polymers and fibres have a two phase structure comprising an ordered (also called crystalline) and a disordered (also called amorphous) phase." The five widely used techniques: "(1) density measurement, (2) optical birefringence, (3) X-ray diffraction, (4) small angle X-ray scattering and (5) infrared spectroscopy."
+   • High utility as a **reference vocabulary and method-selection frame**, even though no hygiene product is mentioned in the chapter.
+   • Chapter 10 says nothing about fluff pulp, SAP or absorbency measurement; those stay outside this source.
+
+--- [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]]  (4 句)
+   • SCA Hygiene Products AB's foundational patent family on **embedding cellulosic nanofibrils (NFC) inside the SAP polymer network** — the source page for the "nanocellulose × SAP" route, and the earliest document in the library that ties nanofibrillated cellulose to diaper-core SAP performance.
+   • The family discloses a superabsorbent polymer composite in which **cellulosic nanofibrils of diameter ≤100 nm** are incorporated **within the three-dimensional network of polymer chains of a superabsorbent polymer** (i.e. not merely blended as a fibrous matrix). The stated problem is twofold: SAP particles are hard to fix in place inside an absorbent structure, and **gel blocking**（凝胶堵塞）occurs when swollen SAP gel blocks liquid transport. A further problem is that raising crosslink density to ga
+   • **Nanofibrils must be inside the SAP network, not beside it** — claim 1's "incorporated within a three-dimensional network" is the structural discriminator versus conventional fibre-blended SAP composites. → SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- **Gel strength is the target property** — the fifth aspect explicitly claims using NFC to increase SAP gel strength. → SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- **Gel blocking is the named failure mode being solved.** → SAP（高吸
+   • Concept 概念：SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）、SAP（高吸水树脂）、纳米纤维素（CNC、CNF、BNC）、细菌纳米纤维素
+- Entity 实体：SCA Hygiene Products AB
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[Diaper Premiumization（纸尿裤高端化）]]  (3 句)
+   • 1. **Tier architecture（层级架构）**：offer a structured price ladder so consumers self-select trade-ups as willingness/ability to pay rises (e.g. Huggies' tier 4 → tier 8, with natural-skin and dry-comfort pillars).
+2. **Functional proof（功能证据）**：premium claims must be demonstrable (skin-health tech, "3°C cooler" liner, overnight dryness) — brand equity is built on credibility, not slogans.
+3. **Occasion-based marketing（场景营销）**：seasonal/sub-brand SKUs (summer +5~10% price) capture share and realize pri
+   • **Korea（韩国）**：Huggies (Kaon) holds **~65% value share**; premiumization + occasion-based marketing sustained leadership through a decade of ~8%/yr decline. Chinese entrants (Kindle) reached only ~5% via a China-OEM model, hindered by consumer anti-China sentiment for baby products.
+- **China（中国）**：consumers pay premiums for skincare/green/seamless; domestic brands trade up via probiotic topsheets, ultrafine fiber, and degradable materials.
+   • Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局） —— 
+- China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图） —— 
+- China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026） ——
+
+--- [[Absorbent Technology]]  (3 句)
+   • The definitive reference on absorbent product materials and technology: a complete material→structure→product causal chain from porous-media fluid flow theory (Péclet, Darcy, Washburn) through fiber/nonwoven engineering and SAP chemistry to product integration and testing.
+《吸液技术》——吸液产品材料与技术的最权威参考专著，从多孔介质液体流动理论出发，经纤维/非织造工程与 SAP 化学，最终落地到产品整合与测试评价，构成完整的材料→结构→产品因果链。
+   • **工程与产品层 Engineering & Products**
+   • Nonwovens in Absorbent Materials — 第 10 章｜无纺布在吸液材料中的应用（**四要素架构、12 种成形工艺、SMS/SMMS、ADL 密度梯度**）
+- Absorbent Product Testing — 第 11 章｜吸液材料测试技术（**测试金字塔、Wilhelmy 法、INDA/Klemm/Cobb、企业专有 in vitro**）
+- Products and Technology Perspective — 第 12 章｜产品与技术视角（**三层功能模型、绒毛浆 51g→29g→16g 演进、子层、生物纤维素远期路线**）
+
+--- [[Bicomponent Fibre Technology Development Trends]]  (3 句)
+   • Cross-section 截面并列，produces three-dimensional self-crimp 三度空间自卷曲，used to simulate the hand of natural fibre 模拟天然纤维手感.
+- Commercial examples 代表产品：钟纺 Belltron、韩国 7°CHS.
+   • Melt viscosity window 熔体粘度：melt spinning 熔融纺 80–1000 Pa·s；dry spinning 干法纺 20–200 Pa·s.
+- Spinneret hole diameter 纺丝板孔径：熔融 0.2–2 mm；干法 0.15–0.25 mm；electrospinning 静电纺丝 fibre range 50–2000 nm.
+- Component ratio control 组分比控制：1/99（极不对称）到 50/50（对称）均可.
+- Staple lines 短纤设备：Oerlikon Neumag 450 t/d，组分比 20/80–80/20；Fare 多孔纺丝板，板孔数 28,000–37,750，板径 700 mm，纺速 60–150 m/min，PP/PE 皮芯热粘合纤维 2.2 dtex，产能 200 kg/h，一等品率 >95%.
+- Direct web formation 直接成网（纺粘）：Reifenhäuser（PP/PET 皮芯 = 柔软 + 撕裂强度；PP/PE 并列卷曲）、Fare Super
+   • Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 同主题：喷丝板、卷曲与功能母粒的生产实践视角。
+- Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流） — ES 纤维供应商产能与无锑切换的落地信息。
+- Thermal bonding — 热粘合机理与工艺窗口概念页。
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 纺粘/熔喷工艺的同源书章节。
+- Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用） — 复合非织造布种类与应用的当代对照。
+
+--- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]  (3 句)
+   • A **technical explainer** separating three things that are routinely conflated in the fluffless-core discussion：the **process platform**（ActiveTech）、the **core construction**（Blizzard）、and the **product implementation**（ROTC）。Its purpose in this library is to supply the structural definition and the measured trade-off curve behind any "thinner core" proposal.
+（本页为**技术说明**，把常被混为一谈的三件事分开：**工艺平台**（ActiveTech）、**芯体构造**（Blizzard）、**产品实现**（ROTC）。在本库中的用途是提供「更薄芯体」提案背后的结构定义与**实测权衡曲线**。）
+   • 1. **Why move beyond a conventional SAM/fluff core**：in a conventional core, fluff pulp provides **capillary wicking and temporary void volume**, supporting rapid initial fluid intake before the SAM swells and immobilises the fluid。A Blizzard core reduces or eliminates fluff, buying a thinner / softer / more flexible pad with **stronger pad integrity**。The engineering trade-off is explicit：**SAM, adhesive, facings and wrap construction must now carry much more of the fluid-management load**。（传统芯
+   • **Separate platform from construction from product before arguing about fluffless cores.** ActiveTech（能力）/ Blizzard（构造）/ ROTC（产品）三者被混用是讨论失焦的主因。 —— 支撑页：ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）、ROTC（Real Online ThinTech Core）
+- **Fluff's real job is void volume for the first seconds.** 去浆真正要补的是「SAM 膨胀前的临时空隙体积」，因此混合构型（HBC + pad channel）是工程上的保底解。 —— 支撑页：Blizzard Core（Blizzard 芯体结构）、绒毛浆（Fluff Pulp）
+- **The measured trade-off is favourable but not free**：厚度 −20 %、高压回渗 −85 %
+

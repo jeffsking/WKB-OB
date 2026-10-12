@@ -1,0 +1,55 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/indicator-video-mechanism-judgment.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/indicator-video-mechanism-judgment.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/indicator-video-mechanism-judgment.docx.md",
+   "name": "indicator-video-mechanism-judgment.docx.md",
+   "title_hint": "indicator-video-mechanism-judgment.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Poise Rewet/Experiments to parallel Poise studies.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Poise Rewet/Experiments to parallel Poise studies.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Poise Rewet/Experiments to parallel Poise studies.docx.md",
+   "name": "Experiments to parallel Poise studies.docx.md",
+   "title_hint": "Experiments to parallel Poise studies.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Liner-Surge Interface HSBL Trial.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Liner-Surge Interface HSBL Trial.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Liner-Surge Interface HSBL Trial.xlsx.md",
+   "name": "Liner-Surge Interface HSBL Trial.xlsx.md",
+   "title_hint": "Liner-Surge Interface HSBL Trial.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD pants machine process.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD pants machine process.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD pants machine process.pptx.md",
+   "name": "CD pants machine process.pptx.md",
+   "title_hint": "CD pants machine process.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP database for COCO.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP database for COCO.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP database for COCO.xlsx.md",
+   "name": "SAP database for COCO.xlsx.md",
+   "title_hint": "SAP database for COCO.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Always Discreet Adhesive Pattern Dimensions.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Always Discreet Adhesive Pattern Dimensions.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Always Discreet Adhesive Pattern Dimensions.pptx.md",
+   "name": "Always Discreet Adhesive Pattern Dimensions.pptx.md",
+   "title_hint": "Always Discreet Adhesive Pattern Dimensions.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Surge Development - Active Swoosh - Sept 2023.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Surge Development - Active Swoosh - Sept 2023.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner Surge Development - Active Swoosh - Sept 2023.pptx.md",
+   "name": "Liner Surge Development - Active Swoosh - Sept 2023.pptx.md",
+   "title_hint": "Liner Surge Development - Active Swoosh - Sept 2023.pptx"
+  }
+ ]
+}

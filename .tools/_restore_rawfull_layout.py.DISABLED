@@ -1,0 +1,79 @@
+# -*- coding: utf-8 -*-
+"""还原 RAW_FULL 目录布局：把被误搬进 `ima_sync/个人知识库/WKB/` 的正文镜像搬回 `ima_sync/WKB/`。
+
+背景（2026-09-29 00:20:57 实测）：有进程/代理把 `RAW_FULL/ima_sync/WKB/` 整个目录
+move 进了新建的 `RAW_FULL/ima_sync/个人知识库/`，导致 1014 份文件的路径与台账
+`_extract_ledger.json` 的 dst 不一致（全部变成「游魂」）。本脚本按台账 dst 还原。
+
+安全保证：
+- 同名冲突时保留**内容更长**者（更长=更完整），另一方备份到 `.tools/_moveback_conflict/`
+- 内容完全相同时删掉多余副本（去重）
+- 只移动、不删除有内容的文件；空目录最后清理
+"""
+import hashlib
+import json
+import os
+import shutil
+
+VAULT = r'E:\WKB-OB'
+SRC = os.path.join(VAULT, 'RAW_FULL', 'ima_sync', '个人知识库', 'WKB')
+DST = os.path.join(VAULT, 'RAW_FULL', 'ima_sync', 'WKB')
+CONFLICT = os.path.join(VAULT, '.tools', '_moveback_conflict')
+
+
+def md5(p):
+    return hashlib.md5(open(p, 'rb').read()).hexdigest()
+
+
+def main():
+    os.makedirs(CONFLICT, exist_ok=True)
+    moved = dedup = 0
+    conflicts = []
+    for dp, dn, fn in os.walk(SRC):
+        for f in fn:
+            sp = os.path.join(dp, f)
+            rel = os.path.relpath(sp, SRC)
+            tp = os.path.join(DST, rel)
+            os.makedirs(os.path.dirname(tp), exist_ok=True)
+            if not os.path.exists(tp):
+                shutil.move(sp, tp)
+                moved += 1
+            else:
+                a = open(sp, encoding='utf-8', errors='ignore').read()
+                b = open(tp, encoding='utf-8', errors='ignore').read()
+                if md5(sp) == md5(tp):
+                    os.remove(sp)
+                    dedup += 1
+                else:
+                    keep_src = len(a) > len(b)
+                    keep = sp if keep_src else tp
+                    drop = tp if keep_src else sp
+                    shutil.copy2(drop, os.path.join(CONFLICT, rel.replace(os.sep, '__')))
+                    if keep_src:
+                        shutil.move(sp, tp)   # 搬走版更完整 → 覆盖原地版
+                    else:
+                        os.remove(sp)         # 原地版更完整 → 删搬走版（已备份）
+                    conflicts.append((rel, len(a), len(b), '保留搬走版' if keep_src else '保留原地版'))
+                    moved += 1
+
+    # 清理空目录
+    for dp, dn, fn in os.walk(SRC, topdown=False):
+        if not os.listdir(dp):
+            os.rmdir(dp)
+    for p in [os.path.join(VAULT, 'RAW_FULL', 'ima_sync', '个人知识库')]:
+        try:
+            if os.path.isdir(p) and not os.listdir(p):
+                os.rmdir(p)
+        except OSError:
+            pass
+
+    print('搬回: %d 份' % moved)
+    print('去重删除: %d 份' % dedup)
+    print('冲突: %d 份' % len(conflicts))
+    for rel, la, lb, k in conflicts:
+        print('   [%s] %s (搬走版 %d 字 / 原地版 %d 字)' % (k, rel, la, lb))
+    print('冲突备份: %s' % CONFLICT)
+
+
+if __name__ == '__main__':
+    main()

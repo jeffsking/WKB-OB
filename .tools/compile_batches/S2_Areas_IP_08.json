@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/04_智能尿裤功能层专利地图.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/04_智能尿裤功能层专利地图.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/04_智能尿裤功能层专利地图.md.md",
+   "name": "04_智能尿裤功能层专利地图.md.md",
+   "title_hint": "04_智能尿裤功能层专利地图.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN108659171A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN108659171A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN108659171A.pdf.md",
+   "name": "CN108659171A.pdf.md",
+   "title_hint": "CN108659171A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN112442152B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN112442152B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN112442152B.pdf.md",
+   "name": "CN112442152B.pdf.md",
+   "title_hint": "CN112442152B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN1330679C.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN1330679C.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN1330679C.pdf.md",
+   "name": "CN1330679C.pdf.md",
+   "title_hint": "CN1330679C.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/四-6_一种透气弹性腰围的纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-6_一种透气弹性腰围的纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-6_一种透气弹性腰围的纸尿裤.pdf.md",
+   "name": "四-6_一种透气弹性腰围的纸尿裤.pdf.md",
+   "title_hint": "四-6_一种透气弹性腰围的纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/四-8_一种裤型吸收制品弹性腰围.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-8_一种裤型吸收制品弹性腰围.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-8_一种裤型吸收制品弹性腰围.pdf.md",
+   "name": "四-8_一种裤型吸收制品弹性腰围.pdf.md",
+   "title_hint": "四-8_一种裤型吸收制品弹性腰围.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/五-4_可判断大小便的纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-4_可判断大小便的纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-4_可判断大小便的纸尿裤.pdf.md",
+   "name": "五-4_可判断大小便的纸尿裤.pdf.md",
+   "title_hint": "五-4_可判断大小便的纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf.md",
+   "name": "四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf.md",
+   "title_hint": "四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/四-7_一种百褶裤型纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-7_一种百褶裤型纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-7_一种百褶裤型纸尿裤.pdf.md",
+   "name": "四-7_一种百褶裤型纸尿裤.pdf.md",
+   "title_hint": "四-7_一种百褶裤型纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/五-2_一种新型尿不湿.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-2_一种新型尿不湿.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-2_一种新型尿不湿.pdf.md",
+   "name": "五-2_一种新型尿不湿.pdf.md",
+   "title_hint": "五-2_一种新型尿不湿.pdf"
+  }
+ ]
+}

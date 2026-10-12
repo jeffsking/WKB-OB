@@ -1,0 +1,54 @@
+[
+ {
+  "media_id": "folder_7493456616256660",
+  "media_type": 99,
+  "title": "chapters",
+  "media_state": 2,
+  "create_time": "1786579279400",
+  "folder_info": {
+   "folder_id": "folder_7493456616256660",
+   "name": "chapters",
+   "file_number": "0",
+   "folder_number": "0",
+   "parent_folder_id": "",
+   "is_top": false
+  },
+  "parent_folder_id": "folder_7493456498796527"
+ },
+ {
+  "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_5edd51fa2cdd3b41de44f93eb990260e001a693ee6c0644e",
+  "media_type": 5,
+  "title": "SAP Research Advances_index.csv",
+  "media_state": 2,
+  "create_time": "1786579558742",
+  "folder_info": null,
+  "parent_folder_id": "folder_7493456498796527"
+ },
+ {
+  "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_5b8a13b2cff5bf43ffed0774aa0f3623001a693ee6c0644e",
+  "media_type": 7,
+  "title": "SAP Research Advances_README.md",
+  "media_state": 2,
+  "create_time": "1786579559560",
+  "folder_info": null,
+  "parent_folder_id": "folder_7493456498796527"
+ },
+ {
+  "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_321bad40e4dd096ca825ed2bebc48784001a693ee6c0644e",
+  "media_type": 7,
+  "title": "SAP Research Advances_concepts.md",
+  "media_state": 2,
+  "create_time": "1786579557742",
+  "folder_info": null,
+  "parent_folder_id": "folder_7493456498796527"
+ },
+ {
+  "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d2615eae93359325a29982063626b169001a693ee6c0644e",
+  "media_type": 7,
+  "title": "SAP Research Advances_report.md",
+  "media_state": 2,
+  "create_time": "1786579556675",
+  "folder_info": null,
+  "parent_folder_id": "folder_7493456498796527"
+ }
+]

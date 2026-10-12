@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Supply Base",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑧Odor_control_21_Cabot_Corporation_DARCO__KB-G_粉末活性炭.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑧Odor_control_21_Cabot_Corporation_DARCO__KB-G_粉末活性炭.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑧Odor_control_21_Cabot_Corporation_DARCO__KB-G_粉末活性炭.pdf.md",
+   "name": "v3非传统资源_⑧Odor_control_21_Cabot_Corporation_DARCO__KB-G_粉末活性炭.pdf.md",
+   "title_hint": "v3非传统资源_⑧Odor_control_21_Cabot_Corporation_DARCO__KB-G_粉末活性炭.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/Elite Color Company Profile.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/Elite Color Company Profile.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/Elite Color Company Profile.pdf.md",
+   "name": "Elite Color Company Profile.pdf.md",
+   "title_hint": "Elite Color Company Profile.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/天富龙集团-扬州富威尔简介20250510.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/天富龙集团-扬州富威尔简介20250510.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/天富龙集团-扬州富威尔简介20250510.pdf.md",
+   "name": "天富龙集团-扬州富威尔简介20250510.pdf.md",
+   "title_hint": "天富龙集团-扬州富威尔简介20250510.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/NUOER GROUP 2026.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/NUOER GROUP 2026.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/NUOER GROUP 2026.pdf.md",
+   "name": "NUOER GROUP 2026.pdf.md",
+   "title_hint": "NUOER GROUP 2026.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx.md",
+   "name": "双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx.md",
+   "title_hint": "双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/由于我无法直接生成并输出PDF文件，我已为你准备了一份可直接....pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/由于我无法直接生成并输出PDF文件，我已为你准备了一份可直接....pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/由于我无法直接生成并输出PDF文件，我已为你准备了一份可直接....pdf.md",
+   "name": "由于我无法直接生成并输出PDF文件，我已为你准备了一份可直接....pdf.md",
+   "title_hint": "由于我无法直接生成并输出PDF文件，我已为你准备了一份可直接....pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商联系表.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商联系表.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商联系表.xlsx.md",
+   "name": "变色油墨供应商联系表.xlsx.md",
+   "title_hint": "变色油墨供应商联系表.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/国内CoPET纤维厂商_无锑细旦核实.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/国内CoPET纤维厂商_无锑细旦核实.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/国内CoPET纤维厂商_无锑细旦核实.xlsx.md",
+   "name": "国内CoPET纤维厂商_无锑细旦核实.xlsx.md",
+   "title_hint": "国内CoPET纤维厂商_无锑细旦核实.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/NL_CHT1608V2.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/NL_CHT1608V2.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/NL_CHT1608V2.pdf.md",
+   "name": "NL_CHT1608V2.pdf.md",
+   "title_hint": "NL_CHT1608V2.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "name": "卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "title_hint": "卫生护理用品行业特种变色油墨（光敏温敏湿.pdf"
+  }
+ ]
+}

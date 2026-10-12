@@ -1,0 +1,40 @@
+---
+type: entity
+title: "Sanyo Chemical · SDP Global（三洋化成工业）"
+category: 供应商
+relationship: 候选
+updated: 2026-09-29
+tags: [Sanyo-Chemical, 三洋化成, SDP-Global, SAP, 控制自由基聚合, 日本]
+---
+
+# Sanyo Chemical · SDP Global（三洋化成工业）
+
+## Basic Profile 基本盘
+
+| Item 项目 | Content 内容 |
+|---|---|
+| 主营 | **SAP（高吸水树脂）**——纸尿裤等卫生材料用途；技术亮点为**控制自由基聚合 SAP**（有机碘路线，均一网目结构） |
+| 产地 / 基地 | 三洋化成工业株式会社：本社京都市东山区（証券代码 4471）；SAP 卫材业务主体为连结子公司 **SDP Global 株式会社**（本社东京都中央区，2001 年由三洋化成 × 丰田通商 Toyota Tsusho 合资设立） |
+| 产能 | 未在本批来源披露 `[待验证]` |
+| 角色 | **SAP 高性能化工艺路线（CRP）的候选技术与供应方**；SAP 三工艺形态对照（后聚合/前聚合/反相悬浮）语境下的日系玩家 |
+
+## Cooperation & Supply History 合作与供货历史
+
+- **2018-05-21（公告 No.1814）**：SDP Global 与合同资源（Godo Shigen，日本碘制造先驱）联合宣布**控制自由基聚合 SAP 工业化成功**——有机碘化合物控制剂 + 水溶液体系，网目结构均一化使吸水性能大幅提升；主题获 2018 年度碘学会赏；宣布面向高功能纸尿裤需求加速全球展开。详见 [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]、[[Controlled Radical Polymerization SAP（控制自由基聚合 SAP）]]。
+- **供货关系现状**：本库中暂无与本方的实际供货、询价或打样记录 `[待验证]`；按候选/技术信息源记录。口径提醒：[[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]] 的三工艺对照表（前聚合档列 LG/Formosa/Nippon Shokubai/BASF）**未将三洋化成/SDP 列入**——引用诺尔口径时注意其对照边界。
+
+## Price & Commercial Notes 价格与商务要点
+
+> ⚠️ 商务敏感信息只记要点与区间，不落完整价格表。每条标注记录日期。
+
+- **记录日期 2026-09-29**：本批公告**不含价格与商务条款** `[待验证]`。
+
+## Related Concepts 相关概念
+
+- [[Controlled Radical Polymerization SAP（控制自由基聚合 SAP）]]（本方核心工艺主张）
+- [[SAP（高吸水树脂）]]、[[SAP 表面包覆（SAP Particle Surface Coating）]]（可叠加的既有技术）
+- [[SAM Supplier Landscape Comparison（SAM 供应商格局对比）]]（SAP 供应格局对照）
+
+## Sources 来源
+
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md`

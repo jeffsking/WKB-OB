@@ -1,0 +1,126 @@
+# SEED: SAP 干燥 SAP Drying
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Industrial Drying
+#
+# 全库正文命中 42 页，74 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (7 句)
+   • Drying is governed by two simultaneous subprocesses:
+- **Process 1 (External):** Transfer of energy (heat) from environment to evaporate surface moisture
+- **Process 2 (Internal):** Transfer of internal moisture to the surface and its evaporation
+   • **Constant-rate period:** Surface evaporation dominates; drying rate independent of internal structure
+- **Falling-rate period:** Internal diffusion/capillarity becomes rate-controlling; time scales with square of thickness
+   • **Hygiene implication:** For thin, fast sheets (tissue, nonwoven web) drying may occur almost entirely in the constant-rate period. For thick/packed hygroscopic beds (fluff in a core) the falling-rate period dominates — argue for thin layers / agitation.
+   • **Clausius-Clapeyron:** Relates vapor pressure to temperature for evaporation design
+- **Humidity ratio (ω):** Mass of water vapor per mass of dry air
+- **Wet-bulb temperature (T_wb):** Adiabatic saturation temperature — limits convective drying floor
+- **Enthalpy-humidity chart:** Standard design tool for air-water systems
+
+--- [[Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）]]  (5 句)
+   • Bacterial cellulose aerogel drying is the controlled removal of liquid from a bacterial cellulose (BC，细菌纤维素) hydrogel while managing capillary stress, ice templating, fiber bonding, and pore preservation to obtain a target thermal–mechanical property set.  
+（中文：细菌纤维素气凝胶干燥是在液体脱除过程中控制毛细应力、冰模板、纤维结合与孔结构保持，以获得目标热—力性能组合的过程。）
+   • 1. **Capillary-stress route 毛细应力路线**: ambient, hot-air, and oven drying pass through a liquid–gas interface; capillary pressure can pull nanofibers together, increase density, and reduce swelling or gas permeability.
+2. **Sublimation route 升华路线**: freeze-drying first immobilizes water as ice and then removes it by sublimation. Ice-crystal size and orientation template the final pore architecture, so freezing rate and direction matter.
+3. **Critical-point route 临界点路线**: supercritical CO₂ drying s
+   • **Key conclusion 关键结论：Drying is a structure-forming operation rather than a simple water-removal step.（干燥不是单纯除水，而是结构成形步骤。）**
+   • Related 相关：nanocellulose aerogels（纳米纤维素气凝胶）[待建立]
+- Related 相关：freeze-drying（冷冻干燥）[待建立]
+
+--- [[Hygiene Absorption Model]]  (4 句)
+   • **6. 干燥耦合（drying coupling）：** 结合水（bound moisture）决定平衡含水率，从而决定纤维素绒毛浆与 SAP 可达干度的**下限**；热风对流是纸浆/纸巾/无纺布穿透干燥的默认方式（源：Industrial Drying Ch1 Principles and Classification）。
+   • ：**「Hygiene Absorption Model」作为模型的自身定义、状态变量与支配方程组**在引用来源中均未给出；现有摘录只提供吸收性口径与建模方法论。
+- ： 摘录中 "One-dimensional Washburn is a lowe…" 一句被截断，未予补写（源：Computational Modeling in Absorbent Technology）。
+- ： 中 25 g/m² 商用样回渗值（1.06 …）截断（源：ES Fibre Hydrophilic Function and Applications）。
+- ：本页摘录中  的命中属**粘接侧**内容（core retention 与 ψ(v,T)），非吸收模型正文，未作为本页主体证据。
+- ：三条原始引用来源（Handbook of Industrial Drying、Industrial Drying Ch28 Osmotic Dehydration and SAP Physics、Industrial Drying Ch50 Solid-Liquid Separation）**在本批摘录中无对应正
+   • **原始引用来源（Cited by, 3 处）**
+- Handbook of Industrial Drying
+- Industrial Drying Ch28 Osmotic Dehydration and SAP Physics
+- Industrial Drying Ch50 Solid-Liquid Separation
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+
+--- [[Effect of Drying Methods on Bacterial Cellulose Aerogel]]  (4 句)
+   • This peer-reviewed review consolidates how drying methods govern the thermal and mechanical behavior of bacterial cellulose (BC，细菌纤维素) aerogels and provides a parameter-backed basis for selecting a preservation route.  
+（中文：该同行评审综述系统梳理干燥方法如何影响细菌纤维素气凝胶的热学与力学表现，为干燥路线选型提供参数依据。）
+   • Bacterial cellulose offers high purity, crystallinity, hydrophilicity, and a nanoscale fiber network without the lignin-removal burden of plant cellulose. The review compares hot-air, freeze, ambient, supercritical CO₂, microwave, bidirectional-freezing, and oven-drying routes. Drying changes pore morphology, density, hydrogen bonding, crystallinity, water uptake, gas permeability, thermal conductivity, and strength. Freeze-drying is the most frequently reported route because it preserves porous
+   • **Freeze-drying preserves pore structure but does not universally maximize mechanical strength.（冻干保孔，但不必然带来最高机械强度。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Pre-freezing rate and architecture are part of the drying process window.（预冻结速率与结构同属干燥工艺窗口。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Commercial selection must balance property retention, energy, cost, and scalability.（商业选型需平衡性能保持、能耗、成本与可规模化性。）** — supporting page: Bacterial Cel
+   • Concept 概念：Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+
+--- [[Industrial Drying Ch46 Energy Aspects]]  (4 句)
+   • **Paper:** ~**33%** of sector energy (Table 46.2)
+- Drying removes the least water in absolute terms but is the most costly step
+   • **Warning:** Do NOT confuse "energy efficiency" with "drying efficiency" (Eq 46.6, accounting for exhaust enthalpy) — vendors may quote the flatterer.
+   • **MVR:** 134 kJ/kg water — "20 times better than the typical adiabatic spray drying" (p.1086)
+   • Handbook of Industrial Drying — Full book index
+- Industrial Drying Ch50 Solid-Liquid Separation — Mechanical dewatering (4% national potential)
+- Industrial Drying Ch53 Cost Estimation — Cost methodology
+- Industrial Drying Ch15 Impingement Drying — 3100 kJ/kg benchmark
+- Industrial Drying Ch35 Drying of Pulp and Paper — Steam drying 30% advantage
+
+--- [[Industrial Drying Ch35 Drying of Pulp and Paper]]  (3 句)
+   • **This is THE most actionable sentence in the Handbook for fluff-pulp qualification.** Over-drying market pulp in the final stage welds fibres via thermal cross-linking (hornification), raising defibration energy and hurting pad integrity. Suppliers control pulp temperature °C precisely to avoid this.
+   • **Fluff implication:** High-temperature drying history means collapsed pores and lost swellability.
+   • Handbook of Industrial Drying — Full book index
+- Industrial Drying Ch33 Drying of Fibrous Materials — Fibre physics, FSP, Tg
+- Industrial Drying Ch34 Drying of Textile Products — Nonwoven textiles
+- Industrial Drying Ch17 Conveyor Dryers — Through-air conveyor
+- Industrial Drying Ch46 Energy Aspects — Energy benchmarks
+- Industrial Drying Ch50 Solid-Liquid Separation — Mechanical dewatering
+- Industrial Drying Ch53 Cost Estimation — Cost methodology
+
+--- [[湿巾 Wet Wipes]]  (2 句)
+   • **Coating and drying（涂层与干燥，制造侧）**
+- Emulsion / lotion coatings on wipes behave like latex — a longer benign constant-rate period before the defect-prone falling-rate zone（源：Industrial Drying Ch40 Drying of Coated Webs）。
+- For skin-contact hygiene films and wipes, **100 % solids UV/EB** is the regulatory-friendly route — no solvent VOC, no extractable cross-linker residuals（源：Industrial Drying Ch40 Drying of Coated Webs）。
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+
+--- [[Handbook of Industrial Drying]]  (2 句)
+   • **EN**: The de facto standard reference for industrial drying. 53 chapters covering fundamentals, dryer types, materials, systems, and economics. For hygiene products, the fiber-pulp-polymer axis (Ch33-36, Ch40-41) is directly relevant to diaper/wipe/absorbent core manufacturing. Six core red lines: mechanical dewatering first, bound/free water dichotomy, constant/falling-rate drying skeleton, drying changes material structure (hornification/case-hardening), pilot-scale mandatory, energy and cos
+   • Handbook of Industrial Drying
+- Handbook of Industrial Drying
+- 纤维干燥 Fiber Drying
+- 纸浆干燥 Pulp Drying
+- SAP 干燥 SAP Drying
+- 干燥角质化 Hornification
+- 湿迁移 Wet Migration
+- 机械脱水 Mechanical Dewatering
+- Nonwoven 非织造布
+- SAP（高吸水树脂）
+- Handbook of Nonwovens
+- Handbook of Adhesive Technology Full Report
+- Hygiene Absorption Model
+
+--- [[IMA 知识库索引（2026-09-11）]]  (2 句)
+   • The snapshot reports 464 cumulative entries and 35 additions, all concentrated at the root level. It groups the week’s material into bacterial nanocellulose sharing decks, nanocellulose review, application-red-line revision, methodological templates, smart-material evaluation, nonwoven process articles, biodegradable polymer notes, and supplier-visit intelligence. The index documents a shift from performance-driven supplier analysis toward pain-point-driven analysis, and it records the introduct
+   • **Bacterial nanocellulose consolidation included application-positioning and red-line governance.（细菌纳米纤维素沉淀包含应用定位与红线治理。）** — related page: 细菌纳米纤维素.
+- **Nanocellulose comparison work separated CNC, CNF, and BNC material roles.（纳米纤维素对比工作区分了 CNC、CNF 与 BNC 的材料角色。）** — related page: 纳米纤维素（CNC、CNF、BNC）.
+- **Drying-process selection was formalized as a reusable methodological asset.（干燥工艺选择被形式化为可复用方法论资产。）** — related page: 水凝胶脱水干燥工艺族谱.
+

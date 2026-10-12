@@ -1,0 +1,125 @@
+# SEED: Flory- Rehner Theory
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Acrylic-Based Superabsorbent Polymers
+#
+# 全库正文命中 39 页，50 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch11 Smart Polymer Drug Delivery]]  (5 句)
+   • Chapter 11 moves from "smart materials that respond" to **quantitative structure–property–release modelling**. It supplies the canonical toolbox for any cross-linked hydrophilic network — including SAP: network characterization (Mc, ξ, υ₂,ₛ), equilibrium swelling (Flory–Rehner 平衡溶胀), diffusivity in porous media, and the three release-mechanism classes. Its own framing: "Intelligent or smart polymers are biocompatible polymeric materials that can respond to the physiological or biological environ
+   • **Flory–Rehner equilibrium swelling** (Flory–Rehner 平衡溶胀理论): an immersed equilibrium gel is subject to only two opposing forces — "the thermodynamic force of mixing and the retractive force of the polymer chains" (L126–134), giving ΔG_total = ΔG_elastic + ΔG_mixing. Mc relations appear as Eq. 11.3 (neutral network prepared without solvent, L173–181) and Eq. 11.4 (with the relaxed volume fraction υ₂,ᵣ, L190–202). Ionic networks add a ΔG_ionic term.
+   • **Rubber elasticity theory** (橡胶弹性理论) recovers the equilibrium modulus and, via tensile testing, backs out Mc: τ = (ρRT/Mc)(1 − 2Mc/Mn)(α − α⁻²)(υ₂,ₛ/υ₂,ᵣ)^(1/3) (L276–307).
+   • 1. **SAP design as a mesh-size problem.** ξ = υ₂,ₛ^(−2/3)(2C_n·Mc/M_r)^(1/2)·l and Mc from Flory–Rehner are the proper language for the free-swell vs. gel-strength trade-off: lower Mc ⇒ tighter network, higher modulus, slower uptake. Map ξ against fluid-uptake rate to select SAP grade per layer (acquisition vs. anti-gel-blocking).
+2. **Acquisition/distribution nonwovens.** D_eff = D_iw·(ε/τ)·K_p·K_r makes porosity ε and tortuosity τ explicit process levers for fiber denier, basis weight and cale
+
+--- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]  (3 句)
+   • **1D 高估 SAP 利用率 13%（100% 假定 vs 87% 实际）⇒ 设计应预留约 13% SAP 容量裕度。** —— 支撑页：Gel Blocking（凝胶阻塞）、MD Liquid Distribution
+- **最外侧 2 个切片（各 6.7 mm）240 s 时近乎零吸收 ⇒ 边缘旁通/回流通路，需阻隔结构或边缘加密 SAP。** —— 支撑页：Core Channel Pattern（芯体通道花型设计）、MD Liquid Distribution
+- **D_cap = 1e-9 m²/s 下 ±40 mm 铺展需 ~30 s；更快的输运只能靠提高 k0 或降低 μ。** —— 支撑页：MD Liquid Distribution、ADL（导流层）
+- **质量守恒闭环（误差 ~0 mL）⇒ v8 可进入参数扫描阶段。** —— 支撑页：（无，模型内部指标）
+- **50% 吸收 9.5 s / 80% 吸收 16.0 s（200 mL、15 mL/s、中心 40% 顶部注入）。** —— 支撑页：Rewet Test（回渗测试）（口径对照）
+- **Flor
+   • **机理页**：Gel Blocking（凝胶阻塞）（本件量化证据：SAP 利用率 87%、边缘 2 切片未激活）、MD Liquid Distribution（MD 铺展 ±40 mm / ±6 切片、D_cap 校准需求）、ADL（导流层）（铺展瓶颈的物理角色）、Core Channel Pattern（芯体通道花型设计）（边缘旁通 → 通道/阻隔设计）、SAP错峰膨胀（利用率与膨胀时序）。
+- **参数页**：SAP性能指标（CRC AUL GBP Vortex） —— 本件 **Q_eq = 21.2 g/g 由 Flory-Rehner 热力学模型算出**，与该页**实测 CRC 口径来源不同，不可直接等同**。
+- **方法页**：Rewet Test（回渗测试） —— 本件**尚无 rewet 模型**（原文将回流/渗漏列为 v3.0 待办），**不能用于回渗预测**。
+- **版本沿革**：同系列 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）、2D Absorption 
+   • 1. **Flory-Rehner 曲线给出 0.15 mol/L → Q_eq = 21.5 g/g，参数表精算为 21.2 g/g** —— 两者**差 0.3 g/g**，疑为曲线读数与公式计算之差；本页**并列登记，不裁决**。
+2. **"质量误差 ~0 mL"与 Figure 2 的常值偏移 5.0~5.1 mL** 表面不一致 —— 原文解释为"相对初始液体的常值偏移，证明守恒机制正确"；**属口径表述问题，未裁决**。
+3. **终态自由液 3.99 mL 中"仅 1.9% 在孔隙中"** —— 分母未明确（疑为占注入量 200 mL 的 1.99%）；**照录，未反推**。
+4. **MD 铺展 Figure 4 的纵轴标注为"% of total mass"，初始 13.5% 后降至 0.4%** —— 与"一半吸收发生在注入区之外"的文字结论**关系不明**，疑为图轴标注与数据表错位；**照录，不做定量解读**。
+5. **Figure 6 末态孔隙率"多数单元 φ≈0.35、边缘保持 0.42"** 与 Figure 5 初始均匀 0.42 一致，但**图中数据
+
+--- [[交联密度 Crosslink Density]]  (2 句)
+   • **It is the枢纽 of the SAP formulation playbook.** The REL project's core material SAP is treated with **cross-link density as the pivotal parameter** connecting monomer system, initiation/cross-linking route, absorption kinetics (diffusion + swelling coupling) and green/structured 2024 strategies（源：Acrylic-Based Superabsorbent Polymers）。
+- **Simulation interface.** Cross-link density feeds directly into the **Flory-Rehner swelling model** as a parameter interface（源：Acrylic-Based Superabsorbent Po
+   • Absorbent Technology
+- Acrylic-Based Superabsorbent Polymers
+- Cross-linked Cellulose and Its Derivatives
+- Hydrogel-based Superabsorbent Polymers
+- Fibers and Fibrous Materials
+- Ancient Organic Dyes and Pigments Chemistry
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- Hydrogels in Regenerative Medicine
+- Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+- Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- Flory- Rehner Theory
+- SAP性能指标（CRC AUL GBP Vortex）
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (2 句)
+   • **Phase transition + critical susceptibility 相变 + 临界敏感性.** 「smartness」= 可逆相变 + 临界点敏感性；因溶液行为在相变附近（尤其临界点附近）具有普适性，无穷小的参数变化即可触发大响应（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。
+- **Confined brushes 受限刷层.** 一端接枝到不可渗透表面后，响应性由分子旋钮（N、s、α、χ(T)、盐、溶剂组成、表面活性剂）设定；**"grafting from" 可避免 "grafting to" 的空间位阻**；高表面覆盖的刷层靠强分子间相互作用保证刺激响应性（源：Smart Polymers Ch02 Responsive Polymer Brush Theory）。
+- **Recognition-driven mechanism 识别驱动的机制.** 硼酸酯与顺式二醇的可逆共价络合形成**多价（multivalent）**结合；PBA 以不带电三角形式与带电硼酸酯形式并存，是
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch04 Therma
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (2 句)
+   • **4. Phase diagrams must be measured, not predicted.** Coexistence curves are highly diverse (UCST, LCST, closed-loop, overlapping gaps, up to three critical points) and "no existing microscopic or phenomenological theory can analytically represent the coexistence curve over a wide parameter range" (L200–230). Empirical phase diagrams are a prerequisite for any bioprocess design (工艺设计的先决条件).
+   • Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch11 Smart Polymer Drug Delivery
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- Acrylic-Based Superabsorbent Polymers
+- Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）
+- Active Hygiene Roadmap（力致变色材料商业化路线图）
+
+--- [[v10 优化执行方案建议（Claude Code + Gemini CLI 分工评估 · 2026-06-16）]]  (2 句)
+   • 1. **本次选型的核心判据是"不可替代性"而非"更优"** —— Claude Code 是"**更好**（工程代码略优）"，Gemini 是"**不可替代**（1M token 长上下文）"。**⇒ 引入新工具链的决策线应该是"有没有别的方式达成"，而不是"是不是更强"。**
+2. **启动成本为 0 的一方具有压倒性优势** —— 模式 A 的安装成本、学习成本、文件访问成本**全部为 0**；模式 B 在分工后还有**额外协调开销**。**⇒ 工具选型的隐藏成本往往大于能力差。**
+3. **"为 10–20% 的代码质量差异装一套工具链不值得"是可迁移的成本判据** —— **把能力差量化成百分比，再与切换成本比较**，比"哪个更强"的讨论更有效。
+4. **Phase 0.2（网格收敛验证）被单独立项** —— 与 Numerical Diffusion & Grid Convergence（数值扩散与网格收敛） 页的核心关切一致：**网格收敛不是默认完成的动作，需要专门排期（0.5 天）与自动化脚本**。
+5. **Phase 3.5（NaCl 传输）把模型从"纯水"推进
+   • 纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner） —— 本页是**该报告的前置/并行文件**：结果报告记录 Phase 0.1 / 2 / 5 的完成与 Phase 1 / 3 / 4 / 6 的状态；本页给出**含 0.2 / 3.5 / 7 的完整 Phase 清单与工具分工**。
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛） —— **Phase 0.2 网格收敛验证**被单独排期（0.5 天），并明确需要**自动化运行脚本**；与该页"细化 ≠ 已收敛"的关切直接呼应。
+- SAP（高吸水树脂） —— **Phase 7 参数标定**要求"每个参数附文献来源与置信度"，其直接对象即 SAP 的溶胀/渗透率类参数（另含 Brooks-Corey 毛细压力、Carman-Kozeny 渗透率的文献取值）。
+
+--- [[Hot-Melt Slot Coating（热熔狭缝涂布）]]  (1 句)
+   • 1. **The governing slot equations（狭缝的支配方程）**：wall shear rate = 6Q/(w·t²); pressure drop over the land ΔP = 12·η·Q·L/(w·t³). **Pressure scales with 1/t³ — so halving the shim to gain a crisper edge multiplies die pressure by eight.**
+2. **Zoning without control loops（无需控制回路的分区）**：flow through a rectangular land is Q ∝ ΔP·g³·b/(12·η·L). With g, b and ΔP common to all zones, the ratio is purely **1/L**. Land lengths machined to ± 0.05 mm fix the coat-weight ratio to better than 1 % for the life of 
+
+--- [[Hygiene Absorption Model]]  (1 句)
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）]]  (1 句)
+   • Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研） —— 
+- Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体） —— 
+- 纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner） —— 
+- 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告） —— 
+- 2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告） ——
+

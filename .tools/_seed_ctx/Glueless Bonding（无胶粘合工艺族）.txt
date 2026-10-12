@@ -1,0 +1,157 @@
+# SEED: Glueless Bonding（无胶粘合工艺族）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 162 页，291 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (7 句)
+   • 旦数约束：常规面层为两弹（2 denier [待验证]），三叶形纤维**只有三弹**（3 denier [待验证]）可选，「这个没办法选，因为它就是三弹的」→ 分层时旦数无法对齐，属已知不可控变量。
+- 复合顺序：上下层各 15 g 单独成层 → 在延江处复合为 30 g 面层（转写「岩浆」[待验证]）→ 再到传越做超声波 bonding 粘合 ADL。与巴西方案同构。
+   • ✅ **验证记录（2026-09-29）**：分层 10%/0% 与 0%/10% 的双 code 设计为已决方案；打样米数、温度点、旦数口径均来自 ASR 转写，标 ，引用前须与实验记录核对。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Ultrasonic Bonding of PET-Containing Topsheet。
+   • → **永远是"形态保持"与"bonding strength"的平衡**：温度越低越保形，但 bonding 强度有风险。
+   • 1. 先向热风厂（延江）索取**当前的烘箱设定温度** —— 注意：**熔点 130 ℃ 只是材料属性，不是工艺温度**；设定温度可能高于熔点（如 135 ℃）。
+2. **设定温度 ≠ 实际温度**：只能监控设定温度，两者之间可能存在 **2–5 ℃** 偏差；这个 delta 正是流平与否的关键。
+3. 在产线上**以设定温度为基准往下调**，利用连续运行时烘箱的降温过程**分段收样**（例如跑 130 ℃ 收一批、降到 128 ℃ 再收一批、126 ℃ 再收一批），共 **3 批**。
+4. 三批样送实验室测**拉伸强度**；**只要 bonding strength 能接受，就取低温样** —— 低温样形态保持最好。
+5. 若热风厂对烘箱能力有信心（设定即实际），仍应**额外做出更低温度的样品**做对照。
+
+--- [[Ultrasonic Bonding of PET-Containing Topsheet]]  (6 句)
+   • 1. **Ultrasonic bonding is a microstructure effect（超声粘合是微观结构效应）**：performance depends on microstructure, local energy concentration and pattern profile — not simply on polymer softening. Too much non-bondable mono-PET reduces pattern reliability.（效果取决于微观结构、局部能量集中与花型轮廓，而不只是聚合物软化；不可粘的单组分 PET 过量会降低花型可靠性。）
+2. **PET does not soften at PP/PE ultrasonic settings（PET 在 PP/PE 超声参数下不软化）**：in a cuff or side-seam lane it behaves as **unbonded filler** and seal strength drops **without warning**. The failure
+   • **各 bonding 线的 bond area 必须相等**：无论采用哪种 pattern，line 1–5 的**粘合面积/间距必须一致**，否则拉伸时会变形、**破坏已形成的 3D 效果**，且张力不均。
+- 该原则同时解释了「为什么 pattern 不能随意加宽/加密」——**bond area 不等 → 张力差 → 3D 变形**（与 COCO V6 Trial Round-2 Review（录音纪要 2026-09-16） 中「切与未切之间密度张力不同、产生前后张力差」互为呼应）。
+   • **超声波 bonding vs 胶 bonding 的毛细差异（待验证假设，非已决）：**
+   • 判断：**超声波 bonding 不提供毛细**，而**胶 bonding 自带一定毛细渗透** → 二者在液体传导上的行为可能不同。
+- 验证计划（已排）：**9 月**做对比实验 —— 用**两个压辊 / 两个 code** 对比。⚠️ 结论未出，不得写成已决。
+
+--- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]  (5 句)
+   • A literature-based **fibre-mix strategy for a laminated topsheet**: a 25 gsm carded ATB web on a 12 gsm PE/PP bico spunbond carrier, ultra-sonically bonded and 3D-pattern-formed in-line at 600 m/min. It is the batch's "**bonding and pattern reliability constraint**" page.
+本页是**层压面层的纤维配比策略**：25 gsm 梳理 ATB 网 + 12 gsm PE/PP 双组分纺粘载体，在 600 m/min 车速下在线超声粘合与 3D 花型成型，回答「**粘合与花型可靠性如何约束配比**」。
+   • The design brief carries five constraints: inline diaper lamination at 600 m/min; ultrasonic bonding / 3D pattern forming; a soft body side with high intake and better MD/CD wetting spread; stable deformation and pattern retention after ultrasonic bonding; and a blend that stays highly processable in carding and through-air bonding.
+设计简报含五条约束：600 m/min 在线尿裤层压；超声粘合 / 3D 花型成型；贴肤侧柔软且摄入高、MD/CD 润湿铺展更好；超声后变形稳定、花型保持；混料在梳理与热风粘合中保持高可加工性。
+   • The recommended recipe resolves to **60 / 25 / 15** (2D ES / 4D eccentric ES / 2D rounded trilobal mono-PET) = 15.00 / 6.25 / 3.75 gsm, described as the best overall balance: enough 2D ES for softness, enough 4D eccentric ES for loft and pattern depth, and 15% rounded trilobal PET for a wicking upgrade without over-penalising ultrasonic bonding. The most important engineering rule is stated as: keep the **total ES fraction above 80 wt%** so the ES-rich network still dominates bonding and pattern
+   • **The ES network must stay dominant**: shaped mono-PET is a modifier, capped well below the bonding-controlling fraction —— 支撑页：皮芯复合纤维、Shaped PET Add-On Window
+- **Ultrasonic response is an ES property**: non-bondable mono-PET dilutes pattern reliability —— 支撑页：Ultrasonic Bonding of PET-Containing Topsheet
+- **4D eccentric ES carries loft and pattern depth** — it is the mechanism for bulk and compression resilience —— 支撑页：皮芯复合纤维、热风粘合无纺布
+- **The spunbond is a carrier, not a wick** —— 支撑页：SMS复合结构、
+
+--- [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]]  (5 句)
+   • Date 日期：**[待验证]** —— 转写未标注；锚点为"初始样品下个月 10 月""本月底在供应商侧建平台""巴西 2028" → 推测 **2026 年 9 月**
+- 场景：跨团队（FBI 团队 / 开放创新团队 / 产品与工艺）的技术交流，围绕 **Be max 平台**的纤维配置、bonding 工艺与验证计划
+- 与会：Chris、Jerry、Anthony 及工艺/材料同事（均为音转）[待验证]
+- ⚠️ 具体人名一律 **[待验证]**，不做实名指派
+   • 1. **平台目标（已定）**：Be max 平台用**异形（三叶形）纤维 + 超声波 bonding** 把 liner 与 surge 结合，**目标提高 MD 方向尿液分布长度约 15%**；更长的分布长度 → **更好地利用 SAP**。
+2. **纤维配置（已排定）**：
+   - **第一梳理：10% 三叶形纤维**；
+   - **最多 30% 的 homo PET 三叶形纤维**；
+   - 理论收益：**MD urine distribution 长度 +15%**（"theoretically 15% more on the MD distribution"）。
+3. **核心工艺风险（已识别）**：**三叶形纤维（尤其 homo PET）加得越多，中间层的 bonding strength 越不确定** —— 这是本平台**尚未解决的关键未知**。
+4. **温度路线（已提出，仍在做）**：不同聚合物熔点差异大（PP vs PET）；考虑**工程改性 PP，把加工温度降到接近 130 ℃（即 PE 的熔点）**，与现有 bicomponent / TBCW 体系兼
+   • 1. **中间层 bonding strength 未知**：三叶形（尤其 homo PET）比例提高后，中间层的**粘合强度**尚未知 —— 这是本平台的关键技术缺口。
+2. **PP 低温改性尚未完成**：把 PP 加工温度降到接近 **130 ℃** 的改性"**仍在做**"，未落地。
+3. **超声波 bonding 与材料的匹配性未验证**：pressure bonding 已确认不工作；bonding 效果"取决于材料、取决于 PP" → 具体匹配窗口未知。
+4. **500 m 未验证**：380 m 可靠，**500 m 尚未验证**（"we haven't verified yet, we need more data to test online"）。
+5. **Kirigami 与 BA 项目的协同未定**：本方提出"如果我们用这种方式做 Kirigami，你们 BA 项目的计划是什么" → 未获答复。
+6. **Kirigami 用在纺粘上是否可行未试过**：会中讨论"能否在纺粘上做（切割+拉伸）"，结论是"**从未试过**（never tried）"，且推测*
+   • Be max 平台想解决的是"**不增加克重而提高尿液分布**"：用异形（三叶形）纤维改善 MD 方向的扩散，用超声波 bonding 把 liner 与 surge 结合，从而减少对**较贵的延江面层**的依赖，为成本敏感市场（如巴西）提供降本路径。本次交流是在 FEI 阶段，就纤维配比、bonding 工艺选型与离线验证计划做对齐。
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (5 句)
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **效应量排序（Effect Summary）**：**施胶花型（Nozzle – OP）影响最大，胶型影响最小**。Logworth / P 值依次为：**Nozzle – OP 14.020（p 0.00000）**、**Primary Substrate 4.376（p 0.00004）**、**Bonding 3.632（p 0.00023）**、**Add-On (gsm) 1.304（p 0.00548）**、**Adhesive Type（p 0.04965）**。
+   • **各因子细节**：
+- **施胶花型**：Minibead 最强；**Minibead 的剥离强度同时变异最大**——原文提出 CF Swirl 与 Minibead 之间的剥离强度落差**可能正是 Depend 回渗值更不稳定的原因**；另注 **Summit 喷嘴历史上粘合强度 ≥ Signature**，本次偏低疑为试验期间花型质量不达标（Tukey-Kramer 0.05 分组中 CF Swirl 52.879 / Signature 44.119 / Summit 24.097 等均值）。
+- **施胶基材（Primary Substrate）**：**胶应施加在导流层上以获得高剥离强度**——Surge 均值 **408.19**（Std Error 29.750，A 组）vs Liner **230.09**（Std Error 26.434，B 组），**未共享字母即统计显著**。注：面层作基材仅在 Minibead 喷嘴组合中出现，故右图只含 minibead 代码。
+- **压合（Bonding）**：**压合的剥离强度高于不压合**（p = 0.0002）。**
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+
+--- [[Core Channel Pattern（芯体通道花型设计）]]  (4 句)
+   • 1. **中轴通道（central axial channel）是必需要素** —— 须有一条贯穿的中轴，且**镂空槽必须正对注液点**（行业标准注液点 = 中心靠前 35 mm；低压/cradle 注液点 = 中心靠前 85 mm）。机理：注液点下方有通道，液体第一时间被导走，而不是在尿点处堆积。
+2. **侧枝（side branches）是可选项，不是必选项** —— 侧枝有助于缩短吸收时间、提升 ICP 用量利用率，但对位（上下层贴合公差）更难、工艺更复杂；可依外观与工艺难度自由调整。
+3. **花型收敛为叶脉（leaf-vein）优先** —— 叶脉 = 一条中轴 + 斜向侧枝；其优势体现在**高压扩散长度**（≈330 mm 量级），而非 cradle 第三次吸收速度。
+4. **绑定（bonding）宽度是工艺寿命问题** —— 3 mm 优于 6 mm（第三次吸收更快），8 mm 对模具寿命最安全；超声波下 3 mm 可用。数据上 3 mm 与 6 mm 的差异未达显著，故该点被有意弱化。
+5. **分区密度由丝网孔径实现** —— 在成形网（wire mesh）中央加
+   • 上位/相关：分区密度设计、COCO芯体平台、REL增强层
+- 机理同源：毛细梯度设计、MD Liquid Distribution、Groove Capillary Suction
+- 工艺手段：Ultrasonic Bonding of PET-Containing Topsheet、热风粘合无纺布
+- 风险相关：SAP错峰膨胀（凝胶阻塞）、Skin Contact Pressure（皮肤接触压力）
+   • 1. **中间贯穿性中心导流槽**：用于覆盖不同尿点，贡献高压下 intake 加快与扩散。
+2. **导流槽必须加 bonding**：否则湿态下被 SAP 膨胀抹平、丧失导流功能；加 bonding 同时提升湿态/高压吸收。
+3. **bonding 必须做窄**：过宽会伤害 U 型下扩散（推测原因是超声 bonding 破坏内层纺粘纤维、影响毛细传导）；由约 **6 mm 收到 3 mm** 后影响降低，后续继续试更窄。**bonding 是双刃剑**。
+4. **横向导流槽**：帮助 cradle 下水、加速 cradle intake（与第 8 条共同贡献 U 型下约 **50%** 的指标降低）。
+5. **开槽宽度**：按 **8 mm / 10 mm** 设置，需匹配最终工艺难度。
+6. **横向导流槽不超出 pad 边缘**，预留数毫米。
+7. **导流槽不能贯通**：贯通会让液体过度扩散到前后端 → 前后漏。
+8. **哑铃形（中间窄、两头宽）**：两头宽扩大 coverage（前趴/后躺防漏），中间窄提升中心区 **SAP density**（总量不变、面积收窄 
+   • 导流槽方向：后端向后、前端向前（两个 code 做平行对比），目的为验证导流槽的引流作用是否提升液体横向扩散，从而改善吸收时间与回渗。
+- 导流槽使用 **8 mm 浆板**；本轮所有 code **均加中间 bonding**。
+- code 7：在 code 6 基础上**剪短导流槽前端长度**；code 8：在 code 7 基础上于**前端增加一条横向导流层**，验证其对冲到前端的液体的格挡 + 向两侧扩散作用（code 6/7/8 的 SAP add-on 与胶密度均不变，15.5 g）。
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (4 句)
+   • **粘弹性耗散主导强度，而非界面热力学。** 剥离强度 **G = G₀·ψ(v,T)**：G₀ = 本征断裂能，ψ(v,T) = 频率/温度相关的粘弹性函数。卫材含义："Temperature and peel rate directly determine core retention"— 配方开发的核心是设计 ψ(v,T) 的峰值（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **机械互锁是橡胶-纺织/绒毛浆界面的主导机制。** "penetration of the protruding fiber ends into the rubber was the most important parameter"，对应热熔胶点到浆纤维 / SAP 颗粒的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）。
+- **水基化转型不可逆。** 水性聚氨酯"no VOC emissions and
+   • **腰贴 / 侧贴 / 顶贴的 PSA 选型基准** — 行业直接命中："Personal hygiene products such as disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate this application... in particular the adhesive must not cause skin irritation."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **芯体点胶** — 施胶花型（喷嘴）是最大杠杆、**胶型是最小杠杆**：HSBL 数据给出施胶应施加在导流层（surge）上以获得高剥离强度；"间隙小 → 回渗低"仍为未验证假设（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）、Surge-Liner Adhesive Bonding（导流层-面
+   • **HSBL 试产的实测结果**（Peel / Capillarity / MicroCT / 回渗）与覆盖率—添加量的最优区间未见 （源：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合））。
+- **SAP-胶复合界面的标准测试方法**（界面相容性、防霉）库内记载"尚无"（源：Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶））。
+- **湿态/尿液环境下的长期强度衰减**库内只有类比（85 % 损失为有机涂层数据），**卫材专属衰减曲线未见** 。
+- 以上定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+   • Citing sources（3）: Adhesive Handbook Part 1 History and Information Resources、Adhesive Handbook Part 2 Fundamental Aspects、Adhesive Handbook Part 3 Adhesive Classes
+- 父书 / 汇总: Handbook of Adhesive Technology Full Report、Adhesive Handbook Part 4 Applications
+- 胶类概念: 压敏胶 PSA、热熔胶 Hot Melt Adhesive、Hot Melt Adhesive、胶黏剂 Adhesive、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）、丙烯酸丙烯酸酯胶 Acrylic Adhesive、APAO（非晶态聚α-烯烃）
+- 机理 / 界面: 胶接理论 Adhesion Theories、胶接热力学 
+
+--- [[双组分纤维 Bicomponent]]  (4 句)
+   • A **bicomponent（双组分/复合）fibre** is a fibre formed by **conjugate spinning** of two polymers into one filament, classified by cross-section into **side-by-side (S/S, 并列)**, **sheath-core (S/C, 皮芯)** and **matrix-fibril (M/F, 基质-原纤)** architectures（源：Bicomponent Fibre Technology Development Trends）. Sheath-core variants are **concentric 同心型**（core centred）and **eccentric 偏心型**（core off-centre, enabling self-crimping）. The hygiene workhorse is the **low-melting bonding fibre**: the source states ver
+   • **Thermal-bonding mechanism（热粘合机理）：** during **air-through or calender bonding** the low-melting **sheath melts to form bond points** while the high-melting **core retains fibre integrity** — the structural basis of through-air bonding for sheath-core bicomponents（源：Bicomponent Fibre Technology Development Trends）. The bond is **intrinsic to the fibre polymer, not an added adhesive**; the target is **surface sintering**, and **over-bonding embrittles the web and causes point-bond "popping"**（源：T
+   • Bicomponent fibres are the bonding and functional backbone of the hygiene stack: **carded / air-through webs**（热风无纺布）, **topsheet**（Topsheet（面层））, **ADL**（ADL（导流层））and spunbond/meltblown layers（纺粘 Spunbond、Meltblown Nonwoven（熔喷非织造布））all depend on low-melting sheath fibres — the industrial form of which is **ES fibre（PE/PP 皮芯）**（ES Fibre Hydrophilic Function and Applications、皮芯复合纤维）. In the drylaid branch, bicomponent blends are named alongside fluff pulp and SAP as the raw-material science that 
+   • Bicomponent Fibre Technology Development Trends
+- Bicomponent Fibre Technology Trends China and Abroad
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+- Thermal bonding
+- Dry-laid web formation
+- 皮芯复合纤维
+- ES Fibre Hydrophilic Function and Applications
+- 热风无纺布
+- 三叶形截面纤维（Trilobal Fibre）
+- Absorbent Techn
+
+--- [[水刺 Hydroentanglement]]  (4 句)
+   • Hydroentanglement (also called **spunlacing 水刺**) is **high-velocity water-jet mechanical bonding** — **binder-free, lint-free, soft**.（源：Mechanical bonding）
+- 水刺属于**机械加固 mechanical bonding** 三技术之一，另两者为**缝编 stitch-bonding**（Maliwatt / Malimo / Malipol）与**针刺 needlepunching**。三者共同点是：不依赖粘合剂、热粘合或化学粘合剂，而是让纤维**互锁**成布。（源：Mechanical bonding）
+- 定位差异：缝编与针刺主要面向**耐用 / 工业制品**；水刺是**面向一次性用品（disposables）的增长引擎**。（源：Mechanical bonding）
+   • **成布原理**：高速水射流对纤维网施加冲击，迫使纤维相互缠结，从而在**无粘合剂**条件下获得强度（binder-free）。（源：Mechanical bonding）
+- **水刺章节给出的设计工具**：比能量 K、SE_c，射流冲击力 F ∝ p·d²，以及纤维选择规则与**原位微纤化（in-situ microfibre）路线** —— 可分裂双组分（splittable bicomponents）、Lyocell 原纤化 。（源：Mechanical bonding）
+- **纤维选择规则**：粘胶 / 莱赛尔（低湿模量，low wet modulus）**易缠结、成本低**；PP / PET 则**需做亲水处理（hydrophilic finishes）**。（源：Mechanical bonding）
+- **高冲击力解锁高端路线**：提高射流冲击力可解锁微纤化路线 —— 双组分分裂（BICO split）与 Lyocell 原纤化。（源：Mechanical bonding）
+- **湿法成网（wet-laid）相关机理**：湿法成网先以标准定义（EN 29092 /
+   • 水刺被明确列为**面向一次性用品的增长引擎**，是三者中最贴近卫材应用的机械加固方式。（源：Mechanical bonding）
+- **SAP 固定载体**：水刺用于把 SAP 颗粒固定在薄载体中 —— 底层选 spunmelt / SMS，因其在**很低的克重（最优选仅 4–12 gsm）**下仍能提供足够强度与足够小的孔径，这是把载体做薄的前提；顶层按**双峰纤维设计**（≤50% 短而轻 + ≥50% 长而重，至少两类 PET / PE / PP）。（源：Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））
+- **柔软 / 不掉屑（soft, lint-free）** 与**无粘合剂**特性，适合与面层等贴身层相关的应用。（源：Mechanical bonding）
+- **成本杠杆**：K 与 SE_c 可工程化调控 —— 在强度不变的前提下**降低 SE_c 即降低水耗 / 电耗（water/power cost）**。（源：Mechanical bonding）
+- 库内相关条目并
+   • Mechanical bonding（水刺的成布原理、K / SE_c / F ∝ p·d² 与纤维选择规则）
+- Wet-laid web formation（湿法成网定义、沉积机制与含 Lyocell 的纤维库）
+- Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）（水刺固定 SAP 的分工与双峰纤维设计）
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)（水刺粘合载体的权利要求）
+- Absorbent Technology、Nonwovens in Absorbent Materials、Handbook of Nonwovens、Fluid Absorption in High Bulk Nonwovens（概念并列登记）
+- 相关工艺章节：Dry-laid web formation、Polymer-laid web formation、Thermal bonding
+
+--- [[等离子处理 Plasma Treatment]]  (4 句)
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Direct.** Plasma makes PP hydrophilic **for hygiene** without wet chemistry（源：Nonwoven fabric finishing）— this is the PP-based nonwoven in a topsheet/ADL role, where wettability, not chemistry, is the design target. See 亲水整理 Hydrophilic Finish、Topsheet（面层）。
+- **Bonding side.** Because it also improves wetting/bonding of low-energy PP, corona/plasma sits upstream of PP bonding operations（源：Chemical bonding）。See Thermal bonding、粘合剂 Binder。
+- **Motivation — rewet durability.** The wet-chemistry h
+   • **Unresolved number conflict.** PP surface energy is quoted as **~23 mN/m**（源：Chemical bonding）and as **~29–31 mN/m**（源：Manufactured Fibre Technology Ch07 Spin Finishes）。The vault does not reconcile the two; treat any single figure as source-specific 。
+- No **aging / shelf-life / wash-durability** data for plasma-treated PP itself (the migration issue above belongs to surfactant finishes, not to plasma) 。
+- The only quantitative performance claim is qualitative ("much higher flow"); no flow-gain
+   • Chemical bonding
+- Nonwoven fabric finishing
+- Manufactured Fibre Technology Ch07 Spin Finishes
+

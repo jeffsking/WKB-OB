@@ -1,0 +1,81 @@
+# SEED: 83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+# type: concept | 原引用数: 10
+# 原 Cited by 列表:
+#   - 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+#   - 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+#   - Repitch（鼓距与产品节距解耦）
+#   - SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+#
+# 全库正文命中 58 页，71 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]  (2 句)
+   • **「定相位 vs 定尺寸」的正交切分是全部换型设计的根** —— 支撑页：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- **CD 走 chute 插片是本架构最重要的成本设计：宽度族扩展的边际成本降到只剩一片插片** —— 支撑页：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- **Q4 的"不能"分支是架构缺陷检测器** —— 任何"随尺寸变、又必须换实体件、且换起来很贵"的量，都是设计没做干净
+- **ups 是整线级参数（双鼓必须同 ups），不是单鼓参数** —— 支撑页：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- **换 ups 时真正需要改的只有 Recipe 一列（+ 换 sleeve）** —— 支撑页：Repitch（鼓距与产品节距解耦）
+   • 概念：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Repitch（鼓距与产品节距解耦）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- 源：81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）、84 Sleeve 工程规格与换装防错设计、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）、03_卫材产线约束常量表（准入校验工具）
+- 实体：Nichidai（日丝）
+
+--- [[IMA 知识库索引（2026-09-18）]]  (2 句)
+   • The snapshot reports 471 cumulative entries and 7 additions. The week’s material includes a supplier data sheet for a biodegradable spinning compound, an internal decision matrix comparing candidate core materials against a sheath baseline, a four-component diaper performance-and-test-method consolidation, and project-management artifacts covering an OI project list and a resource-planning meeting. The index captures a period in which degradable air-through nonwoven architecture was explored in 
+   • **Sheath–core architecture decisions were extended into degradable material systems.（皮芯架构决策被扩展到可降解材料体系。）** — related page: 皮芯复合纤维.
+- **Component-level performance and test-method consolidation became a governance asset.（组件级性能与测试方法整合成为治理资产。）** — related page: 芯体测试方法与验收基准（STM）.
+- **Biodegradable and bio-based diaper materials were established as a parallel route family.（可降解与生物基卫材材料被确立为并行路线族。）** — related page: Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）.
+
+--- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]  (2 句)
+   • Header line: **"Updated 2026-09-18 · 19 projects (deduped from 25) · Priority: High 8 / Medium 8 / Low 3 · Category-based tracking + PPT component 展示."** The 19 rows are grouped as Fiber/Staple Fiber (OI-1…OI-4), Resin/Fiber → NW (OI-5…OI-10), Core = COCO V6 (OI-11 REL, OI-12 Liner, OI-13 SAP, OI-14 3-carded REL + SAP), Chemical+Film/Indicator (OI-15 thermochromic, OI-16 hydrochromic, OI-17 mechanochromic), Odour Control (OI-18) and Elastomer/Adhesive (OI-19, marked ★NEW). COCO V6 REL (OI-11) is
+   • **The portfolio is now 19 items, not 25 — and the numbering changed** —— any OI-xx reference must state which list it comes from —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **COCO V6 is four projects, not one** —— REL / Liner / SAP / 3-carded REL+SAP —— 支撑页：COCO芯体平台
+- **Dual-SAP with staggered swell is the agreed SAP architecture; Code X takes the high-GBP top layer** —— 支撑页：SAP错峰膨胀、SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、诺尔（Nuoer）
+- **Trilobal fibre is the structural lever for MD distribu
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (2 句)
+   • The **test-planning page for the 4-configuration diffusion-enhanced topsheet DOE** — it defines the candidate fibre systems, the temperature/loading process window, the acceptance metrics and the 3-stage, 33-run test architecture for the REL ultra-thin core topsheet (50 gsm dual-card ATB). It is the batch's answer to "**which fibre goes on top, at what oven temperature, and how do we know it worked**".
+本页是本批**「扩散增强面层 4 配置 DOE」的试验设计页**：锁定候选纤维体系、温度/载荷工艺窗口、验收指标与「3 阶段 33 次试验」架构，服务于 REL 超薄芯体面层（50 gsm
+   • The test architecture is a 3-stage randomized DOE (seed 20260814) totalling 33 runs: **Stage 1** configuration screen (4 configs × 3 temps × medium load = 12, plus 3 centre runs = 15), **Stage 2** temperature × loading optimization on the top-2 configs (12 + 2 = 14), **Stage 3** confirmation (top-2 × 2 replicates = 4), plus 1 anchor run (C1 at 128 °C). Schedule is 14 weeks (W1–W14) starting 2026-08-17, with milestones M1–M7 and 3 acceptance gates.
+试验架构为三阶段随机化 DOE（随机种子 20260814），共 33 次：阶段 1 配置筛选 
+
+--- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]  (2 句)
+   • Full-English R&D plan workbook (Deliverable 1/2 foundation sheet, prepared 2026-08-14) for a **diffusion-enhanced topsheet（扩散增强面层：下渗快 + 面内扩散）** for the REL ultra-thin core diaper. It is the REL-track sibling of the Liner C1–C4 DOE plan — same dual-card architecture, different product target and KPI baseline. All assumptions are explicitly traced to meeting minutes 2026-08-13 and KB sources; [TBD] items require confirmation.（REL 超薄芯体配套的扩散增强面层六页规划：方案、DOE 矩阵、表征指标、排程、风险与预算。）
+   • Scope defines the layer as a functional topsheet-to-core interface layer responsible for fast acquisition（下渗）+ in-plane lateral distribution（面内扩散）; whether it replaces the current ADL or integrates topsheet+ADL is [TBD]. Architecture: dual-card system — skin-side card = 2D ES + optional 10% Lenzing Lyocell (trilobal) for softness/hydrophilicity; core-side card = profiled fiber + ES (50/50 Fudi ES anchor). Backup formula uses 3D Fudi trilobal ES top + 4D base ES bottom; cross-section (十字) PET fib
+
+--- [[LMP-PP Brief — Plan C Technical Supplement]]  (2 句)
+   • This supplement defines Plan C as an ultra-low-melting-point PP sheath resin for an all-PP sheath–core bicomponent fiber and converts that architecture into resin, spinning, and acceptance constraints.  
+（中文：本补充页把方案 C 定义为全 PP 皮芯双组分纤维的超低熔点 PP 皮层树脂，并将结构方案转化为树脂、纺丝与验收约束。）
+   • **The sheath–core architecture separates low-temperature bonding from mechanical support.（皮芯结构将低温粘合与机械承载分离。）** — supporting page: 皮芯复合纤维.
+- **Solubles, quenching, heat setting, and draw-ratio recalibration are the four principal process controls.（可溶物、淬火、热定型与拉伸比重标定是四项主要过程控制。）** — supporting page: 低熔点聚丙烯.
+- **Lower sheath share is both a material-consumption and target-relaxation lever.（降低皮层占比既降低材料用量，也可放宽树脂目标。）** — comparison: 低熔点PP技术路线对比.
+
+--- [[Polymer-laid web formation]]  (2 句)
+   • Chapter 4 is the technical core of the web-formation triptych: it treats spunbond and meltblown as integrated melt-extrusion processes where resin molecular structure sets the processing window, which sets fibre architecture and end-use performance in hygiene/medical disposables.（中文：第 4 章是"成网三章"的技术核心，将纺粘/熔喷视为一体化熔融挤出工艺，树脂分子结构决定工艺窗口，进而决定卫材/医用终端性能。）
+   • §4.2 opens with polymer science: polyolefin architecture (isotactic/syndiotactic/atactic PP; HDPE/LDPE/LLDPE; PET; PA; TPU), resin properties governing spinnability, and the metallocene single-site catalyst revolution.（先讲聚合物科学：聚烯烃立构、可纺性树脂属性、茂金属单活性中心催化剂革命。）
+- Spunbond process engineering (§4.3–4.7) and meltblown engineering with extensive parametric/modelling literature (§4.9–4.13) follow.（随后是纺粘工艺工程与含大量参数/建模文献的熔喷工程。）
+- Composites and future trends (§4.14–4.15) close the chapter, tying polymer-lai
+
+--- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]  (2 句)
+   • **错峰膨润是时间维度的设计杠杆（快慢比），不是空间分层的位置问题** —— 支撑页：SAP错峰膨胀、Multilayer SAP Core（多层SAP芯体）
+- **单点 free-swell 会骗人，顺序多冲击 bench 测试是冻结 spec 的硬门槛** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）
+- **皮侧与储侧的评判标准不同：皮侧保孔隙（高 GBP）优先，储侧保容量（高 CRC/AUL）优先** —— 支撑页：Gel Blocking（凝胶阻塞）、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+- **REL 层把"导流"从牌号属性转移为结构属性，也把风险转移到工艺活化窗口** —— 支撑页：REL增强层、SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）
+   • 概念：SAP错峰膨胀、Multilayer SAP Core（多层SAP芯体）、Gel Blocking（凝胶阻塞）、SAP性能指标（CRC AUL GBP Vortex）、REL增强层、分区密度设计、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+- 实体：LG Chem（LG 化学）、诺尔（Nuoer）、巴斯夫欧洲公司（BASF SE）、Satellite Chemical（卫星化学）
+- 对比：SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）、SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+
+--- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]  (2 句)
+   • **智能感知路线是"电子式"路线，与变色材料的"材料式"路线在成本结构与供应基盘上完全不同** —— 支撑页：Sensor-Equipped Absorbent Article（含传感器吸收性物品）、智能尿裤功能层
+- **集成方式决定商业模式：嵌入式走一次性耗材，可拆卸式走可复用硬件** —— 支撑页：Embedded vs Detachable Smart Diaper Architecture（嵌入式 vs 可拆卸式智能纸尿裤架构对比）
+- **成本下降曲线是智能纸尿裤能否规模化的唯一变量（5 年目标 5–15 元）** —— 支撑页：Embedded vs Detachable Smart Diaper Architecture（嵌入式 vs 可拆卸式智能纸尿裤架构对比）
+- **无源化（无电池）是绕开电池成本与可靠性的关键技术方向** —— 支撑页：Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+- **隐私安全与用户接受度是非技术性门槛，与法规合规同列** —— 支撑页：Product Safety Crisis Managemen
+   • 概念：Sensor-Equipped Absorbent Article（含传感器吸收性物品）、智能尿裤功能层、Wetness Indicator Ladder（尿湿指示阶梯）、Diaper Microclimate、Product Safety Crisis Management（产品安全危机管理）、Chromism Taxonomy（变色现象分类）
+- 实体：Ontex、The Procter & Gamble Company（宝洁）
+- 对比：Embedded vs Detachable Smart Diaper Architecture（嵌入式 vs 可拆卸式智能纸尿裤架构对比）
+
+--- [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]]  (2 句)
+   • P&G application publication that **quantifies blowout leakage**（稀便爆漏）as a measurable article property and claims a **waist guard + pocket** structure on the back elastic belt to suppress it — the source that connects diaper top-of-back architecture to a testable leakage number.
+   • **Blowout leakage is quantified, not asserted** — the patent supplies a test method (artificial BM on a tared paper towel) and a numeric gate. → Blowout Leakage Test（爆漏测试）
+- **Decoupled elastic zones are the mechanism** — the waist guard elastic portion and the correlated belt portion must have different tensile stress, otherwise the pocket cannot form/act. → Waist Guard（腰围护挡）
+- **The pocket is a geometric feature with a bounded location** (5%–60% of LS) — this is the claim-critical limitation. 
+

@@ -1,0 +1,36 @@
+{
+  "batch": "idb_05",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch24.md.md",
+      "chapter": "24",
+      "title_hint": "Grain Property Values and Their Measurement",
+      "bytes": 18777
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch25.md.md",
+      "chapter": "25",
+      "title_hint": "Drying of Fruits and Vegetables",
+      "bytes": 16497
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch26.md.md",
+      "chapter": "26",
+      "title_hint": "Drying of Herbal Medicines and Tea",
+      "bytes": 26230
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch27.md.md",
+      "chapter": "27",
+      "title_hint": "Drying of Potato, Sweet Potato, and Other Roots",
+      "bytes": 24379
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch29.md.md",
+      "chapter": "29",
+      "title_hint": "Drying of Pharmaceutical Products",
+      "bytes": 19073
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+# SEED: 保留层 Retention Layer
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Products and Technology Perspective
+#
+# 全库正文命中 234 页，350 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联 CMC]]  (5 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • **No operational synthesis spec for "交联 CMC" as a standalone concept** was found beyond Ch.7's cross-linked-cellulose account .
+- No KC-specific cross-linked CMC grade, datasheet or in-core test data present in the read sources .
+- Whether the vault's "modified cellulose (CMC)" (16–21% retention) and the Ch.7 "cross-linked CMC" are the same material is **not stated** — treat as adjacent, not identical .
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (5 句)
+   • This is a **theory chapter** (理论展望章), deliberately analytical rather than experimental. It models what happens when the smart polymers of Chapter 1 are confined by **one-end grafting** to an impermeable surface, and identifies which molecular knobs (N, s, α, χ(T), salt, solvent composition, surfactant) set the thickness and responsiveness of the resulting layer. Chapter authors state the scope plainly: external physical fields (temperature, electrical voltage, light) or chemical fields (pH, sali
+   • **1. Brushes beat adsorbed layers.** Covalent end-grafting combines pronounced responsive behaviour with high coating stability; among fabrication routes, "grafting from" (surface-initiated controlled radical polymerization) avoids the steric hindrance of "grafting to" and enables position-defined monomer incorporation (L113–144). "An inherent feature of a polymer brush with high surface coverage is strong intermolecular interaction that governs chain conformation and ensures stimuli-responsive 
+   • **5. Counterintuitive solvent-exchange transition.** In a mixed water/oil solvent of high incompatibility, adding a *better* minor solvent collapses the brush: the layer expels the major solvent to keep the internal water concentration low (L744–747, L819). Trigger requires **χ_AB > 2** (L821); the jump is Δc·a³ = 1 − (v_B/v_A)^{1/2} with v_i = 1/2 − χ_i (Eq 2.17, L830). Whether the collapse is continuous (large c·a³(B)) or jumplike (small c·a³(B)) depends on the pre-transition state.
+   • 1. **SAP as a salted polyelectrolyte brush.** The (Σ c_bj)^{−1/3} scaling (Eq 2.30) and v_eff = α²/(2Σ c_bj) (Eq 2.31) give a quantitative correction for absorbency loss in high-salinity urine — a physically grounded complement to standard saline-swell specs. Tuning charge density α and effective N between crosslinks moves free-swell capacity along a known scaling law. 中文：把溶胀SAP当作盐态聚电解质刷建模，电荷密度α与交联点间链长是直接旋钮。
+2. **Thermoresponsive gating.** PNIPAAm with LCST ≈ 28 °C sits below skin temperature 37
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (4 句)
+   • The vault's cited statements describe this architecture as a **four-layer stratification of changeover elements with change control（换型要素四层分层与变更控制）**. Its stated root principle is an **orthogonal split between 「定相位」(phase-fixed) and 「定尺寸」(dimension-fixed)** variables — "「定相位 vs 定尺寸」的正交切分是全部换型设计的根", attributed to this page's own source page（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））. The four individual layers are **定义待补（引用来源未给出明确定义）** — the citing excerpts state th
+   • **Architecture-defect detector（架构缺陷检测器）：** the digest records a **Q4 "不能"（cannot）branch** that acts as a defect detector — "任何『随尺寸变、又必须换实体件、且换起来很贵』的量，都是设计没做干净"（any quantity that *varies with size*, *requires swapping a physical part*, and is *expensive to change* is a design that was not done cleanly）（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））.
+   • The four individual layers are not enumerated in the citing excerpts — layer-by-layer definition .
+- No numeric ratios, timing, or acceptance thresholds are given for the Q4 "不能" branch .
+- The relationship to the sibling concept page Changeover Four-Layer Architecture（换型要素四层分层与变更控制） is unstated and needs de-duplication review .
+   • 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+- 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- 82 鼓距与产品节距解耦 repitch 选型
+- 84 Sleeve 工程规格与换装防错设计
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 03_卫材产线约束常量表（准入校验工具）
+- Repitch（鼓距与产品节距解耦）
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (4 句)
+   • ✅ **验证记录（2026-09-29）**：以上为 **Workshop 准备材料 v1.0** 口径（属**外部/竞品视角**的描述），引用 、 **原始文件未随本批次提供**；"KC 专有需规避专利"与 Blizzard 对标为文档判断 [待验证]。参见 COCO芯体平台、Composite Core Patent Clearance（复合芯体专利规避审查）、Multilayer SAP Core（多层SAP芯体）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）。
+   • 1. **ATH 推高回渗已被"确认"** —— 源文用词为 **"Confirmed ActivTech Hybrid core system is increasing rewet"**，归因指向两点：**不同的包裹层（wrapsheet）**与**不同的 SAM/绒毛浆配置**。**这比上一节的"AT Hybrid 回渗归因"更进一步：从推断变为确认。**
+2. **核心机理是"系统边界变了"** —— **「Fluff becomes part of the intake system in ATH system」**：**在 ATH 体系里，绒毛浆不再属于吸收部分，而属于摄入系统的一部分**。**⇒ 同一个材料在不同结构中属于不同功能域，回渗归因必须先划边界。**
+3. **第二机理是"层数"** —— **「More layers = more places fluid can be trapped」**。**⇒ ATH 的结构复杂度本身就是持液点的来源，不是某个材料单方面的问题。**
+4. **对策方向是"内移吸收剂"** —— **在绒毛浆中加入少量 SAM，把该层解吸
+   • **总假设（源文原话）**：「AT hybrid core products will have **parity or higher rewet** than SAM/fluff products because **the pulp layer is part of the intake system**」。
+   • 1. **对策在台架上彻底失败** —— 源文原话：「**Bench testing did not show improved rewet by relocating SAM into ActivTech hybrid fluff layer**」；回渗从 **0.34 → 0.38 / 0.40 g（更差）**。**⇒ 依据正确机理设计的对策仍然可能无效。**
+2. **失败主要发生在摄入端，不是回渗端** —— **Open Cradle 第 3 次摄入由 65.93 s 恶化到 150.58 / 142.62 s（约 2.3 倍）**。**⇒ SAM 进入绒毛浆层破坏了液体的进入通道（结构/渗透性），而不是"没把水吸走"。**
+3. **回渗与摄入在此处同向恶化** —— 这**打破**了"回渗↓ ⇒ 摄入↑"的常规权衡预期。**⇒ 当改动堵塞了入口，两个指标会一起变差。**
+4. **源文自己列出了三个未解问题** —— 「**Is SAM relocation not doing that for some reason? Time scale? Other causes?
+
+--- [[WRV 水保留值]]  (4 句)
+   • **WRV（水保留值，Water Retention Value）** is the vault's name for a **water-retention metric used in pulp / fibre characterisation and acceptance**. In the vault it appears only as a **named metric** — it is listed among the required acceptance indicators for wood-pulp / viscose fibres, and among the concept set of the cross-linked-cellulose chapter — but **no operational definition (test geometry, load, time, units) is given in any read source**（定义待补（引用来源未给出明确定义））.
+   • — no source read here describes how WRV is measured or what it physically represents beyond the name "water retention value". The only quantitative anchor in the vault is the CTMP kernel value above.
+   • **Fibre/pulp acceptance metric.** In *Absorbent Technology* Ch.11 the vault places WRV in the four-metric acceptance block for wood-pulp / viscose fibres — **静态容量 + INDA 10.1 速率 + AUL + WRV + 湿态压缩模量** — with the explicit warning that capacity alone is not acceptable（源：Absorbent Product Testing）.
+- **Cellulose-superabsorbent context.** WRV is registered as a concept of the cross-linked-cellulose chapter (Ch.7), alongside DS, cross-link density, HEC, MFC, grafting and gel blocking — i.e. it belong
+   • **Operational definition, method and units of WRV** — not given in any read source .
+- Whether WRV is reported as **g water / g fibre** (centrifuge retention basis) or another basis — unstated .
+- No WRV value for a KC pulp grade or a named commercial fluff pulp is present in the read sources .
+
+--- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]  (4 句)
+   • 设备商 **Fameccanica（Angelini Technologies， fameccanica 法麦凯尼卡）** 2026 年创新路线总览（中文：婴儿 / 卫生巾与轻失禁 / 成人失禁三条产品线的技术清单）。本库价值在于提供**工艺侧的外部参照系**：去绒毛浆、去胶化、在线成形三条主线，可与自研的 Multilayer SAP Core（多层SAP芯体）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Ultra-Low Add-On Adhesive Application（超低添加量施胶） 路线对读。
+   • 材料按**品类 × 技术**双维组织。婴儿线六项：① **Multilayer SAP Core**（把 SAP 夹在两层高蓬松热风无纺布之间、无胶固定，示例构型为水刺 35 gsm + 胶 3 gsm + 高渗透 SAP 200 gsm + 高蓬松热风 50 gsm + 胶 3 gsm + 高保水 SAP 200 gsm + 高蓬松热风 50 gsm + 胶 3 gsm + 水刺 35 gsm，即 C 折双层 SAP 结构），可切换**无绒毛浆双 SAP 层 / 单 SAP 层 / 单 SAP 层 + 绒毛浆混合芯体**三种构型；② **在线 3D 非织造成形**；③ **在线粘扣（hook）成形**（超声波局部熔融成钩，钩型由砧面孔型决定）；④ **Ari-El 弹性化方案**（可用 310 dtex 弹性丝、断丝率下降）；⑤ **Glueless™ cuffs 与窄 cuffs**；⑥ **Glueless™ ADL 贴合**。巾类与轻失禁线五项：高密度绒毛浆芯体、在线 3D 非织造、**在线打孔（Holex-in 专利）**、Multilayer SAP Core、高速单片包（
+   • **去绒毛浆与去胶化是同一条工艺主线（在线成形 + 焊接/热封替代胶）** —— 支撑页：Multilayer SAP Core（多层SAP芯体）、Glueless Bonding（无胶粘合工艺族）
+- **在线 3D 成形的价值主张是「厚度/柔软度提升 + 成本下降」同时成立** —— 支撑页：In-line 3D Nonwoven Formation（在线三维成形非织造）
+- **高密度绒毛浆芯体把单位厚度的浆量上限从 100 gsm/mm 抬到 170 gsm/mm** —— 支撑页：High-Density Fluff Core（高密度绒毛浆芯体）
+- **可焊性的前提是同聚合物体系，不是粘合工艺本身** —— 支撑页：ADL（导流层）、SMS复合结构
+   • 概念：Multilayer SAP Core（多层SAP芯体）、In-line 3D Nonwoven Formation（在线三维成形非织造）、Glueless Bonding（无胶粘合工艺族）、High-Density Fluff Core（高密度绒毛浆芯体）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+- 实体：Fameccanica（Angelini Technologies）
+- 对比：无纺布五大工艺对比
+
+--- [[Handbook of Adhesive Technology Full Report]]  (4 句)
+   • **Hygiene implication:** Temperature and peel rate directly determine core retention. Formulation core is designing the $\psi(v,T)$ peak, not just interfacial thermodynamics.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+   • **Interface chemistry:** SAP particles (50–400 μm sodium polyacrylate) form chemical-physical composite interphase with adjacent adhesive layer [Part 2, Line 2900–2920]
+- **Key constraint:** Adhesive must **wetting + mechanically encase** SAP particles — determines bulk absorbency under pressure
+- **Formulation principle:** Tg must be "substantially below the application temperature" [Part 3, Line 16067–16068]
+- **Chemistry:** Unmodified acrylic dispersions + hot melts dominate [Part 3, Line 165
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+
+--- [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]]  (4 句)
+   • 文件整合 GB/T 28004.1-2021、Cradle（TTM-00148）、Surface Moisture（TTM-00302）、Low/High Pressure Rewet（TTM-00623）、Retention Capacity（STM-00033）五法在早产儿场景下的要求，并附北美早产儿详细参数与可查到的滞留能力数值。
+   • 逐法结论：**GB/T 28004.1**——标准范围虽含低出生体重尿不湿，但**不考核渗透与防侧漏性能**，无直接适用的早产儿注液参数。**TTM-00148 Cradle**——有，注液量/速度/注液点/次数按尺码与市场预定义。**TTM-00302 Surface Moisture**——注液量继承自 TTM-00148，不单独定义早产儿表，方法流速 7.5 mL/s。**TTM-00623 Low/High Rewet**——推荐用于早产儿回渗，常与 Cradle 组合支撑 Micro/Nano 干爽宣称。**STM-00033 Retention**——推荐用于早产儿滞留能力，是总吸收容量的「金标准」，适用整片产品。
+   • **国标在早产儿品类上存在空白：范围涵盖但不考核渗透与防侧漏** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **Cradle 是摄入方法，回渗须走 TTM-00623 / TTM-00302** —— 支撑页：Cradle Intake Test（Cradle 摄入测试）、Rewet Test（回渗测试）
+- **早产儿注液量（3–8 mL）与常规 NB（50 mL）差一个数量级，参数不可继承** —— 支撑页：Cradle Intake Test（Cradle 摄入测试）
+- **STM-00033 是总吸收容量的金标准，0.5 psi（3.45 kPa）保持 5 min** —— 支撑页：Retention Capacity Test（滞留能力测试）
+- **Preemie 档高压回渗 0.99 g 是异常点，提示高压段容量瓶颈** —— 支撑页：Rewet Test（回渗测试）
+- **韩国 PS/PM 参数缺失，是本库的已知空白** —— 支撑页：芯体测试方法与验收基准（STM）
+   • 概念：Cradle Intake Test（Cradle 摄入测试）、Rewet Test（回渗测试）、Retention Capacity Test（滞留能力测试）、GB-T 28004.1-2021（纸尿裤国标）、芯体测试方法与验收基准（STM）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+
+--- [[Smart Textiles and Their Applications]]  (4 句)
+   • 1. **Introduction** — the two-part split of the field: *passive smart textiles* change their properties according to environmental stimulation (shape memory materials, hydrophobic or hydrophilic textiles), while *active smart textiles* carry sensors and actuators, detect signals (temperature, light intensity, pollution), decide locally via embedded textile electronics or remotely via cloud and AI, and act through textile-based, flexible or miniaturised actuators (textile displays, micro-vibratin
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+   • **The cost verdict is the most useful sentence in the paper.** Both active-fibre and electrochromic routes are explicitly blocked on cost/integration and on lifetime/reliability respectively. Anyone proposing a powered or electrically-switched indicator on a disposable should read that as a negative result from the smart-textile community's own work — see US20070270773A1 Thermochromic Wetness Indicator for the passive, power-free alternative that a disposable actually uses.
+- **Layer-count reduc
+   • Smart Fabric Textiles Recent Advances and Challenges — the wider 2022 survey; uses a three-tier passive/active/ultra-smart taxonomy instead of this paper's two-tier one
+- Smart Fabrics and Networked Clothing — the parallel fibre-first (CNT yarn) integration philosophy
+- Chromic Phenomena Solar Energy and Liquid Crystals — physical chemistry behind the reversible colour change used in §2.3
+- US20070270773A1 Thermochromic Wetness Indicator — the low-cost passive route that avoids this paper's stat
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (3 句)
+   • An **improved composite elastic feature（复合弹性部件）** for absorbent articles that is easier to handle during manufacture and subsequent processing, disclosed in EP0820747A1 Absorbent Article with Elastic Feature (P&G)（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. The feature comprises **at least one extruded elastomeric layer** and **at least one extruded, substantially non-elastomeric layer** which together form a film（至少一层挤出弹性体层 + 至少一层挤出、基本非弹性层，共同构成薄膜）. Before the film is elasticise
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+   • No numeric values for layer thickness, basis weight, elastomeric-layer modulus or activation stretch ratio are given in the citing excerpts .
+- The activation mechanism's effect on the non-elastomeric layer is  in the digest — needs re-reading of the full claim text.
+- No commercial/lineage link to a specific REL core or SAP architecture is evidenced .
+

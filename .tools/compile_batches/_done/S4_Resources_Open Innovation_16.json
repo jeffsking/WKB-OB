@@ -1,0 +1,19 @@
+{
+  "batch": "S4_Resources_Open Innovation_16",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 8,
+  "concept_pages": 0,
+  "entity_pages": 1,
+  "comparison_pages": 0,
+  "updated_existing": [
+    "WIKI/entities/诺尔（Nuoer）.md",
+    "WIKI/entities/Levima New Materials（联泓新材料）.md",
+    "WIKI/entities/Shandong Nameixin Biotechnology（山东纳美欣生物科技）.md",
+    "WIKI/concepts/Super Absorbent Fibre（超吸水纤维 SAF）.md",
+    "WIKI/concepts/China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）.md",
+    "WIKI/comparisons/Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）.md"
+  ],
+  "manual_review": 2,
+  "notes": "查重说明：批内 10 项中「基于搜索结果…开源流体」与「GRIFFIN - Female DPU2 AT Hybrid Rewet Summary」已被其他代理以不同标题编译（[[Open-Source AI-CFD Frameworks Landscape…]]、[[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]），本次会话曾误建两个重复页，已当场删除本人所建重复文件（不涉及既有页面），与「剩 8 份」口径吻合。新建 source×8：06_SSMMS无纺布技术研究报告（+新实体 广鸿新材 + 对比页追加）、Relevant Product Measurements.pptx（幻灯版，注明以 xlsx 为准）、中国母婴市场趋势洞察 2027-2030、01_PLA_PPC 可降解材料研究报告、高吸水纤维技术应用（SAF/纳美欣）、QUOTATION For Dual forming drum system（报价单）、Scope Contract 2025 Fundamental Rewet Improvement、诺尔集团供应商拜访会议纪要。manual_review×2：QUOTATION 的报价金额/付款条款/交期质保（knowledge_update_status=manual_review，未页面化，且暂不建 HCH 实体页）；诺尔拜访纪要中 KC 专供牌号商业约束、牌号价差与客户案例等商务信息。全部已处理源页 knowledge_update_status=done。"
+}

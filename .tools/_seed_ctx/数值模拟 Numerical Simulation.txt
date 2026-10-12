@@ -1,0 +1,105 @@
+# SEED: 数值模拟 Numerical Simulation
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Numerical Methods for Diffusion (Crank Ch.8)
+#
+# 全库正文命中 38 页，46 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[湿迁移 Wet Migration]]  (3 句)
+   • **4. 数值求解（Crank Ch.8）：** 无量纲化 T=Dt/l² 使不同参数问题可缩放复用；显式差分稳定性条件 r ≤ ½ 决定时间步长；**绝大多数工程实际问题靠本章方法求解**（SAP 建模、芯体湿迁移 FEM）（源：Numerical Methods for Diffusion (Crank Ch.8)）。
+   • **芯体吸液的液体输运**：绒毛浆在传统芯体里提供 **capillary wicking and temporary void volume**，在 SAM 溶胀并固定液体**之前**支撑快速初始摄入 —— 绒毛浆是「SAM 膨胀前那几秒」的通道与空间提供者，是**时间装置**而非单纯填充物（源：Blizzard Core（Blizzard 芯体结构））。
+- **复合芯体的建模要求**：MD/CD 性能差异必须用扩散张量，标量 D 不足（源：Diffusion Equations (Crank Ch.1)）。
+- **数值建模的时间步代价**：溶胀后期高 D 区间时间步必须极小，直接决定 SAP 建模与芯体湿迁移 FEM 的计算量（源：Numerical Methods for Diffusion (Crank Ch.8)）。
+- **薄型化的另一类「迁移」**：**Thinning creates SAP migration（变薄带来 SAP 移位）** —— 这是 **SAP 颗粒的物理移位**，与水分输运口径不同；配套手段是固结（热风穿刺熔融）与分层导流，不能只减厚度（源：可
+   • **提供正文摘录的库内页面**
+- Numerical Methods for Diffusion (Crank Ch.8)
+- Chemical bonding
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+- Blizzard Core（Blizzard 芯体结构）
+- 可降解生物基材料与薄且强芯体技术深度解析
+- Microencapsulation
+
+--- [[Washburn Equation]]  (2 句)
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+
+--- [[孔隙率 Porosity]]  (2 句)
+   • **收敛性尚未确认**：孔隙率下限从 0.347 降到 0.284，源文建议再试 60×24 网格 —— 说明尚未收敛；「细网格结果更可信」是源文判断，**无实验佐证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **v9 不含反渗**（不含二次加载后的反渗），故本页结论**不能外推到回渗**（源：Numerical Diffusion & Grid Convergence（数值扩散与网格收敛））。
+- **渗透率下降倍数与实测对应关系未明确**：「渗透率下降约 2–5 倍」与细网格 20.3%（≈5×）、粗网格 44.6%（≈2.2×）的对应关系源文未明确（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **自由液体最终 0.0 mL（细网格）** 是否意味着全部被 SAP 吸收？源文未说明 SAP 是否已饱和（源：2D Absorption Model v9 
+   • **提供正文摘录的库内页面**
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers
+- 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）
+- Gel Blocking（凝胶阻塞）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- PCM-Free Thermoregulation
+- BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- Electrospinning Technolog
+
+--- [[芯体通道花型设计]]  (2 句)
+   • **Structural counter-examples from models/minutes.** Model v8 flags that the two outermost slices are near-zero absorbing at 240 s — an edge-bypass route requiring barrier or edge-densified SAP（源：2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告））; and a "Code 10"-class observation notes that **centre densification can itself be detrimental** — a structural-zoning counter-example（源：Gel Blocking（凝胶阻塞））。
+   • Gel Blocking（凝胶阻塞）
+- Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- COCO芯体平台
+- COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+- Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+- ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+- 2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+- Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+- SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+- 
+
+--- [[Manufactured Fibre Technology Ch05 Computer Simulation of Melt Spinning]]  (2 句)
+   • **"仿真替代试错"的方法论可直接复制到纺粘/熔喷线**：本章证明"先建模 → 敏感性排序 → 界定实验范围"能把工艺开发从试错转为定向搜索；对 PP 纺粘提速、熔喷细旦化这类高成本试产，同样的路径可显著压缩试验次数。见 Nonwoven Process Classification（非织造布工艺分类） 与 Meltblown Nonwoven（熔喷非织造布）。
+- **1 % → 10 % 放大律与第 4 章互相印证**：第 4 章给出"1 % 挤出温度波动 → 10 % 纺丝线应力 → 纤度 CV 恶化"（p.89），本章给出量化版本"约 3 °C ≈ 1 % → 约 10 % σL"（p.109）。对超低克重纺粘/熔喷，这意味着**熔体温度均匀性优先级高于冷却风温**（风温对 σL 几乎无影响，p.107）—— 一个反直觉但可直接用于现场排查的结论。
+- **冻结线位置 L 是无纺布纤度/克重均匀性的隐性变量**：L 的稳定化（p.109–111）对应纺粘线"固化点"的沿程一致性；多孔丝束冷却不均正是单丝模型的已知盲区（p.101），在多孔纺粘板上必须另行建模。
+- **IV（特
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch04 Melt-Spinning Processes — 上一章：熔纺产线与速度区间
+- Meltblown Nonwoven（熔喷非织造布）
+- Nonwoven Process Classification（非织造布工艺分类）
+- 2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）
+
+--- [[Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）]]  (2 句)
+   • 核心机制：**把传统 CFD 求解流程包裹进 PyTorch/JAX 的自动微分图**，使整个数值模拟可微分，梯度可从物理模拟反向传播到神经网络，用于训练与优化。
+   • Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+- Open-Source AI-CFD Framework Routes（开源 AI+CFD 五类路线对比）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[v10 优化执行方案建议（Claude Code + Gemini CLI 分工评估 · 2026-06-16）]]  (2 句)
+   • 1. **本次选型的核心判据是"不可替代性"而非"更优"** —— Claude Code 是"**更好**（工程代码略优）"，Gemini 是"**不可替代**（1M token 长上下文）"。**⇒ 引入新工具链的决策线应该是"有没有别的方式达成"，而不是"是不是更强"。**
+2. **启动成本为 0 的一方具有压倒性优势** —— 模式 A 的安装成本、学习成本、文件访问成本**全部为 0**；模式 B 在分工后还有**额外协调开销**。**⇒ 工具选型的隐藏成本往往大于能力差。**
+3. **"为 10–20% 的代码质量差异装一套工具链不值得"是可迁移的成本判据** —— **把能力差量化成百分比，再与切换成本比较**，比"哪个更强"的讨论更有效。
+4. **Phase 0.2（网格收敛验证）被单独立项** —— 与 Numerical Diffusion & Grid Convergence（数值扩散与网格收敛） 页的核心关切一致：**网格收敛不是默认完成的动作，需要专门排期（0.5 天）与自动化脚本**。
+5. **Phase 3.5（NaCl 传输）把模型从"纯水"推进
+   • 纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner） —— 本页是**该报告的前置/并行文件**：结果报告记录 Phase 0.1 / 2 / 5 的完成与 Phase 1 / 3 / 4 / 6 的状态；本页给出**含 0.2 / 3.5 / 7 的完整 Phase 清单与工具分工**。
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛） —— **Phase 0.2 网格收敛验证**被单独排期（0.5 天），并明确需要**自动化运行脚本**；与该页"细化 ≠ 已收敛"的关切直接呼应。
+- SAP（高吸水树脂） —— **Phase 7 参数标定**要求"每个参数附文献来源与置信度"，其直接对象即 SAP 的溶胀/渗透率类参数（另含 Brooks-Corey 毛细压力、Carman-Kozeny 渗透率的文献取值）。
+
+--- [[Open-Source AI-CFD Framework Routes（开源 AI+CFD 五类路线对比）]]  (1 句)
+   • Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+- Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Boltzmann 变换]]  (1 句)
+   • **SAP 吸液建模**：D 强烈依赖浓度时，Boltzmann 变换是把 PDE 降为 ODE 的核心工具；对**半无限 SAP 颗粒表面**有效，而**有限厚 SAP 片层需改用数值方法**（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+- 属 Crank 变系数扩散（Ch 7–9）体系：Boltzmann 变换、数值方法、等效扩散系数并列，其中 SAP 的 D(C) 常呈指数上升型（源：Mathematics of Diffusion）。
+- 关联概念页：Fick 定律、自由体积 Free Volume、SAP（高吸水树脂）、Non-Fickian Diffusion (Crank Ch.11)、Numerical Methods for Diffusion (Crank Ch.8)。
+
+--- [[Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）]]  (1 句)
+   • 数值基础：Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）——任何代理模型仍需网格无关性验证作 ground truth 基线
+- 卫材仿真落点：2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）、2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）、REL Simulation Baby Diaper Core（五纤维 TAB 增强层模拟与改进路线图）
+- 物理机理：Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）、 库内是否已建
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+

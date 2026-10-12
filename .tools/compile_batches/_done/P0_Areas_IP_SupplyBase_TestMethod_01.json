@@ -1,0 +1,30 @@
+{
+  "batch": "P0_Areas_IP_SupplyBase_TestMethod_01",
+  "stage": "P0",
+  "block": "Areas/IP + Areas/Supply Base + Areas/Test Method/成品/TJ",
+  "source_pages": [
+    "US 2007-0203469 A1 熔喷非织造背片（P&G SMMS 背片）",
+    "US 5266394 A SIS 嵌段共聚物热熔胶（Dow 与 Exxon·多线贴合用）",
+    "CN 111134966 A 防漏尿裤型纸尿裤（ω 型腿围橡筋·原件损坏）",
+    "BLOCLO 盛色科技（广州盛色）光变与温变动态色彩材料产品册",
+    "Insilico 功能性微胶囊产品手册（感温·感光·水致变色·香精·英文版）",
+    "Insilico 功能性微胶囊（中文产品册·2019）",
+    "松井色素 Chromicolor 温变油墨产品册（11 色 × 9 温度类型）",
+    "JMP 16 软件操作流程（Mannequin 测试数据分析 WI-JMP 第0版）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）",
+    "CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）",
+    "WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)",
+    "US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)",
+    "盛色科技官网关于我们（BLOCLO 温变与光变材料）"
+  ],
+  "manual_review": [
+    "CN 111134966 A 原件在 IMA 源侧已损坏（缺 xref/trailer/%%EOF，MD5 b73eb774790a5f09e47464dc95bde4f3），摘要/权利要求/说明书/附图全部无法辨认；已重新从 IMA 下载核验确认损坏在源侧，需向 IMA 索取完好原件或改走 CNIPA 官方渠道调取全文",
+    "US 2007/0203469 A1 为纯扫描件且权利要求书不在扫描范围内，页面参数取自说明书段落表述，不得用作 FTO 结论依据"
+  ],
+  "notes": "本批原定 20 条（P0-B02Areas/IP 15 + P0-B03 Areas/Supply Base 4 + P0-B04 Areas/Test Method 1），执行前判重发现 11 条其实已编译，遂按库纪律改为补登副本+ 新建 8 页。【判重口径缺陷（重要，全库级）】此前只检索单值 source_path，遗漏了 (a) front matter 的 source_paths 多值字段（全库 8 页使用）与 (b) 跨专利合并页（如 WO2010071584A1 页同时登记 CN102245218B / JP5604444B2 / US9162007 等同族条目）。修正口径后：RAW 1382 条中旧口径未登记 492 条，实际已编译 12 条，真实未编译 480 条（非此前报告的 518 条）。本批 20 条中 11 条属已编译：CN101679760 B ×3、CN101641398 B ×1、CN102245218B / JP5604444B2 / US9162007 ×2 / US5389093 / CN104004521B(1) / CN116327488B 共 10 条归入 4 个既有页，另 1 条（260602 SDHY Group ppt）经全库核查同属已编译。【重复件裁定】(1) US9162007两份正文均90218 字符，difflib 全文档相似度 0.9996，首个差异仅 front matter media_id（63a8b2303e vs d7cf3bafdc），判为重复件；(2) CN101679760 B 四份命名（CN101679760B / 09_EDANA引用 / 10_英文引用 / v3第9项）正文专利号出现次数一致，归并单页；(3) CN101641398 B 与 CN101679760 B 同优先权日、同日申请、同族但为不同专利（PCT/EP2008/053172 vs 053169），明确不合并并写入页面说明；(4) BLOCLO 官网 HTML 与产品册 PDF 为同一公司不同物料，分别编译互链不合并。【日期口径】仅 US 2007-0203469 A1 填 2007-08-30（原文扉页）、US 5266394 A 填 1993-11-30（授权日）、CN 111134966 A 填 2020-05-12（公开日）、Insilico 中文册填 2019（原文封面）、JMP 填 2024-02-26（修订日期）；其余 3 页留空并注明 RAW_FULL 的 extracted 是正文回填日期不是发布日期。【校验】8 新页 front matter 六字段齐备、source_path 100% 指向 RAW（RAW_FULL 泄漏 0）、RAW 侧 AI 字段写入 0、RAW 条目数 1382 未变、全库 source_path 误指 RAW_FULL 页数 0；索引 1655→1663 页。【备份】改动前 5 个既有页已备份至 .tools/_backup_p0b02_20261011/。【遗留】本批新建页产生派生概念/实体断链，需另起 seed 批次处理（不混入源摘要编译批次）。"
+}

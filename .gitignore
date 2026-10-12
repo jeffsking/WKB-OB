@@ -1,0 +1,32 @@
+# 默认忽略所有
+/*
+
+# 放行必须的配置文件
+!.gitignore
+!.AGENTS.md
+!.index.md
+!.log.md
+!.wikilinks.md
+
+
+# 放行你想上传的文件夹
+!/.claudian/
+!/.copilot/
+!/.obsidian/
+!/.smtcmp_json_db/
+!/.tools/
+!/.workbuddy/
+!/RAW_FULL/
+!/TEMPLATES/
+!/WIKI/
+
+# 忽略 Obsidian Smart Connections 插件缓存
+.smart-env/
+.solid
+RAW/
+# 常见顺带可忽略的
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+Thumbs.db

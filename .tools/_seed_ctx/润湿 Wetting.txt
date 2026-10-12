@@ -1,0 +1,110 @@
+# SEED: 润湿 Wetting
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Book Review Handbook of Adhesion by Packham
+#
+# 全库正文命中 27 页，45 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Consumer Relevancy of FIUP Method Feb 2025.docx]]  (4 句)
+   • Method-justification memo（2025-02）tabulating FIUP（TTM-00643）against P&G's AFC method parameter-by-parameter, citing wetting-pattern studies and pressure research as the consumer-relevancy evidence chain. Companion to FIUP Test Method TTM-00643（女性摄入与回渗测试法） and the dryness claim substantiation work（TL-15927/R164444）。方法参数的"为什么这么设"证据页。）
+   • Parameters compared: insult position — P&G mid-pad vs FIUP Total Length/12 forward & backward of center, grounded in wetting-pattern studies showing WP centroid sits 2.5–11 mm from pad center (R168596 appendix, studies 37110/37470); fluid — saline both（ionic strength representative）; amount — per-HUT, FIUP uses 75th-percentile total loading ÷ 3 across three insults（majority ≤2 voids, ≥11% have ≥3）; flow rate 8 mL/s（peak flow for adults with bladder/urinary dysfunction, McSorley 1991）; temperatur
+   • **KC FIUP 在加液位置、温度、加液量上更贴消费者真实场景，在吸水纸与等待时间上比宝洁口径更严苛**——为"方法可比性"争议提供逐参数辩护 —— 支撑页：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- **加液位置的依据直接来自润湿图谱研究（质心 ±2.5–11 mm）**——方法与基础研究互锁 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+   • 概念 Concepts：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Wetting Pattern Target Zone（润湿图谱目标区）
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- 同族源 Related sources：R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf、R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf
+
+--- [[R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf]]  (4 句)
+   • K-C confidential technical report (Nettekoven & Berceau, 2018) documenting eight new single-insult wetting pattern (单次排尿润湿图谱) studies for DEPEND® and POISE® in 2015–2016. It is the库内基准 for adult-care Target Zone design criteria, X-ray-based wetting pattern measurement methodology, and the evidence that outdated design inputs create cost and brand-equity risk.（成人失禁产品目标区设计与润湿图谱测量方法学的权威内部依据。）
+   • After 13–15 years without funded research, nearly all DEPEND/POISE wetting pattern inputs were outdated or assumed — e.g., only 2 of 9 POISE pad codes had ever been tested (Extra & Ultra Plus, 2000). The AFC Materials Team placed eight new studies (Apr 2015–May 2016, projects SAFARI and SHOPAD) using consumer study agencies instead of local clinical recruiting. Methodology development covered protocol questions (can consumers detect a single insult — subjects reported insult number for 71–88% of
+   • **Target zones must be re-measured on a cadence, not extrapolated from 15-year-old data** —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+- **X-ray + image-analysis replaces ruler-based visual assessment** —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+- **Garment WP must be referenced to product center, not absorbent front edge**（裤型产品须以产品中心线为基准） —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+   • 概念 Concepts：Wetting Pattern Target Zone（润湿图谱目标区）
+- 方法族 Related method：FIUP Test Method TTM-00643（女性摄入与回渗测试法）
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[Relevant Product Measurements.xlsx]]  (4 句)
+   • Released-variant dimension workbook (extracted 2026-09-28) listing per-code geometry for **DEPEND pull-up garments（DPU2 / DPU3 / DPU-ULT，男女各尺码）** and **POISE pads（Originals 4–8 滴 / UltraThins 3–6 滴）**: pad crotch width, surge（导流层）width/position/length, pledget（芯垫）dimensions, endseal lengths, and computed insult-point geometry relative to pad/surge. It is the **spec-side companion** to the wetting-pattern research dataset R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Meth
+   • The workbook contains four blocks: (1) released variant assets for DEPEND L14–L19 codes with full dimension chains (product length 689–867 mm by size; pad length uniform 396 mm; insert length 446 mm; crotch width 75 mm male DPU2/DPU-ULT, 95 mm DPU3); (2) a Depend Summary computing surge registration vs insult point — DPU2/DPU-ULT surge sits 30 mm from the front absorbent edge (length 250 mm female / 288 mm male), DPU3 surge sits 15 mm from front edge (length 350 mm, crotch 95 mm), confirming the
+   • **DPU3 的 surge 更长（350 mm）更靠前（15 mm）**，是三条 DEPEND 代码中护围覆盖最强的设计 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+- **规格表给出加液点几何基准（女 95 mm / 男 200 mm 位于产品中点前方）**，可直接用于台架/假人加液点设置 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）、Mannequin Lab（Rockwell 假人平台）
+   • 概念 Concepts：Wetting Pattern Target Zone（润湿图谱目标区）
+- 相关源 Sources：R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[等离子处理 Plasma Treatment]]  (3 句)
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Demonstrated mechanism evidence.** The vault's only worked example is O₂-plasma on PP **blood filters**, where improved wetting gives *much higher* flow（源：Nonwoven fabric finishing）。
+   • **Direct.** Plasma makes PP hydrophilic **for hygiene** without wet chemistry（源：Nonwoven fabric finishing）— this is the PP-based nonwoven in a topsheet/ADL role, where wettability, not chemistry, is the design target. See 亲水整理 Hydrophilic Finish、Topsheet（面层）。
+- **Bonding side.** Because it also improves wetting/bonding of low-energy PP, corona/plasma sits upstream of PP bonding operations（源：Chemical bonding）。See Thermal bonding、粘合剂 Binder。
+- **Motivation — rewet durability.** The wet-chemistry h
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Interface chemistry:** SAP particles (50–400 μm sodium polyacrylate) form chemical-physical composite interphase with adjacent adhesive layer [Part 2, Line 2900–2920]
+- **Key constraint:** Adhesive must **wetting + mechanically encase** SAP particles — determines bulk absorbency under pressure
+- **Formulation principle:** Tg must be "substantially below the application temperature" [Part 3, Line 16067–16068]
+- **Chemistry:** Unmodified acrylic dispersions + hot melts dominate [Part 3, Line 165
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+
+--- [[Wetting Pattern Target Zone（润湿图谱目标区）]]  (2 句)
+   • 1. **Two design inputs 设计双输入**：absorbent design criteria depend on (a) single insult loadings（单次排液量） and (b) single insult wetting patterns（润湿图谱位置/尺寸）。Both drift over time with user habits, population changes, and product redesigns（fit、芯体位置、材料、结构变更）。
+2. **Measurement chain 测量链**：real-use single-insult study → product returned on mounting board → X-ray imaging → image-analysis program measures WP length / width / area / centroid（几何质心，非质量质心）/ distances from absorbent edges。X-ray replaces ruler-bas
+   • R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf ——
+
+--- [[接触角 Contact Angle]]  (2 句)
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[Groove Capillary Suction]]  (1 句)
+   • 1. **Two capillary paths in parallel（两条并联毛细路径）**：。For a 3.3 dtex trilobal, ; for the inter-fibre pore network, . With a wetting finish () and , groove suction lands near **40–50 kPa** versus roughly **1–2 kPa** in the pore network.（3.3 dtex 三叶形 r_沟槽 ≈2–3 µm，纤维间孔径 40–80 µm；θ→20°、γ≈66 mN/m 时沟槽吸力约 40–50 kPa，孔隙网络仅约 1–2 kPa。）
+2. **Why the slow path wins late（慢路径为何在后段胜出）**： — big pores move the wicking front fast but cannot hold it (they drain to the core first); grooves start slower and then carry th
+
+--- [[Hygiene Absorption Model]]  (1 句)
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+

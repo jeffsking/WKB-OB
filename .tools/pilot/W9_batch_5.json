@@ -1,0 +1,65 @@
+{
+ "batch_id": "W9-5",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_f417680bb1418fa481c2b1c694315053001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/BM simulant A配方 & BM gun操作.docx.md",
+   "name": "BM simulant A配方 & BM gun操作.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_697b87be9b0bcd7e29e6f8f28b22b4da001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00445 BM Run-off.docx.md",
+   "name": "TTM-00445 BM Run-off.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_b676480cd7471a9c577322c5d25a4af3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/GBP（From Nuoer）.docx.md",
+   "name": "GBP（From Nuoer）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_0679ed0143c26ba9483a1562b82a0972001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收速度（From Nuoer）.docx.md",
+   "name": "SAM吸收速度（From Nuoer）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_76c3c8c224db2b3130b72b7fb6dac444001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM水分测定(From China National Testing Method).docx.md",
+   "name": "SAM水分测定(From China National Testing Method).docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_56f26c0a3baf0d95192447ac3f03ba61001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/mocon底膜透气率测试.docx.md",
+   "name": "mocon底膜透气率测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_256d83630ad74aadd8a669ad3ccdd83a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GB-T28004-2011 PH.doc.md",
+   "name": "GB-T28004-2011 PH.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_cb9c00f5864945bc742dc74a1e6cf1c5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤中交货水分的测定.doc.md",
+   "name": "GBT28004.1-2021纸尿裤中交货水分的测定.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a778793b997c48b54810c046074ec1c8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Personal/检验报告20260708132924.pdf.md",
+   "name": "检验报告20260708132924.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d9a48da9c8e59318343f62cdc676a70e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/原材料STM-NJ.pdf.md",
+   "name": "原材料STM-NJ.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

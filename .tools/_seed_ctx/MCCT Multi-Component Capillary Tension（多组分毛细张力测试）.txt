@@ -1,0 +1,181 @@
+# SEED: MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 177 页，296 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (6 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Source wording (p.196): "while free annealing reduces molecular orientation and tenacity, it increases diameter and denier of the fibre. With tension annealing, there is generally an increase in tenacity but no significant change in diameter or denier." The explanation offered is the **crystal dispersion model 结晶分散模型** (Valk et al., pp.196–197): two limiting configurations — "low temperature / high tension" versus "high temperature / low tension" — shift the distribution of crystal size and of p
+   • **CDT 临界溶解时间** (p.200): "estimates the time needed to dissolve a filament in a solvent of known concentration at a given temperature." Galil reports a correlation coefficient of **0.98** between density and log CDT, allowing crystallinity to be assessed indirectly (pp.200–201).
+- **Bending-recovery method 弯曲回复法** (Prevorsek et al., p.201): filament wound on a mandrel, set under tension for **10 min**, then quantified as **S = (N2/N1)[1 - (L2/L1)^(1/2)] × 100**.
+- Settability ranking (p.201): "po
+   • Strength assessment from the source itself: the melting–recrystallization mechanism is strongly supported by multiple independent experiments; the tension effect on Tg/tenacity relies mostly on one group (Valk) and is self-consistent but single-sourced; the triacetate section rests on only two early studies and is rated medium-to-weak.
+
+--- [[Pentagram PET (Star Cross-Section Fibre)]]  (5 句)
+   • The star section maximises wettable surface and capillary edge count per gram. Mechanistically three things are claimed for it in a 25 gsm ATB liner:
+星形截面把单位克重的可润湿表面积与毛细边缘数量最大化。在 25 gsm ATB 面层中，它被赋予三条机理：
+   • 1. **Capillary rails（毛细导轨）** — open grooves along the fibre act as low-volume liquid pathways once a hydrophilic finish lowers the contact angle; this favours spreading over local pooling.
+2. **MD bias（机向偏置）** — carded webs already have partial machine-direction orientation; adding profiled PET to the second card can bias lateral urine distribution along MD.
+3. **Loft support（蓬松支撑）** — PET is stiffer than PE/PET ES at bonding temperature, so a moderate addition helps preserve void volume under l
+   • PE-sheath air-through bonding temperature does not bond PET; every bond point must still come from the ES fraction. Above ~15% total add-on, the risk shifts from useful capillary lanes to lint, tensile loss, rougher hand, rewet and process instability.
+PE 皮层的热风粘合温度无法粘合 PET，所有粘合点仍须由 ES 组分提供。总添加超过约 15% 后，收益从「有用的毛细通道」转向起毛、强度损失、手感变粗、回渗与工艺不稳定。
+   • Denier (at 10% add-on): **2D** raises fibre count and surface area but can reduce pore size, slow drainage under repeated insults and raise wetback risk; **3D is the best first denier** for a 25 gsm liner (good groove density, acceptable permeability, manageable tactile/bond risk); **4D** is safer for permeability and dryness but has lower capillary count per gram and may feel coarser.
+旦数（10% 添加时）：**2D** 提高纤维数与表面积，但会缩小孔径、在重复冲击下降慢排水速率并抬高回渗风险；**3D 是 25 gsm 面层的最佳首试旦数**；**4D** 透气与干爽更稳，但单位克重毛细数量更低、手感
+
+--- [[毛细压力 Capillary Pressure]]  (5 句)
+   • **毛细压力是吸收的主要驱动力**：吸收由毛细压力驱动，外部施加的重力/压力只起次要作用 —— "Absorption is driven primarily by **capillary pressure** (p_c = 2γcosθ/r); externally imposed gravity or pressure plays only a secondary role"（源：Liquid Flow in Porous Structures）。
+- **物理基础是 Young-LaPlace 方程**：ΔP = −2γcosθ / R（ΔP 毛细压、γ 表面张力、θ 接触角、R 孔隙半径）；**毛细压由润湿性（θ）与孔径（R）共同决定**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。因此测到的毛细压差异**只能归因于这两者之一** —— 这是用它做根因诊断（润湿性 vs 孔径二分）的根据。
+   • **毛细压力法（Capillary Pressure Method）**：试样置于与储液池恒连通的载物台上，垂直移动载物台改变**静水压头**，同步称量持液量并归一化为**饱和度 saturation（g/g）**，得 **height–saturation** 曲线；**下降台面得吸收支（absorption），上升台面得解吸支（desorption）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **读数规则**：**毛细压越高 → 孔越想把液体留住**；**解吸能量越低 → 纤维越容易"晾干"**。设计原则：**摄入层（面层/导流层）的毛细性与润湿性必须低于液体最终被锁住的地方（芯体）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **速率与容量解耦**：**孔径控制吸收速率（经 Hagen–Poiseuille ∝ r²），孔体积控制容量** —— 优化其一必罚另一个，需中值最优化（源：Liquid Flow in Porous Structures）。
+- 
+   • **回渗根因诊断的逐层流程**：① 确认结果指标（Closed Cradle / Cradle 回渗）由**解吸**驱动；② 逐层测毛细压力与解吸能量，找出哪一层偏向竞品；③ 该层按**润湿性 vs 孔径**二分定位根因，孔径路径下再细分平均孔径 vs PSD；④ 改材料 → 回产品台架验回渗，形成闭环（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **实测应用（2025-12-02，Depend 拆解）**：面层与导流层的**毛细压力与解吸能量两项都偏向 Always Discreet**，根因分别定为**润湿性**（面层）与**孔径分布**（导流层）；且 Depend 面层"把液体留得更久"（源：Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）、Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **反直觉缺口**：AD 摄入系统毛细压力更高 → 按机理**应回渗更高**，但实测 POISE 并未在回渗上被碾压 ——
+   • **毛细压相近 ≠ 孔径结构相近**：半饱和处的单一代表值会吞掉分布信息 （源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **归一化基准**：饱和度按试样重量归一化，跨克重比较是否应改用面积/体积基准未决 。
+- Depend / Always Discreet 毛细压力与解吸能量的**具体数值未以文本落地**，对外引用须脱敏且不得补写数值（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- ⚠️ 库内同时存在 Cross-linked Cellulose and Derivatives 与 Cross-linked Cellulose and Its Derivatives 两个疑似重复页面，**去重待决** 。
+
+--- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]  (5 句)
+   • A full **re-engineering proposal for a 45 gsm two-card / four-dosing ATB liner**: substitute trilobal mono-PET in the lower card only, raise MD fluid spreading by ~30%, and hold converting at 600 m/min without losing skin softness or CD tensile. It is the batch's most complete **engineering-physics page** (groove capillary pressure, wicking-front kinetics, bond-density model, process window, converting failure modes, cost view).
+本页是**45 gsm 双梳理 / 四给料 ATB 面层的完整重构方案**：仅在下层替换三叶形单组分 PET，机向铺展提升约 30%，
+   • The diagnosis is that an all-round-fibre web spreads badly in MD because fluid must repeatedly re-form a meniscus to hop from pore to pore — every hop costs pressure, and the front stalls once the large pores drain into the core. A trilobal axial groove, by contrast, is a capillary that never breaks along the fibre axis: where the fibre is MD-aligned the groove is an MD conduit, and it keeps drawing after the bulk pores have emptied. The deck cites ≈300% surface area of a round fibre at equal de
+   • 1. **HIGH — Ultrasonic seals**: PET does not soften at PP/PE ultrasonic settings, so in a cuff or side-seam lane it behaves as unbonded filler and seal strength drops without warning. Keep PET out of ultrasonic lanes or switch those lanes to thermal/adhesive bonding.
+2. **MED — Edge tear & CD strain**: reduced CD tensile shows up as edge nicks propagating at spreader bars and bowed rolls. Keep unwind tension ≤2.0 N/cm, run tapered tension, inspect slit edges at every roll change.
+3. **MED — Lint
+   • **Directionality is the whole point** — evaluate trilobal on MD-distribution metrics, not isotropic ones —— 支撑页：三叶形截面纤维（Trilobal Fibre）、MD Liquid Distribution
+- **The MD/CD conflict is only unavoidable if both cards do the same job** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **Bond count falls faster than the ES fraction does** (k≈0.55, crossover ≈41%) —— 支撑页：PE-PET Bond Efficiency Model、皮芯复合纤维
+- **High-suction grooves can hold fluid you wanted in the core** —— 支撑页：Groove Capillary Suction、毛细梯度设计
+- 
+
+--- [[Hygiene Absorption Model]]  (4 句)
+   • **4. 微尺度热力学与宏尺度水力学对接：** 以**杆/管模型**取代教科书平面座滴法，给出**单根纤维的毛细拉力** F = γLV·cos θeq·C —— 即「**不要在平板上测吸收性**」，纤维级毛细拉力须用杆模型评估；这一处修正改变了「接触角测试」对芯体的含义（源：Surface Tension and Surface Energy）。
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Washburn Equation]]  (4 句)
+   • What the digest *does* evidence is its **result form and its theoretical family**：in a porous medium the advancing wicking-front distance obeys **x_v ∝ t^(1/2)**，named the **Washburn / Rudd relation**（源：Liquid Flow in Porous Structures，p. 24, p. 37）；the equation is grouped into Chapter 1 "Porous Structure and Liquid Flow Models" of *Absorbent Technology*, alongside the **Péclet number, Darcy's law, Washburn equation and capillary rise**（源：Absorbent Technology）。The full explicit form（in terms of 
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[接触角 Contact Angle]]  (4 句)
+   • Traceable operational role 可溯源的操作定位: contact angle enters the Laplace capillary-pressure term as , i.e. it is the surface-chemistry variable that sets the sign and magnitude of capillary pull (源：Computational Modeling in Absorbent Technology).
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[达西定律 Darcy's Law]]  (4 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • Liquid Flow in Porous Structures
+- Porous Structure and Liquid Flow Models
+- Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Nonwovens in Absorbent Materials
+- Absorbent Product Testing
+- Acrylic-Based Superabsorbent Polymers
+- 吸收芯体
+- Washburn Equation
+- 毛细压力 Capillary Pressure
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (4 句)
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+   • **Static friction is always greater than kinetic friction** (p.263). Staple friction governs yarn properties; filament friction governs torque transmission and filament migration in false-twist and air-jet texturing.
+- Methods: block-on-fibre-mat, yarn-to-metal and yarn-to-yarn tension methods based on **Amonton's law** (p.264): **T2/T1 = e^(μθ)**, obtaining the friction coefficient from the tension ratio around a friction pin. Instruments cited: Rothschild F-Meter, Zweigle.
+   • 1. **Crimp testing is directly usable for hot-air bonded staple**: crimp frequency (ASTM D3937) and percentage crimp are the standard descriptors of ES staple; both affect carding openness, web loft and the final bulky hand of the through-air bonded layer. There is no substitute for them in this chapter's framework, and the source's warning about the vibroscope needing extra tension to remove crimp is a real trap when measuring crimped ES staple.
+2. **CRE principle** underpins essentially every 
+
+--- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]  (4 句)
+   • The deck frames the 25 gsm liner as an ATB-bonded PE/PET ES bicomponent staple web built from two carding feeds — fine 2D ES for softness and coverage, coarser 4D ES for loft and permeability — where hot-air bonding relies on **PE sheath softening while the PET core stays structural**. The target is to raise capillary absorbency and machine-direction (MD) urine distribution *before* liquid reaches the SAP-rich core, **without** turning the topsheet into a liquid-storing ADL.
+本资料把 25 gsm 面层定位为 AT
+   • Three mechanisms are proposed for the star cross-section: (1) **capillary rails** — open axial grooves act as low-volume liquid pathways once a hydrophilic finish lowers the contact angle, favouring spreading over local pooling; (2) **MD bias** — adding profiled PET to the second card can bias lateral urine distribution along MD; (3) **loft support** — PET is stiffer than PE/PET ES at bonding temperature, so a moderate addition helps preserve void volume under light pressure.
+星形截面给出三条机理：①**毛细导轨*
+   • **Placement beats dosage**: star PET in the lower card only is the design principle; skin-side exposure is gated on proven hand feel and lint —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **Benefit saturates but risk accelerates** (~“performance plateau” above 15%) —— 支撑页：Shaped PET Add-On Window
+- **The groove is the function; denier alone is not enough** (reject lots where the star collapses toward round) —— 支撑页：Pentagram PET (Star Cross-Section Fibre)、Groove Capillary Suction
+- **Finish chemistry is 
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、亲水整理耐久性、热风粘合无纺布
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling sources 同批来源：Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet、ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+

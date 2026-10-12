@@ -1,0 +1,60 @@
+{
+  "batches": [
+    "S1_Projects_BNC_02",
+    "S1_Projects_Film_01",
+    "S1_Projects_Active Hygiene_01"
+  ],
+  "source_pages": [
+    "WIKI/sources/Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）.md",
+    "WIKI/sources/BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）.md",
+    "WIKI/sources/Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）.md",
+    "WIKI/sources/Active Hygiene Roadmap（力致变色材料商业化路线图）.md",
+    "WIKI/sources/Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）.md"
+  ],
+  "concept_pages": [
+    "WIKI/concepts/Pain-Point Backward Derivation（痛点倒推法）.md",
+    "WIKI/concepts/BNC Application Red Line（BNC 应用红线）.md",
+    "WIKI/concepts/Meltblown Nonwoven（熔喷非织造布）.md",
+    "WIKI/concepts/Film-Free Backsheet（无膜背层）.md",
+    "WIKI/concepts/Formation-Limited Barrier（阻隔的成形受限机理）.md",
+    "WIKI/concepts/Laser-Assisted Die Tip（激光辅助模头）.md",
+    "WIKI/concepts/Blizzard Core（Blizzard 芯体结构）.md",
+    "WIKI/concepts/ActiveTech Platform（ActiveTech 在线薄芯体平台）.md",
+    "WIKI/concepts/ROTC（Real Online ThinTech Core）.md",
+    "WIKI/concepts/Active Diagnostic Zones（主动诊断分区）.md"
+  ],
+  "entity_pages": [
+    "WIKI/entities/CTI（Chromatic Technologies Inc.）.md —— 别名页（alias），非独立实体页；内容归并至并发批次已建的 WIKI/entities/CTI (Chromatic Technologies).md，依 AGENTS.md §5 未删除、未合并，待人工确认命名统一"
+  ],
+  "comparison_pages": [
+    "WIKI/comparisons/SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.md",
+    "WIKI/comparisons/SMMMS vs SMMSMMS（成本·性能·供应链）.md",
+    "WIKI/comparisons/Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）.md"
+  ],
+  "updated_existing": [
+    "WIKI/entities/海南拜瑞科.md（追加 2 条来源链接：05 模板、06 红线修订）",
+    "WIKI/concepts/BNC-PEG 母粒（干态可复水中介体）.md（追加 2026-09-29 ✅验证：本路线即红线修订的触发案例 + 2 条来源）",
+    "WIKI/concepts/SMS复合结构.md（追加 2026-09-29 ✅验证 + 5 行参数 + 无氟路线落点 + 3 条交叉链接 + 1 条来源）",
+    "WIKI/concepts/熔融指数与化学降解.md（追加 2026-09-29 ✅验证「热剂量 = 速率 × 时间」 + 4 行参数 + 1 条来源）",
+    "WIKI/concepts/茂金属聚丙烯.md（追加 2026-09-29 ✅验证：窄 PDI 为成形均一性 + 熔喷约束 + 2 行参数 + 1 条来源）",
+    "WIKI/concepts/Mechanochromic变色纤维.md（追加 2026-09-29 ✅验证：分区落点/力值缺口/两条路径 + 材料细目 + 4 条交叉链接 + 1 条来源）",
+    "WIKI/concepts/变色油墨.md（追加 2026-09-29 ✅验证：Pathway A/B + 力敏材料细目与阈值缺口 + 3 条交叉链接 + 1 条来源）",
+    "WIKI/concepts/智能尿裤功能层.md（追加 2026-09-29 ✅验证：第五类「贴合/安全诊断层」+ 安全闸门口径升级 + 3 条交叉链接 + 1 条来源）",
+    "WIKI/concepts/绒毛浆（Fluff Pulp）.md（追加 2026-09-29 ✅验证：去浆方向实测旁证 + 2 行参数 + 3 条交叉链接 + 1 条来源）",
+    "WIKI/entities/CTI (Chromatic Technologies).md（追加命名变体说明 + 新来源链接；未改写原结论）"
+  ],
+  "manual_review": [
+    "WIKI/sources/Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）.md —— 原料单价 3.5 EUR-c/kg、成本对标 ±5%/去胶后 <1%、孔密度档位与激光分区配置、项目终止判据",
+    "WIKI/concepts/Laser-Assisted Die Tip（激光辅助模头）.md —— 工艺配置（32×100 mm 分区 / 100·130·160 hpi / 回退树脂档位）与终止判据，对外引用前须人工确认",
+    "WIKI/concepts/Film-Free Backsheet（无膜背层）.md —— 成本图轴值口径待确认，不得对外引用",
+    "WIKI/comparisons/SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.md —— 成本对标结论与图轴值（11.02 / 8.26）口径未确认",
+    "WIKI/comparisons/SMMMS vs SMMSMMS（成本·性能·供应链）.md —— +27% 相对成本与图轴值口径未确认",
+    "WIKI/sources/Active Hygiene Roadmap（力致变色材料商业化路线图）.md —— 具名合作方管道、优先级排序、IP 收购标的（含具名个人）不页面化；面向婴儿的合规四项为源文声明、无检测报告",
+    "WIKI/concepts/Active Diagnostic Zones（主动诊断分区）.md —— 婴儿安全合规声明（EU 10-2011 / FDA 21 CFR / 非致敏 / 口服毒性）不得由 AI 自动采纳，须人工确认",
+    "WIKI/concepts/BNC Application Red Line（BNC 应用红线）.md —— 红线属立项治理规则，任何修改/收紧须人工确认，AI 只记录已生效表述",
+    "WIKI/sources/Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）.md —— ACF 模块、双供料器、D-wrap 折叠密封等产线实现属工艺配置，具体设备型号/产线布局/供应关系不页面化",
+    "WIKI/comparisons/Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）.md —— 未公开合作方名称与并购意图不页面化",
+    "WIKI/entities/CTI（Chromatic Technologies Inc.）.md —— 同一实体存在 3 个命名变体（CTI / CTI (Chromatic Technologies) / CTI (Chromatic Technologies Inc.)），命名统一与页面合并须人工确认（AGENTS.md §5 禁止 AI 删除页面）"
+  ],
+  "notes": "【范围】3 批次共 5 份资料，全部按 AGENTS.md §2.0 新版语言规范产出（英文为主 + 中文对照：小节标题双语、关键结论与表头/关键行附中文、术语首次出现附中文），source_path 与 items.src 一字不改。【BNC_02】05 模板与 06 红线互为闭环：两份源页 + 2 个概念页（痛点倒推法、BNC 应用红线），并把「红线修订的触发案例」回链到既有页 BNC-PEG 母粒 与 海南拜瑞科。【Film_01】单份 8MB PPTX 提取稿展开为 1 源页 + 4 概念页 + 2 对比页（对比表均含「成本」「供应链风险」行并逐行带来源），并把「阻隔受成形均一性限制」「热剂量=速率×时间」两条结论追加进 SMS复合结构、熔融指数与化学降解、茂金属聚丙烯（三条均为追加、未改写原结论）。【ActiveHygiene_01】2 源页 + 4 概念页（Blizzard Core / ActiveTech Platform / ROTC / Active Diagnostic Zones）+ 1 对比页，把「力致变色分区落地 + 力值缺口 + 安全=速度」追加进 Mechanochromic变色纤维、变色油墨、智能尿裤功能层，把「去浆实测代价」追加进 绒毛浆（Fluff Pulp）。【并发冲突处置】编译期间检测到另一代理在写 Entities/（CTI、Henan Jiayida 等，源自 Thermal Comfort / Mechanochromic 批次）：(1) 原计划新建的 2 个实体页改为「不新建」，全部 wikilink 改指既有正页 CTI (Chromatic Technologies) 与 Henan Jiayida（河南嘉亿达）；(2) 已落盘的 CTI（Chromatic Technologies Inc.）.md 依 §5「删除页面须人工确认」未删除，改写为不承载独立内容的别名页并标 manual_review；(3) 未采用自行拟定的中文名「河南佳益达」（来源仅给英文 Henan Jiayida），避免编造；(4) 发现并发页 Mechanochromic Routes Comparison（力致变色技术路线对比）含成本指数与 TRL 数字，已在自建对比页加「关系说明」与口径对齐（本页只答路径选择与监管从属，成本/TRL 引用对方页），避免同库矛盾。【未动文件】未创建/修改 index.md、log.md；未触碰 RAW/、RAW_FULL/、AGENTS.md；未移动/重命名/删除任何既有文件（唯一例外是第 (2) 点：把本代理自己刚创建的 CTI 别名文件原地改写，未删除）;未在 WIKI 三子目录与 _done/ 之外建目录。【存疑 / 待人工】(1) 三份资料 date_published 无日期（Film 与 Active Hygiene 两份 PPTX 提取稿），front matter 记 \"[待验证]\"，请人工补；(2) Film 成本图轴值 11.02 / 8.26 与「within 5%」并存但单位/口径未标注，本代理只保留文本结论并把图轴值标 [口径待确认]；(3) Active Hygiene Roadmap 正文为 OCR 残片（含插图表格错位），力值区间 20–150 kPa、40,000 PSI、25–27% 应变均取自图注，来源可信度按「低」处理；(4) Blizzard/ROTC 的成本与供应链信息在本批来源中完全缺失，已标 [待验证]，故该概念页无「成本」类可比数据；(5) 05 模板引用的《01/02/03/04》四份配套文档中，《03 卫材产线约束常量表》本库未见页，Step 1 的数值化准入值无法引用，已标 [待验证]；(6) BNC 与绒毛浆/SAP 定位对比等既有页存在历史断链（如 [[BNC 与绒毛浆和 SAP 定位对比]]），非本批范围，未处理。"
+}

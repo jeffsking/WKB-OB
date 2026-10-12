@@ -1,0 +1,65 @@
+{
+ "batch_id": "W8-1",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1ee3743097dc786882e1291fdd4e1d96001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN112442152B.pdf.md",
+   "name": "CN112442152B.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_5704b522cf10a30c90ce3a145a1a9200001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN114044919A.pdf.md",
+   "name": "CN114044919A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3183a57ceda39bff03b574d8bf17765f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN116731354A.pdf.md",
+   "name": "CN116731354A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_cd1f7a9a137bf3c5e7f7084a9ab3e7d3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/EP0776645A1.pdf.md",
+   "name": "EP0776645A1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f87869671d2d1a50103476f4132cb644001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/NEW SAP idea.pdf.md",
+   "name": "NEW SAP idea.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c87bae1650115a935a938ab84907bdd8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US11013641.pdf.md",
+   "name": "US11013641.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1ca178f58fd19b6d196cd99410eaec6d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US5197958.pdf.md",
+   "name": "US5197958.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_032e95d23b5707d05e05200a9cb778be001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US9162007 (1).pdf.md",
+   "name": "US9162007 (1).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_22d544031e48ae00b637d28a746de492001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/WO2010071584A1_SCA_CNF-SAP.pdf.md",
+   "name": "WO2010071584A1_SCA_CNF-SAP.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_5e6277b44f9377eaee154c33fefa99d0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf.md",
+   "name": "一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

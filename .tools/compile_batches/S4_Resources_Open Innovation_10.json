@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤芯体新概念与市场宣称.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤芯体新概念与市场宣称.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤芯体新概念与市场宣称.docx.md",
+   "name": "纸尿裤芯体新概念与市场宣称.docx.md",
+   "title_hint": "纸尿裤芯体新概念与市场宣称.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md",
+   "name": "T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md",
+   "title_hint": "T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "name": "BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "title_hint": "BNC_PCMfree_Thermoregulation_v1_20260731.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/The_Chromatic_Shift.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/The_Chromatic_Shift.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/The_Chromatic_Shift.pptx.md",
+   "name": "The_Chromatic_Shift.pptx.md",
+   "title_hint": "The_Chromatic_Shift.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519_CN.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519_CN.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519_CN.docx.md",
+   "name": "PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519_CN.docx.md",
+   "title_hint": "PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519_CN.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Insult Amounts.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Insult Amounts.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Insult Amounts.docx.md",
+   "name": "FIUP Insult Amounts.docx.md",
+   "title_hint": "FIUP Insult Amounts.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Poise Rewet/Rewet Competitive Analysis - POISE and ALWAYS DISCREET-1.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Poise Rewet/Rewet Competitive Analysis - POISE and ALWAYS DISCREET-1.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Poise Rewet/Rewet Competitive Analysis - POISE and ALWAYS DISCREET-1.pptx.md",
+   "name": "Rewet Competitive Analysis - POISE and ALWAYS DISCREET-1.pptx.md",
+   "title_hint": "Rewet Competitive Analysis - POISE and ALWAYS DISCREET-1.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx.md",
+   "name": "投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx.md",
+   "title_hint": "投研圆桌报告_恒生科技先导智能卧龙电驱斯瑞新材_20260530.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.22 - M2M learning share - Depend ultra low rewet.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.22 - M2M learning share - Depend ultra low rewet.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.22 - M2M learning share - Depend ultra low rewet.pptx.md",
+   "name": "2025.04.22 - M2M learning share - Depend ultra low rewet.pptx.md",
+   "title_hint": "2025.04.22 - M2M learning share - Depend ultra low rewet.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析数据.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析数据.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析数据.xlsx.md",
+   "name": "SAM_511_分析数据.xlsx.md",
+   "title_hint": "SAM_511_分析数据.xlsx"
+  }
+ ]
+}

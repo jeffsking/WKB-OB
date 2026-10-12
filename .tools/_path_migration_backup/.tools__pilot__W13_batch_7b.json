@@ -1,0 +1,17 @@
+{
+ "batch_id": "W13-7b",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_fe02e8ea37862f4ad6839ec3a0d99889001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch10_THE_DEFINITION_AND_MEASUREMENT_OF_DIFFUSION_COEFFICIENTS_report.md.md",
+   "name": "ch10_THE_DEFINITION_AND_MEASUREMENT_OF_DIFFUSION_COEFFICIENTS_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_08e23c2e2665f67ea5b91a0ce00ee642001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Fluorescent_Polymers_AIE/Mechanochromic_AIE_深度拆解.md.md",
+   "name": "Mechanochromic_AIE_深度拆解.md.md",
+   "type": "markdown"
+  }
+ ]
+}

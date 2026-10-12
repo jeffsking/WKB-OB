@@ -1,0 +1,53 @@
+{
+ "batch_id": "W5-4",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3720251147cd4c5633cbe5445df4a30c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md",
+   "name": "20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_6f4721d123ce1cabb5a8da9b60b0a615001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB 38598-2020消毒产品标签说明书通用要求.pdf.md",
+   "name": "GB 38598-2020消毒产品标签说明书通用要求.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f3420baafa7ed11e3fb51475e2a9ce1b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB 7916-1987 化妆品卫生标准.pdf.md",
+   "name": "GB 7916-1987 化妆品卫生标准.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_2847215e9749cc4b2bac061f73b86cd2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "name": "GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3029c2fa4b92ba8f486d156eea131867001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GBT 39951-2021一次性纸制品降解性能评价方法.pdf.md",
+   "name": "GBT 39951-2021一次性纸制品降解性能评价方法.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c56181542b5ed06d238e77d4ee666dfd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf.md",
+   "name": "GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a072638fb382de3d04020d60bf665f94001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf.md",
+   "name": "GB／T 28004.1-2021 纸尿裤 第1部分 婴儿纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_af7a8563c366055a351439c5b2528d23001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Regulation&PSC/GBT/GB／T 43585-2023 一次性卫生棉条.pdf.md",
+   "name": "GB／T 43585-2023 一次性卫生棉条.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

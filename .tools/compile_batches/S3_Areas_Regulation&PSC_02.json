@@ -1,0 +1,27 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/27_IFRA Category Lookup Tool.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/27_IFRA Category Lookup Tool.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/27_IFRA Category Lookup Tool.pdf.md",
+   "name": "27_IFRA Category Lookup Tool.pdf.md",
+   "title_hint": "27_IFRA Category Lookup Tool.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf.md",
+   "name": "v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf.md",
+   "title_hint": "v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_EDANA_AHPs_Whitepaper_2022.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_EDANA_AHPs_Whitepaper_2022.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_EDANA_AHPs_Whitepaper_2022.pdf.md",
+   "name": "20_EDANA_AHPs_Whitepaper_2022.pdf.md",
+   "title_hint": "20_EDANA_AHPs_Whitepaper_2022.pdf"
+  }
+ ]
+}

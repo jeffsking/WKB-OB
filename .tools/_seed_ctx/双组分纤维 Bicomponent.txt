@@ -1,0 +1,121 @@
+# SEED: 双组分纤维 Bicomponent
+# type: concept | 原引用数: 9
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Dry-laid web formation
+#   - Fibers and Fibrous Materials
+#   - Handbook of Nonwovens
+#   - Mechanical bonding
+#   - Porous Structure and Liquid Flow Models
+#   - Products and Technology Perspective
+#   - Thermal bonding
+#   - Wet-laid web formation
+#
+# 全库正文命中 63 页，91 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Bicomponent Fibre Technology Trends China and Abroad]]  (4 句)
+   • 源文是一篇**行业技术动向综述**：先把双组分纤维拆成「原料 → 品种 → 应用」三段讲清技术特征，再重点论述复合纺丝技术如何开发高附加值产品，最后落到国内外对比与国内发展空间的判断。它的最大价值在于**把设备、工艺参数、商品名与产量数字混在一份文本里**，可以直接当作卫材双组分纤维供应链的对照清单。
+   • 表 1 部分代表性双组分纤维的性能特点；表 2 皮芯型纤维部分品种；表 3 典型 M/F 型复合纤维产品技术特征；表 4 Oerlikon Neumag 设备加工的部分双组分短纤维品种技术特征及用途；表 5 Reicofil-4 实验设备双组分纺丝成网工艺特征；表 6 Reicofil 双组分熔喷设备试验性生产工艺特征。
+   • 相关性评级：**高（直接落点：卫材双组分纤维与纺粘/熔喷供应链）**。卫材的贴身/功能层大量依赖双组分纤维——低熔点粘合纤维（梳理型无纺布粘合）、双组分纺粘/熔喷（面层、导流层、防漏隔边、弹性部件）——源文恰好以这些为主轴，且给出设备厂家、工艺窗口与国内供应现状，可直接用于选型与供应风险判断。
+   • Bicomponent Fibre Technology Development Trends — 同一源文的深度拆解（技术特征、品种与应用的结构化提炼）
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 复合纤维生产与性能的内部技术复盘，与本文的设备—品种侧互补
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 纺粘与熔喷的工艺原理专章，与本文的成网数据互校
+- Manufactured Fibre Technology — 纤维成形与加工的总论专著
+- Handbook of Nonwovens — 非织造布体系的系统手册，为本文的产品应用提供产业背景
+- ES Fibre Hydrophilic Function and Applications — ES 纤维（PE/PP 皮芯）亲水功能与应用，本文低熔点
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (4 句)
+   • Statement of the problem (p.374): "synthetic fibres are poor conductors… create problems related to electrostatic charge". Three routes (p.374): "Chemical modification… Physical blending… Electrical conducting materials such as carbon, metal or metal oxide powders are added". Chemical bonding gives the best wash durability, physical blending the worst, and conductive particles need **conjugated bicomponent filament spinning** to retain strength (p.377). For PET the cited routes are block poly(et
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+   • 1. **Conjugated bicomponent spinning is the direct ancestor of splittable nonwovens**: the island-in-sea and radial-split configurations described at 14.6 are the same geometry used for splittable bicomponent spunbond and for海岛 staple used in high-coverage coverstock and wipes. See PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） for the modern side-by-side variant.
+2. **Non-circular cross-section → lustre, cover and handle** (p.387) is exactly the trade space behind topsheet s
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — commodity PET base for these speciality yarns
+- 三叶形截面纤维（Trilobal Fibre） — trilobal cross-section concept used in topsheet
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — pentagram vs rounded trilobal topsheet selection
+- PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） — modern side-by-side bicomponent routes
+- 功能性差别化纤维（PTT_超仿棉_纳米凉感） — 
+
+--- [[Bicomponent Fibre Technology Development Trends]]  (3 句)
+   • Melt viscosity window 熔体粘度：melt spinning 熔融纺 80–1000 Pa·s；dry spinning 干法纺 20–200 Pa·s.
+- Spinneret hole diameter 纺丝板孔径：熔融 0.2–2 mm；干法 0.15–0.25 mm；electrospinning 静电纺丝 fibre range 50–2000 nm.
+- Component ratio control 组分比控制：1/99（极不对称）到 50/50（对称）均可.
+- Staple lines 短纤设备：Oerlikon Neumag 450 t/d，组分比 20/80–80/20；Fare 多孔纺丝板，板孔数 28,000–37,750，板径 700 mm，纺速 60–150 m/min，PP/PE 皮芯热粘合纤维 2.2 dtex，产能 200 kg/h，一等品率 >95%.
+- Direct web formation 直接成网（纺粘）：Reifenhäuser（PP/PET 皮芯 = 柔软 + 撕裂强度；PP/PE 并列卷曲）、Fare Super
+   • Staple 短纤：PE/PP、CoPET/PET 低熔点纤维 6–8 万 t/a，主要用作梳理型非织造布粘合组分；人造革基布 2 万 t/a（其中 80% 仍用共混纺丝）.
+- Submicron/nano spunmelt 亚微米-纳米级纺熔：国内基本空白 blank in China.
+- Research infrastructure 研究条件：建议配置类似 Centexbel 或 Reicofil 的实验线.
+- Self-criticism quoted 原文评价：中国双组分纤维"量大量粗"，工艺与组件设计、亚微米-纳米级纺熔研究、应用研究三方面均需加强.
+   • Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 同主题：喷丝板、卷曲与功能母粒的生产实践视角。
+- Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流） — ES 纤维供应商产能与无锑切换的落地信息。
+- Thermal bonding — 热粘合机理与工艺窗口概念页。
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 纺粘/熔喷工艺的同源书章节。
+- Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用） — 复合非织造布种类与应用的当代对照。
+
+--- [[Dry-laid web formation]]  (3 句)
+   • Chapter 2 is the Handbook's deepest treatment of drylaid web formation — the textile-derived branch — culminating in airlaying and the raw-material science (fluff pulp, SAP, bicomponent blends) that defines modern hygiene cores and ADLs.（中文：第 2 章系统阐述干法成网（源自纺织），重点在气流成网与绒毛浆/SAP/双组分配比，直接定义现代卫生芯体与导流层。）
+   • The chapter progresses from carding physics (worker/stripper/licker-in/doffer, metallic wire geometry, aerodynamic control) through feed/weight-control systems to cross-lapping and perpendicular-laid structures.（从梳理机理、喂入与称重控制，到交叉铺网与垂直铺网。）
+- It culminates in airlaying (aerodynamic web formation) and its raw-material science: wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends.（高潮在气流成网及其原料科学：木浆、人造纤维、SAP 与双组分混合。）
+- For hygiene R&D the chapter explicitly names the "liquid acquis
+   • 父书：Handbook of Nonwovens
+- 概念：SAP（高吸水树脂）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 后续工艺：Mechanical bonding、Thermal bonding
+
+--- [[IMA 知识库索引（2026-08-21）]]  (3 句)
+   • This early archival index records the knowledge base at 194 entries and documents the arrival of standards, supplier-visit planning, bicomponent-fiber technology, and nonwoven process material.  
+（中文：该早期归档索引记录知识库达到 194 条时，标准、供应商拜访计划、皮芯纤维技术与无纺布工艺资料的入库情况。）
+   • The snapshot reports 10 additions and 194 cumulative entries. Industry items include paired supplier-visit plans, a regional industry report, a research recording, and a mechanochromic waistband-tension proposal. Technical items include a bicomponent-fiber supplier profile, a spunbond process article, and a low-melt copolyester bicomponent-fiber breakthrough report. Research items include a nonwoven laboratory article and a consolidated national-standard collection covering diapers, SAP（高吸水树脂）, 
+   • **Bicomponent-fiber technology and supply-base profiling entered the library together.（皮芯纤维技术与供应基盘画像同时进入知识库。）** — related page: 皮芯复合纤维.
+- **Standards and test-method coverage became part of the project compliance base.（标准与测试方法覆盖成为项目合规基础的一部分。）** — related page: 芯体测试方法与验收基准（STM）.
+- **Early REL-related material was already linked to supplier-visit planning.（早期 REL 相关资料已与供应商拜访计划关联。）** — related page: REL增强层.
+
+--- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]  (3 句)
+   • **本章是全书与 REL 工作相关度最高的章节之一**，PP 是卫生非织造面层、纺粘/熔喷层与 ES 双组分纤维（PE-PP）的直接原料：
+   • **纤维成形与纺粘/熔喷的直接联系**：本章的 MFI—分子量分布—可纺性、纺丝线应力—双折射—取向、皮芯效应三条因果链，是理解纺粘（spunbond）与熔喷（meltblown）工艺窗口的基础；本章明确指出其为第 19 章非织造（spun-bonding、melt-blowing）埋下伏笔。见 Meltblown Nonwoven（熔喷非织造布） 与 Nonwoven Process Classification（非织造布工艺分类）。
+- **双组分纤维（ES / PE-PP）**：皮芯取向差异与热定形行为，是 sheath-core 双组分纤维热风粘合（through-air bonding）时皮层熔融、芯层保持纤维形貌的结构基础，见 Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）。
+- **稳定剂体系**：PP  tertiary carbon 导致的热氧降解，直接决定高速纺粘纺丝时的热稳定性、黄变与气味，以及多次挤
+   • Manufactured Fibre Technology — book index
+- Meltblown Nonwoven（熔喷非织造布） — 本章"为第19章 melt-blowing 埋下伏笔"的落地延伸
+- Nonwoven Process Classification（非织造布工艺分类） — 熔纺工艺在纺粘/熔喷中的分类定位
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 皮芯结构与功能母粒的 REL 侧资料
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） — 同一聚烯烃体系的热熔粘合应用
+- 三叶形截面纤维（Trilobal Fibre） — PP 纤维截面与手感/遮盖
+
+--- [[Thermal bonding]]  (3 句)
+   • It opens with the historical origin (Reed, 1942) and the energy/environment shift away from latex bonding, then surveys raw materials: binder fibres, bicomponent (conjugate) fibres, polymeric powder binders, with Tg/Tm tables.（先讲起源（1942 Reed）与节能/环保驱动，再列原料与玻璃化/熔融温度表。）
+- The core systematically treats four heat-transfer routes: calender (conduction, area/point bonding), through-air/impingement (convection), and thermal-radiation/IR plus ultrasonic bonding.（核心梳理四种传热路径：轧光（传导）、热风/冲击（对流）、热辐射/红外与超声波。）
+
+   • The bond is intrinsic to the fibre/powder polymer, not an added adhesive — central to topsheet/ADL design.（粘合点内生于纤维/粉末聚合物而非外加粘合剂。）
+- Thermal bonding is a sustainability- and cost-led substitution for latex bonding.（热粘是替代胶乳粘合的节能/环保路线。）
+- Sheath-core PP/PE and CoPET/PET bicomponents dominate hygiene webs (low-melt sheath fuses, core preserves strength).（皮芯双组分主导卫材网。）
+- Target surface sintering; over-bonding embrittles and causes point-bond "popping".（目标为表面烧结；过粘致"爆点"失效。）
+   • 父书：Handbook of Nonwovens
+- 概念：热风无纺布、热轧粘合 Calender Bonding、双组分纤维 Bicomponent、Topsheet（面层）、ADL（导流层）
+- 关联章节：Dry-laid web formation、Polymer-laid web formation、Chemical bonding、Nonwoven fabric finishing
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (2 句)
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+   • Ebewole Polymer Science Ch04 Thermal Transitions in Polymers
+- Ebewole Polymer Science Ch05 Polymer Modification
+- Ebewole Polymer Science Ch08 Copolymerization
+- 熔融指数与化学降解
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (2 句)
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[IMA 知识库索引（2026-09-04）]]  (2 句)
+   • The snapshot reports 429 cumulative entries, including 235 additions during the reported week. Most additions were placed under Resources and included polymer-science books, fiber and adhesive references, KC training materials, simulation reports, product documentation, standards, and project records. It also records a smaller set of newly added Area-level reports on nanocellulose, superabsorbent fibers, chitosan fibers, diaper architecture, and biodegradable core materials. The index identifies
+   • **The bulk intake established a broad raw-material base for later concept compilation.（本次批量入库为后续概念编译建立了广泛原始资料基础。）**
+- **Nanocellulose, bicomponent fibers, and absorbent-core engineering were already visible as connected themes.（纳米纤维素、双组分纤维与吸收芯体工程已形成相互关联主题。）** — related pages: 细菌纳米纤维素, 皮芯复合纤维, and COCO芯体平台.
+

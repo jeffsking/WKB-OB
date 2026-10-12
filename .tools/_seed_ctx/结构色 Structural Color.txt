@@ -1,0 +1,119 @@
+# SEED: 结构色 Structural Color
+# type: concept | 原引用数: 6
+# 原 Cited by 列表:
+#   - Holographic Structurally Colored Mechanochromic Films
+#   - Interactively Mechanochromic Electronic Textile Sensor
+#   - Mechanochromic Elastomer from PDLC 5CB PDMS
+#   - Mechanochromic Fluorescent Polymers with AIE Features
+#   - Mechanochromic Photonic Sensors
+#   - Self-Powered Photonic Sensor CLCE Sandwich
+#
+# 全库正文命中 128 页，200 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Structural Colour Mechanochromism（结构色力致变色）]]  (6 句)
+   • 1. **Photonic crystals / polymer opals（光子晶体 / 聚合物蛋白石）**：core-shell PS/PEA particles ~200–300 nm shear-assemble into elastomeric opals with intense tunable colour; silica-in-rubber photonic fibres on spandex shift red → blue across 127 nm and survive 100+ stretch cycles; roll-to-roll is real (>100 m opal film produced by bending-induced oscillatory shear). **But ordering needs oscillatory shear at ~300 % strain amplitude between heated rollers — a dedicated line, not a slot die.**
+2. **Cholesteri
+   • （中文：①光子晶体/聚合物蛋白石——200–300 nm 核壳 PS/PEA 颗粒经剪切组装成弹性蛋白石，硅-橡胶光子纤维在氨纶上红→蓝位移 127 nm 且耐受 100+ 次拉伸；卷对卷已可实现（>100 m）；**但有序化需要加热辊间约 300% 应变幅的振荡剪切——是专用产线，不是狭缝模头**。②胆甾相液晶弹性体——螺距受压蓝移；2025 年工作引入光开关手性掺杂剂做压印图案；单轴红→蓝通常需 >100% 应变且强度随位移下降；成膜需平面取向与氮气下 UV 固化（热熔工位没有的两道单元操作）；活性介晶对婴儿产品的毒理未解决。③可拉伸 DBR——多层布拉格堆栈，NIR→可见，但仅在 0–50% 应变且为共挤膜。④HPC 结构色——羟丙基纤维素改变黏弹晶格间距，压缩蓝移（红→蓝），具**可预测的幂律应变—色关系**，纸面上最有吸引力。⑤两条共同失效模式——湿与紫外（水凝胶吸水同时改变力学与光学行为、UV 光降解显色单元；纸尿裤面层同时暴露于尿汽、汗液与日光）、角度依赖（布拉格色随视角变化，家长一倾斜就会看到并非应变引起的变色，是合身仪表最糟的失效）。⑥值得借鉴——非虹彩「非晶光子」变
+   • **教训一（失效模式优先）**：对合身仪表而言，**角度依赖是致命失效**——家长一倾斜纸尿裤就会看到并非应变引起的颜色变化。选结构色路线前必须先解决非虹彩化。
+- **教训二（假阴性比缺失更糟）**：超阈值后颜色会「松弛掉」，护理者会看到「安全」色而纸尿裤仍过紧。这是结构色路线的**生死门**，不是可优化项。
+- **教训三（工艺原生性）**：蛋白石需要加热辊间振荡剪切，胆甾相需要平面取向 + 氮气 UV 固化——这两道单元操作在热熔工位**不存在**，属架构级不兼容，而非配方问题。
+- **教训四（保留观察窗口）**：「非晶光子」非虹彩变体 + 硅-橡胶成本下降值得在 **2028 平台门径**复审。
+   • 源文称 **HPC 提供应变与颜色之间的 power-law relationship（幂律关系）**，因此照护者可在**调整腰围后看到颜色回到安全基线**——这是把上文"结构色可逆性最好"落到**连续合身监测**场景的论证。
+- **可逆性在本场景是硬要求**：源文原话 **"reversibility is a non-negotiable requirement"**。
+- ⚠️ 源文同时区分：**螺吡喃（Spiropyrans）的热致瞬态** vs **萘并吡喃（Naphthopyrans）的合成模块化**——后者被认为更适合定制激活阈值。**这是分子型力色团的取舍，与结构色路线并列，不互推。**
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (6 句)
+   • Technology routes: M1 mechanophore activation, M2 photonic-crystal structural colour, M3 CLCE mesogen orientation, M4 surface wrinkling. The selection implication is that continuous fit monitoring needs a reversible route (M2/M3), while one-shot over-tightness alerts can use semi-reversible routes (M1).
+   • （中文摘要：综述先推翻初始假设——原计划采购现成商用压力材料（CTI HPP 油墨、Fujifilm Prescale），但商业材料均为不可逆计量型、阈值固定在 ≥40,000 psi，不存在「贴近皮肤、柔软、低阈值、可逆」的现货规格，构成创新空白；被点名的陷阱是把工业计量材料当消费指示材料用。市场面：2024 年 12 亿 → 2033 年 41 亿美元，全球 CAGR 14.6%、亚太 17.2%，聚合物占材料形态 >42%，北美占 38% 但放缓，纸尿裤专用 SKU 为零；同时明确「市场顺风 ≠ 技术可得」，头部 IP 在美欧（Merck、GIVIDI、Avient、Sun Chemical）。竞争格局为中高集中度：四家龙头锁定高值应用，另有两家「可印刷油墨」差异化厂商守在卫品入口（CTI、LCR Hallcrest）；无人把守的入口段正是可印刷压敏油墨。技术路线分 M1 力致变色分子激活、M2 光子晶体结构色、M3 CLCE 介晶取向、M4 表面起皱；结论是连续合身监测须走可逆路线（M2/M3），一次性过紧报警可用半可逆路线（M1）。材料候选四类：HPC（法规金标准、幂律应变—
+   • Core strategy verdict: **build, not buy** — custom threshold + custom printing process.
+- Pathway: Path 1 waistband/tab indicators（最短可行）→ Path 2 full-field pressure distribution（智能涂层 + 手机辅助读数）→ Path 3 structural-colour strain feedback（HPC 膜连续跟踪）。
+- Note also recorded: this deck is **not legal advice**; regulatory conformity for infant skin-contact products must be certified by professional consultants; powder-form materials must not contact skin layers until validated.
+   • （中文：核心策略结论是「自建而非采购」；路径为腰围/耳贴指示器 → 全场压力分布（智能涂层+手机读数）→ 结构色应变反馈（HPC 膜连续跟踪）。文中另注明本报告不构成法律意见，婴儿皮肤接触合规须由专业顾问认证，粉体材料在验证前不得接触皮肤层。）
+
+--- [[Mechanochromic Routes Comparison（力致变色技术路线对比）]]  (5 句)
+   • **Geometric Optical Mask（几何光学掩膜）**：需要**尽快量产**的一次性卫生用品功能层——腰围/侧片合身与防漏指示。它的胜负手不在性能而在「不引入任何新东西」：无新化学类别、无新工位、无新毒理包、控制点在来料而非设备。
+- **Mechanophore Mechanochromism（机械力致变色分子）**：**不要用于热熔产线**。其价值在中期研究轨——连续监测（不止过紧报警）、可植入/可穿戴诊断等允许化学固化网络的场景；作为 IP 护城河单独布局，且不得阻塞量产路线。
+- **Structural Colour Mechanochromism（结构色力致变色）**：**等工艺，不等性能**。色彩表现最好、可逆性最好，但两条共同失效（湿/UV 与角度依赖）与工艺原生性（振荡剪切、平面取向+UV 固化）都不在近期解决范围。保留观察窗口至 2028 平台门径。
+- **一个被低估的第四选项**：Geometric Optical Mask（几何光学掩膜） 的 Phase 2 变体（空洞化增白，"craze / cavitation whitening"，成本指数
+   • （中文：几何掩膜——用于需要尽快量产的一次性卫品功能层，胜负手是「不引入任何新东西」；分子力化学——不要用于热熔产线，其价值在中期研究轨与 IP 布局；结构色——等工艺而非等性能，色彩与可逆性最好但湿/UV 与角度依赖两条共同失效未解，观察窗口至 2028；此外还有一个被低估的第四选项：几何掩膜的 Phase 2 变体「空洞化增白」，是「材料自身变色」与「热熔可加工」之间唯一可行的交汇点，代价是只能给单一阈值。）
+   • **在一次性卫生用品的量产语境下，三条路线不是「性能排序」而是「约束满足」问题：只有几何光学掩膜同时满足热熔可加工、无限循环、零新毒理包、可自由实施四项硬约束。** 分子力化学的否决来自物理（未交联热塑性体链滑移 → 力到不了那个键）与时间（18–30 个月毒理）；结构色的否决来自工艺原生性（需要热熔工位没有的两道单元操作）与角度依赖（合身仪表最糟的失效）。选型建议是：**几何掩膜立即量产、分子力化学降为大学合作轨、结构色列入 2028 复审**——这正是原文「Track B 立即推进 / Track A 维持 / 结构色 watch」的决策结构。
+   • （中文：在一次性卫品量产语境下，三条路线的差别不是性能排序而是约束满足——只有几何光学掩膜同时满足热熔可加工、无限循环、零新毒理包、可自由实施四项硬约束；分子力化学的否决来自物理与时间，结构色的否决来自工艺原生性与角度依赖。结论即原文的「Track B 立即推进 / Track A 维持 / 结构色观察」。）
+
+--- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]  (5 句)
+   • **路线 A（力致变色结构色）**：CLCE（胆甾相液晶弹性体）拉伸时螺距从 **P0 = 438 nm（红态）**收缩至 **P1 = 285 nm（蓝态）**，可逆；颜色由手性剂含量精确定制（**5.8% / 6.4% / 7%** 对应红/绿/蓝膜）；同器件以 PDMS–CLCE–PDMS 摩擦电结构输出电学信号，免电池双模态；CLCEs-S 膜 80 °C 可自修复。MET 织物（纬编涤纶 + 等离子活化 + ALD 沉积 AZO，150 °C）实现结构色 + 电阻双信号同步，0 → 51.6% 应变内 λmax 单调蓝移，**< 15.9% 为快速变化段，可用作定量区间**；韧度 35.6 kJ m⁻³，光/电响应 ≈ 0.30 s、恢复 < 0.22 s，**30,000 次循环后保持恒定**；CPT 半嵌入层合结构抗分层，对腰贴/弹性耳贴的功能层附着工艺有直接借鉴价值。全息结构色薄膜 0 → 20% 应变反射峰 **578.79 → 520.65 nm（约 −58 nm）**，反射率 **41.4% → 13.25%**（降幅约 68%），50 次循环后 SEM 结构完整
+   • **商业化参照系——热致变色湿感指示**：五种印刷工艺（gravure / flexo / inkjet / slot / screen）均有落地案例；leuco 染料三组分体系（供电子显色化合物 + 受电子化合物 + 脂肪酸决定变色温度），变色温度可在 **−30 °C 至 +80 °C** 设定，灵敏度 **1–2 °C**，可逆变色可达数万次；微胶囊化采用脲醛树脂原位聚合、约 **45% wt** 胶囊颗粒水基浆料；供应链有 Dynacolor、ThermaSOFT、Liquid Crystal Resources 等现成渠道。**设计教训**：P&G 案例提示隔热因子 / RH 因子会影响实际激活温度——卫材环境下的标定必须实测产品热阻与湿度环境。
+   • **门槛不是变色材料，而是蠕变工况下 8 小时后的标定有效性** —— 支撑页：Elastic Tension & Creep（橡筋张力与回缩率）
+- **目标应变窗口为 0–20%（常在 0–10%），由穿戴实测给出而非材料极限给出** —— 支撑页：Skin Contact Pressure（皮肤接触压力）
+- **路线 C（印刷图形）零新增供应链、成熟度最高，是唯一可立即量产的方案** —— 支撑页：Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+- **路线 A 的 < 15.9% 线性段与 30,000 次循环是性能天花板，但受制于特种化学品供应** —— 支撑页：Structural Colour Mechanochromism（结构色力致变色）、Mechanophore Mechanochromism（机械力致变色分子）
+- **尿液环境下的稳定性是所有变色路线共同的未验证项** —— 支撑页：尿液模拟液（Urine Analog）
+- **热致变色湿感指示是可对标的成熟参照系，其「隔热/RH 因子误触发」教训直接迁移** —— 支撑
+   • 概念：Elastic Tension & Creep（橡筋张力与回缩率）、Mechanochromic变色纤维、Structural Colour Mechanochromism（结构色力致变色）、Mechanophore Mechanochromism（机械力致变色分子）、Graphic Sheet in Non-Stretch Zone（非弹性区图形片）、Thermochromic Microcapsule (Leuco Dye System)、Wetness Indicator Ladder（尿湿指示阶梯）、Sensor-Equipped Absorbent Article（含传感器吸收性物品）、Skin Contact Pressure（皮肤接触压力）、尿液模拟液（Urine Analog）
+- 实体：The Procter & Gamble Company（宝洁）、Kimberly-Clark（金佰利）
+- 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）
+
+--- [[US5197958 Wetness Indicating Diaper]]  (5 句)
+   • 1. **Insulating interlayer（隔热中间层）** — material between the inner (skin-facing) and outer surfaces that **at least partially thermally insulates** the outer surface from the inner surface. **When DRY its thermal conductivity is too low for normal body temperature to raise the outer surface above the threshold; when WET it becomes sufficiently conductive to do so.** （E4 of Claim 1）
+2. **Wicking（导流）** — Claim 2: "said material **wicks moisture** secreted from said baby toward said outer layer"; the
+   • Ink source: "The thermochromic ink that is used is similar to the thermochromic ink of **U.S. Pat. No. 4,826,550, assigned to Sakura Color Corporation**."
+   • **Three-component system（三组分体系，Table 1）**: "(1) an **electron donating coloring organic compound** for determining the color, (2) an **electron accepting compound** for determining the concentration of the color, and (3) a **fatty acid** for determining the color-change temperature."
+   • **Colour formers and hues（显色物质与色相）**: 3,6-dimethoxyfluoran (yellow 黄); 3-cyclohexylamino-6-chlorofluoran (orange 橙); 3-diethylamin-6-methyl-7-chlorofluoran (vermilion 朱红); 3-diethylaminobenzfluoran (pink 粉); rhodamine B lactam (red 红); **crystal violet lactone（结晶紫内酯, blue 蓝）**; 3-diethylamino-7-dibenzylaminofluoran (green 绿); 3-diethylamino-6-methyl-7-anilinofluoran (black 黑); "if these compounds are mixed, their mixed colors can also be obtained".
+
+--- [[Intelligent Textiles and Sports Clothing]]  (4 句)
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+   • **No absorbency content at all** — nothing on fluff pulp, SAP, core structure, acquisition, strike-through or rewet. The paper's performance axes are protection, thermoregulation, motion and electronics.
+- **No polyolefin, bicomponent or ES fibre content**; the named fibres (aramid, UHMWPE, polyester, PA) are outside our material set, and their function is entirely permanent-garment rather than disposable.
+- **Evidence quality is weak**: it is a Serbian-language professional review whose citatio
+   • Smart Textiles & Wearables — 本库智能纺织品/可穿戴上层页面，本文分类框架（被动/主动/超智能）可回链其中。
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素） — 本文 PCM 微胶囊温控是我们试图绕开的既有路线，二者构成对照。
+- Holographic Structurally Colored Mechanochromic Films — 与本文 Morphotex 结构色同属"非色素、依靠周期结构呈色"路线，本库在该页有更完整的技术展开与数据。
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 非织造成型工艺；本文仅把非织造列为基底之一，真正的工艺数据在此页。
+
+--- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]  (4 句)
+   • **化学路线机理（分子开关三步）**：① **The Break** —— 力选择性断裂不稳定的 **C-O 吡喃键**；② **The Shift** —— 分子快速旋转至 **trans-transoid (TT)** 构型以最小化位阻；③ **The Color** —— 生成的部花青染料具高度扩展共轭 π 体系，吸收大幅移入可见区。
+   • **HPC 路线**：HPC 自然自组装为**胆甾型液晶相**，是**本征力致变色**材料，同时**可生物降解、可食用、可卷对卷连续生产**；**选择性反射右旋圆偏振光（RCP）——肉眼或数码相机直视无需偏振片**。结构色**不由染料驱动而由物理结构驱动**：机械应变压缩胆甾螺距 → 结构间隙缩小 → 产生**可预测、可逆的蓝移**。
+   • **力致变色把力信号直接转光学信号，绕过电子传感器** —— 支撑页：Sensor-Equipped Absorbent Article（含传感器吸收性物品）、Mechanochromic变色纤维
+- **两条路线的分野在"化学键断裂" vs "物理结构压缩"，而非性能高低** —— 支撑页：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **Naphthopyran 的热致变色可忽略（高热活化势垒）⇒ 刺激专一性是相对其它变色体系的关键优势** —— 支撑页：Chromism Taxonomy（变色现象分类）、Thermochromic Microcapsule (Leuco Dye System)
+- **HPC 的可生物降解/可食用/卷对卷属性使其生态属性显著优于合成化学品路线** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- **HPC 存在明确的应变上限（>25–27% 颜色松弛）——这是器件设计硬边界** —— 支撑页：Structural Co
+   • 概念：Mechanochromic Routes Comparison（力致变色技术路线对比）、Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Chromism Taxonomy（变色现象分类）、Mechanochromic变色纤维、Microencapsulation、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 实体：Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）
+- 对比：Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Active Diagnostic Zones（主动诊断分区）]]  (3 句)
+   • 1. **The framing idea 命题**：integrating **force-responsive, power-free** sensors turns commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。可译作：**无源 = 无电池、无芯片、无电子件**，这是它能进入一次性用品的先决条件。
+2. **Zone 1 · Waistband tabs（防勒伤）**：integrated visual indicators trigger a high-visibility signal **when tensile force exceeds safe physiological thresholds**，providing immediate over-tightness warnings。（中文：拉力超阈值即显色报警，防勒伤。）
+3. **Zone 3 · Surface ar
+   • 材料与技术路线 材料与技术路线：Mechanochromic变色纤维、变色油墨、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- 并发批次已立页的相关概念（2026-09-29 追加交叉链接）：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）、Chromism Taxonomy（变色现象分类）、Wetness Indicator Ladder（尿湿指示阶梯）、Signal Comprehension Gate
+- 并发批次已立页的相邻对比（2026-09-29 追加）：Mechanochromic Routes Comparison（力致变色技术路线对比）（带成本指数与 TRL）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- 功能层图谱 功能层图谱：智能尿
+   • **Lesson 1（把「智能」拆成无源单格）**：无源 + 分区是这套方案能进入一次性用品的根本原因。评审时应先问「是否引入电子件/电源/回收义务」，而不是先问变色性能。
+- **Lesson 2（阈值下移是化学问题，不是器件问题）**：40,000 PSI → 20–150 kPa 的缺口约 **3 个数量级**，原文明示修法是胶凝剂等「稳定化桥」调流变，而不是灵敏度更高的传感器。
+- **Lesson 3（安全闸门是误食，不是接触）**：终极风险被明确定义为**婴儿误食耳贴/腰围**。这改变了材料筛选项——**可食性（edibility）成为一等指标**，也是 HPC 被称为黄金标准的唯一理由。
+- **Lesson 4（可逆 vs 不可逆是两种产品）**：贴合监测要「可逆」（HPC 结构色的幂律关系），而事件记录可用「不可逆」（naphthopyrans 的模块化信号）。选型前必须先确定是要**监测**还是要**记录**。
+- **待补 **：20–150 kPa 区间的**实测**激活/回复曲线与循环寿命；"stabilization bridge"（胶凝剂）的配方与迁移安全
+
+--- [[Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）]]  (3 句)
+   • Mechanophore Mechanochromism（机械力致变色分子）
+- Structural Colour Mechanochromism（结构色力致变色）
+- Material Open Innovation Function（材料开放创新职能）
+- Chromism Taxonomy（变色现象分类）
+- Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • ✅ **验证记录（2026-09-29）**：全部为**音频解读稿转述**，未见  原始文件；人物姓名由 ASR 音转还原（carryrieder → Karri Rieder）[待验证]。参见 Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）。
+   • Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏） ——
+
+--- [[Mechanophore Mechanochromism（机械力致变色分子）]]  (3 句)
+   • 替代路线：Geometric Optical Mask（几何光学掩膜）、Structural Colour Mechanochromism（结构色力致变色）
+- 分类学：Chromism Taxonomy（变色现象分类）
+- 既有页对照：Mechanochromic变色纤维、变色油墨、应力诱导取向与结晶
+- 选型：Mechanochromic Routes Comparison（力致变色技术路线对比）
+- 跨批相邻（2026-09-29 追加）：Active Hygiene Roadmap（力致变色材料商业化路线图）（另一批次产物，提出「共价力色团 = Pathway B / 永久 IP 护城河」的产业化路径，与本页「保留为 Track A 研究轨」的判断互为补充）、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+   • ✅ **验证记录（2026-09-29）**：全部为**二手转述**（音频解读稿），**未见原始论文与实验条件**；"数千次循环""只认物理拉力"为资料口径 [待验证]；ASR 音转（萘并吡喃 / 部花青 / 6π）已按化学常识还原。参见 Structural Colour Mechanochromism（结构色力致变色）、Chromism Taxonomy（变色现象分类）、Skin Contact Pressure（皮肤接触压力）。
+   • ✅ **验证记录（2026-09-29）**：全部为**二手转述**（音频解读稿），**未见  原始文件**；"只对力或 UV 响应""热活化能垒高"为资料口径 [待验证]；ASR 音转（乃比然→naphthopyran、不花青→merocyanine、cop 南键→C–O 键）已按化学常识还原。参见 Structural Colour Mechanochromism（结构色力致变色）、Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）。
+

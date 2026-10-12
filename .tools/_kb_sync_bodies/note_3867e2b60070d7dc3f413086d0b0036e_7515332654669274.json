@@ -1,0 +1,7 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "REST openapi/note/v1/get_doc_content (target_content_format=0) — MCP fetch_media_content unavailable this session; note_id=7515332654669274",
+  "src_chars": 3427
+ }
+}

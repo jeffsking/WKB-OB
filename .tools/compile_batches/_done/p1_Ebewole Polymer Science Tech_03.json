@@ -1,0 +1,15 @@
+{
+  "batch": "p1_Ebewole Polymer Science Tech_03",
+  "book": "Ebewole Polymer Science Technology",
+  "done": [
+    "Ebewole Polymer Science Ch15 Polymer Properties and Applications.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Ebewole Polymer Science Ch15 Polymer Properties and Applications.md",
+      "issue": "p.422 原书原文写作 'isotactic polyethylene does not crystallize in a planar zigzag conformation'，源文件已注明应为 isotactic polypropylene（甲基位阻）；页面按等规聚丙烯理解并标注原书措辞 [待验证]。另：本章未覆盖 PVA/EVA/POE 等卫材常用共混原料，需补读。"
+    }
+  ],
+  "count": 1
+}

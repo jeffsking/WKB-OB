@@ -1,0 +1,106 @@
+# SEED: 超分子 Host-Guest Chemistry
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Photochromism Dihydroindolizines
+#
+# 全库正文命中 112 页，157 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[离子强度 Ionic Strength]]  (5 句)
+   • **Ionic cross-linking.** The polymer-chemistry source states verbatim: *"divalent ions are known to act as cross-links between carboxyl groups in natural resins"*, and notes ionomers as the polymer class that carries ionic bonds — ionic bonds are otherwise uncommon in polymers（源：Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure）。In the microfluidics source the same route appears as a fabrication option, where **Ca²⁺ + alginate gives "temporary hydrogel networks"**（源：Smart Polym
+   • **Ionic surface cross-linking is a design lever *and* a failure mode.** Modern SAP practice uses a cation (Al³⁺) to ionically surface-crosslink polyacrylic-acid carboxyls, which raises gel strength, SFC/permeability and reduces gel blocking; the Al-crosslinked shell is only **partly reversible and is sensitive to pH and ionic strength**（源：Ancient Organic Dyes and Pigments Chemistry）。
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+
+--- [[聚氨酯 Polyurethane]]  (5 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Elastomer chemistry and the casting route.** The PU-elastomer deck splits the material into **raw material → chemistry → classification → process → application**, with its practical value concentrated in the **casting type (CPU)**: raw-material selection criteria (**polyester vs polyether**), the process sensitivity of the **chain-extender coefficient and cure conditions**, and six process factors affecting performance（源：Polyurethane Elastomer Handbook）。
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+
+--- [[纺粘 Spunbond]]  (4 句)
+   • 纺粘（spunbond）与熔喷（meltblown）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 纺粘 / 熔喷是**熔体纺丝（melt spinning）的工程化延伸** —— PP 熔体经过喷丝板（spinneret）后被高速气流牵伸成细纤维；本章给出熔纺的物理框架（熔融 → 过滤 → 喷丝板 → 牵伸取向）。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- **非织造四要素因果链**：纤维 → 排列 → 粘合 → 整理；airlaid / spunbond / meltblown / spunlace / SMS 等工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配 —— 纺粘是其中一种成网工艺。（源：Absorbent Technology）
+- **树脂牌号分野**：纺粘用 
+   • **硬件基础 —— 纤维挤出（fiber extrusion）**：纺粘 / 熔喷的硬件基础即熔体纺丝 —— "hundreds of continuous filaments extruded from the same die and drawn to hair-sized thickness"（p.285）；"crimped for added bulk or made into staples" 对应短纤 → 针刺 / 热风无纺布路线。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- **模口膨胀（die swell）**：熔体黏弹性导致模口膨胀（p.285），决定纺丝孔出口的初始纤维直径与射流稳定性 —— 这是"**口模孔径 ≠ 纤维直径**"的根因。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- **速度定义取向（speed-defined orientation）可直接为纺粘面层设
+   • **拉伸比、冷却气流、纺丝甬道等专有参数**本章（Ebewole Ch11）未覆盖 。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- 熔喷纤维直径、气流速度、驻极工艺等参数未见于 Seymour §17.1，需另查 。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- 三纤维配比 55–65 / 20–30 / 12–18 wt% 为**工作假设**，非实测验证 。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination）
+- 上述数据在来源中的**页码待核**（除已标 p.285 / p.299）。
+   • Polymer-laid web formation（纺粘作为一体化熔融挤出成网；§4.3–4.7 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites、Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins（纺粘 / 熔喷 MFR 树脂分野）
+- Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing、Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification（纤维挤出硬件与分子描述符）
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres、Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres、Manufactured F
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (3 句)
+   • **Phase transition + critical susceptibility 相变 + 临界敏感性.** 「smartness」= 可逆相变 + 临界点敏感性；因溶液行为在相变附近（尤其临界点附近）具有普适性，无穷小的参数变化即可触发大响应（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。
+- **Confined brushes 受限刷层.** 一端接枝到不可渗透表面后，响应性由分子旋钮（N、s、α、χ(T)、盐、溶剂组成、表面活性剂）设定；**"grafting from" 可避免 "grafting to" 的空间位阻**；高表面覆盖的刷层靠强分子间相互作用保证刺激响应性（源：Smart Polymers Ch02 Responsive Polymer Brush Theory）。
+- **Recognition-driven mechanism 识别驱动的机制.** 硼酸酯与顺式二醇的可逆共价络合形成**多价（multivalent）**结合；PBA 以不带电三角形式与带电硼酸酯形式并存，是
+   • **SAP is a crosslinked copolymer SAP 即交联共聚物.** SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂），**其组成由竞聚率而非投料比决定**；弹性腰围/防漏侧边用的弹性纤维与 TPE 亦落在共聚物序列设计范畴（源：Seymour Polymer Chemistry Ch09 Copolymerization）。这是本页与卫材最直接的交集（SAP 吸水/保水即一类刺激响应行为）。
+- **Body-temperature window 体温窗口.** 工作相变落在 ~37 °C 的系统最有用（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）——该窗口与卫生用品的**湿/温指示**功能方向同源（参见 PNIPAAM、pH 响应材料）。
+- **Trigger-selection rule 触发选择规则（可迁移）.** 生物分离应用给出的选择规则：**非带电温敏聚合物的非特异性共沉淀显著低于带电 pH 响应聚合物**（ionic interactions 会引入不希望的非特
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch04 Therma
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (2 句)
+   • 1. **Classify by trigger, not by chemistry（按触发量分类，而非按化学分类）**：the same molecule can serve two classes. Spiropyran is photo-, thermo- **and** mechano-chromic depending on which input drives the ring-opening; the classifying question is *what physically arrives at the material*.
+2. **The working classes for hygiene（卫品可用的类别）**：
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+
+--- [[Clariant]]  (2 句)
+   • 源：Ancient Organic Dyes and Pigments Chemistry —— 供应商清单：BASF · Clariant · Henkel。
+- 源：Chromic Phenomena Introduction and Reversible Colour Change —— 供应商清单：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex。
+   • Ancient Organic Dyes and Pigments Chemistry
+- Chromic Phenomena Introduction and Reversible Colour Change
+
+--- [[Odour-Control Granular Interference（除臭颗粒干扰）]]  (2 句)
+   • 1. **The problem the granular created（颗粒制造出的问题）**：the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids. That removes **Mom's learned head-space signal for a BM** — she now only finds out at the scheduled change. Change intervals stretch, BM sits against skin longer, faecal protease + lipase and rising pH drive dermatitis, and the rash/leak blame lands on the diaper rather than on the missing cue.
+2. **Why any head-space indicator is
+   • 6. **Screen-it-first protocol（先筛查的规程）**：(i) slurry 5 g granular in 50 mL deionised water, 1 h, 25 °C — measure pH and titratable base to pH 4; (ii) **accept only if slurry pH ≤ 7.5 and titratable base ≤ 0.2 mmol/g**; (iii) build a full diaper and age it 8 weeks at 40 °C / 75 % RH, grading the lane weekly 0–5 and rejecting at grade 1; (iv) if the granular fails, **the fix is a barrier — move it above the core wrap, or micro-encapsulate it — not more acid in the lane**.
+7. **The test everyone forg
+
+--- [[交联密度 Crosslink Density]]  (2 句)
+   • **No numeric ν_c values or units** (mol/cm³ or mol/g) appear in any excerpt — the vault states only the directional laws 。
+- **No dedicated measurement method** for ν_c (e.g. swelling-ratio / modulus method) is documented；the vault only cites the direction of the relationship 。
+- **The citing page Ancient Organic Dyes and Pigments Chemistry supplied no excerpt in the digest** — its specific use of the concept is unverified here 。
+- **No reconciled number between the 45.8 g/g starch-CMC-NC claim 
+   • Absorbent Technology
+- Acrylic-Based Superabsorbent Polymers
+- Cross-linked Cellulose and Its Derivatives
+- Hydrogel-based Superabsorbent Polymers
+- Fibers and Fibrous Materials
+- Ancient Organic Dyes and Pigments Chemistry
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- Hydrogels in Regenerative Medicine
+- Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+- Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- Flory- Rehner Theory
+- SAP性能指标（CRC AUL GBP Vortex）
+
+--- [[变色油墨 Color-Changing Ink]]  (2 句)
+   • What the digest *does* evidence is the **classification frame**, not a definition: chromic materials are classified by **trigger quantity**（触发量）, not by chemistry family — the same molecule can fall into two or more classes (e.g. spiropyran may be photo-, thermo- or mechano-chromic depending on which physical quantity actually reaches the material)（源：Chromism Taxonomy（变色现象分类））。A parallel working description of the ink families appears on the vault's sibling page 变色油墨（thermal / mechano / hydro-ch
+   • **Three classification axes（三条分类轴）**（源：Chromism Taxonomy（变色现象分类））
+1. **Trigger quantity（触发量）** — classify by what physical quantity arrives at the material, not by chemistry family.
+2. **Reversibility（可逆性）** — reversible vs irreversible / one-shot；continuous monitoring needs a reversible route, a single alarm may use a semi-reversible or irreversible one。**"This is the axis that eliminates designs, not the chemistry family."**
+3. **Threshold（阈值）** — industrial metrology materials are engineered 
+
+--- [[导电纱线 Conductive Yarn]]  (2 句)
+   • **Resistive (conductive) sensing.** A controller applies voltage across a conductive thread and monitors the voltage at its ends; in the dry state the reading is ≈ full-scale, and when exudate wets the path the measured potential collapses（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **How fibres are made conductive.** Synthetic fibres are poor conductors and build up electrostatic charge (p. 374); three routes are named — **chemical modification, physical blending, and addin
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+

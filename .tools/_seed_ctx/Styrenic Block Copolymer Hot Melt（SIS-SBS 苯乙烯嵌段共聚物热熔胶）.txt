@@ -1,0 +1,94 @@
+# SEED: Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 321 页，615 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热熔胶 Hot Melt Adhesive]]  (7 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • ⚠️ 口径提示：本库同时存在 Hot Melt Adhesive 与 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） 等分型页面，引用时应确认层级（通用 vs 聚烯烃分型）。
+   • **4. 配方架构本身即发明：** P&G 专利把发明点放在**三向聚烯烃分子量/结晶度切分 + 增粘剂**，不依赖苯乙烯嵌段共聚物或大量油：**结晶度是控制变量**（结晶焓门槛 10 / 20 / 25–45 J/g 划分各组分角色）；性能以**体温下的流变**而非粘接强度数值表达（源：US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)）。
+   • **5. 施胶几何的工程后果（分区与自补偿）：** 绝对涂布量由泵速设定（一个变量、一个设定点、一张 SPC 图）；三区比值由台面长度 1/L 决定，**黏度波动时三区同向移动而自补偿**（源：Hot-Melt Slot Coating（热熔狭缝涂布））。刻意近牛顿的理由：强剪切变薄的热熔胶在狭缝中损失一半以上黏度、到幅材上再恢复，**这种错配正是条纹与边缘溢流的来源**（源：Hot-Melt Slot Coating（热熔狭缝涂布））。
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (7 句)
+   • The **second-generation BM indicator design** for a composite breathable backsheet — it replaces the two-lane concept with a single protein-error lane, and works the problem from the other end: dye loading as the only selectivity knob, melt rheology, slot geometry, thermal load on the breathable film, and a full cost model.
+   • Five candidate triggers are scored. **Soluble protein** (protein-error of a pH dye, 10,000–40,000 mg/L in faecal liquid vs < 150 mg/L in healthy urine) is SELECTED; bilirubin/bile pigment (diazonium coupling) is confirmatory tier 2 because diazonium salts are light- and heat-labile in a 125 °C melt; faecal protease (cleavable chromogen) is R&D only on cost and melt-survival grounds; faecal lipase is rejected for slow kinetics and no aqueous phase; conductivity/ionic strength is rejected for over
+   • Rheology is specified as near-Newtonian on purpose: 3,200 mPa·s @ 120 °C (2,100 @ 130 °C, 1,400 @ 140 °C), Cross index n = 0.88 (spec ≥ 0.85), λ ≤ 2 × 10⁻⁴ s, flow activation energy 56 kJ/mol, no high-MW styrenic block copolymer. Slot geometry matters because pressure scales with 1/t³: a 200 µm shim gives 13.6 bar over a 5 mm land at 400 m/min, while a 100 µm shim would give 99.7 bar and stall the existing pump. Because Ca = 272, a contact (wiped) slot nozzle on a chilled backing roll is mandato
+   • Thermal load is the binding constraint: the contact interface reaches 69 °C at a 125 °C melt (comfortable), but the bulk equilibrium temperature reaches 85 °C at 125 °C and 90 °C at 135 °C — and a microporous CaCO₃-filled PE film loses WVTR irreversibly once the drawn structure anneals above ~90 °C. A chilled backing roll moves the ceiling up by ~15 K. Nominal set point 125 °C, window 115–132 °C (lower ≈112 °C by die pressure, upper ≈134 °C by film pore collapse; viscosity floor ≈136 °C).
+
+--- [[Seymour Polymer Chemistry Ch09 Copolymerization]]  (7 句)
+   • Chapter 9 elevates copolymerization（共聚）from "mixing two homopolymers" to **controlled sequence design（可控序列设计）**: sequence classification → reactivity-ratio kinetics → Q–e semi-quantitative prediction → commercial copolymers → thermoplastic elastomer (TPE) molecular design. 对卫材的意义有两条主线：**SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂）**，其组成由竞聚率而非投料比决定；**弹性腰围/防漏侧边用的弹性纤维与 TPE** 直接落在本章 §9.4。
+   • **共聚物组成方程 Copolymer composition equation**：
+   • **Composition drift 组成漂移**：*"the composition of the copolymer (n) may be different from that of the reactant mixture or feed (x)."* (line 64) — 两种单体消耗速率不同，进料组成随转化率变化，共聚物组成随之漂移，这是工业上必须做**单体补加（semi-batch feed）**的原因。
+   • **Azeotropic copolymer 共沸共聚物**：*"When x equals n, the product is said to be an azeotropic copolymer."* (line 69)
+
+--- [[Handbook of Adhesive Technology Full Report]]  (6 句)
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+   • **Interface chemistry:** SAP particles (50–400 μm sodium polyacrylate) form chemical-physical composite interphase with adjacent adhesive layer [Part 2, Line 2900–2920]
+- **Key constraint:** Adhesive must **wetting + mechanically encase** SAP particles — determines bulk absorbency under pressure
+- **Formulation principle:** Tg must be "substantially below the application temperature" [Part 3, Line 16067–16068]
+- **Chemistry:** Unmodified acrylic dispersions + hot melts dominate [Part 3, Line 165
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • **Pressure-Sensitive Adhesives (PSA):** Largest and fastest-growing segment (44.6%)
+> "Disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate" [Part 3, Line 16549–16553]
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (6 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Mechanism of permanent set (p.190–191): "The most important mechanism of permanent setting in crystalline polymers is through partial melting and recrystallization, whereby partial melting of small, imperfect crystals takes place below the melting point to allow the growth of larger more perfect and regular crystalline units."
+   • Why it cannot be undone (p.191): "the mechanism of heat-setting is to lead the structure to a position of lower minimum energy from the state prior to heat-setting." Hearle's crystal-size vs. melting-frequency diagram is cited with the plain statement that "small or imperfect crystals will melt and larger crystals will grow. This is a typical process of annealing" (p.192).
+   • Strength assessment from the source itself: the melting–recrystallization mechanism is strongly supported by multiple independent experiments; the tension effect on Tg/tenacity relies mostly on one group (Valk) and is self-consistent but single-sourced; the triacetate section rests on only two early studies and is rated medium-to-weak.
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (6 句)
+   • PET is presented as "the most outstanding member of the polyester fibre family" (ISO definition, p.271): "a polymer comprising synthetic linear macromolecules having in the chain at least 85% (by mass) of an ester of a diol and terephthalic acid". The chapter covers the Whinfield and Dickson invention and commercialization by **DuPont (1953)** and **ICI (1954)** (pp.271–272), then runs the full chain: **polymer production** via two routes → **melt spinning** into four speed-defined product class
+   • Route comparison (pp.291–292): "cost of TPA is usually less than DMT"; "the reaction product in the DE step has a higher molecular weight than that obtained in the EI step"; and "PET produced via the PTA route has lower average molecular weight, lower melting point and higher dye uptake" — the differences are attributed mainly to **diethylene glycol (DEG 二甘醇)** content. DEG forms by etherification of two glycol molecules and makes the chain irregular, lowering melting point and raising dye uptak
+   • **Nucleative collapse 成核崩塌** (p.311): "This has been termed 'nucleative collapse' [36] because a large number of small nuclei come together to form a crystallite." In an oriented melt the entropy penalty is small and the critical nucleus size approaches the unit-cell size, so high-speed spun PET forms dense microcrystallites.
+- **Catalyst effects** (p.312): "the catalyst system could exhibit a greater influence than molecular weight in controlling the rate of crystallization of PET." Residual ca
+   • Assessment: polymerization and spinning sections are evidence-dense and highly credible; structure–property linkage is chart-dependent with shallow mechanism discussion; the applications section is narrative with little quantification. Some figures are OCR-reversed (Fig. 12.1–12.8 captions) and some values (DEG%, a melting-point decrease) are scan-garbled in the source — [待验证].
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (6 句)
+   • The engineering deep-dive behind the pull-strain fit meter on elastic side panels — it fixes the seven hard requirements, screens seven mechanochromic families, and lands on a single-pass slot-coated **geometric optical mask** with cost, safety and FTO closed out. This is the most implementation-complete document of the Mechanochromic block.
+   • Part Two screens seven families against applicator, cycle life, cost and tox. Only the geometric optical mask survives (TRL 8, native slot-coatable, 1.0× cost index, no new tox package); craze/cavitation whitening is Phase 2 (1.4×), interference pigment is backup (3×); polymer opal (25×), stretchable DBR (15×), cholesteric LCE (40×) and molecular mechanophores (60×) are rejected — the latter because ~240 pN per bond demands covalent incorporation into a cross-linked network, fades after ~3 cycle
+   • Part Three specifies the selected design: the elastic laminate's own corrugation (2.2× bonded, 1.2 mm relaxed pitch) acts as a mechanical shutter under a rigid, CD-zoned opaque hot melt (TB-A). One equation, φ(ε) = 1 − 2a/[λ₀(1+ε)], sets all three thresholds, and the three coat weights (7.5 / 9.0 / 11.0 g/m²) come from one shim whose land lengths (18.0 / 15.0 / 12.0 mm) give a 1.00 : 1.20 : 1.50 flow ratio — within 2 % of the required 1.00 : 1.20 : 1.47.
+   • Part Four covers the process: contact slot die, 200 µm shim (a 100 µm gap would have driven 165 bar and stalled the pump), 400 m/min, 12 °C chill roll, 0.4 s dwell, and a full setpoint table. Sensitivity analysis concludes that three variables matter (panel lamination pre-stretch, coat weight, web tension) and melt viscosity is self-compensating.
+
+--- [[熔喷 Meltblown]]  (5 句)
+   • 熔喷（meltblown）与纺粘（spunbond）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 熔喷非织造布即 **meltblown nonwoven / 熔喷 PP 纤维（meltblown polypropylene）**，以高速热气流牵伸熔融聚合物形成超细纤维网。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造）、Polymer-laid web formation）
+- **树脂牌号分野**：纺粘用 ~35 MFR 的 CR 均聚物；熔喷用 **≥500 MFR、窄分子量分布（narrow-MWD）** 牌号 —— 这是熔喷与纺粘在树脂选型上的分界。（源：Handbook of Polypropylene and Polypropylene Composites）
+   • **阻力限制牵伸（drag-limited attenuation）**：纤维与空气射流达到**速度匹配**后，质量守恒即锁定直径（d ∝ v /(m·Λ·v_a)·…）；**熔体粘度只改变「多快达到匹配」**，不改变最终直径 —— 285 °C 时距模头 2.4 mm、250 °C 时 2.7 mm 达到匹配。（源：Meltblown Nonwoven（熔喷非织造布））
+- **三个真实杠杆**：降低单孔产量（cut g/hole/min，0.73 → 0.20，固定线产量下对应 35 → 130 hpi）、提高射流速度（150 → 250 m/s 带来 2.85 → 2.21 µm，随后饱和），以及「nothing else」。（源：Meltblown Nonwoven（熔喷非织造布））
+- **纤维细度不由温度买来**：在工业窗口内纤维直径受**阻力限制**（由单孔产量与射流速度设定，非熔体粘度）；模头温度 250 → 300 °C 使模拟直径变化 < 1%。（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））
+
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • SMS 各层的**克重配比与阻隔性能的定量关系**，本库暂无来源 。（源：SMS复合结构）
+- SMMMS 的**实测（非模拟）静水压**与单束成形 CV 仍缺 。（源：SMS复合结构）
+- **专利范围警示**：US7195621B2 摘要 / SUMMARY 讲的是 backsheet，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上 —— 读范围时须注意 。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- 上述数据在来源中的**页码待核** 。
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (5 句)
+   • Signal selection compares urine and infant BM across seven properties. pH is a WEAK discriminator (ranges overlap); titratable acidity is GOOD (buffer capacity, not pH); bile pigment is BEST (binary presence); active enzyme is BEST but needs an aqueous-coated substrate; rheology (urine ≈1 mPa·s vs BM 3–60 Pa·s) is GOOD and drives sampling geometry; temperature is NONE; head-space volatiles are BLOCKED by the granular.
+   • Mechanism options are ranked by cost per unit of certainty: **A titratable-acidity lane** (buffered halochromic hot melt, ~US$0.4/1,000, Phase 1, sensitivity ~65–80 %, misses low-VFA formula stool), **B bile-pigment mordant lane** (quaternised cationic polymer as an anion-exchange lane, ~US$0.3/1,000, binary marker independent of feeding mode, but meconium and firm stool release little liquor) and **C protease-cleavage film** (crosslinked gelatin 12–20 µm over a dark printed field, ~US$2.5/1,000
+   • The architecture is sample → isolate → react → read: a 10 mm hydrophilic wick at topsheet level in the rear zone; an 18 gsm PE barrier under the wick to stop SAP stealing the sample water and to keep the granular ≥20 mm away in MD; a 90 mm MD travel to the two hot-melt lanes; and read-out under an unprinted clear channel in the backsheet artwork at the rear waist. Two jobs are kept separate — the pH ladder is a load gauge ("change at the right time"), the BM lanes override it ("change now").
+   • Phase-1 total capex 合计：US$38–60 k；无车速损失、无新放卷
+- Watch item 注意项：cationic-loaded hot melt can char or pre-trip in a hot tank → screen every candidate for **72 h at 150 °C** tank residence before line trial
+
+--- [[Ebewole Polymer Science Ch05 Polymer Modification]]  (5 句)
+   • Composition ladder given in the source: **28% styrene → SBR** (footwear, hose, adhesives); **60–74% styrene → hot-melt adhesives / latex paints**; high styrene → thermoplastic. 组成连续变化对应从弹性体到热塑性塑料的性能谱。
+   • EVA / EMA / EEA are compared against LDPE (Tables 5.2, 5.3): copolymerisation raises flexural modulus behaviour, environmental stress-crack resistance (ESCR) and impact strength — 即"无增塑剂获得柔韧性 plasticizer-free flexibility"。
+   • **Hildebrand–Scott solubility-parameter theory** — the CED concept from Ch.3 is applied directly to copolyester modification.
+- **Pauling hydrogen-bond theory** — basis for cellulose –OH substitution chemistry.
+- **Rubber-toughening theory (1950s)** — the chapter's ABS description follows the classic two-phase toughening framework.
+- **Engineering criterion "modification vs. synthesis"** — the source states modification is "less costly … more readily", but at large industrial scale complex copol
+   • 1. **SAP as a postpolymerization cross-linked network 超吸水性树脂的聚合后交联.** 聚丙烯酸钠类 SAP 的典型路线是"先合成聚丙烯酸（或其盐），再经交联形成三维网络"——包括共价交联剂与多价阳离子交联。这一路径正是 Ch.5 §III 的 **postpolymerization cross-linking**（p.125），而非从头设计新单体。因而 SAP 的凝胶强度与吸收量可在聚合后独立调节，这是工业上控制 GBP 与 CRC 的关键自由度。参见 A review on superabsorbent polymers。
+2. **PP toughening PP 增韧.** 等规 PP 的低温脆性（Ch.4, Tg 示例约 −10 °C）通过接枝共聚（如 PP-g-MA）或与 EPDM 共混改善；PP/EPDM 属于"橡胶增韧塑料"，其形态逻辑与本章 ABS 的"分散橡胶相 + 连续玻璃态基体 + 接枝边界层"模型同源。参见 Ebewole Polymer Science Ch04 Thermal Transitions i
+

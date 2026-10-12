@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15-9",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_a7e6fe5a56c6fd3a676a875808530e10001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/智能织物纺织品综述_拆解.md.md",
+   "name": "智能织物纺织品综述_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_419eaa3cd0e4afca0f3c23dbe6d7adec001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Handbook_of_nonwovens.pdf.md",
+   "name": "Handbook_of_nonwovens.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_30c095fb3602ef262c806adb7e79151c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Superabsorbent_Polymers_SAP_Composites/Superabsorbent_Polymers_深度拆解.md.md",
+   "name": "Superabsorbent_Polymers_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c2306939bbd40cd845f1f93a886b3932001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Modern_Chemistry_of_the_Ancient_Chemical.pdf.md",
+   "name": "Modern_Chemistry_of_the_Ancient_Chemical.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_14042a9c6d485728fb5bbcdb82060963001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Viscoelastic Properties/Viscoelastic Properties_concepts.md.md",
+   "name": "Viscoelastic Properties_concepts.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_75b9ca26c46f62377a31056844876362001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI.pdf.md",
+   "name": "SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_86427706fe68eabb9183f71f0b8d8733001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Engineering/84-Sleeve工程规格与换装防错设计.md.md",
+   "name": "84-Sleeve工程规格与换装防错设计.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b9468eba01f9ded1d804484d15ecdb8a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Synthesis_of_thermoplastic_poly_ester_ol.pdf.md",
+   "name": "Synthesis_of_thermoplastic_poly_ester_ol.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ed3ae0db2e1d451e7cdabd56ae18fac7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/handbook-of-adhesive-technology.pdf.md",
+   "name": "handbook-of-adhesive-technology.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a4cfc3002d43a5f74530ccea1d4fb363001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Engineering/QUOTATION For Dual forming drum system 20260721.pdf.md",
+   "name": "QUOTATION For Dual forming drum system 20260721.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

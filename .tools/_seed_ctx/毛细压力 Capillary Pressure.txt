@@ -1,0 +1,129 @@
+# SEED: 毛细压力 Capillary Pressure
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#   - Cross-linked Cellulose and Derivatives
+#   - Liquid Flow in Porous Structures
+#
+# 全库正文命中 190 页，321 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）]]  (6 句)
+   • **Capillary Pressure Method 毛细压力法**：试样置于与储液池恒连通的载物台上，通过**垂直移动载物台改变静水压头（hydrostatic head = 施加压力）**，同步称量试样持液量并按试样重量归一化为**饱和度 saturation（g/g）**，得到 **height（cm）–saturation（g/g）** 曲线；**下降台面得吸收支（absorption），上升台面得解吸支（desorption）**。
+   • 1. **物理基础是 Young-LaPlace**：ΔP = −2γcosθ / R。毛细压由**润湿性（θ）**与**孔径（R）**共同决定，因此测到的毛细压差异**只能归因于这两者之一**——这是用它做根因诊断的根据（润湿性 vs 孔径，二分法）。
+2. **两个派生量**：
+   - **代表性毛细压力**：真实材料的孔径是一段分布，对应一段毛细压分布，无法直接比代码；故**用模型取「材料半饱和（halfway saturated）」处的一个代表值**用于代码间比较。
+   - **解吸能量**：**height–saturation 曲线下的面积**，即「把液体拉进去 / 排出来」所需的总功，单位 **ergs**。
+3. **读数规则（判据）**：
+   - **毛细压越高 → 孔越想把液体留住**；**解吸能量越低 → 纤维越容易「晾干」（fibers dry out easier）**。
+   - 设计原则：**Intake materials have lower capillarity and wettability compared to where fluid 
+   • 1. 先确认结果指标（Closed Cradle / Cradle 回渗）确实由**解吸**驱动；
+2. 逐层测毛细压力与解吸能量，找出**哪一项指标偏向竞品**的层；
+3. 该层再按**润湿性 vs 孔径**二分定位根因；孔径路径下再细分**平均孔径 vs 孔径分布（PSD）**；
+4. 改材料 → 回到产品台架验回渗，形成闭环。
+   • 实测应用（2025-12-02，Depend 拆解）：面层与导流层的**毛细压力与解吸能量两项都偏向 Always Discreet**，据此把根因分别定为**润湿性**（面层）与**孔径分布**（导流层）。
+实测应用（2025-07-29，ATH SAM Relocation）：解吸能量测到 **6.67E+04 / 6.52E+04 ergs（含绒毛浆层）** 对 **1.83E+04 / 1.78E+04 ergs（LSE+CW）** 的量级差——但该组数据存在**试样质量混淆（0.42 g vs 0.21 g）**，数值不可直接横向比较（见来源页存疑）。
+
+--- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]  (6 句)
+   • 本批**回渗竞品拆解的物性证据页（Richmond Cohen / Matt Valaskey，2025-09-11）**：用 Young-LaPlace 框架 + 孔径分布、毛细压力、吸/解吸能量、层压剥离强度四类新物性测试，量化 Depend 与 Always Discreet 摄入系统的差距来源。是本库回答「竞品到底赢在哪一个物性上」的一手数据来源。
+   • 分析以 Young-LaPlace 方程为统一框架：Δp = −2γcosθ / R（p 压力、γ 表面张力、θ 接触角、R 孔隙半径）。针对 DEPEND 与 ALWAYS DISCREET 摄入系统新增四类基础物性测试：**面层孔径分布**、**导流层孔径分布**、**导流层毛细压力**、**面层/导流层层压的粘合强度（剥离力）**。
+   • 毛细压力与解吸能出现"反直觉"组合：AD surge 的**特征毛细压力略高于** Depend surge，但**解吸能更低**；原因是 **AD surge 的克重显著更低**（表中 AD 49.95 gsm vs Depend 76.97 gsm）。层压剥离：AD 的两种施胶花型（Slot Coat、Fine Spiral）**剥离峰值载荷都高于** Depend 层压，且剥离**平滑**；Depend 层压呈**粘滑（stick/slip）**剥离行为，说明 AD 的界面间隙（interfacial space）更小。
+   • 四条可执行建议：① **降低 Depend 面层的润湿性**（reduce wettability）→ 降低解吸能 → 面层更干、回渗更少；② 追问 P&G 非织造布更高的孔径单分散性是否带来更好的孔隙连通性与更低回渗（明确标为待验证问题）；③ **降低 Depend surge 克重**同时**保持摄入速度**，以减少滞留在 surge 中的液体；④ **用其他手段减小面层/导流层界面间隙**——当前粘合方式仍有改善空间。同时记录一项权衡：**压力粘合（pressure bonding）面层与导流层可改善回渗，代价是孔隙体积与渗透率下降**。
+
+--- [[Pentagram PET (Star Cross-Section Fibre)]]  (5 句)
+   • The star section maximises wettable surface and capillary edge count per gram. Mechanistically three things are claimed for it in a 25 gsm ATB liner:
+星形截面把单位克重的可润湿表面积与毛细边缘数量最大化。在 25 gsm ATB 面层中，它被赋予三条机理：
+   • 1. **Capillary rails（毛细导轨）** — open grooves along the fibre act as low-volume liquid pathways once a hydrophilic finish lowers the contact angle; this favours spreading over local pooling.
+2. **MD bias（机向偏置）** — carded webs already have partial machine-direction orientation; adding profiled PET to the second card can bias lateral urine distribution along MD.
+3. **Loft support（蓬松支撑）** — PET is stiffer than PE/PET ES at bonding temperature, so a moderate addition helps preserve void volume under l
+   • PE-sheath air-through bonding temperature does not bond PET; every bond point must still come from the ES fraction. Above ~15% total add-on, the risk shifts from useful capillary lanes to lint, tensile loss, rougher hand, rewet and process instability.
+PE 皮层的热风粘合温度无法粘合 PET，所有粘合点仍须由 ES 组分提供。总添加超过约 15% 后，收益从「有用的毛细通道」转向起毛、强度损失、手感变粗、回渗与工艺不稳定。
+   • Denier (at 10% add-on): **2D** raises fibre count and surface area but can reduce pore size, slow drainage under repeated insults and raise wetback risk; **3D is the best first denier** for a 25 gsm liner (good groove density, acceptable permeability, manageable tactile/bond risk); **4D** is safer for permeability and dryness but has lower capillary count per gram and may feel coarser.
+旦数（10% 添加时）：**2D** 提高纤维数与表面积，但会缩小孔径、在重复冲击下降慢排水速率并抬高回渗风险；**3D 是 25 gsm 面层的最佳首试旦数**；**4D** 透气与干爽更稳，但单位克重毛细数量更低、手感
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (5 句)
+   • 1. **残液的两个出口条件由 Young-LaPlace 方程给出**：**ΔP = −2γcosθ / R**。毛细压由**润湿性（θ）**与**孔径（R）**共同决定。**毛细压越高 → 孔越想把液体留住；解吸能越高 → 纤维越难"晾干"**。因此降低残液只有两条路：**降低润湿性（提高 θ）**或**加大孔径 R**（以及让孔径分布收敛）。
+2. **孔径分布（PSD）比平均孔径更重要**：假说是**液体滞留在极小孔里，因为旁边没有足够大的孔把它拉出来**。双峰/宽分布会造成"抽不出来"的死角；对策是**让纤维尺寸趋同以收窄分布**，并**减少孔的总数以减少可拘留液体的位置**。
+3. **润湿性这条路有硬冲突**：去掉面层润湿处理确实降回渗（0.26 → 0.20 g），但**漏液率从 3.2% 升到 4.6%**——因为面层不亲水就拦不住涌流。**同一处改动同时影响"干"与"漏"，必须成对验收**；且该冲突在不同品类上结论不同（未处理面层在 BCC 可行，在成人护理上不可行）。
+4. **加大孔径这条路相对安全**：粗纤维 → 大孔径的面层（LOKI 类）在预测与实测上**
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • 原文：**回渗由两种机制驱动——解吸（Desorption）与回流（Flowback）**；**在 POISE 的 FIUP 测试中，解吸主导回渗**。
+- **解吸由摄入系统（intake system）控制**：摄入系统中的**高毛细压力与界面会截留液体**，被截留的液体**在受压时表达为回渗**。
+- 机理要素清单（原文）：解吸毛细张力 / 界面 / 回渗 / **液体可得性（availability of fluid）** / **润湿性（wettability）** / **与芯体的分离（separation from core）** / **双向流动（two-way flow）**。
+   • 1. **MicroCT 把残液定位到了面层本身** —— 源文：「MicroCT showed liner is holding fluid – new opportunity to reduce rewet」；**残液不只存在于 surge/芯体，面层自身就是一个持液库**。
+2. **一个决定机理归属的量级事实** —— 「**Rewet weight is much smaller than the blotter. Much of the fluid picked up as rewet with no pressure on blotter.**」（回渗重量远小于吸墨纸所吸；**在无压力下**已有大量液体被带起）⇒ **回渗的主贡献者是"本来就留在面层的液体"，不是压力下从芯体挤出的液体**。
+3. **当前产品的失败位置** —— 「Our current product leaves fluid in the topmost layer near the blotter.」**液体停在最靠近吸墨纸的最顶层**，即**失效发生在最外一层，而非芯体深处**。
+4. **新杠
+
+--- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]  (5 句)
+   • **POISE（K-C）vs ALWAYS DISCREET（P&G）的回渗竞品机理分析（英文）**：用 BET 比表面积、毛细压力（吸收/解吸）、孔径分布、润湿性、Micro-CT 与 SEM 五种手段，回答"**为什么 POISE 在回渗测试中没有碾压 AD**"。本库价值：给出**回渗的两种机制划分（解吸 vs 回流）**与**摄入系统控制解吸**这一因果链，是本库 Residual Fluid & Pore Stranding（残液与孔隙滞留） 的**竞品实证来源**。
+   • **机制划分**：回渗由**两种机制驱动——解吸（Desorption）与回流（Flowback）**；在 **POISE 的 FIUP 测试中，解吸主导回渗**。解吸机制**由摄入系统（intake system）控制**：摄入系统中的**高毛细压力与界面会截留液体**，被截留的液体**在受压时表达为回渗**。机理要素为：解吸毛细张力 / 界面 / 回渗 / 液体可得性 / 润湿性 / 与芯体的分离 / 双向流动。
+   • **反直觉的核心发现**：按机理，AD 的摄入系统毛细压力显著更高 → **应表现出更高回渗**；但**实测中 POISE 并未在回渗上碾压 AD**。原文自设问题："*Why is POISE not crushing ALWAYS DISCREET in rewet tests?*"
+   • **回渗 = 解吸 + 回流两种机制；POISE 的 FIUP 中解吸主导** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **解吸由摄入系统控制：高毛细压力与界面截留液体，受压时表达为回渗** —— 支撑页：Intake System（摄入系统）
+- **AD 的摄入系统毛细压力全面更高（更难解吸），按机理应回渗更高——但实测未如此 ⇒ 机理与实测之间存在未解释的缺口** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- **更难解吸是双重原因：更小孔径 + 更高润湿性（Young-LaPlace 的 R 与 θ 同时作用）** —— 支撑页：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+- **AD 芯体 BET 比表面积约为 POISE 的 12.8×，且高比表面积来自复合层而非 SAP 颗粒** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **"蓬松度"与"解吸难易"是两
+
+--- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]  (5 句)
+   • **Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）回渗进展 2025-12-02（非正式分享 · Depend 拆解与毛细机理）** — 一份以 Depend 为镜头（told through the Depend lens）的回渗进展汇报。核心方法论是：不靠试错，而是用**毛细压力法（Capillary Pressure Method）**定量测出每个摄入层「有多想留住液体」，再逐组件找根因、逐组件消残液。
+   • 毛细测试显示 AD 与 Depend 面层存在差异：**Depend 面层把液体留得更久**（keeps a hold of more fluid longer than AD）。
+- 毛细性与**解吸能量（desorption energy）**两项指标**都偏向 Always Discreet（AD）**。
+- 根本判定（capillary physics 毛细物理）：差距只能来自 **wettability 润湿性**或 **pore size 孔径**；实测 **AD 的润湿性低于 Depend**，除此之外两面层看起来一样。
+- **反直觉结果**：不做亲水整理的面层（untreated liner）在 **GRIFFIN HUT 上渗漏更高**——与早前 **ATACAMA+ HUT** 的结论一致；该路线此前在 BCC 曾成功过，但现在需要 **go back to the drawing board 回炉重做**。
+   • **输出：**
+- **Height vs Saturation 曲线**（吸收支 absorption = 下降台面；解吸支 desorption = 上升台面）。
+- **代表性毛细压力（representative capillary pressure）**：真实材料孔径有分布 → 为便于代码间比较，**用模型取「半饱和（halfway saturated）」处的单一毛细压力**作为代表值。
+- **解吸能量（desorption energy）**：**height–saturation 曲线下的面积（area under the curve）**，代表把液体拉进或排出所需的总能量；**解吸能量越低 → 纤维越容易变干（fibers dry out easier）**。
+   • **Huggies**
+- **SAM 用量与位置 DOE**：深挖如何在 Colt 上实现所见的**高压回渗（high pressure rewet）**水平。
+
+--- [[LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）]]  (4 句)
+   • 状态坐标：Liquid Modes（TL-1607 液体四态）（Mode 3 松散持留 = HPR 的液体来源；Mode 4 表面残液 = LPR 的液体来源）
+- 方法口径：Rewet Test（回渗测试）（TTM-00623 的低压/高压分段与载荷）、Rewet Method Comparison（回渗测试方法横向对比）（CCR 与 FIUP 的实测差异）
+- 材料杠杆：绒毛浆（Fluff Pulp）（LPR 的主角）、SAP错峰膨胀（HPR 侧的时间维度解法）、Resilient Surge（PET 回弹导流层）（导流层对 LPR 的一等影响）
+- 判读前提：GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）（限制发生在哪一段；与本页的"哪种回渗"互补）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（直接给出解吸能与残液量，是本页机理的仪器化度量）
+   • ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘） —— 
+- Summary of Pressures on Products（产品在使用中的受压汇总） —— （2026-09-29 追加）
+   • 1. **两档的竞争态势是相反的** —— **LPR 本来就有竞争力，HPR 才是落后项**。**若只报"回渗"一个词，会把"我们本来不错"和"我们很差"混为一谈。** 这直接支持本页的**分档必要性**。
+2. **改善只发生在 HPR 档** —— BUFF BABY 之后的收益描述是"**更一致且更低**"，且**明确挂在 HPR 档**。**⇒ BUFF BABY 的收益是"降低波动 + 降低均值"，两者都要报。**
+3. **T6 surge 是 HPR 的结构性来源** —— 「**T6 surges continue to result in high rewet**」；**⇒ 高压档的回渗可被单一结构件（surge）持续驱动，即使整体方案已改善。**
+4. **吸收体 DOE 已把因果指向 flowback** —— 源文假设：「**Absorbent core characteristics are driving differences in high pressure rewet via flowback**」，code 已产出、统计师在分析。**⇒ HPR 档
+   • **在研动作（Huggies）**：**SAM amount & location DOE（超吸收材料用量与位置 DOE）**，目标是**复现 Colt 上观察到的高压回渗（high pressure rewet）水平** —— 即把 HPR 的攻关重点明确放在**SAM 的分布设计**，而非面层/导流层。
+- **与低压回渗的分工呼应**：本页上方若已区分 LPR（常压，主要由摄入层残液决定）与 HPR（加压，主要由芯体内可挤出液体决定），则本条与之**方向一致**：HPR 归因到 **SAM 用量/位置**，LPR 归因到 **面层润湿性 + 导流层孔径分布**（见 Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理））。
+- **注意类比边界**：Colt 的 HPR 水平是**待复现的目标**，不是已验证的通用解；跨品类（Colt → Huggies）迁移需重新 DOE。
+- 相关页面：SAP（高吸水树脂）、Multilayer SAP Core（多层SAP芯体）、Residual Fluid & Pore Stra
+
+--- [[Computational Modeling in Absorbent Technology]]  (4 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Industrial Drying Ch28 Osmotic Dehydration and SAP Physics]]  (4 句)
+   • This chapter is the **single most direct bridge to superabsorbent-polymer (SAP) science** in the Handbook. The osmotic pressure framework, semipermeable membrane analogy, and electrolyte ion effect are exactly the physics family of SAP swelling/deswelling governed by Flory-Rehner equilibrium and Donnan osmotic pressure.
+   • **SAP transfer:** This is the swelling/driving pressure set by the solvent chemical-potential difference. Inside an SAP, this is the swelling pressure of the crosslinked polyelectrolyte network.
+   • **SAP transfer:** This is the seed of Donnan equilibrium — mobile ions distributed across a charged, semipermeable matrix raise Π. It is precisely why SAP (a fixed-charge polyelectrolyte) swells in water but **deswells in saline**: the fixed –COO⁻ groups plus counterions create a Donnan osmotic pressure that is suppressed by external salt.
+   • **Cross-link:** The same osmotic-pressure number that drives SAP uptake also sets the antimicrobial window of a hypertonic brine — useful for preservative-free stabilization.
+
+--- [[Liquid Flow in Porous Structures]]  (4 句)
+   • Chapter I establishes the physical foundation of absorbent technology — capillary-driven, unsteady-state liquid flow in porous media — providing the mathematical tools (Darcy, Washburn, diffusivity factor) that govern wicking rate and capacity in diaper/incontinence cores.
+   • 本章是整书的物理基石，建立了多孔介质中毛细压力驱动、非稳态液体流动的统一理论框架，为芯体的吸收速率与容量设计提供方法论根底。
+   • Absorption is driven primarily by **capillary pressure** (p_c = 2γcosθ/r); externally imposed gravity or pressure plays only a secondary role (p. 19).
+- Flow in porous media follows **Darcy's law** (q = -K·∇P, K = k/μ) and, under unsteady conditions, is mathematically identical to a diffusion process; the advancing wicking front distance obeys **x_v ∝ t^(1/2)** (Washburn / Rudd relation, p. 24, 37).
+- The **diffusivity factor** F(s) = (k/μΦ)(dp_c/ds) links permeability and capillary gradient; a 
+   • 父书 Parent book：Absorbent Technology
+- 概念 Concepts：SAP（高吸水树脂）、吸收芯体、ADL（导流层）、毛细压力 Capillary Pressure、达西定律 Darcy's Law、孔隙率 Porosity、绒毛浆（Fluff Pulp）、回渗 Rewet
+

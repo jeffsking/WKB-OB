@@ -1,0 +1,21 @@
+{
+  "batch": "p1_Ebewole Polymer Science Tech_02",
+  "book": "Ebewole Polymer Science Technology",
+  "done": [
+    "Ebewole Polymer Science Ch08 Copolymerization.md",
+    "Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements.md",
+    "Ebewole Polymer Science Ch10 Polymer Reaction Engineering.md",
+    "Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing.md",
+    "Ebewole Polymer Science Ch12 Solution Properties of Polymers.md",
+    "Ebewole Polymer Science Ch13 Mechanical Properties of Polymers.md",
+    "Ebewole Polymer Science Ch14 Polymer Viscoelasticity.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Ebewole Polymer Science Ch13 Mechanical Properties of Polymers.md",
+      "issue": "源提取件的业务评注段落给出 PP/PE/PVA/PAN 的近似 Tg 数值（PP ≈ −10 °C、PE ≈ −100 °C、PVA ≈ 80 °C、PAN ≈ 105 °C），这些数值来自提取报告的批注而非 Ebewole 正文；本页已标注 [待验证]，引用前需回 Ch.4 或数据表核对。"
+    }
+  ],
+  "count": 7
+}

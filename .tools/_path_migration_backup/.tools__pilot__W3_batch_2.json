@@ -1,0 +1,65 @@
+{
+ "batch_id": "W3-2",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d493300de58e2e0c272136f1e35d2bfb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/GHC+-+KC+2026.pptx.md",
+   "name": "GHC+-+KC+2026.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c0ae721d8d9b379353efaa44361648de001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md",
+   "name": "02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9d71023af50dc64e9a6bfdd64121a2dd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/06_FloSorb _ DryTech Superabsorbent — SNF.pdf.md",
+   "name": "06_FloSorb _ DryTech Superabsorbent — SNF.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c30ad8cfe3492e0e3e7d06ac8648794c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/21_DARCO® KB-G Powdered Activated Carbon (TDS).pdf.md",
+   "name": "21_DARCO® KB-G Powdered Activated Carbon (TDS).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_fb5b513d911e984d978ff0810d9535f5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/DH-Catalogue-EN-CN (1).pdf.md",
+   "name": "DH-Catalogue-EN-CN (1).pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3f3fd1316d4096fb552fa54c2cfdccbe001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/KC Visit 2026.7.1.pdf.md",
+   "name": "KC Visit 2026.7.1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_65747893034bae5b639f07042efe04ea001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/Natural superabsorbent plastic materials based on a functionalized soy protein .pdf.md",
+   "name": "Natural superabsorbent plastic materials based on a functionalized soy protein .pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_5000c984b2590dd60e6fe8352f6a3d74001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/Yundi Introduction 20260603.pdf.md",
+   "name": "Yundi Introduction 20260603.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_593bb18d2c2ea02a4dea81d9240e1f20001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md",
+   "name": "v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f2a19eac58900e35eb22b12fdf69834f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/v3非传统资源_⑧Odor_control_30_Symrise_SymDeo__XPP_抑臭聚合物.pdf.md",
+   "name": "v3非传统资源_⑧Odor_control_30_Symrise_SymDeo__XPP_抑臭聚合物.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "batch": "S4_Resources_Open Innovation_15",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 10,
+  "concept_pages": 3,
+  "entity_pages": 2,
+  "comparison_pages": 5,
+  "updated_existing": 3,
+  "manual_review": 2,
+  "notes": "sources: History of FIUP TTM-00643（FIUP 测试方法沿革史）; BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）; SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）; Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）; Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）; BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）; CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）; HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）; Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）; GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）。concepts: FIUP Test Method TTM-00643; Liner-Surge Interstitial Space; Absorbent System Adhesive Effects on Rewet。entities: Intellego Technologies AB; Qiansebian（千色变新材料）（另 4 家国内/国际供应商信息已并入对比页，未单独立页）。comparisons: SAP Architecture Options - Three PPT Routes; Chromic Ink Supplier Landscape Comparison; Embedded vs Detachable Smart Diaper Architecture; BCNF Nonwoven vs PP Nonwoven; Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS）。updated_existing: BNC 与绒毛浆和 SAP 定位对比（追加 Evidence Update 含成本与供应链风险两列）; CoPET-PET 与 PE-PET 皮芯纤维对比（追加 docx v3 互证与矛盾记录）; GRIFFIN Rewet Program（追加 6/25 与 8/28 两轮进展）。manual_review: ① SAP 选型三 PPT 的牌号单价（$/MT）、单片成本与成本敏感度未页面化；② CoPET v3 成本报告的卫材级实际采购价以供应商认证报价为准，本页不落报价。矛盾记录：CoPET v3「卫材级基本同价」与 CoPET 采购蓝图「溢价 16–40%」方向有张力，已在双方页面互标待人工确认。未涉及 OI 编号。"
+}

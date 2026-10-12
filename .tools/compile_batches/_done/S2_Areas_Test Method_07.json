@@ -1,0 +1,12 @@
+{
+ "batch": "S2_Areas_Test Method_07",
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "source_pages": ["WIKI/sources/SAM加压吸收(From Nuoer).docx.md", "WIKI/sources/STM-1001平面扩散实验.docx.md"],
+ "concept_pages": [],
+ "entity_pages": [],
+ "comparison_pages": [],
+ "updated_existing": ["WIKI/concepts/Liquid Diffusion Test（液体扩散测试）.md（追加 2026-09-29 验证注记：STM-1001 与 STM-1002 口径一致，并列不合并）"],
+ "manual_review": [],
+ "notes": "10 项中 8 项此前已编译（Pressure Sensory / WI-63848 Static mannequin / STM-00033 / STM-4597 / WI-60236 / STM-00060 / GBT28004.1-2021面层附着物 / SAM通液速度），按规则跳过未覆盖。本批仅新建 2 份缺失源页：SAM加压吸收(From Nuoer).docx（WI-66076，0.9 psi/60 min/0.9 g）、STM-1001平面扩散实验.docx（与 STM-1002 同口径姊妹方法）。SAM Testing Methods 概念页此前已含两法口径行与来源链接，无需追加。无商务敏感内容。"
+}

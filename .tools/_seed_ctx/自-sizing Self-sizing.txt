@@ -1,0 +1,38 @@
+# SEED: 自-sizing Self-sizing
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 5 页，8 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[The Role of Surfactants]]  (3 句)
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）]]  (2 句)
+   • The CN **sizing nomenclature standard**（规格与尺寸锚点）for baby and adult diapers — fixes what NB/S/M/L/XL/XXL must mean in weight (baby) and hip circumference (adult), plus the load-based method for measuring "max applicable waist".
+   • GB/T 33280-2016 (SAC/TC 141) applies to taped and pant diapers for babies and adults (not slips/underpads). It converts the market's informal S/M/L naming into weight windows for babies (e.g. M = 6–11 kg) and hip-circumference windows for adults (M = 80–105 cm), each paired with a minimum "max applicable waist" that the product must physically achieve. Annex A defines how max waist is measured: for taped diapers the front fastening tape length plus the rear end stretched under a 750 g load; for 
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (1 句)
+   • **重要性**：*Yes, sort of*。*"New Leaf to be the most comfortable"*；*"BSL is not a key focus right now."*
+- ⚠️ **3/23/23 变更**：*"**TOOTSIE ROLL** considering **eliminating this liner differentiation**, hypothesizing **OC is the primary differentiation need**."*
+- **现状**：New Leaf **on track**，其余 **off track but OK**。
+- **机会**：TBD/未来 —— *Wetness feel*、*fit & feel like underwear*（是否不止底盘？）
+- **风险**：*"Haven't tested vs. **Easy Ups** in while (scorecard)."*
+- **障碍**：柔软度的工序能力（**尤其是粘合**）。
+
+--- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]  (1 句)
+   • The decision-gate proposal for the waistband tension indicator — it converts the technical deep-dive into a one-page verdict (Track B proceeds, Track A maintained) with market sizing, risk register, 24-week roadmap and business impact. This is the **project-approval document** of the Mechanochromic block.
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (1 句)
+   • 1. **SAP as a dry hydrogel.** The imbibition range "10 to 20% up to thousands of times their dry weight" (L1911–1913) and the chemical tie-point vs physical entanglement cross-link distinction (L1914) frame cross-link density ↔ swelling ratio ↔ retention-under-load mapping. 中文：SAP 可按水凝胶网络科学同一框架建模。
+2. **Environmentally sensitive gels for indicators.** Response variables are swelling, network structure, permeability and mechanical strength against pH, ionic strength, temperature, fields, glucose (
+

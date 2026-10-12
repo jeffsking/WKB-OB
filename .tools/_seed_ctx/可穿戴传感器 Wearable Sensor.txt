@@ -1,0 +1,116 @@
+# SEED: 可穿戴传感器 Wearable Sensor
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Wearable Electronics (National Science Review 2023)
+#   - Wearable Sensors Fundamentals Implementation and Applications
+#
+# 全库正文命中 90 页，164 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[电子纺织品 E-textile]]  (7 句)
+   • The vault characterises the e-textile form only indirectly. Wearable electronics is described as developing along **two complementary directions** — **thin films** (reducing one dimension) and **fibres** (reducing two dimensions)（源：Wearable Electronics (National Science Review 2023)）。The fibre form is the e-textile substrate; its defining property in the vault is **washability**, stated as the key characteristic that separates e-textiles from conventional electronic devices（源：Wearable Electronic
+   • **Fibre form as a complementary route.** The vault source frames thin-film and fibre as the two mainstream paths of wearable electronics, not competitors but complements — the fibre path reduces two dimensions relative to a bulk device（源：Wearable Electronics (National Science Review 2023)）。
+   • **Washability as the differentiator.** Because the device is carried *in* a textile, laundering durability rather than electrical function alone is what separates it from conventional electronics; the source states fibre-form devices are washable hundreds of times（源：Wearable Electronics (National Science Review 2023)）。
+   • **Landscape placement.** In this vault, e-textiles sit inside the broader smart-textiles & wearables landscape, which spans stimuli-responsive polymers, wearable sensing/electronics, flexible electronics, chromic/PCM/shape-memory functions and thermoelectric harvesting（源：Smart Textiles & Wearables）。The Wearable Sensors book preview places e-textile as the first link of its chain — e-textile → energy harvesting → algorithms → WBAN full stack（源：Wearable Sensors Fundamentals Implementation and Appl
+
+--- [[热电现象 Thermoelectric]]  (5 句)
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+   • **Waste-heat → electricity.** The core rationale in the source is recovery of waste heat as electrical energy（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Figure of merit (ZT) governs performance.** The source's key claim is that **ZT ≈ 1 is a practical, not theoretical, ceiling** — i.e. performance gains beyond that are hard, not impossible in principle（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Material route named**: highly covalent semiconduc
+   • **Adjacent, not yet applied.** The vault's sourcing is textile / wearable-level and materials-level; **no thermoelectric function is evidenced on any hygiene-product page** .
+- TE sits in the "smart textile" conceptual neighbourhood used elsewhere in the vault for powered / functional hygiene concepts — its siblings include 刺激响应聚合物 Stimuli-Responsive Polymer、相变材料 Phase Change Material、导电纱线 Conductive Yarn、智能织物 Smart Textile（源：Smart Textiles & Wearables）.
+- Integration path named for flexible TE:
+   • No Seebeck / Peltier coefficient, power factor, or module-efficiency figure is present in the vault .
+- ZT values for **polymer / textile-grade** TE materials are not given — the ZT ≈ 1 claim is general, not textile-specific（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- No cost, lifetime, or manufacturability data for wearable TE units appears in the vault .
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (5 句)
+   • **Non-electronic, visually-read health indication integrated into a disposable absorbent article（集成到一次性吸收制品的非电子目视健康指示）** — a **window** in the article's outer surface allowing a **removable thermochromic sensor** to be read from outside.
+   • Conditions the sensor may indicate（说明书列举）: "**body temperature, environmental temperature, article humidity or wetness, pH, skin condition, analyte levels, etc.**"
+   • **Window material**（L577-584）: outer surface must be translucent/transparent; candidates **polyethylene, polypropylene, polyester, polystyrene, polyvinyl chloride, polyurethane, polycarbonate, polyacrylate, PTFE** and combinations.
+- **Conventional diaper chassis**（L230-271）: topsheet 24 / backsheet 26 (**thermoplastic film about 0.012–0.051 mm thick**) / absorbent core 28 / side panels 30 / leg cuffs 32 / elastic waist 34 / fastening system 40; the diaper is a **"unitary"** construction（L205-22
+   • 1. **The closest competitive patent to the chromic-ink programme's "smart but non-electronic" branch.** P&G's architecture delivers a **battery-free, circuit-free visual readout** — the same value proposition as a chromic wetness/comfort indicator. It is the benchmark to read before positioning our own chromic concept. See Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) and Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）.
+2. **Two different chr
+
+--- [[光子晶体 Photonic Crystal]]  (4 句)
+   • Photonic crystals are **periodically ordered nanostructures whose interaction with incident light produces structural colour** — the source wording is: "Structural colors, arising from light interaction with periodically ordered nanostructures that are widely known as photonic crystals (PEs), are widespread in nature"（源：Interactively Mechanochromic Electronic Textile Sensor）。
+  （中文：光子晶体 = 与光相互作用的**周期性有序纳米结构**，由此产生的颜色即**结构色**；该定义直接来自引文原文。）
+- In the chromic-materials taxonomy, photonic crystals si
+   • **Bragg diffraction from a tunable lattice.** The colour is set by the lattice spacing: "when the MET sensor is stretched in the horizontal direction, the lattice spacing d is reduced from d0 to d in the vertical direction, thus resulting in a decrease in λmax"（源：Interactively Mechanochromic Electronic Textile Sensor）。拉伸压缩竖直方向晶格间距 → λmax **蓝移**；渗入弹性体使折射率与间距同时增大 → 反射峰**红移**（源：Interactively Mechanochromic Electronic Textile Sensor）。
+- **Periodic structures are assembled, not slit-cast.** Polymer-o
+   • **Fit / tension indication（合身可视化）**：光子晶体结构色属**可逆**力致变色路线（M2），是连续合身监测的候选之一；可逆性在一次性卫品场景被列为不可让步的要求（"reversibility is a non-negotiable requirement"，源：Mechanochromic Materials Technical Review（EN v3, 2026-08）、Structural Colour Mechanochromism（结构色力致变色））。
+- **Strain → colour coupling can be coupled to SAP swelling (推演, unverified)**：变色机制是"应变 → 晶格间距调控 → λmax 蓝移"，响应区间 0–51.6 %；若与 SAP 层复合，吸水膨胀本身即应变源，可发展为"尿量可视化指示贴"——**须验证膨胀方向与变色区间匹配**（源：Interactively Mechanochromic Electronic Textile Sensor）。
+- **Two block
+   • Interactively Mechanochromic Electronic Textile Sensor（结构色定义、Bragg 晶格调控与全部 MET 定量数据）
+- Chromic Phenomena（三工程层级：supramolecular = 液晶 / 光子晶体；λ 由结构决定）
+- Chromic Phenomena Solar Energy and Liquid Crystals（Ch.5 光子晶体；可见光区 3D 光子带隙材料尚待实现）
+- 结构色 Structural Color、Structural Colour Mechanochromism（结构色力致变色）（结构色总纲、共同失效模式、蛋白石工艺）
+- Chromism Taxonomy（变色现象分类）、Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 分类与路线裁决）
+- 相邻条目：机械变色 Mechanochromic、Mechanochro
+
+--- [[Pressure Sensory 测试方法.docx]]  (4 句)
+   • 内部 SOP **WI-65030**（第 1 版，2024-09-03）：用气囊式传感器 + 主机记录仪测量成品与橡筋材料的**皮肤接触压力（Pressure Sensory / Skin-Contact Pressure）**，是穿着舒适度量化的重要方法。
+   • 本方法使用一台带多通道的主机记录仪（屏显 ANRITSU AM-8051K COMPACT THERMO LOGGER）与**气囊式传感器（air-bag sensor）**：先通电、连接传感器、用蓝/红孔放气/充气使气囊呈半真空半充气态，插入主机通道开机自检。样品分两类——（1）**人体模型（mannequin）**：产品按尺寸穿在 model 上，气囊置于标记点位，数值稳定后读数 ×10，单位 V；（2）**手臂/腰围橡筋**：用软尺量手臂周长，按拉伸倍率算松弛长度 = 周长 ÷ 拉伸倍率，将样品绕臂一圈、订书机固定重合处，气囊置入测试区，计时结束读数 ×10（V）。注意事项强调橡筋测试前不可被拉伸、同一样品处理条件一致、测试期间保持同一位置。
+   • **接触压力量化靠气囊传感器 + 主机记录仪，读数为电压 ×10** —— 支撑页：Pressure Sensory Test（压力触感测试）
+- **弹性件测试须按松弛长度 = 周长 ÷ 拉伸倍率 还原** —— 支撑页：Skin Contact Pressure（皮肤接触压力）
+   • 概念：Pressure Sensory Test（压力触感测试）、Skin Contact Pressure（皮肤接触压力）
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (4 句)
+   • 1. **Introduction** — why natural and chemical fibres no longer meet user requirement; the passive / active / ultra-smart taxonomy; history from the late-1980s Japanese shape-memory silk thread; global smart textiles market at **25% CAGR 2021→2031, US$23.82 Bn by 2031**.
+2. **Brief History** — wearable computation traced to the 1850s (corsets, belts), first wearable computer 1955, integrated electronics from the early 1990s; three generations: wearable computing → fabric as circuit element → fib
+   • 1. **The three-tier taxonomy is the organising idea.** Passive smart textiles sense; active ones sense *and respond*; ultra-smart ones sense, react and adapt. This is a useful way to grade how ambitious any proposed hygiene-product feature is.
+2. **Seven chromic mechanisms named.** Photochromic, thermochromic, electrochromic, solvatochromic, **halochromic (pH)**, tribochromic (friction), mechanochromic (pressure). Colour reverts when the stimulus is removed because the original state is more sta
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+   • US20070270773A1 Thermochromic Wetness Indicator — the disposable-implementation counterpart to this review's chromic taxonomy
+- Chromic Phenomena Solar Energy and Liquid Crystals — underlying physical chemistry of the chromic mechanisms listed in §4.1
+- Mechanochromic Elastomer from PDLC 5CB PDMS — pressure-chromic route, one of the seven mechanisms, developed further
+- Interactively Mechanochromic Electronic Textile Sensor — the printed-PEDOT / e-textile strain-sensor route from §3 in concrete 
+
+--- [[Smart Fabrics and Networked Clothing]]  (4 句)
+   • **Opening** — garments as transmitters, sensors or energy harvesters, potentially cloud-connected; target applications are first responders, military, miners, industrial workers; framed against today's fitness wristbands as the precursor of networked clothing. Includes a substantial section on downside risk: garments can always be exploited by hackers, body surveillance erodes privacy, and switching the fabric off "may not be sufficient, since the entire garment may act as an antenna."
+- **Poten
+   • 1. **Property headline.** CNTs rated at elastic modulus >1 TPa (diamond 1.2 TPa), thermal conductivity ~2× diamond, current-carrying capacity 1,000× copper wire, single-walled strength 10–100× the strongest steel at a fraction of the weight.
+2. **The integration thesis.** Achieving seamless, invisible electronics means producing fibres with electronic function **without compromising strength, comfort and aesthetic appeal** — stated as the core challenge, and one that forces a redesign of antenna
+   • The only idea with genuine pull is **fibre-level function without losing handle** (finding 2 and 3): making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces. The article's candid statement that as-prepared CNT fibres **fail** on softness and processability is a useful negative result — it indicates a CNT-based route is premature for a disposable.
+- The power-budget arithmetic (finding 6) is transferable as 
+   • Smart Fabric Textiles Recent Advances and Challenges — the 2022 survey of the same field, with the broader chromic/shape-memory/breathable taxonomy this article omits
+- Flexible and Stretchable Electronics — realistic assessment of what integrating function into flexible substrates actually costs
+- Smart & Connected Garments (IEEE) — parallel IEEE treatment of connected garments
+- Interactively Mechanochromic Electronic Textile Sensor — printed conductive-line sensing on fabric, the practical fo
+
+--- [[Smart Textiles & Wearables]]  (4 句)
+   • A curated set of 10 Chinese-named 拆解 extractions covering the smart-textiles & wearables knowledge landscape — from stimuli-responsive polymers and wearable sensing/electronics to e-textiles, flexible electronics, chromic/PCM/shape-memory functions, and thermoelectric harvesting.（中文：智能纺织品与可穿戴领域的 10 篇拆解合集，覆盖刺激响应聚合物、可穿戴传感/电子、电子织物、柔性电子、变色/相变/形状记忆、热电采集等主线。）
+   • Stimuli-Responsive Polymer Materials (Nature Materials Review) — 2010 Nature Materials 综述：刺激响应聚合物的2D薄膜/3D粒子架构与应用。
+- Wearable Sensors (Book Preview) — Elsevier《可穿戴传感器》专著预览（目录级）：e-textile→能量采集→算法→WBAN全栈。
+- Wearable Electronics (NSR Editorial) — 彭慧胜 NSR 社论：可穿戴电子从刚性→薄膜/纤维化演进与特刊10篇导读。
+- Smart Textiles and Sportswear — 运动/防护智能纺织品综述：特种纤维代际、感知-响应架构、PCM/SMP/仿生。
+- Smart Textile Visual Perception (GRID) — Koncar GRID 报告：机织光纤与电致变色两类纺织柔性显示及变色机理。
+- Smart & Connected Garments (IEEE) — IEEE 综述：CNT纤维天线/致动器、联网服装与
+   • 刺激响应与变色材料（chromic / responsive polymers）：见 Stimuli-Responsive Polymer Materials (Nature Materials Review)、Smart Textile Visual Perception (GRID)、Smart Textiles Review
+- 可穿戴电子与柔性/可拉伸集成：见 Wearable Electronics (NSR Editorial)、Flexible Stretchable Electronics (imec)、Smart & Connected Garments (IEEE)
+- 电子织物与感知-响应架构：见 Wearable Sensors (Book Preview)、Smart Textiles and Sportswear、Smart Textiles Review
+- 热管理与能量采集：见 Thermoelectric Materials and Applications Review、Smart Textiles and Sportswear、Smart Text
+   • 概念：机械变色 Mechanochromic、光致变色 Photochromic、电致变色 Electrochromic、热致变色 Thermochromic、刺激响应聚合物 Stimuli-Responsive Polymer、液晶 Liquid Crystal、相变材料 Phase Change Material、形状记忆聚合物 Shape Memory Polymer、导电纱线 Conductive Yarn、防水透气 Waterproof Breathable、智能织物 Smart Textile、Wearable Electronics (National Science Review 2023)、热电现象 Thermoelectric
+
+--- [[US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)]]  (4 句)
+   • Granted US patent (Procter & Gamble) on a **disposable absorbent article with a windowed removable sensor** — an in-article sensing approach, paired in this batch with Kimberly-Clark's separate leakage-detection garment (US11013641B2) under the "sensor-equipped article" theme.
+   • The patent (title: "DISPOSABLE ABSORBENT ARTICLES HAVING A WINDOWED REMOVABLE SENSOR") discloses a disposable absorbent article with a windowed, removable sensor. The bibliographic header lists assignee The Procter & Gamble Company, inventors Klofta, McKiernan, Schmidt, and classification A61F 13/15. It claims priority to provisional 60/832,549 (filed Jul. 21, 2006). Detailed claim language on the windowed sensor is in the full text; this summary captures the bibliographic and classification sco
+   • In-article windowed removable sensor for monitoring — supporting page: Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+   • 概念 Concept：Sensor-Equipped Absorbent Article（含传感器吸收性物品）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 实体 Entity：The Procter & Gamble Company（宝洁）
+
+--- [[Sensor-Equipped Absorbent Article（含传感器吸收性物品）]]  (3 句)
+   • 1. **两类集成位置**：
+   - **物品内置传感器**：在吸收性物品本体设窗口式可移除传感器（如 P&G US8273939B2 的 windowed removable sensor），直接读取物品内状态。
+   - **分体检测衣物**：穿戴在吸收性物品之外的独立衣物（如 K-C US11013641B2 的 leakage-detection garment），间接判断物品是否渗漏。
+2. **要解决的用户痛点**：看护者难以及时察觉渗漏/尿湿，导致漏液、红屁屁与频繁检查；传感化把"被动发现"变为"主动提示"。
+3. **与既有指示技术的区分**：不同于印刷/化学变色指示（湿敏油墨、力致变色），本方向偏**电子/结构传感**或窗口观察式，常配 APP/视觉提示。
+4. **商务边界**：具体电路、算法、量产成本与供应商属敏感信息；本页只沉淀专利面与机理，不页面化商务细节。
+   • 上位/相关：Wetness Indicator Ladder（尿湿指示阶梯）、Active Diagnostic Zones（主动诊断分区）、智能尿裤功能层
+- 传感测试：Pressure Sensory Test（压力触感测试）
+- 漏液测试：Run-off & Leakage Test（滑渗与渗漏测试）、Blowout Leakage Test（爆漏测试）
+   • US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G) —— 
+- US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark) —— 
+- US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand) —— （2026-09-29 追加）
+- US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui) —— （2026-09-29 追加）
+

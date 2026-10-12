@@ -1,0 +1,68 @@
+# SEED: 甲醛 Formaldehyde
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 24 页，32 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (3 句)
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[热致变色 Thermochromic]]  (2 句)
+   • Directly relevant to the **hygiene chromic-ink programme** — thermal-comfort and wetness indication layers on the outer surface of the article（湿感指示条 Wetness Indicator、Wetness Indicator Ladder（尿湿指示阶梯）、Active Diagnostic Zones（主动诊断分区））. The route sits alongside 光致变色 Photochromic、机械变色 Mechanochromic、电致变色 Electrochromic under Chromism Taxonomy（变色现象分类）. Primary thermo suppliers ranked by hygiene fit: **CTI (Chromatic Technologies)** and **Matsui Shikiso (松井)**（the latter with a formaldehyde caution）; 
+   • No vault-sourced measured cycle-lifetime or ΔE for a KC-specific thermochromic ink is evidenced .
+- The **formaldehyde caution** attached to Matsui's chemistry is flagged but its regulatory limit is not quantified in the citing excerpts .
+- No cost-per-pant figure specific to the thermochromic route (only the mechanochromic route carries ~0.09 ¢/pant) is evidenced here .
+
+--- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]  (2 句)
+   • Hard boundaries are then stated: chemical limits (100% BPA-free, zero formaldehyde, zero heavy metals) and a regulatory framework (ISO 10993 for cytotoxicity/irritation, REACH, FDA, GB/T 35613-2017); a caution that **some legacy technology contains trace formaldehyde** and requires strict auditing; and a mandatory rule of absolute zero back-transfer, visible colour bleeding or direct skin contact — the indicator lives **on the outer cover / backsheet window**, never in the skin-contact layer (to
+   • Chemical limits: 100% BPA-free, zero formaldehyde, zero heavy metals.
+- Regulatory: ISO 10993 (cytotoxicity / irritation), REACH, FDA, GB/T 35613-2017.
+- Mandatory rule: absolute zero back-transfer, visible colour bleeding, or direct skin contact; powder forms banned from skin layers until validated.
+- Caution: some legacy technology contains trace formaldehyde — strict auditing required.
+
+--- [[GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）]]  (2 句)
+   • China's **mandatory chemical-safety floor**（强制国标）for all paper products for children ≤6 — the single table that wipes, diapers and tissue SKUs must clear on heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines; it is the standard that GB/T 27728.2-2024 delegates its "safety indicators" clause to.
+   • GB 43631-2023 (ICS 85.010 / CCS Y30, 工信部) is a mandatory national standard applying to infant/children paper products manufactured or sold in China. It classifies products into 生活用纸品 (tissue, wipes, diapers) and 文化用纸品 (paper/board/books) and sets one shared chemical baseline plus category-specific rows. The shared floor: four heavy metals, migratable fluorescent substances "无", acrylamide ≤0.1 mg/kg, and a 24-species carcinogenic aromatic amine list (Annex A) at ≤20 mg/kg for printed/dyed items.
+
+--- [[GB-T 34448-2017 Determination of Formaldehyde in Tissue Paper and Disposable Products（生活用纸及纸制品 甲醛含量的测定）]]  (2 句)
+   • The **method standard** for formaldehyde in tissue/wipes/diapers — its HPLC branch (LOD 6.0 mg/kg) is the enforcement method behind the ≤6 mg/kg formaldehyde limits in GB 43631-2023 and GB/T 28004.1-2021, and its spectrophotometry branch (LOD 10 mg/kg) serves tissue-class limits.
+   • GB/T 34448-2017 (SAC/TC 141) defines water extraction of free and partially hydrolysable formaldehyde from disposable paper products, with two quantification routes. The acetylacetone method derivatizes formaldehyde to a yellow chromophore read at 412 nm (LOD 10 mg/kg, double-acetone/dimedone confirmation test available for colored samples); the HPLC method derivatizes with 2,4-dinitrophenylhydrazine at 60 ℃ for 30 min and reads the hydrazone at 355 nm on a C18 column (LOD 6.0 mg/kg). Extraction
+
+--- [[Seymour Polymer Chemistry Ch16 Synthesis of Reactants]]  (2 句)
+   • **乙烯流**：*"Of course, polyethylene itself is part of the ethylene stream. Its copolymerization yields a large number of industrially important copolymers, terpolymers, graft polymers, and block polymers."*
+- **裂解产量（原文数据）**：*"Ethylene, propylene, and butylene are produced at annual rates of 52 billion, 29 billion, and 0.4 billion lb., respectively, by the vapor phase cracking of light oil fractions of petroleum feedstocks or petroleum gases."*
+- **C1 甲烷流**：HCN、methanol、formaldehyde、syn-gas — 构成甲醛系
+   • *"One industrially important route starts with acetylene and acetone, while another begins with isobutylene and formaldehyde."* / *"Dimerization of propylene to 2-methyl-1-pentene, isomerization to 2-methyl-2-pentene, and finally pyrolysis to isoprene and methane is also a route to isoprene."*
+
+--- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]  (2 句)
+   • ISO 10993 (cytotoxicity / skin irritation / sensitisation), EU REACH (SVHC restriction + full substance declaration for the chromic layer), FDA guidance, China GB/T 35613-2017 & GB/T 36420-2018 hygiene-product safety baselines.
+- **Matsui Shikiso (松井) caution**: some legacy products contain trace formaldehyde and official guidance excludes baby direct contact → resolve baby-safety before any skin-adjacent use.
+- The indicator MUST sit on the non-skin-contact face (outer cover / backsheet window)
+   • **International (8 ranked by hygiene fit)**: CTI (Chromatic Technologies, USA) thermo/photo/hydro full range — primary thermo; Matsui Shikiso (Japan) thermo/photo leader (Chromicolor / Thermolock) — primary thermo with a formaldehyde caution; Bostik (Arkema, France) hot-melt wetness glue (90% bio-based) — primary wet; Henkel (Germany) TECHNOMELT — primary wet; H.B. Fuller (USA) Full-Care — primary wet; Intellego Technologies (Sweden) photochromic wetness indicator; OliKrom (France) custom thermo
+
+--- [[AHPs Stewardship Program 与 CODEX™ 痕量物质管控]]  (1 句)
+   • 1. **CODEX™ 清单**：EDANA 选定的痕量化学物质列表，会员企业承诺 AHP 中这些物质浓度不高于各自指导值（用统一的、消费者相关的测试方法测定）。
+2. **物质范围**：PAHs（多环芳烃）、二噁英和呋喃（dioxins & furans）、dl-PCBs、邻苯二甲酸酯（phthalates）、某些酚类（phenols）、农药（pesticides）、有机锡（organotins）、金属（metals）、甲醛（formaldehyde）等（见原文档表2）。
+3. **计划性质**：自愿性 Stewardship Program，目标超越现行 EU 及国家法规，提升消费者信心与透明度。
+4. **与强制国标关系**：是 GB 15979 等强制卫生要求的「行业基准补强层」，而非替代。
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (1 句)
+   • 初步检索发现：**许多温变化学成分把甲醛（formaldehyde）作为实现变色功能的一部分**。
+- 明确立场：**"甲醛是我们永远不会在产品中使用的东西"** → 正在寻找**无甲醛**的温变替代方案。
+- 北美团队此前也在找同类"great change indicator"，两边需求一致。
+
+--- [[交联 CMC]]  (1 句)
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+

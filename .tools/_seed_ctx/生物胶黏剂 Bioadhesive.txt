@@ -1,0 +1,50 @@
+# SEED: 生物胶黏剂 Bioadhesive
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Adhesive Handbook
+#   - Adhesive Handbook Part 4 Applications
+#
+# 全库正文命中 3 页，8 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Adhesive Handbook Part 4 Applications]]  (5 句)
+   • *电子工业 · 木材工业 · 生物胶黏剂 · 牙科 · 汽车 · 全书 680 页 50 章的应用篇*
+   • **Part 4 是全书唯一直接覆盖卫生用品粘接应用场景的部分**——Ch47 木材工业的 hot melt（EVA/APAO/polyamide/TPU/curing hot melt）+ PVAc 乳液是芯体复合与湿巾封口的最常用胶种；纤维素/木浆化学（CWBL/MWBL、羟基、木质素）直接映射浆粕品质评估与采购谈判；Ch48 生物胶黏剂与皮肤接触胶存在技术共通性；Ch50 汽车包装封合技术同宗。
+   • **Ch46 电子工业（Bauer & Schneider）**：PCB/SMD 胶黏剂——CTE 匹配、260°C 回流焊耐受、70-80wt% 银填料渗流、环氧+UV 丙烯酸酯为主流；FR4 环氧树脂同时充当铜箔粘合剂与层压基材粘结剂；导电胶金属含量 70-80wt%。
+- **Ch47 木材工业（Dunky）— 全书最长章**：
+  - 工艺参数占粘接性能约 **50%**（"In wood adhesives the application parameters other than the characteristics of the adhesive itself account for around 50% of performance"）
+  - UF 树脂：F/U 摩尔比最关键；氨基亚甲基键水解→高湿高温下不稳定；E1 甲醛排放法规
+  - PMDI：渗透深度为 PF 的 **5-10 倍**，进入木材聚合物结构
+  - CWBL（化学弱边界层，脂肪/蜡质覆盖）与 MWBL（机械弱边界层，加工损伤）
+  - Hot melt（EVA/APAO/polyamide/TP
+   • **"工艺参数占粘接性能约 50%"**（Ch47）——卫材粘接工艺优化的理论依据：胶料选型与工艺参数同等重要，不能只换胶不换工艺。
+- **UF 化学直接适用于湿强剂研发**——UF/三聚氰胺类湿强剂的交联机理与固化动力学，Ch47 提供教科书级解释。
+- **CWBL/MWBL 弱边界层理论**——浆粕表面蜡质覆盖（CWBL）与加工损伤（MWBL）是浆粕粘接性能的核心变量，直接映射浆粕采购质量索赔技术依据。
+- **PMDI 渗透深度为 PF 的 5-10 倍**——MDI 类湿强剂在纤维渗透能力上远优于 PF，解释 MDI 湿强剂性能优势。
+- **生物胶黏剂 mesh size 与粘附强度正比**——与 SAP 凝胶网络动力学（交联度→mesh size→吸收速度/倍率 trade-off）概念完全对应。
+- **E1 甲醛排放法规逻辑**（室内暴露、婴幼儿风险偏好）——直接映射纸尿裤/婴儿湿巾的 VOC 与气味合规要求，是合规战略采购的关键输入。
+- **天然基胶黏剂（tannin/lignin/laccase）**——对应卫材"无胶复合"与"bio-based hot me
+
+--- [[Adhesive Handbook]]  (2 句)
+   • 1. **粘接机理五大类**：WLB 湿润、表面能、渗透、锚定、静电——适用于所有粘接场景。
+2. **工艺参数与胶料同等重要**（Ch47: "约50%性能取决于工艺参数"）——卫材粘接优化的双轨策略。
+3. **Hot melt 体系**（EVA/APAO/polyamide/TPU/curing hot melt）——芯体复合、SMS 复合、湿巾封口的最常用胶种。
+4. **UF/湿强剂化学**——UF 树脂 F/U 摩尔比、氨基亚甲基键水解、E1 甲醛排放——直接适用于湿强剂研发与合规。
+5. **CWBL/MWBL 弱边界层**——浆粕表面蜡质覆盖与加工损伤是粘接性能核心变量，映射浆粕采购质量索赔。
+6. **PMDI 渗透深度为 PF 的 5-10 倍**——MDI 类湿强剂性能优势的物理解释。
+7. **生物胶黏剂 mesh size 与 SAP 凝胶网络动力学对应**——交联度→mesh size→吸收速度/倍率 trade-off 的概念桥梁。
+8. **天然基胶黏剂**（tannin/lignin/laccase）——对应卫材"无胶复合"与"bio-based ho
+   • SAP（高吸水树脂）
+- 吸收芯体
+- 绒毛浆（Fluff Pulp）
+- 热熔胶 Hot Melt Adhesive
+- 湿强剂 Wet-Strength Resin
+- 粘胶纤维 Viscose Fiber
+- 甲醛排放 E1
+- 生物胶黏剂 Bioadhesive
+
+--- [[湿强剂 Wet-Strength Resin]]  (1 句)
+   • Citing sources 引用来源：Adhesive Handbook、Adhesive Handbook Part 4 Applications
+- Additional vault pages used 另有正文来源：Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：湿态强度 Wet Strength、甲醛排放 E1、生物胶黏剂 Bioadhesive、胶接理论 Adhesion Theories、热熔胶 Hot Melt Adhesive、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、吸收芯体、粘胶纤维 Viscose Fiber
+- Family pages 同族章节页：Adhesive Handbook Part 1 History and Information Resources、Adhesive Handbook Part 2 Fundamental Aspects、Adhesive Handbook Part 3 Adhesive Classes
+

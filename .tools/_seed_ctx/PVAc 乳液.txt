@@ -1,0 +1,41 @@
+# SEED: PVAc 乳液
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 1 History and Information Resources
+#
+# 全库正文命中 5 页，6 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Adhesive Handbook Part 4 Applications]]  (2 句)
+   • **Part 4 是全书唯一直接覆盖卫生用品粘接应用场景的部分**——Ch47 木材工业的 hot melt（EVA/APAO/polyamide/TPU/curing hot melt）+ PVAc 乳液是芯体复合与湿巾封口的最常用胶种；纤维素/木浆化学（CWBL/MWBL、羟基、木质素）直接映射浆粕品质评估与采购谈判；Ch48 生物胶黏剂与皮肤接触胶存在技术共通性；Ch50 汽车包装封合技术同宗。
+   • **Ch46 电子工业（Bauer & Schneider）**：PCB/SMD 胶黏剂——CTE 匹配、260°C 回流焊耐受、70-80wt% 银填料渗流、环氧+UV 丙烯酸酯为主流；FR4 环氧树脂同时充当铜箔粘合剂与层压基材粘结剂；导电胶金属含量 70-80wt%。
+- **Ch47 木材工业（Dunky）— 全书最长章**：
+  - 工艺参数占粘接性能约 **50%**（"In wood adhesives the application parameters other than the characteristics of the adhesive itself account for around 50% of performance"）
+  - UF 树脂：F/U 摩尔比最关键；氨基亚甲基键水解→高湿高温下不稳定；E1 甲醛排放法规
+  - PMDI：渗透深度为 PF 的 **5-10 倍**，进入木材聚合物结构
+  - CWBL（化学弱边界层，脂肪/蜡质覆盖）与 MWBL（机械弱边界层，加工损伤）
+  - Hot melt（EVA/APAO/polyamide/TP
+
+--- [[湿强剂 Wet-Strength Resin]]  (1 句)
+   • **湿巾湿强是直接应用。** UF Wet-Strength Resin 在材料速查表中被明确归为 **wet-wipe wet strength** 用途，基材 paper / pulp，湿强 2–5 ×（源：Handbook of Adhesive Technology Full Report）。
+- **甲醛合规是硬门槛。** E1 甲醛排放法规的逻辑（室内暴露、婴幼儿风险偏好）**直接映射纸尿裤 / 婴儿湿巾的 VOC 与气味合规要求**（源：Adhesive Handbook Part 4 Applications）—— 而 UF/三聚氰胺类湿强剂正是甲醛来源所在，故该合规链必须与湿强剂选型一起判定。
+- **浆粕采购的质量索赔技术依据。** CWBL/MWBL 弱边界层理论直接映射**浆粕表面蜡质覆盖与加工损伤**，是浆粕粘接性能评估与采购质量索赔的技术依据（源：Adhesive Handbook）。
+- **与热熔/乳液胶的并列关系。** 同一 Ch47 语境下，hot melt（EVA / APAO / polyamide / TPU / curing hot melt
+
+--- [[Adhesive Handbook Part 1 History and Information Resources]]  (1 句)
+   • **卫材胶黏剂体系的"成熟窗口"时间轴** — PVAc 1939 → VAE 1950s（>55 % 醋酸乙烯）→ 全面商用 1960s：芯体面材贴合、湿巾无纺布贴合最常用最经济的水基体系，成本优势与性能经 70+ 年验证。
+- **腰贴/封条/防漏边的 PSA 依赖** — 天然橡胶基 PSA（1845 Henry Day → 1925 3M 胶带产业）至今仍是 PSA 最大基料。采购策略：天然橡胶价随农产品周期波动，需在 3M / Bostik / Nitto 等供应源间对冲。
+- **热熔胶 = 产线速度与能耗的决定项** — 1965 Kraton 101（SBS）商业化 → 现代无纺布复合、腰围贴合、防漏边涂布的主流基础树脂。SBS/SIS 直接决定产线速度、能耗与单耗成本；1960s 后期的 CTBN 改性提示"成本不显著上升但性能跃升"的配方路径。
+- **采购谈判的核心原则** — 历史数据支持"性能相当时优先天然"：淀粉/改性淀粉用于包装纸贴合与纸芯定型仍是最优性价比。
+- **胶-密一体不应割裂议价** — 防漏边贴合 + 密封液体本质是"胶-密一体"；多层复合膜
+
+--- [[Handbook of Adhesive Technology Full Report]]  (1 句)
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+
+--- [[Seymour Polymer Chemistry Ch15 Reactions of Polymers]]  (1 句)
+   • **PVAc → PVA 水解**：*"Esters such as poly(vinyl acetate) (PVAc) may be hydrolyzed to produce alcohols such as poly(vinyl alcohol) (PVA), which should have the same DP as the ester."*
+- 乙烯醇单体本身不可分离：*"While the enol tautomer of acetaldehyde (vinyl alcohol) cannot be isolated, its water-soluble polymer can be obtained by the hydrolysis of any poly(vinyl carboxylic acid ester)."*
+- 水溶性可控：*"The solubility of the product in water is dependent on the extent of hydrolysis."* — 即 PVA 的水溶性由醇解度（水解程度）调节，这是 PV
+

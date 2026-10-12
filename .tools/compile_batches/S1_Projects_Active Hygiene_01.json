@@ -1,0 +1,20 @@
+{
+ "stage": "S1",
+ "block": "Projects/Active Hygiene",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/Active_Hygiene_Roadmap.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Active Hygiene/Active_Hygiene_Roadmap.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Active Hygiene/Active_Hygiene_Roadmap.pptx.md",
+   "name": "Active_Hygiene_Roadmap.pptx.md",
+   "title_hint": "Active_Hygiene_Roadmap.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md",
+   "name": "blizzard_activetech_explained.md.md",
+   "title_hint": "blizzard_activetech_explained.md"
+  }
+ ]
+}

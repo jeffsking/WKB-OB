@@ -1,0 +1,120 @@
+# SEED: 卫材胶黏系统 Hygiene Adhesive Systems
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 1 History and Information Resources
+#   - Adhesive Handbook Part 2 Fundamental Aspects
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#
+# 全库正文命中 301 页，515 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Adhesive Technology Full Report]]  (14 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Temperature and peel rate directly determine core retention. Formulation core is designing the $\psi(v,T)$ peak, not just interfacial thermodynamics.
+   • **Hygiene implication:** Leak-guard edges require "bonding + sealing" integration — procurement cannot separate pricing.
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (7 句)
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Hygiene implication:** Hot-air convection is the default for pulp, tissue and nonwoven through-dryers.
+   • **Hygiene implication:** Bound moisture sets the equilibrium moisture content and hence the floor of achievable dryness in cellulose fluff and SAP.
+   • **Hygiene implication:** For thin, fast sheets (tissue, nonwoven web) drying may occur almost entirely in the constant-rate period. For thick/packed hygroscopic beds (fluff in a core) the falling-rate period dominates — argue for thin layers / agitation.
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (5 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **Out of Scope 明确排除**
+|排除项 Excluded|处理方式 Handling|
+|---|---|
+|Menses / Feminine Care 经期与女性护理|待 Voyage to Venus / Sitske 战略更新就绪后从中取用|
+|**吸收芯体技术**（SAM、Fluff、Adhesives、CIRRUS）|**单独处理**，但**必须考虑它们对摄入系统战略的影响**|
+|Tactical material migration plans & glidepaths 战术性材料迁移计划|单独处理|
+|Technology comparison POVs for specific projects & regions 特定项目/区域的技术对比观点|单独处理|
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+   • Intake System（摄入系统） · Cradle Intake Test（Cradle 摄入测试）
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） · Intake Systems Development Pathway 2023（摄入系统开发通路）
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (5 句)
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **效应量排序（Effect Summary）**：**施胶花型（Nozzle – OP）影响最大，胶型影响最小**。Logworth / P 值依次为：**Nozzle – OP 14.020（p 0.00000）**、**Primary Substrate 4.376（p 0.00004）**、**Bonding 3.632（p 0.00023）**、**Add-On (gsm) 1.304（p 0.00548）**、**Adhesive Type（p 0.04965）**。
+   • **各因子细节**：
+- **施胶花型**：Minibead 最强；**Minibead 的剥离强度同时变异最大**——原文提出 CF Swirl 与 Minibead 之间的剥离强度落差**可能正是 Depend 回渗值更不稳定的原因**；另注 **Summit 喷嘴历史上粘合强度 ≥ Signature**，本次偏低疑为试验期间花型质量不达标（Tukey-Kramer 0.05 分组中 CF Swirl 52.879 / Signature 44.119 / Summit 24.097 等均值）。
+- **施胶基材（Primary Substrate）**：**胶应施加在导流层上以获得高剥离强度**——Surge 均值 **408.19**（Std Error 29.750，A 组）vs Liner **230.09**（Std Error 26.434，B 组），**未共享字母即统计显著**。注：面层作基材仅在 Minibead 喷嘴组合中出现，故右图只含 minibead 代码。
+- **压合（Bonding）**：**压合的剥离强度高于不压合**（p = 0.0002）。**
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (5 句)
+   • Chapter 1 is the foundation chapter of the book: it defines what a smart polymer **is** in thermodynamic terms, explains *why* such systems are useful (critical-point susceptibility 临界点敏感性), and establishes static + dynamic light scattering (SLS/DLS 静态与动态光散射) as the metrology that quantifies those transitions. No device or application is built here — the application domains are only enumerated up front (L98–126): bioseparation, immunoanalysis, immobilized enzymes, drug delivery/targeting, biodet
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • "Hydrogel becomes a nonergodic random medium, for which time averaging is not equivalent to the ensemble averaging" (L2613–2615). 中文：交联网络存在"冻结非均匀性"，时间平均≠系综平均。Total intensity is therefore decomposed into a frozen-inhomogeneity contribution ⟨I_S⟩_E and a dynamic fluctuation contribution ⟨I_F⟩_T (L2617); ⟨I_S⟩_E depends on sample position, cross-linking density, and preparation/observation temperature (L2637–2645). A nonergodic→ergodic switch signals network breaking or formation (L2647–2657). DLS 
+   • This chapter is pure measurement physics, but four items transfer directly to hygiene materials R&D:
+
+--- [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]  (5 句)
+   • **Dow 的已授权美国专利（US 5,266,394，1993-11-30，29 项权利要求）**，用**窄窗口的 SIS（聚苯乙烯-聚异戊二烯-聚苯乙烯）嵌段共聚物**配一套**四参数同时命中**的热熔胶体系，专用于**纸尿裤/卫生巾等多线（multi-line）结构粘接**。它是本库 styrene 系热熔胶（SIS/SBS）一侧的**基准参数页**，也是 Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链） 对比中"SIS/SBS 一侧"的直接出处。
+   • Title on the face: "DISPOSABLE ARTICLES OF MANUFACTURE CONTAINING POLYSTYRENE-POLYISOPRENE-POLYSTYRENE BLOCK COPOLYMERS" (文件名所示的 "hot melt adhesive compositions (block co…)" 为文件命名，非封面标题). The polymers carry **high average molecular weight polystyrene blocks (12,000 to 20,000)** while keeping the **overall average molecular weight low (60,000 to 110,000)**; blended with a compatible tackifier resin, preferably also a secondary tackifying resin or plasticizing oil, and a stabilizer, they form hot-
+   • **这是一份"低粘度 + 高耐热 + 长剪切保持三者同时成立"的配方专利**：常规的权衡被打破的关键在于高 PS 嵌段分子量（12k–20k）与低整体分子量（60k–110k）的组合。→ Hot-Melt Slot Coating（热熔狭缝涂布）
+- **四个参数必须同时命中，不是取平均就行**——这一条是可迁移的工程教训：买现成牌号（Kraton D1107 等）而不控窗口，测得 SAFT 47 ℃、保持 80 min。→ Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- **面向的应用正是本库的 multi-line 结构粘接**：PE/PP 膜与无纺布/绒毛浆粘合，且**施胶温度必须低到不使聚烯烃基材变形**。→ Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **真假 SBS/SIS 之争在 1993 年就被量化过**：本案主张 SIS 优于当时标杆 SBS（Stereon 840 A），与更早 US 4,526,577 的结论相反。→ Polyolefin HM vs SIS-SBS H
+   • Concept 概念：Hot-Melt Slot Coating（热熔狭缝涂布）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- Comparison 对比：Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）
+- Entity 实体：Dow Chemical Company
+
+--- [[Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）]]  (4 句)
+   • **耐久数据缺口**：反复吸湿-干燥循环、动态压力、不同温度下的界面长期耐久数据不足。
+- **标准缺口**：SAP-胶复合体系的界面相容性、防霉性能**尚无统一高效的标准化测试方法**。
+- **性能极限**：追求超低添加量（<0.1 g/m²）时，"粘接强度 / 耐水性 / 不影响 SAP 吸液速率"存在材料学上的固有矛盾（见 Ultra-Low Add-On Adhesive Application（超低添加量施胶））。
+   • 上位 Upstream：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、SAP性能指标（CRC AUL GBP Vortex）
+- 平行 Parallel：Ultra-Low Add-On Adhesive Application（超低添加量施胶）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- 材料交叉 Material crossover：纳米纤维素（CNC、CNF、BNC）（增强增强相与联合研发方向）、Biodegradable SAP（可降解高吸水树脂）
+- 工程侧 Engineering：REL增强层（REL/SAP 层同属芯体定位，见 R10「结构胶固定过度限制 SAP 自由膨胀」）
+   • ✅ **验证记录（2026-09-29）**：8/9 月排程与 DNC 分工为会议已决事项；「亲水胶是否带来 benefit」**尚无结论**，须待 9 月实验与 DNC 产线验证。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）。
+   • Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶） ——
+
+--- [[Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）]]  (4 句)
+   • 同界面另一机制：Liner-Surge Embossing（面层-导流层压花）（压花提供连接，无胶；本页为其施胶版）
+- 胶与设备族：Ultra-Low Add-On Adhesive Application（超低添加量施胶）（芯体侧的极低添加量路线，与本页 1.7–3.9 gsm 属不同量级）、Olefin-Based vs EVA Construction Hot Melt（烯烃基 vs EVA 结构胶）、Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- 基材：Resilient Surge（PET 回弹导流层）（CT5 = 100% PET；PET 不易粘结正是本页施胶的动因之一）
+- 判读前提：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（毛细测试是本页三种验证手段之一）
+   • **教训**：**别把"更多胶 = 更好"当默认**。源资料自己在假设里写了"more adhesive may also block drainage"——覆盖率与添加量都要找**最优区间**而非单调加大。
+- **教训**：**压合的正负效应必须分开测**。压合同时带来"连接↑"与"空隙↓"，两者对回渗方向相反；只测回渗会把净效应误当成单向结论，必须配合 **MicroCT 看空隙、Peel 看连接**。
+- **教训**：**换胶或换喷嘴必须重算工艺设定**。密度差 10% → 泵速差约 9%；喷嘴孔数/孔径差 → 出口速度差可达 30 倍。**设错这两项，试验结论就是错的**。
+- **教训**：**运行顺序要先"大变量"后"小变量"**（胶种 → 花型 → 压合 → 最后添加量），因为换胶需要冲洗施胶机（源计划中单独排了 8 h），把小变量放前面会造成重复冲洗。
+- **待补 **：本试验的实测结果（Peel / Capillarity / MicroCT / 回渗）；覆盖率与添加量的最优区间；表面能影响回渗的机理。
+   • HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划） ——
+   • **层间空隙是独立变量**：AD 的 **attachment strength 粘合强度高于 Depend** → **层间空隙（interstitial space）更少**；假设这**同时改善面层的排液（draining of the liner）**。即：粘合不只是力学/手感变量，**也是回渗变量**。
+- **目标函数由此变为双目标**：粘合强度↑ 有利于排液与结构完整，但**过度粘合/熔掉空隙**会恶化摄入与铺展（见本页上方关于空隙体积的约束）。**「粘得更紧」与「留得住空隙」需成对验收**。
+- **LSE 的两面性（重要修正性认识）**：当前用 **LSE** 形成该结构，但 **LSE 会制造 small pockets 小液袋，对回渗不利**；整体判断仍是 **net positive 净效应为正**，但问题被明确抛出：**can we find a better way 能否找到更好的方式？** —— LSE 不应被视为终态方案。
+- **验证路径**：DOE #1（**adhesive pattern 施胶图案 / bonding 粘合方式 / adhesive
+
+--- [[Shalag（Shalag 导流层与面层材料）]]  (4 句)
+   • **2025（回渗攻关期）**：在 Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档） 的回弹导流层成本对照中，Shalag 与 GNW 并列为 MOJAVE / CT5 的两个报价来源；**同一牌号 CT5 在 Shalag 的报价低于 MOJAVE**（详见商务要点）。
+- **2025-10**：在 HSBL 面层—导流层界面试产中，**74 mm CT5 导流层**作为主基材贯穿 23 个码（与 12 gsm SB 面层复合），见 HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）、HSBL Peel Test Results（面层-导流层剥离强度实测）。
+- **2026-03-16**：在 War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03） 中，Shalag 被指定为**导流层孔径分布改版的开发方**——现有 **CT8 / CT9 会"降低众数孔径"（可能影响摄入）**，因此**正在生产孔径更大
+   • **记录日期 2026-09-29**：在回弹导流层的成本对照中，**Shalag 对 CT5 的报价低于 MOJAVE**（内部报价口径）；**同为 MOJAVE 时，另一供应商的报价高于 Shalag 约 25%**——即 Shalag 在该品类属**价格低位**的一方。绝对值不落库，见 Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）。
+- **记录日期 2026-09-29**：**CT5 的供应与改版能力集中在单一海外供应商**，而 K-C 侧的明确方向是"**在美国本土/已知供应商寻源**"——这构成一条**供应集中度风险**：孔径分布改版若只由 Shalag 承接，量产切换会受单一来源约束。
+   • Residual Fluid & Pore Stranding（残液与孔隙滞留）（本页 CT8/CT9 的孔径改版即该概念的落地动作）
+- Resilient Surge（PET 回弹导流层）（CT5 = 100% PET 回弹导流层）
+- Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+   • War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03） —— 
+- Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档） —— 
+- HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划） ——
+
+--- [[EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik)]]  (4 句)
+   • Granted European patent (Ato Findley / Bostik) on an **oil-resistant, polybutylene-based hot melt adhesive** — a specialty durability variant in Bostik's disposable hot-melt portfolio (this batch's third Bostik hot-melt patent).
+   • The patent (title: "OIL RESISTANT POLYBUTYLENE-BASED HOT MELT ADHESIVE") grants an oil-resistant hot melt adhesive based on polybutylene, for disposable articles. The bibliographic header lists proprietor Ato Findley Inc (Wauwatosa, WI, US) — a Bostik predecessor entity — and multiple inventors including Strelow, Oteman, Gibes, Simons, Alper, Harris, Kanderski. It is the European phase of PCT/US2000/001416 (WO 2000/044412), priority US 238119 (1999-01-27). Detailed claim language is in the full 
+   • Oil-resistant polybutylene hot melt (Bostik line) — supporting page: Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+   • 概念 Concept：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、APAO（非晶态聚α-烯烃）
+- 实体 Entity：Bostik
+

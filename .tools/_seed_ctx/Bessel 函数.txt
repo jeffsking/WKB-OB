@@ -1,0 +1,57 @@
+# SEED: Bessel 函数
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Diffusion in a Cylinder (Crank Ch.5)
+#   - Infinite and Semi-Infinite Media (Crank Ch.3)
+#
+# 全库正文命中 4 页，8 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Diffusion in a Cylinder (Crank Ch.5)]]  (3 句)
+   • **柱坐标扩散——纤维/圆柱颗粒的核心几何模型**——稳态对数分布 ln(r) 解释纤维端部与中心水含量差异；Bessel 函数 J₀ 级数是单纤维吸液动力学的解析工具；最优壁厚条件 b=1/h 指导纺粘纤维直径设计。
+   • **纤维径向水含量呈 ln(r) 分布**——解释纤维端部与中心的水含量差异。
+- **最优壁厚 b=1/h 指导纤维设计**——纺粘纤维直径设计可最大化芯体导流效率。
+- **Bessel 级数是单纤维吸液动力学的解析工具**——直接用于建模"单纤维吸液动力学"。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Nonwoven 非织造布
+- Bessel 函数
+- 纤维扩散 Fiber Diffusion
+
+--- [[格林函数 Green's Function]]  (2 句)
+   • **三类解析方法**：① 反射与叠加法 —— 利用线性方程叠加性构造边界解；② 分离变量法 —— ，得到 Bessel/三角本征值问题；③ **Laplace 变换法** —— 最强工具，p 域求像函数 → 逆变换给出时间域解（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **源函数族（点 / 面 / 球 / 柱）**：瞬时点源（n 维推广 ）、瞬时面源（一维基本解）、瞬时球源（三维有限初始分布）、瞬时柱源（二维有限初始分布）（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **反射法直接编码边界条件**：不透水膜（PP 底膜）对应 ；透湿膜（顶表层）对应 （源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **推导逻辑链**：恒 D PDE → 试探解 → 质量守恒定 A → 反射+叠加 → 扩展初值 → 分离变量 → Laplac
+   • Citing sources 引用来源：Infinite and Semi-Infinite Media (Crank Ch.3)、Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、Laplace 变换、Bessel 函数、时间滞后法 Time Lag Method、湿迁移 Wet Migration
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[Infinite and Semi-Infinite Media (Crank Ch.3)]]  (2 句)
+   • **四类源函数族**：
+  - 瞬时点源——n 维推广 C = A t^(-n/2) exp(-r²/4Dt)
+  - 瞬时面源——一维基本解
+  - 瞬时球源——三维有限初始分布
+  - 瞬时柱源——二维有限初始分布
+- **球源轴心解**：C = C₀{1-exp(-a²/4Dt)}——单个 SAP 微球球心浓度指数演化。
+- **圆盘源**：Q(t) = 2πa²C₀ ∫₀^∞ [J₁(ωa)]² exp(-Dτω²)dω——湿巾湿斑扩散模型。
+- **半无限域**：芯体厚度远大于扩散长度时的有效近似。
+- **Bessel 函数**：I₀, J₀, J₁ 是柱/球坐标下的标准工具。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 格林函数 Green's Function
+- Bessel 函数
+- 湿迁移 Wet Migration
+
+--- [[Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)]]  (1 句)
+   • **三类解析方法**：
+  1. 反射与叠加法——利用线性方程叠加性构造边界解
+  2. 分离变量法——C = u(x) exp(-Dα²t)，得到 Bessel/三角本征值问题
+  3. Laplace 变换法——最强工具，p 域求像函数→逆变换给出时间域解
+- **两类标准解**：
+  - 误差函数类：小时间数值评估方便
+  - 三角函数级数：大时间收敛性最好
+- **平面源格林函数**：C = (M/2(πDt)^½) exp(-x²/4Dt)——基本"砖块"。
+- **反射法**：不透水边界 dC/dx=0（PP 底膜）；透湿边界 dC/dx+hc=0（顶表层）。
+- **推导逻辑链**：恒 D PDE→试探解→质量守恒定 A→反射+叠加→扩展初值→分离变量→Laplace 变换。
+

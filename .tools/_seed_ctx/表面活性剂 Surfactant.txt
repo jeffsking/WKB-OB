@@ -1,0 +1,114 @@
+# SEED: 表面活性剂 Surfactant
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 43 页，66 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts]]  (4 句)
+   • 本章聚焦**温敏水溶性聚合物**，核心方法学是**大分子单体技术（macromonomer technique）大分子单体**：用可聚合的非离子表面活性剂（反应型表面活性剂 surfmer）替代传统表面活性剂，把 PEO–烷基两亲链**共价锚定**到颗粒表面，从而得到在高离子强度、高温下仍不凝聚的温敏 PVCL 微凝胶与接枝共聚物。
+   • LCST 触发阈值 ≈32 °C（生理温度）；完全塌缩 > 45 °C（lines 78–79, 894–895）。
+- 体积变化幅度：LCST 以上 Rh ≈ 原值 1/2（≈1/8 体积）（lines 576–578）。
+- 表面活性剂投料窗口：胶束化起始 ≈0.5 mmol/l，平台 ≈3 mmol/l，ITC 转折 0.95 mM（lines 321, 323–326, 344–348）。
+- 接枝负载区间：大分子单体 0–34 wt%，控制缔合模式与介观球尺寸（lines 706–707）。
+- 分子量目标：溶液路线 Mw ≈ 300,000 g/mol；微乳液路线 > 1,000,000 g/mol（lines 707–709）。
+- DSC 质控热签名：ΔH = 4.4 ± 0.4 kJ·mol⁻¹，ΔCp = −70 ± 20 J·mol⁻¹K⁻¹（lines 819–839）。
+- 介观球尺寸：ρ = Mwagg / (N_A · (4/3)πR_h³)；PVCL-g-18 ρ = 0.40 g/cm³，聚集数 ~1600（lines 907–916）。
+- 酚固定：
+   • lines 78–79 — "Phase separation of PNIPAM and PVCL takes place at approximately 32°C, close to physiological temperature."
+- lines 116–119 — "The balance between the hydrophilic and hydrophobic groups along the polymer chain determines the lower critical solution temperature (LCST)..."
+- lines 205–207 — "Conventional surfactants are held on the particle surface by physical forces; thus, adsorption/desorption equilibrium always exists..."
+- lines 576–578 — "...the hydrodynamic radius decreased to
+   • 1. **温敏 SAP 复合**：PVCL/PNIPAM 微凝胶在 ~32 °C 触发、>45 °C 完全塌缩、Rh 减半（体积 ≈1/8），可与常规聚丙烯酸酯 SAP 复配，在皮肤/环境温度越过阈值时收紧孔结构，用于回渗（rewet）与泄漏控制——但需注意 poly(N-烷基丙烯酰胺) 水解会释放低分子胺，PVCL 路线在皮肤接触安全性上更优（lines 58–62）。
+2. **抗迁移乳胶粘合剂**：反应型表面活性剂共价键合、不脱附不迁移（lines 204–210），可替代非织造面层/导流层用传统表面活性剂稳定乳胶，避免亲水整理剂 blooming 迁移到贴肤面。
+3. **耐盐稳定性**：45 °C + 高电解质下位阻稳定体系浊度几乎不变（lines 675–680），直接对应尿液/高电解质体液场景下的分散体稳定需求。
+4. **可逆热固粘合**：PVCL–酚（邻苯二酚/间苯三酚）氢键网络在 ~50 °C 设定、体温下保持（lines 934–957），可作为纸尿裤前腰贴/护翼胶的可逆热熔替代路线，开放时间可调。
+5. **热致变色/时间-温度指示（TTI）**：LCST 以上
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[接触角 Contact Angle]]  (3 句)
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[等离子处理 Plasma Treatment]]  (3 句)
+   • **Dry vs wet route.** Plasma is presented as the alternative to the wet-chemical finishes catalogued in the same source (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV finishes)（源：Nonwoven fabric finishing）。The adjacent spin-finish source adds the durability context that motivates a dry route: surfactant-type finishes are subject to **thermal migration** — the surfactant migrates to and enriches on the fibre surface on heating, so hydrophilicity decays over time（源：Man
+   • 中文：机理为「PP 低表面能 → 难润湿/难粘合 → 电晕/等离子改善润湿」；唯一实证是 O₂ 等离子处理 PP 血液滤材使通量大幅提高。等离子被定位为湿法化学整理（抗静电/抗菌/润滑/阻燃/防水/柔软/抗UV）之外的**干法**替代；相邻的纺丝油剂来源给出动机——表面活性剂型整理剂受热会向纤维表面迁移富集，使亲水性随时间衰减。
+   • **Unresolved number conflict.** PP surface energy is quoted as **~23 mN/m**（源：Chemical bonding）and as **~29–31 mN/m**（源：Manufactured Fibre Technology Ch07 Spin Finishes）。The vault does not reconcile the two; treat any single figure as source-specific 。
+- No **aging / shelf-life / wash-durability** data for plasma-treated PP itself (the migration issue above belongs to surfactant finishes, not to plasma) 。
+- The only quantitative performance claim is qualitative ("much higher flow"); no flow-gain
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (3 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (3 句)
+   • This is a **theory chapter** (理论展望章), deliberately analytical rather than experimental. It models what happens when the smart polymers of Chapter 1 are confined by **one-end grafting** to an impermeable surface, and identifies which molecular knobs (N, s, α, χ(T), salt, solvent composition, surfactant) set the thickness and responsiveness of the resulting layer. Chapter authors state the scope plainly: external physical fields (temperature, electrical voltage, light) or chemical fields (pH, sali
+   • **8. Surfactant complexation has a threshold.** "Surfactants bind to polymer chains cooperatively, i.e., in the form of micellelike nanoaggregates" (L904–905), starting above the critical association concentration, with **CAC < CMC** (L906–909). The annealed excluded volume obeys v_θ = v₀(1−θ²) + v₁θ² + 2v₀₁θ(1−θ) (Eq 2.21, L981).
+   • 1. **SAP as a salted polyelectrolyte brush.** The (Σ c_bj)^{−1/3} scaling (Eq 2.30) and v_eff = α²/(2Σ c_bj) (Eq 2.31) give a quantitative correction for absorbency loss in high-salinity urine — a physically grounded complement to standard saline-swell specs. Tuning charge density α and effective N between crosslinks moves free-swell capacity along a known scaling law. 中文：把溶胀SAP当作盐态聚电解质刷建模，电荷密度α与交联点间链长是直接旋钮。
+2. **Thermoresponsive gating.** PNIPAAm with LCST ≈ 28 °C sits below skin temperature 37
+
+--- [[BSL Tier Differentiation（面层分档与产品档位差异化）]]  (2 句)
+   • 3. **档位可迁移**：*"consider top tier without antes as mid-tier, which is common outside of KCNA"* —— **去掉加码的顶档**可下放为中档，是档位迁移的常规手法。
+4. **收益是叠加的，且叠加会撞上能力天花板**：印刷 + 表面活性剂（含分区）+ 添加剂 + 柔软**同时做**，被判为 *"going beyond current Fibertext & GNW capabilities"*。
+5. **柔软化的三个对抗面**：供应商能力、工序能力（**尤其粘合与分切**）、成本 —— 并且 ⚠️ *"**And still want rewet!**"*（还想要回渗）。
+6. **消费者读到的不是设计意图**：*"consumers picked up on **softness & dryness** of better stain masking liners, **not directly the stain masking benefit**"*（感知到的是柔软与干爽，而非遮蔽功能本身
+   • 1. **面层升格为档位工具** —— 判断"值不值这个价"的往往是**柔软与视觉线索**，不是吸收参数。
+2. **"加码（antes）"可下放** —— 顶档去掉加码即成中档，是档位迁移的常规路径。
+3. **收益叠加会撞供应商天花板** —— 印刷 + 分区表面活性剂 + 添加剂 + 柔软**同时做**已超出当时供应商能力。
+4. ⚠️ **柔软与回渗/成本/工序三面冲突** —— 柔软化必须同时回答回渗、粘合分切与成本。
+5. **消费者读的是"软 + 干"，不是设计意图** —— 遮蔽性能被感知为**柔软与干爽**。
+6. **改动要够大** —— 小幅面层改动**不足以影响消费者体验**。
+7. **印刷是隐性变量** —— 速度影响 dpi 与质量；蜡基印刷耐摩擦优于水基；图稿设计需按速度限制重新培训。
+8. ⚠️ **表面活性剂堆积** —— Stantex H215 / S6327 相关堆积风险被作为"watch-out"登记。
+9. **最难场景要单独定义** —— Goodnites 被判为*"the most challenging fluid handling
+
+--- [[Topsheet（面层）]]  (2 句)
+   • 1. **功能定位**：液体通过的**第一道界面**，决定穿透速度（吸收时间）与表面残留（液体残留量）→ 直接决定干爽感；同时承担手感与外观。
+2. **四类材质**：天然纤维（棉/粘胶类）、化学纤维（PP/PET 纺粘、热风）、混合纤维、**打孔膜**（PE 打孔膜，常用于卫生巾干爽面层）。打孔膜在**抗张力**与**液体残留量**上标准与其他三类不同（更宽松的强力、更严的残留）。
+3. **两条面层专属红线**（本库其他卫材标准未见）：
+   - **不应使用回收原材料**（GB/T 30133 §5.1）
+   - **不应使用含 PFOS（全氟辛烷磺酰基化合物）和 PFOA（全氟辛酸）的表面活性剂**（同条款；另禁石棉纤维）
+4. **按用途分档**：pH 与甲醛按**是否婴儿用**分档 —— 婴儿纸尿裤用面层 pH 4.0~7.5、甲醛 ≤6 mg/kg；其余用途 pH 4.0~8.0、甲醛 ≤75 mg/kg。
+   • 1. **面层采购必须按最终用途下规格**：婴儿用与非婴儿用的甲醛差 12.5 倍（≤6 vs ≤75 mg/kg），同一供应商的同一牌号也可能因用途不同而不合规。
+2. **吸收时间与液体残留量只在卫生巾/卫生裤面层考核**，纸尿裤面层不受此两项约束 —— 做纸尿裤项目时不要误加这两条。
+3. **PFOS/PFOA 是面层供应商问卷里必须单列的一条**（表面活性剂/整理剂来源），常规「禁用物质清单」常常漏掉它。
+4. **打孔膜的盲孔数与孔径是外观判定的量化项**（2 m 内 ≤6 个、不应有 ≥1 mm²），容易在来料检验中被忽略。
+
+--- [[亲水-疏水梯度设计]]  (2 句)
+   • 载体材料：热风粘合无纺布
+- 相关实体：（待补——表面活性剂/助剂供应商）
+   • **风险提示（来源）**：疏水/亲水梯度整理涉及表面活性剂与硅系拒水剂，与纺粘法属**同类风险类别**；需评估助剂在高蓬松结构中的渗透均匀性与总残留量。
+- **待补**：本概念与 REL 芯体项目的 void volume / 0.5 kPa 力学指标之间的关联尚无来源支撑 。
+
+--- [[Fibertex（Fibertex 非织造布供应商）]]  (2 句)
+   • **2025-08-28（GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28））**：LUGH 项目中以 **12 gsm SB** 面层参与回渗对比，三轮测试均**低于对照**，但幅度波动（0.44→0.35 / 0.36→0.33 / 0.28→0.25）。
+- **2025-08-28（同上）**：**14 gsm SB** 版本更柔软但回渗更高（因克重更高）；更换**表面活性剂/柔软体系**后回渗由 0.41 降至 0.28 g，与对照持平。
+- **2025-08-28（同上）**：LUGH 的 ACLT 决定推荐 **12 gsm 带印花**方案继续推进，目标 2026 年 1 月上市。
+- **2025-08-28（同上）**：GRIFFIN 侧计划**订购未处理的 12 gsm Fibertex** 用于后续测试——即同一供应商材料同时在 LUGH 与 GRIFFIN 两条管线评估。
+   • **记录日期 2026-09-29**：本页来源**未记载任何报价、合同条款或供货条件**；本页不含商务数据。
+- **记录日期 2026-09-29**：技术要点为**克重（12 vs 14 gsm）与表面活性剂/柔软体系**两个变量共同决定回渗与柔软度，评估时应把二者作为独立变量分别指定。
+

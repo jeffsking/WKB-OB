@@ -1,0 +1,62 @@
+{
+  "batch": "S2_Areas_IP_04",
+  "stage": "S2",
+  "block": "Areas/IP",
+  "source_pages": [
+    "WIKI/sources/US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand).md",
+    "WIKI/sources/Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021).md",
+    "WIKI/sources/CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）.md",
+    "WIKI/sources/WO 2009-071584 A1（Grindeks 咪唑类制备工艺·文件名标注有误）.md",
+    "WIKI/sources/KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）.md",
+    "WIKI/sources/EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm).md",
+    "WIKI/sources/US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui).md",
+    "WIKI/sources/CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）.md"
+  ],
+  "concept_pages": [
+    "WIKI/concepts/Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）.md",
+    "WIKI/concepts/Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）.md",
+    "WIKI/concepts/Front Belt Force Window（前腰带弹性力窗口）.md"
+  ],
+  "entity_pages": [
+    "WIKI/entities/露乐健康科技股份有限公司.md",
+    "WIKI/entities/아시아나노텍 주식회사（Asiananotech）.md"
+  ],
+  "comparison_pages": [
+    "WIKI/comparisons/Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）.md"
+  ],
+  "updated_existing": [
+    "WIKI/concepts/Sensor-Equipped Absorbent Article（含传感器吸收性物品）.md —— 追加 2 条 Evidence Update（US20220125319A1 的「印刷油墨 + 光电读取」路径；US20250064649A1 的「可复用监控器夹 + 一次性导电层」路径）",
+    "WIKI/concepts/Wetness Indicator Ladder（尿湿指示阶梯）.md —— 追加 CN 116327488 B 的「三条判据任二成立」饱和度判据",
+    "WIKI/sources/WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA).md —— 合并 CN102245218B（第 5 个同族成员，CN 29 项权利要求，含权 29 凝胶强度用途项）",
+    "WIKI/entities/Unicharm Corporation（尤妮佳）.md —— 追加 EP 0 776 645 A1 记录与关联概念",
+    "WIKI/entities/The Procter & Gamble Company（宝洁）.md —— 追加 CN 118369075 A 记录与派生概念",
+    "WIKI/comparisons/Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）.md —— 新建后追加 Evidence Update（KR 10-2205294 的 EPA 茶袋法数据，独立成表、不与主表合并）"
+  ],
+  "manual_review": [
+    "WIKI/sources/US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand).md",
+    "WIKI/sources/Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021).md",
+    "WIKI/sources/CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）.md",
+    "WIKI/sources/WO 2009-071584 A1（Grindeks 咪唑类制备工艺·文件名标注有误）.md",
+    "WIKI/sources/KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）.md",
+    "WIKI/sources/EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm).md",
+    "WIKI/sources/US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui).md",
+    "WIKI/sources/CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）.md",
+    "WIKI/concepts/Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）.md",
+    "WIKI/concepts/Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）.md",
+    "WIKI/concepts/Front Belt Force Window（前腰带弹性力窗口）.md",
+    "WIKI/entities/露乐健康科技股份有限公司.md",
+    "WIKI/entities/아시아나노텍 주식회사（Asiananotech）.md",
+    "WIKI/comparisons/Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）.md"
+  ],
+  "notes": [
+    "处理口径：本批 10 项全部为新增（批前 WIKI/sources 无对应页），无一项触发「跳过重编译」。",
+    "专利族合并 2 处：①CN116327488B.pdf.md 与 五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md 经核对为同一件中国专利的两个扫描/OCR 副本（授权公告号、申请号、申请日、专利权人、发明人、审查员、IPC、页数规模逐字一致），合并入同一 source 页并用 source_paths 列出双路径；②CN102245218B 并入既有 SCA 专利族页（该族第 5 个成员），不另建页。",
+    "⚠️ 文件名与内容不符 1 处（已建页留痕，未改名/未移动任何文件）：WO2010071584A1_SCA_CNF-SAP.pdf.md 的正文实为 WO 2009/071584 A1（PCT/EP2008/066709，Grindeks，拉脱维亚，咪唑类制备工艺），与文件名标注的 SCA CNF-SAP 无关。已建页「WO 2009-071584 A1（Grindeks 咪唑类制备工艺·文件名标注有误）」，credibility 定为「中」，knowledge_update_status 定为 manual_review，并在页内交叉指向真正的 SCA 族页。",
+    "⚠️ 跨方法口径警告已写入 3 处：①KR 10-2205294 的 41.5 g/g（对照 SAP）为 EPA 改良茶袋法（0.9 % NaCl、37 ℃、浸渍 30–60 min），不等于 EDANA CRC；②Q-TCNC 论文的去离子水/盐水/合成尿三套介质不可同行比较；③CN 118369075 A 的 0.03–0.32 N 前腰带力窗口必须连带其 EGEL 测量方法引用，且与本库 Product Waist Break Test（拉断强度）不是同一指标。",
+    "数据判读修正 1 处：CN 118369075 A 表 2 中「0.10 N 样品 100 % 正好」不能推出「有前腰带优于无前腰带」——对照组 #5（无前腰带）正好率 91.7 %，高于 #1（64.3 %）与 #2（83.3 %）、等于 #3；且 N=12 时一人即 8.3 个百分点。已在 source 页与 concept 页同时写明。",
+    "个人申请人不单建实体页：本批 US20220125319A1（Farnaz Zand）与 US20250064649A1（Wu Guohui）均为个人申请人，仅在 source 页逐字记录姓名与地址，不建 entity 页（两件处理一致）。",
+    "原文 OCR 缺陷已在各页 Note 中逐条记录：KR 10-2205294（crosslingking/crossingk 应为 crosslinking；도면 5–8 取整数与表 7–10 有 ±0.3 出入，以正文表为准）；EP 0 776 645（bo-easily / is-preferably / diaper-according 断字）；US 20250064649（权 4 引权 4、权 7 引权 7 的自我引用；[0044] 提及 blood sugar readings 但全文无血糖传感器；权 8 用 conductive spring needle 而其余处用 conductive pogo pin）——均为客观记录，不作法律效力推断。",
+    "新建 14 个页面全部带 > 🔴 manual_review（2026-09-29） 块；所有专利法律状态均标注记录日期 2026-09-29，未记载项一律标 [待验证]；AI 未对任何一件作出 FTO/侵权/期限届满结论。",
+    "本批未修改 index.md / log.md；未移动、重命名、复制或删除任何文件或目录；RAW/ 与 RAW_FULL/ 只读；全部写操作经 Write 工具完成，未使用 PowerShell 写文件；未新建 WIKI 三子目录与回执目录之外的目录。"
+  ]
+}

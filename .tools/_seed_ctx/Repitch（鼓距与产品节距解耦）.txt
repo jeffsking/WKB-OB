@@ -1,0 +1,90 @@
+# SEED: Repitch（鼓距与产品节距解耦）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 10 页，28 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[82 鼓距与产品节距解耦 repitch 选型]]  (7 句)
+   • **Repitch（鼓距与产品节距解耦）** 指在成型鼓与后道之间，把成型鼓上的节距过渡到后道所需产品节距的单元 —— 中文口径「成型鼓上的节距与后道要的节距不一样，中间靠什么单元过渡」（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））。
+   • **鼓距 Drum pitch P = πD/n**：成型线由鼓径 D 与 ups n 决定的离散量。
+- **产品节距 Chassis pitch C**：后道（复合 / 折叠 / 切断 / 包装）要求的产品中心距，由 11 个产品规格各自决定。
+- **两者没有理由相等**：若强制 P = C，则 πD/n = C 会对 11 个规格给出 11 个不同的 D，与「单一鼓体」前提直接矛盾 → **repitch 单元是「一鼓多规格」的必要条件**。
+  （源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））
+   • 两条路线对比（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））：
+   • **源文件判据（P6 标题）**：*"A servo repitch turret, not cut-and-slip — because NB needs the core slowed down"*（NB 需要芯体**降速**，cut-and-slip 只能加速，故必须用伺服转塔）。
+- **转塔只认「取片线速 + 目标节距」，不感知 ups**（ups 影响的是取片线速）（源：同上）。
+- 本单元补的是 **Gap G16（鼓距—产品节距解耦单元完全缺失，零覆盖，严重程度高，P0 批次）**，副交付 **G15（chip trim 与「芯长 > 产品节距」处置规则）**（源：同上）。
+
+--- [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]  (7 句)
+   • 80 号总纲「正文方法」的**第 82 号：鼓距与产品节距的解耦（repitch）选型**（中文：成型鼓上的节距与后道要的节距不一样，中间靠什么单元过渡）。补的是 **Gap G16（鼓距—产品节距解耦单元完全缺失，零覆盖，严重程度高，P0 批次）**，副交付 **G15（chip trim 与「芯长 > 产品节距」处置规则）**。
+   • 问题陈述：**鼓距 P = πD/n** 是成型线由鼓径与 ups 决定的离散量；**产品节距 C（chassis pitch）** 是后道（复合/折叠/切断/包装）要求的产品中心距，由 11 个产品规格各自决定。**两者没有理由相等**。若强制 P = C，则 πD/n = C 会对 11 个规格给出 11 个不同的 D，与「单一鼓体」前提直接矛盾 → **repitch 单元是"一鼓多规格"的必要条件**。
+   • 两条路线对比：**cut-and-slip**（切断后由加速带/夹辊加速单片芯体送到下道）只能**加速**、可行窗口约 **1.03 ≤ ratio ≤ 1.30**、通用凸轮；**伺服 repitch 转塔**（转塔上独立 puck 沿各自凸轮轨迹取片再放到目标节距）**双向**、范围 **0.85–1.40**、每规格一份凸轮。源文件判据（P6 标题）：「**A servo repitch turret, not cut-and-slip — because NB needs the core slowed down**」。
+   • 转塔规格：类型伺服 repitch 转塔；节距比 **0.85–1.40**；取片线速 **396 或 462 m/min**（= 鼓面线速，见 81 式 3）；放片节距 = chassis pitch（按规格）；换规格靠每规格一份凸轮（recipe + 换件）；位置在**双鼓压合点之下**（切断、修边、repitch 依次在压合后）；**转塔只认"取片线速 + 目标节距"，不感知 ups**（ups 影响的是取片线速）。
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (3 句)
+   • **Consequence for :** because  is a line-level parameter shared by both forming drums, changing it is asserted to touch only the Recipe column plus a sleeve change（源：Repitch（鼓距与产品节距解耦））; this is the mechanism that keeps gear-pitch changeover cheap under this architecture.
+   • The architecture governs **changeover design for the patterned SAP core forming line** — it is the change-control framework behind drum-pitch selection（81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配））, drum-to-chassis pitch decoupling（82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））and sleeve changeover（84 Sleeve 工程规格与换装防错设计）. Its stated value to the REL absorbent core is **lower marginal cost when extending the width family**, and a design rule that keeps size-dependent quanti
+   • 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+- 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- 82 鼓距与产品节距解耦 repitch 选型
+- 84 Sleeve 工程规格与换装防错设计
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 03_卫材产线约束常量表（准入校验工具）
+- Repitch（鼓距与产品节距解耦）
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+
+--- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]  (3 句)
+   • **四层清单**：
+- **Layer 1 · Body（永不动）**：节圆直径 Ø882.0 mm @ NW 中面（周长 2,771 mm）、鼓壳（估算 270 kg，J ≈ 52 kg·m²）、轴承、真空扇区（**固定角度，与 ups 无关**，P8："No sector change at grade change"）、力矩电机（≥250 Nm 连续 / ≥600 Nm 峰值）+ ≥23 bit 绝对值编码器、压合间隙 **land-to-land 0.15–0.18 mm**、轴向对中（100/110/120 共用同一轴向设定）、镜像手（skin/poly 同本体镜像）、风机/管路/胶模块。
+- **Layer 2 · Sleeve（必换）**：**22 片 = 11 尺寸 × 2 侧**；pocket-and-land 浮雕、land 高 0.45 mm；**端区也是 land**（保证芯间无 SAP）；屏 Ø0.6–0.8 mm、30–40% 开孔、各 sleeve 一致；pattern 公差 **±0.02 mm over 2,771 mm**（等节距 = 同一相位适配全
+   • **「定相位 vs 定尺寸」的正交切分是全部换型设计的根** —— 支撑页：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- **CD 走 chute 插片是本架构最重要的成本设计：宽度族扩展的边际成本降到只剩一片插片** —— 支撑页：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- **Q4 的"不能"分支是架构缺陷检测器** —— 任何"随尺寸变、又必须换实体件、且换起来很贵"的量，都是设计没做干净
+- **ups 是整线级参数（双鼓必须同 ups），不是单鼓参数** —— 支撑页：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- **换 ups 时真正需要改的只有 Recipe 一列（+ 换 sleeve）** —— 支撑页：Repitch（鼓距与产品节距解耦）
+   • 概念：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Repitch（鼓距与产品节距解耦）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- 源：81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）、84 Sleeve 工程规格与换装防错设计、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）、03_卫材产线约束常量表（准入校验工具）
+- 实体：Nichidai（日丝）
+
+--- [[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]  (2 句)
+   • 是本地唯一覆盖成型设备的文档，内容为 **2021 年 KC 培训**的**绒毛浆 + SAP 传统成型**（纤维化 / 成形室 / 成形鼓与筛网 / Scarfing / 芯体转移 / 折叠 / Debuking / QC）。
+- 它**完全没有**：pattern-SAP 分部成型、一鼓多 ups、sleeve 架构、双层套准、伺服相位架构、扇区停留时间、风机 duty point、repitch 解耦。
+- ⚠️ **结构性缺口**：*"COCO-v6 的芯体架构已经改为「**全 SAP + REL**」（绒毛浆移除）…但支撑该架构量产化的机器工程方法在本地知识层为零"* —— 这是 **2026-09-22 COCO-v6 gap 比对中 7 个高优先级 gap 全部落在同一区块（转换机械工程）**的根源。
+- **边界**：本层只覆盖 **pattern-SAP 分部成型线**（鼓 / sleeve / SAP 落料 / 套准 / repitch / 换型 / 风机 / 伺服）；吸收性能、材料化学、成品测试不在本层。
+   • 1. ⚠️ **Cpk 口径冲突**：本件 **MD 2.43 / 2.49、CD 1.39** 与 85 双层pattern芯体套准工程规格 中的 **Cpk 1.67 / 2.00（需 σ 降 17%/31%）** 数值不同 —— **两件口径（已达成 vs 目标需降 σ）可能不同，源文未说明，本页并列不换算**。
+2. **保形压力 39 Pa vs 裸算 31 Pa** —— 源文自陈"推导未闭合"；两种口径（17.3 g 等效 / 净图案面积 ÷0.77）**并列**。
+3. **停车扭矩 455 Nm vs 稳态 180 Nm** —— 隐含摩擦扭矩 152 Nm 与表列 180 Nm 差 **~15%**，源文**未解释**；处置只给"按峰值取"。
+4. **风机隐含效率 ~65%** —— 由 8.5 kW 反推，**源文未直接给出**。
+5. **鼓惯量 J ≈ 52 kg·m²** 基于 **270 kg 壳体的薄环上限假设**，源文标注"**保守**"，但**未给实际质量分布**。
+6. **chassis pitch 假设（芯长 +110 mm open / +
+
+--- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]  (2 句)
+   • 补库来源：（18 页）+ WKB  原文（**已下载逐条核对，v2026-09-05**）。对应 Gap：**G1（ups 选型，§1 回写）、G16（repitch，§1 补 chassis pitch 行）、G19（chassis pitch 落库）、G8（§7 缺口⑤ 回写）**。
+   • 概念：Repitch（鼓距与产品节距解耦）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+- 源：03_卫材产线约束常量表（准入校验工具）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）、80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+
+--- [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (1 句)
+   • 本位架构：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）（"相位在鼓体、尺寸在套筒"）
+- 同层：Repitch（鼓距与产品节距解耦）（cams 中的 repitch 转塔凸轮）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）（ups 归属 Recipe）
+- 失效点：SAP Dosing Speed Matching（SAP 落料速度匹配与容差）（chute 为头号静默失效模式）
+- 零件级对照：84 Sleeve 工程规格与换装防错设计（套筒层的规格化细节）
+- 设计哲学外延：Pain-Point Backward Derivation（痛点倒推法）、Technology Roadmap 2026-2029（技术路线图）
+
+--- [[Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）]]  (1 句)
+   • 设计原理：分区密度设计、毛细梯度设计、芯体通道花型设计
+- 工程落点：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、Repitch（鼓距与产品节距解耦）
+- 材料语境：SAP（高吸水树脂）、绒毛浆（Fluff Pulp）
+
+--- [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]  (1 句)
+   • **E = 395.8 − 365 = 30.8 mm**，仅比判据高 **0.8 mm（2.7%）**，是全方案最紧的一档，且是 **Pant XL 转 7-up 后仍合格的唯一原因**。
+- **sleeve 图纸公差本身不构成威胁**（±0.02 mm over 2,771 mm）；**真正的风险在芯长/pattern 长度侧的产品公差** —— 若芯长规格为 **365 ±1 mm**，上偏差侧 **E = 29.8 mm < 30 mm，判据失效**。
+- **闭合校核式**：；若不能闭合，只能 (a) 三尺寸退回 6-up（端区变 41.8 mm，需重算 repitch 与浪费）或 (b) 放宽 30 mm 判据并给出端封/切断的替代方案。
+- 等级：**推断**（式 6 的敏感性分析，未实测）；源件未提示该风险。
+
+--- [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]  (1 句)
+   • 概念：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Core Channel Pattern（芯体通道花型设计）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- 源：80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）、One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）、84 Sleeve 工程规格与换装防错设计
+- 同族待补：82 鼓距与产品节距解耦 repitch 选型、83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、87 卫材产线约束常量表（待并入补充行）
+

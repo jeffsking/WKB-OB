@@ -1,0 +1,23 @@
+{
+ "batch": "S5_Areas_Meeting Minutes_03",
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "source_pages": 10,
+ "concept_pages": 4,
+ "entity_pages": 0,
+ "comparison_pages": 0,
+ "updated_existing": 27,
+ "manual_review": 10,
+ "notes": [
+  "10 份源摘要页全部新建（WIKI/sources/ 事前核查均无同 source_path 既有页，未触发跳过）。",
+  "新建 concept：Coform Composite Nonwoven（熔喷-木浆复合非织造）、Product Safety Crisis Management（产品安全危机管理）、Gasketing Effectiveness（防漏阻隔有效性）、Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）。",
+  "派生追加既有页 27 个（部分页多次追加）：Meltblown Nonwoven、绒毛浆（Fluff Pulp）、延江（Yanjan）、Composite Core Patent Clearance、Material Safety Control、Antimony-Free PET Fibre、Kimberly-Clark（金佰利）、皮芯复合纤维、并列复合自卷曲纤维、福建闽瑞新合纤、ADL（导流层）、Mineral-Powder Functional Masterbatch、Skin Health Treatment on Nonwoven（无纺布护肤处理）、诺尔（Nuoer）、GBP-Limited vs CRC-Limited Regime、Multilayer SAP Core、Core Channel Pattern、三叶形截面纤维（Trilobal Fibre）、Chromism Taxonomy、COCO芯体平台、Kirigami Apertured Nonwoven、Ultrasonic Bonding of PET-Containing Topsheet、TBCW结构、Mechanophore Mechanochromism、Structural Colour Mechanochromism、分区密度设计、Elastic Tension & Creep。",
+  "重要还原 1：第 4 份（GDP提升工艺探讨）中反复出现的「GDP / GPP」经上下文（通透性/通液、与保水的取舍、与住友对比）还原为 **GBP（gel bed permeability）**；「通业/农业」= 通透性；「五幺幺/九五零/六幺零S」= SAP 牌号 511/950/610S。",
+  "重要还原 2：第 3 份（复合纤维生产及性能探讨）中供应商名音转作「敏锐/美锐」，依据「细旦纤维是敏锐的优势」+ ES 双组分主业 + 起订量 ≥30 吨归入福建闽瑞新合纤，但**名称未经确证，已在页内标 [待验证]**。",
+  "重要修正 3：第 5 份源页初版文件名含 ` / `（`V6 / Be Max…`），落盘时误建了目录 `V6 /`；已改写为 `V6 & Be Max…` 并清除该误建目录，页面正文标题同步替换。",
+  "同源处理：第 10 份（录音纪要_260920002641）是第 9 份（新材料开发与弹性恢复工艺探讨）同一份录音的**结构化纪要版本**，已建独立源页并在两页互相标注同源，避免重复结论。",
+  "非会议类资料处理：第 8 份（压力变色环保屏）为外部技术资料的音频解读稿，非内部会议；已不套用「决策/行动项」，改为「资料给出的结论 + 待核实项」，并因**无原始文献**对全部参数标注不得作为设计依据。",
+  "商务敏感信息（报价与目标价、SAP 牌号指标与竞品对标、模块成本、产能与资产分布、政府关系与竞争评价、人名）一律不入页面，仅在源页以 manual_review（2026-09-29）块标注并回指 RAW 原文路径。",
+  "未改 index.md / log.md；未移动、重命名、复制或删除任何 RAW/WIKI 既有文件（仅清理本轮自身误建的空目录）；RAW/、RAW_FULL/、AGENTS.md 只读。"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "stage": "S1",
+ "block": "Projects/(直属文件)",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md",
+   "name": "IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md",
+   "title_hint": "IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md"
+  }
+ ]
+}

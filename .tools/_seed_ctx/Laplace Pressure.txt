@@ -1,0 +1,142 @@
+# SEED: Laplace Pressure
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#   - Surface Tension and Surface Energy
+#
+# 全库正文命中 179 页，282 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (5 句)
+   • 1. **残液的两个出口条件由 Young-LaPlace 方程给出**：**ΔP = −2γcosθ / R**。毛细压由**润湿性（θ）**与**孔径（R）**共同决定。**毛细压越高 → 孔越想把液体留住；解吸能越高 → 纤维越难"晾干"**。因此降低残液只有两条路：**降低润湿性（提高 θ）**或**加大孔径 R**（以及让孔径分布收敛）。
+2. **孔径分布（PSD）比平均孔径更重要**：假说是**液体滞留在极小孔里，因为旁边没有足够大的孔把它拉出来**。双峰/宽分布会造成"抽不出来"的死角；对策是**让纤维尺寸趋同以收窄分布**，并**减少孔的总数以减少可拘留液体的位置**。
+3. **润湿性这条路有硬冲突**：去掉面层润湿处理确实降回渗（0.26 → 0.20 g），但**漏液率从 3.2% 升到 4.6%**——因为面层不亲水就拦不住涌流。**同一处改动同时影响"干"与"漏"，必须成对验收**；且该冲突在不同品类上结论不同（未处理面层在 BCC 可行，在成人护理上不可行）。
+4. **加大孔径这条路相对安全**：粗纤维 → 大孔径的面层（LOKI 类）在预测与实测上**
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • **更难解吸是双重原因**（Young-LaPlace ）：**孔径 R 更小** + **润湿性更高（θ 更小）**。滴液润湿性（0→60 s）：Liner **POISE 2.4→4.7 vs AD 8.4→9.5**；Surge **POISE 8.4→9.2 vs AD 9.6→9.8**。
+- **BET 比表面积**：AD Core **17.48** vs POISE Core **1.37 m²/g**（约 **12.8×**）；AD 拆分为 composite 1 **56.25**、composite 2 **47.57**、SAM 颗粒（带胶）**0.70** → **高比表面积来自复合层，不是 SAP 颗粒**。
+   • 1. **MicroCT 把残液定位到了面层本身** —— 源文：「MicroCT showed liner is holding fluid – new opportunity to reduce rewet」；**残液不只存在于 surge/芯体，面层自身就是一个持液库**。
+2. **一个决定机理归属的量级事实** —— 「**Rewet weight is much smaller than the blotter. Much of the fluid picked up as rewet with no pressure on blotter.**」（回渗重量远小于吸墨纸所吸；**在无压力下**已有大量液体被带起）⇒ **回渗的主贡献者是"本来就留在面层的液体"，不是压力下从芯体挤出的液体**。
+3. **当前产品的失败位置** —— 「Our current product leaves fluid in the topmost layer near the blotter.」**液体停在最靠近吸墨纸的最顶层**，即**失效发生在最外一层，而非芯体深处**。
+4. **新杠
+
+--- [[毛细压力 Capillary Pressure]]  (5 句)
+   • **毛细压力是吸收的主要驱动力**：吸收由毛细压力驱动，外部施加的重力/压力只起次要作用 —— "Absorption is driven primarily by **capillary pressure** (p_c = 2γcosθ/r); externally imposed gravity or pressure plays only a secondary role"（源：Liquid Flow in Porous Structures）。
+- **物理基础是 Young-LaPlace 方程**：ΔP = −2γcosθ / R（ΔP 毛细压、γ 表面张力、θ 接触角、R 孔隙半径）；**毛细压由润湿性（θ）与孔径（R）共同决定**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。因此测到的毛细压差异**只能归因于这两者之一** —— 这是用它做根因诊断（润湿性 vs 孔径二分）的根据。
+   • **毛细压力法（Capillary Pressure Method）**：试样置于与储液池恒连通的载物台上，垂直移动载物台改变**静水压头**，同步称量持液量并归一化为**饱和度 saturation（g/g）**，得 **height–saturation** 曲线；**下降台面得吸收支（absorption），上升台面得解吸支（desorption）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **读数规则**：**毛细压越高 → 孔越想把液体留住**；**解吸能量越低 → 纤维越容易"晾干"**。设计原则：**摄入层（面层/导流层）的毛细性与润湿性必须低于液体最终被锁住的地方（芯体）**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **速率与容量解耦**：**孔径控制吸收速率（经 Hagen–Poiseuille ∝ r²），孔体积控制容量** —— 优化其一必罚另一个，需中值最优化（源：Liquid Flow in Porous Structures）。
+- 
+   • **回渗根因诊断的逐层流程**：① 确认结果指标（Closed Cradle / Cradle 回渗）由**解吸**驱动；② 逐层测毛细压力与解吸能量，找出哪一层偏向竞品；③ 该层按**润湿性 vs 孔径**二分定位根因，孔径路径下再细分平均孔径 vs PSD；④ 改材料 → 回产品台架验回渗，形成闭环（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **实测应用（2025-12-02，Depend 拆解）**：面层与导流层的**毛细压力与解吸能量两项都偏向 Always Discreet**，根因分别定为**润湿性**（面层）与**孔径分布**（导流层）；且 Depend 面层"把液体留得更久"（源：Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）、Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **反直觉缺口**：AD 摄入系统毛细压力更高 → 按机理**应回渗更高**，但实测 POISE 并未在回渗上被碾压 ——
+   • **毛细压相近 ≠ 孔径结构相近**：半饱和处的单一代表值会吞掉分布信息 （源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- **归一化基准**：饱和度按试样重量归一化，跨克重比较是否应改用面积/体积基准未决 。
+- Depend / Always Discreet 毛细压力与解吸能量的**具体数值未以文本落地**，对外引用须脱敏且不得补写数值（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。
+- ⚠️ 库内同时存在 Cross-linked Cellulose and Derivatives 与 Cross-linked Cellulose and Its Derivatives 两个疑似重复页面，**去重待决** 。
+
+--- [[接触角 Contact Angle]]  (4 句)
+   • Traceable operational role 可溯源的操作定位: contact angle enters the Laplace capillary-pressure term as , i.e. it is the surface-chemistry variable that sets the sign and magnitude of capillary pull (源：Computational Modeling in Absorbent Technology).
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[达西定律 Darcy's Law]]  (4 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • Liquid Flow in Porous Structures
+- Porous Structure and Liquid Flow Models
+- Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Nonwovens in Absorbent Materials
+- Absorbent Product Testing
+- Acrylic-Based Superabsorbent Polymers
+- 吸收芯体
+- Washburn Equation
+- 毛细压力 Capillary Pressure
+
+--- [[Computational Modeling in Absorbent Technology]]  (4 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Industrial Drying Ch28 Osmotic Dehydration and SAP Physics]]  (4 句)
+   • This chapter is the **single most direct bridge to superabsorbent-polymer (SAP) science** in the Handbook. The osmotic pressure framework, semipermeable membrane analogy, and electrolyte ion effect are exactly the physics family of SAP swelling/deswelling governed by Flory-Rehner equilibrium and Donnan osmotic pressure.
+   • **SAP transfer:** This is the swelling/driving pressure set by the solvent chemical-potential difference. Inside an SAP, this is the swelling pressure of the crosslinked polyelectrolyte network.
+   • **SAP transfer:** This is the seed of Donnan equilibrium — mobile ions distributed across a charged, semipermeable matrix raise Π. It is precisely why SAP (a fixed-charge polyelectrolyte) swells in water but **deswells in saline**: the fixed –COO⁻ groups plus counterions create a Donnan osmotic pressure that is suppressed by external salt.
+   • **Cross-link:** The same osmotic-pressure number that drives SAP uptake also sets the antimicrobial window of a hypertonic brine — useful for preservative-free stabilization.
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (4 句)
+   • The **market, competitor and supplier-landscape review** of the Mechanochromic block — it overturns the "buy a commercial pressure material" assumption, maps four technology routes (M1–M4), screens four material candidates, and lands on the sourcing verdict **"build, not buy"** (custom threshold + custom printing process).
+   • The review starts by overturning a Day-1 assumption: the plan was to adopt an existing commercial pressure-activated material (CTI HPP ink, Fujifilm Prescale), but all commercial materials are irreversible metrology types with fixed thresholds at or above 40,000 psi. No skin-close, soft, low-threshold, reversible off-the-shelf spec exists — an innovation white space. The named trap is using **industrial metrology materials as consumer indicator materials**, a triple mismatch of threshold, revers
+   • Competitive landscape: mid-high concentration with four leaders locking high-value applications (Merck — polymer platform; GIVIDI — proprietary security pressure materials; Avient — elastomers/composites; Sun Chemical — printable mechanochromic inks) plus two printable-ink differentiators at the hygiene gate (CTI, LCR Hallcrest). The entry segment with no giant guarding it is **printable pressure-activated inks**.
+   • Core strategy verdict: **build, not buy** — custom threshold + custom printing process.
+- Pathway: Path 1 waistband/tab indicators（最短可行）→ Path 2 full-field pressure distribution（智能涂层 + 手机辅助读数）→ Path 3 structural-colour strain feedback（HPC 膜连续跟踪）。
+- Note also recorded: this deck is **not legal advice**; regulatory conformity for infant skin-contact products must be certified by professional consultants; powder-form materials must not contact skin layers until validated.
+
+--- [[Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)]]  (4 句)
+   • **恒 D 情形下解析解的三类工具箱**——反射与叠加法、分离变量法、Laplace 变换法，确立误差函数类与三角函数级数两类标准解的分类体系，为 SAP 溶胀动力学与芯体湿迁移建模提供解析基础。
+   • **三类解析方法**：
+  1. 反射与叠加法——利用线性方程叠加性构造边界解
+  2. 分离变量法——C = u(x) exp(-Dα²t)，得到 Bessel/三角本征值问题
+  3. Laplace 变换法——最强工具，p 域求像函数→逆变换给出时间域解
+- **两类标准解**：
+  - 误差函数类：小时间数值评估方便
+  - 三角函数级数：大时间收敛性最好
+- **平面源格林函数**：C = (M/2(πDt)^½) exp(-x²/4Dt)——基本"砖块"。
+- **反射法**：不透水边界 dC/dx=0（PP 底膜）；透湿边界 dC/dx+hc=0（顶表层）。
+- **推导逻辑链**：恒 D PDE→试探解→质量守恒定 A→反射+叠加→扩展初值→分离变量→Laplace 变换。
+   • **Laplace 变换是最强工具**——对复杂问题（多层复合芯体）尤其关键。
+- **两类标准解分工明确**——小时间（SAP 吸液初期）用误差函数，大时间（稳态接近）用级数。
+- **平面源格林函数是 SAP 建模的原子单元**——单个 SAP 微球=瞬时点源，多粒子场可叠加。
+- **反射法直接映射芯体结构**——不透水膜（PP 底膜）与透湿膜（顶表层）分别对应 dC/dx=0 与 dC/dx+hc=0。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Fick 定律
+- 格林函数 Green's Function
+- Laplace 变换
+
+--- [[Porous Structure and Liquid Flow Models]]  (4 句)
+   • Chapter 1 (pp. 18–73) is the physics bedrock of the whole handbook: it converts "fast-absorbing core" into three measurable quantities — capillary pressure, permeability/flow rate, and pore volume — and closes with the specific-air-volume relation that lets REL teams predict capacity from fibre density and packing fraction before any prototype is spun.（中文：第 1 章把"吸得快"翻译成三个可测量——毛细压力、渗透率/流速、孔隙体积，并以比空气体积关系给出"料定产能"的前置预测工具。）
+   • **Driving force.** "The driving force for absorption of the bulk of the liquid into an absorbing material, which is in most cases a porous medium, is the capillary pressure" (p. 19); gravity/pressure are secondary.
+- **Unsteady flow = diffusion.** "Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process" (p. 36). The governing PDE is ∂s/∂t = ∇·[F(s)∇s], where F(s) = (k/μΦ)(dp/ds) is the diffusivity factor (soil-physics "moisture diffusivity").
+- **The 
+   • **Rate and capacity are antagonists, and both are geometric.** Bigger pores raise rate (Hagen–Poiseuille: flow ∝ r², so Y ×2 → flow ×16) but lower capillary pressure (p_c ∝ 1/r), so capacity falls. The optimum sits mid-range, not at either extreme.
+- **Kozeny–Carman is a leverage equation.** k ∝ Φ³/(1−Φ)² — a small porosity gain yields a large permeability gain, but raising Φ means lower packing fraction, i.e. thinner web, more thickness, or fewer g/m². The trade is real and unavoidable.
+- **Fib
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、毛细管压力 Capillary Pressure、孔隙率 Porosity、渗透率 Permeability、SAP（高吸水树脂）、Gel Blocking（凝胶阻塞）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 相关章节/页面：Absorbent Technology Introduction、Characterisation, testing and modelling of nonwoven fabrics（测试与建模）、Chemical bonding（粘合剂容量税）、Dry-laid web formation（气流成网孔径）
+
+--- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]  (4 句)
+   • 本批**回渗竞品拆解的物性证据页（Richmond Cohen / Matt Valaskey，2025-09-11）**：用 Young-LaPlace 框架 + 孔径分布、毛细压力、吸/解吸能量、层压剥离强度四类新物性测试，量化 Depend 与 Always Discreet 摄入系统的差距来源。是本库回答「竞品到底赢在哪一个物性上」的一手数据来源。
+   • 分析以 Young-LaPlace 方程为统一框架：Δp = −2γcosθ / R（p 压力、γ 表面张力、θ 接触角、R 孔隙半径）。针对 DEPEND 与 ALWAYS DISCREET 摄入系统新增四类基础物性测试：**面层孔径分布**、**导流层孔径分布**、**导流层毛细压力**、**面层/导流层层压的粘合强度（剥离力）**。
+   • 四条可执行建议：① **降低 Depend 面层的润湿性**（reduce wettability）→ 降低解吸能 → 面层更干、回渗更少；② 追问 P&G 非织造布更高的孔径单分散性是否带来更好的孔隙连通性与更低回渗（明确标为待验证问题）；③ **降低 Depend surge 克重**同时**保持摄入速度**，以减少滞留在 surge 中的液体；④ **用其他手段减小面层/导流层界面间隙**——当前粘合方式仍有改善空间。同时记录一项权衡：**压力粘合（pressure bonding）面层与导流层可改善回渗，代价是孔隙体积与渗透率下降**。
+   • 概念：Pore Size Distribution Monodispersity（孔径分布单分散性）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、Intake System（摄入系统）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+

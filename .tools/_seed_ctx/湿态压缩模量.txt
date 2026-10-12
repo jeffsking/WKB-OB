@@ -1,0 +1,37 @@
+# SEED: 湿态压缩模量
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Absorbent Product Testing
+#
+# 全库正文命中 3 页，4 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[WRV 水保留值]]  (2 句)
+   • **Fibre/pulp acceptance metric.** In *Absorbent Technology* Ch.11 the vault places WRV in the four-metric acceptance block for wood-pulp / viscose fibres — **静态容量 + INDA 10.1 速率 + AUL + WRV + 湿态压缩模量** — with the explicit warning that capacity alone is not acceptable（源：Absorbent Product Testing）.
+- **Cellulose-superabsorbent context.** WRV is registered as a concept of the cross-linked-cellulose chapter (Ch.7), alongside DS, cross-link density, HEC, MFC, grafting and gel blocking — i.e. it belong
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[孔隙率 Porosity]]  (1 句)
+   • **延伸关联**
+- Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- Void Volume 与压缩模量两条孔隙表征路线对比
+- 湿态压缩模量
+- Pore Size Distribution Monodispersity（孔径分布单分散性）
+- 渗透率 Permeability
+- 达西定律 Darcy's Law
+- 吸收芯体
+- SAP（高吸水树脂）
+- ADL（导流层）
+- REL增强层
+- 毛细梯度设计
+- 分区密度设计
+- 细菌纳米纤维素
+- Rewet Test（回渗测试）
+
+--- [[Absorbent Product Testing]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：Wilhelmy 湿附力法 · 达西定律 Darcy's Law · 回渗 Rewet · 湿态压缩模量 · WRV 水保留值 · Klemm 法
+- 相关章节：Nonwovens in Absorbent Materials · Products and Technology Perspective · Computational Modeling in Absorbent Technology
+- 标准组织：ASTM · AATCC · INDA · TAPPI · EDANA · Scan-C
+

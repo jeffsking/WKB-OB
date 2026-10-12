@@ -1,0 +1,38 @@
+page,原句(英文原文),所在章节,引用目的
+L1, "VISCOELASTIC PROPERTIES OF AMORPHOUS POLYMERS", Title, 论文主标题：无定形聚合物粘弹性
+L81, "TIME TEMPERATURE EQUIVALENCE", §1 Time-Temperature Equivalence, 引出时温等效原理
+L76-L80, "Stretch sample an arbitrary Amount, then measure the Stress required to maintain This strain. Then E(t) = σ(t)/ε", §1 Measurement Protocol, 应力松弛实验定义与模量计算公式
+L85, "RELAXATION IN POLYMERS", §2 Relaxation 章节标题, 章节标识
+L86-L93, "First consider a hypothetical isolated chain in space, then imagine stretching this chain instantaneously so that there is a new end-to-end distance. The distribution of bond angles (trans, gauche, etc) changes to accommodate the conformations that are allowed by the new constraints on the ends.", §2 Relaxation Mechanism, 松弛的微观键角重排机制
+L94-L97, "Because it takes time for bond rotations to occur, particularly when we also add in the viscous forces due to neighbours, we say the chain RELAXES to the new state and the relaxation is described by a characteristic time τ", §2 Relaxation Time, 松弛时间的物理起源
+L100-L101, "AMORPHOUS POLYMERS - THE FOUR REGIONS OF VISCOELASTIC BEHAVIOUR", §3 四区域章节标题, 章节标识
+L123-L124, "GLASSY STATE - conformational changes severely inhibited.", §3 Glassy State, 玻璃态定义
+L125-L129, "Tg REGION - cooperative motions of segments now occur, but the motions are sluggish (a maximum in tan δ curves are observed in DMA experiments)", §3 Tg Region, 玻璃化转变区定义与 DMA 判据
+L130-L133, "RUBBERY PLATEAU - τ becomes shorter, but still longer than the time scale for disentanglement", §3 Rubbery Plateau, 橡胶平台区特征
+L134-L135, "TERMINAL FLOW - the time scale for disentanglement becomes shorter and the melt becomes more fluid like in its behaviour", §3 Terminal Flow, 终端流动区特征
+L138, "SEMI-CRYSTALLINE POLYMERS", §4 半结晶聚合物章节标题, 章节标识
+L139-L140, "Motion in the amorphous domains constrained by crystallites", §4 Semi-Crystalline, 非晶域运动受晶区约束
+L141-L144, "Motions above Tg are often more complex, often involving coupled processes in the crystalline and amorphous domains", §4 Coupled Processes, Tg 以上耦合过程
+L145-L147, "Less easy to generalize - polymers often have to be considered individually - see DMA data opposite", §4 Individual Analysis, 半结晶体系难以一概而论
+L148-L149, "Reproduced with permission from H. A. Flocke, Kolloid–Z. Z. Polym., 180, 188 (1962).", §4 Reference, 数据来源文献引用
+L152-L154, "MECHANICAL AND THEORETICAL MODELS OF VISCOELASTIC BEHAVIOUR", §5 模型章节标题, 章节标识
+L155, "DEFINITIONS", §5 Definitions 小节标题, 小节标识
+L156-L158, "G(t) = σ(t) / γ0", §5 Relaxation Modulus, 松弛模量 G(t) 定义
+L159-L160, "J(t) = γ(t) / σ0", §5 Creep Compliance, 蠕变柔量 J(t) 定义
+L161-L163, "G(t) = 1 / J(t)", §5 G-J Relation, G 与 J 的简化关系
+L166, "GOAL - relate G(t) and J(t) to relaxation behaviour.", §5 Goal, 理论目标
+L167-L169, "We will only consider LINEAR MODELS ie if we double G(t) [or σ(t)], then γ(t) [or ε(t)] also increases by a factor of 2 (small loads and strains).", §5 Linearity Assumption, 线性假设条件
+L172-L173, "SIMPLE MODELS OF THE VISCOELASTIC BEHAVIOUR OF AMORPHOUS POLYMERS", §6 简单模型章节标题, 章节标识
+L180-L186, "Elastic response / Retarded elastic response / Permanent deformation", §6 Creep-Recovery, 蠕变-恢复三段响应
+L228-L231, "Hooke's law: σ = Eε", §6 Spring Model, 胡克定律 / 弹簧模型
+L239-L242, "Newtonian fluid: τ_xy = η γ̇", §6 Dashpot Model, 牛顿流体 / 阻尼模型
+L276, "MAXWELL MODEL", §7 Maxwell 章节标题, 章节标识
+L278-L279, "Maxwell started with Hooke's law. Then allowed σ to vary with time.", §7 Maxwell Derivation, Maxwell 推导起点
+L286-L289, "Writing for a Newtonian fluid: σ/η = dε/dt", §7 Newtonian Term, 粘性项微分
+L292-L293, "Then assuming that the rate of strain is simply a sum of these two contributions", §7 Superposition, 应变率叠加假设
+L271-L275, "dε/dt = dσ/(E dt) + σ/η", §7 Maxwell Equation, Maxwell 核心微分方程
+L339, "MAXWELL MODEL - stress relaxation", §7 Stress Relaxation, 应力松弛小节
+L354-L355, "In a stress relaxation experiment", §7 Experiment Setup, 应力松弛实验条件
+L356-L365, "σt = σ0 exp[−t/τ]", §7 Maxwell Solution, Maxwell 应力松弛解
+L366-L369, "τ = η/E, Relaxation time", §7 Relaxation Time, Maxwell 松弛时间定义
+L396-L416, "Maxwell model / Real data looks something like this", §7 Model vs Data, 模型预测与真实数据对比（暗示需广义模型）

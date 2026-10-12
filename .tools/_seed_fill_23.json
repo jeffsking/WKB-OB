@@ -1,0 +1,17 @@
+{
+  "batch": "23",
+  "done": [
+    "聚集诱导发光 AIE",
+    "TPE Tetraphenylethylene",
+    "VO2",
+    "东丽",
+    "舒美"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "东丽 (entity-in-concepts-dir: only traceable fact = supplier listing in [[Nonwovens in Absorbent Materials]]; needs RAW ch10 re-read to identify role/products)",
+    "舒美 (entity-in-concepts-dir: only traceable fact = supplier listing in [[Nonwovens in Absorbent Materials]]; identity/role unverified in vault)"
+  ],
+  "count": 5,
+  "notes": "All 5 digests had 0 prose hits; content sourced by reading the cited-by source pages directly. verify_wiki.py: 断链数 0, frontmatter 1589/1589 pass."
+}

@@ -1,0 +1,101 @@
+# SEED: Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 375 页，663 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (9 句)
+   • 该源性内容包括 12 章技术路线（从液体流动物理 → 超吸水树脂 → 非织造布 → 测试），被定义为 **REL / 吸收芯体研发的立论基础**（源：Absorbent Technology Introduction）。
+   • **1. 口径先行（define before design）：** absorbency/absorption 的语义歧义必须在术语层收口，否则**所有下游指标都会继承语义混乱**（源：Absorbent Technology Introduction）。
+   • **2. 科学缺位是绑定约束：** "The development of the majority of those products was not based on a scientific or mechanistic approach, but on trial and error techniques and on the intuitive imagination of innovative tech…"；**真正瓶颈是科学缺位而非资金**，仿真/计算机辅助设计是低成本出路（源：Absorbent Technology Introduction）。
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+
+--- [[交联密度 Crosslink Density]]  (7 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+   • **Negotiate against load.** Cross-link density buys strength and insolubility **at the price of capacity**; because a real absorbent core is compressed, the optimum shifts **higher** than free-swell testing implies（源：Cross-linked Cellulose and Its Derivatives）。
+
+--- [[SAF 高吸水纤维的生产工艺与技术进展]]  (6 句)
+   • A technology review of super absorbent fibre (SAF): four production routes with process windows, plus recent research fronts (green biomass, Janus capillary engineering, antibacterial integration, porosity engineering). （中文：高吸水纤维（SAF）技术综述——四条生产工艺路线与工艺窗口，以及绿色生物质、Janus 毛细工程、抗菌复合、孔隙率调控等研究前沿。）
+   • SAF differs from granular SAP by **form**: fibre geometry delivers large surface area, fast uptake, soft hand and — critically for hygiene cores — the ability to **mechanically immobilise SAP particles** and create inter-particle flow channels. The document maps four routes, from petrochemical copolymer spinning to cellulose-based biodegradable modification, and documents how far absorbency can be pushed (≥360 g/g hyperbranched; 200× PVA freeze-thaw) versus what is commercially realistic (60–100
+   • The application section shows SAF is dominated by hygiene (≈95% of absorbent resin consumption), with industrial (cable water-blocking, anti-condensation, oil-water separation), food, agriculture and textile uses as secondary markets.
+   • 医疗卫生与保健：约占吸水树脂产品年消耗的 **95%**（婴儿尿布、成人失禁垫、卫生巾、医用敷料、止血材料）；
+- 纤维形态优势：更薄更软、**无粒状物泄出**、加工性好，并可减少热熔胶用量（见 Super Absorbent Fibre（超吸水纤维 SAF））；
+- 其他：电缆阻水纱/带、防结露非织造布、油水分离、重金属离子吸附滤布、防火凝胶、食品保鲜、农林保水（TAL「美植袋」苗木成活率 +12.5%、缓解土壤水分损失 9–12 天）、运动服装蒸发冷却。
+
+--- [[US11013641 Garment for Detecting Absorbent Article Leakage]]  (6 句)
+   • **Electronic wetness/leakage detection on an over-garment（外穿服装上的电子湿感/渗漏检测）** — a substrate (garment) carrying a distributed wetness detection system, used to localise and time leakage from an absorbent article worn underneath.
+   • Int. Cl. **A61F 13/42**（吸收制品的湿气/湿度指示装置）, **A61F 13/74**（吸收制品的固定/附着件）, **A61F 13/84**；CPC 另含 A61F 2013/424, A61F 2013/8482.
+- Target absorbent articles named in the source: diapers, training pants, incontinence products, feminine care products, swim pants.
+- **Key boundary: the claimed article is the GARMENT, not the absorbent article**（权利要求对象是外穿服装，不是吸收制品本身）.
+   • 1. **Conductive element as the transducer** — conductive materials listed: **conductive threads, conductive tape, conductive rubber, conductive wires**. Preferred: **silver-plated conductive thread at 60 ohms/meter**, exemplified by **Shieldex® 110/34 dtex 2 ply HC Premium Line**（polyamide 6.6 trilobal filament, **99% silver plating**）.
+2. **Read-out** — a controller applies **3.3 VDC** across the conductive thread and monitors the voltage at its ends. **Dry state ≈ full-scale 3.3 V; wet state v
+   • Figures: FIG.1 front plan view of garment 10 (onesie form) showing substrate 14, wetness detection system 12, mechanisms 16/20/28/32 and detection zones 18/22/30/34; FIG.1A partial cross-section showing porous material 15, waterproof backing 17, substrate inner surface 42; FIG.2 perspective of an exemplary absorbent article (diaper 100) with outer cover 102, bodyside liner 104, fastening system 106, leg flaps 108, front end edge 110 / rear end edge 112 / first side edge 114 / second side edge 11
+
+--- [[吸收芯体]]  (5 句)
+   • The vault has no standalone generic definition of 吸收芯体 (the absorbent core); the working sense used across the citing sources is **the liquid-storing middle layer of a disposable absorbent article**, built from a fibre phase plus superabsorbent polymer. For the composite variant, the vault *does* give an explicit regulatory definition: 复合吸收芯体（Composite Absorbent Core）是**以无尘纸/无纺布包裹 SAP + 绒毛浆的预制芯**（a pre-formed core of airlaid/nonwoven wrapping around SAP plus fluff pulp）（源：QB-T 5650-2021 Composit
+   • **Void-volume (VV) characterisation 孔隙体积表征.** Pore-space modulus (TTM-00038 / TTM-00437) measures the **resiliency 回弹性** of the absorbent core and intake-system materials after repeated compression cycles; its direct output is **thickness as a function of pressure**, from which VV is derived by post-processing. It applies to fluffy materials such as the absorbent core, ADL/surge and REL（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **Saturation-state display architecture 饱和度显示结构.** CN 116327488 B（露乐健康科技）lays a **饱和度显示层（saturation display layer）** between the absorbent core and the second topsheet: a substrate carrying a **reversible 温敏变色部 in the middle**（records voiding *count*）and an **irreversible 温敏变色部 at the end**（records voiding *total*）, plus a third **示温记录标签**. Claim 6 guarantees visibility by a transparent/windowed second topsheet, with the label offset from the two colour zones; claim 8's decision rule compares , 
+   • **Core as a distinct standard layer 芯体作为独立标准层级.** QB/T 5650-2021 places the composite absorbent core at its own层级, and its **吸收速度（≤40 s）比婴儿成品（≤50 s）更严**（源：QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体））——芯体作为「中间品」层级是供应商准入与技术协议的直接判定依据。
+- **Core covering process 芯体包覆工艺.** 热风法非织造布是纸尿裤吸收芯体包覆层的典型场景，其蓬松结构提供导流空间（源：无纺布五大工艺对比）；复合结构上，**热风棉 + SAP + 底膜**构成纸尿裤/卫生巾吸收芯体的整体结构（源：SMS复合结构）。
+- **Interfaces with the intake system 与摄入系统的界面.** ADL 对芯体的三层职责为 ACQUIRE → D
+
+--- [[气铺 Airlaid]]  (5 句)
+   • Airlaid（air-laid / airlaying，气铺/气流成网）is the **dry-laid web-formation route based on aerodynamic web formation**（气流成网）. The dry-laid chapter progresses from carding physics through feed/weight control to cross-lapping and perpendicular laying, and **"culminates in airlaying (aerodynamic web formation)"** whose raw-material science is **wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends**（源：Dry-laid web formation）. In the hygiene handbook it is one of the forming processes ma
+   • The commercial product form is **airlaid paper（无尘纸）**, defined by the Chinese product standard as the material supplied as **jumbo rolls or sheets** for disposable hygiene products, used in **wipes, diaper acquisition/absorption layers and absorbent cores**, and split into **普通无尘纸 (cellulose-only)** and **合成无尘纸 (with SAP)**（源：GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸））.
+   • **Aerodynamic web formation**（气流成网）: the endpoint of the dry-laid route; input materials are wood pulp, man-made fibres, SAP and bicomponent blends（源：Dry-laid web formation）.
+- **Four-factor causal chain** for nonwoven absorbent structures: Constituent Fiber → Assembly Structure (Web Assemblage) → Type of Bonding → Finish — "Each of these factors can have an effect on the absorbency of the resulting structure"；采购评审须按序追问而非单一比价（源：Nonwovens in Absorbent Materials）.
+- **Binding–absorbency trade-off*
+   • **ADL / acquisition layer**: hydrophobic synthetics preserve wet bulk; pulp + SAP blends form the nappy acquisition layer（源：Dry-laid web formation）. The ADL density gradient — upper 1/3 low density（大孔隙、快速获取）, lower high density（细密毛细管、高压差）— is the chapter-3 capillary-pressure principle engineered into the product（源：Nonwovens in Absorbent Materials）.
+- **Composite-core build**: a typical composite-core stack is **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**（源：Complex Core Landscape in China（201
+
+--- [[达西定律 Darcy's Law]]  (5 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • **无材料级渗透率 / 孔隙率数值**：库内各页给出达西定律与扩散因子的**公式**，但**未给出绒毛浆/非织造/SAP 层的 k、Φ 实测值**——需回 *Absorbent Technology* 原文补齐。
+- **达西定律的适用上限**：摘要未给出 Reynolds 数适用边界或 Forchheimer 修正的触发条件（源：Porous Structure and Liquid Flow Models 未涉及）。
+- **与毛细动力学的时间标度**：x_v ∝ t^(1/2) 的比例常数在摘要中**未数值化**（源：Liquid Flow in Porous Structures）。
+- **流体性质项**：μ（黏度）在摘要中仅作为 K = k/μ 的组成出现，**具体流体（尿/血/模拟液）黏度值未给出**。
+- **落地方案**：库内无把达西定律直接用于**产线工艺参数（如施胶量、压花）**的记录，属理论接口而非工艺口径。
+
+--- [[LG Chem（LG 化学）]]  (5 句)
+   • **2026-09-29 记录**：**US 9,950,308 B2**「Superabsorbent Polymer」——授权日 2018-04-24（PCT/KR2014/007068，WO2015/016643）
+- **2026-09-29 记录**：**EP 3 636 698 B1**「Super Absorbent Resin」——授权日 2022-11-09（PCT/KR2018/009352，WO2019/050183）
+- **2026-09-29 记录**：**US 12,145,129 B2**「Superabsorbent Polymer Composition and Method for Preparing the Same」——授权日 2024-11-19（PCT/KR2019/013302，WO2020/122390）
+- 发明人（部分）：Sang Gi Lee、Kyu Pal Kim、Gi Cheul Kim、Bohee Park、Jun Kyu Kim、Dong Hyun Kim（均 Daejeon, KR）
+   • **2026-09-29 追加（Areas/IP 第 3 批，追加不改原结论）**：**WO 2024/111948 A1**「Superabsorbent Polymer and Preparation Method Therefor / 고흡수성 수지 및 이의 제조방법」——**PCT 国际申请公开**（PCT/KR2023/017661，申请日 2023-11-06，公开日 **2024-05-30**，韩文本）；发明人 윤형기 HYOON, Hyungki / 주진혁 JU, Jin Hyuck / 신광인 SHIN, Kwangin / 안태번 AIN, Taebin。**主张的五项并列门槛**：CRC ≥30 g/g、EFFC(0.3 psi) >29.5 g/g、Vortex 速度 <37 s、1 分钟自来水吸收量 >115 g、加压盐水 2 小时再润湿 <3.7 g。见 WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)。
+   • SAP（高吸水树脂）、Biodegradable SAP（可降解高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP 表面包覆（SAP Particle Surface Coating）
+- 同类权利人：巴斯夫欧洲公司（BASF SE）、The Procter & Gamble Company（宝洁）
+   • US9950308B2 Superabsorbent Polymer (LG Chem) —— 
+- EP3636698B1 Super Absorbent Resin (LG Chem) —— 
+- US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem) —— 
+- WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem) —— （2026-09-29 追加）
+
+--- [[Absorbent Technology]]  (5 句)
+   • The definitive reference on absorbent product materials and technology: a complete material→structure→product causal chain from porous-media fluid flow theory (Péclet, Darcy, Washburn) through fiber/nonwoven engineering and SAP chemistry to product integration and testing.
+《吸液技术》——吸液产品材料与技术的最权威参考专著，从多孔介质液体流动理论出发，经纤维/非织造工程与 SAP 化学，最终落地到产品整合与测试评价，构成完整的材料→结构→产品因果链。
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • Cross-linked Cellulose and Its Derivatives — 第 7 章｜交联纤维素及其衍生物（含 **Kimberly-Clark 磷烷基纤维素工艺**）
+- Acrylic-Based Superabsorbent Polymers — 第 8 章｜丙烯酸基超吸收聚合物（交联密度、合成三要素、绿色/3D 打印新方向）
+- Hydrogel-based Superabsorbent Polymers — 第 9 章｜水凝胶基超吸收聚合物（2022 综述，离子强度/温度调控）
+   • Nonwovens in Absorbent Materials — 第 10 章｜无纺布在吸液材料中的应用（**四要素架构、12 种成形工艺、SMS/SMMS、ADL 密度梯度**）
+- Absorbent Product Testing — 第 11 章｜吸液材料测试技术（**测试金字塔、Wilhelmy 法、INDA/Klemm/Cobb、企业专有 in vitro**）
+- Products and Technology Perspective — 第 12 章｜产品与技术视角（**三层功能模型、绒毛浆 51g→29g→16g 演进、子层、生物纤维素远期路线**）
+
+--- [[Smart Fabrics and Networked Clothing]]  (5 句)
+   • **Note 注:** this is a **magazine/journal feature article**, not a monograph; the extraction carries no cover or imprint page, so publisher, journal title, volume and year are **not stated** in the source text and are recorded here as unknown. The latest cited reference is from 2016, which places publication at roughly 2016–2017 — treat that as inference, not as retrieved metadata.
+   • The article argues for a **fibre-level** integration strategy: rather than bolting electronics onto cloth, make the fibre itself the device. Sections:
+   • **LOW–MODERATE 低到中等关联.** Honest assessment: this article has essentially **no** route into an absorbent core product. Nothing addresses acquisition, distribution, SAP, PP nonwoven, bonding, or converting. Its relevance is to a *sensing and connectivity* programme, and even there it fails on cost grounds for a single-use disposable.
+   • The only idea with genuine pull is **fibre-level function without losing handle** (finding 2 and 3): making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces. The article's candid statement that as-prepared CNT fibres **fail** on softness and processability is a useful negative result — it indicates a CNT-based route is premature for a disposable.
+- The power-budget arithmetic (finding 6) is transferable as 
+

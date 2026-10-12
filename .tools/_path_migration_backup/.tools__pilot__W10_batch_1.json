@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-1",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_9227186f44c44bc6366eacd80ee8ca5c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021面层附着物.doc.md",
+   "name": "GBT28004.1-2021面层附着物.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_50501f5b8c9a60a7479b879691439298001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/面层粘合强度测试方法.pdf.md",
+   "name": "面层粘合强度测试方法.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_20cf0a37ae1fadaf652dff6020fa0fe7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00049 绒毛纤维度.docx.md",
+   "name": "STM-00049 绒毛纤维度.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c3aed63e2831a2edc8ebdb57798f8f04001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/纳米纤维素纤维技术及应用深度研究报告.pdf.md",
+   "name": "纳米纤维素纤维技术及应用深度研究报告.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_77b33f5483dad0eff9c941a355926a83001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00071 粘扣结合强度.docx.md",
+   "name": "STM-00071 粘扣结合强度.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_65ed363ee053c6fb5f24c471892dcd22001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00305 SAM分布.docx.md",
+   "name": "STM-00305 SAM分布.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_af041661bfcfdfe6ee95e475aa32df7d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-4597纸尿裤SAM分布测试.docx.md",
+   "name": "STM-4597纸尿裤SAM分布测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_67dde1e351bf4bd53bc1b04442362139001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/WI-19395外层材料剥离测试.docx.md",
+   "name": "WI-19395外层材料剥离测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_af6e32603c8163e8eca283b7b1525a75001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/TJ/JMP软件操作流程.docx.md",
+   "name": "JMP软件操作流程.docx.md",
+   "type": "word"
+  }
+ ]
+}

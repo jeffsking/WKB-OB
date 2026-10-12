@@ -1,0 +1,155 @@
+{
+ "generated": "2026-09-30",
+ "criteria": "AGENTS §2.1（2026-09-30 版）",
+ "n_growing": 521,
+ "n_candidates": 21,
+ "candidates": [
+  {
+   "page": "AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体.md",
+   "n_sources": 2,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "Bile Pigment Mordant Lane（胆色素媒染通道）.md",
+   "n_sources": 2,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "Diaper Premiumization（纸尿裤高端化）.md",
+   "n_sources": 4,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "ES 双组分弹性纤维热风布（弹性体改性）.md",
+   "n_sources": 2,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "GB 15979-2024（一次性使用卫生用品卫生要求）.md",
+   "n_sources": 3,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）.md",
+   "n_sources": 3,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "GB-T 36420-2018（生活用纸化学品安全评价体系）.md",
+   "n_sources": 2,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）.md",
+   "n_sources": 4,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "复合吸收芯体（Composite Absorbent Core）.md",
+   "n_sources": 2,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "局部亲水印花面层（锥形孔导流）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "应力诱导取向与结晶.md",
+   "n_sources": 3,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "弹性热熔胶腰围（减压腰围）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "快速吸水自膨胀纳米纤维素材料（华东师大）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "抗菌除臭高吸水树脂（CNC 载体双功能 SAP）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "消毒产品标签宣称红线（中国 GB 38598-2020）.md",
+   "n_sources": 3,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "茂金属聚丙烯.md",
+   "n_sources": 5,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）.md",
+   "n_sources": 1,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  },
+  {
+   "page": "超细氨纶密排腰围（褶皱布纹）.md",
+   "n_sources": 2,
+   "candidate": true,
+   "reasons": [],
+   "type": "concept"
+  }
+ ]
+}

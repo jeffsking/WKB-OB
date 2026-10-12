@@ -1,0 +1,58 @@
+# SEED: 取代度 DS
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 9 页，11 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (2 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers]]  (2 句)
+   • **无机酯**：Cellulose nitrate（硝化纤维素，1833 年首次合成，用于火药、赛璐珞 Celluloid、涂料）；Cellulose sulfate/phosphate（医学应用，line 116-117）。
+- **有机酯**：*"The most important cellulose ester is cellulose acetate because of its use in fibers and plastics."* (line 121) — 1865 年由醋酐与棉花反应制得；通过取代度调性：低取代→极性/可溶，高取代→疏水。
+- **醚类**：Methylcellulose（MC，碱纤维素 + 氯甲烷，用于粘合剂/陶瓷/化妆品/食品）；Ethylhydroxyethylcellulose（EHEC，**非牛顿流体、假塑性**）；Cyanoethylcellulose（与丙烯腈的 Michael 加成，line 128）。
+   • **Degree of Substitution 取代度 DS**（line 196）：
+
+--- [[Super Absorbent Fibre（超吸水纤维 SAF）]]  (1 句)
+   • **应用实例**：抗菌 SAF（东莞苏氏 2025，PVA+改性伊利石+气凝胶静电纺丝）；壳聚糖凝胶热喷 PET 亲肤层（2023，快吸锁水防反渗+抗菌+可降解）；超薄低回渗复合体（2016，SAP 在 ES 布上原位聚合+等离子刻蚀，**厚度 ≤3 mm、回渗 ≤1.0 g**）；五层水刺复合（2022，导流/柔滑/抑菌/吸水/稳定）。
+- **工艺路线定量**：超支化改性天然纤维**吸水 ≥360 g/g**（金属离子交换度 60–80%）；碱化醚化可降解生物质短纤 **60–100 g/g**（取代度 0.6–0.95）；冻融 PVA 纤维吸水自重 200 倍（免化学处理）。
+- **前沿**：Janus"导液-储液-阻隔"三层不对称结构（毛细压差"只进不出"）；β-环糊精包合牛至精油（吸水+长效气相抗菌）；Y/十字/W 异形截面与亲疏水交叉铺网。
+- 医用敷料→纸尿裤迁移清单（鞣酸含药面层、黄疸遮光衬垫、湿度传感+蓝牙报警、臭氧再生 SAP/绒毛浆闭环）见 Shandong Nameixin Biotechnology（山东纳美欣生物科技）。
+
+--- [[WRV 水保留值]]  (1 句)
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[交联 CMC]]  (1 句)
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学）]]  (1 句)
+   • 1. **原料谱系最宽**：提取/再生/化学改性（磺酸化、羧甲基化、TEMPO 化、磷酸化，取代度 0–3 优选取 0–0.8）/细菌纳米纤维素（醋酸菌属、土壤杆菌属、根瘤菌属、八叠球菌属）均可。
+2. **交联剂谱系**：甲醛/尿素、柠檬酸、乙二醛、戊二醛、硅烷偶联剂、酸酐偶联剂、环氧氯丙烷；CNF(干):交联剂 = 1:(0.0001–10)，优选 1:0.01–1。
+3. **工艺自由度**：先交联后干燥 / 先干燥后交联 / 干燥中交联均可；再加工（裁剪、切割、粉碎、压缩）任意组合。
+4. **实施例数据**：CMC-NFC+柠檬酸 85 °C/12 h → 压缩球 8.2 s 膨胀、8600%；CMC-NFC+环氧氯丙烷 90 °C/6 h → 12.1 s、8400%；CMC-NFC 粉末 100 °C 干燥交联 → 2.6 s、4100%；TEMPO-NFC+戊二醛 60 °C/6 h → 10.5 s、8100%。
+
+--- [[Ebewole Polymer Science Ch05 Polymer Modification]]  (1 句)
+   • 1. **SAP as a postpolymerization cross-linked network 超吸水性树脂的聚合后交联.** 聚丙烯酸钠类 SAP 的典型路线是"先合成聚丙烯酸（或其盐），再经交联形成三维网络"——包括共价交联剂与多价阳离子交联。这一路径正是 Ch.5 §III 的 **postpolymerization cross-linking**（p.125），而非从头设计新单体。因而 SAP 的凝胶强度与吸收量可在聚合后独立调节，这是工业上控制 GBP 与 CRC 的关键自由度。参见 A review on superabsorbent polymers。
+2. **PP toughening PP 增韧.** 等规 PP 的低温脆性（Ch.4, Tg 示例约 −10 °C）通过接枝共聚（如 PP-g-MA）或与 EPDM 共混改善；PP/EPDM 属于"橡胶增韧塑料"，其形态逻辑与本章 ABS 的"分散橡胶相 + 连续玻璃态基体 + 接枝边界层"模型同源。参见 Ebewole Polymer Science Ch04 Thermal Transitions i
+
+--- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]  (1 句)
+   • **Rayon 人造丝**：[p.480] "rayon, which is one of the oldest manufactured fibres, is a regenerated cellulose fibre"（最古老的人造纤维之一，属再生纤维素纤维）；"rayon... is a regenerated cellulose fibre with a wide spectrum of properties"（性能谱系极广）。
+- **Cellulose 纤维素**：[p.480] "the essential raw material for its production, namely cellulose, is abundantly available and a renewable source"（原料充足且可再生）。
+- **Viscose 粘胶**：[p.481] "The viscose process resulted from research in the UK by Cross, Bevan and Beadle during the 1880s"。
+-
+
+--- [[SAF 高吸水纤维的生产工艺与技术进展]]  (1 句)
+   • 1. **Form is the differentiator 形态即差异** — SAF's advantage over granular SAP is structural: fibre interstices form flow channels, particles are held in place, hot-melt usage drops, and no particle leakage occurs; see CN 101464548 A（光缆-电缆阻水材料及其制备方法·含超吸水纤维 SAF） for the cable-blocking analogue.
+2. **Absorbency and process complexity trade off 吸水倍率与工艺复杂度权衡** — ≥360 g/g (hyperbranched) and 200× (PVA freeze-thaw) are lab-level highs; the biodegradable staple route settles at 60–100 g/g, i.e. **green ro
+

@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Supply Base",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/4T锌力康纤维产品介绍.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/4T锌力康纤维产品介绍.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/4T锌力康纤维产品介绍.pdf.md",
+   "name": "4T锌力康纤维产品介绍.pdf.md",
+   "title_hint": "4T锌力康纤维产品介绍.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/纺纱纤维-苏州益盟新材料科技有限公司.html.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/纺纱纤维-苏州益盟新材料科技有限公司.html.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/纺纱纤维-苏州益盟新材料科技有限公司.html.md",
+   "name": "纺纱纤维-苏州益盟新材料科技有限公司.html.md",
+   "title_hint": "纺纱纤维-苏州益盟新材料科技有限公司.html"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf.md",
+   "name": "c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf.md",
+   "title_hint": "c5f752e3a85d63fe599e0bcb94c96bde_4019801966820313246_m_德福伦高感性聚酯纤维简介.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/德福伦高感性聚酯纤维简介.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/德福伦高感性聚酯纤维简介.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/德福伦高感性聚酯纤维简介.pdf.md",
+   "name": "德福伦高感性聚酯纤维简介.pdf.md",
+   "title_hint": "德福伦高感性聚酯纤维简介.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_①SAP厂商_1_BASF_HySorb__系列产品介绍.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_①SAP厂商_1_BASF_HySorb__系列产品介绍.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_①SAP厂商_1_BASF_HySorb__系列产品介绍.pdf.md",
+   "name": "v3非传统资源_①SAP厂商_1_BASF_HySorb__系列产品介绍.pdf.md",
+   "title_hint": "v3非传统资源_①SAP厂商_1_BASF_HySorb__系列产品介绍.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/05_Toyobo Acrylic SAF Datasheet.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/05_Toyobo Acrylic SAF Datasheet.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/05_Toyobo Acrylic SAF Datasheet.pdf.md",
+   "name": "05_Toyobo Acrylic SAF Datasheet.pdf.md",
+   "title_hint": "05_Toyobo Acrylic SAF Datasheet.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/关于我们_盛色科技.html.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/关于我们_盛色科技.html.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/关于我们_盛色科技.html.md",
+   "name": "关于我们_盛色科技.html.md",
+   "title_hint": "关于我们_盛色科技.html"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md",
+   "name": "02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md",
+   "title_hint": "02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/17_OASIS SAF™ 102_80_10 Technical Data.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/17_OASIS SAF™ 102_80_10 Technical Data.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/17_OASIS SAF™ 102_80_10 Technical Data.pdf.md",
+   "name": "17_OASIS SAF™ 102_80_10 Technical Data.pdf.md",
+   "title_hint": "17_OASIS SAF™ 102_80_10 Technical Data.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_2_Technical_Absorbents_OASIS_SAF__102_80_10_数据手册.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_2_Technical_Absorbents_OASIS_SAF__102_80_10_数据手册.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_2_Technical_Absorbents_OASIS_SAF__102_80_10_数据手册.pdf.md",
+   "name": "v3非传统资源_⑥SAF_2_Technical_Absorbents_OASIS_SAF__102_80_10_数据手册.pdf.md",
+   "title_hint": "v3非传统资源_⑥SAF_2_Technical_Absorbents_OASIS_SAF__102_80_10_数据手册.pdf"
+  }
+ ]
+}

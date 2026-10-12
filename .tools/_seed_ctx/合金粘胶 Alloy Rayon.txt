@@ -1,0 +1,92 @@
+# SEED: 合金粘胶 Alloy Rayon
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#
+# 全库正文命中 14 页，33 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[粘胶纤维 Viscose Fiber]]  (9 句)
+   • **Rayon is a regenerated cellulose fibre** — *"rayon, which is one of the oldest manufactured fibres, is a regenerated cellulose fibre"*, with *"a wide spectrum of properties"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Its raw material is cellulose, *"abundantly available and a renewable source"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。The **viscose** route specifically *"resulted from research in the UK by Cross, Bevan and Beadle during the 1880s"*（源：Manufactured Fibre Techn
+   • 中文：粘胶（viscose）是人造丝（rayon）的一种——再生纤维素纤维；原料纤维素充足且可再生；粘胶工艺源自 1880 年代英国 Cross、Bevan、Beadle 的研究。
+   • **Viscose process.** Chemistry is described by four mechanisms — **coagulation / neutralisation / desolvation / dexanthation（凝固/中和/脱溶/脱黄化）**; the manufacturing sequence is **steeping → shredding → ageing → xanthation → dissolution → filtration → mixing → ripening → spinning（浸渍→粉碎→老化→黄化→溶解→过滤→混合→熟成→纺丝）**（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Zinc is structural.** *"over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Zinc regulates structure → **skin-core structure** → high strength; wet modulus can be raised stepwise (modifiers, low-temperature low-acid bath, formaldehyde) along the ladder **ordinary viscose → tyre yarn → HWM → polynosic → Ten-X**（源：Manufactured Fibre T
+
+--- [[莱赛尔 Lyocell]]  (4 句)
+   • **Lyocell / Tencel is a regenerated cellulose fibre spun from a direct solvent, NMMO (N-methylmorpholine-N-oxide)** — a route that **omits xanthation and ripening**, such that *viscose's* fibre strength and wet modulus are exceeded, while it **retains a propensity for fibrillation**, verbatim *"propensity for some degree of fibrillation"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Property comparisons are tabulated there as Table 17.12 (Camilon) and Table 17.14 (Tencel)（源：Manufactured Fi
+   • **Solvent route.** Lyocell sits under **direct solvent spinning (MMNO/NMMO)**, which needs no derivatisation — unlike the viscose process — and that is why its strength and wet modulus exceed viscose's; the same property set brings the fibrillation liability（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Trilobal Lyocell for LSN spunlace（芯包/水刺用）.** Trilobal Lyocell is a named carrier for the fibre cross-section that creates axial grooves → a quasi-continuous low-resistance distribution path along MD, for the LSN hydroentangled nonwoven; it maps to project **OI-08「Trilobal Lyocell for LSN」**, targeting wet strength and hydrophilic channels（源：三叶形截面纤维（Trilobal Fibre））。Concrete batch evidence: the COCO V6 Summary adds **LSN spunlace containing trilobal Lyocell** as a core-wrap material (6 km, arri
+   • Manufactured Fibre Technology Ch17 Rayon Fibres
+- 兰精集团
+- 天丝为什么突然这么难买
+- 原纤化
+- Mechanical bonding
+- Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- 三叶形截面纤维（Trilobal Fibre）
+- 赛得利
+- Fibers and Fibrous Materials
+- COCO V6 试产原料准备会（Summary 版）
+
+--- [[Fibers and Fibrous Materials]]  (4 句)
+   • Chapter 6 (pp. 216–249; Ludwig Rebenfeld, TRI) is the materials catalog plus the one design law that governs all of it: because 'the fiber surfaces constitute the pore walls' in capillary sorption, absorbency is a surface-and-geometry problem — and the chapter proves that special-purpose fibres (alloy rayon, modified cellulose, deep-groove polyester, hollow chicken-feather) win by engineering the pore wall and pore geometry rather than by changing the polymer.（中文：第 6 章确立"毛细吸收中纤维表面即孔壁"这一设计律，并用合金粘
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • **Buy the surface, not the resin.** Because fibre walls *are* the pore walls, surface energy and roughness dominate absorption; fibre chemistry matters mostly through wettability.
+- **Density and geometry substitute for hydrophilicity.** Polyolefin and PET absorb well through fine denier and non-circular cross-section — the pore network, not the polymer, is the absorber.
+- **Wet strength inverts with crystallinity.** Cotton stiffens when wet; viscose collapses. For wet-wipes and core layers, wet
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (3 句)
+   • **Two-component property relation 二元体系性质-组成关系（Eq. 9.3）**:  — 其中 **I 为协同参数（synergy parameter）**：I > 0 即 alloy 的"synergy"，I ≤ 0 即 blend 的"等于或低于算术平均"。
+   • **Eq. 9.1 是取向连续纤维纵向模量的上限估计**：对非连续、随机取向的短纤维或非织造结构，需引入取向效率与长度效率因子；本章未给出 —— 直接套用会高估模量。[待验证] 修正系数需另引复合材料文献。
+- **Alloy vs. Blend 的二分是语义约定而非热力学判据**：本章以"synergy"定义 alloy，以"≤ 算术平均"定义 blend；是否出现协同取决于 Eq. 9.3 中 I 的符号，而 I 本身由相容化水平决定 —— 二者并非截然两类，而是同一连续谱的两端。
+- **ΔG_m = ΔH_m − TΔS_m 只给出平衡判据**：高分子混合的 ΔS_m 极小，故"Polymers, in general, tend to be immiscible"；但本章未讨论**动力学锁定（加工剪切下的分散与相区尺寸冻结）**，而工业共混的实际形貌恰恰由动力学决定。
+- **助剂迁移与健康合规未被量化**：本章只定性给出"less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值 —— 卫材与食
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+
+--- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]  (2 句)
+   • **Rayon 人造丝**：[p.480] "rayon, which is one of the oldest manufactured fibres, is a regenerated cellulose fibre"（最古老的人造纤维之一，属再生纤维素纤维）；"rayon... is a regenerated cellulose fibre with a wide spectrum of properties"（性能谱系极广）。
+- **Cellulose 纤维素**：[p.480] "the essential raw material for its production, namely cellulose, is abundantly available and a renewable source"（原料充足且可再生）。
+- **Viscose 粘胶**：[p.481] "The viscose process resulted from research in the UK by Cross, Bevan and Beadle during the 1880s"。
+-
+   • [p.487] "Considering that over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance."
+
+--- [[Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres]]  (2 句)
+   • 18.1 引言：工业/技术纺织品界定 + 力学性能四分类
+- 18.2 工业应用纤维（类别 1–3，简述）：平均/高于平均/优越力学性能，含 PPS、PEEK、PTFE
+- 18.3 高性能应用纤维（主体）
+  - 18.3.1 聚合物纤维：aramid（Nomex 1961 → Fibre B 1970 → Kevlar 1972）、ordered polymeric（PBZT/PBO）、aromatic polyester（Vectran）、UHMWPE（凝胶纺丝）
+  - 18.3.2 carbon fibre：rayon / PAN / pitch 三种前驱体，经氧化稳定化、碳化、石墨化
+  - 18.3.3 glass fibre：组成、工艺、非晶网络结构、性能
+  - 18.3.4 boron fibre：CVD 沉积
+  - 18.3.5 ceramic fibre：SiC、Al₂O₃（CVD / 纺丝）
+  - 18.3.6 metallic fibre：冷拉、急冷 ribbon、Taylor 丝
+  - 18.3.7 总体格局（Fig.18.17 模量—强度地图）
+-
+   • **Carbon fibre 碳纤维**：由 rayon / PAN / pitch 前驱体经氧化稳定化、碳化、石墨化制得，具二维石墨层状结构 [p.534–538]。
+- **各向异性限制**：[p.542] "the in-plane properties will be very different from the properties perpendicular to the graphite planes." 垂直纤维轴方向模量仅 12–20 GPa，导致层合复合材料在垂直冲击下强度很低。
+- **Ceramic fibre 陶瓷纤维**：SiC 在 650°C 以上、Al₂O₃ 至 1370°C 仍保持强度，Table 18.9 [p.549]，适用于高温金属基复合材料。
+
+--- [[Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers]]  (2 句)
+   • **棉花 vs Rayon**（line 235-237）：化学组成相同（都是纤维素），但物理结构不同——棉花为天然高结晶度 α-cellulose、纤维形态规则；Rayon 结晶度与取向度较低，**湿态强度低**。
+   • **绒毛浆就是纤维素，本章是其材料化学基础**：绒毛浆（fluff pulp）由针叶木硫酸盐浆制得，其 DP（3,500–36,000）、α-cellulose 含量与结晶度直接决定纤维的**刚度、成网性与毛细吸液速率**；line 190 的氢键网络解释了绒毛浆「不溶于水但高度亲水」——吸液发生在纤维间毛细空隙与无定形区羟基，而非溶解。这与 GB-T 21331-2021 绒毛浆标准的指标口径可直接对照。
+- **再生纤维素纤维（Rayon/粘胶、Lyocell 类）用于面层与导流层**：Rayon 结晶度与取向度低于棉、湿态强度低（line 237），这既是其柔软亲水的来源，也是**湿态掉毛/强度衰减**的机理依据；设计导流层时必须权衡其湿强。
+- **CMC / HEC 等纤维素醚是 SAP 的辅助吸水剂**：DS 决定其水溶性与粘度行为（line 196-202）；EHEC 的假塑性非牛顿特性（line 127）在亲水整理剂流变控制上有直接参考意义。
+- **HA 是 SAP 的天然类比**：透明质酸分子量可达 10⁷ Da 的高分子量聚电解质（line 152, 331），其
+
+--- [[交联 CMC]]  (1 句)
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[利安德巴塞尔]]  (1 句)
+   • **2026-09-26（检索记录）**： 系列（Q300F、C200F 等）为 Catalloy 工艺反应器 TPO，低模量低熔融； 为粘结层 PP； 具良好热封性与低收缩，用于 BOPP/CPP 表层。
+
+--- [[Ebewole Polymer Science Ch05 Polymer Modification]]  (1 句)
+   • 本章明确限定在**化学改性**，与 Ch.9 的物理共混/合金化（physical blending / alloying）分工。
+

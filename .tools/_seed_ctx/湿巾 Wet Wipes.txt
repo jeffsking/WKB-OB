@@ -1,0 +1,72 @@
+# SEED: 湿巾 Wet Wipes
+# type: concept | 原引用数: 5
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#   - Cosmetic Formulation of Skin Care Products
+#   - Cosmetic Science and Technology
+#   - Handbook of Cosmetic Science
+#   - Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments
+#
+# 全库正文命中 41 页，51 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）]]  (3 句)
+   • China's **mandatory chemical-safety floor**（强制国标）for all paper products for children ≤6 — the single table that wipes, diapers and tissue SKUs must clear on heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines; it is the standard that GB/T 27728.2-2024 delegates its "safety indicators" clause to.
+   • GB 43631-2023 (ICS 85.010 / CCS Y30, 工信部) is a mandatory national standard applying to infant/children paper products manufactured or sold in China. It classifies products into 生活用纸品 (tissue, wipes, diapers) and 文化用纸品 (paper/board/books) and sets one shared chemical baseline plus category-specific rows. The shared floor: four heavy metals, migratable fluorescent substances "无", acrylamide ≤0.1 mg/kg, and a 24-species carcinogenic aromatic amine list (Annex A) at ≤20 mg/kg for printed/dyed items.
+   • 概念：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+- 来源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+
+--- [[GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）]]  (3 句)
+   • China's voluntary national standard (GB/T) setting **particular requirements for baby & child wet wipes**（婴童湿巾专用要求）— the compliance baseline for any wipes SKU targeting children ≤6 in the CN market.
+   • Part 2 of the GB/T 27728 series (ICS 85.080 / CCS Y39), drafted under SAC/TC 141 (全国造纸工业标准化技术委员会), proposed by 中国轻工业联合会. Drafting units include 中国制浆造纸研究院、好孩子、维达、恒安、金佰利（中国）、广州宝洁、花王（中国）研发中心、露乐健康、赛得利（九江）等 — i.e. essentially the whole CN wipes/hygiene value chain. The standard layers baby-wipe requirements on top of the general requirements of GB/T 27728.1: raw-material minimization and long-safe-use-history principle, fragrance per GB/T 22731, production lotion per the 2015 Cosmetics Safety Technic
+   • 概念：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）、化妆品限用-准用组分体系（中国 2015 技术规范）
+- 来源：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）、GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求）
+- 同族标准：GB-T 27728-2011 Wipes（湿巾）、GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+
+--- [[GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）]]  (2 句)
+   • 上位体系：GB 15979-2024（一次性使用卫生用品卫生要求）（卫生指标维度与本规范化学安全维度互补）
+- 委托来源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）、GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（其表 2 与本规范表 1 纸尿裤列数值一致）
+- 平行限用物质：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、化妆品限用-准用组分体系（中国 2015 技术规范）（湿巾生产用液与防腐剂的上位口径）
+- 元素迁移口径：锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范） —— 
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求） —— 4.2.3 条委托引用 GB 43631
+
+--- [[Cosmetic Formulation of Skin Care Products]]  (2 句)
+   • **EN**: Reference on skincare product formulation covering formulation design, ingredient selection, processing, and stability. Cross-references with hygiene products in moisturizing/care wet wipes formulation and nonwoven-skin interface comfort assessment.
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 乳化剂 Emulsifier
+- 保湿剂 Humectant
+- 防腐剂 Preservative
+
+--- [[GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）]]  (2 句)
+   • Historical CN standard for **cosmetic labels**（化妆品通用标签，1995 版）— defines the two-mode date marking and the no-medical-claims principle that survives (in updated form) in today's cosmetic labeling regime; relevant to wipes because baby-wipe lotion labeling borrows cosmetic vocabulary.
+   • **「日期双模式 + 无医疗用语」是 CN 化妆品标签 30 年不变的骨架**，湿巾生产用液成分标注（GB/T 27728.2 的 INCI 降序要求）是其现代延伸 —— 支撑页：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+
+--- [[GB-T 27728-2011 Wipes（湿巾 · 副本1）]]  (2 句)
+   • **两份副本为同一标准，且同样缺失日期页 —— 非单份提取误差** —— 支撑页：GB-T 27728-2011 Wipes（湿巾）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 27728-2011 Wipes（湿巾）
+
+--- [[GB-T 27728-2011 Wipes（湿巾）]]  (2 句)
+   • **人体用湿巾禁用回收纤维，是湿巾供应链的原料准入红线** —— 支撑页：GB 15979-2024（一次性使用卫生用品卫生要求）
+- **含液量 ≥1.7 倍的口径在 2011 版与 2024 第3部分保持一致**（均仅非织造布考核） —— 支撑页：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+- **消毒湿巾合规须走 GB/T 27728.3—2024，不可只引 2011 版** —— 支撑页：GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+- **尘埃度与横向抗张强度仅对非无纺布载体（如无尘纸）适用** —— 支撑页：（本批仅本份提及，未达独立建页门槛）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 27728-2011 Wipes（湿巾 · 副本1）、GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+
+--- [[Industrial Drying Ch40 Drying of Coated Webs]]  (2 句)
+   • **Hygiene implication:** Emulsion/lotion coatings on wipes behave like latex — a longer benign constant-rate before the defect-prone falling-rate zone.
+   • **Hygiene implication:** For skin-contact hygiene films and wipes, 100% solids UV/EB is the regulatory-friendly route — no solvent VOC, no extractable cross-linker residuals.
+
+--- [[GB-T 27728-2011 与 GB-T 27728.3-2024 湿巾标准对比]]  (1 句)
+   • GB-T 27728-2011 Wipes（湿巾） —— 
+- GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求） ——
+
+--- [[湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）]]  (1 句)
+   • GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求） —— 
+- GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求） —— 
+- GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求） ——
+

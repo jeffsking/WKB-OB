@@ -1,0 +1,27 @@
+# SEED: CLC 手性向列晶
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+#
+# 全库正文命中 1 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]  (2 句)
+   • **定义**：刺激响应光子聚合物涂层是在外部刺激下可逆动态改变体积/表面拓扑的涂层，体积/拓扑变化同时调制反射光。
+- **两大材料平台**：
+  1. **液晶聚合物网络（LC/CLC）**：小分子序变化→大尺寸变化；手性向列晶（CLC）螺旋螺距设定光子带隙（颜色）
+  2. **水凝胶/溶剂凝胶**：溶胀/收缩机制；NIPAAM 基响应涂层
+- **光致变色染料（通用光开关）**：偶氮苯（cis-trans 异构化）、螺吡喃（↔ 亲水性胭脂红）嵌入 LC 聚合物或水凝胶，将光子转译为拓扑/功能变化。
+- **无源光传感器**：涂层自主响应环境/化学刺激（离子、pH、湿度、TMA 胺、葡萄糖）变色——低成本、无电池、可打印。
+- **润湿性切换**：微米级拓扑→Wenzel（水填充空隙）或 Cassie（气袋→更疏水）；粗糙度是润湿性决定因素。
+- **光响应润湿性数据**：推进接触角 Δ=140°（Wenzel→超润湿）；后退接触角 Δ>175°（超疏水→Wenzel）；静态 CA 51°→123°。
+- **湿度传感**：吸湿 CLC 聚合物在 RH 3%→83% 间反射位移 4
+   • Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 光致变色 Photochromic
+- 热致变色
+- 液晶 Liquid Crystal
+- CLC 手性向列晶
+- PNIPAAM
+- pH 响应材料
+- 湿感指示条 Wetness Indicator
+- 光致变色油墨 Photochromic Ink
+

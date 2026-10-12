@@ -1,0 +1,83 @@
+# SEED: PTT（聚对苯二甲酸丙二醇酯）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 9 页，16 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]]  (3 句)
+   • **材料概述**：PTT/PET 并列型（S-S）双组分纤维通过将**聚对苯二甲酸丙二醇酯（PTT）**与 **PET** 两种聚合物**并排共纺**而成；两种聚合物之间的**热收缩差异产生永久性螺旋卷曲**，从而提供**天然弹性，无需添加氨纶**。相对氨纶的主要优势：**更好的可染色性、耐氯漂性、热稳定性好、无老化降解问题**。
+   • **S-S 纤维的弹性来自热收缩差异导致的永久螺旋卷曲，不需要氨纶** —— 支撑页：并列复合自卷曲纤维、无溶剂氨纶（Solvent-free Spandex）
+- **耐氯漂与无老化降解是相对氨纶的结构性优势（因无氨纶成分）** —— 支撑页：华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）
+- **三条路线的分野在 PTT 来源控制权：自产（A）/ 授权（B）/ 外购（C）** —— 支撑页：PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）
+- **ESG 诉求会强制收敛到路线 A：国内只有盛虹具备全链条生物基可追溯** —— 支撑页：Shenghong Group（盛虹集团）
+- **"能产 T400" ≠ "掌握 PTT/PET S-S"**；SSY 为 PET 改性路线，性能低一档 —— 支撑页：PTT（聚对苯二甲酸丙二醇酯）
+- **仅盛虹产能为已披露值，其余全部为估算（置信度中/低）** —— 采购前须直接核实
+   • 对比：PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）
+- 源：PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）（英文版双文件）
+- 概念：PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、功能性差别化纤维（PTT_超仿棉_纳米凉感）、PET（聚酯）
+- 实体：Shenghong Group（盛虹集团）
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]  (2 句)
+   • **Test-method alignment is a prerequisite, not an afterthought** —— WVTR 2× 差异与渗漏测试口径是本批最可操作的采购/技术问题 —— 支撑页：WVTR 测试口径（失重法 vs 增重法）、紫华公司（Zihua, Zijiang Group）
+- **PTT's value proposition is thickness-at-equal-weight** —— 降克重 5–6% + 厚度 +20–35% —— 支撑页：PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、恒碳（Hengtan）
+- **Low-weight blown film is now a physical-property problem, not a gauge problem** —— 12–13 g 已可做、瓶颈在物性 —— 支撑页：紫华公司（Zihua, Zijiang Group）
+- **Nonwoven 3D embossing is splitting into roll-count schools (TR three-ro
+   • Concepts 概念：PTT（聚对苯二甲酸丙二醇酯）、WVTR 测试口径（失重法 vs 增重法）、并列复合自卷曲纤维、热风粘合无纺布、亲水-疏水梯度设计、皮芯复合纤维、ADL（导流层）
+- Entities 实体：紫华公司（Zihua, Zijiang Group）、恒碳（Hengtan）、格菲林（Gefilin）、Huayi Group（待核中文名）、Kimberly-Clark（金佰利）、江南高纤、新维盛集团（Xinweisheng Group）
+- Same-block sources 同批来源：Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）
+
+--- [[Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）]]  (2 句)
+   • DMAc 合规三线路径（简单/复杂/无溶剂）与 10 ppm 基准 —— 支撑页：DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制、无溶剂氨纶（Solvent-free Spandex）
+- 生物基 PPT（疑 PTT）8 月产品与 8 个月产能落地 —— 支撑页：PTT（聚对苯二甲酸丙二醇酯）、华峰集团（Huafon Group）
+- 低温胶与汉高等的合作另线跟踪 —— 支撑页：汉高
+   • 实体：华峰集团（Huafon Group）（已追加 2026-09-29 追加节）、汉高
+- 概念：DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制、无溶剂氨纶（Solvent-free Spandex）、PTT（聚对苯二甲酸丙二醇酯）
+- 同族：Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）
+
+--- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]  (2 句)
+   • **归档方式从「项目制」改为「组件类别 + 技术平台」双维度，是为了跨团队复用与可检索** —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **REL 的功能纤维逻辑是「亲水 + 回弹」双目标，PVA 与 PTT 分别承担** —— 支撑页：PVA纤维（湿强骨架）、PTT（聚对苯二甲酸丙二醇酯）、REL增强层
+- **纳米纤维素的第一落点是热熔胶而非替代 SAP，且 IP 必须留在我方** —— 支撑页：BNC-PEG 母粒（干态可复水中介体）、细菌纳米纤维素
+- **行业级瓶颈在「改性母粒」与「复配配方」两类中间能力，而非材料本身** —— 支撑页：Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+- **除臭的技术难点从「材料有效性」转移到「上线工艺可行性」（喷嘴堵塞 / 粉体跌落）** —— 支撑页：中科依兰、Zeolite Odour Control（沸石除臭载体）
+   • 概念：PVA纤维（湿强骨架）、PTT（聚对苯二甲酸丙二醇酯）、BNC-PEG 母粒（干态可复水中介体）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、三叶形截面纤维（Trilobal Fibre）、REL增强层、分区密度设计、Chromism Taxonomy（变色现象分类）
+- 实体：中科依兰、福地（Fudi）、福建闽瑞新合纤、诺尔（Nuoer）、兰精集团
+- 对比：（本批不新建；既有对比页见 CoPET-PET 与 PE-PET 皮芯纤维对比 一类）
+
+--- [[PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）]]  (2 句)
+   • 构型与材料：并列复合自卷曲纤维、PTT（聚对苯二甲酸丙二醇酯）
+- 供应方：Shenghong Group（盛虹集团）、恒碳（Hengtan）、江南高纤
+- 应用层位：REL增强层、ADL（导流层）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）
+   • 1. **产能可信度分层**：盛虹 ~50k t（披露）vs 其余全部 LOW/MED 估算——库内 PTT（聚对苯二甲酸丙二醇酯） 页已标"供应商自述产线与实际月出货量差距较大"的待验证项，本报告**未提供月出货量**，该待验证项**仍未闭环**。
+2. **SSY 的归类**：源文在两处分别称其为"PET/PET 改性 S-S（非真正 PTT/PET）"与"SSY PET-based S-S elastic fiber"，性能明显低于 T400 系。**是否与 T400 同属一个选型池**需人工确认，本页照录、不合并。
+3. **Route A 的"单一来源风险"**：源文同时把盛虹列为 ESG 场景的**唯一**推荐，又在其 SWOT 中标注"若单一来源则供应选择受限"——**推荐与风险并存**，不裁决。
+4. 本报告未涉及 **PTT 纤维在卫材 REL/ADL 中的实际克重、厚度与回弹实测**，与库内 并列复合自卷曲纤维 页的产线口径**不可直接拼接**。
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (2 句)
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、REL增强层、ADL（导流层）、芯体测试方法与验收基准（STM）、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）、并列复合自卷曲纤维、SAP性能指标（CRC AUL GBP Vortex）、COCO芯体平台
+- 实体：Kimberly-Clark（金佰利）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+
+--- [[PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）]]  (1 句)
+   • 构型：并列复合自卷曲纤维、PTT（聚对苯二甲酸丙二醇酯）
+- 供应方：Shenghong Group（盛虹集团）、恒碳（Hengtan）、江南高纤
+- 应用层位：REL增强层、ADL（导流层）
+
+--- [[Shenghong Group（盛虹集团）]]  (1 句)
+   • 并列复合自卷曲纤维、PTT（聚对苯二甲酸丙二醇酯）
+- PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）
+- REL增强层、ADL（导流层）
+
+--- [[恒碳（Hengtan）]]  (1 句)
+   • PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、皮芯复合纤维
+- 应用层位：REL增强层、ADL（导流层）
+- 同业参照：江南高纤（PTT+PET 并列复合弹性纤维）、汇维仕（PET/PTT 类弹性纤维供应商 ）
+

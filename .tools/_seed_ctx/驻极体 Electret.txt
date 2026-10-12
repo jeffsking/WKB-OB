@@ -1,0 +1,37 @@
+# SEED: 驻极体 Electret
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - ES 纤维热风非织造布驻极性能初探
+#   - Polymer-laid web formation
+#
+# 全库正文命中 4 页，5 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[熔喷 Meltblown]]  (2 句)
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • Polymer-laid web formation（熔喷作为一体化熔融挤出成网；§4.9–4.13 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites（纺粘 / 熔喷 MFR 树脂分野的一手出处）
+- Meltblown Nonwoven（熔喷非织造布）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）、Laser-Assisted Die Tip（激光辅助模头）（牵伸机理与激光加热）
+- Formation-Limited Barrier（阻隔的成形受限机理）、Film-Free Backsheet（无膜背层）、SMS复合结构、SMS 纺粘熔喷复合（阻隔与载体）
+- Coform Composite Nonwoven（熔喷-木浆复合非织造）、绒毛浆（Fluff Pulp）、ADL（导流层）（芯体包裹层相关）
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backshe
+
+--- [[纺粘 Spunbond]]  (1 句)
+   • **PET 在卫材中的角色**：PET 主要以**面层 / 导流层纺粘（topsheet / acquisition-layer spunbond）**以及**部分双组分短纤的芯层（core of some bicomponent staple）**出现，而非作为吸收体。（源：Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres）
+- **ATB 面层 + 双组分纺粘载体**：25 gsm 梳理 ATB 网 + 12 gsm PE/PP 双组分纺粘载体，在 600 m/min 车速下在线超声粘合与 3D 花型成型 —— **纺粘是载体 / 支撑层，不是导流芯（carrier, not a wick）**。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination、SMS复合结构）
+- **超声响应是 ES 属性**：不可粘的单组分 PET 会稀释花型可靠性；在腿围或侧封通道，PET 在 PP/PE 超声参数下**不软化**，作
+
+--- [[ES 纤维热风非织造布驻极性能初探]]  (1 句)
+   • ES 纤维 ES Fiber
+- 驻极体 Electret
+- 热风非织造 Hot-Air Bonded Nonwoven
+- 熔喷 Meltblown
+- 过滤材料 Filter Material
+- Nonwoven 非织造布
+
+--- [[Polymer-laid web formation]]  (1 句)
+   • 父书：Handbook of Nonwovens
+- 概念：纺粘 Spunbond、熔喷 Meltblown、SMS 复合无纺布、驻极体 Electret、Topsheet（面层）
+- 关联章节：Dry-laid web formation、Wet-laid web formation、Thermal bonding
+

@@ -1,0 +1,146 @@
+# SEED: Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 108 页，200 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[湿迁移 Wet Migration]]  (12 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「湿迁移」的独立定义句；相关表述均以**扩散数学**为母体：Fick 定律（一维/标量形式）被建立为数学公理，并由其导出 Fick 第二定律（扩散 PDE），再延伸到各向异性介质与多组分情形；**SAP 溶胀动力学、芯体吸液速率、湿迁移模型的本原公式均源于此章**（源：Diffusion Equations (Crank Ch.1)）。
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **1. 扩散数学的建立路径（Crank Ch.1）：** 以 Fick 定律为唯一核心假设 → 推导 Fick 第二定律 → 各向异性介质与多组分延伸。**Fick 定律是扩散数学的唯一核心假设**——SAP 溶胀、芯体吸液、湿迁移、湿巾均匀性模型均基于此（源：Diffusion Equations (Crank Ch.1)）。
+   • **2. 非线性化的数学根源：** **D(C) 剧烈变化是 SAP 吸液速率非线性化的数学根源**——低吸水比时 D ≈ 常数（线性），溶胀后 D(C) 跨 3–4 个数量级（非线性）（源：Diffusion Equations (Crank Ch.1)）。
+
+--- [[Boltzmann 变换]]  (6 句)
+   • **Boltzmann 变换**：令 **η = x / 2√t**，把扩散 PDE 化为二阶常微分方程（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）：
+   • 它是 **D(C) 浓度依赖扩散**的方法论核心，也是 SAP 吸液问题（D 强烈依赖浓度）的核心数学工具（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+   • **推导逻辑链**：Boltzmann 变换 → PDE 化 ODE → 解析 / 数值求解 → Crank Ch 9 给出具体图表结果（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+- 变换把二阶 PDE 降为**二阶 ODE**，解析或数值均可求解（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+   • **SAP 吸液建模**：D 强烈依赖浓度时，Boltzmann 变换是把 PDE 降为 ODE 的核心工具；对**半无限 SAP 颗粒表面**有效，而**有限厚 SAP 片层需改用数值方法**（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+- 属 Crank 变系数扩散（Ch 7–9）体系：Boltzmann 变换、数值方法、等效扩散系数并列，其中 SAP 的 D(C) 常呈指数上升型（源：Mathematics of Diffusion）。
+- 关联概念页：Fick 定律、自由体积 Free Volume、SAP（高吸水树脂）、Non-Fickian Diffusion (Crank Ch.11)、Numerical Methods for Diffusion (Crank Ch.8)。
+
+--- [[Fick 定律]]  (6 句)
+   • Diffusion is the process by which matter is transported from one part of a system to another as a result of **random molecular motion**（扩散是分子随机运动驱动的物质从系统一部分传输到另一部分的过程）（源：Diffusion Equations (Crank Ch.1)）. **Fick's first law** states the transfer rate is proportional to the concentration gradient, , by analogy with heat conduction (Fourier's law). **Fick's second law**, （一维恒 D）, is described as **the single core PDE** of the whole Mathematics of Diffusion reference, on which every chapter builds.
+   • **Derivation chain:** physical motivation → molecular random walk → statistical averaging gives net flux → Fick assumption → differential mass conservation → conservative form → simplification under constant D（源：Diffusion Equations (Crank Ch.1)）.
+   • **SAP swelling is not plain Fickian.** The **Alfrey-Gurnee-Lloyd three-way classification** splits behaviour by the ratio of diffusion to relaxation rate: **Case I（Fickian）** when diffusion << relaxation; **Case II** when diffusion >> relaxation; **non-Fickian** when they are comparable. SAP maps onto the sequence 干态玻璃态 → Case II → 非菲克 → 橡胶态 Case I, which is the physical root of the **S-shaped sorption curve**（源：Non-Fickian Diffusion (Crank Ch.11)）. Critically, **a glassy polymer cannot be descr
+   • **Scope limits:** Fick's law applies only to isotropic media — a composite core's MD/CD difference requires a **diffusion tensor **; forced-convection scenarios (e.g. wet-wipe wiping) need an added convection term（源：Diffusion Equations (Crank Ch.1)）.
+
+--- [[Bessel 函数]]  (5 句)
+   • *"Bessel 函数：I₀, J₀, J₁ 是柱 / 球坐标下的标准工具"*（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- *"Bessel 函数 J₀ 级数是单纤维吸液动力学的解析工具"*（源：Diffusion in a Cylinder (Crank Ch.5)）。
+   • Bessel 函数由**分离变量法**在**柱 / 球坐标**下解恒 D 扩散方程时自然出现：C = u(x)·exp(−Dα²t) 得到 Bessel / 三角本征值问题（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- 在**柱坐标**（纤维 / 圆柱颗粒）中，Bessel 函数是扩散解析解的标准工具；J₀ 级数用于**单纤维吸液动力学**建模（源：Diffusion in a Cylinder (Crank Ch.5)）。
+- 在**圆盘源**（湿巾湿斑）解中，[J₁(ωa)]² 出现在积分核里（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+   • **单纤维吸液动力学**：J₀ 级数用于建模纤维径向吸液（源：Diffusion in a Cylinder (Crank Ch.5)）。
+- **湿巾湿斑扩散**：圆盘源解 Q(t) 含 [J₁(ωa)]² 项，作为湿斑扩散模型（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- 关联概念页：纤维扩散 Fiber Diffusion、湿迁移 Wet Migration、格林函数 Green's Function、SAP（高吸水树脂）、Nonwoven 非织造布、湿巾 Wet Wipes。
+   • Bessel 函数的数学定义（引用来源未给出）。
+- J₀ / J₁ / I₀ 各分量在具体卫材模型中的取值与边界条件 。
+- 球坐标（SAP 微球）下的对应解可参见 Diffusion in a Sphere (Crank Ch.6)，本批来源未展开 。
+
+--- [[时间滞后法 Time Lag Method]]  (5 句)
+   • **Time lag L 的定义**（唯一可溯源口径）：渗透曲线**稳态段的 t 轴截距**。测出湿流稳态段的截距 L，除以  即得扩散系数 D —— （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+   • It is listed as one of the standard D-measurement families in Crank Ch.10 — 稳态法 / 非稳态法 / **时间滞后法（Ch.4）** / 动态法 / D(C) 反演（源：Definition and Measurement of Diffusion Coefficients (Crank Ch.10)）。
+   • **几何前提：一维有限域平面片。** 时间滞后法是 Ch.4「平面片扩散」在渗透测量上的应用；同一章的稳态解给出浓度线性分布与通量 （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **操作步骤。** 对一片厚度 l 的膜/片做渗透实验，记录下游累积湿流量-时间曲线；取**稳态段的线性段**，其在时间轴上的截距即 L；由  反演（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **非稳态段的分工。** 小 t 用误差函数类解，大 t 用傅里叶级数解 —— 时间滞后法取的正是**大 t 稳态段**（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **D 必须先指定参考系。** D 的定义依赖于参考系选择（体积 / 质量 / 溶剂固定），不同参考系给出不同 D 值；SAP 因溶胀体积剧变**通常用质量固定参考系**，否则 D 值无法比较（源：Definition and Measurement of Diffusion Coefficients (Crank 
+   • **几何直接对应芯体。** 一维有限域扩散是纸尿裤**芯体层、湿巾、SAP 片层、复合膜**的最直接对应几何（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **行业标准 D 测量法。**  是 SAP/纤维材料 D 测量的**行业标准方法**（Daynes 1920, Barrer 1951）（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **多层芯体的传质阻力叠加。** 复合膜总阻力 = 各层阻力之和 Σ(lᵢ/Dᵢ)，是芯体多层结构（顶表层 / 纺粘导流层 / 绒毛浆 / SAP 层 / PP 底膜）传质阻力建模的基础公式（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **MVTR 与液态阻隔率差异的解释。** 渗透常数 （D 与溶解度 S 之积），MVTR 与液态阻隔率的差异本质是 P 不同（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **SAP 表征的前提条件。** 报 SAP 的 D 时必须声
+
+--- [[TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）]]  (5 句)
+   • 2026-09-07 TJ 工厂访问的**会前简报 v3（中文版，编制 2026-09-02）**：GRID × Kirigami 面层评审、Coform 湿巾产线参观、Gasket 防漏工艺三模块。完整编译（含全部数字、议题与行动项）见姊妹页 TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）（EN 版 v3.1），本页不重复展开。
+   • 本源为**会前简报**，无会议已决事项；「已确认口径」为三缩写工作释义（TJ=大田【推断】、GRID=topical liner×Kirigami【High】、垫片=gasket【High】）与三模块议程设计。
+- v3 相对前版的两处口径修正：① 第 2 章重写为 GRID 关联 Kirigami surge（POME Topical Surge 降本替代）；② 「垫片」修正为 gasket（防漏屏障件），第 4 章整章替换；Pad Forming / DBK / FPC 压缩为附录。
+   • TJ 具体指大田还是天津（资料无 "TJ" 缩写记录）；该厂区是否含纸尿裤产线。
+- GRID I/II 结论、III 变更、DYSON 含义、GRID 与 Kirigami 结合方式——均需现场确认。
+- Kirigami 切换经济账（vs POME 综合成本）未闭环；在线/离线、激光/机械切缝路线未定。
+- Kirigami 开孔区若延伸至腿口/腰口 gasket 区是否形成新的最小阻力泄漏路径（上下午议题交叉点）。
+- 工厂系统性卫生为一票否决项（水系统、CIP 周期、沉降菌/浮游菌记录）。
+   • （完整 12 条行动项见 TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1） Action items 表。）
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (4 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • **Two-tier acceptance 验收双档制**：PRIMARY = **finished-diaper enterprise standard**（rewet <5.9 g @0.5 kPa after 2 insults、core stain uniformity ≥A、SAP utilization ≥63 %、wet tensile ≥75 N/m）；the **material level is a screening gate only** — fuzz ≤2 belongs to the material-level tier（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- **Test architecture 试验架构**：a 3-stage randomised DOE（seed 20260814）totalling 33 runs — Stage 1 configuration screen（4 configs × 3 temps × medium load = 12,
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • TTM-00609 面层材料起毛起球测试.doc
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+- KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx
+- ATB双梳理面层（Dual-Card Topsheet）
+- 热风粘合无纺布
+- 3D In-line Embossing Topsheet（3D 在线压花面层）
+- Dryness Measure System（干爽度量三分）
+- Nonwoven Deformation Force Test（无纺布形变力测试）
+- 三叶形截面纤维（Trilobal Fibre）
+- 皮芯复合纤维
+- GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）
+- Finished Product Testing Method Summary（成品测试方法汇总表）
+- Raw Material Testing Method Summary（原材料
+
+--- [[格林函数 Green's Function]]  (4 句)
+   • 平面源格林函数  —— 基本"砖块"（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- 该来源的定位表述：平面源格林函数是 **SAP 建模的原子单元** —— 单个 SAP 微球可视为瞬时点源，多粒子场可叠加（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+   • **三类解析方法**：① 反射与叠加法 —— 利用线性方程叠加性构造边界解；② 分离变量法 —— ，得到 Bessel/三角本征值问题；③ **Laplace 变换法** —— 最强工具，p 域求像函数 → 逆变换给出时间域解（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **源函数族（点 / 面 / 球 / 柱）**：瞬时点源（n 维推广 ）、瞬时面源（一维基本解）、瞬时球源（三维有限初始分布）、瞬时柱源（二维有限初始分布）（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **反射法直接编码边界条件**：不透水膜（PP 底膜）对应 ；透湿膜（顶表层）对应 （源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **推导逻辑链**：恒 D PDE → 试探解 → 质量守恒定 A → 反射+叠加 → 扩展初值 → 分离变量 → Laplac
+   • **SAP 单球溶胀有解析解。** 球源轴心解  直接给出单个 SAP 微球（半径 a）球心浓度的指数演化，可估算 SAP 吸水饱和速率初段（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **单球=原子单元，多粒子场可叠加。** 平面源格林函数被直接用作 SAP 建模的"原子单元"，多个 SAP 颗粒场按叠加原理合成（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **湿巾湿斑扩散=圆盘源问题。**  的解析级数形式（Rideal & Tadayon 方法）可用于湿巾湿斑扩散（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **反射法映射芯体分层结构。** 芯体的不透水 PP 底膜与透湿顶表层分别对应两类反射边界（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **半无限域是芯
+   • Citing sources 引用来源：Infinite and Semi-Infinite Media (Crank Ch.3)、Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、Laplace 变换、Bessel 函数、时间滞后法 Time Lag Method、湿迁移 Wet Migration
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]  (4 句)
+   • Full-English R&D plan workbook (Deliverable 1/2 foundation sheet, prepared 2026-08-14) for a **diffusion-enhanced topsheet（扩散增强面层：下渗快 + 面内扩散）** for the REL ultra-thin core diaper. It is the REL-track sibling of the Liner C1–C4 DOE plan — same dual-card architecture, different product target and KPI baseline. All assumptions are explicitly traced to meeting minutes 2026-08-13 and KB sources; [TBD] items require confirmation.（REL 超薄芯体配套的扩散增强面层六页规划：方案、DOE 矩阵、表征指标、排程、风险与预算。）
+   • **同一双梳理架构服务两条产品线（Liner C1–C4 与 REL 25 gsm），KPI 基线不同** —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)、ATB双梳理面层（Dual-Card Topsheet）
+- **温度窗口是异形纤维方案的第一工艺风险** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **回渗门槛双轨制（材料级 0.03 g vs 成品级 5.9 g）须在 Kickoff 锁定一审门** —— 支撑页：Dryness Measure System（干爽度量三分）
+   • 概念 Concepts：ATB双梳理面层（Dual-Card Topsheet）、CoPET（低熔点共聚酯）、Dryness Measure System（干爽度量三分）
+- 实体 Entities：福地（Fudi）、兰精集团、诺尔（Nuoer）
+- 对比 Comparisons：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+   • 本地路径：
+- 原文链接：（无；内部资料）
+- 关系说明：Liner 版同族计划见 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+
+--- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]  (4 句)
+   • Date 日期：**2026-09-07**（工厂访问日）；文件 Prepared **2026-09-02**
+- 组织邮件：**2026-09-02**，发件人 **Kang, BongSu**，收件人 **Teng, Bryan**（多人抄送）；要求确认**安全鞋尺码**并回复
+- 议程：
+  | Time 时间 | Agenda 议程 |
+  | --- | --- |
+  | 09:00 | 抵达 TJ 工厂 |
+  | 09:20 | 安全培训 |
+  | 09:30 | **GRID 项目评审** |
+  | 10:30 | **工厂参观** |
+  | 11:20 | 午餐 |
+  | 13:00 | **Gasket 工艺深挖** |
+  | 16:30 | 收尾 |
+  | 17:00 | 团队晚餐 |
+- 会前准备：提交安全鞋尺码；确认 "TJ" 指的是哪个厂区。
+   • 2. **GRID 在产品架构中的位置（已确认）**：
+   - KC Open Diaper 架构：**T4 及以下**用 **Surge / Liner 两件式**；**T5 及以上**升级为 **Support Layer / Topical liner（3-Piece Liner，三件式面层）**，产线含 **T5 的 Double Turn Bar（双转向杆）工位**。
+   - **SOAR4**（腰围弹性化 + topical liner）属 **T5+** 配置；同 tier 有 **New 3D Emboss + Apertured Liner**（全尺码）。
+   - 在 Intake Material Development Pathway 中，**GRID\***（星号 = 开发中）列在 **Surge 3D / Apertured** 分支下，与 **Textor AC4、Naxos、CleanShield、DEFENDER** 并列。
+3. **Kirigami 的定位与机理（已确认）**：
+   - **Drivers**：消费者对尿液/稀便管理与皮肤干爽
+   • 1. **TJ 到底指哪个厂区**（大田 vs. 天津）—— 参考材料中**没有 "TJ" 缩写记录**，大田属**推断**；若指天津，则工厂参观模块不适用。
+2. **GRID I/II 的结论、III 的核心差异、DYSON 的含义、GRID 与 Kirigami 的确切组合方式** —— 参考材料中**没有**，须现场确认。
+3. **本次 Gasket 环节聚焦哪个垫片位置与哪种失效模式** —— 未定。
+4. **Kirigami 的成本对比是否闭环**：在 POME 成本压力下，**Kirigami 的原料 + 加工成本 vs. POME 总成本**比较**尚未闭合**。
+5. **规模化数据缺失**：Kirigami 的**量产放大、在线切割速度、成本曲线数据均不可得**（TRL 3–4）。
+6. **切割工艺路线未定**：**在线 vs. 离线**；**激光 vs. 机械分切** —— 涉及线速、刀具磨损、成本曲线；两者在腰带透气性议题中被并列，claim space TBD。
+7. **开孔规格是否为终版**：**SemiCircle 10 mm 是否为最终规格**；
+   • 这是一份为 2026-09-07 工厂访问准备的内部 Pre-Brief（v3.1，2026-09-02 编制，v3.1 仅把 §4.2 测试方法一表改为项目符号以修复渲染）。访问设计成"上午看面层/surge 创新（GRID × Kirigami）→ 中午看 coform 湿巾产线 → 下午看防漏阻隔（gasket）"，并在结尾处把上午的开孔议题与下午的垫片议题**刻意交叉**：开孔区若延伸到垫片区域，是否会形成新的泄漏路径。
+

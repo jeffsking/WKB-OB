@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15-1",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_eef094be741aef9e1a467e14cc90f2ce001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Emerging_applications_of_stimuli_respons.pdf.md",
+   "name": "Emerging_applications_of_stimuli_respons.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_a27ef180a0734b8e00a6c2004ed3ef9e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md",
+   "name": "One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_65f571e13f20ef93cc42123fd3cd1585001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_PCM_Optical/Stimuli_Responsive_PCM_深度拆解.md.md",
+   "name": "Stimuli_Responsive_PCM_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8be7eb944b02bea6a6565660a8939a31001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Introduction_to_Liquid_Crystals.pdf.md",
+   "name": "Introduction_to_Liquid_Crystals.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_8caabb73221c87f728ffb1f3b951e6b6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US5197958_纸尿裤湿态指示_拆解.md.md",
+   "name": "US5197958_纸尿裤湿态指示_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_0ce16dccb533c611992103f92843f487001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Polymer_Reaction_Engineering.pdf.md",
+   "name": "Polymer_Reaction_Engineering.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_29ac1a4f0a19b1d0b8938a4ddbf51cc7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/80-高速pattern芯体成型工程总纲.md.md",
+   "name": "80-高速pattern芯体成型工程总纲.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e2b86e1216024993270cbd7e67f9df5d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Stimuli_Responsive_Phase_Change_Material.pdf.md",
+   "name": "Stimuli_Responsive_Phase_Change_Material.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d7f6edb8a86491caca2d81de168c3834001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/THE_MATHEMATICS_OF_DIFFUSION_CLARENDON_P.pdf.md",
+   "name": "THE_MATHEMATICS_OF_DIFFUSION_CLARENDON_P.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_62bfc7a5ec0e03186fe2387ab42d67d7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/polymer-science-and-technology_compress.pdf.md",
+   "name": "polymer-science-and-technology_compress.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

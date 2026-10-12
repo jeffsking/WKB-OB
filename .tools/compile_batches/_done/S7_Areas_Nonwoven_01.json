@@ -1,0 +1,12 @@
+{
+  "batch": "S7_Areas_Nonwoven_01",
+  "stage": "S7",
+  "block": "Areas/Nonwoven",
+  "source_pages": 1,
+  "concept_pages": 0,
+  "entity_pages": 0,
+  "comparison_pages": 1,
+  "updated_existing": 2,
+  "manual_review": 1,
+  "notes": "Compiled the single item: a sheath-core architecture decision matrix for biodegradable through-air nonwovens (PPC/PBAT sheath vs PET/PLA/PGA/PLGA cores). Built one new comparison page with mandatory cost and supply-chain-risk columns, carrying the five-dimension ratings, the delta-Tm governing logic, the shared sheath risks (9.0 N/50mm CD tensile threshold, Vicat 60.2C warehouse blocking at 60C x 72h, hydrophilic finish rebuild, PPC <=20% in sheath) and the layered-bet strategy. Appended dated evidence to the existing sheath-core bicomponent and PGA pages. Supplier action list (sample requests, MOQ, grade enquiries), price anchors and cost-model inputs were withheld under manual_review and remain only in the read-only source. index.md and log.md were not modified."
+}

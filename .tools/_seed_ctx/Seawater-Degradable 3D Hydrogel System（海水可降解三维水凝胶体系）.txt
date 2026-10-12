@@ -1,0 +1,142 @@
+# SEED: Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 246 页，384 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联密度 Crosslink Density]]  (7 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Two opposing structural levers.** Hydrophilic-group content ↑ ⇒ swelling ↑; cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓ — the same trade-off that governs SAP design（源：Hydrogels in Regenerative Medicine）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+
+--- [[水凝胶 Hydrogel]]  (6 句)
+   • **Hydrogel identity** = **a three-dimensional polymeric network that absorbs water / biological fluids**; **cross-links are mandatory**, precisely to stop the hydrophilic chains dissolving in the aqueous phase（源：Hydrogels in Regenerative Medicine）。
+   • 水凝胶基 SAP 的补充口径：**以亲水聚合物为骨架、经交联形成三维网络**，吸水后能维持吸水结构、不溶胀崩解，兼具高吸水/保水与形状恢复能力（源：Hydrogel-based Superabsorbent Polymers）。
+   • **交联是定义性条件。** 无交联则亲水链在水相中溶解，网络不成立（源：Hydrogels in Regenerative Medicine）。
+- **物理交联 vs 化学交联是中心取舍。** 物理凝胶由离子作用、氢键、配位键、疏水作用、结晶或蛋白相互作用形成，**可逆**且generally unstable；化学交联给出稳定网络（源：Hydrogels in Regenerative Medicine）。
+- **亲水性来自极性/可离子化基团。** −SO₃H、−COOH、−CONH₂、−OH、−NH₂；带电网络（−SO₃⁻、−COO⁻）可静电吸附金属离子。三类结构：中性（非离子）、离子型（聚电解质）、互穿网络（源：Hydrogels in Regenerative Medicine）。
+- **两个反向杠杆。** 亲水基团含量 ↑ ⇒ 溶胀 ↑；交联密度 ↑ ⇒ 链段活动性 ↓、柔性 ↓、溶胀 ↓ ——这与 SAP 设计的取舍同源（源：Hydrogels in Regenerative Medicine）。
+- **溶胀具有 pH/离子响应方向性。** 酸性基团水凝胶在碱性介质
+   • **SAP 是干态水凝胶。** SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，可用同一网络科学框架建模；常用骨架为聚丙烯酰胺（PAM）、聚丙烯酸（PAA），生物基路线为纤维素、淀粉、壳聚糖、海藻酸钙（源：Hydrogel-based Superabsorbent Polymers）。
+- **性能四参量调控。** 交联密度（低→吸水高但稳定性差；高→保水好但吸水受限，**存在最优值**）、亲水基团分布、离子强度（高离子强度降低吸水性）、温度（部分水凝胶具温度响应性）（源：Hydrogel-based Superabsorbent Polymers）。
+- **吸水速率先受粒径控制。**  预测有效半径减半 ⇒ 摄入快约 4 倍；当摄入速度或回渗是失败 KPI 时，应据此设定 PSD 档位（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+- **盐水敏感性是可比性红线。** 盐水中 Na⁺ 与网络 −COO⁻ 静电结合，减少可用于氢键的离子化基团，同一样品吸收相比纯水下降三倍以上（源：Citric Acid Crosslinke
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (6 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **Define/update the intake system innovation strategy** to meet the **top 3–5 K-C consumer needs for the next 5+ years**，**detailing by benefits and sub-benefits**（按利益与子利益逐层细化）。
+- **Identify gaps in the current innovation portfolio** that require **new technology development or fundamentals projects**（识别需要新技术开发或基础机理项目的组合缺口）。
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+   • **What is the "Intake System"?** —— 研讨会开场即把**「摄入系统到底是什么」**列为待澄清问题，说明该术语在跨职能/跨区域间**尚无统一定义**。
+- **And what is the impact of other absorbent strategies?** —— 其它吸收策略（芯体、材料迁移）对摄入系统的影响同样待界定。
+- **Prior Strategy reflections 既往战略复盘**被列为 Current Situation 下的固定议题。
+
+--- [[Hydrogels in Regenerative Medicine]]  (6 句)
+   • Hydrogel identity = a 3D polymeric network that absorbs water/biological fluids; **cross-links are mandatory** precisely to stop the hydrophilic chains dissolving in the aqueous phase.
+- **Physical vs chemical cross-linking is the central trade-off**: physical gels form by ionic interaction, hydrogen bonds, coordination bonds, hydrophobic interaction, crystallisation or protein interaction, are **reversible** (re-gel on returning to initial pH/temperature/solvent) and are **generally unstable an
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • General statement: hydrogels can hold **20–100 times their own weight** in water, structure-dependent.
+- Two structural levers oppose each other: **hydrophilic-groups content ↑ ⇒ swelling ↑**; **cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓**. This is the same trade-off that governs SAP designs.
+- An explicit unsolved conflict is flagged: synthetic biodegradable hydrogels combining good mechanical properties with high water content remain a major challenge, because **mechani
+   • Natural polymers bring biological compatibility and inherent biodegradability (collagen, silk, gelatin, fibrin, lysozyme, Matrigel, elastin-like polypeptides; HA, dextran, agarose, chitosan; hybrid pairs; DNA). Synthetic polymers win on **reproducible physical and chemical properties** and tunability of block structure, molecular weight, mechanical strength and biodegradability.
+- Biodegradation rate should coincide with new-tissue regeneration rate at the defect site — a design requirement, not
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (6 句)
+   • The closing chapter converts the same smart-hydrogel physics into **device components** — sensors, valves, pumps, clutches, lenses, filters — inside microchannels. Its thesis: "Hydrogel materials are both soft and responsive, which makes them ideal candidates in designing biomimetic components (e.g., valves, sensors) for use in microfluidic devices" (L56–59). Autonomy is the point: with hydrogels, "these materials can sense the local environment and undergo phase transition, such as an abrupt sw
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • **Fabrication routes compared** (L237–278): photopolymerization (high placement freedom, but "the radicals formed from the initiators are toxic to the cells"), thermally initiated polymerization (less control over size and location), ionic cross-linking (Ca²⁺ + alginate gives "temporary hydrogel networks"), interfacial polymerization (reagents in adjacent laminar streams at a T-junction), and enzymatic cross-linking (gelatin + transglutaminase cast in a silicone mold). Gradient hydrogels are mad
+   • This is the **most directly transferable chapter of the batch** for smart hygiene, and the read-across is legitimate rather than forced: an absorbent core is a confined microfluidic system made of a superabsorbent hydrogel plus fibrous channels, and the chapter's parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space.
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (5 句)
+   • An **application chapter** (区域给药). Its organizing claim is that systemic therapy fails by dilution and toxicity, so the drug should be delivered where its whole pharmacological effect is wanted: "Localized drug delivery is defined as a method of delivering a drug (for its local action) from a dosage form to a particular site in the biological system where its entire pharmacological effect is desired" (L110). Stimuli-responsiveness is **peripheral** here — it enters mainly through thermally induc
+   • 1. **Why regional delivery.** The main advantage is "high locoregional concentration of therapeutic agents with prolonged retention time" (L117–119). Disease areas listed: localized solid tumors, chronic/acute infections, vascular disorders, neurological disorders, and chronic/acute pain (Table 12.2, L226–238).
+2. **Synthetic over natural carriers.** "Synthetic polymers are preferred over natural ones, since they are presumed to be free of immunogenicity. Their physicochemical properties are als
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+   • 1. **SAP as a dry hydrogel.** The imbibition range "10 to 20% up to thousands of times their dry weight" (L1911–1913) and the chemical tie-point vs physical entanglement cross-link distinction (L1914) frame cross-link density ↔ swelling ratio ↔ retention-under-load mapping. 中文：SAP 可按水凝胶网络科学同一框架建模。
+2. **Environmentally sensitive gels for indicators.** Response variables are swelling, network structure, permeability and mechanical strength against pH, ionic strength, temperature, fields, glucose (
+
+--- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]  (5 句)
+   • **US 5,197,958（母案，授权日 1993-03-30，23 项权利要求）** claims a diaper for indicating wetness comprising an inner surface adapted to be positioned against the skin of a baby, an outer surface opposed to it, **material positioned between them which, when dry, is insufficiently thermally conductive for a normal body temperature to raise the outer surface above a given threshold, but which is sufficiently thermally conductive when wet to do so** — i.e. the material at least partially thermally insulates the 
+   • **Chemistry section (the most transferable content of this document).** The reversible thermochromic system is explained as **colouring matter + colour-developing matter + desensitizer**: the electron-donating colour former (**leuco dye**, itself colourless) is developed by a **phenol compound or acid clay**, and the **discolouring temperature** is set by a desensitizer from **alcohol / fatty acid / amide / ester** compounds. The **discolouring temperature corresponds to the melting (fusing) tem
+   • **US 5,389,093（延续案，授权日 1995-02-14，9 项权利要求）** broadens from "diaper" to a **diaper system** (outer shell + insulation layer + thermal indicator) and to a **method of detecting when a wearer has excreted moisture between its legs**; its granted thresholds are narrowed to **above 80 °F** and **above 87 °F**, it adds that the indicator may be **a mixture of thermochromic inks, one of which becomes colourless above the threshold**, and the file carries a **Certificate of Correction** (dated June 13, 
+   • **这是一条不依赖 pH 的尿湿指示路线**：靠**热量传导**而非化学反应指示——"湿了才导热"是本族唯一的技术支点。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **误报是被结构性地压住的**：内垫只在前后端固定、留出通风层让体热散逸，这解释了为什么"体温"本身不会触发阈值。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **这也是一份隐色染料体系的完整配方/失活手册**：脂肪酸决定脱色温度、两种以上混用可微调、**配比失衡即永久失效**、因此**必须微胶囊化**。→ Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation
+- **它的产品对象是可反复水洗的布尿裤**：因此对指示体系的隐含要求是**耐洗涤剂与耐热**（BACKGROUND 明确指出在先方案不耐反复洗涤），这与一次性纸尿裤的失效模式不同。
+
+--- [[Intake System（摄入系统）]]  (4 句)
+   • **权威边界定义**（Intake Systems Development Pathway 2023（摄入系统开发通路） 原文）：
+   • **子系统页**：ADL（导流层）、ATB双梳理面层（Dual-Card Topsheet）、Resilient Surge（PET 回弹导流层）、REL增强层（芯体侧收集传递层，与导流层**易混名**）、Core Channel Pattern（芯体通道花型设计）。
+- **机理页**：Residual Fluid & Pore Stranding（残液与孔隙滞留）（摄入层滞留 = 回渗源头）、毛细梯度设计、Gel Blocking（凝胶阻塞）（摄入失败会加重芯体侧阻塞）、Dryness Measure System（干爽度量三分）、Rewet Test（回渗测试）。
+- **功能化页**：Skin Health Treatment on Nonwoven（无纺布护肤处理）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）（对应"强化与滋养"需求空间）。
+- **组合页**：IPC BCC OI Portfolio（开放创新项目组合）。
+   • Intake Systems Development Pathway 2023（摄入系统开发通路） —— 
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） —— 
+- Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展） —— 
+- 03_卫材产线约束常量表（准入校验工具） ——
+   • **权威边界（2022 战略章程口径）**：**In Scope = Enterprise（Global & KCNA）Adult Care + Baby/Child Care，液体为尿液与稀便（Runny BM）**；**Out of Scope = 女性护理、以及吸收芯体技术（SAM / Fluff / Adhesives / CIRRUS）**。
+  - 关键补充：芯体虽被划出界，但章程要求**「consider how these impact the intake systems strategy」** → **摄入系统与芯体是「分域但必须做影响传递」**的关系，不是互不相关。
+  - 同样被排除的还有：**战术性材料迁移计划与 glidepath**、**特定项目/区域的技术对比 POV** —— 即摄入系统战略管的是**技术域与机理**，不管具体牌号迁移与区域选型。
+- **顶级需求即组织维度**：四大企业级需求为 **Skin Health & Wellness（含 Fresh Protection）、Leakage Protection、Comfortable Wea
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (4 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • **Definition, specimen, rating method, instrument and tolerance of the topsheet fuzz & pilling test** —— （must be checked against TTM-00609 面层材料起毛起球测试.doc）。
+- The unit of "fuzz"（whether it links to TS7 / a visual rating）is not given in the digest 。
+- Quantitative relation between fuzz & pilling and TS7 softness / topsheet free-fibre shedding 。
+- Whether this gate has entered the KC global STM/TTM method system, or remains a project-level screening convention 。
+   • TTM-00609 面层材料起毛起球测试.doc
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+- KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx
+- ATB双梳理面层（Dual-Card Topsheet）
+- 热风粘合无纺布
+- 3D In-line Embossing Topsheet（3D 在线压花面层）
+- Dryness Measure System（干爽度量三分）
+- Nonwoven Deformation Force Test（无纺布形变力测试）
+- 三叶形截面纤维（Trilobal Fibre）
+- 皮芯复合纤维
+- GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）
+- Finished Product Testing Method Summary（成品测试方法汇总表）
+- Raw Material Testing Method Summary（原材料
+
+--- [[变色油墨 Color-Changing Ink]]  (4 句)
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+   • **Wetness indication（尿湿指示）**: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy — which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。
+- **Selection criterion**: hydrochromic is the **only class dedicated to diaper wetness display**, hence the first screening condition in ink selection；baro-chromic ink is already on the CTI product line, cre
+   • Ancient Dyes and Pigments
+- Mechanochromic Fluorescent Polymers with AIE Features
+- Mechanochromic Photonic Sensors
+- Photochromism Dihydroindolizines
+- 变色油墨
+- Chromism Taxonomy（变色现象分类）
+- Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）
+- 变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）
+- 变色油墨供应商综合技术联系表
+- 变色油墨供应商综合技术联系表（1）
+- Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+- Qiansebian（千色变新材料）
+- Intellego Technologies AB
+- H.B. Fuller（富乐）
+- Smart Fabric Textiles Recent Advances 
+

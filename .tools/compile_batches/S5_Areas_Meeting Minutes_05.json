@@ -1,0 +1,55 @@
+{
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+   "name": "会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md",
+   "title_hint": "会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260814232451_1.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260814232451_1.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260814232451_1.md",
+   "name": "录音纪要_260814232451_1.md",
+   "title_hint": "录音纪要_260814232451_1"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md",
+   "name": "6.2EM供应商会议纪要.pdf.md",
+   "title_hint": "6.2EM供应商会议纪要.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/NUOER GROUP 2026.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/NUOER GROUP 2026.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/NUOER GROUP 2026.pdf.md",
+   "name": "NUOER GROUP 2026.pdf.md",
+   "title_hint": "NUOER GROUP 2026.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md",
+   "name": "August R&D Meeting.pdf.md",
+   "title_hint": "August R&D Meeting.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/热风无纺布供应商考察纪要（修订版）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/热风无纺布供应商考察纪要（修订版）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/热风无纺布供应商考察纪要（修订版）.docx.md",
+   "name": "热风无纺布供应商考察纪要（修订版）.docx.md",
+   "title_hint": "热风无纺布供应商考察纪要（修订版）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与华峰集团会晤纪要_20260729.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与华峰集团会晤纪要_20260729.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与华峰集团会晤纪要_20260729.docx.md",
+   "name": "与华峰集团会晤纪要_20260729.docx.md",
+   "title_hint": "与华峰集团会晤纪要_20260729.docx"
+  }
+ ]
+}

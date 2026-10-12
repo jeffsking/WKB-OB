@@ -1,0 +1,27 @@
+# SEED: 水性聚氨酯 Waterborne PU
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#
+# 全库正文命中 4 页，6 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[聚氨酯 Polyurethane]]  (3 句)
+   • **Waterborne shift.** Waterborne PU adhesives emit **no VOC** and are nonflammable, hence "more environmentally friendly"; the shift was driven by rising solvent prices（源：Adhesive Handbook Part 3 Adhesive Classes）。
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+   • The **Polyurethane Elastomer Handbook** source lacks editor, publisher, ISBN and year — all metadata is "not present in the source file", so no bibliographic anchor is available 。
+- The two cited-by Adhesive Handbook pages contribute only a **market figure, a waterborne-VOC statement and a  entry**; no PU class chapter detail is traceable from them 。
+- No **KC-relevant PU grade, modulus, Tg or elastic-recovery spec** appears in the digests 。
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (1 句)
+   • **粘弹性耗散主导强度，而非界面热力学。** 剥离强度 **G = G₀·ψ(v,T)**：G₀ = 本征断裂能，ψ(v,T) = 频率/温度相关的粘弹性函数。卫材含义："Temperature and peel rate directly determine core retention"— 配方开发的核心是设计 ψ(v,T) 的峰值（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **机械互锁是橡胶-纺织/绒毛浆界面的主导机制。** "penetration of the protruding fiber ends into the rubber was the most important parameter"，对应热熔胶点到浆纤维 / SAP 颗粒的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）。
+- **水基化转型不可逆。** 水性聚氨酯"no VOC emissions and
+
+--- [[Adhesive Handbook Part 3 Adhesive Classes]]  (1 句)
+   • **⚠️ 卫材行业直接命中** — "Personal hygiene products such as disposable diapers make use of self-adhesive strips, covered with a release tape that is removed at the point of use. Again unmodified acrylic dispersions as well as hot melts dominate this application. The same considerations apply here as in first-aid dressings, and in particular the adhesive must not cause skin irritation." [Line 16549-16553]
+- **初粘力的第一设计规则** — "A fundamental requirement for tack is a glass transition temperature substantia
+
+--- [[Polymer Reaction Engineering]]  (1 句)
+   • Ch1：1.1 Microstructural features of polymers and their effect on properties（1.1.1 Chemical composition and monomer sequence distribution / 1.1.2 Molecular weight distribution / 1.1.3 Polymer architecture / 1.1.4 Chain configuration / 1.1.5 Morphology / 1.1.6 Effect of processing and compounding）；1.2 Classes of polymerizations（Chain-growth / Step-growth）；1.3 Polymerization techniques；1.4 Main commercial polymers（Polyolefins / Styrenic / PVC / Waterborne dispersed polymers / Polyesters and polyami
+

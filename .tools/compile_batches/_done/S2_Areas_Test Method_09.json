@@ -1,0 +1,20 @@
+{
+ "batch": "S2_Areas_Test Method_09",
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "source_pages": [
+  "WIKI/sources/SAM吸收速度（From Nuoer）.docx.md",
+  "WIKI/sources/STM-00232布质外层与loop的粘连强度（人工方法）.docx.md",
+  "WIKI/sources/SAM密度(From China National Testing Method).docx.md",
+  "WIKI/sources/WI-64766温湿度纽扣测试方法.docx.md",
+  "WIKI/sources/SAM水分测定(From China National Testing Method).docx.md",
+  "WIKI/sources/TTM-00512 绒毛完整性.doc.md",
+  "WIKI/sources/澳洲dip and drip 实验.docx.md"
+ ],
+ "concept_pages": [],
+ "entity_pages": [],
+ "comparison_pages": [],
+ "updated_existing": ["WIKI/concepts/SAM Testing Methods（超级吸水材料测试方法）.md（回填五项待补口径：吸收量 WI-66078 / 保水量 WI-66077 / 吸收速度 WI-66079 / 密度 WI-66080 / 水分测定 WI-66083，并追加验证记录）"],
+ "manual_review": [],
+ "notes": "7 份全新源页全部落盘。方法参数均标口径；同类方法差异已注（WI-66079 旋涡 vs STM-00428 同族；TTM-00512 绒毛完整性 vs STM-00049 纤维度为对偶指标；澳洲 dip and drip 蒸馏水全浸 vs 盐水口径）。WI-64766 微气候法注液分档为专有口径，与其他假人法不可互填。无商务敏感内容。单源阈值类数值均标[待验证]；STM-00232 版本日期原文印制不全（'20年9月30日'）已标[待验证]。"
+}

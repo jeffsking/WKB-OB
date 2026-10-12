@@ -1,0 +1,130 @@
+# SEED: 纸浆干燥 Pulp Drying
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Industrial Drying
+#
+# 全库正文命中 157 页，272 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (9 句)
+   • Drying is governed by two simultaneous subprocesses:
+- **Process 1 (External):** Transfer of energy (heat) from environment to evaporate surface moisture
+- **Process 2 (Internal):** Transfer of internal moisture to the surface and its evaporation
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Hygiene implication:** Hot-air convection is the default for pulp, tissue and nonwoven through-dryers.
+   • **Constant-rate period:** Surface evaporation dominates; drying rate independent of internal structure
+- **Falling-rate period:** Internal diffusion/capillarity becomes rate-controlling; time scales with square of thickness
+
+--- [[Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）]]  (5 句)
+   • Bacterial cellulose aerogel drying is the controlled removal of liquid from a bacterial cellulose (BC，细菌纤维素) hydrogel while managing capillary stress, ice templating, fiber bonding, and pore preservation to obtain a target thermal–mechanical property set.  
+（中文：细菌纤维素气凝胶干燥是在液体脱除过程中控制毛细应力、冰模板、纤维结合与孔结构保持，以获得目标热—力性能组合的过程。）
+   • 1. **Capillary-stress route 毛细应力路线**: ambient, hot-air, and oven drying pass through a liquid–gas interface; capillary pressure can pull nanofibers together, increase density, and reduce swelling or gas permeability.
+2. **Sublimation route 升华路线**: freeze-drying first immobilizes water as ice and then removes it by sublimation. Ice-crystal size and orientation template the final pore architecture, so freezing rate and direction matter.
+3. **Critical-point route 临界点路线**: supercritical CO₂ drying s
+   • **Key conclusion 关键结论：Drying is a structure-forming operation rather than a simple water-removal step.（干燥不是单纯除水，而是结构成形步骤。）**
+   • Related 相关：nanocellulose aerogels（纳米纤维素气凝胶）[待建立]
+- Related 相关：freeze-drying（冷冻干燥）[待建立]
+
+--- [[Hygiene Absorption Model]]  (5 句)
+   • **6. 干燥耦合（drying coupling）：** 结合水（bound moisture）决定平衡含水率，从而决定纤维素绒毛浆与 SAP 可达干度的**下限**；热风对流是纸浆/纸巾/无纺布穿透干燥的默认方式（源：Industrial Drying Ch1 Principles and Classification）。
+   • ：**「Hygiene Absorption Model」作为模型的自身定义、状态变量与支配方程组**在引用来源中均未给出；现有摘录只提供吸收性口径与建模方法论。
+- ： 摘录中 "One-dimensional Washburn is a lowe…" 一句被截断，未予补写（源：Computational Modeling in Absorbent Technology）。
+- ： 中 25 g/m² 商用样回渗值（1.06 …）截断（源：ES Fibre Hydrophilic Function and Applications）。
+- ：本页摘录中  的命中属**粘接侧**内容（core retention 与 ψ(v,T)），非吸收模型正文，未作为本页主体证据。
+- ：三条原始引用来源（Handbook of Industrial Drying、Industrial Drying Ch28 Osmotic Dehydration and SAP Physics、Industrial Drying Ch50 Solid-Liquid Separation）**在本批摘录中无对应正
+   • **原始引用来源（Cited by, 3 处）**
+- Handbook of Industrial Drying
+- Industrial Drying Ch28 Osmotic Dehydration and SAP Physics
+- Industrial Drying Ch50 Solid-Liquid Separation
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+
+--- [[Coform Composite Nonwoven（熔喷-木浆复合非织造）]]  (4 句)
+   • **一句话定义**：把**熔喷 PP 纤维（meltblown polypropylene）**与**木浆纤维（fluff pulp / cellulose）**在同一成形过程中直接复合而成的非织造材料 —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；典型用于湿巾基材，本库关注其在**纸尿裤芯体包裹层（core wrap）**上的迁移可行性。
+   • Meltblown Nonwoven（熔喷非织造布）
+- 绒毛浆（Fluff Pulp）
+- ADL（导流层）
+- Composite Core Patent Clearance（复合芯体专利规避审查）
+- 延江（Yanjan）
+- Kimberly-Clark（金佰利）
+   • ✅ **验证记录（2026-09-29）**：结构与用量来自**内部技术文件**（Coform technical solution & material-use calculation），非现场实测；"TJ" 指大田（Taejon）为**推断**，文件自标注 Medium [待验证]。参见 Meltblown Nonwoven（熔喷非织造布）、绒毛浆（Fluff Pulp）、Kimberly-Clark（金佰利）。
+   • Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨） ——
+
+--- [[WRV 水保留值]]  (4 句)
+   • **WRV（水保留值，Water Retention Value）** is the vault's name for a **water-retention metric used in pulp / fibre characterisation and acceptance**. In the vault it appears only as a **named metric** — it is listed among the required acceptance indicators for wood-pulp / viscose fibres, and among the concept set of the cross-linked-cellulose chapter — but **no operational definition (test geometry, load, time, units) is given in any read source**（定义待补（引用来源未给出明确定义））.
+   • **Fibre/pulp acceptance metric.** In *Absorbent Technology* Ch.11 the vault places WRV in the four-metric acceptance block for wood-pulp / viscose fibres — **静态容量 + INDA 10.1 速率 + AUL + WRV + 湿态压缩模量** — with the explicit warning that capacity alone is not acceptable（源：Absorbent Product Testing）.
+- **Cellulose-superabsorbent context.** WRV is registered as a concept of the cross-linked-cellulose chapter (Ch.7), alongside DS, cross-link density, HEC, MFC, grafting and gel blocking — i.e. it belong
+   • **Operational definition, method and units of WRV** — not given in any read source .
+- Whether WRV is reported as **g water / g fibre** (centrifuge retention basis) or another basis — unstated .
+- No WRV value for a KC pulp grade or a named commercial fluff pulp is present in the read sources .
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[Dry-laid web formation]]  (4 句)
+   • Chapter 2 is the Handbook's deepest treatment of drylaid web formation — the textile-derived branch — culminating in airlaying and the raw-material science (fluff pulp, SAP, bicomponent blends) that defines modern hygiene cores and ADLs.（中文：第 2 章系统阐述干法成网（源自纺织），重点在气流成网与绒毛浆/SAP/双组分配比，直接定义现代卫生芯体与导流层。）
+   • The chapter progresses from carding physics (worker/stripper/licker-in/doffer, metallic wire geometry, aerodynamic control) through feed/weight-control systems to cross-lapping and perpendicular-laid structures.（从梳理机理、喂入与称重控制，到交叉铺网与垂直铺网。）
+- It culminates in airlaying (aerodynamic web formation) and its raw-material science: wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends.（高潮在气流成网及其原料科学：木浆、人造纤维、SAP 与双组分混合。）
+- For hygiene R&D the chapter explicitly names the "liquid acquis
+   • Airlaid webs are isotropic; carded webs are not — isotropy is a design variable for omnidirectional acquisition.（气流成网各向同性，是各向同性导流的设计变量。）
+- Hydrophobic synthetics preserve wet bulk; blends with pulp + SAP form the nappy acquisition layer.（疏水合成纤维保湿态蓬松，与浆/SAP 混合成导流层。）
+- SAP immobilises fluid under compression — core must not rewet under buttock pressure.（SAP 受压 immobilises 液体，是芯体抗回渗的设计依据。）
+- Cross-lapping bath-tub profile propagates into bonding and must be co-designed.（交叉铺网缺陷会传递至加固，须协同设计。）
+   • 父书：Handbook of Nonwovens
+- 概念：SAP（高吸水树脂）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 后续工艺：Mechanical bonding、Thermal bonding
+
+--- [[Effect of Drying Methods on Bacterial Cellulose Aerogel]]  (4 句)
+   • This peer-reviewed review consolidates how drying methods govern the thermal and mechanical behavior of bacterial cellulose (BC，细菌纤维素) aerogels and provides a parameter-backed basis for selecting a preservation route.  
+（中文：该同行评审综述系统梳理干燥方法如何影响细菌纤维素气凝胶的热学与力学表现，为干燥路线选型提供参数依据。）
+   • Bacterial cellulose offers high purity, crystallinity, hydrophilicity, and a nanoscale fiber network without the lignin-removal burden of plant cellulose. The review compares hot-air, freeze, ambient, supercritical CO₂, microwave, bidirectional-freezing, and oven-drying routes. Drying changes pore morphology, density, hydrogen bonding, crystallinity, water uptake, gas permeability, thermal conductivity, and strength. Freeze-drying is the most frequently reported route because it preserves porous
+   • **Freeze-drying preserves pore structure but does not universally maximize mechanical strength.（冻干保孔，但不必然带来最高机械强度。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Pre-freezing rate and architecture are part of the drying process window.（预冻结速率与结构同属干燥工艺窗口。）** — supporting page: Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）.
+- **Commercial selection must balance property retention, energy, cost, and scalability.（商业选型需平衡性能保持、能耗、成本与可规模化性。）** — supporting page: Bacterial Cel
+   • Concept 概念：Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+
+--- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]  (4 句)
+   • China's product standard for **fluff pulp**（绒毛浆）used as raw material for disposable hygiene products — the CN-market acceptance baseline for fluff pulp lots (quality, chemical safety, microbial).
+   • GB/T 21331-2021 (ICS 85.040 / CCS Y31, SAC/TC 141) is the first revision of the 2008 fluff pulp standard. It drops the old product-grade split and instead classifies pulp by chemical treatment: **treated**（处理浆，耐破度显著降低，利于散纤）vs **untreated**（未处理浆）. The 2021 revision's main technical changes: migratable fluorescent substances, AOX, and four heavy metals (Pb/As/Cd/Hg) are now specified with test methods; 二氯甲烷抽出物 is replaced by 丙酮抽出物; dry bulk, absorption time/capacity methods are reworked in normati
+   • **绒毛浆入厂验收的化学安全四件套（荧光物质/AOX/重金属/丙酮抽出物）是 2021 版新增** —— 支撑页：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **处理浆 vs 未处理浆的取舍本质是「蓬松/吸速 vs 强度」**：处理浆蓬松度门槛更高（17.0 vs 15.0 cm³/g）但耐破度更低 —— 支撑页：绒毛浆（Fluff Pulp）
+   • 概念：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、TCF Bleaching（全无氯漂白）（AOX 与漂白工艺相关）
+- 来源：GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）
+
+--- [[Industrial Drying Ch33 Drying of Fibrous Materials]]  (4 句)
+   • **Critical for modelling:** Do NOT use simple capillary-porous models for fluff pulp or airlaid webs.
+   • **Procurement use:** Use these equilibrium values to predict in-package MC drift and SAP–pulp partitioning under storage RH.
+   • Experimental range: **160–230°C**
+- Point-inversion: 155–300°C
+- Above inversion: steam drying outpaces air
+   • Handbook of Industrial Drying — Full book index
+- Industrial Drying Ch34 Drying of Textile Products — Nonwoven textiles
+- Industrial Drying Ch35 Drying of Pulp and Paper — Machine-scale pulp drying
+- Industrial Drying Ch15 Impingement Drying — Surface drying
+- Industrial Drying Ch17 Conveyor Dryers — Through-air TAD
+- SAP（高吸水树脂） — Super Absorbent Polymer
+
+--- [[Industrial Drying Ch35 Drying of Pulp and Paper]]  (4 句)
+   • **This is THE most actionable sentence in the Handbook for fluff-pulp qualification.** Over-drying market pulp in the final stage welds fibres via thermal cross-linking (hornification), raising defibration energy and hurting pad integrity. Suppliers control pulp temperature °C precisely to avoid this.
+   • 1. Claims the lower moisture bound is critical and names the failure mode — thermal cross-linking → poor reconstitution
+2. Operational rule: pulp temperature held below 70°C across both stages despite 400/170°C inlet air
+3. Energy integration — second-stage exhaust preheats first-stage inlet
+4. Staging — bulk water off first (~30% MC), delicate finish at low T
+5. Finishing — cool before baling to lock in quality
+   • **Fluff implication:** High-temperature drying history means collapsed pores and lost swellability.
+   • Handbook of Industrial Drying — Full book index
+- Industrial Drying Ch33 Drying of Fibrous Materials — Fibre physics, FSP, Tg
+- Industrial Drying Ch34 Drying of Textile Products — Nonwoven textiles
+- Industrial Drying Ch17 Conveyor Dryers — Through-air conveyor
+- Industrial Drying Ch46 Energy Aspects — Energy benchmarks
+- Industrial Drying Ch50 Solid-Liquid Separation — Mechanical dewatering
+- Industrial Drying Ch53 Cost Estimation — Cost methodology
+

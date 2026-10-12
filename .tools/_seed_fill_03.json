@@ -1,0 +1,22 @@
+{
+  "batch": "03",
+  "done": [
+    "热传递 Heat Transfer",
+    "ES 纤维 ES Fiber",
+    "粘附张力 Adhesion Tension",
+    "智能包装 Smart Packaging",
+    "改性纤维素 Modified Cellulose",
+    "复合膜 Composite Membrane",
+    "木浆 Pulp",
+    "Grafted Cellulose and Starch"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "粘附张力 Adhesion Tension：引用来源仅给出『动态粘附张力』(γSG − γSL)* = γ₂ₗ·(k*/k_water)，静态/平衡态定义缺失，已标 定义待补。",
+    "智能包装 Smart Packaging：无形式化定义；唯一落地证据为紫华 2026-06-02 演示的导电油墨尿液报警（尚在优化），机理/成本/寿命全缺。",
+    "复合膜 Composite Membrane：无独立定义；库内按 Crank Ch.12『层状介质/串联阻力』口径使用，另含多层膜（≤7层/≤3胶层）语境，需人工确认是否合并口径。",
+    "木浆 Pulp：无辞典式定义，仅由木材组成（纤维素40–55%/木质素15–35%/半纤维素25–40%）与制浆工艺事实拼合，已标 定义待补。",
+    "Grafted Cellulose and Starch：术语无逐字定义；该章正文仅有『相邻章节』引用，未入库正文，纯操作口径缺失。"
+  ],
+  "count": 8
+}

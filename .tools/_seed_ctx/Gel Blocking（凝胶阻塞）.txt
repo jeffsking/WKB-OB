@@ -1,0 +1,133 @@
+# SEED: Gel Blocking（凝胶阻塞）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 82 页，125 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]  (7 句)
+   • 1. 多层 ADL + Core 结构把 **SAP 利用率从 48.1% 提升至 63.6%（+32%）**，液体**均匀分布到 8 层 Core**，**完全避免单层凝胶阻塞**。
+2. **MD spread 从 0.9%（凝胶阻塞）提升至 34.9%（D_aniso = 3）**，接近**理论极限 36.7%**，**提升 38 倍**。
+3. **ADL 排水机制（step_adl_drainage）绕过了 Carman-Kozeny 干界面瓶颈**（kr 在干芯层中接近 0，压力求解器无法驱动重力流）。
+4. **质量误差全程 <0.015 mL（<0.01%）**，在所有场景下严格守恒。
+5. **D_aniso = 3 为最大稳定值**；**D_aniso ≥ 10 时显式方案不稳定，需隐式方案**。
+   • 1. ADL 层高渗透率（**k = 5e-11 m²，约为 Core 的 50 倍**）使液体快速通过；
+2. ADL 保留阈值 **S_thresh = 0.15**，超出液体立即排水；
+3. 排水量受 **ADL 渗透率 × ρg × dt** 物理限制；
+4. 液体**均匀分配到 8 层 Core（等量分水）**，避免单层凝胶阻塞。
+   • **Uniform**：200 mL 注入液**全部进入顶层 9 格**（中心 30% 区域），局部 SAP 迅速饱和（**0.9% MD spread = 凝胶阻塞**）；19 个活跃细胞中 **18 个在注入区内**。
+- **ML+Drain**：ADL 排水把液体分散到 8 层 Core，SAP 利用率 48.1% → 63.6%；但**无横向扩散**，MD spread 仅 31.9%（来自垂向均匀分布后的**固有分散**）。
+- **ML+Xdiff**：**D_aniso = 3** 把 MD spread 进一步提升至 **34.9%**，接近**理论极限 (Nx−inj)/Nx = 21/30 = 36.7%**。
+   • **Core 8 层合计 M_abs = 180.5 mL**；**ADL 合计 V_liq = 26.4 mL**（15% 饱和度阈值，占总液体 12.8%）。
+- **总液体 = 206.9 mL = 200 mL（注入）+ 6.9 mL（初始 Sw = 0.02）**。
+- **液体利用率 = 180.5 / 200 = 90.3%**。
+- ⚠️ **理论总容量 ~8,500 mL 远未被充分利用** —— ADL 排水绕过了干界面瓶颈，但 **Core 层内部的凝胶阻塞仍限制进一步深度渗透**（有效渗透率 ~2e-13 m²）。
+
+--- [[Multilayer SAP Core（多层SAP芯体）]]  (3 句)
+   • 1. **固定机制**：SAP 沉积在下层高蓬松热风无纺布上 → 覆上层无纺布 → 在 land 区（无 SAP 带）land-to-land 压合/粘合，把 SAP 限制在 pocket 内。与 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） 的"land 也是封堵凸台"原理同源。
+2. **功能分层**：靠**两层不同性能的 SAP** 分工——上层用**高渗透型**（high permeable，快速下渗），下层用**高保水型**（high retention，锁水）。这是本架构相对"单一 SAP 牌号均匀混合"的核心增益。
+3. **层间用胶极少量**：示例构型中每层界面仅 **3 gsm** 热熔胶，主固定力来自 land 压合而非胶（对照 Glueless Bonding（无胶粘合工艺族））。
+4. **与 Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体） 的关系**：本架构是"无浆化"的一条实现路径；差异在于**用高蓬松无纺布替代绒毛浆的分散与缓冲功能**，而非用 SAP 吸水纸（SAPP）或 
+   • 上位：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、芯体测试方法与验收基准（STM）
+- 同源机制：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）（land 封堵）、Glueless Bonding（无胶粘合工艺族）
+- 替代路径：SAP 吸水纸（SAPP）、Super Absorbent Fibre（超吸水纤维 SAF）、High-Density Fluff Core（高密度绒毛浆芯体）
+- 失效对照：Gel Blocking（凝胶阻塞）、Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- 设备方：Fameccanica（Angelini Technologies）
+   • 1. **绕开 CRC / AUL 的 trade-off** —— 单一牌号无法同时高 CRC 与高 AUL（**CRC↑ → AUL↓**）；分层后**快速层取"低 CRC 高 AUL"（负责吸入），主体层取"高 CRC"（负责保留）**，各司其职。
+2. **回渗从基准 3.0 g 降到 <2.0 g** —— 这是可被消费者感知的量化目标，而不是"更干爽"这类模糊宣称。
+3. **与超薄化的矛盾关系**：超薄（<2 mm）会推高 SAP 载荷密度 → **凝胶阻塞风险↑**；材料给出的解法正是 **多 SAP 层 + GBP 优化牌号选型** —— 即**用分层与渗透性管理来对冲薄型化的副作用**。
+
+--- [[孔隙率 Porosity]]  (3 句)
+   • **1. 孔隙率—渗透率动态耦合（凝胶阻塞）：** 由**颗粒填充床微观流道理论**（Carman-Kozeny）推导，模型自动捕捉凝胶膨胀导致的孔隙堵塞 —— SAP 溶胀 → 降低孔隙率 → 降低渗透率 → 限制后续液体到达更深层，形成**自限性机制**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。细网格能更精确解析 SAP 颗粒附近的**局部孔隙结构**，因而解析出更低的局部孔隙率（0.284 vs 0.347）（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+   • **提供正文摘录的库内页面**
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers
+- 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）
+- Gel Blocking（凝胶阻塞）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- PCM-Free Thermoregulation
+- BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- Electrospinning Technolog
+
+--- [[芯体通道花型设计]]  (3 句)
+   • **Spatial-dimension zoning.** Core Channel Pattern is listed as the **spatial-dimension** mitigation of gel blocking, against MD Liquid Distribution (the *inverse* distribution indicator) and SAP错峰膨胀 (the *time-dimension* mitigation)（源：Gel Blocking（凝胶阻塞））。It is likewise framed as the advanced form of zoning thinking — channel/void absorbent is the progression beyond flat vs pocketed forming（源：Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区））。
+   • **Structural counter-examples from models/minutes.** Model v8 flags that the two outermost slices are near-zero absorbing at 240 s — an edge-bypass route requiring barrier or edge-densified SAP（源：2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告））; and a "Code 10"-class observation notes that **centre densification can itself be detrimental** — a structural-zoning counter-example（源：Gel Blocking（凝胶阻塞））。
+   • Gel Blocking（凝胶阻塞）
+- Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- COCO芯体平台
+- COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+- Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+- ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+- 2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+- Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+- SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+- 
+
+--- [[CN 101464548 A（光缆-电缆阻水材料及其制备方法·含超吸水纤维 SAF）]]  (3 句)
+   • A Chinese published patent application (applicant: **东华大学 / Donghua University**) on a **water-blocking material using superabsorbent fibre (SAF)** for optical/cables — SAF is the acrylic-acid-based superabsorbent fibre (OASIS SAF context). Cable application, but SAF is SAP-fibre technology adjacent to hygiene SAP.
+   • The invention relates to a water-blocking material for optical/cable coating and joints, and its preparation. The material is made by blending superabsorbent fibre (SAF) with a low-melting fibre and a base fibre, or SAF with a bicomponent fibre, in a certain ratio, then web-forming, consolidation and slitting into rolls. The SAF is a terpolymer of acrylic acid (AA), methyl acrylate (MA) and a small amount of SAMM (special acrylate salt/MA); the low-melting fibre is PE/PP/copolyamide/PVC; the bas
+   • **SAF (AA/MA/SAMM terpolymer) water-blocking web for cables** — supporting page SAP（高吸水树脂） (SAF is a SAP-fibre form).
+- Adjacent to 三类纳米纤维素对比（CNC、CNF、BNC） (fibre forms).
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (3 句)
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]  (3 句)
+   • 本库**"高 GBP SAP 为什么难、怎么突破"的唯一一份完整作战方案**：它把 GBP 从"一个测试指标"还原成**一条由芯体结构倒推的需求链**（SAM% 越高 → GBP 门槛越高 → 否则凝胶阻塞 → 未饱和就漏），并在供应商侧给出**三条可执行路径 + 目标牌号 + 里程碑 + 21 条问询**。其中最有普适价值的一条是：**AUL 是 GBP 的必要不充分条件——先过 AUL，再谈 GBP。**
+   • **背景段**先回答"为什么是 GBP、为什么是 Nuoer"：芯体向薄型化、高 SAP 含量演进使 GBP 从"锦上添花"变为"核心刚需"，并给出**按 SAM% 分档的 GBP 最低要求表**；随后说明凝胶阻塞的失效链条与 HUT 相关性。选择 Nuoer 的理由是**釜式工艺的底层优势 + 中国成本结构 + 承接 SDP 退出后的份额**，并如实指出差距：**GBP 天花板 35 vs 标杆 50–96 Darcy**。
+   • "在 SAM% >55% 的芯体中，如果 GBP 不足，膨胀后的 SAP 颗粒会变形、相互粘连形成'凝胶阻塞（Gel Blocking）'……最终结果：渗漏——在 SAP 尚未达到饱和容量之前就发生泄漏。"（1.1）
+- "HUT（Home Use Test）数据显示，In-product GBP 与泄漏率呈显著负相关（R² ≈ 0.59-0.63）。"（同上）
+- "Nuoer 的釜式工艺路线在 GBP 上存在底层优势，不需要改变核心聚合工艺，重点在表面处理环节突破。"（2.1.1）
+- "关键认知：SAM Database 的 Trade-off 分析表明——**AUL 是 GBP 的必要不充分条件**。没有足够的 AUL（凝胶强度），GBP 无从谈起。"（2.1.3）
+- "设定 CRC≥28 为不可逾越的硬约束，在 DOE 中优先确保"（2.3 风险表）
+- "离子交联（非共价）可能在长期储存、运输振动或高湿度环境中退化，导致 GBP 随时间衰减。"（T5 涂覆层耐久性）
+- "总体时间线：从项目启动到商业化供货，乐观估计 12-15 个月，保守估计 18-24 个月。"（5.
+
+--- [[Products and Technology Perspective]]  (3 句)
+   • 1. **复合结构与非均质性**：吸液产品作为多聚合物复合体，结构-性能关系难建立的根本原因是孔隙几何无法充分定义、大尺度非均质性、吸液过程中结构自发改变。
+2. **静态 vs 动态机制根本差异**：产品在使用中受局部压力变化，界面物理特性持续变化——实验室静态测试与实际使用机制截然不同，且严重缺乏对"不同组分界面液体流动机制"的系统研究。
+3. **吸收核心是活性交互体系**：吸收核心"与身体运动和体液化学交互"，非被动复合材料——要求产品开发从"材料堆叠"思维转向"功能性分层设计"思维。
+4. **绒毛浆减量的因果链**：绒毛浆减量不是简单的 SAP 替代，必须同步优化 coverstock、leg cuffs 等综合结构创新；SAP 引入后芯体密度上升→获取速度下降→必须配置获取层→gel blocking 效应影响获取速率。
+5. **成本约束原则**：无论子层技术多么革命性，除非成本低廉，否则难以在吸液产品中大规模应用。
+   • 父书：Absorbent Technology
+- 概念：吸收芯体 · ADL（导流层） · 获取层 Acquisition Layer · 分布层 Distribution Layer · 保留层 Retention Layer · Gel Blocking（凝胶阻塞） · 回渗 Rewet · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose · 绒毛浆（Fluff Pulp） · SAP（高吸水树脂）
+- 相关章节：Nonwovens in Absorbent Materials · Absorbent Product Testing · Acrylic-Based Superabsorbent Polymers · Cross-linked Cellulose and Its Derivatives
+- 竞品路线：Kimberly-Clark（金佰利）（K-C 交联纤维素路线）· The Procter & Gamble Company（宝洁）（P&G 交联纤维素路线）
+   • **近中期**：优化三层密度梯度与毛细压力梯度，建立亲/疏水层序；量化评估 gel blocking 对获取速率的影响。
+- **中期**：女性护理产品线引入微沟槽纤维（需评估增量成本）；婴儿尿布产品线审慎对待分布层增量投资。
+- **远期**：跟踪生物技术路线——微生物合成纤维素（Acetobacter xylinum，微纤丝带 40–60nm）可能提供新一代高纯度纤维素原料，从根本上改变绒毛浆供应链格局；跟踪基因工程与植物组织培养对纤维原料的长期影响。
+- **全程**：建立基于专利分析（活动量/时效/主导/聚簇四维）的技术监控体系，识别 P&G、Kimberly-Clark 等竞品动向。
+
+--- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]  (3 句)
+   • **执行摘要**：最终架构建议采用「**3 牌号分层结构**」——**皮侧独立薄层**用 **LG LK804ND**，**聚侧混合层**用 **Nuoer KC-511（快膨）× Nuoer NR-950（延迟膨润）**。该方案来自 **PPT 3（5-Zone Core SAP REL Simulation）**，是三份中最完整、可执行的一版，建议作为主推路线推进至 Stage 1 验证。核心机理是「**错峰膨润动力学**」在多重复冲击下击败凝胶堵塞（gel blocking）；性能收益方向为 **SAP 成本、累计返渗、末次下渗时间三降 + 设计容量一升**，且 SAP 用量更少。
+   • **错峰膨润是时间维度的设计杠杆（快慢比），不是空间分层的位置问题** —— 支撑页：SAP错峰膨胀、Multilayer SAP Core（多层SAP芯体）
+- **单点 free-swell 会骗人，顺序多冲击 bench 测试是冻结 spec 的硬门槛** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）
+- **皮侧与储侧的评判标准不同：皮侧保孔隙（高 GBP）优先，储侧保容量（高 CRC/AUL）优先** —— 支撑页：Gel Blocking（凝胶阻塞）、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+- **REL 层把"导流"从牌号属性转移为结构属性，也把风险转移到工艺活化窗口** —— 支撑页：REL增强层、SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）
+   • 概念：SAP错峰膨胀、Multilayer SAP Core（多层SAP芯体）、Gel Blocking（凝胶阻塞）、SAP性能指标（CRC AUL GBP Vortex）、REL增强层、分区密度设计、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+- 实体：LG Chem（LG 化学）、诺尔（Nuoer）、巴斯夫欧洲公司（BASF SE）、Satellite Chemical（卫星化学）
+- 对比：SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）、SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (2 句)
+   • 与本页既有记录的衔接：本页已记 AT 的在线成形与薄型化特征；本批补充了**薄型化的代价是凝胶阻塞**，以及**用分层 + GBP 选型对冲**的具体路径。
+- 行业标杆（文档口径）：**花王妙而舒 0.1 cm（1.0 mm）超薄芯**。
+   • 1. **ActivTech 的价值不在"薄"，而在"成本 -10–15%"** —— 薄是手段，成本才是差异化；这也解释了为什么自研路线（Blizzard）值得投入。
+2. **专利属性改变了优先级排序**：技术本身评级高，但因"KC 专有、需规避专利"被 Workshop 降到 ⭐⭐ —— **专利风险可以独立否决一个高性能方案**。
+3. **"薄"有一个物理下限，由凝胶阻塞决定** —— 减薄不是无代价的；评估超薄方案时必须同时评估 **GBP**（GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制））。
+4. **去木浆 + 在线制造 = 双刃**：省掉木浆与离线成型环节，但把**渗透性的重任**全部压到 SAP 本身 → 这也是为什么 GBP 优化选型会成为解法的关键一环。
+

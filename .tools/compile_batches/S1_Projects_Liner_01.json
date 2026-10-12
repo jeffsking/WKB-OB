@@ -1,0 +1,41 @@
+{
+ "stage": "S1",
+ "block": "Projects/Liner",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md",
+   "name": "KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md",
+   "title_hint": "KC_Diffusion_Enhanced_Topsheet_v3.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md",
+   "name": "pentagram_PET_diaper_liner_deep_dive 1.pptx.md",
+   "title_hint": "pentagram_PET_diaper_liner_deep_dive 1.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md",
+   "name": "Trilobal_PET_Liner_MD_Distribution.pptx.md",
+   "title_hint": "Trilobal_PET_Liner_MD_Distribution.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md",
+   "name": "pentagram_free_shaped_PET_alternatives_8slides.pptx.md",
+   "title_hint": "pentagram_free_shaped_PET_alternatives_8slides.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md",
+   "name": "ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md",
+   "title_hint": "ATB_topsheet_600mpm_ultrasonic_8slides.pptx"
+  }
+ ]
+}

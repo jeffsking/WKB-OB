@@ -1,0 +1,74 @@
+# SEED: 天然染料 Natural Dye
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments
+#
+# 全库正文命中 44 页，52 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments]]  (3 句)
+   • **EN**: A scholarly review of the advanced chemistry applied by ancient dyers to organic dyes and pigments from flora and fauna sources. Covers ionic/covalent/intermolecular bonding, coordinate complexation, enzymatic hydrolysis, photochemical chromogenic precursor oxidation, anaerobic bacterial fermentative reduction, and redox reactions. Some textile dyeings survive after six millennia. Cross-references with hygiene products in natural dyes, plant-based materials, and botanical extracts.
+   • **中文**: 古代染料师应用于植物/动物源有机染料与颜料的高级化学综述——涵盖离子/共价/分子间键合、配位络合、酶促水解、光化学变色前体氧化、厌氧细菌还原、氧化还原反应。部分纺织染色存活六千年。与卫生用品的交叉点在于天然染料、植物基材料与植物提取物。
+   • 天然染料 Natural Dye
+- 植物基材料 Plant-Based Material
+- 植物提取物 Plant Extract
+- 湿巾 Wet Wipes
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (2 句)
+   • 源文提出"要在皮肤领域取胜，需要组合式打法（Portfolio Play）"，**统一元素**包括：**Optimal pH**（最优 pH）、**Hero Ingredients**（如 **d-Panthenol (vit B5)**、pre-biotics、soothing botanicals）、**Natural**（柔软、天然、无添加刺激成分）、**Doctor / Derm / Nurse Credentials**（医生/皮肤科/护士背书）。
+   • **时间线定位**：本页所记为**摄入系统研讨会**的全球品牌与区域概览材料；其**章程文件**为 2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）（2022-08-15~17，Neenah WRE + 线上，会前章程版本日期 2022-08-04）。
+- **章程界定的范围**（供本页内容对表）：In Scope = **Enterprise（Global & KCNA）Adult Care + Baby/Child Care（尿液与稀便）**；Out of Scope = 女性护理、**吸收芯体技术（SAM/Fluff/Adhesives/CIRRUS）**、战术性材料迁移与 glidepath、特定项目/区域的技术对比 POV。
+- **章程要求的产出形态**应在本页材料中体现：**按 benefit area 组装的技术组合** + **识别并排序的组合缺口** + **（next steps / owners / cadence）**；四大企业级需求为 **Ski
+
+--- [[Manufactured Fibre Technology Ch01 Introduction]]  (2 句)
+   • 判别标准在**几何形态与基本使用性能**，而非化学来源（p.1）：>"A textile fibre is a long thin object with a high ratio of length to thickness. It is characterized by a high degree of fineness and outstanding flexibility. In addition, it should have dimensional and thermal stability and minimum levels of strength and extensibility consistent with the end use."
+- 天然纤维多为短纤维（staple fibres 短纤维），长度约 10–500 mm；蚕丝为长丝（filament 长丝）。人造纤维先制成连续长丝，需要时再切断成短纤（p.1）。
+- 人造纤维分三子类：**改性天然聚合物**（modified natural polymers，如再生纤维素）、**全合成**（wholly sy
+   • >"It is noteworthy that compared with the natural fibres, the manufactured fibres have a wider property spectrum. This is an important and useful feature of these fibres." (p.6) —— 以 Table 1.2 的密度、回潮（moisture regain）、强度数据支撑，说明性能可通过分子设计定制。
+- >"In 1995, 23.19 million tonnes of manufactured fibres were produced, accounting for almost 53% of the total (natural and manufactured) world fibre production of 43.651 million tonnes; nearly 87% of the total manufactured fibre production was from synthetic p
+
+--- [[Origin of Rubber Elasticity]]  (2 句)
+   • Thermoelastic inversion 热弹倒转 (P2)：
+> "The shift from negative slope at low degree of elongation to the positive slope at a higher extension ratio is called the thermoelastic inversion."
+> "The thermoelastic inversion value may lies around 10% for rubbery materials." — "not confined to natural rubber, but it is general for all rubbery materials."
+   • Natural-rubber experimental sample 天然橡胶实验样本：NBS pale creep rubber, 1.5 phr dicumyl peroxide, cured 145°C / 40 min.
+
+--- [[Seymour Carraher Polymer Chemistry]]  (2 句)
+   • Ch2：2.1 Stereochemistry of Polymers；2.2 Molecular Interactions；2.3 Polymer Crystals；2.4 Amorphous Bulk State；2.5 Polymer Structure-Property Relationships；2.6 Crystalline and Amorphous Combinations。
+- Ch3：3.3 Average Molecular Weight Values；3.4 Fractionation of Polydisperse Systems；3.5 Chromatography；3.10 Light Scattering Measurements；3.14 Viscometry。
+- Ch4：4.3 Weatherability；4.4 Optical Property Tests；4.6 Spectronic Characterization；4.7 Thermal Analysis；4.10 Surface Characterization；4.13 Measure
+   • Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers — Ch10 纤维素/淀粉/多糖等天然聚合物的分章页
+- Seymour Polymer Chemistry Ch14 Plasticizers and Additives — Ch14 助剂体系的分章页
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization — Ch7 离子与配位聚合的分章页
+- Introduction to Physical Polymer Science — Ch2/Ch3/Ch5 形态、分子量与流变的物理深度补充
+- Polymer Testing Handbook Short-Term Mechanical Tests — Ch4 测试表征章对应的标准化规程
+
+--- [[Seymour Polymer Chemistry Ch01 Introduction to Polymer Science]]  (2 句)
+   • **词源 / Etymology**：*"The word polymer is derived from the Greek poly and meros, meaning many and parts, respectively. Some scientists prefer to use the word macromolecule, or large molecule, instead of polymer."* (line 11-12)
+- **时代定位**：*"Since most chemists and chemical engineers are now involved in some phase of polymer science or technology, some have called this the polymer age. Actually, we have always lived in a polymer age."* (line 5-6)
+- **同一原理 / Unified principle**：*"However, the same p
+   • **术语之争 / Nomenclature dispute**：polymer vs macromolecule — Seymour 呈现两派但不裁决，并指出 "the same principles apply to all polymers"，暗示术语之争是表面的。
+- **天然 vs 合成二元论的消解**：传统教学主张 natural polymers 与 synthetic polymers 分课讲授；Seymour 以还原论立场反驳——同一结构-性能原理适用。
+- **基础研究与应用研究的断裂 / The "unnatural gap"**：*"Up to this point, it was considered that universities were where discoveries were made and industry was where they were put to some practical use. This separation between basic and applied work was quite prominent at th
+
+--- [[Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers]]  (2 句)
+   • Chapter 10 is the largest chapter in the book and brings biopolymers into the unified polymer-chemistry framework: **carbohydrates（cellulose → regenerated cellulose → cellulose esters/ethers → starch → heteropolysaccharides）→ proteins → nucleic acids → natural rubber → renewable resources**. 对卫材的直接意义：**绒毛浆（fluff pulp）就是纤维素**，本章给出其 DP、结晶密度、氢键网络与制浆工艺的化学基础；**粘胶纤维、醋酸纤维、Lyocell 类再生纤维素纤维**是面层/导流层原料；**CMC 等纤维素衍生物**是 SAP 的辅助吸水剂。
+   • **蛋白质结构层级**：一级结构（sequence）→ 二级结构（α-helix、β-sheet）→ 三级 → 四级；由约 20 种氨基酸构建（line 167-168）。
+- **核酸**：DNA 双螺旋（Watson–Crick model）；5 种碱基（A、T、G、C、U）+ 2 种糖（脱氧核糖、核糖）（line 178-179）。
+- **天然橡胶 Natural rubber**：**cis-1,4-polyisoprene（顺式-1,4-聚异戊二烯），Tg ≈ −71 °C**（line 172, 328）；硫化（vulcanization）交联赋予弹性（line 183）。合成顺式聚异戊二烯可通过阴离子聚合获得（见 Ch.07）。
+
+--- [[China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）]]  (1 句)
+   • 1. **消费升级 Trading-up**：from "usable" to "skincare/nourishing" — premium brands gain pricing space.
+2. **绿色消费 Green consumption**：degradable, bio-based, natural materials attract young parents.
+3. **国产替代 Domestic substitution**：Babycare, BeBeBus, Bibi (碧芭), Qiaoshi (雀氏) etc. significantly improved tech capability.
+
+--- [[Diaper Premiumization（纸尿裤高端化）]]  (1 句)
+   • 1. **Tier architecture（层级架构）**：offer a structured price ladder so consumers self-select trade-ups as willingness/ability to pay rises (e.g. Huggies' tier 4 → tier 8, with natural-skin and dry-comfort pillars).
+2. **Functional proof（功能证据）**：premium claims must be demonstrable (skin-health tech, "3°C cooler" liner, overnight dryness) — brand equity is built on credibility, not slogans.
+3. **Occasion-based marketing（场景营销）**：seasonal/sub-brand SKUs (summer +5~10% price) capture share and realize pri
+
+--- [[Intake System（摄入系统）]]  (1 句)
+   • **权威边界（2022 战略章程口径）**：**In Scope = Enterprise（Global & KCNA）Adult Care + Baby/Child Care，液体为尿液与稀便（Runny BM）**；**Out of Scope = 女性护理、以及吸收芯体技术（SAM / Fluff / Adhesives / CIRRUS）**。
+  - 关键补充：芯体虽被划出界，但章程要求**「consider how these impact the intake systems strategy」** → **摄入系统与芯体是「分域但必须做影响传递」**的关系，不是互不相关。
+  - 同样被排除的还有：**战术性材料迁移计划与 glidepath**、**特定项目/区域的技术对比 POV** —— 即摄入系统战略管的是**技术域与机理**，不管具体牌号迁移与区域选型。
+- **顶级需求即组织维度**：四大企业级需求为 **Skin Health & Wellness（含 Fresh Protection）、Leakage Protection、Comfortable Wea
+

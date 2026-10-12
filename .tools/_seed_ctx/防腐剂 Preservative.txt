@@ -1,0 +1,110 @@
+# SEED: 防腐剂 Preservative
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Cosmetic Formulation of Skin Care Products
+#   - Cosmetic Science and Technology
+#
+# 全库正文命中 24 页，41 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）]]  (3 句)
+   • 1. **适用对象（§1.2）**：涂、擦、散布于人体表面任何部位（表皮、毛发、指甲、口唇等）或口腔粘膜，以达到清洁、护肤、美容和修饰目的的产品；**国内生产、销售及进口化妆品均须符合**（§1.3）。
+2. **五表结构**：
+   - **表1 有毒物质限量**（成品侧，四项）
+   - **表2 禁用物质**（约 200+ 项；含汞及其化合物、放射性物质、抗菌素类、苯、二噁烷等）
+   - **表3 限用物质**（57 项，含使用范围与标签必要说明）
+   - **表4 限用防腐剂**（含苯氧乙醇、Parabens、山梨酸、苯甲酸等）
+   - **表5 限用紫外线吸收剂**（36 项，单品上限 1%~10%）
+   - **表6 暂用着色剂**（按 I/II/III/IV 类限制使用部位）
+3. **叠加规则（§2.2.3）**：同用表3–表6 中两种以上物质时，**具有同类作用的物质其「用量/规定限量」之比的总和不得大于 1** —— 复配防腐剂/防晒剂必须做比值核算。
+4. **检验方法链（§3）**：GB 7917.1~7917.4—87（卫生化学）、GB 7918.1~
+   • 防腐剂单体：Phenoxyethanol（苯氧乙醇）
+- 微生物口径：化妆品微生物限值（细菌总数·致病菌）
+- 卫材侧总纲：GB 15979-2024（一次性使用卫生用品卫生要求）（湿巾/卫生用品走 GB 15979 + GB 38598，与化妆品体系不同轨）
+   • 1. **叠加规则（Σ ≤1）最容易被漏算**：复配防腐剂时，每一种都要算「实际用量 ÷ 该物质限量」，求和不得过 1；只看单个是否超标会漏判。
+2. **儿童相关限制散落在多个表中**（表3 硼酸、表4 水杨酸/六氯酚），不是集中条款，做婴幼儿产品须逐表扫。
+3. **「暂用着色剂」的 I/II/III/IV 分类是按使用部位（眼/口腔/唇部）禁用**，与卫材的印刷/染色部位限制逻辑相似，可类比记忆。
+
+--- [[湿巾 Wet Wipes]]  (3 句)
+   • **Compliance layers（合规层级，CN）**
+- GB 43631-2023 is the **mandatory chemical-safety floor**（强制国标，工信部归口）for children's paper products; it covers wipes, diapers and tissue（生活用纸品）and sets one shared floor table across heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines（源：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范））。
+- GB/T 27728.2-2024 layers baby-wipe requirements on top of GB/T 2772
+   • Formulation cross-over: the skincare-formulation reference covers formulation design, ingredient selection, processing and stability, and cross-references hygiene products in **moisturising / care wet-wipes formulation** and **nonwoven–skin interface comfort assessment**（源：Cosmetic Formulation of Skin Care Products）。
+- Related concepts: Nonwoven 非织造布、乳化剂 Emulsifier、保湿剂 Humectant、防腐剂 Preservative（源：Cosmetic Formulation of Skin Care Products）。
+- Shared chemical floor with diapers: GB/T 28004.1-202
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[Cosmetic Science and Technology]]  (3 句)
+   • **EN**: A multi-volume series covering cosmetic and drug preservation, cosmetic analysis, industry science and regulatory foundations. Cross-references with hygiene products in preservative systems, nonwoven substrate hygiene requirements, and product safety regulatory frameworks.
+   • 1. **化妆品与药物防腐**——防腐剂体系、防腐挑战值、微生物控制
+2. **化妆品分析**——选择性方法与检测技术
+3. **化妆品行业科学**——配方科学、工艺与质量控制
+4. **监管基础**——化妆品法规与安全性要求
+5. **与卫生用品交叉**——防腐体系、非织造基材卫生学、产品安全监管
+   • 湿巾 Wet Wipes
+- 防腐剂 Preservative
+- Nonwoven 非织造布
+- 化妆品科学 Cosmetic Science
+
+--- [[GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）]]  (3 句)
+   • 中国化妆品领域**最早的国家级强制性卫生标准**（UDC 668.58:613.49，GB 7916-87），本库用于回溯「限用/禁用物质清单」「微生物与重金属限值」的原始口径，是湿巾 lotion、防腐剂选型、婴幼儿产品合规的底表之一。
+   • 本标准由卫生部与轻工部提出、中国预防医学科学院环境卫生监测所归口，分三章 + 六张附表。§1 总则定义化妆品为「涂、擦、散布于人体表面任何部位（表皮、毛发、指甲、口唇等）或口腔粘膜，以达到清洁、护肤、美容和修饰目的的产品」，并规定国内生产、销售及**进口**化妆品一律适用；地市级以上卫生防疫部门管生产、县级管销售，卫生部下设「化妆品安全性评审组」受理进口原料与产品注册。§2 是技术核心：一般要求（外观良好、无异味、不刺激、无感染性）+ 原料要求（表2 禁用、表3–表6 限用，且**同类作用物质叠加比之和 ≤1**）+ 产品要求（微生物学与有毒物质限值）+ 包装无毒清洁 + 中文标签（品名、企业、产地、批号，含药物或可能致敏者须注使用方法和注意事项）。§3 规定检验方法（GB 7917.1~7917.4-87 卫生化学、GB 7918.1~7918.5-87 微生物）与安全评价程序（GB 7919-87）。六张表构成本标准的实质清单：表1 有毒物质限量、表2 禁用物质（含汞及其化合物、放射性物质、抗菌素类、苯、二噁烷等，序号至 200+）、表3 限用物质 57 项、表4 限用防腐剂、表5
+   • **「婴幼儿/粘膜接触类」在本标准中即被单列更严的微生物口径（500 vs 1000）** —— 支撑页：化妆品微生物限值（细菌总数·致病菌）
+- **限用物质的叠加规则（Σ ≤1）是复配防腐剂设计的硬约束** —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- **Phenoxyethanol 1.0% 是本标准表4 给出的防腐剂口径，与 EU SCCS 1.0% 口径一致（出处不同，勿混为一条）** —— 支撑页：Phenoxyethanol（苯氧乙醇）
+- **汞/铅/砷/甲醇四项重金属与溶剂限量是原料准入的底线筛** —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+
+--- [[SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS-1575-16, 2016)]]  (3 句)
+   • One-sentence positioning 一句话定位：欧盟消费者安全科学委员会（SCCS）关于化妆品用苯氧乙醇防腐剂安全性的最终科学意见，给出 **1.0% 最大使用浓度** 的安全结论，是 EU 化妆品合规的关键依据。
+   • 文件编号 **SCCS/1575/16**，最终版 **2016-10-06** 在 SCCS 第 2 次全会通过；由欧盟委员会健康与食品安全总司请求出具。
+- 苯氧乙醇（2-Phenoxyethanol, CAS 122-99-6）作为防腐剂受 **(EC) 1223/2009 附录 V/29** 监管，授权最大浓度 **1.0%**。
+- 血液毒性（haematotoxicity）是主要毒理特征；兔为最敏感物种，经皮暴露是化妆品相关主要途径（兔经皮 90 天 RDT 研究 NOAEL = 357 mg/kg bw/day）。
+- SCCS 结论：在 1.0% 作为防腐剂使用**安全**；成人 MoS≈130、儿童 MoS≈50，覆盖易感年龄组。
+- 委员会提示本意见**未考虑化妆品以外来源**的暴露；存在 minority opinion。
+   • EU 口径：苯氧乙醇防腐剂 **≤1.0%** 安全；湿巾、护肤配方可据此设限。
+- 与中国 2015 规范将苯氧乙醇列为准用防腐剂（表4 #37）相互印证，但两地具体上限口径可能不同（见 Phenoxyethanol（苯氧乙醇））。
+
+--- [[化妆品安全技术规范（2015年版）·检验方法篇]]  (3 句)
+   • One-sentence positioning 一句话定位：本页是《化妆品安全技术规范》(2015) 检验方法章节的平行提取，聚焦防腐剂组分（含苯氧乙醇）的含量测定方法，与总规范页互为备份。
+   • 内容为《化妆品安全技术规范》(2015) 第4章「理化检验方法」中关于**化妆品中甲基氯异噻唑啉酮等 12 种组分含量的测定**方法。
+- 12 种目标组分为防腐剂：甲基氯异噻唑啉酮、2-溴-2-硝基丙烷-1,3-二醇、甲基异噻唑啉酮、**苯甲醇、苯氧乙醇**、4-羟基苯甲酸甲酯、苯甲酸、4-羟基苯甲酸乙酯、异丙酯、丙酯、异丁酯、丁酯。
+- 文内给出各组分色谱保留时间（如苯氧乙醇约 4.296 min），作为定性/定量依据。
+   • 苯氧乙醇在中国规范中被列为**准用防腐剂**（12 种测定对象之一），其使用限量见规范表4（本页未摘录具体数值，标 ）。
+- 本页与 化妆品安全技术规范（2015年版） 内容同源，差异仅为提取格式。
+
+--- [[Phenoxyethanol（苯氧乙醇）]]  (2 句)
+   • 1. **功能定位**：作为防腐剂抑制化妆品中微生物生长；因溶剂特性常与其他防腐剂复配。
+2. **安全关注点**：血液毒性（haematotoxicity）是主要毒理特征，经皮暴露为化妆品相关主要途径；兔是最敏感实验物种。
+3. **法规管理**：多地将其列为限用/准用防腐剂，设最大允许浓度。
+   • 法规体系：化妆品限用-准用组分体系（中国 2015 技术规范）、SCCS（欧盟消费者安全科学委员会）
+- 同类限用防腐剂：甲基氯异噻唑啉酮、4-羟基苯甲酸酯类等（见规范表4）
+
+--- [[Cosmetic Formulation of Skin Care Products]]  (2 句)
+   • 1. **护肤品配方设计**——乳化剂、保湿剂、防腐剂、活性成分的选择与配比
+2. **原料科学**——表面活性剂、增稠剂、抗氧化剂、防晒剂
+3. **工艺与稳定性**——乳化工艺、均质、灭菌、包装
+4. **安全性与功效评估**——皮肤刺激、功效测试
+5. **与卫生用品交叉**——护肤型湿巾配方、非织造基材舒适性、微生物控制
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 乳化剂 Emulsifier
+- 保湿剂 Humectant
+- 防腐剂 Preservative
+
+--- [[GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）]]  (2 句)
+   • China's **mandatory chemical-safety floor**（强制国标）for all paper products for children ≤6 — the single table that wipes, diapers and tissue SKUs must clear on heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines; it is the standard that GB/T 27728.2-2024 delegates its "safety indicators" clause to.
+   • GB 43631-2023 (ICS 85.010 / CCS Y30, 工信部) is a mandatory national standard applying to infant/children paper products manufactured or sold in China. It classifies products into 生活用纸品 (tissue, wipes, diapers) and 文化用纸品 (paper/board/books) and sets one shared chemical baseline plus category-specific rows. The shared floor: four heavy metals, migratable fluorescent substances "无", acrylamide ≤0.1 mg/kg, and a 24-species carcinogenic aromatic amine list (Annex A) at ≤20 mg/kg for printed/dyed items.
+
+--- [[GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）]]  (2 句)
+   • GB/T 36420-2018 (SAC/TC 141) defines how tissue/hygiene-paper manufacturers shall organize chemical and raw-material safety management: suppliers must deliver quality certificates plus MSDS (or a CAS-anchored ingredient list), an internal assessment team evaluates every chemical and raw material, approved items enter controlled lists with process documents, acceptance includes COA verification (Annex C lists suggested upstream product standards, e.g. GB/T 21331 绒毛浆、GB/T 22875/22905 SAP、QB/T 4508
+   • **「体系标准 vs 限值标准」双轨**：GB/T 36420 管流程与台账，GB 43631-2023 管法定限值；附录数字是**建议基线**，不能当作合规终裁依据 —— 支撑页：GB-T 36420-2018（生活用纸化学品安全评价体系）、GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- **苯氧乙醇 ≤1.0% 的湿巾限值与化妆品规范一致**（2015 版《化妆品安全技术规范》防腐剂表同口径）—— 支撑页：Phenoxyethanol（苯氧乙醇）
+- **附录 C 是上游原料标准清单**（绒毛浆、SAP、面层、吸水衬纸等 11 项），可直接作为供应商 COA 核验 checklist —— 支撑页：Material Safety Control（材料安全双轨管控）
+

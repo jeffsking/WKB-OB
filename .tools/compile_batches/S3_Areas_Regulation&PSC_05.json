@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf.md",
+   "name": "GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf.md",
+   "title_hint": "GB／T 27728.2-2024 湿巾及类似用途产品 第2部分：婴童湿巾专用要求.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 21331-2021 绒毛浆.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 21331-2021 绒毛浆.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 21331-2021 绒毛浆.pdf.md",
+   "name": "GB／T 21331-2021 绒毛浆.pdf.md",
+   "title_hint": "GB／T 21331-2021 绒毛浆.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27741-2018 纸和纸板 可迁移性荧光增白剂的测定.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27741-2018 纸和纸板 可迁移性荧光增白剂的测定.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27741-2018 纸和纸板 可迁移性荧光增白剂的测定.pdf.md",
+   "name": "GB／T 27741-2018 纸和纸板 可迁移性荧光增白剂的测定.pdf.md",
+   "title_hint": "GB／T 27741-2018 纸和纸板 可迁移性荧光增白剂的测定.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27731-2011 卫生用品用离型纸.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27731-2011 卫生用品用离型纸.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27731-2011 卫生用品用离型纸.pdf.md",
+   "name": "GB／T 27731-2011 卫生用品用离型纸.pdf.md",
+   "title_hint": "GB／T 27731-2011 卫生用品用离型纸.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004-2011 纸尿裤(片、垫).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004-2011 纸尿裤(片、垫).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004-2011 纸尿裤(片、垫).pdf.md",
+   "name": "GB／T 28004-2011 纸尿裤(片、垫).pdf.md",
+   "title_hint": "GB／T 28004-2011 纸尿裤(片、垫).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf.md",
+   "name": "GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf.md",
+   "title_hint": "GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 34448-201生活用纸及纸制品 甲醛含量的测定7.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 34448-201生活用纸及纸制品 甲醛含量的测定7.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 34448-201生活用纸及纸制品 甲醛含量的测定7.pdf.md",
+   "name": "GBT 34448-201生活用纸及纸制品 甲醛含量的测定7.pdf.md",
+   "title_hint": "GBT 34448-201生活用纸及纸制品 甲醛含量的测定7.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf.md",
+   "name": "GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf.md",
+   "title_hint": "GB 31701-2015 婴幼儿及儿童纺织产品安全技术规范.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 24292-2009 卫生用品用无尘纸.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 24292-2009 卫生用品用无尘纸.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 24292-2009 卫生用品用无尘纸.pdf.md",
+   "name": "GB／T 24292-2009 卫生用品用无尘纸.pdf.md",
+   "title_hint": "GB／T 24292-2009 卫生用品用无尘纸.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf.md",
+   "name": "GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf.md",
+   "title_hint": "GBT 13519-2016 包装用聚乙烯热收缩薄膜.pdf"
+  }
+ ]
+}

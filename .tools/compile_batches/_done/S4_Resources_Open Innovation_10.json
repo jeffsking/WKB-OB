@@ -1,0 +1,25 @@
+{
+  "batch": "S4_Resources_Open Innovation_10",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 10,
+  "concept_pages": 0,
+  "entity_pages": 0,
+  "comparison_pages": 0,
+  "updated_existing": 10,
+  "manual_review": 10,
+  "notes": [
+    "source_pages 新建（10）：New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）；BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）；The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）；PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）；FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）；Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）；SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）；T5 Pants COCO V2 TD34 Trial Results（四个 Bench Code 与试产数据）；Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）；投研圆桌报告（恒生科技·先导智能·卧龙电驱·斯瑞新材 20260530）",
+    "concept/entity/comparison 新建为 0：本批 10 份资料的技术点在本库中**均已存在对应页面**（COCO 芯体平台、PCM-Free Thermoregulation、Mechanochromic Routes、PTT-PET 路线、Rewet 体系等），按『先查再建、已有只追加』原则未新建；供应商（Nanliu/Ouli/Hezhong/N-Bond/DY/Sandia）仅单份提及，未达 ≥2 份门槛，故**不建实体页**，仅登记于 T5 Pants 源页层结构表",
+    "updated_existing 追加（10，均为 2026-09-29 追加段、未修正原结论）：Marketing Claim Translation Paradigms（市场宣称六大转化范式）；PCM-Free Thermoregulation；Mechanochromic Routes Comparison（力致变色技术路线对比）；PTT-PET S-S Fiber Technology Routes Compared；Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）；Residual Fluid & Pore Stranding（残液与孔隙滞留）；单牌号全511 vs 分层多SAP混底（性能·成本·供应链）；COCO芯体平台；ActiveTech Platform（ActiveTech 在线薄芯体平台）；亲水整理耐久性",
+    "manual_review（10）：7 份源页（New Core Concepts 成本/溢价/路线图、BNC PCM-free、PTT-PET CN、FIUP、Rewet Competitive Analysis 竞品实测、Depend Ultra-Low Rewet 竞品实测与内部代号、投研圆桌报告 投资属性+时效+主体真实性）+ 3 处追加段（511 对比页打样批次混淆、ActiveTech 竞品情报、亲水整理耐久性竞品实测）",
+    "⚠️ 最重要的知识冲突（本批登记，未裁决）：SAM_511_分析数据 的综合分排名（全511 3/7 = 0.606 居首、全511 5/5 = 0.566 次席、511/951+959 = 0.502 第三）**与 v3『低载多次下混底全面反超全511』方向相反**；差异源自主判据不同（v3 用企标回渗，综合分为跨协议三因子复合分）。已在对比页并列保留，并加约束：本批数据**无组内重复，不能断言显著性**",
+    "⚠️ 第二处冲突（本批登记）：Depend 超低回渗攻关中，**台架上『无处理面层 → 回渗最低』在使用测试（HUT ATACAMA+）中反转为『无处理 → 最差档（Medium 7.9 B / Large 9.5 B）』**；MOJAVE 中半处理 P 码最优（4.8 A）。已登记为『回渗收益不可外推到使用结果』",
+    "数据可信度限制登记：T5 Pants COCO V2 与 Depend M2M 两页数值均自图表图片文本提取，未报 n 与标准差；Code 9 回渗 Max 1.84 g vs Ave 0.65 g，离散极大，其均值不可引用",
+    "存疑 1：投研圆桌报告被归入 Resources/Open Innovation/Products/，内容属二级市场投研，**疑为知识库同步时的目录归属错误**；按规则未移动文件，仅在源页登记建议由管理员在 IMA 侧调整",
+    "存疑 2：ATACAMA+/MOJAVE 两张 HUT 表的**表头在图片提取中缺失**，指标名未确证（依数值-档位关系推为『越小越好』的潮湿感/渗漏类综合评分），故不做定量外推",
+    "存疑 3：源页写作 ActivTech、本库既有概念页写作 ActiveTech（同一在线薄芯体平台），已在两处互链处登记同义异写，未改名",
+    "存疑 4：BNC_PCMfree_Thermoregulation_v1 存在同文档双路径（Projects/Thermal Comfort/ 与 Resources/Open Innovation/Material/X-Chromic/），以及 PTT-PET 存在 EN/CN 双文件；按规则**均各自建页并注明同文档关系，未合并未覆盖**",
+    "存疑 5：Depend M2M 原文引用的前一版 `M2M 2.25.25 - Depend Ultra Low Rewet.pptx` 未见于 RAW/，未编译"
+  ]
+}

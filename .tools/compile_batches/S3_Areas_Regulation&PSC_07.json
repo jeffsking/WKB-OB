@@ -1,0 +1,41 @@
+{
+ "stage": "S3",
+ "block": "Areas/Regulation&PSC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.2-1987 化妆品微生物标准检验方法 细菌总数测定.PDF.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.2-1987 化妆品微生物标准检验方法 细菌总数测定.PDF.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.2-1987 化妆品微生物标准检验方法 细菌总数测定.PDF.md",
+   "name": "GB 7918.2-1987 化妆品微生物标准检验方法 细菌总数测定.PDF.md",
+   "title_hint": "GB 7918.2-1987 化妆品微生物标准检验方法 细菌总数测定.PDF"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.5-1987 化妆品微生物标准检验方法 金黄色葡萄球菌.PDF.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.5-1987 化妆品微生物标准检验方法 金黄色葡萄球菌.PDF.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.5-1987 化妆品微生物标准检验方法 金黄色葡萄球菌.PDF.md",
+   "name": "GB 7918.5-1987 化妆品微生物标准检验方法 金黄色葡萄球菌.PDF.md",
+   "title_hint": "GB 7918.5-1987 化妆品微生物标准检验方法 金黄色葡萄球菌.PDF"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/FZ T 64112-2024婴幼儿纸尿裤用非织造布.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/FZ T 64112-2024婴幼儿纸尿裤用非织造布.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/FZ T 64112-2024婴幼儿纸尿裤用非织造布.pdf.md",
+   "name": "FZ T 64112-2024婴幼儿纸尿裤用非织造布.pdf.md",
+   "title_hint": "FZ T 64112-2024婴幼儿纸尿裤用非织造布.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.3-1995 消费品使用说明 化妆品通用标签.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.3-1995 消费品使用说明 化妆品通用标签.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 5296.3-1995 消费品使用说明 化妆品通用标签.pdf.md",
+   "name": "GB 5296.3-1995 消费品使用说明 化妆品通用标签.pdf.md",
+   "title_hint": "GB 5296.3-1995 消费品使用说明 化妆品通用标签.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.1-1987 化妆品微生物标准检验方法.PDF.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.1-1987 化妆品微生物标准检验方法.PDF.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7918.1-1987 化妆品微生物标准检验方法.PDF.md",
+   "name": "GB 7918.1-1987 化妆品微生物标准检验方法.PDF.md",
+   "title_hint": "GB 7918.1-1987 化妆品微生物标准检验方法.PDF"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "wave": "wave2",
+  "book": "Handbook of Industrial Drying",
+  "agent": "main-agent",
+  "model": "local-deepseek-v4-pro",
+  "date": "2026-09-29",
+  "compiled": [
+    "Industrial Drying Ch1 Principles and Classification.md",
+    "Industrial Drying Ch15 Impingement Drying.md",
+    "Industrial Drying Ch17 Conveyor Dryers.md",
+    "Industrial Drying Ch28 Osmotic Dehydration and SAP Physics.md",
+    "Industrial Drying Ch33 Drying of Fibrous Materials.md",
+    "Industrial Drying Ch34 Drying of Textile Products.md",
+    "Industrial Drying Ch35 Drying of Pulp and Paper.md",
+    "Industrial Drying Ch40 Drying of Coated Webs.md",
+    "Industrial Drying Ch41 Drying of Polymers.md",
+    "Industrial Drying Ch46 Energy Aspects.md",
+    "Industrial Drying Ch48 Safety Aspects.md",
+    "Industrial Drying Ch50 Solid-Liquid Separation.md",
+    "Industrial Drying Ch53 Cost Estimation.md"
+  ],
+  "chapters": 13,
+  "total_book": 53,
+  "priority": "P0",
+  "notes": "13 key chapters compiled for hygiene R&D. Book index updated. Cross-references fixed. Remaining 40 chapters are lower priority (food/biotech/mineral topics not directly relevant to hygiene)."
+}

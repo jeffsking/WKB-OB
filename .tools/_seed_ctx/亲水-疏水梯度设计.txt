@@ -1,0 +1,80 @@
+# SEED: 亲水-疏水梯度设计
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 28 页，33 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）]]  (2 句)
+   • **BCNF 的天然亲水性既是优势也是边界：它决定表层/导流层可用、底层不可用** —— 支撑页：ADL（导流层）、亲水-疏水梯度设计
+- **成本下降 60–70% 是替代 PP 无纺布的量化门槛，目标成本 ¥50–80/kg** —— 支撑页：BCNF Nonwoven vs PP Nonwoven（BCNF 无纺布 vs 常规 PP 无纺布）
+- **医用敷料的成熟商业化是卫品迁移的现成跳板** —— 支撑页：细菌纳米纤维素
+- **可冲散湿巾是政策驱动最强的赛道（★★★★★），优先级高于纸尿裤表层** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、可家庭堆肥无纺布（Home Compostable Nonwoven）
+   • 概念：细菌纳米纤维素、纳米纤维素（CNC、CNF、BNC）、ADL（导流层）、亲水-疏水梯度设计、可家庭堆肥无纺布（Home Compostable Nonwoven）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+- 实体：（本页未落具名供应商商务条款）
+- 对比：BCNF Nonwoven vs PP Nonwoven（BCNF 无纺布 vs 常规 PP 无纺布）、Nanocellulose Route Cost Structure（纳米纤维素三路线成本结构对比）、三类纳米纤维素对比（CNC、CNF、BNC）
+
+--- [[CN 108035071 A（热风无纺布及其在纸尿裤上的应用和纸尿裤·杭州可靠护理）]]  (2 句)
+   • **「拒水布打孔无效」是本申请最有工程价值的论断**，直接约束我方面层打孔设计的前提条件（先亲水或改表面能） → 局部亲水印花面层（锥形孔导流）
+- **亲水-拒水分区即面层尺度的梯度设计**，与库内 亲水-疏水梯度设计 概念互证 → 亲水-疏水梯度设计
+- **锥形孔上大下小用于单向导流防反渗**，与反渗控制方法学相关 → 热风粘合无纺布
+   • Concept 概念：热风粘合无纺布、局部亲水印花面层（锥形孔导流）、亲水-疏水梯度设计
+
+--- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]  (2 句)
+   • **Test-method alignment is a prerequisite, not an afterthought** —— WVTR 2× 差异与渗漏测试口径是本批最可操作的采购/技术问题 —— 支撑页：WVTR 测试口径（失重法 vs 增重法）、紫华公司（Zihua, Zijiang Group）
+- **PTT's value proposition is thickness-at-equal-weight** —— 降克重 5–6% + 厚度 +20–35% —— 支撑页：PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、恒碳（Hengtan）
+- **Low-weight blown film is now a physical-property problem, not a gauge problem** —— 12–13 g 已可做、瓶颈在物性 —— 支撑页：紫华公司（Zihua, Zijiang Group）
+- **Nonwoven 3D embossing is splitting into roll-count schools (TR three-ro
+   • Concepts 概念：PTT（聚对苯二甲酸丙二醇酯）、WVTR 测试口径（失重法 vs 增重法）、并列复合自卷曲纤维、热风粘合无纺布、亲水-疏水梯度设计、皮芯复合纤维、ADL（导流层）
+- Entities 实体：紫华公司（Zihua, Zijiang Group）、恒碳（Hengtan）、格菲林（Gefilin）、Huayi Group（待核中文名）、Kimberly-Clark（金佰利）、江南高纤、新维盛集团（Xinweisheng Group）
+- Same-block sources 同批来源：Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）
+
+--- [[无纺布-五大工艺论剑]]  (2 句)
+   • **没有全能工艺，复合结构才是答案** —— 支撑页：无纺布五大工艺对比、SMS复合结构
+- **PFAS 风险不只在「防水」宣称里**：熔喷驻极助剂含氟电荷俘获剂是隐藏来源，常规质检思路易遗漏 —— 支撑页：SMS复合结构
+- **针刺法的原料包容性即风险来源**：无特殊原料要求 → 回收/再生纤维易混入 → 全成分可追溯性须列为强制审查项 —— 支撑页：无纺布五大工艺对比
+- **芯体包覆层首选热风法**：蓬松结构提供导流空间，双组分纤维兼顾强度与柔软 —— 支撑页：热风粘合无纺布、亲水-疏水梯度设计
+- **面层首选纺粘（皮芯复合）**：需强度支撑液体快速穿透，皮芯复合改善手感偏硬 —— 支撑页：皮芯复合纤维
+   • 概念：无纺布五大工艺对比、热风粘合无纺布、SMS复合结构、皮芯复合纤维、亲水-疏水梯度设计
+- 实体：（本页未产生新实体页）
+- 对比：无纺布五大工艺对比
+
+--- [[热风与针刺无纺布]]  (2 句)
+   • **选择性熔融是热风棉的本质**：若所有纤维都熔融，蓬松结构会直接塌陷 —— 支撑页：热风粘合无纺布
+- **ES 纤维可 100% 单独使用**，因皮层（约 130 °C）与芯层熔点差距大，粘合时芯层几乎不受影响 —— 支撑页：皮芯复合纤维
+- **亲水—疏水梯度是芯体包覆层功能实现的核心逻辑**：上层疏水防闷湿、下层亲水加速导入 SAP 深处 —— 支撑页：亲水-疏水梯度设计
+- **针刺法风险 = 工艺特性即风险来源**：本系列唯一一例，全成分可追溯性应作为采购强制审查项 —— 支撑页：无纺布五大工艺对比
+   • 概念：热风粘合无纺布、皮芯复合纤维、亲水-疏水梯度设计
+- 实体：（本页未产生新实体页）
+- 对比：无纺布五大工艺对比
+
+--- [[无纺布五大工艺对比]]  (1 句)
+   • 概念：热风粘合无纺布、SMS复合结构、皮芯复合纤维、亲水-疏水梯度设计
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (1 句)
+   • 产出构造与产品 产出构造与产品：Blizzard Core（Blizzard 芯体结构）、ROTC（Real Online ThinTech Core）
+- 材料侧材料侧：绒毛浆（Fluff Pulp）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀
+- 结构设计 结构设计：分区密度设计、ADL（导流层）、毛细梯度设计、亲水-疏水梯度设计
+- 库内同类平台 库内同类平台：COCO芯体平台、TBCW结构
+- 对照：芯体测试方法与验收基准（STM）
+
+--- [[ADL（导流层）]]  (1 句)
+   • 关键原料：CoPET（低熔点共聚酯）、皮芯复合纤维
+- 工艺载体：热风粘合无纺布
+- 相邻层：REL增强层、SAP错峰膨胀、分区密度设计
+- 性能决定因素：亲水整理耐久性、毛细梯度设计、亲水-疏水梯度设计
+- 对比：CoPET-PET 与 PE-PET 皮芯纤维对比、无纺布五大工艺对比
+
+--- [[Blizzard Core（Blizzard 芯体结构）]]  (1 句)
+   • 平台与产品 平台与产品：ActiveTech Platform（ActiveTech 在线薄芯体平台）、ROTC（Real Online ThinTech Core）
+- 被替代的材料 被替代的材料：绒毛浆（Fluff Pulp）
+- 吸收剂本体 吸收剂本体：SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀、BNC 基 SAP 表面交联
+- 相邻结构设计 相邻结构设计：分区密度设计、ADL（导流层）、亲水-疏水梯度设计、毛细梯度设计、芯体测试方法与验收基准（STM）
+- 库内既有芯体平台 库内既有芯体平台：COCO芯体平台、TBCW结构
+
+--- [[Film-Free Backsheet（无膜背层）]]  (1 句)
+   • 支配机理 支配机理：Formation-Limited Barrier（阻隔的成形受限机理）
+- 载体工艺 载体工艺：Meltblown Nonwoven（熔喷非织造布）、SMS复合结构
+- 硬件 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- 对照 对照：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）
+- 相邻结构议题 相邻结构议题：亲水-疏水梯度设计、分区密度设计、热风粘合无纺布
+

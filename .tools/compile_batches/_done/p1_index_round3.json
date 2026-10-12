@@ -1,0 +1,28 @@
+{
+  "batch": "p1_index_round3",
+  "book": "11 P1 index pages",
+  "done": [
+    "Synthesis of Biodegradable Thermoplastics.md",
+    "Thermoelectric Phenomena and Materials.md",
+    "Viscoelastic Properties of Amorphous Polymers Book.md",
+    "Handbook of Polymer Reaction Engineering.md",
+    "Antiferroelectric Liquid Crystals.md",
+    "Modern Size Exclusion Liquid Chromatography.md",
+    "Smart Polymers in Biotechnology and Biomedicine (Book).md",
+    "The Physics of Liquid Crystals.md",
+    "Bicomponent Fibre Technology Trends China and Abroad.md",
+    "Coating and Laminating Technology.md",
+    "Polyurethane Elastomer Handbook.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Synthesis of Biodegradable Thermoplastics.md - original_language set to JA (source is a Japanese-language review in 日本ゴム協会誌); schema offered only EN/ZH, but vault already contains a non-EN/ZH code (SR), so JA was used for accuracy",
+    "The Physics of Liquid Crystals.md - source file is a 1994 book review (Liquid Crystals Today 4(3):7), not the book text; year 1993 / ISBN 0-19-852024-7 taken from the review's bibliography lines",
+    "Modern Size Exclusion Liquid Chromatography.md - source file is a 2011 Anal Bioanal Chem book review (DOI 10.1007/s00216-010-4482-1), not the book text; no chapter page numbers recoverable",
+    "Antiferroelectric Liquid Crystals.md - source is a DeepRead note over a conference paper/short communication; author, publisher and year unstated upstream; source PDF filename (Introduction_to_Liquid_Crystals.pdf) contradicts its actual content",
+    "Viscoelastic Properties of Amorphous Polymers Book.md - lecture slides, no author/publisher/year stated; source states G(t) != 1/J(t) whereas the companion page Viscoelastic Properties of Amorphous Polymers.md records G(t) = 1/J(t) - discrepancy flagged in-page",
+    "Polyurethane Elastomer Handbook.md - source is a vendor training deck (末页 富利隆国际有限公司/Flexion) for the book's 2nd edition; book editor/publisher/ISBN/year absent from the source",
+    "Bicomponent Fibre Technology Trends China and Abroad.md - journal name, volume, author and year not preserved by the extraction; year recorded as 0"
+  ],
+  "count": 11
+}

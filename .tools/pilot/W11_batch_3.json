@@ -1,0 +1,65 @@
+{
+ "batch_id": "W11-3",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_e5f289551e3a463de5962d26d7cc1741001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/Absorbent Technology_master_index.csv.md",
+   "name": "Absorbent Technology_master_index.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_639295dce6872807eb45e36cc7e28266001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Dual Component Fiber/Dual Component Fiber_index.csv.md",
+   "name": "Dual Component Fiber_index.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_962edaf2b6cb4c4f55636c515098ac5f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/Ebewole Polymer Science Technology_master_index_rebuilt.csv.md",
+   "name": "Ebewole Polymer Science Technology_master_index_rebuilt.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_17be8cd9b9056746136d35a750ebb58f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch10_report_20260823_031404.md.md",
+   "name": "Absorbent Technology_ch10_report_20260823_031404.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_9fa0717bd5ba6cf0b573759cfdefe2df001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic/Biodegradable Thermoplastic_report.md.md",
+   "name": "Biodegradable Thermoplastic_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_db3c00da0f9a609b3b067da2c8ae3288001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch08_Skin_Irritation_report.md.md",
+   "name": "ch08_Skin_Irritation_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_22aad1f98c06ff76cea3789014248c81001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch58_Baby_Care_report.md.md",
+   "name": "ch58_Baby_Care_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d4604ef3e9e144a1f2041ec8b8bcf7b9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/ES纤维驻极_深度拆书报告_academic_20260813.md.md",
+   "name": "ES纤维驻极_深度拆书报告_academic_20260813.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bd1ed02dffe462f6cd06779a6ef1df2a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch05.md.md",
+   "name": "Ebewole Polymer Science Technology_ch05.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_48296e723386f58cc9bf5269a66c84b4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch14.md.md",
+   "name": "Ebewole Polymer Science Technology_ch14.md.md",
+   "type": "markdown"
+  }
+ ]
+}

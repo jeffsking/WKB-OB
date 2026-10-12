@@ -1,0 +1,302 @@
+[
+  {
+    "batch": "p1_Smart_Polymers_Biotech_Biome_01",
+    "book": "Smart_Polymers_Biotech_Biomed",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Smart_Polymers_Biotech_Biome_01.json"
+  },
+  {
+    "batch": "p1_Smart_Polymers_Biotech_Biome_02",
+    "book": "Smart_Polymers_Biotech_Biomed",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Smart_Polymers_Biotech_Biome_02.json"
+  },
+  {
+    "batch": "p1_Seymour Polymer Chemistry_01",
+    "book": "Seymour Polymer Chemistry",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Seymour Polymer Chemistry_01.json"
+  },
+  {
+    "batch": "p1_Seymour Polymer Chemistry_02",
+    "book": "Seymour Polymer Chemistry",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Seymour Polymer Chemistry_02.json"
+  },
+  {
+    "batch": "p1_Seymour Polymer Chemistry_03",
+    "book": "Seymour Polymer Chemistry",
+    "n_items": 4,
+    "file": ".tools/compile_batches/p1_Seymour Polymer Chemistry_03.json"
+  },
+  {
+    "batch": "p1_Ebewole Polymer Science Tech_01",
+    "book": "Ebewole Polymer Science Technology",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Ebewole Polymer Science Tech_01.json"
+  },
+  {
+    "batch": "p1_Ebewole Polymer Science Tech_02",
+    "book": "Ebewole Polymer Science Technology",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Ebewole Polymer Science Tech_02.json"
+  },
+  {
+    "batch": "p1_Ebewole Polymer Science Tech_03",
+    "book": "Ebewole Polymer Science Technology",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_Ebewole Polymer Science Tech_03.json"
+  },
+  {
+    "batch": "p1_Manufactured_Fibre_Technolog_01",
+    "book": "Manufactured_Fibre_Technology",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Manufactured_Fibre_Technolog_01.json"
+  },
+  {
+    "batch": "p1_Manufactured_Fibre_Technolog_02",
+    "book": "Manufactured_Fibre_Technology",
+    "n_items": 7,
+    "file": ".tools/compile_batches/p1_Manufactured_Fibre_Technolog_02.json"
+  },
+  {
+    "batch": "p1_Manufactured_Fibre_Technolog_03",
+    "book": "Manufactured_Fibre_Technology",
+    "n_items": 6,
+    "file": ".tools/compile_batches/p1_Manufactured_Fibre_Technolog_03.json"
+  },
+  {
+    "batch": "p1_US_Patents_智能织物传感_拆解_01",
+    "book": "US_Patents_智能织物传感_拆解",
+    "n_items": 6,
+    "file": ".tools/compile_batches/p1_US_Patents_智能织物传感_拆解_01.json"
+  },
+  {
+    "batch": "p1_PP Handbook_01",
+    "book": "PP Handbook",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_PP Handbook_01.json"
+  },
+  {
+    "batch": "p1_Handbook_of_Polymer_Testing__01",
+    "book": "Handbook_of_Polymer_Testing_Handbook_of",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_Handbook_of_Polymer_Testing__01.json"
+  },
+  {
+    "batch": "p1_Origin_of_Rubber_Elasticity_01",
+    "book": "Origin_of_Rubber_Elasticity",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_Origin_of_Rubber_Elasticity_01.json"
+  },
+  {
+    "batch": "p1_Thermoelectric_Phenomena_Mat_01",
+    "book": "Thermoelectric_Phenomena_Materials_and_A",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_Thermoelectric_Phenomena_Mat_01.json"
+  },
+  {
+    "batch": "p1_Synthesis_of_Biodegradable_T_01",
+    "book": "Synthesis_of_Biodegradable_Thermoplastic",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_Synthesis_of_Biodegradable_T_01.json"
+  },
+  {
+    "batch": "p1_Dual Component Fiber_01",
+    "book": "Dual Component Fiber",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_Dual Component Fiber_01.json"
+  },
+  {
+    "batch": "p1_VISCOELASTIC_PROPERTIES_OF_A_01",
+    "book": "VISCOELASTIC_PROPERTIES_OF_AMORPHOUS_POL",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_VISCOELASTIC_PROPERTIES_OF_A_01.json"
+  },
+  {
+    "batch": "p1_index_INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE",
+    "book": "INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE.json"
+  },
+  {
+    "batch": "p1_index_Handbook_of_Plastic_Films_Editor",
+    "book": "Handbook_of_Plastic_Films_Editor",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Handbook_of_Plastic_Films_Editor.json"
+  },
+  {
+    "batch": "p1_index_29_Principles_of_polymerization",
+    "book": "29_Principles_of_polymerization",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_29_Principles_of_polymerization.json"
+  },
+  {
+    "batch": "p1_index_Polymer_Reaction_Engineering",
+    "book": "Polymer_Reaction_Engineering",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Polymer_Reaction_Engineering.json"
+  },
+  {
+    "batch": "p1_index_seymour_carrahers_polymer_chemistry",
+    "book": "seymour-carrahers-polymer-chemistry",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_seymour_carrahers_polymer_chemistry.json"
+  },
+  {
+    "batch": "p1_index_epdf_pub_handbook_of_polymer_reaction_en",
+    "book": "epdf.pub_handbook-of-polymer-reaction-engineering",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_epdf_pub_handbook_of_polymer_reaction_en.json"
+  },
+  {
+    "batch": "p1_index_ES纤维亲水功能与应用分析",
+    "book": "ES纤维亲水功能与应用分析",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_ES纤维亲水功能与应用分析.json"
+  },
+  {
+    "batch": "p1_index_Flexible_and_Stretchable_Electronics",
+    "book": "Flexible_and_Stretchable_Electronics",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Flexible_and_Stretchable_Electronics.json"
+  },
+  {
+    "batch": "p1_index_Flexible_Stretchable_Electronics_DeepRea",
+    "book": "Flexible_Stretchable_Electronics_DeepRead",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Flexible_Stretchable_Electronics_DeepRea.json"
+  },
+  {
+    "batch": "p1_index_Hydrogels_in_Regenerative_Medicine",
+    "book": "Hydrogels_in_Regenerative_Medicine",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Hydrogels_in_Regenerative_Medicine.json"
+  },
+  {
+    "batch": "p1_index_Intelligent_textiles_and_sports_clothing",
+    "book": "Intelligent_textiles_and_sports_clothing",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Intelligent_textiles_and_sports_clothing.json"
+  },
+  {
+    "batch": "p1_index_Introduction_Liquid_Crystals_DeepBook",
+    "book": "Introduction_Liquid_Crystals_DeepBook",
+    "n_items": 0,
+    "file": ".tools/compile_batches/p1_index_Introduction_Liquid_Crystals_DeepBook.json"
+  },
+  {
+    "batch": "p1_index_Introduction_to_Liquid_Crystals",
+    "book": "Introduction_to_Liquid_Crystals",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Introduction_to_Liquid_Crystals.json"
+  },
+  {
+    "batch": "p1_index_LC_Antiferroelectric_DeepRead",
+    "book": "LC_Antiferroelectric_DeepRead",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_LC_Antiferroelectric_DeepRead.json"
+  },
+  {
+    "batch": "p1_index_Liquid_Crystalline_Polymers_for_Smart_Ap",
+    "book": "Liquid_Crystalline_Polymers_for_Smart_Ap",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Liquid_Crystalline_Polymers_for_Smart_Ap.json"
+  },
+  {
+    "batch": "p1_index_Modern_size_exclusion_liquid_chromatogra",
+    "book": "Modern_size_exclusion_liquid_chromatogra",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Modern_size_exclusion_liquid_chromatogra.json"
+  },
+  {
+    "batch": "p1_index_Molecular_and_supramolecular_systems_in",
+    "book": "Molecular_and_supramolecular_systems_in",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Molecular_and_supramolecular_systems_in.json"
+  },
+  {
+    "batch": "p1_index_Physics_Liquid_Crystals_DeepBook",
+    "book": "Physics_Liquid_Crystals_DeepBook",
+    "n_items": 0,
+    "file": ".tools/compile_batches/p1_index_Physics_Liquid_Crystals_DeepBook.json"
+  },
+  {
+    "batch": "p1_index_polymer_science_and_technology_compress",
+    "book": "polymer-science-and-technology_compress",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_polymer_science_and_technology_compress.json"
+  },
+  {
+    "batch": "p1_index_preview_Handbook_of_Polypropylene_and_Po",
+    "book": "preview-Handbook of Polypropylene and Polypropylene Composites (2nd ed.)",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_preview_Handbook_of_Polypropylene_and_Po.json"
+  },
+  {
+    "batch": "p1_index_preview_Polypropylene_Handbook",
+    "book": "preview-Polypropylene Handbook",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_preview_Polypropylene_Handbook.json"
+  },
+  {
+    "batch": "p1_index_Questions_and_Concerns_against_the_1st_d",
+    "book": "Questions and Concerns against the 1st draft.pptx",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Questions_and_Concerns_against_the_1st_d.json"
+  },
+  {
+    "batch": "p1_index_Smart_Fabric_Textiles_Recent_Advances_an",
+    "book": "Smart Fabric Textiles Recent Advances and Challenges",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Smart_Fabric_Textiles_Recent_Advances_an.json"
+  },
+  {
+    "batch": "p1_index_Smart_Fabrics_and_Networked_Clothing",
+    "book": "Smart_Fabrics_and_Networked_Clothing",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Smart_Fabrics_and_Networked_Clothing.json"
+  },
+  {
+    "batch": "p1_index_SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI",
+    "book": "SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI.json"
+  },
+  {
+    "batch": "p1_index_Ssmart_polymers_applications_in_biotechn",
+    "book": "Ssmart-polymers-applications-in-biotechnology-and-biomedicine-second-edition",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Ssmart_polymers_applications_in_biotechn.json"
+  },
+  {
+    "batch": "p1_index_Synthesis_of_thermoplastic_poly_ester_ol",
+    "book": "Synthesis_of_thermoplastic_poly_ester_ol",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_Synthesis_of_thermoplastic_poly_ester_ol.json"
+  },
+  {
+    "batch": "p1_index_The_Physics_of_Liquid_Crystals",
+    "book": "The_Physics_of_Liquid_Crystals",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_The_Physics_of_Liquid_Crystals.json"
+  },
+  {
+    "batch": "p1_index_国内外双组分纤维的技术发展动向",
+    "book": "国内外双组分纤维的技术发展动向",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_国内外双组分纤维的技术发展动向.json"
+  },
+  {
+    "batch": "p1_index_涂布复合技术",
+    "book": "涂布复合技术",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_涂布复合技术.json"
+  },
+  {
+    "batch": "p1_index_聚氨酯弹性体手册第二版pdf课件",
+    "book": "聚氨酯弹性体手册第二版pdf课件",
+    "n_items": 1,
+    "file": ".tools/compile_batches/p1_index_聚氨酯弹性体手册第二版pdf课件.json"
+  }
+]

@@ -1,0 +1,83 @@
+# SEED: 湿迁移 Wet Migration
+# type: concept | 原引用数: 4
+# 原 Cited by 列表:
+#   - Diffusion Equations (Crank Ch.1)
+#   - Handbook of Industrial Drying
+#   - Infinite and Semi-Infinite Media (Crank Ch.3)
+#   - Mathematics of Diffusion
+#
+# 全库正文命中 32 页，41 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Diffusion Equations (Crank Ch.1)]]  (3 句)
+   • **扩散数学理论奠基章**——建立 Fick 定律（一维/标量形式）作为数学公理，推导 Fick 第二定律（扩散 PDE），延伸到各向异性介质与多组分情形。SAP 溶胀动力学、芯体吸液速率、湿迁移模型的本原公式均源于此章。
+   • **Fick 定律是扩散数学的唯一核心假设**——SAP 溶胀、芯体吸液、湿迁移、湿巾均匀性模型均基于此。
+- **D(C) 剧烈变化是 SAP 吸液速率非线性化的数学根源**——低吸水比时 D≈常数（线性），溶胀后 D(C) 跨 3-4 个数量级（非线性）。
+- **复合芯体是典型各向异性介质**——MD/CD 性能差异需在模型中用扩散张量取代标量 D。
+- **无对流假设的局限**——湿巾擦拭等强制对流场景需附加对流项。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 吸收芯体
+- Fick 定律
+- 湿迁移 Wet Migration
+
+--- [[Mathematics of Diffusion]]  (3 句)
+   • **EN**: The classic reference for the mathematics of diffusion. 15 chapters cover Fick's laws, analytical and numerical solution methods, concentration-dependent diffusion, non-Fickian diffusion, heterogeneous media, moving boundaries, reaction-diffusion coupling, and simultaneous heat-moisture diffusion — the theoretical foundation for SAP swelling kinetics, absorbent core modeling, and wet migration simulation.
+   • **中文**: 扩散数学经典参考书——15 章完整覆盖 Fick 定律、解析/数值解法、D(C) 变系数扩散、非菲克扩散、复合介质、动边界、反应-扩散耦合、湿热耦合。SAP 溶胀动力学、芯体吸液、湿迁移建模的理论基础。
+   • SAP（高吸水树脂）
+- 吸收芯体
+- Fick 定律
+- 湿迁移 Wet Migration
+- SAP 溶胀 SAP Swelling
+- Non-Fickian Diffusion (Crank Ch.11)
+- 湿热耦合 Heat-Moisture Coupling
+
+--- [[Chemical bonding]]  (2 句)
+   • It defines the binder and its multiple roles, then surveys binder polymer chemistry: vinyl, acrylic, butadiene (SBR/NBR/natural rubber), and specialty systems (PU, phenolic, epoxy).（先定义粘合剂及其多重角色，再梳理乙烯基、丙烯酸、丁苯等聚合物化学。）
+- A rigorous subsection explains emulsion polymerisation, the Fox equation for copolymer Tg, MFFT, and coagulation/migration and crosslinking.（严谨小节：乳液聚合、Fox 共聚物 Tg 方程、最低成膜温度、凝聚/迁移与交联。）
+- The mechanism of chemical bonding is analysed: wetting, binder cohesion, adhesion, distribution,
+   • Binder selection is a multi-objective design problem, not merely "hold fibres together".（粘合剂选型是多目标设计问题。）
+- Latices are the workhorse — water-borne for penetration and energy-efficient drying.（胶乳是主力，水基利于渗透与节能干燥。）
+- Copolymer Tg (Fox) sets handle and wet stability — softer monomers → softer fabric.（共聚物 Tg 决定手感与湿稳定性。）
+- Binder migration during drying creates binder-rich skin / starved core → delamination risk.（干燥中粘合剂迁移形成表富里贫，致分层风险。）
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (2 句)
+   • **Eq. 9.1 是取向连续纤维纵向模量的上限估计**：对非连续、随机取向的短纤维或非织造结构，需引入取向效率与长度效率因子；本章未给出 —— 直接套用会高估模量。[待验证] 修正系数需另引复合材料文献。
+- **Alloy vs. Blend 的二分是语义约定而非热力学判据**：本章以"synergy"定义 alloy，以"≤ 算术平均"定义 blend；是否出现协同取决于 Eq. 9.3 中 I 的符号，而 I 本身由相容化水平决定 —— 二者并非截然两类，而是同一连续谱的两端。
+- **ΔG_m = ΔH_m − TΔS_m 只给出平衡判据**：高分子混合的 ΔS_m 极小，故"Polymers, in general, tend to be immiscible"；但本章未讨论**动力学锁定（加工剪切下的分散与相区尺寸冻结）**，而工业共混的实际形貌恰恰由动力学决定。
+- **助剂迁移与健康合规未被量化**：本章只定性给出"less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值 —— 卫材与食
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+
+--- [[GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）]]  (2 句)
+   • A **migration-caliber**（迁移量口径）method for acrylamide in household papers — artificial-sweat extraction at 37 ℃ followed by isotope-dilution LC-MS/MS; the counterpart (not substitute) of the GB/T 37859 content-caliber method cited by GB 43631-2023.
+   • GB/T 34405-2017 (SAC/TC 374) measures acrylamide migrating out of household paper products under simulated skin contact: the sample soaks in freshly prepared artificial sweat (GB/T 3922-2013 recipe) with D3-acrylamide internal standard, at 37±2 ℃ for 10 min (tissue/wipes) or 4 h (diaper & sanitary-towel skin-contact cover layers only), then the extract is run on LC-MS/MS in ESI+ MRM mode (72>55 quantifier). Calibration spans 0.05–5.0 µg per 50 mL. Performance is strong — LOD 0.005 mg/kg, LOQ 0.0
+
+--- [[Numerical Methods for Diffusion (Crank Ch.8)]]  (2 句)
+   • **数值方法体系——SAP 建模与芯体湿迁移 FEM 的工程基础**——无量纲化 T=Dt/l² 使不同参数问题可缩放复用；显式差分稳定性条件 r≤½ 决定时间步长；绝大多数工程实际问题靠本章方法求解。
+   • **无量纲化**：T=Dt/l², X=x/l, c=C/C₀——不同粒径/D/厚度可从同一组无量纲解缩放。
+- **显式差分**：cᵢ^(j+1) = rcᵢ₋₁^j + (1-2r)cᵢ^j + rcᵢ₊₁^j，稳定性 r≤½。
+- **SAP 影响**：高 D 区间（溶胀后期）时间步必须极小，计算量剧增。
+- **工程应用**：SAP 建模、芯体湿迁移 FEM 绝大多数问题靠本章方法。
+
+--- [[可降解生物基材料与薄且强芯体技术深度解析]]  (2 句)
+   • The report links two trends into one thesis: **thin and green converge**. On the material side it orders routes by maturity (PLA industrialised → PPC imminent → PHA pilot → starch film pilot → viscose/bamboo mature → nanocellulose R&D) and states the two PLA blockers (cost +30–50% vs PET; hot-calender shrinkage) with a concrete process fix (four-roll calender, 120–130 °C segmented). On the core side it decomposes the fluff-free 4th-generation composite core into four modules and names the failur
+   • 1. **Thin and green are the same engineering problem 薄与绿是同一个工程问题** — 无木浆化靠蓬松无纺布基材 + 热风穿刺固结，可降解化靠 PLA/PPC 基材，二者共用同一套「基材替代」逻辑。
+2. **PLA's blocker is processing, not polymerisation PLA 的瓶颈在加工而非聚合** — 成本 +30–50% 与热轧收缩硬化，后者已有明确工艺解（四辊轧机 120–130 °C 分段控温）。
+3. **PPC is the only natural-condition route PPC 是唯一的自然条件降解路线** — 其余多数需工业堆肥，这决定了底膜可降解化的材料选择，见 Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）。
+4. **Thinning creates SAP migration 变薄带来 SAP 移位** — 固结（热风穿刺熔融）与分层导流是配套手段，不能只减厚度，见 Fluff-Free 4th-Gen
+
+--- [[Blizzard Core（Blizzard 芯体结构）]]  (1 句)
+   • 1. **What fluff actually does in a conventional core 绒毛浆在传统芯体里的真实作用**：fluff pulp provides **capillary wicking and temporary void volume**，supporting rapid initial fluid intake **before the SAM swells and immobilises the fluid**。So the fluff is a *timing* device, not only a bulking agent。（中文：绒毛浆是「SAM 膨胀前那几秒」的通道与空间提供者——是时间装置，不只是填充物。）
+2. **The three-layer stack 三层叠构**：top facing / wrap → **SAM + adhesive layer** → bottom facing / wrap。SAM = primary absorbent and fluid-locking component；adhesive = i
+
+--- [[Mechanophore Mechanochromism（机械力致变色分子）]]  (1 句)
+   • 1. **Spiropyran activation（螺吡喃活化）**：6π electrocyclic ring-opening under tensile force — the spiro C–O bond scissions at ≈ 240 pN per bond; spiropyran (SP, colourless) → merocyanine (MC, intense purple/violet); reversible upon release of force（MC relaxes back to SP）.
+2. **Force must reach the bond（力必须抵达那个键）**：single-molecule force spectroscopy puts spiropyran ring-opening at roughly 240 pN on a tens-of-millisecond timescale. That force only arrives if the mechanophore sits in a taut, load-bearing
+
+--- [[Microencapsulation]]  (1 句)
+   • Four consequences follow directly:
+1. **Reversibility is an encapsulation design choice** — hot-melt wetness glue is irreversible; a custom microcapsule can be engineered reversible for "real-time wetness level" cues.（可逆性是包封设计的选择：热熔尿显胶不可逆，而定制微胶囊可做成可逆以支持"实时湿量"提示。）
+2. **Shell integrity maps to process risk** — in the PCM case, shell fragility causes rupture, lot variance, SAP contamination and wider process-control limits.（壳层完整性对应工艺风险：在相变材料案例中，壳脆导致破裂、批次波动、SAP 污染与控制限放宽。）
+3. **Migration is the hard 
+

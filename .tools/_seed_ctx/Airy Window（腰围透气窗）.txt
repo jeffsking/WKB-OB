@@ -1,0 +1,96 @@
+# SEED: Airy Window（腰围透气窗）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 113 页，168 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (6 句)
+   • **Non-electronic, visually-read health indication integrated into a disposable absorbent article（集成到一次性吸收制品的非电子目视健康指示）** — a **window** in the article's outer surface allowing a **removable thermochromic sensor** to be read from outside.
+   • **Thermochromic clearing-point transition read through a window（透过窗口读取的热致变色 clearing point 转变）** — two distinct chromic mechanisms are described:
+   • **Window material**（L577-584）: outer surface must be translucent/transparent; candidates **polyethylene, polypropylene, polyester, polystyrene, polyvinyl chloride, polyurethane, polycarbonate, polyacrylate, PTFE** and combinations.
+- **Conventional diaper chassis**（L230-271）: topsheet 24 / backsheet 26 (**thermoplastic film about 0.012–0.051 mm thick**) / absorbent core 28 / side panels 30 / leg cuffs 32 / elastic waist 34 / fastening system 40; the diaper is a **"unitary"** construction（L205-22
+   • Source note: the preamble's "for visually detecting health-related conditions" is a **use/intended-purpose limitation**; the source observes that infringing determination normally still requires the structural features. The claim is a five-element combination: **article + window + removable + thermochromic + ~99.5–102 °F + closed material list**.
+
+--- [[Introduction to Liquid Crystals]]  (4 句)
+   • The clear objective is an **antiferroelectric liquid crystal operating at room temperature** — i.e. the whole exercise is about pushing the $S_{Calt}$ phase window down into ambient conditions.
+   • **Shortening the ethyl-branched terminal chain** from ethylpentyl to ethylpropyl lowers every transition: B1 → B2 drops the clearing point by 12.8 °C (157.7 → 144.9) and the S_A–S_Calt transition by 15 °C (132 → 117). The same applies within the fluorinated pair (F1 → F2: 126.8 → 114.2 and 96.2 → 84.1).
+- **3-Fluorination has the larger effect**: within each alkyl pair, the fluorinated analogue is lower by ~31 °C on clearing (B1 157.7 → F1 126.8; B2 144.9 → F2 114.2) and by ~36 °C / ~33 °C on th
+   • S_A phase identified by **focal-conic texture** — imaged for B2 at 130 °C, consistent with B2's S_A window (144.9 → 117 °C).
+- $S_{Calt}$ phase identified by **broken focal-conic texture** in B1 at 55 °C, and by **schlieren texture exhibiting both two- and four-brush defects** in F1 at 95.6 °C. The two-brush defects are consistent with the anticlinic/antiferroelectric-like assignment rather than a simple synclinic smectic C.
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (4 句)
+   • The **test-planning page for the 4-configuration diffusion-enhanced topsheet DOE** — it defines the candidate fibre systems, the temperature/loading process window, the acceptance metrics and the 3-stage, 33-run test architecture for the REL ultra-thin core topsheet (50 gsm dual-card ATB). It is the batch's answer to "**which fibre goes on top, at what oven temperature, and how do we know it worked**".
+本页是本批**「扩散增强面层 4 配置 DOE」的试验设计页**：锁定候选纤维体系、温度/载荷工艺窗口、验收指标与「3 阶段 33 次试验」架构，服务于 REL 超薄芯体面层（50 gsm
+   • Process variables are **temperature (X2, 3 levels: 126 / 128 / 130 °C)** — the PE sheath melts/flows near 130 °C while PET stays stable to ~220 °C, so the window exists to find the "strength vs flattening" balance — and **loading (X3, 2 levels: Low / High)**, which affects acquisition rate and bonding strength.
+工艺变量为**温度**（3 水平：126/128/130 ℃；PE 皮层约 130 ℃ 流动、PET 约 220 ℃ 稳定，该窗口用于寻找「强度 vs 扁平化」平衡点）与**载荷**（2 水平：低/高，影响摄入速率与粘合强度）。
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+   • Concepts 概念：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、Shaped PET Add-On Window、MD Liquid Distribution、Pentagram PET (Star Cross-Section Fibre)、热风粘合无纺布、亲水整理耐久性
+- Entities 实体：福地（Fudi）、Suzhou Yimeng (Mono-PET Spinner)、延江（Yanjan）、兰精集团
+- Comparisons 对比：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]  (4 句)
+   • The **counterweight deck to the pentagram deep dive**: a literature deep dive + processability screening that recommends *rounded* profiled PET cross-sections instead of sharp star shapes, and gives add-on/dpf windows plus a screening matrix. It is the batch's "**shape must be manufacturable, not just sharp**" page.
+本页是**五角星形深度评估的对照页**：以文献综述 + 可纺性筛选替代尖角星形截面，给出添加量/旦数窗口与筛选矩阵，回答「**截面必须可制造，而不仅是够尖**」。
+   • The design window is then set: 10–20 wt% rounded trilobal (start 15%) at 1.5–2.0 dpf; 8–15 wt% rounded 4-groove (start 12%) at 1.3–1.8 dpf; 10–18 wt% Y-shaped at 1.5–2.2 dpf; 10–15 wt% hollow trilobal at 2.0–3.0 dpf — all with PE/PET ES held at 80–90 wt%, the existing hydrophilic finish package maintained, and staple length matched to the current carding line (typically 38–44 mm).
+设计窗口为：圆角三叶形 10–20 wt%（起 15%）@1.5–2.0 dpf；圆角四沟槽 8–15 wt%（起 12%）@1.3–1.8 dpf；Y 形 10–18 wt% @1.5–2.2 dpf；中空三叶形 10–15 wt
+   • **The ideal topsheet fibre is not the shape with the sharpest edges** but the best total balance of wicking, softness, bondability and process stability —— 支撑页：Pentagram PET (Star Cross-Section Fibre)
+- **Choose shapes that create repeatable channels, not just sharp points** —— 支撑页：Groove Capillary Suction、三叶形截面纤维（Trilobal Fibre）
+- **Shape is a modifier, not the whole design** — orientation and finish still control MD/CD balance —— 支撑页：MD Liquid Distribution、亲水整理耐久性
+- **Cap the one-component fra
+   • Concepts 概念：Pentagram PET (Star Cross-Section Fibre)、Shaped PET Add-On Window、三叶形截面纤维（Trilobal Fibre）、Groove Capillary Suction、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+- Sibling source 同批来源：Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)
+
+--- [[可穿戴传感器 Wearable Sensor]]  (3 句)
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[液晶 Liquid Crystal]]  (3 句)
+   • **Phase-transition identification loop.** The standard discipline is: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window**（源：Introduction to Liquid Crystals）。**The method is the transferable asset, not the molecule**（源：Introduction to Liquid Crystals）。
+   • **Adjacent chromic/optical material families** that share the LC chromic chemistry主线: Chromic Phenomena Solar Energy and Liquid Crystals is described as the base page for the library's LC / chromic-chemistry main line, and Mechanochromic Elastomer from PDLC 5CB PDMS is the pressure-responsive branch（源：Introduction to Liquid Crystals）。Note the antiferroelectric work is aimed at a **room-temperature** device — i.e. pushing the $S_{Calt}$ phase window down into ambient conditions — which is the sam
+   • **No LC definition is given as a formal physics statement** (order-parameter formalism) — the vault only states the intermediate-state description and lists mesophases; a citable textbook definition .
+- No **temperature range / operating window** figures for any hygiene-relevant LC chromic ink are present in the excerpts .
+- No direct evidence linking LC **ion-channel conductivity** to SAP network electrolyte transport — only the concept-level analogy .
+- **Duplicate-coverage caution:** Antiferr
+
+--- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]  (3 句)
+   • European granted patent (B1) that defines the **OBC-based hot melt adhesive** formulation window used for **elastic attachment**（弹性粘合，即把氨纶/橡筋粘在膜或无纺布上） in disposable diapers — the reference formulation page for the "模块三：聚烯烃类热熔胶" patent cluster.
+   • Bostik's EP 2 456 819 B1 claims a hot melt adhesive built on an **olefin block copolymer (OBC)** as the primary polymer, combined with a high-softening-point tackifying resin, a low-crystallinity secondary polymer (APAO or semi-crystalline polyolefin), an optional aromatic reinforcing resin, plasticizer, wax and stabilizer. The stated problem is that the disposable-industry standard for sprayability has been **styrene-isoprene-styrene (SIS)** block copolymers, and no olefinic polymer had matched
+   • **A polyolefin can match SIS/SBS for elastic attachment** — the patent's core assertion; sprayability + application window is the barrier being broken. → Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- **OBC ≠ APAO** — block vs random architecture; DSC enthalpy-of-fusion boundary (>25 J/g) is used as the discriminator. → Olefin Block Copolymer (OBC) 烯烃嵌段共聚物、APAO（非晶态聚α-烯烃）
+- **Low-crystallinity secondary polymer is a processing modifier, not filler** — it tunes viscosity, adhesion, low-temperature resista
+
+--- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]  (3 句)
+   • Deck states 141 innovation concepts across tiers were developed to future-proof the business; FEI CATS captured **9 high-potential opportunities**. The winning-protection block centers on **LeakShield** (more coverage, 6x absorption, ready now; scopes CN/AU/BR/YK) and TRY (from proven CN solution to ANZ premium scale-up and BR affordable development — with dtx/spacing/USD costings and 0.4Mn CAPEX per machine). Skin health & breathability block: **pH balance** (first pH-balanced nappy liner infus
+   • **FEI 漏斗 = OI 组合的上游**：9 大注与 2027–29 创新日历构成 OI 清单的需求侧来源 —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **Cohesive fastener 是结构件级降本项目（~50% 成本节省口径）** —— 支撑页：Cohesive Fastener（自粘扣合系统）、Hook-and-Loop Strength Test（粘扣系统强度测试）
+- **腰围透气窗（Airy Window）以"窗口开孔 + 气流"解决腰围闷热** —— 支撑页：Airy Window（腰围透气窗）
+- **除臭路线收敛为 Capture/Alter/Microbial/Perception 四通道**，筛选工具 eNose 先行 —— 支撑页：Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）
+   • 组合与项目：IPC BCC OI Portfolio（开放创新项目组合）、COCO芯体平台、ROTC（Real Online ThinTech Core）、IPC BCC（K-C Baby & Child Care 材料开发团队）
+- 概念：Cohesive Fastener（自粘扣合系统）、Airy Window（腰围透气窗）、Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）、ZnO Antibacterial Fibre（氧化锌抗菌纤维）（Zn 添加的纤维侧近亲）
+- 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）（Odor Control 与"何时更换"指示的权衡语境）
+
+--- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]  (3 句)
+   • A full **re-engineering proposal for a 45 gsm two-card / four-dosing ATB liner**: substitute trilobal mono-PET in the lower card only, raise MD fluid spreading by ~30%, and hold converting at 600 m/min without losing skin softness or CD tensile. It is the batch's most complete **engineering-physics page** (groove capillary pressure, wicking-front kinetics, bond-density model, process window, converting failure modes, cost view).
+本页是**45 gsm 双梳理 / 四给料 ATB 面层的完整重构方案**：仅在下层替换三叶形单组分 PET，机向铺展提升约 30%，
+   • The ask is four-fold: maximise MD urine distribution length (replace part of the ES with trilobal-section mono-PET), protect skin-contact softness (no measurable regression in hand or surface feel), hold CD tensile at the level a 600 m/min converting line demands, and specify fibre composition per carding layer plus the process window.
+需求有四条：最大化 MD 尿液铺展长度（以三叶形单组分 PET 替代部分 ES）、保护贴肤柔软（手感/表面触感无可测退化）、维持 600 m/min 转化线所需的 CD 拉伸、并逐梳理层给出纤维配比与工艺窗口。
+   • Concepts 概念：三叶形截面纤维（Trilobal Fibre）、Groove Capillary Suction、PE-PET Bond Efficiency Model、Shaped PET Add-On Window、MD Liquid Distribution、ATB双梳理面层（Dual-Card Topsheet）、热风粘合无纺布、亲水整理耐久性、Ultrasonic Bonding of PET-Containing Topsheet
+- Comparisons 对比：Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)
+
+--- [[US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)]]  (3 句)
+   • Granted US patent (Procter & Gamble) on a **disposable absorbent article with a windowed removable sensor** — an in-article sensing approach, paired in this batch with Kimberly-Clark's separate leakage-detection garment (US11013641B2) under the "sensor-equipped article" theme.
+   • The patent (title: "DISPOSABLE ABSORBENT ARTICLES HAVING A WINDOWED REMOVABLE SENSOR") discloses a disposable absorbent article with a windowed, removable sensor. The bibliographic header lists assignee The Procter & Gamble Company, inventors Klofta, McKiernan, Schmidt, and classification A61F 13/15. It claims priority to provisional 60/832,549 (filed Jul. 21, 2006). Detailed claim language on the windowed sensor is in the full text; this summary captures the bibliographic and classification sco
+   • In-article windowed removable sensor for monitoring — supporting page: Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+

@@ -1,0 +1,130 @@
+# SEED: Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 360 页，621 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (6 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • 结构载体：皮芯复合纤维、ATB双梳理面层（Dual-Card Topsheet）
+- 工艺载体：热风粘合无纺布、SMS复合结构
+- 导流家族：ADL（导流层）、毛细梯度设计、分区密度设计
+- 纤维成纤性：成纤性判据、原纤化
+- 对比：COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+   • ✅ **验证记录（2026-09-29）**：分层 10%/0% 与 0%/10% 的双 code 设计为已决方案；打样米数、温度点、旦数口径均来自 ASR 转写，标 ，引用前须与实验记录核对。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO芯体平台、Ultrasonic Bonding of PET-Containing Topsheet。
+   • ✅ **验证记录（2026-09-29）**：+20–30% 为**目标值而非实测值**；50/50 为报价前的建议配比；「粘胶亲水、PET 疏水」为机理判断，未见对比测试数据 [待验证]。参见 ADL（导流层）、ATB双梳理面层（Dual-Card Topsheet）、COCO芯体平台。
+
+--- [[防水透气 Waterproof Breathable]]  (6 句)
+   • **Microporous backsheet films.** A representative route is a **three-layer co-extruded blown film** with CaCO₃ masterbatch in each layer (middle layer 60–70 kg per batch, with PE and lubricant) giving an ultra-thin PE microporous film at 10–14 gsm（源：CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法））。
+   • **Zoned breathability.** A second route increases the cast film's single feed port to **multiple independently fed ports**, each controlling its own additive recipe, merged and secondarily drawn into one zoned breathable film — for adult-diaper backsheets that need differentiated breathability *and* leak-proofing（源：CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤））。
+   • **Film-free alternative (modelled).** An all-PP SMMMMS structure was studied as a physical-model feasibility question — replacing the breathable backsheet film — and the intended answer is a **zoning** decision (where the film can be dropped) rather than a yes/no（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））。
+   • **Backsheet is the primary application.** All three cited backsheet patents target baby-diaper or adult-diaper backsheets（源：CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）、CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524B2 Breathable Diaper Backsheet (Colormasters)）。See 底膜 Backsheet、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）。
+- **Structural (not material) breathability.** The waistband "air window" route opens **breathable holes like mini windows** (die-cut) rather th
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (5 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • **Two-tier acceptance 验收双档制**：PRIMARY = **finished-diaper enterprise standard**（rewet <5.9 g @0.5 kPa after 2 insults、core stain uniformity ≥A、SAP utilization ≥63 %、wet tensile ≥75 N/m）；the **material level is a screening gate only** — fuzz ≤2 belongs to the material-level tier（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- **Test architecture 试验架构**：a 3-stage randomised DOE（seed 20260814）totalling 33 runs — Stage 1 configuration screen（4 configs × 3 temps × medium load = 12,
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • **Definition, specimen, rating method, instrument and tolerance of the topsheet fuzz & pilling test** —— （must be checked against TTM-00609 面层材料起毛起球测试.doc）。
+- The unit of "fuzz"（whether it links to TS7 / a visual rating）is not given in the digest 。
+- Quantitative relation between fuzz & pilling and TS7 softness / topsheet free-fibre shedding 。
+- Whether this gate has entered the KC global STM/TTM method system, or remains a project-level screening convention 。
+
+--- [[全息存储 Holographic Storage]]  (5 句)
+   • In this vault the term is used in the sense of **holographic recording** — writing a **periodic (grating) structure** into a photopolymer film so that the film develops **structural colour**. The anchor source defines it as a recipe space for "holographically written structural-colour films that shift colour monotonically with strain": **holographic recording writes a periodic structure into a PEGDA-TDE film, giving mechanochromic structural colour with a monotonic strain → wavelength map**（源：Ho
+   • **Recording → periodicity → colour.** Holographic exposure writes a periodic grating into the film; the grating period sets the reflected wavelength, so colour is produced **without pigment**, by periodic structure（源：Holographic Structurally Colored Mechanochromic Films）.
+- **Strain reads out as a blue-shift.** Stretching the film changes the grating period; 0 → 20% strain blue-shifts the peak ~58 nm and drops reflectance ~68%, giving **three simultaneous read-out channels** (λmax, reflectance, 
+   • **Anti-counterfeit / brand label.** Colour arises from holographic recording, tunable by recording angle (0/15/30/45°) and by a large thickness/dose window — a hard-to-copy, angle-dependent optical feature suited to premium diaper/wipes packaging anti-counterfeit and traceability (推演)（源：Holographic Structurally Colored Mechanochromic Films）.
+- **Humidity-stable visual label.** Reflectance spectra remain measurable at **RH 100% and 80 °C for 120 h**, a precondition for a label surviving the wear 
+   • **Vault term vs. conventional meaning.** The vault uses the term for holographic **recording of structural colour**; no source found uses it for holographic **data** storage .
+- **Direct humidity response** is unproven — only environmental stability is demonstrated；"吸湿变色"改造属配方改动，未有实现数据 .
+- **Main-text claims absent** — page compiled from Supporting Information only; thesis-level claims are inferred from the SI and one figure-title conflict needs PDF verification .
+
+--- [[底膜 Backsheet]]  (5 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。本库引用来源对"底膜 / 背层 backsheet"给出的是**功能性口径**，而非词典式定义。
+- 功能性口径（有来源支撑）：底膜是卫材结构中的**最外层阻隔—透气件**，其阻隔与透气由**层压（lamination）工艺**设计实现 —— "lamination engineers barrier/permeability for backsheets"（源：Nonwoven fabric finishing）；库内把 topsheet / ADL / core / **backsheet** / rewet 并列为卫材主线层级（源：Handbook of Nonwovens）。
+- **两条技术路线**：① 「微孔透气膜 + 纺粘」复合膜背层（film laminate）；② **无膜背层**（以高阻隔熔喷复合无纺布替代，如 30 gsm SMMMS）（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • **抗回渗与阻隔是第一功能**：底膜须在 free liquid / 污染 / 坐压峰值交汇处保持阻隔；工程解是**分区（约 62 % 去膜 + 裆部留膜 + 腿围同级熔喷）**而非整体替换（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **光学兼容性**：某些尿湿指示路线**要求背层透光（light-transmissive backsheet）**，与不透光高遮盖白色背层不兼容 —— 背层选型必须与指示方案联动评估（源：Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）、Wetness Indicator Glue）。
+- **单一材质回收**：PP-only 背层去掉阻塞机身机械回收的 **PE/PP 分相**，被原文称为"战略收益，比那 0.4 分钱更值"（源：Film-Free Backsheet（无膜背层））。
+- **气味是未计价风险**：52 L/m²·s 的高透气让氨气自由逸出，无模型可预测消费者反应，须尽早做气味评审（源：
+   • **SMMMS 的实测（非模拟）静水压与单束成形 CV**仍缺 （源：SMS复合结构）。
+- 真实尿裤中**稀便胆汁盐 / 湿巾液向背层的输运实验**未做；它决定裆部去膜与否（源：Film-Free Backsheet（无膜背层））。
+- **WS/MS 各层克重配比与阻隔性能的定量关系**库内暂无来源 （源：SMS复合结构）。
+- **"底膜"形式化定义**（引用来源未给出明确定义）。
+
+--- [[延江（Yanjan）]]  (5 句)
+   • ATB双梳理面层（Dual-Card Topsheet）（延江供 Liner 网材与 2D/4D ES）
+- 三叶形截面纤维（Trilobal Fibre）（三叶形部分由福地供，延江供其余体系）
+- 皮芯复合纤维（PE/PET Bico）
+- COCO芯体平台
+   • **2026-08（记录于 v3 表格）**：在 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) 的「KEY FACTS FROM KB」中，延江（Yanjiang）**Delta-T 试验**被列为已确认事实（）：**130 / 128 / 126 ℃ 三档批次，测拉伸并用显微镜观察流动**——该批数据是本批把 **126/128/130 ℃** 定为面层 DOE 三个温度水平的直接依据。
+- **项目关联（本批口径）**：该温度窗口用于评估 **PE 皮层在 ~130 ℃ 附近的扁平化**（"strength vs flattening"平衡），并把 **不提高烘箱温度** 设为固定因子（见上一节的构造口径 A/B/C）。详见 KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)、热风粘合无纺布。
+   • ✅ **验证记录（2026-09-29）**：以上为会中讨论；"延江核算成本不太行"为**转述判断**，非延江自述 [待验证]。参见 ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、COCO芯体平台。
+   • ✅ **验证记录（2026-09-29）**："从延江大量采购较贵面层"为会中口径，**无采购数据佐证**；巴西 2028 为预计时间点 [待验证]。参见 三叶形截面纤维（Trilobal Fibre）、Ultrasonic Bonding of PET-Containing Topsheet。
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (5 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • **Single-hydrophilic topsheet (Table 4)**: first absorption ≈ 0.86–1.24 s, fifth absorption 7.39–8.62 s; rewet 3.89–6.17 g. Classic single-burst behaviour with rapid decay 单次强亲水、衰减快.
+- **Multi-hydrophilic topsheet (Table 5)**: first absorption 1.39–1.86 s, fifth 1.96–2.41 s; rewet 0.84–1.32 g.
+- **Commercial multi-hydrophilic finish trial (Tables 6 & 7)** — 25 g/m² air-through fabric from whitened hydrophilic ES fibre: embossed topsheet T1–T5 = 1.25 / 1.44 / 1.56 / 1.71 / 1.82 s with rewet 1.06 
+   • **Rating 评级: HIGH 高 — directly applicable to the REL / topsheet / rewet programme.**
+   • **Mechanism maps straight onto our durables vs non-durables question 机理直接对应耐久亲水议题.** The dispersion-force anchoring model explains why hydrophilic finish durability is a *surfactant molecular-design* variable (hydrophobe size, chain length), not merely an add-on level. This is the lever behind "hydrophilisation durability" in topsheet supplier discussions.
+- **Quantifies the rewet/speed trade-off and refutes the usual framing.** The common assumption is that faster first strike-through ⇒ better 
+
+--- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]  (5 句)
+   • Full-English R&D plan workbook (Deliverable 1/2 foundation sheet, prepared 2026-08-14) for a **diffusion-enhanced topsheet（扩散增强面层：下渗快 + 面内扩散）** for the REL ultra-thin core diaper. It is the REL-track sibling of the Liner C1–C4 DOE plan — same dual-card architecture, different product target and KPI baseline. All assumptions are explicitly traced to meeting minutes 2026-08-13 and KB sources; [TBD] items require confirmation.（REL 超薄芯体配套的扩散增强面层六页规划：方案、DOE 矩阵、表征指标、排程、风险与预算。）
+   • Scope defines the layer as a functional topsheet-to-core interface layer responsible for fast acquisition（下渗）+ in-plane lateral distribution（面内扩散）; whether it replaces the current ADL or integrates topsheet+ADL is [TBD]. Architecture: dual-card system — skin-side card = 2D ES + optional 10% Lenzing Lyocell (trilobal) for softness/hydrophilicity; core-side card = profiled fiber + ES (50/50 Fudi ES anchor). Backup formula uses 3D Fudi trilobal ES top + 4D base ES bottom; cross-section (十字) PET fib
+   • **同一双梳理架构服务两条产品线（Liner C1–C4 与 REL 25 gsm），KPI 基线不同** —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)、ATB双梳理面层（Dual-Card Topsheet）
+- **温度窗口是异形纤维方案的第一工艺风险** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）
+- **回渗门槛双轨制（材料级 0.03 g vs 成品级 5.9 g）须在 Kickoff 锁定一审门** —— 支撑页：Dryness Measure System（干爽度量三分）
+   • 概念 Concepts：ATB双梳理面层（Dual-Card Topsheet）、CoPET（低熔点共聚酯）、Dryness Measure System（干爽度量三分）
+- 实体 Entities：福地（Fudi）、兰精集团、诺尔（Nuoer）
+- 对比 Comparisons：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[时间滞后法 Time Lag Method]]  (4 句)
+   • **Time lag L 的定义**（唯一可溯源口径）：渗透曲线**稳态段的 t 轴截距**。测出湿流稳态段的截距 L，除以  即得扩散系数 D —— （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+   • **几何前提：一维有限域平面片。** 时间滞后法是 Ch.4「平面片扩散」在渗透测量上的应用；同一章的稳态解给出浓度线性分布与通量 （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **操作步骤。** 对一片厚度 l 的膜/片做渗透实验，记录下游累积湿流量-时间曲线；取**稳态段的线性段**，其在时间轴上的截距即 L；由  反演（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **非稳态段的分工。** 小 t 用误差函数类解，大 t 用傅里叶级数解 —— 时间滞后法取的正是**大 t 稳态段**（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **D 必须先指定参考系。** D 的定义依赖于参考系选择（体积 / 质量 / 溶剂固定），不同参考系给出不同 D 值；SAP 因溶胀体积剧变**通常用质量固定参考系**，否则 D 值无法比较（源：Definition and Measurement of Diffusion Coefficients (Crank 
+   • **几何直接对应芯体。** 一维有限域扩散是纸尿裤**芯体层、湿巾、SAP 片层、复合膜**的最直接对应几何（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **行业标准 D 测量法。**  是 SAP/纤维材料 D 测量的**行业标准方法**（Daynes 1920, Barrer 1951）（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **多层芯体的传质阻力叠加。** 复合膜总阻力 = 各层阻力之和 Σ(lᵢ/Dᵢ)，是芯体多层结构（顶表层 / 纺粘导流层 / 绒毛浆 / SAP 层 / PP 底膜）传质阻力建模的基础公式（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **MVTR 与液态阻隔率差异的解释。** 渗透常数 （D 与溶解度 S 之积），MVTR 与液态阻隔率的差异本质是 P 不同（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **SAP 表征的前提条件。** 报 SAP 的 D 时必须声
+   • Citing sources 引用来源：Definition and Measurement of Diffusion Coefficients (Crank Ch.10)、Diffusion in a Plane Sheet (Crank Ch.4)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、格林函数 Green's Function、Laplace 变换
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[熔喷 Meltblown]]  (4 句)
+   • **阻力限制牵伸（drag-limited attenuation）**：纤维与空气射流达到**速度匹配**后，质量守恒即锁定直径（d ∝ v /(m·Λ·v_a)·…）；**熔体粘度只改变「多快达到匹配」**，不改变最终直径 —— 285 °C 时距模头 2.4 mm、250 °C 时 2.7 mm 达到匹配。（源：Meltblown Nonwoven（熔喷非织造布））
+- **三个真实杠杆**：降低单孔产量（cut g/hole/min，0.73 → 0.20，固定线产量下对应 35 → 130 hpi）、提高射流速度（150 → 250 m/s 带来 2.85 → 2.21 µm，随后饱和），以及「nothing else」。（源：Meltblown Nonwoven（熔喷非织造布））
+- **纤维细度不由温度买来**：在工业窗口内纤维直径受**阻力限制**（由单孔产量与射流速度设定，非熔体粘度）；模头温度 250 → 300 °C 使模拟直径变化 < 1%。（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））
+
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • SMS 各层的**克重配比与阻隔性能的定量关系**，本库暂无来源 。（源：SMS复合结构）
+- SMMMS 的**实测（非模拟）静水压**与单束成形 CV 仍缺 。（源：SMS复合结构）
+- **专利范围警示**：US7195621B2 摘要 / SUMMARY 讲的是 backsheet，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上 —— 读范围时须注意 。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- 上述数据在来源中的**页码待核** 。
+   • Polymer-laid web formation（熔喷作为一体化熔融挤出成网；§4.9–4.13 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites（纺粘 / 熔喷 MFR 树脂分野的一手出处）
+- Meltblown Nonwoven（熔喷非织造布）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）、Laser-Assisted Die Tip（激光辅助模头）（牵伸机理与激光加热）
+- Formation-Limited Barrier（阻隔的成形受限机理）、Film-Free Backsheet（无膜背层）、SMS复合结构、SMS 纺粘熔喷复合（阻隔与载体）
+- Coform Composite Nonwoven（熔喷-木浆复合非织造）、绒毛浆（Fluff Pulp）、ADL（导流层）（芯体包裹层相关）
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backshe
+

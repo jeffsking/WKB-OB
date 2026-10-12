@@ -1,0 +1,28 @@
+{
+  "uncompiled": [
+    "RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_全Code关键参数总览_vsControl2_20261010.png.md",
+    "RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261010.png.md",
+    "RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析_20261010.xlsx.md",
+    "RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析报告_20261010.html.md",
+    "RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析报告_20261010.md.md"
+  ],
+  "duplicate_registration": {},
+  "duplicate_governed_by_merged": {
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Porous Structure and Liquid Flow Models.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Liquid Flow in Porous Structures.md"
+      ]
+    },
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch07_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Cross-linked Cellulose and Its Derivatives.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Cross-linked Cellulose and Derivatives.md"
+      ]
+    }
+  }
+}

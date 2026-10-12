@@ -1,0 +1,22 @@
+{
+  "batch": "idb_07",
+  "book": "Handbook_of_Industrial_Drying",
+  "done": [
+    "Industrial Drying Ch38 Dewatering and Drying of Wastewater Treatment Sludge",
+    "Industrial Drying Ch39 Drying of Biotechnological Products",
+    "Industrial Drying Ch42 Drying of Enzymes",
+    "Industrial Drying Ch43 Drying of Coal",
+    "Industrial Drying Ch44 Dryer Feeding Systems"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Ch38/39/42/43/44 章节起止页码为按引句页码推定（如 Ch38 pp.885-901），源文件注明 PDF 页码偏移 +21 待与印刷版抽查核对，页面内已标 [待验证]",
+    "Ch42 MgSO4 '>100% 活性回收' 来自专利源数据，机理未明，页面内已标 [待验证]",
+    "Ch43 kJ/kg-H2O 能耗基准为煤系工厂经验值，移植纤维素/丙烯酸体系需重新推导，页面内已标 [待验证]",
+    "Ch44 容积式给料 +2% 精度为供应商声称值，未经独立验证，页面内已标 [待验证]",
+    "Ch39 乳杆菌 E_a 数值（Table 39.3）为分析文件转录，工艺设计前应核对原书，页面内已标 [待验证]"
+  ],
+  "count": 5,
+  "verified_at": "2026-09-30",
+  "verify_result": "断链数 0；front matter 校验 1627/1627 通过"
+}

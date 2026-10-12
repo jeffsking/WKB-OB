@@ -1,0 +1,65 @@
+{
+ "batch_id": "W12-6",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_1ad1e6d0c3f4d37b3cbecc5f3dc7bf6f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · 原始引用索引.csv.md",
+   "name": "PF · 原始引用索引.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_91c4b5b69fb3bd0eede011831e65d83a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch08.md.md",
+   "name": "ID · analysis_ch08.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d1d524a725792b81c7b46ca7f41c175d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch17.md.md",
+   "name": "ID · analysis_ch17.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_3491172ad70d8301a4f1295b8e70275a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch26.md.md",
+   "name": "ID · analysis_ch26.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_537db4a7f84de44837542a269acb4f44001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch35.md.md",
+   "name": "ID · analysis_ch35.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_61e4ac67bc8223dbe3c4f72eeff6741f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch44.md.md",
+   "name": "ID · analysis_ch44.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_221392871e0eb3755001d70ed42a6089001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch53.md.md",
+   "name": "ID · analysis_ch53.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_65c09534c4588f1770635fb05f4e16cc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch05.md.md",
+   "name": "NW · analysis_ch05.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e1ea7cb1723734aeb4240b76f709a82f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch01.md.md",
+   "name": "PF · analysis_ch01.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6ca93c554aec947f653887666bfbcefd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch10.md.md",
+   "name": "PF · analysis_ch10.md.md",
+   "type": "markdown"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+# SEED: 生物基单体 Bio-based Monomer
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Acrylic-Based Superabsorbent Polymers
+#   - Hydrogel-based Superabsorbent Polymers
+#
+# 全库正文命中 98 页，156 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization]]  (5 句)
+   • Chapter 7 is the mechanistic foundation of **chain-reaction polymerization**: it covers **cationic**, **anionic** and **complex coordinative（Ziegler-Natta）** mechanisms under the common skeleton of **initiation–propagation–termination**, deriving pathway selection from monomer electronic effects (electron-releasing → cationic; electron-withdrawing → anionic). 本章对卫材的直接价值在于 **§7.4 — Ziegler-Natta 配位聚合是现代等规 PP 工业的全部理论基础**：等规度、氢气控分子量、叔碳原子导致的抗氧化弱点，都在这里定义。
+   • **动力学**：*"the rate of polymerization is proportional to the square of the monomer concentration and to the first power of initiator."*
+- **丁基橡胶 / Butyl rubber (IIR)**：*"Butyl rubber (IIR), widely used for inner tubes and as a sealant, is produced by the cationic low-temperature copolymerization of isobutylene in the presence of a small amount of isoprene (10%)... Thus, the random copolymer chain contains a low concentration of widely isolated double bonds which assume a low cross-linked density.
+   • **插入机理**：*"a monomer molecule (H₂C=CHCH₃) is inserted between the titanium atom and the terminal carbon atom in the growing chain and that this propagation reaction takes place on the catalyst surface."*
+   • **为什么 PP 不能靠自由基聚合商业化**：*"For high polymer to be formed, the activated monomer and growing polymer chain must be stable and growth rapid enough to allow long chains to be formed."* 丙烯是非极性单体，自由基路线产物为无规立构（atactic）PP、熔点低、强度差；Ziegler-Natta 通过活性中心的几何约束迫使丙烯定向插入，才得到等规 PP。
+
+--- [[01_PLA_PPC_可降解材料研究报告.md]]  (4 句)
+   • Industry research compilation (2026-04; sources: 联泓新科年报/行业报告/专利; prices 2024–2025 market data) on PLA（聚乳酸）+ PPC（聚碳酸亚丙酯）degradable materials, framed around 联泓新科's full-chain layout. Supplies the cost/price baseline and capacity landscape for bio-based material sourcing decisions in the库's degradable-materials track.（PLA/PPC 原理、成本、产能与应用全景。）
+   • PLA：from plant starch → lactic acid（光学纯度 ≥99%）→ lactide（收率 ≥90%、纯度 ≥99.5%）→ ring-opening polymerization（主流两步法，Mw 70–100 万）; Levima's self-developed chain gives high optical purity lactide and controllable Mw. PPC：CO₂ + PO alternating copolymer（CAS catalyst, supercritical polymerization 80–120 °C / 5–10 MPa, selectivity ≥95%, residual monomer <100 ppm）; fully degradable, rigid-tough balance, barrier, transparent; listed in national key R&D program. PLA/PPC blends: PPC toughens PLA（impact ↑ with P
+   • **联泓是少数打通"淀粉→乳酸→丙交酯→PLA + CO₂ 基 PPC"双链路的国内供应商** —— 支撑页：Levima New Materials（联泓新材料）
+- **PPC 的原料成本大头是 PO 而非 CO₂**，其价格竞争力绑定环氧丙烷行情 —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- **PLA 价格仍是 PP 的 2–3 倍**，与"PLA 纤维 2028–29 平价"预测共同构成降本路线的两端 —— 支撑页：PPC-P 基与 PGA 基可堆肥纤维路线对比
+   • 实体 Entities：Levima New Materials（联泓新材料）
+- 概念 Concepts：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 对比 Comparisons：PPC-P 基与 PGA 基可堆肥纤维路线对比
+
+--- [[Ebewole Polymer Science Ch02 Polymerization Mechanisms]]  (4 句)
+   • Initiation proceeds in **two successive steps 引发分两步** (Ch.2, p.27): (1) radical generation from the initiator; (2) addition of the radical to the monomer. Routes to radical generation include thermal decomposition, photochemical (ultraviolet) decomposition, high-energy irradiation, and **redox initiation 氧化还原引发**:
+   • Regiochemistry 区域化学: "The substituted carbon atom is regarded as the head and the unsubstituted carbon atom the tail of the vinyl monomer." (Ch.2, p.27)
+   • Transfer targets 转移对象: monomer / polymer / solvent / initiator / impurity. If the new radical A· is unreactive toward monomer, "the entire reaction could be inhibited" (Ch.2, p.29) — 即链转移剂与阻聚剂的界限取决于新自由基活性。
+   • **Carothers dichotomy (1920s)** distinguished condensation vs. addition by whether a small molecule is eliminated; the source judges this scheme as not permitting complete differentiation.
+- **IUPAC mechanism classification (from the 1950s)** formally established step vs. chain; Ebewole adopts it.
+- **Free-radical kinetics (Bamford, Stewart, Mayo, 1940s–50s)** — the chain-transfer concept (Mayo equation) comes from this lineage.
+- **Anionic diene polymerisation (Szwarc, 1956)** — "living" polyme
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (4 句)
+   • Definition (p.318): "A polyamide manufactured from aliphatic monomer(s) is commonly designated as nylon." 尼龙即由脂肪族单体制得的聚酰胺（amide link –NH–CO–）。 The chapter follows the two protagonists along a complete chain — **polymerization → degradation → spinning → structure → application**:
+   • **Nylon 6** via ring-opening polymerization of **caprolactam (CL 己内酰胺)**, an AB-type monomer.
+- **Nylon 66** via polycondensation of **hexamethylene diamine (HMDA 己二胺)** with **adipic acid 己二酸** through the intermediate **AH salt 尼龙66盐**.
+   • 1. **Ring-opening needs a starter** (p.320): "Caprolactam (CL) does not polymerize in a completely dry condition. It requires a catalyst which converts a small amount of CL to aminocaproic acid (ACA)." CL + H₂O → ACA. Water catalysis is industrially dominant because it is controllable; alkali catalysis gives higher rate and higher molecular weight but is hard to control. Typical water-catalysed conditions quoted in the source: temperature **225–280 °C**, water concentration **5–10%**. The contin
+   • Four degradation classes: **thermal 热**, **thermo-oxidative 热氧**, **mechano-chemical 机械化学** and **hydrolytic 水解**, tracked by volatile products (**CO₂, NH₃, HCHO**) and gelation. Depolymerization back to monomer is cited as industrial-scale evidence for hydrolytic routes. Additives covered: mass colouration and **copper-salt heat stabilisers**.
+
+--- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]  (4 句)
+   • **生物基 SAP（Bio-based SAP）生物基高吸水树脂** — 以可再生原料（淀粉、纤维素、蛋白质、生物基单体）替代或部分替代石油基丙烯酸路线的高吸水树脂。与之**正交**的概念是 **可降解（degradable）**：**生物基 ≠ 可降解**（生物基丙烯酸 SAP 的性能与寿命与传统 SAP 相当，并不降解）。二者常被混用，是本报告最需要澄清的一点。
+   • **原料成本结构（石油基 SAP）**：丙烯酸 **50–60%**、液碱 15–20%、交联剂 5–8%、引发剂 2–3%、溶剂/分散剂 5–10%、其他 5–10%。
+→ **结论性含义**：**SAP 成本由丙烯酸单一主导（>50%）**，因此任何降本/可持续路径都要么动丙烯酸（生物基单体），要么动用量（芯体设计）。
+   • 1. **生物基化**：目标 **2030 年生物基 SAP 占比达到 20%**；路径为「生物基单体 → 生物基聚合物 → 可降解 SAP」；挑战为成本控制、性能平衡、标准建立。
+2. **功能化**：抗菌（银离子、季铵盐）、除臭（活性炭复合、酶固定化）、温敏、pH 响应。
+3. **复合化**：SAP-纤维复合（芯体结构优化）、纳米 SAP（提速）、有机-无机复合（提凝胶强度）。
+4. **绿色化**：可降解 SAP（PASP、改性淀粉）、循环再生（废旧 SAP 化学回收）、低碳生产（绿电、碳足迹）。
+   • 1. **成本口径冲突（重要）**：本报告称生物基 **+20–50%**、PASP **+50–100%**；而 IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17） 口径为**可降解 SAP ≈ PAAS 的 2–5 倍**（OI-06 达 30–40 USD/kg）。**两者并非同一对象**：本报告为**生物基（bio-based）**溢价，OI 口径为**全降解（degradable）**溢价。**结论：不要把「生物基 +20–50%」用于可降解路线的成本论证。**
+2. **赢创业务出售**：本报告称赢创 SAP 业务「已出售给 ICIG」，与 Evonik（赢创） 页面若存在不同表述，**须以外部公告核实**，本页仅登记 source-stated。
+3. **三大雅（Samyang）国别标注不一致**：3.1 表标为韩国企业（Samyang），6.2 表写作「日本三大雅」。**未做修正**，已登记。
+4. **产能口径年份混用**：全球表为 2023、中国表为 2024；且 6.1/6.2 与 3.1/3.2 存在个别不一致（万华 6–
+
+--- [[Technology Roadmap 2026-2029（技术路线图）]]  (3 句)
+   • **Cost crossover points 成本交叉点**：PLA fibre 预计 2028–2029 与 PP 平价；bio-based SAP 预计 2030 年后平价。
+   • 1. **Zoning replaces homogenisation（分区化取代均匀化）** → OI-02 / OI-20 / OI-14 / OI-25；单层均质架构项目须重述目标。详见 分区密度设计。
+2. **Ultrasonics upgraded to the cost-reduction mainline（超声波升为降本主线）** → OI-05 / OI-04；替代 90% 热熔胶、设备国产化 >80%、约 18 个月回本。
+3. **Degradables counting down to the cost inflection point（可降解进入成本拐点倒计时）** → OI-24 / OI-06 / OI-12 / OI-13；PLA 2028–2029 平价、bio-based SAP 2030 后平价。
+4. **Smart indication downgraded to a "visual language"（智能指示降为视觉语言）** → OI-15/16/21/22/23；验收口径统一为「消费者可解码率 ≥70%」而非精度指标。
+5. **Com
+   • **要点**：六大方向中「分区化」「超声波」「可降解拐点」三条有明确数字锚点（+40% CD 扩散、降本 8–12%、2028–2029 平价），可作为项目立项的时间/指标判据；「智能指示降为视觉语言」与「合规前置」是口径级改动，不改变技术路线。
+- **待补 **：PLA/bio-based SAP 平价时点的第三方验证；超声波 18 个月回本的产线实测。
+
+--- [[Acrylic-Based Superabsorbent Polymers]]  (3 句)
+   • **吸水机理三阶段**：渗透（渗透压+亲水基团水合作用，秒级）→ 扩散（聚合物网络形成，凝胶层生长）→ 饱和（聚合物骨架充分膨胀，平衡吸水量达成）。
+- **合成三要素**：引发剂、交联剂、单体浓度配比；丙烯酸单体浓度 10–40 wt% 范围吸水率显著下降（高单体浓度导致交联网络致密、孔隙率降低）。
+- **交联密度双重影响**：过低 → 凝胶层析出、溶胀坍塌、体系黏性增大；过高 → 交联点过多、孔隙率不足、吸液能力不足。存在最优值。
+- **交联方式**：化学交联（双官能团/多官能团交联剂、链转移交联）+ 辐射交联（β 射线、紫外光）。
+- **表面接枝路线**：在预聚物（如纤维素、淀粉、壳聚糖）表面接枝丙烯酸单体，形成核-壳结构，改善分散性、降低成本。
+- **绿色合成**：微波聚合（快速、低能耗、交联密度更均匀）、光引发聚合、辐射交联（减少化学交联剂用量）、生物基单体（壳聚糖/纤维素/淀粉衍生物）。
+- **结构优化（2024 新方向）**：3D 打印分级孔道 SAP（微米级主孔道+纳米级毛细孔，兼具快速吸收与高保水性）、形状记忆 SAP、纳米复合 SAP（纳米纤维素、纳米二氧
+   • 1. **丙烯酸基 SAP 的双要素本质**：高吸水/保水能力来自亲水羧基/羟基 + 三维交联网络骨架的双重作用，缺一不可。
+2. **合成三要素与交联密度为核心调控参数**：合成反应由引发剂、交联剂、单体浓度配比决定；交联密度是核心调控参数——过低导致凝胶溶胀坍塌/凝胶层析出，过高导致吸液能力不足。
+3. **加工方式与性能权衡**：颗粒法（主流，吸水量大、加工方便）、纤维法（分散性好、吸液速度快但加工难度高）、薄膜法（吸液速度快但分散性差）——三种路线各有取舍，需按应用场景选择。
+4. **2024 新方向聚焦绿色与结构化**：新进展聚焦绿色合成（微波、光、辐射、生物基单体）与结构优化（3D 打印分级孔道、表面接枝、纳米复合），为下一代 SAP 提供技术储备。
+   • 父书：Absorbent Technology
+- 概念：SAP（高吸水树脂） · 交联密度 Crosslink Density · 生物基单体 Bio-based Monomer · Flory- Rehner Theory · 吸收芯体 · 达西定律 Darcy's Law
+- 相关章节：Cross-linked Cellulose and Its Derivatives · Polyolefin Absorbent Materials · The Role of Surfactants
+- 仿真接口：交联密度→Flory-Rehner 溶胀模型（ 参数接口）
+
+--- [[August R&D Meeting 2026（华峰研发会议）]]  (3 句)
+   • Huafon's own August-2026 R&D meeting deck (converted slide PDF): **group profile → hygiene-product overview → spandex production process**. It is the batch-05 source that carries the **nanofibre waterproof-breathable membrane comparison table**, the **bio-based and solvent-free spandex routes**, and Huafon's **DMAC residue test record**.
+（华峰 2026 年 8 月研发会议材料（PPT 转写）：集团概况 → 卫品产品概览 → 氨纶丝生产工艺。本批中**纳米纤维防水透湿膜对照表**、**生物基与无溶剂氨纶路线**及**DMAC 残留检测记录**均出自此处。）
+   • **Capacity figure conflict 产能口径冲突**：本材料记 Huafon Chemical 氨纶 **47 万吨/年（全球第一）**，而同批 Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28） 记**72.5 万吨/年（全球第二）**，与华峰集团会晤纪要（2026-07-29） 记瑞安基地 47 万吨/年。**口径（集团/上市公司/单基地）不明，本页不裁决**。
+- **Nanofibre WBM test conditions unknown 测试条件未知**：对照表给出静水压、透气性、克重、厚度与 WVTR 五组数字，但**未给测试方法与条件**，跨材料比较存在口径风险（见 WVTR 测试口径（失重法 vs 增重法））。
+- **Bio-based spandex recovery gap 生物基氨纶的回复率缺口**：原文只写 "may not consistently match conventional spandex"，*
+   • **Electrospun PU nanofibre membrane is a different material class, not a better film** —— 4 gsm / 8 µm / 8,000 mmH₂O 与 PE 拉伸膜不在同一量纲 —— 支撑页：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+- **Two independent decarbonisation paths exist but trade off against elasticity** —— DMAC-free（无溶剂）与 bio-based（>70% 生物基）各有一个弹性缺口（热粘合窗口 / 回复率） —— 支撑页：无溶剂氨纶（Solvent-free Spandex）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- **Fine denier is the tactile-softness lever for waistbands** —— 120–320 dtex 已验证 —— 支撑页：氨纶干法纺丝（Spand
+
+--- [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]]  (3 句)
+   • The report sizes the **China baby-diaper market at ~RMB 70B (2025E), CAGR 8-10%**, with three trends: trading-up (skincare), green consumption (degradable/bio-based/natural), and domestic substitution (Babycare, BeBeBus, Qiaoshi). It inventories **20+ new launches (2024-25)** across **six tech directions**: probiotic skincare, ultrafine-fiber topsheet (0.003mm / 0.6-0.8D), seamless waistband, weak-acid/skincare, smart wetness indicator, and bionic acquisition structures. On materials, it documen
+   • **中国市场规模约700亿、CAGR 8-10%，国产替代加速** —— 支撑页：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）
+- **益生菌/弱酸护肤面层是高端价格带核心驱动** —— 支撑页：Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+- **无木浆第四代芯体量产，薄+强+绿成高端标配** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **PLA/PPC 可降解 2026 临界点，从小众走向主流** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • 概念：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 对比：China vs Korea Diaper Market（中韩纸尿裤市场对比）
+
+--- [[CMC-Na CA CNF SAP original article.pdf]]  (3 句)
+   • Peer-reviewed 2025 study of a fully bio-based **cellulose aerogel** superabsorbent (CMC-Na + citric-acid crosslinker + CNF scaffold) reaching 153 g/g absorption — a low-microplastic alternative to petro-based acrylic SAP for hygiene.（2025 年同行评议研究：全生物基纤维素气凝胶高吸水材料（CMC-Na + 柠檬酸交联剂 + CNF 骨架）吸水达 153 g/g，是卫品中石油基丙烯酸酯 SAP 的低微塑料替代。）
+   • **Material 材料**: Sodium carboxymethyl cellulose (**CMC-Na**) as the absorbent body; **cellulose nanofibers (CNF)** as the structural scaffold; **citric acid (CA)** as the crosslinker adding carboxylate sites.（材料：羧甲基纤维素钠（CMC-Na）为吸水主体；纤维素纳米纤丝（CNF）为结构骨架；柠檬酸（CA）为交联剂并引入羧酸位点。）
+- **Process 工艺**: homogeneous mixing → freeze-drying (lyophilization, 48 h) → **160 °C thermal cross-linking** to form a robust network.（工艺：均匀混合 → 冷冻干燥（48h） → 160°C 热交联成网。）
+- **Motivation 动机**: conventional SAPs are petroleum-ba
+   • A cellulose aerogel can reach >150 g/g absorption while being fully bio-based and microplastic-free — directly relevant to the bio-SAP roadmap.（纤维素气凝胶可在全生物基、无微塑料前提下达到 >150 g/g 吸水，与生物基 SAP 路线图直接相关。）—— 支撑页：Biodegradable SAP（可降解高吸水树脂）、纳米纤维素（CNC、CNF、BNC）
+- Retention under centrifugal force and heat shows practical robustness for hygiene loading.（在离心力与高温下的保水表现显示卫品载荷下的实用性。）
+

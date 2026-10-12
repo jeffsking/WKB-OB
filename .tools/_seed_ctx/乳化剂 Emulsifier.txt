@@ -1,0 +1,40 @@
+# SEED: 乳化剂 Emulsifier
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cosmetic Formulation of Skin Care Products
+#
+# 全库正文命中 3 页，5 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[湿巾 Wet Wipes]]  (2 句)
+   • Formulation cross-over: the skincare-formulation reference covers formulation design, ingredient selection, processing and stability, and cross-references hygiene products in **moisturising / care wet-wipes formulation** and **nonwoven–skin interface comfort assessment**（源：Cosmetic Formulation of Skin Care Products）。
+- Related concepts: Nonwoven 非织造布、乳化剂 Emulsifier、保湿剂 Humectant、防腐剂 Preservative（源：Cosmetic Formulation of Skin Care Products）。
+- Shared chemical floor with diapers: GB/T 28004.1-202
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[Cosmetic Formulation of Skin Care Products]]  (2 句)
+   • 1. **护肤品配方设计**——乳化剂、保湿剂、防腐剂、活性成分的选择与配比
+2. **原料科学**——表面活性剂、增稠剂、抗氧化剂、防晒剂
+3. **工艺与稳定性**——乳化工艺、均质、灭菌、包装
+4. **安全性与功效评估**——皮肤刺激、功效测试
+5. **与卫生用品交叉**——护肤型湿巾配方、非织造基材舒适性、微生物控制
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 乳化剂 Emulsifier
+- 保湿剂 Humectant
+- 防腐剂 Preservative
+
+--- [[Handbook of Cosmetic Science]]  (1 句)
+   • 1. **皮肤结构与功能**——皮肤屏障、pH、渗透压、透皮吸收
+2. **化妆品化学**——表面活性剂、乳化剂、防腐剂、香料
+3. **配方工艺**——湿巾/护理产品的配方设计与稳定性
+4. **安全性评估**——皮肤刺激、致敏、生物相容性测试方法
+5. **与卫生用品交叉**——非织造基材与皮肤界面的摩擦学、润湿性、生物相容性
+

@@ -1,0 +1,128 @@
+# SEED: 2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）
+#
+# 全库正文命中 42 页，91 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]  (5 句)
+   • **GRIFFIN —— "回渗持平或优于 AD，不要求柔软度"**
+   • **LUGH**：围绕 **Fibertex 14 gsm Soft Open Dot Bond** 面层的经验做**回收循环**——用**润湿性与柔软添加剂变化**改善回渗；**Fibertex 将其化学体系视为专有的**，因此**依赖他们的专业意见来做调整**。
+- **GRIFFIN**：**定义并采购更低润湿处理的面层选项**，用于 **5 月的 HUT 生产**。
+- **LUGH + GRIFFIN**：跟进采购**同时具备 14 gsm 柔软 + 更低润湿处理**的面层；**⚠️ 若无 GRIFFIN 的护翼加成，可能存在泄漏风险 —— 先在台架评估，再进 HUT**。
+   • **LUGH**：Soft Liner Development & Bench Testing —— **L14 Liner Bench / L18 Liner Bench / New Liner Make & Ship / New Liner Bench / Print on New Liner / Soft Liner Vendor Print Development**。
+- **GRIFFIN**：**Liner Wettability Round 1 Results / Wettability Cliff Fundamentals / HUT Production (HUT) / ATH Core Rewet Round 1 Results / ALD GML ATH Core Rewet（依 Round 1 诊断结果待定）/ Curly Fiber Fundamentals / Thals & Prep for Q1 CUT and/or C&U（Male & Female Phase 4 Benchmark）/ Rewet Fundamentals / Always Di
+   • 1. **"护翼是否存在"是降润湿性路线能否成立的开关** —— **无护翼（ATACAMA）泄漏升高，有护翼（MOJAVE）不升高**。**这把此前"降润湿性 → 泄漏风险"的模糊警告变成了有边界条件的判据**：**有护翼 ⇒ 可用；无护翼 ⇒ 不可用。**
+2. **回渗与泄漏的权衡不是材料问题，是系统问题** —— 同一处理方式（无润湿处理）在两种产品结构上给出相反结果；**⇒ 不能孤立评价面层变量，必须连同防漏结构一起判定。**
+3. **降润湿性的机理被说清了** —— **不是"排斥液体"，而是"降低毛细性 + 不让液体留在上层"**。**⇒ 判据应是"上层残液量"，而不是"接触角"。**
+4. **ATH 的问题被重新定义为"系统边界变化"** —— **绒毛浆在 ATH 中从"吸收材料"变成了"摄入系统的一部分"**，于是**层数越多持液点越多**。**⇒ 同一个材料在不同结构里属于不同的功能域，回渗归因必须先划边界。**
+5. **对策的方向是"把液体从摄入系统里拉出来"** —— 在绒毛浆层**加少量 SAM 以解吸该层**；**而不是继续改面层**。**⇒ 当持液
+
+--- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]  (5 句)
+   • 前瞻部分指向 **ActivTech Hybrid**：该芯体从未被用于如此严苛的超低回渗场景，可能尚未充分优化；早期数据显示 AT hybrid 回渗偏高，但该代码缺少对 ATACAMA 回渗改善至关重要的**面层-导流层压花（liner-surge embossing）**。对比表给出 Nov 2024 GRIFFIN HUT 产品的两个代码：SAM/Fluff（17 gsm tissue 包裹、12 gsm SB 未印花面层、Shalag SS7CT5H80 导流层、有压花）vs AT Hybrid（12 gsm dSB 包裹、12 gsm SB 印花面层、无压花）；芯体由 ADL 生产、成品由 GML 生产，在 GADT 实验室测试。
+   • 下一步两条工作流：**Workstream 1 面层**——2 月 GRIFFIN GML 试验验证 4 条假设（Fitesa 12 gsm SB：对照组 oval bond 18% + 0.65% Lertisan；CD Rod bond 10% + 0.65% Lertisan → 更开放的粘合花型减少滞留小口袋；CD Rod bond 10% + 0.3% / 0% Lertisan → 不做亲水处理以排斥残余液，但冒摄入/渗漏风险；以及 Fitesa 22 gsm TS3 开孔膜面层 → 非纤维 + 开孔减少滞留小口袋）；同时由 GR&D 评估 Always Discreet 面层的解吸驱动因素。**Workstream 2 ActivTech 芯体**——2 月在 GML 生产带 LSE 的 Depend 样品以重评是否真有回渗差距，并用动态渗透率测试、STEWIE 微气候与液体分布评估回渗驱动因素；若有差距则依托物性测试结果继续做假设映射。
+   • **回渗是系统性残液问题，不是单点材料问题** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **面层-导流层压花（LSE）是 ATACAMA+ 回渗改善的关键工艺，AT Hybrid 早期数据不可直接对比** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **导流层优化与摄入性能存在结构性互斥，必须同轮验证** —— 支撑页：Intake System（摄入系统）、Shalag（Shalag 导流层与面层材料）
+- **液体积聚点会随方案迭代迁移（surge → liner），每轮须重新定位** —— 支撑页：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+   • 概念：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Liner-Surge Embossing（面层-导流层压花）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、Shalag（Shalag 导流层与面层材料）、Fitesa（Fitesa 非织造布）
+- 对比：（本页未提供可直接落表的成本/供应链数据；竞品回渗对标见下节结论）
+
+--- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]  (4 句)
+   • **背景段**先立起两条已被长期观察但未解释的现象：① 在 BCC 中 **SAM 用量对高压回渗影响显著**，但成因未定（是"液体足迹不同"还是"被锁住的液体量不同"——Aaron 的 ATH DOE 确认该结论对 BB 亦成立）；② 在 GRIFFIN 中反复调整保液容量**看不到对 closed cradle 回渗的影响**。随后的解释是全篇的钥匙：**CCR 由解吸驱动（残液在摄入系统），HPR 由回流驱动（芯体中松散持留液）**，因此容量只影响后者。
+   • **ATH 绒毛浆假说**：ATH 结构中回渗高于 SAM/Fluff，假说为「**在 ATH 里绒毛浆实际上是摄入系统的一部分**」，残液留在浆里再以解吸形式回来。2025 年 7 月的毛细测试给出旁证：为排除干扰而做成**不含 SAM** 的 GRIFFIN 样品，对比有浆/无浆——**有浆时解吸能更高、更难晾干，且截留残液更多**（两种包裹层 12 gsm dSB 与 20 gsm BCW 下趋势一致）。
+   • **Depend GRIFFIN 的反例**：把 SAM 移进绒毛浆后，closed cradle 回渗**小幅升高**（Always Discreet 0.17 g → GRIFFIN ATH 0.34 g → 掺 30% 0.38 g → 掺 47% 0.40 g），与"掺 SAM 捕获残液"的假说**相反**；文中自问"也许是掺入量不足以让浆及时解吸？"但未定论。
+   • "Different rewet mechanism to HPR — Closed cradle rewet driven by desorption, so residual fluid in the intake system — High pressure rewet driven by flowback, so loosely held fluid in the core"（Background: Ret Cap & Rewet）
+- "In ATH systems, we hypothesize fluff acts as part of the intake system so residual fluid can be left in the fluff and come back out as rewet."（Background: ATH Fluff & Rewet）
+- "✓ When system has fluff, it's harder to desorb (dry out) which may lead to higher rewet / ✓ When 
+
+--- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]  (4 句)
+   • **GRIFFIN「Fresh Protection」判据（源文原文，按性别与对标对象分列）**
+   • **Dayuan 3D topical surge（E171-08）回渗意外地低**（低于 Depend Control；源文以图给出，具体数值仅存在于图片 alt 文本，**本页不给数值，标 **）。
+- 但 **GRIFFIN 不推进**，理由为**成本**与 **closed cradle**；**仅作为学习机会（learning opportunity）保留**。
+   • **组合页**： —— LUGH / GRIFFIN / ATACAMA / MOJAVE / SIROCCO / ELEKTRA 均属 Open Innovation 组合的项目码。
+- **方法页面**：、、 —— 本件的 **Closed Cradle vs NWSP 070.9 参数对照**是方法差异的一手证据。
+- **机理页面**：（ATH 层数-滞留点、绒毛浆成为摄入层）、（ATH 芯体）、（MOJAVE/CT5 导流层在 HUT 表中的角色）、（面层结构）。
+- **供应商**：、；**Fibertex** 与 **Dayuan** 在库内暂无实体页（本批仅一次提及，未建页）。
+   • **竞品数据**：Always Discreet / Assurance 的回渗与渗漏数据为**竞品内部实测**，样本量与批次见上表；对外引用须标注口径（Female Large、commercial、post-ATACAMA）。
+- **内部编号**：HUT 39840 / 39634、TTM-00148 / TTM-00672、LabVantage 请求号（22-0592 等）为**内部测试编号**，仅作追溯用。
+- **竞品专利分析**：第 9 节的五件 P&G 专利**解读为源文观点**（尤其 "ActivTech Hybrid 芯体倒过来"、"日本触媒受制于 P&G" 两处为主观表述），**不构成法律意见**。
+- **供应商专有信息**：源文明确 **Fibertex 将其化学品视为 proprietary**，本页**不记录任何配方细节**；**Lertisan 添加梯度**仅记档位，不记配方。
+- **成本判据**：LUGH 的 "No product cost impact" 与 GRIFFIN 放弃 Dayuan 的 "cost" 理由**均未给金额**，本页**只
+
+--- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]  (4 句)
+   • **WS1 — 面层**：在 2 月 GRIFFIN GML 试产中检验 3 条假设。基底均为 **Fitesa 12gsm SB**：
+- 对照：Oval bond（18%）+ 0.65% Lertisan
+- CD Rod bond（10%）+ 0.65% Lertisan —— 假设「更开放的粘合花型 = 更少滞留残液的小口袋」
+- CD Rod bond（10%）+ 0.3% Lertisan —— 假设「无处理 = 排斥残液（对吸收/渗漏有对等风险）」
+- CD Rod bond（10%）+ 0% Lertisan —— 同上，但风险更高
+- （计划外）打孔膜面层 Fitesa 22gsm TS3，因**胶渗透（adhesive burnthrough）未能取到样**
+   • **WS2 — ActivTech 芯体**：重做带 LSE 的 Depend AT 样品（此前样品可能 LSE 过轻，而 LSE 对回渗是**关键**）。头对头结果：**AT Hybrid 芯体确实抬高回渗**。差异清单：包裹层 12gsm dSB vs 17gsm tissue；面层 12gsm SB 印花 vs 未印花；导流层同为 Shalag SS7CT5H80；面层-导流层压花 Light vs Yes（2024 GRIFFIN HUT 产品）。
+   • 机理认知：**润湿整理改变的是液体表面张力**，而非材料本身。
+- 实验设计转换：**不改整理水平，改为直接改变测试液体的表面张力**，在**未处理面层的现有样品**上建立「回渗 vs 吸收」权衡曲线。
+- 目的：**不重新打样**即可回答「GRIFFIN HUT 是否应包含无处理或半处理面层」。HUT 打样时间为 5 月中下旬。
+- 遗留疑问：所供样品的整理**可能存在中断（interruptions）**，影响上述对比。
+   • 概念：Rewet Test（回渗测试）、ActiveTech Platform（ActiveTech 在线薄芯体平台）、亲水整理耐久性、Liner-Surge Embossing（面层-导流层压花）、Cradle Intake Test（Cradle 摄入测试）
+- 来源（同主题前后继）：Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）、Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]  (4 句)
+   • 本批**GRIFFIN 回渗项目的学习周期复盘（2025-06-24/25）**：按 Liner / Core / Adhesives 三条工作流盘点进展，并把 SIROCCO 时代三处施胶试验的结论固化为可复用知识。是本库回答「吸收系统里施胶到底怎么影响回渗」的关键证据页。
+   • **工作流回顾 —— Liner（面层）**：GRIFFIN HUT 已投放**未处理（untreated）面层**（渗漏结果预计 7 月底）。**未能完成**"通过用 SF19 改变盐水表面张力来研究摄入/回渗权衡"的实验，后续可考察其他表面活性剂。Always Discreet 面层分析：① 看起来**可能有更多胶**（SIROCCO 总结 slide 5）；② **Summit 喷头可能带来增量回渗改善**；③ 自 4/22 分享后是否有新学习（开放问题）；④ **随着更多批次被测，AD 持续显得比 Depend 更不亲水（less philic）**；⑤ **AD 产品在同一时间段、不同机台上存在 2 种不同的胶型**；⑥ **Depend/AD 摄入系统互换**——**假设是 AD 的差异来自面层/导流层，而不是卷曲纤维（curly fiber）**。
+   • 概念：Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、ActiveTech Platform（ActiveTech 在线薄芯体平台）、Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Interstitial Space（面层-导流层界面间隙）、Intake System（摄入系统）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+   • 本地路径：
+- 原文链接：（无；内部资料）
+- 同族文档：GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）、GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）
+
+--- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]  (4 句)
+   • 本批**Depend 回渗项目的重整复盘（K. Clemmer，2025-08-25 / 更新 8-28）**：首次把"回渗测不准"作为独立问题提出——批次间与测试请求间的变异与干厚度耦合——并给出 LUGH 面层、GRIFFIN 面层、竞品互换三条并行进展。是本库回答「回渗数据为什么对不上」的方法论来源。
+   • **GRIFFIN 面层选择**：对照为 **Fitesa 12 gsm SB、oval 花型、0.65% Lertisan（分区施加）**；HUT 回渗代码为 **Fitesa 12 gsm SB、CD rod 花型、未处理（untreated）**。TTM-00672 闭式摇篮回渗对比中，CD Rod - 0.3% 与 CD Rod - 0.65% 等代码落在 0.19–0.22 g 区间。GRIFFIN 时间线：HUT 结果 10 月中、订购未处理 12 gsm Fibertex 用于测试。
+   • 概念：Rewet Measurement Variability（回渗测试变异性）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、LUGH Liner Program（LUGH 面层项目）、Fibertex（Fibertex 非织造布供应商）、Fitesa（Fitesa 非织造布）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+   • 本地路径：
+- 原文链接：（无；K-C Internal Only）
+- 同族文档：GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）、Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）
+
+--- [[Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）]]  (4 句)
+   • K. Clemmer（ADT）**2025 年 8 月的回渗季度汇报**。结构是「**设计原则 → 项目落地 → 竞品分析**」三段式：先给出 **Flowback / Desorption 两套原则集**，再用 **五个项目（BUFF BABY / GRIFFIN / LUGH / LOKI / AC4 4U）**的实测数字证明原则有效，最后用 **P&G 专利地图 + 竞品互换实验**定位外部基准。本库价值：它是 Rewet Principles（回渗设计原则与测试方法关联）（2025-10-22，Draft 3）**在时间上的前一版快照**，且**独有五个项目的量化战绩与互换实验结论**。
+   • **总纲**：*"Tackling rewet on all fronts to deliver best-in-class"*，方法论是*"Systematically eliminating residual fluid from every component"*——**逐层消灭残液**，覆盖 **GRIFFIN 无处理面层 / LOKI 面层驱动因素 / Ourly 纤维复合 / 芯体 / BUFF BABY 分析 / Liner-Surge 压花 / SAM 去溶胀 / 间隙空间（interstitial spaces）/ 界面 DOE** 九条战线。
+   • **Rewet 衡量产品干爽；EWL / STEWIE 衡量皮肤干爽** —— 二者**用途不同，不可互换**。
+- **下一步（当时）**：8 月 BUFF BABY 深挖 → 9 月竞品分析 → 9 月界面试验 → 10 月 GRIFFIN HUT 结果 → 10 月 SAM 影响与其他芯体驱动（DML 试产）。
+- **再下一步**：**回渗测试方法优化**、**EWL/STEWIE** 方法建设。
+   • **回渗 = Flowback + Desorption 两套机理，各有原则集；贯穿原则是评估变异与能力。** —— 支撑页：Rewet Principles（回渗设计原则与测试方法关联）
+- **BUFF BABY 双目标：LPR 0.15 g / HPR 0.30 g；HPR 的 <0.3 g 机理未确认。** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- **五项目实测：GRIFFIN 0.26→0.20；LUGH 0.41→0.34；LOKI 0.62→≤0.32；AC4 4U 3.8→1.6 g ⇒ 同一套原则跨品类有效。** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **互换实验：AD 面层+导流层足以把 Depend 回渗降到 AD 水平；AD 卷曲纤维无额外回渗收益但利于摄入。** —— 支撑页：Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）
+- **大纤维（1.3 d → 2.0 d）降高压回渗并
+
+--- [[Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）]]  (3 句)
+   • 1. **Desorption 解吸通路**：液体被困在摄入系统（面层 liner / 导流层 surge 及其界面）的孔隙与"小口袋"中，受压时释放。治理抓手是**让摄入材料不拉住、不滞留液体并促使排空**——降低亲水性、打开粘合花型（减少滞留小口袋）、改用非纤维/开孔结构、提高毛细连通性与单向流。
+2. **Flowback 回流通路**：芯体已吸收但未充分锁住的液体，在压力下从湿芯体返逃。治理抓手是**容量与隔离**——在需要的时间与位置提供足够容量（capacity / zoning / speed）、用缓冲层与单向流把自由液锁住，并使芯体中未锁住的液体与皮肤/吸墨纸**分离**（separation from core）。
+3. **回渗设计原则三支柱**（源自 GRIFFIN 问题陈述）：① 摄入材料 discourage pulling/trapping fluid、encourage draining（毛细/粘附、孔隙网络连通性）；② 有足够且及时可得的容量 fully lock up fluid（容量、分区分布、速度、单向流、缓冲）；③ 未锁住的液体与皮肤/吸墨纸隔离
+   • 上位 / 相关：Rewet Test（回渗测试）、Intake System（摄入系统）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、Dryness Measure System（干爽度量三分）
+- 压力口径：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+- 工艺落点：Liner-Surge Embossing（面层-导流层压花）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、ADL（导流层）、亲水-疏水梯度设计
+- 容量侧：Gel Blocking（凝胶阻塞）、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+- 项目：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、IPC BCC OI Portfolio（开放创新项目组合）
+   • GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31） ——
+
+--- [[亲水整理耐久性]]  (3 句)
+   • 1. **假设本身**：**降低面层润湿性 ⇒ 降低毛细性 ⇒ 减少残液**（源文假设栏原文：Reduced wettability will reduce capillarity and amount of residual fluid）。
+2. **结果**：**HUT 显示泄漏升高（HUT showed higher leakage）**。
+3. **处置**：**n/a —— 已移出 GRIFFIN 范围（removed from GRIFFIN scope）**。
+4. **这是本库对"降润湿性换回渗"路线的最强否决** —— 此前登记的是**风险提示**（SIROCCO 的历史教训、ATACAMA 上 AFC 见到渗漏上升、BCC 侧 HUT 未见差异）；**本次是在同一份台账中被正式出局**，与"开放 bond pattern 无改善"并列为两条阴性结果。
+5. **对本页的直接含义** —— 本页上方登记的"**回渗↓ / 渗漏↑ 权衡**"不再是**权衡**，而是在**该品类/该结构下已被判定为不可接受**。**⇒ 引用本页权衡结论时，须说明该路线在 GRIFFIN 
+   • 1. **长期悬案被裁决** —— 此前本页登记的是"回渗↓ / 渗漏↑"的**权衡风险**（SIROCCO 教训、ATACAMA 上 AFC 见到渗漏上升、BCC 侧 HUT 未见差异）。本源用**两个 HUT 的直接对照**给出了边界：**无护翼 ⇒ 泄漏升高；有护翼 ⇒ 泄漏不升高**。
+2. **⇒ "降润湿性"不是不可用，而是有结构前提** —— **护翼（flap）存在时，降润湿性只带来回渗收益；护翼缺失时，回渗收益要以泄漏为代价。**
+3. **这说明权衡发生在系统层，不在材料层** —— **同一处理方式在两种产品结构上给出相反结果**；**⇒ 评价面层润湿性变量时，必须连同防漏结构一起判定，孤立看材料无意义。**
+4. **机理也被同步说清** —— 源文：降润湿处理**「降低毛细性，并阻止液体滞留于上层」**。**⇒ 判据应为"上层残液量"，而非"接触角"或"润湿等级"。**
+5. **后续动作印证该判据已被采纳** —— 源文的下一步是：**LUGH 与 GRIFFIN 联合采购"14 gsm 柔软 + 更低润湿处理"面层，但明确警告「若无 GRIFFIN 的护翼
+   • **第三次一致结果**：**untreated liner 未做亲水整理的面层**在 **GRIFFIN HUT** 上**渗漏更高**；原稿明确 **matches prior result with ATACAMA+ HUT**（与 ATACAMA+ HUT 早前结果一致），而该路线**此前在 BCC 曾成功过**。
+- **量化（A，实测 + Tukey 分组）**：Control **3.1%（A）** / GRIFFIN **3.2%（AB）** / Always Discreet **3.7%（AB）** / **Untreated Liner 4.6%（B）** —— 未处理面层是**唯一落入最差分组**的代码，且比对照高 **1.5 个百分点**。
+- **处理结论**：原稿用词为 **go back to the drawing board 回炉重做** —— 说明「降润湿性降回渗」在成人护理品类上**不是可落地的单点方案**，必须配合其它防漏手段（如护围/结构）成对验收。
+- **品类差异已明确**：**BCC 可行 ≠ 成人护理可行**。本页上方若已有品类差异记录
+

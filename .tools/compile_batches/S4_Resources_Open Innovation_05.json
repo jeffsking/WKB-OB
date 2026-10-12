@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Capillarity Testing Increased Throughput Plan.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Capillarity Testing Increased Throughput Plan.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Capillarity Testing Increased Throughput Plan.xlsx.md",
+   "name": "Capillarity Testing Increased Throughput Plan.xlsx.md",
+   "title_hint": "Capillarity Testing Increased Throughput Plan.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md",
+   "name": "Intake Systems Tech Pipeline - Archive.pptx.md",
+   "title_hint": "Intake Systems Tech Pipeline - Archive.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx.md",
+   "name": "03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx.md",
+   "title_hint": "03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md",
+   "name": "Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md",
+   "title_hint": "Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md",
+   "name": "53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md",
+   "title_hint": "53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Peel Test Results.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Peel Test Results.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Peel Test Results.xlsx.md",
+   "name": "HSBL Peel Test Results.xlsx.md",
+   "title_hint": "HSBL Peel Test Results.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.16 - Adult Care Manager Rewet Update.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.16 - Adult Care Manager Rewet Update.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.16 - Adult Care Manager Rewet Update.pptx.md",
+   "name": "2026.03.16 - Adult Care Manager Rewet Update.pptx.md",
+   "title_hint": "2026.03.16 - Adult Care Manager Rewet Update.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/mechanochromic-supplier-report-2026-08-01-en.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/mechanochromic-supplier-report-2026-08-01-en.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/mechanochromic-supplier-report-2026-08-01-en.docx.md",
+   "name": "mechanochromic-supplier-report-2026-08-01-en.docx.md",
+   "title_hint": "mechanochromic-supplier-report-2026-08-01-en.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Nuoer高GBP_SAP拜访讨论计划与开发路线图_20260708.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Nuoer高GBP_SAP拜访讨论计划与开发路线图_20260708.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Nuoer高GBP_SAP拜访讨论计划与开发路线图_20260708.docx.md",
+   "name": "Nuoer高GBP_SAP拜访讨论计划与开发路线图_20260708.docx.md",
+   "title_hint": "Nuoer高GBP_SAP拜访讨论计划与开发路线图_20260708.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/ActivTech Spring Portfolio 2026.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/ActivTech Spring Portfolio 2026.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/ActivTech Spring Portfolio 2026.pptx.md",
+   "name": "ActivTech Spring Portfolio 2026.pptx.md",
+   "title_hint": "ActivTech Spring Portfolio 2026.pptx"
+  }
+ ]
+}

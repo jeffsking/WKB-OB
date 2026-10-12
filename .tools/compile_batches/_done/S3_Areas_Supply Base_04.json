@@ -1,0 +1,18 @@
+{
+  "batch": "S3_Areas_Supply Base_04",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "Cabot DARCO KB-G Powdered Activated Carbon (TDS)"
+  ],
+  "concept_pages": [
+    "Powdered Activated Carbon（粉末活性炭）"
+  ],
+  "entity_pages": [
+    "Cabot Corporation（卡博特）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "批次共 10 项；其余 9 项经查重已在库（source_path 均已落盘）：DH-Catalogue 两份→『Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一 / EN-CN）』；06_Shin-Etsu SAF Surface Treatment Patents 与 v3非传统资源_⑥SAF 同内容→『Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）』；锦琪昶/GHC/ZIHUA/MR FIBER/August R&D Meeting 均已有对应源摘要页。本批仅新增 DARCO TDS 1 份，无商务敏感内容需标注。"
+}

@@ -1,0 +1,25 @@
+{
+  "batch": "01",
+  "done": [
+    "分布层 Distribution Layer",
+    "纤维扩散 Fiber Diffusion",
+    "丙烯酸丙烯酸酯胶 Acrylic Adhesive",
+    "胆甾相液晶 Cholesteric Liquid Crystal",
+    "保留层 Retention Layer",
+    "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）",
+    "表面交联 Surface Cross-linking",
+    "胶黏剂 Adhesive"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "分布层 Distribution Layer: 库内无独立定义句，定义记 定义待补；层几何/克重/孔径与 ADL 的关系未定",
+    "纤维扩散 Fiber Diffusion: 库内无独立定义，仅经 Crank Ch.5 方法页登记；J0/J1/I0 取值与边界条件待补",
+    "丙烯酸丙烯酸酯胶 Acrylic Adhesive: 无正式定义；皮肤刺激性定量阈值、湿态剪切衰减曲线库内未见",
+    "胆甾相液晶 Cholesteric Liquid Crystal: 无独立定义；与 胆甾相液晶弹性体 CLCE / CLC 手性向列晶 的页面去重待人工决",
+    "保留层 Retention Layer: 无独立定义；『保留层』与 Retention Capacity Test (STM-00033) 是否同物未说明",
+    "Darcy Flow in Fibrous Porous Media: 无材料级 k/Φ 实测值、无 Reynolds/Forchheimer 适用上限、无流体黏度值",
+    "表面交联 Surface Cross-linking: SFC 缩写展开 [待验证]；~130 °C 产线窗口为供应商口径无第三方验证；上下层成分与加量未披露",
+    "胶黏剂 Adhesive: 无词典式定义；湿态/尿液长期强度衰减仅有类比数据；SAP-胶界面相容性/防霉无标准测试方法"
+  ],
+  "count": 8
+}

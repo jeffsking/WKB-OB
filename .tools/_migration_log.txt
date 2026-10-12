@@ -1,0 +1,179 @@
+==========================================================================
+RAW_FULL → RAW 布局对齐 + 路径元数据修正  [APPLY]
+==========================================================================
+
+[0] 预检 OK
+    待搬迁目录 : RAW_FULL\ima_sync\WKB  (1040 个文件)
+    目标位置   : RAW_FULL\ima_sync\个人知识库\WKB
+
+[1] 待改写元数据文件: 155 个
+    已备份到 E:\WKB-OB\.tools\_path_migration_backup
+
+[2] 物理搬迁
+    已移动 → RAW_FULL\ima_sync\个人知识库\WKB
+
+[3] JSON 路径字段改写（ima_sync/ → ima_sync/个人知识库/）
+    .tools\_batch1.json                                    22 处
+    .tools\_extract_ledger.json                          2234 处
+    .tools\_extract_no_content.json                        14 处
+    .tools\_extract_queue.json                           2234 处
+    .tools\_extract_skipped.json                           34 处
+    .tools\_extract_source_empty.json                       4 处
+    .tools\_inventory.json                               1716 处
+    .tools\_media_ids.json                               1151 处
+    .tools\_probe_samples.json                             11 处
+    pilot\W10_batch_1.json                                  9 处
+    pilot\W10_batch_2.json                                  9 处
+    pilot\W10_batch_3.json                                  9 处
+    pilot\W10_batch_4.json                                  9 处
+    pilot\W10_batch_5.json                                  9 处
+    pilot\W10_batch_6.json                                  9 处
+    pilot\W10_batch_7.json                                  9 处
+    pilot\W11_batch_1.json                                 10 处
+    pilot\W11_batch_2.json                                 10 处
+    pilot\W11_batch_3.json                                 10 处
+    pilot\W11_batch_4.json                                 10 处
+    pilot\W11_batch_5.json                                 10 处
+    pilot\W11_batch_6.json                                 10 处
+    pilot\W11_batch_7.json                                 10 处
+    pilot\W11_batch_8.json                                 10 处
+    pilot\W11_batch_9.json                                 10 处
+    pilot\W12_batch_1.json                                 10 处
+    pilot\W12_batch_2.json                                 10 处
+    pilot\W12_batch_3.json                                 10 处
+    pilot\W12_batch_4.json                                 10 处
+    pilot\W12_batch_5.json                                 10 处
+    pilot\W12_batch_6.json                                 10 处
+    pilot\W12_batch_7.json                                 10 处
+    pilot\W12_batch_8.json                                 10 处
+    pilot\W12_batch_9.json                                 10 处
+    pilot\W13_batch_1.json                                 10 处
+    pilot\W13_batch_2.json                                 10 处
+    pilot\W13_batch_3.json                                 10 处
+    pilot\W13_batch_4.json                                 10 处
+    pilot\W13_batch_5.json                                 10 处
+    pilot\W13_batch_6.json                                 10 处
+    pilot\W13_batch_7.json                                 10 处
+    pilot\W13_batch_7b.json                                 2 处
+    pilot\W13_batch_8.json                                 10 处
+    pilot\W13_batch_9.json                                 10 处
+    pilot\W14_batch_1.json                                 10 处
+    pilot\W14_batch_2.json                                 10 处
+    pilot\W14_batch_3.json                                 10 处
+    pilot\W14_batch_4.json                                 10 处
+    pilot\W14_batch_5.json                                 10 处
+    pilot\W14_batch_6.json                                 10 处
+    pilot\W14_batch_7.json                                 10 处
+    pilot\W14_batch_8.json                                 10 处
+    pilot\W14_batch_9.json                                 10 处
+    pilot\W15R_batch_1.json                                10 处
+    pilot\W15R_batch_2.json                                10 处
+    pilot\W15R_batch_3.json                                10 处
+    pilot\W15R_batch_4.json                                10 处
+    pilot\W15R_batch_5.json                                10 处
+    pilot\W15R_batch_6.json                                10 处
+    pilot\W15R_batch_7.json                                 9 处
+    pilot\W15_batch_1.json                                 10 处
+    pilot\W15_batch_2.json                                 10 处
+    pilot\W15_batch_3.json                                 10 处
+    pilot\W15_batch_4.json                                 10 处
+    pilot\W15_batch_5.json                                 10 处
+    pilot\W15_batch_6.json                                 10 处
+    pilot\W15_batch_7.json                                 10 处
+    pilot\W15_batch_8.json                                 10 处
+    pilot\W15_batch_9.json                                 10 处
+    pilot\W16_batch_1.json                                 10 处
+    pilot\W16_batch_2.json                                 10 处
+    pilot\W16_batch_3.json                                 10 处
+    pilot\W16_batch_4.json                                 10 处
+    pilot\W16_batch_5.json                                 10 处
+    pilot\W16_batch_6.json                                 10 处
+    pilot\W16_batch_7.json                                 10 处
+    pilot\W16_batch_8.json                                 10 处
+    pilot\W16_batch_9.json                                 10 处
+    pilot\W17_batch_1.json                                 10 处
+    pilot\W17_batch_2.json                                 10 处
+    pilot\W17_batch_3.json                                 10 处
+    pilot\W17_batch_4.json                                 10 处
+    pilot\W17_batch_5.json                                 10 处
+    pilot\W17_batch_6.json                                 10 处
+    pilot\W17_batch_7.json                                 10 处
+    pilot\W17_batch_8.json                                 10 处
+    pilot\W17_batch_9.json                                 10 处
+    pilot\W18_batch_1.json                                  7 处
+    pilot\W18_batch_2.json                                  7 处
+    pilot\W18_batch_3.json                                  7 处
+    pilot\W18_batch_4.json                                  7 处
+    pilot\W18_batch_5.json                                  7 处
+    pilot\W18_batch_6.json                                  7 处
+    pilot\W18_batch_7.json                                  7 处
+    pilot\W18_batch_8.json                                  7 处
+    pilot\W18_batch_9.json                                  6 处
+    pilot\W1_batch_1.json                                  10 处
+    pilot\W1_batch_1_manifest.json                         10 处
+    pilot\W1_batch_2.json                                  10 处
+    pilot\W1_batch_2_manifest.json                         10 处
+    pilot\W1_batch_3.json                                  10 处
+    pilot\W1_batch_3_manifest.json                         10 处
+    pilot\W2_batch_1.json                                  10 处
+    pilot\W2_batch_1_manifest.json                         10 处
+    pilot\W2_batch_2.json                                  10 处
+    pilot\W2_batch_2_manifest.json                         10 处
+    pilot\W2_batch_3.json                                   9 处
+    pilot\W2_batch_3_manifest.json                          9 处
+    pilot\W2_batch_4.json                                   9 处
+    pilot\W2_batch_4_manifest.json                          9 处
+    pilot\W2_batch_5.json                                   9 处
+    pilot\W2_batch_5_manifest.json                          9 处
+    pilot\W3_batch_1.json                                  10 处
+    pilot\W3_batch_1_manifest.json                         10 处
+    pilot\W3_batch_2.json                                  10 处
+    pilot\W3_batch_2_manifest.json                         10 处
+    pilot\W3_batch_3.json                                  10 处
+    pilot\W3_batch_3_manifest.json                         10 处
+    pilot\W3_batch_4.json                                  10 处
+    pilot\W3_batch_4_manifest.json                         10 处
+    pilot\W3_batch_5.json                                  10 处
+    pilot\W3_batch_5_manifest.json                         10 处
+    pilot\W4_batch_1.json                                   6 处
+    pilot\W4_batch_1_manifest.json                          6 处
+    pilot\W4_batch_2.json                                   6 处
+    pilot\W4_batch_2_manifest.json                          6 处
+    pilot\W5_batch_1.json                                   9 处
+    pilot\W5_batch_1_manifest.json                          9 处
+    pilot\W5_batch_2.json                                   9 处
+    pilot\W5_batch_2_manifest.json                          9 处
+    pilot\W5_batch_3.json                                   9 处
+    pilot\W5_batch_3_manifest.json                          9 处
+    pilot\W5_batch_4.json                                   8 处
+    pilot\W5_batch_4_manifest.json                          8 处
+    pilot\W5_batch_5.json                                   8 处
+    pilot\W5_batch_5_manifest.json                          8 处
+    pilot\W5_batch_6.json                                   8 处
+    pilot\W5_batch_6_manifest.json                          8 处
+    pilot\W6_batch_1.json                                   8 处
+    pilot\W6_batch_2.json                                   7 处
+    pilot\W6_batch_3.json                                   7 处
+    pilot\W7_batch_1.json                                  10 处
+    pilot\W7_batch_2.json                                  10 处
+    pilot\W7_batch_3.json                                  10 处
+    pilot\W8_batch_1.json                                  10 处
+    pilot\W8_batch_2.json                                  10 处
+    pilot\W8_batch_3.json                                  10 处
+    pilot\W9_batch_1.json                                  10 处
+    pilot\W9_batch_2.json                                  10 处
+    pilot\W9_batch_3.json                                  10 处
+    pilot\W9_batch_4.json                                  10 处
+    pilot\W9_batch_5.json                                  10 处
+    pilot\W9_batch_6.json                                  10 处
+    JSON 合计命中 8768 处
+
+[4] RAW_FULL front matter 的 original_path
+    改写 1040 份（其中 91 份原为残缺相对路径）; 无法定位原件 0 份
+
+[5] WIKI sources 的 source_path
+    命中 14 页（已改写）
+
+==========================================================================
+完成。备份：E:\WKB-OB\.tools\_path_migration_backup
+请随后运行：python .tools/audit_path_consistency.py 复核

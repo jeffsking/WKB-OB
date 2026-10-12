@@ -1,0 +1,62 @@
+# SEED: Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 12 页，15 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mechanophore Mechanochromism（机械力致变色分子）]]  (2 句)
+   • 1. **"断键"不等于"废掉"** —— 关键是断的是**设计好的那个弱键**，且断后仍保持芳香性与电中性 → 自愈与抗疲劳都由此而来。
+2. **透明 → 显色是一个"共轭长度"问题**，可用天线类比直观理解；这也解释了为什么该类材料**在未受力时对制品外观几乎无影响**（透明）。
+3. **合成端的保护 ≠ 使用端的稳定**：球磨法保护了酸敏官能团，但尽调仍在问"这些官能团在现实环境里会不会几天就降解"（见 Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱））→ **这是该技术族尚未回答的问题**。
+   • ✅ **验证记录（2026-09-29）**：全部为**二手转述**（音频解读稿），**未见  原始文件**；"只对力或 UV 响应""热活化能垒高"为资料口径 [待验证]；ASR 音转（乃比然→naphthopyran、不花青→merocyanine、cop 南键→C–O 键）已按化学常识还原。参见 Structural Colour Mechanochromism（结构色力致变色）、Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）。
+
+--- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]  (2 句)
+   • 1. **原始资料出处未给出**：本页全部内容来自**讲者转述**的 ，**未见原始文件与文献** → 所有数字（14 ms、631 ms、5 Hz、1.40 nm/%、25–27%、500 μm、10 年、1000 家）**均须回溯**。
+2. **响应时间口径冲突**：**14 ms** 与 **45 ms** 在同一份资料中并存；另与同源页记录的 **52 ms 弛豫时间常数**也不一致（两者可能是不同定义：响应 vs 弛豫）→ **需统一定义后比较**。
+3. **应变灵敏度单位存疑**：ASR 作"1.40°每百分比"，还原为 **1.40 nm/%**（波长偏移 / 应变百分比）[待验证]。
+4. **25–27% 的边界条件未给**：未说明该阈值是在何种温度、频率、循环次数下测得。
+5. **球磨路线的放大风险自相矛盾**：资料一方面用固态机械化学保护"对酸敏感的官能团"，另一方面 Rieder 的尽调问题正是"**对酸敏感的官能团在现实环境里会不会几天就降解**" → **合成端的保护 ≠ 使用端的稳定**，这是该技术**尚未回答的问题**。
+6. **与卫材的相关性待
+   • Mechanophore Mechanochromism（机械力致变色分子）
+- Structural Colour Mechanochromism（结构色力致变色）
+- Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+- Chromism Taxonomy（变色现象分类）
+- Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）
+- Skin Contact Pressure（皮肤接触压力）
+
+--- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]  (2 句)
+   • The build specification + content dossier for the **IPC BCC OI Materials Development Team 2026 Annual Review**（v7，prepared 2026-09-17）：a 32-page deck plus 2 appendices covering **25 open-innovation projects across 5 technology platforms**. In this library it is the **broadest OI portfolio panorama** in the WKB set — it adds a **priority convention** and a **roadmap-calibration layer** (external TRL ruler, four-phase commercialisation, six new directions) on top of the project list already captur
+   • The deck is organised as **opening panorama → project detail (P5–P29) → close**, with each detail page laid out as "left-column body ①–⑤ + right-column dual 60×90 mm images + bottom full-width band ⑥ (Knowledge Base & Gap ｜ Compliance & IP risk)". Part I is a **WKB knowledge review**: it distils 48 knowledge assets into industry benchmarks (unit price, market share, ultrasonic bonding, SMS acquisition layer, etc.), a **TRL anchor table** (9 cognate technologies at TRL 9, PLA/PHA film at TRL 8, b
+
+--- [[Technology Roadmap 2026-2029（技术路线图）]]  (1 句)
+   • The industry table (from the WKB document *Diaper Commercialisation Technology Set…*) is used as a "reference ruler"（行业对照标尺）:
+
+--- [[Guoke Haina（国科海纳）]]  (1 句)
+   • **2026-06-15**：与中科院侧 NDA 签署。
+- **2026-09-17（台账状态）**：需完成供应商 due diligence；了解 PDA 是否适合非织造/薄膜转化；了解气凝胶吸水粉体性能。
+- **2026-09-18（重构版）**：与海洋降解材料合并为单一平台项目；待拜科瑞拜访后安排技术讨论会。
+
+--- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]  (1 句)
+   • 1. **Thesis**：integrating force-responsive, **power-free** sensors transforms commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。（论点：力响应、无源传感，让日用品纸尿裤变成「智能」安全装置，且不依赖昂贵电子件。）
+2. **Moat**：first-mover advantage hinges on successfully **de-risking the massive leap from lab-scale mechanochemistry to high-speed industrial nonwoven lines**。（护城河在于把「实验室力化学 → 高速工业无纺线」的跳跃降险。）
+3. **Two diagnostic zones are named**：**Zone 1 waistband tabs（防
+
+--- [[BNC 卫品技术可行性评估（Slide 大纲版，20260824）]]  (1 句)
+   • 14 页结构：标题（Pre-visit Technical Due Diligence，海南拜科瑞，2026-08-24，范围=婴儿纸尿裤与湿巾）· 执行摘要（四入口排序 + 「BNC 不是大宗材料替代品」结论）· BNC 是什么（Acetobacter xylinum、40–60 nm 带条、纯 Cellulose I、pellicle 连续网络、教科书列为第一生物技术路线）· 性能含义（纯度→低刺激宣称；纳米网络→持水与成膜强度；高结晶度→高模量但亲水非超吸水；天然纤维素 90% RH 下最高约 15% 吸湿；**关键缺口 vs SAP：吸附 ≠ 渗透膨胀**）· 参考产品架构（EDANA 2022：面层 PP/PE 无纺布、ADL 改性纤维素 + 聚酯、芯体绒毛浆 + SAP、底膜透气 PE 膜；芯体配比 80/20–90/10）· 入口 1 湿巾/高端面层（最佳匹配，湿强两条成熟路线，风险为成本差与湿热气候下的「闷湿」手感）· 入口 2 气凝胶芯体/ADL 增强（干燥路线决定纳米结构，三条工艺）· 入口 3 BNC 接枝可降解 SAP（仅长期）· 入口 4 绒毛浆替代（否决，「
+
+--- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]  (1 句)
+   • The document has three parts: a WKB knowledge inventory, an update-scope/justification part, and the full 32-page + 2-appendix outline. **Scale 规模**：25 OI projects (24 in the source Excel + OI-25 added from the Coco V6 trial material of 2026-09-16), 33 supplier engagements, 5 technology platforms, 12 material categories, 5 signed legal documents (NDA/NNN), 4 on-hold, 48 knowledge assets. **Reference frame 参照系**：the industry roadmap gives a 4-stage commercialisation path (2026–2029) and a TRL tab
+
+--- [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]]  (1 句)
+   • Mechanophore Mechanochromism（机械力致变色分子）
+- Structural Colour Mechanochromism（结构色力致变色）
+- Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+- Chromism Taxonomy（变色现象分类）
+- Skin Contact Pressure（皮肤接触压力）
+
+--- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]  (1 句)
+   • **力致变色的真正门槛不是化学，而是把工业级材料「下调」到儿科力区并锁在黏弹区** —— 支撑页：Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）、Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）
+- **结构色路线凭可食用药用级属性在口腔毒性门上取得战略优势** —— 支撑页：Structural Colour Mechanochromism（结构色力致变色）、Material Safety Control（材料安全双轨管控）
+- **深科技商业化必须同时掌握 Micro/Macro/Market 三个量级的转译** —— 支撑页：Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+- **供应格局是定制开发型：主供换法规豁免、次供换成本、高校换下一代** —— 支撑页：CTI（Chromatic Technologies Inc.）、Henan Jiayida（河南嘉亿达）、Chun
+

@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md",
+   "name": "03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md",
+   "title_hint": "03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md",
+   "name": "20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md",
+   "title_hint": "20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf.md",
+   "name": "02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf.md",
+   "title_hint": "02_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US7195621B2_Disposable_garment_comprising_meltblown_.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md",
+   "name": "16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md",
+   "title_hint": "16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/JP5604444B2.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/JP5604444B2.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/JP5604444B2.pdf.md",
+   "name": "JP5604444B2.pdf.md",
+   "title_hint": "JP5604444B2.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf.md",
+   "name": "一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf.md",
+   "title_hint": "一-5_SUPERABSORBENT_POLYMER_AND_PREPARATION_METHOD_THEREFOR.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/三-2_Digitally_printed_backsheet_film.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-2_Digitally_printed_backsheet_film.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-2_Digitally_printed_backsheet_film.pdf.md",
+   "name": "三-2_Digitally_printed_backsheet_film.pdf.md",
+   "title_hint": "三-2_Digitally_printed_backsheet_film.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md",
+   "name": "04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md",
+   "title_hint": "04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/US5197958.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US5197958.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US5197958.pdf.md",
+   "name": "US5197958.pdf.md",
+   "title_hint": "US5197958.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/US5389093.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US5389093.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US5389093.pdf.md",
+   "name": "US5389093.pdf.md",
+   "title_hint": "US5389093.pdf"
+  }
+ ]
+}

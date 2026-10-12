@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15-4",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_d3703b450ad92bceb54717cb7cce95e5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Viscoelastic Properties/Viscoelastic Properties_index.csv.md",
+   "name": "Viscoelastic Properties_index.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d24cee6c3878ea5ccc147edde8e5688c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Engineering/engineering proposal.pptx.md",
+   "name": "engineering proposal.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c9740ef89e01c5b2bed75fc82ee575ed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE.pdf.md",
+   "name": "INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d07427d29d4a31cccf77633ed0371f42001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US10905605_吸收制品传感_拆解.md.md",
+   "name": "US10905605_吸收制品传感_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f2f38ee0e872725d2c8047614f676581001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Molecular_and_supramolecular_systems_in.pdf.md",
+   "name": "Molecular_and_supramolecular_systems_in.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_2237cfab829fc662defbd37350aecabb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Flexible_Stretchable_Electronics_DeepRead.md",
+   "name": "Flexible_Stretchable_Electronics_DeepRead.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4ec19a07ed10258f148d8e99fac56749001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Smart Fabric Textiles Recent Advances and Challenges.pdf.md",
+   "name": "Smart Fabric Textiles Recent Advances and Challenges.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7b829a0301e6bb2d5918c43d7b971de2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Engineering/86-SAP落料速度匹配与容差规范.md.md",
+   "name": "86-SAP落料速度匹配与容差规范.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_35e118b1e4dbdfbd1792aa72baf20d7e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/VISCOELASTIC_PROPERTIES_OF_AMORPHOUS_POL.pdf.md",
+   "name": "VISCOELASTIC_PROPERTIES_OF_AMORPHOUS_POL.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_33b648916722212d14592c26486e896a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/seymour-carrahers-polymer-chemistry.pdf.md",
+   "name": "seymour-carrahers-polymer-chemistry.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

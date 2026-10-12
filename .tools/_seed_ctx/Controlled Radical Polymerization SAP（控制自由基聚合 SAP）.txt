@@ -1,0 +1,113 @@
+# SEED: Controlled Radical Polymerization SAP（控制自由基聚合 SAP）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 90 页，170 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Ebewole Polymer Science Ch02 Polymerization Mechanisms]]  (8 句)
+   • Initiation proceeds in **two successive steps 引发分两步** (Ch.2, p.27): (1) radical generation from the initiator; (2) addition of the radical to the monomer. Routes to radical generation include thermal decomposition, photochemical (ultraviolet) decomposition, high-energy irradiation, and **redox initiation 氧化还原引发**:
+   • Note also: "Free radicals are inactivated by reaction with oxygen to form peroxides or hydroperoxides." (Ch.2, p.27) — 氧对自由基的失活作用是自由基聚合需除氧的原因。
+   • Two modes: **combination (coupling) 偶合终止** — "two growing polymer chains react with the mutual destruction of growth activity" and "Coupling reactions produce a single polymer" (Ch.2, p.29); **disproportionation 歧化终止** — "a labile atom (usually hydrogen) is transferred from one polymer radical to another", producing "two polymers from the two reacting polymer chain radicals" (Ch.2, p.29).
+   • Termination by reaction with initiator radicals is described as **"unproductive" 无效终止** (Ch.2, p.29).
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (5 句)
+   • Definition (p.318): "A polyamide manufactured from aliphatic monomer(s) is commonly designated as nylon." 尼龙即由脂肪族单体制得的聚酰胺（amide link –NH–CO–）。 The chapter follows the two protagonists along a complete chain — **polymerization → degradation → spinning → structure → application**:
+   • **Nylon 6** via ring-opening polymerization of **caprolactam (CL 己内酰胺)**, an AB-type monomer.
+- **Nylon 66** via polycondensation of **hexamethylene diamine (HMDA 己二胺)** with **adipic acid 己二酸** through the intermediate **AH salt 尼龙66盐**.
+   • 1. **Ring-opening needs a starter** (p.320): "Caprolactam (CL) does not polymerize in a completely dry condition. It requires a catalyst which converts a small amount of CL to aminocaproic acid (ACA)." CL + H₂O → ACA. Water catalysis is industrially dominant because it is controllable; alkali catalysis gives higher rate and higher molecular weight but is hard to control. Typical water-catalysed conditions quoted in the source: temperature **225–280 °C**, water concentration **5–10%**. The contin
+   • Four degradation classes: **thermal 热**, **thermo-oxidative 热氧**, **mechano-chemical 机械化学** and **hydrolytic 水解**, tracked by volatile products (**CO₂, NH₃, HCHO**) and gelation. Depolymerization back to monomer is cited as industrial-scale evidence for hydrolytic routes. Additives covered: mass colouration and **copper-salt heat stabilisers**.
+
+--- [[Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization]]  (5 句)
+   • Chapter 7 is the mechanistic foundation of **chain-reaction polymerization**: it covers **cationic**, **anionic** and **complex coordinative（Ziegler-Natta）** mechanisms under the common skeleton of **initiation–propagation–termination**, deriving pathway selection from monomer electronic effects (electron-releasing → cationic; electron-withdrawing → anionic). 本章对卫材的直接价值在于 **§7.4 — Ziegler-Natta 配位聚合是现代等规 PP 工业的全部理论基础**：等规度、氢气控分子量、叔碳原子导致的抗氧化弱点，都在这里定义。
+   • **动力学**：*"the rate of polymerization is proportional to the square of the monomer concentration and to the first power of initiator."*
+- **丁基橡胶 / Butyl rubber (IIR)**：*"Butyl rubber (IIR), widely used for inner tubes and as a sealant, is produced by the cationic low-temperature copolymerization of isobutylene in the presence of a small amount of isoprene (10%)... Thus, the random copolymer chain contains a low concentration of widely isolated double bonds which assume a low cross-linked density.
+   • **单体活性顺序**：*"acrylonitrile ≫ methyl methacrylate ≫ styrene ≫ butadiene"*
+- **Living polymer 活性聚合物**：*"Szwarc has used the term 'living polymers' to describe these active species."*；*"No formal termination step was shown in the previous equations, since in the absence of contaminants the product is a stable macroanion."*
+- **Kraton**：*"Kraton is an ABA block copolymer of styrene (A) and butadiene (B)."* — SBS 三嵌段热塑性弹性体的代表。
+- **Group transfer polymerization**：*"Group transfer polymerizations make 
+   • **Alfin 催化剂**（allyl sodium + sodium isopropoxide + sodium chloride）：*"The production of cis- and trans-polydienes, as well as stereospecific poly-1,2-dienes, is influenced by the proper choice of Ziegler-Natta catalysts and the polymerization temperature."*
+- **聚丁二烯立体结构与 Tg**：trans-1,4-polybutadiene Tg ≈ **−14°C**；cis-1,4-polybutadiene Tg ≈ **−108°C**。
+- **HIPS**：*"HIPS is mainly a polystyrene intense material. Here the polybutadiene polymer is dissolved in a liquid along with styrene monomer."*
+
+--- [[Seymour Polymer Chemistry Ch09 Copolymerization]]  (5 句)
+   • Chapter 9 elevates copolymerization（共聚）from "mixing two homopolymers" to **controlled sequence design（可控序列设计）**: sequence classification → reactivity-ratio kinetics → Q–e semi-quantitative prediction → commercial copolymers → thermoplastic elastomer (TPE) molecular design. 对卫材的意义有两条主线：**SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂）**，其组成由竞聚率而非投料比决定；**弹性腰围/防漏侧边用的弹性纤维与 TPE** 直接落在本章 §9.4。
+   • Table 9.1 — Typical Free Radical Chain Copolymerization Reactivity Ratios at 60 °C（line 220-412，部分）：
+   • **Charge-transfer complex 电荷转移络合物**：*"It is now believed that a charge-transfer complex is the active species in alternating copolymerization."* (line 193) — 解释了为什么马来酸酐这类「本身不聚合」的 1,2-二取代单体仍能参与严格交替共聚。
+   • **SBR（styrene-butadiene rubber 丁苯橡胶）**：*"Over 8 million tons of SBR were produced worldwide in 1995."* (line 110)；*"Often preferred because of its greater uniformity and cleanliness"* (line 211) —— 一致性与纯净度优于天然橡胶，但耐磨与回弹略逊。
+- **ABS**：*"A widely used plastic (ABS) is a copolymer or blend of polymers of acrylonitrile, butadiene, and styrene."* (line 114)
+- **SAN（styrene-acrylonitrile）**：耐化学性优于 PS (line 118)。
+- **Vinylite（VYHH）**：氯乙烯 87%–醋酸乙烯酯 13% 共聚物，1928 年引入 (line 121)。
+- **Ionomers 离子聚合物**：*"Copol
+
+--- [[聚氨酯 Polyurethane]]  (4 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+   • Polyurethane Elastomer Handbook
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization
+- Ebewole Polymer Science Ch15 Polymer Properties and Applications
+- Adhesive Handbook Part 3 Adhesive Classes
+- Adhesive Handbook Part 1 History and Information Resources
+- Mechanophore Mechanochromism（机械力致变色分子）
+- Thermochromic Microcapsule (Leuco Dye System)
+- Flexible and Stretchable Electronics
+
+--- [[Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification]]  (4 句)
+   • Chapter 1 is the **entry hub 入门枢纽** of the book and carries three tasks: (1) building the disciplinary history of polymer science from celluloid (1868) to the engineering-plastics era; (2) fixing the strict definitions of *polymer / monomer / repeating unit / structural unit / degree of polymerization / molecular weight distribution / functionality*; (3) laying the taxonomic foundation used in all later chapters.
+   • The source frames polymer development as three stages: **empirical activity → structural understanding → controlled synthesis 经验 → 结构理解 → 可控合成**.
+   • **Staudinger's macromolecular hypothesis (1920s)** overturned the colloid-chemistry view of polymers as aggregates of small molecules; the source credits Staudinger with coining *macromolecule*.
+- **Terminology tension polymer vs. macromolecule**: the source (written 1997) uses both interchangeably; IUPAC later favoured *polymer* because *macromolecule* blurs with low-molar-mass oligomers. 属成书年代的过渡期写法。
+- **Polydispersity as defect or resource**: the book states polydispersity as the statistical 
+   • Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure
+- Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes
+- A review on superabsorbent polymers
+- GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • Process claim (p.290): "The polycondensation process is predominantly diffusion controlled." 因此提高真空度、搅拌速率比单纯延长停留时间更能提升分子量；过长的停留时间反而增加热降解风险。
+   • **Catalyst activity order** (p.280): **Zn > Pb > Mn > Co > Mg > Ca > Sn > Na > Sb**. Side reactions (ether links, DEG) and thermal degradation are controlled with phosphorus-based heat stabilisers (pp.280–282). Batch / semi-continuous / continuous processing are compared quantitatively in Table 12.2 (p.278).
+   • **High molecular weight PET**: chain extenders and **solid-state polymerization 固相缩聚** — post-polycondensation chips treated under nitrogen or reduced pressure at **220–260 °C** (p.294). Measured result cited (p.295): **IV raised from 0.68 to 1.1 dl/g**, giving **tenacity 9.0 g/den** and **elongation 8%** — used for tyre cord and bottle-grade PET.
+   • Assessment: polymerization and spinning sections are evidence-dense and highly credible; structure–property linkage is chart-dependent with shallow mechanism discussion; the applications section is narrative with little quantification. Some figures are OCR-reversed (Fig. 12.1–12.8 captions) and some values (DEG%, a melting-point decrease) are scan-garbled in the source — [待验证].
+
+--- [[Polymer Reaction Engineering]]  (4 句)
+   • Ch1：1.1 Microstructural features of polymers and their effect on properties（1.1.1 Chemical composition and monomer sequence distribution / 1.1.2 Molecular weight distribution / 1.1.3 Polymer architecture / 1.1.4 Chain configuration / 1.1.5 Morphology / 1.1.6 Effect of processing and compounding）；1.2 Classes of polymerizations（Chain-growth / Step-growth）；1.3 Polymerization techniques；1.4 Main commercial polymers（Polyolefins / Styrenic / PVC / Waterborne dispersed polymers / Polyesters and polyami
+   • 诚实评价：**本书是工程书，不是产品书**。它回答「为什么这条工艺线的 MWD 更窄」「放大后为什么出现热点与失控」这类问题；聚合物反应机理的基础要回到 Principles of Polymerization，反应工程的教学级导览见 Ebewole Polymer Science Ch10 Polymer Reaction Engineering。
+   • **按 P1 大部头规则，本书仅建索引页，未逐章编译。** 源文件 947,804 bytes，远超单页安全体量；8 章正文均未生成 chapter 页，本页只承担整书定位与导航职能。
+- 目录、章节作者与关键小节名恢复自源文件  页（自动抽取，保留印刷页码）。
+- 与既有页面关系：本页为**索引页**，不复写 Principles of Polymerization、Ebewole Polymer Science Ch10 Polymer Reaction Engineering 等专门页面内容，仅做互校入口。
+- 检索提示：源文件中图表标题也以  开头，用小节号（如 ）在 RAW_FULL 原文中检索定位最快。
+   • Principles of Polymerization — Ch1–Ch7 反应机理与动力学的教科书底座（step / chain / ring-opening）
+- Ebewole Polymer Science Ch10 Polymer Reaction Engineering — 反应工程的入门级平行章节，可互校术语与放大逻辑
+- Acrylic-Based Superabsorbent Polymers — Ch3/Ch5/Ch6 自由基与乳液/悬浮聚合的产品侧实证
+- Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — Ch2 配位聚合所得聚烯烃的牌号级微观结构与加工数据
+- Controlled Radical Polymerization SAP（控制自由基聚合 SAP） — Ch3.3 受控自由基聚合（SFRP/ATRP/RAFT）在 SAP 场景的落点
+
+--- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]  (4 句)
+   • 三洋化成工业（4471）子公司 SDP Global 与碘厂商合同资源的**联合公告**（No.1814，2018-05-21，日文）：宣布**控制自由基聚合（制御ラジカル重合）SAP 工业化成功**——均一网目结构路线的一手厂商口径；在本库中支撑 Controlled Radical Polymerization SAP（控制自由基聚合 SAP） 概念与 SAP 高性能化路线讨论。
+   • Japanese press release. Background: SAP is crosslinked hydrophilic polymer absorbing/retaining several hundred to 1000× its weight in water; almost all diaper SAP is polyacrylic-acid made by aqueous free-radical crosslinking copolymerization, which yields **heterogeneous network structures** (side reactions: termination, chain transfer → mixed molecular weights) that suppress absorption performance. Sanyo targeted network homogenization: controlled radical polymerization was known to minimize si
+   • **SAP 吸收性能的抑制因素是「网目结构不均一」，控制自由基聚合通过消除副反应实现均一网目 → 高性能化** —— 支撑页：Controlled Radical Polymerization SAP（控制自由基聚合 SAP）
+- **该路线可与表面交联等既有技术叠加，SAP 设计自由度提高**——与 SAP 表面包覆（SAP Particle Surface Coating） 正交组合 —— 支撑页：SAP（高吸水树脂）
+   • 概念：Controlled Radical Polymerization SAP（控制自由基聚合 SAP）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀
+- 实体：Sanyo Chemical · SDP Global（三洋化成工业）、Nippon Shokubai（日本触媒）（工艺路线对照）、Sumitomo Seika（住友精化）
+- 对比：SAM Supplier Landscape Comparison（SAM 供应商格局对比）（诺尔 deck 中三工艺形态对照）
+
+--- [[Seymour Polymer Chemistry Ch08 Free Radical Chain Polymerization]]  (4 句)
+   • Chapter 8 covers **free radical chain polymerization（自由基链式聚合）— 据原文为全球合成聚合物产量占比最大的工业聚合技术（原文 Step 1 称约 50%，口径见 [待验证]）**. It builds a complete quantitative chain: **initiator decomposition → steady-state kinetics → kinetic chain length → Mayo equation molecular-weight control → process selection (bulk/solution/suspension/emulsion) → products**. 对卫材的直接意义：SAP（superabsorbent polymer 高吸水树脂，丙烯酸/丙烯酰胺基）在工业上几乎全部通过自由基（乳液或反相悬浮）聚合 + 交联生产。
+   • 引发速率 **Ri = 2 f kd [I]** (line 74)
+- 总聚合速率（稳态假设）: 原文记为 **Rp = kp·M^(1/2)** (line 76)；展开形式为 **Rp = kp[M][M⋅] = kp[M]·(f kd[I]/kt)^(1/2)** (line 163) — 即 **Rp ∝ [M]·[I]^(1/2)**（[I] 的 1/2 次方是双分子终止 + 稳态假设的直接结果）。
+- **稳态假设 Steady-state assumption**: *"the number of growing chains remains approximately constant throughout the duration of most copolymerizations"* (line 159)，即 Ri = Rt。
+- **动力学链长 Kinetic chain length ν**: **ν = Rp/Rt = kp[M] / (2(kt f kd [I])^(1/2))** (line 81, 169) — ν 正比于 [M]、反比于 [I]^(1
+   • **SAP 的合成路径直接落在本章**：SAP 工业路线为丙烯酸（部分中和）/丙烯酰胺的自由基聚合 + 双官能团交联剂（如 N,N′-methylenebisacrylamide, MBA），采用**乳液聚合或反相悬浮聚合**（line 311）。§8.4 的微团隔离效应解释了为什么反相悬浮/乳液路线能在高转化率下同时获得高转化率与高分子量。
+- **Mayo 方程是 SAP 分子量窗口的控制工具**：1/DP = 1/DP₀ + Cs[S]/[M] 表明分子量由 **[S]/[M] 比值**精确调节。对 SAP 而言分子量过高 → 链缠结过多、溶胀动力学变慢；过低 → 可溶分（extractables）上升、凝胶强度不足。硫醇类 Cs ~10⁵ 意味着极低添加量即可显著降分子量，配料精度是工艺敏感点。
+- **乳液聚合 vs 离子聚合的工业选择**：原文对比指出 ionic polymerizations "are usually quite sensitive to the presence of impurities"（Ch.7，经本章 line 209 引用）。丙烯酸单体含水、
+   • Seymour Polymer Chemistry Ch03 Molecular Weight of Polymers
+- Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Acrylic-Based Superabsorbent Polymers
+- A review on superabsorbent polymers
+

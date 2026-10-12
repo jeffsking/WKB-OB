@@ -1,0 +1,98 @@
+# SEED: 导电纱线 Conductive Yarn
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Smart Textiles & Wearables
+#   - Smart Textiles Review
+#
+# 全库正文命中 38 页，66 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (6 句)
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+   • Cutting-and-weighing versus capacitive methods (p.257): "Capacitive methods of determining yarn evenness are the most popular and widely used methods." The yarn passes between parallel capacitor plates; the dielectric mass change is proportional to mass per unit length.
+- Outputs: evenness diagram, **CV(%)**, **spectrogram 波谱图**, variance–length curve. Uster spectrograms can localize periodic faults such as eccentric spinning cylinders or eccentric drafting rollers (p.261).
+   • **Static friction is always greater than kinetic friction** (p.263). Staple friction governs yarn properties; filament friction governs torque transmission and filament migration in false-twist and air-jet texturing.
+- Methods: block-on-fibre-mat, yarn-to-metal and yarn-to-yarn tension methods based on **Amonton's law** (p.264): **T2/T1 = e^(μθ)**, obtaining the friction coefficient from the tension ratio around a friction pin. Instruments cited: Rothschild F-Meter, Zweigle.
+
+--- [[珠光颜料 Lustre Pigment]]  (5 句)
+   • 1. **Fibre-geometry lustre（纤维几何致光泽）**: for speciality PA/PET yarns, **"the non-circular cross-sections result in greater lustre and covering power and improved handle"**, with geometry set by the **spinneret hole shape**（trilobal, rectangular, hexalobal, hollow）and melt rheology（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+2. **Structural colour without pigment（结构色）**: the Morphotex example produces **"colour from periodic layer thickness rather than from dye m
+   • **Geometry over formulation.** In the vault the sourced route to lustre is **non-circular fibre cross-section**, i.e. a spinneret-hole / melt-rheology design variable rather than an added pigment（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Periodic-layer optics.** Structural colour arises from **periodic layer thickness**, giving colour with no dye molecule — the physics shared with the vault's structural-colour strand（源：Intelligent Textiles and Sports Clo
+   • **Topsheet optics and hand.** The shaped-cross-section trade space（lustre × covering power × handle, p. 387）is named as relevant to **topsheet fibre selection**, though the source sentence tails off（）（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Adjacency to the chromic programme.** Structural colour without pigment is described as "directly adjacent to our chromic programme" — i.e. the vault's functional-colour work is optics-led, not dye-led（源：Intelligent
+   • **No pearlescent-pigment entry exists**: no mica/oxide/titanium-dioxide pearlescent chemistry, no particle-size / haze / gonio-appearance spec, and no supplier is recorded .
+- The vault "lustre" hits are about **fibre geometry** and **structural colour**, not about a pigment additive — the two framings are not interchangeable（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- The Table 14.6 ranking (trilobal bright…) is truncated in the digest and cannot be quoted 
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (4 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+   • **Shrinkage 收缩**：defined as the decrease in length of a specimen，a negative value being stretch；instruments Toray FTA-500, Lawson-Hemphill CTT-DST, Textechno Dynafil, Rothschild DEFT/CCT；standard ASTM D2102-90；the key claim（p.265）is that "there must be a means of assessing and controlling shrinkage behaviour of the yarn"，with boiling-water / dry-heat shrinkage **and** shrinkage force measurable simultaneously on a running yarn（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Entanglement / opening length 缠结·开口长度**：opening length（distance between entanglement points）describes the temporary cohesion of an entangled yarn；methods include manual needle, automatic needle, electrostatic method（Obestat）, automatic thickness measurement（Itemat, Toray profilometer）；Stein's comparison [13] concludes Dynafil detects variation in polymerization, temperature and quench-air speed most effectively（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.267）。
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (4 句)
+   • **Speciality yarns 特种纱线** are obtained either from chemically modified polymers by melt spinning, or by physical modification and dedicated equipment (p.360). The family covered is deep-dyeable and cationic-dyeable, **antistatic 抗静电**, **flame-retardant 阻燃**, **hollow 中空**, **microporous 微孔**, **shaped cross-section 异形截面** and **microfibre 超细纤维**. The chapter is explicit that successful commercialization of a new variety depends on **technical capability and favourable market conditions alike** 
+   • 1. **End-group chemistry drives dyeing** (p.362): "The amino end groups in nylon 6 have a predominant effect on dye pick-up when dyed with acid dyes". Table 14.1 maps amino end-group content of **10–130 eq/t** to shades from light through ultra-deep.
+2. **Process windows are shared** (p.369): "except for the type and amount of stabilizer, light, ultra-deep and cationic dyeable nylon polymers can be produced under very similar polymerization temperature and total vapour pressure". 改性成本低、产业化友好。
+3.
+   • Statement of the problem (p.374): "synthetic fibres are poor conductors… create problems related to electrostatic charge". Three routes (p.374): "Chemical modification… Physical blending… Electrical conducting materials such as carbon, metal or metal oxide powders are added". Chemical bonding gives the best wash durability, physical blending the worst, and conductive particles need **conjugated bicomponent filament spinning** to retain strength (p.377). For PET the cited routes are block poly(et
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — commodity PET base for these speciality yarns
+- 三叶形截面纤维（Trilobal Fibre） — trilobal cross-section concept used in topsheet
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — pentagram vs rounded trilobal topsheet selection
+- PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） — modern side-by-side bicomponent routes
+- 功能性差别化纤维（PTT_超仿棉_纳米凉感） — 
+
+--- [[Seymour Polymer Chemistry Ch18 Special Topics]]  (3 句)
+   • Chapter 18 is the book's **frontier and cross-disciplinary extension**: conductive polymers (§18.1), molecular wires and nanofibrils, solid waste and sustainability (§18.3), polymerization reactor engineering (batch / PFR / CSTR), combinatorial chemistry (§18.8), proteomics (§18.11), optical fibers (§18.12) and materials selection charts (§18.14).
+   • **掺杂实验（关键定量）**：*"In 1977... Shirakawa, MacDiarmid, and Heeger were able to increase the conductivity of trans-polyacetylene samples, after doping, to a conductivity of about 10³ S/meter, or 1 S/cm."*
+- **10⁹ 倍跃升**：*"They found that oxidation with chlorine, bromine, or iodine vapor made polyacetylene film 10⁹ times more conductive than the nontreated film. This treatment with a halogen was called 'doping' by analogy with the doping employed with semiconductors."*
+- **机理**：*"A critical structural 
+   • 纳米尺度方向：*"The search for flexible, noncorrosive inexpensive conductive materials has recently focused on polymeric materials. This search has increased to include, for some applications, nano-sized fibrils and tubes."*
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (3 句)
+   • 1. **Introduction** — why natural and chemical fibres no longer meet user requirement; the passive / active / ultra-smart taxonomy; history from the late-1980s Japanese shape-memory silk thread; global smart textiles market at **25% CAGR 2021→2031, US$23.82 Bn by 2031**.
+2. **Brief History** — wearable computation traced to the 1850s (corsets, belts), first wearable computer 1955, integrated electronics from the early 1990s; three generations: wearable computing → fabric as circuit element → fib
+   • 1. **The three-tier taxonomy is the organising idea.** Passive smart textiles sense; active ones sense *and respond*; ultra-smart ones sense, react and adapt. This is a useful way to grade how ambitious any proposed hygiene-product feature is.
+2. **Seven chromic mechanisms named.** Photochromic, thermochromic, electrochromic, solvatochromic, **halochromic (pH)**, tribochromic (friction), mechanochromic (pressure). Colour reverts when the stimulus is removed because the original state is more sta
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+
+--- [[Smart Fabrics and Networked Clothing]]  (3 句)
+   • **Opening** — garments as transmitters, sensors or energy harvesters, potentially cloud-connected; target applications are first responders, military, miners, industrial workers; framed against today's fitness wristbands as the precursor of networked clothing. Includes a substantial section on downside risk: garments can always be exploited by hackers, body surveillance erodes privacy, and switching the fabric off "may not be sufficient, since the entire garment may act as an antenna."
+- **Poten
+   • 1. **Property headline.** CNTs rated at elastic modulus >1 TPa (diamond 1.2 TPa), thermal conductivity ~2× diamond, current-carrying capacity 1,000× copper wire, single-walled strength 10–100× the strongest steel at a fraction of the weight.
+2. **The integration thesis.** Achieving seamless, invisible electronics means producing fibres with electronic function **without compromising strength, comfort and aesthetic appeal** — stated as the core challenge, and one that forces a redesign of antenna
+   • Smart Fabric Textiles Recent Advances and Challenges — the 2022 survey of the same field, with the broader chromic/shape-memory/breathable taxonomy this article omits
+- Flexible and Stretchable Electronics — realistic assessment of what integrating function into flexible substrates actually costs
+- Smart & Connected Garments (IEEE) — parallel IEEE treatment of connected garments
+- Interactively Mechanochromic Electronic Textile Sensor — printed conductive-line sensing on fabric, the practical fo
+
+--- [[US11013641 Garment for Detecting Absorbent Article Leakage]]  (3 句)
+   • The mechanism is **conductive resistive sensing（导电/电阻式传感）**, not chromic:
+   • 1. **Conductive element as the transducer** — conductive materials listed: **conductive threads, conductive tape, conductive rubber, conductive wires**. Preferred: **silver-plated conductive thread at 60 ohms/meter**, exemplified by **Shieldex® 110/34 dtex 2 ply HC Premium Line**（polyamide 6.6 trilobal filament, **99% silver plating**）.
+2. **Read-out** — a controller applies **3.3 VDC** across the conductive thread and monitors the voltage at its ends. **Dry state ≈ full-scale 3.3 V; wet state v
+   • 1. **Direct route contrast: electronic vs chromic.** This patent is the *electronic* branch — silver-plated conductive thread + controller + ADC read-out. The KB's chromic branch（thermochromic / hydrochromic）answers the same "is it wet / did it leak" question **without power, electronics or an app**. Compare directly with Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3); see also Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04） for the broader se
+
+--- [[双组分纤维 Bicomponent]]  (2 句)
+   • **Conjugated variants:** **island-in-sea（海岛型）** and **radial/split-pie（径向瓣/桔瓣型）** configurations are made spinnable and separable by bicomponent design, and are the direct ancestors of **splittable nonwovens** and high-coverage coverstock/wipe webs（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+   • Bicomponent Fibre Technology Development Trends
+- Bicomponent Fibre Technology Trends China and Abroad
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+- Thermal bonding
+- Dry-laid web formation
+- 皮芯复合纤维
+- ES Fibre Hydrophilic Function and Applications
+- 热风无纺布
+- 三叶形截面纤维（Trilobal Fibre）
+- Absorbent Techn
+
+--- [[粘胶纤维 Viscose Fiber]]  (2 句)
+   • **Zinc is structural.** *"over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Zinc regulates structure → **skin-core structure** → high strength; wet modulus can be raised stepwise (modifiers, low-temperature low-acid bath, formaldehyde) along the ladder **ordinary viscose → tyre yarn → HWM → polynosic → Ten-X**（源：Manufactured Fibre T
+   • **Variants.** Named families: high-bulk/high-crimp and inflated fibres; **high-absorbency fibres (alloy rayon, 51 Fibre)**; **flame-retardant Tufban**; and **carbon-containing fibres** (conductive / adsorptive)（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+

@@ -1,0 +1,147 @@
+# SEED: 机械脱水 Mechanical Dewatering
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Industrial Drying
+#
+# 全库正文命中 97 页，140 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[断裂力学 Fracture Mechanics]]  (4 句)
+   • **粘弹性耗散而非界面热力学主导强度。** , and "the value of ψ is usually far higher than that of E and the energy dissipated can then be considered as the major contribution to the adhesion strength G"（源：Adhesive Handbook Part 2 Fundamental Aspects）. ⇒ peel rate 与温度是主变量。
+- **柔性胶层通过扩大断裂过程区降峰应力。** "Flexible or semirigid adhesives produce joints having higher short-term strength and fracture toughness compared to rigid adhesives."；柔性胶层扩展 fracture process zone 以降低峰值应力（源：Adhesive Handbook Part 2 Fundamental Aspects / 
+   • **芯体点胶的速率-温度窗口。** G = G₀·ψ(v,T) 的峰值位置决定「**低速不漏、高速不脱层**」；热熔胶中蜡/树脂/弹性体比例调节本质就是设计 ψ(v,T)（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **SAP 层热熔胶到浆纤维的锚固。** 机械互锁是橡胶-织物胶接的主导机理，直接对应 SAP 层热熔胶点到浆纤维的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **木浆纤维方向性。** 纤维倾角 0°→45° 使断裂韧性翻倍、10–30° 存在韧性最小值 ⇒ 高取向纤维束端头胶接强度最低（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **湿态失效。** 水浸泡后有机涂层粘附力最高损失 **85 %** ⇒ 耐水解是芯体层合/回渗控制的核心（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **非织造布撕裂/穿刺评价。** 非织造布拉伸断裂、撕破
+   • 本库口径的**形式化定义与适用范围**缺失 。
+- LEFM 适用边界：K_Ic / G_Ic 建立在**小范围屈服与线弹性假设**上；非织造布的大变形、纤维拔出与桥联机制不满足该假设，**只能作定性参考**（源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）。
+- 本库未见卫材专用 K_Ic / G_Ic 实测值 。
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[水刺 Hydroentanglement]]  (4 句)
+   • Hydroentanglement (also called **spunlacing 水刺**) is **high-velocity water-jet mechanical bonding** — **binder-free, lint-free, soft**.（源：Mechanical bonding）
+- 水刺属于**机械加固 mechanical bonding** 三技术之一，另两者为**缝编 stitch-bonding**（Maliwatt / Malimo / Malipol）与**针刺 needlepunching**。三者共同点是：不依赖粘合剂、热粘合或化学粘合剂，而是让纤维**互锁**成布。（源：Mechanical bonding）
+- 定位差异：缝编与针刺主要面向**耐用 / 工业制品**；水刺是**面向一次性用品（disposables）的增长引擎**。（源：Mechanical bonding）
+   • **成布原理**：高速水射流对纤维网施加冲击，迫使纤维相互缠结，从而在**无粘合剂**条件下获得强度（binder-free）。（源：Mechanical bonding）
+- **水刺章节给出的设计工具**：比能量 K、SE_c，射流冲击力 F ∝ p·d²，以及纤维选择规则与**原位微纤化（in-situ microfibre）路线** —— 可分裂双组分（splittable bicomponents）、Lyocell 原纤化 。（源：Mechanical bonding）
+- **纤维选择规则**：粘胶 / 莱赛尔（低湿模量，low wet modulus）**易缠结、成本低**；PP / PET 则**需做亲水处理（hydrophilic finishes）**。（源：Mechanical bonding）
+- **高冲击力解锁高端路线**：提高射流冲击力可解锁微纤化路线 —— 双组分分裂（BICO split）与 Lyocell 原纤化。（源：Mechanical bonding）
+- **湿法成网（wet-laid）相关机理**：湿法成网先以标准定义（EN 29092 /
+   • 水刺被明确列为**面向一次性用品的增长引擎**，是三者中最贴近卫材应用的机械加固方式。（源：Mechanical bonding）
+- **SAP 固定载体**：水刺用于把 SAP 颗粒固定在薄载体中 —— 底层选 spunmelt / SMS，因其在**很低的克重（最优选仅 4–12 gsm）**下仍能提供足够强度与足够小的孔径，这是把载体做薄的前提；顶层按**双峰纤维设计**（≤50% 短而轻 + ≥50% 长而重，至少两类 PET / PE / PP）。（源：Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））
+- **柔软 / 不掉屑（soft, lint-free）** 与**无粘合剂**特性，适合与面层等贴身层相关的应用。（源：Mechanical bonding）
+- **成本杠杆**：K 与 SE_c 可工程化调控 —— 在强度不变的前提下**降低 SE_c 即降低水耗 / 电耗（water/power cost）**。（源：Mechanical bonding）
+- 库内相关条目并
+   • Mechanical bonding（水刺的成布原理、K / SE_c / F ∝ p·d² 与纤维选择规则）
+- Wet-laid web formation（湿法成网定义、沉积机制与含 Lyocell 的纤维库）
+- Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）（水刺固定 SAP 的分工与双峰纤维设计）
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)（水刺粘合载体的权利要求）
+- Absorbent Technology、Nonwovens in Absorbent Materials、Handbook of Nonwovens、Fluid Absorption in High Bulk Nonwovens（概念并列登记）
+- 相关工艺章节：Dry-laid web formation、Polymer-laid web formation、Thermal bonding
+
+--- [[Handbook of Industrial Drying]]  (4 句)
+   • **EN**: The de facto standard reference for industrial drying. 53 chapters covering fundamentals, dryer types, materials, systems, and economics. For hygiene products, the fiber-pulp-polymer axis (Ch33-36, Ch40-41) is directly relevant to diaper/wipe/absorbent core manufacturing. Six core red lines: mechanical dewatering first, bound/free water dichotomy, constant/falling-rate drying skeleton, drying changes material structure (hornification/case-hardening), pilot-scale mandatory, energy and cos
+   • **中文**: 工业干燥工程事实标准参考手册——53 章覆盖原理、设备、物料、系统与经济性。对卫材而言，纤维-纸浆-聚合物轴线（Ch33-36、Ch40-41）与纸尿裤/湿巾/吸收芯体制造直接相关。六条核心红线：机械脱水优先、结合水/自由水二分、恒速-降速段骨架、干燥改变材料结构（角质化/结壳）、中试放大必须、能耗与成本最终裁决。
+   • 1. **机械脱水优先**：蒸发 1kg 水需 2260kJ，机械脱水仅 1-70kJ/kg——能压掉的水不要去蒸发
+2. **结合水/自由水二分**：残湿下限受物料湿分结合态决定，不是想设多低就多低
+3. **恒速-降速段与临界含水率**：选型、放大与缺陷诊断都绕不开'谁在控速'
+4. **干燥改变材料结构**：角质化/结壳——高温/过干不可逆改变柔软度、溶胀度、强度
+5. **中试放大必须**：任何凭文献值定干燥器的行为都是最高风险动作
+6. **能耗与成本最终裁决**：一切选型在 kJ/kg 水与 $/t 干品上同台竞技
+   • Handbook of Industrial Drying
+- Handbook of Industrial Drying
+- 纤维干燥 Fiber Drying
+- 纸浆干燥 Pulp Drying
+- SAP 干燥 SAP Drying
+- 干燥角质化 Hornification
+- 湿迁移 Wet Migration
+- 机械脱水 Mechanical Dewatering
+- Nonwoven 非织造布
+- SAP（高吸水树脂）
+- Handbook of Nonwovens
+- Handbook of Adhesive Technology Full Report
+- Hygiene Absorption Model
+
+--- [[Polymer Testing Handbook]]  (4 句)
+   • **Volume 卷名**: Handbook of Polymer Testing — **Short-Term Mechanical Tests**（Rapra Polymer Testing Series）
+   • **EN**: This volume treats "short-term mechanical tests" — mechanical properties where the effects of long times and cycling are ignored (quasi-static stress-strain tests). Coverage is plastics: hardness, tensile, compression, shear, flexing, impact and tear, plus density/dimensional measurement and the foundational matters of test piece preparation and conditioning. Rubbers are excluded (covered in a companion volume), as are cellular materials and coated fabrics; reinforced plastics are not sp
+   • **进厂检验口径**：本卷是理解卫材来料（薄膜/树脂/结构件）拉伸、撕裂、冲击、硬度等方法依据的来源，与 Raw Material Testing Method Summary（原材料测试方法汇总表） 的工厂 STM 方法体系互补。
+- **成品力学评价**：弯折、撕裂、拉伸等方法与 Finished Product Testing Method Summary（成品测试方法汇总表）、Absorbent Product Testing 的成品测试相互印证。
+- **关键红线**：本卷强调'测试目的决定方法与条件'——QC 与设计数据的口径不可混用；这对卫材把实验室小样数据外推到产线成品是重要提醒。
+- **已编译**：库内已存在该卷的编译页 Polymer Testing Handbook Short-Term Mechanical Tests，本页作为书目索引收口。
+   • Polymer Testing Handbook Short-Term Mechanical Tests — 本卷库内编译页
+- Raw Material Testing Method Summary（原材料测试方法汇总表） — 原材料 STM 方法
+- Finished Product Testing Method Summary（成品测试方法汇总表） — 成品 STM 方法
+- Absorbent Product Testing — 吸收产品测试综述
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (3 句)
+   • An **improved composite elastic feature（复合弹性部件）** for absorbent articles that is easier to handle during manufacture and subsequent processing, disclosed in EP0820747A1 Absorbent Article with Elastic Feature (P&G)（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. The feature comprises **at least one extruded elastomeric layer** and **at least one extruded, substantially non-elastomeric layer** which together form a film（至少一层挤出弹性体层 + 至少一层挤出、基本非弹性层，共同构成薄膜）. Before the film is elasticise
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+   • Directly relevant to **diaper/pant elastication** — waist, cuff and ear-panel elastic components. The co-extruded film feature is the material route behind the elastic-feature cluster that also covers Elastic Strand Snicking（弹性橡筋断丝失效化）, Elastic Tension & Creep（橡筋张力与回缩率） and Waist Guard（腰围护挡）, and it links to pant-type articles (Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、EP2413866B1 Disposable Wearing Article (Unicharm)）. Because the film must be adhesively attached, it is the attachment t
+
+--- [[莱赛尔 Lyocell]]  (3 句)
+   • **Hydroentanglement behaviour.** Viscose/Lyocell have **low wet modulus and entangle cheaply**, whereas PP/PET need hydrophilic finishes; and **high jet impact force unlocks the Lyocell-fibrillation microfibre route**（源：Mechanical bonding）。
+   • **Trilobal Lyocell for LSN spunlace（芯包/水刺用）.** Trilobal Lyocell is a named carrier for the fibre cross-section that creates axial grooves → a quasi-continuous low-resistance distribution path along MD, for the LSN hydroentangled nonwoven; it maps to project **OI-08「Trilobal Lyocell for LSN」**, targeting wet strength and hydrophilic channels（源：三叶形截面纤维（Trilobal Fibre））。Concrete batch evidence: the COCO V6 Summary adds **LSN spunlace containing trilobal Lyocell** as a core-wrap material (6 km, arri
+   • Manufactured Fibre Technology Ch17 Rayon Fibres
+- 兰精集团
+- 天丝为什么突然这么难买
+- 原纤化
+- Mechanical bonding
+- Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- 三叶形截面纤维（Trilobal Fibre）
+- 赛得利
+- Fibers and Fibrous Materials
+- COCO V6 试产原料准备会（Summary 版）
+
+--- [[EP0820747A1 Absorbent Article with Elastic Feature (P&G)]]  (3 句)
+   • A 1996-priority P&G European application that replaces the **nonwoven + elastomer laminate** approach to diaper elastics with a **co-extruded elastomeric / non-elastomeric film**, using mechanical activation to switch elasticity on — the earliest "activation" document in the library's elastic-feature cluster.
+   • The application discloses an absorbent article having an improved **composite elastic feature**（复合弹性部件）that is easier to handle during manufacture and subsequent processing. The feature comprises at least one **extruded elastomeric layer** and at least one **extruded, substantially non-elastomeric layer** which together form a film. Before the film is elasticised by **activation**（激活）, the non-elastomeric layer inhibits the elastic properties of the elastomeric layer; after activation, that inhi
+   • **"Activation" is the invention's switch** — the film ships/stores in a non-elastic, easy-to-handle state and becomes elastic only after mechanical stretching. → Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- **Removing the nonwoven removes two manufacturing pains** — weak nonwoven tensile strength and fibre/glue contamination. → Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- **Co-extrusion is preferred over lamination** — one process step from the same die head. → Co-extruded Elastic Film Feature
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (3 句)
+   • **Function-first definition.** The core "exerts the force necessary to pull the liquid in, distribute it within the structure and hold it without releasing under normal external pressure" — pull, distribute, hold. Everything else in the chapter tests one of those three.
+- **Two metrics, one solvable.** C (cc/g) is predicted from T/W alone; Q (cc/g·s) is not. "The value of capacity can be monitored and predicted effectively by simply measuring thickness per unit mass and using eq. 1."
+- **Rate mo
+   • **Capacity is measurable before you build; rate is not.** T/W predicts C reliably, so areal density/thickness is the design variable to lock in early. Rate needs empirical K — treat any Q prediction from first principles as upper-bound only.
+- **Thinning is the highest-return lever in the chapter.** Every 40 g/m² of core removed pays back in both capacity and rate (40→160 costs 34%/54%); "thin" is not a comfort claim, it is a permeability-and-bulk argument.
+- **Low-melt share is a channel-plug d
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+
+--- [[Handbook of Nonwovens]]  (3 句)
+   • A definitive Woodhead/CRC technical handbook (2007) mapping the nonwovens industry end-to-end — from web formation (dry/wet/polymer-laid) through mechanical, thermal and chemical bonding and finishing, to characterisation, testing and modelling — with hygiene-disposables as the dominant application throughout.（中文：2007 年 Woodhead/CRC 权威手册，端到端讲透无纺布——从干/湿/聚合物成网，经机械/热/化学加固与后整理，到表征测试建模，全程以卫生用品为最大应用场景。）
+   • Development of the nonwovens industry — 行业定义、三族分类、原料（PP 63%）与市场结构，卫生用品为最大终端（>33%）。
+- Dry-laid web formation — 干法成网（梳理/交叉铺网/气流成网），绒毛浆 + SAP + 双组分与卫生芯体/导流层配方。
+- Wet-laid web formation — 湿法成网（源自造纸），伯努利堰口速度、天丝/深沟槽 PET、无胶乳双组分热粘。
+- Polymer-laid web formation — 纺粘/熔喷聚合物成网，树脂 MFR 窗口、PP/PE 热粘窗口、SMS 与 Coform® 卫生应用。
+- Mechanical bonding — 机械加固：针刺/缝编/水刺，比能量 K 与 SE_c、射流冲击力 F∝p·d²、原位微纤化。
+- Thermal bonding — 热粘合：轧光/热风/红外/超声，皮芯双组分与"爆点"过粘失效，面层 10–30 g/m²。
+- Chemical bonding — 化学粘合：胶乳/粘合剂、Fox Tg 方程、PP 表面能 23 mN/m
+   • Web formation families 成网三族：drylaid / wetlaid / polymer-laid — 见 Development of the nonwovens industry、Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation
+- Bonding & finishing 加固与整理：mechanical / thermal / chemical / finishing — 见 Mechanical bonding、Thermal bonding、Chemical bonding、Nonwoven fabric finishing
+- Hygiene materials 卫材主线：topsheet / ADL / core / backsheet / rewet — 贯穿全书各章
+- Measurement & modelling 测试与建模：standards, wicking vs demand absorbency, D'Arcy/Lucas–Washburn
+
+--- [[Handbook of Plastic Films]]  (3 句)
+   • 1.1 Introduction；1.2 Structures of the Polyolefins（1.2.1 LDPE / 1.2.2 HDPE-MDPE-UHMWPE / 1.2.3 LLDPE / 1.2.4 VLDPE-ULDPE / 1.2.5 PP / 1.2.6 PP copolymers）
+- 1.3 Morphology of Polyolefin Films；1.4 Rheological Characterisation of the Polyolefins（1.4.1 HDPE / 1.4.2 LLDPE / 1.4.3 VLDPE-ULDPE / 1.4.4 LDPE, Long Branches / 1.4.5 PP）
+- 1.5 Blown Film Production (Tubular Extrusion)：1.5.1 Extruder Characteristics / 1.5.2 Screw Design / **1.5.3 Frost-line and Blow Ratio**
+- 1.6 Cast Film Production：1.6.1 
+   • **按 P1 大部头规则，本书仅建索引页，未逐章编译。** 源文件 860,172 bytes（约 3.2 万行），远超单页安全体量；9 章正文均未生成 chapter 页，本页只承担整书定位与导航职能。
+- 目录与关键小节名恢复自源文件  页（自动抽取，保留印刷页码）。
+- 与既有页面关系：本页为**索引页**，不复写 Polymer Testing Handbook Short-Term Mechanical Tests、Introduction to Physical Polymer Science 等专门页面内容，仅做互校入口。
+- 检索提示：源文件中图表标题也以  开头，用小节号大写标题（如 ）在 RAW_FULL 原文中检索定位最快。
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — Ch1.2/1.4 聚烯烃结构与流变的 PP 专项补强与牌号数据
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 本书缺位的「纤网成形」一侧，与挤出涂布/复合章节互补
+- Seymour Polymer Chemistry Ch14 Plasticizers and Additives — Ch1.9/1.10/Ch4 助剂体系的化学侧读物
+- Polymer Testing Handbook Short-Term Mechanical Tests — Ch1.11 力学性能章节的标准化测试对接
+- Introduction to Physical Polymer Science — Ch1.11/1.13 中转变、松弛与黏弹性现象的物理解释底座
+

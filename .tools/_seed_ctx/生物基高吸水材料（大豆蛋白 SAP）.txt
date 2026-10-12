@@ -1,0 +1,24 @@
+# SEED: 生物基高吸水材料（大豆蛋白 SAP）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 3 页，5 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Natural Superabsorbent Plastic Materials Based on Functionalized Soy Protein]]  (3 句)
+   • 一篇关于**大豆蛋白基天然高吸水材料（SAP）**的研究论文，论证用琥珀酸酐（SA）酰化大豆分离蛋白（SPI）+ 甘油增塑制备可吸水塑料，作为石油基 SAP 的可降解替代路线。
+   • **大豆蛋白可经酰化+增塑制成天然 SAP，作为石油基 SAP 的可降解替代** —— 支撑页：生物基高吸水材料（大豆蛋白 SAP）
+   • 概念：生物基高吸水材料（大豆蛋白 SAP）、SAP（高吸水树脂）
+
+--- [[Super Absorbent Fibre（超吸水纤维 SAF）]]  (1 句)
+   • 上位 / 相关：SAP（高吸水树脂）、绒毛浆（Fluff Pulp）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- 结构同层：Core Channel Pattern（芯体通道花型设计）、ADL（导流层）、亲水-疏水梯度设计
+- 对比：生物基高吸水材料（大豆蛋白 SAP）、Biodegradable SAP（可降解高吸水树脂）
+- 工艺：热风粘合无纺布、原纤化
+
+--- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]  (1 句)
+   • SAP（高吸水树脂） · Biodegradable SAP（可降解高吸水树脂） · SAP性能指标（CRC AUL GBP Vortex）
+- Degradable SAP Routes（可降解 SAP 四路线对比） · 生物基高吸水材料（大豆蛋白 SAP）
+- SAP 表面包覆（SAP Particle Surface Coating） · Multilayer SAP Core（多层SAP芯体）
+- 供应商：Evonik（赢创） · Nippon Shokubai（日本触媒） · Sumitomo Seika（住友精化） · 巴斯夫欧洲公司（BASF SE） · LG Chem（LG 化学） · Satellite Chemical（卫星化学） · Wanhua Chemical（万华化学） · 宜兴丹森科技有限公司 · 诺尔（Nuoer）
+- IPC BCC OI Portfolio（开放创新项目组合）
+

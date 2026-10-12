@@ -1,0 +1,65 @@
+{
+ "batch_id": "W17-6",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_ffe60c58272f1f4dd824363bef2adc8a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Simulation Model/v10_optimization_report.md.md",
+   "name": "v10_optimization_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_9d4ef6a9fa61a091297e12f86b4b48e6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Full Results.xlsx.md",
+   "name": "Full Results.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8a2c7ef6c98b1110f3dd9a04ebcbf3a5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md",
+   "name": "2025.08.28 - GRIFFIN Regroup.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b8cbd50cc0458d94b505c66131063488001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/纸尿裤的异味控制与消除.pdf.md",
+   "name": "纸尿裤的异味控制与消除.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_e5656dbc3d0f2888096a8b56b414d9fc_71b01e1a7445d2c531a3804a8ba0d93f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/纸尿裤芯体新概念与市场宣称.docx.md",
+   "name": "纸尿裤芯体新概念与市场宣称.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_78880059185b7e951ffba0495c8e0860001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/Agenda.xlsx.md",
+   "name": "Agenda.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_62da00559b3ddc8f55db83cbd9bf7096001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Technology Management/NOTE.docx.md",
+   "name": "NOTE.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_29ec6ebd7aeae7ae0cefd08f3468ad3e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison_brief.pptx.md",
+   "name": "Rewet Method Comparison_brief.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_dcd82496d11615b123f51785d7ee2abd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+   "name": "2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_be1b3eea72fa7c087934ef0dabf50d41001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Structure/NEW REL 4.pptx.md",
+   "name": "NEW REL 4.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

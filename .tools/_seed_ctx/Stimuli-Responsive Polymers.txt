@@ -1,0 +1,121 @@
+# SEED: Stimuli-Responsive Polymers
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)
+#
+# 全库正文命中 155 页，294 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联密度 Crosslink Density]]  (7 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+   • **Two orthogonal design axes.** The chemical composition of the polymer matrix determines the **type** of stimulus the hydrogel responds to; the **extent** of swelling is limited by the elasticity of the network — i.e. by ν_c（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。Higher UV intensity shortens chain length, lowering both response time and mechanical strength（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+
+--- [[液晶 Liquid Crystal]]  (7 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Two thesis application threads.** Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport（源：Liquid Crystalline Polymers Smart Applications）。Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight（源：Liquid Crystalline Polymers Smart Applications）。
+   • **Bio-inspired columnar proton channels.** Bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into **homeotropically oriented columnar proton channels** with water-independent conductivity and size-selective ion transport（源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a **wide temperature range**; hydrophobic mesogeni
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (7 句)
+   • An **application chapter** (区域给药). Its organizing claim is that systemic therapy fails by dilution and toxicity, so the drug should be delivered where its whole pharmacological effect is wanted: "Localized drug delivery is defined as a method of delivering a drug (for its local action) from a dosage form to a particular site in the biological system where its entire pharmacological effect is desired" (L110). Stimuli-responsiveness is **peripheral** here — it enters mainly through thermally induc
+   • 1. **Why regional delivery.** The main advantage is "high locoregional concentration of therapeutic agents with prolonged retention time" (L117–119). Disease areas listed: localized solid tumors, chronic/acute infections, vascular disorders, neurological disorders, and chronic/acute pain (Table 12.2, L226–238).
+2. **Synthetic over natural carriers.** "Synthetic polymers are preferred over natural ones, since they are presumed to be free of immunogenicity. Their physicochemical properties are als
+   • **Release-control variables** for microparticulates are named as: particle size, polymer degradation/erosion rates, erosion mechanism (bulk vs surface), and additives (L1411). Surface-eroding polymers such as polyanhydrides "simplify the drug-release kinetics, since water penetration into the microsphere interior is minimized, and the drug release rate becomes predominantly dependent on the polymer erosion rate" (L1501–1503).
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+
+--- [[Seymour Polymer Chemistry Ch01 Introduction to Polymer Science]]  (5 句)
+   • Chapter 1 is the programmatic introduction: it answers **what a polymer is** (definition and nomenclature), **how polymers entered human civilisation** (from biopolymers to synthetic macromolecules), and **what economic weight the polymer industry carries**. Seymour argues on three levels — etymology/classification, history, and industrial economics — and closes with the axiom that governs the whole book: **the differences between all polymers are determined primarily by intermolecular and intra
+   • **词源 / Etymology**：*"The word polymer is derived from the Greek poly and meros, meaning many and parts, respectively. Some scientists prefer to use the word macromolecule, or large molecule, instead of polymer."* (line 11-12)
+- **时代定位**：*"Since most chemists and chemical engineers are now involved in some phase of polymer science or technology, some have called this the polymer age. Actually, we have always lived in a polymer age."* (line 5-6)
+- **同一原理 / Unified principle**：*"However, the same p
+   • 热塑塑料主要品种 / Major thermoplastics：LDPE、HDPE、PP、PS、ABS、PVC、PET (Tables 1.3-1.10)。
+- 合成橡胶 / Synthetic rubbers：styrene-butadiene、polybutadiene、nitrile、ethylene-propylene。
+- **烯烃纤维增长 / Olefin fiber growth**：from **500 million lb (1975)** to **3180 million lb (2000)** — PP 基烯烃纤维是增长最快的纤维品类（line 数据表段）。
+- **就业 / Employment**：synthetic polymers 占化学工业就业 **1150 thousand (1994)** → **1206 thousand (2000)** (line 857-863)。
+- 注：以上数据均转录自原书 Tables 1.3–1.10；原书出版年份在本抽取件中未给出，标注 date_published = 0 [待验证]。
+   • **术语之争 / Nomenclature dispute**：polymer vs macromolecule — Seymour 呈现两派但不裁决，并指出 "the same principles apply to all polymers"，暗示术语之争是表面的。
+- **天然 vs 合成二元论的消解**：传统教学主张 natural polymers 与 synthetic polymers 分课讲授；Seymour 以还原论立场反驳——同一结构-性能原理适用。
+- **基础研究与应用研究的断裂 / The "unnatural gap"**：*"Up to this point, it was considered that universities were where discoveries were made and industry was where they were put to some practical use. This separation between basic and applied work was quite prominent at th
+
+--- [[Smart Polymers Ch10 Boronate Copolymers and Gels]]  (5 句)
+   • **2.Polymer presentation creates avidity.** "An inherent property of the reactive polymers is their multipoint (or multivalent) interaction with biological counterparts, which results in much stronger specific binding compared with low-molecular-weight reagents with the same functional groups" (L122–125). Multivalent binding to available diols can become effectively irreversible — e.g. BCC binding to an agarose gel (L1088–1090).
+   • **3. BCCs are acid–base dual-form polyelectrolytes.** "The BCCs are polyelectrolytes, the pendant groups of phenylboronic acid (PBA) being present in both an uncharged trigonal form and a charged boronate form … in a wide range of pH" (L151–153); for NAAPBA copolymers this equilibrium spans pH 6.5–10 (L153–154).
+   • **5. Glucose fits bidentate chelation; galactose/mannose do not.** "Allowing for bidentate chelation of glucose by the pendant boronate groups" (L518–520) explains both the high sensitivity of soluble copolymers (measurable phase-transition temperature T_P down to 5.6 µM glucose, L517–520) and glucose-specific *cross-linking* shrinkage of gels, whereas mannose, galactose and fructose cause swelling (L658–659). "Other hexoses, such as D-galactose or D-mannose, do not form bidentate complexes with
+   • **PLL-g-(PEG;PBA) binding to mannan-containing agarose** (Table 10.2, L1052–1068): PEG/lysine ratios of 1:21 / 1:9 / 1:6 / 1:3 / 1:2 with the tabulated degrees of substitution show that **more PEG chains ⇒ more steric repulsion ⇒ less adsorption, even at high PBA content**. Separately, copolymers with PEG/lysine unit ratios of 1:21 and 1:9 reduced adherent IC-21 cells by more than 90% (L1194–1195).
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (4 句)
+   • The vault gives an explicit thermodynamic definition: smart / stimuli-responsive polymers are **"thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions"**（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。The useful systems are those whose working transition sits near body temperature — **"the most applicable stimuli-respon
+   • **Phase transition + critical susceptibility 相变 + 临界敏感性.** 「smartness」= 可逆相变 + 临界点敏感性；因溶液行为在相变附近（尤其临界点附近）具有普适性，无穷小的参数变化即可触发大响应（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。
+- **Confined brushes 受限刷层.** 一端接枝到不可渗透表面后，响应性由分子旋钮（N、s、α、χ(T)、盐、溶剂组成、表面活性剂）设定；**"grafting from" 可避免 "grafting to" 的空间位阻**；高表面覆盖的刷层靠强分子间相互作用保证刺激响应性（源：Smart Polymers Ch02 Responsive Polymer Brush Theory）。
+- **Recognition-driven mechanism 识别驱动的机制.** 硼酸酯与顺式二醇的可逆共价络合形成**多价（multivalent）**结合；PBA 以不带电三角形式与带电硼酸酯形式并存，是
+   • **SAP is a crosslinked copolymer SAP 即交联共聚物.** SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂），**其组成由竞聚率而非投料比决定**；弹性腰围/防漏侧边用的弹性纤维与 TPE 亦落在共聚物序列设计范畴（源：Seymour Polymer Chemistry Ch09 Copolymerization）。这是本页与卫材最直接的交集（SAP 吸水/保水即一类刺激响应行为）。
+- **Body-temperature window 体温窗口.** 工作相变落在 ~37 °C 的系统最有用（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）——该窗口与卫生用品的**湿/温指示**功能方向同源（参见 PNIPAAM、pH 响应材料）。
+- **Trigger-selection rule 触发选择规则（可迁移）.** 生物分离应用给出的选择规则：**非带电温敏聚合物的非特异性共沉淀显著低于带电 pH 响应聚合物**（ionic interactions 会引入不希望的非特
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch04 Therma
+
+--- [[断裂力学 Fracture Mechanics]]  (4 句)
+   • **粘弹性耗散而非界面热力学主导强度。** , and "the value of ψ is usually far higher than that of E and the energy dissipated can then be considered as the major contribution to the adhesion strength G"（源：Adhesive Handbook Part 2 Fundamental Aspects）. ⇒ peel rate 与温度是主变量。
+- **柔性胶层通过扩大断裂过程区降峰应力。** "Flexible or semirigid adhesives produce joints having higher short-term strength and fracture toughness compared to rigid adhesives."；柔性胶层扩展 fracture process zone 以降低峰值应力（源：Adhesive Handbook Part 2 Fundamental Aspects / 
+   • **芯体点胶的速率-温度窗口。** G = G₀·ψ(v,T) 的峰值位置决定「**低速不漏、高速不脱层**」；热熔胶中蜡/树脂/弹性体比例调节本质就是设计 ψ(v,T)（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **SAP 层热熔胶到浆纤维的锚固。** 机械互锁是橡胶-织物胶接的主导机理，直接对应 SAP 层热熔胶点到浆纤维的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **木浆纤维方向性。** 纤维倾角 0°→45° 使断裂韧性翻倍、10–30° 存在韧性最小值 ⇒ 高取向纤维束端头胶接强度最低（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **湿态失效。** 水浸泡后有机涂层粘附力最高损失 **85 %** ⇒ 耐水解是芯体层合/回渗控制的核心（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **非织造布撕裂/穿刺评价。** 非织造布拉伸断裂、撕破
+   • 本库口径的**形式化定义与适用范围**缺失 。
+- LEFM 适用边界：K_Ic / G_Ic 建立在**小范围屈服与线弹性假设**上；非织造布的大变形、纤维拔出与桥联机制不满足该假设，**只能作定性参考**（源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）。
+- 本库未见卫材专用 K_Ic / G_Ic 实测值 。
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[智能织物 Smart Textile]]  (4 句)
+   • **No settled definition of smart textiles exists.** Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**（源：Intelligent Textiles and Sports Clothing）。The working definition used by the smart-polymer literature is verbatim: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed 
+   • **Adjacent SAP/ADL modelling.** The same smart-hydrogel physics is read across to a confined microfluidic system — an absorbent core is a superabsorbent hydrogel plus fibrous channels, and the parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。SAP can be modelled as a dry hydrogel, with imbibition from 10–20% up to thousands of times dry weight and the chemical tie-point vs physi
+   • **Trigger tolerances usable for design.** The narrow pH window (ΔpH ≤ 0.5) and the 0.4 M NaCl tolerance set budgets for any pH-active or ion-triggered acquisition layer — urine pH fluctuation must be managed to avoid false triggering（源：Smart Polymers Ch13 Affinity Precipitation of Proteins）。
+   • Intelligent Textiles and Sports Clothing
+- Smart Fabric Textiles Recent Advances and Challenges
+- Smart Textiles and Their Applications
+- Smart Fabrics and Networked Clothing
+- Smart & Connected Garments (IEEE)
+- Flexible Stretchable Electronics (imec)
+- Interactively Mechanochromic Electronic Textile Sensor
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- US20070270773A1 Thermochromic Wetness Indicator
+- Hygiene Chromic Ink Supplier Lan
+
+--- [[水凝胶 Hydrogel]]  (4 句)
+   • 水凝胶基 SAP 的补充口径：**以亲水聚合物为骨架、经交联形成三维网络**，吸水后能维持吸水结构、不溶胀崩解，兼具高吸水/保水与形状恢复能力（源：Hydrogel-based Superabsorbent Polymers）。
+   • **交联是定义性条件。** 无交联则亲水链在水相中溶解，网络不成立（源：Hydrogels in Regenerative Medicine）。
+- **物理交联 vs 化学交联是中心取舍。** 物理凝胶由离子作用、氢键、配位键、疏水作用、结晶或蛋白相互作用形成，**可逆**且generally unstable；化学交联给出稳定网络（源：Hydrogels in Regenerative Medicine）。
+- **亲水性来自极性/可离子化基团。** −SO₃H、−COOH、−CONH₂、−OH、−NH₂；带电网络（−SO₃⁻、−COO⁻）可静电吸附金属离子。三类结构：中性（非离子）、离子型（聚电解质）、互穿网络（源：Hydrogels in Regenerative Medicine）。
+- **两个反向杠杆。** 亲水基团含量 ↑ ⇒ 溶胀 ↑；交联密度 ↑ ⇒ 链段活动性 ↓、柔性 ↓、溶胀 ↓ ——这与 SAP 设计的取舍同源（源：Hydrogels in Regenerative Medicine）。
+- **溶胀具有 pH/离子响应方向性。** 酸性基团水凝胶在碱性介质
+   • **SAP 是干态水凝胶。** SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，可用同一网络科学框架建模；常用骨架为聚丙烯酰胺（PAM）、聚丙烯酸（PAA），生物基路线为纤维素、淀粉、壳聚糖、海藻酸钙（源：Hydrogel-based Superabsorbent Polymers）。
+- **性能四参量调控。** 交联密度（低→吸水高但稳定性差；高→保水好但吸水受限，**存在最优值**）、亲水基团分布、离子强度（高离子强度降低吸水性）、温度（部分水凝胶具温度响应性）（源：Hydrogel-based Superabsorbent Polymers）。
+- **吸水速率先受粒径控制。**  预测有效半径减半 ⇒ 摄入快约 4 倍；当摄入速度或回渗是失败 KPI 时，应据此设定 PSD 档位（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+- **盐水敏感性是可比性红线。** 盐水中 Na⁺ 与网络 −COO⁻ 静电结合，减少可用于氢键的离子化基团，同一样品吸收相比纯水下降三倍以上（源：Citric Acid Crosslinke
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[Ebewole Polymer Science Ch02 Polymerization Mechanisms]]  (4 句)
+   • The source states the rationale explicitly: the Carothers condensation/addition dichotomy is judged incomplete because some addition polymers also eliminate small molecules, hence **mechanism-based 机理优先** classification is adopted as "the most general".
+   • Two modes: **combination (coupling) 偶合终止** — "two growing polymer chains react with the mutual destruction of growth activity" and "Coupling reactions produce a single polymer" (Ch.2, p.29); **disproportionation 歧化终止** — "a labile atom (usually hydrogen) is transferred from one polymer radical to another", producing "two polymers from the two reacting polymer chain radicals" (Ch.2, p.29).
+   • 1. **SAP synthesis route 超吸水性树脂合成路径.** 聚丙烯酸钠类 SAP 的水相/反相悬浮与乳液聚合普遍采用 **redox initiation**（过硫酸盐 + 亚硫酸氢盐），因为 redox "permits polymerization at relatively lower temperatures" (Ch.2, p.26)；低温引发有利于控制交联网络形成与残余单体。参见 A review on superabsorbent polymers、Hydrogel-based Superabsorbent Polymers。
+2. **Chain transfer as the Mw/Mn control knob 链长调控手段.** "Chain-transfer reactions reduce the average chain length of the polymer." (Ch.2, p.31, Example 2.1b) — 加入链转移剂可降低分子量、改变分布宽度；对聚烯烃树脂而言这直接影响熔体流动与可纺性。参见 Polypropylen
+   • Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification
+- A review on superabsorbent polymers
+- Hydrogel-based Superabsorbent Polymers
+- Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins
+

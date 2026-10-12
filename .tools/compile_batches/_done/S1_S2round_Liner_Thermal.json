@@ -1,0 +1,73 @@
+{
+  "batches": ["S1_Projects_Liner_01", "S1_Projects_Thermal Comfort_01"],
+  "source_pages": [
+    "[[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]",
+    "[[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]",
+    "[[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]",
+    "[[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]",
+    "[[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]",
+    "[[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]",
+    "[[PCM-Free Thermoregulation with BNC Nanofiber Network]]",
+    "[[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]"
+  ],
+  "concept_pages": [
+    "[[Pentagram PET (Star Cross-Section Fibre)]]",
+    "[[Groove Capillary Suction]]",
+    "[[MD Liquid Distribution]]",
+    "[[Shaped PET Add-On Window]]",
+    "[[PE-PET Bond Efficiency Model]]",
+    "[[Ultrasonic Bonding of PET-Containing Topsheet]]",
+    "[[Diaper Microclimate]]",
+    "[[Thermochromic Microcapsule (Leuco Dye System)]]",
+    "[[Wetness Indicator Glue]]",
+    "[[Microencapsulation]]",
+    "[[PCM-Free Thermoregulation]]",
+    "[[Signal Comprehension Gate]]"
+  ],
+  "entity_pages": [
+    "[[CTI (Chromatic Technologies)]]",
+    "[[Matsui Shikiso (松井)]]",
+    "[[Bostik]]",
+    "[[Suzhou Yimeng (Mono-PET Spinner)]]",
+    "[[Fudi（福地）]] — 别名页（由本批误建；内容已并入正页 [[福地（Fudi）]]，待人工确认后删除）"
+  ],
+  "comparison_pages": [
+    "[[Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)]]",
+    "[[Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)]]",
+    "[[Thermochromic vs Hydrochromic Wetness-Comfort Indicators]]",
+    "[[BNC-Only vs BNC+PCM (Thermoregulation Ledger)]]"
+  ],
+  "updated_existing": [
+    "[[三叶形截面纤维（Trilobal Fibre）]] — 追加 Liner 批定量物理/剂量窗口/工艺窗口 + 4 条来源",
+    "[[ATB双梳理面层（Dual-Card Topsheet）]] — 追加三种构造口径（25 gsm / 45 gsm 四给料 / 25+12 gsm 层压）+ 工艺转化参数 + 4 条来源",
+    "[[毛细梯度设计]] — 追加面层级 Z 向吸力梯度与反向风险 + 3 条来源",
+    "[[热风粘合无纺布]] — 追加含 PET 面层的烘箱/冷却/分切窗口与「不得升温粘 PET」禁令 + 3 条来源",
+    "[[亲水整理耐久性]] — 追加沟槽功能对整理的依赖、COA 数据项与整理过量的反面失效 + 3 条来源",
+    "[[皮芯复合纤维]] — 追加偏心皮芯（蓬松/花型）与「单组分 PET 不可粘」配方约束 + 5 条来源",
+    "[[变色油墨]] — 追加尿裤场景阈值带宽/三路线/MVP 门/安全硬门 + 2 条来源",
+    "[[智能尿裤功能层]] — 追加湿态指示层细化 + 新增调温需求维度 + 3 条来源",
+    "[[细菌纳米纤维素]] — 追加结构调温（热管理）维度与参数 + 1 条来源",
+    "[[福地（Fudi）]] — 追加 KC 面层 DOE 中的角色与供方分级（正页）",
+    "[[延江（Yanjan）]] — 追加 Delta-T 130/128/126 ℃ 温度窗口试验记录 + 1 条来源",
+    "[[兰精集团]] — 追加 C1 莱赛尔三叶形路线与成本风险口径 + 1 条来源",
+    "[[汉高]] — 追加湿致变色尿显胶候选（★ Primary wet，Tier-1）与门控条件 + 2 条来源"
+  ],
+  "manual_review": [
+    "[[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]：试验预算与分配置月度材料成本估算、专利起草安排、内部人员姓名",
+    "[[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]：纤维采购价格带与材料成本增减（−$0.006~−0.008/m²）",
+    "[[Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)]]：各配置月度材料成本估算、总预算区间与「相对 C3 溢价 ≤20%」成本门",
+    "[[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]：水基湿致油墨相对热熔胶约 2–3 倍成本差",
+    "[[Wetness Indicator Glue]]：同上成本倍数口径",
+    "[[Thermochromic vs Hydrochromic Wetness-Comfort Indicators]]：成本倍数 + 供应商评估/门控状态",
+    "[[福地（Fudi）]]：试产供应商分工、月用量与预算区间",
+    "[[Fudi（福地）]]：命名统一与页面合并（别名页）",
+    "[[Suzhou Yimeng (Mono-PET Spinner)]]：新供方身份、月用量、资格认证周期与预算区间",
+    "[[延江（Yanjan）]]：试产供应商分工、交付站点与温度窗口试验历史",
+    "[[兰精集团]]：试产用量、成本风险缓解目标与相对成本门",
+    "[[Matsui Shikiso (松井)]]：未公开合作方评估状态、分级、门控条件与甲醛安全提示",
+    "[[CTI (Chromatic Technologies)]]：未公开合作方评估状态、分级与门控条件",
+    "[[Bostik]]：未公开合作方评估状态、分级、门控条件与路线级成本倍数",
+    "[[汉高]]：未公开合作方评估状态、分级与门控条件"
+  ],
+  "notes": "1) 8 份来源均先建 source 页（source_path 与 items.src 一字不改），再派生 12 concept / 5 entity / 4 comparison；全部新页与源摘要页双向 [[wikilink]]，且已脚本校验：本批 29 个新页 + 13 个被追加页的所有 wikilink 均可解析。2) 语言：全部新页与追加节按 AGENTS.md §2.0 执行「英文为主 + 中文对照」（小节标题形如 '## Definition 定义'、表格表头双语、术语首现附中文）；历史页面未回溯改写。3) 对比页 4 张均含「成本」「供应链风险」两列且逐行带来源/尾注。4) 命名冲突处置：本批建 Fudi 实体页时未检索到既有正页 [[福地（Fudi）]]（初始目录列举被截断），发现后已把 Liner 批次内容全部追加至正页，本批所建 [[Fudi（福地）]] 改为别名/重定向页并标 manual_review，未删除、未重命名、未合并（AGENTS.md §5 边界）。另 [[CTI (Chromatic Technologies)]] 被另一并发批次确认为正页并向其追加内容，本批新建为正确落点。5) 疑似误建目录已清理：写首份 ATB 源页时文件名含 'm/min' 斜杠导致在 WIKI/sources 下误建子目录，已立即删除该误建目录并用 '600 mpm' 重写同一页面（未触及任何既有文件）。6) 未改动 index.md / log.md（依任务要求），故索引与日志待主代理统一更新；新增 4 个对比页、12 个概念页、5 个实体页、8 个源摘要页需入索引。7) 跨批次发现（未处理，仅登记）：WIKI 中 [[细菌纳米纤维素]] 存在一条既有的断链 [[BNC 与绒毛浆和 SAP 定位对比]]（非本批产生），按「只追加不改写」原则未改动。8) 存疑：Liner 批多份来源 date_published 缺失（标 [待验证]）；多份模拟类来源的全部增益值（MD 铺展、CD 拉伸、dT/dt）均为模型/设计值，非实测；五角星形纤维的可供货性与价格带库内无来源；[[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] 的 DOE 尚无实测结果，故 C1–C4 对比页为「设计对比」而非「结果对比」；热风粘合页的 138–142 ℃ 与 +10–15% 停留为设计建议；BNC 调温全部热数据为文献估算（≈），原文自述须在 Gate 阶段以实测替换。"
+}

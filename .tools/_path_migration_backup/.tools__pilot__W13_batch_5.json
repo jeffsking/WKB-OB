@@ -1,0 +1,65 @@
+{
+ "batch_id": "W13-5",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_a3db8339927bd9557f39540234844e3f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Polymer Testing/Handbook of Polymer Testing_ch10_report.md.md",
+   "name": "Handbook of Polymer Testing_ch10_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_869387e6331df4de6218e8fe606dcffc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Polymer Testing/Handbook of Polymer Testing_ch5_report.md.md",
+   "name": "Handbook of Polymer Testing_ch5_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_47207a6dab9fb306888435e0a893badf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch12_report.md.md",
+   "name": "Introduction to Physical Polymer Science_ch12_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b6c68fca1f8a4fdc7e21f7e8844f3a64001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch7_report.md.md",
+   "name": "Introduction to Physical Polymer Science_ch7_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_f147774d3cc9e74868b4db79c0eaa9ff001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch4_Discotic_Natures_Genius_深度拆解.md.md",
+   "name": "LCP_Ch4_Discotic_Natures_Genius_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_594a773a10486449405fdd77a27fcc33001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch01.md.md",
+   "name": "Manufactured Fibre Technology · analysis_ch01.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bd138c1c81b35f663c278ce225724f2f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch10.md.md",
+   "name": "Manufactured Fibre Technology · analysis_ch10.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_2159605ca99d48cc85d98d388d409d29001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch19.md.md",
+   "name": "Manufactured Fibre Technology · analysis_ch19.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_2e52be2e39c6b846d56106e7770da5af001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch08_NUMERICAL_METHODS_report.md.md",
+   "name": "ch08_NUMERICAL_METHODS_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_2360fcd2e579013ccb920232025357d7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/synthesis.md.md",
+   "name": "synthesis.md.md",
+   "type": "markdown"
+  }
+ ]
+}

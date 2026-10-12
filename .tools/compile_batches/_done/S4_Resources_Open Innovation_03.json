@@ -1,0 +1,21 @@
+{
+  "batch": "S4_Resources_Open Innovation_03",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 5,
+  "concept_pages": 1,
+  "entity_pages": 0,
+  "comparison_pages": 0,
+  "updated_existing": [
+    "WIKI/comparisons/Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain).md",
+    "WIKI/entities/福地（Fudi）.md",
+    "WIKI/entities/诺尔（Nuoer）.md",
+    "WIKI/concepts/COCO芯体平台.md",
+    "WIKI/concepts/Moisture-Responsive Fibre（湿敏变形纤维）.md",
+    "WIKI/concepts/Wetting Pattern Target Zone（润湿图谱目标区）.md",
+    "WIKI/comparisons/Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）.md",
+    "WIKI/concepts/Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）.md"
+  ],
+  "manual_review": 2,
+  "notes": "前 5 份（NWSP/ISO 对比、R164444 Poise vs Always Discreet、QUINN、GML update、CMC-Na CA CNF SAP）已由其他代理落盘，按查重规则跳过未重编译。新建 source×5：R168596 Adult Care Wetting Pattern Fundamentals（大正文分块读）；KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx；Relevant Product Measurements.xlsx；IPC与FBI团队创新合作计划（ASR 转写，专名/数字待核）；未来3-5年纸尿裤商业化技术集（超长单行，按标签切分读取）。新建 concept×1：Wetting Pattern Target Zone（润湿图谱目标区）。manual_review×2：KC_REL 计划的工程估算预算与 IPC×FBI 转写中的未公开合作方（Zheng Yu、佛山超声设备商）及成本数字。矛盾记录 1 条：DPU3 surge 宽度（规格表 74 mm vs R168596 研究报告 83 mm），两页均注明待人工确认，未裁决。已与 [[IPC BCC OI Portfolio（开放创新项目组合）]] 互链（经 IPC与FBI 源页）。"
+}

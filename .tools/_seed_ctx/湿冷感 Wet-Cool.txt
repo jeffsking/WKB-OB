@@ -1,0 +1,44 @@
+# SEED: 湿冷感 Wet-Cool
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)
+#
+# 全库正文命中 3 页，7 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)]]  (4 句)
+   • **湿热耦合扩散——纸尿裤/湿巾实际使用的核心传质框架**——水分传递与热传递耦合不可独立处理（体温热传导+尿液放热+蒸发吸热）；羊毛纤维实验揭示'观察到的吸湿曲线实际是冷却曲线'；这是'湿冷感'现象的物理根源。
+   • **耦合不可分**：水分传递与热传递耦合，不能单独考虑其中一个。
+- **SAP/纸尿裤映射**：体温热传导+尿液放热（稀释热）+蒸发吸热三者耦合，必须联合求解。
+- **羊毛实验**：温度升至 65°C 时吸湿量 <30%，'吸湿'曲线实际是'冷却'曲线。
+- **湿冷感物理根源**：大量吸液后局部温度下降（感觉凉），蒸发后更凉。
+   • **湿热耦合不可独立处理**——纸尿裤使用时体温热传导+尿液放热+蒸发吸热三者耦合，必须联合求解。
+- **'湿冷感'是湿热耦合的物理表现**——大量吸液后局部温度下降（感觉凉），蒸发后更凉。
+- **羊毛实验证据**——观察到的'吸湿'曲线实际是'冷却'曲线，耦合效应量级显著。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 湿热耦合 Heat-Moisture Coupling
+- 湿冷感 Wet-Cool
+- 热传递 Heat Transfer
+
+--- [[Mathematics of Diffusion]]  (2 句)
+   • 1. **Fick 定律与扩散 PDE**（Ch 1）：F = -D dC/dx 是核心假设；∂C/∂t = D∂²C/∂x² 是全书唯一核心 PDE
+2. **恒 D 解析解法**（Ch 2-3）：反射/叠加、分离变量、Laplace 变换；误差函数类与三角函数级数
+3. **三维几何模型**（Ch 4-6）：片层（芯体/湿巾）、柱（纤维）、球（SAP 颗粒）——u=Cr 变换是关键技巧
+4. **D(C) 变系数扩散**（Ch 7-9）：Boltzmann 变换、数值方法、等效扩散系数——SAP D(C) 常呈指数上升型
+5. **D 测量方法学**（Ch 10）：时间滞后法 L=l²/6D 是行业标准；SAP 必须用质量固定参考系
+6. **非菲克扩散**（Ch 11）：Alfrey-Gurnee-Lloyd 三分类——SAP S 形吸液曲线的物理根源
+7. **复合介质**（Ch 12）：串联阻力模型 Σ(lᵢ/Pᵢ)——芯体多层结构建模基础
+8. **动边界/Stefan 问题**（Ch 13）：SAP 溶胀前沿的定量实现
+9. **反应-扩散耦合**（Ch 14）：SAP 
+   • 1. **Fick 第二定律是全书唯一核心 PDE**——所有 14 章都在此框架上展开，SAP/芯体/湿巾建模均基于此。
+2. **SAP 溶胀动力学核心数学技巧是 u=Cr 变换**——球坐标映射到一维线性 PDE，直接借用片层解。
+3. **SAP S 形吸液曲线的物理根源是 Case II→非菲克→Case I 三阶段**——干态玻璃态快速溶剂化到橡胶态慢扩散的过渡。
+4. **时间滞后法 L=l²/6D 是 SAP 行业 D 测量标准**——Daynes 1920, Barrer 1951 确立的行业标准方法。
+5. **SAP 必须用质量固定参考系定义 D**——因溶胀体积剧变，否则 D 值无法比较。
+6. **复合芯体串联阻力模型 Σ(lᵢ/Pᵢ) 是吸水速率建模基础**——每层独立贡献传质阻力。
+7. **SAP 交联网络水固定化使等效 D 下降 (R+1) 倍**——这是 SAP 吸水'慢'的分子尺度原因。
+8. **'湿冷感'是湿热耦合的物理表现**——观察到的吸湿曲线实际是冷却曲线，耦合效应量级显著。
+
+--- [[Fick 定律]]  (1 句)
+   • This is the mathematical foundation layer for the REL core: **SAP 溶胀 SAP Swelling** kinetics（Diffusion in a Sphere (Crank Ch.6)）, **吸收芯体** uptake and layered structure（Diffusion in a Plane Sheet (Crank Ch.4)、Diffusion in Heterogeneous Media (Crank Ch.12)）and **湿迁移 Wet Migration** all rest on Fick's second law. The series-resistance model  is the modelling basis for the multilayer core, and the  time-lag method is the standard route to measuring D in SAP and films. Coupled heat–moisture diffusion
+

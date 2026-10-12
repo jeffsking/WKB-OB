@@ -1,0 +1,34 @@
+{
+ "stage": "S1",
+ "block": "Projects/Mechanochromic",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md",
+   "name": "Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md",
+   "title_hint": "Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md",
+   "name": "Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md",
+   "title_hint": "Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md",
+   "name": "Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md",
+   "title_hint": "Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/变色材料书籍_温湿力精表.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/变色材料书籍_温湿力精表.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/变色材料书籍_温湿力精表.xlsx.md",
+   "name": "变色材料书籍_温湿力精表.xlsx.md",
+   "title_hint": "变色材料书籍_温湿力精表.xlsx"
+  }
+ ]
+}

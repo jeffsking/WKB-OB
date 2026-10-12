@@ -1,0 +1,23 @@
+{
+ "batch": "S2_Areas_Test Method_08",
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "source_pages": [
+  "WIKI/sources/3D面层CD拉伸强度测试.pdf.md",
+  "WIKI/sources/STM-00061 折页渗漏.docx.md",
+  "WIKI/sources/STM-00064 Diaper尺寸.docx.md",
+  "WIKI/sources/WI-19395外层材料剥离测试.docx.md",
+  "WIKI/sources/SAM吸收量(From China National Testing Method).docx.md",
+  "WIKI/sources/橡筋拉伸比测试.doc.md",
+  "WIKI/sources/SAM保水量（From China National Testing Method）.docx.md",
+  "WIKI/sources/STM-00069 重量.docx.md",
+  "WIKI/sources/STM-00049 绒毛纤维度.docx.md",
+  "WIKI/sources/mocon底膜透气率测试.docx.md"
+ ],
+ "concept_pages": [],
+ "entity_pages": [],
+ "comparison_pages": [],
+ "updated_existing": ["WIKI/concepts/WVTR 测试口径（失重法 vs 增重法）.md（追加 2026-09-29：MOCON 仪器法第三口径）"],
+ "manual_review": [],
+ "notes": "10 份全新源页全部落盘。方法参数均标口径（试样量/温度/压力/时间/液体）；同类方法差异已注（STM-00061 折页渗漏 vs 30°滑渗；WI-19395 vs STM-00075/STM-00232 剥离族；WI-66077 离心 vs WI-66078 滴水 vs CRC；WVTR 三口径）。SAM 吸收量/保水量两行待补将在批次 09 完成后随密度/水分测定一并回填 SAM Testing Methods 概念页。无商务敏感内容。单源阈值类数值均标[待验证]。"
+}

@@ -1,0 +1,149 @@
+# SEED: 回渗 Rewet
+# type: concept | 原引用数: 13
+# 原 Cited by 列表:
+#   - Absorbent Product Testing
+#   - Absorbent Technology
+#   - Absorbent Technology Introduction
+#   - Ancient Organic Dyes and Pigments Chemistry
+#   - Characterisation, testing and modelling of nonwoven fabrics
+#   - Cross-linked Cellulose and Derivatives
+#   - Fluid Absorption in High Bulk Nonwovens
+#   - Handbook of Nonwovens
+#   - Liquid Flow in Porous Structures
+#   - Nonwoven fabric finishing
+#   - Nonwovens in Absorbent Materials
+#   - Products and Technology Perspective
+#
+# 全库正文命中 198 页，399 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (9 句)
+   • 回渗测试方法的**参数矩阵底稿（英文）**： 的两个子表—— 与  + 。它是 Rewet Method Comparison（回渗测试方法横向对比） 的**底层数据表**：那张 PPT 讲的是"结论与口径"，本表给的是**逐方法 × 逐参数的原始取值**。
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+
+--- [[Rewet Test（回渗测试）]]  (7 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • **教训一（口径）**：**载荷是回渗的第一属性**。8 kg（TTM-00623 高压段）与 1.20 kg（GB 国标）读到的不是同一个物理量；引用回渗门槛前必须写明是哪一套。
+- **教训二（口径）**：**等待时间决定测的是"面层残液"还是"未吸收液"**。2 min 与 15 min 的差别是场景差别，不是严格程度差别。
+- **待补 **：U Rewet 国标回渗压块与 TTM-00623 低压段反渗板的**实际质量 / 压强**（两份原文均未给出）；STM-00059-2 的完整操作规程。
+   • 来源：Rewet Principles（回渗设计原则与测试方法关联）（K. Clemmer – ADT / I. Hoeger – Absorbent Systems，Updated 10/22/25）。
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (7 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+   • **Rewet 回渗量（Table 3, 20 g/m², five specimens）**
+   • **Single-hydrophilic topsheet (Table 4)**: first absorption ≈ 0.86–1.24 s, fifth absorption 7.39–8.62 s; rewet 3.89–6.17 g. Classic single-burst behaviour with rapid decay 单次强亲水、衰减快.
+- **Multi-hydrophilic topsheet (Table 5)**: first absorption 1.39–1.86 s, fifth 1.96–2.41 s; rewet 0.84–1.32 g.
+- **Commercial multi-hydrophilic finish trial (Tables 6 & 7)** — 25 g/m² air-through fabric from whitened hydrophilic ES fibre: embossed topsheet T1–T5 = 1.25 / 1.44 / 1.56 / 1.71 / 1.82 s with rewet 1.06 
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (6 句)
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • **假说**：*"LOKI liner results in lower rewet, and mechanism could be replicated by domestic vendors"*（LOKI 面层回渗更低，其机理**可被国产供应商复制**）。
+- **验证路径**：**通过毛细测试确认 fiber size / pore size 驱动因素**，再**请美国本土供应商复制关键属性**做试产料。
+- ⚠️ **尚未验证**：12/8/25 完成的是**材料属性与显微表征**，**毛细测试的结果本件未给出**。
+   • 来源：Rewet Principles（回渗设计原则与测试方法关联）（Updated 10/22/25，Draft 1/2/3 三版并存）。
+   • 1. **MicroCT 把残液定位到了面层本身** —— 源文：「MicroCT showed liner is holding fluid – new opportunity to reduce rewet」；**残液不只存在于 surge/芯体，面层自身就是一个持液库**。
+2. **一个决定机理归属的量级事实** —— 「**Rewet weight is much smaller than the blotter. Much of the fluid picked up as rewet with no pressure on blotter.**」（回渗重量远小于吸墨纸所吸；**在无压力下**已有大量液体被带起）⇒ **回渗的主贡献者是"本来就留在面层的液体"，不是压力下从芯体挤出的液体**。
+3. **当前产品的失败位置** —— 「Our current product leaves fluid in the topmost layer near the blotter.」**液体停在最靠近吸墨纸的最顶层**，即**失效发生在最外一层，而非芯体深处**。
+4. **新杠
+
+--- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]  (6 句)
+   • **Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）回渗进展 2025-12-02（非正式分享 · Depend 拆解与毛细机理）** — 一份以 Depend 为镜头（told through the Depend lens）的回渗进展汇报。核心方法论是：不靠试错，而是用**毛细压力法（Capillary Pressure Method）**定量测出每个摄入层「有多想留住液体」，再逐组件找根因、逐组件消残液。
+   • **Goal 目标**：Best in class rewet（回渗做到业界最佳）。
+- **Approach 方法**：**Systematically eliminate every drop of residual fluid from every component** 系统性地清除每一个组件中的每一滴残液。
+- 组件分解（teardown 拆解）：**Surge 导流层 / Liner 面层 / Core 芯体 / Interstitial 层间**。
+- 因果链（原稿图注）： →  →  密闭 Cradle 回渗由**解吸**驱动，解吸主要由**毛细作用**驱动，因此要逐层测毛细性。
+   • 反直觉现象：**Depend 毛细性更好，但整体排液反而更差**，原因是 **basis weight 克重更高**。
+- AD 是**低克重 + 高毛细性**——对 intake 摄入不利；AD 用 **curly fiber 卷曲纤维**来补偿摄入，**而卷曲纤维不影响回渗**（doesn't impact rewet）。
+- 反向启发：我方拟试用**含卷曲纤维的 wrapsheet 包覆层**，看能否抵消这类导流层带来的摄入损失。
+- **根因判定**：最可能是**孔径差异**；平均孔径（average pore size）AD 与 Depend **相近**，但**孔径分布 PSD 不同**——**Depend 分布更宽、大孔更多**。
+- **机理假设（B）**：**小孔中的液体不会被非常大的孔拉出来**，从而把液体**滞留（stranded）在导流层内**。与 **SIROCCO 学习**一致。
+- **结论性判断**：**Size distribution is just as important as overall size** 孔径分布与孔径大小同等重要。
+- 供应
+   • **AD 的面层 + 导流层单独就足以把 Depend 回渗从 ~0.51 g 降到 0.15–0.17 g**（降幅约 3 倍）。
+- **AD 的卷曲纤维没有额外的回渗收益**（no incremental rewet benefit）——它只对 **intake 摄入**有益。
+> 证据等级：**A（台架实测）**。这是一条**归因级证据**：回渗差距定位在摄入系统（liner+surge），不在芯体。
+
+--- [[Cradle Intake Test（Cradle 摄入测试）]]  (5 句)
+   • 1. **Cradle 试架的作用是"消除重力与贴合差异"**：产品被拉伸固定、前端面朝测试者、中心对准托架凹槽最底部，折页被捋开立起且不挡吸收芯——目的是让每片产品以相同的几何姿态接受注液。
+2. **三个参数在"母协议"中被表格化**：、（60 s）、，另加派生的 （mL/s），按 NB→XXL 六档给值。
+3. **注液点有三套坐标**：Diaper 通用、Pant 男、Pant 女——**同一尺码男女注液点相差 40 mm**（如 NB：男 75 / 女 35 mm），这是穿着解剖差异而非随意设定。
+4. **多冲击 + 固定间隔**是 method 的时间骨架：TTM-00148 为 3 次 × 15 min 间隔；KC U Rewet 为 2 次 × 5 min 间隔。
+5. **数据有效性被显式约束**：液体落到非吸收部分 / 流出折页落到模具 / 超过 5 min 才流转 → 三种情况下判无效并载明产品失败。这是本库少见的"失败判定"条款。
+6. **继承关系**：TTM-00623高低压反渗测试.docx、TTM-00279产品30°滑渗测试.docx、KC U Re
+   • 下游读数：Rewet Test（回渗测试）（U Rewet / 高低压反渗均继承本协议）、Liquid Diffusion Test（液体扩散测试）
+- 变体方法：Run-off & Leakage Test（滑渗与渗漏测试）（30° 滑渗把 Cradle 注液搬到斜面）
+- 物质基础：SAP性能指标（CRC AUL GBP Vortex）（Vortex / AUL 决定 intake 快慢）
+- 结构载体：ADL（导流层）、ATB双梳理面层（Dual-Card Topsheet）、REL增强层
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • **教训一（口径）**：**注液点必须带产品类型与性别**。Diaper / Pant 男 / Pant 女三套坐标差最大 40 mm，混用会直接改变 intake 读数。
+- **教训二（口径）**：**间隔时长是方法身份的一部分**。3×15 min 与 2×5 min 测的不是同一件事（前者含"长期未吸收"信息）。
+- **待补 **：Flow rate 列的真实量纲；U Rewet 的 Pause 口径（15' vs 5 min）。
+   • 1. **Open 与 Closed Cradle 会给出相反结论** —— 同一组面层处理量变更（0.65% → 0.3% → 0% Lertisan）：**Open cradle 摄入与 control 相近**，而 **Closed cradle 摄入显著变差**。**只报 open cradle 会漏掉全部代价。**
+2. **代价的性质是"竞争宣称敞口"** —— 源文直言：closed cradle 变差「**Likely leaves us open to competitive claims**」。**摄入指标的用途不只是安全裕度，也是宣称防御面。**
+3. **这是一个复发失败模式，不是个案** —— **60 gsm CT8 surge（Shalag 3）**相对 **CT5（ATACAMA）**改善了回渗，但**牺牲了 closed cradle 摄入**；源文明确指出这与 **SIROCCO** 的历史教训同构：「found rewet solution at expense of closed cradle intake」。**"回渗解法牺牲 closed c
+
+--- [[2025.03.13 - GML update.pptx]]  (5 句)
+   • GML-site update on the **GRIFFIN rewet** program (2025-03-13): a Feb-2025 GML trial tearing down SAM/Fluff vs ActivTech Hybrid cores and liner bond/treatment levers for rewet, benchmarked against Always Discreet on TTM-00672 Closed Cradle.（GRIFFIN 回渗项目的 GML 站点更新（2025-03-13）：2025 年 2 月 GML 试产拆解 SAM/Fluff 与 ActivTech Hybrid 芯体及面层键合/处理杠杆，以 TTM-00672 Closed Cradle 对标 Always Discreet。）
+   • **Background 背景**: An earlier ActivTech (AT) Hybrid core test showed higher rewet than SAM/fluff; the team first believed AT Hybrid lacked embossing, but a double-check confirmed it was present.（背景：早前 ActivTech Hybrid 芯体回渗高于 SAM/fluff；曾误以为缺压花，复核确认其实有。）
+- **Build 试产**: Nov-2024 GRIFFIN HUT product; ADL-produced cores, GML-produced finished product, tested at GADT lab.（2024-11 GRIFFIN HUT 产品；ADL 制芯、GML 制成品，GADT 实验室测试。）
+- **Liner hypotheses 面层假设 (Feb trial)**: Fitesa 12gsm SB liner with (a) Oval bo
+   • Rewet measured by **TTM-00672 Closed Cradle**; Always Discreet (25-0309) benchmark rewet ≈ 0.4 g. AT Hybrid CD-Rod variants measure ~0.1–0.3 g.（回渗按 TTM-00672 Closed Cradle；Always Discreet 基准约 0.4 g，AT Hybrid 横向杆方案约 0.1–0.3 g。）
+- 1st Closed Intake also on TTM-00672 Closed Cradle.（首次闭合摄入同按该方法。）
+   • Rewet in the AT Hybrid platform is tractable via liner bond openness and Lertisan treatment level, with a clear intake/leakage trade-off.（AT Hybrid 平台回渗可通过面层键合开放度与 Lertisan 处理量调控，存在明确的摄入/防漏权衡。）—— 支撑页：Rewet Test（回渗测试）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- The AT Hybrid construction reduces fluff (8.5→3.8 g) and SAP (19.9→15.3 g) vs SAM/fluff, consistent with a thinner, adhesive-bound core.（AT Hybrid 较 SAM/fluff 减少木浆（8.5→3.8g）与 SAP（19.9→15.3g），符合更薄、胶黏结合的芯体思路。）
+
+--- [[2026-05-05 - QUINN.pptx]]  (5 句)
+   • K. Clemmer's "Depend War on Wetness" deck (2026-05-05) framing rewet as a competitive battle vs Always Discreet and positioning **capillarity** (Young–Laplace) as the engineering lever to close the gap.（Clemmel 的「Depend 抗湿战役」PPT（2026-05-05），将回渗定位为对 Always Discreet 的竞品攻坚战，并以毛细作用（Young–Laplace）作为缩小差距的工程杠杆。）
+   • **Competitive pressure 竞争压力**: K-C lags Always Discreet (AD) on rewet; AD runs a "40% DRIER" competitive claim (160 mL loading, 50 s wait).（金佰利回渗落后 AD；AD 打出「干爽 40%」竞品宣称。）
+- **History 历史**: Prior programs cut rewet via **surge** and **embossing**; current biggest opportunities are in *other materials*.（历史方案靠 surge 与压花降回渗；当前最大机会在其它材料。）
+- **Current approach 当前策略**: Goal = best-in-class rewet (DPU2). Method = systematically identify and eliminate every drop of residual fluid from every component via
+   • Surge material flagged best-for-rewet: **Strahag SS7CT8H60** (SIROCCO-identified).（surge 材料中回渗最优：Strahag SS7CT8H60。）
+- Capillarity fundamentals: residual-fluid drivers are **wettability (θ)** and **pore radius (R)** via Young–Laplace ΔP = −2γcosθ/R. Expanded capillarity test capability targeted by end of June.（毛细作用机理由 Young–Laplace 方程支配，残留液体由润湿性 θ 与孔径 R 驱动；扩展毛细测试能力目标 6 月底。）
+   • Rewet is now a materials/capillarity problem, not just a surge+embossing problem; lowering wettability dries the liner but risks leakage.（回渗已是材料/毛细问题，非仅 surge+压花；降润湿性使面层更干却增渗漏风险。）—— 支撑页：Rewet Test（回渗测试）
+- A quantifiable capillarity test (with microCT pore-size mapping) is positioned as the central rewet-design tool.（可量化的毛细测试（配 microCT 孔径成像）被定位为回渗设计核心工具。）
+
+--- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]  (5 句)
+   • A K-C internal statistical study (Nov 2022) benchmarking the company's in-house absorbency test methods against industry standards — establishing that capacity/intake/rewet numbers are method-dependent and cannot be compared 1:1 across methods.（金佰利 2022 年 11 月内部统计研究，将公司自研吸收性能测试方法对标行业标准，结论是容量/摄入/回渗数值依赖方法，不可跨方法 1:1 比较。）
+   • **Business objective 业务目标**: Compare K-C methods to other methods used in industry for capacity, intake, and rewet.（对比 K-C 方法与行业其他方法在容量、摄入、回渗上的差异。）
+- **Methods 方法**: Capacity (g) — STM-00033 vs **ISO 11948**; Intake (s) & Rewet (g) — TTM-00672 vs **NWSP 70.9**.（容量：STM-00033 对比 ISO 11948；摄入与回渗：TTM-00672 对比 NWSP 70.9。）
+- **Design 设计**: n = 32 per product and per test, 4 lots per code.（每个产品/方法 n=32，每牌号 4 个批号。）
+- **Products 产品 (6)**: Depend Fit Flex (DFF), Depend Protection Plus (DPP), Kirkland Sign
+   • Per-product highlights (rewet, TTM-00672):
+- Depend Fit Flex (DFF) ≈ 0.44 g; Depend Protection Plus (DPP) ≈ 0.46 g — highest rewet.（回渗最高。）
+- Always Discreet (AD) and Kirkland (KS) ≈ 0.11–0.12 g — lowest rewet.
+- Capacity (ISO 11948): Assurance highest (≈1317 g), Always Discreet lowest (≈871 g).
+   • K-C internal STM/TTM numbers are **not** directly interchangeable with ISO/NWSP external numbers; any competitive benchmark must state the method.（K-C 内部 STM/TTM 数值与外部 ISO/NWSP 不可直接互换，竞品基准必须注明方法。）—— 支撑页：Rewet Test（回渗测试）、芯体测试方法与验收基准（STM）
+- Always Discreet is consistently the lowest-capacity product in this panel; Depend family runs higher rewet under the TTM-00672 protocol.（Always Discreet 在该面板中容量始终最低；Depend 系列在 TTM-00672 下回渗偏高。）
+
+--- [[Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）]]  (5 句)
+   • K. Clemmer（ADT）**2025 年 8 月的回渗季度汇报**。结构是「**设计原则 → 项目落地 → 竞品分析**」三段式：先给出 **Flowback / Desorption 两套原则集**，再用 **五个项目（BUFF BABY / GRIFFIN / LUGH / LOKI / AC4 4U）**的实测数字证明原则有效，最后用 **P&G 专利地图 + 竞品互换实验**定位外部基准。本库价值：它是 Rewet Principles（回渗设计原则与测试方法关联）（2025-10-22，Draft 3）**在时间上的前一版快照**，且**独有五个项目的量化战绩与互换实验结论**。
+   • **总纲**：*"Tackling rewet on all fronts to deliver best-in-class"*，方法论是*"Systematically eliminating residual fluid from every component"*——**逐层消灭残液**，覆盖 **GRIFFIN 无处理面层 / LOKI 面层驱动因素 / Ourly 纤维复合 / 芯体 / BUFF BABY 分析 / Liner-Surge 压花 / SAM 去溶胀 / 间隙空间（interstitial spaces）/ 界面 DOE** 九条战线。
+   • **Rewet 衡量产品干爽；EWL / STEWIE 衡量皮肤干爽** —— 二者**用途不同，不可互换**。
+- **下一步（当时）**：8 月 BUFF BABY 深挖 → 9 月竞品分析 → 9 月界面试验 → 10 月 GRIFFIN HUT 结果 → 10 月 SAM 影响与其他芯体驱动（DML 试产）。
+- **再下一步**：**回渗测试方法优化**、**EWL/STEWIE** 方法建设。
+   • **回渗 = Flowback + Desorption 两套机理，各有原则集；贯穿原则是评估变异与能力。** —— 支撑页：Rewet Principles（回渗设计原则与测试方法关联）
+- **BUFF BABY 双目标：LPR 0.15 g / HPR 0.30 g；HPR 的 <0.3 g 机理未确认。** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- **五项目实测：GRIFFIN 0.26→0.20；LUGH 0.41→0.34；LOKI 0.62→≤0.32；AC4 4U 3.8→1.6 g ⇒ 同一套原则跨品类有效。** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **互换实验：AD 面层+导流层足以把 Depend 回渗降到 AD 水平；AD 卷曲纤维无额外回渗收益但利于摄入。** —— 支撑页：Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）
+- **大纤维（1.3 d → 2.0 d）降高压回渗并
+

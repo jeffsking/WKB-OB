@@ -1,0 +1,59 @@
+{
+ "batch_id": "W2-4",
+ "items": [
+  {
+   "media_id": "session_3867e2b60070d7dc3f413086d0b0036e_6a7bfe3b1b653d694a25cc9e7359c3ae710b",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要.md",
+   "name": "录音纪要.md",
+   "type": "session"
+  },
+  {
+   "media_id": "session_3867e2b60070d7dc3f413086d0b0036e_6a7aced7e8d2f93a13f6d951d066383ea94d",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260814232451_1.md",
+   "name": "录音纪要_260814232451_1.md",
+   "type": "session"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a023b76bd972e68484b25db15c9815001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与宝洁交流及行业情况.md",
+   "name": "与宝洁交流及行业情况.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ac9e2f99de81cda508e315a7e7f8e25e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/江南高纤公司介绍及产品技术交流会议纪要.pdf.md",
+   "name": "江南高纤公司介绍及产品技术交流会议纪要.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a06ba87bd57bb7959a404382e9fd6a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司介绍与业务交流.md",
+   "name": "公司介绍与业务交流.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a023b79c837ea3a5c6b9b0d23c6ecd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合纤维生产及性能探讨.md",
+   "name": "复合纤维生产及性能探讨.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_019fda28b7e37d09881ff1906199e8bd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260806171934.md",
+   "name": "录音纪要_260806171934.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_86d9c61b899676a8b77b965ff171650c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/把压力变成颜色.md",
+   "name": "把压力变成颜色.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_140941d299df3b855329e5571d8b65e0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/气味管理技术介绍.md",
+   "name": "气味管理技术介绍.md",
+   "type": "soundrecording"
+  }
+ ]
+}

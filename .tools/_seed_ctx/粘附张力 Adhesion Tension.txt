@@ -1,0 +1,172 @@
+# SEED: 粘附张力 Adhesion Tension
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 155 页，233 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (6 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Source wording (p.196): "while free annealing reduces molecular orientation and tenacity, it increases diameter and denier of the fibre. With tension annealing, there is generally an increase in tenacity but no significant change in diameter or denier." The explanation offered is the **crystal dispersion model 结晶分散模型** (Valk et al., pp.196–197): two limiting configurations — "low temperature / high tension" versus "high temperature / low tension" — shift the distribution of crystal size and of p
+   • **CDT 临界溶解时间** (p.200): "estimates the time needed to dissolve a filament in a solvent of known concentration at a given temperature." Galil reports a correlation coefficient of **0.98** between density and log CDT, allowing crystallinity to be assessed indirectly (pp.200–201).
+- **Bending-recovery method 弯曲回复法** (Prevorsek et al., p.201): filament wound on a mandrel, set under tension for **10 min**, then quantified as **S = (N2/N1)[1 - (L2/L1)^(1/2)] × 100**.
+- Settability ranking (p.201): "po
+   • Strength assessment from the source itself: the melting–recrystallization mechanism is strongly supported by multiple independent experiments; the tension effect on Tg/tenacity relies mostly on one group (Valk) and is self-consistent but single-sourced; the triacetate section rests on only two early studies and is rated medium-to-weak.
+
+--- [[Hygiene Absorption Model]]  (4 句)
+   • **4. 微尺度热力学与宏尺度水力学对接：** 以**杆/管模型**取代教科书平面座滴法，给出**单根纤维的毛细拉力** F = γLV·cos θeq·C —— 即「**不要在平板上测吸收性**」，纤维级毛细拉力须用杆模型评估；这一处修正改变了「接触角测试」对芯体的含义（源：Surface Tension and Surface Energy）。
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[断裂力学 Fracture Mechanics]]  (4 句)
+   • **定义待补（引用来源未给出明确定义）** —— 两份引用来源都只把它列为胶接科学的**覆盖主题**，未给出本库口径的定义：断裂力学是胶接参考书 coverage 的一部分（与胶接热力学、表面力、润湿、胶接理论、定量测量并列）（源：Book Review Handbook of Adhesion by Packham）。
+   • Traceable operational content 可溯源的操作内容: in the adhesion literature it appears as the **fracture-energy formalism behind joint strength** — peel strength decomposed into an intrinsic fracture energy and a viscoelastic dissipation term, （源：Adhesive Handbook Part 2 Fundamental Aspects）.
+   • **粘弹性耗散而非界面热力学主导强度。** , and "the value of ψ is usually far higher than that of E and the energy dissipated can then be considered as the major contribution to the adhesion strength G"（源：Adhesive Handbook Part 2 Fundamental Aspects）. ⇒ peel rate 与温度是主变量。
+- **柔性胶层通过扩大断裂过程区降峰应力。** "Flexible or semirigid adhesives produce joints having higher short-term strength and fracture toughness compared to rigid adhesives."；柔性胶层扩展 fracture process zone 以降低峰值应力（源：Adhesive Handbook Part 2 Fundamental Aspects / 
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[Book Review Handbook of Adhesion by Packham]]  (4 句)
+   • **Handbook of Adhesion（Packham 第2版）的书评**——250+ 篇短文、60+ 位专家撰写的胶接科学与技术最全面参考，覆盖胶接热力学/表面力/润湿/断裂力学/胶接理论/定量测量/粘合胶接/密封胶/复合材料/涂料/橡胶/环境可持续性，是学生教科书与研究专著之间的桥梁。
+   • **Handbook of Adhesion 简介**：David E. Packham（ed.），John Wiley & Sons, Chichester, UK, 2005，liv+672 页，$270，ISBN 0-471-80874-1。
+- **胶接定义**：粘附是微观分子力作用下的表面相互作用与宏观力学性能（剪切强度、剥离强度、粘性）的多尺度现象。
+- **覆盖领域**：基础科学（物理、化学、生物）、材料科学与工程、医学；工业应用包括复合材料、纺织品、印刷、涂料等。
+- **内容范围**：250+ 篇短文，60+ 位专家撰写；交叉引用、自包含；覆盖胶接热力学、表面力、润湿、聚合物、断裂力学、胶接理论、定量测量、粘合胶接、密封胶/沥青、焊接与结构工程、复合材料/涂料/橡胶、环境考量/可持续性/可再生原料。
+- **读者定位**：从学生到专业研究人员的桥梁——填补简化教科书与专注研究专著之间的空白。
+- **目录**：字母表+分类双目录，便于定位具体信息与获得主题概览。
+- **评价**：高度推荐作为可靠、简洁的信息来源。
+   • **Handbook of Adhesion 是胶接领域最全面的参考**——250+ 篇短文覆盖从基础理论到工业应用的全谱系。
+- **双目录设计（字母表+分类）**——便于快速定位具体信息与获得主题概览，是专业参考书的标杆设计。
+- **学生与专业研究的桥梁**——填补简化教科书与研究专著之间的空白。
+- **环境考量与可持续性**——第2版特别关注环境考量、可持续性、可再生原料在胶接技术中的角色。
+   • Book Review Handbook of Adhesion by Packham
+- Adhesive Handbook
+- 胶接热力学 Adhesion Thermodynamics
+- 润湿 Wetting
+- 断裂力学 Fracture Mechanics
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (4 句)
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+   • **Static friction is always greater than kinetic friction** (p.263). Staple friction governs yarn properties; filament friction governs torque transmission and filament migration in false-twist and air-jet texturing.
+- Methods: block-on-fibre-mat, yarn-to-metal and yarn-to-yarn tension methods based on **Amonton's law** (p.264): **T2/T1 = e^(μθ)**, obtaining the friction coefficient from the tension ratio around a friction pin. Instruments cited: Rothschild F-Meter, Zweigle.
+   • 1. **Crimp testing is directly usable for hot-air bonded staple**: crimp frequency (ASTM D3937) and percentage crimp are the standard descriptors of ES staple; both affect carding openness, web loft and the final bulky hand of the through-air bonded layer. There is no substitute for them in this chapter's framework, and the source's warning about the vibroscope needing extra tension to remove crimp is a real trap when measuring crimped ES staple.
+2. **CRE principle** underpins essentially every 
+
+--- [[Surface Tension and Surface Energy]]  (4 句)
+   • Chapter 2 (pp. 74–109) supplies the missing micro-level to Chapter 1's macro hydraulics: it fixes surface tension as a thermodynamic quantity, establishes Young's equation as an energy identity, and — most usefully for hygiene R&D — replaces the textbook flat-plate sessile drop with a rod/tube model that gives the capillary pull on an individual fibre, F = γLV·cos θeq·C.（中文：第 2 章为第 1 章的宏观流体力学补上微观热力学，并以"杆/管"模型取代平面液滴，给出单根纤维的毛细拉力。）
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (3 句)
+   • 1. **残液的两个出口条件由 Young-LaPlace 方程给出**：**ΔP = −2γcosθ / R**。毛细压由**润湿性（θ）**与**孔径（R）**共同决定。**毛细压越高 → 孔越想把液体留住；解吸能越高 → 纤维越难"晾干"**。因此降低残液只有两条路：**降低润湿性（提高 θ）**或**加大孔径 R**（以及让孔径分布收敛）。
+2. **孔径分布（PSD）比平均孔径更重要**：假说是**液体滞留在极小孔里，因为旁边没有足够大的孔把它拉出来**。双峰/宽分布会造成"抽不出来"的死角；对策是**让纤维尺寸趋同以收窄分布**，并**减少孔的总数以减少可拘留液体的位置**。
+3. **润湿性这条路有硬冲突**：去掉面层润湿处理确实降回渗（0.26 → 0.20 g），但**漏液率从 3.2% 升到 4.6%**——因为面层不亲水就拦不住涌流。**同一处改动同时影响"干"与"漏"，必须成对验收**；且该冲突在不同品类上结论不同（未处理面层在 BCC 可行，在成人护理上不可行）。
+4. **加大孔径这条路相对安全**：粗纤维 → 大孔径的面层（LOKI 类）在预测与实测上**
+   • 机理上游：Liquid Modes（TL-1607 液体四态）（残液主要位于 Mode 3/4）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（残液 → 解吸型低压回渗）
+- 测量手段：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（解吸毛细压、解吸能、残液量的直接度量，且为当前瓶颈）
+- 结构对照：毛细梯度设计（用梯度把液体往下抽）、Median Absorption Pressure Gradient（中值吸收压梯度）（竞品侧的同原理量化版）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）
+- 材料：Resilient Surge（PET 回弹导流层）、绒毛浆（Fluff Pulp）
+   • *"**Film surge** is non-fibrous (so has lower surface area) and can be a **one-way valve**"*
+- *"**Less wettable fibers** reduce adhesion of fluid and can be a **buffer between core & blotter**"*
+
+--- [[机械变色 Mechanochromic]]  (3 句)
+   • **Four technology routes / build-not-buy 四条路线与自建结论.** The Mechanochromic block maps **M1–M4 four routes**, screens four material candidates, and lands on **「build, not buy」**（自定义阈值 + 自定义印刷工艺）——推翻「买一款商用压力材料」的初始假设（源：Mechanochromic Materials Technical Review（EN v3, 2026-08））。Day-1 主假设被显式证伪：**无成熟 SKU，必须 build 而非 buy**（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判））。
+- **Three routes named 三条命名路线.** 力致变色分支含 **Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几
+   • 各候选的**精确力阈值范围**、**可逆循环次数**、**皮肤/口服安全检测报告**均缺（原文标 [A]/[E]）（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判））。
+- **CTI 压力墨下移至卫材低张力的可行性与报价**未验证；库内**无报价或价格区间**（源：力致变色材料研究报告（2026-08-02·纸尿裤应用研判）、CTI (Chromatic Technologies)）。
+- **R1 阈值漂移与 R2 信号弛豫均为 HIGH 风险**；**信号弛豫的假阴性比没有指示器更糟**（源：Mechanochromic Waistband Tension Indicator Proposal（2026-08-19））。
+- **两种力度量口径不可直接互换**：芯体内/体表载荷（kPa）与带体对皮肤的接触压力（mmHg）；跨页比较前须人工确认口径（源：智能尿裤功能层）。
+- **精确门槛数值**：力致变色材料研究报告的完整 DOI 为 10.1177/00405175251352163，市场规模来源 Marketintelo——但各量化边界仍待原文补足（源：力致变
+   • Mechanochromic Materials Technical Review（EN v3, 2026-08）
+- 力致变色材料研究报告（2026-08-02·纸尿裤应用研判）
+- Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels
+- Chromism Taxonomy（变色现象分类）
+- Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）
+- Structural Colour Mechanochromism（结构色力致变色）
+- Active Diagnostic Zones（主动诊断分区）
+- CTI (Chromatic Technologies)
+- 智能尿裤功能层
+- Mechanochromic Routes Comparison（力致变色技术路线对比）
+- Geometric Optical Mask（几何
+
+--- [[结构色 Structural Color]]  (3 句)
+   • **合身 / 过紧指示的路线选择**：连续合身监测需**可逆路线（M2 结构色 / M3 CLCE）**，而一次性过紧报警可用**半可逆路线（M1 力色团）**；可逆性是本场景**硬要求**（源文原话 "reversibility is a non-negotiable requirement"）。（源：Mechanochromic Materials Technical Review（EN v3, 2026-08）、Structural Colour Mechanochromism（结构色力致变色））
+- **HPC 的幂律关系支持连续合身监测**：照护者可在调整腰围后**看到颜色回到安全基线**，把「结构色可逆性最好」落到连续监测场景。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **可食性（edibility）是一等指标**：终极风险被定义为**婴儿误食耳贴 / 腰围**，这改变了材料筛选项，也是 **HPC 被称为黄金标准的唯一理由**。（源：Active Diagnostic Zones（主动诊断分区））
+- **监测 vs
+   • **尿液环境下的稳定性是所有变色路线共同的未验证项** 。（源：Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）、尿液模拟液（Urine Analog））
+- **HPC 存在明确的应变上限（>25–27% 颜色松弛）**，是器件设计硬边界，但配套的回复曲线与循环寿命未见 。（源：The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线））
+- **活性介晶（reactive mesogens）对婴儿产品的毒理尚未解决** 。（源：Structural Colour Mechanochromism（结构色力致变色））
+- **角度依赖（非虹彩化）尚未在近期解决范围内** 。（源：Structural Colour Mechanochromism（结构色力致变色））
+- 上述数据在来源中的**页码待核** 。
+   • Structural Colour Mechanochromism（结构色力致变色）（结构色路线总纲、共同失效模式与三条教训）
+- The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）（HPC 胆甾相自组装、RCP 反射与应变上限）
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）（CLCE / MET / 全息薄膜定量数据与热致变色参照系）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 路线分类与约束满足选型）
+- Active Diagnostic Zones（主动诊断分区）（可食性一等指标、监测 vs 记录）
+- Intelligent Textiles and Sports Clothing（结构色的非色素定义与 Morphotex 参照）
+- 引用的 6 个来源页：Hologr
+
+--- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]  (3 句)
+   • 一份**内部立项/选型评估报告**（2026-08-24），为「腰围与侧区弹性体的松紧状态能否被肉眼看见」这一问题给出四条技术路线的排序、专利窗口判断与验证实验清单；它把 Elastic Tension & Creep（橡筋张力与回缩率） 这一**实验室指标**推向**消费者可感知的指示功能**。
+   • **门槛不是变色材料，而是蠕变工况下 8 小时后的标定有效性** —— 支撑页：Elastic Tension & Creep（橡筋张力与回缩率）
+- **目标应变窗口为 0–20%（常在 0–10%），由穿戴实测给出而非材料极限给出** —— 支撑页：Skin Contact Pressure（皮肤接触压力）
+- **路线 C（印刷图形）零新增供应链、成熟度最高，是唯一可立即量产的方案** —— 支撑页：Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+- **路线 A 的 < 15.9% 线性段与 30,000 次循环是性能天花板，但受制于特种化学品供应** —— 支撑页：Structural Colour Mechanochromism（结构色力致变色）、Mechanophore Mechanochromism（机械力致变色分子）
+- **尿液环境下的稳定性是所有变色路线共同的未验证项** —— 支撑页：尿液模拟液（Urine Analog）
+- **热致变色湿感指示是可对标的成熟参照系，其「隔热/RH 因子误触发」教训直接迁移** —— 支撑
+   • 概念：Elastic Tension & Creep（橡筋张力与回缩率）、Mechanochromic变色纤维、Structural Colour Mechanochromism（结构色力致变色）、Mechanophore Mechanochromism（机械力致变色分子）、Graphic Sheet in Non-Stretch Zone（非弹性区图形片）、Thermochromic Microcapsule (Leuco Dye System)、Wetness Indicator Ladder（尿湿指示阶梯）、Sensor-Equipped Absorbent Article（含传感器吸收性物品）、Skin Contact Pressure（皮肤接触压力）、尿液模拟液（Urine Analog）
+- 实体：The Procter & Gamble Company（宝洁）、Kimberly-Clark（金佰利）
+- 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）
+

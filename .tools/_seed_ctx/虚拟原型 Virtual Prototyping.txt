@@ -1,0 +1,89 @@
+# SEED: 虚拟原型 Virtual Prototyping
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#
+# 全库正文命中 13 页，16 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (2 句)
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]]  (2 句)
+   • **Throughput Plan（3/19）**列出六个 HOT TOPICS：实验室摆位（吸液实验室最多放 3 台）、单机 vs 双机（理想是双机；若只有 25 k 则 ICT 两台 + AC 一台）、ICT 台数、资金（设备属资本项，Maria 与采购 Raegan 沟通例外）、求解器归属（须把维护责任并入 Virtual R&D 与 ICT 的讨论）、送样预算（2026 年约 300 个潜在样品）。
+   • **Solver 相关两表**确定：由 Andrew Baker（Virtual R&D / 建模）基于 Steve Rocke 既有软件做求解器，改成 web 端，输出 Bn 与解吸能（desorption energies），并写入 Kay 提供的 Lab Vantage 汇总模板；预期工期约 1 个月；维护归属被单独追问（操作系统变更、bug、语言过时、需求变更四类）。
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）]]  (1 句)
+   • 1. **回渗对模型提出的不是"精度"而是"可分辨性"要求** —— 源文明确：需要检出**占总液量 0.03%** 的差异，而**"目前已验证的模型很可能不够精确（likely not accurate enough）"**。**这是本库迄今对仿真精度最硬的一条量化门槛。**
+2. **与数值扩散直接冲突** —— 若离散化本身能伪造出**几十个百分点**的利用率差异（见上方 v9 证据），那么**万分之三量级的信号完全落在数值噪声之内**；**用当前网格与格式做回渗预测，结论不可读**。
+3. **"跑通"与"够用"之间的量级差** —— v10 把运行时间压到 ~0.5 s、质量守恒误差 <0.01 mL（**绝对误差**），但 **0.03% 是相对总液量的分辨要求**；**守恒误差小 ≠ 分辨力够** —— 这是两类完全不同的指标。
+4. **因此"先验证再使用"不是流程洁癖** —— 源文的处置是：**ALBA 可能有用，但必须用 GRIFFIN 实验验证**后才排入 Virtual R&D 排期；**模型必须绑定一个物理实验基准**。
+5. **可迁移判据** —— 给任
+
+--- [[Rewet Test（回渗测试）]]  (1 句)
+   • 容量：**CRC（STM-00219）** / **Functional capacity（TTM-00638）**、**Retention Capacity（STM-00033）**、Target zone capacity / Virtual functional capacity
+- 可达性：**GBP（STM-00229）**、**Composite permeability（TTM-00006）** / **X-ray imaging（TTM-00631）**、**Bromocresol SAM 分布（JA-22229）**、**Mannequin Forced Failure（TTM-00459 / TTM-00200 / TTM-00660）**\* / AFEA
+- 受压持液：**AUL under pressure at rewet pressure**；⚠️ **"SAM deswelling at rewet pressure"= under development**、**"AUL Core deswelling test"= needed**
+- 及时锁液：*
+
+--- [[Specific Air Volume]]  (1 句)
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+
+--- [[Adhesive Handbook Part 1 History and Information Resources]]  (1 句)
+   • **胶-密界限模糊** — "Only in modern times have we attempted to differentiate between adhesives and sealants. For the most part it has been a vain attempt, as many so-called adhesives also serve as sealants, and all sealants have adhesive properties." [Line 98-103]
+- **天然胶仍主导** — "Today, even in the most developed countries, natural adhesives dominate the market because they are less expensive than synthetic-based materials, and they perform the intended function." [Line 463-471]
+- **历史即路线规划工具** — "As 
+
+--- [[An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks]]  (1 句)
+   • The structure–photoresponse causal chain of photoactive main-chain LCPs is validated at the atomic level: UV-induced trans→cis isomerization of the 4-methylstilbene unit causes large-scale backbone contraction, driving shell morphologic collapse and vanillin release.（光敏主链液晶聚合物的"结构–光响应"因果链在原子级被验证：UV 诱导的 trans→cis 异构引发大尺度主链收缩，驱动壳层塌缩与释放。）
+- cis destroys liquid crystallinity: trans-stilbene is extended/rod-like and LC-capable; cis loses the linear form required for LC, hence isothermal isotropizatio
+
+--- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]  (1 句)
+   • 1. **子品牌差异化认知低**：品牌总认知度高，但消费者对子品牌（如 Huggies 旗下的各 summer 变体）**几乎记不住任何事实**。成因未定：是子品类过多、还是消费者记忆容量饱和、还是年轻世代 + 市场参与者增多。
+2. **100% 竹纤维 vs 掺混**：正在评估 100% 竹纤维方案的成本；另一思路是**加一定比例竹纤维、主体骨架仍用热熔纤维**，未来可考虑超声波工艺覆盖该材料（tier 7 下柔软度可能不是最关键）。
+3. **竹纤维比例的两难**：研究建议右侧方案为 **20% 竹纤维**，而当前实际只用 **5–5.5%**；两个选项都有顾虑，需在首批分析后决定。
+4. **温变指示剂的技术可行性**：
+   - 已取得样品并做 prototyping；
+   - 需要**微胶囊包覆**技术才能实现该功能，已接触的供应商称其微胶囊由某方提供；
+   - **温度阈值的精确设定未验证**：希望起点设在约 36.8–37，并在约 −2.5 到 −2.8 的区间触发变色 —— 但**尚不确定能否精确设定到该精度**；
+   - 最大工作是**找到温度标尺的定位位置*
+
+--- [[Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）]]  (1 句)
+   • **P&G 专利版图（IP real estate）复盘**：发现很多思路；P&G 在**以整体系统视角思考"把液体驱动到想去的地方"**，与本团队当前思路相似；其中亦含**建模**方向。
+- **建模精度缺口（关键量化）**：需要在**占总液量 0.03%** 的量级上检出差异；**"目前已验证的模型很可能不够精确"**。
+- **ALBA 可能有用**，但**必须用 GRIFFIN 实验验证**；已加入 **Virtual R&D bullpen（资源空闲时排期）**。
+- **AD（Always Discreet）面层分析**在进行中，结果 4 月出。
+

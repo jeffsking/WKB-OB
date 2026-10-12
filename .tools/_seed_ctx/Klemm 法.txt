@@ -1,0 +1,53 @@
+# SEED: Klemm 法
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Absorbent Product Testing
+#
+# 全库正文命中 4 页，6 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Washburn Equation]]  (2 句)
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[Absorbent Product Testing]]  (2 句)
+   • **分层测试哲学**：测试必须遵循"构成材料 → 二维结构（网布/片材）→ 装配产品"三级递进，每层有独立指标体系与测试方法，"The single most important property of interest is the customer satisfaction"，需逐层筛选 + 最终 in vivo 现场验证。
+- **三类方法定位**：标准方法（ASTM/AATCC/INDA/TAPPI/EDANA/Scan-C，用于 process control、QC、ranking、R&D）；研究工具（fluid intrusion/extrusion，提供机理洞察）；in vitro / in vivo（企业专有，模拟用况，是竞争壁垒来源）。
+- **界面能第一性原理**：Wilhelmy 湿附力法 → F_w = γ_lv · P · cos θ，可获前进/后退接触角、附着功 W_A = γ_sv(1+cos θ)、润湿指数 WI、Hysteresis = W_AR/W_AA、表面能（dispersion/polar/total）。
+- **标准方法映射**：INDA I
+   • 父书：Absorbent Technology
+- 概念：Wilhelmy 湿附力法 · 达西定律 Darcy's Law · 回渗 Rewet · 湿态压缩模量 · WRV 水保留值 · Klemm 法
+- 相关章节：Nonwovens in Absorbent Materials · Products and Technology Perspective · Computational Modeling in Absorbent Technology
+- 标准组织：ASTM · AATCC · INDA · TAPPI · EDANA · Scan-C
+
+--- [[WRV 水保留值]]  (1 句)
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[Absorbent Technology]]  (1 句)
+   • Nonwovens in Absorbent Materials — 第 10 章｜无纺布在吸液材料中的应用（**四要素架构、12 种成形工艺、SMS/SMMS、ADL 密度梯度**）
+- Absorbent Product Testing — 第 11 章｜吸液材料测试技术（**测试金字塔、Wilhelmy 法、INDA/Klemm/Cobb、企业专有 in vitro**）
+- Products and Technology Perspective — 第 12 章｜产品与技术视角（**三层功能模型、绒毛浆 51g→29g→16g 演进、子层、生物纤维素远期路线**）
+

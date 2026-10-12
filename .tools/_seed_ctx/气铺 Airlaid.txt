@@ -1,0 +1,115 @@
+# SEED: 气铺 Airlaid
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Computational Modeling in Absorbent Technology
+#   - Nonwovens in Absorbent Materials
+#
+# 全库正文命中 32 页，53 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Nonwovens in Absorbent Materials]]  (5 句)
+   • 卫材四部件（Top Sheet / Core Body / ADL / Back Sheet）的**工艺-性能-成本三角**总纲：以四要素因果链为骨架，为每类部件匹配成形工艺（airlaid / spunbond / meltblown / spunlace / SMS）与验收参数。
+   • **无纺布定义与双属性**：非针织、非机织、非编织、非纸的纤维/微纤维纤网，关键判别是"absence of a yarn element"。适合作为吸液材料的两大根本原因： + 。
+- **四要素因果链**：Constituent Fiber → Assembly Structure（Web Assemblage）→ Type of Bonding → Finish。"Each of these factors can have an effect on the absorbency of the resulting structure"——采购评审须按序追问而非单一比价。
+- **纤维吸液机制二元性**：亲水溶胀纤维通过 fiber imbibition + fiber swelling 吸收；疏水纤维仅靠毛细管与结构空隙（capillary and structure voids）。直接决定面材（顶面）与芯体选材逻辑。
+- **粘合-吸液权衡**：多数 binder 疏水，"the net effect usually is some reduction in absorbenc
+   • 1. **双属性论**：无纺布适合吸液结构的两个根本原因是单位质量储液能力高（high bulk）与原料-成品转换成本低——构成后续一切工艺-产品选择的底层约束。
+2. **四要素因果链**：纤维→排列→粘合→整理是因果链而非平行关系，采购评审必须按序分层评价供应商。
+3. **粘合-吸液权衡**：化学粘合（binder 多疏水）通常削弱吸液；机械粘合保持本征吸液但限制溶胀、增强抗压回弹——是面材/芯体粘合方式选择的核心权衡。
+4. **ADL 密度梯度机理**：上 1/3 低密度（大孔隙、快速获取）+ 下部高密度（细密毛细管、高压差），是 Ch3 毛细管压力原理在产品的直接工程化落地。
+5. **范式转移信号**：preformed airlaid pulp fabric 可直供 converting line，消除现场粉碎木浆的"大而吵且粉尘"工序——虽原料单价略高，但"简化集成后的整机运营成本可抵消"。
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+
+--- [[Computational Modeling in Absorbent Technology]]  (4 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (4 句)
+   • Chapter 3 (pp. 93–127) is the most practically actionable chapter in the handbook: it converts "fast and full core" into two measurable numbers (C, Q), proves Capacity is predictable from thickness-per-gram while Rate is not (hence the structural constant K), and supplies the airlaid/needlepunched experimental dataset that directly maps areal density, low-melt ratio, needling intensity and SAP fraction onto product performance.（中文：第 3 章把"吸得快、吸得多"量化为 C 与 Q，证明容量可由每克厚度预测、速率必须引入结构常数 K，并给出可直接指导轻量化与非织
+   • **Function-first definition.** The core "exerts the force necessary to pull the liquid in, distribute it within the structure and hold it without releasing under normal external pressure" — pull, distribute, hold. Everything else in the chapter tests one of those three.
+- **Two metrics, one solvable.** C (cc/g) is predicted from T/W alone; Q (cc/g·s) is not. "The value of capacity can be monitored and predicted effectively by simply measuring thickness per unit mass and using eq. 1."
+- **Rate mo
+   • **Capacity is measurable before you build; rate is not.** T/W predicts C reliably, so areal density/thickness is the design variable to lock in early. Rate needs empirical K — treat any Q prediction from first principles as upper-bound only.
+- **Thinning is the highest-return lever in the chapter.** Every 40 g/m² of core removed pays back in both capacity and rate (40→160 costs 34%/54%); "thin" is not a comfort claim, it is a permeability-and-bulk argument.
+- **Low-melt share is a channel-plug d
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+
+--- [[GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）]]  (4 句)
+   • Product standard for **airlaid paper**（无尘纸）— both plain and SAP-loaded grades — as used in wipes, diaper acquisition/absorption layers and absorbent cores; the upstream raw-material standard named in GB/T 28004.1-2021's material chain.
+   • GB/T 24292-2009 (SAC/TC 141) covers airlaid paper supplied as jumbo rolls or sheets for disposable hygiene products, splitting the product family into 普通无尘纸 (cellulose-only) and 合成无尘纸 (with superabsorbent polymer). Requirement structure is paper-physics-heavy: basis-weight deviation ±10%, width ±3 mm, thickness ±0.4 mm, brightness 75.0–90.0%, pH 4.0–9.0, moisture ≤10%, plus an absorption ratio ≥2.0× for the plain grade (exempted for SAP grades, which is logically consistent since SAP dominates c
+   • **无尘纸分「普通 vs 合成（含 SAP）」两档，吸水倍率只考核普通档**——含 SAP 档的验收重心移到定量/厚度/pH 与卫生指标 —— 支撑页：Airlaid Paper（无尘纸）
+- **回收料禁令在 2009 版已存在**（4.9 条），GB 43631-2023 的回用原料禁令是延续而非首创 —— 支撑页：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+   • 概念：Airlaid Paper（无尘纸）、GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- 来源：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（原料链引用 GB/T 24292）
+
+--- [[热风无纺布]]  (3 句)
+   • The vault carries several overlapping headings for this material/process — 热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven — see Open Questions（源：本页 cited-by 与全库同名标题）.
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+   • **标题重复**: the vault holds ≥4 overlapping headings（本页、热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven）— a merge/ownership decision is owed .
+- No numeric permeability, tensile, gsm-vs-hand, or line-speed data for air-through webs is recorded in the vault .
+- The 中科依兰 nano-odour-powder route's two unresolved risks（喷嘴堵塞、线上跌落 / build-up）have no recorded validation result（源：中科依兰）.
+- Degradable air-through sheath: PGA-core route still gated on shelf-life; PET-core is backup only（源：可降解皮芯架构对比（PPC
+
+--- [[High-Density Fluff Core（高密度绒毛浆芯体）]]  (2 句)
+   • 1. **替代路径**：源文明确指出**"在线 airlaid 芯（fluff + SAP）正在取代预制 airlaid 芯"**，且这是**跨品类的通用趋势**（femcare 起步，可外推至其它品类）。
+2. **等价性判据**：高密度绒毛浆 + SAP 方案与**预制 airlaid + SAP** 商业方案在**相同厚度**下对标——即竞争的不是"更薄"，而是"同样厚度、更低成本/更短供应链"。
+3. **⚠️ 缺失环节**：压缩工艺如何实现（压力、湿度、回弹控制）、压缩后的**吸收速率与回渗**代价、SAP 在压缩态下的 Gel Blocking（凝胶阻塞） 风险 —— **源文全部未给** → 。
+4. **与本库主线的关系**：这是**"保浆路线"**（继续用绒毛浆），与 Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体） 的**"去浆路线"**构成直接对立的两条路线；前者降本依赖**工艺（压缩）**，后者降本依赖**材料替代**。
+   • **Lesson（保浆 vs 去浆不是同一层面的取舍）**：高密度路线降本靠**工艺压缩**（不换材料），无浆路线降本靠**材料替代**（换供应链）。两者**成本结构与风险不同源**，选型时应分开评估而非直接比单位成本。
+- **待补 **：压缩工艺参数与回弹；压缩态下的 CRC / 吸收速率 / 回渗；与预制 airlaid 的成本对比数据；是否适用于婴儿线（源文仅给 femcare / 轻失禁）。
+
+--- [[Main S.p.A.（SOFTCARE HAF）]]  (2 句)
+   • **2026-07-08**：被列为 SAF 三层应用路径中的**路径 B（预制 SAF Airlaid 芯材直接采购）**的两个来源之一（另一为 TAL 自身）；关键优势为**"省去芯体开发环节，快速验证 SAF 概念"**，适用于**概念验证、小批量试产、快速进入市场**。
+- **2026-07-08**：在供应保障建议中被明确列为**多源策略的一环**——"TAL 直接供应 + Main S.p.A. 芯材供应双渠道"。
+- **2026-07-08**：源文判断 **Main S.p.A. 使用的 SAF 很可能也来自 TAL**（原文措辞为"很可能"，属**推断**）。
+   • **记录日期 2026-09-29**：源文**未提供 Main S.p.A. 的报价**；仅在成本估算中把"方案 C（预制 SAF Airlaid 芯材）"标注为**"估计更高（需询价）"**——即**预制芯材的成本高于自行混配**。
+- **记录日期 2026-09-29**：源文提出的动作为"向 Main S.p.A. 发出 SOFTCARE HAF 样品询价"（优先级高，2 周内），属**采购意向**，仅记存在，**不代表已发生**。
+
+--- [[Absorbent Technology]]  (2 句)
+   • 1. **多孔介质流动理论**：Péclet 数判据、达西定律、Washburn/Lucas-Washburn 方程、毛细压力与 Kelvin 方程——吸液动力学的物理基础，直接对接  仿真接口。
+2. **表面化学第一性原理**：接触角/润湿指数/附着功/Wilhelmy 湿附力法——决定纤维与结构能否有效吸液的材料选择先决条件。
+3. **核心 C/Q 模型**：芯体容量（Capacity）与释放速率（Release rate）的定量关联——超薄芯体设计的核心权衡。
+4. **SAP 谱系两极**：纤维素基（Ch7，Kimberly-Clark 磷烷基工艺）与丙烯酸基/水凝胶基（Ch8–9）——配方侧完整参考，含 2016/2022 综述更新。
+5. **非织造四要素与工艺矩阵**：纤维→排列→粘合→整理因果链；airlaid / spunbond / meltblown / spunlace / SMS 工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配。
+6. **三层功能模型**：Acquisition–Distribution–Ret
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）]]  (2 句)
+   • **市场时点**：**近期的武汉 CIDPEX 展会**上，**高达 90% 的本土供应商**提供采用复合芯体的产品，并在**芯体特征上"玩出花样"（getting creative）**。
+- **宣称现象**：**Y&Q 等系列**以 **4D / 5D / 7D** 等"维度"作为卖点；典型复合芯体叠构为 **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**。
+   • 1. **"复合芯体是新发明"这一前提被直接否定** —— 源文第一句即问 "**a brand new innovation? No!**"；**⇒ 立项时应先做先例与专利检索，而不是假设原创。**
+2. **复合芯体的本质是"资产驱动的创新"** —— 源文把这些芯体统一归类为 **"Asset innovation orientated core formation"**；**⇒ 竞争壁垒主要在设备与工艺，不在配方。**
+3. **三条腿必须同时看：材料 / 设备 / 供应链** —— **P&G、Drylock 是竞争对手（产品端），Fameccanica 是设备源，Bostik 是材料源**；**⇒ 只跟其中一类玩家对标会漏掉整条价值链。**
+4. **四种结构共享同一个核心机理：让 SAP 溶胀"自己开路"** —— Honeycomb 打开 **labile bonds**，Drylock 打开**临时次粘合**，两者都是**用溶胀产生新的空隙与通道**。**⇒ 这是一类"可编程空隙"设计，而不是静态多孔结构。**
+5. **固定方式决定成败** —— DryMax 用*
+
+--- [[Dry-laid web formation]]  (2 句)
+   • The chapter progresses from carding physics (worker/stripper/licker-in/doffer, metallic wire geometry, aerodynamic control) through feed/weight-control systems to cross-lapping and perpendicular-laid structures.（从梳理机理、喂入与称重控制，到交叉铺网与垂直铺网。）
+- It culminates in airlaying (aerodynamic web formation) and its raw-material science: wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends.（高潮在气流成网及其原料科学：木浆、人造纤维、SAP 与双组分混合。）
+- For hygiene R&D the chapter explicitly names the "liquid acquis
+   • Airlaid webs are isotropic; carded webs are not — isotropy is a design variable for omnidirectional acquisition.（气流成网各向同性，是各向同性导流的设计变量。）
+- Hydrophobic synthetics preserve wet bulk; blends with pulp + SAP form the nappy acquisition layer.（疏水合成纤维保湿态蓬松，与浆/SAP 混合成导流层。）
+- SAP immobilises fluid under compression — core must not rewet under buttock pressure.（SAP 受压 immobilises 液体，是芯体抗回渗的设计依据。）
+- Cross-lapping bath-tub profile propagates into bonding and must be co-designed.（交叉铺网缺陷会传递至加固，须协同设计。）
+

@@ -1,0 +1,53 @@
+{
+ "batch_id": "W5-5",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c004e3331b5456352ff219c7e593189f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/27_IFRA Category Lookup Tool.pdf.md",
+   "name": "27_IFRA Category Lookup Tool.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_99f705862771c99a05afdd0aed789b5c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf.md",
+   "name": "GB 43631-202婴幼儿及儿童用纸品基本安全技术规范3.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_6a1048e83195ad7d57be21809aeb748d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf.md",
+   "name": "GB 7917.1-1987 化妆品卫生化学标准检验方法 汞.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_0793021ebdf1cfee5802f46017ff331f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 30133-2022一次性卫生用品用面层.pdf.md",
+   "name": "GBT 30133-2022一次性卫生用品用面层.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_207812856d3d719b9881275026013a1a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 21331-2021 绒毛浆.pdf.md",
+   "name": "GB／T 21331-2021 绒毛浆.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_7cc5dcd9be84ef89517cf1583b4be69d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf.md",
+   "name": "GB／T 27728.3-2024 湿巾及类似用途产品 第3部分：消毒湿巾专用要求.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_fed29f886629172e782e92c714d27c2b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf.md",
+   "name": "GB／T 28004.1-2021 纸尿裤 第1部分：婴儿纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4dd88cabe68b51d83c7cac74a758bf43001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md",
+   "name": "QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

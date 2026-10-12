@@ -1,0 +1,16 @@
+# SEED: 银纳米线 AgNW
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Self-Powered Photonic Sensor CLCE Sandwich
+#
+# 全库正文命中 1 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Self-Powered Photonic Sensor CLCE Sandwich]]  (2 句)
+   • **核心主张** — "A Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromism and Triboelectric Response" (lines 5-7)
+- **螺距直接观测（机制核心）** — "The pitch changes of CLCE in the initial red state and the stretched blue state were tested by SEM. It was found that the pitch decreased from P0 = 438 nm to P1 = 285 nm." (lines 77-78)
+- **颜色配方化可调** — "Reflectance spectra of red, green and blue CLCE films prepared with different chiral agent content
+   • **免电池尿湿/压力可视化指示器（推演，最强应用路径）** — CLCE 的"红→蓝"结构色（438→285 nm）与三色可调配方，可作免染料、免电源的视觉指示。可推演路径：将 CLCE 层与 SAP 溶胀/芯体膨胀耦合，吸水膨胀产生的应变触发变色，实现"尿湿即变色"的肉眼指示以替代现有 pH 染料指示条；颜色由手性剂含量定制，便于按品牌色设计。**论文未做 SAP/湿敏实验。**
+- **自供电降低智能穿戴供电成本（推演）** — 摩擦电输出 VOC/ISC/QSC，无需电池，可避开电池与皮肤接触的安全与回收问题。摩擦电信号适合作为"应变/接触"事件计数通道用于低频人体活动监测；具体灵敏度与循环寿命需查正文。
+- **自修复 + 可拉伸 = 延长贴身产品寿命** — 自修复 PDMS 与 80 °C 愈合的 CLCEs-S 意味着柔性传感器在反复弯折/拉伸后可恢复功能；对腰围、腿围等高频形变区域可提升耐用性、降低"传感失效"客诉风险。
+- **AgNW-PDMS 柔性电路参考（推演）** — "纳米线导电网络 + 弹性封装"是耐形变电极的可行工艺；采购端可关注银纳米线浆料与 PDMS
+

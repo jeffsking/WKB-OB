@@ -1,0 +1,166 @@
+# SEED: ES 纤维 ES Fiber
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - ES 纤维热风非织造布驻极性能初探
+#
+# 全库正文命中 160 页，234 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (4 句)
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[交联 CMC]]  (4 句)
+   • **交联 CMC（cross-linked CMC）** is the vault's most mature and most commercialised **cellulose-based superabsorbent route**, commercialised as **Hercules Aqualon / CLD**. It is made by etherifying cellulose (with **monochloroacetic acid**) and then cross-linking it, and it **lifts absorbency from pulp's 1–2 g/g to 10–25 g/g**（源：Cross-linked Cellulose and Its Derivatives）. It belongs to the "modified cellulose" family whose retention under load exceeds plain cellulose（源：Fibers and Fibrous Materials）
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent — so DS is the single most consequential specification to demand from a supplier（源：Cross-linked Cellulose and Its Derivatives）.
+- **Cross-link density is a trade-off, judged in the load regime it will be used in.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing impli
+   • **Cellulose-based SAP alternative.** The cellulose route delivers **10–25 g/g (5–10 g/g in brine)** against synthetic SAP's **300–600 g/g (20–50 g/g in brine)** — which is why commercial cores are pulp + SAP composites, typically **80/20 to 90/10**（源：Cross-linked Cellulose and Its Derivatives）.
+- **Under-load retention is its differentiator.** Because a diaper core is compressed, the 16–21% under-load retention of modified CMC — not its free swell — is the figure to evaluate for a core applicati
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[相变材料 Phase Change Material]]  (4 句)
+   • 形式化定义待补（引用来源未给出明确定义）。本页其余结论均来自卫材场景下对 PCM 微胶囊路线的评审（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。
+   • **微胶囊蓄热—释热（thermo-regulatory）**：PCM 微胶囊在较高温度蓄热、较低温度释热，从而提供调温性能（源：Intelligent Textiles and Sports Clothing）。
+- **"microcapsule tax"（微胶囊代价）**：相变微胶囊解决瞬时热峰，但要付出四重代价 ——
+  1. **Mass 质量**：每一克都要以 +gsm、+单位成本、每个循环计入；
+  2. **Risk 风险**：壳层脆性 → 破裂与批次波动，破裂胶囊污染 SAP 并放宽过程控制限；
+  3. **Liquid leakage 液体泄漏**：游离 PCM 提高皮肤风险，并恶化回渗 / 气味；
+  4. **Complexity 复杂度**：供应链新增专用封装层级。
+  （源：PCM-Free Thermoregulation with BNC Nanofiber Network）
+   • PCM knits 的微胶囊蓄放热机制为卫材提供可移植的调温思路（源：Intelligent Textiles and Sports Clothing）。
+- 在吸收性卫生用品中，微胶囊 PCM 是既有的热舒适路线，而 **PCM-free** 的工程化细菌纳米纤维素（BNC）纳米纤维网络是其「成本—机理」对照路线（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。参见 PCM-Free Thermoregulation、BNC-Only vs BNC+PCM (Thermoregulation Ledger)、Diaper Microclimate。
+- 相关材料与概念页：Stimuli-Responsive PCM、纳米纤维素（CNC、CNF、BNC）、智能织物 Smart Textile。
+   • Smart Textiles & Wearables
+- Smart Textiles Review
+- Smart Textiles and Sportswear
+- Intelligent Textiles and Sports Clothing
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+
+--- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]  (4 句)
+   • **LUGH 面线进展**：LUGH 的 **Fibertex 12 gsm SB 面层回渗低于对照**，但**改善幅度随测试而异**（R25-0274：对照 0.44 vs Fibertex 0.35；R25-0491：0.36 vs 0.33；R25-0927：0.28 vs 0.25）。**14 gsm Fibertex SB 更柔软但回渗高于 12 gsm 对照**，原因是**克重更高**；且**无法在降克重的同时保持柔软度**。后续**更换表面活性剂/柔软体系（surfactant/softness package）帮助降低了回渗**：14 gsm Fibertex（160% TL13、639 g RC、Fem Lar DPU2 ATCA）由 0.41 g 降至 0.28 g，与对照 0.28 g 持平。LUGH 时间线：HUT 结果已回、8/28 ACLT 决定继续推进的面层（**推荐 12 gsm 带印花**）、启动三阶段认证、**2026 年 1 月上市**。
+   • **GRIFFIN 面层选择**：对照为 **Fitesa 12 gsm SB、oval 花型、0.65% Lertisan（分区施加）**；HUT 回渗代码为 **Fitesa 12 gsm SB、CD rod 花型、未处理（untreated）**。TTM-00672 闭式摇篮回渗对比中，CD Rod - 0.3% 与 CD Rod - 0.65% 等代码落在 0.19–0.22 g 区间。GRIFFIN 时间线：HUT 结果 10 月中、订购未处理 12 gsm Fibertex 用于测试。
+   • **竞品分析**：**摄入系统互换实验**发现——把 **Always Discreet 的面层/导流层装入 DPU2 即可显著降低回渗**，而**卷曲纤维（curly fiber）没有带来增量差异**（对比组：Depend Core + Depend Liner/Surge、Depend Core + AD Liner/Surge、加卷曲纤维）。对 AD 面层的早期分析显示**处理类型（treatment type）以及可能的单双面性（sidedness）存在异常现象**，完整分析于 2025-09-11 评审。另一未解问题：**Always Discreet 存在两种不同的导流层附着胶型**（P&G Line 80：17 / 17 / 71 mm；Line 82、83：32.5 / 32.5 / 67 mm），动因未知，将在 9/29 当周的 **HSBL 试验**中研究施胶图案、添加量与胶型，结果 10 月底返回；后续排队议题为粘合花型与粘合方式（超声波、热粘合）。
+   • 概念：Rewet Measurement Variability（回渗测试变异性）、Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、LUGH Liner Program（LUGH 面层项目）、Fibertex（Fibertex 非织造布供应商）、Fitesa（Fitesa 非织造布）
+- 对比：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+
+--- [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]]  (4 句)
+   • 与核心桉木浆供应商围绕 **TCF 等级认证进度、PSC 合规流程、区域供应分配、以及 fiber-to-fiber（短纤替代长纤）联合推广** 的一次业务 + 技术对齐会。
+   • 1. **TCF 等级继续推进，8 月恢复试产**：供应商 7 家浆厂中多数已完成 TCF 转换，剩余一家仍在进行中；此前因「同一时间叠加多个项目」造成过程不稳，已**回退到已知条件、用同一化学品体系重新上路**，计划 **8 月恢复**，中国/亚洲交付时间约**年底**（土耳其为 8 月）。
+2. **样品 grade 名称必须与未来商业化一致**：发给客户（尤其韩国）的样品，**只要能保证同一 grade、同一性能即可立即发**；若届时 grade 名不同，认证流程要重跑。需以邮件明确告知对方。
+3. **文档更新是硬性前置**：grade 变更（含 TCF）必须同步更新 **spec / TDS / PS number / RMS（raw material spec）**；由 productivity 团队（全球团队，运营层面在印度）执行。
+4. **PSC 的触发时点**：**TCF 等级商业化之后**才申请产品安全认证；仍在 trial 阶段时不应启动（spec 尚未冻结）。
+5. **ECM 项目统一切换**：中国湿巾代工厂（wipes）正在把不可批准的浆等级全部换掉；为避
+   • 核心桉木浆供应商正在把浆产品切换到 TCF 漂白等级，同时与 KC 推进 fiber-to-fiber（以短纤桉木浆替代部分长纤 BSKP）的联合降本项目；两条线都卡在认证流程与文档更新上，故召开本次业务 + 技术对齐。
+   • **TCF 等级切换的真实瓶颈是「过程稳定性」与「文档合规」，不是漂白技术本身** —— 支撑页：TCF Bleaching（全无氯漂白）、Suzano（书赞桉诺）
+- **Fiber-to-fiber 的落点在打浆段：磨片选型决定短纤方案的成败** —— 支撑页：Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+- **认证流程因 JV 而分叉：IP 侧集中化、韩国侧常规化，文档口径必须分别管理** —— 支撑页：Suzano（书赞桉诺）
+- **pitch 是下游最敏感的质量指标，且受下游工艺条件放大** —— 支撑页：绒毛浆（Fluff Pulp）
+
+--- [[PCM-Free Thermoregulation]]  (3 句)
+   • A bacterial-nanocellulose (BNC) nanofiber mat suppresses every conductive/radiative route and adds two dissipative loops:（BNC 纳米纤维垫抑制所有传导/辐射路径，并增加两个耗散回路：）
+   • 1. **Solid conduction** — point-contact fibril skeleton (τ ≈1.5–3) minimises solid path + phonon boundary scattering.
+2. **Gas conduction** — nano-pores ≈20–200 nm sit near the air mean free path (≈68 nm) → **Knudsen suppression**.
+3. **Radiation** — nanofiber mat scatters IR; low-emittance tortuous path.
+4. **Convection** — sealed, sub-mm pores block air movement within the layer.
+5. **Loop A · bound-water sensible buffering** — hydroxyl-bound water raises thermal mass and slows dT/dt **without
+   • PCM-Free Thermoregulation with BNC Nanofiber Network —— 
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素） —— （2026-09-29 追加）
+
+--- [[亲水整理耐久性]]  (3 句)
+   • **沟槽吸力的前提是低接触角**：，沟槽吸力 ≈40–50 kPa 是在 **θ→20°** 下算出的；**一旦 θ 在第 2/3 次冲击后回升到 60° 以上，沟槽吸力即归零**——"整理剂失效 = 截面白买"。见 Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、Groove Capillary Suction。
+- **整理过量同样是失效模式**：冲洗过度（too high finish / retention）会把液体**滞留在面层**，表现为"首次穿透快、但第 2/3 次回渗高"。见 Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive) 的重复冲击示意。
+- **首试建议**：3D 星形 PET 用**中等强度耐久亲水整理**；在回渗被标定之前，**贴肤侧 2D ES 不加额外亲水处理**。见 Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive
+   • CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版） —— 
+- CoPET ADL 转型蓝图（皮层聚合物替代评估） —— 
+- 优化 REL 五纤维配方与穿透热风粘合工艺模拟 —— 
+- Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner —— 
+- Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive) —— 
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE) ——
+   • 1. **长期悬案被裁决** —— 此前本页登记的是"回渗↓ / 渗漏↑"的**权衡风险**（SIROCCO 教训、ATACAMA 上 AFC 见到渗漏上升、BCC 侧 HUT 未见差异）。本源用**两个 HUT 的直接对照**给出了边界：**无护翼 ⇒ 泄漏升高；有护翼 ⇒ 泄漏不升高**。
+2. **⇒ "降润湿性"不是不可用，而是有结构前提** —— **护翼（flap）存在时，降润湿性只带来回渗收益；护翼缺失时，回渗收益要以泄漏为代价。**
+3. **这说明权衡发生在系统层，不在材料层** —— **同一处理方式在两种产品结构上给出相反结果**；**⇒ 评价面层润湿性变量时，必须连同防漏结构一起判定，孤立看材料无意义。**
+4. **机理也被同步说清** —— 源文：降润湿处理**「降低毛细性，并阻止液体滞留于上层」**。**⇒ 判据应为"上层残液量"，而非"接触角"或"润湿等级"。**
+5. **后续动作印证该判据已被采纳** —— 源文的下一步是：**LUGH 与 GRIFFIN 联合采购"14 gsm 柔软 + 更低润湿处理"面层，但明确警告「若无 GRIFFIN 的护翼
+
+--- [[孔隙率 Porosity]]  (3 句)
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **原始引用来源（Cited by, 4 处）**
+- Characterisation, testing and modelling of nonwoven fabrics
+- Fibers and Fibrous Materials
+- Liquid Flow in Porous Structures
+- Porous Structure and Liquid Flow Models
+   • **提供正文摘录的库内页面**
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers
+- 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）
+- Gel Blocking（凝胶阻塞）
+- Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- PCM-Free Thermoregulation
+- BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- Electrospinning Technolog
+
+--- [[Computational Modeling in Absorbent Technology]]  (3 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]  (3 句)
+   • **LUGH**：围绕 **Fibertex 14 gsm Soft Open Dot Bond** 面层的经验做**回收循环**——用**润湿性与柔软添加剂变化**改善回渗；**Fibertex 将其化学体系视为专有的**，因此**依赖他们的专业意见来做调整**。
+- **GRIFFIN**：**定义并采购更低润湿处理的面层选项**，用于 **5 月的 HUT 生产**。
+- **LUGH + GRIFFIN**：跟进采购**同时具备 14 gsm 柔软 + 更低润湿处理**的面层；**⚠️ 若无 GRIFFIN 的护翼加成，可能存在泄漏风险 —— 先在台架评估，再进 HUT**。
+   • **LUGH**：Soft Liner Development & Bench Testing —— **L14 Liner Bench / L18 Liner Bench / New Liner Make & Ship / New Liner Bench / Print on New Liner / Soft Liner Vendor Print Development**。
+- **GRIFFIN**：**Liner Wettability Round 1 Results / Wettability Cliff Fundamentals / HUT Production (HUT) / ATH Core Rewet Round 1 Results / ALD GML ATH Core Rewet（依 Round 1 诊断结果待定）/ Curly Fiber Fundamentals / Thals & Prep for Q1 CUT and/or C&U（Male & Female Phase 4 Benchmark）/ Rewet Fundamentals / Always Di
+   • 1. **"护翼是否存在"是降润湿性路线能否成立的开关** —— **无护翼（ATACAMA）泄漏升高，有护翼（MOJAVE）不升高**。**这把此前"降润湿性 → 泄漏风险"的模糊警告变成了有边界条件的判据**：**有护翼 ⇒ 可用；无护翼 ⇒ 不可用。**
+2. **回渗与泄漏的权衡不是材料问题，是系统问题** —— 同一处理方式（无润湿处理）在两种产品结构上给出相反结果；**⇒ 不能孤立评价面层变量，必须连同防漏结构一起判定。**
+3. **降润湿性的机理被说清了** —— **不是"排斥液体"，而是"降低毛细性 + 不让液体留在上层"**。**⇒ 判据应是"上层残液量"，而不是"接触角"。**
+4. **ATH 的问题被重新定义为"系统边界变化"** —— **绒毛浆在 ATH 中从"吸收材料"变成了"摄入系统的一部分"**，于是**层数越多持液点越多**。**⇒ 同一个材料在不同结构里属于不同的功能域，回渗归因必须先划边界。**
+5. **对策的方向是"把液体从摄入系统里拉出来"** —— 在绒毛浆层**加少量 SAM 以解吸该层**；**而不是继续改面层**。**⇒ 当持液
+

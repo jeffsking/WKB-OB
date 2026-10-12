@@ -1,0 +1,20 @@
+{
+  "batch": "idb_03",
+  "book": "Handbook_of_Industrial_Drying",
+  "done": [
+    "Industrial Drying Ch12 Microwave and Dielectric Drying",
+    "Industrial Drying Ch13 Solar Drying",
+    "Industrial Drying Ch14 Spouted Bed Drying",
+    "Industrial Drying Ch16 Pneumatic and Flash Drying",
+    "Industrial Drying Ch18 Infrared Drying"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Ch13 Solar Drying: source notes heavy OCR degradation in equations (Eq 13.1, parts of 13.32–13.57) — marked [待验证] against print edition.",
+    "Ch14 Spouted Bed Drying: OCR noise in Eqs 14.1–14.4 and tables — marked [待验证] against print edition.",
+    "Ch16 Pneumatic and Flash Drying: feed-size range printed as '10–500 mm' (p.395) is physically suspect, almost certainly µm — flagged [待验证] verbatim per rule.",
+    "Ch18 Infrared Drying: wavelengths printed as 'mm' inconsistent with Wien's law (λ_max T = 2897.6 µm·K) — treated as µm, flagged [待验证].",
+    "WIKI/index.md is missing entries for all Industrial Drying chapters (including pre-existing ones) — not modified per hard rules; needs separate index-sync pass."
+  ],
+  "count": 5
+}

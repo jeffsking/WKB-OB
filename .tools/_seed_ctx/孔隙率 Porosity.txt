@@ -1,0 +1,162 @@
+# SEED: 孔隙率 Porosity
+# type: concept | 原引用数: 4
+# 原 Cited by 列表:
+#   - Characterisation, testing and modelling of nonwoven fabrics
+#   - Fibers and Fibrous Materials
+#   - Liquid Flow in Porous Structures
+#   - Porous Structure and Liquid Flow Models
+#
+# 全库正文命中 40 页，71 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers]]  (5 句)
+   • 本章是第 8 章大孔主题的专深展开：给出大孔形成的**两条主线**——**反应诱导相分离（RIPS）反应诱导相分离**与**冷冻凝胶化（cryogelation）冷冻凝胶化**，并用孔隙率公式、交联剂阈值、临界制备温度、-8 °C 冷冻阈值等可操作参数把它们量化。
+   • 交联剂浓度、惰性稀释剂（造孔剂）的用量与种类、温度——三者共同决定不均一性/孔隙率，且与溶胀和力学耦合，必须谨慎选择（lines 341–347）。
+   • 溶胀态孔隙率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1, line 516）——由 qw/qv 计算孔分率。
+- 冷冻凝胶反应区聚合物浓度：$c = \nu_2 \rho$（line 1214）；凝固关系 $\frac{1}{T_{prep}} = \frac{1}{T_f^0} - \frac{R}{\Delta H_m}[\ln(1-\nu_2)+\nu_2+\chi\nu_2^2+0.5\nu_e V_1\nu_2 - f\nu_2]$（Eq 9.2, lines 1200–1202）。
+- 冰分率/孔隙率：$f_{ice} = 1 - c_0/c$（Eq 9.4, lines 1262–1264）——由初始单体浓度 c₀ 与 Tprep 设定孔隙率。
+- 响应速率标度：rate ∝ 1/(粒径)²（line 83）——缩小粒径或造孔以提速。
+- 对流传输的交联剂阈值：BAAm > 5%（PNIPA, lines 417–424）；最大大孔率在 30% BAAm / 20% 单体（lines 534–543）。
+- L
+   • line 55 — "Hydrogels are able to absorb 10 to 1000 times their dry volume of water without dissolving."
+- line 83 — "Since the rate of response is inversely proportional to the square of the size of the gel"
+- lines 111–112 — "Macroporous hydrogels contain nanometer- to micron-size liquid channels separated by cross-linked polymer regions, which provide sufficient mechanical stability."
+- line 325 — "a phase separation during the hydrogel preparation is mainly responsible for the formation of ma
+
+--- [[2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）]]  (4 句)
+   • **问题诊断**：v8 中  **全程不变**，即使 SAP 溶胀使孔隙率从 **0.42** 显著下降。红队指出：**不动态衰减渗透率会严重高估芯体多次吸收后的导流能力**，无法捕捉真实纸尿裤常见的"**芯体断层**"或"**阻水**"现象。
+- **修复**：（由**颗粒填充床微观流道理论**推导，自动捕捉凝胶膨胀导致的孔隙堵塞）。
+- **效果**：
+   • **自限性机制**：SAP 溶胀 → 降低孔隙率 → 降低渗透率 → **限制后续液体到达更深层**。
+- **细网格更显著**：最低孔隙率 **0.284**（vs 粗网格 **0.347**），因为细网格能更精确解析 SAP 颗粒附近的**局部孔隙结构**。
+- ⚠️ *"这一效应在产品设计中至关重要：它解释了**为什么高 SAP 含量的纸尿裤有时反而容易出现侧漏**。"*
+   • 1. **"完美守恒"要被怀疑** —— 摘要写 0 mL，曲线却有 5 mL 常数偏移；**看曲线，不要看摘要**。
+2. ⚠️ **网格粗 = 结果假** —— 15×6 下 **约 30 个百分点**的 SAP 利用率来自**数值扩散**；**用粗网格指导 SAP 用量优化会过高估计**。
+3. **常数扩散系数会抹平湿润前沿** —— 常数 D_cap 让前沿"像热传导"；真实前沿是**陡峭**的。
+4. **凝胶阻塞必须建模，否则高估多次吸收能力** —— Carman-Kozeny 使吸收区渗透率**下降 2–5 倍**，产生**自限性**。
+5. **高 SAP 含量反而易侧漏，机理在此** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层。
+6. **细化网格后差异更大，说明尚未收敛** —— 孔隙率下限从 0.347 降到 0.284；源文建议再试 60×24。
+7. **"残液 0.0 mL" 也可能是网格效应** —— 粗网格残留 2.6 mL vs 细网格 0.0 mL，**方向需谨慎解读**（源文表述为"暗示"）。
+8. ⚠️ **v9 不含反渗** 
+   • 1. ⚠️ **D_cap 数量级冲突**：正文"极低饱和度可达 **1E-7 m²/s**" vs 图 4-1 表 **1.5e-6 / 5.2e-6** —— 差 **1–2 个数量级**，**不调和**。
+2. ⚠️ **图 4-1 显示 Sw≥0.1 后 D_cap 恒定 5.2e-6**，与正文"随饱和度增加而衰减"**矛盾**。
+3. ⚠️ **MD 扩散 2.3% vs 2.5%**（图 6-1 表头 vs 汇总表）—— **照录**。
+4. **"渗透率下降约 2–5 倍"** 与细网格实测 **20.3%（≈5×）**、粗网格 **44.6%（≈2.2×）** 的对应关系**源文未明确**。
+5. **自由液体最终 0.0 mL（细网格）** 是否意味着**全部被 SAP 吸收**？源文未说明 SAP 是否已饱和。
+6. **"细网格结果更可信"** 是**源文判断**，**无实验佐证**；且源文同时建议再试 60×24 —— **收敛性尚未确认**。
+7. **注入区宽度 40%** 与 SAP 利用率"初始偏高"的**定量关系未给**。
+8. **图 7-1 / 
+
+--- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]  (4 句)
+   • **BNC 结构表征**：自组装 **sub-100 nm 带状纤维毡**——fibril ribbon 宽 **≈50–100 nm**、inter-fiber pore **≈20–200 nm**、孔隙率 **≈85–95%**、比表面积 **≈100–200 m²/g**、接触形式为**点接触（tortuosity τ ≈1.5–3）**、持水 **≈100× 干重**。**"其几何即其热机制"**。
+   • **结构 → 热性能映射（五条）**：① ≈90% 孔隙率 → 捕获静止空气（k_air ≈0.026）→ 有效导热极低；② 纳米孔 **≈20–200 nm ≈ 空气平均自由程（≈68 nm）** → **Knudsen 效应抑制气相导热**；③ 点接触纤维网络 → 最小固相导热路径 + 声子边界散射；④ 富羟基表面 → 结合水 = 大感热热质量；⑤ 纳米纤维毡 → 红外散射、低发射率热路径。
+   • 1. **Z 向孔隙率梯度**（致密贴肤侧 / 蓬松芯侧）——进一步减缓皮肤侧 dT/dt（承接既有 REL 工作）；
+2. **贴肤区提高 BNC 克重**——在关键处增加感热热质量；
+3. **结合水管理（保湿剂调节）**——把缓冲窗口延伸到排尿事件之后；
+4. **透气背层 + ADL 协同**——用蒸发消散抵消急性尖峰；
+5. **REL 增强层**——在不增 gsm 的前提下提供机械鲁棒性。
+> 净结论：**PCM-free 的对等性可在现有纤维素材料集内实现，无需新化学**；五条结构杠杆与三条残余差距一一对应。
+   • **验证路线 P1–P4**：P1 材料表征（k_eff、DSC 结合水、SSA）→ Gate：k_eff ≤ 0.04、结合水 ≥ 目标；P2 台架热测试（防护热板 + 皮肤模型 ΔT/dt）→ Gate：ΔT/dt ≤ 目标 vs 对照；P3 产品集成 DOE（孔隙率梯度 + 透气协同）→ Gate：AUL/CRC/回渗保持；P4 试穿 / 假人 → Gate：舒适度与 PCM 基准对等。
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (4 句)
+   • BNC's thermal behaviour is presented as a direct consequence of its nanofiber geometry: ≈85–95% porosity trapping still air (k_air ≈ 0.026 W/m·K); nano-pores ≈20–200 nm sitting near the air mean free path (≈68 nm) producing Knudsen suppression of gas-phase conduction; a point-contact fibril network (τ ≈ 1.5–3) minimising solid conduction paths plus phonon boundary scattering; a hydroxyl-rich surface whose bound water adds sensible-heat thermal mass; and a nanofiber mat that scatters IR radiation
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further, builds on REL work.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+*Net result: PCM-free parity is ac
+   • **RECOMMENDED · BNC-only (steady-state)** for multi-hour microclimate comfort. Gate: AUL/CRC ≥ current; rewet ≤ current; skin-model ΔT/dt ≤ target.
+- **NOT ALONE · BNC-only (acute spikes)** — needs structural compensation. Gate: gradient + evaporative DOE passes wear trial.
+- **FALLBACK · BNC + PCM hybrid** — only if gates fail. Gate: cost-acceptable at scale; otherwise iterate structure.
+- Validation roadmap: P1 material characterisation (k_eff, DSC bound water, SSA; k_eff ≤0.04) → P2 bench the
+   • **Four functions, three of them structural** — microcapsules address only the fourth —— 支撑页：PCM-Free Thermoregulation
+- **Insulation at aerogel level is a geometry effect** (porosity + Knudsen + point contact) —— 支撑页：细菌纳米纤维素
+- **For multi-hour wear, PCM is redundant; for transients it is marginal** —— 支撑页：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- **The compensation levers are the same structures the REL/capillary work already develops** —— 支撑页：毛细梯度设计、REL增强层、分区密度设计
+
+--- [[Gel Blocking（凝胶阻塞）]]  (3 句)
+   • **v8 的问题（红队反馈）**： **全程不变**，即使 SAP 溶胀使孔隙率从 **0.42** 显著下降 —— *"如果不动态衰减渗透率，模型会严重高估芯体在多次吸收后的导流能力，无法捕捉到真实纸尿裤中常见的「芯体断层」或「阻水」现象"*。
+- **v9 的修复（Carman-Kozeny）**：
+   • **细网格更显著**（最低孔隙率 **0.284** vs 粗网格 **0.347**）—— 因为细网格能更精确解析 **SAP 颗粒附近的局部孔隙结构**。
+   • 上文"**Carman-Kozeny 干界面瓶颈**"聚焦**干界面**；本批 v9 补的是**孔隙率—渗透率的动态耦合**在**同一代模型的同一次模拟内**如何演化，**两者互补不冲突**。
+- 上文  的 **"有效渗透率 ~2e-13 m² 为模型反推量、无实测对应"** —— 本批 v9 细网格给出的 **2.03E-13 m²** 属**同量级的不同模型输出**，**本页并列，不合并、不相互印证**。
+- ⚠️ **"高 SAP 含量反而易侧漏"** 是本页此前未记录的**反直觉产品推论**，属**模型推论**，**无实验验证**。
+
+--- [[PCM-Free Thermoregulation]]  (3 句)
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+   • **结构 → 热性能五条映射**：① ≈90% 孔隙率 → 捕获静止空气（k_air ≈0.026）；② 纳米孔 ≈ 空气 MFP → Knudsen 抑制；③ 点接触 → 最小固相路径；④ 富羟基 → 大感热热质量；⑤ 纳米纤维毡 → IR 散射。
+- **BNC 结构参数**：ribbon **≈50–100 nm**；孔 **≈20–200 nm**；孔隙率 **≈85–95%**；SSA **≈100–200 m²/g**；tortuosity **τ ≈1.5–3**；持水 **≈100× 干重**。
+- 出处：多孔介质传热理论（Kaviany；Zhao et al.）。
+   • 1. **Z 向孔隙率梯度**（致密贴肤侧 / 蓬松芯侧）→ 进一步减缓皮肤侧 dT/dt（承接既有 REL 工作）；
+2. **贴肤区提高 BNC 克重** → 在关键处增加感热热质量；
+3. **结合水管理（保湿剂调节）** → 把缓冲窗口延伸到排尿事件之后；
+4. **透气背层 + ADL 协同** → 用蒸发消散抵消急性尖峰；
+5. **REL 增强层** → 不增 gsm 前提下提供机械鲁棒性。
+> **净结论**：PCM-free 的对等性**可在现有纤维素材料集内实现，无需新化学**。
+
+--- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]  (3 句)
+   • **现有技术**：绒毛浆 + SAP 复合芯体（传统厚款）；SAP + 无纺布包裹芯体（超薄型，源文举例帮宝适一级帮）；指标 = 吸液倍率、吸液速率、**反渗量**、保液率、芯体完整性（不结团断层）。
+- **切入点**：
+  - **方向 A SAP 增强载体** —— 纳米纤维网作 SAP 颗粒的**包裹/固定骨架**，防止吸液膨胀后位移（**gel blocking**），保持结构完整性；源文比喻 *"钢筋水泥"中的钢筋*。
+  - **方向 B 全纳米纤维气凝胶芯体（颠覆性）** —— 摒弃 SAP 与绒毛浆，用**孔隙率 >95%** 的电纺气凝胶作吸收主体；优势 = 超轻薄（**厚度可降至传统芯体的 1/3**）、可完全生物降解（PLA/CA）、**无 SAP 凝胶阻塞**；⚠️ 挑战 = *"单次吸液总量可能不及 SAP 体系"*、成本较高、产业化产能待提升。
+  - **方向 C NCN/SAP 复合芯体** —— 纳米纤维素（电纺或 **TEMPO 氧化法**制备）与 SAP 混合，提高力学强度与保液稳定性；2025-05 ScienceDirect 报道 NCN-S
+   • 1. **"纳米纤维"不是一个材料，而是一族工艺** —— 纤维直径 **10 nm ~ 10 µm**、孔隙率 **30%–99%** 的可调窗口极大，**必须先锁定目标层位再谈材料**。
+2. **ADL 是收益/难度比最高的入口** —— 孔径从 **10–50 µm** 降到 **0.1–5 µm** 带来**毛细梯度**，且材料成熟，6–12 个月可出样。
+3. ⚠️ **产能是最硬的约束，不是成本** —— 最好的无针头产线也只有传统无纺布产线的 **1%–5%**，直接决定**只能"复合"不能"替代"**。
+4. ⚠️ **成本 3–10 倍是相对量级，且不含溶剂回收与能耗的全部影响** —— 引用时须说明"取决于材料与产能规模"。
+5. **溶剂是隐性门槛** —— TPU 需 **DMF/THF**，直接牵动**溶剂回收成本与法规**；这也是"绿色化（熔融电纺）"被列为 2020s 方向的原因。
+6. **婴幼儿接触的新材料必须过毒理与认证** —— 吸入风险（纳米颗粒脱落）与长期皮肤接触是**专门点名的两项**。
+7. **在线集成是工程难题** —— 低速半连续 
+   • 1. **两条设备市场曲线 CAGR 不一致**（4.3% vs 15%）—— 源文分别标注"设备市场"与"工业级设备（含配套）"，**未调和**。
+2. **设备市场 vs 终端市场差两个数量级** —— 源文并列呈现，**未说明口径差异**。
+3. **"全球卫生用品市场 $900 亿+/年"** 与 **"市场规模大于 1 亿美元/年"（2020s 电纺商业化）** 分属**不同统计对象**，**不可合并**。
+4. **抑制率 >99%（大肠杆菌/金黄色葡萄球菌）** 未给**测试方法与条件**。
+5. **"孔径 0.1–5 µm"（ADL）与"0.2–2 µm"（底膜）** 均为目标窗口，**未见实测**。
+6. **"厚度可降至传统芯体的 1/3"** 与 **"孔隙率 >95%"** 未给**对应吸液量**，源文自陈总量可能不及 SAP。
+7. **纳米颗粒脱落的吸入风险** —— 源文**只列风险，无评估方法与量级**。
+8. **"前次报告"（S-S 双组分弹性纳米纤维）** —— **不在本件内**，无从核验。
+9. **清华/东华/浙大** 电纺研究组为源文点名
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (3 句)
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[Electrospinning（静电纺丝）]]  (2 句)
+   • 2. **三类工艺参数**：
+   - **溶液性质** —— 分子量 & 浓度（决定粘度；**过低 → 珠状缺陷**）、电导率、表面张力（**需与电压匹配**）、溶剂挥发性（过快堵喷嘴 / 过慢纤维粘连）。
+   - **操作参数** —— **电压（核心变量：↑ → 直径 ↓，但过高不稳定）**、接收距离（飞行时间与挥发充分度）、供液速率（↑ → 直径 ↑）、温湿度（**湿度经相分离效应影响孔隙率**）。
+   - **设备配置** —— **单针头（实验室）/ 多针头（中试）/ 无针头（工业化）**；接收器（平板 / 滚筒 / 水浴）决定**随机 vs 定向**排列。
+3. **性能来源**：**超高比表面积（可达 100 m²/g 以上）** + **可控孔隙率 30%–99%** + 材料选择灵活（天然/合成/复合高分子）+ 表面功能化可调。
+4. **成熟度分层（源文评级）**：环境过滤 ★★★★★ 商业化成熟 → 生物医学 ★★★★☆ → 能源存储 ★★★☆☆ → 智能纺织 ★★★☆☆ → 食品包装 ★★☆☆☆ → **卫生用品 ★★☆☆☆（学术研究密集、产业转化初期）*
+   • 1. **先定层位再定材料** —— 直径 10 nm–10 µm、孔隙率 30%–99% 的窗口太大；源文给出的落点优先级是 **ADL > 面层 > 芯体 > 底膜**。
+2. **"复合渐进"而非"全面替代"** —— 产能 1%–5% 是**硬约束**，决定只能**在关键功能区叠加**（如 ADL 局部复合）。
+3. **溶剂是隐性成本与法规项** —— TPU 需 **DMF/THF**，牵动溶剂回收与环保；"熔融电纺绿色化"因此成为方向。
+4. **婴幼儿接触需专项安全验证** —— **生物相容性、纳米颗粒脱落的吸入风险、长期皮肤接触**三项被专门点名。
+5. **在线集成是工程难题** —— 低速半连续 vs 每分钟数百米；**离线复合（先制膜再层合）**是当前折中。
+6. ⚠️ **"更薄 + 可降解"不能掩盖吸液总量短板** —— 气凝胶芯体自陈**总量可能不及 SAP 体系**。
+7. ⚠️ **市场口径差两个数量级** —— 设备市场（亿美元级）vs 终端市场（百亿—千亿美元级）**不可混引**。
+
+--- [[Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）]]  (2 句)
+   • 受影响指标：MD Liquid Distribution（MD 铺展随网格由 3.5% 降到 2.3%）
+- 受影响机理：Gel Blocking（凝胶阻塞）（细网格解析出更低的局部孔隙率 0.284，凝胶阻塞更显著）
+- 相关方法论：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）（**红蓝对抗**是发现此类问题的工作方式）
+- 未覆盖项：Rewet Test（回渗测试） —— v9 **不含二次加载后的反渗**，故本概念的结论**不能外推到回渗**
+   • 1. **代理模型不会取消网格收敛问题，只会把它前移到训练集** —— 神经算子/DeepCFD 类路线是「几何 + 流动区域 → 速度场/压力场」的映射学习，**训练真值仍由传统 CFD 产生**；若 ground truth 本身含数值扩散（见上方 v9 证据），模型学到的是**被伪造的扩散**，且误差不再可诊断。**判据：换用 AI 路线后，网格收敛性测试的义务从「每次运行」变成「每次生成训练集」，不能省略。**
+2. **可微分路线给「误差来源清单」增加了第四类** —— 此前已列为离散化 / 边界条件 / 本构模型三类；可微分求解器加入后，**自动微分图与数值格式的耦合**会成为新的误差与可复现性来源（同一套 PDE 在不同 AD 框架下梯度不一定一致）。
+3. **加速倍数是口径陷阱，与「够不够准」无关** —— DeepCFD 宣称的「约 3 个数量级加速」针对**稳态层流**；本页关心的分辨力门槛（0.03% 量级，见上一节）**没有被任何一条路线声明**。加速解决的是「能不能跑得起参数扫描」，**不解决「能不能分辨」**。
+4. **VLM 物理验证关卡是一条可迁移的
+

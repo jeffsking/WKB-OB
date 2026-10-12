@@ -1,0 +1,23 @@
+{
+ "batch": "S4_Resources_Open Innovation_09",
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "source_pages": 10,
+ "concept_pages": 7,
+ "entity_pages": 1,
+ "comparison_pages": 1,
+ "updated_existing": 5,
+ "manual_review": 9,
+ "notes": [
+  "source_pages 新建：Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）；81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）；SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）；83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）；SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）；87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）；82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）；Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）；Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）；Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）",
+  "concept_pages 新建：Multilayer SAP Core（多层SAP芯体）；In-line 3D Nonwoven Formation（在线三维成形非织造）；Glueless Bonding（无胶粘合工艺族）；High-Density Fluff Core（高密度绒毛浆芯体）；Repitch（鼓距与产品节距解耦）；Changeover Four-Layer Architecture（换型要素四层分层与变更控制）；Marketing Claim Translation Paradigms（市场宣称六大转化范式）",
+  "entity_pages 新建：Fameccanica（Angelini Technologies）（设备商，信息源，非供应商）",
+  "comparison_pages 新建：单牌号全511 vs 分层多SAP混底（性能·成本·供应链）（含成本与供应链风险两列）",
+  "updated_existing（只追加注 2026-09-29，未改既有结论）：Patterned SAP Core Forming Drum（追加 81 号 ups 选型方法论/落选路径/最紧档余量 0.8 mm/浪费量级）；SAP错峰膨胀（追加实证证据链与架构落地参数，判定「测试协议决定胜负」）；SAP Dosing Speed Matching（追加转阀脉冲频率 16.7 Hz 与 ups 无关、两类公差不可混用、真空风量 8-19× 口径冲突、SAP/胶工序顺序分歧）；Thermochromic vs Hydrochromic Wetness-Comfort Indicators（追加 20 家供应商矩阵与五阶段推进路线）；Rewet Method Comparison（追加 11 方法参数矩阵：回渗压力 670×、吸水纸张数 10×、温度 14 °C 三处跨度）",
+  "查重结论：本批 10 份 source_path 在 WIKI/sources/ 均无对应页（已在编译前用 source_path 字段精确比对 + 文件名模糊比对双重确认），无覆盖他人成果；同族已存在的 80/84/85/86 号源页与本批 81/82/83/87 号不重复（不同文件）",
+  "OI 编号纪律：本批未使用 OI 编号；Rewet 资料使用 TTM/STM 方法编号体系，已在页内注明「与 OI 编号无关、不得换算」",
+  "商务敏感处理（9 处 manual_review）：SAP 牌号单价 $/MT 与单只成本 US¢/片级（SAP Grade Selection 源页、单牌号全511 对比页、SAP错峰膨胀追加段）；温变湿变供应商联系人清单与 $/unit、MOQ、lead time（中文版源页 + 对比页追加段）；设备商待索取与询价缺口（Repitch、Changeover 概念页）；常量表合并脚本状态声明（SAP Dosing 追加段）；竞品宣称与在研管线重叠（Marketing Claim 概念页）。全部只记相对量级/技术判据/缺口，不落报价与条款",
+  "证据等级：81/82/83/87 号为 B 级一阶模型值（源件自述红线），已在页内复述「禁止裸写数字、不得作验收合同值」；87 号另注「手动并入原文前不得声称常量表已更新」",
+  "存疑：① 81 号源件文案「9 of 11 sizes ≤42 mm」与 P5 表重算为 8，已在页内标注以数据表为准；② 82 号 chassis pitch 全为假设值（芯长+110/130 mm），ratio 表须携带该标注；③ 87 号发现 SAP/胶工序顺序在 A 级会议纪要与 B 级工程方案间相反，已并列登记未做裁决；④ 真空风量整线口径与单鼓口径差 8–19×，已并列；⑤ 温变湿变供应商矩阵中 15 家候选未单独建实体页（仅登记于源页矩阵），待跨批再评估"
+ ]
+}

@@ -1,0 +1,31 @@
+# SEED: 胶束 Micelle
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 4 页，6 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[The Role of Surfactants]]  (3 句)
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Seymour Polymer Chemistry Ch08 Free Radical Chain Polymerization]]  (1 句)
+   • **Micelle 微团是主要聚合场所**，而非单体液滴。
+- **微团浓度 ~10²¹/L vs 单体液滴浓度 ~10¹⁴/L** (line 144, 216) —— 数量级差 10⁷，故自由基进入微团的概率远高于进入液滴。
+- **零长链/单自由基隔离效应**：每个微团内通常只有一个增长自由基，终止概率低 → 高分子量；微团数量巨大 → 总速率高。这是乳液聚合"高速率 + 高分子量"的物理化学根源。
+- 单体由液滴 → 水相 → 微团持续补充（line 187-188）。
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (1 句)
+   • **8. Surfactant complexation has a threshold.** "Surfactants bind to polymer chains cooperatively, i.e., in the form of micellelike nanoaggregates" (L904–905), starting above the critical association concentration, with **CAC < CMC** (L906–909). The annealed excluded volume obeys v_θ = v₀(1−θ²) + v₁θ² + 2v₀₁θ(1−θ) (Eq 2.21, L981).
+
+--- [[Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts]]  (1 句)
+   • **胶束 / 缔合体 / 介观球表征 Micelle, associate and mesoglobule data**
+

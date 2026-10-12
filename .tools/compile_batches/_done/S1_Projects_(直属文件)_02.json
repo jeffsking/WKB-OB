@@ -1,0 +1,68 @@
+{
+  "batch": "S1_Projects_(直属文件)_02",
+  "stage": "S1",
+  "block": "Projects/(直属文件)",
+  "source_pages": [
+    "IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）",
+    "IPC BCC OI Project List 17.9.2026（供应商明细版）",
+    "IPC BCC OI Project List 2026-09-18（重构版·19 项）",
+    "芯体花型设计评审会（录音纪要 20260724）",
+    "非织造芯体材料技术讨论会（Bryan 优先清单 2026-06-09）"
+  ],
+  "concept_pages": [
+    "IPC BCC OI Portfolio（开放创新项目组合）",
+    "Core Channel Pattern（芯体通道花型设计）",
+    "Biodegradable SAP（可降解高吸水树脂）",
+    "Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）",
+    "Moisture-Responsive Fibre（湿敏变形纤维）",
+    "Zeolite Odour Control（沸石除臭载体）"
+  ],
+  "entity_pages": [
+    "IPC BCC（K-C Baby & Child Care 材料开发团队）",
+    "C1 Life Biotech",
+    "Guoke Haina（国科海纳）",
+    "Dayuan（大原）",
+    "FENC（远东新世纪）",
+    "Emon Jiangsu（江苏益盟）",
+    "Rengo Nonwoven Products"
+  ],
+  "comparison_pages": [
+    "芯体通道花型方案对比（中轴 vs 叶脉 vs 八字 vs 特斯拉）",
+    "可降解材料路线对比（PPC-P+PBAT vs PDA vs 淀粉基 SAP）"
+  ],
+  "updated_existing": [
+    "IPC BCC OI 项目清单 2026 v2（2026-09-17）",
+    "REL增强层",
+    "分区密度设计",
+    "ATB双梳理面层（Dual-Card Topsheet）",
+    "三叶形截面纤维（Trilobal Fibre）",
+    "SAP错峰膨胀",
+    "SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）",
+    "海南拜瑞科",
+    "皖维高新",
+    "福地（Fudi）",
+    "江南高纤",
+    "延江（Yanjan）",
+    "诺尔（Nuoer）",
+    "Matsui Shikiso (松井)",
+    "CTI (Chromatic Technologies)",
+    "兰精集团",
+    "联欣环保科技（泰兴）",
+    "中科依兰"
+  ],
+  "manual_review": [
+    "供应商联系人姓名 / 邮箱 / 手机号（17.9 台账、两份清单内多处）—— 个人联系方式，不页面化",
+    "带 MOQ 的供应商报价（皖维 PVA、Rengo 电气石价格区间）与树脂级价格序列（联欣 PPC-P/PBAT）—— 报价类，不页面化",
+    "排他与合同类：电气石三方排他 MOU 触发条件与 APAC 签约主体、拜科瑞—恒安合作与现有 SAP 供应商排他条款核查、NDA/NNN/JDA 逐项签署安排",
+    "IP / 法务类：竞品纵向槽专利条款规避口径、异形纤维专利署名与撰写安排、OI-17 报价级成本（~0.09¢/pant）与 IP 收购标的个人姓名",
+    "会议录音中的合同修订与上市/法务事项（转写稿不完整，未页面化）"
+  ],
+  "notes": "本批 5 份来源均为 Projects 直属文件（中文年度大纲 v7 124KB、录音纪要 69KB、两份 OI 项目清单、Bryan 白板纪要）。全部新页按 §2.0 双语（英文正文 + 中文对照；小节标题双语、表头与关键行附中文）；文件名 / title / wikilink 三者完全一致，且已递归校验 20 个新页的全部出链为 0 断链。对比页均含「成本」「供应链风险」两列且逐行标源；成本缺失处一律标 [待验证]，未编造。批次内 ≥2 来源的要素才建概念页（IPC BCC OI Portfolio / Core Channel Pattern / Biodegradable SAP / Mineral-Powder Functional Masterbatch / Moisture-Responsive Fibre / Zeolite Odour Control）。既有页一律只追加并注 2026-09-29，未改写任何既有结论。⚠️ 两处需人工关注：(1) 组合口径存在四份不同清单（23 / 25 / 19 项，三套编号体系），已在概念页与 v2 源摘要页按 §5 记为「口径冲突」并明确不裁决；(2) 库内存在重复主题页（另一批次 S1_Projects_(直属文件)_01 就同一大纲英文版建立了「OI Portfolio（开放创新组合）」「Material Safety Control（材料安全双轨管控）」「Technology Roadmap 2026-2029（技术路线图）」「REL Variant C vs Option B Dual-Layer」「Degradable SAP Routes」），本批已交叉链接、未合并未删除。⚠️ 事故披露：因多批次并发写入，建 entities/Guoke Haina（国科海纳）.md 时 Write 返回 overwrote（该页由并发批次在数秒前创建），本批写入的内容已覆盖该页；已无法回滚，请人工复核该页内容（本批版本含基本盘 / PDA 性能 / 四类路径 / 供货历史 / 商务要点 / 来源）。未修改 index.md、log.md；未移动 / 重命名 / 删除任何既有文件；RAW / RAW_FULL / AGENTS.md 全程只读。",
+  "batch_files_read": [
+    "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Projects/录音纪要_260724133403.md",
+    "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Priority List From Bryan.docx.md"
+  ]
+}

@@ -1,0 +1,2064 @@
+[
+  {
+    "dir": "concepts",
+    "name": "2025.06.25 - Learning Cycle Check In（GRIFFIN 学习周期复盘）",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "87 卫材产线约束常量表（待并入补充行）",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "APAC 卫生纸产品矩阵（2017  workshop 预研）",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Ardex",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chromic Phenomena Introduction and Reversible Colour Change"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Case II 扩散",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Non-Fickian Diffusion (Crank Ch.11)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Cassie-Baxter Equation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "CFD 计算流体力学",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "CLC 手性向列晶",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "CMC 临界胶束浓度",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Contact Angle",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "CRC 离心保持能力",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Research Advances in Superabsorbent Polymers (Polymers 2024)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "CTMP 化学热磨浆",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Danufil 粘胶",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "DIC",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chromic Phenomena Introduction and Reversible Colour Change"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Donnan 溶胀",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "ES 纤维 ES Fiber",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "ES 纤维热风非织造布驻极性能初探"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "ES 纤维驻极研究",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "ES 纤维热风非织造布驻极性能初探"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Fiberscope",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Flory- Rehner Theory",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Acrylic-Based Superabsorbent Polymers"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Freundlich 等温线",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Diffusion and Chemical Reaction (Crank Ch.14)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "GATS 重力吸收测试",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fluid Absorption in High Bulk Nonwovens"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Grafted Cellulose and Starch",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "GST",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Hagen-Poiseuille Equation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "HEC 羟乙基纤维素",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Hercules Aqualon",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Hot Melt Adhesive",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Adhesive Technology Full Report"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "k-ε 湍流模型",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Klemm 法",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Absorbent Product Testing"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Lagrangian Particle Tracking",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Laplace 变换",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "LbL 自组装 Layer-by-Layer",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Marangoni Effect",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Navier-Stokes Equation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Nonwoven Lamination",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Adhesive Technology Full Report"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "PAA 聚丙烯酸",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Research Advances in Superabsorbent Polymers (Polymers 2024)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "PLA 玉米纤维",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Polyolefin Absorbent Materials",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Acrylic-Based Superabsorbent Polymers"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "PSA",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Adhesive Technology Full Report"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "PVAc 乳液",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 1 History and Information Resources"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "SAP 干燥 SAP Drying",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Industrial Drying"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "SBS 弹性体",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 3 Adhesive Classes"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Silane Coupling Agent",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Adhesive Technology Full Report"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "SMS 复合无纺布",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Polymer-laid web formation"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Stefan 问题",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Moving Boundaries (Crank Ch.13)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Stimuli-Responsive PCM",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Stimuli-Responsive Polymers",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "STM-00146",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "China-WI-62416 无纺布变形测试 20240201.docx"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Stokes Number",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "TPE Tetraphenylethylene",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Mechanochromic Fluorescent Polymers with AIE Features"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Videoimagescope",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "VO2",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Wenzel Equation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Wilhelmy 湿附力法",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Absorbent Product Testing"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Work of Adhesion",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "Young's Equation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "一氯乙酸 Monochloroacetic Acid",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "三相接触线 TPL",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "丙烯酸丙烯酸酯胶 Acrylic Adhesive",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 3 Adhesive Classes"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "东丽",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Nonwovens in Absorbent Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "两亲吸附 Amphipathic Adsorption",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "中空纤维 Hollow Fibre",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "乳化剂 Emulsifier",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cosmetic Formulation of Skin Care Products"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "亲水化 Hydrophilisation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Surface Tension and Surface Energy"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "亲水整理 Hydrophilic Finish",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Nonwoven fabric finishing"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "保湿剂 Humectant",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cosmetic Formulation of Skin Care Products"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "保留层 Retention Layer",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Products and Technology Perspective"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "健康监测 Health Monitoring",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Wearable Sensors Fundamentals Implementation and Applications"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "偶氮染料 Azo Dye",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Luminescence Fluorescence Phosphorescence and Electroluminescence"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "光致变色油墨 Photochromic Ink",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "全芯体 vs 混合芯体",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Nonwovens"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "再润湿剂 Rewetting Agent",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "分布层 Distribution Layer",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Products and Technology Perspective"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "动边界 Moving Boundary",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Moving Boundaries (Crank Ch.13)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "化妆品科学 Cosmetic Science",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cosmetic Science and Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "半胶束 Hemimicelle",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "协同吸附 Cooperative Adsorption",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "反应-扩散耦合 Reaction-Diffusion",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Diffusion and Chemical Reaction (Crank Ch.14)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "取代度 DS",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "变色材料 Chromic Materials",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Smart Textiles Review"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "可冲散拭布 Flushable Wipe",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chemical bonding"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "合金粘胶 Alloy Rayon",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "含水率 Moisture Regain",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "壳聚糖 Chitosan",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Research Advances in Superabsorbent Polymers (Polymers 2024)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "复合材料 Composite",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Absorbent Technology Introduction"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "复合膜 Composite Membrane",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Diffusion in Heterogeneous Media (Crank Ch.12)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "天丝 Tencel",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Wet-laid web formation"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "天然染料 Natural Dye",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "导电无纺布 Conductive Nonwoven",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Interactively Mechanochromic Electronic Textile Sensor"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "层压 Lamination",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Nonwoven fabric finishing"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "干燥角质化 Hornification",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Industrial Drying"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "微纤丝化纤维素 MFC",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "戊二醛 Glutaraldehyde",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "承压吸收 AUL",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fluid Absorption in High Bulk Nonwovens"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "抗菌整理",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "抗菌整理定量测试（AATCC TM100 _ AATCC 100）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "接枝共聚 Graft Copolymer",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "摩擦电自供电 TENG",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Self-Powered Photonic Sensor CLCE Sandwich"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "摩擦纳米发电机 TENG",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Wearable Electronics (National Science Review 2023)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "改性纤维素 Modified Cellulose",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "数值模拟 Numerical Simulation",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Numerical Methods for Diffusion (Crank Ch.8)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "斯托克斯位移 Stokes Shift",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Luminescence Fluorescence Phosphorescence and Electroluminescence"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "智能包装 Smart Packaging",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Wearable Sensors Fundamentals Implementation and Applications"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "有限体积法",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "有限元法",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "有限差分法 Finite Difference",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Numerical Methods for Diffusion (Crank Ch.8)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "有限差分法",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "木浆 Pulp",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Luminescence Fluorescence Phosphorescence and Electroluminescence"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "机械脱水 Mechanical Dewatering",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Industrial Drying"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "染料敏化太阳能电池 DSSC",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chromic Phenomena Solar Energy and Liquid Crystals"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "柔性电子 Flexible Electronics",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Wearable Electronics (National Science Review 2023)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "棉纤维 Cotton",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "植物基材料 Plant-Based Material",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "植物提取物 Plant Extract",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "每克厚度 T／W",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fluid Absorption in High Bulk Nonwovens"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "毛细管压力 Capillary Pressure",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Porous Structure and Liquid Flow Models"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "毛细管吸收 Capillary Sorption",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "毛细芯吸 Capillary Wicking",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Characterisation, testing and modelling of nonwoven fabrics"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "水性聚氨酯 Waterborne PU",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 3 Adhesive Classes"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "流变学 Rheology",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 2 Fundamental Aspects"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "浊点 Cloud Point",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "润湿 Wetting",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Book Review Handbook of Adhesion by Packham"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "润湿剂 Wetting Agent",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "深沟槽涤纶 Deep-groove Polyester",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "渗透率 Permeability",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Porous Structure and Liquid Flow Models"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "温度响应材料",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Hydrogel-based Superabsorbent Polymers"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "湿冷感 Wet-Cool",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "湿态压缩模量",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Absorbent Product Testing"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "湿态强度 Wet Strength",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "热传递 Heat Transfer",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "热粘合热风无纺布 Airlaid",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fluid Absorption in High Bulk Nonwovens"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "热致变色",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "热轧粘合 Calender Bonding",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Thermal bonding"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "热风非织造 Hot-Air Bonded Nonwoven",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "ES 纤维热风非织造布驻极性能初探"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "爆裂纤维 Burst Fibre",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "环氧氯丙烷 Epichlorohydrin",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "甲醛 Formaldehyde",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "电致发光 Electroluminescence",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Luminescence Fluorescence Phosphorescence and Electroluminescence"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "皮肤科学 Dermatology",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Cosmetic Science"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "硅烷偶联剂 Silane Coupling Agent",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 2 Fundamental Aspects"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "磷酸化纤维素 Phosphonoalkylcellulose",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "离子变色 Ionochromic",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chromic Phenomena Introduction and Reversible Colour Change"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "离子对吸附 Ion Pair Adsorption",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "稀释便液 BM simulant A",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "等电点 Isoelectric Point",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "粘合剂 Binder",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chemical bonding"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "粘胶 Rayon",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "粘附张力 Adhesion Tension",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "纤维 Fibril",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "纤维干燥 Fiber Drying",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Industrial Drying"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "纤维扩散 Fiber Diffusion",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Diffusion in a Cylinder (Crank Ch.5)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "纸浆干燥 Pulp Drying",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Handbook of Industrial Drying"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "纺粘熔喷 Spunbond-Meltblown",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Nonwovens in Absorbent Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "结构性常数 K",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fluid Absorption in High Bulk Nonwovens"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "羧甲基纤维素 CMC",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "聚合物分散液晶 PDLC",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Mechanochromic Elastomer from PDLC 5CB PDMS"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "聚合物刷 Polymer Brush",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "聚集诱导发光 AIE",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Mechanochromic Fluorescent Polymers with AIE Features"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胆甾相液晶 Cholesteric Liquid Crystal",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chromic Phenomena Solar Energy and Liquid Crystals"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胆甾相液晶弹性体 CLCE",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Self-Powered Photonic Sensor CLCE Sandwich"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胶乳 Latex",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Chemical bonding"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胶乳胶黏剂 Latex",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胶接热力学 Adhesion Thermodynamics",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Book Review Handbook of Adhesion by Packham"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胶接理论 Adhesion Theories",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 2 Fundamental Aspects"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胶束 Micelle",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "胶黏剂 Adhesive",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Adhesive Handbook Part 1 History and Information Resources"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "自-sizing Self-sizing",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "自由体积 Free Volume",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "舒美",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Nonwovens in Absorbent Materials"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "荧光增白剂 Optical Brightener",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Luminescence Fluorescence Phosphorescence and Electroluminescence"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "获取层 Acquisition Layer",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Products and Technology Perspective"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "蒙脱土 Montmorillonite",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "藻酸盐 Alginate",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Research Advances in Superabsorbent Polymers (Polymers 2024)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "虚拟原型 Virtual Prototyping",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Computational Modeling in Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "螺噁嗪 Spiroxazine",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Photochromism Dihydroindolizines"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "表面交联 Surface Cross-linking",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "表面活性剂 Surfactant",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "角化 Hornification",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Cross-linked Cellulose and Its Derivatives"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "解键剂 Debonding Agent",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "The Role of Surfactants"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "超分子 Host-Guest Chemistry",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Photochromism Dihydroindolizines"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "辐射冷却材料 Radiation Cooling",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Wearable Electronics (National Science Review 2023)"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "过滤材料 Filter Material",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "ES 纤维热风非织造布驻极性能初探"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "针刺 Needlepunching",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Mechanical bonding"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "银纳米线 AgNW",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Self-Powered Photonic Sensor CLCE Sandwich"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "香豆素 Coumarin",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Luminescence Fluorescence Phosphorescence and Electroluminescence"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "鸡毛纤维 Chicken-feather Fibre",
+    "type": "concept",
+    "citations": 1,
+    "cited_by": [
+      "Fibers and Fibrous Materials"
+    ]
+  },
+  {
+    "dir": "entities",
+    "name": "Koch Industries",
+    "type": "entity",
+    "citations": 1,
+    "cited_by": [
+      "Nonwovens in Absorbent Materials"
+    ]
+  },
+  {
+    "dir": "entities",
+    "name": "OxyChem",
+    "type": "entity",
+    "citations": 1,
+    "cited_by": [
+      "Absorbent Technology"
+    ]
+  },
+  {
+    "dir": "entities",
+    "name": "Sun Chemical",
+    "type": "entity",
+    "citations": 1,
+    "cited_by": [
+      "Chromic Phenomena Introduction and Reversible Colour Change"
+    ]
+  },
+  {
+    "dir": "entities",
+    "name": "东莞市天正纸业有限公司",
+    "type": "entity",
+    "citations": 1,
+    "cited_by": [
+      "CN 110776598 B（一种高吸水性树脂及其在尿不湿中的应用）"
+    ]
+  },
+  {
+    "dir": "concepts",
+    "name": "3D In-line Embossing Topsheet（3D 在线压花面层）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Acquisition Test STM-00060（导流性能测试）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "AHPs Stewardship Program 与 CODEX™ 痕量物质管控",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "BC Microgel（细菌纤维素微凝胶）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Changeover Four-Layer Architecture（换型要素四层分层与变更控制）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "ES 双组分弹性纤维热风布（弹性体改性）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "High-Density Fluff Core（高密度绒毛浆芯体）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "IFRA Standards 与 12 大产品类别体系",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Material Open Innovation Function（材料开放创新职能）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Mechanochromic变色纤维",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Nonwoven Process Classification（非织造布工艺分类）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Odor Control Technology Landscape（异味控制技术图谱）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Phenoxyethanol（苯氧乙醇）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Powdered Activated Carbon（粉末活性炭）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Pressure Sensory Test（压力触感测试）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "PTT（聚对苯二甲酸丙二醇酯）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "REL Splice Tensile Test（REL 拼接拉断力测试）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Repitch（鼓距与产品节距解耦）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Retention Capacity Test（滞留能力测试）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "SMS复合结构",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "Static Mannequin Test（静态假人测试）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "SymDeo™ XPP 抑臭聚合物",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "WVTR 测试口径（失重法 vs 增重法）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "两性离子高吸水树脂（纤维素接枝耐电解质）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "亲水-疏水梯度设计",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "功能性差别化纤维（PTT_超仿棉_纳米凉感）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "化妆品限用-准用组分体系（中国 2015 技术规范）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "咖啡炭纤维（异味吸附）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "尿液模拟液（Urine Analog）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "局部亲水印花面层（锥形孔导流）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "弹性热熔胶腰围（减压腰围）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "快速吸水自膨胀纳米纤维素材料（华东师大）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "感湿-感温双变色层大小便判别",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "扁平形截面纤维（Flat Fibre）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "抗菌整理定量测试（AATCC TM100 _ AATCC 100）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "抗菌除臭高吸水树脂（CNC 载体双功能 SAP）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "氨纶干法纺丝（Spandex Dry Spinning）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "生物基高吸水材料（大豆蛋白 SAP）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "纳米纤维素基高吸水树脂（茶渣-CNC 接枝）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "超高腰护脐结构（5-10cm 腰围）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  },
+  {
+    "dir": "concepts",
+    "name": "透气弹性腰围（打孔氨纶）",
+    "type": "concept",
+    "citations": 0,
+    "cited_by": []
+  }
+]

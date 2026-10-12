@@ -1,0 +1,86 @@
+# SEED: BM Simulant A（便液模拟液 A）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 11 页，27 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[TTM-00445 BM Run-off.docx]]  (5 句)
+   • **BM（便液）滑渗测试 TTM-00445（第 0 版，2021-02-28）**：在 **30° 倾斜台**上用 **BM gun 注入 11 mL（或 30 mL 爆漏量）便液模拟液**，记录便液在产品上的**铺展尺寸（CD/MD）**与**滑落到下方圆碗中的 BM 质量**——回答"稀便会不会顺着产品表面跑掉"。
+   • 测试液：按 BM simulant A配方 & BM gun操作.docx 配制 **BM simulant A**，实验前放置至室温；**BM : 生理盐水 = 3 : 1** 代表**稀便**（推荐配比 **Simulant A 300 mL + 生理盐水 100 mL**），以 **350 rpm 匀速搅拌 30 s** 混合均匀。样品：建议产品 **MD 长度至少 200 mm、CD 至少 50 mm**。装置与定位：**产品台调至 30° 倾斜**，下端放**圆碗**承接滑落的 BM；**固定摄像头对准样品区中心**；产品放在架子台面上用**磁铁固定**，**产品下边缘须与台面下边缘平齐**，注液点位于**产品上边缘之下**且高度统一；**BM gun 喷嘴距纸尿裤约 240 mm** 并对准注液点。步骤：**开始录像** → 1–3 s 后按 INSULT 注入 **11 mL** → **等待 30 s** 让产品充分吸收 → 测量记录：① 产品上 BM 区域的**最大 CD 长度**；② **最大 MD 长度**；③ **BM 滑渗量**。数据记录表含 Trial、Ma
+   • **BM 滑渗同时输出"铺展尺寸 + 滑落质量"，因为稀便的行为由黏度而非吸收速度主导** —— 支撑页：BM Simulant A（便液模拟液 A）
+- **3:1 稀释比是"稀便"的约定，改变配比即改变流体** —— 支撑页：BM Simulant A（便液模拟液 A）
+- **30° 是尿与便共用的倾角，但液体与注液量完全不同** —— 支撑页：Run-off & Leakage Test（滑渗与渗漏测试）
+   • 概念：BM Simulant A（便液模拟液 A）、Run-off & Leakage Test（滑渗与渗漏测试）、Mannequin BM Test（BM 假人测试）
+- 对比：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗）
+
+--- [[BM simulant A配方 & BM gun操作.docx]]  (4 句)
+   • **BM（Bowel Movement，便液）测试的两件基础设施**：一是 **BM simulant A 便液模拟液的配方与配制规程**，二是 **BM gun（便液注射枪）的操作规程**——凡本库涉及 BM 摄入、BM 滑渗、BM 假人的方法，都建立在这份配方与这套操作之上。
+   • **配方（w/w）**：光明® 低脂无蔗糖酸奶（2% 脂肪，保质期内）：McCormick® 姜黄根粉：欧福® 100% 蛋白液：Knox® 明胶（无香型）= **57 : 3 : 39.6 : 0.4**（例：总量 200.00 g = 酸奶 114.00 g + 姜黄根粉 6.00 g + 蛋白液 79.20 g + 明胶 0.80 g）。另需 **1.3% DAWN® 超浓缩餐具清洁剂溶液**（1.30 g DAWN + 98.70 g 纯水）。**步骤**：先用恩培 5-450 低速搅拌机把四种成分在 **室温 21–25 ℃** 下以 **50 RPM 搅拌 5 min**（搅拌中须把附着杯壁的原料刮回）；随后按**每 200 g 混合物加入 2 g 的 1.3% DAWN 溶液**，再以 **50 RPM 搅拌 2 min**。**熟化与储存**：Simulant A 制备后须**静置 24 h** 方可使用；可在 **7 ℃ 下储存最长 7 天**；**每次使用前在室温静置 1 h**。
+   • **BM 模拟液是"酸奶基 + 表面活性剂"体系，靠熟化 24 h 建立稳定流变** —— 支撑页：BM Simulant A（便液模拟液 A）
+- **BM gun 的大口/小口切换，把"吸便"与"吸尿"两种工况并入同一台设备** —— 支撑页：Mannequin BM Test（BM 假人测试）
+- **母液必须按比例稀释后才代表特定便型（稀便 3:1）** —— 支撑页：BM Simulant A（便液模拟液 A）
+   • 概念：BM Simulant A（便液模拟液 A）、Mannequin BM Test（BM 假人测试）、尿液模拟液（Urine Analog）
+- 对比：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗）
+
+--- [[Mannequin BM Test（BM 假人测试）]]  (3 句)
+   • 1. **为什么 BM 要单独一套方法**：便液与尿液的流变、颗粒物、黏度不同，SAP 对便液基本不吸收（吸收主要靠**绒毛浆/无纺布的毛细与过滤**）；因此 BM 测试考察的是**"封住 / 摊开 / 不让返出"**的能力，而不是容量。
+2. **两条路径各自的定位**：
+   - **可视化路径（TTM-00234）**：假人穿着 → 标准动作（摇动 + 坐起）→ 拍照。用途明确写为**照片分析、消费者测试、感官测试**——**没有数值门槛**；
+   - **量化路径（TTM-00466）**：平铺在亚克力板上 → BM gun 注液 → 0.25 PSI 滤纸反渗 → 称重，得到**回渗 BM 量**与**吸收 BM 量**。
+3. **两条路径共用 BM Simulant A**（见 BM Simulant A（便液模拟液 A）），但稀释与注液量档位各自定义。
+4. **注液量档位对应两个场景**：（宝宝单次平均，TTM-00466 为 11 mL）与 （大量涌出，TTM-00466 为 30 mL；TTM-00234 的 BM gun 键名相同）。
+5. **定位基准两套并
+   • 配方口径：BM Simulant A（便液模拟液 A）
+- 尿液对应方法：Rewet Test（回渗测试）（公式同构、载荷不同）、Cradle Intake Test（Cradle 摄入测试）
+- 部件侧：绒毛浆（Fluff Pulp）（BM 主要靠绒毛浆/无纺布滞留）、ADL（导流层）、分区密度设计
+- 上位索引：芯体测试方法与验收基准（STM）
+   • **教训一（口径）**：**BM 的 Rewet 公式与尿液 Rewet 同构（湿−干），但压力（0.25 PSI）与压合时间（30 s）都更轻更短**；直接套用尿液回渗门槛会误判。
+- **教训二（口径）**：**BM 注液点以"距后边缘"定位，与尿液的"距产品中心"不同基准**，换算前须核实产品几何。
+- **教训三（用途）**：**假人路径的产出是照片，不是合格/不合格判定**；把它当验收门槛使用属误用。
+- **待补 **：BM gun 注液的速度/加速度列含义（提取件列对应不清）；BM Simulant A 的完整配方；两条路径与消费者实测的相关性。
+
+--- [[Product Report-Out FB.xlsx]]  (3 句)
+   • Feedback themes: (1) alignment across FEI/BCC forums with a request to rank "Time to Change（更换提示）" above "Skin Dryness（肌肤干爽）" in gap analysis — tied to a PC-materials work-intake request, to be folded into a broader fluid-distribution brief; (2) BCC global asks to connect intake requirements with core & chassis strategies（fit-to-body changes alter intake requirements; bucket-volume changes alter intake）and to clarify goal definitions — is skin healing inside the actives sub-benefit? Is responsiv
+   • **摄入战略的下一阶段以"流体分布"专项先行，RBM（BM 相关）押后** —— 支撑页：BM Simulant A（便液模拟液 A）
+   • 概念 Concepts：BM Simulant A（便液模拟液 A）
+- 实体 Entities：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx]]  (3 句)
+   • **便液假人（mannequin）可视化测试**（第 0 版）：把纸尿裤穿到婴儿假人身上、注入 BM simulant A，按标准化的"摇动 + 坐起"动作协议取吸便后的真实状态照片，供照片分析、消费者测试与感官测试使用。
+   • 本测试用于模拟躺的姿势下纸尿裤吸便后的真实状态，获取的照片可用于照片分析、消费者测试、感官测试。测试前按配方调配模拟便便（BM simulant A）并放置至室温，确认宝宝 BM 注液管状态正常并与 BM gun 连接。BM gun 有 Large（30 cc，Blowout 键）与 Small（1 cc，Insult 键）两档。测试步骤：称量记录纸尿裤干重（g）；把两张擦手纸对折并称量干重；将纸尿裤穿着到对应尺寸的 mannequin 上（穿着位置按"纸尿裤后端边缘距离 mannequin 后边缘"的表定值，NB 13.9、1 号 20、2 号 24.3 mm），并用马克笔在假人正面与背面标记纸尿裤位置以保证每片都穿到相同高度；把假人放倒成躺姿，按 Insult 或 Blowout 键注液后倒计时 5 min；躺姿下摇动假人，从左脚贴着工作台到右脚贴着工作台来回 5 次；抓住假人顶部的环使其坐起来、双脚伸直，倒计时 15 s；15 s 后让假人重新躺下并重复摇动，之后保持躺姿直到注液后 5 min 倒计时结束；小心取下纸尿裤、用擦手纸擦净所有可见 BM 并称量擦手纸与纸尿裤湿重；最后
+   • 概念：Mannequin BM Test（BM 假人测试）
+- 配对方法：TTM-00466 BM Benefit Visualization Validation.docx（同源 BM simulant A，改用恒定压力与称重读数）
+- 上位索引：芯体测试方法与验收基准（STM）
+
+--- [[TTM-00466 BM Benefit Visualization Validation.docx]]  (3 句)
+   • 本测试用于测试恒定压力下纸尿裤吸收 BM 的能力。测试前按配方调配 BM（BM simulant A），放置至室温；BM 与生理盐水以 3:1 混合代表稀便（Runny），以 350 转速匀速搅拌 30 s（对应 300 mL simulant A + 100 mL 生理盐水）。把产品平铺在带 Velcro 的亚克力板上，用马克笔标记注液点（位置按"注液点距离纸尿裤后边缘"表：NB 118 mm、1 号 171 mm、2 号 192 mm、3 号 207 mm），用 post 贴标记每片产品名称与编号；按表剪裁滤纸；支起支架、调整固定镜头距离与灯光；用水浴锅把生理盐水加热至 37±1 ℃，并把 BM simulant 放置至室温。注液量分 11 mL（insult，Step 1 宝宝平均注液量）与 30 mL（blowout，高注液量）。实验步骤：记录纸尿裤干重后平铺在亚克力板上，标记并保证每片粘贴位置一致、后边缘在同一水平线上；把 BM gun 喷嘴对准标记注液点、喷嘴距纸尿裤约 240 mm；按 Insult 键并计时 5 min；5 min 后记录滤纸干重，在纸尿裤有 BM 区域
+   • 混合条件：350 转速匀速搅拌 30 s。
+- 生理盐水 37±1 ℃；BM simulant 放置至室温。
+   • **BM 的 Rewet 公式与尿液 Rewet 同构（湿重 − 干重），但压力与压合时间不同** —— 支撑页：Mannequin BM Test（BM 假人测试）、Rewet Test（回渗测试）
+- **BM 注液点以「距后边缘」定位，与尿液的「距产品中心」定位基准不同** —— 支撑页：Mannequin BM Test（BM 假人测试）
+- **本方法与 TTM-00234 共用 BM simulant A，形成「可视化 + 量化」一对** —— 支撑页：Mannequin BM Test（BM 假人测试）、TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx
+
+--- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]  (2 句)
+   • **试剂准备**：按配方调配 BM（**BM simulant A**），另备 **0.9 ± 0.005%（w/w）生理盐水**，两者**均加热至恒温 22 ± 1 ℃**。**全部使用 BM simulant A 代表正常便便**；**BM : 生理盐水以 3 : 1 混合代表稀便**，以 **350 转速匀速搅拌 30 s** 混合均匀。配方用量表：Normal 型 Simulant A **400 mL**（不加盐水）；Runny 型 Simulant A **300 mL** + 生理盐水 **100 mL**。
+   • **BM 假人法把 BM 去向拆成吸收 / 假人残留 / 面层残留三段，三者之和为 BM 总量** —— 支撑页：Mannequin BM Test（BM 假人测试）
+- **BM 模拟液分 Normal（纯 Simulant A）与 Runny（3:1 兑盐水）两档，是稀便场景的必要区分** —— 支撑页：尿液模拟液（Urine Analog）
+- **BM 测试在常温 22 ± 1 ℃ 下进行，与尿液法的加温口径不同** —— 支撑页：Mannequin BM Test（BM 假人测试）
+- **穿着位置按尺码精确定位（13.9 / 20 / 24.3 mm），是假人法结果可比的前提** —— 支撑页：Static Mannequin Test（静态假人测试）
+- **「腿侧不得漏盐水」是本方法的硬性剔除判据** —— 支撑页：Mannequin BM Test（BM 假人测试）
+- **压力单位在原文内部不一致，是本方法最需人工核对的点** —— 支撑页：芯体测试方法与验收基准（STM）
+
+--- [[BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗）]]  (1 句)
+   • TTM-00445 BM Run-off.docx —— 
+- GB-T28004-2011 滑渗.doc —— 
+- TTM-00279产品30°滑渗测试.docx —— 
+- 概念页：BM Simulant A（便液模拟液 A）、Run-off & Leakage Test（滑渗与渗漏测试）
+- 相关对比：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279）
+
+--- [[Mannequin 三条假人测试路线对比（Static vs Motion vs BM）]]  (1 句)
+   • 三条路线**共用平台与 17 区漏点体系，但液体、温度、注液口径三要素各自独立**：静态与动态可互认液体与管路校准（同为 0.1 g 牛黄酸胆酸钠 + 1 L 盐水、37 ± 1 ℃、±3% / ±1%），而 BM 支为 **22 ± 1 ℃ + BM simulant A**，属完全独立口径。**跨路线引用数值前，必须先核对液体与温度。**
+
+--- [[KC Nanjing Plant（金佰利南京厂）]]  (1 句)
+   • **2026-09-29**：本批编译的南京厂方法包括 **STM-00040（厚度，第 2 版）、STM-00059（反渗，第 3 版）、STM-00090（腰围密封强度，第 5 版）、STM-00440（腰围皮筋张力，第 3 版）、STM-01078（OD 折叠后长宽，两份副本）、WI-56934（CIDER 3D 压花层压强度）**，以及引国标的 **GB/T 28004.1-2021 交货水分测定**；BM 类方法（**BM simulant A 配方 & BM gun 操作、TTM-00445 BM Run-off**）出自  目录，属南京厂 BM 测试能力。
+- **2026-09-29**：**"一界面两方法"现象再次出现**——3D 面层↔支持层有 **WI-56934（在线复合）与 WI-57507（压纹压合）**两条，说明南京厂**按工序而非按界面建方法**。
+- **2026-09-29**：**"一方法两副本"现象在本批再次出现**（STM-01078 存于  与 ），与批次 05 的 STM-01086 情况相同——**IMA 同步层存在同文多存**，引用时须
+

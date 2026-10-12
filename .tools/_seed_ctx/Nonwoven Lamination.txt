@@ -1,0 +1,167 @@
+# SEED: Nonwoven Lamination
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Adhesive Technology Full Report
+#
+# 全库正文命中 279 页，452 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热风无纺布]]  (6 句)
+   • **热风无纺布（air-through / through-air bonded nonwoven，亦称 热风粘合无纺布）** is a **thermally bonded nonwoven** in which the web is bonded by **hot air passing through it**（热风穿透）. Bonding relies on the **sheath (e.g. PP/PE) partially melting below the sheath/core melting-point gap and re-crystallising into a more perfect crystal form**, which sets the structure permanently; the **through-air temperature must be slightly above the sheath melting point yet not high enough to destroy the core (PET/PP) orientati
+   • The vault carries several overlapping headings for this material/process — 热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven — see Open Questions（源：本页 cited-by 与全库同名标题）.
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+
+--- [[等离子处理 Plasma Treatment]]  (6 句)
+   • The vault never defines plasma treatment as a process; it treats it functionally, as a **dry** route to fix polypropylene's poor wettability — *"Plasma fixes PP's poor wettability dryly"* and *"Plasma makes PP hydrophilic for hygiene without wet chemistry"*（源：Nonwoven fabric finishing）。It is grouped with the emerging/developing finishing technologies (alongside microencapsulation, laser etching, biomimetic lotus-leaf and electrochemical routes)（源：Nonwoven fabric finishing）。
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Demonstrated mechanism evidence.** The vault's only worked example is O₂-plasma on PP **blood filters**, where improved wetting gives *much higher* flow（源：Nonwoven fabric finishing）。
+   • **Dry vs wet route.** Plasma is presented as the alternative to the wet-chemical finishes catalogued in the same source (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV finishes)（源：Nonwoven fabric finishing）。The adjacent spin-finish source adds the durability context that motivates a dry route: surfactant-type finishes are subject to **thermal migration** — the surfactant migrates to and enriches on the fibre surface on heating, so hydrophilicity decays over time（源：Man
+
+--- [[Nonwoven 非织造布]]  (5 句)
+   • A nonwoven resists a single clean definition — the field is **convergent and boundary-crossing**, because the industry drew on textile, paper and polymer-processing practices（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工）（源：Development of the nonwovens industry）. The vault fixes the **EDANA and INDA definitions** and classifies nonwovens into **drylaid, wetlaid and polymer-laid (spunmelt)** families. These three process families trace to three mother industries: **drylaid → textiles, wetlaid → papermaking, p
+   • **Position-based acceptance（按位置验收）：** the CN standard FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布） organises diaper-nonwoven acceptance by **in-diaper position** — topsheet, backsheet, leak cuffs, ADL, core wrap, waist/side-tape — rather than by process; every property is anchored to the GB/T 24218 test-method series（源：FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布））. **Fibre fineness is not monotonic** — US7195621B2 records that ultra-fine 0.5–2.5 µm meltblown lost both breat
+   • Nonwovens are the load-bearing substrate of every hygiene article layer in this vault: **topsheet（Topsheet（面层））**, **ADL（ADL（导流层））**, core wrap / SAP carrier（Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））, backsheet（Film-Free Backsheet（无膜背层）、Meltblown Nonwoven（熔喷非织造布））and elastic/laminates. The dominant hygiene process families — **热风无纺布（air-through）**, **纺粘 Spunbond**, **熔喷 Meltblown**, **水刺 Hydroentanglement** and their composites（SMS 纺粘熔喷复合、SMS复合结构）— draw on **双组分纤维 Bi
+   • The vault does not carry a single unified numeric property table (gsm × tensile × permeability) for the REL core's own nonwoven stack .
+- MD/CD anisotropy and inter-fibre bond failure mechanics are explicitly **not covered** by the polymer-science chapters (Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）.
+- A named supplier-to-layer mapping for the current REL core build is not evidenced .
+
+--- [[熔喷 Meltblown]]  (5 句)
+   • 熔喷（meltblown）与纺粘（spunbond）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 熔喷非织造布即 **meltblown nonwoven / 熔喷 PP 纤维（meltblown polypropylene）**，以高速热气流牵伸熔融聚合物形成超细纤维网。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造）、Polymer-laid web formation）
+- **树脂牌号分野**：纺粘用 ~35 MFR 的 CR 均聚物；熔喷用 **≥500 MFR、窄分子量分布（narrow-MWD）** 牌号 —— 这是熔喷与纺粘在树脂选型上的分界。（源：Handbook of Polypropylene and Polypropylene Composites）
+   • **阻力限制牵伸（drag-limited attenuation）**：纤维与空气射流达到**速度匹配**后，质量守恒即锁定直径（d ∝ v /(m·Λ·v_a)·…）；**熔体粘度只改变「多快达到匹配」**，不改变最终直径 —— 285 °C 时距模头 2.4 mm、250 °C 时 2.7 mm 达到匹配。（源：Meltblown Nonwoven（熔喷非织造布））
+- **三个真实杠杆**：降低单孔产量（cut g/hole/min，0.73 → 0.20，固定线产量下对应 35 → 130 hpi）、提高射流速度（150 → 250 m/s 带来 2.85 → 2.21 µm，随后饱和），以及「nothing else」。（源：Meltblown Nonwoven（熔喷非织造布））
+- **纤维细度不由温度买来**：在工业窗口内纤维直径受**阻力限制**（由单孔产量与射流速度设定，非熔体粘度）；模头温度 250 → 300 °C 使模拟直径变化 < 1%。（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））
+
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • SMS 各层的**克重配比与阻隔性能的定量关系**，本库暂无来源 。（源：SMS复合结构）
+- SMMMS 的**实测（非模拟）静水压**与单束成形 CV 仍缺 。（源：SMS复合结构）
+- **专利范围警示**：US7195621B2 摘要 / SUMMARY 讲的是 backsheet，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上 —— 读范围时须注意 。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- 上述数据在来源中的**页码待核** 。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (5 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • **Water-based systems:**
+- Water-based PU: no VOC, nonflammable [Part 3, Line 11060–11061]
+- Water-based acrylic emulsion: widely used in wet-wipe lamination
+- Starch adhesive: synergistic with pulp procurement, $730M market [Part 3, Line 3531]
+
+--- [[Hygiene Absorption Model]]  (4 句)
+   • **5. 结构→性能：** performance = composition × structure，尺寸参数 + 测试标准汇编 + 建模三段式构成量化工具体系（源：Characterisation, testing and modelling of nonwoven fabrics）。
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Specific Air Volume]]  (4 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • **Terminology — is "specific air volume" identical to the vault's "void volume"?** The two are used on a per-mass (cm³/g) basis in adjacent pages, but no source read here states they are the same quantity; keep them distinct until a source defines the equivalence（相关页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、REL增强层）.
+- No source read here gives an absolute measured **V_s value (cm³/g)** for a KC core or a named commercial nonwoven .
+- The packing-fraction range 0.025–0.10 is quoted for webs 
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[气铺 Airlaid]]  (4 句)
+   • Airlaid（air-laid / airlaying，气铺/气流成网）is the **dry-laid web-formation route based on aerodynamic web formation**（气流成网）. The dry-laid chapter progresses from carding physics through feed/weight control to cross-lapping and perpendicular laying, and **"culminates in airlaying (aerodynamic web formation)"** whose raw-material science is **wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends**（源：Dry-laid web formation）. In the hygiene handbook it is one of the forming processes ma
+   • **Aerodynamic web formation**（气流成网）: the endpoint of the dry-laid route; input materials are wood pulp, man-made fibres, SAP and bicomponent blends（源：Dry-laid web formation）.
+- **Four-factor causal chain** for nonwoven absorbent structures: Constituent Fiber → Assembly Structure (Web Assemblage) → Type of Bonding → Finish — "Each of these factors can have an effect on the absorbency of the resulting structure"；采购评审须按序追问而非单一比价（源：Nonwovens in Absorbent Materials）.
+- **Binding–absorbency trade-off*
+   • **ADL / acquisition layer**: hydrophobic synthetics preserve wet bulk; pulp + SAP blends form the nappy acquisition layer（源：Dry-laid web formation）. The ADL density gradient — upper 1/3 low density（大孔隙、快速获取）, lower high density（细密毛细管、高压差）— is the chapter-3 capillary-pressure principle engineered into the product（源：Nonwovens in Absorbent Materials）.
+- **Composite-core build**: a typical composite-core stack is **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**（源：Complex Core Landscape in China（201
+   • Absorbent Technology
+- Computational Modeling in Absorbent Technology
+- Nonwovens in Absorbent Materials
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）
+- High-Density Fluff Core（高密度绒毛浆芯体）
+- Main S.p.A.（SOFTCARE HAF）
+- SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）
+- Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）
+
+--- [[Absorbent Technology]]  (4 句)
+   • The definitive reference on absorbent product materials and technology: a complete material→structure→product causal chain from porous-media fluid flow theory (Péclet, Darcy, Washburn) through fiber/nonwoven engineering and SAP chemistry to product integration and testing.
+《吸液技术》——吸液产品材料与技术的最权威参考专著，从多孔介质液体流动理论出发，经纤维/非织造工程与 SAP 化学，最终落地到产品整合与测试评价，构成完整的材料→结构→产品因果链。
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • Nonwovens in Absorbent Materials — 第 10 章｜无纺布在吸液材料中的应用（**四要素架构、12 种成形工艺、SMS/SMMS、ADL 密度梯度**）
+- Absorbent Product Testing — 第 11 章｜吸液材料测试技术（**测试金字塔、Wilhelmy 法、INDA/Klemm/Cobb、企业专有 in vitro**）
+- Products and Technology Perspective — 第 12 章｜产品与技术视角（**三层功能模型、绒毛浆 51g→29g→16g 演进、子层、生物纤维素远期路线**）
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[Development of the nonwovens industry]]  (4 句)
+   • Chapter 1 (by A. Wilson) is the orienting frame of the Handbook: it establishes the definition, taxonomy, raw-material dominance and market structure of the nonwovens industry, deliberately positioning nonwovens as a sophisticated, R&D-intensive sector with hygiene-disposables as its single largest end-use.（中文：第 1 章是全书框架章，确立无纺布定义、三族分类、原料格局与市场结构，并明确卫生用品是最大终端。）
+   • The chapter opens by acknowledging that any definition of "nonwoven" carries exceptions, because the industry drew on textile, paper and polymer-processing practices.（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工。）
+- It fixes the EDANA and INDA definitions and classifies nonwovens into drylaid, wetlaid and polymer-laid (spunmelt) families.（锚定 EDANA/INDA 定义，将无纺布分为干法/湿法/聚合物成网三族。）
+- Raw materials are surveyed with polypropylene dominant; man-made fibres exceed 90% of total output (PP 63%, PET 23%, viscose 8%).（
+   • Nonwovens resist a single clean definition — the field is convergent and boundary-crossing.（无纺布无单一洁净定义，属跨界聚合产业。）
+- Three process families trace to three mother industries: drylaid→textiles, wetlaid→papermaking, polymer-laid→polymer extrusion.（三工艺族分别源自纺织、造纸、高分子挤出。）
+- Hygiene is the dominant end-use, justifying the book's hygiene-centred lens.（卫生用品是主导终端。）
+- PP's 63% share is the master variable for polymer/process choice in hygiene nonwovens.（聚丙烯 63% 占比决定卫材无纺布的聚合物与工艺选择。）
+   • 父书：Handbook of Nonwovens
+- 概念：SAP（高吸水树脂）、纺粘 Spunbond、热风无纺布、Topsheet（面层）、吸收芯体
+- 工艺族：Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation、Mechanical bonding、Thermal bonding、Chemical bonding
+

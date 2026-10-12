@@ -1,0 +1,83 @@
+# SEED: 聚合物分散液晶 PDLC
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Mechanochromic Elastomer from PDLC 5CB PDMS
+#
+# 全库正文命中 9 页，17 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[液晶 Liquid Crystal]]  (3 句)
+   • **Mechanochromic route.** A nematic liquid crystal (**5CB**) dispersed in a PDMS matrix (PDLC) is the material basis of a mechanochromic elastomer（源：Mechanochromic Elastomer from PDLC 5CB PDMS）。
+   • **Adjacent chromic/optical material families** that share the LC chromic chemistry主线: Chromic Phenomena Solar Energy and Liquid Crystals is described as the base page for the library's LC / chromic-chemistry main line, and Mechanochromic Elastomer from PDLC 5CB PDMS is the pressure-responsive branch（源：Introduction to Liquid Crystals）。Note the antiferroelectric work is aimed at a **room-temperature** device — i.e. pushing the $S_{Calt}$ phase window down into ambient conditions — which is the sam
+   • Chromic Phenomena
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- Mechanochromic Elastomer from PDLC 5CB PDMS
+- Physics of Liquid Crystals (Book Review)
+- Introduction to Liquid Crystals
+- Antiferroelectric Liquid Crystals
+- Liquid Crystalline Polymers Smart Applications
+- Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 
+
+--- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]  (2 句)
+   • **路线 B（PDLC 机械变色膜，5CB–PDMS）**：配方 Sylgard 184 PDMS 预聚体与固化剂 **30:1** 重量比，加入 **5 wt% 5CB**（Kingston Chemicals），搅拌 1 min、脱气、玻璃基底浇铸、**120 °C 固化 20 min**，膜厚约 1 mm；应变 0 → 0.7 对应透光率 **20% → 75%** 连续可调；压缩态与松弛态透光率差异达 50%。风险：**水/尿液环境下稳定性未验证（最大开放风险项）**；现有论文以压缩/单轴应变表征为主，需重做反复拉伸循环寿命；5CB 为环境敏感化学品，需评估贴身合规与迁移。
+   • 本地路径：
+- 原文链接：（无；内部评估报告）
+- 引用来源（文件自述）：本库已收录的 LCE 自供电光子传感器、MET 交互式机械变色电子织物、全息结构色机械变色薄膜、PDLC 机械变色弹性体、US 10,905,605 / US 8,273,939 / US 2007/0270773 A1 / US 5,197,958 / US 5,389,093 / US 2022/0125319 A1 专利拆解报告、IMEC 柔性可拉伸电子报告、聚合物黏弹性教材拆解报告
+
+--- [[Introduction to Liquid Crystals]]  (2 句)
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+   • Antiferroelectric Liquid Crystals — 同一底层工作的另一份摘录（DeepRead），化合物、基准物与 DSC 数值相同，二者互为重复而非独立佐证。
+- Chromic Phenomena Solar Energy and Liquid Crystals — 本库液晶/变色化学主线的基础页，本文的相变-织构方法在此有更完整的化学背景。
+- US20070270773A1 Thermochromic Wetness Indicator — 卫生用品湿热指示专利，是本文"温度触发光学响应"在卫材场景的实际落地形态。
+- Mechanochromic Elastomer from PDLC 5CB PDMS — 以向列相液晶 5CB 分散于 PDMS 的力致变色体系，与本文反铁电近晶体系构成液晶应用的两条不同分支。
+
+--- [[Liquid Crystalline Polymers for Smart Applications]]  (2 句)
+   • Directly useful for a **light- or stimulus-triggered release or wettability** concept: finding 4 (UV → contact angle drop) and finding 6 (stable capsule, triggered release with a ~20 min plateau) are the proof-of-mechanism for any "core releases an active on stimulus" claim, including odour-control or skin-care additive delivery in a topsheet or core.
+- Finding 7 is the strongest transferable idea: **orientation (processing history) buys property**, here humidity-independent transport. The same 
+   • Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene — thesis Ch.1 as a standalone chapter page
+- Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester — thesis Ch.2 as a standalone chapter page
+- An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks — thesis Ch.3 as a standalone chapter page
+- Applying Nature's Genius to Discotic Liquid-crystal Po
+
+--- [[Mechanochromic Elastomer from PDLC 5CB PDMS]]  (2 句)
+   • **PDLC 定义** — "PDLCs are immiscible mixtures of liquid crystal and polymer." (L29)
+- **结构** — "PDLC materials consist of micron sized nematic liquid crystal droplets dispersed in a polymer matrix." (L30-L32)
+- **光学调控三要素** — "Optical behavior is affected by anchoring energy, size and shape of droplets, and refractive index contrast." (L36-L37)
+- **工作原理** — "Reorienting the droplets changes how light is transmitted." (L34) — 散射（SCATTERED）↔ 透射（TRANSMITTED）两个可切换状态
+- **从电场驱动转向机械驱动** — 多数现有 PDLC 用电场驱动
+   • **可拉伸可视化指示膜** — 薄膜以机械应变驱动透光/光学状态变化，原理上可做成"受压即变透光或变散射"的指示条，用于尿裤弹性腰贴松紧可视化、吸收芯受压状态提示。**须验证水/尿液环境下 5CB–PDMS 体系的稳定性（推演）。**
+- **智能包装 / 运输损伤与开包指示** — PDLC 类机械变色膜贴在卫生用品外包装上，挤压或跌落即改变外观；30:1 配比 + 120 °C 固化的简单工艺与包装膜复合可行性较好（推演）。
+- **柔性光学传感基材** — PDMS 是成熟的柔性/生物相容基材，5 wt% 液晶掺杂薄膜可作低成本光学传感元件，与卫生用品"感知 + 可视化"升级方向一致（推演）。
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (2 句)
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+   • US20070270773A1 Thermochromic Wetness Indicator — the disposable-implementation counterpart to this review's chromic taxonomy
+- Chromic Phenomena Solar Energy and Liquid Crystals — underlying physical chemistry of the chromic mechanisms listed in §4.1
+- Mechanochromic Elastomer from PDLC 5CB PDMS — pressure-chromic route, one of the seven mechanisms, developed further
+- Interactively Mechanochromic Electronic Textile Sensor — the printed-PEDOT / e-textile strain-sensor route from §3 in concrete 
+
+--- [[Smart Fabrics and Networked Clothing]]  (2 句)
+   • The only idea with genuine pull is **fibre-level function without losing handle** (finding 2 and 3): making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces. The article's candid statement that as-prepared CNT fibres **fail** on softness and processability is a useful negative result — it indicates a CNT-based route is premature for a disposable.
+- The power-budget arithmetic (finding 6) is transferable as 
+   • Smart Fabric Textiles Recent Advances and Challenges — the 2022 survey of the same field, with the broader chromic/shape-memory/breathable taxonomy this article omits
+- Flexible and Stretchable Electronics — realistic assessment of what integrating function into flexible substrates actually costs
+- Smart & Connected Garments (IEEE) — parallel IEEE treatment of connected garments
+- Interactively Mechanochromic Electronic Textile Sensor — printed conductive-line sensing on fabric, the practical fo
+
+--- [[结构色 Structural Color]]  (1 句)
+   • Structural Colour Mechanochromism（结构色力致变色）（结构色路线总纲、共同失效模式与三条教训）
+- The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）（HPC 胆甾相自组装、RCP 反射与应变上限）
+- Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）（CLCE / MET / 全息薄膜定量数据与热致变色参照系）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 路线分类与约束满足选型）
+- Active Diagnostic Zones（主动诊断分区）（可食性一等指标、监测 vs 记录）
+- Intelligent Textiles and Sports Clothing（结构色的非色素定义与 Morphotex 参照）
+- 引用的 6 个来源页：Hologr
+
+--- [[Mechanochromic Photonic Sensors]]  (1 句)
+   • 1. **两条变色技术族** — 结构色（螺距/晶格间距变化，Bragg 反射，λ 由几何决定，**免染料**）vs. 分子化学（AIE 聚集态、1,5-电环化，需发色团）。前者无染料合规优势，后者灵敏度更高。
+2. **成熟度阶梯** — PDLC 5CB/PDMS（50 % 透光变化，5 wt% LC，120 °C/20 min）→ CLCE 三明治（438→285 nm，自供电+自修复）→ 光子织物（35.6 kJ/m³，0.30 s 响应，30,000 次循环）→ 全息薄膜（0-20 % 应变标定、RH 100 %/80 °C 120 h 稳定）。
+3. **应变→蓝移是普遍规律** — 拉伸使螺距或晶格间距减小，反射峰蓝移（CLCE 438→285 nm；全息膜 578.79→520.65 nm；光子织物 0-20 % 橙→绿）。
+4. **负电阻 + 结构色双通道是抗干扰关键** — 光学通道可规避温湿度干扰，电学通道提供定量读数。
+

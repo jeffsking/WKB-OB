@@ -1,0 +1,124 @@
+# SEED: 光致变色 Photochromic
+# type: concept | 原引用数: 14
+# 原 Cited by 列表:
+#   - Ancient Dyes and Pigments
+#   - Ancient Organic Dyes and Pigments Chemistry
+#   - Chromic Phenomena
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#   - Chromic Phenomena Solar Energy and Liquid Crystals
+#   - Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#   - Mechanochromic Photonic Sensors
+#   - Photochromism Dihydroindolizines
+#   - Smart Textile Visual Perception (GRID)
+#   - Smart Textiles & Wearables
+#   - Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications
+#
+# 全库正文命中 31 页，50 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]  (7 句)
+   • 命题中的"**可实现拉力变色的光致变色材料**"，对应的是一类 **光–力双响应材料（photomechanochromic / dual-stimuli-responsive）** —— 典型如 **螺吡喃（spiropyran, SP）**、**二芳基乙烯（diarylethene）**、**偶氮苯（azobenzene）**、**萘酰亚胺–螺吡喃杂化体**等光致变色分子被**工程化为力致基团（mechanophore）**，在受力（**研磨、拉伸、超声、压缩**）时发生**异构/断裂**并伴随可见光谱变化。
+   • 1. 主框架按"**光致变色商业供应商**"铺开（原料/颜料/油墨 → 成品与应用）；
+2. 单列「**力学刺激响应供应能力**」专项，**严格区分"仅光响应"与"可改造为力响应"**；
+3. **不把纯力致材料与纯光致材料混为一谈**，证据按  事实 /  推断 /  假设 /  估算分级。
+   • **力响应能力现状**：**无商用"开箱即用"的力–光双响应光致变色材料** ；能力分布在 **(a)** 少数可供应螺吡喃/螺噁嗪原料分子的特种化学品厂商，与 **(b)** 掌握双响应配方 know-how 的高校研究组 。
+   • **终端/成品级力响应光致变色产品 = 市场空白** ；
+- 其 **know-how 掌握在高校（华盛顿大学等）与少数定制商（OliKrom）手中，尚处配方研发阶段** 。
+
+--- [[Chromic Phenomena Introduction and Reversible Colour Change]]  (4 句)
+   • **五机制分类基石**：颜色产生途径可归为五类——(I) 振动与简单激发；(II) 配体场效应；(III) 分子轨道间跃迁（有机/无机吸光染料与颜料、荧光）；(IV) 能带间跃迁（金属、纯/掺杂半导体）；(V) 几何与物理光学（干涉、虹彩、衍射、液晶）。作者进一步采用 Nassau"十五因"的再整合，形成五类 chromic phenomena 全书骨架。
+- **第三参数洞见**：颜色传统两参数（波长、强度）之外，引入"可逆外部刺激"作为第三参数，应用潜力"significantly widen"。
+- **四大商业化色变**：photochromism、thermochromism、electrochromism、ionochromism。
+- **光致变色五大理想性质**：① 显色发展；② 回到无色态的可控性；③ 宽色域；④ 长寿命；⑤ 无色休息态——第 ⑤ 条直接对应卫生用品"常态无色、遇刺激显色"的产品设计要求。
+- **光致变色五大家族**：spiropyrans、spironaphthoxazines、naphthopyrans、fulgides、diarylethene
+   • 1. **三参数理论**：颜色的传统两参数（波长、强度）+ 第三参数（可逆外部刺激）= 色变应用爆发性增长的理论基础。
+2. **五大家族选型总纲**：光致变色仅五类化合物能接近理想要求（spiropyrans、spironaphthoxazines、naphthopyrans、fulgides、diarylethenes），其中 naphthopyrans 因温依赖中等+疲劳性好成为商用眼科镜片首选。
+3. **热致变色二分法**：intrinsic（热为唯一致因）与 indirect（热改变色原体周围环境）的技术区分，比"内在/间接"模糊表述更可操作。
+4. **复合热致变色三组分体系**：pH 敏染料+质子供体（商用核心双酚 A）+疏水非挥发性共溶剂——共溶剂熔化即触发显色，是"尿湿即显色"的直接技术路径。
+5. **机械变色尚未商用**：压变与摩擦变色"未在任何商用方式中被开发"——意味着该方向仍是技术窗口期；而时间变色已有日化落地先例（牙膏）。
+   • 父书：Chromic Phenomena
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 电致变色 Electrochromic · 离子变色 Ionochromic · 机械变色 Mechanochromic · 光致变色 Photochromic · 液晶 Liquid Crystal
+- 相关章节：Ancient Organic Dyes and Pigments Chemistry · Mechanochromic Photonic Sensors · Stimuli-Responsive Polymer Materials (Nature Materials Review)
+- 供应商：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex
+   • **光致变色 novelty printing & textile** → 成人失禁用品"湿度/UV 指示"智能面层：UV 暴露后变色 → 提醒更换。
+- **光存储材料"聚合物基质溶解性"要求** → 与湿巾无纺布（PES/PE）基质相容性，是功能助剂采购评估点。
+- **溶剂致变色聚合物探针** → 无纺布/水性乳液基质极性监测，工艺质量控制用功能性试剂。
+- **金属卟啉阵列（金属酞菁类）"电子鼻"** → 纸品气味检测/包装活性气氛指示创新方向。
+- **金属酞菁** → 纸品高端油墨原料：光稳定性好、多色性、可升华成膜。
+
+--- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]  (3 句)
+   • **1. CTI（Chromatic Technologies Inc.，美国）**——全球领先的特性油墨创新者；**1993 年成立于科罗拉多斯普林斯（康奈尔大学实验室孵化）**，持有**超过 20 项专利、共推出 35 种独特技术**；核心领域为 Thermochromic（温敏）、Photochromic（光敏）、Hydro-chromic（湿敏）油墨的**全品类全球标杆**，客户遍布 **60 多个国家**；主要产品含 Hydro-Chromic（遇水/尿液变透明或变色，**专门用于纸尿裤湿显**）、Thermochromic（可逆/不可逆）、Photochromic（UV 光照变色）、Baro-Chromic（压敏）；产能未公开，但作为全球最大的专业特性油墨公司之一具备工业化大规模生产能力（水基/溶剂基均有）；主要应用为纸尿裤尿湿显示（主要应用）、食品饮料温度指示、智能标签、化妆品包装、防伪包装；主要客户包括 **宝洁（P&G）、金佰利（Kimberly-Clark）、百威、可口可乐**。
+   • **2. 松井色素化学工业株式会社（Matsui Shikiso Chemical，日本）**——百年色素·颜料专业厂商，**1911 年创立**，全球热致变色材料领导者之一，日系纸尿裤品牌高端化的重要供应商；在温敏与光敏领域拥有极高市场份额；主要产品 **Chromicolor®（可逆感温变色颜料，多种温度点）**、**Thermolock®（不可逆感温变色颜料）**，同时提供 Photochromic 系列及 **BPA Free 环保型号**；产能未公开，作为跨国色料巨头工业级月产能属世界顶尖水平；应用含纸尿裤（体温感温/湿显）、食品包装、医疗用品、化妆品、服饰；主要客户为 **尤妮佳（Unicharm）、花王（Kao）、大王（Daio）**等日系品牌及其供应链。
+   • **3. Intellego Technologies AB（瑞典）**——瑞典上市科技公司（股票代码 INT），核心业务基于**光致变色（Photochromic）**技术的颜色指示器，在印度等地设有生产设施；主要产品含**湿敏指示器（Wetness Indicator，用于纸尿裤）**、UVC 剂量计（验证紫外线消毒）、UV 指示器（SmartSunBand，防晒与健康监测）；**据财报 2025 年 Q2 净营业额约 2.17 亿瑞典克朗，正为卫生用品行业大幅扩充印度工厂产能**；应用为纸尿裤湿显、医疗消毒确认、消费类 UV 指示；客户为国际知名纸尿裤制造商、医疗消毒服务提供商及相关代工厂。
+
+--- [[Molecular and Supramolecular Systems]]  (3 句)
+   • 本文是一篇**基于会议报告撰写的光致变色综述论文**（非教科书），篇幅 14 页（pp. 645–658），覆盖范围从"已知光致变色分子分类"到"新一类 DHI 光致变色分子的制备、机理与结构-反应性关系"，再到"超分子主客体调控"与"螺噁嗪商业镜片应用"。
+   • 诚实评价：**不要从本文寻找卫材配方或供应商数据**。它回答"变色为什么可逆、为什么会在基体里漂白"这类问题；具体油墨/微胶囊供应商与指标须回到 Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）。
+   • Photochromism Dihydroindolizines — 同一篇论文的章节级深入拆解页（含逐段页码与原文摘引）
+- Chromic Phenomena Solar Energy and Liquid Crystals — 变色现象总览与可逆变色机理的姊妹综述
+- Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应） — 光致变色材料的供应商与落地指标（把机理页接到选型端）
+- US20070270773A1 Thermochromic Wetness Indicator — τ1/2 与光/热稳定性要求在尿显专利中的落地
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (2 句)
+   • **典型分子**：**螺吡喃（spiropyran, SP）**、**二芳基乙烯（diarylethene）**、**偶氮苯（azobenzene）**、**萘酰亚胺–螺吡喃杂化体**。
+- **机理**：光致变色分子被工程化为**力致基团**后，在受力（**研磨、拉伸、超声、压缩**）时发生**异构/断裂**并伴随可见光谱变化。
+  - 螺吡喃的具体路径：**C_spiro–O 键受力开环 → 有色部花青（merocyanine）异构体** 。
+- **实验室体系**：**TDBA-SP**（固相 50 次光循环 + 研磨变棕红荧光）、**NSP**（萘酰亚胺–螺吡喃杂化棉布）、**Rh–SP**（共轭弹性体多刺激可调）、**3D 打印 PCL–螺吡喃**结构、棉织物光–力双响应涂层 —— **全部研究级，非商品** 。
+   • Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版） —— （2026-09-29 追加：市场量级、厂商甄别与假设翻转）
+- Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应） —— （2026-09-29 追加：光致/力致/双响应分类边界）
+- Chromic Materials Bibliography（变色材料书籍·温湿力精表） —— 
+- Mechanochromic Materials Technical Review（EN v3, 2026-08） —— 
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels —— 
+- BM Urine Indicator Concept（尿+便双指示概念） —— 
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本） ——
+
+--- [[Tianjin Security-Chemical（天津塞特瑞科技）]]  (2 句)
+   • **2026-08-03**（Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应））：被列为力响应应用落地的**第一采购锚点**；建议路线为「**以其螺吡喃/螺噁嗪原料为起点，联合 OliKrom（定制配方）或高校（华盛顿大学式 3D 打印 / 棉布涂层路线）做配方开发**」（该建议为 ** 假设级**）。
+- **⚠️ 无任何实际接触记录**：库内**无**样品、报价、TDS/SDS、产能数据或送样记录；**全部信息来自公开产品目录与检索**。
+   • Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应） ——
+
+--- [[Chromic Phenomena Solar Energy and Liquid Crystals]]  (2 句)
+   • **DSSC 固态化（Toshiba）** — "Toshiba have been able to develop solid electrolytes that can be combined with DSSC technology, but on polymer rather than glass substrates. These are exciting developments opening the way for cheaper, lighter materials that can be used for applications in home, wall mounted solar batteries, and in hand held personal digital products, such as watches and mobile phones." (lines 16781-16786)
+- **商业化瓶颈（全书最尖锐的实用主义判断）** — "Whilst these approaches are extremely interesting sci
+   • **婴儿体温 / 尿湿指示（高相关）** — 书中明确提到胆甾液晶温控变色微胶囊化用于 "thermographic… for baby thermometers"（lines 17873-17876），与卫生用品的湿/温指示功能直接对口。
+- **包装珠光升级（高相关）** — 云母+TiO₂ 珠光片层（200-500 nm）提供角度依赖珠光，云母基成本低，适合大规模纸尿裤/湿巾包装；Fe₂O₃ 50-250 nm 涂层出金/红铜"组合色"，适合高端线。
+- **TiO₂ 跨规格协同（中相关）** — DSSC 纳米晶 TiO₂（光阳极）与纸品增白/涂料用的微米级 TiO₂ 属同一材料品类不同规格，存在供应商协同机会。
+- **木浆原料种植优化（中相关，间接）** — 红色地膜光生物调控（12-20% 增产）原理可外推至桉树/松树种植端的原料成本优化。
+- **防伪与新鲜度指示（中高相关）** — 全息术（§5.4）与光致变色（偶氮苯等，§5.2.2.4）可用于防伪包装与货架新鲜度指示。
+
+--- [[Photochromism Dihydroindolizines]]  (2 句)
+   • **商业范式已存在** — "an important impetus was brought to the field … by the optimization of known systems such as spiroxazines … being commercially used in ophthalmic lenses" (lines 30-31)
+- **DHI 的卖点** — "a new class of photochromic molecules, e.g. dihydroindolizines (DHI) … can be prepared easily" (lines 59-60)
+- **完整光化学回路** — "The photochemically induced ring opening leads to a betaine, which reacts via the E- to the Z-isomer. Ring closure or 1,5-electrocyclization occurs thermally in a concerted f
+   • **UV 显影防伪包装（最直接可迁移）** — 螺噁嗪已在透明塑料基体中商业化，是纸尿裤/卫生巾纸箱与柔性包装上做 UV 显影图形、隐藏信息、品牌防伪的直接、已验证模板。
+- **光驱动可复位湿敏/饱和度指示** — DHI 是可由光调谐的可逆开关；湿敏指示目前依赖 pH/染料一次性体系，光致变色叠层可作可复位的视觉线索，与一次性 pH 化学互补。
+- **储运光暴露计时标签** — 彩态寿命可调（2b 达 213 min），可为光敏原料（SAP、胶黏剂）料桶设计"时编码"UV 暴露标签。
+- **体液离子选择性光学指示** — 冠醚 DHI 提供"结合可调的反应性"与色离子载体分子识别，是嵌入面层或试纸条的离子选择性（如尿液 Na⁺/NH₄⁺）光学指示路线。
+- **生物相容的工艺结论** — 关键制造准则是"把光致变色体分散在稳定聚合物膜中（ionomer/TPU 与无纺布层压），而非裸露在 SAP 芯层中"，因为湿化学环境会主导其失效。
+- **放置约束** — DHI/螺噁嗪为有机光致变色体，需 UV 激发且有有限疲劳寿命；适合包装、标签与非接触外层指示，不适合置于吸水 SAP
+
+--- [[Smart Textiles and Their Applications]]  (2 句)
+   • 1. **Introduction** — the two-part split of the field: *passive smart textiles* change their properties according to environmental stimulation (shape memory materials, hydrophobic or hydrophilic textiles), while *active smart textiles* carry sensors and actuators, detect signals (temperature, light intensity, pollution), decide locally via embedded textile electronics or remotely via cloud and AI, and act through textile-based, flexible or miniaturised actuators (textile displays, micro-vibratin
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+
+--- [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]  (2 句)
+   • **定义**：刺激响应光子聚合物涂层是在外部刺激下可逆动态改变体积/表面拓扑的涂层，体积/拓扑变化同时调制反射光。
+- **两大材料平台**：
+  1. **液晶聚合物网络（LC/CLC）**：小分子序变化→大尺寸变化；手性向列晶（CLC）螺旋螺距设定光子带隙（颜色）
+  2. **水凝胶/溶剂凝胶**：溶胀/收缩机制；NIPAAM 基响应涂层
+- **光致变色染料（通用光开关）**：偶氮苯（cis-trans 异构化）、螺吡喃（↔ 亲水性胭脂红）嵌入 LC 聚合物或水凝胶，将光子转译为拓扑/功能变化。
+- **无源光传感器**：涂层自主响应环境/化学刺激（离子、pH、湿度、TMA 胺、葡萄糖）变色——低成本、无电池、可打印。
+- **润湿性切换**：微米级拓扑→Wenzel（水填充空隙）或 Cassie（气袋→更疏水）；粗糙度是润湿性决定因素。
+- **光响应润湿性数据**：推进接触角 Δ=140°（Wenzel→超润湿）；后退接触角 Δ>175°（超疏水→Wenzel）；静态 CA 51°→123°。
+- **湿度传感**：吸湿 CLC 聚合物在 RH 3%→83% 间反射位移 4
+   • Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 光致变色 Photochromic
+- 热致变色
+- 液晶 Liquid Crystal
+- CLC 手性向列晶
+- PNIPAAM
+- pH 响应材料
+- 湿感指示条 Wetness Indicator
+- 光致变色油墨 Photochromic Ink
+

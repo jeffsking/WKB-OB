@@ -1,0 +1,96 @@
+# SEED: 植物提取物 Plant Extract
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments
+#
+# 全库正文命中 132 页，178 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments]]  (4 句)
+   • **EN**: A scholarly review of the advanced chemistry applied by ancient dyers to organic dyes and pigments from flora and fauna sources. Covers ionic/covalent/intermolecular bonding, coordinate complexation, enzymatic hydrolysis, photochemical chromogenic precursor oxidation, anaerobic bacterial fermentative reduction, and redox reactions. Some textile dyeings survive after six millennia. Cross-references with hygiene products in natural dyes, plant-based materials, and botanical extracts.
+   • **中文**: 古代染料师应用于植物/动物源有机染料与颜料的高级化学综述——涵盖离子/共价/分子间键合、配位络合、酶促水解、光化学变色前体氧化、厌氧细菌还原、氧化还原反应。部分纺织染色存活六千年。与卫生用品的交叉点在于天然染料、植物基材料与植物提取物。
+   • 1. **古代染色化学机理**——离子键/共价键/分子间键合、配位络合、酶促水解、光化学、厌氧还原、氧化还原
+2. **植物源染料**——黄/红/蓝色素的分子结构与染色机理
+3. **动物源染料**——鳞虫红、海蜗牛紫的化学机理
+4. **古代工艺控制**——温度与酸碱 pH 控制、染料浴条件优化
+5. **与卫生用品交叉**——天然色料、植物基材料、植物提取物在卫生用品中的应用潜力
+   • 天然染料 Natural Dye
+- 植物基材料 Plant-Based Material
+- 植物提取物 Plant Extract
+- 湿巾 Wet Wipes
+
+--- [[CN 115368497 B（一种纸尿裤生产用高吸水性树脂及其制备方法）]]  (3 句)
+   • A granted Chinese invention patent (assignee: **宜兴丹森科技有限公司**, a SAP maker) on a **diaper-production SAP** with controlled extractables & surface-crosslink ratio to avoid oily/slick touch after long use. SAP composition/process → FTO-relevant.
+   • The invention relates to a diaper-production SAP and its preparation: SAP-A 80–120 phr, organic solvent 100–200 phr, crosslinker aqueous solution 19–42 phr, reducing-agent aqueous solution 3–6 phr, with controlled temperature and added water, yielding a SAP with 4-h static extractables 0.7–2.5 wt% and excellent hand-feel; the ratio of 4-h static extractables to the 16-h stirred extractables of the pre-surface-crosslink SAP-A is 2–9. It solves crosslink-layer cracking / insufficient restriction o
+   • **Controlled-extractable diaper SAP with defined surface-crosslink ratio** — supporting page SAP（高吸水树脂） / SAP 表面包覆（SAP Particle Surface Coating）.
+- Assignee 宜兴丹森科技有限公司 is a SAP supplier (tracked as entity).
+
+--- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]  (3 句)
+   • **国标吸收性能法的完整时序是 0 / 8 / 15 / 16 min 四个节点，加压仅 1 min** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）、Rewet Test（回渗测试）
+- **滤纸尺寸与模块型号按尺码三档匹配，混档会直接改变读数** —— 支撑页：Run-off & Leakage Test（滑渗与渗漏测试）
+- **滤纸必须 23 ℃ / 50% RH 处理 16 h，比 TJ 册的 6 h 更严** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **加液偏差 ± 2 mL 是硬指标，需每次校准** —— 支撑页：芯体测试方法与验收基准（STM）
+- **运行中关闭气源会致比例阀报错且需断电重启，是设备的操作红线** —— 支撑页：KC Nanjing Plant（金佰利南京厂）
+- **回渗与渗漏在同一次实验中读出，但用两套不同尺寸的滤纸** —— 支撑页：Rewet Test（回渗测试）
+   • 概念：GB-T 28004.1-2021（纸尿裤国标）、Rewet Test（回渗测试）、Run-off & Leakage Test（滑渗与渗漏测试）、芯体测试方法与验收基准（STM）、Acquisition Test STM-00060（导流性能测试）
+- 实体：KC Nanjing Plant（金佰利南京厂）、KC Tianjin Mill（金佰利天津厂）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+   • 本地路径：
+- 原文链接：（无；内部仪器 SOP，依据 GB/T 28004.1-2021）
+- 同族文档：Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (3 句)
+   • Source: the extraction's own line-cited inventory.
+   • 1. **Absorption-rate law goes through particle size before chemistry.** t_resp ~ L²/D_eff predicts a ~4× faster uptake from a 2× reduction in effective particle radius (L171–175, L184–185). Set PSD bands by this scaling when acquisition speed or rewet is the failing KPI.
+2. **Swelling is available work — and a load case.** Up to 1000-fold expansion produces usable force (L151–154). Use positively (a gel strip that swells to close a leak-guard gap — the bi-strip valve analogue, L513–516) and defe
+   • This extraction does not state an edition year (only title, author, chapter span), so  is 0 per rule; sibling chapters of the same book state CRC Press 2008, which is probable but not citable from this file — [待验证].
+- Page span **pp. 437–457** comes from the chapter TOC and running heads (L10–26, L1197), not invented; individual line claims are cited as L-numbers.
+- All LaTeX expressions are labelled reconstructions of textual statements; the chapter has no numbered equations ([原文无公式编号]).
+- Busi
+
+--- [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]]  (3 句)
+   • **南京厂第 5 版与 WI-56234 第 5 版的加液量档位错开一档，是必须人工确认的口径分歧** —— 支撑页：芯体测试方法与验收基准（STM）
+- **14 inH₂O = 3447 Pa 是本文件的压力换算写法，与全球版 3.4 kPa 一致** —— 支撑页：Retention Capacity Test（滞留能力测试）
+- **吸收时间以「圆柱孔边缘颜色消失」为判据，是表观摄入时间而非完全吸收** —— 支撑页：Cradle Intake Test（Cradle 摄入测试）
+- **密封液只能用盐水，是易被违反的操作细节** —— 支撑页：Rewet Test（回渗测试）
+- **FIFE 一次实验同时产出三次吸收时间、每次溢出量与一次反渗量** —— 支撑页：Rewet Test（回渗测试）
+- **乳胶膜堵住通气孔会内爆，是设备安全红线** —— 支撑页：KC Nanjing Plant（金佰利南京厂）
+   • 概念：Rewet Test（回渗测试）、Cradle Intake Test（Cradle 摄入测试）、Retention Capacity Test（滞留能力测试）、芯体测试方法与验收基准（STM）、Acquisition Test STM-00060（导流性能测试）
+- 实体：KC Nanjing Plant（金佰利南京厂）、Kimberly-Clark（金佰利）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+   • 本地路径：
+- 原文链接：（无；内部标准方法）
+- 同族文档：STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）、Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）
+
+--- [[Synthesis of Thermoplastic Polyester Elastomers]]  (3 句)
+   • **Introduction / review of prior art** — general TPE behaviour: TPEs show the mechanical properties of chemically crosslinked elastomers (high tensile strength, impact resistance, resilient elasticity, low-temperature flexibility) while being processed like thermoplastics by extrusion, injection or rotational moulding and calendering. Increasing soft-segment content lowers enthalpy and melting temperature, lowers tensile strength and hardness, gives less crystalline polymers, and raises elongati
+   • 1. **Design intent: non-polar soft segment.** Soft non-polar olefinic prepolymers are built into the polyester chain specifically to **improve hydrolytic and thermal stability and achieve better phase separation**, which particularly shows up as increased elasticity. Literature coverage of polyolefin soft segments in TPEs is explicitly called very scarce.
+2. **Why solution polycondensation.** Phase separation occurs during polycondensation because soft non-polar segments mix poorly with polar DM
+   • **Elastic components.** The waistband, cuff and ear-panel elastication work in this vault needs a working model of what makes a TPE elastic and how it survives converting heat. Finding 8 gives it crisply: crystallised hard phase is the physical crosslink, so anything that disrupts hard-phase crystallisation destroys recovery. Chaining to the practical side, see Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres — heat-setting is exactly the process by which crystallinity is 
+
+--- [[COCO 芯体成型质量判读方法对比（China-STM-03_04_05 vs TTM-02_03）]]  (2 句)
+   • Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编） —— 
+- China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4） —— 
+- Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ） —— 天津厂原材料 STM
+- Raw Material Testing Method Summary（原材料测试方法汇总表） —— 原材料测试方法总索引
+   • 概念：COCO芯体平台、芯体测试方法与验收基准（STM）、REL增强层、MD Liquid Distribution、SAM Testing Methods（超级吸水材料测试方法）
+- 实体：Kimberly-Clark（金佰利）、KC Nanjing Plant（金佰利南京厂）、KC Tianjin Mill（金佰利天津厂）
+
+--- [[Botanical Extract Efficacy Verification（植物提取物功效验证）]]  (2 句)
+   • 植物提取物从"原料有活性"到"产品有效"，需要穿过四个环节，每一环都会损失：
+   • Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证） ——
+
+--- [[Product Waist Break Test（产品腰围拉断测试）]]  (2 句)
+   • 本方法是**为应对消费者投诉而新创建**的方法，不是 KC 全球 STM 体系内的既有编号方法。它来自 BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）（Tulip Cai，2026-03）；Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编） 中亦出现「**STM-产品拉断新**」这一未编号方法，说明该指标已在厂内落地。
+   • BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建） —— 
+- Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编） —— 
+- STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc —— （2026-09-29 追加）
+- STM-01086 BCC Pants 产品拉断测试（成品）.doc —— （2026-09-29 追加，内容相同的副本）
+
+--- [[湿巾 Wet Wipes]]  (2 句)
+   • **Coating and drying（涂层与干燥，制造侧）**
+- Emulsion / lotion coatings on wipes behave like latex — a longer benign constant-rate period before the defect-prone falling-rate zone（源：Industrial Drying Ch40 Drying of Coated Webs）。
+- For skin-contact hygiene films and wipes, **100 % solids UV/EB** is the regulatory-friendly route — no solvent VOC, no extractable cross-linker residuals（源：Industrial Drying Ch40 Drying of Coated Webs）。
+   • A definition of the concept itself —— 。
+- Remaining **quantitative limits** of GB/T 27728.2-2024 beyond the rows above are not given in this digest 。
+- GB-T 27728-2011 page/date missing: the two in-vault copies are the same standard and both lack the date page — judged **not a single-extraction error**（源：GB-T 27728-2011 Wipes（湿巾 · 副本1））。
+

@@ -1,0 +1,39 @@
+{
+  "batch": "seed_fill_p",
+  "done": [
+    "WIKI/concepts/爆裂纤维 Burst Fibre.md",
+    "WIKI/concepts/鸡毛纤维 Chicken-feather Fibre.md",
+    "WIKI/concepts/自由体积 Free Volume.md",
+    "WIKI/concepts/导电无纺布 Conductive Nonwoven.md",
+    "WIKI/concepts/热风非织造 Hot-Air Bonded Nonwoven.md",
+    "WIKI/concepts/Nonwoven Lamination.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "爆裂纤维 Burst Fibre",
+      "issue": "⚠️ Digest 命中失败：.tools/_seed_ctx/爆裂纤维 Burst Fibre.txt 的正文摘录与本主题无关（命中通用纤维表征章节），未包含真正讨论爆裂纤维的页面。事实改由 digest 的 cited-by 列表 + 库内实际提及页核对取得：Cross-linked Cellulose and Its Derivatives（Karlsson 工艺原文句）、Fibers and Fibrous Materials。无词典式定义、无定量数据。建议重跑 digest。"
+    },
+    {
+      "page": "鸡毛纤维 Chicken-feather Fibre",
+      "issue": "⚠️ Digest 命中失败：.tools/_seed_ctx/鸡毛纤维 Chicken-feather Fibre.txt 与'爆裂纤维'的摘录完全同源且与本主题无关。事实改由 cited-by 页 Fibers and Fibrous Materials 核对取得（~6 µm × 8 mm，hollow；wet collapse resistance）。无词典式定义、无吸液/保水定量、无工程化路径。建议重跑 digest。"
+    },
+    {
+      "page": "自由体积 Free Volume",
+      "issue": "Digest 摘录多为相邻主题，仅 Crank Ch.9 一段直接相关；定义与机理另据库内 Manufacturing Fibre Technology Ch02（p.27 定义）、Ebewole Ch04（自由体积↑→Tg↓）、Industrial Drying Ch41（Tg 与扩散）核对。存疑：'脱挥发分须在 Tg 以上'与'SAP 末段干燥须低于 Tg'两口径的适用边界未澄清。无任何自由体积绝对数值。"
+    },
+    {
+      "page": "导电无纺布 Conductive Nonwoven",
+      "issue": "库内无'导电无纺布'定义或规格；本页所有实测数字来自导电涤纶织物（CPT，机织/针织，非无纺布）与导电纱线。cited-by 来源（Interactively Mechanochromic Electronic Textile Sensor）自身把'迁移至纺粘/熔喷无纺布'标为推演。存在跨材料类别外推的口径风险，引用须注明。"
+    },
+    {
+      "page": "热风非织造 Hot-Air Bonded Nonwoven",
+      "issue": "⚠️ 标题重叠（未合并、未删除，按指示仅登记）：本页与 WIKI/concepts/热风无纺布.md（已成形，10 处引用源）、WIKI/concepts/热风粘合无纺布.md（已成形，含蓬松度 3–5 cm³/g、透气性 300–500 L/m²/s、克重 20–200 g/m² 等数据）、WIKI/concepts/热粘合热风无纺布 Airlaid.md（seed 占位）实为同一材料/工艺的不同标题，需人工裁决合并 / 别名重定向 / 所有权划分。"
+    },
+    {
+      "page": "Nonwoven Lamination",
+      "issue": "无词典式定义（仅有功能口径：lamination engineers barrier/permeability for backsheets）；与 seed 占位页 WIKI/concepts/层压 Lamination.md 高度重叠，合并/分工未定。缺卫材层对剥离强度、老化后剥离保持率、温度/压力/线速/涂布量等工艺参数；部分引文为 Part/Line 级定位且原文句尾残缺。"
+    }
+  ],
+  "count": 6
+}

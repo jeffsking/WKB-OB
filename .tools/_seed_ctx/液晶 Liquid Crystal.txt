@@ -1,0 +1,110 @@
+# SEED: 液晶 Liquid Crystal
+# type: concept | 原引用数: 8
+# 原 Cited by 列表:
+#   - Chromic Phenomena
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#   - Chromic Phenomena Solar Energy and Liquid Crystals
+#   - Mechanochromic Elastomer from PDLC 5CB PDMS
+#   - Physics of Liquid Crystals (Book Review)
+#   - Smart Textiles & Wearables
+#   - Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications
+#   - Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+#
+# 全库正文命中 180 页，289 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (7 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Mechanism of permanent set (p.190–191): "The most important mechanism of permanent setting in crystalline polymers is through partial melting and recrystallization, whereby partial melting of small, imperfect crystals takes place below the melting point to allow the growth of larger more perfect and regular crystalline units."
+   • Why it cannot be undone (p.191): "the mechanism of heat-setting is to lead the structure to a position of lower minimum energy from the state prior to heat-setting." Hearle's crystal-size vs. melting-frequency diagram is cited with the plain statement that "small or imperfect crystals will melt and larger crystals will grow. This is a typical process of annealing" (p.192).
+   • Source wording (p.196): "shrinkage in PET is a two-stage process involving a rapid initial stage in which shrinkage is associated with disorientation in the amorphous zones, followed by a crystalline stage during which chain folding... occurs." Chain folding is evidenced by a specific IR absorption peak after high-temperature annealing (Koenig & Hannon; Wilson) (pp.195–196). 因此收缩与伸长之间没有唯一的一一对应关系 — no unique shrinkage/elongation correspondence exists.
+
+--- [[Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres]]  (6 句)
+   • This chapter treats **drawing 牵伸（orientation stretching 取向拉伸）** as the decisive post-spinning step that converts an as-spun filament of low strength and low orientation into a usable fibre. It moves from the mechanics of the drawing unit (draw twister 牵伸加捻机), through the necking/cold-drawing mechanism, to the structure–property chain "draw ratio → crystallinity / orientation / birefringence / density → tenacity and modulus", and closes with industrial routes including high-tenacity two-stage dra
+   • 1. **Drawing is orientation strengthening, not elastic deformation 牵伸的本质是取向强化而非弹性形变** (p.170). Source wording: "Through the drawing operation the fibre is orientationally strengthened due to alignment of the molecular chains along the fibre axis and shows enhanced recovery." 强度、模量与尺寸稳定性（dimensional stability）随之提升。
+2. **Spinning speed sets the residual draw ratio 纺速决定残留牵伸比** (p.171). Source wording: "an increase in spinning speed increases the orientation of the molecular chains along the fibre a
+   • Three-region load–elongation model on an undrawn filament (Fig. 8.3): region I elastic, region II post-yield plastic, region III strain hardening before break. Key parameters: **yield strain 屈服应变**, **yield stress 屈服应力**, **neck angle 细颈角**.
+- Neck angle is controlled by hot-plate temperature, hot-pin temperature, draw ratio and feed speed; a **snubbing pin 阻滞销** is used to stabilize the neck position. Necking 细颈: "the sample first yields with the appearance of a neck and thereafter the neck pro
+   • Structure is tracked by **X-ray crystallinity X射线结晶度**, **birefringence 双折射**, **density 密度**, and **dichroic ratio 二向色比** measured with a dichroic dye for *amorphous* orientation, complemented by **IR spectroscopy at 1700–1800 cm⁻¹** (C=O end-group concentration) and intrinsic viscosity for molecular weight distribution (p.180, pp.178–183).
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (5 句)
+   • This is the book's **methods toolbox 方法工具箱**. Characterization is organized into three levels: **molecular level 分子级** (molecular weight and its distribution), **thermal properties 热性能** (glass transition, melting, crystallization, decomposition) and **physical structure and morphology 物理结构与形态** (crystallinity, crystallite size, orientation). Each level is presented with principles, working equations and instruments, so later fibre-specific chapters can quote crystallinity, orientation function,
+   • The starting axiom (p.219): "polymers and fibres have a two phase structure comprising an ordered (also called crystalline) and a disordered (also called amorphous) phase." The five widely used techniques: "(1) density measurement, (2) optical birefringence, (3) X-ray diffraction, (4) small angle X-ray scattering and (5) infrared spectroscopy."
+   • **Overall versus crystalline orientation** (p.225): "Such an orientation function is thus called the 'overall orientation function', as distinct from the 'crystalline orientation function' determined by X-ray diffraction." Because birefringence carries both crystalline and amorphous contributions while X-ray sees only the crystalline phase, the two are not interchangeable. 总体取向 ≠ 结晶取向。
+   • 1. **Sheath-core PP/PE bicomponent fibre specification** depends on exactly the quantities defined here: crystallinity by density or XRD, melting onset by DSC, crystallite size by Scherrer. When qualifying a low-melting-point PP sheath grade, DSC onset vs. through-air oven temperature is the same pair of numbers discussed at pp.220 and 239 — see 低熔点PP技术路线对比.
+2. **Orientation splitting matters for nonwoven filaments**: birefringence gives overall orientation (crystalline + amorphous), XRD gives c
+
+--- [[Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane]]  (4 句)
+   • Shows that bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into homeotropically oriented columnar proton channels with water-independent conductivity and size-selective ion transport — the materials foundation of the ion-transport thread.
+（展示仿生盘状/锥形树状液晶聚合物自组装成垂直取向的柱状质子通道，具湿度无关电导与尺寸选择性离子传输，是离子传输主线的材料基础。）
+   • Bio-inspiration: biological systems (protein channels, TMV helical self-assembly via exo-recognition) show water-free, highly selective ion transport, motivating artificial ion-channel design.（仿生：生物离子通道与 TMV 螺旋自组装启发了无水、高选择性人工离子通道设计。）
+- Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a wide temperature range; hydrophobic mesogenic side chains + hydrophilic ether linkages constitute the ion pathway.（锥形树状侧基聚醚在宽温域形成柱状液晶相；疏水介晶侧链+亲水醚键构成离子通路。）
+- H
+   • Bio-inspired discotic LCPs give water-independent, Nafion-comparable proton conductivity via homeotropic columnar channels — support page: Liquid Crystalline Polymers Smart Applications.
+- The "baking process" is a substrate-independent route to oriented proton membranes; extended in Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1 and Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 纳米线 Part 1：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1
+- 纳米线 Part 2：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+
+--- [[Ebewole Polymer Science Ch04 Thermal Transitions in Polymers]]  (4 句)
+   • Chapter 4 is the **thermal–structure–property bridge 热-结构-性能桥梁**: it takes the glass transition temperature **Tg** and the crystalline melting point **Tm** as its two axes and explains why polymer thermal behaviour differs fundamentally from that of simple small molecules.
+   • Three-state model for an amorphous polymer: **hard glassy solid → soft rubbery material → viscous liquid 硬玻璃态 → 软橡胶态 → 粘性液体**. For a semicrystalline polymer, between Tg and Tm the material "is composed of rigid crystals and a rubbery amorphous phase" — 半结晶聚合物在 Tg 与 Tm 之间是"刚性晶粒 + 橡胶态无定形相"的复合体。
+   • Other factors enumerated: **branching 支化**, **crystallinity 结晶度**, **plasticization 塑化**, plus external factors (pressure, test rate 压力与测试速率) and **copolymerization 共聚** as an industrial Tg-tuning tool (Ch.8).
+   • 1. **Thermal bonding windows 热轧/热风粘合窗口.** 聚烯烃纤网的粘合必须跨越 Tg（非晶区链段获得运动能力）并接近 Tm（晶粒熔融、界面扩散缠结）；半结晶 PP/PE 在 Tg 与 Tm 之间呈"刚性晶粒 + 橡胶态无定形相"（Ch.4, p.97），这正是热轧粘合既能成结又能保持纤网尺寸稳定的结构原因。粘合温度窗口的下限由 Tg 约束、上限由 Tm 与热收缩约束。参见 Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins、Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes。
+2. **Bicomponent fibre design 双组分纤维.** 皮芯结构（PE 皮 / PP 芯）的粘合窗口来自两种聚合物 Tm 的差值；Ch.4 的 Tm 定义（"the temperature at which the last crystallite starts melting"，p.96）提示熔
+
+--- [[General Introduction and Objectives]]  (4 句)
+   • This is the thesis's conceptual foundation: it defines stimulus-responsive "smart materials" via liquid-crystalline polymers and sets the two application threads (photoresponsive microcapsules + proton-conductive membranes).
+（本章是全书的立论基础，界定"智能材料"并以液晶聚合物为核心载体，引出光响应微胶囊与质子导电膜两条应用主线。）
+   • "Smart materials" historically trace to 1800s reports of magnetostriction; the thesis narrows the definition to polymers that can moderately reorganize their structure under stimuli, with novel liquid crystalline polymers (LCPs) as the central carrier for new material design, synthesis and system integration.（"智能材料"概念可溯至 1800s 磁致伸缩；本书将其收窄为可在刺激下中等程度重组结构的聚合物，并以新型液晶聚合物为核心载体。）
+- Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range orde
+   • Smart materials (narrowed): polymers able to moderately reorganize structure under stimuli — support page: Liquid Crystalline Polymers Smart Applications.
+- LCP classification (MC/SC × calamitic/discotic) governs which smart application is pursued — photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 材料平台（后续章）：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜主线（后续章）：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+
+--- [[Introduction to Liquid Crystals]]  (4 句)
+   • 1. **Objective**: synthesise different structural antiferroelectric-like liquid crystals; use DSC and polarising microscopy to locate phase-transition temperatures, targeting a material operating at room temperature.
+2. **Background and motivation**: five claimed advantages of antiferroelectric liquid crystals → fast response times, matrix addressable, low driving voltages, high contrast ratios, wide viewing angles [1, 2]; MHPOBC named as the canonical antiferroelectric material; the antiferroel
+   • The clear objective is an **antiferroelectric liquid crystal operating at room temperature** — i.e. the whole exercise is about pushing the $S_{Calt}$ phase window down into ambient conditions.
+   • **The method is the transferable asset, not the molecule.** What this report demonstrates is the standard discipline for any temperature-triggered optical material: **synthesise a structural series → locate the transition temperatures by DSC → confirm each phase by polarising-microscope texture → iterate until the transition sits inside the operating window.** Exactly that loop is what the thermochromic/chromic-ink programme needs when tuning a colour-change onset to a specific skin- or urine-te
+   • Antiferroelectric Liquid Crystals — 同一底层工作的另一份摘录（DeepRead），化合物、基准物与 DSC 数值相同，二者互为重复而非独立佐证。
+- Chromic Phenomena Solar Energy and Liquid Crystals — 本库液晶/变色化学主线的基础页，本文的相变-织构方法在此有更完整的化学背景。
+- US20070270773A1 Thermochromic Wetness Indicator — 卫生用品湿热指示专利，是本文"温度触发光学响应"在卫材场景的实际落地形态。
+- Mechanochromic Elastomer from PDLC 5CB PDMS — 以向列相液晶 5CB 分散于 PDMS 的力致变色体系，与本文反铁电近晶体系构成液晶应用的两条不同分支。
+
+--- [[Liquid Crystalline Polymers for Smart Applications]]  (4 句)
+   • The thesis is built on one premise: a liquid crystalline polymer (LCP 液晶聚合物) is a *programmable* smart material because mesophase order couples an external stimulus to macroscopic function. Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport.
+   • **General Introduction and Objectives** (p.1) — "Smart" materials; liquid crystals; nematic/cholesteric, smectic and columnar mesophases; calamitic vs. discotic molecules; main-chain (MC) vs. side-chain (SC) LCPs; strategy and four stated objectives (p.11).
+- **Part 1. Application of Calamitic Liquid Crystalline Polymers** (p.15) — intro to Microcapsules and Controlled Release.
+  - **Chapter 1** (p.23) Synthesis and Characterisation of a New Family of Photoactive Liquid Crystalline Polyesters ba
+   • 1. **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable.
+2. **Photoresponsive polyesters.** Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight.
+3. **First-order p
+   • Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene — thesis Ch.1 as a standalone chapter page
+- Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester — thesis Ch.2 as a standalone chapter page
+- An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks — thesis Ch.3 as a standalone chapter page
+- Applying Nature's Genius to Discotic Liquid-crystal Po
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • At higher speed the pre-orientation consumes the drawing headroom: "natural draw ratio characteristic of low-oriented yarns disappears as the spinning speed increases" (p.313). LOY after drawing can "develop high birefringence of 0.21 or even more" (p.272). DTA evidence (Fig. 12.12, p.300): at **birefringence 0.038** the POY crystallization temperature drops by about **30 °C**.
+   • Structure evolution runs amorphous → oriented → crystallized → stabilized by heat-setting (pp.311–314).
+   • **Nucleative collapse 成核崩塌** (p.311): "This has been termed 'nucleative collapse' [36] because a large number of small nuclei come together to form a crystallite." In an oriented melt the entropy penalty is small and the critical nucleus size approaches the unit-cell size, so high-speed spun PET forms dense microcrystallites.
+- **Catalyst effects** (p.312): "the catalyst system could exhibit a greater influence than molecular weight in controlling the rate of crystallization of PET." Residual ca
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (4 句)
+   • **Melt spinning 熔体纺丝** with spinline structure evolution; the effect of spinning speed on birefringence, crystallinity and axial shrinkage is the experimental core (Fig. 13.15–13.19), again producing the **LOY / POY / HOY / FOY** classes (pp.347–349).
+- Integrated **spin-draw (SD)** and mass-colouration spinning variants.
+- After-treatment: drawing, texturing, **heat-setting 热定形**.
+- Practical value flagged by the source: Fig. 13.17–13.19 reveal the **time-dependent instability of undrawn yarn s
+   • Faster crystallization than PET (pp.341–342): "nylon 66 and nylon 6 crystallize relatively more rapidly, primarily because of more flexible molecular chains"; "'Y crystals are favoured by an increase in winding speed" (the source quotes the gamma-symbol the Greek γ as 'Y). Nylon 6 shows **polymorphism 多态性** — α, γ and pseudo-hexagonal forms depending on processing (p.352) — and the structure is highly moisture-sensitive, which the source identifies as the difficulty in spinline stability control
+   • 1. **The Tg–moisture-regain concept transfers directly**: nylon 6 shows ~50 °C Tg shifted strongly by regain, with a 2.0–3.5% window of minimum Tg sensitivity. Any hydrophilic polymer whose stiffness and set behaviour moves with ambient humidity — including moisture-responsive fibre concepts used in comfort/microclimate work — obeys the same coupling. See Moisture-Responsive Fibre（湿敏变形纤维）.
+2. **Polymer selection for sheath-core bonding**: nylon's ready crystallization and high melting point vers
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — the PET benchmark that nylon is contrasted against for crystallization rate and moisture sensitivity
+- Moisture-Responsive Fibre（湿敏变形纤维） — modern take on the Tg–moisture coupling described here
+- PP基皮芯与PET基皮芯对比 — sheath-core polymer selection actually used in hygiene thermal bonding
+- 无纺布五大工艺对比 — process-route context for nonwovens
+

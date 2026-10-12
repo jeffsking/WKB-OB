@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-4",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b0e135d77b4b6677c687bba67b7d7755001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Topical liner Supporting layer Embossing pressure.pdf.md",
+   "name": "Topical liner Supporting layer Embossing pressure.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_7596b0d4e965415fafa632ebbd318207001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00040 厚度.docx.md",
+   "name": "STM-00040 厚度.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_674d51904ddf24b134c5b6814de1e230001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/可降解生物基材料与薄且强芯体技术深度解析.pdf.md",
+   "name": "可降解生物基材料与薄且强芯体技术深度解析.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_526a1d1c0be2a71e8714c7fd69f026f0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00069 重量.docx.md",
+   "name": "STM-00069 重量.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_161179372a66562afb50a2b0a228c497001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00078 端封强度.doc.md",
+   "name": "STM-00078 端封强度.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_4d6abe75f7d5200070c7a3123864cfb5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00686弧形皮筋张力.doc.md",
+   "name": "STM-00686弧形皮筋张力.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_8396e321ad0f1a610fa2d6fe3b6cafcc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00296产品外层滚轮测试（Pin Hole）.docx.md",
+   "name": "TTM-00296产品外层滚轮测试（Pin Hole）.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_982b445deae33fb2cb602fcc36177573001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲dip and drip 实验.docx.md",
+   "name": "澳洲dip and drip 实验.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_d8a48db5a10b21135d1f064e2818d905001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-64766温湿度纽扣测试方法.docx.md",
+   "name": "WI-64766温湿度纽扣测试方法.docx.md",
+   "type": "word"
+  }
+ ]
+}

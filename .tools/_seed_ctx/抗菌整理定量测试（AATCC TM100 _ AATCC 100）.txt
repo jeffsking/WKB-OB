@@ -1,0 +1,73 @@
+# SEED: 抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 10 页，19 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[AATCC 100 抗菌整理定量测试方法]]  (4 句)
+   • **AATCC 100（抗菌整理定量测试）** 方法的标准/出版物资料，与 TM100-2019 同源，是本库抗菌评估方法的信息源。
+   • The file is an AATCC standards/publications catalog listing **AATCC 100 — Test Method for Antibacterial Finishes on Textile Materials, Quantitative**. AATCC (American Association of Textile Chemists and Colorists) is a nonprofit serving the global textile industry since 1921; its test methods are international standards cited in government, industry and company specifications. AATCC 100 quantifies antibacterial activity of finished textiles (inoculation, incubation, plate count, reduction %). Th
+   • **AATCC 100 是抗菌整理定量测试的国际标准（与 TM100-2019 同源）** —— 支撑页：抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+   • 概念：抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+
+--- [[AATCC TM100-2019 抗菌整理测试]]  (4 句)
+   • AATCC **TM100-2019** 抗菌整理定量测试方法的标准/出版物资料，是本库抗菌性能评估方法的信息源。
+   • The document is an AATCC standards/publications reference that includes **AATCC TM100-2019 — Antibacterial Finishes on Textile Materials, Quantitative**. AATCC (American Association of Textile Chemists and Colorists, nonprofit since 1921) provides trusted textile test methods, quality-control materials and education used globally. TM100-2019 quantifies the antibacterial effect of finished textiles (bacterial reduction / survival after inoculation). The read portion is a standards catalog; the de
+   • **AATCC TM100-2019 是抗菌整理定量测试的国际标准** —— 支撑页：抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+   • 概念：抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+
+--- [[Chitosan Fibre（壳聚糖纤维）]]  (2 句)
+   • 上位 / 相关：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+- 抗菌口径：抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+- 结构与载体：Super Absorbent Fibre（超吸水纤维 SAF）、细菌纳米纤维素、Microencapsulation
+- 除味/吸附：Zeolite Odour Control（沸石除臭载体）、咖啡炭纤维（异味吸附）
+- 对比：Biodegradable SAP（可降解高吸水树脂）
+   • **教训一（定位）**：把壳聚糖当「吸水材料」评估会得出负面结论；正确问法是「哪个位点需要**天然抑菌 + 亲肤 + 可降解**」——答案是**面层与功能涂层**，不是芯体。
+- **教训二（工艺）**：壳聚糖很少单独成纤承担结构载荷，实际路线是**附着于既有纤维**（热喷粘附 PET）或**做成微球/微凝胶**嵌入复合结构；立项时应按「功能添加剂」而非「基材」管理。
+- **教训三（宣称管理）**：抗菌率与洗涤耐久性是卫品宣称的高风险区，须以定量方法（AATCC 100 一类）复核，不能直接引用厂商数字。
+- **待补 **：壳聚糖纤维的纤度/强度与可纺性；热喷粘附层的耐摩擦与耐洗涤实测；壳聚糖与 SAP/绒毛浆体系的相容性；皮肤刺激性与致敏性数据；壳聚糖纤维的价格带与供应集中度。
+
+--- [[Absorbent Product Testing]]  (2 句)
+   • **分层测试哲学**：测试必须遵循"构成材料 → 二维结构（网布/片材）→ 装配产品"三级递进，每层有独立指标体系与测试方法，"The single most important property of interest is the customer satisfaction"，需逐层筛选 + 最终 in vivo 现场验证。
+- **三类方法定位**：标准方法（ASTM/AATCC/INDA/TAPPI/EDANA/Scan-C，用于 process control、QC、ranking、R&D）；研究工具（fluid intrusion/extrusion，提供机理洞察）；in vitro / in vivo（企业专有，模拟用况，是竞争壁垒来源）。
+- **界面能第一性原理**：Wilhelmy 湿附力法 → F_w = γ_lv · P · cos θ，可获前进/后退接触角、附着功 W_A = γ_sv(1+cos θ)、润湿指数 WI、Hysteresis = W_AR/W_AA、表面能（dispersion/polar/total）。
+- **标准方法映射**：INDA I
+   • 父书：Absorbent Technology
+- 概念：Wilhelmy 湿附力法 · 达西定律 Darcy's Law · 回渗 Rewet · 湿态压缩模量 · WRV 水保留值 · Klemm 法
+- 相关章节：Nonwovens in Absorbent Materials · Products and Technology Perspective · Computational Modeling in Absorbent Technology
+- 标准组织：ASTM · AATCC · INDA · TAPPI · EDANA · Scan-C
+
+--- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]  (2 句)
+   • 1. **Antibacterial is the selling point, not absorbency 卖点是抗菌而非吸水** — 壳聚糖的卫材价值在天然抑菌 + 亲肤 + 可降解；吸收性能需通过与 PET 纤维/丙烯酸体系复合获得。
+2. **Topsheet before core 先面层后芯体** — 亲肤面层是壳聚糖最合理的切入点，与 Probiotic & Skin-Care Topsheet（益生菌护肤面层） 的「主动护理」定位同向。
+3. **Gel-on-fibre is the practical route 凝胶附着是可行路线** — 热喷粘附把功能凝胶固定在既有纤维（PET）上，避免壳聚糖单独成纤的强度与成本问题。
+4. **Three-layer design fixes the breathability conflict 三层结构解决透气冲突** — 高透气表皮 + 抗菌吸水芯，直接针对「吸水后不透气」；木棉 160° 接触角是该设计的关键材料手段。
+5. **Feedstock drives cost 原料驱动成本** — 虾蟹壳等工农业副产品 +
+   • Chitosan Fibre（壳聚糖纤维） — 本批新建的概念页，承载特性、工艺与位点。
+- Probiotic & Skin-Care Topsheet（益生菌护肤面层） — 主动护理面层定位。
+- Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料） — 生物基/可降解材料体系。
+- 抗菌整理定量测试（AATCC TM100 _ AATCC 100） — 抗菌效果的定量测试口径。
+
+--- [[抗菌整理]]  (1 句)
+   • 抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+
+--- [[Absorbent Technology]]  (1 句)
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[ASTM E2149-20 Dynamic Contact Antimicrobial Activity（标准正文缺失 · 仅 ASTM 知识产权政策前置页）]]  (1 句)
+   • 本地路径：
+- 原文链接：（无；ima 同步文档，仅前置页）
+- 同族文档：ASTM E2149-20 Dynamic Contact Antimicrobial Activity（平行备份 · 正文同样缺失）、AATCC TM100-2019 抗菌整理测试、AATCC 100 抗菌整理定量测试方法、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）（附录E 抗抑菌性能）
+
+--- [[JRCA RCES SER01 Standards Development Expert Qualification（规格开发专家资格基准 · 文件名误标 JIS L 1902）]]  (1 句)
+   • 本地路径：
+- 原文链接：（无；ima 同步文档，附件疑似错配）
+- 同族文档：（抗菌测试方法系列见 AATCC TM100-2019 抗菌整理测试、AATCC 100 抗菌整理定量测试方法）
+
+--- [[德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）]]  (1 句)
+   • 实体：上海德福伦
+- 概念：ZnO Antibacterial Fibre（氧化锌抗菌纤维）、抗（抑）菌性能评价（杀菌率·抑菌率）、抗菌整理定量测试（AATCC TM100 _ AATCC 100）、Odour Management Routes（气味管理技术路线）
+

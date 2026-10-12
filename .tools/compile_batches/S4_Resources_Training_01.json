@@ -1,0 +1,34 @@
+{
+ "stage": "S4",
+ "block": "Resources/Training",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Agenda.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Agenda.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Agenda.xlsx.md",
+   "name": "Agenda.xlsx.md",
+   "title_hint": "Agenda.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Training/260602 SDHY Group ppt for KC_EM BCC R&E.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/260602 SDHY Group ppt for KC_EM BCC R&E.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/260602 SDHY Group ppt for KC_EM BCC R&E.pdf.md",
+   "name": "260602 SDHY Group ppt for KC_EM BCC R&E.pdf.md",
+   "title_hint": "260602 SDHY Group ppt for KC_EM BCC R&E.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Absorbent Training - Overview.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Absorbent Training - Overview.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Absorbent Training - Overview.pptx.md",
+   "name": "Absorbent Training - Overview.pptx.md",
+   "title_hint": "Absorbent Training - Overview.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Training/2021 Urine and BM Basic absorbency training/_00 Basic Absorbent training Introduction.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/2021 Urine and BM Basic absorbency training/_00 Basic Absorbent training Introduction.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/2021 Urine and BM Basic absorbency training/_00 Basic Absorbent training Introduction.pptx.md",
+   "name": "_00 Basic Absorbent training Introduction.pptx.md",
+   "title_hint": "_00 Basic Absorbent training Introduction.pptx"
+  }
+ ]
+}

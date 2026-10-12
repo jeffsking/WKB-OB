@@ -1,0 +1,107 @@
+# SEED: 分区密度设计
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 71 页，95 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Blizzard Core（Blizzard 芯体结构）]]  (3 句)
+   • 1. **What fluff actually does in a conventional core 绒毛浆在传统芯体里的真实作用**：fluff pulp provides **capillary wicking and temporary void volume**，supporting rapid initial fluid intake **before the SAM swells and immobilises the fluid**。So the fluff is a *timing* device, not only a bulking agent。（中文：绒毛浆是「SAM 膨胀前那几秒」的通道与空间提供者——是时间装置，不只是填充物。）
+2. **The three-layer stack 三层叠构**：top facing / wrap → **SAM + adhesive layer** → bottom facing / wrap。SAM = primary absorbent and fluid-locking component；adhesive = i
+   • 平台与产品 平台与产品：ActiveTech Platform（ActiveTech 在线薄芯体平台）、ROTC（Real Online ThinTech Core）
+- 被替代的材料 被替代的材料：绒毛浆（Fluff Pulp）
+- 吸收剂本体 吸收剂本体：SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀、BNC 基 SAP 表面交联
+- 相邻结构设计 相邻结构设计：分区密度设计、ADL（导流层）、亲水-疏水梯度设计、毛细梯度设计、芯体测试方法与验收基准（STM）
+- 库内既有芯体平台 库内既有芯体平台：COCO芯体平台、TBCW结构
+   • **Lesson 1（去浆要先补绒毛浆的两个功能）**：毛细导液与临时空隙体积。任何 fluffless 方案都要显式回答这两件事由谁承担——SAM 分布、胶、包裹构造、还是 pad channel。
+- **Lesson 2（胶用量是双侧约束，不是越多越好）**：≈5 % of SAM weight 的配置说明胶在「整体性」与「空隙体积/摄入速度」之间权衡；调胶必须同时看回渗与摄入两个指标。
+- **Lesson 3（回渗与摄入不是同一根杠杆）**：实测显示高压回渗大幅改善（2.67 → 0.40 g）而第三次摄入变慢——**验收不能只看回渗**，否则会把「吸得住但吸得慢」误判为全面升级。
+- **Lesson 4（混合构型是工程解）**：婴儿形态下漏尿趋势上升 → 保留带导流槽的混合构型。这与本库「分区设计优于单参数优化」的一贯判断一致（分区密度设计）。
+- **待补 **：Blizzard/ROTC 的**成本与供应链**信息（本批来源完全缺失）；粘接剂类型与添加量对**摄入动力学**的定量曲线；不同 SAP 粒径/GBP 组合在无浆结构中的适配性；无浆结构在**持续坐压下的塌缩
+
+--- [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]  (3 句)
+   • ✅ **验证记录（2026-09-29）**：本条机理与设备能力限制来自 2026-08-17 COCO V6 code 1–9 实验设计会，属**会议中的工艺判断**，未见实测数据支撑；已按  标注，不得作为结论直接引用。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、分区密度设计、Core Channel Pattern（芯体通道花型设计）。
+   • ✅ **验证记录（2026-09-29）**：以上均为**设计口径**，pilot 线尚未启动，无实测数据；CFM 与 1.4 mm 等参数须以最终设计图纸复核。参见 分区密度设计、COCO芯体平台、SAP性能指标（CRC AUL GBP Vortex）、ActiveTech Platform（ActiveTech 在线薄芯体平台）。
+   • ✅ **验证记录（2026-09-29）**：该改进**尚在验证中**，无任何实测数据；2–3 米为方案目标值，须以最终安装记录复核。参见 SAP性能指标（CRC AUL GBP Vortex）、COCO芯体平台、分区密度设计。
+
+--- [[STM-00305 SAM分布.docx]]  (3 句)
+   • **SAM（高吸水树脂）分布膨胀测试**（第 5 版）：把成品中切水化，目视判读吸收体内 SAM 与绒毛是否为均匀混合，按 4 档评分并拍照。是把"芯体结构设计"（分区密度设计、SAP错峰膨胀）落地为可验收读数的目视方法。
+   • **SAM 分布是目视 + 评分的定性验收，判据是「分层形态」而非含量** —— 支撑页：SAM Distribution Test（SAM 分布膨胀测试）
+- **任何裁切位移都会污染分布读数，故操作禁忌被显式写入方法** —— 支撑页：SAM Distribution Test（SAM 分布膨胀测试）
+- **分布判读与平面扩散测试属同一「芯体内部状态」观察族** —— 支撑页：STM-1002U型扩散实验.docx、分区密度设计
+   • 概念：SAM Distribution Test（SAM 分布膨胀测试）、分区密度设计、SAP错峰膨胀
+- 同族来源：STM-1002U型扩散实验.docx（平面扩散）、GB-T28004-2011 回渗渗漏.doc（渗漏）
+- 上位索引：芯体测试方法与验收基准（STM）
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (2 句)
+   • 产出构造与产品 产出构造与产品：Blizzard Core（Blizzard 芯体结构）、ROTC（Real Online ThinTech Core）
+- 材料侧材料侧：绒毛浆（Fluff Pulp）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀
+- 结构设计 结构设计：分区密度设计、ADL（导流层）、毛细梯度设计、亲水-疏水梯度设计
+- 库内同类平台 库内同类平台：COCO芯体平台、TBCW结构
+- 对照：芯体测试方法与验收基准（STM）
+   • **同向**：AT 3.0 要求"成型不得劣化防漏"，与上文 **Lesson 3（不要用容量指标验收薄芯体，验收看摄入动力学与防漏）** 完全同向。
+- **同向**：AT 2.0 靠**减 SAM 而非减结构**换成本（去 2 g），与上文 Lesson 1 的"瓶颈在物料搬运与成型、不在配方"并不冲突——分区改变的是**分布控制**，仍属成型侧。
+- **新增张力（不裁决）**：源文把分区（Zoning）列为**最大单项降本杠杆**（-$1.55/SU，含 $0.12/SU 资本），而库内 分区密度设计 页把分区定位为**方向级架构调整**（服务于输运与 SAP 分布）。二者视角不同（成本 vs 结构），**并列记录，不合并**。
+
+--- [[COCO芯体平台]]  (2 句)
+   • 架构原则：分区密度设计
+- 结构实体：REL增强层
+- SAP 协同：SAP错峰膨胀
+- 落点：智能尿裤功能层
+   • ✅ **验证记录（2026-09-29）**：路线互斥为会中**判断**而非已决业务决策；时间表为计划值，须以项目立项文件复核。参见 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、分区密度设计、ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）。
+
+--- [[Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）]]  (2 句)
+   • 1. **分区动因**：液体在芯体内的落点与扩散不均匀（单点摄入 + MD 方向扩散），均匀垫在落点区易饱和、在远端浪费容量 → 按摄入/扩散行为**分区给料**（克重、SAM 浓度、密度梯度）。
+2. **flat（平区）**：成型鼓单一直径设计，工艺最简、换型成本低；性能上限依赖 ADL/面层去分布液体。
+3. **pocketed（袋区）**：成型鼓做局部轮廓（浅袋/深袋），在袋区形成**加厚/高容量区**、非袋区减薄——培训原话是「learn about different forming designs. Add section on absorbent designs」，即多种成型设计族谱。
+4. **相邻议题 channel / void absorbent**：议程批注提出「Should we add a couple slides to cover channel / void absorbent」——通道/空腔芯体（对应本库 芯体通道花型设计）是分区思想的进阶形态。
+5. **库内衔接**：本库的分区实践落在成型鼓工程（Patterned SAP Core Form
+   • 设计原理：分区密度设计、毛细梯度设计、芯体通道花型设计
+- 工程落点：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、Repitch（鼓距与产品节距解耦）
+- 材料语境：SAP（高吸水树脂）、绒毛浆（Fluff Pulp）
+
+--- [[ROTC（Real Online ThinTech Core）]]  (2 句)
+   • 1. **Two configurations, one trade-off 两种构型、一个权衡**：**ROTC Slim / Fluffless** = an all- or nearly all-fluffless core designed for **maximum thinness and flexibility**；**ROTC HBC (Hybrid Core)** = a **bottom 100 % fast-SAM ROTC layer** combined with a **SAM/fluff top layer and pad channel**，which **restores capacity and fluid-handling margin while retaining much of the thin-core benefit**。（中文：Slim 追薄度；HBC 用底层快吸 SAM + 上层含浆层 + 导流槽把容量与液体管理裕度加回来。）
+2. **Why the hybrid is needed 为什么需要混合构型**：纯无浆路线的两个实测代价
+   • 平台与构造 平台与构造：ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）
+- 吸收剂与材料 吸收剂与材料：SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀、绒毛浆（Fluff Pulp）
+- 结构设计 结构设计：分区密度设计、ADL（导流层）、毛细梯度设计、亲水-疏水梯度设计
+- 验收 验收：芯体测试方法与验收基准（STM）
+- 库内同类平台 库内同类平台：COCO芯体平台、TBCW结构
+
+--- [[Technology Roadmap 2026-2029（技术路线图）]]  (2 句)
+   • 1. **Zoning replaces homogenisation（分区化取代均匀化）** → OI-02 / OI-20 / OI-14 / OI-25；单层均质架构项目须重述目标。详见 分区密度设计。
+2. **Ultrasonics upgraded to the cost-reduction mainline（超声波升为降本主线）** → OI-05 / OI-04；替代 90% 热熔胶、设备国产化 >80%、约 18 个月回本。
+3. **Degradables counting down to the cost inflection point（可降解进入成本拐点倒计时）** → OI-24 / OI-06 / OI-12 / OI-13；PLA 2028–2029 平价、bio-based SAP 2030 后平价。
+4. **Smart indication downgraded to a "visual language"（智能指示降为视觉语言）** → OI-15/16/21/22/23；验收口径统一为「消费者可解码率 ≥70%」而非精度指标。
+5. **Com
+   • Container 容器：IPC BCC OI Portfolio（开放创新项目组合）
+- Compliance 合规：Material Safety Control（材料安全双轨管控）
+- Mechanics 机理页：分区密度设计、可家庭堆肥无纺布（Home Compostable Nonwoven）、SAP错峰膨胀
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (2 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • 结构载体：皮芯复合纤维、ATB双梳理面层（Dual-Card Topsheet）
+- 工艺载体：热风粘合无纺布、SMS复合结构
+- 导流家族：ADL（导流层）、毛细梯度设计、分区密度设计
+- 纤维成纤性：成纤性判据、原纤化
+- 对比：COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+
+--- [[芯体通道花型设计]]  (2 句)
+   • **核心通道花型（Core Channel Pattern）** is the deliberate forming of **channels / grooves and bosses** into the absorbent core; it is named in the vault as "the design object of the channels and bosses"（通道与凸台的设计对象）of the patterned SAP-core forming drum（源：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓））。It sits within the core-differentiation手段 list — **分区密度设计、毛细梯度设计、芯体通道花型设计** — used to raise SAP utilisation rather than to swap materials（源：ActivTech Spring Portfolio 2026（ActivTech 春季组合评审））。定义待补（引用来源未给出几何定义
+   • Gel Blocking（凝胶阻塞）
+- Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- COCO芯体平台
+- COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+- Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+- ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+- 2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+- Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+- SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+- 
+

@@ -1,0 +1,134 @@
+# SEED: Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 42 页，79 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[液晶 Liquid Crystal]]  (4 句)
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Bio-inspired columnar proton channels.** Bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into **homeotropically oriented columnar proton channels** with water-independent conductivity and size-selective ion transport（源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a **wide temperature range**; hydrophobic mesogeni
+   • **Ion transport.** The bio-inspired discotic LCP proton channels (water-independent, Nafion-comparable, size-selective) are the materials foundation of the ion-transport thread — connected at concept level to the electrolyte/ion behaviour of wet SAP networks, though the vault states no direct SAP measurement （源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。
+   • Chromic Phenomena
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- Mechanochromic Elastomer from PDLC 5CB PDMS
+- Physics of Liquid Crystals (Book Review)
+- Introduction to Liquid Crystals
+- Antiferroelectric Liquid Crystals
+- Liquid Crystalline Polymers Smart Applications
+- Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 
+
+--- [[相变材料 Phase Change Material]]  (4 句)
+   • 形式化定义待补（引用来源未给出明确定义）。本页其余结论均来自卫材场景下对 PCM 微胶囊路线的评审（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。
+   • **微胶囊蓄热—释热（thermo-regulatory）**：PCM 微胶囊在较高温度蓄热、较低温度释热，从而提供调温性能（源：Intelligent Textiles and Sports Clothing）。
+- **"microcapsule tax"（微胶囊代价）**：相变微胶囊解决瞬时热峰，但要付出四重代价 ——
+  1. **Mass 质量**：每一克都要以 +gsm、+单位成本、每个循环计入；
+  2. **Risk 风险**：壳层脆性 → 破裂与批次波动，破裂胶囊污染 SAP 并放宽过程控制限；
+  3. **Liquid leakage 液体泄漏**：游离 PCM 提高皮肤风险，并恶化回渗 / 气味；
+  4. **Complexity 复杂度**：供应链新增专用封装层级。
+  （源：PCM-Free Thermoregulation with BNC Nanofiber Network）
+   • PCM knits 的微胶囊蓄放热机制为卫材提供可移植的调温思路（源：Intelligent Textiles and Sports Clothing）。
+- 在吸收性卫生用品中，微胶囊 PCM 是既有的热舒适路线，而 **PCM-free** 的工程化细菌纳米纤维素（BNC）纳米纤维网络是其「成本—机理」对照路线（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。参见 PCM-Free Thermoregulation、BNC-Only vs BNC+PCM (Thermoregulation Ledger)、Diaper Microclimate。
+- 相关材料与概念页：Stimuli-Responsive PCM、纳米纤维素（CNC、CNF、BNC）、智能织物 Smart Textile。
+   • Smart Textiles & Wearables
+- Smart Textiles Review
+- Smart Textiles and Sportswear
+- Intelligent Textiles and Sports Clothing
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+
+--- [[防水透气 Waterproof Breathable]]  (4 句)
+   • The vault gives the operating principle, not a textbook definition: waterproof-breathable pores are **20,000× smaller than a water drop** yet **700× larger than a water molecule** — so liquid water is blocked while water vapour passes（源：Smart Textiles Review）。It is listed as one function category in the smart-textile function map (chromic, thermoregulation, shape-memory, **waterproof-breathable**, wearable electronics, PCM)（源：Smart Textiles Review）。
+   • **Nanofibre membrane route.** Electrospun PU nanofibre membranes give very low basis weight with high hydrostatic pressure and very high WVTR; the vault is explicit that this is a **different material class, not a better film** — 4 gsm / 8 µm / 8,000 mmH₂O is not on the same scale as a PE drawn film（源：August R&D Meeting 2026（华峰研发会议）、Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜））。
+   • **Backsheet is the primary application.** All three cited backsheet patents target baby-diaper or adult-diaper backsheets（源：CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）、CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524B2 Breathable Diaper Backsheet (Colormasters)）。See 底膜 Backsheet、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）。
+- **Structural (not material) breathability.** The waistband "air window" route opens **breathable holes like mini windows** (die-cut) rather th
+   • The second cited-by page, **Smart Textiles & Wearables**, contains **no waterproof-breathable prose** — only a  concept entry — so no facts trace to it 。
+- No **test standard or norm** for "waterproof-breathable" is given in the vault's hygiene context; the figures above come from different sources and are **not on a single comparable scale** 。
+- No **KC-measured WVTR or hydrostatic-pressure target** for a production backsheet appears in the digests 。
+
+--- [[General Conclusions and Appendixes]]  (4 句)
+   • The thesis capstone: it consolidates both platforms (photoresponsive LCP polyesters for controlled release; oriented columnar membranes for selective, humidity-independent proton transport) and states the EIS-vs-I–V measurement caveat.
+（论文收官章：收束两大平台（光响应液晶聚酯用于控释；取向柱状膜用于选择性、湿度无关质子传输），并给出 EIS 与 I–V 表征的方法学警示。）
+   • Two technical platforms close six chapters under the unified "smart applications" goal: photoresponsive main-chain LCP polyesters and columnar/ordered ion-transport hybrid membranes.（两大平台在"智能应用"总目标下收束六章：光响应主链液晶聚酯与柱状/有序离子传输杂化膜。）
+- Photoisomerization is the controlled-release engine: α-methylstilbene main-chain polyesters undergo UV-triggered Z↔E isomerization causing backbone contraction, releasing vanillin from microcapsules that are dark-stable.（光异构是控释引擎：含 α-甲基芪的主链聚酯经 UV 触发 Z↔E 异构致主链收缩，从而在暗态稳定的
+   • Both LCP platforms realize the thesis "smart applications" goal (controlled release + selective humidity-independent transport) — support page: Liquid Crystalline Polymers Smart Applications.
+- EIS is unreliable for polyamine hybrids; I–V is the correct method — see Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2 and the polyester platform in Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene / Applying 
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 聚酯合成章：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜基础章：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- 纳米线 Part 2：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+
+--- [[General Introduction and Objectives]]  (4 句)
+   • This is the thesis's conceptual foundation: it defines stimulus-responsive "smart materials" via liquid-crystalline polymers and sets the two application threads (photoresponsive microcapsules + proton-conductive membranes).
+（本章是全书的立论基础，界定"智能材料"并以液晶聚合物为核心载体，引出光响应微胶囊与质子导电膜两条应用主线。）
+   • "Smart materials" historically trace to 1800s reports of magnetostriction; the thesis narrows the definition to polymers that can moderately reorganize their structure under stimuli, with novel liquid crystalline polymers (LCPs) as the central carrier for new material design, synthesis and system integration.（"智能材料"概念可溯至 1800s 磁致伸缩；本书将其收窄为可在刺激下中等程度重组结构的聚合物，并以新型液晶聚合物为核心载体。）
+- Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range orde
+   • Smart materials (narrowed): polymers able to moderately reorganize structure under stimuli — support page: Liquid Crystalline Polymers Smart Applications.
+- LCP classification (MC/SC × calamitic/discotic) governs which smart application is pursued — photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 材料平台（后续章）：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜主线（后续章）：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+
+--- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]  (4 句)
+   • **华峰（Huafon）** 在 8 月研发交流会上的材料，主题为**卫品用氨纶（常规/细旦/生物基/无溶剂）**与**纳米纤维防水透湿膜（WBM）**。本批作为「弹性体与功能膜供应方」信息源。
+   • **Hygiene portfolio**:
+1. **Common spandex** — **120–1100 dtex**; packages 1.0 / 2.0 / 3.0 / 4.5 kg; colours natural, purple, pink, light blue, dark blue; custom specs available.
+2. **Fine-denier spandex** — **120 / 160 / 240 / 320 dtex** for the **waist of feminine-care pants and baby pull-ups**, all validated by customers; a **new formulation** is offered to **reduce breakage risk**, requiring a process change on the customer side.
+3. **Nanofiber WBM** — **PU** made by **high-voltage electrosp
+   • **华峰把卫品氨纶拆成常规 / 细旦 / 生物基 / 无溶剂四条，其中细旦已客户验证、生物基 >70% 生物基含量、无溶剂通过 DMAC 未检出** —— 支撑页：华峰集团（Huafon Group）、无溶剂氨纶（Solvent-free Spandex）
+- **纳米纤维 WBM 以 PU 静电纺丝实现「远低于 25 gsm 却更高静水压 + 极高 WVTR」的轻量防水透湿** —— 支撑页：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+   • 实体：华峰集团（Huafon Group）
+- 概念：无溶剂氨纶（Solvent-free Spandex）、Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）、Electrospinning（静电纺丝）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- 对比（既有）：华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）、卫材氨纶供应商对比（华峰千禧 vs 莱卡 HYFIT vs 泰和新材 vs 中柏 vs 河北邦泰）
+
+--- [[PCM-Free Thermoregulation]]  (3 句)
+   • A bacterial-nanocellulose (BNC) nanofiber mat suppresses every conductive/radiative route and adds two dissipative loops:（BNC 纳米纤维垫抑制所有传导/辐射路径，并增加两个耗散回路：）
+   • 1. **Solid conduction** — point-contact fibril skeleton (τ ≈1.5–3) minimises solid path + phonon boundary scattering.
+2. **Gas conduction** — nano-pores ≈20–200 nm sit near the air mean free path (≈68 nm) → **Knudsen suppression**.
+3. **Radiation** — nanofiber mat scatters IR; low-emittance tortuous path.
+4. **Convection** — sealed, sub-mm pores block air movement within the layer.
+5. **Loop A · bound-water sensible buffering** — hydroxyl-bound water raises thermal mass and slows dT/dt **without
+   • PCM-Free Thermoregulation with BNC Nanofiber Network —— 
+- BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素） —— （2026-09-29 追加）
+
+--- [[August R&D Meeting 2026（华峰研发会议）]]  (3 句)
+   • Huafon's own August-2026 R&D meeting deck (converted slide PDF): **group profile → hygiene-product overview → spandex production process**. It is the batch-05 source that carries the **nanofibre waterproof-breathable membrane comparison table**, the **bio-based and solvent-free spandex routes**, and Huafon's **DMAC residue test record**.
+（华峰 2026 年 8 月研发会议材料（PPT 转写）：集团概况 → 卫品产品概览 → 氨纶丝生产工艺。本批中**纳米纤维防水透湿膜对照表**、**生物基与无溶剂氨纶路线**及**DMAC 残留检测记录**均出自此处。）
+   • **Electrospun PU nanofibre membrane is a different material class, not a better film** —— 4 gsm / 8 µm / 8,000 mmH₂O 与 PE 拉伸膜不在同一量纲 —— 支撑页：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+- **Two independent decarbonisation paths exist but trade off against elasticity** —— DMAC-free（无溶剂）与 bio-based（>70% 生物基）各有一个弹性缺口（热粘合窗口 / 回复率） —— 支撑页：无溶剂氨纶（Solvent-free Spandex）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- **Fine denier is the tactile-softness lever for waistbands** —— 120–320 dtex 已验证 —— 支撑页：氨纶干法纺丝（Spand
+   • Entities 实体：华峰集团（Huafon Group）、The LYCRA Company（莱卡）
+- Concepts 概念：Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）、无溶剂氨纶（Solvent-free Spandex）、氨纶干法纺丝（Spandex Dry Spinning）、DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- Comparisons 对比：华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+- Same-block sources 同批来源：与华峰集团会晤纪要（2026-07-29）、Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）
+
+--- [[Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2]]  (3 句)
+   • The hybrid membrane replaces ion-containing membranes (e.g. Nafion) with ion-free PAZE columns; selectivity arises from dipole / weakly polarising bonds, not from fixed ionic groups.
+  （中文：杂化膜以无离子 PAZE 柱替代含离子膜（如 Nafion）；选择性来自偶极/弱极化键，而非固定离子基团。）
+- EIS underestimates true ionic conductivity for ion-free channels (the AC signal reads polarisation of weakly polar bonds, not ions); correct characterisation requires solution-phase I–V / C–V exploiting the charge mismatch.
+  （中文：对无离子通道，EIS 低估真实离子电导（交流信号
+   • Hybrid membranes display a high proton-selectivity unreported for any other membrane (to the authors' knowledge).
+  （中文：据作者所知，杂化膜展现出其他膜未报道过的高质子选择性。）
+- Ion-free dendritic columns self-assemble without cationic templates; the channels are formed by a backbone with weakly polarising bonds.
+  （中文：无离子树枝状柱无需阳离子模板自组装；通道由具弱极化键的骨架构成。）
+- Homeotropic-like alignment lowers proton resistance and reduces methanol crossover (~2 orders below Nafion 117).
+  （中文：近垂直取向降低质子电阻并减少甲醇交叉（约低于 Nafion 117 两个数量级）。）
+- The ma
+   • 父书索引 Parent book: Liquid Crystalline Polymers Smart Applications
+- 前篇 Prior part: Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1
+- 主题关联 Thematic links: Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane, General Conclusions and Appendixes
+
+--- [[Liquid Crystalline Polymers for Smart Applications]]  (3 句)
+   • **General Introduction and Objectives** (p.1) — "Smart" materials; liquid crystals; nematic/cholesteric, smectic and columnar mesophases; calamitic vs. discotic molecules; main-chain (MC) vs. side-chain (SC) LCPs; strategy and four stated objectives (p.11).
+- **Part 1. Application of Calamitic Liquid Crystalline Polymers** (p.15) — intro to Microcapsules and Controlled Release.
+  - **Chapter 1** (p.23) Synthesis and Characterisation of a New Family of Photoactive Liquid Crystalline Polyesters ba
+   • 1. **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable.
+2. **Photoresponsive polyesters.** Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight.
+3. **First-order p
+   • Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene — thesis Ch.1 as a standalone chapter page
+- Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester — thesis Ch.2 as a standalone chapter page
+- An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks — thesis Ch.3 as a standalone chapter page
+- Applying Nature's Genius to Discotic Liquid-crystal Po
+

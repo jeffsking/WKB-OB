@@ -1,0 +1,110 @@
+# SEED: Titratable Acidity Lane（可滴定酸度通道）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 38 页，62 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (7 句)
+   • Signal selection compares urine and infant BM across seven properties. pH is a WEAK discriminator (ranges overlap); titratable acidity is GOOD (buffer capacity, not pH); bile pigment is BEST (binary presence); active enzyme is BEST but needs an aqueous-coated substrate; rheology (urine ≈1 mPa·s vs BM 3–60 Pa·s) is GOOD and drives sampling geometry; temperature is NONE; head-space volatiles are BLOCKED by the granular.
+   • Mechanism options are ranked by cost per unit of certainty: **A titratable-acidity lane** (buffered halochromic hot melt, ~US$0.4/1,000, Phase 1, sensitivity ~65–80 %, misses low-VFA formula stool), **B bile-pigment mordant lane** (quaternised cationic polymer as an anion-exchange lane, ~US$0.3/1,000, binary marker independent of feeding mode, but meconium and firm stool release little liquor) and **C protease-cleavage film** (crosslinked gelatin 12–20 µm over a dark printed field, ~US$2.5/1,000
+   • The architecture is sample → isolate → react → read: a 10 mm hydrophilic wick at topsheet level in the rear zone; an 18 gsm PE barrier under the wick to stop SAP stealing the sample water and to keep the granular ≥20 mm away in MD; a 90 mm MD travel to the two hot-melt lanes; and read-out under an unprinted clear channel in the backsheet artwork at the rear waist. Two jobs are kept separate — the pH ladder is a load gauge ("change at the right time"), the BM lanes override it ("change now").
+   • Cost model per 1,000 diapers totals US$0.54 (ladder 0.07, lanes A+B 0.10, ADL tail 0.23, barrier film 0.14, clear channel 0.00), i.e. ≈US$0.00054/diaper or 0.6–0.9 % of a typical US$0.06–0.09 ex-works diaper. Phase-1 capex is US$38–60 k; annualised running cost at 300 M diapers/year is ≈US$108 k. The deck is explicit that this is a claim and complaint-avoidance project, not a cost-out project.
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (6 句)
+   • The **second-generation BM indicator design** for a composite breathable backsheet — it replaces the two-lane concept with a single protein-error lane, and works the problem from the other end: dye loading as the only selectivity knob, melt rheology, slot geometry, thermal load on the breathable film, and a full cost model.
+   • The design rule is stated first: the BM lane must key off a molecule abundant in stool and effectively absent from urine, through a mechanism that is **not pH, not humidity, not temperature**. Four reasons are given — urine arrives first and often (6–8 voids per 12 h) so any moisture/pH lane is saturated before the first stool; stool carries very little free water so the liquid must be transported to the lane; ammonia rewrites the pH landscape (urea → NH₃ pushes a used diaper to pH 8–9 within ho
+   • The mechanism is worked out in detail: the lane is buffered hard to pH 3.0 with a citrate / stearyl-phosphate acid system so the dye sits fully in its yellow protonated form; free amino groups on the polypeptide bind the dye anion electrostatically and stabilise it, shifting the apparent pKa down so the dye ionises and turns violet **while the bulk pH is still 3**. Trip point is set by dye loading alone via D × C* ≈ 2,500. Four independent defences against a false BM signal are listed (protein b
+   • Cost: US$0.567 per 1,000 diapers all-in (material 0.142, capex amortised 0.109 over 707 M diapers/3 y, OEE allowance 0.240 at 0.30 %), i.e. 0.056–0.057 ¢/diaper. Net new hardware ≈ US$77 k core / US$109 k with in-line colour verification. Test plan covers a protein challenge ladder (0 / 150 / 1,000 / 5,000 / 10,000 / 40,000 mg/L bovine albumin), urine at pH 5.5 and 9.0, aged urine, stability (40 °C/75 % RH 8 weeks; 8 h melt at 130 °C; light; dye leach), process/product (Cpk ≥ 1.33 on 20 ± 3 gsm;
+
+--- [[时间滞后法 Time Lag Method]]  (4 句)
+   • **Time lag L 的定义**（唯一可溯源口径）：渗透曲线**稳态段的 t 轴截距**。测出湿流稳态段的截距 L，除以  即得扩散系数 D —— （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+   • **几何前提：一维有限域平面片。** 时间滞后法是 Ch.4「平面片扩散」在渗透测量上的应用；同一章的稳态解给出浓度线性分布与通量 （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **操作步骤。** 对一片厚度 l 的膜/片做渗透实验，记录下游累积湿流量-时间曲线；取**稳态段的线性段**，其在时间轴上的截距即 L；由  反演（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **非稳态段的分工。** 小 t 用误差函数类解，大 t 用傅里叶级数解 —— 时间滞后法取的正是**大 t 稳态段**（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **D 必须先指定参考系。** D 的定义依赖于参考系选择（体积 / 质量 / 溶剂固定），不同参考系给出不同 D 值；SAP 因溶胀体积剧变**通常用质量固定参考系**，否则 D 值无法比较（源：Definition and Measurement of Diffusion Coefficients (Crank 
+   • **几何直接对应芯体。** 一维有限域扩散是纸尿裤**芯体层、湿巾、SAP 片层、复合膜**的最直接对应几何（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **行业标准 D 测量法。**  是 SAP/纤维材料 D 测量的**行业标准方法**（Daynes 1920, Barrer 1951）（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **多层芯体的传质阻力叠加。** 复合膜总阻力 = 各层阻力之和 Σ(lᵢ/Dᵢ)，是芯体多层结构（顶表层 / 纺粘导流层 / 绒毛浆 / SAP 层 / PP 底膜）传质阻力建模的基础公式（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **MVTR 与液态阻隔率差异的解释。** 渗透常数 （D 与溶解度 S 之积），MVTR 与液态阻隔率的差异本质是 P 不同（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **SAP 表征的前提条件。** 报 SAP 的 D 时必须声
+   • Citing sources 引用来源：Definition and Measurement of Diffusion Coefficients (Crank Ch.10)、Diffusion in a Plane Sheet (Crank Ch.4)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、格林函数 Green's Function、Laplace 变换
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[Bile Pigment Mordant Lane（胆色素媒染通道）]]  (3 句)
+   • 1. **Binary presence, not a threshold（二值存在性，而非阈值）**：bile pigment is **BEST** as a discriminator because normal urine contains none (bilirubin absent), while infant BM carries bilirubin / biliverdin / stercobilin — strongly anionic and intensely coloured. This is the only signal in the concept that is **independent of feeding mode**.
+2. **Chromatographic concentration（色谱式浓缩）**：capture happens by ion exchange, so a faint sample is concentrated in place — **the concentration step makes a faint samp
+   • （中文：①二值存在性——胆色素作为判别量为**最佳**，因为正常尿中不含（无胆红素），而婴儿便携带胆红素/胆绿素/粪胆素，强阴离子且颜色浓重；这是本概念中**唯一与喂养方式无关**的信号；②色谱式浓缩——捕获靠离子交换，故微弱样本会被就地浓缩，**浓缩步骤让微弱样本变得可见**，这是捕获化学在单纯结合之外买到的东西；③对比层——金红石 TiO₂（3–5 wt%）提供白色底色，使微弱污渍仍可读出；④诚实局限——胎便与很硬的便释放液体极少，这是**输运问题而非化学问题**；该失效模式恰好与可滴定酸度通道的「低 VFA 漏检」互补，故两通道联合漏检率为乘积；⑤在后一版设计中的确认角色——同族设计把「胆红素/胆色素（重氮偶联）」列为**二级确认项**，因为重氮盐在 125 ℃ 熔体中光热不稳定：判别逻辑被接受，偶联化学不被接受；⑥指向——媒染路线用物理稳定的离子交换聚合物替代反应性偶联试剂，从而绕开了重氮化学的熔体稳定性问题。）
+   • 配对通道：Titratable Acidity Lane（可滴定酸度通道）
+- 同族（另一代际）：Protein Error of pH Dye（pH 染料的蛋白误差）
+- 读出逻辑：Wetness Indicator Ladder（尿湿指示阶梯）
+- 干扰源：Odour-Control Granular Interference（除臭颗粒干扰）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 既有页对照：变色油墨
+
+--- [[Fick 定律]]  (3 句)
+   • **SAP swelling is not plain Fickian.** The **Alfrey-Gurnee-Lloyd three-way classification** splits behaviour by the ratio of diffusion to relaxation rate: **Case I（Fickian）** when diffusion << relaxation; **Case II** when diffusion >> relaxation; **non-Fickian** when they are comparable. SAP maps onto the sequence 干态玻璃态 → Case II → 非菲克 → 橡胶态 Case I, which is the physical root of the **S-shaped sorption curve**（源：Non-Fickian Diffusion (Crank Ch.11)）. Critically, **a glassy polymer cannot be descr
+   • This is the mathematical foundation layer for the REL core: **SAP 溶胀 SAP Swelling** kinetics（Diffusion in a Sphere (Crank Ch.6)）, **吸收芯体** uptake and layered structure（Diffusion in a Plane Sheet (Crank Ch.4)、Diffusion in Heterogeneous Media (Crank Ch.12)）and **湿迁移 Wet Migration** all rest on Fick's second law. The series-resistance model  is the modelling basis for the multilayer core, and the  time-lag method is the standard route to measuring D in SAP and films. Coupled heat–moisture diffusion
+   • Mathematics of Diffusion
+- Diffusion Equations (Crank Ch.1)
+- Non-Fickian Diffusion (Crank Ch.11)
+- Moving Boundaries (Crank Ch.13)
+- Case II 扩散
+- Diffusion in a Sphere (Crank Ch.6)
+- Diffusion in a Plane Sheet (Crank Ch.4)
+- Diffusion in Heterogeneous Media (Crank Ch.12)
+- Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+- 时间滞后法 Time Lag Method
+- Boltzmann 变换
+- 湿迁移 Wet Migration
+
+--- [[Odour-Control Granular Interference（除臭颗粒干扰）]]  (3 句)
+   • 1. **The problem the granular created（颗粒制造出的问题）**：the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids. That removes **Mom's learned head-space signal for a BM** — she now only finds out at the scheduled change. Change intervals stretch, BM sits against skin longer, faecal protease + lipase and rising pH drive dermatitis, and the rash/leak blame lands on the diaper rather than on the missing cue.
+2. **Why any head-space indicator is
+   • 6. **Screen-it-first protocol（先筛查的规程）**：(i) slurry 5 g granular in 50 mL deionised water, 1 h, 25 °C — measure pH and titratable base to pH 4; (ii) **accept only if slurry pH ≤ 7.5 and titratable base ≤ 0.2 mmol/g**; (iii) build a full diaper and age it 8 weeks at 40 °C / 75 % RH, grading the lane weekly 0–5 and rejecting at grade 1; (iv) if the granular fails, **the fix is a barrier — move it above the core wrap, or micro-encapsulate it — not more acid in the lane**.
+7. **The test everyone forg
+   • 受影响通道：Protein Error of pH Dye（pH 染料的蛋白误差）、Bile Pigment Mordant Lane（胆色素媒染通道）、Titratable Acidity Lane（可滴定酸度通道）
+- 与尿湿指示的关系：Wetness Indicator Ladder（尿湿指示阶梯）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 既有页对照：智能尿裤功能层（抗菌除臭功能层与除臭四路线）、SAP错峰膨胀、分区密度设计
+- 选型：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+
+--- [[Protein Error of pH Dye（pH 染料的蛋白误差）]]  (2 句)
+   • 1. **Buffer hard, then let protein do the work（先强缓冲，再让蛋白起作用）**：the lane is buffered to pH 3.0 with a citrate / stearyl-phosphate acid system. The lane therefore reports **protein concentration, not pH**.
+2. **Urine cannot move it（尿搬不动它）**：urine can arrive at pH 5.5 or at pH 9 after ammoniacal ageing and the lane does not move — the trigger is not a proton. This is described as **the load-bearing defence** against false BM signals.
+3. **Trip point is set by dye loading alone（触发点仅由染料负载决定）**：D × C*
+   • 同族通道：Titratable Acidity Lane（可滴定酸度通道）、Bile Pigment Mordant Lane（胆色素媒染通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 干扰源：Odour-Control Granular Interference（除臭颗粒干扰）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 既有页对照：变色油墨
+- 选型：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+
+--- [[Wetness Indicator Ladder（尿湿指示阶梯）]]  (2 句)
+   • 1. **The point is to spend nothing here（这一层刻意不花钱）**：this is proven, commodity chemistry — the intent is to keep this element as the cheapest reliable part of the diaper so the budget goes to the BM lanes.
+2. **Ladder trick, at no extra cost（零额外成本的阶梯技巧）**：print three short dashes instead of one long stripe. Same glue mass, same applicator, same registration-free continuous pass — but Mom now reads a **load gauge**, which is what "change at the right time" actually requires.
+3. **Reading logic（读出逻
+   • 配对读出：Protein Error of pH Dye（pH 染料的蛋白误差）、Bile Pigment Mordant Lane（胆色素媒染通道）、Titratable Acidity Lane（可滴定酸度通道）
+- 干扰源：Odour-Control Granular Interference（除臭颗粒干扰）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 芯体设计：分区密度设计、SAP错峰膨胀、毛细梯度设计、ADL（导流层）
+- 既有页对照：变色油墨、智能尿裤功能层
+- 选型：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+
+--- [[Characterisation, testing and modelling of nonwoven fabrics]]  (2 句)
+   • It asserts performance = composition × structure, then organises the field into bond-structure characterisation, dimensional parameters (weight, thickness, density, FOD, porosity, pore size), a compendium of test standards, measurement techniques and a modelling section.（主张性能=组成×结构，再分粘合结构表征、尺寸参数、测试标准汇编、测量技术、建模。）
+- Fluid-handling properties are explicitly enumerated (permeability, absorbency, penetration time, wicking rate, re-wet, barrier, strike time) — effectively the test menu for absorbent h
+   • Performance = composition × structure — every test/model traces back to both.（性能=组成×结构，所有测试与模型均源于二者。）
+- Wicking (in-plane) vs demand absorbency (through-plane) underpins ADL vs core uptake design.（面内芯吸 vs 贯穿吸收是导流层 vs 芯体吸收的设计基础。）
+- Wettability is a measurable surface-energy balance, linkable to Ch.7/Ch.8 finishes.（润湿性是可测的表面能平衡，与第 7/8 章整理关联。）
+- Standardised hygiene-specific test methods already exist for compliance QC.（针对卫生用品的标准化测试已存在，可用于合规 QC。）
+
+--- [[Nanocellulose Technology Roadmap for Hygiene Materials（纳米纤维素卫材应用技术路线图 V1）]]  (2 句)
+   • **纳米纤维素的价值落点在「增强 + 涂层」，不在大宗替代** —— 支撑页：纳米纤维素（CNC、CNF、BNC）、Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+- **成本（$5–20/kg）与供应基盘薄是同一枚硬币的两面，须同步破解** —— 支撑页：Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）
+- **涂层 / Core Wrap 是投入产出比最高的短期突破口** —— 支撑页：Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+- **IP 风险须以 FTO 先行 + 自有 PCT 申请加节奏对** —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+   • 概念：纳米纤维素（CNC、CNF、BNC）、Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：（本页未落具名供应商商务条款，供应商适配仅记参数需求）
+- 对比：Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）、三类纳米纤维素对比（CNC、CNF、BNC）
+

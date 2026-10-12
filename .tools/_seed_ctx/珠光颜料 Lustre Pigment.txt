@@ -1,0 +1,108 @@
+# SEED: 珠光颜料 Lustre Pigment
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Ancient Dyes and Pigments
+#   - Chromic Phenomena
+#   - Chromic Phenomena Solar Energy and Liquid Crystals
+#
+# 全库正文命中 44 页，57 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[离子强度 Ionic Strength]]  (4 句)
+   • **Ionic surface cross-linking is a design lever *and* a failure mode.** Modern SAP practice uses a cation (Al³⁺) to ionically surface-crosslink polyacrylic-acid carboxyls, which raises gel strength, SFC/permeability and reduces gel blocking; the Al-crosslinked shell is only **partly reversible and is sensitive to pH and ionic strength**（源：Ancient Organic Dyes and Pigments Chemistry）。
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+   • Hydrogel-based Superabsorbent Polymers
+- Ancient Organic Dyes and Pigments Chemistry
+- Hydrogels in Regenerative Medicine
+- Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (4 句)
+   • Signal selection compares urine and infant BM across seven properties. pH is a WEAK discriminator (ranges overlap); titratable acidity is GOOD (buffer capacity, not pH); bile pigment is BEST (binary presence); active enzyme is BEST but needs an aqueous-coated substrate; rheology (urine ≈1 mPa·s vs BM 3–60 Pa·s) is GOOD and drives sampling geometry; temperature is NONE; head-space volatiles are BLOCKED by the granular.
+   • Mechanism options are ranked by cost per unit of certainty: **A titratable-acidity lane** (buffered halochromic hot melt, ~US$0.4/1,000, Phase 1, sensitivity ~65–80 %, misses low-VFA formula stool), **B bile-pigment mordant lane** (quaternised cationic polymer as an anion-exchange lane, ~US$0.3/1,000, binary marker independent of feeding mode, but meconium and firm stool release little liquor) and **C protease-cleavage film** (crosslinked gelatin 12–20 µm over a dark printed field, ~US$2.5/1,000
+   • **除臭颗粒与指示器争分子** —— 这是决定整个设计的陷阱，也是本批最有价值的工程警示。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **pH 不是可用的便判别量** —— 第二条 pH 条是「掷硬币」。支撑页：Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- **双通道并行，失效模式互补** —— 联合漏检率为乘积而非求和。支撑页：Bile Pigment Mordant Lane（胆色素媒染通道）
+- **必须在含除臭颗粒、且老化过的整片上验证** —— 无颗粒结构上的验证毫无证明力。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **这是宣称与投诉规避项目，不是降本项目** —— 真正的成本是失去的 OEE 与「看不见的线索」的替代价值。支撑页：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+   • Concepts 概念：Odour-Control Granular Interference（除臭颗粒干扰）、Titratable Acidity Lane（可滴定酸度通道）、Bile Pigment Mordant Lane（胆色素媒染通道）、Wetness Indicator Ladder（尿湿指示阶梯）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- Comparisons 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- Existing pages 既有页：智能尿裤功能层、变色油墨
+
+--- [[Clariant]]  (2 句)
+   • 源：Ancient Organic Dyes and Pigments Chemistry —— 供应商清单：BASF · Clariant · Henkel。
+- 源：Chromic Phenomena Introduction and Reversible Colour Change —— 供应商清单：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex。
+   • Ancient Organic Dyes and Pigments Chemistry
+- Chromic Phenomena Introduction and Reversible Colour Change
+
+--- [[Titratable Acidity Lane（可滴定酸度通道）]]  (2 句)
+   • 1. **Why not pH（为什么不用 pH）**：a pH-only BM stripe is a coin toss — roughly half of formula-fed stool and most late-day urine land in the same pH window. Setting the trip point tight enough to reject urine loses breastfed stool; loosening it turns every wet diaper into a false BM alarm.
+2. **Buffer capacity is the discriminator（判别量是缓冲容量）**：titratable acidity is **low** in urine (heavily diluted by SAP gel water) and **high** in infant BM — lactate + acetate + butyrate from bifidobacterial fermentat
+   • 配对通道：Bile Pigment Mordant Lane（胆色素媒染通道）
+- 同族（另一代际）：Protein Error of pH Dye（pH 染料的蛋白误差）
+- 读出逻辑：Wetness Indicator Ladder（尿湿指示阶梯）
+- 干扰源：Odour-Control Granular Interference（除臭颗粒干扰）
+- 工艺载体：Hot-Melt Slot Coating（热熔狭缝涂布）
+- 既有页对照：变色油墨
+
+--- [[交联密度 Crosslink Density]]  (2 句)
+   • **No numeric ν_c values or units** (mol/cm³ or mol/g) appear in any excerpt — the vault states only the directional laws 。
+- **No dedicated measurement method** for ν_c (e.g. swelling-ratio / modulus method) is documented；the vault only cites the direction of the relationship 。
+- **The citing page Ancient Organic Dyes and Pigments Chemistry supplied no excerpt in the digest** — its specific use of the concept is unverified here 。
+- **No reconciled number between the 45.8 g/g starch-CMC-NC claim 
+   • Absorbent Technology
+- Acrylic-Based Superabsorbent Polymers
+- Cross-linked Cellulose and Its Derivatives
+- Hydrogel-based Superabsorbent Polymers
+- Fibers and Fibrous Materials
+- Ancient Organic Dyes and Pigments Chemistry
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- Hydrogels in Regenerative Medicine
+- Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+- Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- Flory- Rehner Theory
+- SAP性能指标（CRC AUL GBP Vortex）
+
+--- [[光子晶体 Photonic Crystal]]  (2 句)
+   • Photonic crystals are **periodically ordered nanostructures whose interaction with incident light produces structural colour** — the source wording is: "Structural colors, arising from light interaction with periodically ordered nanostructures that are widely known as photonic crystals (PEs), are widespread in nature"（源：Interactively Mechanochromic Electronic Textile Sensor）。
+  （中文：光子晶体 = 与光相互作用的**周期性有序纳米结构**，由此产生的颜色即**结构色**；该定义直接来自引文原文。）
+- In the chromic-materials taxonomy, photonic crystals si
+   • Interactively Mechanochromic Electronic Textile Sensor（结构色定义、Bragg 晶格调控与全部 MET 定量数据）
+- Chromic Phenomena（三工程层级：supramolecular = 液晶 / 光子晶体；λ 由结构决定）
+- Chromic Phenomena Solar Energy and Liquid Crystals（Ch.5 光子晶体；可见光区 3D 光子带隙材料尚待实现）
+- 结构色 Structural Color、Structural Colour Mechanochromism（结构色力致变色）（结构色总纲、共同失效模式、蛋白石工艺）
+- Chromism Taxonomy（变色现象分类）、Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 分类与路线裁决）
+- 相邻条目：机械变色 Mechanochromic、Mechanochro
+
+--- [[BASF]]  (2 句)
+   • **与 KC 的关系**：现有摘录**无**BASF 与金佰利的供货 / 合作 / 竞品关系证据 → 关系字段记 **待核**。
+- ：公司国别、成立信息、组织架构等基本盘信息在引用页中均未给出。
+- ：HySorb® N7059 的 AAP 值（0.3 psi 29.0）在摘录中截断，单位与后续指标不可读（源：BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫））。
+- ： 缩写的完整展开在源页标注为 ；相关公式见 SAP 表面包覆（SAP Particle Surface Coating）。
+- ：BASF 在生物质平衡 SAP 上的**认证机构与证书编号**在宣传页摘录中未给出具体名称（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- ：原始引用来源 4 页（Absorbent Technology / Ancient Organic Dyes and Pigments Chemistry / Chromic Phenomena… / Luminescence…
+   • **原始引用来源（Cited by, 4 处）**
+- Absorbent Technology
+- Ancient Organic Dyes and Pigments Chemistry
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Luminescence Fluorescence Phosphorescence and Electroluminescence
+
+--- [[Intelligent Textiles and Sports Clothing]]  (2 句)
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (2 句)
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+   • 1. **Conjugated bicomponent spinning is the direct ancestor of splittable nonwovens**: the island-in-sea and radial-split configurations described at 14.6 are the same geometry used for splittable bicomponent spunbond and for海岛 staple used in high-coverage coverstock and wipes. See PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） for the modern side-by-side variant.
+2. **Non-circular cross-section → lustre, cover and handle** (p.387) is exactly the trade space behind topsheet s
+
+--- [[Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）]]  (1 句)
+   • BM Urine Indicator Concept（尿+便双指示概念） —— 
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本） —— 
+- Wetness Indicator Ladder（尿湿指示阶梯）、Protein Error of pH Dye（pH 染料的蛋白误差）、Titratable Acidity Lane（可滴定酸度通道）、Bile Pigment Mordant Lane（胆色素媒染通道）、Odour-Control Granular Interference（除臭颗粒干扰）（概念页）
+

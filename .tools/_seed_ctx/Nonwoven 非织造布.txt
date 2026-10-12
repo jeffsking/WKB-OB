@@ -1,0 +1,146 @@
+# SEED: Nonwoven 非织造布
+# type: concept | 原引用数: 10
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#   - Cosmetic Formulation of Skin Care Products
+#   - Cosmetic Science and Technology
+#   - Diffusion in a Cylinder (Crank Ch.5)
+#   - ES 纤维热风非织造布驻极性能初探
+#   - Handbook of Cosmetic Science
+#   - Handbook of Industrial Drying
+#   - Mechanochromic Photonic Sensors
+#   - Nonwovens in Absorbent Materials
+#
+# 全库正文命中 295 页，461 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Bicomponent Fibre Technology Development Trends]]  (5 句)
+   • Type 类型：literature review 文献综述 + industry statistics 产业统计.
+- Data sources 数据来源：INDEX 2008、2008 苏黎世全球 PET 会议、《化学纤维国际》期刊等。
+- Analytical path 分析路径：classify by fibre cross-section 按纤维结构分类（并列 S/S、皮芯 S/C、基质原纤 M/F），cross-compare against process 工艺（纺粘/熔喷/静电纺丝）and application 应用（非织造布、地毯、过滤）。
+- Time anchor 时间锚点：统计主要年份 2007—2008，回顾区间 1988—2008（过去 20 年）。
+   • Two variants 两类：concentric 同心型（芯居中）and eccentric 偏心型（芯偏离，可自卷曲）.
+- Direct quote 原文原句："皮芯型复合纤维可制得具有粘合功能的低熔点纤维，已广泛用于梳理型非织造布生产。"
+- Derived functional variants 衍生功能品种：Antron® 导电纤维、Mipan Corona® 抗静电纤维.
+- Hygiene mechanism 卫材机理（报告中明确）：sheath 皮层 uses a low-melting polymer (CoPP, LLDPE, CoPET) while core 芯层 uses a high-melting polymer (PP, PET); during air-through or calender bonding 热风/热轧 the sheath melts to form bond points while the core retains fibre integrity — this is the technical prototype of ES 
+   • Staple 短纤：PE/PP、CoPET/PET 低熔点纤维 6–8 万 t/a，主要用作梳理型非织造布粘合组分；人造革基布 2 万 t/a（其中 80% 仍用共混纺丝）.
+- Submicron/nano spunmelt 亚微米-纳米级纺熔：国内基本空白 blank in China.
+- Research infrastructure 研究条件：建议配置类似 Centexbel 或 Reicofil 的实验线.
+- Self-criticism quoted 原文评价：中国双组分纤维"量大量粗"，工艺与组件设计、亚微米-纳米级纺熔研究、应用研究三方面均需加强.
+   • Directly relevant. 三点可落地结论：
+1. **ES 纤维选型**：皮芯型低熔点纤维是梳理型/热风非织造布的热粘合组分，是纸尿裤、卫生巾面层与导流层的底层工艺；本源给出 2.2 dtex、200 kg/h、一等品率 >95% 的产业基准，可作为供应商能力对标的口径。
+2. **热粘合窗口关键参数**：组分比（50/50、60/40、10/90）与皮层厚度（21%–22% 纤维直径）决定粘合强度与手感，是打样 DOE 的首选因子。
+3. **下一代方向**：海岛型超细/纳米纤维提升比表面积、蓬松性与吸液性，但国内供给与研究基础薄弱，短期不宜作为量产方案。
+
+--- [[Ebewole Polymer Science Ch13 Mechanical Properties of Polymers]]  (5 句)
+   • Chapter 13 provides the **mechanical concept base 力学概念底座** for evaluating nonwoven performance. Its organising principle is the time–temperature sensitivity of viscoelastic materials.
+   • （中文：**冷拉伸（cold drawing）** 的本质 = 非晶区链构象改变并沿拉伸方向取向，取向后的伸展链抵抗进一步变形 —— 这是非织造布牵伸与热轧后强度提升的分子机制。）
+   • **"模量在玻璃区与分子量无关"是教学简化**：实际玻璃态模量对分子量有弱依赖（链端效应、自由体积），本章取一阶近似。
+- **tan δ 高 ≠ 柔软**：把 tan δ 直接当作"手感柔软度"指标是常见误用 —— tan δ 是**耗散/储能之比**，与模量大小是两个独立维度；手感由低模量 + 低摩擦共同决定。[待验证] 卫材柔软度的量化需用 Handle-O-Meter / 弯曲刚度等指标，本章未涉及。
+- **提取件的业务批注给出的具体 Tg 数值（PP ≈ −10 °C、PE ≈ −100 °C、PVA ≈ 80 °C、PAN ≈ 105 °C）来自本章摘要的评注段落，并非正文原文** —— [待验证] 引用前须回到 Ch.4 或数据表核对。
+- **本章未覆盖**：非织造布专用的各向异性（MD/CD）力学、纤网层面的纤维间滑移与粘合点失效、湿态力学、多孔介质的压缩回弹；这些属织物力学范畴，非本章的块体聚合物力学。
+- **LEFM 的适用边界**：K_Ic / G_Ic 建立在小范围屈服与线弹性假设上；非织造布的大变形、纤维拔出与桥联机制不满足该假设，只能作定性参考。
+   • 1. **Tear / tensile / puncture 撕裂、拉伸与穿刺的理论底座.** 非织造布的拉伸断裂、撕破、穿刺强度评估全部落在本章的 stress–strain 体系内；K_Ic / G_Ic 为穿刺与撕破提供断裂力学的定量语言。参见 Characterisation, testing and modelling of nonwoven fabrics、FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）。
+2. **Softness vs. strength trade-off 手感-强度矛盾.** "Modulus, yield, and tensile strengths generally decrease with the addition of plasticizers"（p.367）与增塑三态序列（硬脆→硬韧→软韧）是**柔软化必然伴随强度损失**的定性根据；但如 §批判所述，tan δ 不应被当作柔软度代理指标。
+3. **Strain-rate sensitivity → 测试速度的选择.** 
+
+--- [[Absorbent Technology]]  (4 句)
+   • The definitive reference on absorbent product materials and technology: a complete material→structure→product causal chain from porous-media fluid flow theory (Péclet, Darcy, Washburn) through fiber/nonwoven engineering and SAP chemistry to product integration and testing.
+《吸液技术》——吸液产品材料与技术的最权威参考专著，从多孔介质液体流动理论出发，经纤维/非织造工程与 SAP 化学，最终落地到产品整合与测试评价，构成完整的材料→结构→产品因果链。
+   • Absorbent Technology Introduction — 全书导论：吸液产品的历史、市场与技术演进概览
+- Porous Structure and Liquid Flow Models — 第 1 章｜多孔结构与液体流动模型（Péclet 数、达西定律、Washburn 方程、毛细上升）
+- Surface Tension and Surface Energy — 第 2 章｜表面张力与表面能（接触角、润湿、Ostwald-Freundlich 效应）
+- Fluid Absorption in High Bulk Nonwovens — 第 3 章｜高蓬松非织造的流体吸收（吸液动力学、芯体 C/Q 模型）
+- Computational Modeling in Absorbent Technology — 第 4 章｜吸液技术中的计算建模（2D/3D 数值模拟、有限元方法）
+   • Nonwovens in Absorbent Materials — 第 10 章｜无纺布在吸液材料中的应用（**四要素架构、12 种成形工艺、SMS/SMMS、ADL 密度梯度**）
+- Absorbent Product Testing — 第 11 章｜吸液材料测试技术（**测试金字塔、Wilhelmy 法、INDA/Klemm/Cobb、企业专有 in vitro**）
+- Products and Technology Perspective — 第 12 章｜产品与技术视角（**三层功能模型、绒毛浆 51g→29g→16g 演进、子层、生物纤维素远期路线**）
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[Development of the nonwovens industry]]  (4 句)
+   • Chapter 1 (by A. Wilson) is the orienting frame of the Handbook: it establishes the definition, taxonomy, raw-material dominance and market structure of the nonwovens industry, deliberately positioning nonwovens as a sophisticated, R&D-intensive sector with hygiene-disposables as its single largest end-use.（中文：第 1 章是全书框架章，确立无纺布定义、三族分类、原料格局与市场结构，并明确卫生用品是最大终端。）
+   • The chapter opens by acknowledging that any definition of "nonwoven" carries exceptions, because the industry drew on textile, paper and polymer-processing practices.（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工。）
+- It fixes the EDANA and INDA definitions and classifies nonwovens into drylaid, wetlaid and polymer-laid (spunmelt) families.（锚定 EDANA/INDA 定义，将无纺布分为干法/湿法/聚合物成网三族。）
+- Raw materials are surveyed with polypropylene dominant; man-made fibres exceed 90% of total output (PP 63%, PET 23%, viscose 8%).（
+   • Nonwovens resist a single clean definition — the field is convergent and boundary-crossing.（无纺布无单一洁净定义，属跨界聚合产业。）
+- Three process families trace to three mother industries: drylaid→textiles, wetlaid→papermaking, polymer-laid→polymer extrusion.（三工艺族分别源自纺织、造纸、高分子挤出。）
+- Hygiene is the dominant end-use, justifying the book's hygiene-centred lens.（卫生用品是主导终端。）
+- PP's 63% share is the master variable for polymer/process choice in hygiene nonwovens.（聚丙烯 63% 占比决定卫材无纺布的聚合物与工艺选择。）
+   • 父书：Handbook of Nonwovens
+- 概念：SAP（高吸水树脂）、纺粘 Spunbond、热风无纺布、Topsheet（面层）、吸收芯体
+- 工艺族：Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation、Mechanical bonding、Thermal bonding、Chemical bonding
+
+--- [[Ebewole Polymer Science Ch15 Polymer Properties and Applications]]  (4 句)
+   • 本章对卫材的价值在于**选型第一手依据**：原书在 Table 15.3（p. 426）明确列出 PP 的 *"Nonwovens … are important applications"* —— 非织造布是 PP 的重要应用；PE、PET、PAN、PU、PTFE 亦各有卫材映射。
+   • **与 PE 的结晶构象差异**：原文作 *"Unlike polyethylene, isotactic polyethylene does not crystallize in a planar zigzag conformation due to steric hindrance from the relatively bulky methyl group."* —— 源提取件已加注：**此处 "isotactic polyethylene" 应为 "isotactic polypropylene"**（甲基位阻使其无法取平面锯齿构象，只能取螺旋构象，每圈 3 个亚甲基单元）。引用本书时建议按"等规聚丙烯"理解，原书措辞 [待验证]。
+- **卫材点名**：*"Nonwovens … are important applications."*（Table 15.3, p. 426）
+   • 本章是卫材原料选型的**直接可用**章节，原书即点名了非织造布：
+   • 1. **PP（p. 426）**：*"Nonwovens … are important applications"* —— 卫材非织造布第一大原料；等规 PP 的螺旋结晶（每圈 3 个亚甲基单元）是其高熔点与可纺性的结构根源。
+2. **PE（p. 418）**：LDPE 结晶度 50–70%、Tm 100–120 °C，HDPE Tm ~135 °C —— 直接对应纺粘 PE 低熔点共混层（低温热封/粘合）与 HDPE 硬挺层的选材分界。
+3. **PET（p. 443）**：*"primary fiber for textile and tire cord applications"*，纺粘 PET 在湿巾与包装中大量使用。
+4. **PTFE（p. 444）**：Tm 327 °C、高结晶、耐化学 —— 高性能过滤膜（疏水/化学稳定）方向的候选。
+5. **PU / TPE（pp. 447–450）**：非织造布粘合胶、弹性组件、涂层；TPE 的硬段-软段嵌段结构解释其"热塑加工 + 橡胶弹性"。
+6. **加工警示（p. 427）**：PVC 在 Tg ~87 °C 以上脱
+
+--- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]  (4 句)
+   • One day, four supplier technical exchanges recorded in a single internal minute (2026-06-02): **紫华** (PE backsheet film), **恒碳** (PTT), **格菲林** and **Huayi Group** (nonwovens). It is the batch-05 source that carries the **film test-method conflict (WVTR loss vs gain in weight)** and the **PTT/PET side-by-side project definition**.
+（同一天四场供应商技术交流的单份内部纪要。本批中**膜材测试口径冲突（WVTR 失重法 vs 增重法）**与 **PTT/PET 并列短纤项目定义**均出自此处。）
+   • **背景**：**37 年非织造布经验**，**亚洲 4 个基地 15 条产线**，**总部及研发在泰国**，视创新为首要目标。
+- **技术讨论**：
+  - **0.6 旦热风底布**：展示蓬松型与光滑型（Omega 烫平）。KC 指出 **25 gsm 成本过高**（主流 18–22 gsm），且 **20 gsm 样品有「扎点」、梳理不均**；建议走 **1.0D–1.2D 配 18–20 gsm** 的商业化路线，并优化**碳素网及梳理工艺**。
+  - **打孔材料**：Huayi **自有机速 90 m/min 偏慢**，孔洞均匀性不足、易变形；KC 建议开发**力度更小的打孔工艺**以保持孔型。
+  - **3D 压花（TR 与 ET）**：**TR 三辊技术为核心创新**，解决传统压花**中空问题**，3D 效果及**厚度保持率优异**，**2.5 米辊宽可量产**；**ET 为单热轧辊，立体感较弱**。
+  - **DID 立体面层**：利用热风成型保留蓬松感，**已在金佰利越南商用**；痛点是**图案清晰度不足**（后续喷胶分切导致立体感损失）。Huayi 正开发
+   • **Test-method alignment is a prerequisite, not an afterthought** —— WVTR 2× 差异与渗漏测试口径是本批最可操作的采购/技术问题 —— 支撑页：WVTR 测试口径（失重法 vs 增重法）、紫华公司（Zihua, Zijiang Group）
+- **PTT's value proposition is thickness-at-equal-weight** —— 降克重 5–6% + 厚度 +20–35% —— 支撑页：PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、恒碳（Hengtan）
+- **Low-weight blown film is now a physical-property problem, not a gauge problem** —— 12–13 g 已可做、瓶颈在物性 —— 支撑页：紫华公司（Zihua, Zijiang Group）
+- **Nonwoven 3D embossing is splitting into roll-count schools (TR three-ro
+   • Concepts 概念：PTT（聚对苯二甲酸丙二醇酯）、WVTR 测试口径（失重法 vs 增重法）、并列复合自卷曲纤维、热风粘合无纺布、亲水-疏水梯度设计、皮芯复合纤维、ADL（导流层）
+- Entities 实体：紫华公司（Zihua, Zijiang Group）、恒碳（Hengtan）、格菲林（Gefilin）、Huayi Group（待核中文名）、Kimberly-Clark（金佰利）、江南高纤、新维盛集团（Xinweisheng Group）
+- Same-block sources 同批来源：Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）
+
+--- [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]  (4 句)
+   • The application titled "NONWOVEN CARRIER FOR ABSORBENT ARTICLE" relates to a nonwoven carrier (1) for immobilizing superabsorbent polymer particles (28) in an absorbent article. The carrier comprises a nonwoven top layer (7) penetrable by the particles and a nonwoven bottom layer (8); the top layer is **mechanically bonded by hydroentanglement**（水刺）to the bottom layer, the bottom layer is porous with a **pore size smaller than said particles**, and — this is the characterization — **the top laye
+   • **不用绒毛浆也能固定 SAP：靠孔径差 + 水刺缠结两件事** ——顶层可被颗粒穿透、底层孔径小于颗粒，再用水刺把短纤机械锚固到底层上。→ Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）
+- **SMS / SMMS 是这里明确涵盖的底层方案** ——权利要求 2 直书 "spunbond melt-blown spunbond fabric"。→ SMS复合结构
+- **克重不对等是设计要点，不是误差** ——顶层 15–40 gsm、底层 4–12 gsm（各自最优选），即底层被刻意做到「够挡住 SAP 就好」的轻量。→ Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **分案身份影响保护范围判断** ——本件是 14153467.7 / EP 2 901 991 的分案，判断「本案 + 母案」整体范围时必须两份合看。→ Ontex
+   • Concept 概念：Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）、SMS复合结构、SAP（高吸水树脂）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- Entity 实体：Ontex
+   • Local path 本地路径：
+- Original link 原文链接：（无；专利文献）
+- Note 备注：封面所载标题为 "NONWOVEN CARRIER FOR ABSORBENT ARTICLE"（见 INID 54 与 57）。
+
+--- [[FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）]]  (4 句)
+   • The **textile-industry product standard** specifically for baby-diaper nonwovens（面层/底层/防漏隔边/导流层/包裹层/腰贴六位分工）— the first CN standard to organize diaper nonwoven acceptance by in-diaper position rather than by process.
+   • FZ/T 64112-2024 (SAC/TC 209/SC 7) was drafted by essentially the whole CN diaper-nonwoven supply base (延江、南海南新、大源、优全、恒安卫生材料、俊富 etc.). Its organizing principle is **position**: one standard covers topsheet, backsheet, leak cuffs, ADL, core wrap, and waist/side-tape nonwovens, with composite/laminated products excluded. Clause 2 anchors every property to the GB/T 24218 nonwoven test-method series (basis weight, strip tensile, liquid strike-through with simulated urine, rewet per 24218.14, multi-pe
+   • **「按位置分类」是本标准对卫材采购的最大价值**：面层、导流层、包裹层在同一标准下按各自功能族验收，取代按工艺（热风/纺粘/水刺）各自找标准的碎片化做法 —— 支撑页：FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）
+- **返湿量方法锚点 = GB/T 24218.14**（包覆材料返湿量）——与非织造布层面的回渗口径衔接 —— 支撑页：Rewet Test（回渗测试）
+   • 概念：FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）、Topsheet（面层）、ADL（导流层）、Rewet Test（回渗测试）
+- 方法语境：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（成品层标准，与本原料层标准互补）
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (4 句)
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **HIGH 高关联** — this is one of the few sources in the vault that links **resin specification → nonwoven process → delivered fabric property** with numbers attached, and it is the canonical citation for the MFR split between spunbond and meltblown. Directly serves:
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]  (4 句)
+   • P&G 的**已授权美国专利（US 7,195,621 B2，仅 1 项权利要求）**：用**熔喷无纺布（meltblown nonwoven）替代 PE 膜**作为一次性衣物的阻隔/透气组件，并给出一套**可执行的四参数窗口**（纤维直径、克重、透气度、透湿度）+ 三个通过 10 psi 不漏的实施例。是本库 Film-Free Backsheet（无膜背层） 路线最早、且参数最硬的一份一手出处。
+   • Title: "DISPOSABLE GARMENT COMPRISING MELTBLOWN NONWOVEN BACKSHEET". The invention addresses the discomfort of polyethylene film backsheets: a plastic film has insufficient moisture breathability and almost no air permeability, causing skin irritation. Microporous polyfilm is the next attempt, but may deliver "sometimes less than 50% of the desired level" of breathability and still almost no air permeability. The inventor's diagnosis of the competing nonwoven prior art (unexamined Japanese publi
+   • **去膜背层（film-free backsheet）不是新想法，2000 年就有量化专利**——本案把"熔喷替代 PE 膜"落成了四个可直接验收的数字，而非概念性主张。→ Film-Free Backsheet（无膜背层）
+- **本案的经验是"纤维不是越细越好"**——0.5–2.5 µm 的先行技术因孔径过小而失去透气并拉低强度；本案反向取 **3–10 µm**，与本库 Formation-Limited Barrier（阻隔的成形受限机理） 关于"成形/均匀性而非平均直径决定阻隔"的论述方向一致。→ Meltblown Nonwoven（熔喷非织造布）
+- **同时限定模量（230–650 gf/mm）是工艺性要求**：既要够软能悬垂，又要够强能在加工线上跑起来——这解释了为什么单纯追求超细纤维没有产线价值。
+- **权利要求与说明书的差异极大，读范围时必须注意**：摘要/SUMMARY 讲的是 **backsheet**，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上。→ 见下方 manual_review。
+   • Concept 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、SMS复合结构
+- Entity 实体：The Procter & Gamble Company（宝洁）
+

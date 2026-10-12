@@ -1,0 +1,101 @@
+# SEED: 芯体通道花型设计
+# type: concept | 原引用数: 7
+# 原 Cited by 列表:
+#   - Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+#   - Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+#   - Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+#
+# 全库正文命中 40 页，53 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Gel Blocking（凝胶阻塞）]]  (2 句)
+   • **直接相关**：MD Liquid Distribution（MD 铺展是凝胶阻塞的反向指标）、ADL（导流层）（排水机制的执行者）、SAP错峰膨胀（时间维度上的阻塞缓解）、Core Channel Pattern（芯体通道花型设计）（空间维度上的分区）。
+- **机理同族**：Residual Fluid & Pore Stranding（残液与孔隙滞留）（同为"液体到不了该去的地方"类失效）、毛细梯度设计（用结构梯度替代单一材料指标）。
+- **参数侧**：SAP性能指标（CRC AUL GBP Vortex）（**AUL / GBP / SFC 都是"负载下的输运能力"指标，与凝胶阻塞同一物理源头**；⚠️ 但本页数值来自**热力学模型 Q_eq = 26.6 g/g**，与实测 CRC **来源不同，不可等同**）。
+- **组合页**：IPC BCC OI Portfolio（开放创新项目组合）。
+   • 2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告） —— 
+- Core Channel Pattern（芯体通道花型设计） —— 提供 Code 10 类"中心加密反而不好"的独立观察（结构分区反例）
+
+--- [[Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）]]  (2 句)
+   • 1. **分区动因**：液体在芯体内的落点与扩散不均匀（单点摄入 + MD 方向扩散），均匀垫在落点区易饱和、在远端浪费容量 → 按摄入/扩散行为**分区给料**（克重、SAM 浓度、密度梯度）。
+2. **flat（平区）**：成型鼓单一直径设计，工艺最简、换型成本低；性能上限依赖 ADL/面层去分布液体。
+3. **pocketed（袋区）**：成型鼓做局部轮廓（浅袋/深袋），在袋区形成**加厚/高容量区**、非袋区减薄——培训原话是「learn about different forming designs. Add section on absorbent designs」，即多种成型设计族谱。
+4. **相邻议题 channel / void absorbent**：议程批注提出「Should we add a couple slides to cover channel / void absorbent」——通道/空腔芯体（对应本库 芯体通道花型设计）是分区思想的进阶形态。
+5. **库内衔接**：本库的分区实践落在成型鼓工程（Patterned SAP Core Form
+   • 设计原理：分区密度设计、毛细梯度设计、芯体通道花型设计
+- 工程落点：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、Repitch（鼓距与产品节距解耦）
+- 材料语境：SAP（高吸水树脂）、绒毛浆（Fluff Pulp）
+
+--- [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]  (2 句)
+   • SAP Dosing Speed Matching（SAP 落料速度匹配与容差）（本平台的头号失效模式）
+- Core Channel Pattern（芯体通道花型设计）（通道与凸台的设计对象）
+- SAP性能指标（CRC AUL GBP Vortex）（选型目标的指标口径）
+- ActiveTech Platform（ActiveTech 在线薄芯体平台）（在线薄芯体的平台级对照）
+- Nichidai（日丝）（套筒供应方）
+- IPC BCC OI Portfolio（开放创新项目组合）
+   • ✅ **验证记录（2026-09-29）**：本条机理与设备能力限制来自 2026-08-17 COCO V6 code 1–9 实验设计会，属**会议中的工艺判断**，未见实测数据支撑；已按  标注，不得作为结论直接引用。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、分区密度设计、Core Channel Pattern（芯体通道花型设计）。
+
+--- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]  (2 句)
+   • **1D 高估 SAP 利用率 13%（100% 假定 vs 87% 实际）⇒ 设计应预留约 13% SAP 容量裕度。** —— 支撑页：Gel Blocking（凝胶阻塞）、MD Liquid Distribution
+- **最外侧 2 个切片（各 6.7 mm）240 s 时近乎零吸收 ⇒ 边缘旁通/回流通路，需阻隔结构或边缘加密 SAP。** —— 支撑页：Core Channel Pattern（芯体通道花型设计）、MD Liquid Distribution
+- **D_cap = 1e-9 m²/s 下 ±40 mm 铺展需 ~30 s；更快的输运只能靠提高 k0 或降低 μ。** —— 支撑页：MD Liquid Distribution、ADL（导流层）
+- **质量守恒闭环（误差 ~0 mL）⇒ v8 可进入参数扫描阶段。** —— 支撑页：（无，模型内部指标）
+- **50% 吸收 9.5 s / 80% 吸收 16.0 s（200 mL、15 mL/s、中心 40% 顶部注入）。** —— 支撑页：Rewet Test（回渗测试）（口径对照）
+- **Flor
+   • **机理页**：Gel Blocking（凝胶阻塞）（本件量化证据：SAP 利用率 87%、边缘 2 切片未激活）、MD Liquid Distribution（MD 铺展 ±40 mm / ±6 切片、D_cap 校准需求）、ADL（导流层）（铺展瓶颈的物理角色）、Core Channel Pattern（芯体通道花型设计）（边缘旁通 → 通道/阻隔设计）、SAP错峰膨胀（利用率与膨胀时序）。
+- **参数页**：SAP性能指标（CRC AUL GBP Vortex） —— 本件 **Q_eq = 21.2 g/g 由 Flory-Rehner 热力学模型算出**，与该页**实测 CRC 口径来源不同，不可直接等同**。
+- **方法页**：Rewet Test（回渗测试） —— 本件**尚无 rewet 模型**（原文将回流/渗漏列为 v3.0 待办），**不能用于回渗预测**。
+- **版本沿革**：同系列 2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）、2D Absorption 
+
+--- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]  (2 句)
+   • **What 是什么**：Core **shaping / channels / patterning**（中文：芯体成型与通道图案），2028+。
+- **Constraint 约束**：须**维持与 AT1.0 持平的渗漏与台架结果**，因此**相对 AT1.0 的额外收益仍需验证**（中文：成型带来的收益必须先证明不劣化防漏）。
+- 相邻库内概念：Core Channel Pattern（芯体通道花型设计）。
+   • 平台与构造：ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）、ROTC（Real Online ThinTech Core）、COCO芯体平台、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- 结构手段：Core Channel Pattern（芯体通道花型设计）、分区密度设计
+- 材料：绒毛浆（Fluff Pulp）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]  (2 句)
+   • **「减 SAP + 加大开槽面积」不成立：省下的 SAP 会在第 2/3 次摄入时以 cradle intake 恶化还回来** —— 支撑页：COCO芯体平台、Core Channel Pattern（芯体通道花型设计）
+- **channel 的设计约束是「只加长、不加宽」，因为宽度同时伤害扩散、CD 毛细与 cradle** —— 支撑页：Core Channel Pattern（芯体通道花型设计）
+- **异形截面纤维有热窗口（142 ℃ 流平），这是三叶草方案的隐形工艺约束** —— 支撑页：三叶形截面纤维（Trilobal Fibre）
+- **熔喷 core wrap 的毛细优势与强度风险是同一枚硬币的两面** —— 支撑页：Meltblown Nonwoven（熔喷非织造布）
+- **SAP 选型应先用别家牌号证明 concept，再倒推供应商开发** —— 支撑页：诺尔（Nuoer）、SAP（高吸水树脂）
+   • 概念：COCO芯体平台、Core Channel Pattern（芯体通道花型设计）、三叶形截面纤维（Trilobal Fibre）、Meltblown Nonwoven（熔喷非织造布）、Cradle Intake Test（Cradle 摄入测试）、MD Liquid Distribution、SAP性能指标（CRC AUL GBP Vortex）
+- 实体：诺尔（Nuoer）、Satellite Chemical（卫星化学）、Sumitomo Seika（住友精化）
+
+--- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]  (2 句)
+   • **REL 讲「容得下、不塌陷」，ADL 讲「导得快、分得匀」——合并的前提是密度梯度而非简单替代** —— 支撑页：REL vs ADL（收集传递层 vs 导流层）、ADL（导流层）、REL增强层
+- **打孔 ADL 的价值不在"孔更多"，而在纤维直径 × 开孔率 × 厚度的三参数匹配** —— 支撑页：REL vs ADL（收集传递层 vs 导流层）
+- **形状稳定性（SAF/RCF）与无胶化（超声波粘接）是同一目标的两条路径：都为了解决起坨断层** —— 支撑页：芯体通道花型设计、Ultrasonic Bonding of PET-Containing Topsheet
+- **本文件含严重的 REL 术语歧义（冶金与焊料语境），检索时必须按语境过滤** —— 支撑页：REL增强层
+   • 对比 Comparison：REL vs ADL（收集传递层 vs 导流层）（本页派生）
+- 概念 Concept：ADL（导流层）、REL增强层、芯体通道花型设计、热风粘合无纺布、Ultrasonic Bonding of PET-Containing Topsheet、Biodegradable SAP（可降解高吸水树脂）
+- 组合 Portfolio：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]  (2 句)
+   • **真正的浪费不是性能差，而是 SAP 用不到（真实利用率仅 30–40%）** —— 支撑页：COCO芯体平台
+- **channel 是「物理槽」，解决不了 U 型反重力扩散，那一半要靠材料毛细** —— 支撑页：Core Channel Pattern（芯体通道花型设计）
+- **bonding 是把双刃剑：保住湿态 channel，却伤害 U 型毛细传导，故必须做窄** —— 支撑页：Core Channel Pattern（芯体通道花型设计）
+- **真空成型（chamber + vacuum）工艺的可行性已被工程实验支持，但高速稳定性与磨损是未验证项** —— 支撑页：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- **胶的「喷法」比「胶量」更决定 free SAP 与 pad integrity** —— 支撑页：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+   • 概念：COCO芯体平台、Core Channel Pattern（芯体通道花型设计）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）、分区密度设计、Gel Blocking（凝胶阻塞）、Cradle Intake Test（Cradle 摄入测试）
+- 实体：（本批不新建实体页；竞品名称因 ASR 讹字仅作要点记录）
+
+--- [[SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）]]  (2 句)
+   • **复合芯体的 SAP 不是「选一个最好的」，而是「上下层分工搭配」** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）、诺尔（Nuoer）
+- **结构（槽）对利用率的提升大于高 GBP，因此 GBP 目标应随结构设计而定** —— 支撑页：Core Channel Pattern（芯体通道花型设计）、COCO芯体平台
+- **聚合工艺决定性能取向与溶出物：后中和稳、前中和保水高但慢、注油型首吸快后段弱** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）、诺尔（Nuoer）
+- **东南亚复合芯体市场已教育成熟，但价格战与中国出口芯体是主要压力** —— 支撑页：诺尔（Nuoer）
+- **越南早期失败的根因是「三层无绒毛浆结构」，不是 SAP 本身** —— 支撑页：绒毛浆（Fluff Pulp）
+   • 概念：SAP性能指标（CRC AUL GBP Vortex）、COCO芯体平台、Core Channel Pattern（芯体通道花型设计）、绒毛浆（Fluff Pulp）、TBCW结构
+- 实体：诺尔（Nuoer）
+
+--- [[V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）]]  (2 句)
+   • V6 双层开孔对齐的产品设定与 450 m/min 目标车速 —— 支撑页：COCO芯体平台
+- REL/LSS/PSS 各自匹配 SAP 牌号与三维分布的开放问题 —— 支撑页：REL增强层、Multilayer SAP Core（多层SAP芯体）
+- 成型鼓空间与三维 SAP 阵列工程缺口 —— 支撑页：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Core Channel Pattern（芯体通道花型设计）
+- 面层压花可见性与压合路线缺口 —— 支撑页：Topsheet（面层）
+   • 概念：COCO芯体平台、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、Multilayer SAP Core（多层SAP芯体）、Core Channel Pattern（芯体通道花型设计）、REL增强层、Topsheet（面层）
+- 同系列源页：COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+

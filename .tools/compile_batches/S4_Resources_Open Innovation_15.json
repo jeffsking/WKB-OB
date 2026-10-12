@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/History of FIUP.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/History of FIUP.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/History of FIUP.docx.md",
+   "name": "History of FIUP.docx.md",
+   "title_hint": "History of FIUP.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_sap_analysis.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_sap_analysis.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_sap_analysis.md.md",
+   "name": "bcnf_sap_analysis.md.md",
+   "title_hint": "bcnf_sap_analysis.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_中文版.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_中文版.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_中文版.docx.md",
+   "name": "SAP选型分析_三PPT对比_中文版.docx.md",
+   "title_hint": "SAP选型分析_三PPT对比_中文版.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理行业变色油墨供应商调研报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理行业变色油墨供应商调研报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理行业变色油墨供应商调研报告.md.md",
+   "name": "卫生护理行业变色油墨供应商调研报告.md.md",
+   "title_hint": "卫生护理行业变色油墨供应商调研报告.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/07_智能感知纸尿裤技术研究报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/07_智能感知纸尿裤技术研究报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/07_智能感知纸尿裤技术研究报告.md.md",
+   "name": "07_智能感知纸尿裤技术研究报告.md.md",
+   "title_hint": "07_智能感知纸尿裤技术研究报告.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_nonwoven_analysis.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_nonwoven_analysis.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/bcnf_nonwoven_analysis.md.md",
+   "name": "bcnf_nonwoven_analysis.md.md",
+   "title_hint": "bcnf_nonwoven_analysis.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本差异分析报告_v3.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本差异分析报告_v3.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本差异分析报告_v3.docx.md",
+   "name": "CoPET_PET与PE_PET成本差异分析报告_v3.docx.md",
+   "title_hint": "CoPET_PET与PE_PET成本差异分析报告_v3.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Attachment Strength Results.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Attachment Strength Results.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Attachment Strength Results.pptx.md",
+   "name": "HSBL Attachment Strength Results.pptx.md",
+   "title_hint": "HSBL Attachment Strength Results.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/2026年主流复合无纺布种类工艺特性及应用场景.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/2026年主流复合无纺布种类工艺特性及应用场景.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/2026年主流复合无纺布种类工艺特性及应用场景.md.md",
+   "name": "2026年主流复合无纺布种类工艺特性及应用场景.md.md",
+   "title_hint": "2026年主流复合无纺布种类工艺特性及应用场景.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.06.25 - Learning Cycle Check In.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.06.25 - Learning Cycle Check In.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.06.25 - Learning Cycle Check In.pptx.md",
+   "name": "2025.06.25 - Learning Cycle Check In.pptx.md",
+   "title_hint": "2025.06.25 - Learning Cycle Check In.pptx"
+  }
+ ]
+}

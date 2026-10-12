@@ -1,0 +1,130 @@
+# SEED: 智能包装 Smart Packaging
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Wearable Sensors Fundamentals Implementation and Applications
+#
+# 全库正文命中 114 页，226 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[智能织物 Smart Textile]]  (12 句)
+   • **No settled definition of smart textiles exists.** Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**（源：Intelligent Textiles and Sports Clothing）。The working definition used by the smart-polymer literature is verbatim: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed 
+   • **Core architecture** is stated as **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output（源：Intelligent Textiles and Sports Clothing）。Two insertion points in the garment manufacturing chain matter: **cutting** (separating plies destined for printing of smart components) and **sewing** (adding electronic components)（源：Intelli
+   • **Chromic classification by stimulus** names photochromic (light), thermochromic (heat) and electrochromic (applied voltage) textile applications: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated; photochromic pillow covers revealing a motif in sunlight — all reversing when the stimulus is removed（源：Smart Textiles and Their Applications）。The 2022 survey extends this to seven chromic mechanisms (see table above)（源：Smart 
+   • **The integration thesis** is producing fibres with electronic function *without compromising strength, comfort and aesthetic appeal* — stated as the core challenge for seamless, invisible electronics（源：Smart Fabrics and Networked Clothing）。
+
+--- [[电致变色 Electrochromic]]  (5 句)
+   • **Electrochromism（电致变色）** is colour change induced by an **applied voltage**（通电变色）— one of the chromic classes classified **by what induces the colour change**, alongside photochromic（light）and thermochromic（heat）（源：Smart Textiles and Their Applications）. It is counted among the **four commercialised chromic phenomena** — photochromism, thermochromism, **electrochromism**, ionochromism（源：Chromic Phenomena Introduction and Reversible Colour Change）— and among the **seven chromic mechanisms** name
+   • **Voltage-driven switching.** Colour appears/changes when a voltage is applied across the electrochromic element（源：Smart Textiles and Their Applications）.
+- **Intrinsic reversibility.** Removal of the stimulus returns the colour to its resting state, because the original state is the more stable one（源：Smart Fabric Textiles Recent Advances and Challenges）.
+- **Textile integration route.** The GRID report groups **woven optical fibre** and **electrochromic** as the two routes to a **textile flexib
+   • **Powered indicators are a negative result for disposables.** The smart-textile community's own verdict is that **electrochromic routes are blocked on lifetime / reliability**; the source reads this as a warning to anyone proposing a **powered or electrically-switched indicator on a disposable**, and points to the **passive, power-free alternative** — US20070270773A1 Thermochromic Wetness Indicator（源：Smart Textiles and Their Applications）.
+- **Family context**: it sits among the vault's chromic 
+   • No electrochromic material system（e.g. WO₃ / conducting polymer）、switching voltage、contrast ratio, or cycle-life figure appears in the vault .
+- No cost figure is given — the source's "blocked" verdict is qualitative, not a number（源：Smart Textiles and Their Applications）.
+- Whether the GRID woven-optical-fibre display route overlaps the electrochromic route is not disambiguated in the vault（源：Smart Textile Visual Perception (GRID)）.
+
+--- [[Smart Polymers Ch13 Affinity Precipitation of Proteins]]  (5 句)
+   • This chapter is the **bioseparation application** of the smart-polymer toolkit: the soluble–insoluble switch of a stimuli-responsive polymer replaces a chromatography column. It is the most practically oriented chapter of the batch for anyone who must choose a trigger (temperature vs pH vs ionic strength) and a phase behaviour (loose gel vs compact particle).
+   • Definition used: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed and pronounced way" (L298–300).
+   • **Homobifunctional vs heterobifunctional mode** (L138–230): in the homobifunctional mode a bis-ligand cross-links a protein bearing ≥2 binding sites into an insoluble aggregate (e.g. immunoprecipitation), limited to multi-site proteins and not using smart polymers. The **heterobifunctional** mode covalently couples the ligand to a soluble–insoluble polymer to form a macroligand — general in scope, and "the smart polymers are critical for the development of affinity precipitation of protein in a 
+   • 1. **Trigger tolerances directly usable.** ΔpH ≤ 0.5 unit for sharp pH-induced precipitation (L362–363) sets the tolerance budget for any pH-active acquisition layer; 0.4 M NaCl for quantitative precipitation below 30 °C (L1011–1014) is a scaled proxy for the electrolyte content needed to activate ion-triggered gelation. 中文：pH 触发窗口窄（≤0.5），产品设计必须控制尿液 pH 波动带来的误触发。
+2. **Thermoresponsive lock-in near skin temperature.** The LCST series is tunable from 4 to 100 °C with PNIPAM at 32 °C (L627–632) — th
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (4 句)
+   • The vault gives an explicit thermodynamic definition: smart / stimuli-responsive polymers are **"thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions"**（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。The useful systems are those whose working transition sits near body temperature — **"the most applicable stimuli-respon
+   • **Phase transition + critical susceptibility 相变 + 临界敏感性.** 「smartness」= 可逆相变 + 临界点敏感性；因溶液行为在相变附近（尤其临界点附近）具有普适性，无穷小的参数变化即可触发大响应（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。
+- **Confined brushes 受限刷层.** 一端接枝到不可渗透表面后，响应性由分子旋钮（N、s、α、χ(T)、盐、溶剂组成、表面活性剂）设定；**"grafting from" 可避免 "grafting to" 的空间位阻**；高表面覆盖的刷层靠强分子间相互作用保证刺激响应性（源：Smart Polymers Ch02 Responsive Polymer Brush Theory）。
+- **Recognition-driven mechanism 识别驱动的机制.** 硼酸酯与顺式二醇的可逆共价络合形成**多价（multivalent）**结合；PBA 以不带电三角形式与带电硼酸酯形式并存，是
+   • **SAP is a crosslinked copolymer SAP 即交联共聚物.** SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂），**其组成由竞聚率而非投料比决定**；弹性腰围/防漏侧边用的弹性纤维与 TPE 亦落在共聚物序列设计范畴（源：Seymour Polymer Chemistry Ch09 Copolymerization）。这是本页与卫材最直接的交集（SAP 吸水/保水即一类刺激响应行为）。
+- **Body-temperature window 体温窗口.** 工作相变落在 ~37 °C 的系统最有用（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）——该窗口与卫生用品的**湿/温指示**功能方向同源（参见 PNIPAAM、pH 响应材料）。
+- **Trigger-selection rule 触发选择规则（可迁移）.** 生物分离应用给出的选择规则：**非带电温敏聚合物的非特异性共沉淀显著低于带电 pH 响应聚合物**（ionic interactions 会引入不希望的非特
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch04 Therma
+
+--- [[可穿戴传感器 Wearable Sensor]]  (4 句)
+   • **可穿戴传感器（wearable sensor）** is a sensing function **integrated into a garment, textile or substrate worn on the body**, used to monitor a physiological or environmental signal. The vault frames the field as **wearable electronics**, "a cross-disciplinary field of chemistry / physics / materials science & engineering / electrical engineering / biomedical engineering" with two mainstream directions — **thin-film devices** (reduce one dimension) and **fibre-form devices**（纤维形态，further reduce two di
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[导电纱线 Conductive Yarn]]  (4 句)
+   • **导电纱线（conductive yarn）** is a yarn that carries an electrical function — used in e-textiles as **wiring and/or as the sensing transducer**. In the vault's one hygiene-grade application it is the **conductive element of an electronic wetness-detection system**: the conductive materials listed are **conductive threads, conductive tape, conductive rubber, conductive wires**, with the preferred element being a **silver-plated conductive thread at 60 ohms/meter**（源：US11013641 Garment for Detecting A
+   • **Resistive (conductive) sensing.** A controller applies voltage across a conductive thread and monitors the voltage at its ends; in the dry state the reading is ≈ full-scale, and when exudate wets the path the measured potential collapses（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **How fibres are made conductive.** Synthetic fibres are poor conductors and build up electrostatic charge (p. 374); three routes are named — **chemical modification, physical blending, and addin
+   • **The vault's hygiene use-case is a conductive-thread wetness sensor.** K-C's leakage-detection garment uses a silver-plated conductive thread (60 Ω/m) + controller + ADC read-out to answer "is it wet / did it leak" — but the claimed article is the **garment**, not the absorbent article, i.e. the yarn sits on an over-garment rather than in the core（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **Electronic vs chromic branch.** This conductive-thread route is the **electronic**
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+
+--- [[形状记忆聚合物 Shape Memory Polymer]]  (4 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。
+- 功能口径（有来源支撑，属**刺激响应聚合物**的一支）：SMP 是**在转变温度（Tg / Tm）附近改变弹性与隔热行为的聚合物** —— "shape-memory polymers (e.g. Diaplex) changing elasticity/insulation near Tg"（源：Smart Textiles and Sportswear）。
+- 在智能纺织品功能版图中，shape-memory 与 chromic（变色）、thermoregulation、waterproof-breathable、wearable electronics、PCM 并列为六条功能主线之一（源：Smart Textiles Review）。
+- 在卫材胶黏语境下被归为**温度响应路径**："聚氨酯 / 聚己内酯形状记忆聚合物，**Tg/Tm 附近模量突变 → 粘接力切换**"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- 历史锚点：shape-memory **silk thr
+   • **转变点附近的模量突变。** SMP 的开关来自 Tg / Tm 附近的力学—（乃至光学/阻隔）性质突变：Diaplex 靠**粒子在约 25 °C 转变点上下的重分布**工作，并据此宣称**无孔隙的防水透气防冷凝**（源：Intelligent Textiles and Sports Clothing）。在胶黏语境中，这一突变被表述为"Tg/Tm 附近模量突变 → 粘接力切换"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- **被动 → 主动 → 超智能的三级框架。** 智能纺织品按"被动（感知）/ 主动（感知 + 响应）/ 超智能（感知 + 响应 + 适应）"分类，SMP 属**能改变形状/性能的响应材料**；核心组件为传感器、致动器、控制单元（源：Smart Textiles Review、Smart Textiles and Sportswear）。
+- **SMP 作为动态粘接路径。** 传统热熔胶"施胶 → 冷却 → **固定**粘接力（被动、不可逆）"；智能响应胶"施胶 → 固化 → **感知刺激** → **动态调整**
+   • **舒适层热管理**：PCM 微胶囊与 SMP 属智能纺织的温控技术，库内判断其可迁移至卫材舒适层（PCM 微胶囊"可直接用于卫材舒适层而不改变产线形态"）（源：Smart Textiles Review、Smart Textiles and Sportswear）。
+- **智能响应胶的中期路线（3–5 年）**：卫材最相关的形态是**温/湿响应结构胶**的四阶段设想 —— [生产] 强粘接 ｜ [存储] 稳定 ｜ [穿着-干态] 维持 ｜ [穿着-尿湿] 粘接力自适应增强（防结构松散导致侧漏）；其中**湿度响应（PVA/PVP/PEG 接枝）近期可行性最高（⭐⭐⭐⭐），温度响应（SMP）为中期 3–5 年**（源：Ultra-Low Add-On Adhesive Application（超低添加量施胶）、Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- **形状记忆 SAP（研究前沿）**：Acrylic-Based SAP 的 2024 新方向明确把"**形状记忆 SAP**"列入结构优化方向（另含 3D 打印分级孔道 SAP、纳米复合 
+   • Citing sources（3）: Smart Textiles & Wearables、Smart Textiles Review、Smart Textiles and Sportswear
+- 定义 / 案例: Intelligent Textiles and Sports Clothing、Smart Fabric Textiles Recent Advances and Challenges、Smart Textiles and Their Applications
+- 卫材胶黏路径: Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）、Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）、汉高
+- 相邻概念: 刺激响应聚合物 Stimuli-Responsive Polymer、Stimuli-Responsive Polymer Materials (Nature Materials Review)、相变材
+
+--- [[液晶 Liquid Crystal]]  (4 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Two thesis application threads.** Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport（源：Liquid Crystalline Polymers Smart Applications）。Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight（源：Liquid Crystalline Polymers Smart Applications）。
+   • Chromic Phenomena
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- Mechanochromic Elastomer from PDLC 5CB PDMS
+- Physics of Liquid Crystals (Book Review)
+- Introduction to Liquid Crystals
+- Antiferroelectric Liquid Crystals
+- Liquid Crystalline Polymers Smart Applications
+- Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+- Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 
+
+--- [[热电现象 Thermoelectric]]  (4 句)
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+   • **Waste-heat → electricity.** The core rationale in the source is recovery of waste heat as electrical energy（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Figure of merit (ZT) governs performance.** The source's key claim is that **ZT ≈ 1 is a practical, not theoretical, ceiling** — i.e. performance gains beyond that are hard, not impossible in principle（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）.
+- **Material route named**: highly covalent semiconduc
+   • **Adjacent, not yet applied.** The vault's sourcing is textile / wearable-level and materials-level; **no thermoelectric function is evidenced on any hygiene-product page** .
+- TE sits in the "smart textile" conceptual neighbourhood used elsewhere in the vault for powered / functional hygiene concepts — its siblings include 刺激响应聚合物 Stimuli-Responsive Polymer、相变材料 Phase Change Material、导电纱线 Conductive Yarn、智能织物 Smart Textile（源：Smart Textiles & Wearables）.
+- Integration path named for flexible TE:
+   • Thermoelectric Polymer Materials ZT Figure of Merit and PGEC
+- Smart Textiles & Wearables
+- Thermoelectric Materials and Applications Review
+- Smart & Connected Garments (IEEE)
+- Flexible Stretchable Electronics (imec)
+- Wearable Electronics (National Science Review 2023)
+- Smart Textile Visual Perception (GRID)
+- Smart Textiles and Sportswear
+
+--- [[电子纺织品 E-textile]]  (4 句)
+   • **Landscape placement.** In this vault, e-textiles sit inside the broader smart-textiles & wearables landscape, which spans stimuli-responsive polymers, wearable sensing/electronics, flexible electronics, chromic/PCM/shape-memory functions and thermoelectric harvesting（源：Smart Textiles & Wearables）。The Wearable Sensors book preview places e-textile as the first link of its chain — e-textile → energy harvesting → algorithms → WBAN full stack（源：Wearable Sensors Fundamentals Implementation and Appl
+   • **Only adjacency, no quantified transfer.** The vault links the e-textile concept to 健康监测 Health Monitoring、智能包装 Smart Packaging and 湿感指示条 Wetness Indicator as adjacent concepts（源：Wearable Sensors Fundamentals Implementation and Applications）。The digest contains **no** data on a hygiene-product e-textile implementation, no diaper/absorbent-core linkage and no cost or lifetime figure at disposable scale 。
+   • 中文：digest 仅提供概念相邻关系（健康监测 / 智能包装 / 湿感指示条），**无**任何卫材成品的电子纺织品落地数据、成本或寿命数据，故不做外推。
+   • Wearable Electronics (National Science Review 2023)
+- Wearable Sensors Fundamentals Implementation and Applications
+- Smart Textiles & Wearables
+

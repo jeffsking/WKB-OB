@@ -1,0 +1,13 @@
+{
+ "stage": "S7",
+ "block": "Areas/Nonwoven",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Nonwoven/皮芯架构决策矩阵-可降解热风无纺布.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Nonwoven/皮芯架构决策矩阵-可降解热风无纺布.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Nonwoven/皮芯架构决策矩阵-可降解热风无纺布.docx.md",
+   "name": "皮芯架构决策矩阵-可降解热风无纺布.docx.md",
+   "title_hint": "皮芯架构决策矩阵-可降解热风无纺布.docx"
+  }
+ ]
+}

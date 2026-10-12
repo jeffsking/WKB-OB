@@ -1,0 +1,65 @@
+{
+ "batch_id": "W9-2",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a0afbc2de57cd2a3acb937ab27972a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Nonwoven/皮芯架构决策矩阵-可降解热风无纺布.docx.md",
+   "name": "皮芯架构决策矩阵-可降解热风无纺布.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_51b48ae8892bc9001cd6d1fa54a746d6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md",
+   "name": "TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_7045da5020571f7415e742089639d426001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-8_超吸水纸尿裤及其制备方法和应用.pdf.md",
+   "name": "一-8_超吸水纸尿裤及其制备方法和应用.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e15db933132c3fdb26d513407b7162ef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-1_Breathable_diaper_backsheet.pdf.md",
+   "name": "三-1_Breathable_diaper_backsheet.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_ebc1a98c982a2af915ee0918bff2215a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md",
+   "name": "三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9587f0bce4bd43727add13778c472a26001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-4_可判断大小便的纸尿裤.pdf.md",
+   "name": "五-4_可判断大小便的纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_08e488f5e50dcae18531c9a5e6d4bda5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-2_Pant-type_absorbent_article_with_waist_guard.pdf.md",
+   "name": "四-2_Pant-type_absorbent_article_with_waist_guard.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_623af0b583fff691f356878ac73d0dd7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-6_一种透气弹性腰围的纸尿裤.pdf.md",
+   "name": "四-6_一种透气弹性腰围的纸尿裤.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d28088a8dfbfc3c5f606932a42af2e97001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf.md",
+   "name": "四-9_具有护脐功能的超高腰婴儿纸尿裤及其生产工艺.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a1a8404af2df5c7c2fd9281baddb4e46001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM原材料-TJ.pdf.md",
+   "name": "STM原材料-TJ.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

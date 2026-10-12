@@ -1,0 +1,65 @@
+# SEED: 纺粘熔喷 Spunbond-Meltblown
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Nonwovens in Absorbent Materials
+#
+# 全库正文命中 9 页，10 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Nonwoven 非织造布]]  (2 句)
+   • Nonwovens are the load-bearing substrate of every hygiene article layer in this vault: **topsheet（Topsheet（面层））**, **ADL（ADL（导流层））**, core wrap / SAP carrier（Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））, backsheet（Film-Free Backsheet（无膜背层）、Meltblown Nonwoven（熔喷非织造布））and elastic/laminates. The dominant hygiene process families — **热风无纺布（air-through）**, **纺粘 Spunbond**, **熔喷 Meltblown**, **水刺 Hydroentanglement** and their composites（SMS 纺粘熔喷复合、SMS复合结构）— draw on **双组分纤维 Bi
+   • Development of the nonwovens industry
+- Nonwovens in Absorbent Materials
+- Absorbent Technology
+- Handbook of Polypropylene and Polypropylene Composites
+- EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)
+- Bicomponent Fibre Technology Development Trends
+- FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）
+- Ebewole Polymer Science Ch15 Polymer Properties and Applications
+- SMS 纺粘熔喷复合
+- 水刺 Hydroentanglem
+
+--- [[气铺 Airlaid]]  (1 句)
+   • **ADL / acquisition layer**: hydrophobic synthetics preserve wet bulk; pulp + SAP blends form the nappy acquisition layer（源：Dry-laid web formation）. The ADL density gradient — upper 1/3 low density（大孔隙、快速获取）, lower high density（细密毛细管、高压差）— is the chapter-3 capillary-pressure principle engineered into the product（源：Nonwovens in Absorbent Materials）.
+- **Composite-core build**: a typical composite-core stack is **Airlaid / SAM / TABCW / SAM / 硬挺非织造 / NW 芯体包覆**（源：Complex Core Landscape in China（201
+
+--- [[水刺 Hydroentanglement]]  (1 句)
+   • 水刺被明确列为**面向一次性用品的增长引擎**，是三者中最贴近卫材应用的机械加固方式。（源：Mechanical bonding）
+- **SAP 固定载体**：水刺用于把 SAP 颗粒固定在薄载体中 —— 底层选 spunmelt / SMS，因其在**很低的克重（最优选仅 4–12 gsm）**下仍能提供足够强度与足够小的孔径，这是把载体做薄的前提；顶层按**双峰纤维设计**（≤50% 短而轻 + ≥50% 长而重，至少两类 PET / PE / PP）。（源：Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））
+- **柔软 / 不掉屑（soft, lint-free）** 与**无粘合剂**特性，适合与面层等贴身层相关的应用。（源：Mechanical bonding）
+- **成本杠杆**：K 与 SE_c 可工程化调控 —— 在强度不变的前提下**降低 SE_c 即降低水耗 / 电耗（water/power cost）**。（源：Mechanical bonding）
+- 库内相关条目并
+
+--- [[热风无纺布]]  (1 句)
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+
+--- [[熔喷 Meltblown]]  (1 句)
+   • Polymer-laid web formation（熔喷作为一体化熔融挤出成网；§4.9–4.13 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites（纺粘 / 熔喷 MFR 树脂分野的一手出处）
+- Meltblown Nonwoven（熔喷非织造布）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）、Laser-Assisted Die Tip（激光辅助模头）（牵伸机理与激光加热）
+- Formation-Limited Barrier（阻隔的成形受限机理）、Film-Free Backsheet（无膜背层）、SMS复合结构、SMS 纺粘熔喷复合（阻隔与载体）
+- Coform Composite Nonwoven（熔喷-木浆复合非织造）、绒毛浆（Fluff Pulp）、ADL（导流层）（芯体包裹层相关）
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backshe
+
+--- [[纺粘 Spunbond]]  (1 句)
+   • **PET 在卫材中的角色**：PET 主要以**面层 / 导流层纺粘（topsheet / acquisition-layer spunbond）**以及**部分双组分短纤的芯层（core of some bicomponent staple）**出现，而非作为吸收体。（源：Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres）
+- **ATB 面层 + 双组分纺粘载体**：25 gsm 梳理 ATB 网 + 12 gsm PE/PP 双组分纺粘载体，在 600 m/min 车速下在线超声粘合与 3D 花型成型 —— **纺粘是载体 / 支撑层，不是导流芯（carrier, not a wick）**。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination、SMS复合结构）
+- **超声响应是 ES 属性**：不可粘的单组分 PET 会稀释花型可靠性；在腿围或侧封通道，PET 在 PP/PE 超声参数下**不软化**，作
+
+--- [[06_SSMMS无纺布技术研究报告.md]]  (1 句)
+   • SSMMS = Spunbond-Spunbond-Meltblown-Meltblown-Spunbond: S layers (PP, 15–30 μm) give strength/abrasion; the double M layers (PP, 1–5 μm) give filtration/barrier/antibacterial. Vs SMS: hydrostatic head >50 cmH₂O (vs 30–40), filtration efficiency >95% (vs 85–90%), strength +20–30%, softer hand, comparable breathability. One-step process: 3 spunbond + 2 meltblown extruders → metering → forming → thermal calendering; window: extrusion 190–250 °C, meltblown 230–280 °C, spinning 3,000–5,000 m/min, cal
+
+--- [[Absorbent Technology]]  (1 句)
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[Nonwovens in Absorbent Materials]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+

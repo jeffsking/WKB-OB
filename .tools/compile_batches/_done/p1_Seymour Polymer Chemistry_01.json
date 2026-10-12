@@ -1,0 +1,45 @@
+{
+  "batch": "p1_Seymour Polymer Chemistry_01",
+  "book": "Seymour Polymer Chemistry",
+  "done": [
+    "Seymour Polymer Chemistry Ch01 Introduction to Polymer Science.md",
+    "Seymour Polymer Chemistry Ch02 Polymer Structure and Morphology.md",
+    "Seymour Polymer Chemistry Ch03 Molecular Weight of Polymers.md",
+    "Seymour Polymer Chemistry Ch04 Testing and Spectrometric Characterization.md",
+    "Seymour Polymer Chemistry Ch05 Rheology and Physical Tests.md",
+    "Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization.md",
+    "Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Seymour Polymer Chemistry Ch01 Introduction to Polymer Science.md",
+      "issue": "原书出版年份在源抽取件中未给出，date_published 记为 0；产业数据（1994/2000 就业、1975/2000 烯烃纤维产量）转录自原书 Tables 1.3-1.10，需回原书核对表号。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch02 Polymer Structure and Morphology.md",
+      "issue": "RIA 卡片给出的 PP 热封温度区间 140-160°C 属抽取件推演，原书未出现该区间，已在正文标注 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch03 Molecular Weight of Polymers.md",
+      "issue": "§3.2 溶度参数表（PE/PS/PVC/PET/Nylon-66/Cellulose 的 δ 值）未在抽取件中逐条转录；RIA 卡片中 'PP Mn>200,000、>500,000 不经济' 为推演示例，已在正文标注 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch04 Testing and Spectrometric Characterization.md",
+      "issue": "NMR 与 DSC/TGA 两处在抽取件中标注'[未找到完整原句]'，本页为转述并标 [待验证]；ASTM D-638/D-790 编号来自卡片转述，仅 D-543 有原书直接依据。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch05 Rheology and Physical Tests.md",
+      "issue": "stress relaxation 在抽取件中'[未找到完整单独定义原句]'，仅按 Maxwell 框架转述并标 [待验证]；RIA 卡片'降低等规度以提升柔软度'为推演方向，已标注。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization.md",
+      "issue": "SAP 由'丙烯酸/乙酰丙酸/交联剂三元共聚、逐步聚合'这一表述来自抽取件执行摘要，与 Ch.7 所述'丙烯酸工业上主要采用自由基聚合'存在口径冲突，两页均按各自原文保留，需统一口径。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization.md",
+      "issue": "Table 7.1 四类技术占比之和超过 100%（~50% + 8-12% + 10-15% + 12-15%），原文未归一；原文称 Szwarc 'living polymer' 获 2001 年诺贝尔奖，与实际诺奖记录不符，已在正文标注 [待验证]。"
+    }
+  ],
+  "count": 7
+}

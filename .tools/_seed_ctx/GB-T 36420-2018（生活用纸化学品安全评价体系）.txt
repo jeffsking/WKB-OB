@@ -1,0 +1,132 @@
+# SEED: GB-T 36420-2018（生活用纸化学品安全评价体系）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 95 页，160 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (6 句)
+   • GB-T 28004-2011 **《Disposable Diapers（纸尿裤 片、垫）》** is the **historical (superseded) Chinese national product standard** for disposable diapers — retained in this vault for historical version comparison, old-contract / inventory disputes, and lineage tracing of the penetration test method（源：GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫））。It has been replaced as the current CN market baseline by **GB-T 28004.1-2021 Baby Diapers**, recorded as 生效中 with 2022-05-01 实施（源：GB-T 28004-2011 与 GB-T 28004.1-202
+   • **The 2011 penetration口径 — 30° run-off（滑渗）.** The GB-T28004-2011 滑渗.doc test answers the question "**尿液冲击下有没有被及时吸收**" — urine has large volume and low viscosity, so the dominating issue is absorption speed（源：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗））。Its intended use is **国标符合性与出厂放行** — a fixed caliber, robust to outliers (去极值), suited to external reports and cross-factory benchmarking（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。The 30° run-off method is contrasted with the in-house **TTM
+   • **Version lineage (2011 → 2021).** 「吸收速度取代滑渗量」is the **largest methodological change** in the 2021 revision, so **cross-version data cannot be compared directly**（源：GB-T 28004.1-2021（纸尿裤国标））。The change is confirmed across three independently extracted copies of the 2021 part-1 document, i.e. it is **not a single-extraction error**（源：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2））。
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+
+--- [[湿巾 Wet Wipes]]  (5 句)
+   • What the digest *does* evidence is the **regulatory scope boundary**（口径边界），not a definition: in the CN market, wet wipes are governed in layers — general requirements in GB/T 27728.1, baby & child particular requirements in GB/T 27728.2-2024（for children ≤6, the compliance baseline for any baby-wipe SKU in China）（源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求））；disinfectant wipes must follow GB/T 27728.3-2024 and **may not cite only the 2011 edition**（源：GB-T 27728-2011 Wi
+   • **Compliance layers（合规层级，CN）**
+- GB 43631-2023 is the **mandatory chemical-safety floor**（强制国标，工信部归口）for children's paper products; it covers wipes, diapers and tissue（生活用纸品）and sets one shared floor table across heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines（源：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范））。
+- GB/T 27728.2-2024 layers baby-wipe requirements on top of GB/T 2772
+   • Formulation cross-over: the skincare-formulation reference covers formulation design, ingredient selection, processing and stability, and cross-references hygiene products in **moisturising / care wet-wipes formulation** and **nonwoven–skin interface comfort assessment**（源：Cosmetic Formulation of Skin Care Products）。
+- Related concepts: Nonwoven 非织造布、乳化剂 Emulsifier、保湿剂 Humectant、防腐剂 Preservative（源：Cosmetic Formulation of Skin Care Products）。
+- Shared chemical floor with diapers: GB/T 28004.1-202
+   • A definition of the concept itself —— 。
+- Remaining **quantitative limits** of GB/T 27728.2-2024 beyond the rows above are not given in this digest 。
+- GB-T 27728-2011 page/date missing: the two in-vault copies are the same standard and both lack the date page — judged **not a single-extraction error**（源：GB-T 27728-2011 Wipes（湿巾 · 副本1））。
+
+--- [[湿迁移 Wet Migration]]  (4 句)
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **芯体吸液的液体输运**：绒毛浆在传统芯体里提供 **capillary wicking and temporary void volume**，在 SAM 溶胀并固定液体**之前**支撑快速初始摄入 —— 绒毛浆是「SAM 膨胀前那几秒」的通道与空间提供者，是**时间装置**而非单纯填充物（源：Blizzard Core（Blizzard 芯体结构））。
+- **复合芯体的建模要求**：MD/CD 性能差异必须用扩散张量，标量 D 不足（源：Diffusion Equations (Crank Ch.1)）。
+- **数值建模的时间步代价**：溶胀后期高 D 区间时间步必须极小，直接决定 SAP 建模与芯体湿迁移 FEM 的计算量（源：Numerical Methods for Diffusion (Crank Ch.8)）。
+- **薄型化的另一类「迁移」**：**Thinning creates SAP migration（变薄带来 SAP 移位）** —— 这是 **SAP 颗粒的物理移位**，与水分输运口径不同；配套手段是固结（热风穿刺熔融）与分层导流，不能只减厚度（源：可
+   • ：湿迁移的**定义句与量纲口径**（含水量 / 饱和度 / 迁移通量）在引用来源中均未给出。
+- ：本库尚无把「湿迁移」与回渗（rewet）定量关联的摘录；湿迁移 ≠ 回渗，引用时不可混用（源：Diffusion Equations (Crank Ch.1)）。
+- ：微胶囊语境下的迁移表述在摘录中**被截断**（"Migration is the hard …"），原文残缺，不予补写（源：Microencapsulation）。
+- ：助剂迁移「未被量化」——原章只定性给出 less susceptible to migration / less extractible，**未给出迁移速率模型或萃取限量数值**（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+- ：GB/T 34405-2017 的 LOQ 数值在摘录中被截断（LOD 0.005 mg/kg 可读，LOQ 不可读）（源：GB-T 34405-2017 Determination of Acrylamide Migration 
+   • **提供正文摘录的库内页面**
+- Numerical Methods for Diffusion (Crank Ch.8)
+- Chemical bonding
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+- Blizzard Core（Blizzard 芯体结构）
+- 可降解生物基材料与薄且强芯体技术深度解析
+- Microencapsulation
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (3 句)
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+   • **Definition, measuring points, tolerances and instruments of finished-product dimension measurement** —— （must be checked against STM-00433 Pants尺寸.doc）。
+- Mapping between finished-product dimensions and the GB-T 33280-2016 specification system / KC internal STM conventions 。
+- Transfer relation between fibre-level quantities（linear density / shrinkage / opening length）and finished-product dimension measurement — not given in the digest 。
+- Garbled spots（the Vibroscope trap in Ch11, the branche
+   • STM-00433 Pants尺寸.doc
+- Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres
+- Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres
+- GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）
+- GB 5296.5-2006 Instructions for Use of Products of Consumer Interest Part 5 Toys（消费品使用说明 第5部分 玩具）
+- Folded Product Dimension Test（折叠后长度·宽度测量）
+- GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）
+- Ch
+
+--- [[GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）]]  (3 句)
+   • **残留单体（丙烯酸）婴儿 800 mg/kg 比成人/卫生巾 1 000 mg/kg 更严，是婴儿品类专属加严项** —— 支撑页：SAP（高吸水树脂）
+- **返黄值虽列入表1，但明列为参考指标、不作判定依据 —— 不可作为来料拒收条款** —— 支撑页：SAP（高吸水树脂）
+- **加压吸收量（AAP）装置尺寸在本版被调整，跨版本数据不可直接比较** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **第 1 号修改单重写合成试液配方与黏度口径（4 号涂料杯 / GB/T 1723），2020-07-21 起执行** —— 支撑页：（见本页附录K 表）
+   • 概念：SAP（高吸水树脂）、GB-T 28004.1-2021（纸尿裤国标）
+- 实体：（起草单位含多家 SAP 厂商，本页不逐一点名；如需建实体页另按 S3 Supply Base 批处理）
+- 对比：（**本批未建** —— 2008 版两份标准原文不在本库，仅有的变化清单来自本版前言，不足以支撑逐项对比）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文，含第 1 号修改单）
+- 同族文档：GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂 · 平行备份）、GB-T 28004.1-2021（纸尿裤国标）
+
+--- [[GB-T 27728-2011 Wipes（湿巾）]]  (3 句)
+   • **人体用湿巾禁用回收纤维，是湿巾供应链的原料准入红线** —— 支撑页：GB 15979-2024（一次性使用卫生用品卫生要求）
+- **含液量 ≥1.7 倍的口径在 2011 版与 2024 第3部分保持一致**（均仅非织造布考核） —— 支撑页：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+- **消毒湿巾合规须走 GB/T 27728.3—2024，不可只引 2011 版** —— 支撑页：GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+- **尘埃度与横向抗张强度仅对非无纺布载体（如无尘纸）适用** —— 支撑页：（本批仅本份提及，未达独立建页门槛）
+   • 概念：GB 15979-2024（一次性使用卫生用品卫生要求）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+- 实体：（无）
+- 对比：GB-T 27728-2011 与 GB-T 27728.3-2024 湿巾标准对比
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 27728-2011 Wipes（湿巾 · 副本1）、GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+
+--- [[GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本1）]]  (3 句)
+   • **三份副本为同一标准，重复入库；引用统一指向主副本页** —— 支撑页：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）
+   • 概念：GB-T 28004.1-2021（纸尿裤国标）
+- 实体：（无）
+- 对比：（无）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）
+
+--- [[GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2）]]  (3 句)
+   • **三份副本互为印证，「吸收速度取代滑渗量」的变更不是单份提取误差** —— 支撑页：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）
+   • 概念：GB-T 28004.1-2021（纸尿裤国标）
+- 实体：（无）
+- 对比：（无）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）
+
+--- [[GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）]]  (3 句)
+   • **「吸收速度取代滑渗量」是本版最大的方法学变更，跨版本数据不可直接比较** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **回渗量 ≤15.0 g、渗漏量 ≤1.0 g 是婴儿纸尿裤的成品渗透红线** —— 支撑页：Rewet Test（回渗测试）
+- **面层附着物 ≤5 颗/片把 SAP 逃逸（top sheet SAP residual）变成了可考核指标** —— 支撑页：SAP（高吸水树脂）
+- **可迁移性荧光物质「无」+ 重金属四项限量，与 GB 15979-2024 表1 相互叠加** —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、GB 15979-2024（一次性使用卫生用品卫生要求）
+- **渗透性能测试装置受 4 项专利覆盖，自建台架须注意专利边界** —— 支撑页：（本页记录专利号，未建独立页）
+   • 概念：GB-T 28004.1-2021（纸尿裤国标）、Rewet Test（回渗测试）、SAP（高吸水树脂）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 实体：（无）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比（已有页，见 WIKI/comparisons）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本1）、GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）、GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）
+
+--- [[GB-T 28004.2-2021 Adult Diapers（纸尿裤 第2部分 成人纸尿裤）]]  (3 句)
+   • **成人纸尿裤按失禁程度分档，回渗量门槛（30/40 g）显著宽于婴儿（15 g）** —— 支撑页：Rewet Test（回渗测试）、GB-T 28004.1-2021（纸尿裤国标）
+- **饱和吸收量（300/600 g）是成人品类独有的容量型 KPI** —— 支撑页：（本批仅本份提及，未达独立建页门槛）
+- **甲醛 ≤75 mg/kg 与婴儿版 ≤6 mg/kg 相差一个数量级，是跨品类引用最易出错的一项** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **甲醛与可迁移性荧光物质仅型式检验，来料/出厂管控要另设频次** —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+   • 概念：GB-T 28004.1-2021（纸尿裤国标）、Rewet Test（回渗测试）、SAP（高吸水树脂）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 实体：（无）
+- 对比：婴儿纸尿裤 GB-T 28004.1-2021 与成人纸尿裤 GB-T 28004.2-2021 指标差异对比
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+

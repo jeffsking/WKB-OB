@@ -1,0 +1,21 @@
+{
+  "batch": "11",
+  "done": [
+    "光致变色油墨 Photochromic Ink",
+    "Laplace 变换",
+    "合金粘胶 Alloy Rayon",
+    "甲醛 Formaldehyde",
+    "稀释便液 BM simulant A",
+    "粘胶 Rayon",
+    "胆甾相液晶弹性体 CLCE",
+    "LbL 自组装 Layer-by-Layer"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "稀释便液 BM simulant A ↔ BM Simulant A（便液模拟液 A）：主题高度重叠，待去重复核",
+    "粘胶 Rayon ↔ 粘胶纤维 Viscose Fiber：主题高度重叠，待去重复核",
+    "LbL 自组装 Layer-by-Layer ↔ 刺激响应聚合物 Stimuli-Responsive Polymer：关系待去重复核",
+    "甲醛 Formaldehyde：GB 43631-2023 甲醛限值 ≤6 mg/kg 系转引自 GB/T 34448-2017 页，需回原标准表格核对"
+  ],
+  "count": 8
+}

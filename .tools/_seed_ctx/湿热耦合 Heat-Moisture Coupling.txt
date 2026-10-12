@@ -1,0 +1,139 @@
+# SEED: 湿热耦合 Heat-Moisture Coupling
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Mathematics of Diffusion
+#   - Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)
+#
+# 全库正文命中 41 页，61 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[82 鼓距与产品节距解耦 repitch 选型]]  (6 句)
+   • **Repitch（鼓距与产品节距解耦）** 指在成型鼓与后道之间，把成型鼓上的节距过渡到后道所需产品节距的单元 —— 中文口径「成型鼓上的节距与后道要的节距不一样，中间靠什么单元过渡」（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））。
+   • **鼓距 Drum pitch P = πD/n**：成型线由鼓径 D 与 ups n 决定的离散量。
+- **产品节距 Chassis pitch C**：后道（复合 / 折叠 / 切断 / 包装）要求的产品中心距，由 11 个产品规格各自决定。
+- **两者没有理由相等**：若强制 P = C，则 πD/n = C 会对 11 个规格给出 11 个不同的 D，与「单一鼓体」前提直接矛盾 → **repitch 单元是「一鼓多规格」的必要条件**。
+  （源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））
+   • 两条路线对比（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））：
+   • repitch 是「**一鼓多规格**」成型架构的必要条件，直接支撑 11 码单鼓方案的落地（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））。
+- 与换型架构耦合：repitch 转塔凸轮属于 Recipe 层（cams），**换 ups 时真正需要改的只有 Recipe 一列（+ 换 sleeve）**；repitch 转塔与 ups 归属同层（源：83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）、Changeover Four-Layer Architecture（换型要素四层分层与变更控制））。
+- 相邻工程页：81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、SAP Dosing Speed Matching（SAP 落料速度匹配与容差）、Pad Zoning：Flat vs Pocketed（成型分区
+
+--- [[Mathematics of Diffusion]]  (5 句)
+   • **EN**: The classic reference for the mathematics of diffusion. 15 chapters cover Fick's laws, analytical and numerical solution methods, concentration-dependent diffusion, non-Fickian diffusion, heterogeneous media, moving boundaries, reaction-diffusion coupling, and simultaneous heat-moisture diffusion — the theoretical foundation for SAP swelling kinetics, absorbent core modeling, and wet migration simulation.
+   • **中文**: 扩散数学经典参考书——15 章完整覆盖 Fick 定律、解析/数值解法、D(C) 变系数扩散、非菲克扩散、复合介质、动边界、反应-扩散耦合、湿热耦合。SAP 溶胀动力学、芯体吸液、湿迁移建模的理论基础。
+   • 1. **Fick 定律与扩散 PDE**（Ch 1）：F = -D dC/dx 是核心假设；∂C/∂t = D∂²C/∂x² 是全书唯一核心 PDE
+2. **恒 D 解析解法**（Ch 2-3）：反射/叠加、分离变量、Laplace 变换；误差函数类与三角函数级数
+3. **三维几何模型**（Ch 4-6）：片层（芯体/湿巾）、柱（纤维）、球（SAP 颗粒）——u=Cr 变换是关键技巧
+4. **D(C) 变系数扩散**（Ch 7-9）：Boltzmann 变换、数值方法、等效扩散系数——SAP D(C) 常呈指数上升型
+5. **D 测量方法学**（Ch 10）：时间滞后法 L=l²/6D 是行业标准；SAP 必须用质量固定参考系
+6. **非菲克扩散**（Ch 11）：Alfrey-Gurnee-Lloyd 三分类——SAP S 形吸液曲线的物理根源
+7. **复合介质**（Ch 12）：串联阻力模型 Σ(lᵢ/Pᵢ)——芯体多层结构建模基础
+8. **动边界/Stefan 问题**（Ch 13）：SAP 溶胀前沿的定量实现
+9. **反应-扩散耦合**（Ch 14）：SAP 
+   • 1. **Fick 第二定律是全书唯一核心 PDE**——所有 14 章都在此框架上展开，SAP/芯体/湿巾建模均基于此。
+2. **SAP 溶胀动力学核心数学技巧是 u=Cr 变换**——球坐标映射到一维线性 PDE，直接借用片层解。
+3. **SAP S 形吸液曲线的物理根源是 Case II→非菲克→Case I 三阶段**——干态玻璃态快速溶剂化到橡胶态慢扩散的过渡。
+4. **时间滞后法 L=l²/6D 是 SAP 行业 D 测量标准**——Daynes 1920, Barrer 1951 确立的行业标准方法。
+5. **SAP 必须用质量固定参考系定义 D**——因溶胀体积剧变，否则 D 值无法比较。
+6. **复合芯体串联阻力模型 Σ(lᵢ/Pᵢ) 是吸水速率建模基础**——每层独立贡献传质阻力。
+7. **SAP 交联网络水固定化使等效 D 下降 (R+1) 倍**——这是 SAP 吸水'慢'的分子尺度原因。
+8. **'湿冷感'是湿热耦合的物理表现**——观察到的吸湿曲线实际是冷却曲线，耦合效应量级显著。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • Handbook of Adhesive Technology Full Report — Full 4-part detailed compilation
+- Absorbent Technology — Core absorption mechanics
+- Handbook of Nonwovens — Nonwoven lamination
+- SAP（高吸水树脂） — Super Absorbent Polymer
+- PSA — Pressure-Sensitive Adhesive
+- Hot Melt Adhesive — Hot melt adhesives
+- Silane Coupling Agent — Silicon coupling agents
+- Nonwoven Lamination — Nonwoven lamination technology
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (3 句)
+   • 1. **Global Trends for Polypropylene** — M. J. Balow
+2. **Polypropylene: Structure, Properties, Manufacturing Processes, and Applications** — W. J. Kissel, J. H. Han, J. A. Meyer
+3. **Chemical Coupling Agents for Filled and Grafted Polypropylene Composites** — D. Roberts, R. C. Constable
+4. *Stabilization of Flame-Retarded Polypropylene* — R. E. Lee, D. Hallenbeck, J. Likens
+5. *Recycling of Polypropylene and Its Blends: Economic and Technology Aspects* — A. A. Adewole, M. D. Wolkowicz
+6. *Impac
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (3 句)
+   • Faster crystallization than PET (pp.341–342): "nylon 66 and nylon 6 crystallize relatively more rapidly, primarily because of more flexible molecular chains"; "'Y crystals are favoured by an increase in winding speed" (the source quotes the gamma-symbol the Greek γ as 'Y). Nylon 6 shows **polymorphism 多态性** — α, γ and pseudo-hexagonal forms depending on processing (p.352) — and the structure is highly moisture-sensitive, which the source identifies as the difficulty in spinline stability control
+   • 1. **The Tg–moisture-regain concept transfers directly**: nylon 6 shows ~50 °C Tg shifted strongly by regain, with a 2.0–3.5% window of minimum Tg sensitivity. Any hydrophilic polymer whose stiffness and set behaviour moves with ambient humidity — including moisture-responsive fibre concepts used in comfort/microclimate work — obeys the same coupling. See Moisture-Responsive Fibre（湿敏变形纤维）.
+2. **Polymer selection for sheath-core bonding**: nylon's ready crystallization and high melting point vers
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — the PET benchmark that nylon is contrasted against for crystallization rate and moisture sensitivity
+- Moisture-Responsive Fibre（湿敏变形纤维） — modern take on the Tg–moisture coupling described here
+- PP基皮芯与PET基皮芯对比 — sheath-core polymer selection actually used in hygiene thermal bonding
+- 无纺布五大工艺对比 — process-route context for nonwovens
+
+--- [[Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)]]  (3 句)
+   • **湿热耦合扩散——纸尿裤/湿巾实际使用的核心传质框架**——水分传递与热传递耦合不可独立处理（体温热传导+尿液放热+蒸发吸热）；羊毛纤维实验揭示'观察到的吸湿曲线实际是冷却曲线'；这是'湿冷感'现象的物理根源。
+   • **湿热耦合不可独立处理**——纸尿裤使用时体温热传导+尿液放热+蒸发吸热三者耦合，必须联合求解。
+- **'湿冷感'是湿热耦合的物理表现**——大量吸液后局部温度下降（感觉凉），蒸发后更凉。
+- **羊毛实验证据**——观察到的'吸湿'曲线实际是'冷却'曲线，耦合效应量级显著。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 湿热耦合 Heat-Moisture Coupling
+- 湿冷感 Wet-Cool
+- 热传递 Heat Transfer
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (2 句)
+   • The architecture governs **changeover design for the patterned SAP core forming line** — it is the change-control framework behind drum-pitch selection（81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配））, drum-to-chassis pitch decoupling（82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））and sleeve changeover（84 Sleeve 工程规格与换装防错设计）. Its stated value to the REL absorbent core is **lower marginal cost when extending the width family**, and a design rule that keeps size-dependent quanti
+   • 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+- 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- 82 鼓距与产品节距解耦 repitch 选型
+- 84 Sleeve 工程规格与换装防错设计
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 03_卫材产线约束常量表（准入校验工具）
+- Repitch（鼓距与产品节距解耦）
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+
+--- [[Hygiene Absorption Model]]  (2 句)
+   • **6. 干燥耦合（drying coupling）：** 结合水（bound moisture）决定平衡含水率，从而决定纤维素绒毛浆与 SAP 可达干度的**下限**；热风对流是纸浆/纸巾/无纺布穿透干燥的默认方式（源：Industrial Drying Ch1 Principles and Classification）。
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+
+--- [[Bile Pigment Mordant Lane（胆色素媒染通道）]]  (1 句)
+   • 1. **Binary presence, not a threshold（二值存在性，而非阈值）**：bile pigment is **BEST** as a discriminator because normal urine contains none (bilirubin absent), while infant BM carries bilirubin / biliverdin / stercobilin — strongly anionic and intensely coloured. This is the only signal in the concept that is **independent of feeding mode**.
+2. **Chromatographic concentration（色谱式浓缩）**：capture happens by ion exchange, so a faint sample is concentrated in place — **the concentration step makes a faint samp
+

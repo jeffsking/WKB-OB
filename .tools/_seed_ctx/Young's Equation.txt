@@ -1,0 +1,113 @@
+# SEED: Young's Equation
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Surface Tension and Surface Energy
+#
+# 全库正文命中 38 页，68 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[湿迁移 Wet Migration]]  (9 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「湿迁移」的独立定义句；相关表述均以**扩散数学**为母体：Fick 定律（一维/标量形式）被建立为数学公理，并由其导出 Fick 第二定律（扩散 PDE），再延伸到各向异性介质与多组分情形；**SAP 溶胀动力学、芯体吸液速率、湿迁移模型的本原公式均源于此章**（源：Diffusion Equations (Crank Ch.1)）。
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **1. 扩散数学的建立路径（Crank Ch.1）：** 以 Fick 定律为唯一核心假设 → 推导 Fick 第二定律 → 各向异性介质与多组分延伸。**Fick 定律是扩散数学的唯一核心假设**——SAP 溶胀、芯体吸液、湿迁移、湿巾均匀性模型均基于此（源：Diffusion Equations (Crank Ch.1)）。
+   • **2. 非线性化的数学根源：** **D(C) 剧烈变化是 SAP 吸液速率非线性化的数学根源**——低吸水比时 D ≈ 常数（线性），溶胀后 D(C) 跨 3–4 个数量级（非线性）（源：Diffusion Equations (Crank Ch.1)）。
+
+--- [[Washburn Equation]]  (5 句)
+   • What the digest *does* evidence is its **result form and its theoretical family**：in a porous medium the advancing wicking-front distance obeys **x_v ∝ t^(1/2)**，named the **Washburn / Rudd relation**（源：Liquid Flow in Porous Structures，p. 24, p. 37）；the equation is grouped into Chapter 1 "Porous Structure and Liquid Flow Models" of *Absorbent Technology*, alongside the **Péclet number, Darcy's law, Washburn equation and capillary rise**（源：Absorbent Technology）。The full explicit form（in terms of 
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • **The full explicit Washburn expression and its corrected form in fibrous / nonwoven porous media** —— 。
+- Boundary conditions where one-dimensional Washburn fails（the excerpt is truncated）——，not guess-repaired。
+- The distinction and applicability domains of the Rudd and Washburn relations 。
+- Parameterisation of the equation in this vault's core C/Q model（values of Φ, r, θ, μ）。
+
+--- [[Fick 定律]]  (4 句)
+   • Diffusion is the process by which matter is transported from one part of a system to another as a result of **random molecular motion**（扩散是分子随机运动驱动的物质从系统一部分传输到另一部分的过程）（源：Diffusion Equations (Crank Ch.1)）. **Fick's first law** states the transfer rate is proportional to the concentration gradient, , by analogy with heat conduction (Fourier's law). **Fick's second law**, （一维恒 D）, is described as **the single core PDE** of the whole Mathematics of Diffusion reference, on which every chapter builds.
+   • **Derivation chain:** physical motivation → molecular random walk → statistical averaging gives net flux → Fick assumption → differential mass conservation → conservative form → simplification under constant D（源：Diffusion Equations (Crank Ch.1)）.
+   • **Scope limits:** Fick's law applies only to isotropic media — a composite core's MD/CD difference requires a **diffusion tensor **; forced-convection scenarios (e.g. wet-wipe wiping) need an added convection term（源：Diffusion Equations (Crank Ch.1)）.
+   • Mathematics of Diffusion
+- Diffusion Equations (Crank Ch.1)
+- Non-Fickian Diffusion (Crank Ch.11)
+- Moving Boundaries (Crank Ch.13)
+- Case II 扩散
+- Diffusion in a Sphere (Crank Ch.6)
+- Diffusion in a Plane Sheet (Crank Ch.4)
+- Diffusion in Heterogeneous Media (Crank Ch.12)
+- Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+- 时间滞后法 Time Lag Method
+- Boltzmann 变换
+- 湿迁移 Wet Migration
+
+--- [[Ebewole Polymer Science Ch08 Copolymerization]]  (3 句)
+   • Chapter 8 is the **quantitative core of copolymerisation 共聚反应的定量核心**. It builds the chain from four propagation reactions → steady-state assumption → **reactivity ratios r₁, r₂（竞聚率）** → the **Mayo–Lewis copolymer equation（Mayo–Lewis 共聚方程）**, then classifies copolymer behaviour by the value of r₁r₂.
+   • 1. Designate monomers M₁, M₂ and their chain radicals M₁·, M₂·; write the **four propagation reactions** (k₁₁, k₁₂, k₂₁, k₂₂). → "By designating the two monomers as M₁ and M₂ and their corresponding chain radicals as M₁· and M₂·, the four propagation reactions and the associated rate equations in the copolymerization of two monomers may be written as follows." (Ch.8, p.212)
+2. **Terminal model（末端模型）** assumption: "the terminal monomer unit in a growing chain determines almost exclusively the rea
+   • **Mayo–Lewis equation (1943)** — 本章方程即 Mayo–Lewis 共聚方程，高分子动力学的里程碑。
+- **Alfrey–Goldfinger (1952) 与 penultimate model（倒数第二单元模型）**：本章只采用 **terminal model**，假设末端单元"almost exclusively"决定反应特性；但许多实际体系中 penultimate unit 效应显著 —— 教材为教学简化，工业建模需修正。
+- **"r₁r₂ > 1 无实证"的时效性**：教材（1997）断言无 r₁r₂ > 1 案例；1990s 后活性/可控自由基聚合文献中已出现 r₁r₂ 略大于 1 的体系，此陈述在当代需更新。参见 Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization 的链转移与分子量控制部分。
+- **Azeotrope 存在判据缺失**：教材以图（Figure 8.2）示意恒沸点为曲线交点，但**未给出存在判据**（需 r₁、r₂ 同大于 1 或同小
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (3 句)
+   • This is the book's **methods toolbox 方法工具箱**. Characterization is organized into three levels: **molecular level 分子级** (molecular weight and its distribution), **thermal properties 热性能** (glass transition, melting, crystallization, decomposition) and **physical structure and morphology 物理结构与形态** (crystallinity, crystallite size, orientation). Each level is presented with principles, working equations and instruments, so later fibre-specific chapters can quote crystallinity, orientation function,
+   • **DTA / DSC 差热/差示扫描量热** — Tg, Tm, Tc, decomposition (p.239).
+- **TG / DTG 热重** — thermal stability (p.240).
+- **TMA 热机械分析** — transitions via probe penetration (p.241).
+- **DMA / DMTA 动态力学分析** — loss peaks, WLF equation (p.242).
+- **Optical microscopy 光学显微镜** — ordinary, polarized, phase contrast (p.244).
+- **Electron microscopy SEM / TEM** — replicas, OsO4 staining, etching (p.245).
+   • Assessment from the source: molecular-level and physical-structure sections are strongly argued with complete equations and figure cross-checks; thermal and microscopy sections are enumerative descriptions with fewer worked examples; no systematic comparison of method error and applicability boundaries is given, so independent method selection is hard — flagged as a limitation of methods-survey chapters.
+
+--- [[Surface Tension and Surface Energy]]  (3 句)
+   • Chapter 2 (pp. 74–109) supplies the missing micro-level to Chapter 1's macro hydraulics: it fixes surface tension as a thermodynamic quantity, establishes Young's equation as an energy identity, and — most usefully for hygiene R&D — replaces the textbook flat-plate sessile drop with a rod/tube model that gives the capillary pull on an individual fibre, F = γLV·cos θeq·C.（中文：第 2 章为第 1 章的宏观流体力学补上微观热力学，并以"杆/管"模型取代平面液滴，给出单根纤维的毛细拉力。）
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[Geometric Optical Mask（几何光学掩膜）]]  (2 句)
+   • 1. **The corrugation is a free mechanical shutter（波纹是免费的机械快门）.** A 2.2× bonded elastic laminate arrives with a relaxed corrugation pitch λ₀ of 1.2 mm. Nobody uses it; the mask does.
+2. **Three-layer stack（三层结构）** — (i) the elastic panel laminate (SEBS meltblown or SBL, 2.2× bonded) supplies elasticity *and* the corrugation that gates the read-out; (ii) a supplier-applied CD-continuous flexo **under-print** in three bands (green ✓ / green ✓ / red ✗) — no registration to our coater required; (iii)
+   • Rearranged for design: **2a = λ₀ (1 − φ\*) (1 + ε\*)** — pick the strain at which a bar should light up, and the equation returns the ink arc, which the shim delivers as a coat weight.
+5. **Zoning is machined, not controlled（分区是加工出来的，不是控制出来的）.** One manifold pressure feeds three CD zones whose ratio is fixed by land length (Q ∝ 1/L at constant gap, width and ΔP). Land lengths are machined to ± 0.05 mm, so the coat-weight ratio holds to better than 1 % for the life of the shim; a viscosity excurs
+
+--- [[底膜 Backsheet]]  (2 句)
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • Citing sources（3）: Handbook of Nonwovens、Nonwoven fabric finishing、Surface Tension and Surface Energy
+- 路线与对照: Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）
+- 结构 / 机理: SMS复合结构、Meltblown Nonwoven（熔喷非织造布）、纺粘 Spunbond、Formation-Limited Barrier（阻隔的成形受限机理）、层压 Lamination、Cassie-Baxter Equation、Contact Angle、Young's Equation
+- 专利与实体: CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524
+
+--- [[接触角 Contact Angle]]  (2 句)
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[达西定律 Darcy's Law]]  (2 句)
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • Liquid Flow in Porous Structures
+- Porous Structure and Liquid Flow Models
+- Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Nonwovens in Absorbent Materials
+- Absorbent Product Testing
+- Acrylic-Based Superabsorbent Polymers
+- 吸收芯体
+- Washburn Equation
+- 毛细压力 Capillary Pressure
+

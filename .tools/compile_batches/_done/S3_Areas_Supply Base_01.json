@@ -1,0 +1,37 @@
+{
+  "batch": "S3_Areas_Supply Base_01",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "Toyobo Group Integrated Report FY2025（东洋纺）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [
+    "Toyobo（东洋纺）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "WIKI/entities/Toyobo（东洋纺）.md",
+    "WIKI/concepts/Super Absorbent Fibre（超吸水纤维 SAF）.md"
+  ],
+  "manual_review": [
+    "Toyobo FY2025 报告中的产能/资本开支具体数字（产线投资额、年产能吨数、产能提升幅度）未落具体数字，仅记要点并标 manual_review（2026-09-29）"
+  ],
+  "notes": "本批仅 1 项（Toyobo/东洋纺 FY2025 整合报告）。前序回执记录：文件存档名为「丙烯酸基_SAF_数据手册」但实际为 Toyobo FY2025 整合报告，无产品级 SAF 参数，已按实际内容建源摘要页与实体页。本轮（2026-09-29 复核）判定该 source_path 在 WIKI/sources/ 已有对应页，按规则跳过 source 页重建、未覆盖任何已有页面，仅补派生内容：1) 向 WIKI/entities/Toyobo（东洋纺）.md 追加「## 追加：Supply Base 供应基地批（2026-09-29 追加）」——四大板块业绩（Films ¥166.8bn/¥6.9bn、Life Science ¥34.3bn/¥2.0bn、Environmental & Functional Materials ¥110.8bn/¥8.0bn、Functional Textiles & Trading ¥98.1bn/¥0.5bn）、37 处全球生产基地、R&D ¥14.3bn 与 3 大研发中心及 4,677 项专利、CSR 采购调查覆盖 456 家供应商（A 195/B 179/C 72/D 10）、ISO 45001 获证站点（Tsuruga/Iwakuni/Utsunomiya/Inuyama）、气候物理风险与 FY2031 碳价情景；未改既有结论。2) 向 WIKI/concepts/Super Absorbent Fibre（超吸水纤维 SAF）.md 追加「## 追加：Supply Base 供应基地批（2026-09-29 追加 · 潜在供应方口径）」，记录 Toyobo 为潜在供应方但无产品级 SAF 参数。命名收敛：库内原链向「[[超吸水性纤维（SAF）]]」（多一「性」字）的页面不存在，已收敛至规范概念页 Super Absorbent Fibre（超吸水纤维 SAF），未新建重复概念页。存疑：Toyobo 丙烯酸基 SAF 产品级规格仍为 [待验证]；Environmental & Functional Materials 由 TOYOBO MC 与三菱商事合资运营，商务对接口径待核。未改 index.md/log.md。",
+  "detail": {
+    "items_total": 1,
+    "source_pages_new_this_run": 0,
+    "source_pages_skipped_existing": [
+      "WIKI/sources/Toyobo Group Integrated Report FY2025（东洋纺）.md"
+    ],
+    "entity_pages_updated": [
+      "WIKI/entities/Toyobo（东洋纺）.md"
+    ],
+    "concept_pages_updated": [
+      "WIKI/concepts/Super Absorbent Fibre（超吸水纤维 SAF）.md"
+    ],
+    "naming_convergence": [
+      "超吸水性纤维（SAF） → Super Absorbent Fibre（超吸水纤维 SAF）（未新建重复页）"
+    ]
+  }
+}

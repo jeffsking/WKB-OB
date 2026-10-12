@@ -1,0 +1,20 @@
+{
+  "batch": "idb_05",
+  "book": "Handbook_of_Industrial_Drying",
+  "done": [
+    "Industrial Drying Ch24 Grain Property Values and Their Measurement",
+    "Industrial Drying Ch25 Drying of Fruits and Vegetables",
+    "Industrial Drying Ch26 Drying of Herbal Medicines and Tea",
+    "Industrial Drying Ch27 Drying of Potato, Sweet Potato, and Other Roots",
+    "Industrial Drying Ch29 Drying of Pharmaceutical Products"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Ch24: Table 24.8 isotherm equations (Henderson/Chung-Pfost/Halsey) OCR-garbled in source; page in-situ flagged [待验证], re-verify against print before fitting",
+    "Ch25: print end-page estimated as p.630 from chapter block order; Table 25.9 numeric columns partially jumbled in source",
+    "Ch26: Tables 26.2-26.5 contain OCR-garbled cells; only unambiguous values cited",
+    "Ch27: D(m,T) constants OCR-noisy; re-verify against print before reuse",
+    "Ch29: freeze-collapse minus signs ambiguous in OCR (p.699-700) and Sazhin Table 29.1 group thresholds overlap; values cited as indicative"
+  ],
+  "count": 5
+}

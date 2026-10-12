@@ -1,0 +1,48 @@
+{
+ "stage": "S1",
+ "block": "Projects/PPC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/PPC/PGA.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PGA.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PGA.docx.md",
+   "name": "PGA.docx.md",
+   "title_hint": "PGA.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/PPC/LXBIO visit report 20250925 1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/LXBIO visit report 20250925 1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/LXBIO visit report 20250925 1.pdf.md",
+   "name": "LXBIO visit report 20250925 1.pdf.md",
+   "title_hint": "LXBIO visit report 20250925 1.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md",
+   "name": "PPC&PGA based NW development 2.pptx.md",
+   "title_hint": "PPC&PGA based NW development 2.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/PPC/G-100 Technical data sheet rev1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/G-100 Technical data sheet rev1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/G-100 Technical data sheet rev1.pdf.md",
+   "name": "G-100 Technical data sheet rev1.pdf.md",
+   "title_hint": "G-100 Technical data sheet rev1.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/PPC/G-101 Technical data sheet.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/G-101 Technical data sheet.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/G-101 Technical data sheet.pdf.md",
+   "name": "G-101 Technical data sheet.pdf.md",
+   "title_hint": "G-101 Technical data sheet.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md",
+   "name": "PPC spunbond trial ， 2026 May 1.pptx.md",
+   "title_hint": "PPC spunbond trial ， 2026 May 1.pptx"
+  }
+ ]
+}

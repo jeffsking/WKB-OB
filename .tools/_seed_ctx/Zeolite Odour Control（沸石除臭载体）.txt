@@ -1,0 +1,112 @@
+# SEED: Zeolite Odour Control（沸石除臭载体）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 191 页，290 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (6 句)
+   • 同族（不同载体/机理）：Zeolite Odour Control（沸石除臭载体）、SymDeo™ XPP 抑臭聚合物、Odour-Control Granular Interference（除臭颗粒干扰）、咖啡炭纤维（异味吸附）
+- 载体相关：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- 评价方法：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+- 实体：汉高、中科依兰
+   • **样品设计（已决，本批新增）：** 借 COCO V6 芯体机试验同步制备三款 odour-control（气味控制）样品：
+   • ✅ **验证记录（2026-09-29）**：三款样品设计为已决方案；工程化卡点全部为**待决**，无一项已有结论。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、Zeolite Odour Control（沸石除臭载体）、Odour-Control Granular Interference（除臭颗粒干扰）、诺尔（Nuoer）。
+   • ✅ **验证记录（2026-09-29）**：以上来自 **Workshop 准备材料 v1.0**，引用  **原始文件未随本批次提供**；200 μg/g 为**目标值**，未见实测；九种臭味物质未列全 [待验证]。参见 Skin Health Treatment on Nonwoven（无纺布护肤处理）、Zeolite Odour Control（沸石除臭载体）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）。
+
+--- [[活性炭除臭（DARCO）]]  (5 句)
+   • **DARCO® KB-G** is a **powdered activated carbon (PAC)** made by **chemical activation of wood using the phosphoric acid process**（木基磷酸法化学活化）by **Cabot Norit Activated Carbon**（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)）. In this vault it anchors the **powdered activated carbon (PAC) option within the odour-control material family**（气味管理材料族中的「粉末活性炭」吸附型路线）（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)、Powdered Activated Carbon（粉末活性炭））.
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • **Odour control in hygiene products**: the route is applied to **卫品气味控制**（源：SymDeo™ XPP 抑臭聚合物）and listed alongside fibre-based odour adsorption for **面层/内裤无纺布消臭**（源：咖啡炭纤维（异味吸附））.
+- **Route-family sibling**: within the odour-control material family it is cited next to SymDeo™ XPP 抑臭聚合物（抑臭聚合物）and 咖啡炭纤维（异味吸附）（物理吸附纤维）, all under the same supplier landscape note at Symrise（德之馨）（源：SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）、Symrise（德之馨））.
+- **Supply-base context**: Cabot is logged as a **candidate supplier** with n
+   • No odour-specific performance data (e.g. ammonia / trimethylamine uptake) exists in the vault — the TDS targets liquid purification, not headspace odour .
+- No hygiene-article application trial, dosage, or cost data for DARCO KB-G is recorded（源：Cabot Corporation（卡博特））.
+- The present page was itself referenced under "待后续批次"（源：SymDeo™ XPP 抑臭聚合物）; whether a dedicated odour-control PAC application page will supersede it is undecided .
+
+--- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]  (4 句)
+   • The vault's cited statements describe this architecture as a **four-layer stratification of changeover elements with change control（换型要素四层分层与变更控制）**. Its stated root principle is an **orthogonal split between 「定相位」(phase-fixed) and 「定尺寸」(dimension-fixed)** variables — "「定相位 vs 定尺寸」的正交切分是全部换型设计的根", attributed to this page's own source page（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））. The four individual layers are **定义待补（引用来源未给出明确定义）** — the citing excerpts state th
+   • **Architecture-defect detector（架构缺陷检测器）：** the digest records a **Q4 "不能"（cannot）branch** that acts as a defect detector — "任何『随尺寸变、又必须换实体件、且换起来很贵』的量，都是设计没做干净"（any quantity that *varies with size*, *requires swapping a physical part*, and is *expensive to change* is a design that was not done cleanly）（源：83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制））.
+   • The architecture governs **changeover design for the patterned SAP core forming line** — it is the change-control framework behind drum-pitch selection（81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配））, drum-to-chassis pitch decoupling（82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））and sleeve changeover（84 Sleeve 工程规格与换装防错设计）. Its stated value to the REL absorbent core is **lower marginal cost when extending the width family**, and a design rule that keeps size-dependent quanti
+   • 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
+- 81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）
+- 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
+- 82 鼓距与产品节距解耦 repitch 选型
+- 84 Sleeve 工程规格与换装防错设计
+- 80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）
+- 03_卫材产线约束常量表（准入校验工具）
+- Repitch（鼓距与产品节距解耦）
+- SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (4 句)
+   • The dual urine + BM visual indicator concept for a diaper core carrying an effective odour-control granular — it frames the odour-vs-indicator molecule conflict, screens three BM mechanisms and specifies material composition, placement, converting process, cost model and validation protocol.
+   • The problem framing is a self-inflicted one: the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids, which removes Mom's learned head-space signal for a BM. Change intervals stretch, BM sits against skin longer, and faecal protease + lipase and rising pH drive dermatitis — with the blame attaching to the diaper rather than to the missing cue. The design trap: the odour sorbent and the indicator compete for the same molecules, and inte
+   • **除臭颗粒与指示器争分子** —— 这是决定整个设计的陷阱，也是本批最有价值的工程警示。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **pH 不是可用的便判别量** —— 第二条 pH 条是「掷硬币」。支撑页：Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- **双通道并行，失效模式互补** —— 联合漏检率为乘积而非求和。支撑页：Bile Pigment Mordant Lane（胆色素媒染通道）
+- **必须在含除臭颗粒、且老化过的整片上验证** —— 无颗粒结构上的验证毫无证明力。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **这是宣称与投诉规避项目，不是降本项目** —— 真正的成本是失去的 OEE 与「看不见的线索」的替代价值。支撑页：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+   • Concepts 概念：Odour-Control Granular Interference（除臭颗粒干扰）、Titratable Acidity Lane（可滴定酸度通道）、Bile Pigment Mordant Lane（胆色素媒染通道）、Wetness Indicator Ladder（尿湿指示阶梯）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- Comparisons 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- Existing pages 既有页：智能尿裤功能层、变色油墨
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • Process claim (p.290): "The polycondensation process is predominantly diffusion controlled." 因此提高真空度、搅拌速率比单纯延长停留时间更能提升分子量；过长的停留时间反而增加热降解风险。
+   • **Catalyst activity order** (p.280): **Zn > Pb > Mn > Co > Mg > Ca > Sn > Na > Sb**. Side reactions (ether links, DEG) and thermal degradation are controlled with phosphorus-based heat stabilisers (pp.280–282). Batch / semi-continuous / continuous processing are compared quantitatively in Table 12.2 (p.278).
+   • **Nucleative collapse 成核崩塌** (p.311): "This has been termed 'nucleative collapse' [36] because a large number of small nuclei come together to form a crystallite." In an oriented melt the entropy penalty is small and the critical nucleus size approaches the unit-cell size, so high-speed spun PET forms dense microcrystallites.
+- **Catalyst effects** (p.312): "the catalyst system could exhibit a greater influence than molecular weight in controlling the rate of crystallization of PET." Residual ca
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+
+--- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]  (4 句)
+   • 三洋化成工业（4471）子公司 SDP Global 与碘厂商合同资源的**联合公告**（No.1814，2018-05-21，日文）：宣布**控制自由基聚合（制御ラジカル重合）SAP 工业化成功**——均一网目结构路线的一手厂商口径；在本库中支撑 Controlled Radical Polymerization SAP（控制自由基聚合 SAP） 概念与 SAP 高性能化路线讨论。
+   • Japanese press release. Background: SAP is crosslinked hydrophilic polymer absorbing/retaining several hundred to 1000× its weight in water; almost all diaper SAP is polyacrylic-acid made by aqueous free-radical crosslinking copolymerization, which yields **heterogeneous network structures** (side reactions: termination, chain transfer → mixed molecular weights) that suppress absorption performance. Sanyo targeted network homogenization: controlled radical polymerization was known to minimize si
+   • **SAP 吸收性能的抑制因素是「网目结构不均一」，控制自由基聚合通过消除副反应实现均一网目 → 高性能化** —— 支撑页：Controlled Radical Polymerization SAP（控制自由基聚合 SAP）
+- **该路线可与表面交联等既有技术叠加，SAP 设计自由度提高**——与 SAP 表面包覆（SAP Particle Surface Coating） 正交组合 —— 支撑页：SAP（高吸水树脂）
+   • 概念：Controlled Radical Polymerization SAP（控制自由基聚合 SAP）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀
+- 实体：Sanyo Chemical · SDP Global（三洋化成工业）、Nippon Shokubai（日本触媒）（工艺路线对照）、Sumitomo Seika（住友精化）
+- 对比：SAM Supplier Landscape Comparison（SAM 供应商格局对比）（诺尔 deck 中三工艺形态对照）
+
+--- [[Antimony-Free PET Fibre（无锑 PET 纤维）]]  (3 句)
+   • Material Safety Control（材料安全双轨管控）
+- AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+- DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+- 热风粘合无纺布
+- 福地（Fudi）
+- 新维盛集团（Xinweisheng Group）
+- The Procter & Gamble Company（宝洁）
+- Kimberly-Clark（金佰利）
+   • 1. **锑进入卫材管控不是因为卫材本身出了事**，而是从彩妆品类外溢过来的 —— 这是"关注化学物质清单"的典型生成路径，与加湿器杀菌剂、CMIT 牙膏同类。
+2. **韩国市场的锑要求是 2018 年前后才有法规基础的**，与 Material Safety Control（材料安全双轨管控） 中"驱动来源是当地法律法规"的表述一致，可互相印证。
+3. 会中另一条相关判断：韩国消费者倾向认为"**蛋白 / 天然更安全**"，liner / 面层议题属常见敏感议题 → **无锑在韩国不只是合规问题，也是消费者心智问题**。
+   • ✅ **验证记录（2026-09-29）**：以上为单一来源的低质量英文 ASR，"2018 年前无国家级法规"为会中口径，**未见法规原文**；"antimony" 由转写中的「anti money / antimony」还原。参见 Material Safety Control（材料安全双轨管控）、Product Safety Crisis Management（产品安全危机管理）。
+
+--- [[交联密度 Crosslink Density]]  (3 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **It is the枢纽 of the SAP formulation playbook.** The REL project's core material SAP is treated with **cross-link density as the pivotal parameter** connecting monomer system, initiation/cross-linking route, absorption kinetics (diffusion + swelling coupling) and green/structured 2024 strategies（源：Acrylic-Based Superabsorbent Polymers）。
+- **Simulation interface.** Cross-link density feeds directly into the **Flory-Rehner swelling model** as a parameter interface（源：Acrylic-Based Superabsorbent Po
+   • **No numeric ν_c values or units** (mol/cm³ or mol/g) appear in any excerpt — the vault states only the directional laws 。
+- **No dedicated measurement method** for ν_c (e.g. swelling-ratio / modulus method) is documented；the vault only cites the direction of the relationship 。
+- **The citing page Ancient Organic Dyes and Pigments Chemistry supplied no excerpt in the digest** — its specific use of the concept is unverified here 。
+- **No reconciled number between the 45.8 g/g starch-CMC-NC claim 
+
+--- [[热风无纺布]]  (3 句)
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+   • **标题重复**: the vault holds ≥4 overlapping headings（本页、热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven）— a merge/ownership decision is owed .
+- No numeric permeability, tensile, gsm-vs-hand, or line-speed data for air-through webs is recorded in the vault .
+- The 中科依兰 nano-odour-powder route's two unresolved risks（喷嘴堵塞、线上跌落 / build-up）have no recorded validation result（源：中科依兰）.
+- Degradable air-through sheath: PGA-core route still gated on shelf-life; PET-core is backup only（源：可降解皮芯架构对比（PPC
+
+--- [[离子强度 Ionic Strength]]  (3 句)
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+   • No formula, units or numeric ionic-strength values appear in the citing sources — the "high ionic strength lowers absorbency" statement is qualitative 。
+- No quantitative CRC/AUL/SFC-vs-ionic-strength curve is evidenced; the Ca²⁺-as-control-variable point is an inference the source itself labels as 外推 。
+- The bulk high ionic strength route: no vault evidence yet of test-fluid Ca²⁺ levels specified in KC internal test standards 。
+

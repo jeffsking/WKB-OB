@@ -1,0 +1,83 @@
+# SEED: SAP（高吸水树脂）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 206 页，260 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）]]  (3 句)
+   • 中国制浆造纸研究院（CNPPRI）提出的**双组分分工**型可降解高吸水树脂：**纳米纤维素（NC，0.5–20 wt%）负责补强度 + 吸水保水**，**可降解天然高分子（羧甲基壳聚糖/壳聚糖季铵盐/糊化玉米淀粉/海藻酸钠/羧甲基纤维素钠，5–40 wt%）负责供降解**，以各自添加量拆开「可降解高分子加多 → 机械强度下降」的两难。
+   • 本件是该链中**首件已授权（B 文本 2023-01-10）且带分组降解数据**的锚点专利；审查程序中 CN 108659171 A（茶渣纳米纤维素 SAP，CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院））被引为对比文件——即授权权利要求以「天然高分子 + NC 双组分体系」区别于茶渣路线。
+- 与同团队 CN 117024899 A（抗菌除臭 CNC 载体 SAP，抗菌除臭高吸水树脂（CNC 载体双功能 SAP））共享纳米纤维素表面化学，可视为该院「功能化 SAP」系列两件。
+   • Biodegradable SAP（可降解高吸水树脂）、抗菌除臭高吸水树脂（CNC 载体双功能 SAP）、SAP（高吸水树脂）
+- Source 来源：CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）
+- Entity 实体：China National Pulp and Paper Research Institute（中国制浆造纸研究院）
+
+--- [[BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）]]  (3 句)
+   • BASF Personal Care & Hygiene 的**生物质平衡（Biomass Balanced）SAP** 单页宣传：HySorb® B/N/BG/BX/T 系列的可持续化路线说明；在本库中对应 SAP 供应格局中的**低碳/可再生牌号维度**（对照 Biodegradable SAP（可降解高吸水树脂））。
+   • **BASF 的 SAP 可持续路线是「生物质平衡质量守恒分配」而非改性——性能与常规牌号等同、免重新配方** —— 支撑页：巴斯夫欧洲公司（BASF SE）、SAP（高吸水树脂）
+   • 实体：巴斯夫欧洲公司（BASF SE）
+- 概念：SAP（高吸水树脂）、Biodegradable SAP（可降解高吸水树脂）（对照：降解路线 vs 生物质平衡路线）
+
+--- [[GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）]]  (3 句)
+   • 中国 **SAP（高吸水树脂，Super-Absorbent Polymer）原料的国家级产品标准**，是本库做 SAP 牌号准入、来料检验与技术协议条款（残留单体、吸收量、保水量、加压吸收量、可萃取物）时的**判定依据底表**。
+   • **残留单体（丙烯酸）婴儿 800 mg/kg 比成人/卫生巾 1 000 mg/kg 更严，是婴儿品类专属加严项** —— 支撑页：SAP（高吸水树脂）
+- **返黄值虽列入表1，但明列为参考指标、不作判定依据 —— 不可作为来料拒收条款** —— 支撑页：SAP（高吸水树脂）
+- **加压吸收量（AAP）装置尺寸在本版被调整，跨版本数据不可直接比较** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **第 1 号修改单重写合成试液配方与黏度口径（4 号涂料杯 / GB/T 1723），2020-07-21 起执行** —— 支撑页：（见本页附录K 表）
+   • 概念：SAP（高吸水树脂）、GB-T 28004.1-2021（纸尿裤国标）
+- 实体：（起草单位含多家 SAP 厂商，本页不逐一点名；如需建实体页另按 S3 Supply Base 批处理）
+- 对比：（**本批未建** —— 2008 版两份标准原文不在本库，仅有的变化清单来自本版前言，不足以支撑逐项对比）
+
+--- [[LG Chem SAPPYER SAP（Chinaplas Acrylates_SAP）]]  (3 句)
+   • LG Chem 的 SAP（高吸水树脂，品牌 **SAPPYER**）产品/企业资料，归档于 v3 非传统资源 / ① SAP 厂商。本批作为「SAP 供应商」信息源。
+   • **LG Chem 是具备 ISCC+ 认证与 BCB 生物循环平衡 SAP 的主要 SAP 供应商** —— 支撑页：LG Chem（LG 化学）、SAP（高吸水树脂）
+   • 实体：LG Chem（LG 化学）
+- 概念：SAP（高吸水树脂）
+
+--- [[OASIS SAF 102-80-10 技术数据表（Technical Absorbents）]]  (3 句)
+   • Technical Absorbents Ltd（TAL）**OASIS SAF™ 102/80/10** 牌号的技术数据表：超吸水纤维（SAF）本库唯一在库厂商的一手参数；直接支撑 Super Absorbent Fibre（超吸水纤维 SAF） 与 SAF vs SAP（超吸水纤维 vs 高吸水树脂）。
+   • **OASIS 102/80/10 的盐水自由膨胀 47 g/g 介于常规 SAP 颗粒与常规合成纤维之间——SAF 的价值不在总量而在「纤维形态可纺入非织造布」** —— 支撑页：Super Absorbent Fibre（超吸水纤维 SAF）、SAF vs SAP（超吸水纤维 vs 高吸水树脂）
+- **含水率 14% 的出厂口径提示 SAF 储运需按含湿纤维管理**（对比 SAP 颗粒低湿运输） —— 支撑页：Technical Absorbents Ltd（TAL）
+   • 实体：Technical Absorbents Ltd（TAL）
+- 概念：Super Absorbent Fibre（超吸水纤维 SAF）、SAM Testing Methods（超级吸水材料测试方法）
+- 对比：SAF vs SAP（超吸水纤维 vs 高吸水树脂）、SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+
+--- [[Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）]]  (2 句)
+   • **SAP（高吸水树脂）（Sodium polyacrylate 聚丙烯酸钠系）**：在**去离子水/低离子强度**条件下吸收量最高，且供应基数成熟、多源可得；仍是**当前量产产品的基准**。在需要极限吸收量的场景（而非盐水工况）下胜出。
+- **Biodegradable SAP（可降解高吸水树脂）（Cellulose-based SAH 纤维素基）**：在**盐水 / 合成尿（即真实使用工况）**与**加压条件**下的相对表现更好，且有**可堆肥降解与细胞相容性**的实测支撑；适用于**对可持续性有硬指标**的产品线。代价是：去离子水中的绝对吸收量明显落后、货源与量产成熟度未验证。
+   • Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025) —— 
+- Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021) —— 
+- Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂） —— 本库既有概念页
+
+--- [[AUL 加压吸水率]]  (2 句)
+   • 同列概念（源：Research Advances in Superabsorbent Polymers (Polymers 2024)）：SAP（高吸水树脂）、吸收芯体、PAA 聚丙烯酸、CRC 离心保持能力。
+- 同列概念（源：Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）：SAP（高吸水树脂）、表面交联 Surface Cross-linking、蒙脱土 Montmorillonite。
+   • AUL（加压吸水率）是 SAP（高吸水树脂）的评价项之一，与 CRC 离心保持能力、表面交联 Surface Cross-linking 等在 SAP 综述文献中并列出现（源：Research Advances in Superabsorbent Polymers (Polymers 2024)、Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）。
+- 本库同主题页面（交叉引用，未据其取数）：承压吸收 AUL、SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）、SAP（高吸水树脂）。
+
+--- [[Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）]]  (2 句)
+   • 上位：Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- 原料：纳米纤维素（CNC、CNF、BNC）
+- 同类结构路线：SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+- 干燥/成型：水凝胶脱水干燥工艺族谱
+- 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+- 来源机构：University of Waterloo（滑铁卢大学）
+   • **教训一（介质口径）**：纸尿裤实际接触的是尿液（含电解质）而非纯水。比较 SAP 性能时，**盐水口径才是有效口径**；引用任何倍数须注明介质与温度。
+- **教训二（加压口径）**：本材料加压损失较小（32–39 %，优于 SAP 的 81.6 %），但原文自身对载荷（170 g/320 g）与损失率（39 %/32 %）记述不一致——**交叉引用前须回原文核对**。
+- **待补 **：该 SAH 的成本（本库现有可降解 SAP 成本口径为传统 PAAS 的 2–5 倍，见 Biodegradable SAP（可降解高吸水树脂），但**与本材料不同源，不可直接套用**）；单体残留/重金属安全线；中试与量产可行性。
+
+--- [[Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）]]  (2 句)
+   • 1. **方向一 SAP 增强（第一优先级）**：CNF/CNC 的高比表面积与表面羟基（–OH）充当 SAP（高吸水树脂）的**物理交联点**或共聚组分，提升凝胶强度 gel strength、降低回渗 rewet、改善颗粒间结合力。三条技术路径——CNF 与丙烯酸/丙烯酰胺共聚接枝（化学键合）、CNF 作物理互穿网络 IPN、表面修饰 CNF 的复合粒子方案。
+2. **方向二 Foaming Core / ADL / 半芯体（第一优先级）**：利用 CNF 的成膜性 + 保水性 + 阻隔性，三个子方向——泡沫芯体（CNF 稳定泡孔防塌陷 → 超薄透气）、ADL（导流层，CNF 纤维网快导流 + 锁液减回渗）、半芯体（部分替代绒毛浆/SAP 混合体系，成本与环保双收益）。
+3. **方向五 亲水涂层 / Core Wrap / SMS 涂层（第一优先级）**：CNF 形成致密亲水膜，替代 PE/PP 膜做芯包（core wrap）实现全可降解方案，或赋予 SMS 抗菌、缓释 lotion 功能，或作防漏隔边涂层。**投入小、见效快，是短期突破口**。
+4. **方向四 增强粒子 →
+   • 上位：纳米纤维素（CNC、CNF、BNC）、Material Open Innovation Function（材料开放创新职能）、IPC BCC OI Portfolio（开放创新项目组合）
+- 技术落点：SAP（高吸水树脂）、ADL（导流层）、Rewet Test（回渗测试）、智能尿裤功能层
+- 对比：Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）、三类纳米纤维素对比（CNC、CNF、BNC）、BNC 与绒毛浆和 SAP 定位对比
+
+--- [[SAP 表面包覆（SAP Particle Surface Coating）]]  (2 句)
+   • 上位：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- 工艺：BNC 基 SAP 表面交联
+- 同族专利：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）、CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+   • ✅ **验证记录（2026-09-29）**：以上为**供应商现场讲解口径**，无第三方验证；上下层的**具体成分与加量未披露**（商务/配方敏感，见源页 manual_review）；设备名（皂壳 / 胶原压动机 / 浆液干燥机）为 ASR 音转，**设备对应关系 [待验证]**。参见 SAP（高吸水树脂）、SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）、诺尔（Nuoer）。
+

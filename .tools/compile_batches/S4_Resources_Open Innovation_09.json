@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/Innovation 2026 - Overall_with Detials.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/Innovation 2026 - Overall_with Detials.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/Innovation 2026 - Overall_with Detials.pptx.md",
+   "name": "Innovation 2026 - Overall_with Detials.pptx.md",
+   "title_hint": "Innovation 2026 - Overall_with Detials.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/81-成型鼓ups选型计算.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/81-成型鼓ups选型计算.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/81-成型鼓ups选型计算.md.md",
+   "name": "81-成型鼓ups选型计算.md.md",
+   "title_hint": "81-成型鼓ups选型计算.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型策略与实验数据综合分析_20260721.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型策略与实验数据综合分析_20260721.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型策略与实验数据综合分析_20260721.docx.md",
+   "name": "SAP选型策略与实验数据综合分析_20260721.docx.md",
+   "title_hint": "SAP选型策略与实验数据综合分析_20260721.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/83-换型要素四层分层与变更控制.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/83-换型要素四层分层与变更控制.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/83-换型要素四层分层与变更控制.md.md",
+   "name": "83-换型要素四层分层与变更控制.md.md",
+   "title_hint": "83-换型要素四层分层与变更控制.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_EN.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_EN.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP选型分析_三PPT对比_EN.docx.md",
+   "name": "SAP选型分析_三PPT对比_EN.docx.md",
+   "title_hint": "SAP选型分析_三PPT对比_EN.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/87-卫材产线约束常量表_待并入补充行.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/87-卫材产线约束常量表_待并入补充行.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/87-卫材产线约束常量表_待并入补充行.md.md",
+   "name": "87-卫材产线约束常量表_待并入补充行.md.md",
+   "title_hint": "87-卫材产线约束常量表_待并入补充行.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/82-鼓距与产品节距解耦repitch选型.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/82-鼓距与产品节距解耦repitch选型.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/82-鼓距与产品节距解耦repitch选型.md.md",
+   "name": "82-鼓距与产品节距解耦repitch选型.md.md",
+   "title_hint": "82-鼓距与产品节距解耦repitch选型.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤行业市场宣称与营销概念全景报告.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤行业市场宣称与营销概念全景报告.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤行业市场宣称与营销概念全景报告.docx.md",
+   "name": "纸尿裤行业市场宣称与营销概念全景报告.docx.md",
+   "title_hint": "纸尿裤行业市场宣称与营销概念全景报告.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/温变湿变材料可行性分析报告_2026-08-04.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/温变湿变材料可行性分析报告_2026-08-04.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/温变湿变材料可行性分析报告_2026-08-04.docx.md",
+   "name": "温变湿变材料可行性分析报告_2026-08-04.docx.md",
+   "title_hint": "温变湿变材料可行性分析报告_2026-08-04.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison.xlsx.md",
+   "name": "Rewet Method Comparison.xlsx.md",
+   "title_hint": "Rewet Method Comparison.xlsx"
+  }
+ ]
+}

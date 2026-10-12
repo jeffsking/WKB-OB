@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-2",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_bf2f1712071aac13232219f367ab6aaa001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/MDP plus弧形皮筋张力测试.pdf.md",
+   "name": "MDP plus弧形皮筋张力测试.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_ef2f12cf3b1fac48a3ceaffaa0a96b86001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00034 FIFE.docx.md",
+   "name": "STM-00034 FIFE.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a250b8538af80f46f57ee91aee0d090b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/质量成品标准测试方法-TJ.pdf.md",
+   "name": "质量成品标准测试方法-TJ.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_7042612ae851f7099a1623d52ab9557c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00064 Diaper尺寸.docx.md",
+   "name": "STM-00064 Diaper尺寸.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_fe55fe8eb0f7bd040de06259eaca9643001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00075 剥离.docx.md",
+   "name": "STM-00075 剥离.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_e56aeac7ac4b8602ecefa0f18943c4ed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00433 Pants尺寸.doc.md",
+   "name": "STM-00433 Pants尺寸.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_6f47117369741959e0ae75ce84f5c313001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00148 Cradle测试.doc.md",
+   "name": "TTM-00148 Cradle测试.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_bdf19e0e4146209b62d99245d8a14466001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/早产儿测试方法.docx.md",
+   "name": "早产儿测试方法.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_f6cf0c7e93b673e93db0d29ae17753c0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63848 Static mannequin.docx.md",
+   "name": "WI-63848 Static mannequin.docx.md",
+   "type": "word"
+  }
+ ]
+}

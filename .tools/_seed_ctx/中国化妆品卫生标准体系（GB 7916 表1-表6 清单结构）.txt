@@ -1,0 +1,48 @@
+# SEED: 中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 8 页，11 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）]]  (2 句)
+   • **「日期双模式 + 无医疗用语」是 CN 化妆品标签 30 年不变的骨架**，湿巾生产用液成分标注（GB/T 27728.2 的 INCI 降序要求）是其现代延伸 —— 支撑页：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 来源：GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）（其原料标注要求被 7.2 引用）
+
+--- [[GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）]]  (2 句)
+   • **「婴幼儿/粘膜接触类」在本标准中即被单列更严的微生物口径（500 vs 1000）** —— 支撑页：化妆品微生物限值（细菌总数·致病菌）
+- **限用物质的叠加规则（Σ ≤1）是复配防腐剂设计的硬约束** —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- **Phenoxyethanol 1.0% 是本标准表4 给出的防腐剂口径，与 EU SCCS 1.0% 口径一致（出处不同，勿混为一条）** —— 支撑页：Phenoxyethanol（苯氧乙醇）
+- **汞/铅/砷/甲醇四项重金属与溶剂限量是原料准入的底线筛** —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）、化妆品微生物限值（细菌总数·致病菌）、Phenoxyethanol（苯氧乙醇）
+- 实体：（无本页独有实体；标准归口机构见正文 §1.5 与附加说明）
+- 对比：（**本批未建** —— GB 7916-1987 的现行有效性与是否被《化妆品安全技术规范》（2015）替代尚未核实，标 ，不具备并列对比的事实基础）
+
+--- [[GB 7917.1-1987 Hygienic Chemical Test Methods for Cosmetics Mercury（化妆品卫生化学标准检验方法 汞）]]  (2 句)
+   • **汞 ≤1 ppm 的限值基因来自 1987 化妆品体系**，现行卫品标准的 Hg 限值口径由《化妆品安全技术规范》(2015) 第四章 1.6 微波消解法执行 —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）、化妆品微生物限值（细菌总数·致病菌）
+- 同族方法标准：GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定） 等（本批后续页）
+
+--- [[Phenoxyethanol（苯氧乙醇）]]  (1 句)
+   • 中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 化妆品微生物限值（细菌总数·致病菌）
+
+--- [[化妆品微生物限值（细菌总数·致病菌）]]  (1 句)
+   • 上位清单体系：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 卫材侧总纲：GB 15979-2024（一次性使用卫生用品卫生要求）
+- 抗抑菌效果：抗（抑）菌性能评价（杀菌率·抑菌率）
+- 湿巾分档：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+
+--- [[防腐剂 Preservative]]  (1 句)
+   • What the sources **do** state（源侧口径）：
+- In the Chinese cosmetic framework, preservatives appear as a **listed restricted category（限用防腐剂）** — GB 7916's 表4 covers 苯氧乙醇、Parabens、山梨酸、苯甲酸。（源：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构））
+- Cosmetic Science and Technology positions preservation as a system topic: **防腐剂体系、防腐挑战值、微生物控制**（preservative system, preservative-challenge value, microbial control）.（源：Cosmetic Science and Technology）
+
+--- [[GB 7918.1-1987 Microbiological Test Methods for Cosmetics General（化妆品微生物标准检验方法 总则）]]  (1 句)
+   • 概念：化妆品微生物限值（细菌总数·致病菌）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 同族：GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）、GB 7918.5-1987 Microbiological Test Methods for Cosmetics Staphylococcus aureus（化妆品微生物标准检验方法 金黄色葡萄球菌）
+
+--- [[GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）]]  (1 句)
+   • 概念：化妆品微生物限值（细菌总数·致病菌）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 同族：GB 7918.5-1987 Microbiological Test Methods for Cosmetics Staphylococcus aureus（化妆品微生物标准检验方法 金黄色葡萄球菌）、GB 7918.1-1987 Microbiological Test Methods for Cosmetics General（化妆品微生物标准检验方法 总则）
+

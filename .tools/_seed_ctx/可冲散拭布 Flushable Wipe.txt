@@ -1,0 +1,77 @@
+# SEED: 可冲散拭布 Flushable Wipe
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chemical bonding
+#
+# 全库正文命中 64 页，88 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[湿巾 Wet Wipes]]  (7 句)
+   • What the digest *does* evidence is the **regulatory scope boundary**（口径边界），not a definition: in the CN market, wet wipes are governed in layers — general requirements in GB/T 27728.1, baby & child particular requirements in GB/T 27728.2-2024（for children ≤6, the compliance baseline for any baby-wipe SKU in China）（源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求））；disinfectant wipes must follow GB/T 27728.3-2024 and **may not cite only the 2011 edition**（源：GB-T 27728-2011 Wi
+   • **Compliance layers（合规层级，CN）**
+- GB 43631-2023 is the **mandatory chemical-safety floor**（强制国标，工信部归口）for children's paper products; it covers wipes, diapers and tissue（生活用纸品）and sets one shared floor table across heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines（源：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范））。
+- GB/T 27728.2-2024 layers baby-wipe requirements on top of GB/T 2772
+   • **Coating and drying（涂层与干燥，制造侧）**
+- Emulsion / lotion coatings on wipes behave like latex — a longer benign constant-rate period before the defect-prone falling-rate zone（源：Industrial Drying Ch40 Drying of Coated Webs）。
+- For skin-contact hygiene films and wipes, **100 % solids UV/EB** is the regulatory-friendly route — no solvent VOC, no extractable cross-linker residuals（源：Industrial Drying Ch40 Drying of Coated Webs）。
+   • **Labelling and lotion wording（标签与用液表述）**
+- "Two-mode date marking + no medical claims"（日期双模式 + 无医疗用语）is the 30-year-stable skeleton of CN cosmetic labelling; the wipes-lotion ingredient declaration（GB/T 27728.2 INCI descending order）is its modern extension（源：GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签））。
+
+--- [[Chemical bonding]]  (3 句)
+   • Chapter 7 (R.A. Chapman) systematically treats chemical (latex/binder) bonding — the dominant alternative to thermal consolidation and the route of choice when a broad property palette must be engineered, with explicit flushable-wipe and incontinence binder chemistry.（中文：第 7 章系统讲化学（胶乳/粘合剂）粘合——热粘的主要替代路线，需在柔软/防水/透气/阻燃/可回收间做多目标设计，并明确给出可冲散拭布与失禁用品粘合剂化学。）
+   • It defines the binder and its multiple roles, then surveys binder polymer chemistry: vinyl, acrylic, butadiene (SBR/NBR/natural rubber), and specialty systems (PU, phenolic, epoxy).（先定义粘合剂及其多重角色，再梳理乙烯基、丙烯酸、丁苯等聚合物化学。）
+- A rigorous subsection explains emulsion polymerisation, the Fox equation for copolymer Tg, MFFT, and coagulation/migration and crosslinking.（严谨小节：乳液聚合、Fox 共聚物 Tg 方程、最低成膜温度、凝聚/迁移与交联。）
+- The mechanism of chemical bonding is analysed: wetting, binder cohesion, adhesion, distribution,
+   • 父书：Handbook of Nonwovens
+- 概念：粘合剂 Binder、胶乳 Latex、Surface Tension and Surface Energy、等离子处理 Plasma Treatment、可冲散拭布 Flushable Wipe
+- 关联章节：Thermal bonding、Nonwoven fabric finishing
+
+--- [[GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）]]  (3 句)
+   • China's **mandatory chemical-safety floor**（强制国标）for all paper products for children ≤6 — the single table that wipes, diapers and tissue SKUs must clear on heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines; it is the standard that GB/T 27728.2-2024 delegates its "safety indicators" clause to.
+   • GB 43631-2023 (ICS 85.010 / CCS Y30, 工信部) is a mandatory national standard applying to infant/children paper products manufactured or sold in China. It classifies products into 生活用纸品 (tissue, wipes, diapers) and 文化用纸品 (paper/board/books) and sets one shared chemical baseline plus category-specific rows. The shared floor: four heavy metals, migratable fluorescent substances "无", acrylamide ≤0.1 mg/kg, and a 24-species carcinogenic aromatic amine list (Annex A) at ≤20 mg/kg for printed/dyed items.
+   • 概念：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+- 来源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+
+--- [[GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）]]  (3 句)
+   • Historical CN standard for **cosmetic labels**（化妆品通用标签，1995 版）— defines the two-mode date marking and the no-medical-claims principle that survives (in updated form) in today's cosmetic labeling regime; relevant to wipes because baby-wipe lotion labeling borrows cosmetic vocabulary.
+   • GB 5296.3-1995 (replacing the 1987 original) applies to labels on cosmetic sales packages in China. Six mandatory blocks: product name, manufacturer identity (with importer/agent details for imports), net content, date marking — in one of exactly two modes (production date + shelf life, or batch number + use-by date) — licence and standard numbers, plus special-use approval numbers for special-function cosmetics. Two principles remain influential: labels must never use medical terminology or dru
+   • **「日期双模式 + 无医疗用语」是 CN 化妆品标签 30 年不变的骨架**，湿巾生产用液成分标注（GB/T 27728.2 的 INCI 降序要求）是其现代延伸 —— 支撑页：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+
+--- [[GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）]]  (3 句)
+   • China's voluntary national standard (GB/T) setting **particular requirements for baby & child wet wipes**（婴童湿巾专用要求）— the compliance baseline for any wipes SKU targeting children ≤6 in the CN market.
+   • Part 2 of the GB/T 27728 series (ICS 85.080 / CCS Y39), drafted under SAC/TC 141 (全国造纸工业标准化技术委员会), proposed by 中国轻工业联合会. Drafting units include 中国制浆造纸研究院、好孩子、维达、恒安、金佰利（中国）、广州宝洁、花王（中国）研发中心、露乐健康、赛得利（九江）等 — i.e. essentially the whole CN wipes/hygiene value chain. The standard layers baby-wipe requirements on top of the general requirements of GB/T 27728.1: raw-material minimization and long-safe-use-history principle, fragrance per GB/T 22731, production lotion per the 2015 Cosmetics Safety Technic
+   • 概念：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）、化妆品限用-准用组分体系（中国 2015 技术规范）
+- 来源：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）、GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求）
+- 同族标准：GB-T 27728-2011 Wipes（湿巾）、GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+
+--- [[Fick 定律]]  (2 句)
+   • Diffusion is the process by which matter is transported from one part of a system to another as a result of **random molecular motion**（扩散是分子随机运动驱动的物质从系统一部分传输到另一部分的过程）（源：Diffusion Equations (Crank Ch.1)）. **Fick's first law** states the transfer rate is proportional to the concentration gradient, , by analogy with heat conduction (Fourier's law). **Fick's second law**, （一维恒 D）, is described as **the single core PDE** of the whole Mathematics of Diffusion reference, on which every chapter builds.
+   • **Scope limits:** Fick's law applies only to isotropic media — a composite core's MD/CD difference requires a **diffusion tensor **; forced-convection scenarios (e.g. wet-wipe wiping) need an added convection term（源：Diffusion Equations (Crank Ch.1)）.
+
+--- [[GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）]]  (2 句)
+   • 上位体系：GB 15979-2024（一次性使用卫生用品卫生要求）（卫生指标维度与本规范化学安全维度互补）
+- 委托来源：GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）、GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（其表 2 与本规范表 1 纸尿裤列数值一致）
+- 平行限用物质：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、化妆品限用-准用组分体系（中国 2015 技术规范）（湿巾生产用液与防腐剂的上位口径）
+- 元素迁移口径：锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范） —— 
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求） —— 4.2.3 条委托引用 GB 43631
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (2 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+
+--- [[Cosmetic Formulation of Skin Care Products]]  (2 句)
+   • **EN**: Reference on skincare product formulation covering formulation design, ingredient selection, processing, and stability. Cross-references with hygiene products in moisturizing/care wet wipes formulation and nonwoven-skin interface comfort assessment.
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 乳化剂 Emulsifier
+- 保湿剂 Humectant
+- 防腐剂 Preservative
+
+--- [[GB-T 27728-2011 Wipes（湿巾 · 副本1）]]  (2 句)
+   • **两份副本为同一标准，且同样缺失日期页 —— 非单份提取误差** —— 支撑页：GB-T 27728-2011 Wipes（湿巾）
+   • 本地路径：
+- 原文链接：（无；ima 同步的标准全文）
+- 同族文档：GB-T 27728-2011 Wipes（湿巾）
+

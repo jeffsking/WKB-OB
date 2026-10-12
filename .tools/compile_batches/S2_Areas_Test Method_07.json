@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Pressure Sensory 测试方法.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Pressure Sensory 测试方法.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Pressure Sensory 测试方法.docx.md",
+   "name": "Pressure Sensory 测试方法.docx.md",
+   "title_hint": "Pressure Sensory 测试方法.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63848 Static mannequin.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63848 Static mannequin.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63848 Static mannequin.docx.md",
+   "name": "WI-63848 Static mannequin.docx.md",
+   "title_hint": "WI-63848 Static mannequin.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00033 滞留能力.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00033 滞留能力.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00033 滞留能力.docx.md",
+   "name": "STM-00033 滞留能力.docx.md",
+   "title_hint": "STM-00033 滞留能力.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-4597纸尿裤SAM分布测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-4597纸尿裤SAM分布测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-4597纸尿裤SAM分布测试.docx.md",
+   "name": "STM-4597纸尿裤SAM分布测试.docx.md",
+   "title_hint": "STM-4597纸尿裤SAM分布测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/WI-60236 REL拼接拉断测试.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/WI-60236 REL拼接拉断测试.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/WI-60236 REL拼接拉断测试.pdf.md",
+   "name": "WI-60236 REL拼接拉断测试.pdf.md",
+   "title_hint": "WI-60236 REL拼接拉断测试.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00060 导流性能.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00060 导流性能.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00060 导流性能.docx.md",
+   "name": "STM-00060 导流性能.docx.md",
+   "title_hint": "STM-00060 导流性能.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021面层附着物.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021面层附着物.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021面层附着物.doc.md",
+   "name": "GBT28004.1-2021面层附着物.doc.md",
+   "title_hint": "GBT28004.1-2021面层附着物.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM通液速度(From Nuoer).docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM通液速度(From Nuoer).docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM通液速度(From Nuoer).docx.md",
+   "name": "SAM通液速度(From Nuoer).docx.md",
+   "title_hint": "SAM通液速度(From Nuoer).docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM加压吸收(From Nuoer）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM加压吸收(From Nuoer）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM加压吸收(From Nuoer）.docx.md",
+   "name": "SAM加压吸收(From Nuoer）.docx.md",
+   "title_hint": "SAM加压吸收(From Nuoer）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1001平面扩散实验.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1001平面扩散实验.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-1001平面扩散实验.docx.md",
+   "name": "STM-1001平面扩散实验.docx.md",
+   "title_hint": "STM-1001平面扩散实验.docx"
+  }
+ ]
+}

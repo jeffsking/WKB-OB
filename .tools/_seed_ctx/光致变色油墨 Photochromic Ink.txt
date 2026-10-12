@@ -1,0 +1,72 @@
+# SEED: 光致变色油墨 Photochromic Ink
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+#
+# 全库正文命中 30 页，38 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[光致变色 Photochromic]]  (3 句)
+   • The vault classifies chromic materials **by the stimulus that induces the colour change**, with **photochromic = light-induced colour change**（源：Smart Textiles and Their Applications）. It is one of the **four commercialised colour-change families** — photochromism, thermochromism, electrochromism, ionochromism（源：Chromic Phenomena Introduction and Reversible Colour Change）. 定义待补（引用来源未给出明确定义）：库内各页多以「刺激量分类」方式界定本概念，未见教科书式的单句形式定义。
+   • **Wetness / UV indication in absorbent articles 尿湿与 UV 指示.** 光致变色 novelty printing & textile 可直接对接成人失禁用品的「湿度/UV 指示」智能面层（UV 暴露后变色 → 提醒更换）（源：Chromic Phenomena Introduction and Reversible Colour Change）；Smart Textiles 亦记录 photochromics 用于提示紫外线辐射水平的防晒场景，以及阳光下显色的枕套图案（源：Smart Textiles and Their Applications）。
+- **Supplier base already serving hygiene 已服务卫材的供应面.** CTI 的 Hydro-Chromic（遇水/尿液变色）**专门用于纸尿裤湿显**，客户包括 P&G、Kimberly-Clark；松井色素服务尤妮佳、花王、大王等日系品牌；Intellego Technologies 的湿敏指示器（Wetness Indicator）用于纸尿裤
+   • Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）
+- Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Photochromism Dihydroindolizines
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- Molecular and Supramolecular Systems
+- Smart Textiles and Their Applications
+- Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- Chromism Taxonomy（变色现象分类）
+- Tianjin Security-Chemical（天津塞特瑞科技）
+- 热致变色 Thermoch
+
+--- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]  (3 句)
+   • **1. CTI（Chromatic Technologies Inc.，美国）**——全球领先的特性油墨创新者；**1993 年成立于科罗拉多斯普林斯（康奈尔大学实验室孵化）**，持有**超过 20 项专利、共推出 35 种独特技术**；核心领域为 Thermochromic（温敏）、Photochromic（光敏）、Hydro-chromic（湿敏）油墨的**全品类全球标杆**，客户遍布 **60 多个国家**；主要产品含 Hydro-Chromic（遇水/尿液变透明或变色，**专门用于纸尿裤湿显**）、Thermochromic（可逆/不可逆）、Photochromic（UV 光照变色）、Baro-Chromic（压敏）；产能未公开，但作为全球最大的专业特性油墨公司之一具备工业化大规模生产能力（水基/溶剂基均有）；主要应用为纸尿裤尿湿显示（主要应用）、食品饮料温度指示、智能标签、化妆品包装、防伪包装；主要客户包括 **宝洁（P&G）、金佰利（Kimberly-Clark）、百威、可口可乐**。
+   • **2. 松井色素化学工业株式会社（Matsui Shikiso Chemical，日本）**——百年色素·颜料专业厂商，**1911 年创立**，全球热致变色材料领导者之一，日系纸尿裤品牌高端化的重要供应商；在温敏与光敏领域拥有极高市场份额；主要产品 **Chromicolor®（可逆感温变色颜料，多种温度点）**、**Thermolock®（不可逆感温变色颜料）**，同时提供 Photochromic 系列及 **BPA Free 环保型号**；产能未公开，作为跨国色料巨头工业级月产能属世界顶尖水平；应用含纸尿裤（体温感温/湿显）、食品包装、医疗用品、化妆品、服饰；主要客户为 **尤妮佳（Unicharm）、花王（Kao）、大王（Daio）**等日系品牌及其供应链。
+   • **3. Intellego Technologies AB（瑞典）**——瑞典上市科技公司（股票代码 INT），核心业务基于**光致变色（Photochromic）**技术的颜色指示器，在印度等地设有生产设施；主要产品含**湿敏指示器（Wetness Indicator，用于纸尿裤）**、UVC 剂量计（验证紫外线消毒）、UV 指示器（SmartSunBand，防晒与健康监测）；**据财报 2025 年 Q2 净营业额约 2.17 亿瑞典克朗，正为卫生用品行业大幅扩充印度工厂产能**；应用为纸尿裤湿显、医疗消毒确认、消费类 UV 指示；客户为国际知名纸尿裤制造商、医疗消毒服务提供商及相关代工厂。
+
+--- [[电致变色 Electrochromic]]  (2 句)
+   • **Electrochromism（电致变色）** is colour change induced by an **applied voltage**（通电变色）— one of the chromic classes classified **by what induces the colour change**, alongside photochromic（light）and thermochromic（heat）（源：Smart Textiles and Their Applications）. It is counted among the **four commercialised chromic phenomena** — photochromism, thermochromism, **electrochromism**, ionochromism（源：Chromic Phenomena Introduction and Reversible Colour Change）— and among the **seven chromic mechanisms** name
+   • **Powered indicators are a negative result for disposables.** The smart-textile community's own verdict is that **electrochromic routes are blocked on lifetime / reliability**; the source reads this as a warning to anyone proposing a **powered or electrically-switched indicator on a disposable**, and points to the **passive, power-free alternative** — US20070270773A1 Thermochromic Wetness Indicator（源：Smart Textiles and Their Applications）.
+- **Family context**: it sits among the vault's chromic 
+
+--- [[Tianjin Security-Chemical（天津塞特瑞科技）]]  (2 句)
+   • **2026-08-03**（Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应））：被列为力响应应用落地的**第一采购锚点**；建议路线为「**以其螺吡喃/螺噁嗪原料为起点，联合 OliKrom（定制配方）或高校（华盛顿大学式 3D 打印 / 棉布涂层路线）做配方开发**」（该建议为 ** 假设级**）。
+- **⚠️ 无任何实际接触记录**：库内**无**样品、报价、TDS/SDS、产能数据或送样记录；**全部信息来自公开产品目录与检索**。
+   • Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应） ——
+
+--- [[Molecular and Supramolecular Systems]]  (2 句)
+   • 诚实评价：**不要从本文寻找卫材配方或供应商数据**。它回答"变色为什么可逆、为什么会在基体里漂白"这类问题；具体油墨/微胶囊供应商与指标须回到 Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）。
+   • Photochromism Dihydroindolizines — 同一篇论文的章节级深入拆解页（含逐段页码与原文摘引）
+- Chromic Phenomena Solar Energy and Liquid Crystals — 变色现象总览与可逆变色机理的姊妹综述
+- Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应） — 光致变色材料的供应商与落地指标（把机理页接到选型端）
+- US20070270773A1 Thermochromic Wetness Indicator — τ1/2 与光/热稳定性要求在尿显专利中的落地
+
+--- [[Smart Textiles and Their Applications]]  (2 句)
+   • 1. **Introduction** — the two-part split of the field: *passive smart textiles* change their properties according to environmental stimulation (shape memory materials, hydrophobic or hydrophilic textiles), while *active smart textiles* carry sensors and actuators, detect signals (temperature, light intensity, pollution), decide locally via embedded textile electronics or remotely via cloud and AI, and act through textile-based, flexible or miniaturised actuators (textile displays, micro-vibratin
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (1 句)
+   • Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版） —— （2026-09-29 追加：市场量级、厂商甄别与假设翻转）
+- Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应） —— （2026-09-29 追加：光致/力致/双响应分类边界）
+- Chromic Materials Bibliography（变色材料书籍·温湿力精表） —— 
+- Mechanochromic Materials Technical Review（EN v3, 2026-08） —— 
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels —— 
+- BM Urine Indicator Concept（尿+便双指示概念） —— 
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本） ——
+
+--- [[变色油墨 Color-Changing Ink]]  (1 句)
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+
+--- [[智能织物 Smart Textile]]  (1 句)
+   • **Chromic classification by stimulus** names photochromic (light), thermochromic (heat) and electrochromic (applied voltage) textile applications: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated; photochromic pillow covers revealing a motif in sunlight — all reversing when the stimulus is removed（源：Smart Textiles and Their Applications）。The 2022 survey extends this to seven chromic mechanisms (see table above)（源：Smart 
+
+--- [[热致变色 Thermochromic]]  (1 句)
+   • Directly relevant to the **hygiene chromic-ink programme** — thermal-comfort and wetness indication layers on the outer surface of the article（湿感指示条 Wetness Indicator、Wetness Indicator Ladder（尿湿指示阶梯）、Active Diagnostic Zones（主动诊断分区））. The route sits alongside 光致变色 Photochromic、机械变色 Mechanochromic、电致变色 Electrochromic under Chromism Taxonomy（变色现象分类）. Primary thermo suppliers ranked by hygiene fit: **CTI (Chromatic Technologies)** and **Matsui Shikiso (松井)**（the latter with a formaldehyde caution）; 
+

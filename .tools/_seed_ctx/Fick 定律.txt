@@ -1,0 +1,115 @@
+# SEED: Fick 定律
+# type: concept | 原引用数: 9
+# 原 Cited by 列表:
+#   - Concentration-Dependent Diffusion Methods (Crank Ch.7)
+#   - Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+#   - Diffusion Equations (Crank Ch.1)
+#   - Diffusion in Heterogeneous Media (Crank Ch.12)
+#   - Diffusion in a Plane Sheet (Crank Ch.4)
+#   - Diffusion in a Sphere (Crank Ch.6)
+#   - Mathematics of Diffusion
+#   - Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+#   - Non-Fickian Diffusion (Crank Ch.11)
+#
+# 全库正文命中 14 页，25 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mathematics of Diffusion]]  (5 句)
+   • **EN**: The classic reference for the mathematics of diffusion. 15 chapters cover Fick's laws, analytical and numerical solution methods, concentration-dependent diffusion, non-Fickian diffusion, heterogeneous media, moving boundaries, reaction-diffusion coupling, and simultaneous heat-moisture diffusion — the theoretical foundation for SAP swelling kinetics, absorbent core modeling, and wet migration simulation.
+   • **中文**: 扩散数学经典参考书——15 章完整覆盖 Fick 定律、解析/数值解法、D(C) 变系数扩散、非菲克扩散、复合介质、动边界、反应-扩散耦合、湿热耦合。SAP 溶胀动力学、芯体吸液、湿迁移建模的理论基础。
+   • 1. **Fick 定律与扩散 PDE**（Ch 1）：F = -D dC/dx 是核心假设；∂C/∂t = D∂²C/∂x² 是全书唯一核心 PDE
+2. **恒 D 解析解法**（Ch 2-3）：反射/叠加、分离变量、Laplace 变换；误差函数类与三角函数级数
+3. **三维几何模型**（Ch 4-6）：片层（芯体/湿巾）、柱（纤维）、球（SAP 颗粒）——u=Cr 变换是关键技巧
+4. **D(C) 变系数扩散**（Ch 7-9）：Boltzmann 变换、数值方法、等效扩散系数——SAP D(C) 常呈指数上升型
+5. **D 测量方法学**（Ch 10）：时间滞后法 L=l²/6D 是行业标准；SAP 必须用质量固定参考系
+6. **非菲克扩散**（Ch 11）：Alfrey-Gurnee-Lloyd 三分类——SAP S 形吸液曲线的物理根源
+7. **复合介质**（Ch 12）：串联阻力模型 Σ(lᵢ/Pᵢ)——芯体多层结构建模基础
+8. **动边界/Stefan 问题**（Ch 13）：SAP 溶胀前沿的定量实现
+9. **反应-扩散耦合**（Ch 14）：SAP 
+   • 1. **Fick 第二定律是全书唯一核心 PDE**——所有 14 章都在此框架上展开，SAP/芯体/湿巾建模均基于此。
+2. **SAP 溶胀动力学核心数学技巧是 u=Cr 变换**——球坐标映射到一维线性 PDE，直接借用片层解。
+3. **SAP S 形吸液曲线的物理根源是 Case II→非菲克→Case I 三阶段**——干态玻璃态快速溶剂化到橡胶态慢扩散的过渡。
+4. **时间滞后法 L=l²/6D 是 SAP 行业 D 测量标准**——Daynes 1920, Barrer 1951 确立的行业标准方法。
+5. **SAP 必须用质量固定参考系定义 D**——因溶胀体积剧变，否则 D 值无法比较。
+6. **复合芯体串联阻力模型 Σ(lᵢ/Pᵢ) 是吸水速率建模基础**——每层独立贡献传质阻力。
+7. **SAP 交联网络水固定化使等效 D 下降 (R+1) 倍**——这是 SAP 吸水'慢'的分子尺度原因。
+8. **'湿冷感'是湿热耦合的物理表现**——观察到的吸湿曲线实际是冷却曲线，耦合效应量级显著。
+
+--- [[Diffusion Equations (Crank Ch.1)]]  (4 句)
+   • **扩散数学理论奠基章**——建立 Fick 定律（一维/标量形式）作为数学公理，推导 Fick 第二定律（扩散 PDE），延伸到各向异性介质与多组分情形。SAP 溶胀动力学、芯体吸液速率、湿迁移模型的本原公式均源于此章。
+   • **扩散定义**：扩散是分子随机运动驱动的物质从系统一部分传输到另一部分的过程。
+- **Fick 第一定律**：F = -D dC/dx——传递速率正比于浓度梯度；类比热传导（Fourier 定律）。
+- **D 的浓度依赖性**：稀溶液中 D≈常数；高分子（SAP）中 D(C) 剧烈变化，可跨 3-4 个数量级。
+- **Fick 第二定律**：∂C/∂t = D ∂²C/∂x²（一维恒 D）——全书唯一核心 PDE。
+- **各向异性介质**：Fick 定律仅适用于各向同性介质；复合芯体需扩散张量 D_ij。
+- **推导逻辑链**：物理动机→分子随机行走→统计平均给出净通量→Fick 假设→微元体质量守恒→保守形式→恒 D 化简。
+   • **Fick 定律是扩散数学的唯一核心假设**——SAP 溶胀、芯体吸液、湿迁移、湿巾均匀性模型均基于此。
+- **D(C) 剧烈变化是 SAP 吸液速率非线性化的数学根源**——低吸水比时 D≈常数（线性），溶胀后 D(C) 跨 3-4 个数量级（非线性）。
+- **复合芯体是典型各向异性介质**——MD/CD 性能差异需在模型中用扩散张量取代标量 D。
+- **无对流假设的局限**——湿巾擦拭等强制对流场景需附加对流项。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 吸收芯体
+- Fick 定律
+- 湿迁移 Wet Migration
+
+--- [[Non-Fickian Diffusion (Crank Ch.11)]]  (4 句)
+   • **SAP 'S 形'吸液曲线的物理根源——Alfrey-Gurnee-Lloyd 三分类理论**——SAP 干态（玻璃态）→溶胀（橡胶态）过程中，扩散从 Case II→非菲克→Case I 三个阶段，对应吸液曲线不同段；玻璃态不能用 D(C) 形式 Fick 定律描述。
+   • **Alfrey-Gurnee-Lloyd 三分类**：
+  - Case I（Fickian）：扩散速率 << 松弛速率
+  - Case II：扩散速率 >> 松弛速率（快速溶剂化）
+  - 非菲克：扩散与松弛速率可比
+- **SAP 映射**：干态玻璃态→Case II→非菲克→橡胶态 Case I——三阶段对应 S 形曲线。
+- **物理根源**：SAP 干态是玻璃态（T_g），溶胀后进入橡胶态（降低 T_g）——两区域 D 与机制完全不同。
+- **关键限制**：玻璃态高分子扩散不能用 D(C) 形式 Fick 定律描述；橡胶态一般 Fickian。
+   • **SAP S 形吸液曲线的物理根源是 Case II→非菲克→Case I 三阶段**——干态玻璃态的快速溶剂化（Case II）到橡胶态慢扩散（Case I）的过渡。
+- **玻璃态不能用 D(C) 形式 Fick 定律描述**——这是 SAP 建模的重要限制，需动边界模型（Ch 13）补充。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Non-Fickian Diffusion (Crank Ch.11)
+- Case II 扩散
+- Fick 定律
+
+--- [[Moving Boundaries (Crank Ch.13)]]  (2 句)
+   • **SAP 溶胀前沿=Stefan 相变问题**——数学结构等价于冰融化前沿，可用成熟 Stefan 工具处理。
+- **动边界模型是 Case II/非菲克过渡区的定量实现**——补充 D(C) Fick 定律在玻璃态的不足。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Stefan 问题
+- Non-Fickian Diffusion (Crank Ch.11)
+- 动边界 Moving Boundary
+
+--- [[Case II 扩散]]  (1 句)
+   • Non-Fickian Diffusion (Crank Ch.11)
+
+--- [[Concentration-Dependent Diffusion Methods (Crank Ch.7)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Boltzmann 变换
+- Fick 定律
+
+--- [[Definition and Measurement of Diffusion Coefficients (Crank Ch.10)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Fick 定律
+- 时间滞后法 Time Lag Method
+
+--- [[Diffusion in a Plane Sheet (Crank Ch.4)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 吸收芯体
+- Fick 定律
+- 时间滞后法 Time Lag Method
+
+--- [[Diffusion in a Sphere (Crank Ch.6)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- SAP 溶胀 SAP Swelling
+- Fick 定律
+
+--- [[Diffusion in Heterogeneous Media (Crank Ch.12)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 吸收芯体
+- 复合膜 Composite Membrane
+- Fick 定律
+

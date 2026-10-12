@@ -1,0 +1,65 @@
+{
+ "batch_id": 1,
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_374266deaa15d037a0355649562d9318001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/BNC/BNCforHygieneProduct.pdf.md",
+   "name": "BNCforHygieneProduct.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_c31137ea8bcf1612aea7454c36efd4cb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/PPC/PGA.docx.md",
+   "name": "PGA.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "html_3867e2b60070d7dc3f413086d0b0036e_a9eba83d90be98d8a122a5e0760a9c20001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Supply Base/JYDR-5-热压敏染料生产厂家-河南嘉屹达新材料科技有限公司.html.md",
+   "name": "JYDR-5-热压敏染料生产厂家-河南嘉屹达新材料科技有限公司.html.md",
+   "type": "html"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_cda3ad72e32aa2ababcd66b04d8e6307001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/BNC/01_脱水干燥工艺族谱_一页纸.md.md",
+   "name": "01_脱水干燥工艺族谱_一页纸.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_019fb8bd19a87b6b89223ee32ca5930b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/GDP提升工艺探讨.md",
+   "name": "GDP提升工艺探讨.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_20bbc33d2b5a97feec3cca66b6faaaef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/BNC/02_PEG多元醇_纤维素吸水体系_交叉索引.md.md",
+   "name": "02_PEG多元醇_纤维素吸水体系_交叉索引.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_374dc374695e52d69c0f347205aab2c5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/PPC/G-101 Technical data sheet.pdf.md",
+   "name": "G-101 Technical data sheet.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_d2d05fb7e51b6b61e9e3061be410edf8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Meeting Minutes/Huafeng Group合作会议总结与行动项 1.docx.md",
+   "name": "Huafeng Group合作会议总结与行动项 1.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_de37b179b0d88ecf97fef72d193c9958001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md",
+   "name": "06_BNC应用红线修订说明_20260905.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_51bba7bb1d8809512767c2450e85725d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Projects/BNC/BNC_Hygiene_Feasibility_Slides_EN.md.md",
+   "name": "BNC_Hygiene_Feasibility_Slides_EN.md.md",
+   "type": "markdown"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "batch": "10",
+  "done": [
+    "数值模拟 Numerical Simulation",
+    "润湿 Wetting",
+    "PAA 聚丙烯酸",
+    "层压 Lamination",
+    "纤维 Fibril",
+    "有限差分法 Finite Difference",
+    "Stimuli-Responsive PCM",
+    "流变学 Rheology"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "数值模拟 Numerical Simulation: 引用来源未给出独立定义句 —— 已标 `定义待补（引用来源未给出明确定义）`",
+    "润湿 Wetting: 引用来源未给出独立定义句；且库内「润湿(表面润湿)」与「润湿图谱 Wetting Pattern」为两个不同口径，本页只覆盖前者",
+    "PAA 聚丙烯酸: 无词典式定义句/CAS/结构式 —— 仅有功能式口径 `the most commonly used superabsorbent`",
+    "层压 Lamination: 引用来源未给出独立定义句；层压工艺参数(温度/压力/车速)与结合强度的定量关系库内缺失",
+    "纤维 Fibril: 「fibril」无单一定义句；库内存三个口径(fibre 基材 / 纤维素内部原纤 / 原纤化产物)并存登记；Fibers and Fibrous Materials 原表 Tables 2-3 OCR 丢失",
+    "有限差分法 Finite Difference: 引用来源未给出独立定义句；显式/隐式格式误差量级对比库内缺失",
+    "Stimuli-Responsive PCM: 光学/光电子 PCM(GST,VO2) 与热管理微胶囊 PCM 两个口径库内未合并；PCM 自身相变焓/相变温度无定量数据",
+    "流变学 Rheology: 仅有命名学定义(Bingham, rheos) + 元件模型框架，无完整形式化定义"
+  ],
+  "count": 8
+}

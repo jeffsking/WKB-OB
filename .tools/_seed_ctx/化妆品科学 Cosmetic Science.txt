@@ -1,0 +1,143 @@
+# SEED: 化妆品科学 Cosmetic Science
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cosmetic Science and Technology
+#
+# 全库正文命中 103 页，166 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[断裂力学 Fracture Mechanics]]  (4 句)
+   • **粘弹性耗散而非界面热力学主导强度。** , and "the value of ψ is usually far higher than that of E and the energy dissipated can then be considered as the major contribution to the adhesion strength G"（源：Adhesive Handbook Part 2 Fundamental Aspects）. ⇒ peel rate 与温度是主变量。
+- **柔性胶层通过扩大断裂过程区降峰应力。** "Flexible or semirigid adhesives produce joints having higher short-term strength and fracture toughness compared to rigid adhesives."；柔性胶层扩展 fracture process zone 以降低峰值应力（源：Adhesive Handbook Part 2 Fundamental Aspects / 
+   • **芯体点胶的速率-温度窗口。** G = G₀·ψ(v,T) 的峰值位置决定「**低速不漏、高速不脱层**」；热熔胶中蜡/树脂/弹性体比例调节本质就是设计 ψ(v,T)（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **SAP 层热熔胶到浆纤维的锚固。** 机械互锁是橡胶-织物胶接的主导机理，直接对应 SAP 层热熔胶点到浆纤维的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **木浆纤维方向性。** 纤维倾角 0°→45° 使断裂韧性翻倍、10–30° 存在韧性最小值 ⇒ 高取向纤维束端头胶接强度最低（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **湿态失效。** 水浸泡后有机涂层粘附力最高损失 **85 %** ⇒ 耐水解是芯体层合/回渗控制的核心（源：Adhesive Handbook Part 2 Fundamental Aspects）.
+- **非织造布撕裂/穿刺评价。** 非织造布拉伸断裂、撕破
+   • 本库口径的**形式化定义与适用范围**缺失 。
+- LEFM 适用边界：K_Ic / G_Ic 建立在**小范围屈服与线弹性假设**上；非织造布的大变形、纤维拔出与桥联机制不满足该假设，**只能作定性参考**（源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）。
+- 本库未见卫材专用 K_Ic / G_Ic 实测值 。
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[湿巾 Wet Wipes]]  (4 句)
+   • **Compliance layers（合规层级，CN）**
+- GB 43631-2023 is the **mandatory chemical-safety floor**（强制国标，工信部归口）for children's paper products; it covers wipes, diapers and tissue（生活用纸品）and sets one shared floor table across heavy metals, FWAs, acrylamide, formaldehyde, solvents, preservatives, phthalates and aromatic amines（源：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范））。
+- GB/T 27728.2-2024 layers baby-wipe requirements on top of GB/T 2772
+   • **Labelling and lotion wording（标签与用液表述）**
+- "Two-mode date marking + no medical claims"（日期双模式 + 无医疗用语）is the 30-year-stable skeleton of CN cosmetic labelling; the wipes-lotion ingredient declaration（GB/T 27728.2 INCI descending order）is its modern extension（源：GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签））。
+   • Formulation cross-over: the skincare-formulation reference covers formulation design, ingredient selection, processing and stability, and cross-references hygiene products in **moisturising / care wet-wipes formulation** and **nonwoven–skin interface comfort assessment**（源：Cosmetic Formulation of Skin Care Products）。
+- Related concepts: Nonwoven 非织造布、乳化剂 Emulsifier、保湿剂 Humectant、防腐剂 Preservative（源：Cosmetic Formulation of Skin Care Products）。
+- Shared chemical floor with diapers: GB/T 28004.1-202
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[湿迁移 Wet Migration]]  (4 句)
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **6. 干燥过程中的迁移（另一口径）：** 干燥中粘合剂迁移形成**表富里贫（binder-rich skin / starved core）**，导致**分层风险**（源：Chemical bonding）。同一章对聚合物型增塑剂的表述为 "less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+   • ：湿迁移的**定义句与量纲口径**（含水量 / 饱和度 / 迁移通量）在引用来源中均未给出。
+- ：本库尚无把「湿迁移」与回渗（rewet）定量关联的摘录；湿迁移 ≠ 回渗，引用时不可混用（源：Diffusion Equations (Crank Ch.1)）。
+- ：微胶囊语境下的迁移表述在摘录中**被截断**（"Migration is the hard …"），原文残缺，不予补写（源：Microencapsulation）。
+- ：助剂迁移「未被量化」——原章只定性给出 less susceptible to migration / less extractible，**未给出迁移速率模型或萃取限量数值**（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+- ：GB/T 34405-2017 的 LOQ 数值在摘录中被截断（LOD 0.005 mg/kg 可读，LOQ 不可读）（源：GB-T 34405-2017 Determination of Acrylamide Migration 
+   • **提供正文摘录的库内页面**
+- Numerical Methods for Diffusion (Crank Ch.8)
+- Chemical bonding
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+- Blizzard Core（Blizzard 芯体结构）
+- 可降解生物基材料与薄且强芯体技术深度解析
+- Microencapsulation
+
+--- [[电子纺织品 E-textile]]  (4 句)
+   • The vault characterises the e-textile form only indirectly. Wearable electronics is described as developing along **two complementary directions** — **thin films** (reducing one dimension) and **fibres** (reducing two dimensions)（源：Wearable Electronics (National Science Review 2023)）。The fibre form is the e-textile substrate; its defining property in the vault is **washability**, stated as the key characteristic that separates e-textiles from conventional electronic devices（源：Wearable Electronic
+   • **Fibre form as a complementary route.** The vault source frames thin-film and fibre as the two mainstream paths of wearable electronics, not competitors but complements — the fibre path reduces two dimensions relative to a bulk device（源：Wearable Electronics (National Science Review 2023)）。
+   • **Washability as the differentiator.** Because the device is carried *in* a textile, laundering durability rather than electrical function alone is what separates it from conventional electronics; the source states fibre-form devices are washable hundreds of times（源：Wearable Electronics (National Science Review 2023)）。
+   • Wearable Electronics (National Science Review 2023)
+- Wearable Sensors Fundamentals Implementation and Applications
+- Smart Textiles & Wearables
+
+--- [[Cosmetic Science and Technology]]  (4 句)
+   • *Cosmetic Science and Technology Series — CRC Press · 15 章提取 · P2 轻量索引*
+   • **EN**: A multi-volume series covering cosmetic and drug preservation, cosmetic analysis, industry science and regulatory foundations. Cross-references with hygiene products in preservative systems, nonwoven substrate hygiene requirements, and product safety regulatory frameworks.
+   • **中文**: 化妆品科学与技术多卷系列——覆盖化妆品与药物防腐、分析、行业科学与监管基础。与卫生用品的交叉点在于防腐体系、非织造基材卫生学要求与产品安全性监管框架。
+   • 湿巾 Wet Wipes
+- 防腐剂 Preservative
+- Nonwoven 非织造布
+- 化妆品科学 Cosmetic Science
+
+--- [[AUL 加压吸水率]]  (3 句)
+   • 同列概念（源：Research Advances in Superabsorbent Polymers (Polymers 2024)）：SAP（高吸水树脂）、吸收芯体、PAA 聚丙烯酸、CRC 离心保持能力。
+- 同列概念（源：Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）：SAP（高吸水树脂）、表面交联 Surface Cross-linking、蒙脱土 Montmorillonite。
+   • AUL（加压吸水率）是 SAP（高吸水树脂）的评价项之一，与 CRC 离心保持能力、表面交联 Surface Cross-linking 等在 SAP 综述文献中并列出现（源：Research Advances in Superabsorbent Polymers (Polymers 2024)、Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）。
+- 本库同主题页面（交叉引用，未据其取数）：承压吸收 AUL、SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）、SAP（高吸水树脂）。
+   • Research Advances in Superabsorbent Polymers (Polymers 2024)
+- Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)
+- 承压吸收 AUL
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAM Testing Methods（超级吸水材料测试方法）
+
+--- [[纺粘 Spunbond]]  (3 句)
+   • **硬件基础 —— 纤维挤出（fiber extrusion）**：纺粘 / 熔喷的硬件基础即熔体纺丝 —— "hundreds of continuous filaments extruded from the same die and drawn to hair-sized thickness"（p.285）；"crimped for added bulk or made into staples" 对应短纤 → 针刺 / 热风无纺布路线。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- **模口膨胀（die swell）**：熔体黏弹性导致模口膨胀（p.285），决定纺丝孔出口的初始纤维直径与射流稳定性 —— 这是"**口模孔径 ≠ 纤维直径**"的根因。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- **速度定义取向（speed-defined orientation）可直接为纺粘面层设
+   • **拉伸比、冷却气流、纺丝甬道等专有参数**本章（Ebewole Ch11）未覆盖 。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- 熔喷纤维直径、气流速度、驻极工艺等参数未见于 Seymour §17.1，需另查 。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- 三纤维配比 55–65 / 20–30 / 12–18 wt% 为**工作假设**，非实测验证 。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination）
+- 上述数据在来源中的**页码待核**（除已标 p.285 / p.299）。
+   • Polymer-laid web formation（纺粘作为一体化熔融挤出成网；§4.3–4.7 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites、Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins（纺粘 / 熔喷 MFR 树脂分野）
+- Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing、Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification（纤维挤出硬件与分子描述符）
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres、Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres、Manufactured F
+
+--- [[Ebewole Polymer Science Ch08 Copolymerization]]  (3 句)
+   • **Mayo–Lewis equation (1943)** — 本章方程即 Mayo–Lewis 共聚方程，高分子动力学的里程碑。
+- **Alfrey–Goldfinger (1952) 与 penultimate model（倒数第二单元模型）**：本章只采用 **terminal model**，假设末端单元"almost exclusively"决定反应特性；但许多实际体系中 penultimate unit 效应显著 —— 教材为教学简化，工业建模需修正。
+- **"r₁r₂ > 1 无实证"的时效性**：教材（1997）断言无 r₁r₂ > 1 案例；1990s 后活性/可控自由基聚合文献中已出现 r₁r₂ 略大于 1 的体系，此陈述在当代需更新。参见 Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization 的链转移与分子量控制部分。
+- **Azeotrope 存在判据缺失**：教材以图（Figure 8.2）示意恒沸点为曲线交点，但**未给出存在判据**（需 r₁、r₂ 同大于 1 或同小
+   • 1. **SAP 交联剂分布 交联网链均匀性.** 聚丙烯酸（钠）系 SAP 由丙烯酸与少量**三官能交联单体**（本章 §I 列举的 "trifunctional monomer incorporated into the polymer to ensure cross-linking"）共聚而成；r₁、r₂ 决定交联单元沿链的分布均匀性，进而决定**凝胶模量与吸液倍率**的平衡。参见 Acrylic-Based Superabsorbent Polymers。
+2. **耐盐单体共聚 序列与组成控制.** 引入 AMPS 等含磺酸基共聚单体以提升耐盐性时，其与丙烯酸的竞聚率差异直接决定共聚组成；若 r 差异大，须按 §IV 控制转化率或补料，否则批次内组成漂移导致吸液性能波动。参见 AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体。
+3. **APAO / 烯烃共聚热熔胶 组成决定粘弹窗口.** 非晶态聚 α-烯烃（乙烯-丙烯-丁烯共聚）用于卫材热熔胶/结构胶，其**共聚组成与序列分布**决定 Tg、软化点与开放时间；本章的组成漂移分析对应胶黏剂批间一致性问题。参见 APAO（非
+   • Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch05 Polymer Modification
+- Ebewole Polymer Science Ch07 Chain-Reaction Addition Polymerization
+- Acrylic-Based Superabsorbent Polymers
+- APAO（非晶态聚α-烯烃）
+- AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体
+
+--- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]  (3 句)
+   • **现有技术**：ES 纤维（乙烯-醋酸乙烯共聚物）气流成网无纺布、高蓬松热轧无纺布（源文举例 Sandler ADL 德国、PGI ADL 美国）；功能 = 快速俘获 → 临时储液 → 均匀扩散至芯体 → 防反渗/结团。
+- **核心价值主张**：纳米纤维三维多孔结构具有**天然毛细管梯度效应**，可实现 *"零压力快速导流"*；⚠️ **孔径对比**：传统 ES 纤维无纺布 **10–50 µm** vs 纳米纤维膜 **0.1–5 µm**。
+- **已有研究支撑（源文列举）**：
+  - 2024 ScienceDirect：溶液喷射纺丝（SBS）构建**全微纳米纤维气凝胶**作纸尿裤芯层，三维蓬松网络 + 润湿梯度，吸液速度与均匀性优于传统绒毛浆/SAP 芯体。
+  - 2024 X-MOL：微纳米纤维三维抗菌海绵用于纸尿裤芯层（快吸 + 均匀保液 + 抗菌三功能）。
+  - 2016 ResearchGate：**醋酸纤维素（CA）**电纺纳米纤维用于**女性卫生巾吸收芯体**，吸液倍率与锁液能力优于传统材料。
+- **实施路径**：① 短期 1–2 年 —— 现有 ADL
+   • **现有技术**：绒毛浆 + SAP 复合芯体（传统厚款）；SAP + 无纺布包裹芯体（超薄型，源文举例帮宝适一级帮）；指标 = 吸液倍率、吸液速率、**反渗量**、保液率、芯体完整性（不结团断层）。
+- **切入点**：
+  - **方向 A SAP 增强载体** —— 纳米纤维网作 SAP 颗粒的**包裹/固定骨架**，防止吸液膨胀后位移（**gel blocking**），保持结构完整性；源文比喻 *"钢筋水泥"中的钢筋*。
+  - **方向 B 全纳米纤维气凝胶芯体（颠覆性）** —— 摒弃 SAP 与绒毛浆，用**孔隙率 >95%** 的电纺气凝胶作吸收主体；优势 = 超轻薄（**厚度可降至传统芯体的 1/3**）、可完全生物降解（PLA/CA）、**无 SAP 凝胶阻塞**；⚠️ 挑战 = *"单次吸液总量可能不及 SAP 体系"*、成本较高、产业化产能待提升。
+  - **方向 C NCN/SAP 复合芯体** —— 纳米纤维素（电纺或 **TEMPO 氧化法**制备）与 SAP 混合，提高力学强度与保液稳定性；2025-05 ScienceDirect 报道 NCN-S
+   • **市场规模与成本**：所有金额（$112M / $153M / $150M / $910M、$300 亿 / $120 亿 / $80 亿 / $40 亿 / $200 亿 / $900 亿）与 **"3–10 倍"成本倍数**均为**源文汇编值**，**未经本库独立核验**；本页**只记量级与口径警示**，**不作投资/采购依据**。
+- **供应商名录**：Elmarco / Inovenso / Contipro / Kato Tech / Donaldson / 北京永康乐业等为**源文列举**，**不构成合格供应商结论**，**不落价格与商务条款**。
+- **竞品信息**：宝洁 DryTech、尤妮佳 Moony 3D Mesh、帮宝适一级帮等**按原样登记为技术举例**，**不转述为竞品对标结论**。
+- **IP 判断**：*"K-C / P&G / Unicharm 可能已有未公开的内部研发"* 是**源文推测**，**不作事实引用**。
+- **源文性质**：自陈为**多源汇编**（Nature Reviews Methods Primers 2024、Advan
+
+--- [[GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）]]  (3 句)
+   • Historical CN standard for **cosmetic labels**（化妆品通用标签，1995 版）— defines the two-mode date marking and the no-medical-claims principle that survives (in updated form) in today's cosmetic labeling regime; relevant to wipes because baby-wipe lotion labeling borrows cosmetic vocabulary.
+   • GB 5296.3-1995 (replacing the 1987 original) applies to labels on cosmetic sales packages in China. Six mandatory blocks: product name, manufacturer identity (with importer/agent details for imports), net content, date marking — in one of exactly two modes (production date + shelf life, or batch number + use-by date) — licence and standard numbers, plus special-use approval numbers for special-function cosmetics. Two principles remain influential: labels must never use medical terminology or dru
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 来源：GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）（其原料标注要求被 7.2 引用）
+

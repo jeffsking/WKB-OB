@@ -1,0 +1,35 @@
+# SEED: 羧甲基纤维素 CMC
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Derivatives
+#
+# 全库正文命中 7 页，8 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]  (2 句)
+   • 发明名称（韩文原题）：**나노 셀룰로오스와 카르복시메틸 셀룰로오스에 전분을 가교시켜 제조한 고흡수성 흡수체 및 이의 제조 방법**（以淀粉交联纳米纤维素与羧甲基纤维素制得的高吸水性吸收体及其制造方法）。摘要（(57)）逐字要点：**氧化淀粉的醛基（aldehyde group）与羧甲基纤维素的羟基（hydroxyl group）缩醛交联（acetal crosslinking）结合**的高吸水性吸收体及其制造方法。
+   • 独立权利要求 6 逐字：包含**淀粉、羧甲基纤维素及球形纳米纤维素**，其中所述淀粉的醛基与所述羧甲基纤维素的羟基**缩醛交联**结合而成聚合物 **(A)**；以及所述淀粉的醛基与所述球形纳米纤维素**缩醛交联**结合而成聚合物 **(B)** 的高吸水性吸收体。
+
+--- [[Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）]]  (1 句)
+   • **一种不含丙烯酸酯、且不使用外加化学交联剂的生物基高吸水体**：以**氧化淀粉**（oxidised starch，含**醛基** aldehyde group）为交联桥，与**羧甲基纤维素**（carboxymethyl cellulose, CMC）的**羟基**（hydroxyl group）、以及**球形纳米纤维素**（spherical nanocellulose, O-CNF）的羟基发生**缩醛交联**（acetal crosslinking）形成三维网络。本库中该方案的首个（也是目前唯一）来源是 **KR 10-2205294 B1**（아시아나노텍 주식회사（Asiananotech）），其权利要求同时要求两条交联产物：**聚合物 A**（淀粉–CMC）与**聚合物 B**（淀粉–纳米纤维素）。
+
+--- [[可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）]]  (1 句)
+   • 中国制浆造纸研究院（CNPPRI）提出的**双组分分工**型可降解高吸水树脂：**纳米纤维素（NC，0.5–20 wt%）负责补强度 + 吸水保水**，**可降解天然高分子（羧甲基壳聚糖/壳聚糖季铵盐/糊化玉米淀粉/海藻酸钠/羧甲基纤维素钠，5–40 wt%）负责供降解**，以各自添加量拆开「可降解高分子加多 → 机械强度下降」的两难。
+
+--- [[CMC-Na CA CNF SAP original article.pdf]]  (1 句)
+   • **Material 材料**: Sodium carboxymethyl cellulose (**CMC-Na**) as the absorbent body; **cellulose nanofibers (CNF)** as the structural scaffold; **citric acid (CA)** as the crosslinker adding carboxylate sites.（材料：羧甲基纤维素钠（CMC-Na）为吸水主体；纤维素纳米纤丝（CNF）为结构骨架；柠檬酸（CA）为交联剂并引入羧酸位点。）
+- **Process 工艺**: homogeneous mixing → freeze-drying (lyophilization, 48 h) → **160 °C thermal cross-linking** to form a robust network.（工艺：均匀混合 → 冷冻干燥（48h） → 160°C 热交联成网。）
+- **Motivation 动机**: conventional SAPs are petroleum-ba
+
+--- [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]]  (1 句)
+   • A 2010 university application for a **CMC / acrylic / organo-modified-montmorillonite nanocomposite superabsorbent**（羧甲基纤维素-丙烯酸类-有机蒙脱土纳米复合树脂）made by in-situ intercalation grafting — the earliest "clay-reinforced biodegradable SAP" anchor in this batch, and its **130 g/g saline uptake + 13× gel strength** pair is the strongest published-cellulose-SAP number set in the library so far. 立足农用保水剂，但其「无机纳米片层补强凝胶强度」机理对芯体用纤维素基 SAP 有直接参考价值。
+
+--- [[Cross-linked Cellulose and Derivatives]]  (1 句)
+   • 父书 Parent book：Absorbent Technology
+- 概念 Concepts：SAP（高吸水树脂）、绒毛浆（Fluff Pulp）、吸收芯体、羧甲基纤维素 CMC、回渗 Rewet、毛细压力 Capillary Pressure
+
+--- [[SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）]]  (1 句)
+   • **可水洗 SAF 面料**：已商业化，**>250 次洗涤循环、40 次洗涤后保持 >80% 吸收性能**；启示是可重复使用尿裤/失禁产品为潜在差异化市场（**SAP 无法提供可水洗方案**）。
+- **Janus 三层结构**（南京农业大学 2026）：醋酸纤维素/β-环糊精顶层 + 羧甲基纤维素/PVA/柠檬酸中层 + 醋酸纤维素底层；**毛细压差驱动定向导液、"只进不出"**；中层吸水率 **1079%**；应用为冷鲜鸡肉保鲜（货架期延长一倍）。启示：**导液+储液的分层设计理念可借鉴到纸尿裤芯体**。
+- **静电纺丝抗菌高吸水纤维**：东莞苏氏 2025 专利（PVA 基 + 改性伊利石 + 气凝胶）；另有壳聚糖基三层结构（木棉纤维+竹纤维+改性蒙脱土+PVA 疏水透气表层 / 壳聚糖+丙烯酸缩聚+海藻酸抗菌吸水微球），解决**吸水后透气性变差**问题。
+- **绿色生物基 SAF 路径**：超支化结构（天然纤维 + 钛酸四正丁酯酯化 + 支化接枝，吸水 **>360 g/g**，研究阶段未商业化）；碱化醚化法（纤维素短纤维直接改性，**60–100 g/g**，纤度 1.
+

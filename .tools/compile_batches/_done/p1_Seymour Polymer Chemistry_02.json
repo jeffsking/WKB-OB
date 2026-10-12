@@ -1,0 +1,45 @@
+{
+  "batch": "p1_Seymour Polymer Chemistry_02",
+  "book": "Seymour Polymer Chemistry",
+  "done": [
+    "Seymour Polymer Chemistry Ch08 Free Radical Chain Polymerization.md",
+    "Seymour Polymer Chemistry Ch09 Copolymerization.md",
+    "Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers.md",
+    "Seymour Polymer Chemistry Ch11 Inorganic-Organic Polymers.md",
+    "Seymour Polymer Chemistry Ch12 Inorganic Polymers.md",
+    "Seymour Polymer Chemistry Ch13 Fillers and Reinforcements.md",
+    "Seymour Polymer Chemistry Ch14 Plasticizers and Additives.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "Seymour Polymer Chemistry Ch08 Free Radical Chain Polymerization.md",
+      "issue": "源文件未标注出版年份，date_published 取 0（与 Ch01-Ch07 兄弟页一致）。Table 8.2 的 kd 与 Ea 单位在抽取件中丢失，本页按原书惯例推定为 s⁻¹ 与 kcal/mol，已标 [待验证]。原文同章出现 'Rp = kpM^(1/2)'(line 76) 与 'Rp = kp[M](fkd[I]/kt)^(1/2)'(line 163) 两种写法，本页采用展开式。'自由基聚合占约 50%' 的统计归因于 Ch.7 Table 7.1，本章未独立给出来源，已标 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch09 Copolymerization.md",
+      "issue": "源文件 §7.2 公式汇总将共聚物组成方程简写为 'd[M1]/d[M2] = M1/(M2)'(line 299)，与 §9.1 完整式(line 59)不等价，本页采用完整式并已在 Methodology Critique 记录。SBR 800 万吨对应 1995 年，TPE 150 万吨/50 亿美元未标年份，两者不可直接比较。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers.md",
+      "issue": "源文件 §10.7-10.8 与 §10.9-10.10 小节标题把核酸与天然橡胶混排(line 165/175)，本页按内容归属整理，未强行对应小节号。DS=1.5 的性质分界为经验判据，原文未给实验依据，已标 [待验证]。'kraft 更环保'无排放数据支撑，已标 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch11 Inorganic-Organic Polymers.md",
+      "issue": "Table 11.1 键能单位在抽取件中丢失（推定为 kcal/mol），已标 [待验证]。源文件 §4 Q1 称 PDMS Tg ≈ −125 °C 'far below' PE −120 °C(line 185)，两者仅差 5 °C 且 PE Tg 文献值争议大，该对比句不宜作定量引用，已标 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch12 Inorganic Polymers.md",
+      "issue": "Table 12.3 第 3 行把『三元环 Si₃O₉⁶⁻』的代表标为绿柱石，而绿柱石经典阴离子为六元环 Si₆O₁₈¹²⁻（同表第 5 行），属源表瑕疵，已标 [待验证]。'古教堂玻璃下厚上薄证明玻璃流动'(line 125) 为常见误传，本页已在批判中限定。水泥 'lime (CaO, 60%)' 的口径未说明是熟料化学组成还是配料比，已标 [待验证]。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch13 Fillers and Reinforcements.md",
+      "issue": "Mooney 方程源文写作 'η = η₀(2.5c/(1 − βc))'(line 65)，在 c→0 时不趋于 η₀，与 Einstein 极限不自洽，引用前须回原书核对，已标 [待验证]。'k → 0.5（双向布）'来自报告 Step 4 表格与 RIA 卡片，非原文逐字表述，已标 [待验证]。SBR 100→4000 psi 未说明对照条件，不可外推。链接 [[06_SSMMS无纺布技术研究报告.md]] 因源文件名为双后缀 '....md.md'，按库内既有页面惯例采用带 .md 的链接文本。"
+    },
+    {
+      "page": "Seymour Polymer Chemistry Ch14 Plasticizers and Additives.md",
+      "issue": "源文件多数引用自述为『约 line』（approximate），非精确行号。UV 能量 '100 to 72 kcal'(line 105) 单位口径缺失（按 200-400 nm 换算上限应约 143 kcal/mol），已标 [待验证]。'人均年摄入约 2 g 外增塑剂'(line 73) 未给评估年份/地域/方法，不宜用于当前合规论证，已标 [待验证]。Sb₂O₃+TBPA 协同数据来自聚酯体系，不可外推到聚烯烃。"
+    }
+  ],
+  "count": 7
+}

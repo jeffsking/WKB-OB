@@ -1,0 +1,134 @@
+# SEED: 离子强度 Ionic Strength
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Ancient Organic Dyes and Pigments Chemistry
+#   - Hydrogel-based Superabsorbent Polymers
+#
+# 全库正文命中 176 页，267 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hydrogels in Regenerative Medicine]]  (5 句)
+   • Hydrogel identity = a 3D polymeric network that absorbs water/biological fluids; **cross-links are mandatory** precisely to stop the hydrophilic chains dissolving in the aqueous phase.
+- **Physical vs chemical cross-linking is the central trade-off**: physical gels form by ionic interaction, hydrogen bonds, coordination bonds, hydrophobic interaction, crystallisation or protein interaction, are **reversible** (re-gel on returning to initial pH/temperature/solvent) and are **generally unstable an
+   • **Ionic charge and side groups 离子电荷与侧基**
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • Natural polymers bring biological compatibility and inherent biodegradability (collagen, silk, gelatin, fibrin, lysozyme, Matrigel, elastin-like polypeptides; HA, dextran, agarose, chitosan; hybrid pairs; DNA). Synthetic polymers win on **reproducible physical and chemical properties** and tunability of block structure, molecular weight, mechanical strength and biodegradability.
+- Biodegradation rate should coincide with new-tissue regeneration rate at the defect site — a design requirement, not
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (4 句)
+   • → **永远是"形态保持"与"bonding strength"的平衡**：温度越低越保形，但 bonding 强度有风险。
+   • 1. 先向热风厂（延江）索取**当前的烘箱设定温度** —— 注意：**熔点 130 ℃ 只是材料属性，不是工艺温度**；设定温度可能高于熔点（如 135 ℃）。
+2. **设定温度 ≠ 实际温度**：只能监控设定温度，两者之间可能存在 **2–5 ℃** 偏差；这个 delta 正是流平与否的关键。
+3. 在产线上**以设定温度为基准往下调**，利用连续运行时烘箱的降温过程**分段收样**（例如跑 130 ℃ 收一批、降到 128 ℃ 再收一批、126 ℃ 再收一批），共 **3 批**。
+4. 三批样送实验室测**拉伸强度**；**只要 bonding strength 能接受，就取低温样** —— 低温样形态保持最好。
+5. 若热风厂对烘箱能力有信心（设定即实际），仍应**额外做出更低温度的样品**做对照。
+   • **三叶形纤维（尤其 homo PET）加得越多，中间层的 bonding strength 越不确定** —— 这是本平台**尚未解决的关键未知**。
+- **温度是根因**：不同聚合物熔点差异大（PP vs PET / homo PET）→ 现有加工温度下，异形截面容易被"流平"，且层间粘合不足。
+- **提出的解法**：**工程改性 PP，把加工温度降到接近 130 ℃（即 PE 的熔点）**，从而与现有 bicomponent / TBCW 体系兼容 —— 本方判断"近期应可行"，但**仍在推进中**。
+   • ✅ **验证记录（2026-09-29）**：+15% 为**理论推算**，非实测；"PP 改性至 130 ℃"**仍未落地**；"中间层 bonding strength 未知"是本方自述的缺口 [待验证]。参见 Ultrasonic Bonding of PET-Containing Topsheet、皮芯复合纤维、ADL（导流层）。
+
+--- [[Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure]]  (4 句)
+   • Subdivision given by the source (Ch.3, p.60): **Primary bonds 主键** — a. Ionic; b. Covalent; c. Metallic. **Secondary bonds 次键** — a. Dipole; b. Hydrogen; c. Induction; d. van der Waals (dispersion).
+   • **Ionic bond 离子键** — "The bonding force in sodium chloride is a result of the electrostatic attraction between the two ions." (Ch.3, p.61). Exception in polymers: "Ionic bonds are not common features in polymeric materials. However, divalent ions are known to act as cross-links between carboxyl groups in natural resins. The relatively new class of polymers known as ionomers contain ionic bonds." (Ch.3, p.61)
+- **Covalent bond 共价键** — "Bonds formed by electron sharing are called covalent bonds." 
+   • **Pauling chemical-bond theory (1930s–40s)** — the primary/secondary bond dichotomy derives from it.
+- **London dispersion (1930)** — the quantum-mechanical explanation of van der Waals forces.
+- **IUPAC three-level structure framework (1958)** — primary / secondary / tertiary; the source follows it strictly.
+- **Flory polymer physics** — the relation between physical properties and the aggregate effect of secondary bonds is a cornerstone.
+- **Tension: bond strength vs. aggregate effect 键强 vs. 聚
+   • 1. **Secondary bonds and thermal bonding windows 热轧/热风粘合窗口.** 聚烯烃（PE/PP）非极性，链间只有 van der Waals 力（Table 3.3: 0.08–4.0 kJ/mol）；其熔点却因长链聚合效应而高（Example 3.1）。这解释了热轧粘合必须把纤网加热到接近 Tm 才能使界面链段互相扩散缠结——粘合强度来自"链缠结 + 次键重建"，而非化学键。参见 Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins。
+2. **Hydrogen bonding in cellulosics 纤维素材料的氢键.** 绒毛浆、纤维素纤维的性质由氢键（≤50 kJ/mol，温度依赖性强）主导；这是纤维素亲水、吸湿并在润湿时强度下降的结构根源。
+3. **Ionic cross-linking and SAP 离子交联与超吸水性树脂.** "divalent ions are known to act as cross-links between carbo
+
+--- [[Hydrogel-based Superabsorbent Polymers]]  (4 句)
+   • 从"化学合成"视角补全 SAP 谱系：以聚丙烯酰胺/聚丙烯酸及生物基多糖为骨架，交联密度+离子强度+温度三参量精确调控吸水/保水/耐盐/耐油性能，为下一代智能响应型 SAP 提供路线。
+   • **水凝胶 SAP 定义与优势**：吸水后体积膨胀数百倍，兼具高吸水/保水、形状恢复、低刺激性、生物相容性；相比传统 SAP，在保水性、耐盐性、耐油性及结构稳定性方面更具优势。
+- **合成路线**：
+  - 化学交联（化学交联剂）：常用聚丙烯酰胺、聚丙烯酸等合成高分子，或纤维素、淀粉等生物基多糖。
+  - 物理交联（氢键、共价键等物理作用力）：如壳聚糖与海藻酸钙、纤维素的物理交联，具有可降解性。
+  - 复合改性：与纳米材料（如纳米纤维素）或功能高分子复合，增强保水性、机械强度与缓释性能。
+- **性能影响因素**：
+  - **交联密度**：低交联度 → 吸水性高但结构稳定性差；高交联度 → 保水性好但吸水性受限；存在最优交联密度。
+  - **亲水基团分布**：影响水分子扩散速率与凝胶骨架形成。
+  - **离子强度**：电解质（如 NaCl、CaCl₂）影响吸水膨胀性能，高离子强度会降低吸水性。
+  - **温度**：部分水凝胶具有温度响应性，在特定温度下发生相变，释放或保持水分。
+- **改性策略**：表面接枝改性、共聚改性、纳米复合改性，提升耐盐性、耐油性、缓释性能。
+- 
+   • 1. **水凝胶基 SAP 定义**：以亲水聚合物为骨架、经交联形成三维网络，具有吸水后维持结构不溶胀不崩解的特性，兼具高吸水/保水与形状恢复能力。
+2. **合成路线多样化**：化学交联、物理交联及生物基/合成高分子复合是三大主流路线；常用单体覆盖聚丙烯酰胺、聚丙烯酸及纤维素、淀粉等生物基多糖。
+3. **吸水性能调控机制**：吸水性与交联密度、亲水基团分布、离子强度及温度直接相关，可通过表面接枝、共聚、纳米复合等改性提升吸水性、保水性及耐盐/耐油性能。
+4. **应用与方向**：应用于卫生用品、农业保水、食品保鲜、药物缓释、水处理及传感器等领域；当前研究聚焦提高吸水速率、增强耐盐/耐油性、降低成本，并探索基于生物基原料的绿色水凝胶 SAP。
+   • 父书：Absorbent Technology
+- 概念：水凝胶 Hydrogel · SAP（高吸水树脂） · 生物基单体 Bio-based Monomer · 交联密度 Crosslink Density · 离子强度 Ionic Strength
+- 相关章节：Acrylic-Based Superabsorbent Polymers · Cross-linked Cellulose and Its Derivatives · Fibers and Fibrous Materials
+- 智能材料：Stimuli-Responsive Polymer Materials (Nature Materials Review) · 温度响应材料
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (4 句)
+   • **Speciality yarns 特种纱线** are obtained either from chemically modified polymers by melt spinning, or by physical modification and dedicated equipment (p.360). The family covered is deep-dyeable and cationic-dyeable, **antistatic 抗静电**, **flame-retardant 阻燃**, **hollow 中空**, **microporous 微孔**, **shaped cross-section 异形截面** and **microfibre 超细纤维**. The chapter is explicit that successful commercialization of a new variety depends on **technical capability and favourable market conditions alike** 
+   • 1. **End-group chemistry drives dyeing** (p.362): "The amino end groups in nylon 6 have a predominant effect on dye pick-up when dyed with acid dyes". Table 14.1 maps amino end-group content of **10–130 eq/t** to shades from light through ultra-deep.
+2. **Process windows are shared** (p.369): "except for the type and amount of stabilizer, light, ultra-deep and cationic dyeable nylon polymers can be produced under very similar polymerization temperature and total vapour pressure". 改性成本低、产业化友好。
+3.
+   • Statement of the problem (p.374): "synthetic fibres are poor conductors… create problems related to electrostatic charge". Three routes (p.374): "Chemical modification… Physical blending… Electrical conducting materials such as carbon, metal or metal oxide powders are added". Chemical bonding gives the best wash durability, physical blending the worst, and conductive particles need **conjugated bicomponent filament spinning** to retain strength (p.377). For PET the cited routes are block poly(et
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (4 句)
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • **Fabrication routes compared** (L237–278): photopolymerization (high placement freedom, but "the radicals formed from the initiators are toxic to the cells"), thermally initiated polymerization (less control over size and location), ionic cross-linking (Ca²⁺ + alginate gives "temporary hydrogel networks"), interfacial polymerization (reagents in adjacent laminar streams at a T-junction), and enzymatic cross-linking (gelatin + transglutaminase cast in a silicone mold). Gradient hydrogels are mad
+   • t_resp ~ L²/D_eff — response time set by initial size L, effective diffusivity D_eff, and pore size [reconstruction of L171–175]
+- Q_max ∝ 1/ν_c — swelling extent falls as cross-link density ν_c (and chain elasticity constraint) rises [reconstruction of L168–169]
+- ↑I_UV ⇒ ↓chain length ⇒ ↓t_resp and ↓mechanical strength [reconstruction of L255–259]
+- r_diss = f(d₀⁻¹, C_reductant, ν_c⁻¹, T) — dissolution rate of a cleavable gel [reconstruction of L423–425, L476–477]
+   • 1. **Absorption-rate law goes through particle size before chemistry.** t_resp ~ L²/D_eff predicts a ~4× faster uptake from a 2× reduction in effective particle radius (L171–175, L184–185). Set PSD bands by this scaling when acquisition speed or rewet is the failing KPI.
+2. **Swelling is available work — and a load case.** Up to 1000-fold expansion produces usable force (L151–154). Use positively (a gel strip that swells to close a leak-guard gap — the bi-strip valve analogue, L513–516) and defe
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (3 句)
+   • **Phase transition + critical susceptibility 相变 + 临界敏感性.** 「smartness」= 可逆相变 + 临界点敏感性；因溶液行为在相变附近（尤其临界点附近）具有普适性，无穷小的参数变化即可触发大响应（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）。
+- **Confined brushes 受限刷层.** 一端接枝到不可渗透表面后，响应性由分子旋钮（N、s、α、χ(T)、盐、溶剂组成、表面活性剂）设定；**"grafting from" 可避免 "grafting to" 的空间位阻**；高表面覆盖的刷层靠强分子间相互作用保证刺激响应性（源：Smart Polymers Ch02 Responsive Polymer Brush Theory）。
+- **Recognition-driven mechanism 识别驱动的机制.** 硼酸酯与顺式二醇的可逆共价络合形成**多价（multivalent）**结合；PBA 以不带电三角形式与带电硼酸酯形式并存，是
+   • **SAP is a crosslinked copolymer SAP 即交联共聚物.** SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂），**其组成由竞聚率而非投料比决定**；弹性腰围/防漏侧边用的弹性纤维与 TPE 亦落在共聚物序列设计范畴（源：Seymour Polymer Chemistry Ch09 Copolymerization）。这是本页与卫材最直接的交集（SAP 吸水/保水即一类刺激响应行为）。
+- **Body-temperature window 体温窗口.** 工作相变落在 ~37 °C 的系统最有用（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）——该窗口与卫生用品的**湿/温指示**功能方向同源（参见 PNIPAAM、pH 响应材料）。
+- **Trigger-selection rule 触发选择规则（可迁移）.** 生物分离应用给出的选择规则：**非带电温敏聚合物的非特异性共沉淀显著低于带电 pH 响应聚合物**（ionic interactions 会引入不希望的非特
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Seymour Polymer Chemistry Ch09 Copolymerization
+- Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Ebewole Polymer Science Ch04 Therma
+
+--- [[热熔胶 Hot Melt Adhesive]]  (3 句)
+   • **最常用胶种**：Hot melt（EVA/APAO/polyamide/TPU/curing hot melt）用于**芯体复合、SMS 复合、湿巾封口**（源：Adhesive Handbook）。
+- **施胶花型是剥离强度的最大杠杆**：效应量排序 **Nozzle–OP 14.020（p 0.00000）> Primary Substrate 4.376（p 0.00004）> Bonding 3.632（p 0.00023）> Add-On 1.304（p 0.00548）> Adhesive Type（p 0.04965）**；**Minibead 花型剥离强度远高于其他**，Summit 最低（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- **施胶基材**：**胶应施加在导流层上以获得高剥离强度** —— Surge 均值 **408.19**（Std Error 29.750）vs Liner **230.09**（Std Error 26.434），未共享字母即统计显著（源：HSB
+   • ：热熔胶的**定义句与基础分类学**（EVA / APAO / PO / PUR 等的判据）在引用页中未展开；引用来源仅给出胶种名录。
+- ： 摘录中的 G = G₀·ψ(v,T) 未给出 ψ 的函数形式与参数范围（源：Handbook of Adhesive Technology Full Report）。
+- ：CF Swirl 与 Minibead 之间的剥离强度落差**可能**是 Depend 回渗值更不稳定的原因 —— 原文表述为「可能」，属**未验证假设**；「间隙小 → 回渗低」亦只证明了前半段（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- ：Source pages 未给出热熔胶的**老化 / 黄变 / 迁移**定量模型（源：Adhesive Handbook）。
+- ： 摘录中的成本与 FTO 结论（US$0.90/1,000 pants、US$38 k capex）为**该案专用**，不可外推为通用热熔胶成本（源：Stretch-Triggered Colour Indicator 
+   • **提供正文摘录的库内页面**
+- Handbook of Adhesive Technology Full Report
+- Hot-Melt Slot Coating（热熔狭缝涂布）
+- US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+- BM Urine Indicator Concept（尿+便双指示概念）
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels
+- HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）
+
+--- [[粘胶纤维 Viscose Fiber]]  (3 句)
+   • **Zinc is structural.** *"over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Zinc regulates structure → **skin-core structure** → high strength; wet modulus can be raised stepwise (modifiers, low-temperature low-acid bath, formaldehyde) along the ladder **ordinary viscose → tyre yarn → HWM → polynosic → Ten-X**（源：Manufactured Fibre T
+   • **Wet collapse is the design problem.** Viscose *collapses* when wet (low wet modulus), the inverse of cotton, which stiffens（源：Fibers and Fibrous Materials）— so wet strength, not dry strength, is the constraint for any core/wipe viscose.
+- **Skin-core explains the fluff-pulp analogy.** The core-loses-50% / skin-loses-20% wet-strength split is the textbook analogy for why fluff pulp loses network strength when wet and why SAP plus bicomponent thermal-bond fibres are added for reinforcement（源：Man
+   • No **quantitative wet-strength value** for viscose in the vault beyond the qualitative "collapses", and no comparison table against cotton or lyocell 。
+- The two **Adhesive Handbook citations contain no viscose content**（only a  entry）— why viscose was linked there is not stated 。
+- No **cost, denier/spec or supply** data for viscose appears in the digests 。
+
+--- [[莱赛尔 Lyocell]]  (3 句)
+   • **Lyocell / Tencel is a regenerated cellulose fibre spun from a direct solvent, NMMO (N-methylmorpholine-N-oxide)** — a route that **omits xanthation and ripening**, such that *viscose's* fibre strength and wet modulus are exceeded, while it **retains a propensity for fibrillation**, verbatim *"propensity for some degree of fibrillation"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Property comparisons are tabulated there as Table 17.12 (Camilon) and Table 17.14 (Tencel)（源：Manufactured Fi
+   • **Solvent route.** Lyocell sits under **direct solvent spinning (MMNO/NMMO)**, which needs no derivatisation — unlike the viscose process — and that is why its strength and wet modulus exceed viscose's; the same property set brings the fibrillation liability（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Trilobal Lyocell for LSN spunlace（芯包/水刺用）.** Trilobal Lyocell is a named carrier for the fibre cross-section that creates axial grooves → a quasi-continuous low-resistance distribution path along MD, for the LSN hydroentangled nonwoven; it maps to project **OI-08「Trilobal Lyocell for LSN」**, targeting wet strength and hydrophilic channels（源：三叶形截面纤维（Trilobal Fibre））。Concrete batch evidence: the COCO V6 Summary adds **LSN spunlace containing trilobal Lyocell** as a core-wrap material (6 km, arri
+

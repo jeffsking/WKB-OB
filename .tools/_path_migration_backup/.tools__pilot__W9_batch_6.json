@@ -1,0 +1,65 @@
+{
+ "batch_id": "W9-6",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_88a4d4a13fdd88dfaf8cd367a924eb8a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/STM-00429 Void Volume Template.xlsx.md",
+   "name": "STM-00429 Void Volume Template.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_36850f1d0638e8407dc830774eaa72e6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf.md",
+   "name": "一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_5720d8f06b7cb7a2b2b4d4b884e71aef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf.md",
+   "name": "七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e62629689d37aa2bdda49989bcee1134001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf.md",
+   "name": "三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e2964b03ab57dd97c352d80950cf311d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/五-2_一种新型尿不湿.pdf.md",
+   "name": "五-2_一种新型尿不湿.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f8762d53d681a13422f227bab353b0ff001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/四-1_减压腰围及制备工艺.pdf.md",
+   "name": "四-1_减压腰围及制备工艺.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e7a97e0cd8c1b14af8dc6f7427d291dc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md",
+   "name": "四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b9388c4620895a777f12a612ff54b63c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/四-8_一种裤型吸收制品弹性腰围.pdf.md",
+   "name": "四-8_一种裤型吸收制品弹性腰围.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_931b116081062176536ad1009b88403c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/Material/3D面层CD拉伸强度测试.pdf.md",
+   "name": "3D面层CD拉伸强度测试.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_d6b85843bbc48a1b53863767cb9e4a65001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md",
+   "name": "CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

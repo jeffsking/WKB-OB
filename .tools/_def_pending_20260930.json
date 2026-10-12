@@ -1,0 +1,3795 @@
+{
+ "generated": "2026-09-30",
+ "criteria": "正文含 定义待补 / [待补] / [待验证] 标记的页面",
+ "total_pages": 631,
+ "sum_def": 169,
+ "sum_pending": 1958,
+ "pages": [
+  {
+   "page": "三叶形截面纤维（Trilobal Fibre）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 20
+  },
+  {
+   "page": "诺尔（Nuoer）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 18
+  },
+  {
+   "page": "ActiveTech Platform（ActiveTech 在线薄芯体平台）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 15
+  },
+  {
+   "page": "Kirigami Apertured Nonwoven（切割拉伸开孔工艺）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 13
+  },
+  {
+   "page": "Elastic Tension & Creep（橡筋张力与回缩率）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 10
+  },
+  {
+   "page": "分区密度设计",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 10
+  },
+  {
+   "page": "Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 9
+  },
+  {
+   "page": "SAM Distribution Test（SAM 分布膨胀测试）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 8
+  },
+  {
+   "page": "Ultrasonic Bonding of PET-Containing Topsheet",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 9
+  },
+  {
+   "page": "辐射冷却材料 Radiation Cooling",
+   "dir": "concepts",
+   "定义待补": 3,
+   "待补/待验证": 6
+  },
+  {
+   "page": "SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 9
+  },
+  {
+   "page": "AUL 加压吸水率",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Lagrangian Particle Tracking",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Marangoni Effect",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Meltblown Nonwoven（熔喷非织造布）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 8
+  },
+  {
+   "page": "PNIPAAM",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 6
+  },
+  {
+   "page": "SAP性能指标（CRC AUL GBP Vortex）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 8
+  },
+  {
+   "page": "Stokes Number",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Structural Colour Mechanochromism（结构色力致变色）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 8
+  },
+  {
+   "page": "Topsheet Fuzz & Pilling Test（面层起毛起球测试）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 7
+  },
+  {
+   "page": "绒毛浆（Fluff Pulp）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 8
+  },
+  {
+   "page": "解键剂 Debonding Agent",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 7
+  },
+  {
+   "page": "COCO芯体平台",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Cradle Intake Test（Cradle 摄入测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Nonwoven Lamination",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 6
+  },
+  {
+   "page": "pH 响应材料",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Sensor-Equipped Absorbent Article（含传感器吸收性物品）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Super Absorbent Fibre（超吸水纤维 SAF）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "湿迁移 Wet Migration",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 6
+  },
+  {
+   "page": "热熔胶 Hot Melt Adhesive",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 6
+  },
+  {
+   "page": "驻极体 Electret",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 6
+  },
+  {
+   "page": "延江（Yanjan）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "锦琪昶（KSC, King's Choice）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 7
+  },
+  {
+   "page": "Antimony-Free PET Fibre（无锑 PET 纤维）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Chromism Taxonomy（变色现象分类）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "CTMP 化学热磨浆",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Hygiene Absorption Model",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "LbL 自组装 Layer-by-Layer",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Mechanophore Mechanochromism（机械力致变色分子）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Multilayer SAP Core（多层SAP芯体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Odour Management Routes（气味管理技术路线）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Open Diaper Process（开放式纸尿裤工艺）",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 4
+  },
+  {
+   "page": "PLA 玉米纤维",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Product Dimension Measurement（成品尺寸测量）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "SAP 表面包覆（SAP Particle Surface Coating）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Seal Strength Test（端封·侧封强度测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Skin Health Treatment on Nonwoven（无纺布护肤处理）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "TBCW结构",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "Washburn Equation",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "WRV 水保留值",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "一氯乙酸 Monochloroacetic Acid",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 4
+  },
+  {
+   "page": "三相接触线 TPL",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "交联密度 Crosslink Density",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "再润湿剂 Rewetting Agent",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "半胶束 Hemimicelle",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "卫材胶黏系统 Hygiene Adhesive Systems",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "可穿戴传感器 Wearable Sensor",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "壳聚糖 Chitosan",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "导电无纺布 Conductive Nonwoven",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "并列复合自卷曲纤维",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "形状记忆聚合物 Shape Memory Polymer",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "接枝共聚 Graft Copolymer",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "摩擦纳米发电机 TENG",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "智能包装 Smart Packaging",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 4
+  },
+  {
+   "page": "智能尿裤功能层",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "润湿 Wetting",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "液晶 Liquid Crystal",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "温度响应材料",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "热电现象 Thermoelectric",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "珠光颜料 Lustre Pigment",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "电子纺织品 E-textile",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "离子对吸附 Ion Pair Adsorption",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "等离子处理 Plasma Treatment",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "细菌纳米纤维素",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "结构色 Structural Color",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "胶乳 Latex",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "芯体通道花型设计",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "螺噁嗪 Spiroxazine",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "过滤材料 Filter Material",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "防腐剂 Preservative",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "鸡毛纤维 Chicken-feather Fibre",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Koch Industries",
+   "dir": "entities",
+   "定义待补": 1,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Suzano（书赞桉诺）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "福建闽瑞新合纤",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "三类纳米纤维素对比（CNC、CNF、BNC）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 6
+  },
+  {
+   "page": "83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "ADL（导流层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Bessel 函数",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Clariant",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "CMC 临界胶束浓度",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Coform Composite Nonwoven（熔喷-木浆复合非织造）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "DIC",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Electrospinning（静电纺丝）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "GB-T 28004-2011（纸尿裤国标测试口径）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "GB-T 28004.1-2021（纸尿裤国标）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Gel Blocking（凝胶阻塞）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Grafted Cellulose and Starch",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "In-line 3D Nonwoven Formation（在线三维成形非织造）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Laplace Pressure",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Material Safety Control（材料安全双轨管控）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Residual Fluid & Pore Stranding（残液与孔隙滞留）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "SAP 溶胀 SAP Swelling",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "SAP（高吸水树脂）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "SBS 弹性体",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "中空纤维 Hollow Fibre",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "光子晶体 Photonic Crystal",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "光致变色油墨 Photochromic Ink",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "变色油墨",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "合金粘胶 Alloy Rayon",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "含水率 Moisture Regain",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "孔隙率 Porosity",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "层压 Lamination",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "干燥角质化 Hornification",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "底膜 Backsheet",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "机械脱水 Mechanical Dewatering",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "格林函数 Green's Function",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "棉纤维 Cotton",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "植物基材料 Plant-Based Material",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "水刺 Hydroentanglement",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "润湿剂 Wetting Agent",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "深沟槽涤纶 Deep-groove Polyester",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "渗透率 Permeability",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "湿强剂 Wet-Strength Resin",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "热风粘合无纺布",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "熔喷 Meltblown",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "爆裂纤维 Burst Fibre",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "环氧氯丙烷 Epichlorohydrin",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "生物胶黏剂 Bioadhesive",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "甲醛 Formaldehyde",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "甲醛排放 E1",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "电致变色 Electrochromic",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "皮芯复合纤维",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "相变材料 Phase Change Material",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "硅烷偶联剂 Silane Coupling Agent",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "离子强度 Ionic Strength",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "纺粘 Spunbond",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "聚氨酯 Polyurethane",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "胶接热力学 Adhesion Thermodynamics",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "胶接理论 Adhesion Theories",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "荧光增白剂 Optical Brightener",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "表面交联 Surface Cross-linking",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 3
+  },
+  {
+   "page": "超分子 Host-Guest Chemistry",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 4
+  },
+  {
+   "page": "BASF",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Henkel",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Matsui Shikiso (松井)",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "OxyChem",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "华峰集团（Huafon Group）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "恒安（Hengan）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "福地（Fudi）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "Mechanochromic Routes Comparison（力致变色技术路线对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "婴儿纸尿裤 GB-T 28004.1-2021 与成人纸尿裤 GB-T 28004.2-2021 指标差异对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "芯包材料对比（LSN MPM vs PSN MPM）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 5
+  },
+  {
+   "page": "82 鼓距与产品节距解耦 repitch 选型",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "87 卫材产线约束常量表（待并入补充行）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Active Diagnostic Zones（主动诊断分区）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "ATB双梳理面层（Dual-Card Topsheet）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Biodegradable SAP（可降解高吸水树脂）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Case II 扩散",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "CFD 计算流体力学",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Composite Core Patent Clearance（复合芯体专利规避审查）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Core Channel Pattern（芯体通道花型设计）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Fick 定律",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Hagen-Poiseuille Equation",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Intake System（摄入系统）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Klemm 法",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Laplace 变换",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Liner-Surge Embossing（面层-导流层压花）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Navier-Stokes Equation",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Nonwoven 非织造布",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "PGA（聚乙醇酸）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Phenoxyethanol（苯氧乙醇）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "PTT（聚对苯二甲酸丙二醇酯）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "PVA纤维（湿强骨架）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "REL增强层",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Rewet Measurement Variability（回渗测试变异性）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Rewet Test（回渗测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "ROTC（Real Online ThinTech Core）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "SAP 干燥 SAP Drying",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Specific Air Volume",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Stimuli-Responsive PCM",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "STM-00146",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Thermochromic Microcapsule (Leuco Dye System)",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Water-Activated Ink（水变／湿变油墨）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Wetness Indicator Ladder（尿湿指示阶梯）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "交联 CMC",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "亲水化 Hydrophilisation",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "亲水整理 Hydrophilic Finish",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "保湿剂 Humectant",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "偶氮染料 Azo Dye",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "全息存储 Holographic Storage",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "压敏胶 PSA",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "双组分纤维 Bicomponent",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "取代度 DS",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "变色油墨 Color-Changing Ink",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "可冲散拭布 Flushable Wipe",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "复合膜 Composite Membrane",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "天然染料 Natural Dye",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "导电纱线 Conductive Yarn",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "抗菌整理",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "接触角 Contact Angle",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "数值模拟 Numerical Simulation",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "断裂力学 Fracture Mechanics",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "斯托克斯位移 Stokes Shift",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "无溶剂氨纶（Solvent-free Spandex）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "智能织物 Smart Textile",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "有限元法",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "有限差分法 Finite Difference",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "木浆 Pulp",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "每克厚度 T／W",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "毛细压力 Capillary Pressure",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "气铺 Airlaid",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "水性聚氨酯 Waterborne PU",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "活性炭除臭（DARCO）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "流变学 Rheology",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "湿巾 Wet Wipes",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "热传递 Heat Transfer",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "热致变色 Thermochromic",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "生物纤维素 Bacterial Cellulose",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "电致发光 Electroluminescence",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "粘胶纤维 Viscose Fiber",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "粘附张力 Adhesion Tension",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "纤维 Fibril",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "纤维扩散 Fiber Diffusion",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "聚合物刷 Polymer Brush",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "胆甾相液晶弹性体 CLCE",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "胶束 Micelle",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 2
+  },
+  {
+   "page": "自由体积 Free Volume",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "莱赛尔 Lyocell",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "藻酸盐 Alginate",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 3
+  },
+  {
+   "page": "锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "防水透气 Waterproof Breathable",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Shin-Etsu Chemical（信越化学）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "The Procter & Gamble Company（宝洁）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Toyobo（东洋纺）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Unikorn",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "恒碳（Hengtan）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "新维盛集团（Xinweisheng Group）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "美鑫达（XDM）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Mannequin 三条假人测试路线对比（Static vs Motion vs BM）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Open-Source AI-CFD Framework Routes（开源 AI+CFD 五类路线对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 4
+  },
+  {
+   "page": "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Blizzard Core（Blizzard 芯体结构）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Blowout Leakage Test（爆漏测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "BNC Application Red Line（BNC 应用红线）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Boltzmann 变换",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Cassie-Baxter Equation",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "CRC 离心保持能力",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Danufil 粘胶",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Diaper Microclimate",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Dryness Measure System（干爽度量三分）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "ES 纤维驻极研究",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Fiberscope",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Flory- Rehner Theory",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Folded Product Dimension Test（折叠后长度·宽度测量）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Freundlich 等温线",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "GATS 重力吸收测试",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "GST",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Hercules Aqualon",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "High-Density Fluff Core（高密度绒毛浆芯体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Hot-Melt Slot Coating（热熔狭缝涂布）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "IPA（间苯二甲酸）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "k-ε 湍流模型",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Laser-Assisted Die Tip（激光辅助模头）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Mannequin BM Test（BM 假人测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "MD Liquid Distribution",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "PAA 聚丙烯酸",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Pain-Point Backward Derivation（痛点倒推法）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "PCM-Free Thermoregulation",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Polyolefin Absorbent Materials",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Probiotic & Skin-Care Topsheet（益生菌护肤面层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Product Waist Break Test（产品腰围拉断测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "PVAc 乳液",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Retention Capacity Test（滞留能力测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Run-off & Leakage Test（滑渗与渗漏测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "SAM Testing Methods（超级吸水材料测试方法）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "SAP 吸水纸（SAPP）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "SAP错峰膨胀",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Static Mannequin Test（静态假人测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Stefan 问题",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Stimuli-Responsive Polymers",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Thickness Test（成品厚度测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Triple Cutting Topsheet（三层切割面层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Videoimagescope",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Wenzel Equation",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Wetness Indicator Glue",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Wilhelmy 湿附力法",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Work of Adhesion",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Young's Equation",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "丙烯酸丙烯酸酯胶 Acrylic Adhesive",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "两亲吸附 Amphipathic Adsorption",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "乳化剂 Emulsifier",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "亲水整理耐久性",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "保留层 Retention Layer",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "全芯体 vs 混合芯体",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "分布层 Distribution Layer",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "动边界 Moving Boundary",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "协同吸附 Cooperative Adsorption",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "反应-扩散耦合 Reaction-Diffusion",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "咖啡炭纤维（异味吸附）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "天丝 Tencel",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "戊二醛 Glutaraldehyde",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "承压吸收 AUL",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "抗菌整理定量测试（AATCC TM100 _ AATCC 100）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "时间滞后法 Time Lag Method",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "有限体积法",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "染料敏化太阳能电池 DSSC",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "柔性电子 Flexible Electronics",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "植物提取物 Plant Extract",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "毛细梯度设计",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "毛细管吸收 Capillary Sorption",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "毛细芯吸 Capillary Wicking",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "湿冷感 Wet-Cool",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "湿态强度 Wet Strength",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "湿感指示条 Wetness Indicator",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "湿热耦合 Heat-Moisture Coupling",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "热轧粘合 Calender Bonding",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "生物基单体 Bio-based Monomer",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "皮肤科学 Dermatology",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "磷酸化纤维素 Phosphonoalkylcellulose",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "离子变色 Ionochromic",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "粘合剂 Binder",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "纤维干燥 Fiber Drying",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "纳米纤维素（CNC、CNF、BNC）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "纸浆干燥 Pulp Drying",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "纺粘熔喷 Spunbond-Meltblown",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "羧甲基纤维素 CMC",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "胆甾相液晶 Cholesteric Liquid Crystal",
+   "dir": "concepts",
+   "定义待补": 2,
+   "待补/待验证": 1
+  },
+  {
+   "page": "自-sizing Self-sizing",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "芯体测试方法与验收基准（STM）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "蒙脱土 Montmorillonite",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "薄膜压力分布传感（Pressure-Sensing Film）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "表面活性剂 Surfactant",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "银纳米线 AgNW",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "香豆素 Coumarin",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "CTI (Chromatic Technologies)",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Daehyun（大炆·微胶囊）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "GHC（福建冠泓·冠和）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Nichidai（日丝）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "PPG Industries",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "PPS（触感压力传感）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Sanyo Chemical · SDP Global（三洋化成工业）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "SDHY Group（非织造布）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Shandong Nameixin Biotechnology（山东纳美欣生物科技）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Suzhou Yimeng (Mono-PET Spinner)",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "东丽",
+   "dir": "entities",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "东莞市天正纸业有限公司",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "中弘芯（青岛）传感科技（Zhonghangxin Sensing）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "华东师范大学",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "德泽贸易（松井中国代理商）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "昆明理工大学",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "格菲林（Gefilin）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "盛色科技（BLOCLO）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "舒美",
+   "dir": "entities",
+   "定义待补": 1,
+   "待补/待验证": 2
+  },
+  {
+   "page": "贵州卡布婴童用品有限责任公司",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "BNC功能层嫁接可行性对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "GB-T 27728-2011 与 GB-T 27728.3-2024 湿巾标准对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "SMMMS vs SMMSMMS（成本·性能·供应链）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "低熔点PP技术路线对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "华峰千禧 HDS vs 莱卡 HYFIT（尿裤弹性体）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "国产mPP与进口mPP对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 3
+  },
+  {
+   "page": "3D In-line Embossing Topsheet（3D 在线压花面层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Acquisition Test STM-00060（导流性能测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Airy Window（腰围透气窗）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "APAC 卫生纸产品矩阵（2017  workshop 预研）",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "APAO（非晶态聚α-烯烃）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Ardex",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "BM Simulant A（便液模拟液 A）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "BNC 基 SAP 表面交联",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "BNC-PEG 母粒（干态可复水中介体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "BSL Tier Differentiation（面层分档与产品档位差异化）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "CLC 手性向列晶",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Controlled Radical Polymerization SAP（控制自由基聚合 SAP）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "CoPET（低熔点共聚酯）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Core Wrap（芯体包裹层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Donnan 溶胀",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Elastic Strand Snicking（弹性橡筋断丝失效化）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "ES 纤维 ES Fiber",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "FIFE Test（FIFE 摄入-回渗评价）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Formation-Limited Barrier（阻隔的成形受限机理）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Geometric Optical Mask（几何光学掩膜）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Glueless Bonding（无胶粘合工艺族）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Graphic Sheet in Non-Stretch Zone（非弹性区图形片）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Groove Capillary Suction",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Hook-and-Loop Strength Test（粘扣系统强度测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Informational Image on Pull-On Article（可穿脱制品信息图形）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Liner-Surge Interstitial Space（面层-导流层界面间隙）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Liquid Modes（TL-1607 液体四态）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Marketing Claim Translation Paradigms（市场宣称六大转化范式）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "MCCT Multi-Component Capillary Tension（多组分毛细张力测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Mechanochromic变色纤维",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Median Absorption Pressure Gradient（中值吸收压梯度）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Microencapsulation",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Moisture-Responsive Fibre（湿敏变形纤维）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Motion Mannequin Test（动态假人测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Nonwoven Deformation Force Test（无纺布形变力测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Olefin Block Copolymer (OBC) 烯烃嵌段共聚物",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "PE-PET Bond Efficiency Model",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Peel Test STM-00438（剥离强度测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Pentagram PET (Star Cross-Section Fibre)",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "PET（聚酯）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Pore Size Distribution Monodispersity（孔径分布单分散性）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Pressure Sensory Test（压力触感测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Product Safety Crisis Management（产品安全危机管理）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "PSA",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "REL Splice Tensile Test（REL 拼接拉断力测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Repitch（鼓距与产品节距解耦）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Resilient Surge（PET 回弹导流层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "SAP Dosing Speed Matching（SAP 落料速度匹配与容差）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Shaped PET Add-On Window",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Skin Contact Pressure（皮肤接触压力）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "VO2",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Waist Guard（腰围护挡）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "WVTR 测试口径（失重法 vs 增重法）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "两性离子高吸水树脂（纤维素接枝耐电解质）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "亲水-疏水梯度设计",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "健康监测 Health Monitoring",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "光致变色 Photochromic",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "刺激响应聚合物 Stimuli-Responsive Polymer",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "化妆品微生物限值（细菌总数·致病菌）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "化妆品科学 Cosmetic Science",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "化妆品限用-准用组分体系（中国 2015 技术规范）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "可家庭堆肥无纺布（Home Compostable Nonwoven）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "尾水培养基（非粮生物合成）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "尿液模拟液（Urine Analog）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "干燥塌孔（Horrification）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "微纤丝化纤维素 MFC",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "摩擦电自供电 TENG",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "改性纤维素 Modified Cellulose",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "无锑聚酯",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "水凝胶 Hydrogel",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "水凝胶脱水干燥工艺族谱",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "湿态压缩模量",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "熔融指数与化学降解",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "纳米纤维素基高吸水树脂（茶渣-CNC 接枝）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "聚合物分散液晶 PDLC",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "胶黏剂 Adhesive",
+   "dir": "concepts",
+   "定义待补": 1,
+   "待补/待验证": 1
+  },
+  {
+   "page": "获取层 Acquisition Layer",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "虚拟原型 Virtual Prototyping",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "针刺 Needlepunching",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Bostik",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Cabot Corporation（卡博特）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "China National Pulp and Paper Research Institute（中国制浆造纸研究院）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Dayuan（大原）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Dow Chemical Company",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Fibertex（Fibertex 非织造布供应商）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "GFL（热风无纺布）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Huayi Group（待核中文名）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Kimberly-Clark（金佰利）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "LG Chem（LG 化学）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Nippon Shokubai（日本触媒）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Rextac（APAO 热熔胶）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "RKW SE",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Satellite Chemical（卫星化学）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "SCA Hygiene Products AB",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Shalag（Shalag 导流层与面层材料）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "SNF（法国）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Sun Chemical",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Symrise（德之馨）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "The LYCRA Company（莱卡）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Unicharm Corporation（尤妮佳）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Yundi（佛山裕迪）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "中科依兰",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "优彩环保",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "桐昆集团",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "海南拜瑞科",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "紫华公司（Zihua, Zijiang Group）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "道恩集团（Dawn Group）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "露乐健康科技股份有限公司",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "아시아나노텍 주식회사（Asiananotech）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "1-Piece vs 3-Piece CD Pants Design（一片式 vs 三片式裤型设计对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "3D 面层-支持层结合强度两法对比（WI-56934 vs WI-57507）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "COCO 芯体成型质量判读方法对比（China-STM-03_04_05 vs TTM-02_03）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Electrospinning vs Conventional Nonwoven（静电纺丝纳米纤维与传统非织造对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "PPC-P 基与 PGA 基可堆肥纤维路线对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "PP基皮芯与PET基皮芯对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "Thermochromic vs Hydrochromic Wetness-Comfort Indicators",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "弹性评价三条路径对比（张力 vs 拉断 vs 可视化指示）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "芯体通道花型方案对比（中轴 vs 叶脉 vs 八字 vs 特斯拉）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 2
+  },
+  {
+   "page": "AHPs Stewardship Program 与 CODEX™ 痕量物质管控",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Airlaid Paper（无尘纸）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "BC Microgel（细菌纤维素微凝胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Bladder Box Intake Test（膀胱箱压载摄入测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "CD Pants Converting Process（CD裤式产品加工工艺）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Changeover Four-Layer Architecture（换型要素四层分层与变更控制）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Chitosan Fibre（壳聚糖纤维）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Cohesive Fastener（自粘扣合系统）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Film-Free Backsheet（无膜背层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "FIUP Test Method TTM-00643（女性摄入与回渗测试法）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Front Belt Force Window（前腰带弹性力窗口）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "HEC 羟乙基纤维素",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "IFRA Standards 与 12 大产品类别体系",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "IPC BCC OI Portfolio（开放创新项目组合）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Liquid Diffusion Test（液体扩散测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Material Open Innovation Function（材料开放创新职能）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Nonwoven Process Classification（非织造布工艺分类）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Odor Control Technology Landscape（异味控制技术图谱）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Odour-Control Granular Interference（除臭颗粒干扰）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Powdered Activated Carbon（粉末活性炭）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Protein Error of pH Dye（pH 染料的蛋白误差）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Signal Comprehension Gate",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "SMS复合结构",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Surface Moisture Test（面层干爽性测试）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "TCF Bleaching（全无氯漂白）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Technology Roadmap 2026-2029（技术路线图）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Titratable Acidity Lane（可滴定酸度通道）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Topsheet（面层）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "TPE Tetraphenylethylene",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Ultra-Low Add-On Adhesive Application（超低添加量施胶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Zeolite Odour Control（沸石除臭载体）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "低熔点聚丙烯",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "功能性差别化纤维（PTT_超仿棉_纳米凉感）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "原纤化",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "变色材料 Chromic Materials",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "吸收芯体",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "回渗 Rewet",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "复合材料 Composite",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "感湿-感温双变色层大小便判别",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "扁平形截面纤维（Flat Fibre）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "机械变色 Mechanochromic",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "氨纶干法纺丝（Spandex Dry Spinning）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "浊点 Cloud Point",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "环氧乙烷残留（EO Residue）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "生物基高吸水材料（大豆蛋白 SAP）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "等电点 Isoelectric Point",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "结构性常数 K",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "聚酯水解与水分控制",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "聚集诱导发光 AIE",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "超高腰护脐结构（5-10cm 腰围）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "达西定律 Darcy's Law",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "透气弹性腰围（打孔氨纶）",
+   "dir": "concepts",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Chungnam National University and Hanyang University（韩国大学研究伙伴）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Daio Paper Corporation（大王製紙）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Emon Jiangsu（江苏益盟）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Fameccanica（Angelini Technologies）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "FENC（远东新世纪）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Fitesa（Fitesa 非织造布）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Henan Jiayida（河南嘉亿达）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Kimtech（毛细测试设备外协加工与装配）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Levima New Materials（联泓新材料）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "SCCS（欧盟消费者安全科学委员会）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Shenzhen Xingcheng（深圳星辰）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Sumitomo Seika（住友精化）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Technical Absorbents Ltd（TAL）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "TTOBMA（木浆市场研究与价格指数机构）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "University of Waterloo（滑铁卢大学）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "三房巷",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "兰精集团",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "嘉兴新丰",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "天富龙集团（Tinfulong Group）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "天津石化",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "宁波大发",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "宜兴丹森科技有限公司",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "巴斯夫欧洲公司（BASF SE）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "恒逸",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "汉高",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "江南高纤",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "盐城市中联",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "联欣环保科技（泰兴）",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "赛得利",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "陕西科技大学",
+   "dir": "entities",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "CoPET 与 PET 成本对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "CoPET-PET 与 PE-PET 皮芯纤维对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Embedded vs Detachable Smart Diaper Architecture（嵌入式 vs 可拆卸式智能纸尿裤架构对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "GB 15979-2024 与 GB 15979-2002 主要技术变化对比",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Rewet Method Comparison（回渗测试方法横向对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "SAF vs SAP（超吸水纤维 vs 高吸水树脂）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "可降解材料路线对比（PPC-P+PBAT vs PDA vs 淀粉基 SAP）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "可降解皮芯架构对比（PPC-PBAT 皮 × 四芯层）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "离型纸 vs 离型原纸（GB-T 27731-2011 vs GB-T 28207-2011）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "锑测试方法：ICP-MS vs ICP-OES（检出限·成本·适用性）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  },
+  {
+   "page": "香精合规：IFRA Standards vs 中国化妆品安全技术规范（管理体系对比）",
+   "dir": "comparisons",
+   "定义待补": 0,
+   "待补/待验证": 1
+  }
+ ]
+}

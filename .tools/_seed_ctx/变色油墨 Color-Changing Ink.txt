@@ -1,0 +1,101 @@
+# SEED: 变色油墨 Color-Changing Ink
+# type: concept | 原引用数: 4
+# 原 Cited by 列表:
+#   - Ancient Dyes and Pigments
+#   - Mechanochromic Fluorescent Polymers with AIE Features
+#   - Mechanochromic Photonic Sensors
+#   - Photochromism Dihydroindolizines
+#
+# 全库正文命中 74 页，125 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]  (5 句)
+   • 本批**卫生护理用变色油墨（光敏/温敏/湿敏）的全球供应基盘地图（调研日 2026-06-12）**：收录 7 家核心供应商并按"国际标杆 / 国内主力 / 区域备选 / 区域补充"四层分档。是本库回答「变色油墨向谁买、各梯队差在哪」的供应侧索引。
+   • **4. 东莞市千色变新材料 / 深圳市千色变新材料科技（中国）**——国内变色油墨及变色颜料（微胶囊）**源头厂家**；**2009 年创立，注册资金 1500 万，工厂位于东莞**；温变、光变、湿变微胶囊颜料及油墨国内领先综合性厂商；主要产品含湿敏油墨（纸尿裤尿显标签与湿显图案）、温敏油墨（可逆/不可逆，用于食品、医疗、玩具）、光敏油墨（防伪与时尚包装）；**自主工厂，月产能可达几十至上百吨（公开规模估算），支持水性、油性、UV 等多种体系**；主要客户为国内头部纸尿裤代工厂（福建、广东、浙江区域）和品牌商，部分出口东南亚。
+   • **5. 广州乐迪新材料科技（中国）**——特种防伪/功能油墨专业生产商；前身为 **2010 年广州德利油墨**，拥有 **2000 平方米现代化车间和自动化生产线**；**非常聚焦纸尿裤行业应用的湿敏油墨**；主要产品为遇水变色油墨（白色→透明、白色→彩色等不可逆及可逆系列，专为纸尿裤、卫生巾设计，符合医疗卫生标准）与温敏油墨（防伪、温度指示）；产能未具体公开，作为源头厂家具备稳定供应基础；客户为国内纸尿裤品牌及 OEM 工厂，**国产替代主要供应商之一**。
+   • **变色油墨供应基盘是"三分层"结构：国际标杆换技术确定性、国内主力换成本、区域厂商换响应速度** —— 支撑页：Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+- **湿敏（hydro-chromic）是唯一专用于纸尿裤湿显的品类，是选型的首要筛选条件** —— 支撑页：Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Ladder（尿湿指示阶梯）
+- **压敏（Baro-Chromic）油墨已在 CTI 产品线上，与力致变色方向存在品类交汇** —— 支撑页：Mechanochromic变色纤维、Chromism Taxonomy（变色现象分类）
+- **产能数据普遍不透明，是供应风险评估的主要盲区** —— 支撑页：Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+
+--- [[变色油墨供应商综合技术联系表]]  (4 句)
+   • 变色油墨供应商的**综合技术与联系表**（与「（1）」版同源）。含**个人联系方式**，属商务敏感，按 §5 仅登记文档类型，不页面化联系人。
+   • Companion/duplicate of the "(1)" color-changing ink supplier table. It consolidates supplier technical and contact information. As with the "(1)" file, it embeds **personal contacts (phone / email)** and possibly undisclosed partner names → business-sensitive. Per AGENTS.md §5, contacts and undisclosed partner names are NOT page-ized; only the document type and topic are recorded.
+   • **变色油墨供应商联络表（含敏感联系人），仅作类型登记** —— 支撑页：变色油墨
+   • 概念：变色油墨、Chromism Taxonomy（变色现象分类）
+
+--- [[变色油墨供应商综合技术联系表（1）]]  (4 句)
+   • 变色油墨供应商的**综合技术与联系表**（含温变/湿变/光变等）。本文件含**个人联系方式**，属商务敏感，按 §5 仅登记文档类型，**不页面化任何联系人/电话/邮箱**。
+   • The file is a spreadsheet consolidating color-changing ink suppliers with technical and contact information (thermochromic / hydrochromic / photochromic inks and microcapsules). It is a useful supplier-roster map for the color-changing-ink topic, but it embeds **personal contacts (phone / email)** and possibly undisclosed partner names → business-sensitive. Per AGENTS.md §5, contacts and any undisclosed partner names are NOT page-ized; only the document type and topic are recorded here.
+   • **变色油墨供应商联络表（含敏感联系人），仅作类型登记** —— 支撑页：变色油墨
+   • 概念：变色油墨、Chromism Taxonomy（变色现象分类）
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (3 句)
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • （中文：①按触发量而非化学分类——同一分子可归两类：螺吡喃视驱动输入不同可属光致、温致或力致变色，判类的关键问题是「到底什么物理量抵达材料」；②卫品可用类别——温致（温度；隐色染料:显色剂:脂肪酸≈1:5:50 微胶囊与胆甾相液晶；尿湿指示、已量产）、湿致（水/湿度；亲水指示剂+吸湿基体、水凝胶溶胀；尿湿的化学比色路线）、卤致（pH/质子活度；溴酚蓝、溴甲酚绿/紫；尿显条主体与便指示的配对元素）、力致（力/应变/压力；力致变色分子、光子晶体、CLCE、几何掩膜；本库 Projects 的合身/张力指示方向）、光致（光；螺吡喃、萘并吡喃、俘精酸酐；与力致/温致共用分子机制，卫品场景中是干扰源而非功能）、电致（电场；导电油墨/共轭聚合物显示；智能纺织显示，尿裤集成为早期）、化学致（化学/生物信号；化学响应水凝胶、分子机器；传感与递送，卫品未落地）；③第二条轴是可逆性——连续监测需可逆路线，单次报警可用半可逆或不可逆路线；**淘汰设计的是这条轴，不是化学类别**；④第三条轴是阈值——工业计量材料为 40,000 psi 以上的结构失效检测而设计，吸收性卫品处在低张力窗口（腰围 20–150 
+   • 力致变色分支：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）
+- 卤致变色分支：Protein Error of pH Dye（pH 染料的蛋白误差）、Titratable Acidity Lane（可滴定酸度通道）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 既有页对照：变色油墨、Mechanochromic变色纤维、智能尿裤功能层、认证与法规的区别
+
+--- [[变色油墨]]  (3 句)
+   • 1. **热致变色（温敏）**：主流为 **leuco 染料微胶囊体系**——供电子体（leuco 染料）: 受电子体 : 脂肪酸 ≈ 1:5:50 的配比，通过熔融/结晶的可逆转变实现显色/褪色。典型用于尿湿指示（体温或尿温触发）。
+2. **力致变色（力敏）**：机械力改变分子排列或光子晶体结构导致颜色变化。代表应用为**拉伸变色**（K-C US7704589B2，已失效）与液晶弹性体变色纤维（可机洗应变可视化）。
+3. **湿敏/化学比色**：pH 或离子强度变化引发比色反应（如 CN114209501A 的 pH 纳米微胶囊纳米纤维膜）。
+4. **载体形态要求**：印刷油墨/涂层（丝网印刷于底膜外侧、弹性侧片等），或作为薄膜/纤维基材的负载相。**功能层多在非皮肤面**，对材料安全性要求相对低。
+5. **与本库其他方向的接口**：变色油墨可作为「视觉反馈」层与压力传感（力敏）、湿态指示（温敏/湿敏）耦合；BNC 膜/纤维可作比色指示基材。
+   • **要点**：leuco 微胶囊体系的三组分配比是性能（变色温度、灵敏度、可逆性）的核心杠杆；纺织/卫材场景还须考虑耐水洗与迁移安全性。
+- **2026-09-29 追加要点（力敏侧材料细目与阈值缺口）**：路线图列出四种力致变色候选——**HPC**（黏弹性格点间距变化 → 压缩蓝移；可食/无毒/可降解）、**Naphthopyrans**（共价键断裂 → 模块化变色；稳定性与合成可达性最优）、**Spiropyrans**（6π 电环化开环 → 强显色；**热致瞬态**）、**Cu-based HCP**（发光位移；抗环境污染）。共同瓶颈是**力值缺口**：工业力色团需 **40,000 PSI**，卫材目标仅 **20–150 kPa**，需用「stabilization bridge」（胶凝剂，如 gelatin）调流变下移阈值。出处同上；详见 Active Diagnostic Zones（主动诊断分区）。
+- **待补 **：变色油墨的迁移/安全合规口径（涉化学品，须过法规前置条件）。
+   • 智能尿裤功能层专利地图 —— 
+- X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表） —— （2026-09-29 追加）
+- 待编译：（5 份）
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) —— 
+- Diaper Microclimate Visualization Feasibility (Dual-MVP) —— 
+- Active Hygiene Roadmap（力致变色材料商业化路线图） —— （2026-09-29 追加：力致变色的两条产业化路径与力值缺口）
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels —— （2026-09-29 追加）
+- Mechanochromic Materials Technical Review（EN v3, 2026-08） —— （2026-09-29 追加）
+- 
+
+--- [[H.B. Fuller（富乐）]]  (3 句)
+   • **2026-09-29（本页建立）**：仅由 变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景） 提及；**本库内无合作、送样、验证或采购记录**；本页**不推断**任何供货关系。
+   • 变色油墨
+- Water-Activated Ink（水变／湿变油墨）
+- Wetness Indicator Ladder（尿湿指示阶梯）
+- Chromism Taxonomy（变色现象分类）
+   • 变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景） ——
+
+--- [[Intellego Technologies AB]]  (3 句)
+   • **2026-06-12（Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12））**：被列为全球卫生护理变色油墨 7 家核心供应商之一，属国际标杆梯队；主要客户为国际知名纸尿裤制造商、医疗消毒服务提供商及相关代工厂。
+- **2026-06-12（同上）**：报告记录其**正为卫生用品行业大幅扩充印度工厂产能**——是本库可见的、唯一有明确扩产动作的变色油墨国际供应商。
+   • Chromism Taxonomy（变色现象分类）、变色油墨、Water-Activated Ink（水变／湿变油墨）
+- Wetness Indicator Ladder（尿湿指示阶梯）、Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）
+- Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+   • Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） ——
+
+--- [[Qiansebian（千色变新材料）]]  (3 句)
+   • **2026-06-12（Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12））**：被列为全球卫生护理变色油墨 7 家核心供应商之一，属**国内主力**梯队；主要客户为国内头部纸尿裤代工厂（福建、广东、浙江区域）与品牌商，**部分出口东南亚**。
+   • 变色油墨、Chromism Taxonomy（变色现象分类）、Water-Activated Ink（水变／湿变油墨）、Thermochromic Microcapsule (Leuco Dye System)
+- Wetness Indicator Ladder（尿湿指示阶梯）
+- Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）
+   • Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） ——
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (3 句)
+   • 1. **Introduction** — why natural and chemical fibres no longer meet user requirement; the passive / active / ultra-smart taxonomy; history from the late-1980s Japanese shape-memory silk thread; global smart textiles market at **25% CAGR 2021→2031, US$23.82 Bn by 2031**.
+2. **Brief History** — wearable computation traced to the 1850s (corsets, belts), first wearable computer 1955, integrated electronics from the early 1990s; three generations: wearable computing → fabric as circuit element → fib
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+   • US20070270773A1 Thermochromic Wetness Indicator — the disposable-implementation counterpart to this review's chromic taxonomy
+- Chromic Phenomena Solar Energy and Liquid Crystals — underlying physical chemistry of the chromic mechanisms listed in §4.1
+- Mechanochromic Elastomer from PDLC 5CB PDMS — pressure-chromic route, one of the seven mechanisms, developed further
+- Interactively Mechanochromic Electronic Textile Sensor — the printed-PEDOT / e-textile strain-sensor route from §3 in concrete 
+
+--- [[US10905605 Pull-On Wearable Article with Informational Image]]  (3 句)
+   • Relevance to the owner's **chromic-ink（变色油墨）programme** and REL absorbent-core work:
+   • 1. **Not a chromic-ink patent — but a strong "where to print" reference.** This patent claims *where* and *how* a graphic sits on an extensible side panel (relaxed-state legibility, apertured-nonwoven texture proximity). A chromic wetness or comfort indicator placed on a stretch laminate must meet the same **relaxed-state legibility（松弛态可读）** and **print-durability（耐水/尿液不洇渗、不转移）** requirements spelled out here. See Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）.
+2. **Explicit 
+   • US10905605B2 Pull-On Wearable Article with Informational Image (P&G) — 同一专利的既有另一摘要页（parallel summary of the same patent）
+- US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G) — 宝洁传感路线对照（P&G sensor route）
+- US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark) — K-C 泄漏检测对照
+- US 20070270773 A1（Thermochromic Wetness Indicator） — 热变色尿湿指示在先文献
+- Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） — 变色油墨供应商与工艺约束
+- Smart Sensing Diape
+

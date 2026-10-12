@@ -1,0 +1,102 @@
+# SEED: 水凝胶 Hydrogel
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Holographic Structurally Colored Mechanochromic Films
+#   - Hydrogel-based Superabsorbent Polymers
+#
+# 全库正文命中 95 页，190 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[交联密度 Crosslink Density]]  (7 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **The double-sided effect — there is an optimum.** Cross-link density too low → gel exudation (凝胶层析出), swelling collapse and rising system viscosity; too high → too many cross-link points, insufficient porosity and inadequate absorbency — **存在最优值**（源：Acrylic-Based Superabsorbent Polymers）。Stated independently for hydrogels: low cross-linking → high absorbency but poor structural stability; high cross-linking → good retention but restricted absorbency（源：Hydrogel-based Superabsorbent Polymers）。
+   • **Two opposing structural levers.** Hydrophilic-group content ↑ ⇒ swelling ↑; cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓ — the same trade-off that governs SAP design（源：Hydrogels in Regenerative Medicine）。
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+
+--- [[Hydrogels in Regenerative Medicine]]  (6 句)
+   • Hydrogel identity = a 3D polymeric network that absorbs water/biological fluids; **cross-links are mandatory** precisely to stop the hydrophilic chains dissolving in the aqueous phase.
+- **Physical vs chemical cross-linking is the central trade-off**: physical gels form by ionic interaction, hydrogen bonds, coordination bonds, hydrophobic interaction, crystallisation or protein interaction, are **reversible** (re-gel on returning to initial pH/temperature/solvent) and are **generally unstable an
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • General statement: hydrogels can hold **20–100 times their own weight** in water, structure-dependent.
+- Two structural levers oppose each other: **hydrophilic-groups content ↑ ⇒ swelling ↑**; **cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓**. This is the same trade-off that governs SAP designs.
+- An explicit unsolved conflict is flagged: synthetic biodegradable hydrogels combining good mechanical properties with high water content remain a major challenge, because **mechani
+   • Natural polymers bring biological compatibility and inherent biodegradability (collagen, silk, gelatin, fibrin, lysozyme, Matrigel, elastin-like polypeptides; HA, dextran, agarose, chitosan; hybrid pairs; DNA). Synthetic polymers win on **reproducible physical and chemical properties** and tunability of block structure, molecular weight, mechanical strength and biodegradability.
+- Biodegradation rate should coincide with new-tissue regeneration rate at the defect site — a design requirement, not
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (6 句)
+   • The closing chapter converts the same smart-hydrogel physics into **device components** — sensors, valves, pumps, clutches, lenses, filters — inside microchannels. Its thesis: "Hydrogel materials are both soft and responsive, which makes them ideal candidates in designing biomimetic components (e.g., valves, sensors) for use in microfluidic devices" (L56–59). Autonomy is the point: with hydrogels, "these materials can sense the local environment and undergo phase transition, such as an abrupt sw
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • **Fabrication routes compared** (L237–278): photopolymerization (high placement freedom, but "the radicals formed from the initiators are toxic to the cells"), thermally initiated polymerization (less control over size and location), ionic cross-linking (Ca²⁺ + alginate gives "temporary hydrogel networks"), interfacial polymerization (reagents in adjacent laminar streams at a T-junction), and enzymatic cross-linking (gelatin + transglutaminase cast in a silicone mold). Gradient hydrogels are mad
+   • This is the **most directly transferable chapter of the batch** for smart hygiene, and the read-across is legitimate rather than forced: an absorbent core is a confined microfluidic system made of a superabsorbent hydrogel plus fibrous channels, and the chapter's parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space.
+
+--- [[离子强度 Ionic Strength]]  (5 句)
+   • The vault never states a formula or units for ionic strength; it treats it operationally as **one of the three parameters** that precisely tune a hydrogel SAP's absorbency / water retention / salt tolerance / oil resistance — **cross-link density + ionic strength + temperature**（源：Hydrogel-based Superabsorbent Polymers）。Its direction of effect is stated directly: **electrolytes such as NaCl and CaCl₂ affect swelling, and high ionic strength *lowers* water absorbency**（源：Hydrogel-based Superabsor
+   • 中文：本库未给离子强度的公式或单位，只把它当作调控水凝胶 SAP 吸水/保水/耐盐/耐油性能的三大参量之一（交联密度 + 离子强度 + 温度），并明确「高离子强度降低吸水性」。
+   • **Charge → hydrophilicity → swelling.** Charged groups raise hydrophilicity (hence higher water absorption), and their **electrostatic repulsion raises solubility and the swelling ratio**（源：Hydrogels in Regenerative Medicine）。
+   • **Ionic cross-linking.** The polymer-chemistry source states verbatim: *"divalent ions are known to act as cross-links between carboxyl groups in natural resins"*, and notes ionomers as the polymer class that carries ionic bonds — ionic bonds are otherwise uncommon in polymers（源：Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure）。In the microfluidics source the same route appears as a fabrication option, where **Ca²⁺ + alginate gives "temporary hydrogel networks"**（源：Smart Polym
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (5 句)
+   • An **application chapter** (区域给药). Its organizing claim is that systemic therapy fails by dilution and toxicity, so the drug should be delivered where its whole pharmacological effect is wanted: "Localized drug delivery is defined as a method of delivering a drug (for its local action) from a dosage form to a particular site in the biological system where its entire pharmacological effect is desired" (L110). Stimuli-responsiveness is **peripheral** here — it enters mainly through thermally induc
+   • 1. **Why regional delivery.** The main advantage is "high locoregional concentration of therapeutic agents with prolonged retention time" (L117–119). Disease areas listed: localized solid tumors, chronic/acute infections, vascular disorders, neurological disorders, and chronic/acute pain (Table 12.2, L226–238).
+2. **Synthetic over natural carriers.** "Synthetic polymers are preferred over natural ones, since they are presumed to be free of immunogenicity. Their physicochemical properties are als
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+   • 1. **SAP as a dry hydrogel.** The imbibition range "10 to 20% up to thousands of times their dry weight" (L1911–1913) and the chemical tie-point vs physical entanglement cross-link distinction (L1914) frame cross-link density ↔ swelling ratio ↔ retention-under-load mapping. 中文：SAP 可按水凝胶网络科学同一框架建模。
+2. **Environmentally sensitive gels for indicators.** Response variables are swelling, network structure, permeability and mechanical strength against pH, ionic strength, temperature, fields, glucose (
+
+--- [[海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）]]  (5 句)
+   • **三维水凝胶网络结构四类**：**IPN**（两种以上网络互穿、无化学键；如壳聚糖/PVA、PAAm/海藻酸钠）／**semi-IPN**（交联网络 + 线性聚合物；如交联 PAA + 线性 PVA）／**双网络 DN Gel**（刚性 + 柔性双网络；如海藻酸钠-Ca²⁺/PAAm）／**纳米复合水凝胶**（纳米纤维素、蒙脱石、TiO₂ 增强）。
+   • **国际企业（七家）**：BASF（德国，可降解塑料研发）／NatureWorks（美国，Ingeo PLA，全球最大 PLA 生产商）／Novamont（意大利，Mater-Bi 淀粉基）／**Kaneka（日本，PHBH 海洋降解 PHA，已商业化）**／Mitsubishi Chemical（日本，可降解水凝胶，研究阶段）／Sumitomo Chemical（日本，高吸水树脂）／**Nippon Shokubai（日本，全球 SAP 领导者）**。
+   • **国内机构（九家）**：中科院理化技术研究所（PDA 第三代海水降解高分子，**已实现产业化**）／中石化大连石油化工研究院（**聚草酸酯 5 天内水中/海水中完全降解，2026**）／青岛科技大学（聚草酸酯闭环循环，**2026 Chemical Science**）／北京工商大学（PLA/PGA/PLGA 海水降解，**2024 Polymers**）／大连理工大学（可海水降解聚酯，涂著等，《中国塑料》2025）／长春应用化学研究所（PLGA 等）／浙江大学（纳米复合水凝胶，微塑料吸附降解）／天津大学（PASP 基 SAP）／华南理工大学（淀粉基 SAP）。
+   • **国际机构（七家）**：IISc（印度，3D 水凝胶除微塑料——**壳聚糖/PVA/聚苯胺 IPN + Cu-POM 纳米簇，UV 下降解微塑料，2024 Nanoscale**）／东京大学（PHA/PCL 海水降解动力学）／大阪大学（PBS/PHBV 不同海域降解对比）／McGill University（蛋白质/淀粉基可生物降解 SAP 综述）／Westminster University（**γ-PGA 水凝胶，吸水 5000 倍**）／NCL India（SAP 分类与合成）／University of Tokyo（PLGA 海水降解）。
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (4 句)
+   • Peer-reviewed journal article that benchmarks a **citric-acid–crosslinked cellulose superabsorbent hydrogel (SAH)** head-to-head against commercial sodium-polyacrylate SAP in both DI water and 0.9 % saline — the library's cleanest **saline-based performance comparison** for the biodegradable-SAP route.
+   • The study develops citric acid (CA)-crosslinked superabsorbent hydrogels based on cellulose derivatives as sustainable alternatives to conventional petroleum-based SAPs for personal hygiene. **Sodium carboxymethyl cellulose (Na-CMC)** is the primary polymer and **hydroxyethyl cellulose (HEC)** the secondary polymer, blended at varying ratios and crosslinked with CA as a green crosslinking agent. The authors systematically evaluate polymer composition, swelling medium, pH and **absorption under l
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+   • Concepts 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- Entity 实体：University of Waterloo（滑铁卢大学）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[Smart Polymers Ch08 Smart Hydrogels]]  (4 句)
+   • 本章是**智能水凝胶的智能与大孔快响应两条主线的综述**：定义与刺激菜单、SR 溶胀比公式、四条大孔合成路线、生物分离/分子识别应用、以及致动器（微阀、人造肌肉）。
+   • **大孔智能水凝胶的聚合方法（Table 8.1, Lines 130–160）**
+   • Lines 36–37 — "generally they are defined as hydrogels having pores larger than 50 nm."
+- Lines 54–56 — "their deswelling rates ... are within minutes, while for conventional hydrogels it is a matter of hours or days."
+- Lines 61–63 — "Smart hydrogels are hydrogels that reversibly swell and shrink sharply upon a small change in environmental conditions..."
+- Lines 88–89 — "To obtain a fast-responsive hydrogel with macroporous structures, a phase separation must occur during the network formation
+   • Smart Polymers Ch03 Conformational Transitions in Ionic Gels
+- Smart Polymers Ch05 Microgels from Smart Polymers
+- Hydrogel-based Superabsorbent Polymers
+- Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）
+
+--- [[Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers]]  (4 句)
+   • **起始反应温度 To 对 PNIPA 水凝胶溶胀的影响（lines 677–693）**
+   • **大孔水凝胶格式的几何/尺度（lines 111–1306）**
+   • line 55 — "Hydrogels are able to absorb 10 to 1000 times their dry volume of water without dissolving."
+- line 83 — "Since the rate of response is inversely proportional to the square of the size of the gel"
+- lines 111–112 — "Macroporous hydrogels contain nanometer- to micron-size liquid channels separated by cross-linked polymer regions, which provide sufficient mechanical stability."
+- line 325 — "a phase separation during the hydrogel preparation is mainly responsible for the formation of ma
+   • Smart Polymers Ch08 Smart Hydrogels
+- Smart Polymers Ch05 Microgels from Smart Polymers
+- Hydrogel-based Superabsorbent Polymers
+- Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)
+
+--- [[Smart Polymers in Biotechnology and Biomedicine (Book)]]  (4 句)
+   • **Ch1**：1.2 Solubility Phase Transitions and Liquid-Liquid Coexistence Curves；1.3.1 Static Light Scattering（1.3.1.1 Fluctuations and Scattering in the Vicinity of Phase Transitions / 1.3.1.2 Scattering in Polymer Systems / 1.3.1.3 Light Scattering from Large Particles / 1.3.1.4 Zimm Plots）；1.3.2 Dynamic Light Scattering（1.3.2.1 Photon Correlation Spectroscopy / 1.3.2.2 DLS Data Analysis: Monodisperse Spheres / 1.3.2.3 Effect of Polydispersity / 1.3.2.4 Effect of Size and Shape of Larger Particle
+   • 相关性评级：**参考级（理论底座，非产品来源）**。「智能聚合物」与卫材的核心材料 SAP **同属刺激响应水凝胶这一大类**——SAP 的吸水/保水本质上是交联聚电解质的溶胀行为，与本书 Ch3（交联离子凝胶的构象转变）、Ch8（智能水凝胶）、Ch9（宏孔水凝胶）讨论的是同一物理问题。但本书的应用语境是**生物分离与生物医药**（亲和沉淀、药物释放、微流控、细胞培养器），**不涉及卫生用品**，故不能直接引用作卫材依据。
+   • 源文件 1,045,423 bytes / 17,204 行。按抽样规则读取 （版权页、TOC、Preface、Introduction）并以  提取全章与小节结构，**未读取正文全文**。
+- 14 章标题、作者与页码均取自源文件 Table of Contents 页；ch1 的小节名与两处图注（Figure 1.6 PNIPA Zimm 图、Figure 1.14 五种构象态）取自抽样读取的正文片段，未推测。
+- **本书 14 章均已有独立 chapter 页**（如 Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers 等），本页只承担整书定位与导航，不复制各章内容。
+- 源文件名的 （双 S）为归档时拼写异常，本页按任务给定的**精确路径**引用，未做更名。
+- 本页为**索引页**，未生成新 chapter 页。
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering — Ch1：相变与静态/动态光散射表征（cloud point、Zimm 图、DLS）
+- Smart Polymers Ch05 Microgels from Smart Polymers — Ch5：微凝胶的制备与响应行为
+- Smart Polymers Ch08 Smart Hydrogels — Ch8：智能水凝胶总论，与 SAP 溶胀机理最直接相关
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers — Ch9：宏孔凝胶与快响应，卫材吸收速率设计的启发来源
+- Smart Polymers Ch10 Boronate Copolymers and Gels — Ch10：硼酸基共聚物与凝胶（糖/湿响应化学）
+- Hydrogel-based Superabsorbent Polymers — 高吸水树脂的产品侧视角，与本书水凝胶理论构成「理论—产品」对照
+

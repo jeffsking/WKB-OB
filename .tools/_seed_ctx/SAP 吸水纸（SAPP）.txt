@@ -1,0 +1,115 @@
+# SEED: SAP 吸水纸（SAPP）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 30 页，57 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]  (5 句)
+   • Nuoer Group's own 2026 company deck (a converted slide PDF) — the **supplier-side counterpart** to the library's Nuoer pages. It supplies the group structure, the **2026–2030 capacity map**, Nuoer's **three-process / three-granule comparison**, its **grade catalogue with CRC and Vortex numbers**, and the **SAPP thickness benchmark**.
+（诺尔集团自述的 2026 年公司介绍（PDF 转写）。本库诺尔相关页面的**供应商侧对照来源**：提供集团结构、2026–2030 产能图、三种工艺/三种颗粒形态对比、带 CRC/Vortex 的牌号目录，以及 SAPP 厚度基准。）
+   • 工艺：**wet paper making process + 专利 SAP 计量系统**，目标是"保证 SAP 与纸浆纤维稳定固着"（原文）。
+- 结构形态：**SAPP（1 层）** 与 **SAPP core（2–3 层压花）**。
+   • **SAP sheet（for baby diaper & napkin）**：定位为"ultrathin absorbent article — **prefabricated absorbent core**"，结构为  包裹（原文图示口径）。
+- **卫生巾 OEM**：**7 条线**——3 条 245 mm @**1,200 pc/min**；2 条 290 mm @**1,000 pc/min**；1 条 360/420 mm；1 条 185 mm。产能近 **30 亿片/年**；可做尺寸 **155/185/245/290/360/420 mm**；可选结构 **Suspending Core / 3D standing gather / Tri-pieces**。
+- **经期裤 OEM**：**2 条线**——7# 海纳线（**250 pc/min**）、8# 恒昌高速经期裤线（**350 pc/min**）；产能达 **1 亿片/年**。
+  - 7# 超薄柔软裤（旧线）：SAP 用 **SAPP（85 g SAPP / 3 层）**
+  - 7# 安睡裤（旧线）：
+   • **Backward integration to GAA is the structural story** —— GAA 240 KT → +80 KT（2027 Q1）是 SAP 成本与供应稳定性的上游支点 —— 支撑页：诺尔（Nuoer）、SAP（高吸水树脂）
+- **Granule morphology is the supplier's own selection axis** —— 蜂窝 / 不规则 / 珍珠-葡萄三态 —— 支撑页：SAP（高吸水树脂）
+- **SAPP is a thickness play, not a capacity play** —— 0.35 mm vs 0.82/1.1 mm 材料厚度 —— 支撑页：SAP 吸水纸（SAPP）
+- **Post-polymerisation claims the "low extractable" slot** —— 与预聚合的 high extractable 形成对照 —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）
+
+--- [[BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）]]  (4 句)
+   • 扬子石化-巴斯夫（BASF-YPC，南京）的 **HySorb® N7059 SAP 产品介绍**：国产化 BASF SAP 牌号的一手典型值（CRC/AAP/残留单体）；在本库中是 SAP性能指标（CRC AUL GBP Vortex） 的供应商标尺之一，也是 SAPP/吸水纸芯体路线的候选料源。
+   • Product introduction from BASF-YPC Company Limited（扬子石化-巴斯夫有限责任公司，南京江北新区新华东路 8 号）. HySorb® N7059 = SAP with **high Centrifuge Retention Capacity and high Absorption Against Pressure**; hygiene products using it claim high saline retention, strong absorption, long-lasting dryness. Applicable to baby diapers, adult incontinence, female hygiene; usable in **absorbed paper cores**（吸水纸芯体）as well as traditional cores. Typical values (not specifications): CRC 35.8 g/g（EDANA NWSP 241）; AAP 0.3 psi 29.0 
+   • **N7059 的 CRC 35.8 / AAP 29.0 组合落在「高保水 + 高压吸收」双高定位，可作为国产化 BASF SAP 的对标基线** —— 支撑页：SAP性能指标（CRC AUL GBP Vortex）
+- **BASF-YPC 应用实验室自带吸水纸芯体打样设备——SAPP 路线的供应商端验证能力可直接对接** —— 支撑页：SAP 吸水纸（SAPP）
+   • 实体：巴斯夫欧洲公司（BASF SE）
+- 概念：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP 吸水纸（SAPP）
+- 对比：SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+
+--- [[LG Chem SAP Product Page（Chinaplas Acrylates_SAP）]]  (4 句)
+   • LG Chem SAP 产品页（Chinaplas Acrylates/SAP），与 SAPPYER 资料同源，作为「SAP 供应商」信息源补充。
+   • Companion product page to the LG Chem acrylates-SAP / SAPPYER material. It reinforces LG Chem's position as a SAP supplier offering plant-based, ISCC+ certified SAPPYER for hygiene. Specific grade-level specs are covered by the dedicated SAPPYER SLI/SLIM/SLIE document.
+   • **LG Chem SAPPYER 为认证级生物基 SAP 供应方** —— 支撑页：LG Chem（LG 化学）、SAP（高吸水树脂）
+   • 实体：LG Chem（LG 化学）
+- 概念：SAP（高吸水树脂）
+- 同源：LG Chem SAPPYER SAP（Chinaplas Acrylates_SAP）、SAPPYER® SLI_SLIM_SLIE + Bio-balanced SAP（LG Chem）
+
+--- [[SAPPYER® SLI_SLIM_SLIE + Bio-balanced SAP（LG Chem）]]  (4 句)
+   • LG Chem **SAPPYER®** SAP 牌号资料（SLI / SLIM / SLIE + 生物循环平衡 SAP），本批 SAP 供应商信息源的牌号级补充。
+   • The document details LG Chem's **SAPPYER®** SAP grade family — **SLI / SLIM / SLIE** — and a **bio-circular balanced (BCB) SAP** line. It sits within LG Chem's broader sustainable-material portfolio (SAP, NPG, IPA, Acrylates, ABS, PE, PP, PC, PVC, etc.). The doc also describes a circular pyrolysis route recovering ~8 tons of "Circular Pyrolysis Oil" from 10 tons of plastic waste. Grade-level performance specs (absorbency, AUL, etc.) were not extracted in the read portion → marked .
+   • **LG Chem SAPPYER® 含 SLI/SLIM/SLIE 牌号与 BCB 生物平衡 SAP** —— 支撑页：LG Chem（LG 化学）、SAP（高吸水树脂）
+   • 实体：LG Chem（LG 化学）
+- 概念：SAP（高吸水树脂）
+- 同源：LG Chem SAPPYER SAP（Chinaplas Acrylates_SAP）、LG Chem SAP Product Page（Chinaplas Acrylates_SAP）
+
+--- [[Multilayer SAP Core（多层SAP芯体）]]  (3 句)
+   • 1. **固定机制**：SAP 沉积在下层高蓬松热风无纺布上 → 覆上层无纺布 → 在 land 区（无 SAP 带）land-to-land 压合/粘合，把 SAP 限制在 pocket 内。与 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） 的"land 也是封堵凸台"原理同源。
+2. **功能分层**：靠**两层不同性能的 SAP** 分工——上层用**高渗透型**（high permeable，快速下渗），下层用**高保水型**（high retention，锁水）。这是本架构相对"单一 SAP 牌号均匀混合"的核心增益。
+3. **层间用胶极少量**：示例构型中每层界面仅 **3 gsm** 热熔胶，主固定力来自 land 压合而非胶（对照 Glueless Bonding（无胶粘合工艺族））。
+4. **与 Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体） 的关系**：本架构是"无浆化"的一条实现路径；差异在于**用高蓬松无纺布替代绒毛浆的分散与缓冲功能**，而非用 SAP 吸水纸（SAPP）或 
+   • 上位：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、芯体测试方法与验收基准（STM）
+- 同源机制：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）（land 封堵）、Glueless Bonding（无胶粘合工艺族）
+- 替代路径：SAP 吸水纸（SAPP）、Super Absorbent Fibre（超吸水纤维 SAF）、High-Density Fluff Core（高密度绒毛浆芯体）
+- 失效对照：Gel Blocking（凝胶阻塞）、Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- 设备方：Fameccanica（Angelini Technologies）
+   • **Lesson（分工优于均混）**：本架构把"渗透"与"保水"两个互相冲突的 SAP 指标**拆到两层**，绕开了单一牌号必须妥协的问题 —— 这是**分层架构相对均匀混合芯体的结构性优势**，可外推到其它分层设计（如 分区密度设计）。
+- **Lesson（无浆化的第三条路）**：无浆化不止 SAPP / SAF 两条材料路，**"高蓬松无纺布夹持"是一设备/结构路**——选型时应把设备可行性纳入，而非只对比材料。
+- **待补 **：SAP 牌号与渗透/保水的量化判据；两层 gsm 配比与 CRC/AUL/GBP 的响应关系；量产速度与良率；专利覆盖范围。
+
+--- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]  (3 句)
+   • **模块与滤纸选型**：U 型试样底座、样品支架、加液模块、加压模块须按规格匹配——NB/S 用 NB/S + 小号；M/L 用 M/L + 中号；XL 及以上用 XL/XXL + 大号。回渗吸水纸 NB/S 100×70 mm、M/L 110×70 mm、XL 及以上 120×80 mm；渗漏吸水纸 NB/S 200×105 mm、M/L 200×118 mm、XL 及以上 200×135 mm。
+   • **测试时序（本文件最独特的信息）**：样品称重 → 套上样品支架（折页在支架外侧、表面平整无明显褶皱）→ 底座内放已知质量渗漏吸水纸（后端与底座后刻度线齐平）→ 支架放入底座、置于仪器固定位 → 点「加热」确保测试液 **36 ± 1 ℃** → 选型号启动 → 自动加液并记录**第一次吸收时间** → **8 min 后**第二次加液，记录**第二次吸收时间** → **15 min 提示时**立即在样品表面放置已知质量回渗吸水纸并对中模块中心 → **16 min 时**加压模块开始加压，**加压 1 min 后**取出回渗与渗漏吸水纸分别称重 → 录入后从「数据汇总」查看平均值作为结果，**精确至 0.1 g** → 每次实验后长按「数据清除」归零。
+   • **注意事项**：使用前关闭蠕动泵阀门、软管置于凹槽内不可挤压；四类模块须型号匹配；支架放入底座要服帖不可歪斜；渗漏吸水纸须与底座后刻度线齐平；设备右下角为急停按钮，正常使用时勿按；**运行中关闭气源会导致比例阀报错**，需断电重启；设备运行时禁止断电；异常复位时若压头被夹持，须先用手扶稳压头再在调试界面松开夹爪。
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (3 句)
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **吸水纸（blotter）三族**：KC 系用 **100 lb Verigood**（88 × 300 mm，1–2 张）；P&G 系用 **Collagen**（P&G Duck 为 Blotter 75 × 145 mm；Collagen BCC 直径 90 mm；Collagen AFC 31 gsm，112 或 70 mm 直径）；其余用 **Filter Paper**（China U Rewet 145 gsm / 10 张；Diaper Testing Intl Type 102 / 10 张；NWSP 070.9 Grade 950 / ~10 g；Costco FQ Demo Grade 950?）。**张数从 1 张到 10 张，差一个数量级**。
+   • **回渗压力跨方法差 670×（0.005 ↔ 3.35 psi）是"回渗不可跨法比较"最直接的量化证据** —— 支撑页：Rewet Method Comparison（回渗测试方法横向对比）
+- **吸水纸三族（Verigood / Collagen / Filter Paper）与张数 1–10 张，构成第二重不可比** —— 支撑页：Rewet Test（回渗测试）
+- **温度 23 / 36 / 37 °C 三档与 Saline / Synthetic Urine 两类液体，构成第三重不可比** —— 支撑页：尿液模拟液（Urine Analog）
+- **加液位置按性别分化（Closed Cradle 女 95 / 男 200 mm）⇒ 同一产品的"男女口径"本就是两套数据** —— 支撑页：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+- **Poise 分 Research 与 Ad Claim 两套加液口径，Ad Claim 更保守** —— 支撑页：R150540-TL-14137 Poise Use-Tes
+
+--- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]  (3 句)
+   • **Poise 板块**转向宣称：先给出竞品对标（Poise 的 FIUP 研究回渗优于多数品牌，例外是 4D Equate），再处理**P&G 正在做的对比宣称**。核心分歧被明确为**方法差异**——**P&G 用 collagen 测"瞬时转移到皮肤的水分"，K-C 用吸水纸测"产品内全部松散持留液"**。随后提出"干爽是三类度量的集合"，并给出回渗与另两类度量的相关系数（STEWIE R² = 0.83；感官 R² = 0.34 / 0.43），最后用微气候机理说明为什么回渗相关但不充分。
+   • **方法对立（关键）**：**P&G 用 collagen → 测"产品表面到皮肤的瞬时水分转移"；K-C 用吸水纸 → 测"产品内全部松散持留液"。** 两者不是同一物理量，因此同一片产品可以同时在两套方法下给出"更干"与"更湿"。
+   • 派生概念：Residual Fluid & Pore Stranding（残液与孔隙滞留）、Dryness Measure System（干爽度量三分）
+- 已追加：Liner-Surge Embossing（面层-导流层压花）（LSE 的"压合产生小空腔"副作用）
+- 方法互证：Rewet Method Comparison（回渗测试方法横向对比）（collagen vs 吸水纸的方法对立在本页被明确为"不是同一物理量"）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（毛细测试是本页的诊断工具，且被指为"当前瓶颈"）
+- 界面工艺：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）（HSBL DOE 在本页给出与剥离实测**不同的排序**：剥离强度 Henkel 更高，而残液/回渗 RT-8723 更好——**强度 ≠ 回渗**）
+- 供应商：Rextac（APAO 热熔胶）、汉高、Shalag（Shalag 导流层与面层材料）、Fit
+
+--- [[Dryness Measure System（干爽度量三分）]]  (2 句)
+   • 1. **三类度量对应三个不同的"干"**：产品里干了 ≠ 皮肤上干了 ≠ 消费者觉得干。三者之间隔着**微气候**与**主观解释**两层转换，因此不能互相替代。
+2. **微气候是中间的转换环节（四步机理）**：① 液体经直接接触或积液弄湿皮肤 → ② **温热液体蒸发进微气候** → ③ **产品冷却时微气候中的水分在皮肤上冷凝** → ④ 皮肤靠蒸发变干，干不了就受损。**回渗收集的是松散液，贡献的是 30 分钟以后的皮肤水分**。
+3. **因此回渗单独不能预测 EWL**：**外覆层透气性等因素影响同样大**。只有在**外覆层透气性保持不变**的条件下，回渗与 STEWIE 才出现高相关（R² = 0.83）。**这条限定条件必须随结论一起引用**。
+4. **感官相关性更低且需要"极端值"才显现**：员工感官小组与回渗的 R² 仅 0.34（TTM-00623）/ 0.43（低高压回渗），且**要回渗达到极端值（约 17 g）才出现明显的"更湿"判断**——而**典型产品回渗 < 1 g**（closed cradle 可约 2–6 g）。**在商品的正常回渗区间内，回渗差
+   • **教训**：**引用"回渗 ↔ 皮肤干爽"必须带上限定条件**。R² = 0.83 是在**外覆层透气性保持不变**下得到的；透气性一变，这条关系就不成立。
+- **教训**：**在商品的正常回渗区间内，回渗差异未必被消费者感知**。感官差异要靠约 17 g 的极端回渗才显现，而商品通常 < 1 g——**不要用回渗的小数点差异去主张消费者可感知的干爽**。
+- **教训**：**跨公司对标前先对齐定义**。collagen 测"瞬时转移"、吸水纸测"全部松散液"，两者可给出相反结论；**声称"我们更干"之前必须说明是哪种干**。
+- **教训**：**想建立关联就别做大改动**。制造回渗梯度时应**最小化产品改动**（如只调保液容量），否则相关性会被其他变量稀释。
+- **待补 **：回渗 ↔ EWL 的回归方程与品类差异；外覆层透气性在关联中的定量权重；感知干爽的可辨阈（JND）。
+
+--- [[BASF]]  (2 句)
+   • **专利权属（SAP 表面包覆核心工艺）**：2026-09-29 编译识别 BASF SE 为两项中国授权专利的专利权人 —— CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）（液体喷涂包覆）与 CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）（气流分散微粒固体包覆）；两专利均为 **SAP 颗粒后处理/表面交联核心工艺**（源：巴斯夫欧洲公司（BASF SE））。
+- **记录口径**：2026-09-29 该批**未含 BASF 商务报价**，仅记录专利权属；具体供货/报价待人工补充（源：巴斯夫欧洲公司（BASF SE））。
+- **可持续路线的商业定位**：BASF 的 SAP 可持续路线是「**生物质平衡质量守恒分配**」而非改性 —— 性能与常规牌号等同、**免重新配方**；与降解路线（Biodegradable SAP（可降解高吸水树脂））属**不同维度**，不可混引（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- **国产化对接口径**：
+   • **延伸关联**
+- SAP（高吸水树脂）
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAP 吸水纸（SAPP）
+- Biodegradable SAP（可降解高吸水树脂）
+- Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）
+- BNC 基 SAP 表面交联
+- SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+- SAM Testing Methods（超级吸水材料测试方法）
+- SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）
+- SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）
+- 单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+- Multilayer SAP Core（多层SAP芯体）
+- Gel Blocking（凝胶阻塞）
+- GBP-Limited vs CRC-Limited Regime（渗透受限 
+

@@ -1,0 +1,48 @@
+{
+ "stage": "S3",
+ "block": "Areas/Market Insight",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/韩国尿布市场分析及竞争格局.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/韩国尿布市场分析及竞争格局.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/韩国尿布市场分析及竞争格局.md",
+   "name": "韩国尿布市场分析及竞争格局.md",
+   "title_hint": "韩国尿布市场分析及竞争格局"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图.md",
+   "name": "未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图.md",
+   "title_hint": "未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md",
+   "name": "中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md",
+   "title_hint": "中国纸尿裤市场：技术创新的前沿与未来路线图.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Roadmap_2026.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Roadmap_2026.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Roadmap_2026.pptx.md",
+   "name": "China_Diaper_Tech_Roadmap_2026.pptx.md",
+   "title_hint": "China_Diaper_Tech_Roadmap_2026.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Report_2026.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Report_2026.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Report_2026.pptx.md",
+   "name": "China_Diaper_Tech_Report_2026.pptx.md",
+   "title_hint": "China_Diaper_Tech_Report_2026.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/纸尿裤新品调研报告（2024-2025）.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/纸尿裤新品调研报告（2024-2025）.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Market Insight/纸尿裤新品调研报告（2024-2025）.pdf.md",
+   "name": "纸尿裤新品调研报告（2024-2025）.pdf.md",
+   "title_hint": "纸尿裤新品调研报告（2024-2025）.pdf"
+  }
+ ]
+}

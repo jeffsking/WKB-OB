@@ -1,0 +1,21 @@
+{
+  "batch": "seed_fill_m",
+  "done": [
+    "WIKI/concepts/电子纺织品 E-textile.md",
+    "WIKI/concepts/离子强度 Ionic Strength.md",
+    "WIKI/concepts/等离子处理 Plasma Treatment.md",
+    "WIKI/concepts/粘胶纤维 Viscose Fiber.md",
+    "WIKI/concepts/聚氨酯 Polyurethane.md",
+    "WIKI/concepts/莱赛尔 Lyocell.md",
+    "WIKI/concepts/防水透气 Waterproof Breathable.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "WIKI/concepts/电子纺织品 E-textile.md",
+    "WIKI/concepts/等离子处理 Plasma Treatment.md",
+    "WIKI/concepts/粘胶纤维 Viscose Fiber.md",
+    "WIKI/concepts/聚氨酯 Polyurethane.md",
+    "WIKI/concepts/防水透气 Waterproof Breathable.md"
+  ],
+  "count": 7
+}

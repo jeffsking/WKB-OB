@@ -1,0 +1,59 @@
+# SEED: SMS 复合无纺布
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Polymer-laid web formation
+#
+# 全库正文命中 7 页，10 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]  (3 句)
+   • 本批**复合无纺布的品类—工艺—应用全景目录（编制 2026-04，来源：中国产业用纺织品行业协会、上市公司招股书、行业研究报告）**：把 8 大类复合结构、卫材分层应用图、2024–2026 技术趋势与 2025 产能快照压成一张选型底表。是本库回答「卫材各层该用哪类复合无纺布」的通用参考。
+   • **二、其他主流复合结构**：
+- **S/PE 膜复合**——纺粘 + PE 透气膜，热熔胶或热压复合 + 微孔 PE 膜技术。特性：透气不透水、高强度、防渗漏，**⚠️ 手感较 SMS 偏硬**。应用：纸尿裤/卫生巾底膜（防渗漏层）、部分防护服、宠物垫底层。
+- **水刺-纺粘复合**——水刺布 + 纺粘布，成品布复合或在线复合，**创新点：在线超声波粘合（无胶环保）**。特性：表层柔软亲肤吸水、底层高强防渗漏。应用：高端卫材面层、医疗敷料、湿巾基材。
+- **热风复合无纺布**——原料为 **ES 双组分纤维（皮芯结构 PE/PP 或 PE/PET）**，工艺为纤维梳理成网 → 热风穿透加热 → 冷却固化。特性：蓬松柔软、弹性好、保暖性强、棉质感手感，**⚠️ 强度相对较低**。应用：**卫生巾/纸尿裤芯体包裹层**、保暖材料、一次性卫生用品。
+- **超声波复合无纺布**——超声波模头高频振动局部熔融粘合（点粘合、线粘合）。特性：**无化学粘合剂（环保）**、粘合点强度高、保持透气性、可设计花型图案。应用：**卫生用品面层与导流层复合**、PLA 可降解材料复合、腰围侧边封合。
+   • **复合无纺布的选型是"结构层数 × 功能后处理"的二维问题，层数决定强度与阻隔、后处理决定亲水/拒水** —— 支撑页：SMS复合结构、Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- **SSMMS 是高端化的当前落点，代价是成本档位最高** —— 支撑页：Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- **超声波复合把"无胶环保"与"花型可设计"合并为同一工艺选择** —— 支撑页：Glueless Bonding（无胶粘合工艺族）、Ultrasonic Bonding of PET-Containing Topsheet
+- **热风复合的 ES 原料（皮芯 PE/PP 或 PE/PET）把无纺布选型与低熔点纤维选型绑在一起** —— 支撑页：热风粘合无纺布、皮芯复合纤维
+- **可冲散可降解与 PLA 复合是环保工艺创新的两条主线** —— 支撑页：可家庭堆肥无纺布（Home Compostable Nonwoven）、Biodegrada
+
+--- [[热风无纺布]]  (2 句)
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+   • Development of the nonwovens industry
+- Handbook of Nonwovens
+- Thermal bonding
+- Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres
+- Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）
+- Multilayer SAP Core（多层SAP芯体）
+- 可降解皮芯架构对比（PPC-PBAT 皮 × 四芯层）
+- Huayi Group（待核中文名）
+- GFL General Presentation for KC Asia 20260603
+- 中科依兰
+
+--- [[Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）]]  (1 句)
+   • Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用） —— 
+- 06_SSMMS无纺布技术研究报告.md ——
+
+--- [[底膜 Backsheet]]  (1 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。本库引用来源对"底膜 / 背层 backsheet"给出的是**功能性口径**，而非词典式定义。
+- 功能性口径（有来源支撑）：底膜是卫材结构中的**最外层阻隔—透气件**，其阻隔与透气由**层压（lamination）工艺**设计实现 —— "lamination engineers barrier/permeability for backsheets"（源：Nonwoven fabric finishing）；库内把 topsheet / ADL / core / **backsheet** / rewet 并列为卫材主线层级（源：Handbook of Nonwovens）。
+- **两条技术路线**：① 「微孔透气膜 + 纺粘」复合膜背层（film laminate）；② **无膜背层**（以高阻隔熔喷复合无纺布替代，如 30 gsm SMMMS）（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层
+
+--- [[06_SSMMS无纺布技术研究报告.md]]  (1 句)
+   • Industry research compilation (2026-04, web-sourced: 企业官网/行业报告/展会信息) on SSMMS spunmelt composite nonwovens（五层纺粘-熔喷复合无纺布）, centered on 广鸿新材's industrialization. Supplies the structure-performance baseline and China supply landscape for hygiene top/backsheet material selection.（SSMMS 结构-性能基线与中国供应格局。）
+
+--- [[Bicomponent Fibre Technology Development Trends]]  (1 句)
+   • Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 同主题：喷丝板、卷曲与功能母粒的生产实践视角。
+- Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流） — ES 纤维供应商产能与无锑切换的落地信息。
+- Thermal bonding — 热粘合机理与工艺窗口概念页。
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — 纺粘/熔喷工艺的同源书章节。
+- Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用） — 复合非织造布种类与应用的当代对照。
+
+--- [[Polymer-laid web formation]]  (1 句)
+   • 父书：Handbook of Nonwovens
+- 概念：纺粘 Spunbond、熔喷 Meltblown、SMS 复合无纺布、驻极体 Electret、Topsheet（面层）
+- 关联章节：Dry-laid web formation、Wet-laid web formation、Thermal bonding
+

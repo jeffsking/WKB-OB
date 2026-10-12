@@ -1,0 +1,65 @@
+# SEED: 藻酸盐 Alginate
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Research Advances in Superabsorbent Polymers (Polymers 2024)
+#
+# 全库正文命中 10 页，13 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Research Advances in Superabsorbent Polymers (Polymers 2024)]]  (3 句)
+   • **定义与机理**：SAPs 是具有适度交联结构的三维有机材料，在水溶液中溶胀，吸收超过自身干重 1000 倍液体，且在压力下不释放吸收液体；吸水机理遵循 Flory 网络理论（渗透压驱动）。
+- **材料分类与性能对比（Table 1）**：
+  - 合成聚合物：PAA（59 g/g, >90% 持水）、PAN（95 g/g, 85%）、PVA（74 g/g, 93%）——吸水性能强但不可降解
+  - 天然聚合物：纤维素（119 g/g, 61%）、壳聚糖（670 g/g, 56%）、淀粉（343 g/g, 80%）、蛋白（860 g/g, 30%）、藻酸盐（1700 g/g, 70%）——环保但吸水倍率低，需接枝改性
+- **PAA 为核心体系**："the most commonly used superabsorbent"；分子量可达 10^7 g/mol；丙烯酸钾+丙烯酰胺在 K₂S₂O₈（引发剂）+ MBA（交联剂）下聚合交联。
+- **离子强度效应**：离子浓度增加→吸水能力显著下降；多价阳离子影响更大——直接关系到人体尿液（含 Na⁺/K⁺/Mg²⁺/Ca²⁺）环境下的
+   • **PAA 是 SAP 绝对主流**——"the most commonly used superabsorbent"，且吸水性能与持水率的平衡最优（59 g/g + >90% 持水），是纸尿裤/卫生巾的核心材料。
+- **天然聚合物吸水倍率更高但持水率更低**——藻酸盐 1700 g/g 但仅 70% 持水，蛋白 860 g/g 但仅 30% 持水；说明"吸水倍率≠实用性能"，CRC/AUL 才是实用指标。
+- **离子强度是关键变量**——多价阳离子对吸水能力的抑制远大于单价阳离子，直接关系到尿液环境下的 SAP 表现。
+- **SAP 形态演进方向是纳米纤维与凝胶**——在生物医用领域（药物递送、伤口敷料、组织工程）有独特优势，对下一代卫生材料设计有启示。
+- **1978 日本商业化→1980s 纸尿裤**——卫生用品是 SAP 最大应用市场，SAP 技术演进与卫生用品需求紧密耦合。
+   • SAP（高吸水树脂）
+- 吸收芯体
+- PAA 聚丙烯酸
+- CRC 离心保持能力
+- AUL 加压吸水率
+- 藻酸盐 Alginate
+- 壳聚糖 Chitosan
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (2 句)
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+   • Smart Polymers Ch11 Smart Polymer Drug Delivery — mechanistic counterpart: same networks modelled by mesh size and release class.
+- Smart Polymers Ch13 Affinity Precipitation of Proteins — the source identifies Ch.12's LCST gelling and alginate-Ca²⁺ gelation as direct precursors to Ch.13's smart-polymer precipitation.
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+- Smart Polymers Ch02 Responsive Polymer Brush Theory
+- Smart Polymers Ch10 Boronate Copolymers and Gels
+- Smart Polyme
+
+--- [[交联密度 Crosslink Density]]  (1 句)
+   • **Cross-linking routes.** Chemical cross-linking (bifunctional/multifunctional cross-linkers, chain-transfer cross-linking) plus radiation cross-linking (β-ray, UV)（源：Acrylic-Based Superabsorbent Polymers）。For hydrogel SAP the routes are chemical cross-linking, **physical cross-linking** (hydrogen bonding; e.g. chitosan with calcium alginate, cellulose) and composite modification with nanomaterials（源：Hydrogel-based Superabsorbent Polymers）。**Green-synthesis note:** microwave polymerisation gives
+
+--- [[离子强度 Ionic Strength]]  (1 句)
+   • **Ionic cross-linking.** The polymer-chemistry source states verbatim: *"divalent ions are known to act as cross-links between carboxyl groups in natural resins"*, and notes ionomers as the polymer class that carries ionic bonds — ionic bonds are otherwise uncommon in polymers（源：Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure）。In the microfluidics source the same route appears as a fabrication option, where **Ca²⁺ + alginate gives "temporary hydrogel networks"**（源：Smart Polym
+
+--- [[Hydrogels in Regenerative Medicine]]  (1 句)
+   • **Release control**: porous structure is tunable via cross-link density; drug release rate depends on the diffusion coefficient through the gel network. Low interfacial tension ⇒ minimal protein adsorption from body fluids.
+- **Wound dressing (closest to our adjacency)**: an ideal dressing must maintain a moist interface, allow gas exchange, act as a microorganism barrier and remove excess exudate, while being non-toxic, non-allergenic, non-adherent and removable without trauma. Hydrogel dressin
+
+--- [[Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）]]  (1 句)
+   • 文件由四个板块交错组成。**板块一｜公司画像**：山东纳美欣生物科技有限公司（品牌名「纳美欣」）成立于 2018-07-30，注册资本 300 万元人民币，注册地为济南市高新区大正路 1777 号生物医药园中小企业产业化基地 17 号楼，所属行业记为医药制造业，经营状态开业/存续；法定代表人刘景君（另有一条来源记录为蒋连海，原文判为历史变更或记录差异）；2023 年年报参保人数 2 人；官网两处记录为 nameixin.cn 与 nameixin.com。**板块二｜技术与资质**：核心技术为纳米纤维素（BC/CNF/CNC）的提取与应用；与中科院微生物研究所、复旦大学、齐鲁工业大学、天津科技大学开展联合研发；具备国家高新技术企业、山东省瞪羚企业、专精特新等资质。其最具辨识度的专利群在**古籍修复**方向（纤维涂布/转移加固、负压梯度加热干燥）。**板块三｜医用敷料**：给出敷料四类功能（保护创面、吸收渗液、促进愈合、止血固定）与现代敷料分类（水胶体、泡沫、藻酸盐、银离子、水凝胶），并讨论敷料技术向纸尿裤迁移的路径。**板块四｜SAF 综述**：给出四条工艺路线（干-湿法纺丝、溶液一步
+
+--- [[Smart Polymers Ch13 Affinity Precipitation of Proteins]]  (1 句)
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering — supplies the coexistence-curve and cloud-point physics on which the LCST table here rests.
+- Smart Polymers Ch02 Responsive Polymer Brush Theory — the same LCST/χ language applied to grafted layers.
+- Smart Polymers Ch10 Boronate Copolymers and Gels — another recognition-driven route to reversible precipitation and gel closure.
+- Smart Polymers Ch11 Smart Polymer Drug Delivery
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy —
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (1 句)
+   • **Fabrication routes compared** (L237–278): photopolymerization (high placement freedom, but "the radicals formed from the initiators are toxic to the cells"), thermally initiated polymerization (less control over size and location), ionic cross-linking (Ca²⁺ + alginate gives "temporary hydrogel networks"), interfacial polymerization (reagents in adjacent laminar streams at a T-junction), and enzymatic cross-linking (gelatin + transglutaminase cast in a silicone mold). Gradient hydrogels are mad
+
+--- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]  (1 句)
+   • Two engineering routes recur: (a) **gel-on-fibre** — chitosan gel thermally spray-bonded onto PET fibre to give fast uptake, lock-in, anti-rewet and antibacterial behaviour in one fibre; (b) **three-layer antibacterial superabsorbent** — breathable kapok/bamboo skins enclosing a chitosan-acrylic acid/alginate microsphere core, explicitly designed to fix the "wet → no breathability" failure mode.
+
+--- [[高吸水纤维技术应用.pdf]]  (1 句)
+   • Company: Shandong Nameixin Biotechnology（品牌 纳美欣）， est. 2018-07-30, Jinan high-tech zone, 3M RMB registered capital; national high-tech + Shandong gazelle + specialized-SME; core = nanocellulose（细菌纤维素 BC、CNF/CNC）bio-extraction; partnerships with CAS Institute of Microbiology, Fudan, Qilu University of Technology; BC wound dressing with 3D-printed sandwich porous structure exceeded 10M RMB sales in 2024Q1. Dressing→diaper transfer: shared materials（CMC/alginate fibres, PE breathable film, SAP）; ac
+

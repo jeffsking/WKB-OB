@@ -1,0 +1,50 @@
+# SEED: 化妆品微生物限值（细菌总数·致病菌）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 8 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）]]  (4 句)
+   • Historical CN method standard for **cosmetic total plate count**（化妆品细菌总数，卵磷脂-吐温80 平板计数法）— the 1987 ancestor of the plate-count method family still behind CN hygiene-product microbiological limits.
+   • GB 7918.2-87 defines bacterial total count（细菌总数）as viable bacteria per gram or millilitre of cosmetic and prescribes the standard plate count on lecithin-Tween-80 nutrient agar — the lecithin and Tween neutralize cosmetic preservatives so the true microbial load is recovered — incubated 48 h at 37 ℃, capturing mesophilic aerobes and facultative anaerobes. Serial 1:10 dilutions to 1:10000+, double plates per dilution, blank control, and a full counting/reporting decision tree (30–300 selection wi
+   • **37 ℃/48 h 卵磷脂-吐温80 平板计数是 CN 卫品微生物限值（≤200/≤20 CFU 等档位）的方法学源头**，跨标准比较 CFU 限值必须确认培养条件一致 —— 支撑页：化妆品微生物限值（细菌总数·致病菌）
+   • 概念：化妆品微生物限值（细菌总数·致病菌）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 同族：GB 7918.5-1987 Microbiological Test Methods for Cosmetics Staphylococcus aureus（化妆品微生物标准检验方法 金黄色葡萄球菌）、GB 7918.1-1987 Microbiological Test Methods for Cosmetics General（化妆品微生物标准检验方法 总则）
+
+--- [[GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）]]  (2 句)
+   • **「婴幼儿/粘膜接触类」在本标准中即被单列更严的微生物口径（500 vs 1000）** —— 支撑页：化妆品微生物限值（细菌总数·致病菌）
+- **限用物质的叠加规则（Σ ≤1）是复配防腐剂设计的硬约束** —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- **Phenoxyethanol 1.0% 是本标准表4 给出的防腐剂口径，与 EU SCCS 1.0% 口径一致（出处不同，勿混为一条）** —— 支撑页：Phenoxyethanol（苯氧乙醇）
+- **汞/铅/砷/甲醇四项重金属与溶剂限量是原料准入的底线筛** —— 支撑页：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）、化妆品微生物限值（细菌总数·致病菌）、Phenoxyethanol（苯氧乙醇）
+- 实体：（无本页独有实体；标准归口机构见正文 §1.5 与附加说明）
+- 对比：（**本批未建** —— GB 7916-1987 的现行有效性与是否被《化妆品安全技术规范》（2015）替代尚未核实，标 ，不具备并列对比的事实基础）
+
+--- [[GB 7918.1-1987 Microbiological Test Methods for Cosmetics General（化妆品微生物标准检验方法 总则）]]  (2 句)
+   • **SCDLP/卵磷脂-吐温80 中和体系是「含防腐剂样品能测出真实菌量」的前提**——比较不同标准微生物结果时先确认样前处理一致 —— 支撑页：化妆品微生物限值（细菌总数·致病菌）
+   • 概念：化妆品微生物限值（细菌总数·致病菌）、中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 同族：GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）、GB 7918.5-1987 Microbiological Test Methods for Cosmetics Staphylococcus aureus（化妆品微生物标准检验方法 金黄色葡萄球菌）
+
+--- [[GB 7918.5-1987 Microbiological Test Methods for Cosmetics Staphylococcus aureus（化妆品微生物标准检验方法 金黄色葡萄球菌）]]  (2 句)
+   • **「不得检出」是定性确认链而非计数阈值**：判定金葡菌检出需要形态+生化+凝固酶全链确认，采购协议中的「不得检出」条款应写明按现行版检验方法执行 —— 支撑页：化妆品微生物限值（细菌总数·致病菌）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+   • 概念：化妆品微生物限值（细菌总数·致病菌）
+- 同族：GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）、GB 7918.1-1987 Microbiological Test Methods for Cosmetics General（化妆品微生物标准检验方法 总则）
+
+--- [[Phenoxyethanol（苯氧乙醇）]]  (1 句)
+   • 中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+- 化妆品微生物限值（细菌总数·致病菌）
+
+--- [[中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）]]  (1 句)
+   • 防腐剂单体：Phenoxyethanol（苯氧乙醇）
+- 微生物口径：化妆品微生物限值（细菌总数·致病菌）
+- 卫材侧总纲：GB 15979-2024（一次性使用卫生用品卫生要求）（湿巾/卫生用品走 GB 15979 + GB 38598，与化妆品体系不同轨）
+
+--- [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]]  (1 句)
+   • 概念：GB 15979-2024（一次性使用卫生用品卫生要求）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）、化妆品微生物限值（细菌总数·致病菌）
+- 实体：（无）
+- 对比：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）、GB 15979-2024 与 GB 15979-2002 主要技术变化对比
+
+--- [[GB 7917.1-1987 Hygienic Chemical Test Methods for Cosmetics Mercury（化妆品卫生化学标准检验方法 汞）]]  (1 句)
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）、化妆品微生物限值（细菌总数·致病菌）
+- 同族方法标准：GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定） 等（本批后续页）
+

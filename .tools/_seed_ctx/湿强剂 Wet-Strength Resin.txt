@@ -1,0 +1,119 @@
+# SEED: 湿强剂 Wet-Strength Resin
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Adhesive Handbook
+#   - Adhesive Handbook Part 4 Applications
+#
+# 全库正文命中 62 页，100 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (6 句)
+   • Twenty chapters covering the resin, its compounding and filled/composite forms. Per the preface, Chapters 1, 3, 6, 7 and 8 were revised from the 1st edition (1999) and six new chapters (15–20) were added. Italic markers below indicate chapters **not present** in the preview file in this vault.
+   • 1. **Global Trends for Polypropylene** — M. J. Balow
+2. **Polypropylene: Structure, Properties, Manufacturing Processes, and Applications** — W. J. Kissel, J. H. Han, J. A. Meyer
+3. **Chemical Coupling Agents for Filled and Grafted Polypropylene Composites** — D. Roberts, R. C. Constable
+4. *Stabilization of Flame-Retarded Polypropylene* — R. E. Lee, D. Hallenbeck, J. Likens
+5. *Recycling of Polypropylene and Its Blends: Economic and Technology Aspects* — A. A. Adewole, M. D. Wolkowicz
+6. *Impac
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **HIGH 高关联** — this is one of the few sources in the vault that links **resin specification → nonwoven process → delivered fabric property** with numbers attached, and it is the canonical citation for the MFR split between spunbond and meltblown. Directly serves:
+
+--- [[LG Chem（LG 化学）]]  (3 句)
+   • **2026-09-29 记录**：**US 9,950,308 B2**「Superabsorbent Polymer」——授权日 2018-04-24（PCT/KR2014/007068，WO2015/016643）
+- **2026-09-29 记录**：**EP 3 636 698 B1**「Super Absorbent Resin」——授权日 2022-11-09（PCT/KR2018/009352，WO2019/050183）
+- **2026-09-29 记录**：**US 12,145,129 B2**「Superabsorbent Polymer Composition and Method for Preparing the Same」——授权日 2024-11-19（PCT/KR2019/013302，WO2020/122390）
+- 发明人（部分）：Sang Gi Lee、Kyu Pal Kim、Gi Cheul Kim、Bohee Park、Jun Kyu Kim、Dong Hyun Kim（均 Daejeon, KR）
+   • US9950308B2 Superabsorbent Polymer (LG Chem) —— 
+- EP3636698B1 Super Absorbent Resin (LG Chem) —— 
+- US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem) —— 
+- WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem) —— （2026-09-29 追加）
+   • **产能与份额（2023 口径）**：**25+ 万吨/年，全球份额 ~8%**，标签为「规模扩张 / 快速扩张」；对华供应为「进口 + 本地」。
+- **生物基路线（关键）**：**LG 化学 + ADM 联合开发生物基丙烯酸 SAP**，状态为「开发中」——即**生物基 SAP 五路线中的第 ⑤ 条（生物基单体路线）的唯一产业方**。
+- **该路线的特性（与可降解路线区分）**：生物基丙烯酸 SAP **性能与传统 SAP 相当、并不降解**；成本溢价仅 **+10–20%**，是五条生物基路线中**溢价最低**者。
+- **供应风险 [I]**：生物基丙烯酸目前**仅此一个联合开发项目**，属单点来源；若生物基路线要上量，须评估 ADM 原料端与 LG 聚合端的双重依赖。
+- 来源页 生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）；相关专利与产品页见 EP3636698B1 Super Absorbent Resin (LG Chem)、SAPPYER® SLI_SLIM_SLIE + Bio-balanced SAP（LG Ch
+
+--- [[Adhesive Handbook Part 4 Applications]]  (3 句)
+   • **Ch46 电子工业（Bauer & Schneider）**：PCB/SMD 胶黏剂——CTE 匹配、260°C 回流焊耐受、70-80wt% 银填料渗流、环氧+UV 丙烯酸酯为主流；FR4 环氧树脂同时充当铜箔粘合剂与层压基材粘结剂；导电胶金属含量 70-80wt%。
+- **Ch47 木材工业（Dunky）— 全书最长章**：
+  - 工艺参数占粘接性能约 **50%**（"In wood adhesives the application parameters other than the characteristics of the adhesive itself account for around 50% of performance"）
+  - UF 树脂：F/U 摩尔比最关键；氨基亚甲基键水解→高湿高温下不稳定；E1 甲醛排放法规
+  - PMDI：渗透深度为 PF 的 **5-10 倍**，进入木材聚合物结构
+  - CWBL（化学弱边界层，脂肪/蜡质覆盖）与 MWBL（机械弱边界层，加工损伤）
+  - Hot melt（EVA/APAO/polyamide/TP
+   • **"工艺参数占粘接性能约 50%"**（Ch47）——卫材粘接工艺优化的理论依据：胶料选型与工艺参数同等重要，不能只换胶不换工艺。
+- **UF 化学直接适用于湿强剂研发**——UF/三聚氰胺类湿强剂的交联机理与固化动力学，Ch47 提供教科书级解释。
+- **CWBL/MWBL 弱边界层理论**——浆粕表面蜡质覆盖（CWBL）与加工损伤（MWBL）是浆粕粘接性能的核心变量，直接映射浆粕采购质量索赔技术依据。
+- **PMDI 渗透深度为 PF 的 5-10 倍**——MDI 类湿强剂在纤维渗透能力上远优于 PF，解释 MDI 湿强剂性能优势。
+- **生物胶黏剂 mesh size 与粘附强度正比**——与 SAP 凝胶网络动力学（交联度→mesh size→吸收速度/倍率 trade-off）概念完全对应。
+- **E1 甲醛排放法规逻辑**（室内暴露、婴幼儿风险偏好）——直接映射纸尿裤/婴儿湿巾的 VOC 与气味合规要求，是合规战略采购的关键输入。
+- **天然基胶黏剂（tannin/lignin/laccase）**——对应卫材"无胶复合"与"bio-based hot me
+   • Adhesive Handbook
+- SAP（高吸水树脂）
+- 吸收芯体
+- 绒毛浆（Fluff Pulp）
+- 湿强剂 Wet-Strength Resin
+- 热熔胶 Hot Melt Adhesive
+- 粘胶纤维 Viscose Fiber
+- 甲醛排放 E1
+- 生物胶黏剂 Bioadhesive
+- 机械变色 Mechanochromic
+
+--- [[Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure]]  (3 句)
+   • **Ionic bond 离子键** — "The bonding force in sodium chloride is a result of the electrostatic attraction between the two ions." (Ch.3, p.61). Exception in polymers: "Ionic bonds are not common features in polymeric materials. However, divalent ions are known to act as cross-links between carboxyl groups in natural resins. The relatively new class of polymers known as ionomers contain ionic bonds." (Ch.3, p.61)
+- **Covalent bond 共价键** — "Bonds formed by electron sharing are called covalent bonds." 
+   • 1. **Secondary bonds and thermal bonding windows 热轧/热风粘合窗口.** 聚烯烃（PE/PP）非极性，链间只有 van der Waals 力（Table 3.3: 0.08–4.0 kJ/mol）；其熔点却因长链聚合效应而高（Example 3.1）。这解释了热轧粘合必须把纤网加热到接近 Tm 才能使界面链段互相扩散缠结——粘合强度来自"链缠结 + 次键重建"，而非化学键。参见 Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins。
+2. **Hydrogen bonding in cellulosics 纤维素材料的氢键.** 绒毛浆、纤维素纤维的性质由氢键（≤50 kJ/mol，温度依赖性强）主导；这是纤维素亲水、吸湿并在润湿时强度下降的结构根源。
+3. **Ionic cross-linking and SAP 离子交联与超吸水性树脂.** "divalent ions are known to act as cross-links between carbo
+   • Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification
+- Ebewole Polymer Science Ch02 Polymerization Mechanisms
+- Adhesive Handbook Part 2 Fundamental Aspects
+- Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins
+
+--- [[EP3636698B1 Super Absorbent Resin (LG Chem)]]  (3 句)
+   • Granted European patent (LG Chem) on a **super absorbent resin (SAP)** — the European member of LG Chem's SAP patent family, complementing US9950308B2 and US12145129B2 in this batch.
+   • The patent (title: "SUPER ABSORBENT RESIN") grants a super absorbent resin. The bibliographic header lists proprietor LG Chem, Ltd. (Seoul, KR), inventors KIM Kyu Pal, KIM Gi Cheul et al., and a broad IPC set covering C08J (polymer preparation/foaming), A61F 13/53, A61L 15/60, B01J 20/26. It is the European phase of PCT/KR2018/009352 (WO2019/050183), priority KR 20170113133 (2017-09-05). Detailed claim language is in the full text; this summary captures the bibliographic and classification scope
+   • LG Chem SAP resin family member (EU) — supporting page: LG Chem（LG 化学）
+
+--- [[Polymer-laid web formation]]  (3 句)
+   • Chapter 4 is the technical core of the web-formation triptych: it treats spunbond and meltblown as integrated melt-extrusion processes where resin molecular structure sets the processing window, which sets fibre architecture and end-use performance in hygiene/medical disposables.（中文：第 4 章是"成网三章"的技术核心，将纺粘/熔喷视为一体化熔融挤出工艺，树脂分子结构决定工艺窗口，进而决定卫材/医用终端性能。）
+   • §4.2 opens with polymer science: polyolefin architecture (isotactic/syndiotactic/atactic PP; HDPE/LDPE/LLDPE; PET; PA; TPU), resin properties governing spinnability, and the metallocene single-site catalyst revolution.（先讲聚合物科学：聚烯烃立构、可纺性树脂属性、茂金属单活性中心催化剂革命。）
+- Spunbond process engineering (§4.3–4.7) and meltblown engineering with extensive parametric/modelling literature (§4.9–4.13) follow.（随后是纺粘工艺工程与含大量参数/建模文献的熔喷工程。）
+- Composites and future trends (§4.14–4.15) close the chapter, tying polymer-lai
+   • Isotactic PP and the MFR band are the resin-selection hard constraints behind hygiene nonwovens.（等规 PP 与 MFR 区间是卫材无纺布的树脂选型硬约束。）
+- The ~25–45 °C PP/PE melting gap is the physical basis for sheath-core and through-air thermal bonding.（PP/PE 熔点差是通过-空气/皮芯热粘的物理基础。）
+- Broad MWD raises melt elasticity → draw resonance → fibre breaks (a defect-rate driver).（宽分子量分布引发拉伸共振断丝。）
+- Metallocene catalysts widen the design space: finer denier, lower bond temp, broader MFR.（茂金属拓宽设计空间：更细旦、更低粘合温度、更宽 MFR。）
+
+--- [[Polypropylene Handbook Preview]]  (3 句)
+   • **HIGH 高关联 — but redundant within this vault 但在本库内冗余.** The technical content is highly relevant (see Handbook of Polypropylene and Polypropylene Composites for the full rating and the SSMMS / resin-selection / thermal-bond argument). Since this document carries no text the twin does not, it should be treated as a **duplicate registration**, not as an independent corroboration:
+   • Cite the content once. Do not count it twice in any evidence tally.
+- See Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the already-compiled chapter-level extraction, which shares this same Karian source.
+- Because the filename differs from the real title, searching the vault by "Polypropylene Handbook" will hit this mislabelled file; the genuine Karian entry is Handbook of Polypropylene and Polypropylene Composites.
+- Extension beyond this source: Manufactured Fibre Technolo
+   • Handbook of Polypropylene and Polypropylene Composites — **same document**, canonical entry with the full ToC and complete relevance assessment
+- Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — chapter-level extraction from this same Karian handbook
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side counterpart to Ch.2 §2.9.1
+- Bicomponent Fibre Technology Development Trends — sheath-core thermal-bond extension beyond this book
+
+--- [[低熔点 PP 开发任务书：方案 C 技术要点补充页]]  (3 句)
+   • This Chinese-language Plan C supplement is the source-equivalent counterpart of LMP-PP Brief — Plan C Technical Supplement and records the same sheath-resin architecture, process risks, and acceptance window.  
+（中文：本中文方案 C 补充页与英文版对应，记录同一皮层树脂架构、工艺风险与验收窗口。）
+   • Plan C changes the development object from a single-component low-melt PP fiber to a low-melt sheath resin for an all-PP sheath–core fiber. The sheath melts to form bonding bridges while the approximately 165°C PP core remains intact as the load-bearing skeleton. Three resin-side levers are combined: high ethylene-plus-butene comonomer content, a controlled low-isotacticity fraction, and no nucleating agent. The document identifies excessive xylene solubles, insufficient quenching, a narrow heat
+   • **Selective sheath melting preserves the core skeleton.（皮层选择性熔融并保留芯层骨架。）** — supporting page: 皮芯复合纤维.
+- **Resin and structure design must be used together.（树脂设计与结构设计必须协同使用。）** — supporting page: 低熔点聚丙烯.
+- **The route has distinct cost and supply-chain implications.（该路线具有独立的成本与供应链含义。）** — comparison: 低熔点PP技术路线对比.
+
+--- [[Meltblown Nonwoven（熔喷非织造布）]]  (2 句)
+   • 1. **Drag-limited attenuation 阻力限制的牵伸**：filament reaches velocity-matching with the air jet, and after that mass conservation fixes the diameter（d ∝ v(m / Λ v_a)）。Melt viscosity only changes how fast matching is reached — 2.4 mm from the tip at 285 °C, 2.7 mm at 250 °C。中文：一旦与射流速度匹配，质量守恒即锁定直径；粘度只影响「多快达到匹配」。
+2. **Three real levers 三个真实杠杆**：cut g/hole/min（0.73 → 0.20 at fixed line output means 35 → 130 hpi）、raise jet velocity（150 → 250 m/s buys 2.85 → 2.21 µm, then saturates）、and **nothing else** —
+   • Composite structures 复合结构：SMS复合结构、Film-Free Backsheet（无膜背层）
+- Process peers 同层工艺：热风粘合无纺布、无纺布五大工艺对比
+- Governing physics 支配物理：Formation-Limited Barrier（阻隔的成形受限机理）、熔融指数与化学降解
+- Hardware 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- Resin 树脂：茂金属聚丙烯
+
+--- [[低熔点聚丙烯]]  (2 句)
+   • LMP-PP Resin Development Brief (Integrated Edition) ——
+   • LMP-PP Resin Development Brief ——
+

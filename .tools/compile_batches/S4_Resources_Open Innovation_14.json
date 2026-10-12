@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素卫材应用技术路线图_V1.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素卫材应用技术路线图_V1.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素卫材应用技术路线图_V1.docx.md",
+   "name": "纳米纤维素卫材应用技术路线图_V1.docx.md",
+   "title_hint": "纳米纤维素卫材应用技术路线图_V1.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.01.31 - GRIFFIN Rewet.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.01.31 - GRIFFIN Rewet.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.01.31 - GRIFFIN Rewet.pptx.md",
+   "name": "2025.01.31 - GRIFFIN Rewet.pptx.md",
+   "title_hint": "2025.01.31 - GRIFFIN Rewet.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Scaling_Visible_Force v2.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Scaling_Visible_Force v2.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Scaling_Visible_Force v2.pptx.md",
+   "name": "Scaling_Visible_Force v2.pptx.md",
+   "title_hint": "Scaling_Visible_Force v2.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Rewet Competitive Analysis 9-11-25-1.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Rewet Competitive Analysis 9-11-25-1.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Rewet Competitive Analysis 9-11-25-1.pptx.md",
+   "name": "Rewet Competitive Analysis 9-11-25-1.pptx.md",
+   "title_hint": "Rewet Competitive Analysis 9-11-25-1.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素综述.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素综述.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素综述.md.md",
+   "name": "纳米纤维素综述.md.md",
+   "title_hint": "纳米纤维素综述.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP四大核心指标拆解与说明.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP四大核心指标拆解与说明.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP四大核心指标拆解与说明.docx.md",
+   "name": "SAP四大核心指标拆解与说明.docx.md",
+   "title_hint": "SAP四大核心指标拆解与说明.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP_Three_Way_Design_Comparison.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP_Three_Way_Design_Comparison.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP_Three_Way_Design_Comparison.pptx.md",
+   "name": "SAP_Three_Way_Design_Comparison.pptx.md",
+   "title_hint": "SAP_Three_Way_Design_Comparison.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/1p v 3p CD Pants Overview.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/1p v 3p CD Pants Overview.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/1p v 3p CD Pants Overview.pptx.md",
+   "name": "1p v 3p CD Pants Overview.pptx.md",
+   "title_hint": "1p v 3p CD Pants Overview.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md",
+   "name": "2025.08.28 - GRIFFIN Regroup.pptx.md",
+   "title_hint": "2025.08.28 - GRIFFIN Regroup.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Liner-Surge Rewet - Density Testing.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Liner-Surge Rewet - Density Testing.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Liner-Surge Rewet - Density Testing.xlsx.md",
+   "name": "Liner-Surge Rewet - Density Testing.xlsx.md",
+   "title_hint": "Liner-Surge Rewet - Density Testing.xlsx"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "batch_id": "W11-2",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_50939d4ffba223ebe44861c274fe5b73001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/29_Principles_of_polymerization.pdf.md",
+   "name": "29_Principles_of_polymerization.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_9f33e3604542a7f7891b448d20de6156001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Barel_Paye_Maibach_Handbook_of_Cosmetic.pdf.md",
+   "name": "Barel_Paye_Maibach_Handbook_of_Cosmetic.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_734e2460298d7cc4d43a7b8dbd96b8bd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Cosmetic_Formulation_of_Skin_Care_Produc.pdf.md",
+   "name": "Cosmetic_Formulation_of_Skin_Care_Produc.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_716dac288ccddf117f686742985d2bbf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch10_report.md.md",
+   "name": "Absorbent Technology_ch10_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6398deaf03258af7f13aa607b4e4d4ca001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic/Biodegradable Thermoplastic_concepts.md.md",
+   "name": "Biodegradable Thermoplastic_concepts.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d4fe2fda1fb419298651a165fb3bd86a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch07_Percutaneous_Absorption_report.md.md",
+   "name": "ch07_Percutaneous_Absorption_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_48f222fe9379da7fd3e42772f2ec2d79001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch37_Classification_of_Surfactants_report.md.md",
+   "name": "ch37_Classification_of_Surfactants_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_3e122f07ca6885de85ba5e2e14aeea3d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/ES纤维亲水_深度拆书报告_academic_20260813.md.md",
+   "name": "ES纤维亲水_深度拆书报告_academic_20260813.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_8453123e8f64436e99493aeff808b30d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch04.md.md",
+   "name": "Ebewole Polymer Science Technology_ch04.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_fe14bc6d861c34d02d6a24a92e4e2530001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch13.md.md",
+   "name": "Ebewole Polymer Science Technology_ch13.md.md",
+   "type": "markdown"
+  }
+ ]
+}

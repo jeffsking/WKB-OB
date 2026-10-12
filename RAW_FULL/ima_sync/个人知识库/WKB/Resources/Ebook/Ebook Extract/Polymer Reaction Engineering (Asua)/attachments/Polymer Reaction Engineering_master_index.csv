@@ -1,0 +1,29 @@
+chapter,quote_en,page,topic,business_relevance
+Ch1,"Polymers are "product-by-process" whose microstructure, and hence their final properties, are mostly determined in the reactor.",1,Product-by-Process,SAP/ES纤维的微观结构在反应器中决定
+Ch1,"The type of polymerization determines not only the kind of polymer obtained, but also the reactor configuration and the way in which the process is conducted.",1,Polymerization Classification,工艺选型决定反应器选型
+Ch1,"Free-radical polymerization is the most widely used technique for the production of polymers.",9,FRP Dominance,SAP水相聚合的核心机理
+Ch1,"Step-growth polymerization requires high conversion (>98-99%) to achieve high molecular weight.",14,Step-Growth Conversion,ES芯层PET工艺精度
+Ch1,"The gel point marks the transition from a viscous liquid to an elastic gel.",15,Gel Point,SAP交联设计关键节点
+Ch1,"Emulsion polymerization allows simultaneous control of molecular weight and reaction rate.",16,Emulsion Advantage,SAP乳液聚合的独特优势
+Ch2,"Ziegler-Natta catalysts produce polyethylene with very broad molecular weight distributions (PDI > 10).",29,ZN Catalyst,PDI宽分布对ES纤维加工的影响
+Ch2,"Metallocene catalysts offer single-site behavior with narrow MWD (PDI ≈ 2).",43,Metallocene,窄MWD对纤维性能的影响
+Ch2,"The Cossee mechanism describes monomer insertion into the metal-carbon bond.",49,Cossee Mechanism,配位聚合基本机理
+Ch2,"Industrial polyethylene is produced via slurry, gas-phase fluidized bed, or solution processes.",99,PE Reactors,PE生产工艺选型
+Ch3,"The quasi-steady-state assumption (QSSA) is the foundation of free-radical polymerization kinetics.",118,QSSA,SAP聚合动力学基础
+Ch3,"The gel effect (Trommsdorff-Norrish effect) causes autoacceleration due to decreasing kt.",144,Gel Effect,SAP放热风险核心机制
+Ch3,"Controlled radical polymerization (CRP) achieves PDI as low as 1.1-1.3.",151,CRP Precision,功能纤维端基精确控制
+Ch3,"RAFT polymerization uses thiocarbonylthio compounds as chain transfer agents.",153,RAFT,功能纤维合成技术
+Ch4,"Phase inversion in HIPS occurs when the rubber phase becomes the continuous phase.",179,Phase Inversion,冲击改性相结构
+Ch4,"VCM bulk polymerization exhibits three distinct kinetic regimes.",195,VCM Kinetics,PVC聚合工艺控制
+Ch5,"Particle size distribution (PSD) in suspension polymerization evolves through three stages.",209,PSD Stages,树脂颗粒形态设计
+Ch5,"The HLB value of the分散剂 determines the stabilization mechanism and final particle size.",212,HLB Selection,分散剂采购选型依据
+Ch6,"The Smith-Ewart (SMV) theory predicts the average number of radicals per particle.",236,SMV Theory,SAP乳液聚合理论基础
+Ch6,"Emulsion polymerization proceeds through three intervals: nucleation, steady-state, and completion.",236,Three Intervals,SAP聚合三阶段
+Ch6,"Residual monomer removal is a critical post-polymerization step for compliance.",265,Residual Monomer,卫材合规核心要求
+Ch7,"The Carothers equation: DPn = 1/(1-p), where p is the extent of reaction.",273,Carothers Equation,ES芯层PET分子量设计
+Ch7,"Flory gel point: αc = 1/(f*-1), which can be significantly lower than Carothers prediction.",285,Flory Gel Point,SAP交联安全边界
+Ch7,"Poly(ethylene terephthalate) production requires two-stage process: melt polycondensation followed by SSP.",291,PET Process,ES纤维PET生产全链路
+Ch7,"Non-stoichiometric composition limits molecular weight: DPn = (1+r)/(1+r-2rp).",282,Non-stoichiometric,PET配方精度影响
+Ch8,"Thermal runaway in polymerization reactors results from the positive feedback between temperature and reaction rate.",315,Thermal Runaway,SAP放热失控预防
+Ch8,"Extended Kalman Filter (EKF) enables real-time estimation of unmeasurable states like molecular weight.",330,EKF,SAP产线在线监测
+Ch8,"Model Predictive Control (MPC) can handle multi-variable constraints in polymerization reactors.",350,MPC,聚合过程先进控制

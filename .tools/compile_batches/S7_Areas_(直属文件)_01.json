@@ -1,0 +1,55 @@
+{
+ "stage": "S7",
+ "block": "Areas/(直属文件)",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md",
+   "name": "纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md",
+   "title_hint": "纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/纸尿裤的核心结构及市场主流方向.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纸尿裤的核心结构及市场主流方向.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纸尿裤的核心结构及市场主流方向.pdf.md",
+   "name": "纸尿裤的核心结构及市场主流方向.pdf.md",
+   "title_hint": "纸尿裤的核心结构及市场主流方向.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/高吸水纤维的生产工艺.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/高吸水纤维的生产工艺.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/高吸水纤维的生产工艺.pdf.md",
+   "name": "高吸水纤维的生产工艺.pdf.md",
+   "title_hint": "高吸水纤维的生产工艺.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/纳米纤维素纤维技术及应用深度研究报告.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纳米纤维素纤维技术及应用深度研究报告.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纳米纤维素纤维技术及应用深度研究报告.pdf.md",
+   "name": "纳米纤维素纤维技术及应用深度研究报告.pdf.md",
+   "title_hint": "纳米纤维素纤维技术及应用深度研究报告.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/纸尿裤核心技术与应用材料全景解析.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纸尿裤核心技术与应用材料全景解析.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/纸尿裤核心技术与应用材料全景解析.pdf.md",
+   "name": "纸尿裤核心技术与应用材料全景解析.pdf.md",
+   "title_hint": "纸尿裤核心技术与应用材料全景解析.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md",
+   "name": "壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md",
+   "title_hint": "壳聚糖及壳聚糖纤维技术与应用总结报告.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/可降解生物基材料与薄且强芯体技术深度解析.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/可降解生物基材料与薄且强芯体技术深度解析.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/可降解生物基材料与薄且强芯体技术深度解析.pdf.md",
+   "name": "可降解生物基材料与薄且强芯体技术深度解析.pdf.md",
+   "title_hint": "可降解生物基材料与薄且强芯体技术深度解析.pdf"
+  }
+ ]
+}

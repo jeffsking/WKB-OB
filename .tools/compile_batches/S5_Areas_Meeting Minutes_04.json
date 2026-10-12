@@ -1,0 +1,76 @@
+{
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/把压力变成颜色.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/把压力变成颜色.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/把压力变成颜色.md",
+   "name": "把压力变成颜色.md",
+   "title_hint": "把压力变成颜色"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+   "name": "Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md.md",
+   "title_hint": "Workshop_Prep_Absorbency_SkinHealth_Comfort_2026.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/合作开发新模具设计.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/合作开发新模具设计.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/合作开发新模具设计.md",
+   "name": "合作开发新模具设计.md",
+   "title_hint": "合作开发新模具设计"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/I sap生产流程介绍.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/I sap生产流程介绍.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/I sap生产流程介绍.md",
+   "name": "I sap生产流程介绍.md",
+   "title_hint": "I sap生产流程介绍"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/江南高纤公司介绍及产品技术交流会议纪要.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/江南高纤公司介绍及产品技术交流会议纪要.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/江南高纤公司介绍及产品技术交流会议纪要.pdf.md",
+   "name": "江南高纤公司介绍及产品技术交流会议纪要.pdf.md",
+   "title_hint": "江南高纤公司介绍及产品技术交流会议纪要.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.docx.md",
+   "name": "TJ工厂访问会前简报_20260907_v3.docx.md",
+   "title_hint": "TJ工厂访问会前简报_20260907_v3.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Huafeng Group合作会议总结与行动项 1.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Huafeng Group合作会议总结与行动项 1.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/Huafeng Group合作会议总结与行动项 1.docx.md",
+   "name": "Huafeng Group合作会议总结与行动项 1.docx.md",
+   "title_hint": "Huafeng Group合作会议总结与行动项 1.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/V6产品设计与工艺优化.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/V6产品设计与工艺优化.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/V6产品设计与工艺优化.md",
+   "name": "V6产品设计与工艺优化.md",
+   "title_hint": "V6产品设计与工艺优化"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.1.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.1.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ工厂访问会前简报_20260907_v3.1.docx.md",
+   "name": "TJ工厂访问会前简报_20260907_v3.1.docx.md",
+   "title_hint": "TJ工厂访问会前简报_20260907_v3.1.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要.md",
+   "name": "录音纪要.md",
+   "title_hint": "录音纪要"
+  }
+ ]
+}

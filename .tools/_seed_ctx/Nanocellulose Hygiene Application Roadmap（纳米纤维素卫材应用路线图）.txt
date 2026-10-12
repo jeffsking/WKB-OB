@@ -1,0 +1,93 @@
+# SEED: Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 338 页，599 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[变色油墨 Color-Changing Ink]]  (7 句)
+   • **Three classification axes（三条分类轴）**（源：Chromism Taxonomy（变色现象分类））
+1. **Trigger quantity（触发量）** — classify by what physical quantity arrives at the material, not by chemistry family.
+2. **Reversibility（可逆性）** — reversible vs irreversible / one-shot；continuous monitoring needs a reversible route, a single alarm may use a semi-reversible or irreversible one。**"This is the axis that eliminates designs, not the chemistry family."**
+3. **Threshold（阈值）** — industrial metrology materials are engineered 
+   • **Hygiene-usable classes（卫品可用类别，源：Chromism Taxonomy（变色现象分类））**
+- 温致 thermochromic（temperature）——leuco dye : developer : fatty acid ≈ 1:5:50 microcapsules and cholesteric liquid crystals; urine-wetness indication, **already in mass production**。
+- 湿致 hydrochromic（water / humidity）——hydrophilic indicator + hygroscopic matrix；hydrogel swelling。
+- 卤致 halochromic（pH / proton activity）——bromophenol blue, bromocresol green / purple；the main body of urine-wetness strips。
+- 力致 mechanochromic、光致 photochro
+   • **Ink routes（油墨路线，源：变色油墨）**
+- **Thermochromic（温敏）**: mainstream is the **leuco-dye microcapsule system** — electron donor : electron acceptor : fatty acid ≈ 1:5:50, colour developed / erased via a reversible melt–crystallise transition; typically used for urine-wetness indication。
+- **Mechanochromic（力敏）**: mechanical force changes molecular arrangement or photonic-crystal structure; representative applications are **stretch-triggered colour change**（K-C US7704589B2, **lapsed / 已失效**）and liquid-c
+   • **Mechanochromic candidate short-list（2026-09-29 addendum，源：变色油墨）**
+- HPC（viscoelastic lattice-spacing change → compression blue-shift；edible / non-toxic / degradable）
+- Naphthopyrans（covalent bond cleavage → modular colour change；best stability and synthesis accessibility）
+- Spiropyrans（6π electrocyclic ring-opening → strong colour；**thermochromic transient**）
+- Cu-based HCP（luminescence shift；resistant to environmental contamination）
+- Common bottleneck = the **force gap**: industrial mechanop
+
+--- [[液晶 Liquid Crystal]]  (7 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Two thesis application threads.** Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport（源：Liquid Crystalline Polymers Smart Applications）。Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight（源：Liquid Crystalline Polymers Smart Applications）。
+   • **Adjacent chromic/optical material families** that share the LC chromic chemistry主线: Chromic Phenomena Solar Energy and Liquid Crystals is described as the base page for the library's LC / chromic-chemistry main line, and Mechanochromic Elastomer from PDLC 5CB PDMS is the pressure-responsive branch（源：Introduction to Liquid Crystals）。Note the antiferroelectric work is aimed at a **room-temperature** device — i.e. pushing the $S_{Calt}$ phase window down into ambient conditions — which is the sam
+
+--- [[Handbook of Adhesive Technology Full Report]]  (7 句)
+   • **Hygiene implication:** Temperature and peel rate directly determine core retention. Formulation core is designing the $\psi(v,T)$ peak, not just interfacial thermodynamics.
+   • **Hygiene implication:** Leak-guard edges require "bonding + sealing" integration — procurement cannot separate pricing.
+   • **Hygiene implication:** Directly addresses VOC regulations tightening + skin safety compliance.
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+
+--- [[智能织物 Smart Textile]]  (6 句)
+   • **Chromic classification by stimulus** names photochromic (light), thermochromic (heat) and electrochromic (applied voltage) textile applications: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated; photochromic pillow covers revealing a motif in sunlight — all reversing when the stimulus is removed（源：Smart Textiles and Their Applications）。The 2022 survey extends this to seven chromic mechanisms (see table above)（源：Smart 
+   • **Cost verdict (negative result).** Both the active-fibre and electrochromic routes are explicitly blocked — on cost/integration and on lifetime/reliability respectively（源：Smart Textiles and Their Applications）。As-prepared CNT fibres are also reported to **fail** on softness and processability（源：Smart Fabrics and Networked Clothing）。
+   • **Direct mechanism transfer — wetness indication.** The halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses（源：Smart Fabric Textiles Recent Advances and Challenges）。Concrete disposable implementations to read alongside: US20070270773A1 Thermochromic Wetness Indicator and the purchasable-ink view in Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商
+   • **Contra-indications (where the analogy fails).** The sports-clothing review contains **no absorbency content at all** — nothing on fluff pulp, SAP, core structure, acquisition, strike-through or rewet; its performance axes are protection, thermoregulation, motion and electronics（源：Intelligent Textiles and Sports Clothing）。It also has **no polyolefin, bicomponent or ES-fibre content** — the named fibres (aramid, UHMWPE, polyester, PA) are outside the hygiene material set and serve permanent-garm
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (6 句)
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Hygiene implication:** Hot-air convection is the default for pulp, tissue and nonwoven through-dryers.
+   • **Hygiene implication:** Bound moisture sets the equilibrium moisture content and hence the floor of achievable dryness in cellulose fluff and SAP.
+   • **Hygiene implication:** For thin, fast sheets (tissue, nonwoven web) drying may occur almost entirely in the constant-rate period. For thick/packed hygroscopic beds (fluff in a core) the falling-rate period dominates — argue for thin layers / agitation.
+
+--- [[可穿戴传感器 Wearable Sensor]]  (5 句)
+   • **可穿戴传感器（wearable sensor）** is a sensing function **integrated into a garment, textile or substrate worn on the body**, used to monitor a physiological or environmental signal. The vault frames the field as **wearable electronics**, "a cross-disciplinary field of chemistry / physics / materials science & engineering / electrical engineering / biomedical engineering" with two mainstream directions — **thin-film devices** (reduce one dimension) and **fibre-form devices**（纤维形态，further reduce two di
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+   • **No source read here integrates a wearable sensor into a disposable hygiene core with validated detection accuracy, power budget or cost** .
+- The wearable-electronics market and hardware figures are field-level; no hygiene-product-specific sensor spec (sensitivity, drift, lifetime) is present .
+- Recyclability / e-waste conflict with single-use hygiene is flagged as a structural obstacle but unresolved .
+- Freedom-to-operate of the cited sensor patents is **not** assessed（源：Sensor-Equipped Abs
+
+--- [[电致变色 Electrochromic]]  (5 句)
+   • **Electrochromism（电致变色）** is colour change induced by an **applied voltage**（通电变色）— one of the chromic classes classified **by what induces the colour change**, alongside photochromic（light）and thermochromic（heat）（源：Smart Textiles and Their Applications）. It is counted among the **four commercialised chromic phenomena** — photochromism, thermochromism, **electrochromism**, ionochromism（源：Chromic Phenomena Introduction and Reversible Colour Change）— and among the **seven chromic mechanisms** name
+   • **Voltage-driven switching.** Colour appears/changes when a voltage is applied across the electrochromic element（源：Smart Textiles and Their Applications）.
+- **Intrinsic reversibility.** Removal of the stimulus returns the colour to its resting state, because the original state is the more stable one（源：Smart Fabric Textiles Recent Advances and Challenges）.
+- **Textile integration route.** The GRID report groups **woven optical fibre** and **electrochromic** as the two routes to a **textile flexib
+   • **Powered indicators are a negative result for disposables.** The smart-textile community's own verdict is that **electrochromic routes are blocked on lifetime / reliability**; the source reads this as a warning to anyone proposing a **powered or electrically-switched indicator on a disposable**, and points to the **passive, power-free alternative** — US20070270773A1 Thermochromic Wetness Indicator（源：Smart Textiles and Their Applications）.
+- **Family context**: it sits among the vault's chromic 
+   • No electrochromic material system（e.g. WO₃ / conducting polymer）、switching voltage、contrast ratio, or cycle-life figure appears in the vault .
+- No cost figure is given — the source's "blocked" verdict is qualitative, not a number（源：Smart Textiles and Their Applications）.
+- Whether the GRID woven-optical-fibre display route overlaps the electrochromic route is not disambiguated in the vault（源：Smart Textile Visual Perception (GRID)）.
+
+--- [[聚氨酯 Polyurethane]]  (5 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Elastomer chemistry and the casting route.** The PU-elastomer deck splits the material into **raw material → chemistry → classification → process → application**, with its practical value concentrated in the **casting type (CPU)**: raw-material selection criteria (**polyester vs polyether**), the process sensitivity of the **chain-extender coefficient and cure conditions**, and six process factors affecting performance（源：Polyurethane Elastomer Handbook）。
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+
+--- [[Ebewole Polymer Science Ch15 Polymer Properties and Applications]]  (5 句)
+   • Chapter 15 is the book's **"application dictionary"**: for each polymer family it gives the structural feature, key properties (Tg/Tm/crystallinity/strength), processing route and typical applications. It covers 20+ families — PE (LD/HD/LL/Ultra-HD), PP, PS/GP-PS/HIPS/SAN, PVC/CPVC, PMMA, polyacrylates, PAN, ABS, nylons (6 / 6,6 / 4,6 / 6,10 / 11 / 12), PC, PPO, PPS, PET/PBT, fluoropolymers (PTFE / PVDC / PCTFE), NBR, PU, TPE, and ionomers.
+   • 本章对卫材的价值在于**选型第一手依据**：原书在 Table 15.3（p. 426）明确列出 PP 的 *"Nonwovens … are important applications"* —— 非织造布是 PP 的重要应用；PE、PET、PAN、PU、PTFE 亦各有卫材映射。
+   • **与 PE 的结晶构象差异**：原文作 *"Unlike polyethylene, isotactic polyethylene does not crystallize in a planar zigzag conformation due to steric hindrance from the relatively bulky methyl group."* —— 源提取件已加注：**此处 "isotactic polyethylene" 应为 "isotactic polypropylene"**（甲基位阻使其无法取平面锯齿构象，只能取螺旋构象，每圈 3 个亚甲基单元）。引用本书时建议按"等规聚丙烯"理解，原书措辞 [待验证]。
+- **卫材点名**：*"Nonwovens … are important applications."*（Table 15.3, p. 426）
+   • 关键表格：Table 15.1（commodity polymer properties, p. 424）、Table 15.3（PP applications, p. 426）、Table 15.5（PVC applications, p. 427）、Table 15.9（engineering polymer properties, p. 433）、Table 15.12（nylon melting points & moisture absorption, p. 436）、Table 15.16（PET/PBT properties, p. 444）。
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (5 句)
+   • Definition (p.318): "A polyamide manufactured from aliphatic monomer(s) is commonly designated as nylon." 尼龙即由脂肪族单体制得的聚酰胺（amide link –NH–CO–）。 The chapter follows the two protagonists along a complete chain — **polymerization → degradation → spinning → structure → application**:
+   • Assessment: polymerization mechanism, process parameters, Tg–regain and speed–structure relations are all triple-supported by figures, tables and citations (strong). Degradation and additives are more narrative (medium). Mechanical behaviour is only trend curves plus one summary table with no mechanism or application mapping (weak) — the source itself marks this inferred.
+   • **Chapter 13 is largely outside the owner's scope, and should be read as polymer-science background rather than design input.** Polyamide filament has essentially no role in absorbent cores, and PA staple is not used in through-air bonded coverstock in mainstream hygiene.
+   • 1. **The Tg–moisture-regain concept transfers directly**: nylon 6 shows ~50 °C Tg shifted strongly by regain, with a 2.0–3.5% window of minimum Tg sensitivity. Any hydrophilic polymer whose stiffness and set behaviour moves with ambient humidity — including moisture-responsive fibre concepts used in comfort/microclimate work — obeys the same coupling. See Moisture-Responsive Fibre（湿敏变形纤维）.
+2. **Polymer selection for sheath-core bonding**: nylon's ready crystallization and high melting point vers
+

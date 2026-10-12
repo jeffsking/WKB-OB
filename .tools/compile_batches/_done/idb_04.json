@@ -1,0 +1,22 @@
+{
+  "batch": "idb_04",
+  "book": "Handbook_of_Industrial_Drying",
+  "done": [
+    "Industrial Drying Ch19 Superheated Steam Drying",
+    "Industrial Drying Ch20 Special Drying Techniques and Novel Dryers",
+    "Industrial Drying Ch21 Drying of Foodstuffs",
+    "Industrial Drying Ch22 Drying of Fish and Seafood",
+    "Industrial Drying Ch23 Grain Drying"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Ch21 Drying of Foodstuffs: chapter start page p.515 is inferred from Ch.20 ending at p.513 (source quotes span p.521–543); annotated inline — spot-check against print edition.",
+    "Ch20 Special Drying Techniques: page span pp.451–513 derived from min/max of quoted print pages in source; not explicitly stated as chapter span.",
+    "Ch20: Table 20.1 / Remaflam data are vendor-sourced per the source's own critique — treated as order-of-magnitude benchmarks, not peer-reviewed values.",
+    "Ch21: source notes OCR garbling in Eq 21.1 (BET) and Eq 21.2 (Henderson) — not transcribed numerically; GAB and Arrhenius transcribed cleanly.",
+    "Ch22 Drying of Fish and Seafood: food chapter, low hygiene relevance (★★) — stated plainly in page; only case-hardening / Tg-collapse / staged-temperature mechanisms transferred; no diaper applications invented.",
+    "Ch23 Grain Drying: food/agriculture chapter, medium transfer (★★★) — tempering/deep-bed/guardrail frameworks applied to bale conditioning and warehouse RH only.",
+    "WIKI/index.md is missing entries for all Industrial Drying chapters (including pre-existing ones) — not modified per hard rules; needs separate index-sync pass."
+  ],
+  "count": 5
+}

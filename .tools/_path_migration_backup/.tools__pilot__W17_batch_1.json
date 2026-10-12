@@ -1,0 +1,65 @@
+{
+ "batch_id": "W17-1",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_71f2af019c26d6ab4e9e2e773b919677001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx.md",
+   "name": "2025.04.04 - Discover-DC Connect - Depend Rewet Update.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_21db6ec66687a331c7e0f869099365be001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.docx.md",
+   "name": "Rewet Principles.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_c9292d00b9129a917161990f380053e9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Peel Test Results.xlsx.md",
+   "name": "HSBL Peel Test Results.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_622bbf263abb7768ae6a5ae4bf85befc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.09.02 - AC Brand Connect.pptx.md",
+   "name": "2025.09.02 - AC Brand Connect.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_504dca9838a9a8344bf2f7f1db572760001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Simulation Model/2D_v8_模拟结果完整报告.pdf.md",
+   "name": "2D_v8_模拟结果完整报告.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_e5656dbc3d0f2888096a8b56b414d9fc_7f02175c92bf042832418e1ca726b933001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/纸尿裤行业市场宣称与营销概念全景报告.docx.md",
+   "name": "纸尿裤行业市场宣称与营销概念全景报告.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_0da6e3fa06a608c52365258354407644001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+   "name": "Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_79113ef72f61b0b424da42a791c849de001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Principles.pptx.md",
+   "name": "Rewet Principles.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_3b36588fe67dd21aa5d5462ecbf372f6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+   "name": "2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_9ceac567e6fcf5a31aa72a9826c2d24f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/Personal Care Process 101 - How its Made.pptx.md",
+   "name": "Personal Care Process 101 - How its Made.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

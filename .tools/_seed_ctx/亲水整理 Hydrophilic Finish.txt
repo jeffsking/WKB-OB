@@ -1,0 +1,140 @@
+# SEED: 亲水整理 Hydrophilic Finish
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Nonwoven fabric finishing
+#
+# 全库正文命中 175 页，265 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[等离子处理 Plasma Treatment]]  (7 句)
+   • The vault never defines plasma treatment as a process; it treats it functionally, as a **dry** route to fix polypropylene's poor wettability — *"Plasma fixes PP's poor wettability dryly"* and *"Plasma makes PP hydrophilic for hygiene without wet chemistry"*（源：Nonwoven fabric finishing）。It is grouped with the emerging/developing finishing technologies (alongside microencapsulation, laser etching, biomimetic lotus-leaf and electrochemical routes)（源：Nonwoven fabric finishing）。
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Demonstrated mechanism evidence.** The vault's only worked example is O₂-plasma on PP **blood filters**, where improved wetting gives *much higher* flow（源：Nonwoven fabric finishing）。
+   • **Dry vs wet route.** Plasma is presented as the alternative to the wet-chemical finishes catalogued in the same source (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV finishes)（源：Nonwoven fabric finishing）。The adjacent spin-finish source adds the durability context that motivates a dry route: surfactant-type finishes are subject to **thermal migration** — the surfactant migrates to and enriches on the fibre surface on heating, so hydrophilicity decays over time（源：Man
+
+--- [[ES Fibre Hydrophilic Function and Applications]]  (7 句)
+   • 1. **§1 亲水性概述 — Hydrophilicity basics**: definition of hydrophilicity; adsorption mechanism of surfactant finish on the polyethylene (PE) sheath of ES fibre; classification into single-hydrophilic (单亲) vs multi-hydrophilic (多亲) finishes; the "point penetration, small wetted area → drier topsheet" design logic.
+2. **§2 结果与讨论 — Results and discussion**:技术指标 (absorption speed, rewet) with the referenced national limits; strike-through time test (10 layers of standard filter paper, saline); rewet te
+   • ES 纤维皮层 PE（聚乙烯）为非极性聚合物，不带电荷；亲水油剂表面活性剂与 PE 之间**不存在强电荷作用或极性吸附，仅存在色散力吸附**（dispersion-force adsorption）。
+- Dispersion force scales with molecular size: the larger the hydrophobic group and the longer the molecular chain, the stronger the anchoring to PE → better rinse resistance → durable multi-insult hydrophilicity. Small surfactant molecules desorb easily and are flushed away [1].
+- Design rule stated explicitly: smaller wetted area on the skin-contact side during urine strike-through ⇒ higher per
+   • **Finish classification 油剂分类**
+   • **Finished-diaper validation 成裤验证**
+
+--- [[接触角 Contact Angle]]  (4 句)
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • 形式化定义缺失：本库来源页未给出接触角本身的定义 。
+- 定量曲线缺失：耐久整理在沟槽纤维上的**添加量—接触角—吸力**三者定量曲线未见；整理水平 ±1 档对回渗的实测影响未见（源：亲水整理耐久性）。
+- 接触角与 **回渗/干燥度** 的定量关系未在库内建立； 记录的溯源自测为定性对照，未给接触角数值 。
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[Hydrogels in Regenerative Medicine]]  (4 句)
+   • Hydrogel identity = a 3D polymeric network that absorbs water/biological fluids; **cross-links are mandatory** precisely to stop the hydrophilic chains dissolving in the aqueous phase.
+- **Physical vs chemical cross-linking is the central trade-off**: physical gels form by ionic interaction, hydrogen bonds, coordination bonds, hydrophobic interaction, crystallisation or protein interaction, are **reversible** (re-gel on returning to initial pH/temperature/solvent) and are **generally unstable an
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • General statement: hydrogels can hold **20–100 times their own weight** in water, structure-dependent.
+- Two structural levers oppose each other: **hydrophilic-groups content ↑ ⇒ swelling ↑**; **cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓**. This is the same trade-off that governs SAP designs.
+- An explicit unsolved conflict is flagged: synthetic biodegradable hydrogels combining good mechanical properties with high water content remain a major challenge, because **mechani
+   • **§2.4 is, in effect, a general SAP swelling primer.** The low/medium/high/superabsorbent (>99.5% water) classification and the explicit statement that cross-link density suppresses swelling while raising rigidity are exactly the two-lever structure–property relationship used to reason about CRC (centrifuge retention capacity) vs modulus vs absorption-under-load. Useful as teaching/mechanism background for the SAP programme.
+- **The hydrophilic-group vs cross-link-density opposition** gives clea
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (4 句)
+   • The workbook (v3, dated 2026-08-14, 7 sheets: Notes / Overview / DOE_Matrix / Characterization / Schedule / Risk / Gantt) evaluates four topsheet configurations on a **50 gsm dual-card air-through-bonded (ATB) web** built as 25 gsm upper + 25 gsm lower, with durable hydrophilic finish and **no increase in oven temperature**.
+本表格（v3，2026-08-14，含 7 个工作表）在 **50 gsm 双梳理穿透热风粘合（ATB）网**（上 25 gsm + 下 25 gsm、耐久亲水整理、**不提高烘箱温度**）上评估 4 种配置。
+   • Acceptance is graded in two tiers: **PRIMARY = finished-diaper enterprise standard** (rewet <5.9 g @0.5 kPa after 2 insults, core stain uniformity ≥A, SAP utilization ≥63%, wet tensile ≥75 N/m), and **material-level = screening gate only** (STT ≤0.8 s, 3rd rewet ≤0.5 g with target 0.30 g, MD spread ≥34% vs 34.9% anchor, caliper retention ≥92%, TS7 softness ≥50, fuzz ≤2, D_aniso ≥2.5, bonding strength ≥10 N/cm).
+验收分两档：**PRIMARY 为成品尿裤企业标准**（0.5 kPa 双次冲击回渗 <5.9 g、芯体染色均匀度 ≥A、SAP 利用率 ≥63%、湿拉伸 ≥75 N/m
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+   • Concepts 概念：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、Shaped PET Add-On Window、MD Liquid Distribution、Pentagram PET (Star Cross-Section Fibre)、热风粘合无纺布、亲水整理耐久性
+- Entities 实体：福地（Fudi）、Suzhou Yimeng (Mono-PET Spinner)、延江（Yanjan）、兰精集团
+- Comparisons 对比：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+
+--- [[Manufactured Fibre Technology Ch07 Spin Finishes]]  (4 句)
+   • 人造纤维生产中**纺丝油剂（spin finish 纺丝油剂）**的作用机理、组分构成、施加工艺与分析方法。子节：7.1 引言、7.2 油剂性能（9 项）、7.3 油剂作用（润滑 / 抗静电 / 抱合）、7.4 油剂组分、7.5 施加技术（浸辊 / 计量 / 喷纶 / 喷淋）、7.6 短纤维油剂、7.7 长丝油剂、7.8 对染色的影响、7.9 配方分析、7.10 施加问题。
+   • **雪花沉积（snow 雪花）**：>"the discs abrade the yarn, producing a white deposit called 'snow'" (p.157)；成分为 **60±10 % 聚合物 + 40±10 % 油剂**（p.157，单案例）。
+- **热迁移（thermal migration 热迁移）**：>"The presence of spin finish also influences the thermal migration of dyes... the dispersed dye therefore migrates from the polyester fibre to its surface, which affects the shade and can result in staining of adjacent material." (p.160) —— 染色前须充分精练去油剂。
+- **铺展判据**：表面张力须**低于纤维临界表面张力**才能均匀铺展，由 F = ma/2L 推导 + Table 7.3 各类表面活性剂
+   • **这是本批 7 章中对卫材最直接相关的一章 —— 无纺布亲水整理（hydrophilic finish 亲水整理）就是纺丝油剂的卫材形态**。PP 纤维本身表面能低（约 29–31 mN/m），面层/导流层必须靠表面活性剂型油剂实现多次透水；本章"表面张力须低于纤维临界表面张力才能均匀铺展"（p.161–162）正是亲水剂选型的定量判据。见 Nonwovens in Absorbent Materials 与 Nonwoven fabric finishing。
+- **亲水剂（极性/抗静电）与手感（低摩擦/非极性）的矛盾，就是本章的极性悖论**（p.146, p.154）：亲水要求极性基团，而柔软低摩擦要求非极性 —— 这解释了为什么卫材面层亲水剂常出现"亲水性与柔软度/低摩擦不可兼得"的配方折中，也解释了亲水剂迁移导致的**回渗（rewet）恶化**。
+- **油剂的热迁移机理（p.160）可直接迁移到卫材的耐久性问题**：表面活性剂在受热（热风粘合、储运高温）时会向纤维表面迁移并富集，导致亲水性随时间衰减或局部过量 —— 与皮肤健康处理剂（如润肤剂）的稳定性问题是同一类机理。见
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch04 Melt-Spinning Processes — 上油单元所在的熔纺产线
+- Skin Health Treatment on Nonwoven（无纺布护肤处理）
+- Nonwoven fabric finishing
+- Nonwovens in Absorbent Materials
+- Nonwoven Process Classification（非织造布工艺分类）
+
+--- [[Nonwoven fabric finishing]]  (4 句)
+   • Chapter 8 (A. Ahmed) addresses the finishing stage where nonwoven substrates are transformed into value-added, fitness-for-purpose products via wet/dry finishing, chemical finishes and lamination — the chapter where hygiene function (softening, rewetting, barrier, lotion delivery) is actually engineered.（中文：第 8 章讲后整理——通过湿/干整理、化学整理与复合层压，把无纺布基材转化为功能化成品，是卫生用品功能（柔软、回渗、阻隔、加液）真正被设计的环节。）
+   • It frames finishing as either wet (washing, impregnation, dyeing, coating) or dry (calendering, embossing, emerising, microcreping), stressing end-use-driven process selection.（将整理分为湿法/干法，强调终端驱动选型。）
+- Wet operations (scouring, coloration, printing), chemical finishes (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV) and their application methods are detailed.（详述湿整理、化学整理（抗静电/抗菌/润滑/阻燃/防水/柔软/抗UV）及施加方式。）
+- Mechanical finishing (splitting, perforating, drying/relaxation, Mi
+   • No standard routine — finishing is a design space governed by end-use.（无标准流程，整理是终端驱动的设计空间。）
+- Lotion impregnation makes nonwovens active-delivery vehicles (lotion/medicated wipes).（加液浸渍使无纺布成为活性物递送载体。）
+- Hydrophilic softeners = rewetters that spread liquid laterally to keep skin dry.（亲水柔软剂=回渗剂，横向铺展液体保持干爽。）
+- Plasma fixes PP's poor wettability dryly; lamination engineers backsheet barrier/breathability.（等离子干法改善 PP 润湿；层压设计底膜阻隔/透气。）
+   • 父书：Handbook of Nonwovens
+- 概念：回渗 Rewet、亲水整理 Hydrophilic Finish、层压 Lamination、底膜 Backsheet、等离子处理 Plasma Treatment、Topsheet（面层）
+- 关联章节：Thermal bonding、Chemical bonding、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Hygiene Absorption Model]]  (3 句)
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • ：**「Hygiene Absorption Model」作为模型的自身定义、状态变量与支配方程组**在引用来源中均未给出；现有摘录只提供吸收性口径与建模方法论。
+- ： 摘录中 "One-dimensional Washburn is a lowe…" 一句被截断，未予补写（源：Computational Modeling in Absorbent Technology）。
+- ： 中 25 g/m² 商用样回渗值（1.06 …）截断（源：ES Fibre Hydrophilic Function and Applications）。
+- ：本页摘录中  的命中属**粘接侧**内容（core retention 与 ψ(v,T)），非吸收模型正文，未作为本页主体证据。
+- ：三条原始引用来源（Handbook of Industrial Drying、Industrial Drying Ch28 Osmotic Dehydration and SAP Physics、Industrial Drying Ch50 Solid-Liquid Separation）**在本批摘录中无对应正
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (3 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+   • **Definition, measuring points, tolerances and instruments of finished-product dimension measurement** —— （must be checked against STM-00433 Pants尺寸.doc）。
+- Mapping between finished-product dimensions and the GB-T 33280-2016 specification system / KC internal STM conventions 。
+- Transfer relation between fibre-level quantities（linear density / shrinkage / opening length）and finished-product dimension measurement — not given in the digest 。
+- Garbled spots（the Vibroscope trap in Ch11, the branche
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (3 句)
+   • **Two-tier acceptance 验收双档制**：PRIMARY = **finished-diaper enterprise standard**（rewet <5.9 g @0.5 kPa after 2 insults、core stain uniformity ≥A、SAP utilization ≥63 %、wet tensile ≥75 N/m）；the **material level is a screening gate only** — fuzz ≤2 belongs to the material-level tier（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- **Test architecture 试验架构**：a 3-stage randomised DOE（seed 20260814）totalling 33 runs — Stage 1 configuration screen（4 configs × 3 temps × medium load = 12,
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • TTM-00609 面层材料起毛起球测试.doc
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+- KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx
+- ATB双梳理面层（Dual-Card Topsheet）
+- 热风粘合无纺布
+- 3D In-line Embossing Topsheet（3D 在线压花面层）
+- Dryness Measure System（干爽度量三分）
+- Nonwoven Deformation Force Test（无纺布形变力测试）
+- 三叶形截面纤维（Trilobal Fibre）
+- 皮芯复合纤维
+- GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）
+- Finished Product Testing Method Summary（成品测试方法汇总表）
+- Raw Material Testing Method Summary（原材料
+

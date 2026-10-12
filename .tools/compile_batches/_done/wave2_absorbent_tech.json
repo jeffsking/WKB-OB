@@ -1,0 +1,52 @@
+{
+  "wave": "wave2",
+  "book": "Absorbent Technology (Chatterjee & Gupta)",
+  "agent_model": "lite",
+  "note": "Wave 2 agents hit 429 rpm rate limit at spawn; pages compiled directly in the main session instead.",
+  "compiled": [
+    {"src": "Absorbent Technology_introduction_report.md.md", "dst": "WIKI/sources/Absorbent Technology Introduction.md", "title": "Absorbent Technology Introduction"},
+    {"src": "Absorbent Technology_ch01_report.md.md", "dst": "WIKI/sources/Porous Structure and Liquid Flow Models.md", "title": "Porous Structure and Liquid Flow Models"},
+    {"src": "Absorbent Technology_ch02_report.md.md", "dst": "WIKI/sources/Surface Tension and Surface Energy.md", "title": "Surface Tension and Surface Energy"},
+    {"src": "Absorbent Technology_ch03_report.md.md", "dst": "WIKI/sources/Fluid Absorption in High Bulk Nonwovens.md", "title": "Fluid Absorption in High Bulk Nonwovens"},
+    {"src": "Absorbent Technology_ch04_report.md.md", "dst": "WIKI/sources/Computational Modeling in Absorbent Technology.md", "title": "Computational Modeling in Absorbent Technology"},
+    {"src": "Absorbent Technology_ch05_report.md.md", "dst": "WIKI/sources/The Role of Surfactants.md", "title": "The Role of Surfactants"},
+    {"src": "Absorbent Technology_ch06_report.md.md", "dst": "WIKI/sources/Fibers and Fibrous Materials.md", "title": "Fibers and Fibrous Materials"},
+    {"src": "Absorbent Technology_ch07_report.md.md", "dst": "WIKI/sources/Cross-linked Cellulose and Its Derivatives.md", "title": "Cross-linked Cellulose and Its Derivatives"},
+    {"src": "Absorbent Technology_ch08_report.md.md", "dst": "WIKI/sources/Acrylic-Based Superabsorbent Polymers.md", "title": "Acrylic-Based Superabsorbent Polymers"},
+    {"src": "Absorbent Technology_ch09_report.md.md", "dst": "WIKI/sources/Hydrogel-based Superabsorbent Polymers.md", "title": "Hydrogel-based Superabsorbent Polymers"},
+    {"src": "Absorbent Technology_ch10_report.md.md", "dst": "WIKI/sources/Nonwovens in Absorbent Materials.md", "title": "Nonwovens in Absorbent Materials"},
+    {"src": "Absorbent Technology_ch11_report.md.md", "dst": "WIKI/sources/Absorbent Product Testing.md", "title": "Absorbent Product Testing"},
+    {"src": "Absorbent Technology_ch12_report.md.md", "dst": "WIKI/sources/Products and Technology Perspective.md", "title": "Products and Technology Perspective"}
+  ],
+  "book_index": "WIKI/sources/Absorbent Technology.md",
+  "skipped_duplicates": [
+    "Absorbent Technology_ch09_report_20260823_031404.md.md",
+    "Absorbent Technology_ch10_report_20260823_031404.md.md",
+    "Absorbent Technology_ch11_report_20260823_031405.md.md",
+    "Absorbent Technology_ch12_report_20260823_031406.md.md"
+  ],
+  "manual_review": [
+    {
+      "type": "duplicate_source_page",
+      "canonical": "WIKI/sources/Porous Structure and Liquid Flow Models.md",
+      "duplicate": "WIKI/sources/Liquid Flow in Porous Structures.md",
+      "shared_source": "Absorbent Technology_ch01_report.md.md",
+      "reason": "Same source compiled twice (earlier S-series run 5595B vs Wave 2 run 7894B). Canonical is the richer Wave 2 page.",
+      "action_required": "Confirm merge/delete of the older page. NOT auto-deleted per AGENTS.md human-confirmation boundary."
+    },
+    {
+      "type": "duplicate_source_page",
+      "canonical": "WIKI/sources/Cross-linked Cellulose and Its Derivatives.md",
+      "duplicate": "WIKI/sources/Cross-linked Cellulose and Derivatives.md",
+      "shared_source": "Absorbent Technology_ch07_report.md.md",
+      "reason": "Same source compiled twice (earlier S-series run 5608B vs Wave 2 run 13533B). Canonical is the richer Wave 2 page.",
+      "action_required": "Confirm merge/delete of the older page. NOT auto-deleted per AGENTS.md human-confirmation boundary."
+    }
+  ],
+  "notes": [
+    "Book metadata from chapter bibliographic lines: editors P. K. Chatterjee & B. S. Gupta, Elsevier Science B.V., 2002. ISBN not present in sources -> '[待验证]' literal.",
+    "Ch8 (2016 review) and Ch9 (2022 review) sources self-declare 'AI 辅助提取整理'; pages carry an inline provenance caveat and recommend checking the original review for quantitative data.",
+    "Ch10, Ch11, Ch12 are the most business-relevant chapters; each carries a dedicated 'Business Connection Points' section with parts-process mapping, supplier test matrices and roadmap suggestions.",
+    "All 13 chapter pages + 1 book-index page created. No index.md / log.md modification; concept-page forward links left unseeded for the final fix_broken_links pass."
+  ]
+}

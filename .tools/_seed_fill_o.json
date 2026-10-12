@@ -1,0 +1,27 @@
+{
+  "batch": "seed_fill_o",
+  "done": [
+    "WIKI/concepts/Polyolefin Absorbent Materials.md",
+    "WIKI/concepts/变色材料 Chromic Materials.md",
+    "WIKI/concepts/过滤材料 Filter Material.md",
+    "WIKI/concepts/聚合物刷 Polymer Brush.md",
+    "WIKI/concepts/植物基材料 Plant-Based Material.md",
+    "WIKI/concepts/中空纤维 Hollow Fibre.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "WIKI/concepts/Polyolefin Absorbent Materials.md",
+      "issue": "⚠️ 几乎无可溯源内容：digest 的 10 页摘录全部与本主题无关（Hygiene Absorption Model / 交联密度 / 热电现象 / 可穿戴传感器 / 气虹 Airlaid / 热致变色 / 达西定律 等）；唯一 cited-by 来源 Acrylic-Based Superabsorbent Polymers 仅把「Polyolefin Absorbent Materials」列为「相关章节」wikilink，正文无该主题内容；父书 Absorbent Technology 索引的 12 章+引言中亦无同名章节。已按『定义待补』处理，Definition/参数/机理/卫材关联全部标 [待补]。建议人工补原始章节或从 cited-by 重建。"
+    },
+    {
+      "page": "WIKI/concepts/过滤材料 Filter Material.md",
+      "issue": "⚠️ Digest 命中失败：.tools/_seed_ctx/过滤材料 Filter Material.txt 的摘录全部与本主题无关（液晶 / 热电 / 智能织物 / 机械变色 / 交联 CMC / 气虹 Airlaid 等）。事实改由 cited-by 页 ES 纤维热风非织造布驻极性能初探 + 库内实际讨论过滤的页核对取得：Polymer-laid web formation（熔喷过滤 20–40%→80–99%）、SMS复合结构（熔喷 0.3 µm / PFAS 驻极助剂风险）、06_SSMMS无纺布技术研究报告.md（过滤效率 SSMMS>95% vs SMS 85–90%）、Electrospinning Technology Analysis（空气过滤市场 $300 亿+/年）、等离子处理 Plasma Treatment。库内无「过滤材料」正式定义与标准测试口径。建议重跑 digest。"
+    },
+    {
+      "page": "WIKI/concepts/植物基材料 Plant-Based Material.md",
+      "issue": "cited-by 来源（Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments）为 P2 轻量索引，仅把「植物基材料」列为与卫材交叉点的交叉引用链接，无该主题正文。事实改由库内生物基/可降解系列页核对取得：Biodegradable & Bio-based Diaper Materials、生物基单体 Bio-based Monomer、Diaper Tech Innovation Roadmap Next 5 Years、Intake Systems Development Pathway 2023、LG Chem SAPPYER SAP、LG Chem（LG 化学）。库内无「植物基材料」正式定义与生物基含量阈值标准。"
+    }
+  ],
+  "count": 6
+}

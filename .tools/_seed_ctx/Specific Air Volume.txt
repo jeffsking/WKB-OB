@@ -1,0 +1,140 @@
+# SEED: Specific Air Volume
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#   - Fluid Absorption in High Bulk Nonwovens
+#
+# 全库正文命中 181 页，249 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[孔隙率 Porosity]]  (6 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+   • **收敛性尚未确认**：孔隙率下限从 0.347 降到 0.284，源文建议再试 60×24 网格 —— 说明尚未收敛；「细网格结果更可信」是源文判断，**无实验佐证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **v9 不含反渗**（不含二次加载后的反渗），故本页结论**不能外推到回渗**（源：Numerical Diffusion & Grid Convergence（数值扩散与网格收敛））。
+- **渗透率下降倍数与实测对应关系未明确**：「渗透率下降约 2–5 倍」与细网格 20.3%（≈5×）、粗网格 44.6%（≈2.2×）的对应关系源文未明确（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **自由液体最终 0.0 mL（细网格）** 是否意味着全部被 SAP 吸收？源文未说明 SAP 是否已饱和（源：2D Absorption Model v9 
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (5 句)
+   • 一份**内部换算逻辑拆解**，把 TTM-00038 Compression Test for Absorbent（吸收体压缩测试） 输出的「厚度-压力」曲线，翻译成建模与工程两端各自需要的**孔隙体积（Void Volume, VV）**；并给出 REL 层的 VV 目标区间与四条提升路径。
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (4 句)
+   • **Specification labelling（邻接维度）**：CN textile/apparel labelling is a mandatory standard with seven compulsory content items, including **size/spec**；size, fibre content and care method must live on a **durable label**（源：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装））。⚠️ Disposable hygiene products are **explicitly out of scope** of GB 5296.4（Annex A）（源：GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4
+   • ⚠️ The digest excerpts contain **no finished-product（diaper / wipes）dimension-measurement convention, tolerance or instrument**；the primary source STM-00433 Pants尺寸.doc is not quoted in this digest。
+- Navigational references only（no figures in the digest）：Folded Product Dimension Test（折叠后长度·宽度测量）、GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）、China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）、成品厚度两条口径对比（澳洲 TTM-001 vs STM-00040）。
+- Where dimension/thickness sits in core engineer
+   • **Definition, measuring points, tolerances and instruments of finished-product dimension measurement** —— （must be checked against STM-00433 Pants尺寸.doc）。
+- Mapping between finished-product dimensions and the GB-T 33280-2016 specification system / KC internal STM conventions 。
+- Transfer relation between fibre-level quantities（linear density / shrinkage / opening length）and finished-product dimension measurement — not given in the digest 。
+- Garbled spots（the Vibroscope trap in Ch11, the branche
+   • STM-00433 Pants尺寸.doc
+- Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres
+- Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres
+- GB 5296.4-2012 Instructions for Use of Products of Consumer Interest Part 4 Textiles and Apparel（消费品使用说明 第4部分 纺织品和服装）
+- GB 5296.5-2006 Instructions for Use of Products of Consumer Interest Part 5 Toys（消费品使用说明 第5部分 玩具）
+- Folded Product Dimension Test（折叠后长度·宽度测量）
+- GB-T 33280-2016 Diaper Specifications and Dimensions（纸尿裤规格与尺寸）
+- Ch
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (4 句)
+   • Volume 67 in the *Plastics Engineering* series (founding editor Donald E. Hudgin). Copyright © 2003 by Marcel Dekker, Inc.; transferred to digital printing 2005. **Note 注:** the file in this vault is the publisher **preview** — it carries the full front matter, full table of contents, contributors list, and Chapters 1–3, but **not** the whole book.
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **HIGH 高关联** — this is one of the few sources in the vault that links **resin specification → nonwoven process → delivered fabric property** with numbers attached, and it is the canonical citation for the MFR split between spunbond and meltblown. Directly serves:
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+
+--- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]  (4 句)
+   • 方法目的（1.1–1.2）：测定试样在给定饱和度下的孔隙体积（void volume）。**可用孔隙体积（available void volume）**即材料中可被液体侵入占据的空间，其大小直接估计材料作为**吸入层（intake material）**的表现，以及该材料能接受多少液体冲击（fluid insult）。正文特别强调：该信息是**按容量（capacity）与渗透性（permeability）要求设计吸收产品所必需的**。
+   • **VV = 总体积 − 液体体积 − 固体体积，是「可被液体侵入的空间」而非简单松厚度** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **0.05 psi 是 VV 法的专属压力，与成品厚度法 0.2 PSI 分属两套尺度** —— 支撑页：芯体测试方法与验收基准（STM）
+- **无绒毛芯（no-fluff core）需把加载梯度上探到 30 g/g 才能画出近全饱和曲线** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **预测渗漏建模要求保留吸入层，无绒毛竞品须按 Fluff Percent 报告** —— 支撑页：Cradle Intake Test（Cradle 摄入测试）
+- **SAM 在本法中的界定是吸水能力 ≥ 15 g/g** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）
+- **自配盐水须静置 ≥ 4 h，是易被忽略的系统误差源** —— 支撑页：尿液模拟液（Urine Analog）
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、芯体测试方法与验收基准（STM）、SAM Testing Methods（超级吸水材料测试方法）、尿液模拟液（Urine Analog）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Cradle Intake Test（Cradle 摄入测试）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+   • 本地路径：
+- 原文链接：（无；KC 内部标准方法，含保密声明）
+- 同族文档：STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）、TTM-00038 Compression Test for Absorbent（吸收体压缩测试）
+
+--- [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]]  (4 句)
+   • 方法的 Objective 原文为：*Quantify the void volume (via thickness at 0.05 psi) of a material at various levels of saturation and SAP swelling*（通过在 0.05 psi 下测厚度，量化材料在不同饱和度与 SAP 溶胀程度下的孔隙体积）。核心思路是：芯体吸液后厚度增加，但增量并非全部来自「孔隙保留」——SAP 溶胀会占据原本的孔隙空间；通过测量干/湿厚度并结合各组分密度反算，即可分离出真实孔隙体积。
+   • **VV 是通过 0.05 psi 厚度反算的孔隙量，压力口径与成品厚度法（0.2 PSI）完全不同** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **组分密度（SAM/Pulp 1.5、PE/PET 1.15、PE/PP 0.95、PP 0.93）是反算 VV 的必要输入** —— 支撑页：皮芯复合纤维
+- **饱和度梯度须按芯体类型选：常规 SAM/绒毛芯 2.5–20 g/g，BLIZZARD 薄芯 5–30 g/g** —— 支撑页：Blizzard Core（Blizzard 芯体结构）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- **高饱和下 VV 崩塌是薄芯体设计的机理约束（SAP 溶胀挤占孔隙）** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **同一方法可切换盐水/血液两种液体** —— 支撑页：尿液模拟液（Urine Analog）
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、芯体测试方法与验收基准（STM）、Blizzard Core（Blizzard 芯体结构）、ActiveTech Platform（ActiveTech 在线薄芯体平台）、SAM Testing Methods（超级吸水材料测试方法）、尿液模拟液（Urine Analog）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：（本批对比页见 Void Volume 与压缩模量两条孔隙表征路线对比）
+   • 本地路径：
+- 原文链接：（无；KC 内部标准方法模板）
+- 同族文档：STM-00429 Void Volume as a Function of Saturation（方法正文）、TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+
+--- [[Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）]]  (3 句)
+   • 上位 / 相关：芯体测试方法与验收基准（STM）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Blizzard Core（Blizzard 芯体结构）
+- 并列指标：SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）
+- 机理相关：SAP（高吸水树脂）、尿液模拟液（Urine Analog）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+   • **教训一（口径）**：**VV 数字必须附试样直径与压力**。0.05 psi 与 0.2 PSI（成品厚度）差一个量级，φ60.3 与 φ76 mm 面积差约 60%，混用会让 VV 完全失真。
+- **教训二（口径）**：**加载梯度必须按芯体类型选**。无绒毛芯（no-fluff）若照搬常规 2.5–20 g/g，曲线到不了近全饱和区，会误判为「孔隙充足」。
+- **教训三（流程）**：**TTM 与 STM 不可混用**。TTM-00038 明言 TTM 属研发方法，不用于来料验收与成品放行；对外报告要走 STM 体系。
+- **待补 **：VV 与 PSM 之间的定量换算式（本批 TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑） 尚未编译）；本库尚无中国产芯体的 VV 实测数据。
+   • STM-00429 Void Volume as a Function of Saturation（方法正文） —— 
+- STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板） —— 
+- TTM-00038 Compression Test for Absorbent（吸收体压缩测试） ——
+
+--- [[吸收芯体]]  (3 句)
+   • **Void-volume (VV) characterisation 孔隙体积表征.** Pore-space modulus (TTM-00038 / TTM-00437) measures the **resiliency 回弹性** of the absorbent core and intake-system materials after repeated compression cycles; its direct output is **thickness as a function of pressure**, from which VV is derived by post-processing. It applies to fluffy materials such as the absorbent core, ADL/surge and REL（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **Core as a distinct standard layer 芯体作为独立标准层级.** QB/T 5650-2021 places the composite absorbent core at its own层级, and its **吸收速度（≤40 s）比婴儿成品（≤50 s）更严**（源：QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体））——芯体作为「中间品」层级是供应商准入与技术协议的直接判定依据。
+- **Core covering process 芯体包覆工艺.** 热风法非织造布是纸尿裤吸收芯体包覆层的典型场景，其蓬松结构提供导流空间（源：无纺布五大工艺对比）；复合结构上，**热风棉 + SAP + 底膜**构成纸尿裤/卫生巾吸收芯体的整体结构（源：SMS复合结构）。
+- **Interfaces with the intake system 与摄入系统的界面.** ADL 对芯体的三层职责为 ACQUIRE → D
+   • QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）
+- CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- Manufactured Fibre Technology Ch15 Acrylic Fibres
+- ADL（导流层）
+- Intake System（摄入系统）
+- SMS复合结构
+- 无纺布五大工艺对比
+- GB 15979-2024（一次性使用卫生用品卫生要求）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 传统芯体 vs 复合芯体（性能·成本·供应链）
+- SAP（高吸水树脂）
+- 绒毛浆（Fluff Pulp）
+- Rewet Test（回渗测试）
+
+--- [[GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）]]  (3 句)
+   • Part 2 of the GB/T 27728 series (ICS 85.080 / CCS Y39), drafted under SAC/TC 141 (全国造纸工业标准化技术委员会), proposed by 中国轻工业联合会. Drafting units include 中国制浆造纸研究院、好孩子、维达、恒安、金佰利（中国）、广州宝洁、花王（中国）研发中心、露乐健康、赛得利（九江）等 — i.e. essentially the whole CN wipes/hygiene value chain. The standard layers baby-wipe requirements on top of the general requirements of GB/T 27728.1: raw-material minimization and long-safe-use-history principle, fragrance per GB/T 22731, production lotion per the 2015 Cosmetics Safety Technic
+   • **MIT/MCI 是婴童湿巾防腐体系的硬红线**（生产用液按化妆品规范管控）—— 支撑页：化妆品限用-准用组分体系（中国 2015 技术规范）
+- **婴童湿巾的「安全指标」整体委托给 GB 43631**，本标准不再自设限量 —— 支撑页：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- **卫生指标一票否决**：卫生指标不合格即整批判不合格（6.5）—— 支撑页：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+   • 概念：GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）、化妆品限用-准用组分体系（中国 2015 技术规范）
+- 来源：GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）、GB 38598-2020 General Requirements for Labels and Instructions of Disinfection Products（消毒产品标签说明书通用要求）
+- 同族标准：GB-T 27728-2011 Wipes（湿巾）、GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (3 句)
+   • Related: thermodynamic effective radius R_T = (3A₂M₂/16πN_A)^{1/3} measures excluded volume (L1564–1566); V_T = R_T/R_h ≈ 1 means thermodynamic ≈ hydrodynamic interaction range (L1573–1577).
+   • Nothing in this chapter is device- or claim-specific, so no numeric transfer to product performance is warranted without separate testing. 中文：本章不含任何产品性能数据，勿直接外推。
+   • All citations are line references (L-numbers) to the source body L1–L2775, as supplied by the extraction; page numbers of the printed book are not available in the extracted file — recorded as [待验证].
+- No publication year is stated anywhere in the extracted chapter;  set to 0 per AGENTS.md fallback rule.
+- Q10/Table values (60-fold mass, 2× size) are transcribed verbatim from L2248–2250; the absolute values depend on the specific PNIPA sample described.
+

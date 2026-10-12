@@ -1,0 +1,1 @@
+{"batch":"p1_VISCOELASTIC_PROPERTIES_OF_A_01","book":"VISCOELASTIC_PROPERTIES_OF_AMORPHOUS_POL","done":["Viscoelastic Properties of Amorphous Polymers.md"],"skipped":[],"manual_review":[{"page":"Viscoelastic Properties of Amorphous Polymers.md","issue":"源文件未标注出版年份，date_published 置 0；源文本给出的 G(t) = 1/J(t) 互逆关系仅在线性单 Maxwell 元情形严格成立，已标注 [待验证]；源文件称公式排版略有错乱（L156–L164）"}],"count":1}

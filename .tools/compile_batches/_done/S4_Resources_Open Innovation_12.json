@@ -1,0 +1,30 @@
+{
+  "batch": "S4_Resources_Open Innovation_12",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": 10,
+  "concept_pages": 0,
+  "entity_pages": 0,
+  "comparison_pages": 1,
+  "updated_existing": 18,
+  "manual_review": 17,
+  "notes": [
+    "source_pages 新建（10）：R160739 TL-15582（单次加液与总载荷目标的方法学更新 · 2015）；Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）；REL Simulation Baby Diaper Core（五纤维 TAB 增强层模拟与改进路线图）；纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner）；Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）；Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）；Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）；Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）；Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）；华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）",
+    "comparison_pages 新建（1）：卫材氨纶供应商对比（华峰千禧 vs 莱卡 HYFIT vs 泰和新材 vs 中柏 vs 河北邦泰）——源文含 7 家格局表与华峰-莱卡 7 维对比，已按模板补齐「成本」与「供应链风险」两列；**成本列无数值**（源文价格属待索取项且不页面化），只保留定性口径与 T859 省 20% 用量的换算线索",
+    "concept/entity 新建为 0：本批技术点在库中均已有对应页面（数值扩散与网格收敛、残液与孔隙滞留、Cradle 摄入、分区密度、多层 SAP 芯体、印花芯体成型鼓、DMAC 与 REACH、无溶剂氨纶、干爽度量三分、微气候等），按『先查再建』未新建；本批新出现的供应商/机构（Chuanyue、HCH、河北邦泰、泰和新材、中柏实业、金浦锦纶、恒逸石化）**均只单份提及**，未达 ≥2 份门槛，仅登记于源页与新对比页",
+    "updated_existing 追加（18，均为 2026-09-29 追加段、未修正原结论）：Use-Test Loading & Leakage Percentile；ADL（导流层）；Probiotic & Skin-Care Topsheet；REL增强层；Numerical Diffusion & Grid Convergence（本批两次追加：v10 网格/注入区宽度、0.03% 可分辨性门槛）；Residual Fluid & Pore Stranding；Cradle Intake Test；分区密度设计；单牌号全511 vs 分层多SAP混底；汉高；Patterned SAP Core Forming Drum；Nichidai（日丝）；Dryness Measure System（干爽度量三分）；Diaper Microclimate；华峰集团（Huafon Group）；The LYCRA Company（莱卡）；DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制；无溶剂氨纶（Solvent-free Spandex）",
+    "manual_review（17）：10 份源页 + 1 份对比页。敏感/受限类型分别为——**报价类**：Diaper_Core_simulation 的估算单价与单片成本（**已全部省略**，仅留重量占比）、华峰的出厂价格区间/折扣幅度/REACH 合规成本（源文为待索取项，本就无数值）；**内部谈判方法论**：Henkel 与华峰两份议题清单的交流策略与技巧（先问 roadmap 再抛需求、带具体参数、价格放最后、备己方现用胶种与痛点清单等），仅登记不外发；**K-C 内部项目资料**：GRIFFIN / SIROCCO / ATACAMA / LIFESAVERS / ARTEMIS / Virtual R&D 项目代号与内部试样结果；**未定案宣称**：ACoP 报告中与 Legal 讨论中的干爽宣称空间",
+    "★ 本批最重要的知识增量（可分辨性门槛）：回渗是**极小量信号**——需在**占总液量 0.03%** 的量级上检出差异，源文判断『目前已验证的模型很可能不够精确』。已追加至 Numerical Diffusion & Grid Convergence，并给出可迁移判据：**(a) 需分辨的最小量占总液量多少？(b) 网格/格式带来的虚假扩散是多少？b 必须显著小于 a**，否则模型只能用于方向性排序",
+    "★ 本批第二项增量（仿真误差三分类）：v10 的 Legacy SAP 模式（Q=1）产生质量守恒误差 15119.5 mL、表面液体堆积至 15324 mL ⇒ **误差来源应从『网格』扩展为三类：离散化（网格）／边界条件（注入区设定）／本构模型（吸收模式）**",
+    "★ 本批第三项增量（回渗→皮肤的唯一通道）：ACoP 报告把**微气候**确立为回渗影响皮肤干爽的中介变量（蒸发→冷凝→再蒸发），并把回渗的时间角色定位到 **30+ 分钟**；**外覆层透气性是并列主效应 ⇒ 回渗单独不能预测 EWL**。同时给出干爽三域框架的一手表述：产品内（回渗）／技术性皮肤（EWL·STEWIE）／感知（HUT·感官·穿戴）",
+    "★ 本批第四项增量（法规倒计时）：(EU) 2025/1090 REACH Annex XVII，**DMAC ≥0.3% 即禁止**，人造纤维过渡期 48 个月（约 **2028Q4**）；源文明确『**≤0.3% 是红线不是目标**』，内控应取 **≤0.05%**。且华峰主路径（高效回收+深度净化）被源文判断『硬限时可能不够』，而真正的无溶剂路线（熔纺）华峰**无公开布局** ⇒ **『国产替代首选』与『合规首选』可能不是同一家**",
+    "存疑 1（模型内部不一致）：v10 摘要与 §3.4 在默认 inj_frac=0.30 下写 **SAP 利用率 1.6%**，§2.3 扫描表在同为 0.30 下写 **5.3%**，两者分母口径可能不同（全域 ΣM_eq vs 激活格点），源文未说明。**已并列登记，引用利用率必须标注口径**",
+    "存疑 2（跨文档口径冲突）：Diaper_Core_simulation 第 3 次排尿后 **SAP 利用率 85%**，与 v10 的 **1.6%** 相差两个量级；两者 SAP 面密度与注入条件完全不同（≈329 g/m² 分区投放 vs 0.08 g/cm² 均匀），**数值不可互相比对**，已在两页分别登记",
+    "存疑 3：Patterned SAP core 6 的 **SAM 喂入喷洒宽度一处写 50–280 mm、另一处图注写 70–280 mm**；**尿液 MD 分布图退化为图注，仅 8% / 35% / 13% / 6% 可辨读，55–70% 段缺失**，未臆测",
+    "存疑 4：ACoP 的 LIFESAVERS 感官数据**不可作剂量-反应曲线读**——code 系『为制造湿感而特意选取』，最低回渗的 L（0.15 / 2.73 g）仍有 **17/22** 判为更湿；表中 **A/B/C/D 统计分组的显著性定义源文未给出**；ARTEMIS 表的 **STEWIE SDP 列数值在提取文本中缺失**",
+    "存疑 5：华峰化学源文的 **HDS 620 dtex 2.6% / 92.97% 需供应商书面确认 + 第三方报告**；**专利 CN202210037060.5（混合溶剂共沸）产业化状态未知**；**2026-04 CIDPEX 展示系列的 TDS 未取得**；财务与产能数据（002064.SZ）为源文转述的公开披露口径，本页未独立核验",
+    "存疑 6：Henkel 与华峰两份议题清单均为『**只有问题没有答案**』的提纲性质；其中所有数字（g/m²、1000+ ppm、30–50%、12–18 个月、pH 4.5–5.5、>500 次循环、490–840 dtex 等）**均为待追问的目标口径，不是实测值或供应商答复**，引用时必须标注",
+    "⚠️ 方法学修正记录：本批之前的查重脚本因 shell heredoc 对反斜杠转义的破坏，正则 `source_path:\\s*(.+)` 实际未生效，导致查重结果**可能是空判（恒为 NEW）**。本批已改用无反斜杠写法重做校验：`WIKI/sources/` 355 页中**同一 source_path 的重复页 = 0**，批次 12 的 10 项均已落地、批次 13 的 10 项确认为 NEW（无他人成果冲突）。**未发现任何被覆盖或重复的他人成果**",
+    "🔴 个人联系方式未页面化：华峰与 Henkel 议题清单中的我方身份、战略意图与谈判准备（含『准备莱卡 HYFIT 报价作为比价基准』『内部确认 HDS 620 dtex 是否进入 AVL 的评估流程』）**属内部方法论，仅登记不外发**；源文的作者署名仅作来源归属保留"
+  ]
+}

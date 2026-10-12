@@ -1,0 +1,109 @@
+# SEED: 薄膜压力分布传感（Pressure-Sensing Film）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 139 页，227 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[防水透气 Waterproof Breathable]]  (6 句)
+   • **Microporous backsheet films.** A representative route is a **three-layer co-extruded blown film** with CaCO₃ masterbatch in each layer (middle layer 60–70 kg per batch, with PE and lubricant) giving an ultra-thin PE microporous film at 10–14 gsm（源：CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法））。
+   • **Zoned breathability.** A second route increases the cast film's single feed port to **multiple independently fed ports**, each controlling its own additive recipe, merged and secondarily drawn into one zoned breathable film — for adult-diaper backsheets that need differentiated breathability *and* leak-proofing（源：CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤））。
+   • **Film-free alternative (modelled).** An all-PP SMMMMS structure was studied as a physical-model feasibility question — replacing the breathable backsheet film — and the intended answer is a **zoning** decision (where the film can be dropped) rather than a yes/no（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））。
+   • **Nanofibre membrane route.** Electrospun PU nanofibre membranes give very low basis weight with high hydrostatic pressure and very high WVTR; the vault is explicit that this is a **different material class, not a better film** — 4 gsm / 8 µm / 8,000 mmH₂O is not on the same scale as a PE drawn film（源：August R&D Meeting 2026（华峰研发会议）、Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜））。
+
+--- [[底膜 Backsheet]]  (5 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。本库引用来源对"底膜 / 背层 backsheet"给出的是**功能性口径**，而非词典式定义。
+- 功能性口径（有来源支撑）：底膜是卫材结构中的**最外层阻隔—透气件**，其阻隔与透气由**层压（lamination）工艺**设计实现 —— "lamination engineers barrier/permeability for backsheets"（源：Nonwoven fabric finishing）；库内把 topsheet / ADL / core / **backsheet** / rewet 并列为卫材主线层级（源：Handbook of Nonwovens）。
+- **两条技术路线**：① 「微孔透气膜 + 纺粘」复合膜背层（film laminate）；② **无膜背层**（以高阻隔熔喷复合无纺布替代，如 30 gsm SMMMS）（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • **抗回渗与阻隔是第一功能**：底膜须在 free liquid / 污染 / 坐压峰值交汇处保持阻隔；工程解是**分区（约 62 % 去膜 + 裆部留膜 + 腿围同级熔喷）**而非整体替换（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **光学兼容性**：某些尿湿指示路线**要求背层透光（light-transmissive backsheet）**，与不透光高遮盖白色背层不兼容 —— 背层选型必须与指示方案联动评估（源：Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）、Wetness Indicator Glue）。
+- **单一材质回收**：PP-only 背层去掉阻塞机身机械回收的 **PE/PP 分相**，被原文称为"战略收益，比那 0.4 分钱更值"（源：Film-Free Backsheet（无膜背层））。
+- **气味是未计价风险**：52 L/m²·s 的高透气让氨气自由逸出，无模型可预测消费者反应，须尽早做气味评审（源：
+   • **SMMMS 的实测（非模拟）静水压与单束成形 CV**仍缺 （源：SMS复合结构）。
+- 真实尿裤中**稀便胆汁盐 / 湿巾液向背层的输运实验**未做；它决定裆部去膜与否（源：Film-Free Backsheet（无膜背层））。
+- **WS/MS 各层克重配比与阻隔性能的定量关系**库内暂无来源 （源：SMS复合结构）。
+- **"底膜"形式化定义**（引用来源未给出明确定义）。
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (4 句)
+   • An **improved composite elastic feature（复合弹性部件）** for absorbent articles that is easier to handle during manufacture and subsequent processing, disclosed in EP0820747A1 Absorbent Article with Elastic Feature (P&G)（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. The feature comprises **at least one extruded elastomeric layer** and **at least one extruded, substantially non-elastomeric layer** which together form a film（至少一层挤出弹性体层 + 至少一层挤出、基本非弹性层，共同构成薄膜）. Before the film is elasticise
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+   • Directly relevant to **diaper/pant elastication** — waist, cuff and ear-panel elastic components. The co-extruded film feature is the material route behind the elastic-feature cluster that also covers Elastic Strand Snicking（弹性橡筋断丝失效化）, Elastic Tension & Creep（橡筋张力与回缩率） and Waist Guard（腰围护挡）, and it links to pant-type articles (Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、EP2413866B1 Disposable Wearing Article (Unicharm)）. Because the film must be adhesively attached, it is the attachment t
+   • EP0820747A1 Absorbent Article with Elastic Feature (P&G)
+- EP2413866B1 Disposable Wearing Article (Unicharm)
+- EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)
+- CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）
+- Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+- Elastic Strand Snicking（弹性橡筋断丝失效化）
+- Elastic Tension & Creep（橡筋张力与回缩率）
+- Waist Guard（腰围护挡）
+- Synthesis of Thermoplastic Polyester Elastomers
+- Origin of Rubber Elasticity Book
+- SMMMS Film-Free vs Microporous F
+
+--- [[全息存储 Holographic Storage]]  (4 句)
+   • In this vault the term is used in the sense of **holographic recording** — writing a **periodic (grating) structure** into a photopolymer film so that the film develops **structural colour**. The anchor source defines it as a recipe space for "holographically written structural-colour films that shift colour monotonically with strain": **holographic recording writes a periodic structure into a PEGDA-TDE film, giving mechanochromic structural colour with a monotonic strain → wavelength map**（源：Ho
+   • **Recording → periodicity → colour.** Holographic exposure writes a periodic grating into the film; the grating period sets the reflected wavelength, so colour is produced **without pigment**, by periodic structure（源：Holographic Structurally Colored Mechanochromic Films）.
+- **Strain reads out as a blue-shift.** Stretching the film changes the grating period; 0 → 20% strain blue-shifts the peak ~58 nm and drops reflectance ~68%, giving **three simultaneous read-out channels** (λmax, reflectance, 
+   • **Anti-counterfeit / brand label.** Colour arises from holographic recording, tunable by recording angle (0/15/30/45°) and by a large thickness/dose window — a hard-to-copy, angle-dependent optical feature suited to premium diaper/wipes packaging anti-counterfeit and traceability (推演)（源：Holographic Structurally Colored Mechanochromic Films）.
+- **Humidity-stable visual label.** Reflectance spectra remain measurable at **RH 100% and 80 °C for 120 h**, a precondition for a label surviving the wear 
+   • Holographic Structurally Colored Mechanochromic Films — defining source: holographic recording → structural colour; full process/performance data
+- Chromic Phenomena Solar Energy and Liquid Crystals — listed as a citing source; no on-topic holographic content found in the read excerpt（relevance weak）
+- 相关概念：Mechanochromic Photonic Sensors、机械变色 Mechanochromic、结构色 Structural Color、水凝胶 Hydrogel、Interactively Mechanochromic Electronic Textile Sensor、SAP（高吸水树脂）
+
+--- [[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]  (4 句)
+   • A Chinese published patent application (applicant: **湖北宏裕新型包材股份有限公司**) on an **ultra-thin PE microporous breathable film** (10–14 gsm) for baby-diapers backsheet — an upgrade over cast breathable film. Backsheet-film manufacturing patent → FTO-relevant.
+   • The invention provides an ultra-thin PE microporous breathable film co-extruded by a blown-film machine with outer/middle/inner layers: inner layer = CaCO3 masterbatch 45–60 kg + PE 25–30 kg + ethylene-octene copolymer 18–25 kg + lubricant 1–3 kg; middle layer = CaCO3 masterbatch 60–70 kg + PE 25–30 kg + lubricant 1–3 kg; outer layer = same as inner. The product shows basis weight 10–14 gsm, WVTR 1800–3200 g/24h/m², hydrostatic resistance ≥50 mmH2O, with low basis weight, high breathability and 
+   • **Low-basis-weight (10–14 gsm) PE microporous breathable film via co-extrusion** — supporting page SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）.
+   • 概念/对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层）
+- 实体：—
+
+--- [[EP0820747A1 Absorbent Article with Elastic Feature (P&G)]]  (4 句)
+   • A 1996-priority P&G European application that replaces the **nonwoven + elastomer laminate** approach to diaper elastics with a **co-extruded elastomeric / non-elastomeric film**, using mechanical activation to switch elasticity on — the earliest "activation" document in the library's elastic-feature cluster.
+   • The application discloses an absorbent article having an improved **composite elastic feature**（复合弹性部件）that is easier to handle during manufacture and subsequent processing. The feature comprises at least one **extruded elastomeric layer** and at least one **extruded, substantially non-elastomeric layer** which together form a film. Before the film is elasticised by **activation**（激活）, the non-elastomeric layer inhibits the elastic properties of the elastomeric layer; after activation, that inhi
+   • **"Activation" is the invention's switch** — the film ships/stores in a non-elastic, easy-to-handle state and becomes elastic only after mechanical stretching. → Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- **Removing the nonwoven removes two manufacturing pains** — weak nonwoven tensile strength and fibre/glue contamination. → Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+- **Co-extrusion is preferred over lamination** — one process step from the same die head. → Co-extruded Elastic Film Feature
+   • Concept 概念：Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）、并列复合自卷曲纤维
+- Entity 实体：The Procter & Gamble Company（宝洁）
+- Same-module patents 同模块（模块四：氨纶橡筋/弹性纤维）专利：EP2413866B1 Disposable Wearing Article (Unicharm)、EP1581159B1 Method for Producing Diaper Pants（弹性片材）
+
+--- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]  (4 句)
+   • A **physics-based feasibility study** asking whether an all-PP SMMMMS structure can replace the breathable backsheet film. Its purpose in this library is to supply the quantitative barrier, attenuation and degradation limits behind any "drop the film" proposal, and to supply a **zoning** answer instead of a yes/no answer.
+（本页回答「全 PP 的 SMMMMS 结构能否替代透气背层膜」，属**基于物理模型的可行性研究**。在本库中的用途是：为任何「去膜」提案提供量化的阻隔／拉伸衰减／降解边界，并把答案从「行不行」改成**分区**。）
+   • 1. The deck opens with an executive verdict of three findings, and its first finding is **negative**: in the industrial window fibre diameter is drag-limited — set by throughput per hole and jet velocity, not by melt viscosity — so the stated premise that better melt flow at the nozzle gives finer fibres does not hold（模头温度 250 → 300 °C 使模拟直径变化 < 1%）.
+2. Its second finding is the **real prize**: capillary residence time is 4–20 ms against 480 s for the rest of the melt path, so heating only the t
+   • **Fibre fineness is bought with throughput per hole and jet velocity, not with temperature.** —— 支撑页：Meltblown Nonwoven（熔喷非织造布）
+- **Thermal decoupling of the die tip is the real benefit of the laser**, because degradation is dose = rate × time and the capillary shortens the time by 80,000×. —— 支撑页：Laser-Assisted Die Tip（激光辅助模头）、熔融指数与化学降解
+- **Barrier is formation-limited**, so beam count and local basis-weight CV — not median pore size — set hydrohead. —— 支撑页：Formation-Limited Barrier（阻隔的成形受限机理）
+
+   • Concepts 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、Laser-Assisted Die Tip（激光辅助模头）、SMS复合结构、熔融指数与化学降解、茂金属聚丙烯
+- Comparisons 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、无纺布五大工艺对比
+- Sibling project directory 同目录项目：
+
+--- [[PPS 薄膜压力传感应用场景（触感压力分布技术）]]  (4 句)
+   • **PPS（中国）** 的薄膜压力分布传感技术资料，本批作为「触感/压力传感技术（可用于纸尿裤贴合与舒适度量测）」信息源。
+   • PPS (China) offers a **flexible pressure-sensing film/sensor** technology delivering soft, stretchable, fine-grained distributed pressure mapping. Documented application scenarios: (1) medical & rehab tactile measurement; (2) wearable pulse-waveform sensor (blood pressure, high-frequency pulse-shape capture, no chest strap, OEM-friendly); (3) robotic grip-force / tactile control; (4) touchscreen 3D control combining force + capacitive sensing, only 1–2 mm thick, multi-touch. Relevant to hygiene:
+   • **PPS 薄膜压力传感可用于贴合/舒适压力分布量测（医疗/可穿戴/机器人）** —— 支撑页：PPS（触感压力传感）、薄膜压力分布传感（Pressure-Sensing Film）
+   • 实体：PPS（触感压力传感）
+- 概念：薄膜压力分布传感（Pressure-Sensing Film）
+
+--- [[US11612524B2 Breathable Diaper Backsheet (Colormasters)]]  (4 句)
+   • Granted US patent (Colormasters, LLC) on a **breathable diaper backsheet** — a backsheet-film construction patent in the "backsheet" cluster of this IP block.
+   • The patent (title: "BREATHABLE DIAPER BACKSHEET") grants a breathable diaper backsheet. The bibliographic header lists assignee Colormasters, LLC (Albertville, AL, US), inventor Robert Estill Chambliss, and a classification set spanning A61F 13/514, A61F 13/49, A61L 15/18, A61L 15/26 and B32B (multilayer film constructions). It is a continuation of US 2021/0251819 A1 (filed Feb. 19, 2020). Detailed claim language on the breathable backsheet structure is in the full text; this summary captures th
+   • Breathable backsheet film construction — supporting page: Film-Free Backsheet（无膜背层）
+   • 概念 Concept：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+- 实体 Entity：Colormasters, LLC（本批仅 1 次提及，未单独建页；仅正文标注）
+
+--- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]  (4 句)
+   • P&G 的**已授权美国专利（US 7,195,621 B2，仅 1 项权利要求）**：用**熔喷无纺布（meltblown nonwoven）替代 PE 膜**作为一次性衣物的阻隔/透气组件，并给出一套**可执行的四参数窗口**（纤维直径、克重、透气度、透湿度）+ 三个通过 10 psi 不漏的实施例。是本库 Film-Free Backsheet（无膜背层） 路线最早、且参数最硬的一份一手出处。
+   • Title: "DISPOSABLE GARMENT COMPRISING MELTBLOWN NONWOVEN BACKSHEET". The invention addresses the discomfort of polyethylene film backsheets: a plastic film has insufficient moisture breathability and almost no air permeability, causing skin irritation. Microporous polyfilm is the next attempt, but may deliver "sometimes less than 50% of the desired level" of breathability and still almost no air permeability. The inventor's diagnosis of the competing nonwoven prior art (unexamined Japanese publi
+   • **去膜背层（film-free backsheet）不是新想法，2000 年就有量化专利**——本案把"熔喷替代 PE 膜"落成了四个可直接验收的数字，而非概念性主张。→ Film-Free Backsheet（无膜背层）
+- **本案的经验是"纤维不是越细越好"**——0.5–2.5 µm 的先行技术因孔径过小而失去透气并拉低强度；本案反向取 **3–10 µm**，与本库 Formation-Limited Barrier（阻隔的成形受限机理） 关于"成形/均匀性而非平均直径决定阻隔"的论述方向一致。→ Meltblown Nonwoven（熔喷非织造布）
+- **同时限定模量（230–650 gf/mm）是工艺性要求**：既要够软能悬垂，又要够强能在加工线上跑起来——这解释了为什么单纯追求超细纤维没有产线价值。
+- **权利要求与说明书的差异极大，读范围时必须注意**：摘要/SUMMARY 讲的是 **backsheet**，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上。→ 见下方 manual_review。
+   • Concept 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、SMS复合结构
+- Entity 实体：The Procter & Gamble Company（宝洁）
+

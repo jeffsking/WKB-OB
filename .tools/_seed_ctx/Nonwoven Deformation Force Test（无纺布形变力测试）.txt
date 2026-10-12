@@ -1,0 +1,95 @@
+# SEED: Nonwoven Deformation Force Test（无纺布形变力测试）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 619 页，1132 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (7 句)
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Section order（尺寸/形态类量）**：fineness 11.2, crimp 11.3, tensile properties 11.4, evenness 11.5, friction 11.6, shrinkage 11.7, entanglement 11.8（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+   • **Shrinkage 收缩**：defined as the decrease in length of a specimen，a negative value being stretch；instruments Toray FTA-500, Lawson-Hemphill CTT-DST, Textechno Dynafil, Rothschild DEFT/CCT；standard ASTM D2102-90；the key claim（p.265）is that "there must be a means of assessing and controlling shrinkage behaviour of the yarn"，with boiling-water / dry-heat shrinkage **and** shrinkage force measurable simultaneously on a running yarn（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (7 句)
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+   • **吸水纸（blotter）三族**：KC 系用 **100 lb Verigood**（88 × 300 mm，1–2 张）；P&G 系用 **Collagen**（P&G Duck 为 Blotter 75 × 145 mm；Collagen BCC 直径 90 mm；Collagen AFC 31 gsm，112 或 70 mm 直径）；其余用 **Filter Paper**（China U Rewet 145 gsm / 10 张；Diaper Testing Intl Type 102 / 10 张；NWSP 070.9 Grade 950 / ~10 g；Costco FQ Demo Grade 950?）。**张数从 1 张到 10 张，差一个数量级**。
+
+--- [[Rewet Test（回渗测试）]]  (6 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • 上文已确立的硬约束是 **"回渗值不可裸引"**（同一公司 30 年间用过 0.005 / 0.05 / 0.24 / 0.5 / 0.7 / 1.0 psi 六档压力）。本追加段把这条约束**从"纵向的历时变化"扩展到"横向的跨组织方法"**：**客户（Walmart 训练裤招标）指定的是另一套标准**，其加液量、压力、介质与时长全部不同。
+- **成人产品此前从未与客户讨论过台架测试**（源文原话：*"Never discussed bench testing on adult products with Walmart previously"*）——这意味着**成人护理品类首次面临外部标准对齐问题**。
+   • 容量：**CRC（STM-00219）** / **Functional capacity（TTM-00638）**、**Retention Capacity（STM-00033）**、Target zone capacity / Virtual functional capacity
+- 可达性：**GBP（STM-00229）**、**Composite permeability（TTM-00006）** / **X-ray imaging（TTM-00631）**、**Bromocresol SAM 分布（JA-22229）**、**Mannequin Forced Failure（TTM-00459 / TTM-00200 / TTM-00660）**\* / AFEA
+- 受压持液：**AUL under pressure at rewet pressure**；⚠️ **"SAM deswelling at rewet pressure"= under development**、**"AUL Core deswelling test"= needed**
+- 及时锁液：*
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (6 句)
+   • **定义待补（引用来源未给出明确定义）** —— the vault registers this concept through its method documents rather than a definition. It is evidenced as a **core/material test**: the cited method files are **STM-00305 SAM分布.docx** and **STM-4597纸尿裤SAM分布测试.docx**（源：STM-00305 SAM分布.docx、STM-4597纸尿裤SAM分布测试.docx）。The vault's other register of the concept is a **bromocresol-indicator SAM-distribution method, JA-22229**, listed under the *可达性 / accessibility* channel of the core-test family（源：Rewet Test（回渗测试））。What the te
+   • **Where it sits in the core-test family.** The vault groups core tests into channels — 容量 / capacity, **可达性 / accessibility**, 受压持液 / retention under load, 及时锁液 / prompt lock-up — and places the **Bromocresol SAM 分布（JA-22229）** method in the 可达性 channel, alongside GBP (STM-00229), Composite permeability (TTM-00006) / X-ray imaging (TTM-00631) and Mannequin Forced Failure（源：Rewet Test（回渗测试））。That grouping implies the method characterises how liquid reaches and is held within the swollen SAM mass,
+   • **Related SAM metrics that do carry numbers.** SAM characterisation by the five indicators (PSD / GBP / CRC / AUL / Vortex) is the **formal KC口径 for SAP incoming-material judging** and has complete STM numbering（源：SAM Testing Methods（超级吸水材料测试方法））; the same five-indicator set is confirmed in the raw-material method index（源：Raw Material Testing Method Summary（原材料测试方法汇总表））。**PSD** here is particle-size distribution — a material-level distribution distinct from the spatial, in-core SAM distribution 
+   • **Gap flagged by the vault itself.** Two deswelling tests are explicitly **not yet available**: "SAM deswelling at rewet pressure" is *under development* and "AUL Core deswelling test" is *needed*（源：Rewet Test（回渗测试））。
+
+--- [[热风无纺布]]  (6 句)
+   • **热风无纺布（air-through / through-air bonded nonwoven，亦称 热风粘合无纺布）** is a **thermally bonded nonwoven** in which the web is bonded by **hot air passing through it**（热风穿透）. Bonding relies on the **sheath (e.g. PP/PE) partially melting below the sheath/core melting-point gap and re-crystallising into a more perfect crystal form**, which sets the structure permanently; the **through-air temperature must be slightly above the sheath melting point yet not high enough to destroy the core (PET/PP) orientati
+   • The vault carries several overlapping headings for this material/process — 热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven — see Open Questions（源：本页 cited-by 与全库同名标题）.
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+
+--- [[等离子处理 Plasma Treatment]]  (6 句)
+   • The vault never defines plasma treatment as a process; it treats it functionally, as a **dry** route to fix polypropylene's poor wettability — *"Plasma fixes PP's poor wettability dryly"* and *"Plasma makes PP hydrophilic for hygiene without wet chemistry"*（源：Nonwoven fabric finishing）。It is grouped with the emerging/developing finishing technologies (alongside microencapsulation, laser etching, biomimetic lotus-leaf and electrochemical routes)（源：Nonwoven fabric finishing）。
+   • **Why PP needs it.** Polypropylene fibres have low surface energy and are hard to bond; **corona/plasma treatment improves wetting**（源：Chemical bonding）。The finishing source restates this as PP's poor wettability being fixed by plasma *dryly*, i.e. without a wet-chemical finish（源：Nonwoven fabric finishing）。
+   • **Demonstrated mechanism evidence.** The vault's only worked example is O₂-plasma on PP **blood filters**, where improved wetting gives *much higher* flow（源：Nonwoven fabric finishing）。
+   • **Dry vs wet route.** Plasma is presented as the alternative to the wet-chemical finishes catalogued in the same source (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV finishes)（源：Nonwoven fabric finishing）。The adjacent spin-finish source adds the durability context that motivates a dry route: surfactant-type finishes are subject to **thermal migration** — the surfactant migrates to and enriches on the fibre surface on heating, so hydrophilicity decays over time（源：Man
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (6 句)
+   • Purposes of testing are stated in 11.1: **quality control 质量控制**, **process control 工艺控制**, **product development 产品开发** and **process optimisation 工艺优化**. The chapter then works through, section by section: **fineness 细度** (11.2), **crimp 卷曲** (11.3), **tensile properties 拉伸性能** (11.4), **evenness 均匀度** (11.5), **friction 摩擦** (11.6), **shrinkage 收缩** (11.7) and **entanglement 缠结** (11.8) — each following the chain "definition → quantifying index → standard method → commercial instrument".
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+   • **Shrinkage 收缩** (p.264): "the decrease in length of a specimen"; a negative value is called stretch.
+- Discontinuous and continuous methods; commercial instruments **Toray FTA-500**, **Lawson-Hemphill CTT-DST**, **Textechno Dynafil**, **Rothschild DEFT/CCT**; standard **ASTM D2102-90**.
+- Key claim (p.265): "there must be a means of assessing and controlling shrinkage behaviour of the yarn." Simultaneous measurement of boiling-water / dry-heat shrinkage **and** shrinkage force on a running yarn
+   • Moderately relevant — this is the chapter most transferable to **incoming staple-fibre and nonwoven qualification**.
+
+--- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]  (6 句)
+   • **原材料测试方法的总索引表**，按「材料 → 测试项 → 物理测试方法」三列锁定编号；与 Finished Product Testing Method Summary（成品测试方法汇总表） 构成 S2 测试方法的**一张成品表 + 一张材料表**的上位结构。
+   • 表覆盖九大类材料：**Nonwoven（无纺布）**、**Film（膜）**、**SAM（高吸水材料）**、**Complex Core（复合芯体）**、**Adhesive（胶黏剂）**、**Elastic（弹性材料）**、**Hook&Loop（钩扣系统）**、**Disposable Tape（丢弃贴）**、**Package（包装）**。
+   • **Complex Core（复合芯体）**九项（基重、厚度、COV、尺寸、回渗、吸收性、滑渗、水分、白度、pH）**全部指向 Inner Quality Testing Standard（内控质量标准），无任何 KC STM 编号**——这是本表最值得注意的结构性事实：复合芯体作为新兴材料，其进厂判读尚未进入 KC 全球方法体系。
+   • **SAM 五指标（PSD/GBP/CRC/AUL/Vortex）已有完整 KC STM 编号，是本库 SAP 来料判读的正式口径** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）
+- **复合芯体九项判读全部依赖内控标准，尚未纳入全球 STM 体系** —— 支撑页：COCO芯体平台、芯体测试方法与验收基准（STM）
+- **GB/T 22875-2018 是 SAM 的国标总括方法，覆盖 7 项化学与物理指标** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）
+- **无纺布判读以 GB/T 24218 系列为主干，KC STM 仅作补充** —— 支撑页：热风粘合无纺布
+- **WVTR 归入内控-12，另有 Mocon 法 WI-62362，属两条并行的透气/透湿路线** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **「差异点汇总」表为空，截至 2026-09 无已登记的操作-标准偏差** —— 支撑页：Kimberly-Clark（金佰利）
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (5 句)
+   • GB-T 28004-2011 **《Disposable Diapers（纸尿裤 片、垫）》** is the **historical (superseded) Chinese national product standard** for disposable diapers — retained in this vault for historical version comparison, old-contract / inventory disputes, and lineage tracing of the penetration test method（源：GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫））。It has been replaced as the current CN market baseline by **GB-T 28004.1-2021 Baby Diapers**, recorded as 生效中 with 2022-05-01 实施（源：GB-T 28004-2011 与 GB-T 28004.1-202
+   • **The 2011 penetration口径 — 30° run-off（滑渗）.** The GB-T28004-2011 滑渗.doc test answers the question "**尿液冲击下有没有被及时吸收**" — urine has large volume and low viscosity, so the dominating issue is absorption speed（源：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗））。Its intended use is **国标符合性与出厂放行** — a fixed caliber, robust to outliers (去极值), suited to external reports and cross-factory benchmarking（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。The 30° run-off method is contrasted with the in-house **TTM
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+   • **The 2011-version clause text itself is not in the vault** — the vault only holds the version-lineage notes and the .doc test records, not the full 2011 standard body; a complete clause-by-clause口径 .
+- **No 2008→2011→2021 line-by-line comparison page exists** — the batch explicitly noted the 2008 version texts are not in the library and only the revision foreword's change list exists, "不足以支撑逐项对比"（源：GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂））。
+- **The actual 滑渗量 numeric 
+
+--- [[Nonwoven 非织造布]]  (5 句)
+   • A nonwoven resists a single clean definition — the field is **convergent and boundary-crossing**, because the industry drew on textile, paper and polymer-processing practices（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工）（源：Development of the nonwovens industry）. The vault fixes the **EDANA and INDA definitions** and classifies nonwovens into **drylaid, wetlaid and polymer-laid (spunmelt)** families. These three process families trace to three mother industries: **drylaid → textiles, wetlaid → papermaking, p
+   • **Position-based acceptance（按位置验收）：** the CN standard FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布） organises diaper-nonwoven acceptance by **in-diaper position** — topsheet, backsheet, leak cuffs, ADL, core wrap, waist/side-tape — rather than by process; every property is anchored to the GB/T 24218 test-method series（源：FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布））. **Fibre fineness is not monotonic** — US7195621B2 records that ultra-fine 0.5–2.5 µm meltblown lost both breat
+   • Nonwovens are the load-bearing substrate of every hygiene article layer in this vault: **topsheet（Topsheet（面层））**, **ADL（ADL（导流层））**, core wrap / SAP carrier（Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））, backsheet（Film-Free Backsheet（无膜背层）、Meltblown Nonwoven（熔喷非织造布））and elastic/laminates. The dominant hygiene process families — **热风无纺布（air-through）**, **纺粘 Spunbond**, **熔喷 Meltblown**, **水刺 Hydroentanglement** and their composites（SMS 纺粘熔喷复合、SMS复合结构）— draw on **双组分纤维 Bi
+   • The vault does not carry a single unified numeric property table (gsm × tensile × permeability) for the REL core's own nonwoven stack .
+- MD/CD anisotropy and inter-fibre bond failure mechanics are explicitly **not covered** by the polymer-science chapters (Ebewole Polymer Science Ch13 Mechanical Properties of Polymers）.
+- A named supplier-to-layer mapping for the current REL core build is not evidenced .
+

@@ -1,0 +1,34 @@
+[
+ {
+  "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/01_模块一：SMMS_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_141d55607ea44c6366df9e23918f08e8001a693ee6c0644e",
+  "name": "01_模块一：SMMS_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+  "reason": "ima source returned empty content (likely scanned/image-only PDF, not OCRed)",
+  "remedy": "channel B download original + local OCR",
+  "moved": true
+ },
+ {
+  "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(嵌段共聚物).pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_4906b6a27de9382c88173204d444d144001a693ee6c0644e",
+  "name": "16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(嵌段共聚物).pdf.md",
+  "reason": "ima source returned empty content (likely scanned/image-only PDF, not OCRed)",
+  "remedy": "channel B download original + local OCR",
+  "moved": true
+ },
+ {
+  "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/18_模块四：氨纶橡筋_弹性纤维_CN111134966A_一种具有防漏尿功能的裤型纸尿裤（ω型腿围橡筋）.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_2787db917515c2899727fa425a6b024a001a693ee6c0644e",
+  "name": "18_模块四：氨纶橡筋_弹性纤维_CN111134966A_一种具有防漏尿功能的裤型纸尿裤（ω型腿围橡筋）.pdf.md",
+  "reason": "ima source returned empty content (likely scanned/image-only PDF, not OCRed)",
+  "remedy": "channel B download original + local OCR",
+  "moved": true
+ },
+ {
+  "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/01_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a7be81c7bb36409d14a096407ec60fe5001a693ee6c0644e",
+  "name": "01_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_US20070203469A1_Disposable_garment_comprising_meltblown_.pdf.md",
+  "reason": "ima source returned empty content (likely scanned/image-only PDF, not OCRed)",
+  "remedy": "channel B download original + local OCR",
+  "moved": true
+ }
+]

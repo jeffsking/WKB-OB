@@ -1,0 +1,70 @@
+# SEED: PVA纤维（湿强骨架）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 8 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[COCO V6 试产原料准备会（v2 Final）]]  (4 句)
+   • v2 Final 保留「4 位置 · 9 项 · 3 选择维度」的物料矩阵，并新增三页设计与一页测试矩阵。**Liner 设计**：ATB 双梳理面层 50 gsm，4 铺层 / 2 梳理系统——上层 25 gsm（22.5 gsm 90% ES 2D + 2.5 gsm 10% 三叶形 PE/PET 3D）、下层 25 gsm（12.5 gsm 50% ES 4D + 12.5 gsm 50% 三叶形 PE/PET 3D）；三叶形 PET 共 15 gsm（30%），皮肤侧仅 5% 以保住手感；Z 梯度自柔软贴肤面过渡到芯体侧 MD 沟槽网络，三叶形沟槽沿 MD 引液；CD 拉伸 9.3 N/50mm（下限 8.0 N @600 m/min）。**REL 设计**：5 纤维 28 gsm 穿透热风粘合，Z 栈为「上细旦 → 中粗/中空 → 下 PVA」，上 40% 为 2D ES + 3D PE/PET（细毛细摄入）、下约 60% 为 6D PVA + 3.5D 中空 ES + 7D PTT/PET（Z 输运 + 湿强骨架）；1st STT 0.65 s（相对常规 ADL **-41
+   • Z 栈（2 梳理）：上 40% = 2D ES + 3D PE/PET（细毛细摄入）；下 ~60% = 6D PVA + 3.5D 中空 ES + 7D PTT/PET（Z 输运 + 湿强骨架）。
+- 指标：1st STT **0.65 s**（相对常规 ADL **-41%**）；湿态 MD 抗张 **78 N/m**（24 gsm）；SAP 捕获/分离 **98%**。
+   • **ATB 双梳理 + 三叶形 30%（皮肤侧仅 5%）是 Liner 的核心设计** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）
+- **REL 的 Z 栈是「细旦朝上 / 粗旦中空朝下 / PVA 底部增强」** —— 支撑页：REL增强层、PVA纤维（湿强骨架）
+- **staggered swell 是容量利用率的全部机制** —— SAP2/SAP3 同层混合而非叠放 —— 支撑页：SAP错峰膨胀
+- **试产 MPM 克重（20 gsm）高于规格（15–18 gsm），须确认适用性** —— 支撑页：芯包材料对比（LSN MPM vs PSN MPM）
+   • 概念：COCO芯体平台、ATB双梳理面层（Dual-Card Topsheet）、REL增强层、SAP错峰膨胀、SAP性能指标（CRC AUL GBP Vortex）、芯体测试方法与验收基准（STM）、三叶形截面纤维（Trilobal Fibre）、PVA纤维（湿强骨架）、ADL（导流层）
+- 实体：延江（Yanjan）、诺尔（Nuoer）、Unikorn、福建闽瑞新合纤、福地（Fudi）
+- 对比：SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）、芯包材料对比（LSN MPM vs PSN MPM）
+
+--- [[Manufactured Fibre Technology Ch06 Solution Spinning Processes]]  (2 句)
+   • **与 REL 主线的关系：间接但非无关**。卫材主力纤维（PP/PE 纺粘、熔喷、ES 双组分）全部走**熔纺**路线（见第 4 章），本章的溶液法主要用于不能熔融加工的聚合物。因此本章对应的是**特种功能纤维**而非大宗卫材纤维。
+- **超吸水纤维（SAF, super absorbent fibre 超吸水纤维）与 PVA 湿强骨架纤维属溶液纺体系**：SAF 与 PVA 因热分解温度低于熔点或需交联，通常走湿法/干法溶液纺；本章的"凝固 = 最关键单元"与"低速一体化（纺丝—拉伸—卷曲—切断）"正是这类纤维可直接切短、与绒毛浆共混成网的工艺基础。见 Super Absorbent Fibre（超吸水纤维 SAF） 与 PVA纤维（湿强骨架）。
+- **截面形态的蒸发/扩散速率比（p.130）是异形纤维设计的通用机理**：虽然熔纺截面主要由喷丝板孔形与冷却决定，但"传质速率比 → 截面畸变"的思路可迁移理解异形截面（如三叶形）在快速冷却下的形变与锯齿化。见 三叶形截面纤维（Trilobal Fibre）。
+- **双组分（bicomponent）纤维在干纺差别化中早已列出**（
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch04 Melt-Spinning Processes — 对照章：熔体纺丝（卫材主力路线）
+- PVA纤维（湿强骨架）
+- Super Absorbent Fibre（超吸水纤维 SAF）
+- 三叶形截面纤维（Trilobal Fibre）
+- Electrospinning（静电纺丝）
+
+--- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]  (2 句)
+   • **归档方式从「项目制」改为「组件类别 + 技术平台」双维度，是为了跨团队复用与可检索** —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **REL 的功能纤维逻辑是「亲水 + 回弹」双目标，PVA 与 PTT 分别承担** —— 支撑页：PVA纤维（湿强骨架）、PTT（聚对苯二甲酸丙二醇酯）、REL增强层
+- **纳米纤维素的第一落点是热熔胶而非替代 SAP，且 IP 必须留在我方** —— 支撑页：BNC-PEG 母粒（干态可复水中介体）、细菌纳米纤维素
+- **行业级瓶颈在「改性母粒」与「复配配方」两类中间能力，而非材料本身** —— 支撑页：Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+- **除臭的技术难点从「材料有效性」转移到「上线工艺可行性」（喷嘴堵塞 / 粉体跌落）** —— 支撑页：中科依兰、Zeolite Odour Control（沸石除臭载体）
+   • 概念：PVA纤维（湿强骨架）、PTT（聚对苯二甲酸丙二醇酯）、BNC-PEG 母粒（干态可复水中介体）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、三叶形截面纤维（Trilobal Fibre）、REL增强层、分区密度设计、Chromism Taxonomy（变色现象分类）
+- 实体：中科依兰、福地（Fudi）、福建闽瑞新合纤、诺尔（Nuoer）、兰精集团
+- 对比：（本批不新建；既有对比页见 CoPET-PET 与 PE-PET 皮芯纤维对比 一类）
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (2 句)
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、REL增强层、ADL（导流层）、芯体测试方法与验收基准（STM）、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）、并列复合自卷曲纤维、SAP性能指标（CRC AUL GBP Vortex）、COCO芯体平台
+- 实体：Kimberly-Clark（金佰利）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+
+--- [[Biodegradable SAP（可降解高吸水树脂）]]  (1 句)
+   • 上位：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- 相关路线：PGA（聚乙醇酸）、PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）、PVA纤维（湿强骨架）
+- 邻域：可家庭堆肥无纺布（Home Compostable Nonwoven）、SAP错峰膨胀
+- 组合口径：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）]]  (1 句)
+   • 相关：绒毛浆（Fluff Pulp）、TCF Bleaching（全无氯漂白）、原纤化、PVA纤维（湿强骨架）
+- 实体：Suzano（书赞桉诺）
+
+--- [[Kuraray（可乐丽）]]  (1 句)
+   • REL Variant C vs Option B Dual-Layer（成本·性能·供应链）
+- PVA纤维（湿强骨架）、REL增强层
+
+--- [[Coco V6 试产原料清单（Raw material list v3.0）]]  (1 句)
+   • 概念：SAP性能指标（CRC AUL GBP Vortex）、COCO芯体平台、SAP错峰膨胀、ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、REL增强层、PVA纤维（湿强骨架）
+- 实体：诺尔（Nuoer）、延江（Yanjan）、Unikorn、福地（Fudi）、福建闽瑞新合纤、汉高
+- 对比：SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）、芯包材料对比（LSN MPM vs PSN MPM）、COCO V6 Liner 方案对比（Code 1 vs Code 2-A vs Code 2-B）
+

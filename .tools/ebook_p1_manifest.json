@@ -1,0 +1,578 @@
+{
+  "generated": "2026-09-29",
+  "scope": "P1",
+  "books": [
+    {
+      "name": "Manufactured_Fibre_Technology",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Manufactured_Fibre_Technology.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology",
+      "n_chapters": 20,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch01.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch02.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch03.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch04.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch05.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch06.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch07.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch08.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch09.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch10.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch11.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch12.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch13.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch14.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch15.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch16.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch17.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch18.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch19.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology/Manufactured Fibre Technology · analysis_ch20.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Seymour Polymer Chemistry",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry",
+      "n_chapters": 18,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch01.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch02.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch03.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch04.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch05.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch06.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch07.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch08.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch09.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch10.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch11.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch12.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch13.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch14.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch15.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch16.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch17.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch18.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Ebewole Polymer Science Technology",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology",
+      "n_chapters": 15,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch01.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch02.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch03.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch04.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch05.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch06.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch07.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch08.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch09.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch10.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch11.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch12.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch13.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch14.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch15.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/INTRODUCTION_TO_PHYSICAL_POLYMER_SCIENCE.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science",
+      "n_chapters": 14,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch10_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch11_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch12_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch13_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch14_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch1_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch2_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch3_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch4_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch5_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch6_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch7_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch8_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science/Introduction to Physical Polymer Science_ch9_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Smart_Polymers_Biotech_Biomed",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed",
+      "n_chapters": 14,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch10_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch11_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch12_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch13_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch14_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch1_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch2_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch3_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch4_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch5_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch6_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch7_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch8_深度拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch9_深度拆解.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Handbook_of_Plastic_Films_Editor",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_Plastic_Films_Editor.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films",
+      "n_chapters": 13,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch01.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch02.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch03.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch04.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch05.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch06.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch07.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch08.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch09.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch10.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch11.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch12.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch13.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "29_Principles_of_polymerization",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/29_Principles_of_polymerization.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization",
+      "n_chapters": 9,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch1_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch2_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch3_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch4_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch5_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch6_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch7_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch8_report.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch9_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Polymer_Reaction_Engineering",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Polymer_Reaction_Engineering.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)",
+      "n_chapters": 8,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch01_Introduction.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch02_Coordination.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch03_FRP_Homogeneous.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch04_FRP_Heterogeneous.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch05_Suspension.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch06_Emulsion.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch07_StepGrowth.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch08_Control.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "US_Patents_智能织物传感_拆解",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解",
+      "n_chapters": 6,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US10905605_吸收制品传感_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US11013641_失禁传感_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US20070270773A1_P&G热变色湿态指示_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US5197958_纸尿裤湿态指示_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US5389093_温度型湿态指示_拆解.md.md",
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US8273939_P&G吸收制品_拆解.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Dual Component Fiber",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Dual Component Fiber",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Dual Component Fiber/Dual Component Fiber_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Handbook_of_Polymer_Testing_Handbook_of",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_Polymer_Testing_Handbook_of.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Polymer Testing",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Polymer Testing/Handbook of Polymer Testing_full_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Origin_of_Rubber_Elasticity",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Origin_of_Rubber_Elasticity.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity/chapters/Origin of Rubber Elasticity_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "PP Handbook",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/PP Handbook",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/PP Handbook/PP Handbook_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "seymour-carrahers-polymer-chemistry",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/seymour-carrahers-polymer-chemistry.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Chemistry",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Chemistry/Polymer_Chemistry_深度拆书_full.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Synthesis_of_Biodegradable_Thermoplastic",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Synthesis_of_Biodegradable_Thermoplastic.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic/Biodegradable Thermoplastic_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Thermoelectric_Phenomena_Materials_and_A",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Thermoelectric_Phenomena_Materials_and_A.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Thermoelectric_Phenomena_DeepBook",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Thermoelectric_Phenomena_DeepBook/Thermoelectric_AnnualReview_深度拆解.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "VISCOELASTIC_PROPERTIES_OF_AMORPHOUS_POL",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/VISCOELASTIC_PROPERTIES_OF_AMORPHOUS_POL.pdf.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Viscoelastic Properties",
+      "n_chapters": 1,
+      "chapter_source_paths": [
+        "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Viscoelastic Properties/Viscoelastic Properties_report.md.md"
+      ],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "epdf.pub_handbook-of-polymer-reaction-engineering",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/epdf.pub_handbook-of-polymer-reaction-engineering.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "ES纤维亲水功能与应用分析",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/ES纤维亲水功能与应用分析.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Flexible_and_Stretchable_Electronics",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Flexible_and_Stretchable_Electronics.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Flexible_Stretchable_Electronics_DeepRead",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Flexible_Stretchable_Electronics_DeepRead.md",
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Flexible_Stretchable_Electronics_DeepBook",
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Hydrogels_in_Regenerative_Medicine",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Hydrogels_in_Regenerative_Medicine.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Intelligent_textiles_and_sports_clothing",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Intelligent_textiles_and_sports_clothing.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Introduction_Liquid_Crystals_DeepBook",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction_Liquid_Crystals_DeepBook",
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Introduction_to_Liquid_Crystals",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Introduction_to_Liquid_Crystals.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "LC_Antiferroelectric_DeepRead",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/LC_Antiferroelectric_DeepRead.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Liquid_Crystalline_Polymers_for_Smart_Ap",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Liquid_Crystalline_Polymers_for_Smart_Ap.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Modern_size_exclusion_liquid_chromatogra",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Modern_size_exclusion_liquid_chromatogra.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Molecular_and_supramolecular_systems_in",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Molecular_and_supramolecular_systems_in.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Physics_Liquid_Crystals_DeepBook",
+      "priority": "P1",
+      "root_file_rel": null,
+      "extract_dir_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Physics_Liquid_Crystals_DeepBook",
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "polymer-science-and-technology_compress",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/polymer-science-and-technology_compress.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "preview-Handbook of Polypropylene and Polypropylene Composites (2nd ed.)",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/preview-Handbook of Polypropylene and Polypropylene Composites (2nd ed.).pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "preview-Polypropylene Handbook",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/preview-Polypropylene Handbook.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Questions and Concerns against the 1st draft.pptx",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Questions and Concerns against the 1st draft.pptx.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Smart Fabric Textiles Recent Advances and Challenges",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Smart Fabric Textiles Recent Advances and Challenges.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Smart_Fabrics_and_Networked_Clothing",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Smart_Fabrics_and_Networked_Clothing.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/SMART_TEXTILES_AND_THEIR_APPLICATIONS_VI.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Ssmart-polymers-applications-in-biotechnology-and-biomedicine-second-edition",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ssmart-polymers-applications-in-biotechnology-and-biomedicine-second-edition.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "Synthesis_of_thermoplastic_poly_ester_ol",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Synthesis_of_thermoplastic_poly_ester_ol.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "The_Physics_of_Liquid_Crystals",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/The_Physics_of_Liquid_Crystals.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "国内外双组分纤维的技术发展动向",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/国内外双组分纤维的技术发展动向.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "涂布复合技术",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/涂布复合技术.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    },
+    {
+      "name": "聚氨酯弹性体手册第二版pdf课件",
+      "priority": "P1",
+      "root_file_rel": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/聚氨酯弹性体手册第二版pdf课件.pdf.md",
+      "extract_dir_rel": null,
+      "n_chapters": 0,
+      "chapter_source_paths": [],
+      "root_compiled": false,
+      "chapters_compiled": 0
+    }
+  ]
+}

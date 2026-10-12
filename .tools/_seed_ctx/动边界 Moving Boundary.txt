@@ -1,0 +1,85 @@
+# SEED: 动边界 Moving Boundary
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Moving Boundaries (Crank Ch.13)
+#
+# 全库正文命中 54 页，63 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Moving Boundaries (Crank Ch.13)]]  (4 句)
+   • **SAP 溶胀前沿的定量实现——动边界模型与 Stefan 相变问题的统一框架**——SAP 凝胶-玻璃界面是'不可逆瞬时固定反应'的数学等价；前沿后面是全湿凝胶（D 大），前面是干态玻璃（D≈0），边界以恒定或变速推进；可用成熟 Stefan 问题工具（erfc 解、守恒条件）处理。
+   • **动边界定义**：'不可逆瞬时固定反应'的数学等价——尖锐边界表面在介质中移动。
+- **Stefan 问题等价**：动边界数学结构 = 冰融化前沿，可用成熟 Stefan 工具处理。
+- **SAP 映射**：溶胀前沿（凝胶-玻璃界面）——前沿后面全湿凝胶（D 大），前面干态玻璃（D≈0）。
+- **定量实现**：Ch 11 Case II/非菲克过渡区的定量模型。
+   • **SAP 溶胀前沿=Stefan 相变问题**——数学结构等价于冰融化前沿，可用成熟 Stefan 工具处理。
+- **动边界模型是 Case II/非菲克过渡区的定量实现**——补充 D(C) Fick 定律在玻璃态的不足。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Stefan 问题
+- Non-Fickian Diffusion (Crank Ch.11)
+- 动边界 Moving Boundary
+
+--- [[Mathematics of Diffusion]]  (3 句)
+   • **EN**: The classic reference for the mathematics of diffusion. 15 chapters cover Fick's laws, analytical and numerical solution methods, concentration-dependent diffusion, non-Fickian diffusion, heterogeneous media, moving boundaries, reaction-diffusion coupling, and simultaneous heat-moisture diffusion — the theoretical foundation for SAP swelling kinetics, absorbent core modeling, and wet migration simulation.
+   • **中文**: 扩散数学经典参考书——15 章完整覆盖 Fick 定律、解析/数值解法、D(C) 变系数扩散、非菲克扩散、复合介质、动边界、反应-扩散耦合、湿热耦合。SAP 溶胀动力学、芯体吸液、湿迁移建模的理论基础。
+   • 1. **Fick 定律与扩散 PDE**（Ch 1）：F = -D dC/dx 是核心假设；∂C/∂t = D∂²C/∂x² 是全书唯一核心 PDE
+2. **恒 D 解析解法**（Ch 2-3）：反射/叠加、分离变量、Laplace 变换；误差函数类与三角函数级数
+3. **三维几何模型**（Ch 4-6）：片层（芯体/湿巾）、柱（纤维）、球（SAP 颗粒）——u=Cr 变换是关键技巧
+4. **D(C) 变系数扩散**（Ch 7-9）：Boltzmann 变换、数值方法、等效扩散系数——SAP D(C) 常呈指数上升型
+5. **D 测量方法学**（Ch 10）：时间滞后法 L=l²/6D 是行业标准；SAP 必须用质量固定参考系
+6. **非菲克扩散**（Ch 11）：Alfrey-Gurnee-Lloyd 三分类——SAP S 形吸液曲线的物理根源
+7. **复合介质**（Ch 12）：串联阻力模型 Σ(lᵢ/Pᵢ)——芯体多层结构建模基础
+8. **动边界/Stefan 问题**（Ch 13）：SAP 溶胀前沿的定量实现
+9. **反应-扩散耦合**（Ch 14）：SAP 
+
+--- [[Fick 定律]]  (2 句)
+   • **SAP swelling is not plain Fickian.** The **Alfrey-Gurnee-Lloyd three-way classification** splits behaviour by the ratio of diffusion to relaxation rate: **Case I（Fickian）** when diffusion << relaxation; **Case II** when diffusion >> relaxation; **non-Fickian** when they are comparable. SAP maps onto the sequence 干态玻璃态 → Case II → 非菲克 → 橡胶态 Case I, which is the physical root of the **S-shaped sorption curve**（源：Non-Fickian Diffusion (Crank Ch.11)）. Critically, **a glassy polymer cannot be descr
+   • Mathematics of Diffusion
+- Diffusion Equations (Crank Ch.1)
+- Non-Fickian Diffusion (Crank Ch.11)
+- Moving Boundaries (Crank Ch.13)
+- Case II 扩散
+- Diffusion in a Sphere (Crank Ch.6)
+- Diffusion in a Plane Sheet (Crank Ch.4)
+- Diffusion in Heterogeneous Media (Crank Ch.12)
+- Definition and Measurement of Diffusion Coefficients (Crank Ch.10)
+- 时间滞后法 Time Lag Method
+- Boltzmann 变换
+- 湿迁移 Wet Migration
+
+--- [[Ebewole Polymer Science Ch06 Condensation Step-Reaction Polymerization]]  (2 句)
+   • 1. **Low-diffusion objection 低扩散性悖论** — "The terminal group, though attached to a sluggish moving polymer molecule, can diffuse through a considerable region due to the constant conformational changes of polymer segments in its vicinity." (Ch.6, p.162)
+2. **Steric-hindrance objection 位阻悖论** — verified experimentally in Example 6.1: "The reactivity of one carboxyl group in the dibasic acid is unaffected by esterification of the other." (Ch.6, p.162)
+   • **Flory (1936–1939)** — original derivation of the equal-reactivity principle and of the third-/second-order kinetics; the source follows Flory's argument closely.
+- **Carothers equation (1920s)** — the original DP = 1/(1−p) derivation.
+- **Flory statistical method (1940s)** — probability treatment built on the kinetic base.
+- **Boundary of equal reactivity at high conversion**: the principle breaks down as p → 1 because of gel effect / diffusion control — 教材未深入讨论这一工程实际问题。
+- **Cost of the third→
+
+--- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]  (2 句)
+   • **法规与成本边界 Regulatory & cost boundary**
+   • "Resilient surges use PET to drive performance in-use / More PET can result in better performance and lower cost / More PET causes weaker webs, increasing converting risk / Current LL of BCC asset process window is within 3,000-6,000gf"（Comparing Resilient Surge Grades）
+- "MOJAVE 2.1 addresses most converting issues"（MOJAVE Problem-Solve）
+- "Depending on technology, claim, + intent of use, FDA may consider product with skin health treatments as an OTC Drug or Cosmetic"（Global regulatory complexi
+
+--- [[US11013641 Garment for Detecting Absorbent Article Leakage]]  (2 句)
+   • Int. Cl. **A61F 13/42**（吸收制品的湿气/湿度指示装置）, **A61F 13/74**（吸收制品的固定/附着件）, **A61F 13/84**；CPC 另含 A61F 2013/424, A61F 2013/8482.
+- Target absorbent articles named in the source: diapers, training pants, incontinence products, feminine care products, swim pants.
+- **Key boundary: the claimed article is the GARMENT, not the absorbent article**（权利要求对象是外穿服装，不是吸收制品本身）.
+   • Boundary note from the source: the claims are directed to the **garment**; **integrating the sensing into the absorbent article itself is outside the claim scope as described**（传感集成进吸收制品本体不在其权利要求范围内 — 源文推演表述）.
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (1 句)
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+
+--- [[Formation-Limited Barrier（阻隔的成形受限机理）]]  (1 句)
+   • 1. **The ideal-pore model over-predicts by 15× 理想孔模型高估 15 倍**：Laplace on the median pore of a 1.5 µm web gives roughly **800 mbar**；real webs deliver **40–140 mbar**。The gap is not pore size — it is that **liquid finds the thinnest patch on the sheet and breaks through there**。（中文：差距不在孔径，而在液体总从最薄处击穿。）
+2. **The governing relation 支配关系式**：P ∝ weakest local gsm × γ |cos θ| ÷ fibre diameter。Note that this makes surface tension（γ）与接触角（θ）与克重均一性**同位阶**的杠杆，而不是并列的三个独立变量。
+3. **The weakest patch is an extr
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (1 句)
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+
+--- [[Nonwoven 非织造布]]  (1 句)
+   • A nonwoven resists a single clean definition — the field is **convergent and boundary-crossing**, because the industry drew on textile, paper and polymer-processing practices（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工）（源：Development of the nonwovens industry）. The vault fixes the **EDANA and INDA definitions** and classifies nonwovens into **drylaid, wetlaid and polymer-laid (spunmelt)** families. These three process families trace to three mother industries: **drylaid → textiles, wetlaid → papermaking, p
+

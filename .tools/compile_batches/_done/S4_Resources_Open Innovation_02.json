@@ -1,0 +1,14 @@
+{
+  "batch": "S4_Resources_Open Innovation_02",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": [
+    "Competitive Benchmark - 1Q 2026.xlsx"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "Batch 2 = 1 source page. Competitive rewet benchmark (TTM-00643) for adult/incontinence liners & pads (Always Discreet, Poise), 1Q 2026. Links to existing [[Rewet Test（回渗测试）]]. Single-source theme, no new derived pages."
+}

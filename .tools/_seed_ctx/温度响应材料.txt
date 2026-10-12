@@ -1,0 +1,13 @@
+# SEED: 温度响应材料
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Hydrogel-based Superabsorbent Polymers
+#
+# 全库正文命中 1 页，1 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hydrogel-based Superabsorbent Polymers]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：水凝胶 Hydrogel · SAP（高吸水树脂） · 生物基单体 Bio-based Monomer · 交联密度 Crosslink Density · 离子强度 Ionic Strength
+- 相关章节：Acrylic-Based Superabsorbent Polymers · Cross-linked Cellulose and Its Derivatives · Fibers and Fibrous Materials
+- 智能材料：Stimuli-Responsive Polymer Materials (Nature Materials Review) · 温度响应材料
+

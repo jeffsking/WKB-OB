@@ -1,0 +1,60 @@
+{
+  "batch": "S4_Resources_Open Innovation_06",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": [
+    "PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）",
+    "SAM Database-CW（全球 SAM 牌号性能数据库）",
+    "Seawater-Degradable SAP 3D Hydrogel System Technical Report（海水可降解SAP三维水凝胶体系技术调研）",
+    "SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）",
+    "SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）",
+    "X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）",
+    "Summary of Pressures on Products（产品在使用中的受压汇总）",
+    "JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）",
+    "ADT Rewet Update 2026-03-31（回渗进展 ADT 版）",
+    "Rewet Method Parameters（回渗测试方法参数沿革）"
+  ],
+  "concept_pages": [
+    "Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）",
+    "SAP Dosing Speed Matching（SAP 落料速度匹配与容差）",
+    "Material Open Innovation Function（材料开放创新职能）"
+  ],
+  "entity_pages": [
+    "Shenghong Group（盛虹集团）",
+    "Evonik（赢创）",
+    "Formosa Plastics（台塑）",
+    "Wanhua Chemical（万华化学）",
+    "Technical Absorbents Ltd（TAL）",
+    "Main S.p.A.（SOFTCARE HAF）",
+    "Nagase（长濑产业）"
+  ],
+  "comparison_pages": [
+    "PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）",
+    "SAM Supplier Landscape Comparison（SAM 供应商格局对比）",
+    "SAF vs SAP（超吸水纤维 vs 高吸水树脂）"
+  ],
+  "updated_existing": [
+    "concepts/并列复合自卷曲纤维.md",
+    "concepts/SAP性能指标（CRC AUL GBP Vortex）.md",
+    "concepts/Biodegradable SAP（可降解高吸水树脂）.md",
+    "concepts/Super Absorbent Fibre（超吸水纤维 SAF）.md",
+    "concepts/变色油墨.md",
+    "concepts/LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）.md",
+    "concepts/Residual Fluid & Pore Stranding（残液与孔隙滞留）.md",
+    "concepts/Dryness Measure System（干爽度量三分）.md",
+    "concepts/Rewet Test（回渗测试）.md"
+  ],
+  "manual_review": [
+    "PTT-PET S-S 供应商对比：全部为二手公开资料（百科、行业报告、B2B listings），产能除盛虹外均为估算，性能多为 reported/claimed/model-derived；含供应商排序与选型结论，属采购意向，仅记要点与相对关系，不页面化定点意向",
+    "SAM Database-CW：内部材料数据库，含逐牌号性能、供应商商务注记（LG 反倾销税、Evonik 被 ICIG 收购、日本触媒为宝洁主供、台塑/卫星 OTIF 不可靠）与 K-C 各区域实际使用牌号；Cost/MT 列为空（无价格数据）；IPSCS-RM 与 RMS 编号仅记存在",
+    "Seawater-Degradable SAP 报告：AI 汇编二手调研（编制单位自述 WorkBuddy AI Research Team），市场规模来自 Persistence Market Research（2026-02）；Nagase FY2026 上市与 ASTM D6691 通过为企业公开宣称；成本倍数 1.5–4× 仅记量级；路线图与合作建议属战略意向，不转述为内部决策",
+    "SAF 芯体可行性评估：内部评估（密级：内部参考），成本为行业对标估算（SAF 吨价约为 SAP 3–5×；15 g 芯体部分替代后材料成本增幅约 87–105%），不落价格表；含向 TAL 取样、向 Main S.p.A. 询价、签长期协议锁价等采购意向，仅记存在；TAL 联系方式与注册号不页面化",
+    "SAP 落料速度匹配规范：内部派生工程笔记（编号 86），含设备商/chute 与视觉供应商能力口径、SAP 牌号待补工艺参数列；源文引用 SAP 占 BOM 35–50% 属内部成本结构，本页只记「SAP 为最大单项」的相对判断，不落占比数值",
+    "变色油墨供应商联系表：含供应商电话、邮箱与联系人姓名（如 3M 的 Anna Ge / Jason Shi），依 §5 一律不页面化；价格定位为定性档位（高端/中高端/中端/中低端），非报价",
+    "Summary of Pressures：K-C 内部历史研究汇总（R/TL/CRS 编号、产品代号 TP93/DPU/HUG/Kotex/Depend/Poise），只记压力环境与口径，不转写为产品性能结论；图注异常数值串为抽取噪声已剔除",
+    "JD-材料开发工程师：含岗位薪酬等级（Pay Grade 6–7），不页面化；年度降本目标为岗位考核口径而非已达成结果；Depend 规格表含内部料号与产品码（L14–L19、DPU/DPU2、ELGR/ATCA/LUGH），仅作追溯存在记录",
+    "ADT Rewet Update 2026-03-31：源文标注 PRIVILEGED & CONFIDENTIAL，含竞品实测回渗/渗漏数据（Always Discreet）、竞品宣称（40%/25% drier）与法务/市场应对计划；预算 $25k/8 周仅记量级；内部项目代号（GRIFFIN/ARTEMIS/LIFESAVERS 2.0/VONN/REXHA）仅记存在",
+    "Rewet Method Parameters：内部方法沿革，含大量 STP/STM/TTM/TR/TL/HUT/Anthro 编号，仅作追溯引用不展开方法全文；TTM-00623 的 0.46 vs 0.24 psi 参数错误照录，不页面化整改责任；2013/4 P&G 干爽宣称仅记因果不转述内容"
+  ],
+  "notes": "Batch 06 = 10 items, all NEW source pages (no source_path collision with existing WIKI/sources). Derived pages created only after a先查再建 check (e.g. PTT/并列纤维/盛虹, SAF/TAL/Main/Nagase, Evonik/Formosa/Wanhua, Seawater-Degradable/变色油墨/回渗 pages). 9 existing pages received a dated append section (## 追加：Open Innovation 批（2026-09-29 追加 …）) without altering any prior conclusion; 10 manual_review blocks added for business/competitive/HR-sensitive content. Conflicts recorded WITHOUT adjudication: (1) 可降解 SAP 路线两套口径（库内四条 vs 本批六条，粒度不同，PDA 型无对应项，照录不合并）; (2) 同一 Nuoer NR511 的 GBP 在 SAM 数据库三张表中为 25/35/26 Darcy，源文未解释，不取代表值; (3) AUL 0.9 psi（通用）与 0.7 psi（诺尔）同列混记，不换算; (4) 供应商家数口径差异（本源称 SAP >19 家、SAM 数据库为 10 家口径），不互推; (5) SAF 盐水自由溶胀 47–57 g/g 与 SAP CRC 32–38 g/g 不可直接比较（CRC 为 SAP 设计）; (6) SAF 床高反推松密度 ~0.52 与规格 0.62–0.70 不自洽，对账前不得据此收紧 CV; (7) 03-16 版预算 EWL ~$20k/6 周 vs 03-31 版 $25k/8 周（口径不同，不换算）; (8) 《变色油墨》既有 leuco/湿敏条目与本批「形态决定可集成性」互补而非冲突; (9) L14/L18 性能差异与 JD 规格表中 L14–L19 尺寸字段完全相同并存，差异维度未知，不推断. OI numbering default = 重构版 19 项 (OI-1~OI-19, no zero-padding); no zero-padded OI list appeared in this batch. Large bodies (404/668/358/563/428/313 lines) read in chunks. Cross-linked to [[IPC BCC OI Portfolio（开放创新项目组合）]] where applicable. No index.md/log.md touched; no file moved/renamed/copied/deleted; RAW/RAW_FULL/AGENTS.md read-only; no PowerShell used for writing; no directory created outside WIKI subdirs and _done/."
+}

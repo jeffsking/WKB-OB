@@ -1,0 +1,113 @@
+# SEED: 格林函数 Green's Function
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Infinite and Semi-Infinite Media (Crank Ch.3)
+#   - Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+#
+# 全库正文命中 147 页，203 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification]]  (5 句)
+   • Chapter 1 is the **entry hub 入门枢纽** of the book and carries three tasks: (1) building the disciplinary history of polymer science from celluloid (1868) to the engineering-plastics era; (2) fixing the strict definitions of *polymer / monomer / repeating unit / structural unit / degree of polymerization / molecular weight distribution / functionality*; (3) laying the taxonomic foundation used in all later chapters.
+   • The chapter's taxonomic first principle is **functionality 官能度**, not chemical composition or application.
+   • Functionality rule of thumb from the source: f = 1 → no polymerisation; f = 2 → linear chain; f > 2 → branching / cross-linked network. 官能度 ≥2 才能聚合；>2 导致支化或交联网络。
+   • **Staudinger's macromolecular hypothesis (1920s)** overturned the colloid-chemistry view of polymers as aggregates of small molecules; the source credits Staudinger with coining *macromolecule*.
+- **Terminology tension polymer vs. macromolecule**: the source (written 1997) uses both interchangeably; IUPAC later favoured *polymer* because *macromolecule* blurs with low-molar-mass oligomers. 属成书年代的过渡期写法。
+- **Polydispersity as defect or resource**: the book states polydispersity as the statistical 
+
+--- [[智能织物 Smart Textile]]  (4 句)
+   • **Core architecture** is stated as **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output（源：Intelligent Textiles and Sports Clothing）。Two insertion points in the garment manufacturing chain matter: **cutting** (separating plies destined for printing of smart components) and **sewing** (adding electronic components)（源：Intelli
+   • **The integration thesis** is producing fibres with electronic function *without compromising strength, comfort and aesthetic appeal* — stated as the core challenge for seamless, invisible electronics（源：Smart Fabrics and Networked Clothing）。
+   • **Fibre-level function without losing handle** is the one idea with genuine pull — making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces（源：Smart Fabrics and Networked Clothing）。
+   • **Contra-indications (where the analogy fails).** The sports-clothing review contains **no absorbency content at all** — nothing on fluff pulp, SAP, core structure, acquisition, strike-through or rewet; its performance axes are protection, thermoregulation, motion and electronics（源：Intelligent Textiles and Sports Clothing）。It also has **no polyolefin, bicomponent or ES-fibre content** — the named fibres (aramid, UHMWPE, polyester, PA) are outside the hygiene material set and serve permanent-garm
+
+--- [[Intelligent Textiles and Sports Clothing]]  (4 句)
+   • **First generation**: synthesised fibres (polyamide) — historic cost multiple over cotton and wool, offset by tunable performance.
+- **Second generation**: modified conventional synthetic fibres with greatly increased performance — aramid, carbon, glass, ceramic. Tradenames named: Nomex, Kevlar, Twaron, Technora (aromatic polyamides); Spectra and Dyneema (high-performance polyamides/polyethylene); Vectran (aromatic polyester); Teflon (PTFE), Dacron and Mylar (polyester).
+- **Third generation**: 
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **Microcapsule PCM thermoregulation is the same mechanism we are trying to replace.** The described heat-storage/release cycle of PCM microcapsules is precisely the functionality targeted by our **PCM-free** BNC thermoregulation route. Useful as the incumbent baseline description, not as a solution.
+- **Structural colour without pigment (Morphotex) is directly adjacent to our chromic programme.** Colour from periodic layer thickness rather than from dye molecules is the same physics behind our s
+   • **No absorbency content at all** — nothing on fluff pulp, SAP, core structure, acquisition, strike-through or rewet. The paper's performance axes are protection, thermoregulation, motion and electronics.
+- **No polyolefin, bicomponent or ES fibre content**; the named fibres (aramid, UHMWPE, polyester, PA) are outside our material set, and their function is entirely permanent-garment rather than disposable.
+- **Evidence quality is weak**: it is a Serbian-language professional review whose citatio
+
+--- [[Hygiene Absorption Model]]  (3 句)
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • ：**「Hygiene Absorption Model」作为模型的自身定义、状态变量与支配方程组**在引用来源中均未给出；现有摘录只提供吸收性口径与建模方法论。
+- ： 摘录中 "One-dimensional Washburn is a lowe…" 一句被截断，未予补写（源：Computational Modeling in Absorbent Technology）。
+- ： 中 25 g/m² 商用样回渗值（1.06 …）截断（源：ES Fibre Hydrophilic Function and Applications）。
+- ：本页摘录中  的命中属**粘接侧**内容（core retention 与 ψ(v,T)），非吸收模型正文，未作为本页主体证据。
+- ：三条原始引用来源（Handbook of Industrial Drying、Industrial Drying Ch28 Osmotic Dehydration and SAP Physics、Industrial Drying Ch50 Solid-Liquid Separation）**在本批摘录中无对应正
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+
+--- [[可穿戴传感器 Wearable Sensor]]  (3 句)
+   • **可穿戴传感器（wearable sensor）** is a sensing function **integrated into a garment, textile or substrate worn on the body**, used to monitor a physiological or environmental signal. The vault frames the field as **wearable electronics**, "a cross-disciplinary field of chemistry / physics / materials science & engineering / electrical engineering / biomedical engineering" with two mainstream directions — **thin-film devices** (reduce one dimension) and **fibre-form devices**（纤维形态，further reduce two di
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+
+--- [[热电现象 Thermoelectric]]  (3 句)
+   • In this vault, **thermoelectricity (TE)** is framed as a **thermal-management + energy-harvesting function**: the **"conversion of waste heat into electrical energy"**, positioned as a contribution to reducing dependence on fossil fuels and greenhouse-gas emissions（源：Thermoelectric Polymer Materials ZT Figure of Merit and PGEC）. The same source states that **"over the past 10–15 years, there have been significant advances in the scientific understanding as well as in the performance of thermoele
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+   • **Adjacent, not yet applied.** The vault's sourcing is textile / wearable-level and materials-level; **no thermoelectric function is evidenced on any hygiene-product page** .
+- TE sits in the "smart textile" conceptual neighbourhood used elsewhere in the vault for powered / functional hygiene concepts — its siblings include 刺激响应聚合物 Stimuli-Responsive Polymer、相变材料 Phase Change Material、导电纱线 Conductive Yarn、智能织物 Smart Textile（源：Smart Textiles & Wearables）.
+- Integration path named for flexible TE:
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (3 句)
+   • **Additive function boundary 助剂的功能边界**：① stabilisation against ageing 稳定化；② performance enhancement 性能增强；③ cost reduction 成本降低。
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+   • Ebewole Polymer Science Ch04 Thermal Transitions in Polymers
+- Ebewole Polymer Science Ch05 Polymer Modification
+- Ebewole Polymer Science Ch08 Copolymerization
+- 熔融指数与化学降解
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+
+--- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]  (3 句)
+   • The sheet is an Excel extract headed "Open Innovation" with columns No. / BU / Category / Technology / Stage / Supplier / Website / Contact / Email / Exploration / Supplier Enabling / NDA-NNN-JDA / Resource needed / IP-Exclusivity / POC. All rows sit at **Stage = Exploration**. Numbered entries cover **OI-1 NanoCellules (Hainan Bairuike)**, **OI-2 PVA fibre for TABCW (Anhui Wanwei; two contact rows)**, **OI-3 PTT resin (C1 Life Biotech)**, **OI-4 PVA/PTT REL Coco V6 (Yanjan)**, and **OI-5/6/7/8 
+   • **Tourmaline is the only row explicitly seeking category exclusivity** —— tripartite KC / Minrui / Japanese partner, triggered by usability not signature —— 支撑页：Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、Rengo Nonwoven Products
+- **PVA is the single hardest constraint on the REL recipe** —— water-insoluble, >140 °C, curling fibre not ready in 2026 —— 支撑页：REL增强层、皖维高新
+- **Liner fibre sourcing is a staged queue**, not a single supplier decision —— 支撑页：三叶形截面纤维（Trilobal Fibre）、福地（Fudi）、Emon Jia
+   • Concepts 概念：IPC BCC OI Portfolio（开放创新项目组合）、REL增强层、三叶形截面纤维（Trilobal Fibre）、Biodegradable SAP（可降解高吸水树脂）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、Moisture-Responsive Fibre（湿敏变形纤维）、Zeolite Odour Control（沸石除臭载体）
+- Entities 实体：海南拜瑞科、皖维高新、C1 Life Biotech、延江（Yanjan）、江南高纤、福地（Fudi）、Emon Jiangsu（江苏益盟）、兰精集团、中科依兰、Rengo Nonwoven Products、联欣环保科技（泰兴）、Guoke Haina（国科海纳）
+- Sources 同族来源：IPC BCC OI Project List 2026-09-18（重构版·19 项）、IPC BCC OI 项目清单 2026 v2（2026-09-17）、IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (3 句)
+   • 1. **Is BSL tier differentiation important to this brand for product tier differentiation?**（面层分档对该品牌的档位差异化是否重要？）
+2. **What would that look like? (Cues, functionality, etc.)**（那会长什么样？线索、功能……）
+3. **How much interest is there to address common BSL barriers to product tier differentiation? (Cost, process, etc.)**（有多大意愿去解决**共性障碍**——成本、工序……）
+   • **重要性**：**N/A**；**现状 on track**。
+- **机会**：*"Define what **BONNIE** and **CIRRUS** would need for BSL functionality, given **Goodnites is the most challenging fluid handling situation**"*；功能 BV 对竞品；TBD/未来：**针对特殊需求儿童的感官辅助**。
+   • **短期**：LORI 评估**印刷质量**影响；*"**No BSL changes are needed in the short-term** for LORI 2024 or Overnight back bump 2025/2026"*；*"No formal asks yet for the FEI materials team."*
+- **未来**：视觉外观与材料类型的重要性；⚠️ *"**Degree of changes in LORI was not enough to influence the consumer experience. \"Zero menses on skin.\"**"*；*"Similar to POISE UT, UBK may need **3D features, visual cues, layers...and functional performance**"*。
+- **透气**：*"Have a breathable material, **not necessarily need to be full product b
+
+--- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]  (3 句)
+   • [p.458] "Another major problem these fibres faced... is the lack of dyeability; they do not have dye sites as other commercially useful fibres have. Mass-coloration using suitable pigments has led to the introduction of a wide range of coloured fibres." 缺少染座 → 只能纺前母粒着色（mass-coloration）。这与 REL 侧的功能母粒（functional masterbatch）做法是同一思路。
+   • **纤维成形与纺粘/熔喷的直接联系**：本章的 MFI—分子量分布—可纺性、纺丝线应力—双折射—取向、皮芯效应三条因果链，是理解纺粘（spunbond）与熔喷（meltblown）工艺窗口的基础；本章明确指出其为第 19 章非织造（spun-bonding、melt-blowing）埋下伏笔。见 Meltblown Nonwoven（熔喷非织造布） 与 Nonwoven Process Classification（非织造布工艺分类）。
+- **双组分纤维（ES / PE-PP）**：皮芯取向差异与热定形行为，是 sheath-core 双组分纤维热风粘合（through-air bonding）时皮层熔融、芯层保持纤维形貌的结构基础，见 Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）。
+- **稳定剂体系**：PP  tertiary carbon 导致的热氧降解，直接决定高速纺粘纺丝时的热稳定性、黄变与气味，以及多次挤
+   • Manufactured Fibre Technology — book index
+- Meltblown Nonwoven（熔喷非织造布） — 本章"为第19章 melt-blowing 埋下伏笔"的落地延伸
+- Nonwoven Process Classification（非织造布工艺分类） — 熔纺工艺在纺粘/熔喷中的分类定位
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 皮芯结构与功能母粒的 REL 侧资料
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） — 同一聚烯烃体系的热熔粘合应用
+- 三叶形截面纤维（Trilobal Fibre） — PP 纤维截面与手感/遮盖
+

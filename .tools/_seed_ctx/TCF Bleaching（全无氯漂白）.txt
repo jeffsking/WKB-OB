@@ -1,0 +1,38 @@
+# SEED: TCF Bleaching（全无氯漂白）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 5 页，7 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Suzano（书赞桉诺）]]  (2 句)
+   • **2026-06（会议，日期 ）**：TCF（Totally Chlorine Free 全无氯漂白）等级切换推进中——**7 家浆厂中多数已完成，剩余 1 家仍在进行**；因「多项目叠加导致过程不稳」曾回退到已知条件并沿用同一化学品体系，**计划 8 月恢复**，中国/亚洲交付约**年底**，土耳其为 8 月。见 Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）。
+- **2026-06（会议）**：**1,000 吨发往高雄（Kaohsiung）的船运已取消**，原因是 TCF 产品量不足；需以 6 月船期为基准重新排期。
+- **2026-06（会议）**：**区域供应分配**——亚洲（含中国、韩国）计划用新等级；欧洲仍在评估（同时保留巴西现有供应）；拉丁美洲在分析是否跟进。**未承诺**。
+- **2026-06（会议）**：**JV 后的认证流程分叉**——IP 侧走**更集中、决策更快**的流程（一个浆厂通过可延展到其他浆厂）；**韩国不在 JV 内**，仍走常规客户流程。
+- **
+   • TCF Bleaching（全无氯漂白）
+- Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+- 绒毛浆（Fluff Pulp）
+
+--- [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]]  (2 句)
+   • **TCF 等级切换的真实瓶颈是「过程稳定性」与「文档合规」，不是漂白技术本身** —— 支撑页：TCF Bleaching（全无氯漂白）、Suzano（书赞桉诺）
+- **Fiber-to-fiber 的落点在打浆段：磨片选型决定短纤方案的成败** —— 支撑页：Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+- **认证流程因 JV 而分叉：IP 侧集中化、韩国侧常规化，文档口径必须分别管理** —— 支撑页：Suzano（书赞桉诺）
+- **pitch 是下游最敏感的质量指标，且受下游工艺条件放大** —— 支撑页：绒毛浆（Fluff Pulp）
+   • 概念：TCF Bleaching（全无氯漂白）、Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）、绒毛浆（Fluff Pulp）
+- 实体：Suzano（书赞桉诺）
+
+--- [[Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）]]  (1 句)
+   • 相关：绒毛浆（Fluff Pulp）、TCF Bleaching（全无氯漂白）、原纤化、PVA纤维（湿强骨架）
+- 实体：Suzano（书赞桉诺）
+
+--- [[绒毛浆（Fluff Pulp）]]  (1 句)
+   • **pitch（树脂/粘性物）是最敏感的下游质量指标**：供应商侧明确 pitch 对下游工序影响大，我方造纸机已开始出现相关问题；**下游工艺条件（温度、pH、剪切力）会放大或缓解**该问题 → 评估 pitch 时应同时记录下游工况。
+- **历史事故（2–3 年前，2 起）**：**黑砂（black sand）** 与 **黑色污染（pitch / oil）**，分别源自芬兰与韩国；均触发停机、全面清理与换网。
+- **等级切换（TCF）会连锁触发认证重跑**：spec / TDS / PS number / RMS 需先更新，**PSC 在商业化后才启动**；详见 TCF Bleaching（全无氯漂白）。
+- **短纤替代路线**：以桉木短纤（BEKP/BHKP）替代长纤 BSKP，配**磨片重新选型**；详见 Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）。
+
+--- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]  (1 句)
+   • 概念：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、TCF Bleaching（全无氯漂白）（AOX 与漂白工艺相关）
+- 来源：GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）
+

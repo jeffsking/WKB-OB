@@ -1,0 +1,65 @@
+{
+ "batch_id": "W11-7",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b443dacbddf088b48d1a8bb8e723456a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md",
+   "name": "Absorbent Technology_ch01_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_31515d63b77c797480a0fccb9f1b5e1c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch04_report.md.md",
+   "name": "Absorbent Technology_ch04_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f1d95f4c425668dbd36a2d9fef243ad3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/ES纤维热风非织造布驻极性能初探.pdf.md",
+   "name": "ES纤维热风非织造布驻极性能初探.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_16ba5d6dc12d0d82fb64e1d86c622899001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch12_report_20260823_031406.md.md",
+   "name": "Absorbent Technology_ch12_report_20260823_031406.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e102d95782a15cf14d0afaf16a58dcd0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_README.md.md",
+   "name": "Chromic_Phenomena_README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bb4cbf488124d7833fea05074f64135c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch23_Anti-irritants_for_Surfactant_report.md.md",
+   "name": "ch23_Anti-irritants_for_Surfactant_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_609f51a367764ede55b69a51d575b10a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology_深度拆书报告_academic_20260813.md.md",
+   "name": "Cosmetic Science and Technology_深度拆书报告_academic_20260813.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_479f9d03c7f3a3238b2fbf3da5cb052b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/Ebewole Polymer Science Technology_synthesis.md.md",
+   "name": "Ebewole Polymer Science Technology_synthesis.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b89b65e28692f358589e67d6058a689c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch09.md.md",
+   "name": "Ebewole Polymer Science Technology_ch09.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_13396bb6a7eb5a2729768a6137bfcb26001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Adhesive Technology/Handbook of Adhesive Technology_Part1_report.md.md",
+   "name": "Handbook of Adhesive Technology_Part1_report.md.md",
+   "type": "markdown"
+  }
+ ]
+}

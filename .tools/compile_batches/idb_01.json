@@ -1,0 +1,36 @@
+{
+  "batch": "idb_01",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch02.md.md",
+      "chapter": "02",
+      "title_hint": "Experimental Techniques in Drying",
+      "bytes": 28041
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch03.md.md",
+      "chapter": "03",
+      "title_hint": "Basic Process Calculations and Simulations in Drying",
+      "bytes": 25918
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch04.md.md",
+      "chapter": "04",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 25443
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch05.md.md",
+      "chapter": "05",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 20553
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch06.md.md",
+      "chapter": "06",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 22871
+    }
+  ]
+}

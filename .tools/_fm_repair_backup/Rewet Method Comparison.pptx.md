@@ -1,0 +1,267 @@
+8
+# Rewet Method Comparison
+
+K. Clemmer & V. Gaweda
+
+9/30/24
+
+# Timeline Comparison (not to scale)
+
+![TTM-00623 – Lo/Hi Rewet\n\nP&G Rubber Duck\n\nP&G Collagen (BCC)\n\nPrepare products to lay flat.\n\nDeliver insult through dosing tub, measuring how long it took for insult to be absorbed.\n\nP&G Rubber Duck\n\nPrepare products to lay flat.\n\nDeliver insult at 0.53psi, measuring how long it took for insult to be absorbed.\n\nT= 0 min\n\nDeliver insult.\n\nT= 3 min\n\nPlace on blotter paper + 1strewet weight and wait 30 seconds, then weigh saline on blotter.\n\nP&G Collagen (BCC)\n\nPrepare products to lay flat in pressure box.\n\nDeliver insult at 0.53psi, measuring how long it took for insult to be absorbed.\n\nT= 0 min\n\nDeliver insult at 0.53psi, measuring how long it took for insult to be absorbed.\n\nDeliver another insult. After absorbed, remove product from device.\n\nT= 6 min\n\nPlace on collagen paper + rewet weight and wait 30 seconds, then weigh saline on paper.\n\nT= 0 min\n\nDeliver insult at 0.30psi, measuring how long it took for insult to be absorbed.\n\nT= 3 min\n\nDeliver another insult. After final insult is absorbed, remove product from device.\n\nP&G Collagen (AFC)\n\nPrepare products to lay flat in pressure box.\n\nDeliver insult at 0.30psi, measuring how long it took for insult to be absorbed.\n\nT= 0 min\n\nDeliver insult at 0.25psi, measuring how long it took for insult to be absorbed.\n\nT= 6 min\n\nDeliver another insult. After final insult is absorbed, remove product from device.\n\nP&G Collagen (AFC)\n\nPrepare products to lay flat in pressure box.\n\nDeliver insult at 0.25psi, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nT= 32 min\n\nDevice. Place on blotter paper + rewet weight and wait 2 minutes, then weight saline on blotter.\n\nT= 34 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nRemove product from device. Place on blotter paper + rewet weight and wait 2 minutes, then weight saline on paper.\n](2/Oy0YFe4o874ND9Udefofxe/ppt_3867e2b60070d7dc3f413086d0b0036e_92608bb01a62b9ec3d042d261e07683a001a693ee6c0644e/tmp_zip_img/a511f5c6-5743-42d0-976f-cb8ed6154c8d.png)
+# Timeline Comparison (not to scale)
+
+![TTM-00623 – Lo/Hi Rewet\n\nT= 0 min\n\nDeliver insult through dosing tub, measuring how long it took for insult to be absorbed.\n\nT= 4 min\n\nPlace on blotter paper + 1st rewet weight and wait 2 minutes, then weigh saline on blotter.\n\nT= 15 min\n\nDeliver insult through dosing tub, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nPlace on blotter paper + 2nd rewet weight and wait 2 minutes, then weigh saline on blotter.\n\nT= 32 min\n\nT= 34 min\n\nT= 32 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 15 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nT= 32 min\n\nT= 34 min\n\nT= 32 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 15 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nT= 32 min\n\nT= 34 min\n\nT= 32 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nT= 32 min\n\nT= 34 min\n\nT= 34 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nT= 32 min\n\nT= 34 min\n\nPlace on blotter paper + rewet weight and wait 2 minutes, then weight saline on paper.\n\nT= 32 min\n\nT= 34 min\n\nT= 34 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nT= 32 min\n\nT= 34 min\n\nPlace on blotter paper + rewet weight and wait 2 minutes, then weight saline on paper.\n](2/Oy0YFe4o874ND9Udefofxe/ppt_3867e2b60070d7dc3f413086d0b0036e_92608bb01a62b9ec3d042d261e07683a001a693ee6c0644e/tmp_zip_img/0f681551-c328-4ae4-af3c-dea38f144a68.png)
+Kerry - update with Becky's info
+
+# Parameter Comparison
+
+|||KC Lo/Hi|KC Lo/Hi|KC FIUP|KC Closed Cradle|
+|---|---|---|---|---|---|
+|Insult|Position (mm forward of center)|Varies by size & gender (per consumer research)|Varies by size & application (per consumer research)|F: 95, M: 200 (per consumer research)||
+|Insult|Fluid|Saline|Saline|Saline|Saline|
+|Insult|Amount (mL)|Varies by size & gender (per HUT)|Varies by size & application (per HUT)|Varies by size & gender (per HUT)||
+|Insult|Temperature (°C)|Room temp|Room temp|37|37|
+|Insult|Insult Pressure (psi)|0.02|0.4|0.25|~0.25|
+|Insult|Dosing Style|Dosing tub (1.5in diameter, 3.9 x 11.8 base)|Dosing port/funnel (1 in diameter)|Dosing port||
+|Blotter|Material|100lb verigood blotter|100lb verigood blotter|100lb verigood blotter||
+|Blotter|Number of Sheets|1|2|2|2|
+|Blotter|Size (mm)|88 x 300|88 x 300|88 x 300|88 x 300|
+|Rewet|Weight (psi)|0.005|0.24|0.5|0.5|
+|Rewet|Size (mm)|114 x 432|114 x 432|61 diameter or 25 x 50|61 diameter|
+
+
+Kerry - update with Becky's info
+
+# Parameter Comparison
+
+|||KC Lo/Hi|KC Lo/Hi|P&G Duck|P&G Collagen (BCC)|P&G Collagen (AFC)|KC FIUP|KC Closed Cradle|
+|---|---|---|---|---|---|---|---|---|
+|Insult|Position (mm forward of center)|Varies by size & gender (per consumer research)|||Mid-pad|Varies by size & application (per consumer research)|F: 95, M: 200 (per consumer research)||
+|Insult|Fluid|Saline|Saline|Saline|Synthetic Urine|Saline|Saline|Saline|
+|Insult|Amount (mL)|Varies by size & gender (per HUT)|||Varies by size & application (per HUT)|Varies by size & gender (per HUT)|Varies by size & gender (per HUT)||
+|Insult|Temperature (°C)|Room temp|Room temp|Room temp|37|Room temp|37|37|
+|Insult|Insult Pressure (psi)|0.02|0.4|0|0.53|0.30|0.25|~0.25|
+|Insult|Dosing Style|Dosing tub (1.5in diameter, 3.9 x 11.8 base)|n/a|Dosing port||Dosing port/funnel (1 in diameter)|Dosing port||
+|Blotter|Material|100lb verigood blotter|Blotter|Collagen|31gsm Collagen|100lb verigood blotter|100lb verigood blotter||
+|Blotter|Number of Sheets|1|2|1||2|2|2|
+|Blotter|Size (mm)|88 x 300|88 x 300|75 x 145|90 diameter|70 diameter|88 x 300|88 x 300|
+|Rewet|Weight (psi)|0.005|0.24|0.55|3.35|1.0|0.5|0.5|
+|Rewet|Size (mm)|114 x 432|114 x 432|76.2 diameter||61 diameter|61 diameter or 25 x 50|61 diameter|
+
+
+# Notes
+
+* GADT POV of how P&Gs rewet methods might advantage their products vs KC
+
+$\bullet$ Rewet Pressure
+
+* KC TTM-00623 Low/High (0.24psi) - consumer testing (TL-13151) via Emily Morin's final presentation, see also TL-15701
+
+$\bullet$ Rewet area
+
+$\bullet$ Insult location
+
+* Does it favor P&G? (they are center of pad, is that over surge or no for KC product)
+
+$\bullet$ Wait time
+
+* Likely P&G SAM is working faster, so shorter wait time favors them (Emily Morin data says ~15 min to equilibrium following insult)
+
+* Victoria check with vortex of SAM reclaimed from Always Discreet
+
+* Saline vs Synthetic Urine
+
+* Temperature?
+
+* Surface energy of urine vs saline is different (urine is more wettable) – does this favor P&G?
+# Comparison Data
+
+# Adult Incontinence Garments (2022-2024)
+
+* FIUP rewet is higher than closed cradle rewet
+
+$\bullet$ Sometimes by a lot – not clear on what's driving differences
+
+$\bullet$ Comparisons of other methods don't exist within same test request
+
+![Comparison of rewet given by different methods\n\nFIUP: Rewet (g) ■ Closed Cradle: Rewet (g)\n\nFlUP: Rewet (g) ■ Closed Cradle: Rewet (g)\n\n3.50\n\n4.00\n\n4.50\n\n4.00\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n\n4.50\n](2/Oy0YFe4o874ND9Udefofxe/ppt_3867e2b60070d7dc3f413086d0b0036e_92608bb01a62b9ec3d042d261e07683a001a693ee6c0644e/tmp_zip_img/37b678c8-ff15-49c9-8933-d33315a8cfd8.png)
+# FIUP (TTM-00642) Focused Review for POISE
+
+K. Clemmer, A. Capen
+
+22Oct24
+
+# Process Outline for Ad Claim FIUP
+
+## TTM-00643 - FIUP
+
+![TTM-00643 - FIUP\n\nPrepare products to lay flat in pressure box.\n\nDeliver insult at 0.25psi, measuring how long it took for insult to be absorbed.\n\nT= 15 min\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nDeliver another insult, measuring how long it took for insult to be absorbed.\n\nT= 30 min\n\nRemove product from device. Place on blotter paper + rewet weight and wait 2 minutes, then weight saline on paper.\n\nK-C Confidential\n](2/Oy0YFe4o874ND9Udefofxe/ppt_3867e2b60070d7dc3f413086d0b0036e_92608bb01a62b9ec3d042d261e07683a001a693ee6c0644e/tmp_zip_img/50b8aff8-f0a6-4d10-9bf7-1a25cbcd33e4.png)
+# FIUP - Insult
+
+|||P&G Collagen (AFC), 2015|KC FIUP|
+|---|---|---|---|
+|Insult|Position (mm forward of center)|Mid-pad|Varies by size & application (per consumer research)|
+|Insult|Fluid|Saline|Saline (0.9 ± 0.005% (w/w) aqueous isotonic saline)|
+|Insult|Amount (mL) and # of Insults|Varies by size & application (per HUT)|Varies by size & application (per HUT)|
+|Insult|Temperature (°C)|Room temp|37°C|
+|Insult|Insult Pressure (psi)|0.30 PSI|0.25 PSI|
+|Insult|Dosing Style||Dosing port (1 in diameter)  Figure 1: Funnel Intake Port No funnel for 1-4 Drop|
+||Considerations||Do NOT apply insult directly to product.|
+
+
+# Key History for FIUP | insult amounts & locations
+
+$\bullet$ Before 2015, POISE single insult, total loadings, # of insults, and wetting pattern data was from the 2009 or (for some drop sizes) never generated $^{1}$
+
+* 2013-2014 studies conducted, defining new data implemented in 2015
+
+* KC still leverages this 2015 data today (Oct 2024) but has new product sizes released since study where total loading data is missed
+
+$\bullet$ See table below: some research FIUP loadings match 2015 data (green), others are mismatched (orange). Ad Claim loadings are based on historical (2009) loading data
+
+|||Total Loading Assumption|FIUP Total Loadings (Oct 2024)|References - Current|References - Current|||
+|---|---|---|---|---|---|---|---|
+|Brand & Gender|Product Code|based on 95th percentile|Ad Claim|Research|Study #|Year|Comments|
+|POISE (mainline)|Microliners|-|3|3|-|-|Not tested|
+||Pantiliners|14|6|14|ULS 34724|2012|Update due in 2017|
+||Ultra Thins|24|n/a|n/a|ULS 34724|2012|Update due in 2017.|
+||Moderate|64|30|64|HUT 36049|2014|Update due in 2017-2019.|
+||Moderate Long|75|30|75|HUT 36445|2014|Update due in 2017-2019.|
+||Maximum|155|78|150|HUT A83750|2003|Update due.|
+||Maximum Long|164|78|187|HUT 31142|2007|Update due.|
+||Ultimate|173|114|110|HUT 35609|2014|Update due in 2017-2019.|
+||Ultimate Long|207|114|207|See ML Ultimate|2014|Assumption made, not directly tested.|
+
+
+for POISE, so HUT was used for Moderate thru Ultimate Long.
+
+$^{1}$ R160739_TL-15582_Updated Approaches for Defining DEPEND and POISE Single Insult and Total Product Loading Targets
+
+$^{2}$ R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009)
+
+# Key History for FIUP | protocol
+
+$\bullet$ Aug 2014 – P&G introduces adult incontinence products with dryness claim vs Poise pads (based on consumer usage)
+
+* May 2014 - Poise used TTM-00001 (FIFE flowback) to substantiate a 3X dryer claim vs period pads
+
+$\bullet$ Mar 2015 – Poise introduced Thin Shape and developed a dryness claim that allowed them to make a claim vs P&G Always Discreet (draft STM-00497) - documented in TL-15297
+
+* Insult location: 5/12 or 7/12 of product length back from product front
+
+* Insult amounts: 2014 Poise fundamental research (TL-15582)
+
+* Rewet weight was 0.7psi with 1in diameter (later changed to 0.5psi at 6cm diameter or 1x2in)
+
+* STM-00497 was never published, but these parameters were included in the original FIUP TTM-00643 (rev 0)
+
+* Sep 2020 – Rewet pressure was changed from 0.7psi to 0.5psi (rev 4)
+# FlUP - Loadings
+
+## Ad Claim
+
+||Microliners|Liners|Light Pad|Moderate Pad|Maximum Pad|Ultimate/Ultimate Plus/Ultra Absorbent/Overnig ht Pad|
+|---|---|---|---|---|---|---|
+|Drops Rating|1 drop|2 drops|3 drops|4 drops|5 drops|6/6+/7/8 drops|
+|Length|Reg, Long|Reg, Long|Reg, Long|Reg, Long|Reg, Long|Reg, Long, Extra Coverage|
+|Bladder Box Port|1" port, NO add-on funnel|1" port, NO add-on funnel|1" port, NO add-on funnel|1" port WITH add-on funnel|1" port WITH add-on funnel|1" port WITH add-on funnel|
+|Rewet Weight|C124-M-10567-B-01 453 grams 1 inch x 2 inch, Rectangle|C124-M-104871048 1096 grams 2.44 inches, Cylinder|||||
+|Insult Location|Requestor should select one of the following: Front or Back.||||||
+|Flow Rate (ml/s)|1|1|1|8|8|8|
+|# of Insults|3|3|3|3|3|3|
+|Single Insult (ml)|1|2|4|10|26|38|
+|Total Load (ml) (Reference only)|3|6|12|30|78|114|
+|Other Notes|Target Insult Location: Estimated using Dynamic Dual Layer Simulation Model, aka DDLS. See TL-10605 # of Insults: (Total Load) ÷ (Single Void) rounded up/down to nearest integer.  Single Insult Size: 2012 ULS $75^{th}$ percentile total pad loading divided by 3. Total Load: $95^{th}$ percentile of total loading data from TL-14137 or ULS study 34724 Flow rate and Total Load (Microliners only); based on XT testing.||||||
+
+
+## Research
+
+||Microliner s|Liners|Light Pad|Moderate Pad|Moderate Pad|Maximum Pad|Maximum Pad|Ultimate/Ultimate Plus/Ultra Absorbent/Overnight Pad|||
+|---|---|---|---|---|---|---|---|---|---|---|
+|Drops Rating|1 drop|2 drops|3 drops|4 drops|4 drops|5 drops|5 drops|6/6+/7/8 drops|6/6+/7/8 drops|6/6+/7/8 drops|
+||Reg, Long|Reg, Long|Reg, Long|Reg, Long|Reg|Long|Reg|Long|Reg|Extra Coverage|
+|Bladder Box Port|NO add-on funnel|NO add-on funnel|NO add-on funnel|WITH add-on funnel|WITH add-on funnel|WITH add-on funnel|WITH add-on funnel|WITH add-on funnel|WITH add-on funnel|WITH add-on funnel|
+|Rewet Weight|C124-M-10567-B-01453 grams,1 inch x 2 inch,Rectangle|C124-M-1048710481096, 1096 grams,2.44 inches, Cylinder|||||||||
+|Insult Location|Requestor should select either Front or Back.||||||||||
+|Flow Rate (ml/s)|1|1|1|8|8|8|8|8|8|8|
+|# of Insults|3|3|3|3|3|3|4|3|4|TBD|
+|Single Insult (ml) (ml)|1|5|5|8|25|25|38|38|52|52|
+|Total Load (ml) (Reference Only)|-|14|24|64|64|75|150|187|110|207|
+|N (subjects)||142 & __|142 & __|Up to 223 up to 180|Up to 223 up to 180|Up to 223 up to 180|184 & __|184 & __|100 & __|100 & __|
+|Study|N/A|36043 & ULS 34724|36042 & ULS 34724|36049 & 36445|36049 & 36445|36049 & 36445|37118 & 34724|37118 & 34724|35609 & 31712|35609 & 31712|
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|Ultimate Long & Extra Coverage: Not directly tested; assumptions made.|||||
+
+
+# FIUP - Blotter
+
+|||P&G Collagen (AFC), 2015|KC FIUP|
+|---|---|---|---|
+|Blotter|Material|31gsm Collagen (Naturin Coffi 0.08mm thickness)|300 gsm Blotter (100 lb./ream) – Verigood Grade 88 by 300 ± 13 mm (3.5 by 12 ± 0.5 inch))|
+|Blotter|Number of Sheets|2|2|
+|Blotter|Size (cm)|7 cm diameter|8.8 x 30 cm|
+
+
+# FlUP - Rewet
+
+|||P&G Collagen (AFC), 2015|KC FIUP|
+|---|---|---|---|
+|Rewet|Where is rewet measured?|Insult location|Insult location|
+|Rewet|Weight (psi)|1.0 PSI|0.5 PSI|
+|Rewet|Size Substrate (cm)|6cm diameter|6cm diameter or 2.5 x 5|
+|Rewet|Wait Time between final insult and rewet measure (min)|5 min|2 min|
+
+
+# FIUP – Additional Considerations
+
+|||P&G Collagen (AFC), 2015|KC FIUP|
+|---|---|---|---|
+||Flaps||If applicable, Ensure flaps are open and upright prior to testing (not covering any absorbent)|
+||Rewet measured over full or part of product?|Part|Part|
+
+
+# Knowledge Gaps & Testing Considerations
+
+|Knowledge Gap|Custom FIUP Modification Suggestions|Rationale|
+|---|---|---|
+|Would longer wait time post-insult lead to lower rewet value? More time to lock up fluid?|Wait 5 min (instead of 2 min) after last insult to take rewet|Slower $2^{nd}$ / $3^{rd}$ intake times may not allow KC to “lock up” all fluid before rewet measurement|
+|How does higher rewet pressure impact rewet?|Use 0.5PSI, 0.7PSI, and 1PSI rewet weights|MAX2000S (POISE OG SAM) has good AUL (16g/g) and should withhold fluid under higher load|
+|How does blotter type (collagen vs blotter paper) impact rewet?|Run FIUP on 31gsm Collagen and existing blotter paper|Changing substrates should impact rewet values|
+|Other Notes|Microliner s: Estimate, not directly tested.|Liners Long: Not directly tested; assumed similar to Liners Reg.|Light Pad: Not directly tested; assumed similar to Liners Reg.|Moderate Long: Not directly tested; not not assumed similar to Liners Reg.|Moderate Thin: Aligned with other moderate codes; not directly tested; assumptions made.|Maximum used ULS data to determine the Total Volume due to a significant change in new data. Amount of insults lower than Total Load divided by Single Load to avoid a great increase in test time.|||||
+
+
+# Walmart Rewet Testing Method
+
+$\bullet$ Never discussed bench testing on adult products with Walmart previously, but Walmart has requested NWSP 070.9R(15) for training pants bid.
+
+$\bullet$ Very different from our method, so need to submit for testing to understand differences.
+
+* Depend Fresh Protection
+
+* Assurance
+
+* Always Discreet
+
+* LUGH soft liner
+
+||Closed Cradle|NWSP 070.9|
+|---|---|---|
+|Position|Anatomical, Cradle|Center Pad, Flat|
+|Insult Amount|3 insults 50 mL each|1 insult 105 mL|
+|Wait Time|15 minutes|10 minutes|
+|Insult Pressure|0.25psi|None|
+|Blotter Media|2 sheets blotter paper, 88x300mm|10g stack filter paper, 90mm circle|
+|Rewet Pressure|0.5psi|1.0psi|
+|Rewet Duration|2 minutes|1 minute|
+
+
+![Average Rewet\n\n2022\nPre-ATACAMA Data\n\nAverage Reset (8)\n1\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n](2/Oy0YFe4o874ND9Udefofxe/ppt_3867e2b60070d7dc3f413086d0b0036e_92608bb01a62b9ec3d042d261e07683a001a693ee6c0644e/tmp_zip_img/9a0b06c3-d4d7-4ebf-b772-a34fc5a5eafc.png)

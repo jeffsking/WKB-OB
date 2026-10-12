@@ -1,0 +1,65 @@
+{
+ "batch_id": "W1-3",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_397826f7ebef4adf991b6322d7786eed001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT大纲_20260908.md.md",
+   "name": "BNC技术分享_PPT大纲_20260908.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_19b769dafd72be7e6857fe82568c1622001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md",
+   "name": "IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bdd4e4d73820edf234dc5338eac094e3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+   "name": "IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8fda2aee5672e504877d4a34e3cdadc2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md",
+   "name": "IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_6f082250329186064480a11df696dcdc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md",
+   "name": "ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_60b720f58c09013a22487e78509964b5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md",
+   "name": "pentagram_free_shaped_PET_alternatives_8slides.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_d0e3d9f039a94740b86597962da1103d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md",
+   "name": "Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_c5ed08cd73e2046cd92c5effd6ab4300001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/COPET.pptx.md",
+   "name": "COPET.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_ea9331d8cf3e3a5bff7b55d03b60d1ab001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/REL simulation.pptx.md",
+   "name": "REL simulation.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_9dc5e36ef40bfa169d4e44e70f89e58b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md",
+   "name": "ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

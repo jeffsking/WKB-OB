@@ -1,0 +1,57 @@
+{
+  "batch": "07",
+  "done": [
+    "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）",
+    "可冲散拭布 Flushable Wipe",
+    "柔性电子 Flexible Electronics",
+    "健康监测 Health Monitoring",
+    "深沟槽涤纶 Deep-groove Polyester",
+    "SAP 干燥 SAP Drying",
+    "斯托克斯位移 Stokes Shift",
+    "Wenzel Equation"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "可冲散拭布 Flushable Wipe",
+      "issue": "定义待补 — 引用来源未给出明确定义（仅作为可持续性选项标签与化学粘合终端出现）",
+      "detail": "No definition sentence in any citing source. Also unsourceable: grammage / wet-tensile / dispersion-time criterion; why the Flushable arm lost to control in the Rosa Parks trial (outcome recorded, cause not stated)."
+    },
+    {
+      "page": "柔性电子 Flexible Electronics",
+      "issue": "定义待补 — 引用来源未给出明确定义（仅有对比式框架：相对刚硬 PCB 的 2.5D/3D 电路需求）",
+      "detail": "No standalone definition sentence. Also unsourceable: any hygiene-product flexible-electronics spec (sensitivity / drift / lifetime / power budget / cost). Root imec file is a single abstract — process flow, reliability and application data absent."
+    },
+    {
+      "page": "健康监测 Health Monitoring",
+      "issue": "定义待补 — 引用来源未给出明确定义（仅作为可穿戴传感器参考书的卫材交叉点：心率/体温/活动量 + 智能包装 + 湿感指示条）",
+      "detail": "No definition sentence. Also unsourceable: any hygiene-product sensor spec; any quantified e-textile -> health-monitoring transfer; any clinically measured skin-health endpoint."
+    },
+    {
+      "page": "SAP 干燥 SAP Drying",
+      "issue": "定义待补 — 引用来源未给出明确定义（库内仅为《Handbook of Industrial Drying》下的导航条目）",
+      "detail": "No operational definition sentence. Unresolved in-vault tension: devolatilisation wants T > Tg while final-stage rule wants T < Tg to protect swellability — boundary not clarified (自由体积 Free Volume). No SAP-specific drying curve, target moisture, dryer type or residence time recorded. Body text missing for the three original cited sources (Handbook of Industrial Drying, Ch28, Ch50)."
+    },
+    {
+      "page": "斯托克斯位移 Stokes Shift",
+      "issue": "定义待补 — 引用来源未给出明确定义（仅给出定量标准 30–70 nm / 可至 150–250 nm 与量子产率定义）",
+      "detail": "No definition sentence. Unsourceable: Stokes-shift values for the specific pulp brighteners in use; any quantum-yield acceptance floor for hygiene-grade brighteners."
+    },
+    {
+      "page": "深沟槽涤纶 Deep-groove Polyester",
+      "issue": "定性口径仅两处（fibre 功能定位 + eight-leg 截面），无独立定义句",
+      "detail": "Unsourceable: groove depth/width, dtex, crimp, fluid-transport rate, any grade / supplier / denomination. Table 14.6 shaped-cross-section ranking is truncated in the digest and was therefore not quoted."
+    },
+    {
+      "page": "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）",
+      "issue": "非定义缺口，但两条承重事实仍开放",
+      "detail": "Rewet measurement variability is the regroup's headline problem but no quantified variance model is recorded. Why SAM blended into fluff raises closed-cradle rewet is asked by the source and not concluded. Numeric business case for dropping the Dayuan 3D topical surge route is not given (reason stated only as 'cost')."
+    },
+    {
+      "page": "Wenzel Equation",
+      "issue": "已取到库内方程形式与释义，但缺工程参数",
+      "detail": "Unsourceable: roughness factor r for any real hygiene substrate; Wenzel -> Cassie transition criterion; whether the '< 30 degrees core-fibre theta' target is a specification or an inference from Young + Wenzel."
+    }
+  ],
+  "count": 8
+}

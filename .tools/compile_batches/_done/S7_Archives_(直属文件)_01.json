@@ -1,0 +1,12 @@
+{
+  "batch": "S7_Archives_(直属文件)_01",
+  "stage": "S7",
+  "block": "Archives/(直属文件)",
+  "source_pages": 8,
+  "concept_pages": 0,
+  "entity_pages": 0,
+  "comparison_pages": 0,
+  "updated_existing": 3,
+  "manual_review": 1,
+  "notes": "Compiled all 8 items in order. Four IMA knowledge-base index snapshots were filed as source-only pages and cross-linked to existing pages (bacterial nanocellulose, sheath-core fibre, COCO core platform, STM acceptance baseline) instead of spawning duplicate concept pages. The full-core material list and experiment plan v2.0 was filed with a manual_review block because named SAP/fibre suppliers, formulations, reference prices and internal targets were not page-ised; its test hierarchy was appended as dated evidence to existing SAP staggered-swelling and REL pages. The mobile-WorkBuddy Q&A contributed only the EDANA/INDA/WSP context, appended to the existing EDANA entity; INDA and CNITA were left without standalone pages because each is single-source. The book-alternatives index and the tag-system census are governance/access metadata and were filed as source-only. index.md and log.md were not modified."
+}

@@ -1,0 +1,20 @@
+{
+  "batch": "idb_06",
+  "book": "Handbook_of_Industrial_Drying",
+  "done": [
+    "Industrial Drying Ch30 Drying of Nanosize Products",
+    "Industrial Drying Ch31 Drying of Ceramics",
+    "Industrial Drying Ch32 Drying of Peat and Biofuels",
+    "Industrial Drying Ch36 Drying of Wood Principles and Practices",
+    "Industrial Drying Ch37 Drying in Mineral Processing"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Ch36: 原章节标题 'Drying of Wood: Principles and Practices' 含冒号，Windows 文件名非法；文件名去掉冒号（title 字段与文件名一致），H1 标题保留原冒号形式",
+    "Ch36: 页码范围 pp.822–863 由引文页推得（源文件未给出总区间），需对照印刷版核实",
+    "Ch32: 源文件头部版权年标 2015（本批统一按 2014 版处理）；页码范围 pp.741–751 由引文页推得",
+    "Ch31: 源文件中 Biot/Lewis 论断标注 p.839，疑为 p.739 偏移笔误，已在页面中标注 [待验证]",
+    "Ch30/Ch31/Ch36: 部分 OCR 符号受损（Eq 30.1 的 σ/θ、Eq 31.x、Eq 36.3/36.14/36.16），引用常数前须对照印刷版"
+  ],
+  "count": 5
+}

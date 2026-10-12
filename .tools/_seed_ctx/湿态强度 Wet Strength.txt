@@ -1,0 +1,109 @@
+# SEED: 湿态强度 Wet Strength
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Fibers and Fibrous Materials
+#
+# 全库正文命中 139 页，200 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (5 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • → **永远是"形态保持"与"bonding strength"的平衡**：温度越低越保形，但 bonding 强度有风险。
+   • 1. 先向热风厂（延江）索取**当前的烘箱设定温度** —— 注意：**熔点 130 ℃ 只是材料属性，不是工艺温度**；设定温度可能高于熔点（如 135 ℃）。
+2. **设定温度 ≠ 实际温度**：只能监控设定温度，两者之间可能存在 **2–5 ℃** 偏差；这个 delta 正是流平与否的关键。
+3. 在产线上**以设定温度为基准往下调**，利用连续运行时烘箱的降温过程**分段收样**（例如跑 130 ℃ 收一批、降到 128 ℃ 再收一批、126 ℃ 再收一批），共 **3 批**。
+4. 三批样送实验室测**拉伸强度**；**只要 bonding strength 能接受，就取低温样** —— 低温样形态保持最好。
+5. 若热风厂对烘箱能力有信心（设定即实际），仍应**额外做出更低温度的样品**做对照。
+   • **三叶形纤维（尤其 homo PET）加得越多，中间层的 bonding strength 越不确定** —— 这是本平台**尚未解决的关键未知**。
+- **温度是根因**：不同聚合物熔点差异大（PP vs PET / homo PET）→ 现有加工温度下，异形截面容易被"流平"，且层间粘合不足。
+- **提出的解法**：**工程改性 PP，把加工温度降到接近 130 ℃（即 PE 的熔点）**，从而与现有 bicomponent / TBCW 体系兼容 —— 本方判断"近期应可行"，但**仍在推进中**。
+
+--- [[离子强度 Ionic Strength]]  (5 句)
+   • The vault never states a formula or units for ionic strength; it treats it operationally as **one of the three parameters** that precisely tune a hydrogel SAP's absorbency / water retention / salt tolerance / oil resistance — **cross-link density + ionic strength + temperature**（源：Hydrogel-based Superabsorbent Polymers）。Its direction of effect is stated directly: **electrolytes such as NaCl and CaCl₂ affect swelling, and high ionic strength *lowers* water absorbency**（源：Hydrogel-based Superabsor
+   • **Ionic surface cross-linking is a design lever *and* a failure mode.** Modern SAP practice uses a cation (Al³⁺) to ionically surface-crosslink polyacrylic-acid carboxyls, which raises gel strength, SFC/permeability and reduces gel blocking; the Al-crosslinked shell is only **partly reversible and is sensitive to pH and ionic strength**（源：Ancient Organic Dyes and Pigments Chemistry）。
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+
+--- [[热熔胶 Hot Melt Adhesive]]  (3 句)
+   • **最常用胶种**：Hot melt（EVA/APAO/polyamide/TPU/curing hot melt）用于**芯体复合、SMS 复合、湿巾封口**（源：Adhesive Handbook）。
+- **施胶花型是剥离强度的最大杠杆**：效应量排序 **Nozzle–OP 14.020（p 0.00000）> Primary Substrate 4.376（p 0.00004）> Bonding 3.632（p 0.00023）> Add-On 1.304（p 0.00548）> Adhesive Type（p 0.04965）**；**Minibead 花型剥离强度远高于其他**，Summit 最低（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- **施胶基材**：**胶应施加在导流层上以获得高剥离强度** —— Surge 均值 **408.19**（Std Error 29.750）vs Liner **230.09**（Std Error 26.434），未共享字母即统计显著（源：HSB
+   • ：热熔胶的**定义句与基础分类学**（EVA / APAO / PO / PUR 等的判据）在引用页中未展开；引用来源仅给出胶种名录。
+- ： 摘录中的 G = G₀·ψ(v,T) 未给出 ψ 的函数形式与参数范围（源：Handbook of Adhesive Technology Full Report）。
+- ：CF Swirl 与 Minibead 之间的剥离强度落差**可能**是 Depend 回渗值更不稳定的原因 —— 原文表述为「可能」，属**未验证假设**；「间隙小 → 回渗低」亦只证明了前半段（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- ：Source pages 未给出热熔胶的**老化 / 黄变 / 迁移**定量模型（源：Adhesive Handbook）。
+- ： 摘录中的成本与 FTO 结论（US$0.90/1,000 pants、US$38 k capex）为**该案专用**，不可外推为通用热熔胶成本（源：Stretch-Triggered Colour Indicator 
+   • **提供正文摘录的库内页面**
+- Handbook of Adhesive Technology Full Report
+- Hot-Melt Slot Coating（热熔狭缝涂布）
+- US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+- BM Urine Indicator Concept（尿+便双指示概念）
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels
+- HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）
+
+--- [[粘胶纤维 Viscose Fiber]]  (3 句)
+   • **Zinc is structural.** *"over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Zinc regulates structure → **skin-core structure** → high strength; wet modulus can be raised stepwise (modifiers, low-temperature low-acid bath, formaldehyde) along the ladder **ordinary viscose → tyre yarn → HWM → polynosic → Ten-X**（源：Manufactured Fibre T
+   • **Wet collapse is the design problem.** Viscose *collapses* when wet (low wet modulus), the inverse of cotton, which stiffens（源：Fibers and Fibrous Materials）— so wet strength, not dry strength, is the constraint for any core/wipe viscose.
+- **Skin-core explains the fluff-pulp analogy.** The core-loses-50% / skin-loses-20% wet-strength split is the textbook analogy for why fluff pulp loses network strength when wet and why SAP plus bicomponent thermal-bond fibres are added for reinforcement（源：Man
+   • No **quantitative wet-strength value** for viscose in the vault beyond the qualitative "collapses", and no comparison table against cotton or lyocell 。
+- The two **Adhesive Handbook citations contain no viscose content**（only a  entry）— why viscose was linked there is not stated 。
+- No **cost, denier/spec or supply** data for viscose appears in the digests 。
+
+--- [[莱赛尔 Lyocell]]  (3 句)
+   • **Lyocell / Tencel is a regenerated cellulose fibre spun from a direct solvent, NMMO (N-methylmorpholine-N-oxide)** — a route that **omits xanthation and ripening**, such that *viscose's* fibre strength and wet modulus are exceeded, while it **retains a propensity for fibrillation**, verbatim *"propensity for some degree of fibrillation"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Property comparisons are tabulated there as Table 17.12 (Camilon) and Table 17.14 (Tencel)（源：Manufactured Fi
+   • **Solvent route.** Lyocell sits under **direct solvent spinning (MMNO/NMMO)**, which needs no derivatisation — unlike the viscose process — and that is why its strength and wet modulus exceed viscose's; the same property set brings the fibrillation liability（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Trilobal Lyocell for LSN spunlace（芯包/水刺用）.** Trilobal Lyocell is a named carrier for the fibre cross-section that creates axial grooves → a quasi-continuous low-resistance distribution path along MD, for the LSN hydroentangled nonwoven; it maps to project **OI-08「Trilobal Lyocell for LSN」**, targeting wet strength and hydrophilic channels（源：三叶形截面纤维（Trilobal Fibre））。Concrete batch evidence: the COCO V6 Summary adds **LSN spunlace containing trilobal Lyocell** as a core-wrap material (6 km, arri
+
+--- [[Fibers and Fibrous Materials]]  (3 句)
+   • **Fibrous material, defined.** A substrate of fibres in which 'the spaces between the component fibers, referred to as pores, play a key role in their physical properties', with porosity typically 0.6–0.9 or higher.
+- **Two sorption modes.** Bulk adsorption/absorption into the fibre, and capillary sorption between fibres; the latter dominates nonwovens and is set by wetting and surface energy, since 'the fiber surfaces constitute the pore walls'.
+- **The dual-dependence principle.** Performance 
+   • **Buy the surface, not the resin.** Because fibre walls *are* the pore walls, surface energy and roughness dominate absorption; fibre chemistry matters mostly through wettability.
+- **Density and geometry substitute for hydrophilicity.** Polyolefin and PET absorb well through fine denier and non-circular cross-section — the pore network, not the polymer, is the absorber.
+- **Wet strength inverts with crystallinity.** Cotton stiffens when wet; viscose collapses. For wet-wipes and core layers, wet
+   • 父书：Absorbent Technology
+- 概念：纤维 Fibril、孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillary Sorption、湿态强度 Wet Strength、含水率 Moisture Regain、Gel Blocking（凝胶阻塞）、交联密度 Crosslink Density
+- 材料：绒毛浆（Fluff Pulp）、棉纤维 Cotton、粘胶 Rayon、莱赛尔 Lyocell、合金粘胶 Alloy Rayon、交联 CMC、改性纤维素 Modified Cellulose、深沟槽涤纶 Deep-groove Polyester、中空纤维 Hollow Fibre、PLA 玉米纤维、鸡毛纤维 Chicken-feather Fibre
+- 下游章节：Cross-linked Cellulose and Its Derivatives、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • where $G$ = peel strength, $G_0$ = intrinsic fracture energy, $\psi(v,T)$ = viscoelastic function (frequency/temperature dependent). The value of $\psi$ is "usually far higher than that of E" [Part 2, Line 5182–5213] — meaning process parameters (temperature, peel rate) dominate core-bonding performance.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+
+--- [[Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres]]  (3 句)
+   • This chapter treats **drawing 牵伸（orientation stretching 取向拉伸）** as the decisive post-spinning step that converts an as-spun filament of low strength and low orientation into a usable fibre. It moves from the mechanics of the drawing unit (draw twister 牵伸加捻机), through the necking/cold-drawing mechanism, to the structure–property chain "draw ratio → crystallinity / orientation / birefringence / density → tenacity and modulus", and closes with industrial routes including high-tenacity two-stage dra
+   • 1. **Drawing is orientation strengthening, not elastic deformation 牵伸的本质是取向强化而非弹性形变** (p.170). Source wording: "Through the drawing operation the fibre is orientationally strengthened due to alignment of the molecular chains along the fibre axis and shows enhanced recovery." 强度、模量与尺寸稳定性（dimensional stability）随之提升。
+2. **Spinning speed sets the residual draw ratio 纺速决定残留牵伸比** (p.171). Source wording: "an increase in spinning speed increases the orientation of the molecular chains along the fibre a
+   • Drawing terminates where orientation strengthening is overtaken by two competing processes: increasing structural heterogeneity along the orientation axis, and **molecular chain scission 分子断链**. The **Slutsker & Utevskii local overstress model** plus a critical IR end-group concentration are cited as evidence (pp.182–183, Fig. 8.14). 取向强化与结构异质性的竞争决定了可重复出现的极限牵伸比。
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (3 句)
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • t_resp ~ L²/D_eff — response time set by initial size L, effective diffusivity D_eff, and pore size [reconstruction of L171–175]
+- Q_max ∝ 1/ν_c — swelling extent falls as cross-link density ν_c (and chain elasticity constraint) rises [reconstruction of L168–169]
+- ↑I_UV ⇒ ↓chain length ⇒ ↓t_resp and ↓mechanical strength [reconstruction of L255–259]
+- r_diss = f(d₀⁻¹, C_reductant, ν_c⁻¹, T) — dissolution rate of a cleavable gel [reconstruction of L423–425, L476–477]
+   • 1. **Absorption-rate law goes through particle size before chemistry.** t_resp ~ L²/D_eff predicts a ~4× faster uptake from a 2× reduction in effective particle radius (L171–175, L184–185). Set PSD bands by this scaling when acquisition speed or rewet is the failing KPI.
+2. **Swelling is available work — and a load case.** Up to 1000-fold expansion produces usable force (L151–154). Use positively (a gel strip that swells to close a leak-guard gap — the bi-strip valve analogue, L513–516) and defe
+
+--- [[面层粘合强度测试方法.pdf]]  (3 句)
+   • 南京厂作业指导书 **WI-56934（第 1 版，2022-08-10）**——**CIDER 3D Embossing Lamination Strength**：测 **CIDER 产品在线复合的 3D 压花面层（topical liner）与支持层（support layer）之间的层压结合强度**，峰值载荷以 **gf** 表示。
+   • **在线复合（in-line lamination）的结合强度被做成独立验收项，读数同为峰值 gf** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **试样"只含 3D 压花、不含侧封边"是本页与端封类方法的分界线** —— 支撑页：Seal Strength Test（端封·侧封强度测试）
+- **同一界面存在两条厂内方法，引用须带 WI 号** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+   • 概念：Liner-Surge Embossing（面层-导流层压花）、Seal Strength Test（端封·侧封强度测试）
+- 对比：3D 面层-支持层结合强度两法对比（WI-56934 vs WI-57507）
+- 实体：KC Nanjing Plant（金佰利南京厂）
+

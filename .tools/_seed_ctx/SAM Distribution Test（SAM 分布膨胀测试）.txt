@@ -1,0 +1,134 @@
+# SEED: SAM Distribution Test（SAM 分布膨胀测试）
+# type: concept | 原引用数: 7
+# 原 Cited by 列表:
+#   - Liquid Diffusion Test（液体扩散测试）
+#   - Run-off & Leakage Test（滑渗与渗漏测试）
+#   - STM-00305 SAM分布.docx
+#
+# 全库正文命中 409 页，695 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (7 句)
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+   • **吸水纸（blotter）三族**：KC 系用 **100 lb Verigood**（88 × 300 mm，1–2 张）；P&G 系用 **Collagen**（P&G Duck 为 Blotter 75 × 145 mm；Collagen BCC 直径 90 mm；Collagen AFC 31 gsm，112 或 70 mm 直径）；其余用 **Filter Paper**（China U Rewet 145 gsm / 10 张；Diaper Testing Intl Type 102 / 10 张；NWSP 070.9 Grade 950 / ~10 g；Costco FQ Demo Grade 950?）。**张数从 1 张到 10 张，差一个数量级**。
+
+--- [[Rewet Test（回渗测试）]]  (6 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • 上文已确立的硬约束是 **"回渗值不可裸引"**（同一公司 30 年间用过 0.005 / 0.05 / 0.24 / 0.5 / 0.7 / 1.0 psi 六档压力）。本追加段把这条约束**从"纵向的历时变化"扩展到"横向的跨组织方法"**：**客户（Walmart 训练裤招标）指定的是另一套标准**，其加液量、压力、介质与时长全部不同。
+- **成人产品此前从未与客户讨论过台架测试**（源文原话：*"Never discussed bench testing on adult products with Walmart previously"*）——这意味着**成人护理品类首次面临外部标准对齐问题**。
+   • 容量：**CRC（STM-00219）** / **Functional capacity（TTM-00638）**、**Retention Capacity（STM-00033）**、Target zone capacity / Virtual functional capacity
+- 可达性：**GBP（STM-00229）**、**Composite permeability（TTM-00006）** / **X-ray imaging（TTM-00631）**、**Bromocresol SAM 分布（JA-22229）**、**Mannequin Forced Failure（TTM-00459 / TTM-00200 / TTM-00660）**\* / AFEA
+- 受压持液：**AUL under pressure at rewet pressure**；⚠️ **"SAM deswelling at rewet pressure"= under development**、**"AUL Core deswelling test"= needed**
+- 及时锁液：*
+
+--- [[三叶形截面纤维（Trilobal Fibre）]]  (5 句)
+   • 1. **截面决定功能**：圆形截面纤维之间只有"点接触"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成**轴向沟道**，纤网中相邻纤维的沟道叠加即成为**准连续的低阻导流路径**。
+2. **方向性 = MD 沟槽**：梳理成网时纤维沿机向（MD）取向，沟道也随之沿 MD 排列 → 液体被**沿机向拉长铺展**，而非在冲击点堆积。这是"MD distribution / MD 铺展"指标的物理来源。
+3. **两种载体**：
+   - **PE/PET 皮芯型三叶形**（面层用）：三叶形截面 + 皮芯结构并存，兼顾导流与热粘合；COCO V6 面层上层仅放 10%、下层放 50%。
+   - **三叶形莱赛尔（Lyocell）粘胶纤维**（芯包/水刺用）：用于 LSN 水刺非织造，主打湿态强度与亲水通道——对应 OI-08「Trilobal Lyocell for LSN」。
+4. **配比的两难**：三叶形越多导流越好，但贴肤侧三叶形**手感偏硬**。COCO V6 的解法是 **Z 梯度分层**——整体 30%（15 gsm），但皮肤侧只放 5%。详见 ATB双
+   • 目标：提升面层扩散，量化指标为 **MD 方向尿液分布（MD urine distribution）+20–30%**。
+- 配比建议：若未涨价则 **50 / 50**（三叶形 50 配 50）；若偏贵则降。
+- 本方判断："**大部分是价格的问题，而不是功能的问题**" → 主要障碍是成本。
+   • 1. 对 **pattern（花型）**改善有没有帮助；
+2. **皮肤手感有没有变糙**（柔软性）；
+3. **performance** —— **MD distribution 的扩散长度有没有增加**；
+4. 目标是**找到平衡点**，不是单向最大化。
+   • 1. **异形纤维的收益有配比上限**：不是越多越好 —— homo PET 上限 30% 的背后是**中间层粘合强度**的约束。
+2. **温度窗口是异形纤维的通用门槛**（与本页既有结论一致）：PE ≈ 130 ℃ 是参照锚点；要让 homo PET 异形纤维存活，要么**改材料（低温 PP）**，要么**改工艺（降加工温度）**。
+3. **"+15% MD 分布"目前是理论值** —— 与 Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证） 中"10 月拿初始样品"的排程对应，属**待验证目标**而非实测。
+
+--- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]  (5 句)
+   • **BCC 成品测试方法的最新总索引**（表头自述 *Sep 2026 Check by R&D Lab Tester*），按品类与 OD / Pants 形态两列把「指标 → 方法编号」一一锁定；是本批各单项方法文档的**上位清单与查表入口**。
+   • 表分四大评价通道：**Lab Physical Test（实验室物理测试）**、**Human Sensory Test（人体感官测试）**、**Clinical Test（临床测试）**、**Consumer Test（消费者测试）**。消费者测试列统一填 Wet Fit Study，并注 PANEL / HUT / CUT 等研究形式。
+   • **本表是成品方法的唯一总索引，任何单项方法的「是否现行」应回到本表核对** —— 支撑页：芯体测试方法与验收基准（STM）
+- **滞留能力的正式压力口径为 3.45 kPa（0.5 PSI），与 FIFE 回渗载荷同源** —— 支撑页：Retention Capacity Test（滞留能力测试）
+- **国标法已占据 pH、回渗/摄入/渗漏、滑渗、防漏、交货水分、杂质、微生物、荧光 9 项** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **假人测试分动态（TTM-00318）、静态强制失效（TTM-00459）、BM 假人（TTM-00467）三条** —— 支撑页：Static Mannequin Test（静态假人测试）、Mannequin BM Test（BM 假人测试）
+- **耳贴三法（STM-00071/00076/00075）仅适用于 OD，Pants 不适用** —— 支撑页：芯体测试方法与验收基准（STM）
+- **「差异点总结」表为空，说明截至 2026-09 无已登记的操作-标准偏差** —— 支撑页：Kimberly-Clark
+   • 概念：Retention Capacity Test（滞留能力测试）、Rewet Test（回渗测试）、Cradle Intake Test（Cradle 摄入测试）、Run-off & Leakage Test（滑渗与渗漏测试）、Mannequin BM Test（BM 假人测试）、Static Mannequin Test（静态假人测试）、Elastic Tension & Creep（橡筋张力与回缩率）、GB-T 28004.1-2021（纸尿裤国标）、芯体测试方法与验收基准（STM）、Diaper Microclimate、SAM Testing Methods（超级吸水材料测试方法）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+
+--- [[R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf]]  (5 句)
+   • K-C's 2015 claim-substantiation record for "Poise Thin Shape pads stay 10× drier than Always Discreet" — the canonical example of using a Bladder-Box **flowback (=rewet)** bench test to defend a dryness claim against a competitor.（金佰利 2015 年「Poise Thin Shape 比 Always Discreet 干爽 10 倍」宣称佐证记录——用 Bladder Box 回流量（=回渗）台架测试支撑竞品干爽宣称的范本。）
+   • **Context 背景**: P&G launched Always Discreet (Aug 2014) claiming it was drier than Poise. Poise (K-C) responded by building its own dryness claim rather than challenging P&G's.（背景：宝洁 2014 年 8 月推出 Always Discreet 并宣称比 Poise 更干；Poise 选择自建宣称而非反驳。）
+- **Product 产品**: Poise Thin Shape launched Mar 2015, targeted at the same LBL (Light Bladder Leakage) users as Always Discreet.（Poise Thin Shape 于 2015 年 3 月上市，对标 Always Discreet 的轻度漏尿用户。）
+- **Method 方法**: Bladder Box method for intake **and flowback** (
+   • Each code tested at 2 locations; no distribution overlap between Poise Thin Shape and Always Discreet (one-sided exact Wilcoxon, p < 0.0001 at all three absorbencies).（每牌号在两个地点测试；Poise 与 Always Discreet 分布无重叠，p<0.0001。）
+- Testing demonstrated up to ~50× drier, but the business selected the conservative **10×** claim.（实测最高约 50 倍，商业上取保守的 10 倍。）
+   • A consumer-relevant Bladder-Box flowback protocol can substantiate a quantitative dryness claim and withstand competitor legal review.（贴合消费的 Bladder Box 回流量方案可支撑量化干爽宣称并抵御竞品法务审查。）—— 支撑页：Rewet Test（回渗测试）、The Procter & Gamble Company（宝洁）
+- Poise Thin Shape rewet (flowback) is ~40–60× lower than Always Discreet in this 2015 panel.（该 2015 面板中 Poise Thin Shape 回渗约为 Always Discreet 的 1/40–1/60。）
+
+--- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]  (5 句)
+   • **原材料测试方法的总索引表**，按「材料 → 测试项 → 物理测试方法」三列锁定编号；与 Finished Product Testing Method Summary（成品测试方法汇总表） 构成 S2 测试方法的**一张成品表 + 一张材料表**的上位结构。
+   • **Complex Core（复合芯体）**九项（基重、厚度、COV、尺寸、回渗、吸收性、滑渗、水分、白度、pH）**全部指向 Inner Quality Testing Standard（内控质量标准），无任何 KC STM 编号**——这是本表最值得注意的结构性事实：复合芯体作为新兴材料，其进厂判读尚未进入 KC 全球方法体系。
+   • **SAM 五指标（PSD/GBP/CRC/AUL/Vortex）已有完整 KC STM 编号，是本库 SAP 来料判读的正式口径** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）
+- **复合芯体九项判读全部依赖内控标准，尚未纳入全球 STM 体系** —— 支撑页：COCO芯体平台、芯体测试方法与验收基准（STM）
+- **GB/T 22875-2018 是 SAM 的国标总括方法，覆盖 7 项化学与物理指标** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）
+- **无纺布判读以 GB/T 24218 系列为主干，KC STM 仅作补充** —— 支撑页：热风粘合无纺布
+- **WVTR 归入内控-12，另有 Mocon 法 WI-62362，属两条并行的透气/透湿路线** —— 支撑页：WVTR 测试口径（失重法 vs 增重法）
+- **「差异点汇总」表为空，截至 2026-09 无已登记的操作-标准偏差** —— 支撑页：Kimberly-Clark（金佰利）
+   • 概念：SAM Testing Methods（超级吸水材料测试方法）、SAP性能指标（CRC AUL GBP Vortex）、热风粘合无纺布、WVTR 测试口径（失重法 vs 增重法）、Rewet Test（回渗测试）、Run-off & Leakage Test（滑渗与渗漏测试）、COCO芯体平台、芯体测试方法与验收基准（STM）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：KC 内部 STM 与 EDANA _ GB-T 原材料测试方法体系对比
+
+--- [[Motion Mannequin Test（动态假人测试）]]  (4 句)
+   • 与 Static Mannequin Test（静态假人测试）（TTM-00459-7 强制失效法）和 Mannequin BM Test（BM 假人测试）（TTM-00467 BM 吸收）并列，动态假人是本库第三条假人路线，也是**唯一带运动**的成品评价方法。
+   • 本体文件为 **WI-63849（第 0 版，2024-02-20）**，参考文稿为 **TTM-00313-8 Mannequin Wet and Dry Motion Fit Test**（Finished Product Testing Method Summary（成品测试方法汇总表） 中列作 **TTM-00318-8**，二者差一位数字，待人工核对）。
+   • 上位 / 相关：Static Mannequin Test（静态假人测试）、Mannequin BM Test（BM 假人测试）、芯体测试方法与验收基准（STM）
+- 平台：Mannequin Lab（Rockwell 假人平台）
+- 机理相关：尿液模拟液（Urine Analog）、Run-off & Leakage Test（滑渗与渗漏测试）、Skin Contact Pressure（皮肤接触压力）、Elastic Tension & Creep（橡筋张力与回缩率）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+   • WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试） —— 
+- Finished Product Testing Method Summary（成品测试方法汇总表） ——
+
+--- [[Ultrasonic Bonding of PET-Containing Topsheet]]  (4 句)
+   • 1. **Ultrasonic bonding is a microstructure effect（超声粘合是微观结构效应）**：performance depends on microstructure, local energy concentration and pattern profile — not simply on polymer softening. Too much non-bondable mono-PET reduces pattern reliability.（效果取决于微观结构、局部能量集中与花型轮廓，而不只是聚合物软化；不可粘的单组分 PET 过量会降低花型可靠性。）
+2. **PET does not soften at PP/PE ultrasonic settings（PET 在 PP/PE 超声参数下不软化）**：in a cuff or side-seam lane it behaves as **unbonded filler** and seal strength drops **without warning**. The failure
+   • Ingredients 组分：皮芯复合纤维（4D 偏心 ES）、三叶形截面纤维（Trilobal Fibre）
+- Constraint 约束：PE-PET Bond Efficiency Model、Shaped PET Add-On Window
+- Process 工艺：热风粘合无纺布、SMS复合结构
+- Structure 结构：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- Acceptance 验收：芯体测试方法与验收基准（STM）
+   • 模块目前 **380 m** 为**可靠数据**（可跑）；
+- 目标验证 **500 m** —— **尚未验证**（"we haven't verified yet, we need more data to test online"）。
+- 中国供应商方案自述可达 **500 m/min**，但需更多空间 —— **与 500 m 目标一致，尚未实测**。
+   • ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination —— 
+- Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner ——
+
+--- [[Consumer Relevancy of FIUP Method Feb 2025.docx]]  (4 句)
+   • Method-justification memo（2025-02）tabulating FIUP（TTM-00643）against P&G's AFC method parameter-by-parameter, citing wetting-pattern studies and pressure research as the consumer-relevancy evidence chain. Companion to FIUP Test Method TTM-00643（女性摄入与回渗测试法） and the dryness claim substantiation work（TL-15927/R164444）。方法参数的"为什么这么设"证据页。）
+   • Parameters compared: insult position — P&G mid-pad vs FIUP Total Length/12 forward & backward of center, grounded in wetting-pattern studies showing WP centroid sits 2.5–11 mm from pad center (R168596 appendix, studies 37110/37470); fluid — saline both（ionic strength representative）; amount — per-HUT, FIUP uses 75th-percentile total loading ÷ 3 across three insults（majority ≤2 voids, ≥11% have ≥3）; flow rate 8 mL/s（peak flow for adults with bladder/urinary dysfunction, McSorley 1991）; temperatur
+   • **KC FIUP 在加液位置、温度、加液量上更贴消费者真实场景，在吸水纸与等待时间上比宝洁口径更严苛**——为"方法可比性"争议提供逐参数辩护 —— 支撑页：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- **加液位置的依据直接来自润湿图谱研究（质心 ±2.5–11 mm）**——方法与基础研究互锁 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+   • 概念 Concepts：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Wetting Pattern Target Zone（润湿图谱目标区）
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- 同族源 Related sources：R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf、R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf
+
+--- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]  (4 句)
+   • The **test-planning page for the 4-configuration diffusion-enhanced topsheet DOE** — it defines the candidate fibre systems, the temperature/loading process window, the acceptance metrics and the 3-stage, 33-run test architecture for the REL ultra-thin core topsheet (50 gsm dual-card ATB). It is the batch's answer to "**which fibre goes on top, at what oven temperature, and how do we know it worked**".
+本页是本批**「扩散增强面层 4 配置 DOE」的试验设计页**：锁定候选纤维体系、温度/载荷工艺窗口、验收指标与「3 阶段 33 次试验」架构，服务于 REL 超薄芯体面层（50 gsm
+   • The test architecture is a 3-stage randomized DOE (seed 20260814) totalling 33 runs: **Stage 1** configuration screen (4 configs × 3 temps × medium load = 12, plus 3 centre runs = 15), **Stage 2** temperature × loading optimization on the top-2 configs (12 + 2 = 14), **Stage 3** confirmation (top-2 × 2 replicates = 4), plus 1 anchor run (C1 at 128 °C). Schedule is 14 weeks (W1–W14) starting 2026-08-17, with milestones M1–M7 and 3 acceptance gates.
+试验架构为三阶段随机化 DOE（随机种子 20260814），共 33 次：阶段 1 配置筛选 
+   • **Final pass/fail sits at the finished-diaper level, not the material level** —— 支撑页：ATB双梳理面层（Dual-Card Topsheet）、MD Liquid Distribution
+- **The 126–130 °C window is the real design variable** (PE sheath flow vs trilobal flattening) —— 支撑页：热风粘合无纺布、三叶形截面纤维（Trilobal Fibre）
+- **Cost is a first-class ranking dimension, not an afterthought** (≤20% premium over the Suzhou PET route) —— 支撑页：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+- **Supplier maturity is a schedule risk**: the
+   • Concepts 概念：ATB双梳理面层（Dual-Card Topsheet）、三叶形截面纤维（Trilobal Fibre）、Shaped PET Add-On Window、MD Liquid Distribution、Pentagram PET (Star Cross-Section Fibre)、热风粘合无纺布、亲水整理耐久性
+- Entities 实体：福地（Fudi）、Suzhou Yimeng (Mono-PET Spinner)、延江（Yanjan）、兰精集团
+- Comparisons 对比：Diffusion-Enhanced Topsheet C1-C4 (Cost-Performance-Supply Chain)
+

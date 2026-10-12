@@ -1,0 +1,16 @@
+{
+  "batch": "S4_Resources_Open Innovation_01",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": [
+    "BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx",
+    "Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx",
+    "Depend Rewet Over Time.xlsx"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [],
+  "notes": "Batch 1 = 3 source pages. BOM cost links to existing [[SAP（高吸水树脂）]] & [[诺尔（Nuoer）]]; Depend Rewet links to existing [[Rewet Test（回渗测试）]]. No new derived pages created (single-source themes below ≥2 threshold). BOM/APAC/Depend dataset themes noted for later batch cross-linking if threshold met."
+}

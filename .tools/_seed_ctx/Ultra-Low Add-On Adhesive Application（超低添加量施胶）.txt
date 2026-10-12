@@ -1,0 +1,108 @@
+# SEED: Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 348 页，599 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热熔胶 Hot Melt Adhesive]]  (11 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • ⚠️ 口径提示：本库同时存在 Hot Melt Adhesive 与 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） 等分型页面，引用时应确认层级（通用 vs 聚烯烃分型）。
+   • **1. 粘接机理五大类：** WLB 湿润、表面能、渗透、锚定、静电 —— 适用于所有粘接场景（源：Adhesive Handbook）。含纤网场景下**机械互锁占主导**："penetration of the protruding fiber ends into the rubber was the most important parameter"（Part 2, Line 71–75）（源：Handbook of Adhesive Technology Full Report）。
+   • **2. 胶接界面不是一条线：** "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（Part 2, Line 2900–2920）（源：Handbook of Adhesive Technology Full Report）。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (10 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+
+--- [[聚氨酯 Polyurethane]]  (7 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Elastomer chemistry and the casting route.** The PU-elastomer deck splits the material into **raw material → chemistry → classification → process → application**, with its practical value concentrated in the **casting type (CPU)**: raw-material selection criteria (**polyester vs polyether**), the process sensitivity of the **chain-extender coefficient and cure conditions**, and six process factors affecting performance（源：Polyurethane Elastomer Handbook）。
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Waterborne shift.** Waterborne PU adhesives emit **no VOC** and are nonflammable, hence "more environmentally friendly"; the shift was driven by rising solvent prices（源：Adhesive Handbook Part 3 Adhesive Classes）。
+
+--- [[Ebewole Polymer Science Ch15 Polymer Properties and Applications]]  (6 句)
+   • Chapter 15 is the book's **"application dictionary"**: for each polymer family it gives the structural feature, key properties (Tg/Tm/crystallinity/strength), processing route and typical applications. It covers 20+ families — PE (LD/HD/LL/Ultra-HD), PP, PS/GP-PS/HIPS/SAN, PVC/CPVC, PMMA, polyacrylates, PAN, ABS, nylons (6 / 6,6 / 4,6 / 6,10 / 11 / 12), PC, PPO, PPS, PET/PBT, fluoropolymers (PTFE / PVDC / PCTFE), NBR, PU, TPE, and ionomers.
+   • 本章对卫材的价值在于**选型第一手依据**：原书在 Table 15.3（p. 426）明确列出 PP 的 *"Nonwovens … are important applications"* —— 非织造布是 PP 的重要应用；PE、PET、PAN、PU、PTFE 亦各有卫材映射。
+   • **与 PE 的结晶构象差异**：原文作 *"Unlike polyethylene, isotactic polyethylene does not crystallize in a planar zigzag conformation due to steric hindrance from the relatively bulky methyl group."* —— 源提取件已加注：**此处 "isotactic polyethylene" 应为 "isotactic polypropylene"**（甲基位阻使其无法取平面锯齿构象，只能取螺旋构象，每圈 3 个亚甲基单元）。引用本书时建议按"等规聚丙烯"理解，原书措辞 [待验证]。
+- **卫材点名**：*"Nonwovens … are important applications."*（Table 15.3, p. 426）
+   • 应用覆盖全线：foams、elastomers、fibers、coatings、adhesives。
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (6 句)
+   • **结果摘要**：**施胶花型（adhesive pattern）对剥离强度影响最大**；**Minibead 花型的剥离强度远高于其他**，**Summit 最低**，**Signature 与 CF Swirl 相近**。附加效应：更高剥离强度对应 **施胶基材为导流层（surge）**、**胶型 Henkel 5402**、**有压合（PICASSO bonding）**；更低剥离强度对应 **基材为面层（liner）**、**胶型 Rextac RT-8723**、**无压合**。
+   • **结论（如何减小界面间隙）**：① **考虑把施胶花型从 Summit 改为 Signature 或 CF Swirl**——其影响**可能大于面层-导流层压花（liner-surge embossing）**（待 MicroCT 结果确认）；**注意：Summit 的偏低可能是花型质量不达标的异常**，历史上 Summit 的粘合强度 ≥ Signature。② **继续把胶施加在导流层上**。③ **可考虑提高施胶量（add-on），但影响很可能很小**。④ **胶型大概率不值得更换**，除非 microCT 测试中观察到异常。
+   • **效应量排序（Effect Summary）**：**施胶花型（Nozzle – OP）影响最大，胶型影响最小**。Logworth / P 值依次为：**Nozzle – OP 14.020（p 0.00000）**、**Primary Substrate 4.376（p 0.00004）**、**Bonding 3.632（p 0.00023）**、**Add-On (gsm) 1.304（p 0.00548）**、**Adhesive Type（p 0.04965）**。
+   • **各因子细节**：
+- **施胶花型**：Minibead 最强；**Minibead 的剥离强度同时变异最大**——原文提出 CF Swirl 与 Minibead 之间的剥离强度落差**可能正是 Depend 回渗值更不稳定的原因**；另注 **Summit 喷嘴历史上粘合强度 ≥ Signature**，本次偏低疑为试验期间花型质量不达标（Tukey-Kramer 0.05 分组中 CF Swirl 52.879 / Signature 44.119 / Summit 24.097 等均值）。
+- **施胶基材（Primary Substrate）**：**胶应施加在导流层上以获得高剥离强度**——Surge 均值 **408.19**（Std Error 29.750，A 组）vs Liner **230.09**（Std Error 26.434，B 组），**未共享字母即统计显著**。注：面层作基材仅在 Minibead 喷嘴组合中出现，故右图只含 minibead 代码。
+- **压合（Bonding）**：**压合的剥离强度高于不压合**（p = 0.0002）。**
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (5 句)
+   • 卫材胶黏系统 = 一次性卫生用品（纸尿裤 / 卫生巾 / 湿巾）中**承担结构粘接、层合、SAP 包裹与皮肤接触自粘的胶黏剂体系总和**：从芯体点胶、面层-导流层-背膜层合，到腰贴/侧贴的压敏胶（PSA），再到防漏边"胶-密一体"的封边胶。
+- 口径不在"胶"这个名词上，而在**接头本身**：source 明确 "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（接头不是一条线，而是三维过渡层）（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **六大胶接理论互补而非互斥**："each of these theories is valid to some extent... they do not negate each other"（源：Adhesive Handbook Part 2 Fundamental Asp
+   • **粘弹性耗散主导强度，而非界面热力学。** 剥离强度 **G = G₀·ψ(v,T)**：G₀ = 本征断裂能，ψ(v,T) = 频率/温度相关的粘弹性函数。卫材含义："Temperature and peel rate directly determine core retention"— 配方开发的核心是设计 ψ(v,T) 的峰值（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **机械互锁是橡胶-纺织/绒毛浆界面的主导机制。** "penetration of the protruding fiber ends into the rubber was the most important parameter"，对应热熔胶点到浆纤维 / SAP 颗粒的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）。
+- **水基化转型不可逆。** 水性聚氨酯"no VOC emissions and
+   • **腰贴 / 侧贴 / 顶贴的 PSA 选型基准** — 行业直接命中："Personal hygiene products such as disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate this application... in particular the adhesive must not cause skin irritation."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **芯体点胶** — 施胶花型（喷嘴）是最大杠杆、**胶型是最小杠杆**：HSBL 数据给出施胶应施加在导流层（surge）上以获得高剥离强度；"间隙小 → 回渗低"仍为未验证假设（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）、Surge-Liner Adhesive Bonding（导流层-面
+   • **HSBL 试产的实测结果**（Peel / Capillarity / MicroCT / 回渗）与覆盖率—添加量的最优区间未见 （源：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合））。
+- **SAP-胶复合界面的标准测试方法**（界面相容性、防霉）库内记载"尚无"（源：Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶））。
+- **湿态/尿液环境下的长期强度衰减**库内只有类比（85 % 损失为有机涂层数据），**卫材专属衰减曲线未见** 。
+- 以上定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+
+--- [[压敏胶 PSA]]  (5 句)
+   • **压敏胶（PSA, pressure-sensitive adhesive）** = 在**轻压**下即产生粘接的胶，无需溶剂、热或固化即可"润湿"基材。Source 原话："Tack is also believed to stem from the viscoelasticity of many polymers, allowing them to conform to the substrate to be adhered and 'wet' it even in the dry state."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **产品三分类**："Pressure-sensitive adhesives fall into three broad product categories: water based, solvent based, and hot melt."（水基 / 溶剂型 / 热熔型）（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **卫材直接命中口径
+   • **初粘力来自粘弹性润湿。** tack 由聚合物的粘弹性主导，使其在**干态**下即可贴合并"润湿"基材；因此 Tg 必须显著低于使用温度（源：Adhesive Handbook Part 3 Adhesive Classes）。
+- **剥离强度由粘弹性耗散主导。** 与结构胶同源，PSA 的剥离强度服从 **G = G₀·ψ(v,T)** —— 温度与剥离速率（"婴儿抓挠与穿着运动是高速剥离"）直接决定粘接表现（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **三类体系的加工代价不同。** 水性化由 VOC 法规与溶剂价格推动（"as the price of solvents soared"），但"processing and end use performance are usually superior"指向溶剂型；因此水性 PSAs 应只用在不可逆环节（贴身面材、封条）（源：Adhesive Handbook Part 3 Adh
+   • **腰贴 / 侧贴 / 顶贴的皮肤接触主战场**：书中直接确认一次性纸尿裤自粘条由**非改性丙烯酸乳液 + 热熔胶**主导，且**皮肤不刺激是第一约束**（与急救敷料同一标准）（源：Adhesive Handbook Part 3 Adhesive Classes）。
+- **采购关注点**：自然橡胶基 PSA 仍是最大基料之一，但价格随农产品周期波动，需多源对冲（源：Adhesive Handbook Part 1 History and Information Resources）。
+- **结构胶（热熔）与 PSA 的边界**：卫材防漏边/腰围的 "SBS/SIS 热熔 PSA" 同时承担结构粘接与压敏功能，见 Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶） 与 Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）。
+- **供应商侧**：国内供应商将 PSA 与尿显水性油墨、热熔胶**配套供应**（热封胶 / 纸塑胶 / 压敏胶），面向一次性卫生用品工厂（源：Hygiene
+   • 卫材 PSA 的**皮肤刺激性定量阈值**与浸液/汗液后的**剪切保持衰减曲线**库内未见 。
+- **是否有独立概念页 PSA**：本库另存在一页仅 1 处引用的种子页 （引 Handbook of Adhesive Technology Full Report），与本页主题重叠，**页面合并 / 去重待决** 。
+- 上述定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+
+--- [[电致变色 Electrochromic]]  (5 句)
+   • **Electrochromism（电致变色）** is colour change induced by an **applied voltage**（通电变色）— one of the chromic classes classified **by what induces the colour change**, alongside photochromic（light）and thermochromic（heat）（源：Smart Textiles and Their Applications）. It is counted among the **four commercialised chromic phenomena** — photochromism, thermochromism, **electrochromism**, ionochromism（源：Chromic Phenomena Introduction and Reversible Colour Change）— and among the **seven chromic mechanisms** name
+   • **Voltage-driven switching.** Colour appears/changes when a voltage is applied across the electrochromic element（源：Smart Textiles and Their Applications）.
+- **Intrinsic reversibility.** Removal of the stimulus returns the colour to its resting state, because the original state is the more stable one（源：Smart Fabric Textiles Recent Advances and Challenges）.
+- **Textile integration route.** The GRID report groups **woven optical fibre** and **electrochromic** as the two routes to a **textile flexib
+   • **Powered indicators are a negative result for disposables.** The smart-textile community's own verdict is that **electrochromic routes are blocked on lifetime / reliability**; the source reads this as a warning to anyone proposing a **powered or electrically-switched indicator on a disposable**, and points to the **passive, power-free alternative** — US20070270773A1 Thermochromic Wetness Indicator（源：Smart Textiles and Their Applications）.
+- **Family context**: it sits among the vault's chromic 
+   • No electrochromic material system（e.g. WO₃ / conducting polymer）、switching voltage、contrast ratio, or cycle-life figure appears in the vault .
+- No cost figure is given — the source's "blocked" verdict is qualitative, not a number（源：Smart Textiles and Their Applications）.
+- Whether the GRID woven-optical-fibre display route overlaps the electrochromic route is not disambiguated in the vault（源：Smart Textile Visual Perception (GRID)）.
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (5 句)
+   • 1. **Global Trends for Polypropylene** — M. J. Balow
+2. **Polypropylene: Structure, Properties, Manufacturing Processes, and Applications** — W. J. Kissel, J. H. Han, J. A. Meyer
+3. **Chemical Coupling Agents for Filled and Grafted Polypropylene Composites** — D. Roberts, R. C. Constable
+4. *Stabilization of Flame-Retarded Polypropylene* — R. E. Lee, D. Hallenbeck, J. Likens
+5. *Recycling of Polypropylene and Its Blends: Economic and Technology Aspects* — A. A. Adewole, M. D. Wolkowicz
+6. *Impac
+   • Chapter 2 is the one relevant to this vault; its internal structure is: 2.1 Types of PP (homopolymer / random copolymer / impact copolymers), 2.2 Tacticity, 2.3 Molecular weight and MWD, 2.4 Mechanical properties, 2.5 Rheology, 2.6 Morphology, 2.7 Thermal analysis, 2.8 Manufacturing processes (bulk-slurry and gas-phase technology, reactor systems, Amoco gas-phase), 2.9 Applications (fibres and fabrics, strapping, film, sheet/thermoforming, injection moulding, blow moulding, automotive).
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (5 句)
+   • An **application chapter** (区域给药). Its organizing claim is that systemic therapy fails by dilution and toxicity, so the drug should be delivered where its whole pharmacological effect is wanted: "Localized drug delivery is defined as a method of delivering a drug (for its local action) from a dosage form to a particular site in the biological system where its entire pharmacological effect is desired" (L110). Stimuli-responsiveness is **peripheral** here — it enters mainly through thermally induc
+   • Verified against the source's own notes: compared with Chapter 11, this chapter shifts from a **mechanistic lens** (mesh size ξ, diffusion/chemical/swelling-controlled release) to an **application lens** (biodegradable carriers across five disease areas); stimuli-responsiveness is core to Ch.11 but peripheral here, appearing only through thermally induced gelling and environmentally sensitive hydrogels (L1760–1777, L1958–1966). The source also notes that Ch.12's thermally induced gelling and ion
+   • 1. **SAP as a dry hydrogel.** The imbibition range "10 to 20% up to thousands of times their dry weight" (L1911–1913) and the chemical tie-point vs physical entanglement cross-link distinction (L1914) frame cross-link density ↔ swelling ratio ↔ retention-under-load mapping. 中文：SAP 可按水凝胶网络科学同一框架建模。
+2. **Environmentally sensitive gels for indicators.** Response variables are swelling, network structure, permeability and mechanical strength against pH, ionic strength, temperature, fields, glucose (
+   • This extraction does **not** state an edition year, only the book title and edition ("Smart Polymers: Applications in Biotechnology and Biomedicine, 2nd Ed."). Per the fallback rule,  is set to 0. Sibling chapters of the same title state CRC Press 2008, so 2008 is probable but not citable from this file — [待验证].
+- All quantitative data are line-cited to the extracted body L1–L1998; printed page numbers are unavailable — [待验证].
+- Cross-chapter claims about Ch.11/Ch.13 come from this file's own TO
+

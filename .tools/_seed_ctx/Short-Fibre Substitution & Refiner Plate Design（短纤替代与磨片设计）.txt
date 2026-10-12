@@ -1,0 +1,97 @@
+# SEED: Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 222 页，313 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Three-Way SAP Design Comparison（三方案 SAP 设计仿真对比）]]  (6 句)
+   • 本批**SAP 芯体设计的仿真对照实验（R&D Design + Simulation Study — Update）**：在总添加量严格相同（15 g）的前提下，同时隔离两个问题——**分区布点是否优于均匀铺展**、以及**把混掺中的快吸组分从 NR-610S 换成 KC511 是否改变结论**。是本库回答「芯体 SAP 怎么分布、混掺怎么配」的量化依据。
+   • **Design A（分区 · NR-610S / NR-950 混掺）**：面层 SAP1 = KC 511；poly = 40% NR-610S + 60% NR-950。**Design C（分区 · KC 511 / NR-950 混掺，NEW）**：面层 SAP1 = KC 511；poly = 40% KC 511 + 60% NR-950。**Design B（单牌号 · KC 511 均布）**：liner = KC 511，poly = 100% KC 511，**按面积均布、不做摄入靶向**。A 与 C 共用完全相同的 SAP1/面层分配与分区图形（沿用前一份 deck 的 insult-targeted zoning），仅把 poly 侧快吸组分由 NR-610S 换成 KC 511；B 按区分面积铺展、不做靶向。因此该设计集一次性隔离两个问题：**分区是否胜过均布**，以及**更换快吸组分是否改变结论**。
+   • 仿真结果（第 3 次 insult 后的分区饱和度，% 分区容量占用）：**Design C 领先**——C 的最差分区（Back）峰值 **67%**，低于 A 的 **76%**；**Design B（单牌号）仍在 Crotch 分区溢出，达 129%**。原因是 **KC511 在 AUL（18.4 vs 12.1 g/g）与 GBP（24 vs 6）两项上均优于 NR-610S**，把 KC511 换进混掺后各处容量裕度都被抬高。**明确 caveat**：该容量预算模型**不评摄入速度**——NR-610S 更快的 vortex（19 s vs KC511 的 29 s）是这张图看不见的真实优势。
+   • 下一步：① 对 A 与 C 原型做台架 cGAM-LTD 摄入时序测试（这是容量模型无法裁决的唯一变量）；② 若 C 的摄入时间仍在规格内则优先 C（容量裕度更好、渗透更好、少一个 SKU 要认证）；③ 以**混合实测**而非线性平均重新确认 KC511 + NR-950 的混掺 AUL/GBP（与原 NR-610S/NR-950 混掺同样的 caveat）；④ Design B（单牌号 KC511）**仅作为成本备选保留**——其裆部溢出 129% 在该 insult 节奏下是**漏尿风险信号**，与混掺选择无关；⑤ 在最终锁定 gsm 前，把三个设计都按 **4–5 次 insult/wear（过夜场景）**重跑。
+
+--- [[芯体通道花型设计]]  (5 句)
+   • **核心通道花型（Core Channel Pattern）** is the deliberate forming of **channels / grooves and bosses** into the absorbent core; it is named in the vault as "the design object of the channels and bosses"（通道与凸台的设计对象）of the patterned SAP-core forming drum（源：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓））。It sits within the core-differentiation手段 list — **分区密度设计、毛细梯度设计、芯体通道花型设计** — used to raise SAP utilisation rather than to swap materials（源：ActivTech Spring Portfolio 2026（ActivTech 春季组合评审））。定义待补（引用来源未给出几何定义
+   • **Design constraints (list-level).** (1) Channels should be lengthened, not widened（源：COCO V6 Trial Round-2 Review（录音纪要 2026-09-16））。(2) Reducing SAP while enlarging the open-groove area does **not** pay off — the saved SAP is returned as deteriorated cradle intake at the 2nd/3rd insult（源：COCO V6 Trial Round-2 Review（录音纪要 2026-09-16））。(3) Structural channels raise utilisation more than a higher-GBP SAP grade does, so the GBP target is a downstream of structure（源：SAP Grade Strategy for Composite 
+   • **Related goal — shape stability.** Channel/pattern design shares its objective with shape-stability (SAF/RCF) and glue-free (ultrasonic bonding): **both exist to solve 起坨断层 (clumping / bulk failure)**（源：Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析））。
+   • This is a **direct REL/ultra-thin-core design theme**: raising real SAP utilisation (reported elsewhere as only 30–40%) by structure rather than by material swap（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+- It is the **design object of the patterned SAP-core forming drum**, so pattern design is coupled to the Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） hardware and its forming-drum space / 3-D SAP-array engineering gap（源：V6 Product Design & Process Optimization Workshop（V
+
+--- [[交联密度 Crosslink Density]]  (4 句)
+   • **交联密度 ν_c** is the density of cross-link junction points in a three-dimensional polymer network, and it is the **pivotal control parameter** of SAP / hydrogel design（源：Acrylic-Based Superabsorbent Polymers）。Its governing relationship is **Q_max ∝ 1/ν_c** — swelling extent falls as cross-link density (and the chain-elasticity constraint) rises（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。For cellulose derivatives, **cross-link density fixes the swelling ceiling while DS fixes the solubility
+   • **Two opposing structural levers.** Hydrophilic-group content ↑ ⇒ swelling ↑; cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓ — the same trade-off that governs SAP design（源：Hydrogels in Regenerative Medicine）。
+   • **Two orthogonal design axes.** The chemical composition of the polymer matrix determines the **type** of stimulus the hydrogel responds to; the **extent** of swelling is limited by the elasticity of the network — i.e. by ν_c（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。Higher UV intensity shortens chain length, lowering both response time and mechanical strength（源：Smart Polymers Ch14 Hydrogels in Microfluidics）。
+   • **It is the枢纽 of the SAP formulation playbook.** The REL project's core material SAP is treated with **cross-link density as the pivotal parameter** connecting monomer system, initiation/cross-linking route, absorption kinetics (diffusion + swelling coupling) and green/structured 2024 strategies（源：Acrylic-Based Superabsorbent Polymers）。
+- **Simulation interface.** Cross-link density feeds directly into the **Flory-Rehner swelling model** as a parameter interface（源：Acrylic-Based Superabsorbent Po
+
+--- [[导电纱线 Conductive Yarn]]  (4 句)
+   • **导电纱线（conductive yarn）** is a yarn that carries an electrical function — used in e-textiles as **wiring and/or as the sensing transducer**. In the vault's one hygiene-grade application it is the **conductive element of an electronic wetness-detection system**: the conductive materials listed are **conductive threads, conductive tape, conductive rubber, conductive wires**, with the preferred element being a **silver-plated conductive thread at 60 ohms/meter**（源：US11013641 Garment for Detecting A
+   • **The vault's hygiene use-case is a conductive-thread wetness sensor.** K-C's leakage-detection garment uses a silver-plated conductive thread (60 Ω/m) + controller + ADC read-out to answer "is it wet / did it leak" — but the claimed article is the **garment**, not the absorbent article, i.e. the yarn sits on an over-garment rather than in the core（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **Electronic vs chromic branch.** This conductive-thread route is the **electronic**
+   • **No hygiene-grade conductive-yarn spec** (wash durability under urine, skin contact, silver-plating biocompatibility) appears in the read sources .
+- The textile resistivity range spans ~4 orders of magnitude (0.5 Ω/m to kΩ/m); **no selection criterion for a hygiene sensor** is given .
+- Cost and supply of silver-plated thread for a disposable are **not** addressed .
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (4 句)
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+   • Assessment: dye-modification and spinneret design are the best-supported arguments (reaction chemistry plus computable parameters); the rheology correlations and unpublished data are plausible but lack public verification; flame retardance and micro-structure sections lean on producer case studies with weaker generality. Many empirical relations are flagged "unpublished" and carry no error bounds (pp.363, 396).
+   • **This is the most directly applicable chapter in the whole batch for the owner's scope** — specifically sections 14.6 (conjugated microfibre) and 14.7 (shaped cross-sections), which are the industrial origin of today's topsheet and fine-denier nonwoven fibre design.
+   • Chapter 14 has no content on absorbency, SAP or absorbent-core design.
+
+--- [[Specific Air Volume]]  (3 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+
+--- [[热熔胶 Hot Melt Adhesive]]  (3 句)
+   • **6. 热负荷是绑定约束：** 含热敏指示剂/透气膜的场景下，施胶温度窗口由两侧硬约束夹定（膜孔塌陷 / 模头压力），冷辊是位移上限的手段（源：BM Indicator Design — Viscosity & Cost（便指示·流变与成本））。
+   • **最常用胶种**：Hot melt（EVA/APAO/polyamide/TPU/curing hot melt）用于**芯体复合、SMS 复合、湿巾封口**（源：Adhesive Handbook）。
+- **施胶花型是剥离强度的最大杠杆**：效应量排序 **Nozzle–OP 14.020（p 0.00000）> Primary Substrate 4.376（p 0.00004）> Bonding 3.632（p 0.00023）> Add-On 1.304（p 0.00548）> Adhesive Type（p 0.04965）**；**Minibead 花型剥离强度远高于其他**，Summit 最低（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18））。
+- **施胶基材**：**胶应施加在导流层上以获得高剥离强度** —— Surge 均值 **408.19**（Std Error 29.750）vs Liner **230.09**（Std Error 26.434），未共享字母即统计显著（源：HSB
+   • **提供正文摘录的库内页面**
+- Handbook of Adhesive Technology Full Report
+- Hot-Melt Slot Coating（热熔狭缝涂布）
+- US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+- BM Urine Indicator Concept（尿+便双指示概念）
+- Stretch-Triggered Colour Indicator for Diaper Pant Side Panels
+- HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）
+
+--- [[离子强度 Ionic Strength]]  (3 句)
+   • **Ionic surface cross-linking is a design lever *and* a failure mode.** Modern SAP practice uses a cation (Al³⁺) to ionically surface-crosslink polyacrylic-acid carboxyls, which raises gel strength, SFC/permeability and reduces gel blocking; the Al-crosslinked shell is only **partly reversible and is sensitive to pH and ionic strength**（源：Ancient Organic Dyes and Pigments Chemistry）。
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+   • Hydrogel-based Superabsorbent Polymers
+- Ancient Organic Dyes and Pigments Chemistry
+- Hydrogels in Regenerative Medicine
+- Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure
+- Smart Polymers Ch14 Hydrogels in Microfluidics
+- BM Indicator Design — Viscosity & Cost（便指示·流变与成本）
+
+--- [[An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks]]  (3 句)
+   • Provides the atomistic, quantum-chemical proof that trans→cis isomerization of the 4-methylstilbene unit is the sole driver of P4 shell collapse and vanillin release — bridging molecular design to macro device performance.
+（以原子级量子化学计算证明 4-甲基芪单元的 trans→cis 异构是 P4 壳层塌缩与香兰素释放的唯一驱动，桥接分子设计与宏观器件性能。）
+   • The structure–photoresponse causal chain of photoactive main-chain LCPs is validated at the atomic level: UV-induced trans→cis isomerization of the 4-methylstilbene unit causes large-scale backbone contraction, driving shell morphologic collapse and vanillin release.（光敏主链液晶聚合物的"结构–光响应"因果链在原子级被验证：UV 诱导的 trans→cis 异构引发大尺度主链收缩，驱动壳层塌缩与释放。）
+- cis destroys liquid crystallinity: trans-stilbene is extended/rod-like and LC-capable; cis loses the linear form required for LC, hence isothermal isotropizatio
+   • trans→cis isomerization is the sole cause of P4 shell collapse/release (theory fully consistent with experiment) — support page: Liquid Crystalline Polymers Smart Applications.
+- Isophthaloyl co-unit is a deliberate low-Tg / amorphous-design lever — see Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene and Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester.
+
+--- [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]]  (3 句)
+   • 1. The document records a single, dated change: the old wording **"do not start projects that replace fluff pulp / SAP"** becomes **"do not start projects that replace fluff pulp / SAP *as an end material*; intermediate, carrier and synergist roles are not subject to this restriction"**, effective **2026-09-05**.（修订：旧表述「不启动替代绒毛浆/SAP 项目」→ 新表述「不启动以终端材料身份替代绒毛浆/SAP 的项目；中间体/载体/增效角色不受此限」，生效日 2026-09-05。）
+2. The stated reason is a case, not a principle. The Baikerui PEG displacement intermediate（方向四）re
+   • **The red line is about role, not about material.** A statement of the form "BNC may not replace X" is now incomplete; the admissible form is "BNC may not replace X *as an end material*". —— 支撑页：BNC Application Red Line（BNC 应用红线）
+- **A red line can be defeated by a missing axis, not only by bad judgement.** The failure mode recorded here is a classification axis that could not represent the winning route. —— 支撑页：Pain-Point Backward Derivation（痛点倒推法）
+- **The revision does not soften the end-mater
+   • Concepts 概念：BNC Application Red Line（BNC 应用红线）、Pain-Point Backward Derivation（痛点倒推法）、BNC-PEG 母粒（干态可复水中介体）
+- Sources 源：Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）（同族文档）、BNC 卫生用品技术可行性评估（访前尽调详细版）、BNC 卫品技术可行性评估（Slide 大纲版，20260824）
+- Entities 实体：海南拜瑞科（案例对象）
+

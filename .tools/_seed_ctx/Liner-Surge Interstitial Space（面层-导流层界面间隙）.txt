@@ -1,0 +1,119 @@
+# SEED: Liner-Surge Interstitial Space（面层-导流层界面间隙）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 97 页，151 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[孔隙率 Porosity]]  (6 句)
+   • 溶胀态孔隙率由 qw/qv 计算孔分率：$P_s = 1 - q_v [1 + \rho(q_w - 1)/d_1]^{-1}$（Eq 9.1）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 冷冻凝胶法中由初始单体浓度 $c_0$ 与制备温度 Tprep 设定孔隙率：冰分率 $f_{ice} = 1 - c_0/c$（Eq 9.4）（源：Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers）。
+- 工程口径下，孔隙率是压缩层属性计算的一个输出项（与 Thickness、Permeability、Volumetric Strain、Void Volume 并列，随载荷而变）（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））；：引用页未给出该输出的公式来源。
+   • **3. 压缩 → 孔隙的换算数据流（TTM-00038）：** 多循环压缩得到零载厚度与各压力点厚度（取稳态/末循环以消除塑性形变）→ 输入 Compressed Layer Properties Calculator（Pore Space Modulus、Zero-load thickness、Applied Load、Fiber Density、Fiber Radius）→ 逐压力点同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+   • **"高 SAP 含量反而易侧漏"** —— 溶胀降孔隙率 → 降渗透率 → 后续液体到不了深层；⚠️ 本页摘录标注此为**模型推论，无实验验证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）；Gel Blocking（凝胶阻塞））。
+- **软化 = VV 损失**：surge 做得更软（pore space modulus 降低），同一应力下 void volume 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）；「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」（源：TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑））。
+- **多循环是核心口径**：模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环（源：TTM-00038 Pore Space Modulus to V
+   • **收敛性尚未确认**：孔隙率下限从 0.347 降到 0.284，源文建议再试 60×24 网格 —— 说明尚未收敛；「细网格结果更可信」是源文判断，**无实验佐证**（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **v9 不含反渗**（不含二次加载后的反渗），故本页结论**不能外推到回渗**（源：Numerical Diffusion & Grid Convergence（数值扩散与网格收敛））。
+- **渗透率下降倍数与实测对应关系未明确**：「渗透率下降约 2–5 倍」与细网格 20.3%（≈5×）、粗网格 44.6%（≈2.2×）的对应关系源文未明确（源：2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告））。
+- **自由液体最终 0.0 mL（细网格）** 是否意味着全部被 SAP 吸收？源文未说明 SAP 是否已饱和（源：2D Absorption Model v9 
+
+--- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]  (6 句)
+   • 本批**面层-导流层（liner-surge）界面附着强度的 DOE 结果报告（2025-11-18）**：用剥离强度（peel strength）作为界面间隙的代理指标，量化施胶花型、施胶基材、是否压合、施胶量与胶型五个因子的影响大小。是本库回答「界面间隙怎么降、先动哪个变量」的实验依据。
+   • 背景给出方法学桥梁：**剥离强度与面层-导流层之间的界面间隙（interstitial space）量相关——剥离强度越高，界面间隙越小**。假设（**明确标注"尚待验证"**）：界面间隙更小的产品（高剥离强度）会滞留更少间隙液，因而回渗更低。
+   • **结论（如何减小界面间隙）**：① **考虑把施胶花型从 Summit 改为 Signature 或 CF Swirl**——其影响**可能大于面层-导流层压花（liner-surge embossing）**（待 MicroCT 结果确认）；**注意：Summit 的偏低可能是花型质量不达标的异常**，历史上 Summit 的粘合强度 ≥ Signature。② **继续把胶施加在导流层上**。③ **可考虑提高施胶量（add-on），但影响很可能很小**。④ **胶型大概率不值得更换**，除非 microCT 测试中观察到异常。
+   • **界面间隙是可测量的（以剥离强度为代理），且施胶花型是其最大杠杆** —— 支撑页：Liner-Surge Interstitial Space（面层-导流层界面间隙）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **"间隙小 → 回渗低"仍是未验证假设，实验只证明了前半段** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **施胶花型的剥离强度变异可能是回渗数据波动的一个来源** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+- **压合对回渗是净正效应，尽管它同时制造更小的滞液口袋——这是被量化的权衡** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **胶型是最小杠杆（p=0.0496），不值得优先投入** —— 支撑页：汉高、Rextac（APAO 热熔胶）
+
+--- [[TTM-00038 Compression Test for Absorbent（吸收体压缩测试）]]  (5 句)
+   • TTM-00038 是 KC 研发侧的**吸收复合材料压缩载荷—厚度曲线**测试方法，其真正价值不在曲线本身，而在附录 9.1 给出的**孔隙空间模量（Pore Space Modulus, PSM）反演流程**——把压缩曲线换算成可供吸收/力学建模使用的孔隙本构参数。
+   • 附录 9.1「Establishing Pore Space Modulus」给出完整反演流程：把「应力—修正后间距」两列数据存为 ，用 **Cda.exe（Exponential Kernel Compliance Distribution Program）** 做指数核柔量分布反卷积；Setup 中 Lower Edge 取极小值（<<0）、First Order、Elements = 1000、Smoothing = 0.001，Upper Edge 由同类材料经验值起步或先取 ~10；运行后 RMSQ 应较低表示拟合良好；**L(inf-stress) 与 delta-L 相加即零载荷厚度**（AFEA 重要输入）。随后经 OutputVars 输入**质量（g）、面积（cm²）、固相密度（g/cc，注意是颗粒与纤维的平均密度，含已吸收的液体）**；应力范围典型为近零至 **10 kPa**；不建议勾选 "Use Porosity Approximation"。最终在  中取得关键 AFEA 数据：**第 1 列为压力（kPa），第 2 列为调和平均孔隙空间模量 hpmsm（h
+   • **压缩曲线本身不是目的，PSM 与零载荷厚度才是建模输入** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **TTM 与 STM 有明确分工：TTM 研发用、STM 验收与放行用** —— 支撑页：芯体测试方法与验收基准（STM）
+- **PSM 反演是反卷积问题，Upper Edge 的选取直接影响真假峰** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **固相密度须取含液平均密度，是 VV 与 PSM 互相换算的关键接口** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **盐水浓度可上探至 20%，远超常规 0.9% 口径** —— 支撑页：尿液模拟液（Urine Analog）
+- **0.05 psi（VV 法）与 10–20 kPa（压缩法）是两套相差约两个数量级的压力尺度** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量
+   • 概念：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、芯体测试方法与验收基准（STM）、尿液模拟液（Urine Analog）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：Void Volume 与压缩模量两条孔隙表征路线对比
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (5 句)
+   • **测试本身测什么**：TTM-00038 / TTM-00437（Pore Space Modulus，孔隙模量）测量吸收芯体与导入系统材料在多次压缩循环后的**回弹性（resiliency）**；直接输出是**厚度随压力的函数曲线 Thickness as f(Pressure)**，VV 由后处理换算得到。典型加载为**多循环压缩（如 3-Cycle）**，HPP 参考样品如 85 gsm，加载至 **10 kPa**。用途是吸收系统建模输入，以及评估材料变更对 VV 的影响。
+   • **换算数据流**：
+1. **原始数据**：多循环压缩得到零载厚度（cm）与各压力点厚度 h(P)（多循环取**稳态/末循环**，以消除塑性形变）。
+2. **输入计算器**（Compressed Layer Properties Calculator）五件套：Pore Space Modulus（由曲线拟合，与 basis weight、fiber density 一同输入）、Zero-load thickness（cm）、Applied Load（kPa）、Fiber Density（g/cm³）、Fiber Radius（μm）。
+3. **逐压力点输出**：K-C 官方算例在 2.0 kPa 下给出 Porosity 0.9514、Thickness 0.137 cm、Volumetric Strain −0.707、**Void Volume 0.130 cm³/cm²**。即同一台压缩数据换算后同时输出 Thickness、Permeability、Strain、Available Void Volume、Porosity 随载荷的函数。
+4. **两种基准**：面积基准
+   • **三条解读要点**：① **软化 = VV 损失**——surge 做得更软（pore space modulus 降低），同一应力下 VV 直接下降（K-C 案例：应力 1.5 → 2.73 kPa，VV 从 ~0.22 掉到 ~0.12 cm³/cm²）。② **多循环是核心**——模拟 4 次尿次（体重 0.5–1 kPa 反复加载），看的是**末循环残余厚度**而非首循环；原文警句：「首次尿后 void volume 崩了，什么纤维工程都救不了第二、三次」。③ **配套测试**——Gel Bed Permeability（SAP 侧）、Composite Porosity（复合芯体）、开发中的 Functional Void Volume，共同构成 VV 测试矩阵。
+   • **TTM-00038 输出的是力学曲线，VV 是后处理产物** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **建模端用面积基准（cm³/cm²），工程端用质量基准（cm³/g），两者除以 gsm 即可互换** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **多循环看末循环残余厚度，首循环不代表使用寿命** —— 支撑页：ADL（导流层）
+- **软化 = VV 损失，是 surge/ADL 设计的核心权衡** —— 支撑页：ADL（导流层）
+- **REL 的 VV 目标是 80–117 cm³/g @ 0.5 kPa，实现路径是降堆密度** —— 支撑页：REL增强层、PTT（聚对苯二甲酸丙二醇酯）、PVA纤维（湿强骨架）
+- **VV 测试矩阵含 Gel Bed Permeability / Composite Porosity / PSM / Functional VV（WIP）** —— 支撑页：SAP性能指标（CRC AUL GBP Vort
+
+--- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]  (3 句)
+   • 前瞻部分指向 **ActivTech Hybrid**：该芯体从未被用于如此严苛的超低回渗场景，可能尚未充分优化；早期数据显示 AT hybrid 回渗偏高，但该代码缺少对 ATACAMA 回渗改善至关重要的**面层-导流层压花（liner-surge embossing）**。对比表给出 Nov 2024 GRIFFIN HUT 产品的两个代码：SAM/Fluff（17 gsm tissue 包裹、12 gsm SB 未印花面层、Shalag SS7CT5H80 导流层、有压花）vs AT Hybrid（12 gsm dSB 包裹、12 gsm SB 印花面层、无压花）；芯体由 ADL 生产、成品由 GML 生产，在 GADT 实验室测试。
+   • **回渗是系统性残液问题，不是单点材料问题** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- **面层-导流层压花（LSE）是 ATACAMA+ 回渗改善的关键工艺，AT Hybrid 早期数据不可直接对比** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **导流层优化与摄入性能存在结构性互斥，必须同轮验证** —— 支撑页：Intake System（摄入系统）、Shalag（Shalag 导流层与面层材料）
+- **液体积聚点会随方案迭代迁移（surge → liner），每轮须重新定位** —— 支撑页：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）
+   • 概念：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Rewet Test（回渗测试）、Intake System（摄入系统）、Liner-Surge Embossing（面层-导流层压花）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、IPC BCC OI Portfolio（开放创新项目组合）
+- 实体：GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）、Shalag（Shalag 导流层与面层材料）、Fitesa（Fitesa 非织造布）
+- 对比：（本页未提供可直接落表的成本/供应链数据；竞品回渗对标见下节结论）
+
+--- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]  (3 句)
+   • 本库**"面层—导流层界面"这一层的施胶工艺与回渗假设的完整试验设计**：它把「为什么要在这一层施胶」（提升连接性 → 降回渗）与「施胶可能带来的两个反作用」（堵排液通道、压扁导流层）明确写成四条可证伪的假设，并配一套可直接上机的**流量—泵速—喷嘴速度计算表**。与 Liner-Surge Embossing（面层-导流层压花） 是同一界面的两种结合机制（压花 vs 施胶）。
+   • 派生概念：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- 同界面另一机制：Liner-Surge Embossing（面层-导流层压花）（压花 vs 施胶）
+- 供应商：汉高（Henkel 5402 / DM5402U）、Rextac（APAO 热熔胶）（RT-8723）
+- 基材：Resilient Surge（PET 回弹导流层）（CT5 = 100% PET）
+- 判读前提：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（本试验的回渗读数须先声明是哪一个口径）
+   • "Higher coverage will yield lower reset because of higher liner-surge connection; but more adhesive may also block drainage"（施胶花型假设）
+- "Higher add-on yield higher connectivity, thus lower rewet"（添加量假设）
+- "Surface Energy will impact rewet…may need more definition"（胶种假设）
+- "Liner-surge connectivity, but also compresses surge so could help or hurt"（压合花型假设）
+- "Testing Plan | Peel testing; Capillarity, MicroCT"（Sheet1 右栏）
+- "Tweak Run Order (Adh Type, Pattern, Bonder, Then Add-on)"（运行顺序策略：先胶种 → 花型 → 
+
+--- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]  (3 句)
+   • **干爽域（Dryness）**：Surge（Resilient Surge：MOJAVE / REXHA / VONN；ATACAMA+ CT5）→ Liner-Surge Embossing（LSE）→ Capillary Network（ATACAMA+ / BUFF BABY / ARTEMIS）→ Liner（Resilient + Converting / Hollow Bico / Capillary Surge）→ Rewet Fundamentals；**未规划（not yet planned）**：Surge Liner B SB Liners、BUFF BABY ARTEMIS、Core Wrapsheet GRIFFIN SMS、ActivTech Hybrid、以及 **Rewet Fundamentals 的一致性与变异降低（Depend）+ 统一方法**。
+   • **管线按性能域组织，三档时点（Commercial / 2025–2026 / 2027+）。** —— 支撑页：（无，登记于本页）
+- **导流层换代：MOJAVE 家族 → 中空双组分，主因是降克重降本 + 改善加工，而非性能。** —— 支撑页：ADL（导流层）
+- **当前回渗最优导流层是 Depend CT5（ATACAMA+），但有加工权衡。** —— 支撑页：ADL（导流层）
+- **成人护理下一步在导流层之外；MicroCT 显示面层持液多于导流层。** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **六条假设（面层粗纤维 / 胶替代 LSE / 收窄孔径分布 / SMS 包裹层嫌疑 / 卷曲纤维+绒毛浆 / APAC SAP）。** —— 支撑页：ADL（导流层）、Liner-Surge Embossing（面层-导流层压花）
+- **DOE：Total SAM 显著（P≈0.000）、Surge 不显著（P≈0.523）⇒ 支持转向芯体。** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高
+   • 概念：ADL（导流层）、Liner-Surge Embossing（面层-导流层压花）、Residual Fluid & Pore Stranding（残液与孔隙滞留）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、In-line 3D Nonwoven Formation（在线三维成形非织造）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- 项目：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]  (3 句)
+   • 文件结构统一：每张一页纸均含 Consumer Insight & Benefit、Feature / Technical Solution、Success Criteria、Test Results、Timeline、TRL Status 六段。**代表性页面**：① **DOS Bodyside Material（MD/CD 对花分区）**沿用 DualZone™ 概念，在小便区/大便区做对花分区图案，依赖供应商对花能力（Vietnam BlueZone 为先例），2026 年 Q2–Q3 需建立或改造 IPC 对花能力。② **DAM Liner（CD 分区 + 边缘液体坝）**已在 China T6 Natural Pro 上完成对照测试，Phase 1 于 2025 上市，Phase 3 预计 2027。③ **AC4 for urine / ZENDOS**：前者针对 Textor surge 处理尿液回渗偏高的短板（提高克重补空体积、提高旦尼尔降残留液）；后者把现有 ZEN 配方「超配」加入抗粪便酶成分。④ **Hollow Bico / MOAB Surge**：围绕 
+   • **摄入层的一切收益都来自「受压下仍保有的空体积」——压花、克重、纤维截面、卷曲风格是同一变量的不同表达** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **LSE 图案不是视觉装饰：bond 面积越大、bond 间距越小 → 空体积越小 → 摄入变慢、回渗升高** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **柔软与干爽此消彼长：细旦带来软感，也带来毛细残留液（回渗）** —— 支撑页：热风粘合无纺布
+- **可持续性存在多条并行且互不替代的跑道：无锑 / 无塑（PLA、Lyocell）/ 天然纤维 / 微生物组认证** —— 支撑页：无锑聚酯、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • 概念 Concept：Liner-Surge Embossing（面层-导流层压花）（本页派生）、分区密度设计、ATB双梳理面层（Dual-Card Topsheet）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、无锑聚酯、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 实体 Entity：延江（Yanjan）（原文提及 YanJan 3D topical surge）
+- 组合 Portfolio：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]  (3 句)
+   • 本批**面层-导流层（liner-surge）层压件的厚度与密度实测数据表**：在材料固定（12 gsm 面层 + 80 gsm 导流层）的前提下，按三档施胶量测 22 个代码的六点厚度并推算密度。是本库回答「界面施胶量如何改变层压密度（进而可能影响回渗）」的原始数据集。
+   • **界面施胶量在本数据集中不是密度的主导变量，厚度才是** —— 支撑页：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **层压密度是本批可直接量化、可复现的界面状态指标** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **厚度测量本身存在点间离散，均值比较须配合离散度** —— 支撑页：Rewet Measurement Variability（回渗测试变异性）
+   • 概念：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）、Liner-Surge Embossing（面层-导流层压花）、Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）、Rewet Measurement Variability（回渗测试变异性）、Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- 实体：（本页未落供应商）
+- 对比：（本页为单条件数据集，不构成对比页）
+
+--- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]  (3 句)
+   • 毛细压力与解吸能出现"反直觉"组合：AD surge 的**特征毛细压力略高于** Depend surge，但**解吸能更低**；原因是 **AD surge 的克重显著更低**（表中 AD 49.95 gsm vs Depend 76.97 gsm）。层压剥离：AD 的两种施胶花型（Slot Coat、Fine Spiral）**剥离峰值载荷都高于** Depend 层压，且剥离**平滑**；Depend 层压呈**粘滑（stick/slip）**剥离行为，说明 AD 的界面间隙（interfacial space）更小。
+   • 四条可执行建议：① **降低 Depend 面层的润湿性**（reduce wettability）→ 降低解吸能 → 面层更干、回渗更少；② 追问 P&G 非织造布更高的孔径单分散性是否带来更好的孔隙连通性与更低回渗（明确标为待验证问题）；③ **降低 Depend surge 克重**同时**保持摄入速度**，以减少滞留在 surge 中的液体；④ **用其他手段减小面层/导流层界面间隙**——当前粘合方式仍有改善空间。同时记录一项权衡：**压力粘合（pressure bonding）面层与导流层可改善回渗，代价是孔隙体积与渗透率下降**。
+   • **孔径"均值"不是回渗的解释变量，孔径"分布宽度"与克重才是** —— 支撑页：Pore Size Distribution Monodispersity（孔径分布单分散性）
+- **解吸能由克重驱动，而非毛细压力——降克重是本批最直接的成本与性能双赢杠杆** —— 支撑页：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- **界面间隙是回渗的独立变量：粘滑剥离 = 更大界面间隙** —— 支撑页：Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）、Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+- **任何界面强化方案都要付出孔隙体积与渗透率的代价** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+

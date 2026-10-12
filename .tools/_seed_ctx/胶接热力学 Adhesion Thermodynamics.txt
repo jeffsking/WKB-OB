@@ -1,0 +1,108 @@
+# SEED: 胶接热力学 Adhesion Thermodynamics
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Book Review Handbook of Adhesion by Packham
+#
+# 全库正文命中 39 页，51 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[断裂力学 Fracture Mechanics]]  (4 句)
+   • **定义待补（引用来源未给出明确定义）** —— 两份引用来源都只把它列为胶接科学的**覆盖主题**，未给出本库口径的定义：断裂力学是胶接参考书 coverage 的一部分（与胶接热力学、表面力、润湿、胶接理论、定量测量并列）（源：Book Review Handbook of Adhesion by Packham）。
+   • Traceable operational content 可溯源的操作内容: in the adhesion literature it appears as the **fracture-energy formalism behind joint strength** — peel strength decomposed into an intrinsic fracture energy and a viscoelastic dissipation term, （源：Adhesive Handbook Part 2 Fundamental Aspects）.
+   • **粘弹性耗散而非界面热力学主导强度。** , and "the value of ψ is usually far higher than that of E and the energy dissipated can then be considered as the major contribution to the adhesion strength G"（源：Adhesive Handbook Part 2 Fundamental Aspects）. ⇒ peel rate 与温度是主变量。
+- **柔性胶层通过扩大断裂过程区降峰应力。** "Flexible or semirigid adhesives produce joints having higher short-term strength and fracture toughness compared to rigid adhesives."；柔性胶层扩展 fracture process zone 以降低峰值应力（源：Adhesive Handbook Part 2 Fundamental Aspects / 
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[Book Review Handbook of Adhesion by Packham]]  (4 句)
+   • **Handbook of Adhesion（Packham 第2版）的书评**——250+ 篇短文、60+ 位专家撰写的胶接科学与技术最全面参考，覆盖胶接热力学/表面力/润湿/断裂力学/胶接理论/定量测量/粘合胶接/密封胶/复合材料/涂料/橡胶/环境可持续性，是学生教科书与研究专著之间的桥梁。
+   • **Handbook of Adhesion 简介**：David E. Packham（ed.），John Wiley & Sons, Chichester, UK, 2005，liv+672 页，$270，ISBN 0-471-80874-1。
+- **胶接定义**：粘附是微观分子力作用下的表面相互作用与宏观力学性能（剪切强度、剥离强度、粘性）的多尺度现象。
+- **覆盖领域**：基础科学（物理、化学、生物）、材料科学与工程、医学；工业应用包括复合材料、纺织品、印刷、涂料等。
+- **内容范围**：250+ 篇短文，60+ 位专家撰写；交叉引用、自包含；覆盖胶接热力学、表面力、润湿、聚合物、断裂力学、胶接理论、定量测量、粘合胶接、密封胶/沥青、焊接与结构工程、复合材料/涂料/橡胶、环境考量/可持续性/可再生原料。
+- **读者定位**：从学生到专业研究人员的桥梁——填补简化教科书与专注研究专著之间的空白。
+- **目录**：字母表+分类双目录，便于定位具体信息与获得主题概览。
+- **评价**：高度推荐作为可靠、简洁的信息来源。
+   • **Handbook of Adhesion 是胶接领域最全面的参考**——250+ 篇短文覆盖从基础理论到工业应用的全谱系。
+- **双目录设计（字母表+分类）**——便于快速定位具体信息与获得主题概览，是专业参考书的标杆设计。
+- **学生与专业研究的桥梁**——填补简化教科书与研究专著之间的空白。
+- **环境考量与可持续性**——第2版特别关注环境考量、可持续性、可再生原料在胶接技术中的角色。
+   • Book Review Handbook of Adhesion by Packham
+- Adhesive Handbook
+- 胶接热力学 Adhesion Thermodynamics
+- 润湿 Wetting
+- 断裂力学 Fracture Mechanics
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Six adhesion theories** are reframed as complementary rather than competing:
+> "Each of these theories is valid to some extent... they do not negate each other" [Part 2, Line 57–62]
+   • **Hygiene implication:** Temperature and peel rate directly determine core retention. Formulation core is designing the $\psi(v,T)$ peak, not just interfacial thermodynamics.
+
+--- [[Surface Tension and Surface Energy]]  (3 句)
+   • **Thermodynamic definition.** Surface tension is "Gibbs free energy per unit area", and "the specific free energies of the interfaces are constants characteristic of the system" — a state function, not a force.
+- **Young's equation, corrected.** γSV = γSL + γLV cos θeq. The book explicitly overturns the common misreading: "Contrary to statements or implications in some of the literature Young's equation is not a force balance. It is a thermodynamic equation showing a valid and easily proved rela
+   • **Stop measuring absorbency on flat plates.** The textbook sessile-drop protocol misrepresents the geometry of a fibrous web; fibre-level capillary pull must be evaluated with the rod model. This single correction changes what a "contact angle test" means for a core.
+- **Hydrophilisation is compounding, not additive.** Grafting −OH/−COOH lowers θeq, and Wenzel then multiplies the gain through roughness (cos θW = r·cos θY) — engineering both surface chemistry and micro-roughness is strictly bette
+   • 父书：Absorbent Technology
+- 概念：Surface Tension and Surface Energy、Surface Tension and Surface Energy、Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter Equation、Work of Adhesion、Laplace Pressure、三相接触线 TPL、Marangoni Effect、亲水化 Hydrophilisation
+- 相邻章节：Porous Structure and Liquid Flow Models（上游流动理论）、Absorbent Technology Introduction
+- 下游页面：底膜 Backsheet、SAP（高吸水树脂）、Chemical bonding（粘合剂表面能匹配）
+
+--- [[GB-T 27731-2011 Release Paper for Sanitary Products（卫生用品用离型纸）]]  (2 句)
+   • Product standard for **silicone-coated release paper**（卫生用品用离型纸）used in sanitary napkins / diaper back-strip applications — the acceptance spec for the anti-adhesion liner around SAP-containing articles and for packaging separators.
+   • GB/T 27731-2011 (SAC/TC 141; drafters 中国制浆造纸研究院、佛山新飞卫生材料、小护士（天津）、广州宝洁、国家纸张质检中心) covers release paper supplied in jumbo rolls for one-time hygiene products. Technical requirements combine paper physics (basis weight series 29.0–44.0 g/m², density, MD tensile, tear index) with silicone-release performance: peel force against a standardized tape of 0.05–0.20 N/25 mm (Annex A) and residual adhesion rate ≥80.0% after 70 ℃ / 20 h aging (Annex B) — the two parameters that actually decide whether the re
+
+--- [[The Role of Surfactants]]  (2 句)
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Geometric Optical Mask（几何光学掩膜）]]  (1 句)
+   • Rearranged for design: **2a = λ₀ (1 − φ\*) (1 + ε\*)** — pick the strain at which a bar should light up, and the equation returns the ink arc, which the shim delivers as a coat weight.
+5. **Zoning is machined, not controlled（分区是加工出来的，不是控制出来的）.** One manifold pressure feeds three CD zones whose ratio is fixed by land length (Q ∝ 1/L at constant gap, width and ΔP). Land lengths are machined to ± 0.05 mm, so the coat-weight ratio holds to better than 1 % for the life of the shim; a viscosity excurs
+
+--- [[Hygiene Absorption Model]]  (1 句)
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Olefin Block Copolymer (OBC) 烯烃嵌段共聚物]]  (1 句)
+   • 1. **与 APAO / 茂金属无规共聚物的本质差别是"嵌段 vs 无规"**：OBC 是**特意造出结晶区**的嵌段结构；APAO 的低结晶度是 Ziegler-Natta 无规聚合的副产物。因此两者**不可互换**。
+2. **结构带来的性能**：相对同密度的茂金属无规共聚物，OBC 的高温耐受性与弹性更好（更好的弹性回复、压缩永久变形与高温阻抗）。
+3. **分子量分布更窄**：来源记述 OBC 的 poly-dispersity 显著窄于 APAO，从而影响其 DSC 熔融曲线——窄分布 + 嵌段结构共同给出 improved hot tack、adhesion、低温柔韧性，同时不牺牲高温耐受。
+4. **用量与功能分工**：在 EP2456819B1 的配方中 OBC 是**主聚合物**（10–30 wt%，最优 12–20 wt%），另配低结晶度次级聚合物调节加工。
+5. **判据（不能只看熔融焓）**：来源明确指出有些 Infuse® 牌号的熔融焓约 **20 J/g**，**仍不能算 APAO**，因为"聚合物架构完全不同（嵌段 vs 无规）且被专门制造出结晶区"。→
+
+--- [[PE-PET Bond Efficiency Model]]  (1 句)
+   • = ES weight fraction（ES 重量占比）； = inert PET fraction（惰性 PET 占比）。
+-  = **PE-to-PET adhesion efficiency** relative to PE-to-PE.（PE 与 PET 之间的粘合效率相对于 PE-to-PE 的比值。）
+- The  term counts ES–ES crossings (fully bondable); the  term discounts ES–PET crossings by . 1-crossings among inert PET contribute nothing.
+- **Net CD tensile** weights  at **85%** and a fibre-tenacity term at the remaining **15%**.
+

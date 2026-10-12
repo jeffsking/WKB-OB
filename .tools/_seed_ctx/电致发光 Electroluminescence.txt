@@ -1,0 +1,54 @@
+# SEED: 电致发光 Electroluminescence
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 9 页，13 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）]]  (3 句)
+   • 中弘芯（青岛）传感科技（Zhonghangxin, Qingdao）的产品宣传册：**纯纺织基柔性压力传感**（床垫/坐垫/足底/步态/机器人电子皮肤）+ 电致发光纤维 + 电热纱线；在本库中对应「压力触感测试 / 皮肤接触压力可视化」议题的候选技术供应商（对照 PPS（触感压力传感）、薄膜压力分布传感（Pressure-Sensing Film））。
+   • Product brochure of Zhonghangxin (Qingdao) Sensing Technology Co., Ltd.（健康与防护智能纺织品研究中心）。Product families: (1) **压力管理智能纺织品**——智能人形机器人电子皮肤（柔性传感系统 800 传感点全表面压力监测，超薄 <0.3 mm 模块化覆盖关节/躯干）；智能电子织物足底压力分析仪（站立/行走压力分布、溃疡风险筛检、步态不对称）；多模态步态分析仪（纯纺织基底 0.3–0.8 mm，步频/步长/步数，AI 识别内外八字/足下垂，蓝牙 5.0）；压力感知坐垫（坐姿报告/久坐提醒）；睡眠监测床垫（**4800 传感点阵列**，心率/呼吸/睡姿，褥疮风险评估，整晚报告）；柔性电子织物传感鞋垫（可水洗 50 次以上性能不衰减，步行/跑步自动识别）。(2) **发光纤维系列**——不锈钢基/尼龙基/芳纶基电致发光纤维，适用编织工艺、抗氧化、发光寿命 >6000 h，耐光照氧化。(3) **电致发热系列**——智能高性能电热纱线（单位长度电阻 27 Ω/m、断裂强度 21.2 cN/dtex、
+   • **纺织基柔性压力传感已到「可水洗、可拉伸、百点级阵列」工程化水平**，可作为假人/压力测试与智能卫品感知的候选技术 —— 支撑页：薄膜压力分布传感（Pressure-Sensing Film）、Skin Contact Pressure（皮肤接触压力）
+- **电致发光纤维与库内力致变色/结构色路线互补，属"主动发光"显示分支** —— 支撑页：Chromism Taxonomy（变色现象分类）
+
+--- [[中弘芯（青岛）传感科技（Zhonghangxin Sensing）]]  (2 句)
+   • **2026-09-29（宣传册入库）**：产品参数记录——床垫 **4,800 传感点**阵列（心率/呼吸/睡姿/褥疮风险）；电子皮肤 **800 传感点、<0.3 mm**；步态仪纺织基底 **0.3–0.8 mm**、AI 识别异常步态、蓝牙 5.0；传感鞋垫**水洗 50 次以上不衰减**；电致发光纤维寿命 **>6,000 h**；电热纱线 **27 Ω/m、21.2 cN/dtex**、0 ℃ 环境表面 10 ℃。详见 中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）。
+- **供货关系现状**：本库中暂无实际供货、打样或询价记录 ；按候选/信息源记录。
+   • 薄膜压力分布传感（Pressure-Sensing Film）（同类压力可视化路线对照）
+- Skin Contact Pressure（皮肤接触压力）、Pressure Sensory Test（压力触感测试）（潜在应用场景）
+- Chromism Taxonomy（变色现象分类）（电致发光属主动发光分支，与变色路线互补）
+
+--- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]  (2 句)
+   • **喷墨色料两难**：喷墨孔 <100 µm，存在颗粒物堵塞固有风险，故最初选用**水溶性染料**而非颜料；颜料须压至 <0.02 µm 稳定分散才能"大幅改善色彩空间覆盖度、亮度接近染料墨水"。
+- **染料-颜料之争现状**："where light fastness is not a problem, dyes take precedence because of brighter shade, better colour gamut and inherently more stable inks"——光牢度非瓶颈时染料优先。
+- **染料五项功能门槛**：水牢度（可通过纸品涂层改善）/ 热稳定 / **无毒** / 无机盐 <100 ppm / 储存稳定墨水。
+- **减色印刷**：彩色喷墨是减色过程，需 YMC 三色组（黄-洋红-青），如同彩色摄影。
+- **发光第三维度**："Those phenomena that involve absorption of energy and subsequent emission of light are classified ge
+   • 父书：Chromic Phenomena
+- 概念：荧光增白剂 Optical Brightener · 香豆素 Coumarin · 偶氮染料 Azo Dye · 斯托克斯位移 Stokes Shift · 电致发光 Electroluminescence · 光致变色 Photochromic · 热致变色 Thermochromic
+- 相关章节：Chromic Phenomena Introduction and Reversible Colour Change · Ancient Organic Dyes and Pigments Chemistry
+- 材料：木浆 Pulp · 绒毛浆（Fluff Pulp）
+- 供应商：Henkel · PPG Industries · BASF
+
+--- [[偶氮染料 Azo Dye]]  (1 句)
+   • Luminescence Fluorescence Phosphorescence and Electroluminescence
+
+--- [[斯托克斯位移 Stokes Shift]]  (1 句)
+   • Luminescence Fluorescence Phosphorescence and Electroluminescence
+
+--- [[木浆 Pulp]]  (1 句)
+   • Luminescence Fluorescence Phosphorescence and Electroluminescence
+
+--- [[荧光增白剂 Optical Brightener]]  (1 句)
+   • Luminescence Fluorescence Phosphorescence and Electroluminescence
+
+--- [[香豆素 Coumarin]]  (1 句)
+   • Luminescence Fluorescence Phosphorescence and Electroluminescence
+
+--- [[BASF]]  (1 句)
+   • **原始引用来源（Cited by, 4 处）**
+- Absorbent Technology
+- Ancient Organic Dyes and Pigments Chemistry
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Luminescence Fluorescence Phosphorescence and Electroluminescence
+

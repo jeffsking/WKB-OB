@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/Surface_Treatment_of_Superabsorbent_Poly.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/Surface_Treatment_of_Superabsorbent_Poly.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/Surface_Treatment_of_Superabsorbent_Poly.pdf.md",
+   "name": "Surface_Treatment_of_Superabsorbent_Poly.pdf.md",
+   "title_hint": "Surface_Treatment_of_Superabsorbent_Poly.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf.md",
+   "name": "七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf.md",
+   "title_hint": "七-1_一种抗菌耐盐高吸水树脂及其制备方法和应用.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf.md",
+   "name": "三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf.md",
+   "title_hint": "三-3_一种超薄聚乙烯微孔透气膜及其制备方法.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN113423778B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN113423778B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN113423778B.pdf.md",
+   "name": "CN113423778B.pdf.md",
+   "title_hint": "CN113423778B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf.md",
+   "name": "一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf.md",
+   "title_hint": "一-7_一种纸尿裤生产用高吸水性树脂及其制备方法.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md",
+   "name": "三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md",
+   "title_hint": "三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN114149650A.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN114149650A.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN114149650A.pdf.md",
+   "name": "CN114149650A.pdf.md",
+   "title_hint": "CN114149650A.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN107057251B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN107057251B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN107057251B.pdf.md",
+   "name": "CN107057251B.pdf.md",
+   "title_hint": "CN107057251B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf.md",
+   "name": "12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf.md",
+   "title_hint": "12_光缆包覆阻水纤维 (OASIS SAF 中国应用).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf.md",
+   "name": "七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf.md",
+   "title_hint": "七-2_一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法.pdf"
+  }
+ ]
+}

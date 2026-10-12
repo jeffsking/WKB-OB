@@ -1,0 +1,23 @@
+{
+  "batch": "p1_Seymour Polymer Chemistry_03",
+  "book": "Seymour Polymer Chemistry",
+  "root_file_rel": null,
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch15.md.md",
+      "bytes": 18326
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch16.md.md",
+      "bytes": 13375
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch17.md.md",
+      "bytes": 19500
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch18.md.md",
+      "bytes": 20420
+    }
+  ]
+}

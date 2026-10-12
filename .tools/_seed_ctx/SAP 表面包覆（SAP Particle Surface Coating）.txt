@@ -1,0 +1,169 @@
+# SEED: SAP 表面包覆（SAP Particle Surface Coating）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 245 页，368 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (5 句)
+   • Drying is governed by two simultaneous subprocesses:
+- **Process 1 (External):** Transfer of energy (heat) from environment to evaporate surface moisture
+- **Process 2 (Internal):** Transfer of internal moisture to the surface and its evaporation
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Constant-rate period:** Surface evaporation dominates; drying rate independent of internal structure
+- **Falling-rate period:** Internal diffusion/capillarity becomes rate-controlling; time scales with square of thickness
+   • **Key constraint:** The wet-bulb temperature of the drying air sets the minimum achievable product surface temperature during constant-rate drying (evaporative cooling).
+
+--- [[Industrial Drying Ch15 Impingement Drying]]  (5 句)
+   • **Hygiene relevance:** Tissue Yankee hoods, through-air nonwoven bonding ovens, and lotion/coating cure on wipes are all impingement applications.
+   • **Key insight:** A 350°C jet can keep a tissue surface far below ignition because the latent heat sink dominates. Once bone-dry, surface temperature climbs toward air temperature — degradation window opens.
+   • 1. Choose nozzle configuration (round or slot array)
+2. Determine geometry (nozzle size, spacing, distance)
+3. Set velocity/temperature/spacing (interrelated; Re > 2000)
+4. Compute constant-rate drying rate via empirical correlations with corrections
+5. Check surface temperature against degradation/ignition limits
+6. Determine recycle ratio via enthalpy balance
+   • **Array of Round Nozzles (ARN):** Valid over stated Re/f/H/d ranges, ±15% accuracy
+- **Array of Slot Nozzles (ASN):** Similar validity
+- Corrections needed for: crossflow, semiconfinement, mass flux, large ΔT, suction, surface motion, oblique impingement, swirl
+
+--- [[US5197958 Wetness Indicating Diaper]]  (5 句)
+   • **Thermal-mediation wetness indication for diapers（以温度为媒介的尿布湿态指示）** — a *reusable cloth diaper* carrying a thermochromic ink on its **outer surface**, triggered by the heat of the excreted liquid conducted through a layer whose thermal conductivity changes on wetting.
+   • 1. **Insulating interlayer（隔热中间层）** — material between the inner (skin-facing) and outer surfaces that **at least partially thermally insulates** the outer surface from the inner surface. **When DRY its thermal conductivity is too low for normal body temperature to raise the outer surface above the threshold; when WET it becomes sufficiently conductive to do so.** （E4 of Claim 1）
+2. **Wicking（导流）** — Claim 2: "said material **wicks moisture** secreted from said baby toward said outer layer"; the
+   • **Microencapsulation（微胶囊化）** — required because the fatty acid is liquid and would otherwise be lost: "In-situ polymerization with **urea formalin resin** used as wall material"; the TC slurry is an aqueous dispersion containing about **"45% wt. of capsule particles"**, then formulated with a **water-based binder** into a water-based thermochromic ink. Table 3 lists chemical (interfacial/in-situ polymerization), physico-chemical (coacervation, organic-solution coacervation) and mechano-chemical 
+   • Figures: FIG.1 bottom plan view (outer surface); FIG.2 top plan view; FIG.3 cross-sectional view showing outer shell 5 and inner pad 10 (sorbent 50 / protective covering 55 / wicking 60) plus VELCRO tabs. Application method: **silk screening（丝网印刷）**.
+
+--- [[Hygiene Absorption Model]]  (4 句)
+   • **4. 微尺度热力学与宏尺度水力学对接：** 以**杆/管模型**取代教科书平面座滴法，给出**单根纤维的毛细拉力** F = γLV·cos θeq·C —— 即「**不要在平板上测吸收性**」，纤维级毛细拉力须用杆模型评估；这一处修正改变了「接触角测试」对芯体的含义（源：Surface Tension and Surface Energy）。
+   • **面层亲水类型直接决定回渗与多次吸收**：单亲型（single-hydrophilic）**第 1 次快、衰减快**（第 5 次 7.39–8.62 s、回渗 3.89–6.17 g），源文评为 **质量档次不高**；多亲型（multi-hydrophilic）兼顾快吸与低回渗（回渗 0.84–1.32 g），是**高档纸尿裤主流原料与发展方向**（源：ES Fibre Hydrophilic Function and Applications）。
+- **常见框架被证伪**：源文量化了回渗/速度 trade-off，并**反驳**「首次穿透越快 ⇒ 越好」的通常假设（源：ES Fibre Hydrophilic Function and Applications）。
+- **ADL 与芯体的分工来自几何**：面内芯吸 vs 贯穿吸收（demand absorbency）决定 ADL 与芯体摄入设计的分工（源：Characterisation, testing and modelling of nonwoven fabrics）。
+- **压力可替代亲水化**：一旦 θ ≥ 90°，
+   • **提供正文摘录的库内页面**
+- Absorbent Technology Introduction
+- Computational Modeling in Absorbent Technology
+- Characterisation, testing and modelling of nonwoven fabrics
+- Surface Tension and Surface Energy
+- ES Fibre Hydrophilic Function and Applications
+- Industrial Drying Ch1 Principles and Classification
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- 纳米纤维素纤维技术及应用深度研究报告
+- CMC-Na CA CNF SAP original article.pdf
+- Handbook of Adhesive Technology Full Report
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[Skin Health Treatment on Nonwoven（无纺布护肤处理）]]  (4 句)
+   • 1. **四类成分对应四条不同的作用路径**：
+   - **ZnO（氧化锌）** —— FDA OTC 专论的**皮肤保护剂成分**；抑制粪便酶与尿液酶、促进伤口愈合，并在低 pH 下与乳酸协同解离出 Zn²⁺，生成乳酸锌（NMF 的已知组分、生物可利用锌）。
+   - **pH 调节剂（乳酸 / 苹果酸 / 柠檬酸）** —— 对抗尿液与粪便引起的 pH 上升，把皮肤维持在**目标 pH 4.1–5.8（约 5.5）**；走化妆品路径，是"温和"型皮肤健康宣称的主力。
+   - **凡士林（Petrolatum）** —— FDA OTC 专论皮肤保护剂成分，在皮肤表面形成保护层阻隔刺激物。
+   - **调理剂 + 益生类（Conditioners + Biotics）** —— 改善皮肤屏障、减少水分流失与炎症，机制多样，多源自化妆品行业。
+2. **收益来自"对抗刺激源"而非"增加吸收"**：损伤三要素是**摩擦、过度水合、尿液/粪便+粪便酶**。护肤处理只解决第三项（与部分第二项），因此**它不能替代干爽性与低摩擦**——源资料明确要求皮肤健康收益必须建立在透气、锁液/干爽
+   • ✅ **验证记录（2026-09-29）**：三圈失败与可视化放大失败均为**内部实测/试产结论**，但具体数据（摩擦系数、滑顺度数值）未在转写中给出，标 ；供应商名与配方细节属商务敏感，见源摘要页 🔴 标注。参见 Botanical Extract Efficacy Verification（植物提取物功效验证）、Hot-Melt Slot Coating（热熔狭缝涂布）、Skin Contact Pressure（皮肤接触压力）。
+   • 供 **KC 卫生巾面层**的**维他命 B5 泛醇**添加量仅 **100–200 ppm** —— "非常少"。
+- 供应商口径：**护肤型添加在纤维上，添加量很少，效果有限**。
+- 结论：**要真实起效，仍需在布上做 coating** —— 纤维端添加量不足以支撑功效。
+   • 1. **纤维端功能化 ≠ 功效**：添加量受纺丝工艺约束（通常几十到几百 ppm），**宣称价值 > 实测功效**；把"宣称"当"功效"是本类项目最大的认知风险。
+2. **凉感是一场神经刺激，不是热管理** —— 与真正的相变/温感材料不是同一件事，评估时必须区分。
+3. **"越底层越直接"的判断需要代价**：纤维端改性的确定性强，但**开发周期长、起订量大（≥30 吨）、切换废料多**，与布端 coating 的灵活性正好互补。
+
+--- [[接触角 Contact Angle]]  (4 句)
+   • Traceable operational role 可溯源的操作定位: contact angle enters the Laplace capillary-pressure term as , i.e. it is the surface-chemistry variable that sets the sign and magnitude of capillary pull (源：Computational Modeling in Absorbent Technology).
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[BASF]]  (4 句)
+   • **专利权属（SAP 表面包覆核心工艺）**：2026-09-29 编译识别 BASF SE 为两项中国授权专利的专利权人 —— CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）（液体喷涂包覆）与 CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）（气流分散微粒固体包覆）；两专利均为 **SAP 颗粒后处理/表面交联核心工艺**（源：巴斯夫欧洲公司（BASF SE））。
+- **记录口径**：2026-09-29 该批**未含 BASF 商务报价**，仅记录专利权属；具体供货/报价待人工补充（源：巴斯夫欧洲公司（BASF SE））。
+- **可持续路线的商业定位**：BASF 的 SAP 可持续路线是「**生物质平衡质量守恒分配**」而非改性 —— 性能与常规牌号等同、**免重新配方**；与降解路线（Biodegradable SAP（可降解高吸水树脂））属**不同维度**，不可混引（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- **国产化对接口径**：
+   • **与 KC 的关系**：现有摘录**无**BASF 与金佰利的供货 / 合作 / 竞品关系证据 → 关系字段记 **待核**。
+- ：公司国别、成立信息、组织架构等基本盘信息在引用页中均未给出。
+- ：HySorb® N7059 的 AAP 值（0.3 psi 29.0）在摘录中截断，单位与后续指标不可读（源：BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫））。
+- ： 缩写的完整展开在源页标注为 ；相关公式见 SAP 表面包覆（SAP Particle Surface Coating）。
+- ：BASF 在生物质平衡 SAP 上的**认证机构与证书编号**在宣传页摘录中未给出具体名称（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- ：原始引用来源 4 页（Absorbent Technology / Ancient Organic Dyes and Pigments Chemistry / Chromic Phenomena… / Luminescence…
+   • **提供正文摘录的库内页面**
+- 巴斯夫欧洲公司（BASF SE）
+- BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）
+- BASF Biomass Balanced Superabsorbents（v3 归档同名件）
+- BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）
+- SAP 表面包覆（SAP Particle Surface Coating）
+- CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+- CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+- SAM Database-CW（全球 SAM 牌号性能数据库）
+- SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）
+- SAP Selection Decision Base（17-SAP选型与实验数据决策库）
+   • **延伸关联**
+- SAP（高吸水树脂）
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAP 吸水纸（SAPP）
+- Biodegradable SAP（可降解高吸水树脂）
+- Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）
+- BNC 基 SAP 表面交联
+- SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+- SAM Testing Methods（超级吸水材料测试方法）
+- SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）
+- SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）
+- 单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+- Multilayer SAP Core（多层SAP芯体）
+- Gel Blocking（凝胶阻塞）
+- GBP-Limited vs CRC-Limited Regime（渗透受限 
+
+--- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating superabsorbent polymer (SAP) particles** — spraying a liquid below the product-bed surface in a mixer with movable tools. The variant copy in this batch additionally exposes an **SFC (surface-crosslinking fraction [待验证]) calculation formula**, of direct interest to OEM SAP test protocols.
+   • The invention relates to a method for preparing superabsorbent polymer particles by polymerising a monomer solution or suspension. In a mixer equipped with a movable mixing tool, a liquid is sprayed through at least one nozzle to a position below the surface of the product bed. The disclosed variant further details an SFC calculation formula (surface-crosslinking fraction, abbreviation expansion [待验证]) for characterising the coated particles.
+   • **Liquid-below-bed-surface coating of SAP particles** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **SFC formula variant** supports surface-crosslinking process control for OEM SAP test protocols.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating SAP particles with a particulate solid dispersed by a gas stream**, fed below the product-bed surface. Process sibling of CN 101641398 B (liquid-spray coating) — both are BASF SAP post-treatment/core patents.
+   • The invention relates to a method for preparing superabsorbent polymer particles, wherein in a mixer the SAP particles are coated with a particulate solid that is dispersed by means of a gas stream, and the feed of the dispersed particulate solid into the mixer terminates below the surface of the product bed.
+   • **Gas-dispersed particulate-solid coating of SAP particles (below bed surface)** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **Process sibling of CN 101641398 B** (liquid-spray variant) — same assignee, same FTO relevance.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[CN 110862635 A（一种抗菌耐盐高吸水树脂及其制备方法和应用）]]  (4 句)
+   • A Chinese published patent application (applicant: **深圳市乐闵科技有限公司**) on an **antibacterial, salt-tolerant SAP** with a hot-surface-treatment step, positioned for disposable diapers. SAP composition/process → FTO-relevant.
+   • The invention discloses an antibacterial salt-tolerant SAP and its preparation/use. Steps: neutralise acrylic acid with alkali; add primary crosslinker, an Ag-SiO2 composite / intercalated-graphene antibacterial composition, initiator and composite fibre to form a gel; granulate and dry; then melt-extrude aromatic polyamide with nano-silver ions, add ion-exchange resin and a composite crosslinker, and hot-surface-treat all granular polymer by pressure spraying. The SAP is intended for disposable
+   • **Ag-SiO2 / graphene + nano-silver antibacterial SAP with hot-surface treatment** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- Adjacent to SAP（高吸水树脂）.
+   • 概念：SAP（高吸水树脂）、SAP 表面包覆（SAP Particle Surface Coating）
+- 实体：— 
+- 对比：—
+

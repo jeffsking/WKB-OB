@@ -1,0 +1,46 @@
+{
+  "batch": "S4_Resources_Open Innovation_17",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": {
+    "new_this_run": [],
+    "preexisting_verified": [
+      "WIKI/sources/Product Report-Out FB.xlsx.md",
+      "WIKI/sources/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+      "WIKI/sources/CoPET_PET与PE_PET成本结构拆解.xlsx.md",
+      "WIKI/sources/Consumer Relevancy of FIUP Method Feb 2025.docx.md",
+      "WIKI/sources/2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+      "WIKI/sources/Full Results.xlsx.md",
+      "WIKI/sources/2025.09.02 - AC Brand Connect.pptx.md",
+      "WIKI/sources/纸尿裤的异味控制与消除.pdf.md",
+      "WIKI/sources/Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+      "WIKI/sources/05_细菌纤维素微凝胶技术研究报告.md.md"
+    ],
+    "frontmatter_sourcepath_corrected_to_batch_src": [
+      "2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+      "2025.09.02 - AC Brand Connect.pptx.md",
+      "纸尿裤的异味控制与消除.pdf.md",
+      "Full Results.xlsx.md （同时补齐缺失的 .md 后缀）",
+      "Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+      "05_细菌纤维素微凝胶技术研究报告.md.md"
+    ]
+  },
+  "concept_pages": {
+    "new_this_run": [],
+    "preexisting_verified": [
+      "WIKI/concepts/Odor Control Technology Landscape（异味控制技术图谱）.md",
+      "WIKI/concepts/BC Microgel（细菌纤维素微凝胶）.md"
+    ]
+  },
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "WIKI/concepts/Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）.md （含 2026-09-29 dated note + Full Results 22-code 矩阵，已核实）",
+    "WIKI/concepts/Rewet Measurement Variability（回渗测试变异性）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/entities/GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/entities/Fibertex（Fibertex 非织造布供应商）.md （已核实存在）"
+  ],
+  "manual_review": 0,
+  "notes": "复核轮（2026-09-29 第二代理）结论：前代理（冻结轮）的 10/10 source 页**实际均已落盘**且内容完整（22-114 行/页），与此前『多数项未落盘』的判断不符。唯一系统性缺陷：source 页 front matter 的 source_path 写成 RAW_FULL/ 前缀（而非批单 src 的 RAW/ 前缀），导致按 src 精确查重时 6 项被判缺失；另 Full Results.xlsx.md 漏 .md 后缀。本轮未重编译、未覆盖任何页面，仅将 6 页 source_path 一字不改校正为批单 src（RAW/ 前缀），使 10/10 全部通过 src 精确登记校验。派生页追加记录（Surge-Liner Adhesive Bonding / Rewet Measurement Variability / GRIFFIN Rewet Program 等）均核实存在 2026-09-29 日期标注。异味控制综述与 BC 微凝胶报告的 reliability note 已在页内。"
+}

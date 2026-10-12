@@ -1,0 +1,128 @@
+# SEED: Odour Management Routes（气味管理技术路线）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 154 页，231 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[活性炭除臭（DARCO）]]  (5 句)
+   • **DARCO® KB-G** is a **powdered activated carbon (PAC)** made by **chemical activation of wood using the phosphoric acid process**（木基磷酸法化学活化）by **Cabot Norit Activated Carbon**（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)）. In this vault it anchors the **powdered activated carbon (PAC) option within the odour-control material family**（气味管理材料族中的「粉末活性炭」吸附型路线）（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)、Powdered Activated Carbon（粉末活性炭））.
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • **Odour control in hygiene products**: the route is applied to **卫品气味控制**（源：SymDeo™ XPP 抑臭聚合物）and listed alongside fibre-based odour adsorption for **面层/内裤无纺布消臭**（源：咖啡炭纤维（异味吸附））.
+- **Route-family sibling**: within the odour-control material family it is cited next to SymDeo™ XPP 抑臭聚合物（抑臭聚合物）and 咖啡炭纤维（异味吸附）（物理吸附纤维）, all under the same supplier landscape note at Symrise（德之馨）（源：SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）、Symrise（德之馨））.
+- **Supply-base context**: Cabot is logged as a **candidate supplier** with n
+   • No odour-specific performance data (e.g. ammonia / trimethylamine uptake) exists in the vault — the TDS targets liquid purification, not headspace odour .
+- No hygiene-article application trial, dosage, or cost data for DARCO KB-G is recorded（源：Cabot Corporation（卡博特））.
+- The present page was itself referenced under "待后续批次"（源：SymDeo™ XPP 抑臭聚合物）; whether a dedicated odour-control PAC application page will supersede it is undecided .
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (5 句)
+   • 1. **End-group chemistry drives dyeing** (p.362): "The amino end groups in nylon 6 have a predominant effect on dye pick-up when dyed with acid dyes". Table 14.1 maps amino end-group content of **10–130 eq/t** to shades from light through ultra-deep.
+2. **Process windows are shared** (p.369): "except for the type and amount of stabilizer, light, ultra-deep and cationic dyeable nylon polymers can be produced under very similar polymerization temperature and total vapour pressure". 改性成本低、产业化友好。
+3.
+   • Statement of the problem (p.374): "synthetic fibres are poor conductors… create problems related to electrostatic charge". Three routes (p.374): "Chemical modification… Physical blending… Electrical conducting materials such as carbon, metal or metal oxide powders are added". Chemical bonding gives the best wash durability, physical blending the worst, and conductive particles need **conjugated bicomponent filament spinning** to retain strength (p.377). For PET the cited routes are block poly(et
+   • **Conjugated bicomponent 共轭双组分** configurations — **island-in-sea 岛-in-海** and **radial/split-pie 径向瓣** — are the two routes to conjugated microfibre, made spinnable and separable by bicomponent design (14.6, p.377).
+- **Shaped cross-sections** (p.387): "the non-circular cross-sections result in greater lustre and covering power and improved handle"; geometry is set by spinneret hole shape (trilobal, rectangular, hexalobal, hollow) and melt rheology. Table 14.6 (pp.393–394) ranks **trilobal brig
+   • 1. **Conjugated bicomponent spinning is the direct ancestor of splittable nonwovens**: the island-in-sea and radial-split configurations described at 14.6 are the same geometry used for splittable bicomponent spunbond and for海岛 staple used in high-coverage coverstock and wipes. See PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） for the modern side-by-side variant.
+2. **Non-circular cross-section → lustre, cover and handle** (p.387) is exactly the trade space behind topsheet s
+
+--- [[导电纱线 Conductive Yarn]]  (4 句)
+   • **导电纱线（conductive yarn）** is a yarn that carries an electrical function — used in e-textiles as **wiring and/or as the sensing transducer**. In the vault's one hygiene-grade application it is the **conductive element of an electronic wetness-detection system**: the conductive materials listed are **conductive threads, conductive tape, conductive rubber, conductive wires**, with the preferred element being a **silver-plated conductive thread at 60 ohms/meter**（源：US11013641 Garment for Detecting A
+   • **Resistive (conductive) sensing.** A controller applies voltage across a conductive thread and monitors the voltage at its ends; in the dry state the reading is ≈ full-scale, and when exudate wets the path the measured potential collapses（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **How fibres are made conductive.** Synthetic fibres are poor conductors and build up electrostatic charge (p. 374); three routes are named — **chemical modification, physical blending, and addin
+   • **The vault's hygiene use-case is a conductive-thread wetness sensor.** K-C's leakage-detection garment uses a silver-plated conductive thread (60 Ω/m) + controller + ADC read-out to answer "is it wet / did it leak" — but the claimed article is the **garment**, not the absorbent article, i.e. the yarn sits on an over-garment rather than in the core（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **Electronic vs chromic branch.** This conductive-thread route is the **electronic**
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (4 句)
+   • The dual urine + BM visual indicator concept for a diaper core carrying an effective odour-control granular — it frames the odour-vs-indicator molecule conflict, screens three BM mechanisms and specifies material composition, placement, converting process, cost model and validation protocol.
+   • The problem framing is a self-inflicted one: the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S and volatile fatty acids, which removes Mom's learned head-space signal for a BM. Change intervals stretch, BM sits against skin longer, and faecal protease + lipase and rising pH drive dermatitis — with the blame attaching to the diaper rather than to the missing cue. The design trap: the odour sorbent and the indicator compete for the same molecules, and inte
+   • **除臭颗粒与指示器争分子** —— 这是决定整个设计的陷阱，也是本批最有价值的工程警示。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **pH 不是可用的便判别量** —— 第二条 pH 条是「掷硬币」。支撑页：Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- **双通道并行，失效模式互补** —— 联合漏检率为乘积而非求和。支撑页：Bile Pigment Mordant Lane（胆色素媒染通道）
+- **必须在含除臭颗粒、且老化过的整片上验证** —— 无颗粒结构上的验证毫无证明力。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **这是宣称与投诉规避项目，不是降本项目** —— 真正的成本是失去的 OEE 与「看不见的线索」的替代价值。支撑页：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+   • Concepts 概念：Odour-Control Granular Interference（除臭颗粒干扰）、Titratable Acidity Lane（可滴定酸度通道）、Bile Pigment Mordant Lane（胆色素媒染通道）、Wetness Indicator Ladder（尿湿指示阶梯）、Hot-Melt Slot Coating（热熔狭缝涂布）
+- Comparisons 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- Existing pages 既有页：智能尿裤功能层、变色油墨
+
+--- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]  (4 句)
+   • The **market, competitor and supplier-landscape review** of the Mechanochromic block — it overturns the "buy a commercial pressure material" assumption, maps four technology routes (M1–M4), screens four material candidates, and lands on the sourcing verdict **"build, not buy"** (custom threshold + custom printing process).
+   • Technology routes: M1 mechanophore activation, M2 photonic-crystal structural colour, M3 CLCE mesogen orientation, M4 surface wrinkling. The selection implication is that continuous fit monitoring needs a reversible route (M2/M3), while one-shot over-tightness alerts can use semi-reversible routes (M1).
+   • **不存在现货方案，必须自建** —— 这是全批的方法论起点。支撑页：Chromism Taxonomy（变色现象分类）、Mechanochromic Routes Comparison（力致变色技术路线对比）
+- **可逆性是硬性要求** —— 连续监测必须选可逆路线；不可逆方案只能做一次性报警。支撑页：Structural Colour Mechanochromism（结构色力致变色）
+- **信号弛豫＝假阴性** —— 比没有指示器更危险，须设为试产生死门。支撑页：Mechanophore Mechanochromism（机械力致变色分子）
+- **国内仅两家确认有真实力致变色能力** —— 其余须核验 TDS/SDS 与阈值。支撑页：Henan Jiayida（河南嘉亿达）、Shenzhen Xingcheng（深圳星辰）
+   • Concepts 概念：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Chromism Taxonomy（变色现象分类）
+- Entities 实体：CTI（Chromatic Technologies Inc.）、Henan Jiayida（河南嘉亿达）、Shenzhen Xingcheng（深圳星辰）、Chungnam National University and Hanyang University（韩国大学研究伙伴）
+- Comparisons 对比：Mechanochromic Routes Comparison（力致变色技术路线对比）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- Existing pages 既有页：智能尿裤功能层、变色油墨、Mechanochromic变色纤维
+
+--- [[光子晶体 Photonic Crystal]]  (3 句)
+   • Photonic crystals are **periodically ordered nanostructures whose interaction with incident light produces structural colour** — the source wording is: "Structural colors, arising from light interaction with periodically ordered nanostructures that are widely known as photonic crystals (PEs), are widespread in nature"（源：Interactively Mechanochromic Electronic Textile Sensor）。
+  （中文：光子晶体 = 与光相互作用的**周期性有序纳米结构**，由此产生的颜色即**结构色**；该定义直接来自引文原文。）
+- In the chromic-materials taxonomy, photonic crystals si
+   • **Fit / tension indication（合身可视化）**：光子晶体结构色属**可逆**力致变色路线（M2），是连续合身监测的候选之一；可逆性在一次性卫品场景被列为不可让步的要求（"reversibility is a non-negotiable requirement"，源：Mechanochromic Materials Technical Review（EN v3, 2026-08）、Structural Colour Mechanochromism（结构色力致变色））。
+- **Strain → colour coupling can be coupled to SAP swelling (推演, unverified)**：变色机制是"应变 → 晶格间距调控 → λmax 蓝移"，响应区间 0–51.6 %；若与 SAP 层复合，吸水膨胀本身即应变源，可发展为"尿量可视化指示贴"——**须验证膨胀方向与变色区间匹配**（源：Interactively Mechanochromic Electronic Textile Sensor）。
+- **Two block
+   • Interactively Mechanochromic Electronic Textile Sensor（结构色定义、Bragg 晶格调控与全部 MET 定量数据）
+- Chromic Phenomena（三工程层级：supramolecular = 液晶 / 光子晶体；λ 由结构决定）
+- Chromic Phenomena Solar Energy and Liquid Crystals（Ch.5 光子晶体；可见光区 3D 光子带隙材料尚待实现）
+- 结构色 Structural Color、Structural Colour Mechanochromism（结构色力致变色）（结构色总纲、共同失效模式、蛋白石工艺）
+- Chromism Taxonomy（变色现象分类）、Mechanochromic Materials Technical Review（EN v3, 2026-08）、Mechanochromic Routes Comparison（力致变色技术路线对比）（M1–M4 分类与路线裁决）
+- 相邻条目：机械变色 Mechanochromic、Mechanochro
+
+--- [[可穿戴传感器 Wearable Sensor]]  (3 句)
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[热风无纺布]]  (3 句)
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+   • **标题重复**: the vault holds ≥4 overlapping headings（本页、热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven）— a merge/ownership decision is owed .
+- No numeric permeability, tensile, gsm-vs-hand, or line-speed data for air-through webs is recorded in the vault .
+- The 中科依兰 nano-odour-powder route's two unresolved risks（喷嘴堵塞、线上跌落 / build-up）have no recorded validation result（源：中科依兰）.
+- Degradable air-through sheath: PGA-core route still gated on shelf-life; PET-core is backup only（源：可降解皮芯架构对比（PPC
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (3 句)
+   • 90-day plan：W1–2 screen the odour granular（go/no-go before any spend）→ W3–6 bench formulation（three dye loadings × two buffer levels）→ W7–9 pilot coater（capillary rheometer + 100–200 m/min + WVTR/hydrohead）→ W10–13 line trial（contact nozzle + chilled roll on one lane；Cpk、8-week ageing pull、stool panel）。
+- Odour-granular chemistry screen（risks）：Zeolite 4A/13X pH 9–11 HIGH；sodium bicarbonate pH 8.3 HIGH；activated carbon pH 6–10 MEDIUM（还会吸附染料）；cyclodextrin pH 6–7 LOW（兼容选择）；ion-exchange resin H⁺ for
+   • **触发分子必须是便中丰富、尿中不存在的蛋白** —— pH/湿度/温度全部不可用（假阴性风险）。支撑页：Protein Error of pH Dye（pH 染料的蛋白误差）
+- **染料负载是唯一的选择性旋钮** —— 想改触发阈值只能改负载量。支撑页：Protein Error of pH Dye（pH 染料的蛋白误差）
+- **碱性除臭颗粒是头号风险** —— 会从内部滴定缓冲体系；缓解须靠阻隔/包覆而非加酸。支撑页：Odour-Control Granular Interference（除臭颗粒干扰）
+- **几何（流体输运）比化学更难** —— 假阴性只需几何失效。支撑页：Hot-Melt Slot Coating（热熔狭缝涂布）
+- **温度上限由透气膜的 WVTR 决定** —— 线上看不出来，一周后的恒温恒湿箱里才发作。支撑页：Hot-Melt Slot Coating（热熔狭缝涂布）
+- **成本主体是 OEE 而非染料** —— 第四套涂布装置的可靠性才是工程重点。
+   • Concepts 概念：Protein Error of pH Dye（pH 染料的蛋白误差）、Odour-Control Granular Interference（除臭颗粒干扰）、Hot-Melt Slot Coating（热熔狭缝涂布）、Wetness Indicator Ladder（尿湿指示阶梯）、Titratable Acidity Lane（可滴定酸度通道）
+- Comparisons 对比：Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- Existing pages 既有页：智能尿裤功能层、变色油墨
+
+--- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]  (3 句)
+   • 1. **code 1–9 方案成形（作为实验计划提交）**：本轮共 9 个 code（其中 1 个归属其他同事，本团队实质 3–4 个 code 的制作量）。各 code 定义如下：
+   - **code 1 / 2**：整体形状沿用上一轮「大扇尾」（前 110 mm / 后 135 mm），差别在导流槽方向（后端向后、前端向前），做平行对比，目的为验证导流槽的引流与横向扩散是否改善吸收时间与回渗。
+   - **code 3 / 4 / 5**：不做花型变化，只变 SAP add-on —— code 3 按现有 X pad 密度核算（上下层分别 6.8 g）；code 4 / 5 探究密度上下限（先拍脑袋取值 6 g / 上层，含后续按现场趋势动态调整的约定）。
+   - **code 6 / 7 / 8**：幅宽口径统一为前后均 135 mm（PSN 155、IEL 140、LSN 200 维持不变），验证前/后漏；code 7 在 code 6 基础上剪短导流槽前端长度；code 8 在 code 7 基础上于前端增加一条**横向导流层**，验证其对冲到前端的液体的格挡与向
+   • 本轮为 COCO V6 芯体机第二轮实验（第一轮 7 月已完成，难度最高，pattern 已定），目标是在已定 pattern 平台上量化 shape（大扇尾 vs 长方形）、SAP add-on 上下限、导流槽长度与横向导流层、以及去味粉/亲水胶等变量的影响，最终在 Q3/Q4 沉淀为可交 DNC 落地的 design 框架与 guideline。同期还需为 odour-control 与亲水胶两条材料路线准备样品，因此本次芯体机试验被多方「搭车」使用。
+   • COCO芯体平台
+- Core Channel Pattern（芯体通道花型设计）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- SAP性能指标（CRC AUL GBP Vortex）
+- 诺尔（Nuoer）
+- Odour Management Routes（气味管理技术路线）
+- Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- 三叶形截面纤维（Trilobal Fibre）
+- 分区密度设计
+- Ultrasonic Bonding of PET-Containing Topsheet
+

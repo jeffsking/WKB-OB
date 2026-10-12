@@ -1,0 +1,133 @@
+# SEED: Airlaid Paper（无尘纸）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 117 页，193 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[气铺 Airlaid]]  (7 句)
+   • Airlaid（air-laid / airlaying，气铺/气流成网）is the **dry-laid web-formation route based on aerodynamic web formation**（气流成网）. The dry-laid chapter progresses from carding physics through feed/weight control to cross-lapping and perpendicular laying, and **"culminates in airlaying (aerodynamic web formation)"** whose raw-material science is **wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends**（源：Dry-laid web formation）. In the hygiene handbook it is one of the forming processes ma
+   • The commercial product form is **airlaid paper（无尘纸）**, defined by the Chinese product standard as the material supplied as **jumbo rolls or sheets** for disposable hygiene products, used in **wipes, diaper acquisition/absorption layers and absorbent cores**, and split into **普通无尘纸 (cellulose-only)** and **合成无尘纸 (with SAP)**（源：GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸））.
+   • As a web it is **isotropic**, unlike carded webs — "Airlaid webs are isotropic; carded webs are not"（源：Dry-laid web formation）.
+   • **Aerodynamic web formation**（气流成网）: the endpoint of the dry-laid route; input materials are wood pulp, man-made fibres, SAP and bicomponent blends（源：Dry-laid web formation）.
+- **Four-factor causal chain** for nonwoven absorbent structures: Constituent Fiber → Assembly Structure (Web Assemblage) → Type of Bonding → Finish — "Each of these factors can have an effect on the absorbency of the resulting structure"；采购评审须按序追问而非单一比价（源：Nonwovens in Absorbent Materials）.
+- **Binding–absorbency trade-off*
+
+--- [[Synthesis of Thermoplastic Polyester Elastomers]]  (6 句)
+   • **Note 注:** this is a single **journal scientific paper** (six pages, 11 references), not a monograph. The body text is **Serbian**; the abstract-most summaries, all table captions, all figure captions, and a full one-page English **SUMMARY** at the end are bilingual, so every substantive result below is verifiable in English within the file. The  field is recorded as  rather than EN/ZH because that is what the source actually is.
+   • The paper is a standard experimental study: introduction and literature review, experimental part, results and discussion, conclusion, references, and a bilingual summary.
+   • 1. **Design intent: non-polar soft segment.** Soft non-polar olefinic prepolymers are built into the polyester chain specifically to **improve hydrolytic and thermal stability and achieve better phase separation**, which particularly shows up as increased elasticity. Literature coverage of polyolefin soft segments in TPEs is explicitly called very scarce.
+2. **Why solution polycondensation.** Phase separation occurs during polycondensation because soft non-polar segments mix poorly with polar DM
+   • **MODERATE 中等关联.** There is no nonwoven, no PP, no SAP and no absorbent core here. The value is as a **structure–property reference for any elastomeric component** in the product — elasticity is the one mechanical function the paper is about.
+
+--- [[Nonwovens in Absorbent Materials]]  (5 句)
+   • 卫材四部件（Top Sheet / Core Body / ADL / Back Sheet）的**工艺-性能-成本三角**总纲：以四要素因果链为骨架，为每类部件匹配成形工艺（airlaid / spunbond / meltblown / spunlace / SMS）与验收参数。
+   • **无纺布定义与双属性**：非针织、非机织、非编织、非纸的纤维/微纤维纤网，关键判别是"absence of a yarn element"。适合作为吸液材料的两大根本原因： + 。
+- **四要素因果链**：Constituent Fiber → Assembly Structure（Web Assemblage）→ Type of Bonding → Finish。"Each of these factors can have an effect on the absorbency of the resulting structure"——采购评审须按序追问而非单一比价。
+- **纤维吸液机制二元性**：亲水溶胀纤维通过 fiber imbibition + fiber swelling 吸收；疏水纤维仅靠毛细管与结构空隙（capillary and structure voids）。直接决定面材（顶面）与芯体选材逻辑。
+- **粘合-吸液权衡**：多数 binder 疏水，"the net effect usually is some reduction in absorbenc
+   • 1. **双属性论**：无纺布适合吸液结构的两个根本原因是单位质量储液能力高（high bulk）与原料-成品转换成本低——构成后续一切工艺-产品选择的底层约束。
+2. **四要素因果链**：纤维→排列→粘合→整理是因果链而非平行关系，采购评审必须按序分层评价供应商。
+3. **粘合-吸液权衡**：化学粘合（binder 多疏水）通常削弱吸液；机械粘合保持本征吸液但限制溶胀、增强抗压回弹——是面材/芯体粘合方式选择的核心权衡。
+4. **ADL 密度梯度机理**：上 1/3 低密度（大孔隙、快速获取）+ 下部高密度（细密毛细管、高压差），是 Ch3 毛细管压力原理在产品的直接工程化落地。
+5. **范式转移信号**：preformed airlaid pulp fabric 可直供 converting line，消除现场粉碎木浆的"大而吵且粉尘"工序——虽原料单价略高，但"简化集成后的整机运营成本可抵消"。
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+
+--- [[湿迁移 Wet Migration]]  (4 句)
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **芯体吸液的液体输运**：绒毛浆在传统芯体里提供 **capillary wicking and temporary void volume**，在 SAM 溶胀并固定液体**之前**支撑快速初始摄入 —— 绒毛浆是「SAM 膨胀前那几秒」的通道与空间提供者，是**时间装置**而非单纯填充物（源：Blizzard Core（Blizzard 芯体结构））。
+- **复合芯体的建模要求**：MD/CD 性能差异必须用扩散张量，标量 D 不足（源：Diffusion Equations (Crank Ch.1)）。
+- **数值建模的时间步代价**：溶胀后期高 D 区间时间步必须极小，直接决定 SAP 建模与芯体湿迁移 FEM 的计算量（源：Numerical Methods for Diffusion (Crank Ch.8)）。
+- **薄型化的另一类「迁移」**：**Thinning creates SAP migration（变薄带来 SAP 移位）** —— 这是 **SAP 颗粒的物理移位**，与水分输运口径不同；配套手段是固结（热风穿刺熔融）与分层导流，不能只减厚度（源：可
+   • ：湿迁移的**定义句与量纲口径**（含水量 / 饱和度 / 迁移通量）在引用来源中均未给出。
+- ：本库尚无把「湿迁移」与回渗（rewet）定量关联的摘录；湿迁移 ≠ 回渗，引用时不可混用（源：Diffusion Equations (Crank Ch.1)）。
+- ：微胶囊语境下的迁移表述在摘录中**被截断**（"Migration is the hard …"），原文残缺，不予补写（源：Microencapsulation）。
+- ：助剂迁移「未被量化」——原章只定性给出 less susceptible to migration / less extractible，**未给出迁移速率模型或萃取限量数值**（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+- ：GB/T 34405-2017 的 LOQ 数值在摘录中被截断（LOD 0.005 mg/kg 可读，LOQ 不可读）（源：GB-T 34405-2017 Determination of Acrylamide Migration 
+   • **提供正文摘录的库内页面**
+- Numerical Methods for Diffusion (Crank Ch.8)
+- Chemical bonding
+- Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements
+- GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）
+- Blizzard Core（Blizzard 芯体结构）
+- 可降解生物基材料与薄且强芯体技术深度解析
+- Microencapsulation
+
+--- [[Computational Modeling in Absorbent Technology]]  (4 句)
+   • Chapter 4 (pp. 146–165; author Sach Kangovi, Simutel Associates) is the virtual-prototyping chapter: two worked cases — penetration absorbency and airlaid web-forming — demonstrate that physics-based modeling delivers parameter sensitivity unobtainable in the lab, at a fraction of the cost, and closes the loop with experimental validation (high-speed video, Fiberscope/Videoimagescope, static-pressure probes).（中文：本章以"渗透吸收"与"气流成网"两个实证案例论证基于物理定律的建模在精度、成本与效率上的优势，并以实验验证闭环，是吸收材料"虚拟原型"的方法论基础。）
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (4 句)
+   • Chapter 3 (pp. 93–127) is the most practically actionable chapter in the handbook: it converts "fast and full core" into two measurable numbers (C, Q), proves Capacity is predictable from thickness-per-gram while Rate is not (hence the structural constant K), and supplies the airlaid/needlepunched experimental dataset that directly maps areal density, low-melt ratio, needling intensity and SAP fraction onto product performance.（中文：第 3 章把"吸得快、吸得多"量化为 C 与 Q，证明容量可由每克厚度预测、速率必须引入结构常数 K，并给出可直接指导轻量化与非织
+   • **Function-first definition.** The core "exerts the force necessary to pull the liquid in, distribute it within the structure and hold it without releasing under normal external pressure" — pull, distribute, hold. Everything else in the chapter tests one of those three.
+- **Two metrics, one solvable.** C (cc/g) is predicted from T/W alone; Q (cc/g·s) is not. "The value of capacity can be monitored and predicted effectively by simply measuring thickness per unit mass and using eq. 1."
+- **Rate mo
+   • **Capacity is measurable before you build; rate is not.** T/W predicts C reliably, so areal density/thickness is the design variable to lock in early. Rate needs empirical K — treat any Q prediction from first principles as upper-bound only.
+- **Thinning is the highest-return lever in the chapter.** Every 40 g/m² of core removed pays back in both capacity and rate (40→160 costs 34%/54%); "thin" is not a comfort claim, it is a permeability-and-bulk argument.
+- **Low-melt share is a channel-plug d
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+
+--- [[GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）]]  (4 句)
+   • Product standard for **airlaid paper**（无尘纸）— both plain and SAP-loaded grades — as used in wipes, diaper acquisition/absorption layers and absorbent cores; the upstream raw-material standard named in GB/T 28004.1-2021's material chain.
+   • GB/T 24292-2009 (SAC/TC 141) covers airlaid paper supplied as jumbo rolls or sheets for disposable hygiene products, splitting the product family into 普通无尘纸 (cellulose-only) and 合成无尘纸 (with superabsorbent polymer). Requirement structure is paper-physics-heavy: basis-weight deviation ±10%, width ±3 mm, thickness ±0.4 mm, brightness 75.0–90.0%, pH 4.0–9.0, moisture ≤10%, plus an absorption ratio ≥2.0× for the plain grade (exempted for SAP grades, which is logically consistent since SAP dominates c
+   • **无尘纸分「普通 vs 合成（含 SAP）」两档，吸水倍率只考核普通档**——含 SAP 档的验收重心移到定量/厚度/pH 与卫生指标 —— 支撑页：Airlaid Paper（无尘纸）
+- **回收料禁令在 2009 版已存在**（4.9 条），GB 43631-2023 的回用原料禁令是延续而非首创 —— 支撑页：GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+   • 概念：Airlaid Paper（无尘纸）、GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- 来源：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）（原料链引用 GB/T 24292）
+
+--- [[GB-T 27731-2011 Release Paper for Sanitary Products（卫生用品用离型纸）]]  (4 句)
+   • Product standard for **silicone-coated release paper**（卫生用品用离型纸）used in sanitary napkins / diaper back-strip applications — the acceptance spec for the anti-adhesion liner around SAP-containing articles and for packaging separators.
+   • GB/T 27731-2011 (SAC/TC 141; drafters 中国制浆造纸研究院、佛山新飞卫生材料、小护士（天津）、广州宝洁、国家纸张质检中心) covers release paper supplied in jumbo rolls for one-time hygiene products. Technical requirements combine paper physics (basis weight series 29.0–44.0 g/m², density, MD tensile, tear index) with silicone-release performance: peel force against a standardized tape of 0.05–0.20 N/25 mm (Annex A) and residual adhesion rate ≥80.0% after 70 ℃ / 20 h aging (Annex B) — the two parameters that actually decide whether the re
+   • **离型纸的「验收灵魂」是剥离力 + 残余粘着率两项，而不是纸的物理指标**——前者决定放卷脱开手感，后者决定高温贮存后是否迁移失效 —— 支撑页：GB-T 28207-2011 Release Base Paper（离型原纸）
+   • 来源：GB-T 28207-2011 Release Base Paper（离型原纸）（同批离型纸族标准）、GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）
+- 对比：离型纸 vs 离型原纸（GB-T 27731-2011 vs GB-T 28207-2011）
+
+--- [[Smart Textiles and Their Applications]]  (4 句)
+   • **Naming caution 命名提示.** This is a single **conference paper** (an invited lecture), not the monograph *Smart Textiles and Their Applications* (Woodhead Publishing, 2016) with which it shares a title and an author. Do not cite this page's page-range or claims as coming from the book.
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+   • **The cost verdict is the most useful sentence in the paper.** Both active-fibre and electrochromic routes are explicitly blocked on cost/integration and on lifetime/reliability respectively. Anyone proposing a powered or electrically-switched indicator on a disposable should read that as a negative result from the smart-textile community's own work — see US20070270773A1 Thermochromic Wetness Indicator for the passive, power-free alternative that a disposable actually uses.
+- **Layer-count reduc
+   • Smart Fabric Textiles Recent Advances and Challenges — the wider 2022 survey; uses a three-tier passive/active/ultra-smart taxonomy instead of this paper's two-tier one
+- Smart Fabrics and Networked Clothing — the parallel fibre-first (CNT yarn) integration philosophy
+- Chromic Phenomena Solar Energy and Liquid Crystals — physical chemistry behind the reversible colour change used in §2.3
+- US20070270773A1 Thermochromic Wetness Indicator — the low-cost passive route that avoids this paper's stat
+
+--- [[吸收芯体]]  (3 句)
+   • The vault has no standalone generic definition of 吸收芯体 (the absorbent core); the working sense used across the citing sources is **the liquid-storing middle layer of a disposable absorbent article**, built from a fibre phase plus superabsorbent polymer. For the composite variant, the vault *does* give an explicit regulatory definition: 复合吸收芯体（Composite Absorbent Core）是**以无尘纸/无纺布包裹 SAP + 绒毛浆的预制芯**（a pre-formed core of airlaid/nonwoven wrapping around SAP plus fluff pulp）（源：QB-T 5650-2021 Composit
+   • **Core as a distinct standard layer 芯体作为独立标准层级.** QB/T 5650-2021 places the composite absorbent core at its own层级, and its **吸收速度（≤40 s）比婴儿成品（≤50 s）更严**（源：QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体））——芯体作为「中间品」层级是供应商准入与技术协议的直接判定依据。
+- **Core covering process 芯体包覆工艺.** 热风法非织造布是纸尿裤吸收芯体包覆层的典型场景，其蓬松结构提供导流空间（源：无纺布五大工艺对比）；复合结构上，**热风棉 + SAP + 底膜**构成纸尿裤/卫生巾吸收芯体的整体结构（源：SMS复合结构）。
+- **Interfaces with the intake system 与摄入系统的界面.** ADL 对芯体的三层职责为 ACQUIRE → D
+   • QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）
+- CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- Manufactured Fibre Technology Ch15 Acrylic Fibres
+- ADL（导流层）
+- Intake System（摄入系统）
+- SMS复合结构
+- 无纺布五大工艺对比
+- GB 15979-2024（一次性使用卫生用品卫生要求）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 传统芯体 vs 复合芯体（性能·成本·供应链）
+- SAP（高吸水树脂）
+- 绒毛浆（Fluff Pulp）
+- Rewet Test（回渗测试）
+

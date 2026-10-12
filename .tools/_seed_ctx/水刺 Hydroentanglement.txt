@@ -1,0 +1,74 @@
+# SEED: 水刺 Hydroentanglement
+# type: concept | 原引用数: 6
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Fluid Absorption in High Bulk Nonwovens
+#   - Handbook of Nonwovens
+#   - Mechanical bonding
+#   - Nonwovens in Absorbent Materials
+#   - Wet-laid web formation
+#
+# 全库正文命中 9 页，13 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mechanical bonding]]  (4 句)
+   • Chapter 5 completes the web-formation side by treating mechanical bonding — needlepunching, stitch-bonding and hydroentanglement — the family of consolidation methods that interlock fibres without adhesive, thermal or chemical binders.（中文：第 5 章讲机械加固（针刺、缝编、水刺），是不用粘合剂/热/化学粘合剂的纤维互锁成布方式。）
+   • It is organised into three technologies: stitch-bonding (Maliwatt/Malimo/Malipol), needlepunching, and hydroentanglement (spunlacing).（分三技术：缝编、针刺、水刺。）
+- The first two target durable/industrial goods; hydroentanglement is the growth engine most relevant to disposables.（前两者主攻耐用/工业；水刺是面向一次性用品的增长引擎。）
+- The hydroentanglement section supplies the equations (specific energy K, SE_c, jet impact force F ∝ p·d²), fibre-selection rules and in-situ microfibre routes (splittable bicomponents, Lyocell fibrill
+   • Hydroentanglement is high-velocity water-jet mechanical bonding — binder-free, lint-free, soft.（水刺为高速水射流机械加固，无粘合剂、不掉屑、柔软。）
+- K and SE_c are engineerable levers; lowering SE_c at fixed strength cuts water/power cost.（K 与 SE_c 可工程化调控，降 SE_c 即降本。）
+- Viscose/Lyocell (low wet modulus) entangle cheaply; PP/PET need hydrophilic finishes.（粘胶/莱赛尔易缠结，PP/PET 需亲水处理。）
+- High impact force unlocks premium microfibre routes (BICO split, Lyocell fibrillation).（高冲击力解锁微纤化高端路线。）
+   • 父书：Handbook of Nonwovens
+- 概念：水刺 Hydroentanglement、针刺 Needlepunching、莱赛尔 Lyocell、双组分纤维 Bicomponent、Topsheet（面层）
+- 关联章节：Dry-laid web formation、Wet-laid web formation、Polymer-laid web formation
+
+--- [[Wet-laid web formation]]  (2 句)
+   • It opens with the standards definition (EN 29092 / ISO / EDANA) separating wetlaid nonwovens from wetlaid papers, then derives the Bernoulli balance for slice velocity.（先以标准定义区分湿法无纺布与湿法纸，再推导堰口速度的伯努利方程。）
+- Two deposition regimes are established: filtration (individual fibres → uniform) vs thickening (pre-flocculated → non-uniform).（两种沉积机制：过滤式均匀、增稠式不均。）
+- The fibre palette is surveyed: cellulose, Tencel/Lyocell (wet strength + fibrillation), SWP synthetic wood pulp, deep-grooved PET, polyolefins.（
+   • 父书：Handbook of Nonwovens
+- 概念：天丝 Tencel、水刺 Hydroentanglement、双组分纤维 Bicomponent、ADL（导流层）
+- 关联章节：Dry-laid web formation、Polymer-laid web formation、Mechanical bonding
+
+--- [[Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）]]  (1 句)
+   • 1. **分工是刻意不对称的**：顶层多孔、柔软、蓬松（porous, soft and bulky），让颗粒**钻进**纤维之间而不是只躺在表面上；底层孔径小得多、机械强度高得多，负责拦住颗粒不掉落。
+2. **两个约束方向**：
+   - **x–y 平面（纵向/横向）移动**靠顶层纤维的缠结捕捉来阻止；
+   - **z 向（截面方向）掉落**靠底层孔径 < 颗粒粒径来阻止。
+3. **为什么必须是水刺**：这里是**机械缠结（hydroentanglement）**，来源把它与热粘合、热熔/超声、针刺、化学粘合、胶粘合并列后定为优选；水刺使短纤对底层形成**基本永久的固定（essentially permanent fixation）**，从而得到足以兜住颗粒的稳固结构。
+4. **底层选 spunmelt / SMS 的原因**：纺熔布在**很低的克重**（来源最优选仅 4–12 gsm）下仍能提供足够的强度与足够小的孔径，这是把载体做薄的前提。
+5. **双峰纤维设计**：顶层短纤按权利要求做「≤50% 短而轻 + ≥50% 长而重」的至少两类（PET / PE / PP）
+
+--- [[Absorbent Technology]]  (1 句)
+   • **概念 Concepts**：SAP（高吸水树脂） · 吸收芯体 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law · Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · 交联密度 Crosslink Density · 双组分纤维 Bicomponent · 生物纤维素 Bacterial Cellulose
+- **姊妹书 Sister Books**：Handbook of Nonwovens · Superabsorbent Polymers and Superabsorbent Polymer Composites
+- **供应商 Entities**：Kimberly-Clark（金佰利） · BASF · SNF（法国） · OxyChem · LG Chem（LG 化学）
+- **标准 Standards**：ASTM · AATCC · INDA · TAPPI ·
+
+--- [[Dry-laid web formation]]  (1 句)
+   • The chapter progresses from carding physics (worker/stripper/licker-in/doffer, metallic wire geometry, aerodynamic control) through feed/weight-control systems to cross-lapping and perpendicular-laid structures.（从梳理机理、喂入与称重控制，到交叉铺网与垂直铺网。）
+- It culminates in airlaying (aerodynamic web formation) and its raw-material science: wood pulp, man-made fibres, superabsorbents (SAP) and bicomponent blends.（高潮在气流成网及其原料科学：木浆、人造纤维、SAP 与双组分混合。）
+- For hygiene R&D the chapter explicitly names the "liquid acquis
+
+--- [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]  (1 句)
+   • The application titled "NONWOVEN CARRIER FOR ABSORBENT ARTICLE" relates to a nonwoven carrier (1) for immobilizing superabsorbent polymer particles (28) in an absorbent article. The carrier comprises a nonwoven top layer (7) penetrable by the particles and a nonwoven bottom layer (8); the top layer is **mechanically bonded by hydroentanglement**（水刺）to the bottom layer, the bottom layer is porous with a **pore size smaller than said particles**, and — this is the characterization — **the top laye
+
+--- [[Fluid Absorption in High Bulk Nonwovens]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、Specific Air Volume、每克厚度 T／W、结构性常数 K、承压吸收 AUL、回渗 Rewet
+- 工艺：Mechanical bonding、水刺 Hydroentanglement、Thermal bonding、纺粘 Spunbond、熔喷 Meltblown、热粘合热风无纺布 Airlaid
+- 理论/方法：Washburn Equation、达西定律 Darcy's Law、Characterisation, testing and modelling of nonwoven fabrics、GATS 重力吸收测试
+- 相邻章节：Porous Structure and Liquid Flow Models、Surface Tension and Surface Energy
+
+--- [[Handbook of Nonwovens]]  (1 句)
+   • 概念 Concepts：SAP（高吸水树脂）、纺粘 Spunbond、熔喷 Meltblown、水刺 Hydroentanglement、热风无纺布、双组分纤维 Bicomponent、Topsheet（面层）、吸收芯体、ADL（导流层）、回渗 Rewet、底膜 Backsheet
+- 实体 Entities：Woodhead Publishing Limited、CRC Press LLC
+- 对比 Comparisons：全芯体 vs 混合芯体（如库内存在）
+
+--- [[Nonwovens in Absorbent Materials]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+

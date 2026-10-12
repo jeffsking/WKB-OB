@@ -1,0 +1,115 @@
+# SEED: 熔喷 Meltblown
+# type: concept | 原引用数: 6
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - ES 纤维热风非织造布驻极性能初探
+#   - Fluid Absorption in High Bulk Nonwovens
+#   - Handbook of Nonwovens
+#   - Nonwovens in Absorbent Materials
+#   - Polymer-laid web formation
+#
+# 全库正文命中 56 页，99 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Coform Composite Nonwoven（熔喷-木浆复合非织造）]]  (4 句)
+   • **一句话定义**：把**熔喷 PP 纤维（meltblown polypropylene）**与**木浆纤维（fluff pulp / cellulose）**在同一成形过程中直接复合而成的非织造材料 —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；典型用于湿巾基材，本库关注其在**纸尿裤芯体包裹层（core wrap）**上的迁移可行性。
+   • Meltblown Nonwoven（熔喷非织造布）
+- 绒毛浆（Fluff Pulp）
+- ADL（导流层）
+- Composite Core Patent Clearance（复合芯体专利规避审查）
+- 延江（Yanjan）
+- Kimberly-Clark（金佰利）
+   • ✅ **验证记录（2026-09-29）**：结构与用量来自**内部技术文件**（Coform technical solution & material-use calculation），非现场实测；"TJ" 指大田（Taejon）为**推断**，文件自标注 Medium [待验证]。参见 Meltblown Nonwoven（熔喷非织造布）、绒毛浆（Fluff Pulp）、Kimberly-Clark（金佰利）。
+   • Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨） ——
+
+--- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]  (4 句)
+   • P&G 的**已授权美国专利（US 7,195,621 B2，仅 1 项权利要求）**：用**熔喷无纺布（meltblown nonwoven）替代 PE 膜**作为一次性衣物的阻隔/透气组件，并给出一套**可执行的四参数窗口**（纤维直径、克重、透气度、透湿度）+ 三个通过 10 psi 不漏的实施例。是本库 Film-Free Backsheet（无膜背层） 路线最早、且参数最硬的一份一手出处。
+   • Title: "DISPOSABLE GARMENT COMPRISING MELTBLOWN NONWOVEN BACKSHEET". The invention addresses the discomfort of polyethylene film backsheets: a plastic film has insufficient moisture breathability and almost no air permeability, causing skin irritation. Microporous polyfilm is the next attempt, but may deliver "sometimes less than 50% of the desired level" of breathability and still almost no air permeability. The inventor's diagnosis of the competing nonwoven prior art (unexamined Japanese publi
+   • **去膜背层（film-free backsheet）不是新想法，2000 年就有量化专利**——本案把"熔喷替代 PE 膜"落成了四个可直接验收的数字，而非概念性主张。→ Film-Free Backsheet（无膜背层）
+- **本案的经验是"纤维不是越细越好"**——0.5–2.5 µm 的先行技术因孔径过小而失去透气并拉低强度；本案反向取 **3–10 µm**，与本库 Formation-Limited Barrier（阻隔的成形受限机理） 关于"成形/均匀性而非平均直径决定阻隔"的论述方向一致。→ Meltblown Nonwoven（熔喷非织造布）
+- **同时限定模量（230–650 gf/mm）是工艺性要求**：既要够软能悬垂，又要够强能在加工线上跑起来——这解释了为什么单纯追求超细纤维没有产线价值。
+- **权利要求与说明书的差异极大，读范围时必须注意**：摘要/SUMMARY 讲的是 **backsheet**，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上。→ 见下方 manual_review。
+   • Concept 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、SMS复合结构
+- Entity 实体：The Procter & Gamble Company（宝洁）
+
+--- [[Film-Free Backsheet（无膜背层）]]  (3 句)
+   • 1. **Two barrier mechanisms, not one 两种阻隔机理**：the film's barrier is a **solid wall**；the nonwoven's barrier is a **capillary**。That is why the film holds **> 1000 mbar in every contamination column** while the nonwoven collapses as surface tension falls。中文：膜是实壁、无纺布是毛细——所以污染物一进场，两者不是「差一点」，而是「差两个数量级」。
+2. **Where it wins unconditionally 无条件胜出的位置**：chassis outside the core footprint（芯体足迹以外的机身）——no free liquid ever reaches it, breathability is a pure win, and the softness/drape gain is what the consu
+   • 支配机理 支配机理：Formation-Limited Barrier（阻隔的成形受限机理）
+- 载体工艺 载体工艺：Meltblown Nonwoven（熔喷非织造布）、SMS复合结构
+- 硬件 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- 对照 对照：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）
+- 相邻结构议题 相邻结构议题：亲水-疏水梯度设计、分区密度设计、热风粘合无纺布
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- SMS复合结构 —— 库内页（PFAS 风险基线）
+
+--- [[Formation-Limited Barrier（阻隔的成形受限机理）]]  (3 句)
+   • 1. **The ideal-pore model over-predicts by 15× 理想孔模型高估 15 倍**：Laplace on the median pore of a 1.5 µm web gives roughly **800 mbar**；real webs deliver **40–140 mbar**。The gap is not pore size — it is that **liquid finds the thinnest patch on the sheet and breaks through there**。（中文：差距不在孔径，而在液体总从最薄处击穿。）
+2. **The governing relation 支配关系式**：P ∝ weakest local gsm × γ |cos θ| ÷ fibre diameter。Note that this makes surface tension（γ）与接触角（θ）与克重均一性**同位阶**的杠杆，而不是并列的三个独立变量。
+3. **The weakest patch is an extr
+   • 载体工艺 载体工艺：Meltblown Nonwoven（熔喷非织造布）、SMS复合结构
+- 应用 应用：Film-Free Backsheet（无膜背层）
+- 对照 对照：SMMMS vs SMMSMMS（成本·性能·供应链）、无纺布五大工艺对比
+- 相邻性能议题 相邻性能议题：SAP性能指标（CRC AUL GBP Vortex）（同属「用哪一类指标才能判别性能」的方法论问题）
+- 材料 材料：茂金属聚丙烯（450 MFR 而非 1200 MFR 的理由 = 降成形 CV）
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- 无纺布五大工艺对比 —— 库内页（过滤精度视角的对照基线）
+
+--- [[SMS复合结构]]  (3 句)
+   • 组成工艺：热风粘合无纺布（同类复合思路的另一载体）
+- 对比：无纺布五大工艺对比、SMMMS vs SMMSMMS（成本·性能·供应链）
+- 2026-09-29 追加：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）
+   • **⚠️ 本库重点风险提示（来源原文强调）**：**PFAS 风险不只在「防水」宣称里**。熔喷布的**驻极助剂**常含含氟电荷俘获剂，是最容易被忽视的隐藏 PFAS 来源；常规质检思路经常遗漏这一点。应对方向：驻极助剂需专项核查，转向 C0 无氟体系。
+- **2026-09-29 追加（无氟路线已出现可执行的化学选项）**：无膜背层方案要求疏水化走 **PFAS-free alkyl-modified polyolefin masterbatch（无氟烷基改性聚烯烃母粒）**，advancing contact angle 105° → 118–122°，约 +35 % hydrohead，成本 3.5 EUR-c/kg——可作为「转向 C0 无氟体系」的具体落点。出处：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）。
+- **待补**：SMS 各层的克重配比与阻隔性能定量关系，本库暂无来源 ；2026-09-29 追加：SMMMS 的**实测**（非模拟）静水压与单束成形 CV 仍缺。
+   • 无纺布-五大工艺论剑 —— 
+- Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） ——
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (3 句)
+   • **HIGH 高关联** — this is one of the few sources in the vault that links **resin specification → nonwoven process → delivered fabric property** with numbers attached, and it is the canonical citation for the MFR split between spunbond and meltblown. Directly serves:
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]  (3 句)
+   • 1. The deck opens with an executive verdict of three findings, and its first finding is **negative**: in the industrial window fibre diameter is drag-limited — set by throughput per hole and jet velocity, not by melt viscosity — so the stated premise that better melt flow at the nozzle gives finer fibres does not hold（模头温度 250 → 300 °C 使模拟直径变化 < 1%）.
+2. Its second finding is the **real prize**: capillary residence time is 4–20 ms against 480 s for the rest of the melt path, so heating only the t
+   • **Fibre fineness is bought with throughput per hole and jet velocity, not with temperature.** —— 支撑页：Meltblown Nonwoven（熔喷非织造布）
+- **Thermal decoupling of the die tip is the real benefit of the laser**, because degradation is dose = rate × time and the capillary shortens the time by 80,000×. —— 支撑页：Laser-Assisted Die Tip（激光辅助模头）、熔融指数与化学降解
+- **Barrier is formation-limited**, so beam count and local basis-weight CV — not median pore size — set hydrohead. —— 支撑页：Formation-Limited Barrier（阻隔的成形受限机理）
+
+   • Concepts 概念：Meltblown Nonwoven（熔喷非织造布）、Film-Free Backsheet（无膜背层）、Formation-Limited Barrier（阻隔的成形受限机理）、Laser-Assisted Die Tip（激光辅助模头）、SMS复合结构、熔融指数与化学降解、茂金属聚丙烯
+- Comparisons 对比：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、无纺布五大工艺对比
+- Sibling project directory 同目录项目：
+
+--- [[Polymer-laid web formation]]  (3 句)
+   • Chapter 4 is the technical core of the web-formation triptych: it treats spunbond and meltblown as integrated melt-extrusion processes where resin molecular structure sets the processing window, which sets fibre architecture and end-use performance in hygiene/medical disposables.（中文：第 4 章是"成网三章"的技术核心，将纺粘/熔喷视为一体化熔融挤出工艺，树脂分子结构决定工艺窗口，进而决定卫材/医用终端性能。）
+   • §4.2 opens with polymer science: polyolefin architecture (isotactic/syndiotactic/atactic PP; HDPE/LDPE/LLDPE; PET; PA; TPU), resin properties governing spinnability, and the metallocene single-site catalyst revolution.（先讲聚合物科学：聚烯烃立构、可纺性树脂属性、茂金属单活性中心催化剂革命。）
+- Spunbond process engineering (§4.3–4.7) and meltblown engineering with extensive parametric/modelling literature (§4.9–4.13) follow.（随后是纺粘工艺工程与含大量参数/建模文献的熔喷工程。）
+- Composites and future trends (§4.14–4.15) close the chapter, tying polymer-lai
+   • 父书：Handbook of Nonwovens
+- 概念：纺粘 Spunbond、熔喷 Meltblown、SMS 复合无纺布、驻极体 Electret、Topsheet（面层）
+- 关联章节：Dry-laid web formation、Wet-laid web formation、Thermal bonding
+
+--- [[Laser-Assisted Die Tip（激光辅助模头）]]  (2 句)
+   • 宿主工艺 宿主工艺：Meltblown Nonwoven（熔喷非织造布）
+- 受影响的机理 受影响的机理：熔融指数与化学降解（MFR 与分子量的交换关系）
+- 服务的结论 服务的结论：Formation-Limited Barrier（阻隔的成形受限机理）（成形 CV 决定阻隔，故不能靠提 MFR 泄压）
+- 应用 应用：Film-Free Backsheet（无膜背层）
+- 树脂 树脂：茂金属聚丙烯（450 MFR 聚合直出）
+- 加工邻居 加工邻居：热风粘合无纺布（同为「以热换结构」的工艺）
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- 熔融指数与化学降解 —— 库内页（MFR-分子量关系的基线）
+
+--- [[Meltblown Nonwoven（熔喷非织造布）]]  (2 句)
+   • 1. **Drag-limited attenuation 阻力限制的牵伸**：filament reaches velocity-matching with the air jet, and after that mass conservation fixes the diameter（d ∝ v(m / Λ v_a)）。Melt viscosity only changes how fast matching is reached — 2.4 mm from the tip at 285 °C, 2.7 mm at 250 °C。中文：一旦与射流速度匹配，质量守恒即锁定直径；粘度只影响「多快达到匹配」。
+2. **Three real levers 三个真实杠杆**：cut g/hole/min（0.73 → 0.20 at fixed line output means 35 → 130 hpi）、raise jet velocity（150 → 250 m/s buys 2.85 → 2.21 µm, then saturates）、and **nothing else** —
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- 无纺布-五大工艺论剑 —— 
+- 无纺布五大工艺对比 —— 汇总页（库内）
+- SMS复合结构 —— 库内页
+- 纳米纤维素供应商拜访计划 V3.1（2026Q2） ——
+

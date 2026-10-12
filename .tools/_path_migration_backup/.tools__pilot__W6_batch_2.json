@@ -1,0 +1,47 @@
+{
+ "batch_id": "W6-2",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a0c35b173c773db06ec0067bc5124e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/LMP-PP Brief - Plan C Supplement.docx.md",
+   "name": "LMP-PP Brief - Plan C Supplement.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "weburl_3867e2b60070d7dc3f413086d0b0036e_2a129f613b8d17300b81ad46ec4031b5",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Market Insight/未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图.md",
+   "name": "未来五年纸尿裤技术创新路径：前瞻引领与商业落地双轨路线图.md",
+   "type": "weburl"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_ac1ec2cf271de520ce26bac558cadc3d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/全芯体材料清单与实验计划_v2.xlsx.md",
+   "name": "全芯体材料清单与实验计划_v2.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_fe502cbeddf7f1b1f863d685075db623001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/LMP-PP Resin Development Brief (Integrated Edition).docx.md",
+   "name": "LMP-PP Resin Development Brief (Integrated Edition).docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_e414673313b18aaaaa48d91c67fa7d42001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/IMA知识库索引_20260904.md.md",
+   "name": "IMA知识库索引_20260904.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8fad8baf88dcfc64d678ebf51ec1c049001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/gels-10-00474.pdf.md",
+   "name": "gels-10-00474.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bee8045340dfa7dcc8c34a209df7ce37001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/IMA知识库索引_20260918.md.md",
+   "name": "IMA知识库索引_20260918.md.md",
+   "type": "markdown"
+  }
+ ]
+}

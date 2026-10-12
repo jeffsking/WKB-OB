@@ -1,0 +1,21 @@
+{
+  "batch": "seed_fill_f",
+  "done": [
+    "WIKI/concepts/光子晶体 Photonic Crystal.md",
+    "WIKI/concepts/卫材胶黏系统 Hygiene Adhesive Systems.md",
+    "WIKI/concepts/压敏胶 PSA.md",
+    "WIKI/concepts/底膜 Backsheet.md",
+    "WIKI/concepts/形状记忆聚合物 Shape Memory Polymer.md",
+    "WIKI/concepts/毛细压力 Capillary Pressure.md"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "光子晶体 Photonic Crystal: digest excerpts were off-topic (Manufactured Fibre Technology etc. never mention photonic crystals); facts were taken only from the 3 documented citing sources (Chromic Phenomena, Chromic Phenomena Solar Energy and Liquid Crystals, Interactively Mechanochromic Electronic Textile Sensor). Source line/page numbers quoted from the source pages not independently re-verified.",
+    "卫材胶黏系统 / 压敏胶 PSA / 底膜 Backsheet / 形状记忆聚合物 / 毛细压力: same pattern - digest 'verbatim excerpts' partly off-topic, facts drawn strictly from the digest's cited-by source pages. No numbers invented; unit strings kept in ASCII (kcal/mol, mbar, gsm, mJ/m2, mN/m, J/m2, kJ/m3).",
+    "压敏胶 PSA: duplicate seed page '[[PSA]]' (concepts/PSA.md, 1 citing source == Handbook of Adhesive Technology Full Report) overlaps this page topic; merge/dedup pending.",
+    "毛细压力 Capillary Pressure: duplicate seed pages '[[Cross-linked Cellulose and Derivatives]]' and '[[Cross-linked Cellulose and Its Derivatives]]' both exist; dedup pending.",
+    "底膜 Backsheet: formal definition not given by any citing source -> marked 定义待补; Film-Free hydrohead/WVTR figures are modelled (not measured) values, quoted as such.",
+    "形状记忆聚合物 / 光子晶体: formal definitions not given by citing sources -> formal definition marked 定义待补 (functional descriptions only, sourced)."
+  ],
+  "count": 6
+}

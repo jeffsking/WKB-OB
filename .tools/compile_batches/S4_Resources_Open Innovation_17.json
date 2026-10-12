@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Product Report-Out FB.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Product Report-Out FB.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Product Report-Out FB.xlsx.md",
+   "name": "Product Report-Out FB.xlsx.md",
+   "title_hint": "Product Report-Out FB.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "name": "卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md",
+   "title_hint": "卫生护理用品行业特种变色油墨（光敏温敏湿.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本结构拆解.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本结构拆解.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本结构拆解.xlsx.md",
+   "name": "CoPET_PET与PE_PET成本结构拆解.xlsx.md",
+   "title_hint": "CoPET_PET与PE_PET成本结构拆解.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Consumer Relevancy of FIUP Method Feb 2025.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Consumer Relevancy of FIUP Method Feb 2025.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Consumer Relevancy of FIUP Method Feb 2025.docx.md",
+   "name": "Consumer Relevancy of FIUP Method Feb 2025.docx.md",
+   "title_hint": "Consumer Relevancy of FIUP Method Feb 2025.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+   "name": "2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+   "title_hint": "2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.09.02 - AC Brand Connect.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.09.02 - AC Brand Connect.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.09.02 - AC Brand Connect.pptx.md",
+   "name": "2025.09.02 - AC Brand Connect.pptx.md",
+   "title_hint": "2025.09.02 - AC Brand Connect.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤的异味控制与消除.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤的异味控制与消除.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/纸尿裤的异味控制与消除.pdf.md",
+   "name": "纸尿裤的异味控制与消除.pdf.md",
+   "title_hint": "纸尿裤的异味控制与消除.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Full Results.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Full Results.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Full Results.xlsx.md",
+   "name": "Full Results.xlsx.md",
+   "title_hint": "Full Results.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+   "name": "Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx.md",
+   "title_hint": "Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/05_细菌纤维素微凝胶技术研究报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/05_细菌纤维素微凝胶技术研究报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/05_细菌纤维素微凝胶技术研究报告.md.md",
+   "name": "05_细菌纤维素微凝胶技术研究报告.md.md",
+   "title_hint": "05_细菌纤维素微凝胶技术研究报告.md"
+  }
+ ]
+}

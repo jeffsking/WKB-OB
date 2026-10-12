@@ -1,0 +1,41 @@
+# SEED: CTMP 化学热磨浆
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cross-linked Cellulose and Its Derivatives
+#
+# 全库正文命中 5 页，11 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (4 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Cross-linked Cellulose and Derivatives]]  (3 句)
+   • Chapter VII covers molecular-level chemical modification of cellulose into superabsorbent derivatives — cross-linked CMC (the most commercialized cellulosic route), HEC, phosphonoalkyl/phosphorylated cellulose, sulfonated/oxidized cellulose, microfibrillated cellulose (MFC) and lignin-retaining CTMP — and unifies them under Donnan gel-swelling theory.
+   • 本章在分子层面论述纤维素的化学改性超吸水路线——交联 CMC（最成熟的纤维素基路线）、HEC、磷酸化纤维素、磺化/氧化纤维素、微纤丝化纤维素（MFC）及含木质素 CTMP，并以 Donnan 凝胶溶胀理论统一解释。
+   • **Cross-linked CMC** is the core technology: etherification (monochloroacetic acid, up to 8 mol/mol cellulose) followed by cross-linking (epichlorohydrin, formaldehyde, glutaraldehyde). **Water-insolubility threshold at low DS ≈ 0.35–0.40**; cross-linked CMC gives 5–25 g/g vs 1–2 g/g for unmodified pulp (p. 278).
+- **DS vs cross-link tradeoff**: higher cross-link gives strength and prevents dissolution but limits swell space → lower capacity; must be tuned precisely (p. 278). Thermal/acid treatm
+
+--- [[WRV 水保留值]]  (2 句)
+   • — no source read here describes how WRV is measured or what it physically represents beyond the name "water retention value". The only quantitative anchor in the vault is the CTMP kernel value above.
+   • Absorbent Product Testing — WRV named as a required fibre-acceptance metric (Ch.11)
+- Cross-linked Cellulose and Its Derivatives — WRV 131 for lignin-bearing CTMP (Ch.7)
+- 相关概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、回渗 Rewet、湿态压缩模量、Klemm 法、Wilhelmy 湿附力法、达西定律 Darcy's Law、绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶、SAP（高吸水树脂）、Kimberly-Clark（金佰利）、Hercules Aqualon、Absorbent Technology、Grafted Cellulose
+
+--- [[交联 CMC]]  (1 句)
+   • Cross-linked Cellulose and Its Derivatives — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
+- Fibers and Fibrous Materials — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
+- 相关概念：取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、爆裂纤维 Burst Fibre、角化 Hornification、WRV 水保留值、改性纤维素 Modified Cellulose、合金粘胶 Alloy Rayon、绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、CTMP 化学热磨浆、Danufil 粘胶
+
+--- [[Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）]]  (1 句)
+   • Executive summary lists nine headlines: BHK China +$10 in Feb with March increase being executed; NBSK China +$3; BHK market activity post-Chinese New Year better than expected; BSK weaker than BHK, flat-to-down in March; **Indonesia harvesting permits revoked** (hits BHK/BCTMP/DP); **Iran war** with oil at $90–100/bbl (peaked near $120); **Phoenix Resources BCTMP (850 kt/yr) turbine failure outage** in early March. BHK detail: +$20 announced in early March but only +$10 executed against Chinese
+

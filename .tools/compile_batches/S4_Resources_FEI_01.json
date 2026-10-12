@@ -1,0 +1,13 @@
+{
+ "stage": "S4",
+ "block": "Resources/FEI",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md",
+   "name": "IPC BCC FEI update (IA2.0)- 20260622.pdf.md",
+   "title_hint": "IPC BCC FEI update (IA2.0)- 20260622.pdf"
+  }
+ ]
+}

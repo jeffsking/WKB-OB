@@ -1,0 +1,12 @@
+# SEED: 感湿-感温双变色层大小便判别
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 1 页，2 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 111317617 A（可判断大小便的纸尿裤·马西臣）]]  (2 句)
+   • **「光学读出 + 可复用电子件」与产品端主流（Lumi/Orizon）同型**，且把变色层放在电子件与排泄物之间作隔离 → 感湿-感温双变色层大小便判别
+- **大小便判别靠湿敏/温敏双通道的差分响应+算法**，比单通道尿显信息量大 → Wetness Indicator Ladder（尿湿指示阶梯）
+- **变色层可用市售感水变色涂料/水显墨/感温涂料**——材料侧无新料，创新全在层序与读出架构 → Thermochromic Microcapsule (Leuco Dye System)
+   • Concept 概念：感湿-感温双变色层大小便判别、Wetness Indicator Ladder（尿湿指示阶梯）、Thermochromic Microcapsule (Leuco Dye System)
+

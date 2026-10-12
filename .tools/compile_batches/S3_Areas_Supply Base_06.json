@@ -1,0 +1,76 @@
+{
+ "stage": "S3",
+ "block": "Areas/Supply Base",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/华南理工异形纤维：创新科技的纺织材料.html.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/华南理工异形纤维：创新科技的纺织材料.html.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/华南理工异形纤维：创新科技的纺织材料.html.md",
+   "name": "华南理工异形纤维：创新科技的纺织材料.html.md",
+   "title_hint": "华南理工异形纤维：创新科技的纺织材料.html"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md",
+   "name": "产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md",
+   "title_hint": "产品宣传册-中弘芯(青岛)传感科技有限公司.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/UV_CHT1608V2.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/UV_CHT1608V2.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/UV_CHT1608V2.pdf.md",
+   "name": "UV_CHT1608V2.pdf.md",
+   "title_hint": "UV_CHT1608V2.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md",
+   "name": "03_SDP Global — Industrial NMP-based SAF.pdf.md",
+   "title_hint": "03_SDP Global — Industrial NMP-based SAF.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/18_SDP Global — First Industrial NMP-based SAF.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/18_SDP Global — First Industrial NMP-based SAF.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/18_SDP Global — First Industrial NMP-based SAF.pdf.md",
+   "name": "18_SDP Global — First Industrial NMP-based SAF.pdf.md",
+   "title_hint": "18_SDP Global — First Industrial NMP-based SAF.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md",
+   "name": "v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md",
+   "title_hint": "v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/TM_CHT1608V2.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/TM_CHT1608V2.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/TM_CHT1608V2.pdf.md",
+   "name": "TM_CHT1608V2.pdf.md",
+   "title_hint": "TM_CHT1608V2.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/01_HySorb® B _ N _ BG _ BX _ T Series — BASF Personal Care & Hygiene.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/01_HySorb® B _ N _ BG _ BX _ T Series — BASF Personal Care & Hygiene.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/01_HySorb® B _ N _ BG _ BX _ T Series — BASF Personal Care & Hygiene.pdf.md",
+   "name": "01_HySorb® B _ N _ BG _ BX _ T Series — BASF Personal Care & Hygiene.pdf.md",
+   "title_hint": "01_HySorb® B _ N _ BG _ BX _ T Series — BASF Personal Care & Hygiene.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/01_HySorb® N 7059 Product Introduction PDF.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/01_HySorb® N 7059 Product Introduction PDF.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/01_HySorb® N 7059 Product Introduction PDF.pdf.md",
+   "name": "01_HySorb® N 7059 Product Introduction PDF.pdf.md",
+   "title_hint": "01_HySorb® N 7059 Product Introduction PDF.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/SS_CHT1608V2.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/SS_CHT1608V2.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Supply Base/SS_CHT1608V2.pdf.md",
+   "name": "SS_CHT1608V2.pdf.md",
+   "title_hint": "SS_CHT1608V2.pdf"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "batch": "S3_Areas_Personal_01",
+  "stage": "S3",
+  "block": "Areas/Personal",
+  "source_pages": [
+    "AI Core Settings for Chris Wang 2026-06-06 v3（AI核心设定_王总_2026-06-06_v3）",
+    "Korea Visa Grant Notice APEV03R08CH（APEV03R08CH-new passport）",
+    "CBC Lab Report 2026-06-04（检验报告20260708132924）"
+  ],
+  "concept_pages": [],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [],
+  "manual_review": [
+    "CBC Lab Report 2026-06-04（检验报告20260708132924）"
+  ],
+  "notes": "Personal 块按「只建 source 页、勿过度派生」执行，3 份个人资料仅建源摘要页，未派生任何概念/实体/对比页。CBC 检验报告为个人医疗记录，已标注隐私提示并列入 manual_review（建议用户确认索引必要性）。AI 设定文档与韩国签证亦仅索引。未改动 index.md/log.md、RAW*/AGENTS.md。"
+}

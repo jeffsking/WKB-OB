@@ -1,0 +1,92 @@
+# SEED: 聚氨酯 Polyurethane
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Adhesive Handbook Part 1 History and Information Resources
+#   - Adhesive Handbook Part 3 Adhesive Classes
+#
+# 全库正文命中 25 页，39 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Polyurethane Elastomer Handbook]]  (5 句)
+   • 课件把聚氨酯弹性体拆成「原料 → 化学 → 分类 → 工艺 → 应用」五段。它的实用价值集中在**浇注型（CPU）**部分：原料选型判据（聚酯 vs 聚醚）、扩链系数与固化条件的工艺敏感性、以及六类影响性能的工艺因素，都是可直接对到产线的颗粒度。TPU/MPU 部分较简，应用部分以图片图集为主。
+   • 源文件内含的图示与表格标题（图体为图片，正文可确认）：图 5-2「浇注型 PTMEG 聚氨酯混合温度与物性 1—100% 定伸应力；2—拉伸强度；3—伸长率；4—撕裂强度；5—邵氏 A 硬度」；世界聚氨酯产品产量及预测表；世界聚氨酯产品市场消耗比例饼图；CPU-LX 系列聚氨酯弹性体离心成型机。
+   • 相关性评级：**高（卫材弹性件与 PU 胶黏剂的原料—工艺基础）**。聚氨酯在卫材中以三种形态出现且都很关键：**弹性纤维/弹性膜**（氨纶、PU 弹性膜用于弹性腰围与防漏隔边）、**热熔胶/复合胶黏剂**（PU 类胶）、以及**功能性涂层/膜材**（透气膜、PU 膜复合）。本课件的原料化学（异氰酸酯—多元醇—扩链剂三组分）与 CPU 工艺敏感性分析，是理解 PU 供应商品号差异与来料波动的直接依据。
+   • 源文件 43,128 bytes / 766 行（>40 KB）。按抽样规则读取 （发展史、原料体系开头）并以  提取全篇幻灯标题结构与文件尾部，**未读取正文全文**。
+- 源文件为 PPT/PDF 抽取稿，**页面结构丢失**（同一标题在多页重复出现，如「浇注型聚氨酯弹性体（CPU）的种类」出现 6 次），本页按主题归并而非按页复述；图片仅留  占位。
+- 原书的编者、出版社、ISBN 与出版年**均未出现在源文件中**，故元数据相应字段留空 / 计为未标注；不据外部知识补写。
+- 本页为**索引页**，未生成 chapter 页。
+
+--- [[形状记忆聚合物 Shape Memory Polymer]]  (3 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。
+- 功能口径（有来源支撑，属**刺激响应聚合物**的一支）：SMP 是**在转变温度（Tg / Tm）附近改变弹性与隔热行为的聚合物** —— "shape-memory polymers (e.g. Diaplex) changing elasticity/insulation near Tg"（源：Smart Textiles and Sportswear）。
+- 在智能纺织品功能版图中，shape-memory 与 chromic（变色）、thermoregulation、waterproof-breathable、wearable electronics、PCM 并列为六条功能主线之一（源：Smart Textiles Review）。
+- 在卫材胶黏语境下被归为**温度响应路径**："聚氨酯 / 聚己内酯形状记忆聚合物，**Tg/Tm 附近模量突变 → 粘接力切换**"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- 历史锚点：shape-memory **silk thr
+   • **转变点附近的模量突变。** SMP 的开关来自 Tg / Tm 附近的力学—（乃至光学/阻隔）性质突变：Diaplex 靠**粒子在约 25 °C 转变点上下的重分布**工作，并据此宣称**无孔隙的防水透气防冷凝**（源：Intelligent Textiles and Sports Clothing）。在胶黏语境中，这一突变被表述为"Tg/Tm 附近模量突变 → 粘接力切换"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- **被动 → 主动 → 超智能的三级框架。** 智能纺织品按"被动（感知）/ 主动（感知 + 响应）/ 超智能（感知 + 响应 + 适应）"分类，SMP 属**能改变形状/性能的响应材料**；核心组件为传感器、致动器、控制单元（源：Smart Textiles Review、Smart Textiles and Sportswear）。
+- **SMP 作为动态粘接路径。** 传统热熔胶"施胶 → 冷却 → **固定**粘接力（被动、不可逆）"；智能响应胶"施胶 → 固化 → **感知刺激** → **动态调整**
+   • Citing sources（3）: Smart Textiles & Wearables、Smart Textiles Review、Smart Textiles and Sportswear
+- 定义 / 案例: Intelligent Textiles and Sports Clothing、Smart Fabric Textiles Recent Advances and Challenges、Smart Textiles and Their Applications
+- 卫材胶黏路径: Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）、Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）、Ultra-Low Add-On Adhesive Application（超低添加量施胶）、汉高
+- 相邻概念: 刺激响应聚合物 Stimuli-Responsive Polymer、Stimuli-Responsive Polymer Materials (Nature Materials Review)、相变材
+
+--- [[Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization]]  (3 句)
+   • Chapter 6 is the synthesis-chemistry core. It separates **step-growth（逐步聚合）from chain-growth（链增长）**, then quantifies step-growth with the **Carothers equation** and **Flory's statistical distribution**, extends to **functionality f > 2 → crosslinking → gelation**, and closes with the product spectrum: polyester / polyamide / polyurethane / polycarbonate / polysulfide / polysiloxane / alkyd. 本章把聚合反应从经验工艺提升为可定量预测的统计动力学体系——这也是 SAP（交联聚电解质网络）合成的理论基石。
+   • **Addition vs Condensation 分类存在交叉**：Seymour 自己承认 "There is a large but not total overlap" —— 聚氨酯是加成聚合但产物含"缩合型"重复单元；环氧化合物开环聚合是加成但无副产物。提示**反应机理**比**产物类型**更本质。
+- **Carothers 方程的理想化假设**：DPN = 1/(1−p) 假设等摩尔、无副反应、官能团等活性；实际体系中 stoichiometric imbalance（r ≠ 1）会显著降低 DPN。
+- **凝胶点预测的偏差**：Flory-Stockmayer 理论忽略分子内环化（intramolecular cyclization），实际凝胶点通常晚于理论预测。
+   • **SAP 的交联网络就是本章的凝胶化问题**：SAP 是交联聚丙烯酸（部分中和）网络，其合成属逐步聚合 + 交联体系。原文判据"average functionality > 2 → crosslinking"与"αc = 1/(f−1)"直接给出交联剂用量的理论边界：交联剂太少（α < αc）→ 聚合物可溶、凝胶强度不足、易渗出；交联剂太多 → 网络致密、溶胀空间被压缩、保水量（CRC）下降。这正是 SAP 交联度窗口设计的定量依据。
+- **高转化率是硬性门槛**：Carothers 方程要求 p ≥ 0.990（DP > 100）才有实用高分子量。对 SAP 前体聚丙烯酸意味着残留单体控制不只是安全/气味问题，更是分子量与凝胶强度问题——残留单体的波动会直接改变 p 与 DPN。
+- **PP 是本章的对照体系**：PP 属 chain-growth（加成型，重复单元与单体原子相同），分子量在引发后迅速达终值，转化率只影响产量不影响链长。因此 PP 的质量控制聚焦于催化剂选择性与等规度，而 SAP 的质量控制聚焦于转化率 p 与交联度 α——两者是两套完全不同的控制逻辑。
+- 
+
+--- [[Mechanophore Mechanochromism（机械力致变色分子）]]  (2 句)
+   • 1. **Spiropyran activation（螺吡喃活化）**：6π electrocyclic ring-opening under tensile force — the spiro C–O bond scissions at ≈ 240 pN per bond; spiropyran (SP, colourless) → merocyanine (MC, intense purple/violet); reversible upon release of force（MC relaxes back to SP）.
+2. **Force must reach the bond（力必须抵达那个键）**：single-molecule force spectroscopy puts spiropyran ring-opening at roughly 240 pN on a tens-of-millisecond timescale. That force only arrives if the mechanophore sits in a taut, load-bearing
+   • （中文：①螺吡喃活化——拉伸力下 6π 电环化开环，螺 C–O 键在约 240 pN/键断裂，螺吡喃（无色）→ 部花青（深紫），撤力可逆；②力必须抵达该键——单分子力谱显示开环需约 240 pN、时间尺度数十毫秒，只有处于张紧承载链中的变色团才能被加载；③本体活化本就微弱——本体现有研究都在「放大」活化（双变色团交联剂、纳米颗粒界面力聚焦、溶胀预张力），全部增加成本与化学复杂度；④阈值会漂移——活化应变随交联密度、应变速率、温度与拉伸几何而变，家长拉得快、设计者标定得慢，读数不可信；⑤因此必须共价接入——须作为交联剂建进化学固化网络，而**热熔胶是未交联热塑性体，链会滑移而非承载，几乎不会活化**；⑥会衰减——报道的活化约 3 次后峰值颜色即下降，因为承载变色团的过度应变链被破坏，而纸尿裤的穿脱次数远多于 3 次；⑦完整毒理包——婴儿产品中引入新发色团意味着完整毒理卷宗 + 迁移研究，首次出货前需 18–30 个月与六位数费用；⑧已记录反向证据——Orado 等（2025）把螺吡喃接入聚氨酯形状记忆聚合物（PUR-SP），荧光增强 56%、细胞相容、可逆并经小鼠模型验证（p<0.05）
+
+--- [[Flexible and Stretchable Electronics]]  (2 句)
+   • 1. **Problem framing 问题陈述**: conventional electronics = packaged components assembled on flat, rigid printed circuit boards; growing demand for 2.5D (free-form surface) and full 3D electronic circuits.
+2. **Application drivers 应用驱动**: comfort and ergonomics (wearable / implantable circuits); design and aesthetics (2.5D or 3D light sources); ecological reasons (more efficient materials usage, less CO₂ emissions in automotive applications).
+3. **Technology 1 — UTCP 超薄芯片封装**: bare Si or other inorg
+   • **No overlap with the core programme 与主线无交集**: the file contains nothing on ultra-thin absorbent cores, fluff pulp, SAP, ES/PE-PP bicomponent fibres, air-through or spunbond nonwovens, hot-melt/structural adhesives, or chromic inks. Its substrate materials (Si, spin-on polyimide, PDMS, PU) are not used in disposable hygiene constructions.
+- **The one genuinely transferable idea is architectural, not material**: "rigid functional islands connected by compliant geometry and embedded in a soft elas
+
+--- [[Flexible Stretchable Electronics Deep Read]]  (2 句)
+   • Demand is shifting from flat rigid PCB assembly toward 2.5D (free-form surface) and full 3D electronics; three named drivers are **comfort/ergonomics** (wearable, implantable), **design/aesthetics** (2.5D/3D light sources) and **ecology** (material efficiency, CO₂ reduction in automotive).
+- **UTCP**: bare Si (or other inorganic-semiconductor) chips thinned to **20–30 μm**, stacked spin-on polyimide embedding, fan-out metallisation → total package thickness **< 100 μm**.
+- **Stretchable route**:
+   • **Nothing here touches our materials主线**: no ultra-thin absorbent core, fluff pulp, SAP, ES/PE-PP bicomponent fibre, nonwoven bonding, adhesive, or chromic-ink content. The named materials — Si, spin-on polyimide, PDMS, PU — do not appear in disposable hygiene constructions.
+- **One architectural idea transfers, weakly**:  is the same strain-management principle behind elastic-thread and elastic-laminate design for waistbands and cuffs, where stiff elements must survive large repeated strain in 
+
+--- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]  (2 句)
+   • The technical verdict rejects molecular mechanophores on three counts — the ~240 pN/bond threshold equals ~40,000 psi, two orders of magnitude above the 20–150 kPa diaper target; the merocyanine state is thermally transient at 37 °C and polar-sensitive (hygiene moisture accelerates relaxation → false negatives); and the signal fades after ~3 stretch cycles. It notes the counter-evidence too: Orado et al. (2025) incorporated spiropyran into a polyurethane shape-memory polymer (PUR-SP) with +56 % 
+   • （中文摘要：提案先立「不可见的合身问题」——腰围张力是连续变量（1.4–3.9 N）但护理者对实际松紧零反馈，文中引述 67% 护理者对最佳松紧不确定；过松（<38% 应变）下坠漏液、过紧（>101%）限制活动，10 mm 腰弹性体在 2.5 N 时约 29 mmHg 已超不适阈值。技术裁决以三条理由否决分子力致变色：约 240 pN/键 ≈ 40,000 psi，比纸尿裤目标 20–150 kPa 高两个数量级；部花青态在 37 ℃ 下热不稳定且极性敏感（卫品湿气加速弛豫→假阴性）；约 3 次拉伸后信号衰减。同时记录反向证据：Orado 等（2025）把螺吡喃接入聚氨酯形状记忆聚合物（PUR-SP），荧光增强 56%、细胞相容、可逆。故维持 Track A（大学合作，12–24 个月），推进 Track B（几何光学掩膜）。商业面复述深化报告结论：约 0.09 美分/片、capex 3.8 万美元、无新化学与毒理包、K-C 概念专利 2026-10 到期；预估 +3–5% 溢价、退换/投诉率 −42%、在 41 亿美元增长品类中首发、零新化学物质。文末给出市场轨迹、五候选筛选表、七行
+
+--- [[Seymour Polymer Chemistry Ch09 Copolymerization]]  (2 句)
+   • **SBR（styrene-butadiene rubber 丁苯橡胶）**：*"Over 8 million tons of SBR were produced worldwide in 1995."* (line 110)；*"Often preferred because of its greater uniformity and cleanliness"* (line 211) —— 一致性与纯净度优于天然橡胶，但耐磨与回弹略逊。
+- **ABS**：*"A widely used plastic (ABS) is a copolymer or blend of polymers of acrylonitrile, butadiene, and styrene."* (line 114)
+- **SAN（styrene-acrylonitrile）**：耐化学性优于 PS (line 118)。
+- **Vinylite（VYHH）**：氯乙烯 87%–醋酸乙烯酯 13% 共聚物，1928 年引入 (line 121)。
+- **Ionomers 离子聚合物**：*"Copol
+   • **SAP 是交联共聚物，组成由竞聚率决定**：SAP 合成中丙烯酸（AA, Q = 0.40 / e = 0.60，line 97）为主单体，双官能团交联剂（如 N,N′-methylenebisacrylamide, MBA）与功能单体（如 AMPS）为共聚单体。因 AA 的均聚倾向强，AA 含量通常占绝对多数；**组成漂移（composition drift）意味着不加控制的批次投料会导致产物组成随转化率漂移**，这是 SAP 批次稳定性（CRC/AAP 波动）的分子层根源之一。
+- **离子聚合物的物理交联原理可类比 SAP**：原文指出乙烯-甲基丙烯酸离聚物靠金属离子簇形成物理交联点，室温呈热固性、加工温度下呈热塑性（line 124-126）。SAP 中部分中和的羧酸钠同样形成离子缔合区，与化学交联共同决定凝胶模量与保水量。
+- **弹性纤维与 TPE 直接对应卫材弹性件**：Spandex（聚氨酯-聚酯嵌段共聚物，line 133）与 SBS/SEBS 类 TPE 是纸尿裤弹性腰围、防漏侧边、弹性耳贴的材料基础；硬-软段微相分离（line 199-204）决定了弹性回复与
+
+--- [[温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）]]  (2 句)
+   • **温变 — 三大核心壁垒：**
+1. **粒径均匀性控制** —— 凹版/柔版要求 **<5 μm 且 >90% 落在目标区间**，需高精度乳化 + 分级设备，**批间 CV 需 ≤15%**；**国内现状大多 3~15 μm、批间 CV ~30% ⇒ 印刷一致性差**。
+2. **壁材强度 vs 薄度平衡** —— 壁材须**抵抗印刷剪切力**同时**尽可能薄（100~200 nm）以保证灵敏传热**；高端路线为**聚脲/聚氨酯 ⇒ 无甲醛 + 耐疲劳 + 薄壁高强**。
+3. **耐候性 / UV 稳定性** —— **隐色染料对 UV 与氧化敏感**，需添加 UV 吸收剂与抗氧化剂；**保质期是区分国内外的关键指标（1~3 月 vs 12~24 月）**。
+   • 温变湿变微胶囊技术参数对比表 —— **同名但不同来源的既有页面**（其  位于 ；本页位于 ）。**两页须并读，注意是否为同一表件的不同存放副本。**
+- Thermochromic Microcapsule (Leuco Dye System) —— 隐色染料体系：CVL/荧光烷 + 双酚 A 显色剂 + 相变溶剂；循环寿命与耐候性数据。
+- Water-Activated Ink（水变／湿变油墨） —— 湿变体系：Yellow→Blue、0.1~1 s 响应、>85% RH 敏感、包覆率与 CTI 垄断。
+- Microencapsulation —— 微胶囊通用技术：壁材（MF / 聚脲 / 聚氨酯）、包覆率、粒径 CV。
+- Chromism Taxonomy（变色现象分类） —— 温变（thermochromic）与湿变（hydrochromic）在变色谱系中的定位。
+- Wetness Indicator Ladder（尿湿指示阶梯） —— 湿变微胶囊的**核心应用即尿显指示**，其"响应快、无毒、耐摩擦"要求与本页一致。
+
+--- [[Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）]]  (1 句)
+   • 1. **核心矛盾 Root conflict**：SAP 吸液溶胀会①**稀释胶层有效成分**（削内聚与粘附）、②在界面产生**巨大膨胀内应力**（微裂纹与剥离）、③而高湿环境又会干扰胶自身固化进程。结果是**湿态剪切强度随时间快速衰减**。
+2. **路线一：分子设计 Molecular design**——通过亲水/疏水单体共聚制备相分离结构的**水下胶粘剂**；进而用阴离子聚合与点击化学合成结构明确的**巨型表面活性剂**（如亲水 POSS 头部 + 疏水 PS 尾部），在选择性溶剂中调控自组装形态（囊泡 / 蠕虫状圆柱体），为封装与胶基质构建提供结构单元。
+3. **路线二：接枝改性 Grafting**——淀粉/纤维素骨架接枝丙烯酸再水解引入羧酸钠（生物降解 SAP 经典路线）；前沿案例是把**废弃聚丙烯酸热固性 SAP 通过开环回收转化为压敏胶 PSA**（酸碱水解断交联 → 酯化转聚丙烯酸酯），LCA 显示其全球变暖潜势优于石油基 PSA 路线。
+4. **路线三：仿生协同保水 Bio-inspired water lock**——如 ESM/GOx/CSO 复合体系，
+

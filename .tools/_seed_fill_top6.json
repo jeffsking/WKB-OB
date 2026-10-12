@@ -1,0 +1,39 @@
+{
+  "batch": "seed_fill_top6",
+  "done": [
+    "吸收芯体",
+    "光致变色 Photochromic",
+    "回渗 Rewet",
+    "机械变色 Mechanochromic",
+    "刺激响应聚合物 Stimuli-Responsive Polymer",
+    "达西定律 Darcy's Law"
+  ],
+  "skipped": [],
+  "manual_review": [
+    {
+      "page": "吸收芯体",
+      "issue": "无通用定义（仅有 QB/T 5650-2021 的复合吸收芯体口径）；QB/T 第3章吸收倍率/回渗量的数值限值未给出；CN 116327488 B 权利要求8判定规则原文残缺"
+    },
+    {
+      "page": "光致变色 Photochromic",
+      "issue": "无教科书式形式定义；除彩态寿命213 min外无量化性能（量子产率/疲劳循环/半衰期）；CTI/松井/Intellego/天津塞特瑞均无样品报价送样记录"
+    },
+    {
+      "page": "回渗 Rewet",
+      "issue": "多套方法口径（Closed Cradle/FIFE/NWSP/国标）不可互换，跨行比较需人工确认；U Rewet 国标回渗压块与 TTM-00623 低压段反渗板实际质量/压强缺失；STM-00059-2 完整规程缺失；HPR<0.3g 机理未确认"
+    },
+    {
+      "page": "机械变色 Mechanochromic",
+      "issue": "各候选精确力阈值范围/可逆循环次数/皮肤·口服安全报告缺失；CTI 压力墨下移可行性与报价缺失；两种力度量口径(kPa vs mmHg)不可直接互换"
+    },
+    {
+      "page": "刺激响应聚合物 Stimuli-Responsive Polymer",
+      "issue": "仅有热力学定义、无聚合化学层面通用定义；PNIPA/PVCL 的 LCST 绝对温度值未给出；库内无刺激响应聚合物在芯体/面层/胶黏中的实测数据"
+    },
+    {
+      "page": "达西定律 Darcy's Law",
+      "issue": "仅有公式、无材料级渗透率 k 与孔隙率 Φ 数值；无 Reynolds 适用上限/Forchheimer 修正触发条件；x_v∝t^(1/2) 比例常数与流体黏度值未给出"
+    }
+  ],
+  "count": 6
+}

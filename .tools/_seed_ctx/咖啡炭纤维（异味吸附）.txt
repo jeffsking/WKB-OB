@@ -1,0 +1,69 @@
+# SEED: 咖啡炭纤维（异味吸附）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 9 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[活性炭除臭（DARCO）]]  (3 句)
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • **Odour control in hygiene products**: the route is applied to **卫品气味控制**（源：SymDeo™ XPP 抑臭聚合物）and listed alongside fibre-based odour adsorption for **面层/内裤无纺布消臭**（源：咖啡炭纤维（异味吸附））.
+- **Route-family sibling**: within the odour-control material family it is cited next to SymDeo™ XPP 抑臭聚合物（抑臭聚合物）and 咖啡炭纤维（异味吸附）（物理吸附纤维）, all under the same supplier landscape note at Symrise（德之馨）（源：SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）、Symrise（德之馨））.
+- **Supply-base context**: Cabot is logged as a **candidate supplier** with n
+   • Cabot DARCO KB-G Powdered Activated Carbon (TDS)
+- Cabot DARCO KB-G TDS（v3 归档同名件）
+- Cabot Corporation（卡博特）
+- Powdered Activated Carbon（粉末活性炭）
+- Odour Management Routes（气味管理技术路线）
+- Zeolite Odour Control（沸石除臭载体）
+- 咖啡炭纤维（异味吸附）
+- SymDeo™ XPP 抑臭聚合物
+- Symrise（德之馨）
+
+--- [[功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）]]  (3 句)
+   • 某中国功能性纤维企业的产品手册，覆盖 PTT 弹性纤维、超仿棉、超柔丽、抗紫外涤纶、负离子涤纶、**咖啡炭纤维（消臭）**、**库思玛纳米凉感纤维**等。作为「差别化/功能纤维供应商」信息源。
+   • **咖啡炭纤维可物理吸附异味（80–90% 消臭率），并具保暖性** —— 支撑页：咖啡炭纤维（异味吸附）
+- **差别化功能纤维（PTT/超仿棉/纳米凉感）覆盖弹性、仿棉、凉感等多方向** —— 支撑页：功能性差别化纤维（PTT_超仿棉_纳米凉感）
+   • 概念：咖啡炭纤维（异味吸附）、功能性差别化纤维（PTT_超仿棉_纳米凉感）
+
+--- [[Powdered Activated Carbon（粉末活性炭）]]  (2 句)
+   • 1. **活化造孔**：木基原料经磷酸法化学活化（phosphoric acid activation）形成发达中孔-微孔网络；对照水蒸气物理活化，磷酸法孔径偏中孔、利于吸附大分子。
+2. **吸附目标**：大分子量有机物优先——大色体（color bodies）、蛋白质等致臭/致色前体；低添加量即有可观脱色除味效果（厂商口径）。
+3. **形态与加工**：粉末形态（D50 ≈ 20 μm），需过滤步骤分离；过滤性与吸附容量需平衡（本品过滤时间 25 min 量级）。
+4. **卫材映射**：在卫生用品场景，PAC 的气味吸附逻辑与 Zeolite Odour Control（沸石除臭载体）、咖啡炭纤维（异味吸附） 同族——以多孔固相捕获挥发性致臭分子；添加形式（拌入颗粒层 / 纤维化 / 母粒化）决定其是否可行，本页 TDS 未涉及卫材直接应用 。
+   • 上位 / 相关：Odour Management Routes（气味管理技术路线）（除臭路线全景）
+- 同族对照：Zeolite Odour Control（沸石除臭载体）、SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）
+- 干扰警示：Odour-Control Granular Interference（除臭颗粒干扰）（除臭颗粒在测试体系中的干扰风险）
+
+--- [[Chitosan Fibre（壳聚糖纤维）]]  (1 句)
+   • 上位 / 相关：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+- 抗菌口径：抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+- 结构与载体：Super Absorbent Fibre（超吸水纤维 SAF）、细菌纳米纤维素、Microencapsulation
+- 除味/吸附：Zeolite Odour Control（沸石除臭载体）、咖啡炭纤维（异味吸附）
+- 对比：Biodegradable SAP（可降解高吸水树脂）
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (1 句)
+   • 同族（不同载体/机理）：Zeolite Odour Control（沸石除臭载体）、SymDeo™ XPP 抑臭聚合物、Odour-Control Granular Interference（除臭颗粒干扰）、咖啡炭纤维（异味吸附）
+- 载体相关：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- 评价方法：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+- 实体：汉高、中科依兰
+
+--- [[SymDeo™ XPP 抑臭聚合物]]  (1 句)
+   • 同类路线：咖啡炭纤维（异味吸附）（物理吸附）、活性炭除臭（DARCO）（待后续批次）
+- 应用场景：卫品气味控制
+
+--- [[ZnO Antibacterial Fibre（氧化锌抗菌纤维）]]  (1 句)
+   • 上位 / 相关：Material Safety Control（材料安全双轨管控）、抗（抑）菌性能评价（杀菌率·抑菌率）
+- 除臭对照：Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）、Powdered Activated Carbon（粉末活性炭）、咖啡炭纤维（异味吸附）
+- 功能纤维族：功能性差别化纤维（PTT_超仿棉_纳米凉感）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+
+--- [[Cabot Corporation（卡博特）]]  (1 句)
+   • Powdered Activated Carbon（粉末活性炭）（本厂 DARCO KB-G 所属材料路线）
+- Odour Management Routes（气味管理技术路线）（吸附型除臭路线全景）
+- Zeolite Odour Control（沸石除臭载体）（同族颗粒吸附路线对照）
+- 咖啡炭纤维（异味吸附）（纤维化异味吸附路线对照）
+
+--- [[Symrise（德之馨）]]  (1 句)
+   • SymDeo™ XPP 抑臭聚合物（其抑臭聚合物产品）
+- 咖啡炭纤维（异味吸附）、活性炭除臭（DARCO）（同属气味控制路线，后两者待后续批次）
+

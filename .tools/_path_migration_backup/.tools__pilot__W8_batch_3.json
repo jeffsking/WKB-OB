@@ -1,0 +1,65 @@
+{
+ "batch_id": "W8-3",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c607d76f83413c1f665642b2915f2103001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN113423778B.pdf.md",
+   "name": "CN113423778B.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_334690c1aed7176a5d4fa198f04e928f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN116327488B.pdf.md",
+   "name": "CN116327488B.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c67162dddd24371db0d29b70fe003e68001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/CN1330679C.pdf.md",
+   "name": "CN1330679C.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_f9802e527460604e2acce4d80bf04016001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/KR102205294B1.pdf.md",
+   "name": "KR102205294B1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b3405973d27ee843818e39b669e06c48001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/US10905605.pdf.md",
+   "name": "US10905605.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_58a13f00004a5c8fc65f8eb0f7e8d5b6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/US20220125319A1.pdf.md",
+   "name": "US20220125319A1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_0ec8accbcca587947f722587efc05f8a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/US8273939.pdf.md",
+   "name": "US8273939.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_165a73a28923b55e186474b2bdd135d7001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/WO2010071584A1.pdf.md",
+   "name": "WO2010071584A1.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_afc80cf4c136cf50c0e439b5f8de92bf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf.md",
+   "name": "v3非传统资源_②OEM测试协议_9_Nippon_Shokubai_CN_101679760_B___EDANA_测试方法引用清单.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_3bb5a7b2802fbfdc26d0e8ccfca18472001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/IP/一-2_强吸水婴儿纸尿裤.pdf.md",
+   "name": "一-2_强吸水婴儿纸尿裤.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

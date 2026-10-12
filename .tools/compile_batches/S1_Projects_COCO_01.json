@@ -1,0 +1,48 @@
+{
+ "stage": "S1",
+ "block": "Projects/COCO",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial.xlsx.md",
+   "name": "CI-06 COCO V6 3rd round trial.xlsx.md",
+   "title_hint": "CI-06 COCO V6 3rd round trial.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md",
+   "name": "Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md",
+   "title_hint": "Coco_V6_Trial_Raw_Materials_v2_Final.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_Summary.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_Summary.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_Summary.pptx.md",
+   "name": "Coco_V6_Trial_Raw_Materials_Summary.pptx.md",
+   "title_hint": "Coco_V6_Trial_Raw_Materials_Summary.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/COCO/Raw material list for Coco V6 trial.xlsx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Raw material list for Coco V6 trial.xlsx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Raw material list for Coco V6 trial.xlsx.md",
+   "name": "Raw material list for Coco V6 trial.xlsx.md",
+   "title_hint": "Raw material list for Coco V6 trial.xlsx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md",
+   "name": "IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md",
+   "title_hint": "IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_EN.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_EN.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_EN.pptx.md",
+   "name": "Coco_V6_Trial_Raw_Materials_EN.pptx.md",
+   "title_hint": "Coco_V6_Trial_Raw_Materials_EN.pptx"
+  }
+ ]
+}

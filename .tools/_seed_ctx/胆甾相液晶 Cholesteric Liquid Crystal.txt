@@ -1,0 +1,122 @@
+# SEED: 胆甾相液晶 Cholesteric Liquid Crystal
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chromic Phenomena Solar Energy and Liquid Crystals
+#
+# 全库正文命中 203 页，355 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[液晶 Liquid Crystal]]  (12 句)
+   • **Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range order**（源：General Introduction and Objectives）。The mesophases named in the vault are **nematic/cholesteric, smectic and columnar**; the constituent molecules are **calamitic (rod-like)** or **discotic**, and a polymer may place its mesogen in the **main chain (MC)** or the **side chain (SC)**（源：Liquid Crystalline Polymers Smart Applications）。A liquid crystalline polymer (LCP 液晶
+   • **Design lever = mesogen placement and shape.** Both the position of the mesogenic group in the polymer architecture (MC-LCP vs. SC-LCP) and its shape (calamitic vs. discotic) determine the liquid crystalline properties and therefore which application is reachable（源：Liquid Crystalline Polymers Smart Applications）。This classification governs the smart application pursued: **photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP**（源：General Introdu
+   • **Two thesis application threads.** Part 1 uses **calamitic** (rod-like) LCPs for light-triggered release; Part 2 uses **discotic/columnar** LCPs mimicking biological ion channels for proton transport（源：Liquid Crystalline Polymers Smart Applications）。Three nematic LCPs with α-methylstilbene in the main chain and aliphatic or aromatic spacers were synthesised; two synthetic routes were compared for yield and molecular weight（源：Liquid Crystalline Polymers Smart Applications）。
+   • **Bio-inspired columnar proton channels.** Bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into **homeotropically oriented columnar proton channels** with water-independent conductivity and size-selective ion transport（源：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane）。Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a **wide temperature range**; hydrophobic mesogeni
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (7 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Mechanism of permanent set (p.190–191): "The most important mechanism of permanent setting in crystalline polymers is through partial melting and recrystallization, whereby partial melting of small, imperfect crystals takes place below the melting point to allow the growth of larger more perfect and regular crystalline units."
+   • Why it cannot be undone (p.191): "the mechanism of heat-setting is to lead the structure to a position of lower minimum energy from the state prior to heat-setting." Hearle's crystal-size vs. melting-frequency diagram is cited with the plain statement that "small or imperfect crystals will melt and larger crystals will grow. This is a typical process of annealing" (p.192).
+   • Source wording (p.196): "shrinkage in PET is a two-stage process involving a rapid initial stage in which shrinkage is associated with disorientation in the amorphous zones, followed by a crystalline stage during which chain folding... occurs." Chain folding is evidenced by a specific IR absorption peak after high-temperature annealing (Koenig & Hannon; Wilson) (pp.195–196). 因此收缩与伸长之间没有唯一的一一对应关系 — no unique shrinkage/elongation correspondence exists.
+
+--- [[Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres]]  (6 句)
+   • This chapter treats **drawing 牵伸（orientation stretching 取向拉伸）** as the decisive post-spinning step that converts an as-spun filament of low strength and low orientation into a usable fibre. It moves from the mechanics of the drawing unit (draw twister 牵伸加捻机), through the necking/cold-drawing mechanism, to the structure–property chain "draw ratio → crystallinity / orientation / birefringence / density → tenacity and modulus", and closes with industrial routes including high-tenacity two-stage dra
+   • 1. **Drawing is orientation strengthening, not elastic deformation 牵伸的本质是取向强化而非弹性形变** (p.170). Source wording: "Through the drawing operation the fibre is orientationally strengthened due to alignment of the molecular chains along the fibre axis and shows enhanced recovery." 强度、模量与尺寸稳定性（dimensional stability）随之提升。
+2. **Spinning speed sets the residual draw ratio 纺速决定残留牵伸比** (p.171). Source wording: "an increase in spinning speed increases the orientation of the molecular chains along the fibre a
+   • Three-region load–elongation model on an undrawn filament (Fig. 8.3): region I elastic, region II post-yield plastic, region III strain hardening before break. Key parameters: **yield strain 屈服应变**, **yield stress 屈服应力**, **neck angle 细颈角**.
+- Neck angle is controlled by hot-plate temperature, hot-pin temperature, draw ratio and feed speed; a **snubbing pin 阻滞销** is used to stabilize the neck position. Necking 细颈: "the sample first yields with the appearance of a neck and thereafter the neck pro
+   • Structure is tracked by **X-ray crystallinity X射线结晶度**, **birefringence 双折射**, **density 密度**, and **dichroic ratio 二向色比** measured with a dichroic dye for *amorphous* orientation, complemented by **IR spectroscopy at 1700–1800 cm⁻¹** (C=O end-group concentration) and intrinsic viscosity for molecular weight distribution (p.180, pp.178–183).
+
+--- [[达西定律 Darcy's Law]]  (5 句)
+   • Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: **q = −K·∇P，K = k/μ**（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度 μ）（源：Liquid Flow in Porous Structures）。In absorbent systems the absorption driving force is not an external pressure but **capillary pressure**: **p_c = 2γcosθ/r**，外加重力或压力只起次要作用（源：Liquid Flow in Porous Structures）。
+   • **Capillary-driven absorption 毛细驱动的吸收.** 「The driving force for absorption of the bulk of the liquid into an absorbing material ... is the capillary pressure」，重力或外压为次要项（源：Porous Structure and Liquid Flow Models）。
+- **Unsteady flow = diffusion 非稳态流动即扩散.** 「Unsteady flow in a porous medium is similar to a diffusion process ... or a heat conduction process」；控制方程为 ∂s/∂t = ∇·[F(s)∇s]，其中 F(s) = (k/μΦ)(dp/ds) 即扩散因子（土壤物理中的「湿度扩散率」）（源：Porous Structure and Liquid Flow Models）。
+- **Coupling of permeability 
+   • **Core modelling interface 芯体建模接口.** 达西定律是第 1 章「多孔结构与液体流动模型」的核心构件，直接对接**芯体吸液动力学建模**；第 3 章 *Fluid Absorption in High Bulk Nonwovens* 与第 4 章 *Computational Modeling in Absorbent Technology* 分别提供吸液动力学/C-Q 模型与 2D/3D 数值模拟（有限元）（源：Absorbent Technology）。
+- **Material selection precondition 材料选择先决条件.** 接触角/润湿指数/附着功等表面化学第一性原理决定纤维与结构能否有效吸液——达西流动发生的**前置条件**（源：Absorbent Technology）。
+- **Porous-media treatment of nonwovens 非织造布的多孔介质处理.** 达西定律在非织造织物表征与建模中被列为关联概念（源：Characterisation, testing and modelling of non
+   • **无材料级渗透率 / 孔隙率数值**：库内各页给出达西定律与扩散因子的**公式**，但**未给出绒毛浆/非织造/SAP 层的 k、Φ 实测值**——需回 *Absorbent Technology* 原文补齐。
+- **达西定律的适用上限**：摘要未给出 Reynolds 数适用边界或 Forchheimer 修正的触发条件（源：Porous Structure and Liquid Flow Models 未涉及）。
+- **与毛细动力学的时间标度**：x_v ∝ t^(1/2) 的比例常数在摘要中**未数值化**（源：Liquid Flow in Porous Structures）。
+- **流体性质项**：μ（黏度）在摘要中仅作为 K = k/μ 的组成出现，**具体流体（尿/血/模拟液）黏度值未给出**。
+- **落地方案**：库内无把达西定律直接用于**产线工艺参数（如施胶量、压花）**的记录，属理论接口而非工艺口径。
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (5 句)
+   • This is the book's **methods toolbox 方法工具箱**. Characterization is organized into three levels: **molecular level 分子级** (molecular weight and its distribution), **thermal properties 热性能** (glass transition, melting, crystallization, decomposition) and **physical structure and morphology 物理结构与形态** (crystallinity, crystallite size, orientation). Each level is presented with principles, working equations and instruments, so later fibre-specific chapters can quote crystallinity, orientation function,
+   • The starting axiom (p.219): "polymers and fibres have a two phase structure comprising an ordered (also called crystalline) and a disordered (also called amorphous) phase." The five widely used techniques: "(1) density measurement, (2) optical birefringence, (3) X-ray diffraction, (4) small angle X-ray scattering and (5) infrared spectroscopy."
+   • **Overall versus crystalline orientation** (p.225): "Such an orientation function is thus called the 'overall orientation function', as distinct from the 'crystalline orientation function' determined by X-ray diffraction." Because birefringence carries both crystalline and amorphous contributions while X-ray sees only the crystalline phase, the two are not interchangeable. 总体取向 ≠ 结晶取向。
+   • 1. **Sheath-core PP/PE bicomponent fibre specification** depends on exactly the quantities defined here: crystallinity by density or XRD, melting onset by DSC, crystallite size by Scherrer. When qualifying a low-melting-point PP sheath grade, DSC onset vs. through-air oven temperature is the same pair of numbers discussed at pp.220 and 239 — see 低熔点PP技术路线对比.
+2. **Orientation splitting matters for nonwoven filaments**: birefringence gives overall orientation (crystalline + amorphous), XRD gives c
+
+--- [[Specific Air Volume]]  (4 句)
+   • **Specific air volume（比空气体积，V_s）** is the air/void volume per unit mass of an open fibrous web — i.e. the mass-basis capacity parameter of a nonwoven. In *Absorbent Technology* Ch.1 it is defined by the relation , where **φ = fibre packing fraction** and **ρ_f = fibre density**（源：Porous Structure and Liquid Flow Models）. The same relation is carried in the chapter's own extraction as "specific air volume Vs = (1/φ)(1/ρ_f − 1)"（源：Liquid Flow in Porous Structures）. The chapter calls it "the single
+   • **Two terms set V_s: packing fraction and fibre density.** Lower-density fibre gives more void per gram at equal areal density — **but only if wettability is comparable**; polyolefin's 0.92 g/cc is "a trap without a hydrophilic surface"（源：Porous Structure and Liquid Flow Models）.
+- **Rate and capacity are antagonists, both geometric.** Pore **size** sets rate (Hagen–Poiseuille: flow ∝ r²); pore **volume** — hence V_s — sets capacity（源：Porous Structure and Liquid Flow Models）.
+- **The denier leve
+   • **REL / absorbent-core pre-design.** V_s is the mass-basis capacity predictor used before prototyping: pick fibre density and packing fraction to reach the required void volume per gram（源：Porous Structure and Liquid Flow Models）.
+- **REL void-volume target.** The REL enhancement-layer project states a **void-volume target of 80–117 cm³/g @ 0.5 kPa** (OI-02 aims at 108–117 cm³/g), i.e. a per-mass void-volume figure on the same conceptual basis as V_s（源：REL增强层）.
+- **Bulk is a performance argument,
+   • Porous Structure and Liquid Flow Models — defines  (Eq. 46, p. 54); packing fraction; fibre-density comparison
+- Liquid Flow in Porous Structures — same relation; cellulose ~1.5 vs polyolefin ~0.92 g/cc on capacity
+- Fibers and Fibrous Materials — "Denier is the bulk dial": lower linear density → higher specific air volume
+- Fluid Absorption in High Bulk Nonwovens — capacity C ∝ T/W; areal-density penalty
+- REL增强层 — REL void-volume target 80–117 cm³/g @ 0.5 kPa
+- 相关概念：孔隙率 Porosity、达西定律 Darcy's L
+
+--- [[Washburn Equation]]  (4 句)
+   • What the digest *does* evidence is its **result form and its theoretical family**：in a porous medium the advancing wicking-front distance obeys **x_v ∝ t^(1/2)**，named the **Washburn / Rudd relation**（源：Liquid Flow in Porous Structures，p. 24, p. 37）；the equation is grouped into Chapter 1 "Porous Structure and Liquid Flow Models" of *Absorbent Technology*, alongside the **Péclet number, Darcy's law, Washburn equation and capillary rise**（源：Absorbent Technology）。The full explicit form（in terms of 
+   • **Theoretical position 理论定位**：the Washburn equation is one of the physical bases of absorption kinetics, alongside the Péclet-number criterion, Darcy's law, capillary pressure and the Kelvin equation, and interfaces directly with simulation（源：Absorbent Technology）。
+- **Relation to Darcy / diffusion 与达西·扩散的关系**：flow in porous media follows Darcy's law（q = −K·∇P）；under unsteady conditions it is mathematically identical to a diffusion process, so the advancing wicking front grows as t^(1/2)（源：Liqui
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane]]  (4 句)
+   • Shows that bio-inspired discotic/tapered-dendron liquid-crystalline polymers self-assemble into homeotropically oriented columnar proton channels with water-independent conductivity and size-selective ion transport — the materials foundation of the ion-transport thread.
+（展示仿生盘状/锥形树状液晶聚合物自组装成垂直取向的柱状质子通道，具湿度无关电导与尺寸选择性离子传输，是离子传输主线的材料基础。）
+   • Bio-inspiration: biological systems (protein channels, TMV helical self-assembly via exo-recognition) show water-free, highly selective ion transport, motivating artificial ion-channel design.（仿生：生物离子通道与 TMV 螺旋自组装启发了无水、高选择性人工离子通道设计。）
+- Dendronized polyethers with tapered (discotic) side groups form columnar liquid-crystalline phases over a wide temperature range; hydrophobic mesogenic side chains + hydrophilic ether linkages constitute the ion pathway.（锥形树状侧基聚醚在宽温域形成柱状液晶相；疏水介晶侧链+亲水醚键构成离子通路。）
+- H
+   • Bio-inspired discotic LCPs give water-independent, Nafion-comparable proton conductivity via homeotropic columnar channels — support page: Liquid Crystalline Polymers Smart Applications.
+- The "baking process" is a substrate-independent route to oriented proton membranes; extended in Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1 and Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 纳米线 Part 1：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1
+- 纳米线 Part 2：Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 2
+
+--- [[Ebewole Polymer Science Ch04 Thermal Transitions in Polymers]]  (4 句)
+   • Chapter 4 is the **thermal–structure–property bridge 热-结构-性能桥梁**: it takes the glass transition temperature **Tg** and the crystalline melting point **Tm** as its two axes and explains why polymer thermal behaviour differs fundamentally from that of simple small molecules.
+   • Three-state model for an amorphous polymer: **hard glassy solid → soft rubbery material → viscous liquid 硬玻璃态 → 软橡胶态 → 粘性液体**. For a semicrystalline polymer, between Tg and Tm the material "is composed of rigid crystals and a rubbery amorphous phase" — 半结晶聚合物在 Tg 与 Tm 之间是"刚性晶粒 + 橡胶态无定形相"的复合体。
+   • Other factors enumerated: **branching 支化**, **crystallinity 结晶度**, **plasticization 塑化**, plus external factors (pressure, test rate 压力与测试速率) and **copolymerization 共聚** as an industrial Tg-tuning tool (Ch.8).
+   • 1. **Thermal bonding windows 热轧/热风粘合窗口.** 聚烯烃纤网的粘合必须跨越 Tg（非晶区链段获得运动能力）并接近 Tm（晶粒熔融、界面扩散缠结）；半结晶 PP/PE 在 Tg 与 Tm 之间呈"刚性晶粒 + 橡胶态无定形相"（Ch.4, p.97），这正是热轧粘合既能成结又能保持纤网尺寸稳定的结构原因。粘合温度窗口的下限由 Tg 约束、上限由 Tm 与热收缩约束。参见 Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins、Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes。
+2. **Bicomponent fibre design 双组分纤维.** 皮芯结构（PE 皮 / PP 芯）的粘合窗口来自两种聚合物 Tm 的差值；Ch.4 的 Tm 定义（"the temperature at which the last crystallite starts melting"，p.96）提示熔
+
+--- [[General Introduction and Objectives]]  (4 句)
+   • This is the thesis's conceptual foundation: it defines stimulus-responsive "smart materials" via liquid-crystalline polymers and sets the two application threads (photoresponsive microcapsules + proton-conductive membranes).
+（本章是全书的立论基础，界定"智能材料"并以液晶聚合物为核心载体，引出光响应微胶囊与质子导电膜两条应用主线。）
+   • "Smart materials" historically trace to 1800s reports of magnetostriction; the thesis narrows the definition to polymers that can moderately reorganize their structure under stimuli, with novel liquid crystalline polymers (LCPs) as the central carrier for new material design, synthesis and system integration.（"智能材料"概念可溯至 1800s 磁致伸缩；本书将其收窄为可在刺激下中等程度重组结构的聚合物，并以新型液晶聚合物为核心载体。）
+- Liquid crystals are an intermediate state between isotropic liquids and 3D solids — partial mobility plus short-range orde
+   • Smart materials (narrowed): polymers able to moderately reorganize structure under stimuli — support page: Liquid Crystalline Polymers Smart Applications.
+- LCP classification (MC/SC × calamitic/discotic) governs which smart application is pursued — photoresponsive microcapsules use calamitic main-chain LCP; proton membranes use discotic side-chain LCP.
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 材料平台（后续章）：Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene
+- 质子膜主线（后续章）：Applying Nature's Genius to Discotic Liquid-crystal Polymers for Proton Conducting Membrane
+

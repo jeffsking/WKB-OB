@@ -1,0 +1,110 @@
+# SEED: 再润湿剂 Rewetting Agent
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 93 页，114 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[The Role of Surfactants]]  (4 句)
+   • Chapter 5 (pp. 166–215) is the formulation chapter: it builds the full causal chain surfactant → interfacial adsorption → free-energy change → wetting/penetration kinetics → macroscopic absorbency, and it separates the two most-confused product roles — wetting agents and rewetting agents — whose optimum molecular structures are actively opposed. Directly actionable for fluff-pulp treatment and core-layer chemistry.（中文：第 5 章建立"表面活性剂→界面吸附→界面自由能→润湿与渗透动力学→宏观吸液性"的完整因果链，并把最易混淆的润湿剂与再润湿剂做了严格区分，直接对应绒毛浆与芯
+   • **Scope.** "The use of surfactants provides one of the most powerful means available to the practitioner for altering absorbency, either to promote it or to suppress it."
+- **Definition by function, not by structure.** High interfacial adsorption at low bulk concentration is what makes a molecule a surfactant; not every amphiphile qualifies.
+- **CMC is the operating window.** Below CMC, linear monomer activity; near CMC, saturated interfacial adsorption (best free-energy reduction) — saturation 
+   • **Dose near CMC, never above it.** Extra surfactant above CMC is spent on micelles that cannot wet — a direct, quantifiable overrun in formulation cost.
+- **Design the hydrophile position, not just the chain length.** Central hydrophilic group (C7–C7) beats the straight C14 chain on wetting time; the molecular topology argument is worth more than the carbon count.
+- **Don't sell cellulose a wetting agent.** At 0° contact angle the fibre is already saturated; any measured gain is impurity removal
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[CN 114149650 A（一种抗盐抗菌型高吸水树脂及其制备方法）]]  (3 句)
+   • A Chinese published patent application (applicant: **安徽富瑞雪化工科技股份有限公司**) on a **salt-tolerant, antibacterial SAP** loaded with nano-TiO2/SiO2 and a composite antibacterial agent. SAP composition → FTO-relevant.
+   • The invention discloses a salt-tolerant antibacterial SAP made from (wt parts): unsaturated sulfonic-acid small monomer 25–38, nano-TiO2 11–17, nano-SiO2 9–13, composite fibre 11–19, composite nano-antibacterial agent 3–8, composite crosslinker 7–11, N,N'-methylenebisacrylamide 9–17, high-substitution crosslinked carboxymethyl cellulose 3–7, antioxidant 1–5. The composite fibre is made of carboxymethyl chitosan, saponin, montmorillonite, sepiolite and diatomite. It overcomes prior-art shortcomin
+   • **Nano-oxide + composite-antibacterial-agent salt-tolerant antibacterial SAP** — supporting page SAP（高吸水树脂）.
+- Adjacent to SAP 表面包覆（SAP Particle Surface Coating）.
+
+--- [[GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）]]  (3 句)
+   • GB/T 27741-2018 (SAC/TC 141) replaces the 2011 edition and provides one qualitative and two quantitative routes for migratable fluorescent whitening agents（可迁移性荧光增白剂）in paper, board and pulp. The qualitative method is the de-facto gate for hygiene papers: extract with pH 7.5–9.0 ammonia-buffered water, acidify the filtrate to pH 3.0–5.0, let a 5×5 cm gauze adsorb the FWAs for 30 min at 40 ℃, then inspect under 254/365 nm UV against a blank — fluorescence brighter than the blank in both parallels
+   • **「不得检出」条款的方法学落点就是本标准的定性纱布法**——凡卫生用品标准引用「可迁移性荧光增白剂不得检出」，判定按本标准第 5 章执行 —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **绒毛浆的荧光判定是定性引用**（GB/T 21331-2021 第 6.10 条引用本标准第 5 章）—— 支撑页：GB-T 21331-2021 Fluff Pulp（绒毛浆）
+   • 概念：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 来源：GB-T 21331-2021 Fluff Pulp（绒毛浆）
+
+--- [[Handbook of Adhesive Technology Full Report]]  (3 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • Handbook of Adhesive Technology Full Report — Full 4-part detailed compilation
+- Absorbent Technology — Core absorption mechanics
+- Handbook of Nonwovens — Nonwoven lamination
+- SAP（高吸水树脂） — Super Absorbent Polymer
+- PSA — Pressure-Sensitive Adhesive
+- Hot Melt Adhesive — Hot melt adhesives
+- Silane Coupling Agent — Silicon coupling agents
+- Nonwoven Lamination — Nonwoven lamination technology
+
+--- [[Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）]]  (2 句)
+   • 1. **可微分路径（differentiable path）**：求解器本身由 PyTorch/JAX/Julia AD 承载，PDE 离散与数值格式进入计算图 → 损失函数可对求解结果求导 → 神经网络（闭合模型、源项、边界模型）可用物理梯度训练。工程价值在于**训练目标与物理一致**，而不是只拟合数据。
+   - 后验训练（a posteriori training）：把 NN 闭合模型嵌入 LES 后按实际模拟结果训练，而非先离线拟合再插入——避免训练/部署分布不一致。
+2. **嵌入路径（embedding path）**：保留 OpenFOAM 等成熟求解器作计算核心，把 DNN 插到特定环节——替代 RANS 的线性动量耗散项、预测 LES 动态 Smagorinsky 系数，或在求解器运行中在线训练（IN_SITU）。
+3. **神经算子路径（neural operator path）**：FNO / KNO 等学习的是**函数到函数的映射**（与离散分辨率无关），PINNs 以 PDE 残差作损失，PDE-Net 走机理融合；优势是推理快，代价是外推与守恒性需额外约束
+   • **教训一（选型按需求分叉）**：要梯度反传与模型优化 → 可微分求解器（JAX-Fluids / PhiFlow）；要复用 OpenFOAM 生态 → 嵌入路线（DeepFlame / TensorFlowFoam）；要全栈 AI 与极速推理 → 神经算子（MindSpore Flow / DeepCFD）；要自主仿真与物理发现 → AI Agent + VLM 验证。
+- **教训二（加速倍数是口径陷阱）**：「3 个数量级」类数字的比较基线不同（稳态层流 vs 通用求解器、网格数、硬件），**跨项目倍率不可比**。
+- **教训三（守恒性优先）**：代理模型进入工程流前必须检查**质量守恒与稳定性**；NeuralDEM 明确宣称单 GPU 实时且守恒，说明守恒是被当作卖点而非默认属性。
+- **待补 **：各框架的开源许可证与维护活跃度；对多孔介质/可变孔隙率/毛细驱动的支持程度；与现有吸收模型的耦合路径。
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (2 句)
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+   • GB-T28004-2011 PH.doc
+- GB-T28004-2011 回渗渗漏.doc
+- GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫）
+- GB-T 28004.1-2021（纸尿裤国标）
+- GB-T 28004-2011 与 GB-T 28004.1-2021 婴儿纸尿裤指标对比
+- Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279）
+- Run-off & Leakage Test（滑渗与渗漏测试）
+- Rewet Test（回渗测试）
+- GBT28004.1-2021纸尿裤中交货水分的测定.doc
+- GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）
+- SAP（高吸水树脂）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+
+--- [[接触角 Contact Angle]]  (2 句)
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]  (2 句)
+   • 1. **Polyolefin stabilisation 聚烯烃稳定化直接决定纺丝与制品寿命.** PP/PE 树脂在纺粘/熔喷的高温加工与后续储存中经历 §V 的氧化降解；**主抗氧剂（链终止型）+ 辅助抗氧剂（氢过氧化物分解型）复配**是树脂配方的标准做法，直接决定熔体指数漂移与黄变。参见 熔融指数与化学降解。
+2. **Additive migration 助剂迁移即合规红线.** 本章对聚合物型增塑剂"less susceptible to migration, and less extractible"的表述，正是卫材（人体接触、婴幼儿用品）选择助剂的判据逻辑：优先**高分子量/反应型（键合入链）**而非小分子外加型。参见 Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）。
+3. **Masterbatch and additive packages 母粒与助剂包.** 功能母粒（亲水、抗菌、色母、弹性体改性）本质即本章的 additive 体系在纤维纺丝中的落地形式；双组分皮芯纤维的皮层/芯层可分别承载不同助剂。参见 B
+   • Ebewole Polymer Science Ch04 Thermal Transitions in Polymers
+- Ebewole Polymer Science Ch05 Polymer Modification
+- Ebewole Polymer Science Ch08 Copolymerization
+- 熔融指数与化学降解
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+
+--- [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]]  (2 句)
+   • **「上市时 ≤10 µg/g」与「消毒后 ≤250 µg/g」是 EO 残留的两个不同时点口径，检验判定须明确取哪一个** —— 支撑页：环氧乙烷残留（EO Residue）
+- **非织造布与纸类原料的可迁移性荧光增白剂「不得检出」是卫材供应链的硬红线** —— 支撑页：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **高吸水材料（SAP/绒毛浆芯体）若宣称抑菌，抑菌率门槛为 ≥99%，显著高于普通抑菌 ≥50%** —— 支撑页：抗（抑）菌性能评价（杀菌率·抑菌率）
+- **婴儿用产品毒理学口径加严（无刺激性 + 未见皮肤变态反应）** —— 支撑页：GB 15979-2024（一次性使用卫生用品卫生要求）
+- **湿巾/卫生湿巾生产用水须达药典纯化水，是工艺与成本的隐性门槛** —— 支撑页：GB 15979-2024（一次性使用卫生用品卫生要求）
+   • 概念：GB 15979-2024（一次性使用卫生用品卫生要求）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）、化妆品微生物限值（细菌总数·致病菌）
+- 实体：（无）
+- 对比：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）、GB 15979-2024 与 GB 15979-2002 主要技术变化对比
+
+--- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]  (2 句)
+   • **绒毛浆入厂验收的化学安全四件套（荧光物质/AOX/重金属/丙酮抽出物）是 2021 版新增** —— 支撑页：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- **处理浆 vs 未处理浆的取舍本质是「蓬松/吸速 vs 强度」**：处理浆蓬松度门槛更高（17.0 vs 15.0 cm³/g）但耐破度更低 —— 支撑页：绒毛浆（Fluff Pulp）
+   • 概念：绒毛浆（Fluff Pulp）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、TCF Bleaching（全无氯漂白）（AOX 与漂白工艺相关）
+- 来源：GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）
+

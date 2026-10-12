@@ -1,0 +1,13 @@
+# SEED: 皮肤科学 Dermatology
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Cosmetic Science
+#
+# 全库正文命中 1 页，1 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Cosmetic Science]]  (1 句)
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 皮肤科学 Dermatology
+- pH 响应材料
+

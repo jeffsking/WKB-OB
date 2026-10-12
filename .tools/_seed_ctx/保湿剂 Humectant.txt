@@ -1,0 +1,62 @@
+# SEED: 保湿剂 Humectant
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Cosmetic Formulation of Skin Care Products
+#
+# 全库正文命中 5 页，8 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[PCM-Free Thermoregulation]]  (2 句)
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+   • 1. **Z 向孔隙率梯度**（致密贴肤侧 / 蓬松芯侧）→ 进一步减缓皮肤侧 dT/dt（承接既有 REL 工作）；
+2. **贴肤区提高 BNC 克重** → 在关键处增加感热热质量；
+3. **结合水管理（保湿剂调节）** → 把缓冲窗口延伸到排尿事件之后；
+4. **透气背层 + ADL 协同** → 用蒸发消散抵消急性尖峰；
+5. **REL 增强层** → 不增 gsm 前提下提供机械鲁棒性。
+> **净结论**：PCM-free 的对等性**可在现有纤维素材料集内实现，无需新化学**。
+
+--- [[湿巾 Wet Wipes]]  (2 句)
+   • Formulation cross-over: the skincare-formulation reference covers formulation design, ingredient selection, processing and stability, and cross-references hygiene products in **moisturising / care wet-wipes formulation** and **nonwoven–skin interface comfort assessment**（源：Cosmetic Formulation of Skin Care Products）。
+- Related concepts: Nonwoven 非织造布、乳化剂 Emulsifier、保湿剂 Humectant、防腐剂 Preservative（源：Cosmetic Formulation of Skin Care Products）。
+- Shared chemical floor with diapers: GB/T 28004.1-202
+   • GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）
+- GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）
+- GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+- GB-T 27728-2011 Wipes（湿巾）
+- GB-T 27728-2011 Wipes（湿巾 · 副本1）
+- GB 5296.3-1995 Instructions for Use of Products of Consumer Interest General Labelling of Cosmetics（消费品使用说明 化妆品通用标签）
+- Cosmetic Formulation of Skin Care Products
+- Industrial Drying Ch40 Drying of Coated Webs
+- GB-T 277
+
+--- [[Cosmetic Formulation of Skin Care Products]]  (2 句)
+   • 1. **护肤品配方设计**——乳化剂、保湿剂、防腐剂、活性成分的选择与配比
+2. **原料科学**——表面活性剂、增稠剂、抗氧化剂、防晒剂
+3. **工艺与稳定性**——乳化工艺、均质、灭菌、包装
+4. **安全性与功效评估**——皮肤刺激、功效测试
+5. **与卫生用品交叉**——护肤型湿巾配方、非织造基材舒适性、微生物控制
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 乳化剂 Emulsifier
+- 保湿剂 Humectant
+- 防腐剂 Preservative
+
+--- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]  (1 句)
+   • 1. **Z 向孔隙率梯度**（致密贴肤侧 / 蓬松芯侧）——进一步减缓皮肤侧 dT/dt（承接既有 REL 工作）；
+2. **贴肤区提高 BNC 克重**——在关键处增加感热热质量；
+3. **结合水管理（保湿剂调节）**——把缓冲窗口延伸到排尿事件之后；
+4. **透气背层 + ADL 协同**——用蒸发消散抵消急性尖峰；
+5. **REL 增强层**——在不增 gsm 的前提下提供机械鲁棒性。
+> 净结论：**PCM-free 的对等性可在现有纤维素材料集内实现，无需新化学**；五条结构杠杆与三条残余差距一一对应。
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (1 句)
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further, builds on REL work.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+*Net result: PCM-free parity is ac
+

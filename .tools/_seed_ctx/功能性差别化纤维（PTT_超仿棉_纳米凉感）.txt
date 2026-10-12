@@ -1,0 +1,60 @@
+# SEED: 功能性差别化纤维（PTT_超仿棉_纳米凉感）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 10 页，14 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）]]  (4 句)
+   • 某中国功能性纤维企业的产品手册，覆盖 PTT 弹性纤维、超仿棉、超柔丽、抗紫外涤纶、负离子涤纶、**咖啡炭纤维（消臭）**、**库思玛纳米凉感纤维**等。作为「差别化/功能纤维供应商」信息源。
+   • The catalog introduces a range of differentiated functional fibers. **PTT fiber** has elasticity comparable to spandex-wrap yarn (~20% fabric stretch) at lower cost with good dimensional stability. **Super-cotton (超仿棉)** mimics cotton in look/handle/comfort yet exceeds it in wicking, anti-static and thermal stability, and can be upgraded with antibacterial, flame-retardant or UV functions. **Coffee-carbon fiber** uses honeycomb carbon pores from recycled coffee grounds to physically adsorb odor 
+   • **咖啡炭纤维可物理吸附异味（80–90% 消臭率），并具保暖性** —— 支撑页：咖啡炭纤维（异味吸附）
+- **差别化功能纤维（PTT/超仿棉/纳米凉感）覆盖弹性、仿棉、凉感等多方向** —— 支撑页：功能性差别化纤维（PTT_超仿棉_纳米凉感）
+   • 概念：咖啡炭纤维（异味吸附）、功能性差别化纤维（PTT_超仿棉_纳米凉感）
+
+--- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]  (2 句)
+   • 1. **Conjugated bicomponent spinning is the direct ancestor of splittable nonwovens**: the island-in-sea and radial-split configurations described at 14.6 are the same geometry used for splittable bicomponent spunbond and for海岛 staple used in high-coverage coverstock and wipes. See PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） for the modern side-by-side variant.
+2. **Non-circular cross-section → lustre, cover and handle** (p.387) is exactly the trade space behind topsheet s
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — commodity PET base for these speciality yarns
+- 三叶形截面纤维（Trilobal Fibre） — trilobal cross-section concept used in topsheet
+- Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection) — pentagram vs rounded trilobal topsheet selection
+- PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比） — modern side-by-side bicomponent routes
+- 功能性差别化纤维（PTT_超仿棉_纳米凉感） — 
+
+--- [[ZnO Antibacterial Fibre（氧化锌抗菌纤维）]]  (1 句)
+   • 上位 / 相关：Material Safety Control（材料安全双轨管控）、抗（抑）菌性能评价（杀菌率·抑菌率）
+- 除臭对照：Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）、Powdered Activated Carbon（粉末活性炭）、咖啡炭纤维（异味吸附）
+- 功能纤维族：功能性差别化纤维（PTT_超仿棉_纳米凉感）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+
+--- [[咖啡炭纤维（异味吸附）]]  (1 句)
+   • 功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感） ——
+
+--- [[扁平形截面纤维（Flat Fibre）]]  (1 句)
+   • 同族：三叶形截面纤维（Trilobal Fibre）、功能性差别化纤维（PTT_超仿棉_纳米凉感）
+- 应用：ADL（导流层）、Resilient Surge（PET 回弹导流层）
+
+--- [[SDHY Group（非织造布）]]  (1 句)
+   • 热风粘合无纺布（ATB 为本页主营工艺，概念页记录工艺原理与卫材应用）
+- 无纺布五大工艺对比（ATB 与其他成网/固结工艺的横向位置）
+- 功能性差别化纤维（PTT_超仿棉_纳米凉感）（纤维端差异化与本页布端差异化的上下游关系）
+
+--- [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]]  (1 句)
+   • 对比：PTT-PET S-S Fiber Technology Routes Compared（PTT-PET 并列纤维三条技术路线对比）
+- 源：PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）（英文版双文件）
+- 概念：PTT（聚对苯二甲酸丙二醇酯）、并列复合自卷曲纤维、功能性差别化纤维（PTT_超仿棉_纳米凉感）、PET（聚酯）
+- 实体：Shenghong Group（盛虹集团）
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]]  (1 句)
+   • 概念：三叶形截面纤维（Trilobal Fibre）、扁平形截面纤维（Flat Fibre）、功能性差别化纤维（PTT_超仿棉_纳米凉感）、原纤化（对照）
+- 实体：福地（Fudi）（三叶形路线的国产供方）、Emon Jiangsu（江苏益盟）（十字形 mono PET）
+
+--- [[德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）]]  (1 句)
+   • 实体：上海德福伦
+- 概念：亲水-疏水梯度设计、亲水整理耐久性、功能性差别化纤维（PTT_超仿棉_纳米凉感）、ZnO Antibacterial Fibre（氧化锌抗菌纤维）（同厂抗菌路线）
+- 相关：Topsheet（面层）（导湿速干在面层/补品层的潜在映射）
+
+--- [[苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）]]  (1 句)
+   • 实体：Emon Jiangsu（江苏益盟）、福地（Fudi）（寻源排序对照）
+- 概念：三叶形截面纤维（Trilobal Fibre）、扁平形截面纤维（Flat Fibre）、功能性差别化纤维（PTT_超仿棉_纳米凉感）
+

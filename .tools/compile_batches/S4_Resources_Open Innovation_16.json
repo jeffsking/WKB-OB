@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/基于搜索结果，目前确实存在多种开源的流体.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/基于搜索结果，目前确实存在多种开源的流体.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/基于搜索结果，目前确实存在多种开源的流体.pdf.md",
+   "name": "基于搜索结果，目前确实存在多种开源的流体.pdf.md",
+   "title_hint": "基于搜索结果，目前确实存在多种开源的流体.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md",
+   "name": "GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md",
+   "title_hint": "GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/06_SSMMS无纺布技术研究报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/06_SSMMS无纺布技术研究报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/06_SSMMS无纺布技术研究报告.md.md",
+   "name": "06_SSMMS无纺布技术研究报告.md.md",
+   "title_hint": "06_SSMMS无纺布技术研究报告.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Relevant Product Measurements.pptx.md",
+   "name": "Relevant Product Measurements.pptx.md",
+   "title_hint": "Relevant Product Measurements.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/中国母婴市场未来3-5年趋势洞察_2027-2030.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/中国母婴市场未来3-5年趋势洞察_2027-2030.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/中国母婴市场未来3-5年趋势洞察_2027-2030.pptx.md",
+   "name": "中国母婴市场未来3-5年趋势洞察_2027-2030.pptx.md",
+   "title_hint": "中国母婴市场未来3-5年趋势洞察_2027-2030.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/01_PLA_PPC_可降解材料研究报告.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/01_PLA_PPC_可降解材料研究报告.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/01_PLA_PPC_可降解材料研究报告.md.md",
+   "name": "01_PLA_PPC_可降解材料研究报告.md.md",
+   "title_hint": "01_PLA_PPC_可降解材料研究报告.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/高吸水纤维技术应用.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/高吸水纤维技术应用.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/高吸水纤维技术应用.pdf.md",
+   "name": "高吸水纤维技术应用.pdf.md",
+   "title_hint": "高吸水纤维技术应用.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/QUOTATION For Dual forming drum system 20260721.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/QUOTATION For Dual forming drum system 20260721.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/QUOTATION For Dual forming drum system 20260721.pdf.md",
+   "name": "QUOTATION For Dual forming drum system 20260721.pdf.md",
+   "title_hint": "QUOTATION For Dual forming drum system 20260721.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Scope Contract - 2025 Fundamental Rewet Improvement.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Scope Contract - 2025 Fundamental Rewet Improvement.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Scope Contract - 2025 Fundamental Rewet Improvement.pptx.md",
+   "name": "Scope Contract - 2025 Fundamental Rewet Improvement.pptx.md",
+   "title_hint": "Scope Contract - 2025 Fundamental Rewet Improvement.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访会议纪要_含流程图.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访会议纪要_含流程图.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访会议纪要_含流程图.docx.md",
+   "name": "诺尔集团供应商拜访会议纪要_含流程图.docx.md",
+   "title_hint": "诺尔集团供应商拜访会议纪要_含流程图.docx"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+# SEED: Clariant
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Ancient Organic Dyes and Pigments Chemistry
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#
+# 全库正文命中 3 页，4 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[珠光颜料 Lustre Pigment]]  (2 句)
+   • **Topsheet optics and hand.** The shaped-cross-section trade space（lustre × covering power × handle, p. 387）is named as relevant to **topsheet fibre selection**, though the source sentence tails off（）（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Adjacency to the chromic programme.** Structural colour without pigment is described as "directly adjacent to our chromic programme" — i.e. the vault's functional-colour work is optics-led, not dye-led（源：Intelligent
+   • Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+- Intelligent Textiles and Sports Clothing
+- Chromic Phenomena Introduction and Reversible Colour Change
+- Ancient Dyes and Pigments
+- Chromic Phenomena
+- Chromic Phenomena Solar Energy and Liquid Crystals
+- 结构色 Structural Color
+- Clariant
+
+--- [[Ancient Organic Dyes and Pigments Chemistry]]  (1 句)
+   • 父书：Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 刺激响应聚合物 Stimuli-Responsive Polymer · SAP（高吸水树脂） · 交联密度 Crosslink Density · 离子强度 Ionic Strength · ADL（导流层） · 回渗 Rewet
+- 姊妹章节：Chromic Phenomena Introduction and Reversible Colour Change · Mechanochromic Photonic Sensors
+- 供应商：BASF · Clariant · Henkel
+
+--- [[Chromic Phenomena Introduction and Reversible Colour Change]]  (1 句)
+   • 父书：Chromic Phenomena
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 电致变色 Electrochromic · 离子变色 Ionochromic · 机械变色 Mechanochromic · 光致变色 Photochromic · 液晶 Liquid Crystal
+- 相关章节：Ancient Organic Dyes and Pigments Chemistry · Mechanochromic Photonic Sensors · Stimuli-Responsive Polymer Materials (Nature Materials Review)
+- 供应商：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex
+

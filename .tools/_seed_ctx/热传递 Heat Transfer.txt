@@ -1,0 +1,110 @@
+# SEED: 热传递 Heat Transfer
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)
+#
+# 全库正文命中 154 页，250 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Ebewole Polymer Science Ch02 Polymerization Mechanisms]]  (5 句)
+   • 本章论证：聚合物的宏观性质根植于聚合机理；链式聚合的四步动力学图像（initiation–propagation–termination–chain transfer）是理解分子量与分子量分布控制的入口。
+   • Two modes: **combination (coupling) 偶合终止** — "two growing polymer chains react with the mutual destruction of growth activity" and "Coupling reactions produce a single polymer" (Ch.2, p.29); **disproportionation 歧化终止** — "a labile atom (usually hydrogen) is transferred from one polymer radical to another", producing "two polymers from the two reacting polymer chain radicals" (Ch.2, p.29).
+   • Transfer targets 转移对象: monomer / polymer / solvent / initiator / impurity. If the new radical A· is unreactive toward monomer, "the entire reaction could be inhibited" (Ch.2, p.29) — 即链转移剂与阻聚剂的界限取决于新自由基活性。
+   • **Carothers dichotomy (1920s)** distinguished condensation vs. addition by whether a small molecule is eliminated; the source judges this scheme as not permitting complete differentiation.
+- **IUPAC mechanism classification (from the 1950s)** formally established step vs. chain; Ebewole adopts it.
+- **Free-radical kinetics (Bamford, Stewart, Mayo, 1940s–50s)** — the chain-transfer concept (Mayo equation) comes from this lineage.
+- **Anionic diene polymerisation (Szwarc, 1956)** — "living" polyme
+
+--- [[Intelligent Textiles and Sports Clothing]]  (5 句)
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **PCM (Phase Change Materials) knits**: microcapsules accumulate and retain heat at higher temperature and subsequently release it at lower temperature, giving thermo-regulatory performance.
+- **Shape memory polymer (SMP)**: characterised by a large reversible elasticity change at the glass transition temperature. The flagship example is **Diaplex** (Japan), which maintains body temperature by redistributing its particles: at low temperature the particles arrange into a solid plate forming an in
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+   • Embedded electronics monitor heart, lungs and muscles; data stored locally or transferred wirelessly. Cases cited: Australian **CSIRO** basketball shooting sleeve using rhythmic sound waves; cycling garment with Bluetooth-driven grouped LEDs on the back showing direction, powered by batteries or small solar panels.
+- Two insertion points in the manufacturing chain matter: **cutting** (separating plies destined for printing of smart components) and **sewing** (adding electronic components; trend 
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (5 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Why it cannot be undone (p.191): "the mechanism of heat-setting is to lead the structure to a position of lower minimum energy from the state prior to heat-setting." Hearle's crystal-size vs. melting-frequency diagram is cited with the plain statement that "small or imperfect crystals will melt and larger crystals will grow. This is a typical process of annealing" (p.192).
+   • **Thermal healing 热愈合** (p.198): "thermal healing or sealing of fissures, surface cracks... caused by the stressing operations" — 加工应力造成的裂隙与表面裂纹在热作用下愈合。
+- **Dry versus wet heat 干热与湿热**: Warwicker's density comparison supports stronger set development in nylon under wet heat (pp.198–199).
+- **Cellulose triacetate 三醋酸纤维素** is treated as a separate case (Hindeleh; Sprague; **tautness distribution 松紧分布** at p.199) (pp.198–202).
+   • 1. **Free vs tension annealing 直接对应产线张力窗口**：自由 annealing 降取向降强力、增直径增旦数；张力 annealing 提强力而旦数不变。热风烘箱里网带是约束还是松弛状态，决定了成品布的 CD/MD 强力比与手感 — this is the same variable discussed in Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） and Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）。
+2. **永久定形机理解释了为什么热粘合后的布不再回缩**：皮层 PP/PE 的小不完善晶体在低于熔点处部分熔融并重结晶为更完善晶体，结构落到更低能量极小态。这是热风穿透温度必须略高于皮层熔点、又不能破坏芯层 PET/PP 取向的原因。参见 ES 双组分弹性纤维热风布（弹性体改性）。
+3. **两步收缩模型对尺寸公差有用**：非晶区解取向是快速的第一步，如果把商品布存放/再受热控制在第一步之后的结晶阶
+
+--- [[热风无纺布]]  (4 句)
+   • **热风无纺布（air-through / through-air bonded nonwoven，亦称 热风粘合无纺布）** is a **thermally bonded nonwoven** in which the web is bonded by **hot air passing through it**（热风穿透）. Bonding relies on the **sheath (e.g. PP/PE) partially melting below the sheath/core melting-point gap and re-crystallising into a more perfect crystal form**, which sets the structure permanently; the **through-air temperature must be slightly above the sheath melting point yet not high enough to destroy the core (PET/PP) orientati
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **标题重复**: the vault holds ≥4 overlapping headings（本页、热风粘合无纺布、热粘合热风无纺布 Airlaid、热风非织造 Hot-Air Bonded Nonwoven）— a merge/ownership decision is owed .
+- No numeric permeability, tensile, gsm-vs-hand, or line-speed data for air-through webs is recorded in the vault .
+- The 中科依兰 nano-odour-powder route's two unresolved risks（喷嘴堵塞、线上跌落 / build-up）have no recorded validation result（源：中科依兰）.
+- Degradable air-through sheath: PGA-core route still gated on shelf-life; PET-core is backup only（源：可降解皮芯架构对比（PPC
+   • Development of the nonwovens industry
+- Handbook of Nonwovens
+- Thermal bonding
+- Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres
+- Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）
+- Multilayer SAP Core（多层SAP芯体）
+- 可降解皮芯架构对比（PPC-PBAT 皮 × 四芯层）
+- Huayi Group（待核中文名）
+- GFL General Presentation for KC Asia 20260603
+- 中科依兰
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (4 句)
+   • Volume 67 in the *Plastics Engineering* series (founding editor Donald E. Hudgin). Copyright © 2003 by Marcel Dekker, Inc.; transferred to digital printing 2005. **Note 注:** the file in this vault is the publisher **preview** — it carries the full front matter, full table of contents, contributors list, and Chapters 1–3, but **not** the whole book.
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[Industrial Drying Ch28 Osmotic Dehydration and SAP Physics]]  (4 句)
+   • **SAP transfer:** This is the swelling/driving pressure set by the solvent chemical-potential difference. Inside an SAP, this is the swelling pressure of the crosslinked polyelectrolyte network.
+   • **SAP transfer:** This is the seed of Donnan equilibrium — mobile ions distributed across a charged, semipermeable matrix raise Π. It is precisely why SAP (a fixed-charge polyelectrolyte) swells in water but **deswells in saline**: the fixed –COO⁻ groups plus counterions create a Donnan osmotic pressure that is suppressed by external salt.
+   • **SAP transfer:** The "no phase change" advantage is exactly why SAP is so efficient at absorbing liquid water — it skips the vaporization latent heat entirely.
+   • **Hygiene transfer:** The osmotic route reorganizes the water-binding structure differently — relevant to understanding how an SAP-bonded core "holds" water vs a thermally-dried web.
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (4 句)
+   • **Catalyst activity order** (p.280): **Zn > Pb > Mn > Co > Mg > Ca > Sn > Na > Sb**. Side reactions (ether links, DEG) and thermal degradation are controlled with phosphorus-based heat stabilisers (pp.280–282). Batch / semi-continuous / continuous processing are compared quantitatively in Table 12.2 (p.278).
+   • Filament drawing uses **draw ratios of 3–6** (p.302). The staple line is described step-wise (Fig. 12.16, p.306): spinning and take-up → conditioning → drawing → **heat-setting 热定形** → crimping → drying → cutting, with a troubleshooting section. Typical process parameters and properties are tabled in Table 12.4 (p.309).
+   • Structure evolution runs amorphous → oriented → crystallized → stabilized by heat-setting (pp.311–314).
+   • 1. **Speed-defined orientation is directly designable for spunbond topsheet**: the four speed bands (p.299) and the observation that draw headroom disappears above ~1500 m/min explain why higher spinning speed gives higher strength but lower elongation and a stiffer hand in PET spunbond. This is the same mechanism behind the fibre selection discussion in Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection).
+2. **Catalyst residue control is a live compliance issue**: the activi
+
+--- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]  (4 句)
+   • Four degradation classes: **thermal 热**, **thermo-oxidative 热氧**, **mechano-chemical 机械化学** and **hydrolytic 水解**, tracked by volatile products (**CO₂, NH₃, HCHO**) and gelation. Depolymerization back to monomer is cited as industrial-scale evidence for hydrolytic routes. Additives covered: mass colouration and **copper-salt heat stabilisers**.
+   • **Melt spinning 熔体纺丝** with spinline structure evolution; the effect of spinning speed on birefringence, crystallinity and axial shrinkage is the experimental core (Fig. 13.15–13.19), again producing the **LOY / POY / HOY / FOY** classes (pp.347–349).
+- Integrated **spin-draw (SD)** and mass-colouration spinning variants.
+- After-treatment: drawing, texturing, **heat-setting 热定形**.
+- Practical value flagged by the source: Fig. 13.17–13.19 reveal the **time-dependent instability of undrawn yarn s
+   • 1. **The Tg–moisture-regain concept transfers directly**: nylon 6 shows ~50 °C Tg shifted strongly by regain, with a 2.0–3.5% window of minimum Tg sensitivity. Any hydrophilic polymer whose stiffness and set behaviour moves with ambient humidity — including moisture-responsive fibre concepts used in comfort/microclimate work — obeys the same coupling. See Moisture-Responsive Fibre（湿敏变形纤维）.
+2. **Polymer selection for sheath-core bonding**: nylon's ready crystallization and high melting point vers
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres — the PET benchmark that nylon is contrasted against for crystallization rate and moisture sensitivity
+- Moisture-Responsive Fibre（湿敏变形纤维） — modern take on the Tg–moisture coupling described here
+- PP基皮芯与PET基皮芯对比 — sheath-core polymer selection actually used in hygiene thermal bonding
+- 无纺布五大工艺对比 — process-route context for nonwovens
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (4 句)
+   • The problem is framed as "**the microcapsule tax**": phase-change microcapsules solve a heat spike and then charge for it four times over — every gram is paid for in **mass** (+gsm, +cost per unit, every cycle), **risk** (shell fragility → rupture and lot variance; broken capsules contaminate SAP and widen process control limits), **liquid leakage** (free PCM raises skin risk and worsens rewet/odour) and **complexity** (a specialty encapsulation tier is added to the supply chain with inventory a
+   • The function decomposition then shows that thermoregulation is **four separable physical functions**: insulation (resist conductive heat flow, high R-value), buffering (raise thermal mass so dT/dt is slow), dissipation (move heat out via evaporative and radiative pathways) and spike absorption (absorb a discrete thermal event at a setpoint via latent heat). For multi-hour wear, comfort is a **steady-state** problem — insulation + buffering + dissipation — and spike absorption only matters for th
+   • BNC's thermal behaviour is presented as a direct consequence of its nanofiber geometry: ≈85–95% porosity trapping still air (k_air ≈ 0.026 W/m·K); nano-pores ≈20–200 nm sitting near the air mean free path (≈68 nm) producing Knudsen suppression of gas-phase conduction; a point-contact fibril network (τ ≈ 1.5–3) minimising solid conduction paths plus phonon boundary scattering; a hydroxyl-rich surface whose bound water adds sensible-heat thermal mass; and a nanofiber mat that scatters IR radiation
+   • Local path 本地路径：
+- Original link 原文链接：（无；内部项目材料）
+- Literature base 文献基础：Heath et al. *Cellulose* 27 (2020) k ≈0.03–0.05; Zhao et al. *ACS Sustain. Chem. Eng.* 9 (2021) Knudsen effect; Kaviany *Principles of Heat Transfer in Porous Media*; Müller et al. *Carbohydr. Polym.* 215 (2019) bound water; Sharma et al. *Appl. Therm. Eng.* 204 (2022) PCM microcapsules in hygiene; KC IPC internal REL feasibility study 2026.
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (4 句)
+   • 1. **Introduction** — why natural and chemical fibres no longer meet user requirement; the passive / active / ultra-smart taxonomy; history from the late-1980s Japanese shape-memory silk thread; global smart textiles market at **25% CAGR 2021→2031, US$23.82 Bn by 2031**.
+2. **Brief History** — wearable computation traced to the 1850s (corsets, belts), first wearable computer 1955, integrated electronics from the early 1990s; three generations: wearable computing → fabric as circuit element → fib
+   • 1. **The three-tier taxonomy is the organising idea.** Passive smart textiles sense; active ones sense *and respond*; ultra-smart ones sense, react and adapt. This is a useful way to grade how ambitious any proposed hygiene-product feature is.
+2. **Seven chromic mechanisms named.** Photochromic, thermochromic, electrochromic, solvatochromic, **halochromic (pH)**, tribochromic (friction), mechanochromic (pressure). Colour reverts when the stimulus is removed because the original state is more sta
+   • **Moderate 中等关联** — there is no absorbent-core content here at all, and nothing on acquisition, rewet or SAP. Its value is two specific mechanism transfers plus one caution.
+   • **Wetness indication.** Finding 3 is the most transferable item: halochromic colour change demonstrated on polyamide fabric with a stated pH window is the direct mechanism ancestor of a urine indicator, alongside thermochromy which is what the programme actually uses. Read next to US20070270773A1 Thermochromic Wetness Indicator for the disposable-implementation view, and against Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） for what is purchasable today rather than academica
+

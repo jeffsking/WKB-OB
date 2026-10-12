@@ -1,0 +1,147 @@
+# SEED: 交联密度 Crosslink Density
+# type: concept | 原引用数: 6
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Acrylic-Based Superabsorbent Polymers
+#   - Ancient Organic Dyes and Pigments Chemistry
+#   - Cross-linked Cellulose and Its Derivatives
+#   - Fibers and Fibrous Materials
+#   - Hydrogel-based Superabsorbent Polymers
+#
+# 全库正文命中 131 页，210 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]  (5 句)
+   • **韩国授权发明专利**（등록특허 10-2205294，B1；专利权人 **주식회사 아시아나노텍 / Asiananotech**）。它给出了一条**不含任何外加化学交联剂**的生物基高吸水体路线：**氧化淀粉的醛基**（aldehyde group）与 **CMC 的羟基**（hydroxyl group）以及**球形纳米纤维素的羟基**发生**缩醛交联**（acetal crosslinking），形成聚合物 A 与聚合物 B。说明书自报的 0.9 % 盐水吸收量最高 **45.8 g/g**、保水量 **37.5 g/g**，**均超过同批对照的合成 SAP**（41.5 / 34.1 g/g）。这是本库少见的、用**淀粉＋CMC＋纳米纤维素三组分**把"生物基"与"性能不输 SAP"同时写进权利要求的专利。
+   • 发明名称（韩文原题）：**나노 셀룰로오스와 카르복시메틸 셀룰로오스에 전분을 가교시켜 제조한 고흡수성 흡수체 및 이의 제조 방법**（以淀粉交联纳米纤维素与羧甲基纤维素制得的高吸水性吸收体及其制造方法）。摘要（(57)）逐字要点：**氧化淀粉的醛基（aldehyde group）与羧甲基纤维素的羟基（hydroxyl group）缩醛交联（acetal crosslinking）结合**的高吸水性吸收体及其制造方法。
+   • **"无外加交联剂"是本案的核心工程主张**：网络完全由**氧化淀粉醛基 × CMC/纳米纤维素羟基的缩醛反应**自交联形成（[0030]、[0041]），从而绕开了传统纤维素醚化工艺中 **MSDS 列为有害毒性气体的环氧乙烷／环氧丙烷**（[0006]）。→ Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+- **三组分而非两组分**：权 6 同时要求聚合物 **A**（淀粉–CMC）与聚合物 **B**（淀粉–纳米纤维素）；实施例显示 **O-CNF 从 0 → 1 → 2 wt%** 时，凝胶形成评价由 **○ → ◎ → ◎**，窗口由 6:4–8:2 拓宽至 **4:6–9:1**，吸水量由 35.3 → 43.6 → 45.8 g/g。O-CNF 是性能跃迁的关键变量。
+- **生物基路线首次在本库中做到"超过合成 SAP"**：SAC 2 (1 g) 与 SAC 2 (2 g) 在**吸水量与保水量两项上同时超过**对照合成 SAP（约 +5 % 与 +10 %）。但对照 SAP 仅一款且未标注
+   • Concept 概念：Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、SAP性能指标（CRC AUL GBP Vortex）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+- Entity 实体：아시아나노텍 주식회사（Asiananotech）
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (5 句)
+   • 1. **Chemo-mechanical transduction.** "The volume expansion, which can be as high as 1000-fold, can produce a mechanical force, resulting in transduction from a chemical stimulus to a mechanical action (as in muscles), and this force has been exploited in designing valves and pumps" (L146–154).
+2. **Two orthogonal design axes.** "The chemical composition of the polymer matrix determines the type of stimuli to which the hydrogel can respond. The extent of swelling is limited by the elasticity of 
+   • t_resp ~ L²/D_eff — response time set by initial size L, effective diffusivity D_eff, and pore size [reconstruction of L171–175]
+- Q_max ∝ 1/ν_c — swelling extent falls as cross-link density ν_c (and chain elasticity constraint) rises [reconstruction of L168–169]
+- ↑I_UV ⇒ ↓chain length ⇒ ↓t_resp and ↓mechanical strength [reconstruction of L255–259]
+- r_diss = f(d₀⁻¹, C_reductant, ν_c⁻¹, T) — dissolution rate of a cleavable gel [reconstruction of L423–425, L476–477]
+   • This is the **most directly transferable chapter of the batch** for smart hygiene, and the read-across is legitimate rather than forced: an absorbent core is a confined microfluidic system made of a superabsorbent hydrogel plus fibrous channels, and the chapter's parameter space (pore size, cross-link density, ionizable-group distribution, geometry) is the SAP/ADL parameter space.
+   • 1. **Absorption-rate law goes through particle size before chemistry.** t_resp ~ L²/D_eff predicts a ~4× faster uptake from a 2× reduction in effective particle radius (L171–175, L184–185). Set PSD bands by this scaling when acquisition speed or rewet is the failing KPI.
+2. **Swelling is available work — and a load case.** Up to 1000-fold expansion produces usable force (L151–154). Use positively (a gel strip that swells to close a leak-guard gap — the bi-strip valve analogue, L513–516) and defe
+
+--- [[Acrylic-Based Superabsorbent Polymers]]  (4 句)
+   • REL 项目核心材料 SAP 的**机理与配方调优总纲**：以交联密度为枢纽，串联单体体系、引发/交联方式、吸水动力学（扩散+溶胀耦合）与 2024 年绿色/分级/原位/3D 打印新策略。
+   • **吸水机理三阶段**：渗透（渗透压+亲水基团水合作用，秒级）→ 扩散（聚合物网络形成，凝胶层生长）→ 饱和（聚合物骨架充分膨胀，平衡吸水量达成）。
+- **合成三要素**：引发剂、交联剂、单体浓度配比；丙烯酸单体浓度 10–40 wt% 范围吸水率显著下降（高单体浓度导致交联网络致密、孔隙率降低）。
+- **交联密度双重影响**：过低 → 凝胶层析出、溶胀坍塌、体系黏性增大；过高 → 交联点过多、孔隙率不足、吸液能力不足。存在最优值。
+- **交联方式**：化学交联（双官能团/多官能团交联剂、链转移交联）+ 辐射交联（β 射线、紫外光）。
+- **表面接枝路线**：在预聚物（如纤维素、淀粉、壳聚糖）表面接枝丙烯酸单体，形成核-壳结构，改善分散性、降低成本。
+- **绿色合成**：微波聚合（快速、低能耗、交联密度更均匀）、光引发聚合、辐射交联（减少化学交联剂用量）、生物基单体（壳聚糖/纤维素/淀粉衍生物）。
+- **结构优化（2024 新方向）**：3D 打印分级孔道 SAP（微米级主孔道+纳米级毛细孔，兼具快速吸收与高保水性）、形状记忆 SAP、纳米复合 SAP（纳米纤维素、纳米二氧
+   • 1. **丙烯酸基 SAP 的双要素本质**：高吸水/保水能力来自亲水羧基/羟基 + 三维交联网络骨架的双重作用，缺一不可。
+2. **合成三要素与交联密度为核心调控参数**：合成反应由引发剂、交联剂、单体浓度配比决定；交联密度是核心调控参数——过低导致凝胶溶胀坍塌/凝胶层析出，过高导致吸液能力不足。
+3. **加工方式与性能权衡**：颗粒法（主流，吸水量大、加工方便）、纤维法（分散性好、吸液速度快但加工难度高）、薄膜法（吸液速度快但分散性差）——三种路线各有取舍，需按应用场景选择。
+4. **2024 新方向聚焦绿色与结构化**：新进展聚焦绿色合成（微波、光、辐射、生物基单体）与结构优化（3D 打印分级孔道、表面接枝、纳米复合），为下一代 SAP 提供技术储备。
+   • 父书：Absorbent Technology
+- 概念：SAP（高吸水树脂） · 交联密度 Crosslink Density · 生物基单体 Bio-based Monomer · Flory- Rehner Theory · 吸收芯体 · 达西定律 Darcy's Law
+- 相关章节：Cross-linked Cellulose and Its Derivatives · Polyolefin Absorbent Materials · The Role of Surfactants
+- 仿真接口：交联密度→Flory-Rehner 溶胀模型（ 参数接口）
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (4 句)
+   • Peer-reviewed journal article that benchmarks a **citric-acid–crosslinked cellulose superabsorbent hydrogel (SAH)** head-to-head against commercial sodium-polyacrylate SAP in both DI water and 0.9 % saline — the library's cleanest **saline-based performance comparison** for the biodegradable-SAP route.
+   • The study develops citric acid (CA)-crosslinked superabsorbent hydrogels based on cellulose derivatives as sustainable alternatives to conventional petroleum-based SAPs for personal hygiene. **Sodium carboxymethyl cellulose (Na-CMC)** is the primary polymer and **hydroxyethyl cellulose (HEC)** the secondary polymer, blended at varying ratios and crosslinked with CA as a green crosslinking agent. The authors systematically evaluate polymer composition, swelling medium, pH and **absorption under l
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+   • Concepts 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- Entity 实体：University of Waterloo（滑铁卢大学）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[Cross-linked Cellulose and Its Derivatives]]  (4 句)
+   • Chapter 7 (pp. 250–299) is the cellulose superabsorbent playbook: it treats DS and cross-link density as the two control variables, walks through cross-linked CMC, HEC, phosphonoalkylcellulose, sulfonated/oxidised cellulose, microfibrillated cellulose and lignin-bearing CTMP, and ends by unifying them under Donnan swelling theory — with commercial anchors at Hercules (Aqualon/CLD) and Kimberly-Clark (Bernardin phosphate fibre).（中文：第 7 章把取代度 DS 与交联密度作为两大控制变量，系统给出交联纤维素类超吸水材料的工艺-性能-理论闭环，并附 Hercules
+   • **The framework.** DS fixes the solubility ceiling, cross-link density fixes the swelling ceiling; together they define whether a cellulose derivative is a superabsorbent at all. Both must be tuned jointly.
+- **Cross-linked CMC — the workhorse.** Etherification with monochloroacetic acid (up to 8 mol/mol cellulose) plus neutralisation with '0.5 mol caustic/mol cellulose to insure attainment of a DS (carboxyalkyl substituents) of about 0.4 or above'. Cross-linkers: epichlorohydrin (~0.5 mol/mol),
+   • **DS is the binary switch.** Below ~0.4 the material dissolves and is useless as a sheet; at ~0.4 it is insoluble and highly absorbent. DS is the single most consequential specification to demand from a supplier.
+- **Cross-link density has to be negotiated against load.** It buys strength and insolubility at the price of capacity; because a real core is compressed, the optimum shifts higher than free-swell testing implies.
+- **Burst-fibre is a structural fix for gel blocking.** No chemical chang
+   • 父书：Absorbent Technology
+- 概念：交联 CMC、取代度 DS、交联密度 Crosslink Density、HEC 羟乙基纤维素、磷酸化纤维素 Phosphonoalkylcellulose、微纤丝化纤维素 MFC、接枝共聚 Graft Copolymer、Donnan 溶胀、Gel Blocking（凝胶阻塞）、角化 Hornification、爆裂纤维 Burst Fibre、WRV 水保留值
+- 化学品：环氧氯丙烷 Epichlorohydrin、甲醛 Formaldehyde、戊二醛 Glutaraldehyde、一氯乙酸 Monochloroacetic Acid
+- 材料/工艺：绒毛浆（Fluff Pulp）、CTMP 化学热磨浆、Danufil 粘胶
+- 实体：Kimberly-Clark（金佰利）、Hercules Aqualon、SAP（高吸水树脂）
+- 相邻章节：Fibers and Fibrous Materials、SAP（高吸水树脂）、Grafted Cellulose and Starch
+
+--- [[Hydrogel-based Superabsorbent Polymers]]  (4 句)
+   • 从"化学合成"视角补全 SAP 谱系：以聚丙烯酰胺/聚丙烯酸及生物基多糖为骨架，交联密度+离子强度+温度三参量精确调控吸水/保水/耐盐/耐油性能，为下一代智能响应型 SAP 提供路线。
+   • **水凝胶 SAP 定义与优势**：吸水后体积膨胀数百倍，兼具高吸水/保水、形状恢复、低刺激性、生物相容性；相比传统 SAP，在保水性、耐盐性、耐油性及结构稳定性方面更具优势。
+- **合成路线**：
+  - 化学交联（化学交联剂）：常用聚丙烯酰胺、聚丙烯酸等合成高分子，或纤维素、淀粉等生物基多糖。
+  - 物理交联（氢键、共价键等物理作用力）：如壳聚糖与海藻酸钙、纤维素的物理交联，具有可降解性。
+  - 复合改性：与纳米材料（如纳米纤维素）或功能高分子复合，增强保水性、机械强度与缓释性能。
+- **性能影响因素**：
+  - **交联密度**：低交联度 → 吸水性高但结构稳定性差；高交联度 → 保水性好但吸水性受限；存在最优交联密度。
+  - **亲水基团分布**：影响水分子扩散速率与凝胶骨架形成。
+  - **离子强度**：电解质（如 NaCl、CaCl₂）影响吸水膨胀性能，高离子强度会降低吸水性。
+  - **温度**：部分水凝胶具有温度响应性，在特定温度下发生相变，释放或保持水分。
+- **改性策略**：表面接枝改性、共聚改性、纳米复合改性，提升耐盐性、耐油性、缓释性能。
+- 
+   • 1. **水凝胶基 SAP 定义**：以亲水聚合物为骨架、经交联形成三维网络，具有吸水后维持结构不溶胀不崩解的特性，兼具高吸水/保水与形状恢复能力。
+2. **合成路线多样化**：化学交联、物理交联及生物基/合成高分子复合是三大主流路线；常用单体覆盖聚丙烯酰胺、聚丙烯酸及纤维素、淀粉等生物基多糖。
+3. **吸水性能调控机制**：吸水性与交联密度、亲水基团分布、离子强度及温度直接相关，可通过表面接枝、共聚、纳米复合等改性提升吸水性、保水性及耐盐/耐油性能。
+4. **应用与方向**：应用于卫生用品、农业保水、食品保鲜、药物缓释、水处理及传感器等领域；当前研究聚焦提高吸水速率、增强耐盐/耐油性、降低成本，并探索基于生物基原料的绿色水凝胶 SAP。
+   • 父书：Absorbent Technology
+- 概念：水凝胶 Hydrogel · SAP（高吸水树脂） · 生物基单体 Bio-based Monomer · 交联密度 Crosslink Density · 离子强度 Ionic Strength
+- 相关章节：Acrylic-Based Superabsorbent Polymers · Cross-linked Cellulose and Its Derivatives · Fibers and Fibrous Materials
+- 智能材料：Stimuli-Responsive Polymer Materials (Nature Materials Review) · 温度响应材料
+
+--- [[Hydrogels in Regenerative Medicine]]  (4 句)
+   • General statement: hydrogels can hold **20–100 times their own weight** in water, structure-dependent.
+- Two structural levers oppose each other: **hydrophilic-groups content ↑ ⇒ swelling ↑**; **cross-link density ↑ ⇒ chain mobility ↓, flexibility ↓, swelling ↓**. This is the same trade-off that governs SAP designs.
+- An explicit unsolved conflict is flagged: synthetic biodegradable hydrogels combining good mechanical properties with high water content remain a major challenge, because **mechani
+   • **Release control**: porous structure is tunable via cross-link density; drug release rate depends on the diffusion coefficient through the gel network. Low interfacial tension ⇒ minimal protein adsorption from body fluids.
+- **Wound dressing (closest to our adjacency)**: an ideal dressing must maintain a moist interface, allow gas exchange, act as a microorganism barrier and remove excess exudate, while being non-toxic, non-allergenic, non-adherent and removable without trauma. Hydrogel dressin
+   • **§2.4 is, in effect, a general SAP swelling primer.** The low/medium/high/superabsorbent (>99.5% water) classification and the explicit statement that cross-link density suppresses swelling while raising rigidity are exactly the two-lever structure–property relationship used to reason about CRC (centrifuge retention capacity) vs modulus vs absorption-under-load. Useful as teaching/mechanism background for the SAP programme.
+- **The hydrophilic-group vs cross-link-density opposition** gives clea
+   • Smart Polymers Ch08 Smart Hydrogels — 同一水凝胶主题的本库章节页，刺激响应水凝胶视角与本页结构与溶胀视角互补。
+- Smart Polymers Ch03 Conformational Transitions in Ionic Gels — 离子凝胶构象转变，为本文 §2.2 "离子化基团→静电排斥→溶胀↑" 提供理论机制支持。
+- A review on superabsorbent polymers — SAP 综述，缺失的聚丙烯酸系 SAP 专项内容在此补足。
+- GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂） — 纸尿裤/卫生巾用 SAP 国标，是本文溶胀分级落到卫生产品规格的正式出口。
+- Industrial Drying Ch28 Osmotic Dehydration and SAP Physics — SAP 渗透脱水物理，与本页 §2.4 溶胀分级/交联密度内容构成理论与工程应用的配对。
+
+--- [[Synthesis of Thermoplastic Polyester Elastomers]]  (4 句)
+   • **Introduction / review of prior art** — general TPE behaviour: TPEs show the mechanical properties of chemically crosslinked elastomers (high tensile strength, impact resistance, resilient elasticity, low-temperature flexibility) while being processed like thermoplastics by extrusion, injection or rotational moulding and calendering. Increasing soft-segment content lowers enthalpy and melting temperature, lowers tensile strength and hardness, gives less crystalline polymers, and raises elongati
+   • 1. **Design intent: non-polar soft segment.** Soft non-polar olefinic prepolymers are built into the polyester chain specifically to **improve hydrolytic and thermal stability and achieve better phase separation**, which particularly shows up as increased elasticity. Literature coverage of polyolefin soft segments in TPEs is explicitly called very scarce.
+2. **Why solution polycondensation.** Phase separation occurs during polycondensation because soft non-polar segments mix poorly with polar DM
+   • **Elastic components.** The waistband, cuff and ear-panel elastication work in this vault needs a working model of what makes a TPE elastic and how it survives converting heat. Finding 8 gives it crisply: crystallised hard phase is the physical crosslink, so anything that disrupts hard-phase crystallisation destroys recovery. Chaining to the practical side, see Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres — heat-setting is exactly the process by which crystallinity is 
+   • Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres — how thermal history sets the crystallinity this paper shows governs recovery
+- Origin of Rubber Elasticity — theoretical basis for the hard-phase physical crosslink argument
+- Adhesive Handbook Part 2 Fundamental Aspects — interfacial behaviour of elastomeric and adhesive polymer systems
+- Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28） — commercial elastic-fibre alternative and
+
+--- [[Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）]]  (3 句)
+   • **一种不含丙烯酸酯、且不使用外加化学交联剂的生物基高吸水体**：以**氧化淀粉**（oxidised starch，含**醛基** aldehyde group）为交联桥，与**羧甲基纤维素**（carboxymethyl cellulose, CMC）的**羟基**（hydroxyl group）、以及**球形纳米纤维素**（spherical nanocellulose, O-CNF）的羟基发生**缩醛交联**（acetal crosslinking）形成三维网络。本库中该方案的首个（也是目前唯一）来源是 **KR 10-2205294 B1**（아시아나노텍 주식회사（Asiananotech）），其权利要求同时要求两条交联产物：**聚合物 A**（淀粉–CMC）与**聚合物 B**（淀粉–纳米纤维素）。
+   • **CMC ≥ 9 wt% 时粘度急升**，搅拌与输送困难 → 说明书自定 CMC 宜取 **4–8 wt%**（[0126]）。此上限与权利要求的 50–70 wt%（干基）属不同口径（后者为**成品吸收体**占比，前者为**溶解液**占比），引用时须区分。
+- **干燥窗口窄**：80–95 ℃ 之间；低于下限干燥不彻底，高于上限碳化褐变。24 h 的干燥时长意味着**能耗与节拍成本高**，量产经济性 。
+- **缺少压力下的性能指标**：本件只报吸水量与保水量（离心法），**未报 AUL / AAP（0.3 或 0.7 psi 下吸收量）**、未报通液性（GBP / Vortex）、未报回渗（rewet）→ 与商品 SAP 的**工程可比性缺口**。
+- **未报生物降解或堆肥数据** → 与 Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶） 的可降解主张无法横向比较。
+   • Source 来源：KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）
+- Entity 实体：아시아나노텍 주식회사（Asiananotech）
+- Concept 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、SAP性能指标（CRC AUL GBP Vortex）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[分区密度设计]]  (3 句)
+   • **终极判据（本批明确）**：能否**去掉集中区（set）**、把尿液分布到**整个 pad（约 400 mm）**才算成功；若仍保留集中区则判为失败。目标不是「局部更浓」，而是**全域分布**。
+- **实现路径之一：screen depth（pocket）**：通过成型丝网的**深度/口袋**来做出 **zone density**，而不是简单地把方块缩小（缩小方块只改变密度，不构成 zone density）。
+- **收益链条（本批口径）**：pad 利用率提升 → 同时改善**合身性（fit）**、**减少下垂（droop）**、**保持更薄**。
+- **Blizzard 的 air knife 现状**：ND 方向的形状很刚硬（rigid square），正在寻找 **curved** 形状（version 7 方向）。
+   • 该成型机**本身只能做"平的"SAP 密度（flat SAP density）** —— 分区（zoning）不是机器的标配能力。
+- 因此**分区的做法由本方工程师自行设计**，对设备商**保持 black box**：设备商交付模块后，本方再做 retrofit 改装。
+- 会中明确理由：**"我们不想教别人怎么做 zoning，这是 critical 的"**；设计细节由**亚洲区工程团队**承接（保密）。
+- 合作边界：本方"**永远不会跟机器厂商碰这个**"，只与 **TSP（technical service provider，技术服务提供方）** 合作。
+   • 1. **分区的正当性从"吸收"扩展到"材料效率"**：把绒毛浆放在需要的地方，**总用量下降而性能不降** —— 这是分区设计最直接的经济价值。
+2. **"均匀"是一种默认而非最优**：供应商明确把"distributing fluff uniformly across the full density"作为对照项提出 —— 均布是未优化状态。
+3. **与本页既有记录的衔接**：本页已记"**机器只做平密度，分区 know-how 由本方黑箱掌握**" —— 本批说明**设备供应商正在把分区做成可售卖的能力**，两者的边界需要重新界定（哪些是本方 know-how、哪些可外购）。
+4. **配比 50/50 是分区设计的边界条件**：分区改变的是**空间分布**，但总量配比（绒毛浆 vs SAP）仍是独立的设计变量。
+

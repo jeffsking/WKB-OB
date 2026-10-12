@@ -1,0 +1,139 @@
+# SEED: Dryness Measure System（干爽度量三分）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 296 页，451 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (6 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+   • **Entanglement / opening length 缠结·开口长度**：opening length（distance between entanglement points）describes the temporary cohesion of an entangled yarn；methods include manual needle, automatic needle, electrostatic method（Obestat）, automatic thickness measurement（Itemat, Toray profilometer）；Stein's comparison [13] concludes Dynafil detects variation in polymerization, temperature and quench-air speed most effectively（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.267）。
+   • **Polymer-structure characterisation（Ch10）**：a two-phase structure（ordered / crystalline + disordered / amorphous）；five widely used techniques are density measurement, optical birefringence, X-ray diffraction, small-angle X-ray scattering and infrared spectroscopy（源：Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres，p.219）；the chapter says **nothing** about fluff pulp, SAP or absorbency measurement（源：Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibr
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (6 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **Define/update the intake system innovation strategy** to meet the **top 3–5 K-C consumer needs for the next 5+ years**，**detailing by benefits and sub-benefits**（按利益与子利益逐层细化）。
+- **Identify gaps in the current innovation portfolio** that require **new technology development or fundamentals projects**（识别需要新技术开发或基础机理项目的组合缺口）。
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+   • **What is the "Intake System"?** —— 研讨会开场即把**「摄入系统到底是什么」**列为待澄清问题，说明该术语在跨职能/跨区域间**尚无统一定义**。
+- **And what is the impact of other absorbent strategies?** —— 其它吸收策略（芯体、材料迁移）对摄入系统的影响同样待界定。
+- **Prior Strategy reflections 既往战略复盘**被列为 Current Situation 下的固定议题。
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (6 句)
+   • Chapter 1 is the foundation chapter of the book: it defines what a smart polymer **is** in thermodynamic terms, explains *why* such systems are useful (critical-point susceptibility 临界点敏感性), and establishes static + dynamic light scattering (SLS/DLS 静态与动态光散射) as the metrology that quantifies those transitions. No device or application is built here — the application domains are only enumerated up front (L98–126): bioseparation, immunoanalysis, immobilized enzymes, drug delivery/targeting, biodet
+   • **1. Smartness = reversible phase transition + critical susceptibility.** Smart polymers are defined as "thermodynamic systems capable of going reversibly through a phase transition within a certain range of thermodynamic parameters (pressure, temperature, concentration), which are often named as environmental conditions" (L113–116). Because "the behavior of their solutions is universal in the vicinity of phase transition, and especially near the critical point" (L118–119), infinitesimal changes
+   • **4. Phase diagrams must be measured, not predicted.** Coexistence curves are highly diverse (UCST, LCST, closed-loop, overlapping gaps, up to three critical points) and "no existing microscopic or phenomenological theory can analytically represent the coexistence curve over a wide parameter range" (L200–230). Empirical phase diagrams are a prerequisite for any bioprocess design (工艺设计的先决条件).
+   • Related: thermodynamic effective radius R_T = (3A₂M₂/16πN_A)^{1/3} measures excluded volume (L1564–1566); V_T = R_T/R_h ≈ 1 means thermodynamic ≈ hydrodynamic interaction range (L1573–1577).
+
+--- [[Intake System（摄入系统）]]  (5 句)
+   • **权威边界定义**（Intake Systems Development Pathway 2023（摄入系统开发通路） 原文）：
+   • **子系统页**：ADL（导流层）、ATB双梳理面层（Dual-Card Topsheet）、Resilient Surge（PET 回弹导流层）、REL增强层（芯体侧收集传递层，与导流层**易混名**）、Core Channel Pattern（芯体通道花型设计）。
+- **机理页**：Residual Fluid & Pore Stranding（残液与孔隙滞留）（摄入层滞留 = 回渗源头）、毛细梯度设计、Gel Blocking（凝胶阻塞）（摄入失败会加重芯体侧阻塞）、Dryness Measure System（干爽度量三分）、Rewet Test（回渗测试）。
+- **功能化页**：Skin Health Treatment on Nonwoven（无纺布护肤处理）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）（对应"强化与滋养"需求空间）。
+- **组合页**：IPC BCC OI Portfolio（开放创新项目组合）。
+   • **教训一（摄入是系统，不是材料）**：换一层材料常常改的是**层序与界面**，而非单一指标。ATH 把绒毛浆并入摄入系统后回渗升高，就是反例。
+- **教训二（摄入层不该"装"液体）**：摄入层的价值在于**快速向下送**，装得越多回渗与皮肤湿润风险越高；评估摄入材料时**必须同时看它的"留住量"**。
+- **教训三（离开芯体谈摄入无效）**：同一导流层在 SAM/Fluff 与 AT hybrid 上档位不同，**引用摄入指标必须带芯体口径**。
+- **教训四（需求侧驱动 ≠ 技术判据）**：**"无疹皮肤健康是全球第一未满足需求"** 是需求判断，**不是可验收的技术指标**；把它转成判据需要**临床可测的终点**（区域表已把 "clinically measured skin health benefit" 列为机会，但**未给方法**）。
+- **教训五（区域约束不同，材料路线不能一刀切）**：同样的机会清单，EMEA 受**本地法规**、LAO 受**供应链**、APAC 受**上市速度**约束——**同一材料在不同区域的可行性不同**。
+   • Intake Systems Development Pathway 2023（摄入系统开发通路） —— 
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） —— 
+- Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展） —— 
+- 03_卫材产线约束常量表（准入校验工具） ——
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (5 句)
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • **Shrinkage 收缩** (p.264): "the decrease in length of a specimen"; a negative value is called stretch.
+- Discontinuous and continuous methods; commercial instruments **Toray FTA-500**, **Lawson-Hemphill CTT-DST**, **Textechno Dynafil**, **Rothschild DEFT/CCT**; standard **ASTM D2102-90**.
+- Key claim (p.265): "there must be a means of assessing and controlling shrinkage behaviour of the yarn." Simultaneous measurement of boiling-water / dry-heat shrinkage **and** shrinkage force on a running yarn
+   • **Opening length 开口长度** — the distance between two entanglement points, describing the temporary cohesion of an entangled yarn (p.267).
+- Methods: manual needle, automatic needle, electrostatic method (Obestat), automatic thickness measurement (Itemat, Toray profilometer).
+- Stein's comparison [13] concludes **Dynafil** detects variation in polymerization, temperature and quench-air speed most effectively (p.267).
+   • 1. **Crimp testing is directly usable for hot-air bonded staple**: crimp frequency (ASTM D3937) and percentage crimp are the standard descriptors of ES staple; both affect carding openness, web loft and the final bulky hand of the through-air bonded layer. There is no substitute for them in this chapter's framework, and the source's warning about the vibroscope needing extra tension to remove crimp is a real trap when measuring crimped ES staple.
+2. **CRE principle** underpins essentially every 
+
+--- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]  (5 句)
+   • **US 5,197,958（母案，授权日 1993-03-30，23 项权利要求）** claims a diaper for indicating wetness comprising an inner surface adapted to be positioned against the skin of a baby, an outer surface opposed to it, **material positioned between them which, when dry, is insufficiently thermally conductive for a normal body temperature to raise the outer surface above a given threshold, but which is sufficiently thermally conductive when wet to do so** — i.e. the material at least partially thermally insulates the 
+   • **Chemistry section (the most transferable content of this document).** The reversible thermochromic system is explained as **colouring matter + colour-developing matter + desensitizer**: the electron-donating colour former (**leuco dye**, itself colourless) is developed by a **phenol compound or acid clay**, and the **discolouring temperature** is set by a desensitizer from **alcohol / fatty acid / amide / ester** compounds. The **discolouring temperature corresponds to the melting (fusing) tem
+   • **US 5,389,093（延续案，授权日 1995-02-14，9 项权利要求）** broadens from "diaper" to a **diaper system** (outer shell + insulation layer + thermal indicator) and to a **method of detecting when a wearer has excreted moisture between its legs**; its granted thresholds are narrowed to **above 80 °F** and **above 87 °F**, it adds that the indicator may be **a mixture of thermochromic inks, one of which becomes colourless above the threshold**, and the file carries a **Certificate of Correction** (dated June 13, 
+   • **这是一条不依赖 pH 的尿湿指示路线**：靠**热量传导**而非化学反应指示——"湿了才导热"是本族唯一的技术支点。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **误报是被结构性地压住的**：内垫只在前后端固定、留出通风层让体热散逸，这解释了为什么"体温"本身不会触发阈值。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **这也是一份隐色染料体系的完整配方/失活手册**：脂肪酸决定脱色温度、两种以上混用可微调、**配比失衡即永久失效**、因此**必须微胶囊化**。→ Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation
+- **它的产品对象是可反复水洗的布尿裤**：因此对指示体系的隐含要求是**耐洗涤剂与耐热**（BACKGROUND 明确指出在先方案不耐反复洗涤），这与一次性纸尿裤的失效模式不同。
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (4 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • **Definition, specimen, rating method, instrument and tolerance of the topsheet fuzz & pilling test** —— （must be checked against TTM-00609 面层材料起毛起球测试.doc）。
+- The unit of "fuzz"（whether it links to TS7 / a visual rating）is not given in the digest 。
+- Quantitative relation between fuzz & pilling and TS7 softness / topsheet free-fibre shedding 。
+- Whether this gate has entered the KC global STM/TTM method system, or remains a project-level screening convention 。
+   • TTM-00609 面层材料起毛起球测试.doc
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+- KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx
+- ATB双梳理面层（Dual-Card Topsheet）
+- 热风粘合无纺布
+- 3D In-line Embossing Topsheet（3D 在线压花面层）
+- Dryness Measure System（干爽度量三分）
+- Nonwoven Deformation Force Test（无纺布形变力测试）
+- 三叶形截面纤维（Trilobal Fibre）
+- 皮芯复合纤维
+- GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）
+- Finished Product Testing Method Summary（成品测试方法汇总表）
+- Raw Material Testing Method Summary（原材料
+
+--- [[时间滞后法 Time Lag Method]]  (4 句)
+   • It is listed as one of the standard D-measurement families in Crank Ch.10 — 稳态法 / 非稳态法 / **时间滞后法（Ch.4）** / 动态法 / D(C) 反演（源：Definition and Measurement of Diffusion Coefficients (Crank Ch.10)）。
+   • **几何前提：一维有限域平面片。** 时间滞后法是 Ch.4「平面片扩散」在渗透测量上的应用；同一章的稳态解给出浓度线性分布与通量 （源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **操作步骤。** 对一片厚度 l 的膜/片做渗透实验，记录下游累积湿流量-时间曲线；取**稳态段的线性段**，其在时间轴上的截距即 L；由  反演（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **非稳态段的分工。** 小 t 用误差函数类解，大 t 用傅里叶级数解 —— 时间滞后法取的正是**大 t 稳态段**（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **D 必须先指定参考系。** D 的定义依赖于参考系选择（体积 / 质量 / 溶剂固定），不同参考系给出不同 D 值；SAP 因溶胀体积剧变**通常用质量固定参考系**，否则 D 值无法比较（源：Definition and Measurement of Diffusion Coefficients (Crank 
+   • **几何直接对应芯体。** 一维有限域扩散是纸尿裤**芯体层、湿巾、SAP 片层、复合膜**的最直接对应几何（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **行业标准 D 测量法。**  是 SAP/纤维材料 D 测量的**行业标准方法**（Daynes 1920, Barrer 1951）（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **多层芯体的传质阻力叠加。** 复合膜总阻力 = 各层阻力之和 Σ(lᵢ/Dᵢ)，是芯体多层结构（顶表层 / 纺粘导流层 / 绒毛浆 / SAP 层 / PP 底膜）传质阻力建模的基础公式（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **MVTR 与液态阻隔率差异的解释。** 渗透常数 （D 与溶解度 S 之积），MVTR 与液态阻隔率的差异本质是 P 不同（源：Diffusion in a Plane Sheet (Crank Ch.4)）。
+- **SAP 表征的前提条件。** 报 SAP 的 D 时必须声
+   • Citing sources 引用来源：Definition and Measurement of Diffusion Coefficients (Crank Ch.10)、Diffusion in a Plane Sheet (Crank Ch.4)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、格林函数 Green's Function、Laplace 变换
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[热致变色 Thermochromic]]  (4 句)
+   • **Thermochromic（热致变色）** is a reversible colour change triggered by **temperature**, used in diapers as a **thermal-mediation wetness/comfort indication** route（以温度为媒介的尿布湿态指示）rather than a hydrochromic one（源：US5197958 Wetness Indicating Diaper）. The mainstream system is a **reversible leuco-dye microcapsule**: **colouring matter（leuco dye，供电子体，本身无色）+ colour-developing matter（受电子体：phenol compound or acid clay）+ desensitizer（溶剂）**, where the **discolouring temperature corresponds to the melting (fu
+   • **The Howell insulation principle:** an insulation layer between wearer and outer shell is **insufficiently thermally conductive when dry** for normal body temperature to raise the outer surface above the threshold, but **sufficiently conductive when wet** to do so（源：US5389093 Wetness Indicating Diaper System、US5197958A & US5389093A Wetness Indicating Diaper (Howell)）.
+   • No vault-sourced measured cycle-lifetime or ΔE for a KC-specific thermochromic ink is evidenced .
+- The **formaldehyde caution** attached to Matsui's chemistry is flagged but its regulatory limit is not quantified in the citing excerpts .
+- No cost-per-pant figure specific to the thermochromic route (only the mechanochromic route carries ~0.09 ¢/pant) is evidenced here .
+   • US5197958 Wetness Indicating Diaper
+- US5197958A & US5389093A Wetness Indicating Diaper (Howell)
+- US5389093 Wetness Indicating Diaper System
+- US20070270773A1 Thermochromic Wetness Indicator
+- US8273939 Windowed Removable Sensor Absorbent Article
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)
+- 变色油墨
+- Thermochromic Microcapsule (Leuco Dye System)
+- Microencapsulation
+- CTI (Chromatic Technologies)
+- Matsui Shikiso (松井)
+- 智能尿裤功能层
+
+--- [[Consumer Relevancy of FIUP Method Feb 2025.docx]]  (4 句)
+   • Method-justification memo（2025-02）tabulating FIUP（TTM-00643）against P&G's AFC method parameter-by-parameter, citing wetting-pattern studies and pressure research as the consumer-relevancy evidence chain. Companion to FIUP Test Method TTM-00643（女性摄入与回渗测试法） and the dryness claim substantiation work（TL-15927/R164444）。方法参数的"为什么这么设"证据页。）
+   • Parameters compared: insult position — P&G mid-pad vs FIUP Total Length/12 forward & backward of center, grounded in wetting-pattern studies showing WP centroid sits 2.5–11 mm from pad center (R168596 appendix, studies 37110/37470); fluid — saline both（ionic strength representative）; amount — per-HUT, FIUP uses 75th-percentile total loading ÷ 3 across three insults（majority ≤2 voids, ≥11% have ≥3）; flow rate 8 mL/s（peak flow for adults with bladder/urinary dysfunction, McSorley 1991）; temperatur
+   • **KC FIUP 在加液位置、温度、加液量上更贴消费者真实场景，在吸水纸与等待时间上比宝洁口径更严苛**——为"方法可比性"争议提供逐参数辩护 —— 支撑页：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- **加液位置的依据直接来自润湿图谱研究（质心 ±2.5–11 mm）**——方法与基础研究互锁 —— 支撑页：Wetting Pattern Target Zone（润湿图谱目标区）
+   • 概念 Concepts：FIUP Test Method TTM-00643（女性摄入与回渗测试法）、Wetting Pattern Target Zone（润湿图谱目标区）
+- 对比 Comparisons：Depend vs Always Discreet Intake System（摄入系统回渗竞品对比）
+- 同族源 Related sources：R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf、R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf
+

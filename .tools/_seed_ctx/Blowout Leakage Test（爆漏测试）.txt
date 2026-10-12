@@ -1,0 +1,116 @@
+# SEED: Blowout Leakage Test（爆漏测试）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 392 页，704 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (7 句)
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Section order（尺寸/形态类量）**：fineness 11.2, crimp 11.3, tensile properties 11.4, evenness 11.5, friction 11.6, shrinkage 11.7, entanglement 11.8（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+   • **Shrinkage 收缩**：defined as the decrease in length of a specimen，a negative value being stretch；instruments Toray FTA-500, Lawson-Hemphill CTT-DST, Textechno Dynafil, Rothschild DEFT/CCT；standard ASTM D2102-90；the key claim（p.265）is that "there must be a means of assessing and controlling shrinkage behaviour of the yarn"，with boiling-water / dry-heat shrinkage **and** shrinkage force measurable simultaneously on a running yarn（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+
+--- [[Rewet Test（回渗测试）]]  (7 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • 上文已确立的硬约束是 **"回渗值不可裸引"**（同一公司 30 年间用过 0.005 / 0.05 / 0.24 / 0.5 / 0.7 / 1.0 psi 六档压力）。本追加段把这条约束**从"纵向的历时变化"扩展到"横向的跨组织方法"**：**客户（Walmart 训练裤招标）指定的是另一套标准**，其加液量、压力、介质与时长全部不同。
+- **成人产品此前从未与客户讨论过台架测试**（源文原话：*"Never discussed bench testing on adult products with Walmart previously"*）——这意味着**成人护理品类首次面临外部标准对齐问题**。
+   • 容量：**CRC（STM-00219）** / **Functional capacity（TTM-00638）**、**Retention Capacity（STM-00033）**、Target zone capacity / Virtual functional capacity
+- 可达性：**GBP（STM-00229）**、**Composite permeability（TTM-00006）** / **X-ray imaging（TTM-00631）**、**Bromocresol SAM 分布（JA-22229）**、**Mannequin Forced Failure（TTM-00459 / TTM-00200 / TTM-00660）**\* / AFEA
+- 受压持液：**AUL under pressure at rewet pressure**；⚠️ **"SAM deswelling at rewet pressure"= under development**、**"AUL Core deswelling test"= needed**
+- 及时锁液：*
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (7 句)
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+   • **吸水纸（blotter）三族**：KC 系用 **100 lb Verigood**（88 × 300 mm，1–2 张）；P&G 系用 **Collagen**（P&G Duck 为 Blotter 75 × 145 mm；Collagen BCC 直径 90 mm；Collagen AFC 31 gsm，112 或 70 mm 直径）；其余用 **Filter Paper**（China U Rewet 145 gsm / 10 张；Diaper Testing Intl Type 102 / 10 张；NWSP 070.9 Grade 950 / ~10 g；Costco FQ Demo Grade 950?）。**张数从 1 张到 10 张，差一个数量级**。
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (6 句)
+   • **定义待补（引用来源未给出明确定义）** —— the vault registers this concept through its method documents rather than a definition. It is evidenced as a **core/material test**: the cited method files are **STM-00305 SAM分布.docx** and **STM-4597纸尿裤SAM分布测试.docx**（源：STM-00305 SAM分布.docx、STM-4597纸尿裤SAM分布测试.docx）。The vault's other register of the concept is a **bromocresol-indicator SAM-distribution method, JA-22229**, listed under the *可达性 / accessibility* channel of the core-test family（源：Rewet Test（回渗测试））。What the te
+   • **Where it sits in the core-test family.** The vault groups core tests into channels — 容量 / capacity, **可达性 / accessibility**, 受压持液 / retention under load, 及时锁液 / prompt lock-up — and places the **Bromocresol SAM 分布（JA-22229）** method in the 可达性 channel, alongside GBP (STM-00229), Composite permeability (TTM-00006) / X-ray imaging (TTM-00631) and Mannequin Forced Failure（源：Rewet Test（回渗测试））。That grouping implies the method characterises how liquid reaches and is held within the swollen SAM mass,
+   • **Related SAM metrics that do carry numbers.** SAM characterisation by the five indicators (PSD / GBP / CRC / AUL / Vortex) is the **formal KC口径 for SAP incoming-material judging** and has complete STM numbering（源：SAM Testing Methods（超级吸水材料测试方法））; the same five-indicator set is confirmed in the raw-material method index（源：Raw Material Testing Method Summary（原材料测试方法汇总表））。**PSD** here is particle-size distribution — a material-level distribution distinct from the spatial, in-core SAM distribution 
+   • **Gap flagged by the vault itself.** Two deswelling tests are explicitly **not yet available**: "SAM deswelling at rewet pressure" is *under development* and "AUL Core deswelling test" is *needed*（源：Rewet Test（回渗测试））。
+
+--- [[Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）]]  (6 句)
+   • 1. **三条曲线，三种用途 Three curves, three jobs**：
+   - **Single insult（单次排尿量）** → 决定 **bench 测试的冲击量**，并为吸收体的瞬时空隙（void volume）设计提供输入。
+   - **Product loading（累积载荷）** → 决定产品在正常使用周期中**需要多大容量（capacity）**。
+   - **Leakage（LD50 / 渗漏率）** → 给出**渗漏风险的载荷阈值**，用于容量上限校核。
+2. **采集方式 How single insult is measured**：单次排尿量研究是一类**特殊 HUT**——要求使用者在产品被加载后立刻取下产品并称重，由此得到一次排尿的真实体积分布。
+3. **抽样陷阱 The sampling trap**：若把研究中的**渗漏样本排除**，所得分布会被系统性低估（渗漏的产品恰恰是载荷最高的一批）；反之，若只按 Load–Leak 分位设计，又会**高估**容量需求。正确做法是**三条并存对比**：Load–All / Load–Leak
+   • 下游方法 Downstream methods：Bladder Box Intake Test（膀胱箱压载摄入测试）、STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）、Rewet Test（回渗测试）
+- 同类失效口径 Failure metrics：Run-off & Leakage Test（滑渗与渗漏测试）、Blowout Leakage Test（爆漏测试）
+- 通用方法论 General discipline：GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）（protocol 决定结论）
+- 物理核验 Physical simulation：Mannequin BM Test（BM 假人测试）、Static Mannequin Test（静态假人测试）
+   • R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009） —— 
+- STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案） ——
+   • **实证（原文）**：**DPU2 上的新单次加液研究（Study 35493）与随后的 HUT 得到的载荷低于既往研究** ⇒ 引发**对招募人群结构（recruit demographics）的质疑** ⇒ 直接导致 2013 年后期 **DEPEND Leakage 4SPS HUT 改变招募做法**。
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (5 句)
+   • GB-T 28004-2011 **《Disposable Diapers（纸尿裤 片、垫）》** is the **historical (superseded) Chinese national product standard** for disposable diapers — retained in this vault for historical version comparison, old-contract / inventory disputes, and lineage tracing of the penetration test method（源：GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫））。It has been replaced as the current CN market baseline by **GB-T 28004.1-2021 Baby Diapers**, recorded as 生效中 with 2022-05-01 实施（源：GB-T 28004-2011 与 GB-T 28004.1-202
+   • **The 2011 penetration口径 — 30° run-off（滑渗）.** The GB-T28004-2011 滑渗.doc test answers the question "**尿液冲击下有没有被及时吸收**" — urine has large volume and low viscosity, so the dominating issue is absorption speed（源：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗））。Its intended use is **国标符合性与出厂放行** — a fixed caliber, robust to outliers (去极值), suited to external reports and cross-factory benchmarking（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。The 30° run-off method is contrasted with the in-house **TTM
+   • **Reporting vs. R&D split.** GB-T28004-2011 滑渗.doc is the external / release口径 (national-standard compliance, factory release, cross-factory benchmarking); TTM-00279 is the internal structural-diagnosis口径（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。A REL-core engineer should route 符合性 claims through the GB-T 口径 and structural questions through the in-house one.
+- **Finished-goods渗透红线.** The current infant red lines are 回渗量 ≤15.0 g and 渗漏量 ≤1.0 g（源：Rewet Test（回渗测试））, with adult 回渗 thresholds
+   • **The 2011-version clause text itself is not in the vault** — the vault only holds the version-lineage notes and the .doc test records, not the full 2011 standard body; a complete clause-by-clause口径 .
+- **No 2008→2011→2021 line-by-line comparison page exists** — the batch explicitly noted the 2008 version texts are not in the library and only the revision foreword's change list exists, "不足以支撑逐项对比"（源：GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂））。
+- **The actual 滑渗量 numeric 
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (5 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • **Two-tier acceptance 验收双档制**：PRIMARY = **finished-diaper enterprise standard**（rewet <5.9 g @0.5 kPa after 2 insults、core stain uniformity ≥A、SAP utilization ≥63 %、wet tensile ≥75 N/m）；the **material level is a screening gate only** — fuzz ≤2 belongs to the material-level tier（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- **Test architecture 试验架构**：a 3-stage randomised DOE（seed 20260814）totalling 33 runs — Stage 1 configuration screen（4 configs × 3 temps × medium load = 12,
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • **Definition, specimen, rating method, instrument and tolerance of the topsheet fuzz & pilling test** —— （must be checked against TTM-00609 面层材料起毛起球测试.doc）。
+- The unit of "fuzz"（whether it links to TS7 / a visual rating）is not given in the digest 。
+- Quantitative relation between fuzz & pilling and TS7 softness / topsheet free-fibre shedding 。
+- Whether this gate has entered the KC global STM/TTM method system, or remains a project-level screening convention 。
+
+--- [[回渗 Rewet]]  (5 句)
+   • Rewet（回渗）is the liquid that returns out of an absorbent article toward the skin under load. The vault's physical account: after being taken up by SAP, part of the liquid still sits as **毛细水 / 颗粒间隙水** in the topsheet and the top of the core; under skin pressure this fraction is **squeezed out onto the filter paper** — so the rewet reading is **extremely sensitive to load and to waiting time**（源：Rewet Test（回渗测试））。回渗与滑渗是**互补指标而非重复**：回渗量液体「返出」，滑渗量液体「漏走」（源：Rewet Test（回渗测试））。A mechanistic refinement f
+   • **Capillary-pressure account 毛细压力解释.** Rewet in the closed-cradle configuration is **解吸（desorption）驱动**，解吸主要由**毛细作用**驱动，因此需逐层测毛细性；residual-fluid drivers are **wettability (θ)** and **pore radius (R)** via **Young–Laplace ΔP = −2γcosθ/R**（源：Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）、2026-05-05 - QUINN.pptx）。
+- **Two principle sets 两套机理原则.** Rewet = **Flowback + Desorption** 两套机理，各有原则集；贯穿原则是评估变异与能力（源：Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩））。
+- **Waiting time defines what is me
+   • **Method identity governs the number 方法身份决定数值.** K-C internal STM/TTM numbers are **not** directly interchangeable with ISO/NWSP external numbers; any competitive benchmark must state the method（源：NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx）。这与 Cradle 协议的「注液点必须带产品类型与性别」同一逻辑（源：Cradle Intake Test（Cradle 摄入测试））。
+- **Liner + surge are the primary lever 面层与导流层是主杠杆.** 互换实验证明 **AD 的面层 + 导流层单独就足以把 Depend 回渗降到 AD 水平**，且 **AD 的卷曲纤维没有额外的回渗收益**（只利于摄入）——回渗差距定位在摄入系统（liner+surge），不在芯体（源：Rewet 
+   • **U Rewet 国标回渗压块与 TTM-00623 低压段反渗板**的**实际质量 / 压强**——两份原文均未给出（源：Rewet Test（回渗测试））。
+- **STM-00059-2 的完整操作规程**未在摘要中给出（源：Rewet Test（回渗测试））。
+- **HPR 的 <0.3 g 机理未确认**（源：Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩））。
+- **毛细测试结果未给出**：12/8/25 完成的是材料属性与显微表征，毛细测试结果本件未给出（源：Residual Fluid & Pore Stranding（残液与孔隙滞留））。
+- 本页数值来自**多套不可互换的方法口径**（Closed Cradle / FIFE / NWSP / 国标），跨行比较前须人工确认方法与载荷档位。
+
+--- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]  (5 句)
+   • **BCC 成品测试方法的最新总索引**（表头自述 *Sep 2026 Check by R&D Lab Tester*），按品类与 OD / Pants 形态两列把「指标 → 方法编号」一一锁定；是本批各单项方法文档的**上位清单与查表入口**。
+   • 表分四大评价通道：**Lab Physical Test（实验室物理测试）**、**Human Sensory Test（人体感官测试）**、**Clinical Test（临床测试）**、**Consumer Test（消费者测试）**。消费者测试列统一填 Wet Fit Study，并注 PANEL / HUT / CUT 等研究形式。
+   • **本表是成品方法的唯一总索引，任何单项方法的「是否现行」应回到本表核对** —— 支撑页：芯体测试方法与验收基准（STM）
+- **滞留能力的正式压力口径为 3.45 kPa（0.5 PSI），与 FIFE 回渗载荷同源** —— 支撑页：Retention Capacity Test（滞留能力测试）
+- **国标法已占据 pH、回渗/摄入/渗漏、滑渗、防漏、交货水分、杂质、微生物、荧光 9 项** —— 支撑页：GB-T 28004.1-2021（纸尿裤国标）
+- **假人测试分动态（TTM-00318）、静态强制失效（TTM-00459）、BM 假人（TTM-00467）三条** —— 支撑页：Static Mannequin Test（静态假人测试）、Mannequin BM Test（BM 假人测试）
+- **耳贴三法（STM-00071/00076/00075）仅适用于 OD，Pants 不适用** —— 支撑页：芯体测试方法与验收基准（STM）
+- **「差异点总结」表为空，说明截至 2026-09 无已登记的操作-标准偏差** —— 支撑页：Kimberly-Clark
+   • 概念：Retention Capacity Test（滞留能力测试）、Rewet Test（回渗测试）、Cradle Intake Test（Cradle 摄入测试）、Run-off & Leakage Test（滑渗与渗漏测试）、Mannequin BM Test（BM 假人测试）、Static Mannequin Test（静态假人测试）、Elastic Tension & Creep（橡筋张力与回缩率）、GB-T 28004.1-2021（纸尿裤国标）、芯体测试方法与验收基准（STM）、Diaper Microclimate、SAM Testing Methods（超级吸水材料测试方法）
+- 实体：Kimberly-Clark（金佰利）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (5 句)
+   • **品牌使命（Brand Purpose）**：*"We exist to Help Navigate the Unknowns of Babyhood"*（我们为帮助穿越育儿中的未知而存在）。
+- **六大战略支柱 Strategic Pillars**：**Baby's Skin Health**（远离刺激与红疹）／**Baby's Comfort**（远离不适）／**Baby's Dryness**（远离漏与湿）／**Baby's Future**（为所有婴儿守护未来）／**Parents' Choices**（守护父母的选择）／**Parenting Skills**（守护父母的育儿能力）。
+- **消费者需求空间 Consumer Need Spaces**：Skin Health / Wellness、Comfortable Fit / Wear、Long-Lasting Leakage Protection and Skin Dryness、Eco-Friendly、Convenience、Self-Fulfillment、Growth。
+- **覆盖品类**：Diape
+   • **框架**：**MENSTRUAL / BLADDER LEAKAGE / INTIMATE HEALTH & WELLNESS**，沿 **Puberty → Period → Sexual experience → Baby → Menopause** 的人生阶段展开；品牌对应 **Kotex（经期）／Poise（膀胱渗漏）／Depend（…）／Intimus（私处健康）**。
+- **三大全球关键词**：**RESPONSIVE**（2D & 3D contour、flexible、breathable、soft、gentle、body-conforming fit；Advanced Freshness = odor-elimination、cooling/thermo-regulation、clean & dry feel、moisture-wicking）／**NO FEEL**（seamless、weightless、moves with the body、thermo-balancing、skin-soothing）／**INTIMATE WELLNESS**（rest
+   • **POD（功能差异点）**：**Most responsive comfortable protection**；**POP（共同点）**：Leakage protection、Clean and dry、Safe for her body、Environmentally safe。
+- **RTB（相信理由）**：**解剖学导向的产品设计**（3D dimples、bodyside lines/pleats、"barely there" layer）／**响应身体的技术**（cooling、anti-bac）／**倡导行动**（She Can Initiative）／端到端设计。
+   • **品牌使命**：*"We exist to liberate women from the nonsense that holds them back from their true selves"*；**POD = Most unnoticeably comfortable protection**；**POP** = Leakage Protection、Designed for me、Discretion & Gentle on Skin。
+- **四大属性方向**：
+

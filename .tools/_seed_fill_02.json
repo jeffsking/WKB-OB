@@ -1,0 +1,25 @@
+{
+  "batch": "02",
+  "done": [
+    "Work of Adhesion",
+    "获取层 Acquisition Layer",
+    "热轧粘合 Calender Bonding",
+    "毛细管吸收 Capillary Sorption",
+    "纤维干燥 Fiber Drying",
+    "Stimuli-Responsive Polymers",
+    "纸浆干燥 Pulp Drying",
+    "亲水整理 Hydrophilic Finish"
+  ],
+  "skipped": [],
+  "manual_review": [
+    "Work of Adhesion: no WA value for a named KC material in the read source; link to measured rewet not established.",
+    "获取层 Acquisition Layer: no quantified intake-speed delta between P&G / K-C routes; layer-interface flow mechanism noted as under-studied.",
+    "热轧粘合 Calender Bonding: no hygiene-specific calender bond-strength values in the read source; digest's ultrasonic/3D-pattern excerpts treated as off-topic and dropped.",
+    "毛细管吸收 Capillary Sorption: no quantified capillarity for fluff/airlaid web; loose-fibre non-capillary-porous caveat cited to Industrial Drying Ch33.",
+    "纤维干燥 Fiber Drying: no line-specific drying parameters; source gives no standalone term definition (used operational two-subprocess definition).",
+    "Stimuli-Responsive Polymers: source is biomedicine/microfluidics-framed, no hygiene application data.",
+    "纸浆干燥 Pulp Drying: no KC pulp-grade drying parameters; lower-moisture-bound numeric value not given in source.",
+    "亲水整理 Hydrophilic Finish: PP surface energy quoted as ~29-31 vs ~23 mN/m, unreconciled in vault; ATB commercial rewet value truncated [原文残缺]."
+  ],
+  "count": 8
+}

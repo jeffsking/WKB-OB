@@ -1,0 +1,88 @@
+# SEED: 吸收芯体
+# type: concept | 原引用数: 23
+# 原 Cited by 列表:
+#   - Absorbent Technology
+#   - Absorbent Technology Introduction
+#   - Absorbent Technology Textile Science and Technology
+#   - Acrylic-Based Superabsorbent Polymers
+#   - Adhesive Handbook
+#   - Adhesive Handbook Part 4 Applications
+#   - Characterisation, testing and modelling of nonwoven fabrics
+#   - Cross-linked Cellulose and Derivatives
+#   - Development of the nonwovens industry
+#   - Diffusion Equations (Crank Ch.1)
+#   - Diffusion in Heterogeneous Media (Crank Ch.12)
+#   - Diffusion in a Plane Sheet (Crank Ch.4)
+#
+# 全库正文命中 60 页，67 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）]]  (4 句)
+   • 中国**复合吸收芯体（无尘纸/无纺布包裹 SAP + 绒毛浆的预制芯）的轻工行业标准**，是本库在「芯体作为中间品」层级做供应商准入与技术协议时的**直接判定依据**。
+   • QB/T 5650—2021（ICS 85.080，CCS Y33，中华人民共和国轻工行业标准）2021-12-02 发布、**2022-04-01 实施**，**首次发布**。第 3 章定义三个核心参数：吸收倍率（absorption ratio，g/g）、吸收速度（wicking rate，s）、回渗量（rewet，g）。第 4 章按应用对象把复合吸收芯体分为**卫生巾（女性卫生裤）用**与**婴儿纸尿裤用**两类，两类指标表不同。
+   • **复合吸收芯体在标准体系中拥有独立层级，其吸收速度（≤40 s）比婴儿成品（≤50 s）更严** —— 支撑页：复合吸收芯体（Composite Absorbent Core）、GB-T 28004.1-2021（纸尿裤国标）
+- **安全五项（重金属/荧光/丙烯酰胺/甲醛/邻苯）全部是型式检验，出厂 COA 不覆盖 —— 采购须单独约定型式检验频次** —— 支撑页：复合吸收芯体（Composite Absorbent Core）
+- **甲醛在卫生巾用与婴儿用两档相差 12.5 倍，是本文件最易误引的一项** —— 支撑页：复合吸收芯体（Composite Absorbent Core）
+- **禁用废弃回收原料是芯体供应链的准入红线** —— 支撑页：复合吸收芯体（Composite Absorbent Core）
+   • 概念：复合吸收芯体（Composite Absorbent Core）、Rewet Test（回渗测试）、SAP（高吸水树脂）、Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 实体：（无）
+- 对比：（无；本批仅本份复合芯体标准，未达对比建页门槛）
+
+--- [[Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）]]  (2 句)
+   • 上位：GB 15979-2024（一次性使用卫生用品卫生要求）（一次性卫生用品总纲，原料与成品双层约束）
+- 平行限用物质：环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）
+- 材料层：复合吸收芯体（Composite Absorbent Core）、Topsheet（面层）
+- 方法层：可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）（同属合规方法族）
+   • GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求） —— 
+- GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤） —— 
+- GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层） —— 
+- QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体） —— 
+- GB-T 21331-2021 Fluff Pulp（绒毛浆） —— （2026-09-29 追加）
+- GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定） —— （2026-09-29
+
+--- [[CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）]]  (2 句)
+   • **露乐健康科技股份有限公司的中国授权发明专利**（CN 116327488 B）。它把本库通常讨论的"湿了没有"问题，推进到**"吸饱了没有"**：在吸收芯体与第二表层之间放一张**饱和度显示层**，用**中部可逆温敏变色部数"次数"**、**端部不可逆温敏变色部记"总量"**，再用一张**示温记录标签**给出第三条信号，最后用**三条判据任二成立**的逻辑判定是否饱和。是本库少见的、把"更换时机判断"写成**算法式判据**的专利。
+   • 发明名称：**一种便于识别吸湿状态的吸收性物品及其方法**。结构为：第一表层 / 吸收芯体 / 第二表层，其中吸收芯体夹在第一、第二表层之间；**在吸收芯体与第二表层之间增设饱和度显示层**。该显示层由**基底 + 第一温敏变色部 + 第二温敏变色部**构成，两者**平铺在基底朝向吸收芯体的一面**：**第一温敏变色部（可逆）位于基底中部**，接触温度较高的排泄物后变色、**排泄物温度降低时恢复初始颜色**，用于**记录排泄次数**；**第二温敏变色部（不可逆）位于基底端部**，接触排泄物后变色并**保持变色状态**，用于**获知排泄量**，进而结合排泄次数判断是否吸收饱和。此外还有一层**示温记录标签**位于饱和度显示层与第二表层之间，在**低于 T₂ 与高于 T₂** 两个温度范围分别显示第一颜色与第二颜色，用于获知排泄量。可见性由结构保证（权利要求 6）：**第二表层设为透明或设透明窗口**，且**示温记录标签与第一、第二温敏变色部错开**。判定规则（权利要求 8）为：在每次变色一段时间后判断 n ≥ N、a ≥ A、t < T₂ 中**任两者**是否成立，若任两者成立则判为**
+
+--- [[Manufactured Fibre Technology Ch15 Acrylic Fibres]]  (2 句)
+   • 就 REL 超薄吸收芯体、绒毛浆、SAP、聚烯烃纺粘/熔喷非织造而言，**本章直接相关性有限**，需如实说明：
+   • **材质不相关**：腈纶（PAN）不是卫生用品吸收系统或非织造面层用纤维；REL 芯体的纤维相为绒毛浆（fluff pulp）与 ES/PE-PP 双组分热粘合纤维，与 PAN 的溶液纺丝体系无交集。
+- **可迁移的原理**：(1) 凝固浴温度/浓度 → 皮芯结构 → 大孔与强度的因果链，是"纺丝条件决定纤维结构"的通用范式，可类比聚烯烃纺粘中冷却风温/风速对皮芯与结晶的影响；(2) 干喷湿纺"先松弛取向再凝固"抑制大孔的思路，对理解熔喷/纺牵一步法纤维致密化有启发；(3) 卷曲（crimp）与热定形（heat-setting）机理直接对应双组分 ES 纤维的螺旋卷曲形成与热风粘合定形，见 Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） 与 三叶形截面纤维（Trilobal Fibre）。
+- **唯一实质交集**：15.8 节的 **SAF（超吸水纤维）** 差别化品种——SAF 是吸收芯体领域真实存在的技术路线，与 
+
+--- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]  (2 句)
+   • 文件自述来源为 K-C *Absorbent System Test Methods / Modeling*（2021）与 *Absorbent Technology*（2002），适用于吸收芯体、ADL/Surge、REL 等蓬松材料的 VV 表征。
+   • **测试本身测什么**：TTM-00038 / TTM-00437（Pore Space Modulus，孔隙模量）测量吸收芯体与导入系统材料在多次压缩循环后的**回弹性（resiliency）**；直接输出是**厚度随压力的函数曲线 Thickness as f(Pressure)**，VV 由后处理换算得到。典型加载为**多循环压缩（如 3-Cycle）**，HPP 参考样品如 85 gsm，加载至 **10 kPa**。用途是吸收系统建模输入，以及评估材料变更对 VV 的影响。
+
+--- [[无纺布五大工艺对比]]  (1 句)
+   • **水刺法**：婴儿湿巾/化妆棉（手感最柔软、吸液最佳）；消毒湿巾/工业擦拭布（可提高合成纤维比例）
+- **纺粘法**：婴儿纸尿裤面层（皮芯复合改善手感偏硬）、底膜复合基材（单层 S，成本敏感优先）；医用手术衣
+- **熔喷法**：口罩过滤层（唯一能实现 0.3 μm 颗粒物高效过滤，无可替代）
+- **热风法**：纸尿裤吸收芯体包覆层（蓬松结构提供导流空间）；宠物垫/工业吸油材料
+- **针刺法**：土工布/汽车内饰/地毯基布（对手感无要求，追求强度与成本效益）
+
+--- [[ADL（导流层）]]  (1 句)
+   • 1. **三层职责分工**：ACQUIRE（面层→ADL 快速摄入）、DISTRIBUTE（ADL 内 MD 横向铺展）、TRANSFER（ADL→吸收芯体下送）。三者的共同约束是**空隙体积（void volume）**——空隙被压实或过粘合熔掉，三项指标同时恶化。
+2. **性能差异只在重复冲击中显现**：首次冲击时纤维基本干燥，PE/PET 在新鲜亲水整理下表现良好；第 2/3 次冲击才分叉——**亲水整理被洗脱**、毛细连续性受损的一方会显著落后。
+3. **驱动机理（摄入）**：表面润湿 + 垂直渗透率 + 临时孔隙体积共同决定摄入时间；整理耐久性决定后续冲击的衰减速度。
+4. **驱动机理（MD 铺展）**：纤维网络的毛细连续性与未饱和孔隙长度决定铺展距离；铺展越宽，冲击点下方局部 SAP 饱和度越低、凝胶阻塞越轻。
+5. **驱动机理（回渗）**：ADL 越能快速把液体下送、并在每次冲击后少留自由液，回渗越低；**过粘合会提高滞留液量**，与化学改良反向。
+6. **结构实现**：主流为**穿透热风粘合（ATB）非织造**，粘结纤维用 ES（皮芯双组分）——皮层选择性熔融
+
+--- [[GB 15979-2024（一次性使用卫生用品卫生要求）]]  (1 句)
+   • 下位/被引：GB-T 28004.1-2021（纸尿裤国标）、Topsheet（面层）、复合吸收芯体（Composite Absorbent Core）
+- 平行限用物质：Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）、环氧乙烷残留（EO Residue）、抗（抑）菌性能评价（杀菌率·抑菌率）
+- 标识：消毒产品标签宣称红线（中国 GB 38598-2020）
+- 湿巾口径：湿巾 vs 卫生湿巾（中国 GB 15979-2024 口径）
+
+--- [[Intake System（摄入系统）]]  (1 句)
+   • **权威边界（2022 战略章程口径）**：**In Scope = Enterprise（Global & KCNA）Adult Care + Baby/Child Care，液体为尿液与稀便（Runny BM）**；**Out of Scope = 女性护理、以及吸收芯体技术（SAM / Fluff / Adhesives / CIRRUS）**。
+  - 关键补充：芯体虽被划出界，但章程要求**「consider how these impact the intake systems strategy」** → **摄入系统与芯体是「分域但必须做影响传递」**的关系，不是互不相关。
+  - 同样被排除的还有：**战术性材料迁移计划与 glidepath**、**特定项目/区域的技术对比 POV** —— 即摄入系统战略管的是**技术域与机理**，不管具体牌号迁移与区域选型。
+- **顶级需求即组织维度**：四大企业级需求为 **Skin Health & Wellness（含 Fresh Protection）、Leakage Protection、Comfortable Wea
+
+--- [[SMS复合结构]]  (1 句)
+   • 1. **分工逻辑**：纺粘层（纤维 7–30 μm）提供强度骨架；熔喷层（纤维 1–5 μm 超细）提供过滤/阻隔功能。三明治式分工。
+2. **为什么必须复合**：熔喷的过滤精度虽遥遥领先，但**强度几乎为零、蓬松度垫底**——单独使用无法满足医用防护服的实际需求。
+3. **典型场景**：医用防护服、手术衣、口罩内外层。
+4. **同类复合思路的其他形态**（同源资料列举）：热风棉+SAP+底膜（纸尿裤/卫生巾吸收芯体整体结构）、水刺+纺粘（高端擦拭布/部分医用敷料基材）、针刺+树脂加固毡（工业过滤毡/汽车内饰基材）。
+

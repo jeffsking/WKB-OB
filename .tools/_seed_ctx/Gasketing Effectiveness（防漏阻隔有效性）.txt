@@ -1,0 +1,52 @@
+# SEED: Gasketing Effectiveness（防漏阻隔有效性）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 8 页，11 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Kirigami Apertured Nonwoven（切割拉伸开孔工艺）]]  (2 句)
+   • 若开孔区**延伸到腿围 / 腰围垫片区域**，会创造**新的最小阻力泄漏路径** → 面层议题与垫片议题**必须交叉评审**，不能各自优化。见 Gasketing Effectiveness（防漏阻隔有效性）。
+   • ✅ **验证记录（2026-09-29）**：以上来自**内部准备文件**，非实测数据；文件自身标注 —— **Kirigami 的放大/在线切割速度/成本对比数据不可得**，**SemiCircle 10 mm 是否为终版待现场确认** [待验证]。参见 ADL（导流层）、Gasketing Effectiveness（防漏阻隔有效性）、Coform Composite Nonwoven（熔喷-木浆复合非织造）。
+
+--- [[STM-00061 折页渗漏.docx]]  (2 句)
+   • **折页渗漏是局部阻隔指标，读数为流出液克重** —— 支撑页：Run-off & Leakage Test（滑渗与渗漏测试）
+- **折页铺平无折痕 + 漏斗对准粘合线是复现性关键** —— 支撑页：Gasketing Effectiveness（防漏阻隔有效性）
+   • 概念：Run-off & Leakage Test（滑渗与渗漏测试）、Gasketing Effectiveness（防漏阻隔有效性）、Waist Guard（腰围护挡）
+
+--- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]  (2 句)
+   • 2. **GRID 在产品架构中的位置（已确认）**：
+   - KC Open Diaper 架构：**T4 及以下**用 **Surge / Liner 两件式**；**T5 及以上**升级为 **Support Layer / Topical liner（3-Piece Liner，三件式面层）**，产线含 **T5 的 Double Turn Bar（双转向杆）工位**。
+   - **SOAR4**（腰围弹性化 + topical liner）属 **T5+** 配置；同 tier 有 **New 3D Emboss + Apertured Liner**（全尺码）。
+   - 在 Intake Material Development Pathway 中，**GRID\***（星号 = 开发中）列在 **Surge 3D / Apertured** 分支下，与 **Textor AC4、Naxos、CleanShield、DEFENDER** 并列。
+3. **Kirigami 的定位与机理（已确认）**：
+   - **Drivers**：消费者对尿液/稀便管理与皮肤干爽
+   • Kirigami Apertured Nonwoven（切割拉伸开孔工艺）
+- Coform Composite Nonwoven（熔喷-木浆复合非织造）
+- Gasketing Effectiveness（防漏阻隔有效性）
+- Kimberly-Clark（金佰利）
+- KC Tianjin Mill（金佰利天津厂）
+- Mannequin BM Test（BM 假人测试）
+
+--- [[Kimberly-Clark（金佰利）]]  (1 句)
+   • ✅ **验证记录（2026-09-29）**：厂区清单来自内部资产分析文件；"TJ" 释义**未经确证**。参见 Coform Composite Nonwoven（熔喷-木浆复合非织造）、KC Tianjin Mill（金佰利天津厂）、Gasketing Effectiveness（防漏阻隔有效性）。
+
+--- [[联欣环保科技（泰兴）]]  (1 句)
+   • **2026-09-18（重构版，项目 OI-10「PPC-P + PBAT 可降解树脂 → 纺粘与 TABCW」）**：列为 **Low / In progress**。技术进展——**纺粘试产 T55P25T20 可纺**，理想窗口 **180–185 °C**；**纱线强度与喷丝孔匹配待改进**。产能路线图——**泰兴 25 kt 于 2025-10 投产；淄博 40 kt 于 2027 年中期**。牌号口径——**PPC-P / PPCT 纤维级**，PPC-P 在 PBAT 中可掺至 **35%**。
+- **2026-09-17（供应商台账）**：登记为"**最具成本效益的可降解方案**"（Biodegradable solution with most cost effectiveness）。
+- **2026-09-17（大纲 OI-24 口径）**：行业侧对标——**PPC 联泓新材料 5 万吨/年（2025 投产），自然条件完全降解**；PLA 全产业链 2024-08 投产；**PLA 预计 2028–2029 与 PP 纤维平价** → 本项目正处于**成本卡位
+
+--- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]  (1 句)
+   • 概念：CD Pants Converting Process（CD裤式产品加工工艺）、Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）、Diaper Premiumization（纸尿裤高端化）、Core Channel Pattern（芯体通道花型设计）、Gasketing Effectiveness（防漏阻隔有效性）
+- 实体：（本页项目代号与区域上市信息未单列实体页）
+- 对比：1-Piece vs 3-Piece CD Pants Design（一片式 vs 三片式裤型设计对比）
+
+--- [[TJ Mill Visit Pre-Brief v3.1（中文版 · TJ工厂访问会前简报 2026-09-07）]]  (1 句)
+   • TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）（完整编译）
+- TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）
+- Gasketing Effectiveness（防漏阻隔有效性）
+
+--- [[TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）]]  (1 句)
+   • 姊妹页（完整编译）：TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）
+- 概念：Kirigami Apertured Nonwoven（切割拉伸开孔工艺）、Coform Composite Nonwoven（熔喷-木浆复合非织造）、Gasketing Effectiveness（防漏阻隔有效性）
+- 实体：Kimberly-Clark（金佰利）、KC Tianjin Mill（金佰利天津厂）
+

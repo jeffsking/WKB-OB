@@ -1,0 +1,65 @@
+# SEED: BC Microgel（细菌纤维素微凝胶）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 10 页，12 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Smart Polymers Ch05 Microgels from Smart Polymers]]  (2 句)
+   • 本章把智能聚合物的物理从**宏观凝胶（macrogel）宏观凝胶**下移到**胶体尺度的微凝胶（microgel）微凝胶**：定义、合成路线、刺激响应机理、表征手段与应用（含**尿布/个人护理行业 尿布行业**）的全套梳理。
+   • lines 74–76 — "Colloidal microgels can be defined as a disperse phase of discrete polymeric gel particles, which are typically in the size range of 1 nm to 1 µm..."
+- lines 106–108 — "Any material that can respond to subtle changes in environmental conditions ... could be considered a 'smart' or 'intelligent' material."
+- lines 522–531 — "Microgels achieve steady-state swelling in less than a second when the temperature is changed... tc ∝ R²/D."
+- lines 636–637 — "A pH- and temperature-sensitive
+
+--- [[Smart Polymers in Biotechnology and Biomedicine (Book)]]  (2 句)
+   • **Ch1**：1.2 Solubility Phase Transitions and Liquid-Liquid Coexistence Curves；1.3.1 Static Light Scattering（1.3.1.1 Fluctuations and Scattering in the Vicinity of Phase Transitions / 1.3.1.2 Scattering in Polymer Systems / 1.3.1.3 Light Scattering from Large Particles / 1.3.1.4 Zimm Plots）；1.3.2 Dynamic Light Scattering（1.3.2.1 Photon Correlation Spectroscopy / 1.3.2.2 DLS Data Analysis: Monodisperse Spheres / 1.3.2.3 Effect of Polydispersity / 1.3.2.4 Effect of Size and Shape of Larger Particle
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering — Ch1：相变与静态/动态光散射表征（cloud point、Zimm 图、DLS）
+- Smart Polymers Ch05 Microgels from Smart Polymers — Ch5：微凝胶的制备与响应行为
+- Smart Polymers Ch08 Smart Hydrogels — Ch8：智能水凝胶总论，与 SAP 溶胀机理最直接相关
+- Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers — Ch9：宏孔凝胶与快响应，卫材吸收速率设计的启发来源
+- Smart Polymers Ch10 Boronate Copolymers and Gels — Ch10：硼酸基共聚物与凝胶（糖/湿响应化学）
+- Hydrogel-based Superabsorbent Polymers — 高吸水树脂的产品侧视角，与本书水凝胶理论构成「理论—产品」对照
+
+--- [[水凝胶 Hydrogel]]  (1 句)
+   • Citing sources 引用来源：Holographic Structurally Colored Mechanochromic Films、Hydrogel-based Superabsorbent Polymers
+- Additional vault pages used 另有正文来源：Hydrogels in Regenerative Medicine、Smart Polymers Ch08 Smart Hydrogels、Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers、Smart Polymers Ch14 Hydrogels in Microfluidics、Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、BNC-PEG 母粒（干态可复水中介体）、海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）
+- Adjacent concepts 相邻概念：SAP（高吸水树脂）、交联密度 Crosslink Densit
+
+--- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]  (1 句)
+   • 1. **SAP as a nonergodic cross-linked network.** The swelling balance is ionic osmotic pressure (electrostatic repulsion) vs. network swelling pressure (L2197–2205), and ⟨I_S⟩_E scales with cross-linking density (L2638). 中文：把 SAP 当作非遍历水凝胶做 SLS/DLS，可用 ⟨I_S⟩_E 反推交联密度对凝胶强度的贡献。Action: quantify how surface cross-link density moves ⟨I_S⟩_E, to tune free-swell capacity vs. gel-bed permeability.
+2. **Thermoresponsive layers near body/urine temperature.** Flat-top LCST means the trigger is concentration-
+
+--- [[Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts]]  (1 句)
+   • lines 78–79 — "Phase separation of PNIPAM and PVCL takes place at approximately 32°C, close to physiological temperature."
+- lines 116–119 — "The balance between the hydrophilic and hydrophobic groups along the polymer chain determines the lower critical solution temperature (LCST)..."
+- lines 205–207 — "Conventional surfactants are held on the particle surface by physical forces; thus, adsorption/desorption equilibrium always exists..."
+- lines 576–578 — "...the hydrodynamic radius decreased to
+
+--- [[Smart Polymers Ch06 Protein-Based Smart Polymers]]  (1 句)
+   • Smart Polymers Ch04 Thermoresponsive Amphiphilic Grafts
+- Smart Polymers Ch05 Microgels from Smart Polymers
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)
+- Photochromism Dihydroindolizines
+
+--- [[Smart Polymers Ch07 Imprinting Using Smart Polymers]]  (1 句)
+   • Smart Polymers Ch03 Conformational Transitions in Ionic Gels
+- Smart Polymers Ch05 Microgels from Smart Polymers
+- Hydrogel-based Superabsorbent Polymers
+- BM Urine Indicator Concept（尿+便双指示概念）
+
+--- [[Smart Polymers Ch08 Smart Hydrogels]]  (1 句)
+   • Smart Polymers Ch03 Conformational Transitions in Ionic Gels
+- Smart Polymers Ch05 Microgels from Smart Polymers
+- Hydrogel-based Superabsorbent Polymers
+- Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）
+
+--- [[Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers]]  (1 句)
+   • Smart Polymers Ch08 Smart Hydrogels
+- Smart Polymers Ch05 Microgels from Smart Polymers
+- Hydrogel-based Superabsorbent Polymers
+- Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)
+
+--- [[纳米纤维素供应商拜访计划 V3.1（2026Q2）]]  (1 句)
+   • 1. **Nanocellulose is a reinforcement lever, not yet a cost lever 纳米纤维素当前是增强杠杆而非成本杠杆** — 1–10 wt% CNF delivers 20–100% tensile and 30–200% modulus gains, but the energy route (TEMPO 1–5 vs 30–50 kWh/kg) is what decides whether it becomes affordable; see 纳米纤维素（CNC、CNF、BNC） and 三类纳米纤维素对比（CNC、CNF、BNC）.
+2. **BC is high-purity but long-cycle 细菌纤维素高纯度但周期长** — >99% purity, 84–89% crystallinity and 200–1000× water uptake at 28–30 °C, yet 7–14 天静置周期 dominates cost; the 10:90 BC/壳聚糖 microgel route shows h
+

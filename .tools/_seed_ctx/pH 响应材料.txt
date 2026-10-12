@@ -1,0 +1,60 @@
+# SEED: pH 响应材料
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Handbook of Cosmetic Science
+#   - Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+#
+# 全库正文命中 8 页，9 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[形状记忆聚合物 Shape Memory Polymer]]  (2 句)
+   • **转变点附近的模量突变。** SMP 的开关来自 Tg / Tm 附近的力学—（乃至光学/阻隔）性质突变：Diaplex 靠**粒子在约 25 °C 转变点上下的重分布**工作，并据此宣称**无孔隙的防水透气防冷凝**（源：Intelligent Textiles and Sports Clothing）。在胶黏语境中，这一突变被表述为"Tg/Tm 附近模量突变 → 粘接力切换"（源：Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- **被动 → 主动 → 超智能的三级框架。** 智能纺织品按"被动（感知）/ 主动（感知 + 响应）/ 超智能（感知 + 响应 + 适应）"分类，SMP 属**能改变形状/性能的响应材料**；核心组件为传感器、致动器、控制单元（源：Smart Textiles Review、Smart Textiles and Sportswear）。
+- **SMP 作为动态粘接路径。** 传统热熔胶"施胶 → 冷却 → **固定**粘接力（被动、不可逆）"；智能响应胶"施胶 → 固化 → **感知刺激** → **动态调整**
+   • **舒适层热管理**：PCM 微胶囊与 SMP 属智能纺织的温控技术，库内判断其可迁移至卫材舒适层（PCM 微胶囊"可直接用于卫材舒适层而不改变产线形态"）（源：Smart Textiles Review、Smart Textiles and Sportswear）。
+- **智能响应胶的中期路线（3–5 年）**：卫材最相关的形态是**温/湿响应结构胶**的四阶段设想 —— [生产] 强粘接 ｜ [存储] 稳定 ｜ [穿着-干态] 维持 ｜ [穿着-尿湿] 粘接力自适应增强（防结构松散导致侧漏）；其中**湿度响应（PVA/PVP/PEG 接枝）近期可行性最高（⭐⭐⭐⭐），温度响应（SMP）为中期 3–5 年**（源：Ultra-Low Add-On Adhesive Application（超低添加量施胶）、Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景））。
+- **形状记忆 SAP（研究前沿）**：Acrylic-Based SAP 的 2024 新方向明确把"**形状记忆 SAP**"列入结构优化方向（另含 3D 打印分级孔道 SAP、纳米复合 
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (1 句)
+   • **上文既有追加要点**：**"力致 vs 湿致"的边界必须写在需求书里**，否则供应商会默认提供热致/光致材料。
+- **本批加一条**：需求书中**还须写明是否接受"仅光响应"**——因为商品级光变颜料/油墨厂商（本批 20+ 家国内厂商）**全部为 UV 响应、无力学响应**，但其产品说明常写"感光变色"而非"不响应拉力"，**极易被误当作力响应材料采购**。
+- ⚠️ **话术陷阱（源文点名）**：某厂商宣传的"**压力标示**"被源文判为**功能材料品牌话术，非力致变色** 。
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (1 句)
+   • **SAP is a crosslinked copolymer SAP 即交联共聚物.** SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂），**其组成由竞聚率而非投料比决定**；弹性腰围/防漏侧边用的弹性纤维与 TPE 亦落在共聚物序列设计范畴（源：Seymour Polymer Chemistry Ch09 Copolymerization）。这是本页与卫材最直接的交集（SAP 吸水/保水即一类刺激响应行为）。
+- **Body-temperature window 体温窗口.** 工作相变落在 ~37 °C 的系统最有用（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）——该窗口与卫生用品的**湿/温指示**功能方向同源（参见 PNIPAAM、pH 响应材料）。
+- **Trigger-selection rule 触发选择规则（可迁移）.** 生物分离应用给出的选择规则：**非带电温敏聚合物的非特异性共沉淀显著低于带电 pH 响应聚合物**（ionic interactions 会引入不希望的非特
+
+--- [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]  (1 句)
+   • **"信号转译"是刺激响应聚合物的本质**——材料既是传感器又是执行器，将"功能性高分子"从结构材料拉升为"智能材料"。
+- **薄膜化是响应速度的物理突破点**——本体表面重构太慢（分钟~小时），纳米薄膜可调节到秒级（t∝L²）。
+- **PNIPAAM 是温控相变的标杆聚合物**——LCST≈32°C，接近体温，在温致变色/温响应材料中具有独特地位。
+- **聚合物刷是"密度-熵-冻结约束"三重物理的交汇点**——实现快速可逆开关的核心构件。
+- **动力学预测能力是工业瓶颈**——理论能预测平衡态但不能预测响应速率，设计迭代仍需试错。
+- **LbL 薄膜溶胀度高达 400%**——与 SAP 凝胶网络动力学概念相通，是刺激响应功能层的关键架构。
+
+--- [[Handbook of Cosmetic Science]]  (1 句)
+   • 湿巾 Wet Wipes
+- Nonwoven 非织造布
+- 皮肤科学 Dermatology
+- pH 响应材料
+
+--- [[Hydrogel-based Superabsorbent Polymers]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：水凝胶 Hydrogel · SAP（高吸水树脂） · 生物基单体 Bio-based Monomer · 交联密度 Crosslink Density · 离子强度 Ionic Strength
+- 相关章节：Acrylic-Based Superabsorbent Polymers · Cross-linked Cellulose and Its Derivatives · Fibers and Fibrous Materials
+- 智能材料：Stimuli-Responsive Polymer Materials (Nature Materials Review) · 温度响应材料
+
+--- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]  (1 句)
+   • 命题中的"**可实现拉力变色的光致变色材料**"，对应的是一类 **光–力双响应材料（photomechanochromic / dual-stimuli-responsive）** —— 典型如 **螺吡喃（spiropyran, SP）**、**二芳基乙烯（diarylethene）**、**偶氮苯（azobenzene）**、**萘酰亚胺–螺吡喃杂化体**等光致变色分子被**工程化为力致基团（mechanophore）**，在受力（**研磨、拉伸、超声、压缩**）时发生**异构/断裂**并伴随可见光谱变化。
+
+--- [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]  (1 句)
+   • Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 光致变色 Photochromic
+- 热致变色
+- 液晶 Liquid Crystal
+- CLC 手性向列晶
+- PNIPAAM
+- pH 响应材料
+- 湿感指示条 Wetness Indicator
+- 光致变色油墨 Photochromic Ink
+

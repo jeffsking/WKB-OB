@@ -1,0 +1,62 @@
+# SEED: 胶乳胶黏剂 Latex
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - The Role of Surfactants
+#
+# 全库正文命中 10 页，12 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Chemical bonding]]  (2 句)
+   • Chapter 7 (R.A. Chapman) systematically treats chemical (latex/binder) bonding — the dominant alternative to thermal consolidation and the route of choice when a broad property palette must be engineered, with explicit flushable-wipe and incontinence binder chemistry.（中文：第 7 章系统讲化学（胶乳/粘合剂）粘合——热粘的主要替代路线，需在柔软/防水/透气/阻燃/可回收间做多目标设计，并明确给出可冲散拭布与失禁用品粘合剂化学。）
+   • 父书：Handbook of Nonwovens
+- 概念：粘合剂 Binder、胶乳 Latex、Surface Tension and Surface Energy、等离子处理 Plasma Treatment、可冲散拭布 Flushable Wipe
+- 关联章节：Thermal bonding、Nonwoven fabric finishing
+
+--- [[Thermal bonding]]  (2 句)
+   • It opens with the historical origin (Reed, 1942) and the energy/environment shift away from latex bonding, then surveys raw materials: binder fibres, bicomponent (conjugate) fibres, polymeric powder binders, with Tg/Tm tables.（先讲起源（1942 Reed）与节能/环保驱动，再列原料与玻璃化/熔融温度表。）
+- The core systematically treats four heat-transfer routes: calender (conduction, area/point bonding), through-air/impingement (convection), and thermal-radiation/IR plus ultrasonic bonding.（核心梳理四种传热路径：轧光（传导）、热风/冲击（对流）、热辐射/红外与超声波。）
+
+   • The bond is intrinsic to the fibre/powder polymer, not an added adhesive — central to topsheet/ADL design.（粘合点内生于纤维/粉末聚合物而非外加粘合剂。）
+- Thermal bonding is a sustainability- and cost-led substitution for latex bonding.（热粘是替代胶乳粘合的节能/环保路线。）
+- Sheath-core PP/PE and CoPET/PET bicomponents dominate hygiene webs (low-melt sheath fuses, core preserves strength).（皮芯双组分主导卫材网。）
+- Target surface sintering; over-bonding embrittles and causes point-bond "popping".（目标为表面烧结；过粘致"爆点"失效。）
+
+--- [[压敏胶 PSA]]  (1 句)
+   • Citing sources（3）: Adhesive Handbook Part 1 History and Information Resources、Adhesive Handbook Part 2 Fundamental Aspects、Adhesive Handbook Part 3 Adhesive Classes
+- 汇总 / 父书: Handbook of Adhesive Technology Full Report、Adhesive Handbook Part 4 Applications
+- 相邻概念: 卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhesive、Hot Melt Adhesive、胶黏剂 Adhesive、丙烯酸丙烯酸酯胶 Acrylic Adhesive、Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）、胶乳胶黏剂 Latex、弹性热熔胶腰围（减压腰围）
+- 机理 / 应用: Origin of Rubber Elasticity Boo
+
+--- [[湿巾 Wet Wipes]]  (1 句)
+   • **Coating and drying（涂层与干燥，制造侧）**
+- Emulsion / lotion coatings on wipes behave like latex — a longer benign constant-rate period before the defect-prone falling-rate zone（源：Industrial Drying Ch40 Drying of Coated Webs）。
+- For skin-contact hygiene films and wipes, **100 % solids UV/EB** is the regulatory-friendly route — no solvent VOC, no extractable cross-linker residuals（源：Industrial Drying Ch40 Drying of Coated Webs）。
+
+--- [[Coating and Laminating Technology]]  (1 句)
+   • 源文件 148,989 bytes / 2,182 行（>40 KB）。按抽样规则读取版权页与前言段（）及目录段（L173–L372、L289–L372），并以  提取结构，**未读取正文全文**。
+- 19 章标题与印刷页码、各章小节名均取自源文件目录页；图示/表格标题取自目录与抽样正文片段，未推测。
+- 源文件由 PDF 抽取，存在少量字符残留（如 、 类转义、 的 LaTeX 记法），本页在转述时按原意还原为常规写法，未改动数值。
+- 本页为**索引页**，未生成 chapter 页（大部头 + 中文工程书，宜按需检索）。
+
+--- [[Ebewole Polymer Science Ch05 Polymer Modification]]  (1 句)
+   • Composition ladder given in the source: **28% styrene → SBR** (footwear, hose, adhesives); **60–74% styrene → hot-melt adhesives / latex paints**; high styrene → thermoplastic. 组成连续变化对应从弹性体到热塑性塑料的性能谱。
+
+--- [[Industrial Drying Ch40 Drying of Coated Webs]]  (1 句)
+   • **Hygiene implication:** Emulsion/lotion coatings on wipes behave like latex — a longer benign constant-rate before the defect-prone falling-rate zone.
+
+--- [[Smart Polymers Ch14 Hydrogels in Microfluidics]]  (1 句)
+   • This extraction does not state an edition year (only title, author, chapter span), so  is 0 per rule; sibling chapters of the same book state CRC Press 2008, which is probable but not citable from this file — [待验证].
+- Page span **pp. 437–457** comes from the chapter TOC and running heads (L10–26, L1197), not invented; individual line claims are cited as L-numbers.
+- All LaTeX expressions are labelled reconstructions of textual statements; the chapter has no numbered equations ([原文无公式编号]).
+- Busi
+
+--- [[The Role of Surfactants]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：表面活性剂 Surfactant、CMC 临界胶束浓度、胶束 Micelle、浊点 Cloud Point、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、两亲吸附 Amphipathic Adsorption、离子对吸附 Ion Pair Adsorption、协同吸附 Cooperative Adsorption、半胶束 Hemimicelle、解键剂 Debonding Agent、自-sizing Self-sizing、等电点 Isoelectric Point、粘附张力 Adhesion Tension
+- 材料/产品：绒毛浆（Fluff Pulp）、SAP（高吸水树脂）、回渗 Rewet、胶乳胶黏剂 Latex、吸收芯体、ADL（导流层）
+- 相邻章节：Surface Tension and Surface Energy、Fluid Absorption in High Bulk Nonwovens
+
+--- [[Wet-laid web formation]]  (1 句)
+   • It opens with the standards definition (EN 29092 / ISO / EDANA) separating wetlaid nonwovens from wetlaid papers, then derives the Bernoulli balance for slice velocity.（先以标准定义区分湿法无纺布与湿法纸，再推导堰口速度的伯努利方程。）
+- Two deposition regimes are established: filtration (individual fibres → uniform) vs thickening (pre-flocculated → non-uniform).（两种沉积机制：过滤式均匀、增稠式不均。）
+- The fibre palette is surveyed: cellulose, Tencel/Lyocell (wet strength + fibrillation), SWP synthetic wood pulp, deep-grooved PET, polyolefins.（
+

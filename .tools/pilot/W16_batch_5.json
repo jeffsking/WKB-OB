@@ -1,0 +1,65 @@
+{
+ "batch_id": "W16-5",
+ "items": [
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_6418ac6eac83dea84b940895a1b3b89b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CMC-Na CA CNF SAP original article.pdf.md",
+   "name": "CMC-Na CA CNF SAP original article.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_ef61e47ca14defbe7360502db0a3c53a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/BUFF BABY DOE - April 2024 - 1272 Low High Data Sheet.jmp.md",
+   "name": "BUFF BABY DOE - April 2024 - 1272 Low High Data Sheet.jmp.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_1aa8815e180d665a0753957a992f9883001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM Database-CW.xlsx.md",
+   "name": "SAM Database-CW.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_5f6fd58ef00cb2481bfa320a78340240001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Scaling_Visible_Force v2.pptx.md",
+   "name": "Scaling_Visible_Force v2.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_f21d6858ac1535b95041b79130a4c57b_41f1290f09fff6e35a24695882cc50c2001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布分类工艺及性能差异.docx.md",
+   "name": "无纺布分类工艺及性能差异.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_ae5fe5f4e6b7f4efcbf295214d2bba96001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/2022 Intake Strategy Charter - 8-4-22.xlsx.md",
+   "name": "2022 Intake Strategy Charter - 8-4-22.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b64c0fd3e9dcaa5a7bc9641f4a1ae7df001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理行业变色油墨供应商调研报告.md.md",
+   "name": "卫生护理行业变色油墨供应商调研报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "word_e5656dbc3d0f2888096a8b56b414d9fc_6d12cca066dfde9394fec10bf1556f82001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md",
+   "name": "Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_2a0f76b2d42db49cb7fe4ebdfdba0e89001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Tech One Pagers.pptx.md",
+   "name": "Tech One Pagers.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_3a50351adb5d46b17889a6c47b95e000001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/温变湿变材料可行性分析报告_2026-08-04.docx.md",
+   "name": "温变湿变材料可行性分析报告_2026-08-04.docx.md",
+   "type": "word"
+  }
+ ]
+}

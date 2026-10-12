@@ -1,0 +1,34 @@
+{
+  "batch": "S3_Areas_Regulation&PSC_04",
+  "stage": "S3",
+  "block": "Areas/Regulation&PSC",
+  "source_pages": [
+    "GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2）",
+    "ASTM E2149-20 Dynamic Contact Antimicrobial Activity（标准正文缺失 · 仅 ASTM 知识产权政策前置页）",
+    "ASTM E2149-20 Dynamic Contact Antimicrobial Activity（平行备份 · 正文同样缺失）",
+    "GB-T 28004.2-2021 Adult Diapers（纸尿裤 第2部分 成人纸尿裤）",
+    "GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）",
+    "QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）",
+    "GB-T 27728-2011 Wipes（湿巾）",
+    "GB-T 27728-2011 Wipes（湿巾 · 副本1）",
+    "GB-T 39951-2021 Degradability Evaluation for Disposable Paper Products（一次性纸制品降解性能评价方法）",
+    "GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）"
+  ],
+  "concept_pages": [
+    "可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）",
+    "复合吸收芯体（Composite Absorbent Core）",
+    "Topsheet（面层）"
+  ],
+  "entity_pages": [],
+  "comparison_pages": [
+    "婴儿纸尿裤 GB-T 28004.1-2021 与成人纸尿裤 GB-T 28004.2-2021 指标差异对比",
+    "GB-T 27728-2011 与 GB-T 27728.3-2024 湿巾标准对比"
+  ],
+  "updated_existing": [
+    "Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）— 追加「Evidence Update（2026-09-29 · 可降解宣称的『评价方法』落地）」，补 GB/T 39951-2021 三段式评价与重金属表，并提示其为方法标准、不含合格阈值"
+  ],
+  "manual_review": [
+    "ASTM E2149-20（两份）：RAW 正文仅含 ASTM 知识产权政策前置页，无抗菌动态接触法条文本，方法参数（接触时间/接种浓度/降低率判据）未臆造，标 manual_review，市场标注 US / [待验证]"
+  ],
+  "notes": "10 个 item 全部新建 source 页。GB/T 27728-2011 与 ASTM E2149 各一份/两份平行 RAW 副本，分别建页互链并注明不可当作多份不同标准。标准号/地区/限值均已标清：GB/T 28004.2-2021（回渗 30/40 g、饱和吸收量 300/600 g、甲醛 75 mg/kg）、GB/T 27728.3-2024（2024-09-29 发布 / 2025-10-01 实施，2026-09-29 记录：已实施；MIT/CMIT 不应检出、邻苯 ≤0.0012%）、QB/T 5650-2021（甲醛 75 vs 6 mg/kg 双档）、GB/T 30133-2022（PFOS/PFOA 禁用、禁用回收料、婴儿/非婴儿分档）、GB/T 39951-2021（仅方法、无阈值）。GB/T 27728-2011 发布/实施日期缺失、GB/T 28004.2-2021 重金属/丙烯酰胺/邻苯行缺失均标 [待验证]。对比页均含「成本 Cost」与「供应链风险 Supply Chain Risk」列并附来源脚注，成本为定性口径、未写入无来源金额。未改动 index.md / log.md；未移动/重命名/删除任何文件。"
+}

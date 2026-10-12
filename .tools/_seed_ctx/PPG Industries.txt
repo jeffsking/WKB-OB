@@ -1,0 +1,50 @@
+# SEED: PPG Industries
+# type: entity | 原引用数: 2
+# 原 Cited by 列表:
+#   - Chromic Phenomena Introduction and Reversible Colour Change
+#   - Luminescence Fluorescence Phosphorescence and Electroluminescence
+#
+# 全库正文命中 8 页，9 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Clariant]]  (2 句)
+   • 源：Ancient Organic Dyes and Pigments Chemistry —— 供应商清单：BASF · Clariant · Henkel。
+- 源：Chromic Phenomena Introduction and Reversible Colour Change —— 供应商清单：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex。
+   • Clariant 的主营业务与产品线 。
+- 产地 / 生产基地 。
+- 与金佰利（KC）的既有关系 。
+- 在变色材料 / 卫材语境下与本库其他供应商页的关系（参见 BASF、Henkel、PPG Industries、DIC、Sun Chemical、Ardex）。
+
+--- [[Nonwoven 非织造布]]  (1 句)
+   • A nonwoven resists a single clean definition — the field is **convergent and boundary-crossing**, because the industry drew on textile, paper and polymer-processing practices（开篇即指出"无纺布"定义总有例外，因其横跨纺织、造纸与高分子加工）（源：Development of the nonwovens industry）. The vault fixes the **EDANA and INDA definitions** and classifies nonwovens into **drylaid, wetlaid and polymer-laid (spunmelt)** families. These three process families trace to three mother industries: **drylaid → textiles, wetlaid → papermaking, p
+
+--- [[活性炭除臭（DARCO）]]  (1 句)
+   • Per its technical datasheet (TDS, dated **6 April 2016**), it targets **purification of highly colored and/or foaming process liquids in the food, chemical and pharmaceutical industries**; it combines high adsorptive capacity with good filtration characteristics and is **especially effective for high-molecular-weight organics such as large color bodies and proteins at low carbon dosage**（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)）.
+
+--- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]  (1 句)
+   • The document is a two-page datasheet. DARCO KB-G is produced by chemical activation of wood using the phosphoric acid process（木基磷酸法化学活化）and targets purification of highly colored and/or foaming process liquids in the food, chemical and pharmaceutical industries. It combines high adsorptive capacity with good filtration characteristics and is especially effective for high-molecular-weight organics such as large color bodies and proteins at low carbon dosage. The product is Kosher certified and me
+
+--- [[Chromic Phenomena Introduction and Reversible Colour Change]]  (1 句)
+   • 父书：Chromic Phenomena
+- 概念：光致变色 Photochromic · 热致变色 Thermochromic · 电致变色 Electrochromic · 离子变色 Ionochromic · 机械变色 Mechanochromic · 光致变色 Photochromic · 液晶 Liquid Crystal
+- 相关章节：Ancient Organic Dyes and Pigments Chemistry · Mechanochromic Photonic Sensors · Stimuli-Responsive Polymer Materials (Nature Materials Review)
+- 供应商：PPG Industries · BASF · Clariant · DIC · Sun Chemical · Ardex
+
+--- [[Development of the nonwovens industry]]  (1 句)
+   • Nonwovens resist a single clean definition — the field is convergent and boundary-crossing.（无纺布无单一洁净定义，属跨界聚合产业。）
+- Three process families trace to three mother industries: drylaid→textiles, wetlaid→papermaking, polymer-laid→polymer extrusion.（三工艺族分别源自纺织、造纸、高分子挤出。）
+- Hygiene is the dominant end-use, justifying the book's hygiene-centred lens.（卫生用品是主导终端。）
+- PP's 63% share is the master variable for polymer/process choice in hygiene nonwovens.（聚丙烯 63% 占比决定卫材无纺布的聚合物与工艺选择。）
+
+--- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]  (1 句)
+   • 父书：Chromic Phenomena
+- 概念：荧光增白剂 Optical Brightener · 香豆素 Coumarin · 偶氮染料 Azo Dye · 斯托克斯位移 Stokes Shift · 电致发光 Electroluminescence · 光致变色 Photochromic · 热致变色 Thermochromic
+- 相关章节：Chromic Phenomena Introduction and Reversible Colour Change · Ancient Organic Dyes and Pigments Chemistry
+- 材料：木浆 Pulp · 绒毛浆（Fluff Pulp）
+- 供应商：Henkel · PPG Industries · BASF
+
+--- [[Nonwovens in Absorbent Materials]]  (1 句)
+   • 父书：Absorbent Technology
+- 概念：Nonwoven 非织造布 · 气铺 Airlaid · 纺粘 Spunbond · 熔喷 Meltblown · 水刺 Hydroentanglement · SMS 纺粘熔喷复合 · ADL（导流层） · 绒毛浆（Fluff Pulp） · 回渗 Rewet · 达西定律 Darcy's Law
+- 相关章节：Fibers and Fibrous Materials · Fluid Absorption in High Bulk Nonwovens · Absorbent Product Testing · Products and Technology Perspective
+- 供应商：Koch Industries · 东丽 · 舒美
+

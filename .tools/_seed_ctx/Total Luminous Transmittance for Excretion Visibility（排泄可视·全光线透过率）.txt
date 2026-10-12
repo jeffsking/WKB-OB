@@ -1,0 +1,79 @@
+# SEED: Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 82 页，99 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]  (4 句)
+   • **Unicharm 的欧洲申请公开**（EP 2 529 717 A1，2012-12-05）：它的独立权利要求不是结构限定，而是**一个光学数值**——从外片经吸收结构体到内片的**全光线透过率必须在 15%–65%**，目的是让人**从产品外侧直接看到是否已排便**。是本库少见把"光学可视性"写成权利要求的尿裤专利，也是 Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率） 的唯一一手出处。
+   • Title: "DISPOSABLE ABSORBENT ARTICLE". The stated improvement is that **occurrence of defecation may be easily perceived from the outside**. The diaper 1 comprises a crotch inner sheet 28 on the skin-facing surface, a crotch outer sheet 29 on the non-skin-facing surface and a liquid-absorbent structure 80 between them; the **total luminous transmittance from the outer sheet 29 through the liquid-absorbent structure 80 to the inner sheet 28 is 15% to 65%**. Claim 2 defines the enabling structure:
+   • **把"看得见"变成可验收的光学指标**：15–65% 全光线透过率直接写在权利要求 1，等于把"外侧可视排便"从营销话术转成了研发可测的可验收指标。→ Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）
+- **要看见，必须先变薄**：两例传统绒毛浆连续芯（5.8 / 3.2 mm）只有 10.2% / 13.1%，落在窗口之外；本案 0.9 mm 的分区 SAP 结构才达到 26.9% / 28.8%。→ Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **父权结构很简单：交替的 SAP 吸收区 + 环绕封合区**——用两张 SMS 片材夹 SAP，再以封合区把每个吸收区围住，既固定 SAP 又保留整体薄度。→ SMS复合结构
+- **方向与本库 Geometric Optical Mask（几何光学掩膜） 相反**：一个追求"透出来看得见"，一个追求"遮住直到触发才露出"。两者可并存于同一产品的不同区域。
+   • Concept 概念：Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）、SMS复合结构、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- Entity 实体：Unicharm Corporation（尤妮佳）
+
+--- [[Unicharm Corporation（尤妮佳）]]  (3 句)
+   • **2026-09-29 记录（Areas/IP 弹性部件/ ABSORBENT ARTICLE 两件）**：
+  - **EP 2 411 386 B1「DISPOSABLE WEARING ARTICLE」**（弹性部件）——见本库既有页 EP2413866B1 Disposable Wearing Article (Unicharm)。
+  - **EP 2 529 717 A1「DISPOSABLE ABSORBENT ARTICLE」**——欧洲申请公开，PCT/JP2012/059170 → WO 2012/137809，JP 优先权 2011-04-04（2011083201），发明人 ICHIKAWA, Makoto / SASAYAMA, Kenichi / KATSURAGAWA, Kunihiko。核心技术是把**全光线透过率 15%–65%** 写进独立权利要求，以达成"从外侧可视排便"。见 EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)。
+- **2
+   • Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）（EP2529717A1 的核心光学指标）
+- Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）（EP 0 776 645 A1 的核心机理；与"排泄可视"同属**用光学手段把内部状态外显**的技术家族）
+- Wetness Indicator Ladder（尿湿指示阶梯）、Wetness Indicator Glue（湿显路线的相邻概念）
+- Waist Guard（腰围护挡）、Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）（同属裤型/腰围相关的产品领域）
+- SMS复合结构、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+   • EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm) —— 
+- EP2413866B1 Disposable Wearing Article (Unicharm) —— 
+- EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm) —— （2026-09-29 追加）
+
+--- [[BM Urine Indicator Concept（尿+便双指示概念）]]  (3 句)
+   • Cost model per 1,000 diapers totals US$0.54 (ladder 0.07, lanes A+B 0.10, ADL tail 0.23, barrier film 0.14, clear channel 0.00), i.e. ≈US$0.00054/diaper or 0.6–0.9 % of a typical US$0.06–0.09 ex-works diaper. Phase-1 capex is US$38–60 k; annualised running cost at 300 M diapers/year is ≈US$108 k. The deck is explicit that this is a claim and complaint-avoidance project, not a cost-out project.
+   • Validation pairs bench simulants (breastfed BM simulant: 78 % water, 3–8 Pa·s, lactate 60 mM + acetate 60 mM, pH 5.0, bilirubin 1.5 mg/g, pancreatin 1.5 mg/g, mucin 1 %; formula-fed: 72 % water, 20–60 Pa·s, total VFA 45 mM, pH 6.8, bilirubin 0.8 mg/g) with a 40-sample real-stool panel and a 60-infant in-home use test, against acceptance criteria of ΔE*ab ≥ 15 within 90 s on BM insult and ≤ 5 at 4 h on any urine challenge, false positive < 2 %, false negative < 10 % breastfed / < 20 % formula-fed
+   • Phase-1 total capex 合计：US$38–60 k；无车速损失、无新放卷
+- Watch item 注意项：cationic-loaded hot melt can char or pre-trip in a hot tank → screen every candidate for **72 h at 150 °C** tank residence before line trial
+
+--- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]  (3 句)
+   • **核心表（加液阶梯）**：按产品档位 Micro / Liner / UT / Mod / Max / Ult 分为 6 档，**总载荷（Total Load）= 3 / 6 / 12 / 30 / 78 / 114 mL**，**单次加液（Single Insult）= 1 / 2 / 4 / 10 / 26 / 38 mL**——即**总载荷 ÷ 3**。
+   • **"3 次加液"的统计学来源**（最关键的一条）：原表脚注——*"75ᵗʰ percentile total loadings from **ULS 34724** divided into 3"*（取自 2012 年尿液载荷研究 ULS 34724 的 **75 百分位总载荷，均分为 3 次**）。Poise 侧亦注明 *"FIUP TL says it uses 75th percentile total pad loading divided in 3"*。
+   • **总载荷研究（Total Loading Studies）**：Depend 侧 DPU1 / DPU2·DSU2 / DAU·DRU2 / Briefs / GFM 均用 **ULS 34724（2012）**，DSU1 用 HUT 36094（2014）。Poise 侧 Liners 与 UT 用 **ULS 34724（2012）**；**Mod–Ult 的 Long 规格因 ULS 34724 未区分 regular 与 long，改用 HUT**：Mod Long = HUT 36445（2014）、Max = HUT A83750（2003）、Max Long = HUT 31142（2007）、Ult = HUT 35609（2014）。
+
+--- [[Flexible and Stretchable Electronics]]  (3 句)
+   • 1. **Problem framing 问题陈述**: conventional electronics = packaged components assembled on flat, rigid printed circuit boards; growing demand for 2.5D (free-form surface) and full 3D electronic circuits.
+2. **Application drivers 应用驱动**: comfort and ergonomics (wearable / implantable circuits); design and aesthetics (2.5D or 3D light sources); ecological reasons (more efficient materials usage, less CO₂ emissions in automotive applications).
+3. **Technology 1 — UTCP 超薄芯片封装**: bare Si or other inorg
+   • The industrial target is explicitly stated as **randomly deformable circuits produced by industrial methods** — i.e. the contribution's value proposition is manufacturability, not just a lab demonstration.
+- **Two parallel routes are named**, and they solve different problems: UTCP addresses the *rigid component* (chip thickness, 20–30 μm Si; total package < 100 μm), while the meander-interconnect route addresses the *interconnect and substrate* (elastic strain accommodation).
+- The **structural
+   • **No overlap with the core programme 与主线无交集**: the file contains nothing on ultra-thin absorbent cores, fluff pulp, SAP, ES/PE-PP bicomponent fibres, air-through or spunbond nonwovens, hot-melt/structural adhesives, or chromic inks. Its substrate materials (Si, spin-on polyimide, PDMS, PU) are not used in disposable hygiene constructions.
+- **The one genuinely transferable idea is architectural, not material**: "rigid functional islands connected by compliant geometry and embedded in a soft elas
+
+--- [[GB 7917.1-1987 Hygienic Chemical Test Methods for Cosmetics Mercury（化妆品卫生化学标准检验方法 汞）]]  (3 句)
+   • Historical CN method standard for **total mercury in cosmetics**（化妆品总汞，冷原子吸收法）— the 1987-era method companion of GB 7916-1987; its Hg ≤1 ppm mindset is the ancestor of the mercury limits still seen in GB 15979-2024 / GB 43631-2023 tables.
+   • GB 7917.1-87 is one of the 1987 cosmetics hygienic test-method family (GB 7917.x chemical, GB 7918.x microbiological) issued alongside GB 7916-1987. It specifies cold-vapor AAS for total mercury: digest the 1 g cosmetic sample by one of three routes (reflux, V2O5-catalysed, or peroxide extraction for non-waxy matrices), reduce Hg²⁺ to elemental vapour with stannous chloride, and read at 253.7 nm against a 0–2 mL series of a 0.10 µg/mL standard; LOD 0.01 µg absolute / 0.01 ppm at 1 g. Sampling ru
+   • 概念：中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）、化妆品微生物限值（细菌总数·致病菌）
+- 同族方法标准：GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定） 等（本批后续页）
+
+--- [[GB 5009.137-2025 Determination of Antimony in Foods（食品安全国家标准 食品中锑的测定）]]  (2 句)
+   • China's **food-matrix total-Sb determination standard**（GB 5009.137-2025，HG-AFS 第一法 + ICP-MS 第二法引至 GB 5009.268）— although scoped to foods, it is the cleanest published CN reference for the **消解（total-content）Sb 口径** that the Sb-free PET fibre program benchmarks against.
+   • GB 5009.137-2025 replaces the 2016 edition. The 2025 revision adds ICP-MS as a second method (implemented by reference to GB 5009.268) and tightens the reductant chemistry of the first method. Method 1 (HG-AFS): digest the sample by wet, microwave (110 ℃→190 ℃ profile) or pressure-vessel routes, pre-reduce Sb(V) with thiourea-KI or thiourea-ascorbic acid in acidic medium, generate volatile stibine with 20 g/L KBH4, atomize and read fluorescence against a 0–20.0 µg/L curve. Performance: LOD 0.01 
+
+--- [[GB 7918.2-1987 Microbiological Test Methods for Cosmetics Total Bacterial Count（化妆品微生物标准检验方法 细菌总数测定）]]  (2 句)
+   • Historical CN method standard for **cosmetic total plate count**（化妆品细菌总数，卵磷脂-吐温80 平板计数法）— the 1987 ancestor of the plate-count method family still behind CN hygiene-product microbiological limits.
+   • GB 7918.2-87 defines bacterial total count（细菌总数）as viable bacteria per gram or millilitre of cosmetic and prescribes the standard plate count on lecithin-Tween-80 nutrient agar — the lecithin and Tween neutralize cosmetic preservatives so the true microbial load is recovered — incubated 48 h at 37 ℃, capturing mesophilic aerobes and facultative anaerobes. Serial 1:10 dilutions to 1:10000+, double plates per dilution, blank control, and a full counting/reporting decision tree (30–300 selection wi
+
+--- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]  (2 句)
+   • Expected: top candidates may improve MD wetting spread by **about 10–25%**; CD spread may improve modestly if web orientation is also optimised; too much mono-PET can reduce bond integrity and softness. "The best formulation is the one with the best **total diaper performance**, not the highest single wicking number."
+预期：优选方案 MD 润湿铺展可提升约 **10–25%**；若同时优化网面取向，CD 铺展亦可小幅改善；单组分 PET 过量会降低粘合完整性与柔软度。「最优配方是**整裤综合表现最好**的那一个，而不是单项芯吸数据最高的那一个。」
+   • **The ideal topsheet fibre is not the shape with the sharpest edges** but the best total balance of wicking, softness, bondability and process stability —— 支撑页：Pentagram PET (Star Cross-Section Fibre)
+- **Choose shapes that create repeatable channels, not just sharp points** —— 支撑页：Groove Capillary Suction、三叶形截面纤维（Trilobal Fibre）
+- **Shape is a modifier, not the whole design** — orientation and finish still control MD/CD balance —— 支撑页：MD Liquid Distribution、亲水整理耐久性
+- **Cap the one-component fra
+
+--- [[Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization]]  (2 句)
+   • **逐步动力学 / Stepwise kinetics**：*"The term stepwise kinetics, or step-growth kinetics, refers to polymerizations in which the polymer's molecular weight increases in a slow, step-like manner as reaction time increases."* (line 28-31) — *"Polymer formation begins with one dialcohol (diol) molecule reacting with one diacid molecule..."* → *"dimer, trimer, tetramer, etc., molecules are formed as the reaction progresses."* → *"the reactants are consumed with very few long chains being formed throughou
+   • **Addition vs Condensation 分类存在交叉**：Seymour 自己承认 "There is a large but not total overlap" —— 聚氨酯是加成聚合但产物含"缩合型"重复单元；环氧化合物开环聚合是加成但无副产物。提示**反应机理**比**产物类型**更本质。
+- **Carothers 方程的理想化假设**：DPN = 1/(1−p) 假设等摩尔、无副反应、官能团等活性；实际体系中 stoichiometric imbalance（r ≠ 1）会显著降低 DPN。
+- **凝胶点预测的偏差**：Flory-Stockmayer 理论忽略分子内环化（intramolecular cyclization），实际凝胶点通常晚于理论预测。
+

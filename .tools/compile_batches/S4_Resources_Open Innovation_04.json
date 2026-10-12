@@ -1,0 +1,76 @@
+{
+ "stage": "S4",
+ "block": "Resources/Open Innovation",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/17-SAP选型与实验数据决策库.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/17-SAP选型与实验数据决策库.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/17-SAP选型与实验数据决策库.docx.md",
+   "name": "17-SAP选型与实验数据决策库.docx.md",
+   "title_hint": "17-SAP选型与实验数据决策库.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md",
+   "name": "亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md",
+   "title_hint": "亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/纸尿裤结构.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/纸尿裤结构.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/纸尿裤结构.md",
+   "name": "纸尿裤结构.md",
+   "title_hint": "纸尿裤结构"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Tech One Pagers.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Tech One Pagers.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Tech One Pagers.pptx.md",
+   "name": "Tech One Pagers.pptx.md",
+   "title_hint": "Tech One Pagers.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/济南纳美欣.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/济南纳美欣.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/济南纳美欣.md",
+   "name": "济南纳美欣.md",
+   "title_hint": "济南纳美欣"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Intake via Bladder Box draft STM-00497 - Copy.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Intake via Bladder Box draft STM-00497 - Copy.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Intake via Bladder Box draft STM-00497 - Copy.docx.md",
+   "name": "Intake via Bladder Box draft STM-00497 - Copy.docx.md",
+   "title_hint": "Intake via Bladder Box draft STM-00497 - Copy.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf.md",
+   "name": "R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf.md",
+   "title_hint": "R150540_TL-14137_Summary of POISE Use Test Load and Leakage Data (2009).pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Personal Care Process 101 - How its Made.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Personal Care Process 101 - How its Made.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/Personal Care Process 101 - How its Made.pptx.md",
+   "name": "Personal Care Process 101 - How its Made.pptx.md",
+   "title_hint": "Personal Care Process 101 - How its Made.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/NEW REL 4.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/NEW REL 4.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/NEW REL 4.pptx.md",
+   "name": "NEW REL 4.pptx.md",
+   "title_hint": "NEW REL 4.pptx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison.pptx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison.pptx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Comparison.pptx.md",
+   "name": "Rewet Method Comparison.pptx.md",
+   "title_hint": "Rewet Method Comparison.pptx"
+  }
+ ]
+}

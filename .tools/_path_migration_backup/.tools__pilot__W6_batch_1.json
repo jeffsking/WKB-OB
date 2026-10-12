@@ -1,0 +1,53 @@
+{
+ "batch_id": "W6-1",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_421599bdf64d8e6f4948bcc0be137be5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/IMA知识库索引_20260925.md.md",
+   "name": "IMA知识库索引_20260925.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a6f05f4d6683d07f57f40c0b81d2997e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Market Insight/纸尿裤新品调研报告（2024-2025）.pdf.md",
+   "name": "纸尿裤新品调研报告（2024-2025）.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "html_3867e2b60070d7dc3f413086d0b0036e_d17dff11f7e42e575e1fea1269e05e19001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/public_alternatives.html.md",
+   "name": "public_alternatives.html.md",
+   "type": "html"
+  },
+  {
+   "media_id": "markdown_e5656dbc3d0f2888096a8b56b414d9fc_b18d905dec9304b3244f43c755626758001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/IMA知识库索引_20260821.md.md",
+   "name": "IMA知识库索引_20260821.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_baf5396e223f6aacaea1aab9cadc79af001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md",
+   "name": "2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_f3295690aefeeb365bf2968b8ca1178f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Market Insight/中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md",
+   "name": "中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a0c362f0297be19be22c141421bd42001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/低熔点PP开发任务书·方案C技术要点补充页.docx.md",
+   "name": "低熔点PP开发任务书·方案C技术要点补充页.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b9ecef15dd898ba9d641cc198b78031e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Archives/WKB_标签体系统计报告_20260829.md.md",
+   "name": "WKB_标签体系统计报告_20260829.md.md",
+   "type": "markdown"
+  }
+ ]
+}

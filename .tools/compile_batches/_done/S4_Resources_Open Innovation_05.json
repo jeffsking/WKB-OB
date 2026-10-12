@@ -1,0 +1,61 @@
+{
+  "batch": "S4_Resources_Open Innovation_05",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": [
+    "Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）",
+    "Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）",
+    "ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）",
+    "P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）",
+    "HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）",
+    "HSBL Peel Test Results（面层-导流层剥离强度实测）",
+    "War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）",
+    "Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）",
+    "Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）",
+    "ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）"
+  ],
+  "concept_pages": [
+    "MCCT Multi-Component Capillary Tension（多组分毛细张力测试）",
+    "Resilient Surge（PET 回弹导流层）",
+    "Skin Health Treatment on Nonwoven（无纺布护肤处理）",
+    "Liquid Modes（TL-1607 液体四态）",
+    "LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）",
+    "Median Absorption Pressure Gradient（中值吸收压梯度）",
+    "Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）",
+    "Peel Test STM-00438（剥离强度测试）",
+    "Residual Fluid & Pore Stranding（残液与孔隙滞留）",
+    "Dryness Measure System（干爽度量三分）"
+  ],
+  "entity_pages": [
+    "Kimtech（毛细测试设备外协加工与装配）",
+    "Rextac（APAO 热熔胶）",
+    "Shalag（Shalag 导流层与面层材料）",
+    "Fitesa（Fitesa 非织造布）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "concepts/绒毛浆（Fluff Pulp）.md",
+    "entities/Nippon Shokubai（日本触媒）.md",
+    "concepts/Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）.md",
+    "concepts/Liner-Surge Embossing（面层-导流层压花）.md",
+    "concepts/Chromism Taxonomy（变色现象分类）.md",
+    "entities/诺尔（Nuoer）.md",
+    "concepts/SAP性能指标（CRC AUL GBP Vortex）.md",
+    "concepts/SAM Testing Methods（超级吸水材料测试方法）.md",
+    "concepts/ActiveTech Platform（ActiveTech 在线薄芯体平台）.md",
+    "concepts/分区密度设计.md"
+  ],
+  "manual_review": [
+    "Capillarity Testing Throughput Upgrade Plan：设备 BOM 内部报价、资本化阈值（单台 <25k 不列资产）与送样预算量级属商务/财务敏感，仅记规则与部署台数，不落报价表",
+    "Intake Systems Tech Pipeline - Archive：MOJAVE vs CT5 报价价差、年化节省额、MoCRA 合规预算（千万至两千万美元量级）、皮肤健康竞品对标属商务敏感，仅记方向与量级",
+    "ADT Brain Trust - Fluff and Rewet：DOE 批号、内部方法编号、供应商牌号对应关系属内部方法文档，仅摘参数与判据",
+    "P&G Rewet Patent Deep Dive：五件竞品专利（含 Always 标记）属竞争情报，仅记梯度解法与数值区间，不做全量权利要求复制；专利到期/自由实施判断留给人工",
+    "HSBL Rewet Trial Plan & Adhesive Calcs：试产编号、Nordson 喷嘴件号与产线设定属工艺配置，依 AGENTS.md §5 不页面化具体型号与设定",
+    "HSBL Peel Test Results：码号与工艺/材料对应关系、传感器配置属内部试产数据，仅记区间（15.4–537.1 gf）与变量效应方向",
+    "War on Wetness - Adult Care Rewet Update：竞品对标（L14/L18）、干爽宣称、EWL 约 $20k/6 周与感官约 $1–5k/4 周预算属商务敏感，仅记量级与相关性",
+    "Mechanochromic Supplier Report 2026-08：AI 汇编来源、二手市场规模数据（12 亿→41 亿美元、CAGR 14.6%）、厂商自述产能与询价动作均需人工核验，credibility 已降级为「中」",
+    "Nuoer High-GBP SAP Visit Plan & Roadmap：联合开发 IP 归属、成本 +13–26%、CAPEX ¥300–800 万、高 GBP 溢价 15–25%、供应商矩阵 Core→Strategic 调整属商务敏感，仅记量级与 Gate 判据",
+    "ActivTech Spring Portfolio 2026：TDC 绝对值、$/SU 降本明细、Battleship 时间表、资本开支、中国成本历史（+$13/SU、$11/SU、88%/75%）属商务敏感；内部项目代号（Colt/MAMBA/ARTEMIS/Gisele/AVALANCHE）与 HUT/C&U 编号仅记存在；竞品信息（Pampers 2012、Millie Moon、Defender）已降级为要点"
+  ],
+  "notes": "Batch 05 = 10 items, all NEW source pages (no source_path collision with existing WIKI/sources). Derived pages were created only after a先查再建 check; 10 existing pages received a dated append section (## 追加：Open Innovation 批（2026-09-29 追加 …）) without altering any prior conclusion. No comparison page was created in this batch: no cross-source comparison table met the threshold (若后续建必含「成本」+「供应链风险」两列). Conflicts recorded WITHOUT adjudication: (1) SiF 在 Depend CCR 上抬高回渗但在 HPR/LPR 上反向 —— 记于 concepts/绒毛浆; (2) Code X 与 NR-GBP-H 并列于 entities/诺尔，不合并; (3) Henkel 剥离强度最高 vs RT-8723 残液更好 —— 标注为不同指标、不构成矛盾; (4) AUL 编号 STM-00020 vs STM-00220、GBP STM-00229 vs STM-00229-1 —— 记于 SAM Testing Methods; (5) GBP 单位 Darcy 与 10^-7 cm^3·s/g 不可换算 —— 记于 SAP性能指标; (6) AT 2.0 「去 2 g 未负面影响渗漏」与「整体渗漏高于预期」并存，且与 ≤4% 目标的相容性待人工确认 —— 记于 source 页与 ActiveTech Platform/分区密度设计 追加段; (7) 「分区」在结构语境（分区密度设计）与成本语境（AT 2.0 最大降本杠杆）评价维度不同，并列记录不互推. OI numbering default = 重构版 19 项 (OI-1~OI-19, no zero-padding); no zero-padded OI list appeared in this batch, so no conversion note needed. Large bodies (906/418/546/607 lines) were read in chunks per rule. Cross-linked to [[IPC BCC OI Portfolio（开放创新项目组合）]] where applicable. No index.md/log.md touched; no file moved/renamed/copied/deleted; RAW/RAW_FULL/AGENTS.md read-only; no PowerShell used for writing; no directory created outside WIKI subdirs and _done/."
+}

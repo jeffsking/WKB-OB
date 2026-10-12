@@ -1,0 +1,85 @@
+# SEED: 等离子处理 Plasma Treatment
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Chemical bonding
+#   - Nonwoven fabric finishing
+#
+# 全库正文命中 54 页，67 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[2025.03.13 - GML update.pptx]]  (3 句)
+   • GML-site update on the **GRIFFIN rewet** program (2025-03-13): a Feb-2025 GML trial tearing down SAM/Fluff vs ActivTech Hybrid cores and liner bond/treatment levers for rewet, benchmarked against Always Discreet on TTM-00672 Closed Cradle.（GRIFFIN 回渗项目的 GML 站点更新（2025-03-13）：2025 年 2 月 GML 试产拆解 SAM/Fluff 与 ActivTech Hybrid 芯体及面层键合/处理杠杆，以 TTM-00672 Closed Cradle 对标 Always Discreet。）
+   • **Background 背景**: An earlier ActivTech (AT) Hybrid core test showed higher rewet than SAM/fluff; the team first believed AT Hybrid lacked embossing, but a double-check confirmed it was present.（背景：早前 ActivTech Hybrid 芯体回渗高于 SAM/fluff；曾误以为缺压花，复核确认其实有。）
+- **Build 试产**: Nov-2024 GRIFFIN HUT product; ADL-produced cores, GML-produced finished product, tested at GADT lab.（2024-11 GRIFFIN HUT 产品；ADL 制芯、GML 制成品，GADT 实验室测试。）
+- **Liner hypotheses 面层假设 (Feb trial)**: Fitesa 12gsm SB liner with (a) Oval bo
+   • Rewet in the AT Hybrid platform is tractable via liner bond openness and Lertisan treatment level, with a clear intake/leakage trade-off.（AT Hybrid 平台回渗可通过面层键合开放度与 Lertisan 处理量调控，存在明确的摄入/防漏权衡。）—— 支撑页：Rewet Test（回渗测试）、ActiveTech Platform（ActiveTech 在线薄芯体平台）
+- The AT Hybrid construction reduces fluff (8.5→3.8 g) and SAP (19.9→15.3 g) vs SAM/fluff, consistent with a thinner, adhesive-bound core.（AT Hybrid 较 SAM/fluff 减少木浆（8.5→3.8g）与 SAP（19.9→15.3g），符合更薄、胶黏结合的芯体思路。）
+
+--- [[Nonwoven fabric finishing]]  (3 句)
+   • It frames finishing as either wet (washing, impregnation, dyeing, coating) or dry (calendering, embossing, emerising, microcreping), stressing end-use-driven process selection.（将整理分为湿法/干法，强调终端驱动选型。）
+- Wet operations (scouring, coloration, printing), chemical finishes (antistatic, antimicrobial, lubricant, flameproof, waterproof, softener, UV) and their application methods are detailed.（详述湿整理、化学整理（抗静电/抗菌/润滑/阻燃/防水/柔软/抗UV）及施加方式。）
+- Mechanical finishing (splitting, perforating, drying/relaxation, Mi
+   • No standard routine — finishing is a design space governed by end-use.（无标准流程，整理是终端驱动的设计空间。）
+- Lotion impregnation makes nonwovens active-delivery vehicles (lotion/medicated wipes).（加液浸渍使无纺布成为活性物递送载体。）
+- Hydrophilic softeners = rewetters that spread liquid laterally to keep skin dry.（亲水柔软剂=回渗剂，横向铺展液体保持干爽。）
+- Plasma fixes PP's poor wettability dryly; lamination engineers backsheet barrier/breathability.（等离子干法改善 PP 润湿；层压设计底膜阻隔/透气。）
+   • 父书：Handbook of Nonwovens
+- 概念：回渗 Rewet、亲水整理 Hydrophilic Finish、层压 Lamination、底膜 Backsheet、等离子处理 Plasma Treatment、Topsheet（面层）
+- 关联章节：Thermal bonding、Chemical bonding、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (2 句)
+   • 1. **五条路线的作用层级不同**：掩盖（④）不改变量；吸附（②）与中和（①）在发生后处理；酶解（③）在**生成前阻断**；一体化（⑤）把功能**内建到主体材料**。层级越靠前，技术难度越高但持续性越好。
+2. **"消臭型 SAP"是把功能从"添加剂"上移到"主体材料"** —— 与库内其他"母粒/纤维端功能化"的思路同构，也同样面临**添加量少 → 效果有限**（参见 Skin Health Treatment on Nonwoven（无纺布护肤处理））的质疑 → 因此**必须先给出 200 μg/g 这样的量化靶点**。
+3. **消臭被 Workshop 识别为市场空白机会点**（"目前市场少见"）→ 差异化价值高于其性能价值。
+   • ✅ **验证记录（2026-09-29）**：以上来自 **Workshop 准备材料 v1.0**，引用  **原始文件未随本批次提供**；200 μg/g 为**目标值**，未见实测；九种臭味物质未列全 [待验证]。参见 Skin Health Treatment on Nonwoven（无纺布护肤处理）、Zeolite Odour Control（沸石除臭载体）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）。
+
+--- [[CN 110862635 A（一种抗菌耐盐高吸水树脂及其制备方法和应用）]]  (2 句)
+   • A Chinese published patent application (applicant: **深圳市乐闵科技有限公司**) on an **antibacterial, salt-tolerant SAP** with a hot-surface-treatment step, positioned for disposable diapers. SAP composition/process → FTO-relevant.
+   • **Ag-SiO2 / graphene + nano-silver antibacterial SAP with hot-surface treatment** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- Adjacent to SAP（高吸水树脂）.
+
+--- [[Ebewole Polymer Science Ch06 Condensation Step-Reaction Polymerization]]  (2 句)
+   • Chapter 6 is the core chapter on **step-reaction (condensation) polymerisation 缩聚/逐步聚合**. It establishes the Flory equal-reactivity principle, presents the three classical treatments (kinetic / stoichiometric / statistical), and derives the design equation **DP = 1/(1−p)**.
+   • **Flory (1936–1939)** — original derivation of the equal-reactivity principle and of the third-/second-order kinetics; the source follows Flory's argument closely.
+- **Carothers equation (1920s)** — the original DP = 1/(1−p) derivation.
+- **Flory statistical method (1940s)** — probability treatment built on the kinetic base.
+- **Boundary of equal reactivity at high conversion**: the principle breaks down as p → 1 because of gel effect / diffusion control — 教材未深入讨论这一工程实际问题。
+- **Cost of the third→
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (2 句)
+   • 1. **PP is a family, not a resin.** Tacticity, molecular weight and its distribution, comonomer incorporation and controlled-rheology (CR 受控流变) treatment together span a property range wide enough that "commodity resin" understates the material.
+2. **Grade-to-process map for fibres — the actionable core of the book.** Stated quantitatively: slit film uses **non-CR homopolymer 2–4 g/10 min**, with higher MFR allowing higher line speed but lower MFR giving higher tenacity at a given draw ratio; co
+   • Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins — the nonwoven-resin material from the companion PP handbook, already extracted
+- Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes — process-mechanics counterpart to Ch.2 §2.9.1
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — fibre-side treatment of the same resin families
+- Bicomponent Fibre Technology Development Trends — sheath-core / thermal-bond extension beyond this book's homopolymer scope
+-
+
+--- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]  (2 句)
+   • 派生概念：Resilient Surge（PET 回弹导流层）、Skin Health Treatment on Nonwoven（无纺布护肤处理）、Liquid Modes（TL-1607 液体四态）
+- 已有相关：Liner-Surge Embossing（面层-导流层压花）（本页 PICASSO 与 MOJAVE 的回渗数据为其上游材料背景）、Intake Tech One-Pagers（摄入系统技术一页纸管线）（同主题的另一份一页纸管线）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）（本 block 默认互链；本页未引用任何 OI 编号，故无编号换算问题）
+   • "Resilient surges use PET to drive performance in-use / More PET can result in better performance and lower cost / More PET causes weaker webs, increasing converting risk / Current LL of BCC asset process window is within 3,000-6,000gf"（Comparing Resilient Surge Grades）
+- "MOJAVE 2.1 addresses most converting issues"（MOJAVE Problem-Solve）
+- "Depending on technology, claim, + intent of use, FDA may consider product with skin health treatments as an OTC Drug or Cosmetic"（Global regulatory complexi
+
+--- [[Manufactured Fibre Technology Ch07 Spin Finishes]]  (2 句)
+   • **这是本批 7 章中对卫材最直接相关的一章 —— 无纺布亲水整理（hydrophilic finish 亲水整理）就是纺丝油剂的卫材形态**。PP 纤维本身表面能低（约 29–31 mN/m），面层/导流层必须靠表面活性剂型油剂实现多次透水；本章"表面张力须低于纤维临界表面张力才能均匀铺展"（p.161–162）正是亲水剂选型的定量判据。见 Nonwovens in Absorbent Materials 与 Nonwoven fabric finishing。
+- **亲水剂（极性/抗静电）与手感（低摩擦/非极性）的矛盾，就是本章的极性悖论**（p.146, p.154）：亲水要求极性基团，而柔软低摩擦要求非极性 —— 这解释了为什么卫材面层亲水剂常出现"亲水性与柔软度/低摩擦不可兼得"的配方折中，也解释了亲水剂迁移导致的**回渗（rewet）恶化**。
+- **油剂的热迁移机理（p.160）可直接迁移到卫材的耐久性问题**：表面活性剂在受热（热风粘合、储运高温）时会向纤维表面迁移并富集，导致亲水性随时间衰减或局部过量 —— 与皮肤健康处理剂（如润肤剂）的稳定性问题是同一类机理。见
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch04 Melt-Spinning Processes — 上油单元所在的熔纺产线
+- Skin Health Treatment on Nonwoven（无纺布护肤处理）
+- Nonwoven fabric finishing
+- Nonwovens in Absorbent Materials
+- Nonwoven Process Classification（非织造布工艺分类）
+
+--- [[Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）]]  (2 句)
+   • 「06_Shin-Etsu SAF Surface Treatment Patents」的**v3 归档同名副本**（文件名 ），**正文与副本完全一致**：信越化学 2026-07-30 关于第 27、28 次新股预约权（ASR）条款决定的 IR 公告。⚠️ 两份归档名都指向「SAF 表面处理剂专利」，但**都不含 SAF 内容**。
+   • This file is the v3-archived twin of the  document. Its text is identical: an English convenience translation of Shin-Etsu Chemical's 2026-07-30 release fixing the terms of the 27th and 28th issuance of stock acquisition rights via third-party allotment, used for a Fully Committed Share Repurchase (Japanese ASR) after a ToSTNeT-3 off-auction buyback. It contains the same exercisable-share maximum, repurchase-value and VWAP-based average-price mechanics, and the same non-solicitation disclaimer. 
+
+--- [[Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30）]]  (2 句)
+   • **No SAF-related content** — no superabsorbent fibre, no surface-treatment agent, no patent text — appears in the file.
+   • 本地路径：
+- 原文链接：（无；内部同步资料）
+- ⚠️ 文件名含「SAF Surface Treatment Patents」但正文为 IR 公告，编译时按**实际内容**归类，并在页面内标注归档不符。
+

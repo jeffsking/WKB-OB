@@ -1,0 +1,119 @@
+# SEED: SMS复合结构
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 43 页，66 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]  (5 句)
+   • 本批**复合无纺布的品类—工艺—应用全景目录（编制 2026-04，来源：中国产业用纺织品行业协会、上市公司招股书、行业研究报告）**：把 8 大类复合结构、卫材分层应用图、2024–2026 技术趋势与 2025 产能快照压成一张选型底表。是本库回答「卫材各层该用哪类复合无纺布」的通用参考。
+   • **二、其他主流复合结构**：
+- **S/PE 膜复合**——纺粘 + PE 透气膜，热熔胶或热压复合 + 微孔 PE 膜技术。特性：透气不透水、高强度、防渗漏，**⚠️ 手感较 SMS 偏硬**。应用：纸尿裤/卫生巾底膜（防渗漏层）、部分防护服、宠物垫底层。
+- **水刺-纺粘复合**——水刺布 + 纺粘布，成品布复合或在线复合，**创新点：在线超声波粘合（无胶环保）**。特性：表层柔软亲肤吸水、底层高强防渗漏。应用：高端卫材面层、医疗敷料、湿巾基材。
+- **热风复合无纺布**——原料为 **ES 双组分纤维（皮芯结构 PE/PP 或 PE/PET）**，工艺为纤维梳理成网 → 热风穿透加热 → 冷却固化。特性：蓬松柔软、弹性好、保暖性强、棉质感手感，**⚠️ 强度相对较低**。应用：**卫生巾/纸尿裤芯体包裹层**、保暖材料、一次性卫生用品。
+- **超声波复合无纺布**——超声波模头高频振动局部熔融粘合（点粘合、线粘合）。特性：**无化学粘合剂（环保）**、粘合点强度高、保持透气性、可设计花型图案。应用：**卫生用品面层与导流层复合**、PLA 可降解材料复合、腰围侧边封合。
+   • **五、2024–2026 技术趋势**：① **多层复合结构升级**——SSMMS 成为高端卫材与医疗防护主流、三梳理技术实现克重突破与更高均匀度、在线疵点检测提升品质稳定性；② **功能复合化**——亲水/拒水可调（后处理）、抗菌（银离子、植物提取物）、静电防护、可降解（PLA、PBAT 生物基）；③ **环保工艺创新**——**超声波复合替代热熔胶（无胶环保）**、生物基材料复合（PLA 水刺-热风复合）、**可冲散可降解非织造布**；④ **超细纤维技术**——**0.6D 超细旦纺粘纤维（液态棉技术）**、双组分复合纺丝（皮芯、并列）、熔喷纤维细化至 **1–3 μm**。
+   • **复合无纺布的选型是"结构层数 × 功能后处理"的二维问题，层数决定强度与阻隔、后处理决定亲水/拒水** —— 支撑页：SMS复合结构、Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- **SSMMS 是高端化的当前落点，代价是成本档位最高** —— 支撑页：Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- **超声波复合把"无胶环保"与"花型可设计"合并为同一工艺选择** —— 支撑页：Glueless Bonding（无胶粘合工艺族）、Ultrasonic Bonding of PET-Containing Topsheet
+- **热风复合的 ES 原料（皮芯 PE/PP 或 PE/PET）把无纺布选型与低熔点纤维选型绑在一起** —— 支撑页：热风粘合无纺布、皮芯复合纤维
+- **可冲散可降解与 PLA 复合是环保工艺创新的两条主线** —— 支撑页：可家庭堆肥无纺布（Home Compostable Nonwoven）、Biodegrada
+
+--- [[Meltblown Nonwoven（熔喷非织造布）]]  (3 句)
+   • 1. **Drag-limited attenuation 阻力限制的牵伸**：filament reaches velocity-matching with the air jet, and after that mass conservation fixes the diameter（d ∝ v(m / Λ v_a)）。Melt viscosity only changes how fast matching is reached — 2.4 mm from the tip at 285 °C, 2.7 mm at 250 °C。中文：一旦与射流速度匹配，质量守恒即锁定直径；粘度只影响「多快达到匹配」。
+2. **Three real levers 三个真实杠杆**：cut g/hole/min（0.73 → 0.20 at fixed line output means 35 → 130 hpi）、raise jet velocity（150 → 250 m/s buys 2.85 → 2.21 µm, then saturates）、and **nothing else** —
+   • Composite structures 复合结构：SMS复合结构、Film-Free Backsheet（无膜背层）
+- Process peers 同层工艺：热风粘合无纺布、无纺布五大工艺对比
+- Governing physics 支配物理：Formation-Limited Barrier（阻隔的成形受限机理）、熔融指数与化学降解
+- Hardware 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- Resin 树脂：茂金属聚丙烯
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- 无纺布-五大工艺论剑 —— 
+- 无纺布五大工艺对比 —— 汇总页（库内）
+- SMS复合结构 —— 库内页
+- 纳米纤维素供应商拜访计划 V3.1（2026Q2） ——
+
+--- [[底膜 Backsheet]]  (3 句)
+   • **两种阻隔机理，而非一种**：膜的阻隔是**实壁（solid wall）**，无纺布的阻隔是**毛细（capillary）** —— 这是膜在**所有污况列**都保持 > 1000 mbar、而无纺布在表面张力下降时崩塌的根本原因；两者"不是差一点，而是差两个数量级"（源：Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层））。
+- **结构化背层优于化学疏水**：Cassie–Baxter 让**中等亲水**的聚合物通过几何结构表现为疏水 —— 更便宜、更耐久，是**抗回渗背层结构**的设计原理（源：Surface Tension and Surface Energy、Cassie-Baxter Equation）。
+- **分区透气（zoned breathable）**：恒安专利把常规流延膜的**单进料口扩为多进料口**，各口独立控制添加剂配方，经对应螺杆汇入流道、二次拉伸成一体成型的**分区透气膜**，用于成人纸尿裤（透气 + 防漏）（源：CN 112778
+   • **SMMMS 的实测（非模拟）静水压与单束成形 CV**仍缺 （源：SMS复合结构）。
+- 真实尿裤中**稀便胆汁盐 / 湿巾液向背层的输运实验**未做；它决定裆部去膜与否（源：Film-Free Backsheet（无膜背层））。
+- **WS/MS 各层克重配比与阻隔性能的定量关系**库内暂无来源 （源：SMS复合结构）。
+- **"底膜"形式化定义**（引用来源未给出明确定义）。
+   • Citing sources（3）: Handbook of Nonwovens、Nonwoven fabric finishing、Surface Tension and Surface Energy
+- 路线与对照: Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）
+- 结构 / 机理: SMS复合结构、Meltblown Nonwoven（熔喷非织造布）、纺粘 Spunbond、Formation-Limited Barrier（阻隔的成形受限机理）、层压 Lamination、Cassie-Baxter Equation、Contact Angle、Young's Equation
+- 专利与实体: CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524
+
+--- [[熔喷 Meltblown]]  (3 句)
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • SMS 各层的**克重配比与阻隔性能的定量关系**，本库暂无来源 。（源：SMS复合结构）
+- SMMMS 的**实测（非模拟）静水压**与单束成形 CV 仍缺 。（源：SMS复合结构）
+- **专利范围警示**：US7195621B2 摘要 / SUMMARY 讲的是 backsheet，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上 —— 读范围时须注意 。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- 上述数据在来源中的**页码待核** 。
+   • Polymer-laid web formation（熔喷作为一体化熔融挤出成网；§4.9–4.13 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites（纺粘 / 熔喷 MFR 树脂分野的一手出处）
+- Meltblown Nonwoven（熔喷非织造布）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）、Laser-Assisted Die Tip（激光辅助模头）（牵伸机理与激光加热）
+- Formation-Limited Barrier（阻隔的成形受限机理）、Film-Free Backsheet（无膜背层）、SMS复合结构、SMS 纺粘熔喷复合（阻隔与载体）
+- Coform Composite Nonwoven（熔喷-木浆复合非织造）、绒毛浆（Fluff Pulp）、ADL（导流层）（芯体包裹层相关）
+- US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backshe
+
+--- [[无纺布-五大工艺论剑]]  (3 句)
+   • 文章先逐篇回顾五种工艺的核心特征，再给出覆盖固结方式、材料结构、性能表现、化学风险画像、典型应用五个板块的十四维度核心对比矩阵，并进一步转成八维度星级评分。星级分布显示三类性格：水刺与纺粘属「均衡型」，熔喷是「单项冠军」（过滤精度领先但强度与蓬松度垫底），热风与针刺是两个极端（热风蓬松柔软但强度弱，针刺强度拉满但毫无手感）。由此引出复合结构（SMS、热风棉+SAP+底膜、水刺+纺粘、针刺+树脂加固毡）的设计逻辑。风险部分把前四篇的残留风险汇总，指出含氟拒水剂（PFAS）与重金属残留是跨工艺共性问题。最后给出九类终端产品的工艺决策框架。作者为公众号「无纺无妨」，系列定位为工艺认知层，与《全球卫生用品法规地图》系列（合规层）互补。
+   • **没有全能工艺，复合结构才是答案** —— 支撑页：无纺布五大工艺对比、SMS复合结构
+- **PFAS 风险不只在「防水」宣称里**：熔喷驻极助剂含氟电荷俘获剂是隐藏来源，常规质检思路易遗漏 —— 支撑页：SMS复合结构
+- **针刺法的原料包容性即风险来源**：无特殊原料要求 → 回收/再生纤维易混入 → 全成分可追溯性须列为强制审查项 —— 支撑页：无纺布五大工艺对比
+- **芯体包覆层首选热风法**：蓬松结构提供导流空间，双组分纤维兼顾强度与柔软 —— 支撑页：热风粘合无纺布、亲水-疏水梯度设计
+- **面层首选纺粘（皮芯复合）**：需强度支撑液体快速穿透，皮芯复合改善手感偏硬 —— 支撑页：皮芯复合纤维
+   • 概念：无纺布五大工艺对比、热风粘合无纺布、SMS复合结构、皮芯复合纤维、亲水-疏水梯度设计
+- 实体：（本页未产生新实体页）
+- 对比：无纺布五大工艺对比
+
+--- [[无纺布五大工艺对比]]  (2 句)
+   • 一句话：**没有全能工艺，选择的本质是权衡——先看场景核心需求，再匹配工艺的性能与风险画像；跨需求场景用复合结构（如 SMS复合结构）让长处互补。**
+   • 概念：热风粘合无纺布、SMS复合结构、皮芯复合纤维、亲水-疏水梯度设计
+
+--- [[Film-Free Backsheet（无膜背层）]]  (2 句)
+   • 支配机理 支配机理：Formation-Limited Barrier（阻隔的成形受限机理）
+- 载体工艺 载体工艺：Meltblown Nonwoven（熔喷非织造布）、SMS复合结构
+- 硬件 硬件：Laser-Assisted Die Tip（激光辅助模头）
+- 对照 对照：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）
+- 相邻结构议题 相邻结构议题：亲水-疏水梯度设计、分区密度设计、热风粘合无纺布
+   • Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层） —— 
+- SMS复合结构 —— 库内页（PFAS 风险基线）
+
+--- [[吸收芯体]]  (2 句)
+   • **Core as a distinct standard layer 芯体作为独立标准层级.** QB/T 5650-2021 places the composite absorbent core at its own层级, and its **吸收速度（≤40 s）比婴儿成品（≤50 s）更严**（源：QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体））——芯体作为「中间品」层级是供应商准入与技术协议的直接判定依据。
+- **Core covering process 芯体包覆工艺.** 热风法非织造布是纸尿裤吸收芯体包覆层的典型场景，其蓬松结构提供导流空间（源：无纺布五大工艺对比）；复合结构上，**热风棉 + SAP + 底膜**构成纸尿裤/卫生巾吸收芯体的整体结构（源：SMS复合结构）。
+- **Interfaces with the intake system 与摄入系统的界面.** ADL 对芯体的三层职责为 ACQUIRE → D
+   • QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）
+- CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）
+- TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）
+- Manufactured Fibre Technology Ch15 Acrylic Fibres
+- ADL（导流层）
+- Intake System（摄入系统）
+- SMS复合结构
+- 无纺布五大工艺对比
+- GB 15979-2024（一次性使用卫生用品卫生要求）
+- Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+- 传统芯体 vs 复合芯体（性能·成本·供应链）
+- SAP（高吸水树脂）
+- 绒毛浆（Fluff Pulp）
+- Rewet Test（回渗测试）
+
+--- [[06_SSMMS无纺布技术研究报告.md]]  (2 句)
+   • **SSMMS 用约 1,200 元/吨的溢价换取阻隔与强度的代际提升**，是中高端卫材底膜/面层的候选升级路线 —— 支撑页：Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- **广鸿新材是国内 SSMMS 产能领跑者** —— 支撑页：广鸿新材
+   • 概念 Concepts：Composite Nonwoven Structures（SMS_SMMS_SSMMS_SSS 复合结构对比）
+- 实体 Entities：广鸿新材
+
+--- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]  (2 句)
+   • **The ES network must stay dominant**: shaped mono-PET is a modifier, capped well below the bonding-controlling fraction —— 支撑页：皮芯复合纤维、Shaped PET Add-On Window
+- **Ultrasonic response is an ES property**: non-bondable mono-PET dilutes pattern reliability —— 支撑页：Ultrasonic Bonding of PET-Containing Topsheet
+- **4D eccentric ES carries loft and pattern depth** — it is the mechanism for bulk and compression resilience —— 支撑页：皮芯复合纤维、热风粘合无纺布
+- **The spunbond is a carrier, not a wick** —— 支撑页：SMS复合结构、
+   • Concepts 概念：三叶形截面纤维（Trilobal Fibre）、皮芯复合纤维、Ultrasonic Bonding of PET-Containing Topsheet、Shaped PET Add-On Window、MD Liquid Distribution、SMS复合结构、热风粘合无纺布、ATB双梳理面层（Dual-Card Topsheet）
+- Sibling sources 同批来源：Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner
+

@@ -1,0 +1,100 @@
+# SEED: Powdered Activated Carbon（粉末活性炭）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 91 页，132 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Cabot DARCO KB-G TDS（v3 归档同名件）]]  (5 句)
+   • 本页是 Cabot DARCO KB-G Powdered Activated Carbon (TDS) 的 **v3 归档同名件（same-content archive copy）**：正文、日期（2016-04-06）、全部参数表与主件完全一致。编译时不再重复提炼，所有结论以主件页为准。
+   • Verbatim duplicate of the DARCO® KB-G two-page TDS (Cabot Norit Activated Carbon, 6 April 2016): wood-based phosphoric-acid-activated powdered activated carbon; B.E.T. 1700 m²/g; methylene blue ≥28.0 g/100 g; D50 20 μm; Kosher / U.S. FCC compliant. See the main source page for the full extraction（内容与主件页逐字一致，参数提炼见主件页）.
+   • **同一 TDS 的两个载体，以主件页为唯一提炼口径** —— 支撑页：Cabot DARCO KB-G Powdered Activated Carbon (TDS)
+   • 概念：Powdered Activated Carbon（粉末活性炭）
+- 实体：Cabot Corporation（卡博特）
+
+--- [[活性炭除臭（DARCO）]]  (4 句)
+   • **DARCO® KB-G** is a **powdered activated carbon (PAC)** made by **chemical activation of wood using the phosphoric acid process**（木基磷酸法化学活化）by **Cabot Norit Activated Carbon**（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)）. In this vault it anchors the **powdered activated carbon (PAC) option within the odour-control material family**（气味管理材料族中的「粉末活性炭」吸附型路线）（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)、Powdered Activated Carbon（粉末活性炭））.
+   • Per its technical datasheet (TDS, dated **6 April 2016**), it targets **purification of highly colored and/or foaming process liquids in the food, chemical and pharmaceutical industries**; it combines high adsorptive capacity with good filtration characteristics and is **especially effective for high-molecular-weight organics such as large color bodies and proteins at low carbon dosage**（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)）.
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • Cabot DARCO KB-G Powdered Activated Carbon (TDS)
+- Cabot DARCO KB-G TDS（v3 归档同名件）
+- Cabot Corporation（卡博特）
+- Powdered Activated Carbon（粉末活性炭）
+- Odour Management Routes（气味管理技术路线）
+- Zeolite Odour Control（沸石除臭载体）
+- 咖啡炭纤维（异味吸附）
+- SymDeo™ XPP 抑臭聚合物
+- Symrise（德之馨）
+
+--- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]  (4 句)
+   • Manufacturer technical datasheet (TDS, dated 6 April 2016) for DARCO® KB-G powdered activated carbon by Cabot Norit Activated Carbon. In this library it anchors the **powdered activated carbon (PAC) option within the odour-control material family**（本页是气味管理材料族中「粉末活性炭」路线的厂商一手参数来源）.
+   • The document is a two-page datasheet. DARCO KB-G is produced by chemical activation of wood using the phosphoric acid process（木基磷酸法化学活化）and targets purification of highly colored and/or foaming process liquids in the food, chemical and pharmaceutical industries. It combines high adsorptive capacity with good filtration characteristics and is especially effective for high-molecular-weight organics such as large color bodies and proteins at low carbon dosage. The product is Kosher certified and me
+   • **PAC 是气味管理材料族中的吸附型路线，本页提供其木基磷酸法活化的一手参数** —— 支撑页：Powdered Activated Carbon（粉末活性炭）
+- **低添加量吸附大分子有机物（色体/蛋白）是 DARCO KB-G 的差异化卖点** —— 支撑页：Cabot Corporation（卡博特）
+   • 概念：Powdered Activated Carbon（粉末活性炭）、Odour Management Routes（气味管理技术路线）、Zeolite Odour Control（沸石除臭载体）（同族吸附路线对照）
+- 实体：Cabot Corporation（卡博特）
+
+--- [[Cabot Corporation（卡博特）]]  (3 句)
+   • **2026-09-29（编译入库）**：DARCO® KB-G 产品 TDS 进入知识库（批次 S3_Areas_Supply Base_04）。产品定位：木基磷酸法化学活化粉末活性炭，用于高色度/易起泡工艺液体净化，低添加量吸附大分子有机物（大色体、蛋白质）；Kosher 认证、符合美国食品化学法典（FCC）。详见 Cabot DARCO KB-G Powdered Activated Carbon (TDS)。
+- **供货关系现状**：本库中暂无实际供货或打样记录 ；按候选供应商记录。
+   • Powdered Activated Carbon（粉末活性炭）（本厂 DARCO KB-G 所属材料路线）
+- Odour Management Routes（气味管理技术路线）（吸附型除臭路线全景）
+- Zeolite Odour Control（沸石除臭载体）（同族颗粒吸附路线对照）
+- 咖啡炭纤维（异味吸附）（纤维化异味吸附路线对照）
+   • Cabot DARCO KB-G Powdered Activated Carbon (TDS) ——
+
+--- [[德泽贸易（松井中国代理商）]]  (3 句)
+   • **2026-08-14（水变油墨尿显技术交流）**：作为松井方代表参会并承接**全部 5 条对外行动项**（资料发送、允迪设备核实、阈值/母粒可行性探讨、压力/拉力变色探讨、温变光变资料整理），并协助推进金佰利—松井 NDA。详见 Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）。
+- **渠道口径（原文）**：松井/代理商**只推大品牌**（宝洁、KC 等四家），刻意不推小公司，避免影响大品牌采用意愿；目前仅在**宠物领域**高端产品有落地应用。
+- **日本方配合度限制（原文）**：日本方**不愿在中国本土配油墨或提供粉体配方**，理由是担心技术泄密、前期量小品质难控、配方披露后无法管控。
+   • Water-Activated Ink（水变／湿变油墨）、变色油墨、Microencapsulation
+- Wetness Indicator Glue、智能尿裤功能层
+- 上游品牌方：Matsui Shikiso (松井)
+   • Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14） ——
+
+--- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]  (3 句)
+   • 1. **Thesis**：integrating force-responsive, **power-free** sensors transforms commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。（论点：力响应、无源传感，让日用品纸尿裤变成「智能」安全装置，且不依赖昂贵电子件。）
+2. **Moat**：first-mover advantage hinges on successfully **de-risking the massive leap from lab-scale mechanochemistry to high-speed industrial nonwoven lines**。（护城河在于把「实验室力化学 → 高速工业无纺线」的跳跃降险。）
+3. **Two diagnostic zones are named**：**Zone 1 waistband tabs（防
+   • **Two pathways, one gate**：printable inks（速度/规模化）vs covalent mechanophores（IP 护城河），二者都从属于监管放行。 —— 支撑页：Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- **The central problem is a 3-order-of-magnitude force gap**（40,000 PSI → 20–150 kPa），其解法是化学/流变工程（stabilization bridge），不是器件工程。 —— 支撑页：Mechanochromic变色纤维
+- **Regulatory position is the strategy, not a compliance afterthought**：HPC 的价值一半在材料、一半在「可食 → 免试验」。 —— 支撑页：Active Diagnostic Zones（主动诊断分区）
+- **The product architecture is
+   • Concepts 概念：Active Diagnostic Zones（主动诊断分区）、Mechanochromic变色纤维、变色油墨、智能尿裤功能层
+- Comparisons 对比：Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- Entities 实体（**均为回链，非本批新建**）：CTI (Chromatic Technologies)、Henan Jiayida（河南嘉亿达）
+- ⚠️ 命名变体：本资料把前者写作 "CTI (Chromatic Technologies Inc.)"，库内另有别名页 CTI（Chromatic Technologies Inc.） 待人工合并（见该页 manual_review）。
+- Sibling source 同批源：Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）
+
+--- [[Seymour Polymer Chemistry Ch07 Ionic and Coordinative Chain Polymerization]]  (3 句)
+   • **插入机理**：*"a monomer molecule (H₂C=CHCH₃) is inserted between the titanium atom and the terminal carbon atom in the growing chain and that this propagation reaction takes place on the catalyst surface."*
+   • **PP 的抗氧化弱点**：*"Polypropylene, TPX, and LDPE are less resistant to oxidation than HDPE because of the tertiary carbon atoms present in the chain."*
+   • **为什么 PP 不能靠自由基聚合商业化**：*"For high polymer to be formed, the activated monomer and growing polymer chain must be stable and growth rapid enough to allow long chains to be formed."* 丙烯是非极性单体，自由基路线产物为无规立构（atactic）PP、熔点低、强度差；Ziegler-Natta 通过活性中心的几何约束迫使丙烯定向插入，才得到等规 PP。
+
+--- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]  (3 句)
+   • An ASR transcript of a **supplier technical exchange on water-activated (hydrochromic) ink as a wetness indicator**, combined with a product introduction by **Matsui Shikiso (松井) via its China agent**. It is the only batch-05 source that records the **failure mode** of the ink route (optical transmittance + humid storage) and the **action list** that gates the three-party meeting behind an NDA.
+（水变（湿变）油墨用于尿显的**供应商技术交流**转写稿，兼松井产品介绍。是本批唯一记录该油墨路线**真实失效模式**（透显性 + 高湿储存）与**NDA 前置行动项**的来源。）
+   • **The ink's value is patternability, its obstacle is optics** —— 支撑页：Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Glue
+- **Reversible phase-change vs irreversible microcapsule is the first classification axis** —— 支撑页：变色油墨、Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation
+- **Substrate flatness decides whether a microcapsule cue is visible at all** —— 支撑页：Microencapsulation、热风粘合无纺布
+- **Threshold design (graded display) is the differentiating feature versus traditional wetness in
+   • Concepts 概念：Water-Activated Ink（水变／湿变油墨）、变色油墨、Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation、Wetness Indicator Glue、Wetness Indicator Ladder（尿湿指示阶梯）、热风粘合无纺布、智能尿裤功能层
+- Entities 实体：Matsui Shikiso (松井)、德泽贸易（松井中国代理商）、新维盛集团（Xinweisheng Group）、Kimberly-Clark（金佰利）
+- Comparisons 对比：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+
+--- [[Active Diagnostic Zones（主动诊断分区）]]  (2 句)
+   • 1. **The framing idea 命题**：integrating **force-responsive, power-free** sensors turns commodity diapers into "smart" safety devices, solving complex human-factors challenges **without expensive electronics**。可译作：**无源 = 无电池、无芯片、无电子件**，这是它能进入一次性用品的先决条件。
+2. **Zone 1 · Waistband tabs（防勒伤）**：integrated visual indicators trigger a high-visibility signal **when tensile force exceeds safe physiological thresholds**，providing immediate over-tightness warnings。（中文：拉力超阈值即显色报警，防勒伤。）
+3. **Zone 3 · Surface ar
+   • 材料与技术路线 材料与技术路线：Mechanochromic变色纤维、变色油墨、Printable Pressure-Activated Inks vs Covalent Mechanophores（力致变色两条落地路线）
+- 并发批次已立页的相关概念（2026-09-29 追加交叉链接）：Mechanophore Mechanochromism（机械力致变色分子）、Structural Colour Mechanochromism（结构色力致变色）、Geometric Optical Mask（几何光学掩膜）、Chromism Taxonomy（变色现象分类）、Wetness Indicator Ladder（尿湿指示阶梯）、Signal Comprehension Gate
+- 并发批次已立页的相邻对比（2026-09-29 追加）：Mechanochromic Routes Comparison（力致变色技术路线对比）（带成本指数与 TRL）、Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）
+- 功能层图谱 功能层图谱：智能尿
+
+--- [[Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）]]  (2 句)
+   • 本库现有的两条湿显路线——Wetness Indicator Glue（热熔胶，pH/树脂溶解型，**不可逆**）与 Water-Activated Ink（水变／湿变油墨）——**都依赖化学变色体系**。光散射路线提供第三条路径：
+   • Source 来源：EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)
+- Entity 实体：Unicharm Corporation（尤妮佳）
+- Sibling routes 同族路线：Wetness Indicator Glue、Water-Activated Ink（水变／湿变油墨）、Chromism Taxonomy（变色现象分类）
+- Adjacent 相邻：Wetness Indicator Ladder（尿湿指示阶梯）、Geometric Optical Mask（几何光学掩膜）、Diaper Microclimate、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）
+

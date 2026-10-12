@@ -1,0 +1,13 @@
+{
+ "stage": "S4",
+ "block": "Resources/Pulp World",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/Market_Pulp_Monthly-March__2026年3月15日.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Pulp World/Market_Pulp_Monthly-March__2026年3月15日.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Pulp World/Market_Pulp_Monthly-March__2026年3月15日.pdf.md",
+   "name": "Market_Pulp_Monthly-March__2026年3月15日.pdf.md",
+   "title_hint": "Market_Pulp_Monthly-March__2026年3月15日.pdf"
+  }
+ ]
+}

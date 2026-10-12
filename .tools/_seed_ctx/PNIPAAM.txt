@@ -1,0 +1,94 @@
+# SEED: PNIPAAM
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)
+#   - Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+#
+# 全库正文命中 7 页，16 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]  (4 句)
+   • **刺激响应聚合物领域的奠基性综述**——将刺激响应聚合物的价值定位为"信号转译"（化学/物理→光学/电学/热学/力学），系统比较四类架构的响应动力学权衡，提出薄膜化是突破响应速度的关键路径，PNIPAAM 刷（LCST≈32°C）与 LbL 薄膜是核心构件。
+   • **核心定位**：刺激响应聚合物可适应环境、调控离子/分子传输、改变润湿性与黏附性、将化学/生化信号转译为光学/电学/热学/力学信号，反之亦然——材料既是传感器又是执行器。
+- **四类架构与响应时间权衡**：
+  1. 本体聚合物表面——分钟到数十小时（太慢）
+  2. 聚合物刷——快速可逆开关
+  3. 聚合物网络薄膜——Tanaka-Fillmore 模型：响应时间∝L²，<10μm 时响应~秒级
+  4. 自组装多层薄膜（LbL）——溶胀度高达 400%
+- **聚合物刷物理**：接枝密度高→排除体积使链伸展→构象变化放大为宏观可测量的厚度/润湿/渗透变化。
+  - PNIPAAM 刷：LCST≈32°C，温度↑→脱水坍塌
+  - 聚电解质刷：对离子强度与 pH 大响应
+  - 两性离子刷：出现 UCST
+- **粒子体系（三维延伸）**：Pickering 乳液稳定与刺激触发破乳；温敏壳层催化活性开关；空芯 LbL 胶囊 pH/激光触发释药。
+- **超疏水涂层**：粒子聚集+热触发表面重构→超疏水涂层（热超过 PS 块玻璃化温度时）。
+- **微流控/芯片集成**：可调微透
+   • **"信号转译"是刺激响应聚合物的本质**——材料既是传感器又是执行器，将"功能性高分子"从结构材料拉升为"智能材料"。
+- **薄膜化是响应速度的物理突破点**——本体表面重构太慢（分钟~小时），纳米薄膜可调节到秒级（t∝L²）。
+- **PNIPAAM 是温控相变的标杆聚合物**——LCST≈32°C，接近体温，在温致变色/温响应材料中具有独特地位。
+- **聚合物刷是"密度-熵-冻结约束"三重物理的交汇点**——实现快速可逆开关的核心构件。
+- **动力学预测能力是工业瓶颈**——理论能预测平衡态但不能预测响应速率，设计迭代仍需试错。
+- **LbL 薄膜溶胀度高达 400%**——与 SAP 凝胶网络动力学概念相通，是刺激响应功能层的关键架构。
+   • Stimuli-Responsive Polymers
+- 刺激响应聚合物 Stimuli-Responsive Polymer
+- PNIPAAM
+- LbL 自组装 Layer-by-Layer
+- 聚合物刷 Polymer Brush
+- 光致变色 Photochromic
+- 热致变色
+
+--- [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]  (3 句)
+   • Note the diagnostic from Table B: whether χ'(c) increases or decreases decides the mode — PVP has decreasing χ'(c) and collapses conventionally; PEO and PNIPAAm have increasing χ'(c) and can phase-separate vertically (L639–642, L654–656).
+   • ⚠️ Note (cross-source discrepancy): Chapter 1 gives PNIPA LCST ≈ 34.9 ± 0.1 °C while Chapter 2 quotes PNIPAAm ≈ 28 °C. Both are transcribed as given; the gap is likely due to measurement method / copolymer or solvent conditions, unresolved — recorded as [待验证] rather than reconciled here.
+   • 1. **SAP as a salted polyelectrolyte brush.** The (Σ c_bj)^{−1/3} scaling (Eq 2.30) and v_eff = α²/(2Σ c_bj) (Eq 2.31) give a quantitative correction for absorbency loss in high-salinity urine — a physically grounded complement to standard saline-swell specs. Tuning charge density α and effective N between crosslinks moves free-swell capacity along a known scaling law. 中文：把溶胀SAP当作盐态聚电解质刷建模，电荷密度α与交联点间链长是直接旋钮。
+2. **Thermoresponsive gating.** PNIPAAm with LCST ≈ 28 °C sits below skin temperature 37
+
+--- [[Smart Polymers Ch08 Smart Hydrogels]]  (3 句)
+   • **PEG 分子量（致孔剂）对 PNIPAAm 孔径与溶胀的影响（Lines 177–193）**
+   • 溶胀比（吸收量 QC）：SR = (W_s − W_d)/W_d（Lines 158–160）。
+- 致孔剂（PEG）→ 孔径：MW 2000 → 10–20 µm；4000 → 30–40 µm；6000 → 60–80 µm（Lines 184–187）。
+- PEG 响应速率平台：MW > 2000 后不再提升（Lines 188–190）。
+- 收缩时间规格 t₉₀：失去 90% 保有水的时间（Line 156）。
+- 特殊溶剂基准：1.0 M NaCl 中 PNIPAAm，15 °C 下 SR ≈70，5 min 失水 >95%（对照 2 h 仅 50%）（Lines 305–308）。
+- 交联剂权衡：交联剂比例越大 → 大孔越小 → 溶胀量越低（Lines 436–438）。
+- 制备温度窗口：T_prep < −8 °C（PAMPS）→ 30–50 µm 多面体孔，<30 s 达溶胀平衡（Lines 441–445）。
+- 辐射参数集：消溶胀快约 100×；微观结构由剂量、剂量率、温度决定（Lines 409–411）。
+- 网孔尺寸调控：通过交联密度与进料单体浓度调节
+   • 1. **响应型 SAP 与摄入速率**：SR = (W_s−W_d)/W_d 与 SAP 的常规吸收量 QC 口径一致；大孔 PNIPAAm 的 SR 60–80 对照无孔 ≈15（Lines 179–181），PEG 致孔可得 10–80 µm 孔径（Lines 177–188）。大孔化可在保持平衡吸收量的同时压缩液体摄入时间（LAT）并缓解凝胶阻塞（gel blocking）。
+2. **回渗控制**：THF 发泡体系 90 s 失水 90%（对照需数周，Lines 209–215）、PLA 处理样 37 min 失水 ~95%（对照 50%，Lines 197–204）——快速消溶胀是表面干爽的另一条杠杆（注意方向与吸收相反，需按目标功能取舍）。
+3. **辐射交联的产业化优势**：γ/电子束辐照消溶胀快约 100× 且无需外加交联剂（Lines 405–411），是少添加剂、可规模化的孔结构路线，值得与现有 SAP 表面交联工艺对照评估。
+4. **制备温度即孔形态开关**：PAMPS 在 T_prep < −8 °C 得到 30–50 µm 多面体孔、<30 s 达溶胀平衡
+
+--- [[刺激响应聚合物 Stimuli-Responsive Polymer]]  (2 句)
+   • **SAP is a crosslinked copolymer SAP 即交联共聚物.** SAP 本质是交联共聚物（丙烯酸 + 双官能团交联剂），**其组成由竞聚率而非投料比决定**；弹性腰围/防漏侧边用的弹性纤维与 TPE 亦落在共聚物序列设计范畴（源：Seymour Polymer Chemistry Ch09 Copolymerization）。这是本页与卫材最直接的交集（SAP 吸水/保水即一类刺激响应行为）。
+- **Body-temperature window 体温窗口.** 工作相变落在 ~37 °C 的系统最有用（源：Smart Polymers Ch01 Phase Transitions and Light Scattering）——该窗口与卫生用品的**湿/温指示**功能方向同源（参见 PNIPAAM、pH 响应材料）。
+- **Trigger-selection rule 触发选择规则（可迁移）.** 生物分离应用给出的选择规则：**非带电温敏聚合物的非特异性共沉淀显著低于带电 pH 响应聚合物**（ionic interactions 会引入不希望的非特
+   • **聚合化学层面的通用定义缺失**：库内只有热力学定义（可逆相变 + 临界敏感），没有「凡在 X 刺激下改变 Y 性质即称刺激响应聚合物」式的定义。
+- **卫材专用定量数据缺失**：库内未见刺激响应聚合物在**芯体/面层/胶黏**中的实测性能（除 SAP 共聚物定性描述外）。
+- **LCST / UCST 具体数值**：PNIPA / PVCL 的 LCST **绝对温度值**在摘要中未给出（仅有「平顶」与「= LCST」的行为描述）。
+- **刺激响应水凝胶与卫材的落地方案**：库内无成品或工艺层面的对应记录，需人工补充。
+- **PNIPAAM 页与本页的关系**：本页为上位概念，PNIPAAM 为具体材料——两者的边界与互引待人工统一。
+
+--- [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]  (2 句)
+   • **"无源低成本光传感器"直接映射卫生用品智能化**——颜色变化指示条/标签可自主信号湿润度/填充水平/尿液 pH，无需电子元件、无需供电、可打印。
+- **湿度响应 CLC（40nm 位移，RH 3-83%）**——湿度范围覆盖人体微气候，是纸尿裤/卫生巾湿感指示条的最直接技术路径。
+- **pH 响应 CLC 可指示感染**——尿液 pH 变化与细菌感染相关，颜色变化指示可辅助失禁护理。
+- **光响应润湿性切换（ΔCA 140-175°）**——指导透气/防污非织造面层设计，实现"液体排斥但可透气"的功能表面。
+- **pNIPAAM LCST=30-35°C 接近体温**——温致变色/温响应涂层的天然阈值，无需外部加热即可响应体温变化。
+- **光子纸可重写彩色图案**——低成本、无源的光学存储/显示技术，在卫生用品智能包装有潜力。
+- **SAP 与光子涂层的技术共通性**——NIPAAM 温敏水凝胶在 SAP 与光子涂层中是同一物理机制（LCST 相变→溶胀/收缩），技术可双向迁移。
+   • Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)
+- 光致变色 Photochromic
+- 热致变色
+- 液晶 Liquid Crystal
+- CLC 手性向列晶
+- PNIPAAM
+- pH 响应材料
+- 湿感指示条 Wetness Indicator
+- 光致变色油墨 Photochromic Ink
+
+--- [[Smart Polymers Ch11 Smart Polymer Drug Delivery]]  (1 句)
+   • 1. **SAP design as a mesh-size problem.** ξ = υ₂,ₛ^(−2/3)(2C_n·Mc/M_r)^(1/2)·l and Mc from Flory–Rehner are the proper language for the free-swell vs. gel-strength trade-off: lower Mc ⇒ tighter network, higher modulus, slower uptake. Map ξ against fluid-uptake rate to select SAP grade per layer (acquisition vs. anti-gel-blocking).
+2. **Acquisition/distribution nonwovens.** D_eff = D_iw·(ε/τ)·K_p·K_r makes porosity ε and tortuosity τ explicit process levers for fiber denier, basis weight and cale
+
+--- [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]]  (1 句)
+   • ⚠️ Note that this chapter's LCST value for poly-NIPAAM (≈32 °C) differs from Chapter 1's PNIPA value (≈34.9 ± 0.1 °C) and Chapter 2's PNIPAAm value (≈28 °C). All three are transcribed as written; the spread likely reflects different methods/compositions and is recorded as [待验证] rather than reconciled.
+

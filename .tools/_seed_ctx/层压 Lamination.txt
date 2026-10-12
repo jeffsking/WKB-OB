@@ -1,0 +1,108 @@
+# SEED: 层压 Lamination
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Nonwoven fabric finishing
+#
+# 全库正文命中 31 页，43 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Handbook of Adhesive Technology Full Report]]  (5 句)
+   • **Hygiene implication:** Hydrolytic resistance is the core of anti-rewet performance. Silicon coupling agents form Si-O-M primary chemical bonds (50–250 kcal/mol) to significantly improve post-wetting non-lamination.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+   • **Lamination mechanism:** Same-material (PP-PP) hot-press uses **diffusion theory** [Part 2, Line 832–837]; different-material uses coupling agents
+- **Wetting threshold:** PP nonwoven γS ≈ 29–31 mJ/m² — point-adhesive hot melt γL must be < γS for 100% contact
+- **Hydrolysis-resistant solution:** Silicon coupling agents form **Si-O-M primary chemical bonds** (50–250 kcal/mol) [Part 2, Line 6681–6683]
+- **Toughness optimization:** Flexible adhesive layer expands fracture process zone to reduce pe
+   • **Water-based systems:**
+- Water-based PU: no VOC, nonflammable [Part 3, Line 11060–11061]
+- Water-based acrylic emulsion: widely used in wet-wipe lamination
+- Starch adhesive: synergistic with pulp procurement, $730M market [Part 3, Line 3531]
+
+--- [[纺粘 Spunbond]]  (3 句)
+   • **PET 在卫材中的角色**：PET 主要以**面层 / 导流层纺粘（topsheet / acquisition-layer spunbond）**以及**部分双组分短纤的芯层（core of some bicomponent staple）**出现，而非作为吸收体。（源：Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres）
+- **ATB 面层 + 双组分纺粘载体**：25 gsm 梳理 ATB 网 + 12 gsm PE/PP 双组分纺粘载体，在 600 m/min 车速下在线超声粘合与 3D 花型成型 —— **纺粘是载体 / 支撑层，不是导流芯（carrier, not a wick）**。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination、SMS复合结构）
+- **超声响应是 ES 属性**：不可粘的单组分 PET 会稀释花型可靠性；在腿围或侧封通道，PET 在 PP/PE 超声参数下**不软化**，作
+   • **拉伸比、冷却气流、纺丝甬道等专有参数**本章（Ebewole Ch11）未覆盖 。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- 熔喷纤维直径、气流速度、驻极工艺等参数未见于 Seymour §17.1，需另查 。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- 三纤维配比 55–65 / 20–30 / 12–18 wt% 为**工作假设**，非实测验证 。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination）
+- 上述数据在来源中的**页码待核**（除已标 p.285 / p.299）。
+   • Polymer-laid web formation（纺粘作为一体化熔融挤出成网；§4.3–4.7 工艺工程）
+- Handbook of Polypropylene and Polypropylene Composites、Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins（纺粘 / 熔喷 MFR 树脂分野）
+- Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing、Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification（纤维挤出硬件与分子描述符）
+- Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres、Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres、Manufactured F
+
+--- [[Nonwoven fabric finishing]]  (3 句)
+   • Chapter 8 (A. Ahmed) addresses the finishing stage where nonwoven substrates are transformed into value-added, fitness-for-purpose products via wet/dry finishing, chemical finishes and lamination — the chapter where hygiene function (softening, rewetting, barrier, lotion delivery) is actually engineered.（中文：第 8 章讲后整理——通过湿/干整理、化学整理与复合层压，把无纺布基材转化为功能化成品，是卫生用品功能（柔软、回渗、阻隔、加液）真正被设计的环节。）
+   • No standard routine — finishing is a design space governed by end-use.（无标准流程，整理是终端驱动的设计空间。）
+- Lotion impregnation makes nonwovens active-delivery vehicles (lotion/medicated wipes).（加液浸渍使无纺布成为活性物递送载体。）
+- Hydrophilic softeners = rewetters that spread liquid laterally to keep skin dry.（亲水柔软剂=回渗剂，横向铺展液体保持干爽。）
+- Plasma fixes PP's poor wettability dryly; lamination engineers backsheet barrier/breathability.（等离子干法改善 PP 润湿；层压设计底膜阻隔/透气。）
+   • 父书：Handbook of Nonwovens
+- 概念：回渗 Rewet、亲水整理 Hydrophilic Finish、层压 Lamination、底膜 Backsheet、等离子处理 Plasma Treatment、Topsheet（面层）
+- 关联章节：Thermal bonding、Chemical bonding、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[底膜 Backsheet]]  (2 句)
+   • 形式化定义：**定义待补（引用来源未给出明确定义）**。本库引用来源对"底膜 / 背层 backsheet"给出的是**功能性口径**，而非词典式定义。
+- 功能性口径（有来源支撑）：底膜是卫材结构中的**最外层阻隔—透气件**，其阻隔与透气由**层压（lamination）工艺**设计实现 —— "lamination engineers barrier/permeability for backsheets"（源：Nonwoven fabric finishing）；库内把 topsheet / ADL / core / **backsheet** / rewet 并列为卫材主线层级（源：Handbook of Nonwovens）。
+- **两条技术路线**：① 「微孔透气膜 + 纺粘」复合膜背层（film laminate）；② **无膜背层**（以高阻隔熔喷复合无纺布替代，如 30 gsm SMMMS）（源：SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、Film-Free Backsheet（无膜背层
+   • Citing sources（3）: Handbook of Nonwovens、Nonwoven fabric finishing、Surface Tension and Surface Energy
+- 路线与对照: Film-Free Backsheet（无膜背层）、SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）、SMMMS vs SMMSMMS（成本·性能·供应链）、Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）
+- 结构 / 机理: SMS复合结构、Meltblown Nonwoven（熔喷非织造布）、纺粘 Spunbond、Formation-Limited Barrier（阻隔的成形受限机理）、层压 Lamination、Cassie-Baxter Equation、Contact Angle、Young's Equation
+- 专利与实体: CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）、US11612524
+
+--- [[皮芯复合纤维]]  (2 句)
+   • **4D 偏心 PE/PET ES 的功能定位**：提供蓬松（bulk）、空隙体积、受压回弹，并承担**超声 3D 花型的深度支撑**；建议不超过约 30 wt%，否则柔软度下降、表面变粗。见 ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination。
+- **与"同心皮芯"的分工差异**：同心皮芯＝粘合功能；偏心皮芯＝蓬松/回弹与花型支撑（本批口径下的新增用途），两者可同时出现在同一配方中。
+   • 热风与针刺无纺布 —— 
+- 低熔点共聚酯及皮芯复合纤维技术突破 —— 
+- CoPET-PET 与 PE-PET 成本结构深度拆解报告 —— 
+- CoPET ADL 转型蓝图（皮层聚合物替代评估） —— 
+- CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版） —— 
+- CoPET 采购蓝图：成本拆解与供应分层 —— 
+- ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination —— 
+- Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive) —— 
+- Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner —— 
+- Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet —— 
+- KC Diffusion-Enhanced Topsheet v3 
+
+--- [[Seymour Polymer Chemistry Ch17 Polymer Technology]]  (2 句)
+   • **Cast films 流延膜**：regenerated cellulose via slit die；cellulose acetate from solution。
+- **Extrusion films 挤出膜**：flat slit die（平挤）或 air-blowing tubular（吹膜）。
+- **Calendering 压延**：counter-rotating rolls，用于 mixing、lamination、coating、embossing。
+- **Drawing / orientation 拉伸取向**：PVC 在 **160–180 °C** 可定向，**> 190 °C 无法定向** —— 取向窗口窄，温度过高链松弛快于取向。
+- **PVC 板材配方**：plasticizer + pigment + filler + lubricant + stabilizer。
+   • Seymour Polymer Chemistry Ch01 Introduction to Polymer Science
+- Seymour Polymer Chemistry Ch02 Polymer Structure and Morphology
+- Seymour Polymer Chemistry Ch05 Rheology and Physical Tests
+- Seymour Polymer Chemistry Ch15 Reactions of Polymers
+- ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination
+
+--- [[面层粘合强度测试方法.pdf]]  (2 句)
+   • 南京厂作业指导书 **WI-56934（第 1 版，2022-08-10）**——**CIDER 3D Embossing Lamination Strength**：测 **CIDER 产品在线复合的 3D 压花面层（topical liner）与支持层（support layer）之间的层压结合强度**，峰值载荷以 **gf** 表示。
+   • **在线复合（in-line lamination）的结合强度被做成独立验收项，读数同为峰值 gf** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+- **试样"只含 3D 压花、不含侧封边"是本页与端封类方法的分界线** —— 支撑页：Seal Strength Test（端封·侧封强度测试）
+- **同一界面存在两条厂内方法，引用须带 WI 号** —— 支撑页：Liner-Surge Embossing（面层-导流层压花）
+
+--- [[ATB双梳理面层（Dual-Card Topsheet）]]  (1 句)
+   • COCO V6 试产原料准备会（v2 Final） —— 
+- COCO V6 试产原料准备会（Summary 版） —— 
+- Coco V6 试产原料清单（Raw material list v3.0） —— 
+- IPC BCC OI Project List 2026-09-18（重构版·19 项） —— （2026-09-29 追加）
+- IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17） —— （2026-09-29 追加）
+- IPC BCC OI 项目清单 2026 v2（2026-09-17） —— 
+- CI-06 COCO V6 第三轮试产测试结果 —— 
+- Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive) —— 
+- Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner —— 
+- ATB Topsheet with Bico Spunbond for 600 mpm 
+
+--- [[Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）]]  (1 句)
+   • **Activation is the invention's switch（激活即开关）:** the film ships and stores in a non-elastic, easy-to-handle state and becomes elastic **only after mechanical stretching**（源：EP0820747A1 Absorbent Article with Elastic Feature (P&G)）. **Co-extrusion beats lamination** because it delivers the multi-layer structure in one process step from the same die head. Removing the nonwoven layer removes two manufacturing pains — weak nonwoven tensile strength and fibre/glue contamination.
+
+--- [[Film-Free Backsheet（无膜背层）]]  (1 句)
+   • 1. **Two barrier mechanisms, not one 两种阻隔机理**：the film's barrier is a **solid wall**；the nonwoven's barrier is a **capillary**。That is why the film holds **> 1000 mbar in every contamination column** while the nonwoven collapses as surface tension falls。中文：膜是实壁、无纺布是毛细——所以污染物一进场，两者不是「差一点」，而是「差两个数量级」。
+2. **Where it wins unconditionally 无条件胜出的位置**：chassis outside the core footprint（芯体足迹以外的机身）——no free liquid ever reaches it, breathability is a pure win, and the softness/drape gain is what the consu
+

@@ -1,0 +1,137 @@
+# SEED: 表面交联 Surface Cross-linking
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)
+#
+# 全库正文命中 195 页，332 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]  (6 句)
+   • **CRC（Centrifuge Retention Capacity，离心保留容量）**：SAP 在无压力自由吸液后经离心脱去未结合水，每克干树脂保留的液体克数。茶袋法 / EDANA ERT 441.2——称 W1 克 SAP 入茶袋，浸入 0.9% NaCl 30 分钟自由吸液，250 g 离心 4 分钟，称重 W3，CRC = (W3 − W2 − W1)/W1。典型值：纸尿裤普通级 30–40 g/g（釜式/带式）、高端级 40–50 g/g（釜式 + 表面交联优化）、生物基 20–40 g/g（比石油基低 20–50%）、纯水测试 300–1000 g/g（**不代表实际使用性能**）。关键提醒：CRC 是"理论天花板"，纸尿裤实际使用中 SAP 受压，**CRC 高不代表真能吸这么多；CRC 是基础，AUL 才是实战**。CRC 偏低常见原因：内交联密度过高（网络空间小）、表面交联过度（吸液慢、30 分钟未达平衡）、粒径偏大（比表面积小）。
+   • **AUL（Absorbency Under Load，载荷下吸收量）**：特定压力下吸液后每克干树脂保留的液体克数，模拟宝宝坐/躺压在纸尿裤上的真实工况。EDANA ERT 442.1：W1 克 SAP 置带孔平底圆柱容器，施规定压力（0.3 / 0.7 / 0.9 psi），底部接触 0.9% NaCl 吸液 60 分钟，AUL = (W3 − W1)/W1。典型值：0.3 psi（约 2.1 kPa）普通 25–30 / 高端 30–35 g/g（轻压、坐姿瞬间）；**0.7 psi（约 4.8 kPa）普通 18–25 / 高端 25–30 g/g（纸尿裤核心指标，宝宝体重压迫）**；0.9 psi（约 6.2 kPa）普通 15–20 / 高端 20–25 g/g（重压、学步期集中受力）。行业标准：0.7 psi 下 **AUL ≥25 g/g 为合格、≥28 g/g 为优质**。AUL 是 CRC 的"打折版"，AUL/CRC 越接近 1 说明加压后保水越强——高端可达 0.6–0.7，普通仅 0.4–0.5。**AUL 偏低 = 反渗**（宝宝坐着时尿液被压回面层，红屁屁
+   • **GBP / SFC（Gel Bed Permeability，凝胶床渗透性 / Saline Flow Conductivity）**：SAP 吸液溶胀后形成凝胶层，液体透过该凝胶层的速率，衡量"第一次吸完后后续尿液还能不能穿过去"。EDANA ERT 470.2：定量 SAP 置特制圆柱容器，施 0.3 psi 吸 0.9% NaCl 至饱和，维持压力从顶部持续注入盐水，测单位时间透过量，SFC = K × (Q/ΔP)，单位 ×10⁻⁷ cm³·s/g。典型值：普通 SAP 5–15（凝胶堵死）、高端 20–40（保持通透）、超高端（多孔/复合交联）40–70（几乎不阻塞）。GBP 是"隐藏 boss 指标"的原因：CRC 与 AUL 都只测单次吸收，而宝宝一天排尿 5–8 次，第 3、5 次尿液到达时 SAP 已膨胀成凝胶；凝胶互相粘连堵死通道则后续尿液无法穿透，只能从侧边漏出——**这就是"前几次不漏，后面必漏"的根本原因**。提升手段：二次/多重表面交联（保持颗粒独立性防粘连）、不规则颗粒形态（堆积形成毛细缝隙，釜式工艺天然优势）、添加纳米 SiO₂ 等"隔离珠"、控制粒
+   • **Vortex（涡流时间）**：SAP 接触液体后吸收至液面漩涡消失所需时间，直接反映吸液速度。行业通用（非 EDANA 标准）：50 mL 0.9% NaCl 入烧杯，加 1 g SAP，磁力搅拌 500–600 rpm，记录漩涡完全消失的时间。评级：**≤30 s 极快（高端纸尿裤首次瞬吸关键）**、30–45 s 快（纸尿裤标准要求）、45–60 s 中等（卫生巾、成人失禁）、>60 s 慢（农业保水剂）。Vortex 慢的后果：尿液不能即时锁定、沿导流层扩散到边缘、面层湿感时间延长、与 ADL 不匹配。影响因素：粒径小→更快；表面交联过度→更慢；多孔结构→更快；内交联密度高→更慢。**Vortex 与 AUL 的 trade-off 是 SAP 设计最核心的矛盾**——要快就要粒径小、表面交联浅，但 AUL 低；要 AUL 高就要表面交联深，但 Vortex 慢；解法是**内层低交联（快吸）+ 外层高交联（保水）的表面交联梯度设计**，这也是釜式工艺的核心优势。
+
+--- [[SAP 表面包覆（SAP Particle Surface Coating）]]  (5 句)
+   • 1. **目的**：SAP 颗粒表面包覆用于改善粉尘、流动性、表面交联层（surface-crosslinking），从而影响 AUL / CRC 等性能与加工性。
+2. **液体喷涂法（CN 101641398 B）**：在带可移动混合工具的混合器中，经至少一个喷嘴将液体喷至产物床表面以下。
+3. **气流分散微粒固体法（CN 101679760 B）**：在混合器中用经气流分散的微粒固体包覆 SAP 颗粒，分散微粒的进料终止于产物床层表面之下。
+4. **SFC（表面交联率/表面交联分数，Surface-Crosslinking Fraction [待验证]）**：本批 BASF 变体副本披露了 SFC 计算公式，用于表征包覆/表面交联程度——缩写完整展开 [待验证]。
+   • 上位：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- 工艺：BNC 基 SAP 表面交联
+- 同族专利：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）、CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+   • 1. **"表面包覆"在产线上不是单一工序，而是一串分工明确的加料—混料—烘干序列**：上层负责交联（保强度/保 GBP），下层负责功能（抗静电、抗黄变、抑菌）；**分工设计使多个功能可以叠加而不互相干扰**。
+2. **分步加料是均匀性的解法**：添加剂种类多时，一次性加入会不均，故拆到高速混合机 / 膨料机 / 双轴搅拌三级，每级各加一种 —— 是可迁移的混料设计原则。
+3. **加液体必降固含，二次烘干不可省**：这是后处理段的固有耦合，也是表面交联能否"彻底"的温度—时间窗口所在（本线约 130 ℃）。
+4. **破碎是后处理的副作用**：三次搅拌会打碎颗粒 → 必须在半成品段**把粒径刻意做大**倒推补偿。
+   • ✅ **验证记录（2026-09-29）**：以上为**供应商现场讲解口径**，无第三方验证；上下层的**具体成分与加量未披露**（商务/配方敏感，见源页 manual_review）；设备名（皂壳 / 胶原压动机 / 浆液干燥机）为 ASR 音转，**设备对应关系 [待验证]**。参见 SAP（高吸水树脂）、SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）、诺尔（Nuoer）。
+
+--- [[SAP（高吸水树脂）]]  (5 句)
+   • SAP性能指标（CRC AUL GBP Vortex） —— CRC / AUL / GBP / Vortex 的定义与测试口径
+- SAP错峰膨胀 —— 膨胀时序与芯体配合
+- BNC 基 SAP 表面交联 —— 表面交联路线
+   • **成本结构由单一原料主导**：石油基 SAP 原料成本中 **丙烯酸占 50–60%**，液碱 15–20%、交联剂 5–8%、引发剂 2–3%、溶剂/分散剂 5–10%。→ **降本只有两条路：动丙烯酸（生物基单体）或动用量（芯体设计）**。
+- **工艺三分**：**反相悬浮聚合**（颗粒均匀、吸水率高；日本触媒/住友精化/三大雅）｜**水溶液聚合**（简单、成本低；巴斯夫/赢创）｜**反相乳液聚合**（产率高、反应快）。
+- **反相悬浮关键工艺窗口（B 级）**：油水比 3–5:1；中和度 70–80%；聚合 70–80 °C / 2–4 h / 引发剂 0.1–0.5%；共沸脱水 80–110 °C；**筛分粒度 150–850 µm**。
+- **表面交联（通用手段）**：多元醇/碳酸酯/噁唑啉 + **喷雾涂覆 + 热处理 120–180 °C**；作用是**提凝胶强度、减少凝胶结块**（即 GBP 提升的主工艺路径）。
+- **行业 KPI 典型值（通用口径，非牌号选型）**：纯水 **500–1000 g/g**、0.9% NaCl **50–80 g/g**、保水
+   • **原材料准备 → 混合（静态混合器 + 混合罐：搅拌 + 降温）→ 聚合反应（水状 → 凝胶）→ 干燥（滚筒热风）→ 研磨筛分 → 后处理（表面交联）→ 包装**
+   • **二氧化硅（SiO₂）已在使用**，加入点在高速混料机加液处；目的是**改善颗粒流动性（flow rate）** —— 不加则颗粒粘连、流动性差、**影响吸水性**。
+- → 无机粉末在 SAP 后处理段不是"噱头"，而是**流动性与吸水性的功能性添加剂**；这与 SAP 表面包覆（SAP Particle Surface Coating） 的"无机粉末撒粉提 GBP"是同一机理的不同表述。
+
+--- [[离子强度 Ionic Strength]]  (5 句)
+   • **Ionic cross-linking.** The polymer-chemistry source states verbatim: *"divalent ions are known to act as cross-links between carboxyl groups in natural resins"*, and notes ionomers as the polymer class that carries ionic bonds — ionic bonds are otherwise uncommon in polymers（源：Ebewole Polymer Science Ch03 Chemical Bonding and Polymer Structure）。In the microfluidics source the same route appears as a fabrication option, where **Ca²⁺ + alginate gives "temporary hydrogel networks"**（源：Smart Polym
+   • **Ionic surface cross-linking is a design lever *and* a failure mode.** Modern SAP practice uses a cation (Al³⁺) to ionically surface-crosslink polyacrylic-acid carboxyls, which raises gel strength, SFC/permeability and reduces gel blocking; the Al-crosslinked shell is only **partly reversible and is sensitive to pH and ionic strength**（源：Ancient Organic Dyes and Pigments Chemistry）。
+   • **Competitive complexation re-reads the "salt effect".** In real urine/menstrual fluid (rich in Ca²⁺, Mg²⁺), divalent cations participate in the coordination shell of the Al-crosslinked SAP surface and thereby change the cross-link density *in use*. This reframes the classic observation that **SAP absorbency drops in saline/urine** as **competitive complexation**, not only Donnan / ionic-strength screening — and predicts that **Ca²⁺ concentration should be a control variable for CRC / AUL / SFC 
+   • 中文：机理链为「带电基团→亲水性与静电排斥→溶胀」；二价离子可作羧基间的离子交联点（ionomer / 海藻酸钙属此列）；Al³⁺ 离子表面交联 SAP 是可提升凝胶强度与 SFC 的**杠杆**，但外壳对 pH 与离子强度敏感 → 也是**失效模式**；在真实尿液/经血中 Ca²⁺/Mg²⁺ 的竞争络合把「盐水吸液量下降」重解释为竞争络合，而非单纯 Donnan/离子强度屏蔽。
+
+--- [[Industrial Drying Ch1 Principles and Classification]]  (5 句)
+   • Drying is governed by two simultaneous subprocesses:
+- **Process 1 (External):** Transfer of energy (heat) from environment to evaporate surface moisture
+- **Process 2 (Internal):** Transfer of internal moisture to the surface and its evaporation
+   • **Hygiene implication:** In diaper cores, internal moisture transport (capillary/vapor diffusion through fluff pulp and SAP) is usually the rate-limiting step at low final moisture — surface air conditions matter far less than residence time and bed depth.
+   • **Constant-rate period:** Surface evaporation dominates; drying rate independent of internal structure
+- **Falling-rate period:** Internal diffusion/capillarity becomes rate-controlling; time scales with square of thickness
+   • **Key constraint:** The wet-bulb temperature of the drying air sets the minimum achievable product surface temperature during constant-rate drying (evaporative cooling).
+
+--- [[接触角 Contact Angle]]  (4 句)
+   • Traceable operational role 可溯源的操作定位: contact angle enters the Laplace capillary-pressure term as , i.e. it is the surface-chemistry variable that sets the sign and magnitude of capillary pull (源：Computational Modeling in Absorbent Technology).
+   • **θ 通过 cosθ 进入毛细驱动力。** Net driving pressure in a non-wicking medium is ΔP = P_b + P_w + P_s, with P_s = 2γcosθ/r_c; penetration time is then a monotonic function of pore radius, pore depth, contact angle, surface tension, viscosity and external pressure（源：Computational Modeling in Absorbent Technology）.
+- **θ ≥ 90° 是毛细驱动的死区。** "When the contact angle is 90 degrees or greater and external pressure is zero, then there is no penetration of liquid. However, increasing external pressure causes penetr
+   • **Topsheet / ADL 亲水整理。** Contact angle is the only surface parameter in this set shown to track dryness directly: a less-wetting liner (higher θ) drains liquid more readily than a more-wetting one at equal pore size（源：亲水整理耐久性）.
+- **Shaped / grooved fibres.** The groove capillary benefit is conditional on a low contact angle; the sourcing specification should carry "post-multiple-insult contact angle", not "hydrophilic"（源：亲水整理耐久性）.
+- **Fluff pulp 与绒毛浆。** Pure cellulose is already fully wet at 0° 
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[BASF]]  (4 句)
+   • **专利权属（SAP 表面包覆核心工艺）**：2026-09-29 编译识别 BASF SE 为两项中国授权专利的专利权人 —— CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）（液体喷涂包覆）与 CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）（气流分散微粒固体包覆）；两专利均为 **SAP 颗粒后处理/表面交联核心工艺**（源：巴斯夫欧洲公司（BASF SE））。
+- **记录口径**：2026-09-29 该批**未含 BASF 商务报价**，仅记录专利权属；具体供货/报价待人工补充（源：巴斯夫欧洲公司（BASF SE））。
+- **可持续路线的商业定位**：BASF 的 SAP 可持续路线是「**生物质平衡质量守恒分配**」而非改性 —— 性能与常规牌号等同、**免重新配方**；与降解路线（Biodegradable SAP（可降解高吸水树脂））属**不同维度**，不可混引（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- **国产化对接口径**：
+   • **与 KC 的关系**：现有摘录**无**BASF 与金佰利的供货 / 合作 / 竞品关系证据 → 关系字段记 **待核**。
+- ：公司国别、成立信息、组织架构等基本盘信息在引用页中均未给出。
+- ：HySorb® N7059 的 AAP 值（0.3 psi 29.0）在摘录中截断，单位与后续指标不可读（源：BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫））。
+- ： 缩写的完整展开在源页标注为 ；相关公式见 SAP 表面包覆（SAP Particle Surface Coating）。
+- ：BASF 在生物质平衡 SAP 上的**认证机构与证书编号**在宣传页摘录中未给出具体名称（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- ：原始引用来源 4 页（Absorbent Technology / Ancient Organic Dyes and Pigments Chemistry / Chromic Phenomena… / Luminescence…
+   • **提供正文摘录的库内页面**
+- 巴斯夫欧洲公司（BASF SE）
+- BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）
+- BASF Biomass Balanced Superabsorbents（v3 归档同名件）
+- BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）
+- SAP 表面包覆（SAP Particle Surface Coating）
+- CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+- CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+- SAM Database-CW（全球 SAM 牌号性能数据库）
+- SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）
+- SAP Selection Decision Base（17-SAP选型与实验数据决策库）
+   • **延伸关联**
+- SAP（高吸水树脂）
+- SAP性能指标（CRC AUL GBP Vortex）
+- SAP 吸水纸（SAPP）
+- Biodegradable SAP（可降解高吸水树脂）
+- Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）
+- BNC 基 SAP 表面交联
+- SAM Supplier Landscape Comparison（SAM 供应商格局对比）
+- SAM Testing Methods（超级吸水材料测试方法）
+- SAP Architecture Options - Three PPT Routes（三份 PPT SAP 架构路线对比）
+- SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）
+- 单牌号全511 vs 分层多SAP混底（性能·成本·供应链）
+- Multilayer SAP Core（多层SAP芯体）
+- Gel Blocking（凝胶阻塞）
+- GBP-Limited vs CRC-Limited Regime（渗透受限 
+
+--- [[诺尔（Nuoer）]]  (4 句)
+   • **2026-09-18（重构版）**：诺尔在 COCO V6 SAP 选型项目中同时供**三支**牌号——**NR-610S（300 kg）、NR-950（300 kg）、Code X（20 kg）**，样品 2026-09-18 到天津；**Code X（GBP 55.3）被选为高 GBP 顶层料，NR-950 作为储库层**；官方同列警示"Code X AUL @0.9 psi 与其余牌号 @0.7 psi 不可比"。
+- **2026-09-17（大纲口径，OI-06 生物降解 SAP）**：**诺尔国内市占率 60%+**，打样快、工艺灵活（可做表面交联 / 加粉末 / 加金属阳离子）；策略为"前期依托诺尔验证，**保留后手不完全透底**，9 月底 QQV6 材料验证后带队选型定标并要求书面承诺"；同列备选供应商为卫星石化、烟台万华。
+- **2026-07-24（录音）**：会上提及诺尔在产品技术分享中习惯性做"带槽 vs 不带槽"两组对照，且市面多数产品为单槽设计 （转写稿，仅作线索）。
+   • **2026-09-16（实验评审）**：讨论「为什么 SAP 限定在诺尔」——
+  - **优势一**：相对其他供应商，在开发**高 GBP 且更均衡**的 SAP 方向上有优势（各有优势，非全面领先）。
+  - **优势二（本批新增，为核心）**：**后道/后段表面交联的技术手段更多**——其**三条工艺路线**都可在外壳强化上做功能改善，因此能开发出高 GBP 的 code。
+  - **策略讨论（本批新增）**：会上建议**实验阶段先把 window 打开**——用其他公司现成牌号**先证明 concept 可行**，再让诺尔跟进开发，而不是等诺尔开发完再验证。
+  - **其他候选**：satellite（与诺尔的 cross-link 工艺相对接近）、住友（日系，**纯水数据很好，但生理盐水测试无强优势**）。日系与德系整体未见明显优势。
+- **风险（本批新增）**：**混合 SAP 在运输过程中会上下分层** → 生产端到产品存在差异；国内以提高性能为目的的混合 SAP 厂商不多。
+   • 会中判断诺尔的**工艺柔性（process flexibility）很强**：ICP 表面交联、加粉末、加金属阳离子等路线**都能做**，只是基于市场与成本考量未做。
+- 从实验室到量产，性能（如 CRC）可能降 **2–3 到 3–5** 个点，被认为"也还可以"（没人要求那么高）。
+   • ✅ **验证记录（2026-09-29）**：以上为**供应商现场讲解口径**，无第三方验证；温度、固含（96% / 97%）、目数与微米口径**均未获澄清** [待验证]；人名（销售 / 宋总 / 李振）为音转 [待验证]；引发剂种类与配方**未披露**（见源页 manual_review）。参见 SAP（高吸水树脂）、SAP 表面包覆（SAP Particle Surface Coating）、SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）。
+
+--- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating superabsorbent polymer (SAP) particles** — spraying a liquid below the product-bed surface in a mixer with movable tools. The variant copy in this batch additionally exposes an **SFC (surface-crosslinking fraction [待验证]) calculation formula**, of direct interest to OEM SAP test protocols.
+   • The invention relates to a method for preparing superabsorbent polymer particles by polymerising a monomer solution or suspension. In a mixer equipped with a movable mixing tool, a liquid is sprayed through at least one nozzle to a position below the surface of the product bed. The disclosed variant further details an SFC calculation formula (surface-crosslinking fraction, abbreviation expansion [待验证]) for characterising the coated particles.
+   • **Liquid-below-bed-surface coating of SAP particles** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **SFC formula variant** supports surface-crosslinking process control for OEM SAP test protocols.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating SAP particles with a particulate solid dispersed by a gas stream**, fed below the product-bed surface. Process sibling of CN 101641398 B (liquid-spray coating) — both are BASF SAP post-treatment/core patents.
+   • The invention relates to a method for preparing superabsorbent polymer particles, wherein in a mixer the SAP particles are coated with a particulate solid that is dispersed by means of a gas stream, and the feed of the dispersed particulate solid into the mixer terminates below the surface of the product bed.
+   • **Gas-dispersed particulate-solid coating of SAP particles (below bed surface)** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **Process sibling of CN 101641398 B** (liquid-spray variant) — same assignee, same FTO relevance.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+

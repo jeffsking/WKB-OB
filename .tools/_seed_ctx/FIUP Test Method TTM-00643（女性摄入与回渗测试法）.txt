@@ -1,0 +1,86 @@
+# SEED: FIUP Test Method TTM-00643（女性摄入与回渗测试法）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 454 页，860 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres]]  (11 句)
+   • Purposes of testing are stated in 11.1: **quality control 质量控制**, **process control 工艺控制**, **product development 产品开发** and **process optimisation 工艺优化**. The chapter then works through, section by section: **fineness 细度** (11.2), **crimp 卷曲** (11.3), **tensile properties 拉伸性能** (11.4), **evenness 均匀度** (11.5), **friction 摩擦** (11.6), **shrinkage 收缩** (11.7) and **entanglement 缠结** (11.8) — each following the chain "definition → quantifying index → standard method → commercial instrument".
+   • **Linear density 线密度** (p.248): "Fibre and yarn fineness is normally measured in terms of mass per unit length" — denier or tex.
+- **Direct weighing method 直接称重法** preferred (p.248): "The preferred method for measuring linear density is the direct weighing method." Reason: cross-sections are non-circular and diameter measurement is difficult and time-consuming. Standard cited: **ASTM D1577-79**.
+- **Vibroscope 振动计法**: useful for staple bundles, but the practical trap flagged at p.250 is that cri
+   • **Crimp frequency 卷曲频率** (p.250): "the number of crimps or waves per unit length of extended or straightened fibre".
+- Methods: wave-counting per **ASTM D3937-90**, the percentage-crimp method, and automatic instruments such as the Lenzing **Vibrotex**.
+   • Three straining principles exist — **CRE (constant rate of extension 恒速拉伸)**, **CRT (constant rate of loading)** and **CRL (constant rate of traverse)** — per **ASTM D76-90**. Reason for CRE dominance (p.252): "Most fibre and filament yarn testers employ constant rate of extension (CRE) as the straining principle"; CRL suffers creep and CRT has low accuracy, whereas CRE gives multiple parameters from one load–elongation curve.
+- Parameters: breaking load, breaking elongation, **tenacity 强度** (p.
+
+--- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]  (11 句)
+   • 回渗测试方法的**参数矩阵底稿（英文）**： 的两个子表—— 与  + 。它是 Rewet Method Comparison（回渗测试方法横向对比） 的**底层数据表**：那张 PPT 讲的是"结论与口径"，本表给的是**逐方法 × 逐参数的原始取值**。
+   • ** 表**横向排列 **11 种方法**：KC Lo/Hi（两列：低档 / 高档）、**KC FIUP**、**KC Closed Cradle**、**P&G Duck**、**P&G Collagen (BCC)**、**P&G Collagen (AFC)**、**China U Rewet**、**Diaper Testing Intl**、**NWSP 070.9.R1 (15)**、**Costco FQ Demo**。纵向为 12 个参数维度：加液位置（mm forward of center）、加液量（mL）、液体、温度（°C）、**加液压力（psi）**、加液方式（dosing style）、吸水纸材质、吸水纸尺寸、吸水纸张数、**回渗压力（psi）**、回渗压块尺寸、方法编号（TL/TTM）。
+   • **加液压力**跨方法 **0 – 0.53 psi**：KC Lo/Hi 低档 0.02 / 高档 0.4；KC FIUP 0.25；KC Closed Cradle ~0.25；P&G Duck 0（无压）；P&G Collagen (BCC) **0.53**；P&G Collagen (AFC) 0.25 或 0.30；China U Rewet 0.29；Diaper Testing Intl 与 NWSP 070.9 **0**；Costco FQ Demo 0。
+   • **液体与温度**：仅 **P&G Collagen (BCC)** 用 **Synthetic Urine**，其余 10 种用 **Saline**（KC Closed Cradle 用 **STCH Saline**）。温度分两档：**室温**（KC Lo/Hi、China U Rewet 之外的多数、Diaper Testing Intl 23 °C）与 **37 °C**（KC FIUP、KC Closed Cradle、P&G Duck、P&G Collagen 两列）；**China U Rewet 36 °C**。
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (9 句)
+   • ⚠️ **Scope caveat 口径提示**：the digest excerpts **do not contain the method text for finished-product dimension measurement itself** — the primary source STM-00433 Pants尺寸.doc is in the original citing list, but its body is not among the excerpts。The quantitative material available in the digest sits at the **fibre / yarn level**（length, linear density, shrinkage, entanglement opening length）and its methodology。Only that part is recorded below；the concrete measurement convention for finished produc
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Section order（尺寸/形态类量）**：fineness 11.2, crimp 11.3, tensile properties 11.4, evenness 11.5, friction 11.6, shrinkage 11.7, entanglement 11.8（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+
+--- [[GB-T 28004-2011（纸尿裤国标测试口径）]]  (8 句)
+   • GB-T 28004-2011 **《Disposable Diapers（纸尿裤 片、垫）》** is the **historical (superseded) Chinese national product standard** for disposable diapers — retained in this vault for historical version comparison, old-contract / inventory disputes, and lineage tracing of the penetration test method（源：GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫））。It has been replaced as the current CN market baseline by **GB-T 28004.1-2021 Baby Diapers**, recorded as 生效中 with 2022-05-01 实施（源：GB-T 28004-2011 与 GB-T 28004.1-202
+   • *All limits above other than the 2011 method identity are attributed to their own 2021-era source pages; do not cite them as 2011-version values.*
+   • **The 2011 penetration口径 — 30° run-off（滑渗）.** The GB-T28004-2011 滑渗.doc test answers the question "**尿液冲击下有没有被及时吸收**" — urine has large volume and low viscosity, so the dominating issue is absorption speed（源：BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗））。Its intended use is **国标符合性与出厂放行** — a fixed caliber, robust to outliers (去极值), suited to external reports and cross-factory benchmarking（源：Run-off 30° 两法对比（GB-T28004-2011 vs TTM-00279））。The 30° run-off method is contrasted with the in-house **TTM
+   • **Version lineage (2011 → 2021).** 「吸收速度取代滑渗量」is the **largest methodological change** in the 2021 revision, so **cross-version data cannot be compared directly**（源：GB-T 28004.1-2021（纸尿裤国标））。The change is confirmed across three independently extracted copies of the 2021 part-1 document, i.e. it is **not a single-extraction error**（源：GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤 · 副本2））。
+
+--- [[Rewet Test（回渗测试）]]  (7 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • 上文已确立的硬约束是 **"回渗值不可裸引"**（同一公司 30 年间用过 0.005 / 0.05 / 0.24 / 0.5 / 0.7 / 1.0 psi 六档压力）。本追加段把这条约束**从"纵向的历时变化"扩展到"横向的跨组织方法"**：**客户（Walmart 训练裤招标）指定的是另一套标准**，其加液量、压力、介质与时长全部不同。
+- **成人产品此前从未与客户讨论过台架测试**（源文原话：*"Never discussed bench testing on adult products with Walmart previously"*）——这意味着**成人护理品类首次面临外部标准对齐问题**。
+   • 容量：**CRC（STM-00219）** / **Functional capacity（TTM-00638）**、**Retention Capacity（STM-00033）**、Target zone capacity / Virtual functional capacity
+- 可达性：**GBP（STM-00229）**、**Composite permeability（TTM-00006）** / **X-ray imaging（TTM-00631）**、**Bromocresol SAM 分布（JA-22229）**、**Mannequin Forced Failure（TTM-00459 / TTM-00200 / TTM-00660）**\* / AFEA
+- 受压持液：**AUL under pressure at rewet pressure**；⚠️ **"SAM deswelling at rewet pressure"= under development**、**"AUL Core deswelling test"= needed**
+- 及时锁液：*
+
+--- [[SAM Distribution Test（SAM 分布膨胀测试）]]  (7 句)
+   • **定义待补（引用来源未给出明确定义）** —— the vault registers this concept through its method documents rather than a definition. It is evidenced as a **core/material test**: the cited method files are **STM-00305 SAM分布.docx** and **STM-4597纸尿裤SAM分布测试.docx**（源：STM-00305 SAM分布.docx、STM-4597纸尿裤SAM分布测试.docx）。The vault's other register of the concept is a **bromocresol-indicator SAM-distribution method, JA-22229**, listed under the *可达性 / accessibility* channel of the core-test family（源：Rewet Test（回渗测试））。What the te
+   • **Where it sits in the core-test family.** The vault groups core tests into channels — 容量 / capacity, **可达性 / accessibility**, 受压持液 / retention under load, 及时锁液 / prompt lock-up — and places the **Bromocresol SAM 分布（JA-22229）** method in the 可达性 channel, alongside GBP (STM-00229), Composite permeability (TTM-00006) / X-ray imaging (TTM-00631) and Mannequin Forced Failure（源：Rewet Test（回渗测试））。That grouping implies the method characterises how liquid reaches and is held within the swollen SAM mass,
+   • **Related SAM metrics that do carry numbers.** SAM characterisation by the five indicators (PSD / GBP / CRC / AUL / Vortex) is the **formal KC口径 for SAP incoming-material judging** and has complete STM numbering（源：SAM Testing Methods（超级吸水材料测试方法））; the same five-indicator set is confirmed in the raw-material method index（源：Raw Material Testing Method Summary（原材料测试方法汇总表））。**PSD** here is particle-size distribution — a material-level distribution distinct from the spatial, in-core SAM distribution 
+   • **Gap flagged by the vault itself.** Two deswelling tests are explicitly **not yet available**: "SAM deswelling at rewet pressure" is *under development* and "AUL Core deswelling test" is *needed*（源：Rewet Test（回渗测试））。
+
+--- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]  (7 句)
+   • 本批**FIUP（Female Insult Under Pressure，TTM-00643）测试方法的沿革与参数依据说明书**：记录从 FIFE 回流法、膀胱箱法到 FIUP 的演化链，以及每个关键参数（加液位置、加载量、流速、温度、间隔、回渗介质、压力、时间）的**理由来源**。是本库回答「回渗/摄入数字为什么是这么测的」的口径溯源页。
+   • **现行 FIUP 方法的前身**：4 个加液位置（把护垫长度 6 等分取中间 4 点）以覆盖女性放置护垫的差异；在 **0.25 psi** 压力下加液以模拟正常穿着压力；加载量 **30 mL（moderate）/ 78 mL（maximum）/ 114 mL（ultimate）**，取自 2012 年尿液流失研究（#34724）的 **75 百分位**，刻意高于常规以确保在"比平均更重的日子"仍满足吸收需求；**分 3 次加液、8 mL/s、间隔 15 分钟**；**0.7 psi 下用吸墨纸测回流（flowback）**。文档由 Marc Weiher 于 2017-08-25 加入 SharePoint，方法描述由 Marnie Lauer 于 2015 年 2 月起草；**TTM-00148（带 flowback）**也曾用于支撑防护宣称。
+   • **正式成文**：2015 年 3 月 Poise 推出 Thin Shape 并形成可对标 P&G Always Discreet 的干爽宣称；方法**先以 STM-00497 起草，随后以 TTM-00643（v0）发布**，作者为 Maddie Rutherford（co-op）、Jen Pozniak（R&E）、Thea Haessler/VanKopf（TMD）；量具 R&R 记为 **RST 82319**。
+   • **后续变更与未解问题**：2015 年 HILLARY 可能用过 TTM-00148 flowback；2015 年 12 月 LOPEZ 可能用 TTM-00148 flowback 支撑 Poise Thin Shape 干爽宣称。**2020 年 9 月 TTM-00643 v4 发布，把回渗压力由 0.7 psi 改为 0.5 psi，但找不到任何说明该变更理由的文档**；量具 R&R 引用 **RST 104230**（2020 年 2 月由 Samantha Sword 与 Katy Anderson 提交），备注"用于回渗的 **2 英寸新砝码**。可能为重端产品提供更好模拟真实消费者体验的新测试方法"。2020 年 2 月 ACoP 会议 deck 质疑 TTM-00463 是否应使用更大砝码，但未说明原因。
+
+--- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]  (6 句)
+   • **FIUP（TTM-00643）加液量的定义表与溯源索引（英文）**：一张 6 档加液阶梯表 + 一份从 1999 到 2017 的方法口径沿革 + 一份 TL 溯源文献链 + 一份 Poise 产品线代号年表。本库价值：它回答了**"为什么是 3 次加液、每次 26 mL"**——答案是 **ULS 34724 的 75 百分位总载荷 ÷ 3**，而不是经验值。
+   • **"3 次加液"的统计学来源**（最关键的一条）：原表脚注——*"75ᵗʰ percentile total loadings from **ULS 34724** divided into 3"*（取自 2012 年尿液载荷研究 ULS 34724 的 **75 百分位总载荷，均分为 3 次**）。Poise 侧亦注明 *"FIUP TL says it uses 75th percentile total pad loading divided in 3"*。
+   • **TL 溯源文献链**：TL-10397 / TL-10950 → **TL-11541（2005）** Depend® 与 Poise® 使用测试载荷与渗漏数据汇总 → **TL-14137（2010）** Poise 使用测试载荷与渗漏数据（2009）汇总，含按尺码的单次加液与总载荷图表 → **TL-15919（2016）** 2012 年女性护垫/卫生巾尿液载荷研究（**ULS 34724**）汇总 → **TL-15582（2015）** Depend 与 Poise 单次加液与总载荷目标的更新方法 → **TL-15927（2016）** Poise 护垫 vs Always Discreet 的干爽宣称支撑 —— **FIUP 的开发文献**。
+   • **Poise 项目代号年表（2006–2026）**：记录了每年项目的**类型**（Line Extension / Renovation / Sustaining / Cost / Promise / Domain Expansion）与内容。与测试方法直接相关的两条：**2015 TOMLIN**——开发了 **FIUP 前体的测试方法（TL-15927）**；**2015 FALLON**——**用 cradle intake & rewet（67714）开发**、移除 Ult Reg 的 airlaid。**2016 LOPEZ** 为对标 Always Discreet 的 Ultrathin 而新增 3D Light。
+
+--- [[Manufactured Fibre Technology Ch10 Characterization of Polymers and Fibres]]  (6 句)
+   • This is the book's **methods toolbox 方法工具箱**. Characterization is organized into three levels: **molecular level 分子级** (molecular weight and its distribution), **thermal properties 热性能** (glass transition, melting, crystallization, decomposition) and **physical structure and morphology 物理结构与形态** (crystallinity, crystallite size, orientation). Each level is presented with principles, working equations and instruments, so later fibre-specific chapters can quote crystallinity, orientation function,
+   • Two classes of method (p.206): "primary or absolute methods, which determine molecular weight from first principles. These include end group analysis, osmometry, light scattering... secondary methods, which require calibration with known molecular weight standards, such as the methods based on viscometry and gel permeation chromatography."
+   • Assessment from the source: molecular-level and physical-structure sections are strongly argued with complete equations and figure cross-checks; thermal and microscopy sections are enumerative descriptions with fewer worked examples; no systematic comparison of method error and applicability boundaries is given, so independent method selection is hard — flagged as a limitation of methods-survey chapters.
+   • High utility as a **reference vocabulary and method-selection frame**, even though no hygiene product is mentioned in the chapter.
+
+--- [[Boltzmann 变换]]  (5 句)
+   • **Boltzmann 变换**：令 **η = x / 2√t**，把扩散 PDE 化为二阶常微分方程（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）：
+   • 它是 **D(C) 浓度依赖扩散**的方法论核心，也是 SAP 吸液问题（D 强烈依赖浓度）的核心数学工具（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+   • **推导逻辑链**：Boltzmann 变换 → PDE 化 ODE → 解析 / 数值求解 → Crank Ch 9 给出具体图表结果（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+- 变换把二阶 PDE 降为**二阶 ODE**，解析或数值均可求解（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+   • **SAP 吸液建模**：D 强烈依赖浓度时，Boltzmann 变换是把 PDE 降为 ODE 的核心工具；对**半无限 SAP 颗粒表面**有效，而**有限厚 SAP 片层需改用数值方法**（源：Concentration-Dependent Diffusion Methods (Crank Ch.7)）。
+- 属 Crank 变系数扩散（Ch 7–9）体系：Boltzmann 变换、数值方法、等效扩散系数并列，其中 SAP 的 D(C) 常呈指数上升型（源：Mathematics of Diffusion）。
+- 关联概念页：Fick 定律、自由体积 Free Volume、SAP（高吸水树脂）、Non-Fickian Diffusion (Crank Ch.11)、Numerical Methods for Diffusion (Crank Ch.8)。
+

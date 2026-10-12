@@ -1,0 +1,59 @@
+{
+ "batch_id": "W10-3",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_9772f402ab72636a4292bf4a3a573de4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/KC U Rewet测试.docx.md",
+   "name": "KC U Rewet测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_cf134764baa19448eb852307995c1ea5001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/Pants 产品拉断测试方法/关于pants类产品拉断的研究分享- Tulip.pdf.md",
+   "name": "关于pants类产品拉断的研究分享- Tulip.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_5a2e10364068270d44ba8920793c4f8f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00059 反渗.docx.md",
+   "name": "STM-00059 反渗.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_e2403d918f1d51d7c5fcb243c7c24246001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/纸尿裤核心技术与应用材料全景解析.pdf.md",
+   "name": "纸尿裤核心技术与应用材料全景解析.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_50c0fe338cd6530a303d515916394568001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00076 剪切.docx.md",
+   "name": "STM-00076 剪切.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_21517c7f61dadff3de487fd9a56e4697001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/STM-00440 腰围皮筋张力.doc.md",
+   "name": "STM-00440 腰围皮筋张力.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_831328f1900e65639ca16d1ad8e96901001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/TTM-00279产品30°滑渗测试.docx.md",
+   "name": "TTM-00279产品30°滑渗测试.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_d820d8300aa69b20d1cd0cc53c67c2e0001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/NJ/橡筋拉伸比测试.doc.md",
+   "name": "橡筋拉伸比测试.doc.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_bbfc6413661cfc1d71875180494c3282001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Areas/Test Method/成品/TJ/WI-63849 Motion mannequin.docx.md",
+   "name": "WI-63849 Motion mannequin.docx.md",
+   "type": "word"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+# SEED: Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 92 页，124 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Ebewole Polymer Science Ch01 Introduction Basic Concepts and Classification]]  (5 句)
+   • Chapter 1 is the **entry hub 入门枢纽** of the book and carries three tasks: (1) building the disciplinary history of polymer science from celluloid (1868) to the engineering-plastics era; (2) fixing the strict definitions of *polymer / monomer / repeating unit / structural unit / degree of polymerization / molecular weight distribution / functionality*; (3) laying the taxonomic foundation used in all later chapters.
+   • The chapter's taxonomic first principle is **functionality 官能度**, not chemical composition or application.
+   • Functionality rule of thumb from the source: f = 1 → no polymerisation; f = 2 → linear chain; f > 2 → branching / cross-linked network. 官能度 ≥2 才能聚合；>2 导致支化或交联网络。
+   • **Staudinger's macromolecular hypothesis (1920s)** overturned the colloid-chemistry view of polymers as aggregates of small molecules; the source credits Staudinger with coining *macromolecule*.
+- **Terminology tension polymer vs. macromolecule**: the source (written 1997) uses both interchangeably; IUPAC later favoured *polymer* because *macromolecule* blurs with low-molar-mass oligomers. 属成书年代的过渡期写法。
+- **Polydispersity as defect or resource**: the book states polydispersity as the statistical 
+
+--- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]  (4 句)
+   • 把团队手上全部在研项目按**组件类别 + 技术平台**重新归档，并逐项敲定优先级、卡点与下一步；同时暴露出两类共性瓶颈（masterbatch 改性、复配配方）与若干待价而动的材料机会（PTT、Lyocell、SEBS）。
+   • **REL 的 PVA 纤维**：非水溶性 PVA 按 **8%** 添加，目的为**亲水 + resilience（回弹、保住 void volume）**；等**天津实验室数据**，以**第 3 次 intake speed** 是否明显提升作为判据 → **未出结论**。PVA 的**卷曲（crimping）由谁落地、何时落地**需 procurement 定周期。
+- **PVA 的非水溶性处理工艺**：传统缩醛法可能有残留风险；供应商（沈工侧）称其用**常规溶剂法**，但水溶性/亲水效果可能打折 → **待核**。
+- **三叶草纤维的路线未定**：现用 **bico PE/PET 三叶草**，希望转 **mono PET**；候选供方为**福地**（已有三叶草喷丝板，白口，可改成全 PET/双组分改 PET）、**米润/闽瑞**、**中纺**（唯一能 scale up 且成本最低）。是否换供方、是否改喷丝板 → **未定**。
+- **PTT 的价格门槛未到**：现价仅能用于 REL；若降到约 **1.1 万元/吨** 或 **约 PP 价格的 3 倍**，才是做 PTT 
+   • **归档方式从「项目制」改为「组件类别 + 技术平台」双维度，是为了跨团队复用与可检索** —— 支撑页：IPC BCC OI Portfolio（开放创新项目组合）
+- **REL 的功能纤维逻辑是「亲水 + 回弹」双目标，PVA 与 PTT 分别承担** —— 支撑页：PVA纤维（湿强骨架）、PTT（聚对苯二甲酸丙二醇酯）、REL增强层
+- **纳米纤维素的第一落点是热熔胶而非替代 SAP，且 IP 必须留在我方** —— 支撑页：BNC-PEG 母粒（干态可复水中介体）、细菌纳米纤维素
+- **行业级瓶颈在「改性母粒」与「复配配方」两类中间能力，而非材料本身** —— 支撑页：Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+- **除臭的技术难点从「材料有效性」转移到「上线工艺可行性」（喷嘴堵塞 / 粉体跌落）** —— 支撑页：中科依兰、Zeolite Odour Control（沸石除臭载体）
+   • 概念：PVA纤维（湿强骨架）、PTT（聚对苯二甲酸丙二醇酯）、BNC-PEG 母粒（干态可复水中介体）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、三叶形截面纤维（Trilobal Fibre）、REL增强层、分区密度设计、Chromism Taxonomy（变色现象分类）
+- 实体：中科依兰、福地（Fudi）、福建闽瑞新合纤、诺尔（Nuoer）、兰精集团
+- 对比：（本批不新建；既有对比页见 CoPET-PET 与 PE-PET 皮芯纤维对比 一类）
+
+--- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]  (3 句)
+   • The sheet is an Excel extract headed "Open Innovation" with columns No. / BU / Category / Technology / Stage / Supplier / Website / Contact / Email / Exploration / Supplier Enabling / NDA-NNN-JDA / Resource needed / IP-Exclusivity / POC. All rows sit at **Stage = Exploration**. Numbered entries cover **OI-1 NanoCellules (Hainan Bairuike)**, **OI-2 PVA fibre for TABCW (Anhui Wanwei; two contact rows)**, **OI-3 PTT resin (C1 Life Biotech)**, **OI-4 PVA/PTT REL Coco V6 (Yanjan)**, and **OI-5/6/7/8 
+   • **Tourmaline is the only row explicitly seeking category exclusivity** —— tripartite KC / Minrui / Japanese partner, triggered by usability not signature —— 支撑页：Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、Rengo Nonwoven Products
+- **PVA is the single hardest constraint on the REL recipe** —— water-insoluble, >140 °C, curling fibre not ready in 2026 —— 支撑页：REL增强层、皖维高新
+- **Liner fibre sourcing is a staged queue**, not a single supplier decision —— 支撑页：三叶形截面纤维（Trilobal Fibre）、福地（Fudi）、Emon Jia
+   • Concepts 概念：IPC BCC OI Portfolio（开放创新项目组合）、REL增强层、三叶形截面纤维（Trilobal Fibre）、Biodegradable SAP（可降解高吸水树脂）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、Moisture-Responsive Fibre（湿敏变形纤维）、Zeolite Odour Control（沸石除臭载体）
+- Entities 实体：海南拜瑞科、皖维高新、C1 Life Biotech、延江（Yanjan）、江南高纤、福地（Fudi）、Emon Jiangsu（江苏益盟）、兰精集团、中科依兰、Rengo Nonwoven Products、联欣环保科技（泰兴）、Guoke Haina（国科海纳）
+- Sources 同族来源：IPC BCC OI Project List 2026-09-18（重构版·19 项）、IPC BCC OI 项目清单 2026 v2（2026-09-17）、IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (3 句)
+   • 1. **Is BSL tier differentiation important to this brand for product tier differentiation?**（面层分档对该品牌的档位差异化是否重要？）
+2. **What would that look like? (Cues, functionality, etc.)**（那会长什么样？线索、功能……）
+3. **How much interest is there to address common BSL barriers to product tier differentiation? (Cost, process, etc.)**（有多大意愿去解决**共性障碍**——成本、工序……）
+   • **重要性**：**N/A**；**现状 on track**。
+- **机会**：*"Define what **BONNIE** and **CIRRUS** would need for BSL functionality, given **Goodnites is the most challenging fluid handling situation**"*；功能 BV 对竞品；TBD/未来：**针对特殊需求儿童的感官辅助**。
+   • **短期**：LORI 评估**印刷质量**影响；*"**No BSL changes are needed in the short-term** for LORI 2024 or Overnight back bump 2025/2026"*；*"No formal asks yet for the FEI materials team."*
+- **未来**：视觉外观与材料类型的重要性；⚠️ *"**Degree of changes in LORI was not enough to influence the consumer experience. \"Zero menses on skin.\"**"*；*"Similar to POISE UT, UBK may need **3D features, visual cues, layers...and functional performance**"*。
+- **透气**：*"Have a breathable material, **not necessarily need to be full product b
+
+--- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]  (3 句)
+   • [p.458] "Another major problem these fibres faced... is the lack of dyeability; they do not have dye sites as other commercially useful fibres have. Mass-coloration using suitable pigments has led to the introduction of a wide range of coloured fibres." 缺少染座 → 只能纺前母粒着色（mass-coloration）。这与 REL 侧的功能母粒（functional masterbatch）做法是同一思路。
+   • **纤维成形与纺粘/熔喷的直接联系**：本章的 MFI—分子量分布—可纺性、纺丝线应力—双折射—取向、皮芯效应三条因果链，是理解纺粘（spunbond）与熔喷（meltblown）工艺窗口的基础；本章明确指出其为第 19 章非织造（spun-bonding、melt-blowing）埋下伏笔。见 Meltblown Nonwoven（熔喷非织造布） 与 Nonwoven Process Classification（非织造布工艺分类）。
+- **双组分纤维（ES / PE-PP）**：皮芯取向差异与热定形行为，是 sheath-core 双组分纤维热风粘合（through-air bonding）时皮层熔融、芯层保持纤维形貌的结构基础，见 Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）。
+- **稳定剂体系**：PP  tertiary carbon 导致的热氧降解，直接决定高速纺粘纺丝时的热稳定性、黄变与气味，以及多次挤
+   • Manufactured Fibre Technology — book index
+- Meltblown Nonwoven（熔喷非织造布） — 本章"为第19章 melt-blowing 埋下伏笔"的落地延伸
+- Nonwoven Process Classification（非织造布工艺分类） — 熔纺工艺在纺粘/熔喷中的分类定位
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨） — 皮芯结构与功能母粒的 REL 侧资料
+- Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） — 同一聚烯烃体系的热熔粘合应用
+- 三叶形截面纤维（Trilobal Fibre） — PP 纤维截面与手感/遮盖
+
+--- [[Smart Textiles and Their Applications]]  (3 句)
+   • 1. **Chromic classification by stimulus.** Materials are classified by what induces the colour change — photochromic (light), thermochromic (heat), electrochromic (applied voltage). Existing textile applications cited: photochromics to notify UV radiation levels in solar protection; thermochromic wallpaper that "grows" flower buds when heated by a radiator; photochromic pillow covers revealing a motif in sunlight, all reversing when the stimulus is removed.
+2. **Active display — resolution versu
+   • **The cost verdict is the most useful sentence in the paper.** Both active-fibre and electrochromic routes are explicitly blocked on cost/integration and on lifetime/reliability respectively. Anyone proposing a powered or electrically-switched indicator on a disposable should read that as a negative result from the smart-textile community's own work — see US20070270773A1 Thermochromic Wetness Indicator for the passive, power-free alternative that a disposable actually uses.
+- **Layer-count reduc
+   • Smart Fabric Textiles Recent Advances and Challenges — the wider 2022 survey; uses a three-tier passive/active/ultra-smart taxonomy instead of this paper's two-tier one
+- Smart Fabrics and Networked Clothing — the parallel fibre-first (CNT yarn) integration philosophy
+- Chromic Phenomena Solar Energy and Liquid Crystals — physical chemistry behind the reversible colour change used in §2.3
+- US20070270773A1 Thermochromic Wetness Indicator — the low-cost passive route that avoids this paper's stat
+
+--- [[IPC BCC OI Portfolio（开放创新项目组合）]]  (2 句)
+   • 1. **Five technology platforms 五大技术平台**：① Resins & Fibre Substrates ｜ ② Nonwoven Functionality ｜ ③ Fibre Morphology & Structural Parts ｜ ④ Chemical Function & Sensing Materials ｜ ⑤ Cores & Absorbent Materials（另设 Elastomer / Adhesive 方向）。
+2. **Stages 阶段**： 为唯一状态（全部项目均处探索期，**无一项有 TRL 分级**）。
+3. **Legal ladder 法务阶梯**：NDA（保密）→ NNN（不规避/不回绕，用于联合开发）→ JDA（联合开发协议）→ MOU（排他/范围备忘录）。法务进展本身即交付物之一。
+4. **Deliverable set 交付物**：技术路线与规格、KPI/验收判据、供应商基盘、法务与排他安排、IP 归属 —— 四者同权重。
+   • 上游/相关：COCO芯体平台、认证与法规的区别
+- 下游落点：分区密度设计、ATB双梳理面层（Dual-Card Topsheet）、Biodegradable SAP（可降解高吸水树脂）、Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、Zeolite Odour Control（沸石除臭载体）、Moisture-Responsive Fibre（湿敏变形纤维）
+- 组织：IPC BCC（K-C Baby & Child Care 材料开发团队）、Kimberly-Clark（金佰利）
+- 同源产出（另一批次，就同一大纲英文版建立）：IPC BCC OI Portfolio（开放创新项目组合）、Technology Roadmap 2026-2029（技术路线图）、Material Safety Control（材料安全双轨管控）
+
+--- [[Skin Health Treatment on Nonwoven（无纺布护肤处理）]]  (2 句)
+   • 1. **四类成分对应四条不同的作用路径**：
+   - **ZnO（氧化锌）** —— FDA OTC 专论的**皮肤保护剂成分**；抑制粪便酶与尿液酶、促进伤口愈合，并在低 pH 下与乳酸协同解离出 Zn²⁺，生成乳酸锌（NMF 的已知组分、生物可利用锌）。
+   - **pH 调节剂（乳酸 / 苹果酸 / 柠檬酸）** —— 对抗尿液与粪便引起的 pH 上升，把皮肤维持在**目标 pH 4.1–5.8（约 5.5）**；走化妆品路径，是"温和"型皮肤健康宣称的主力。
+   - **凡士林（Petrolatum）** —— FDA OTC 专论皮肤保护剂成分，在皮肤表面形成保护层阻隔刺激物。
+   - **调理剂 + 益生类（Conditioners + Biotics）** —— 改善皮肤屏障、减少水分流失与炎症，机制多样，多源自化妆品行业。
+2. **收益来自"对抗刺激源"而非"增加吸收"**：损伤三要素是**摩擦、过度水合、尿液/粪便+粪便酶**。护肤处理只解决第三项（与部分第二项），因此**它不能替代干爽性与低摩擦**——源资料明确要求皮肤健康收益必须建立在透气、锁液/干爽
+   • ✅ **验证记录（2026-09-29）**：以上为供应商自述 + 会中判断，**无第三方功效数据**；"抗菌/弱酸有效、凉感为神经刺激、护肤主要为宣称"为供应商口径 [待验证]。参见 Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、皮芯复合纤维。
+
+--- [[双组分纤维 Bicomponent]]  (2 句)
+   • Bicomponent fibres are the bonding and functional backbone of the hygiene stack: **carded / air-through webs**（热风无纺布）, **topsheet**（Topsheet（面层））, **ADL**（ADL（导流层））and spunbond/meltblown layers（纺粘 Spunbond、Meltblown Nonwoven（熔喷非织造布））all depend on low-melting sheath fibres — the industrial form of which is **ES fibre（PE/PP 皮芯）**（ES Fibre Hydrophilic Function and Applications、皮芯复合纤维）. In the drylaid branch, bicomponent blends are named alongside fluff pulp and SAP as the raw-material science that 
+   • Bicomponent Fibre Technology Development Trends
+- Bicomponent Fibre Technology Trends China and Abroad
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+- Thermal bonding
+- Dry-laid web formation
+- 皮芯复合纤维
+- ES Fibre Hydrophilic Function and Applications
+- 热风无纺布
+- 三叶形截面纤维（Trilobal Fibre）
+- Absorbent Techn
+
+--- [[热风无纺布]]  (2 句)
+   • **Permanent setting（永久定形）**: small imperfect crystals in the sheath（PP/PE）partially melt below the melting point and re-crystallise into more perfect crystals, dropping the structure to a lower-energy minimum — this is why a thermally bonded fabric no longer retracts（源：Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres）.
+- **Tension window is the process variable**: whether the oven belt constrains or relaxes the web decides the CD/MD strength ratio and hand（源：Manufactured F
+   • **Core wrap 芯体包裹**: air-through nonwoven is a named core-wrap material（要求蓬松柔软、导流性好、包裹 SAP），克重区间 **10–18 g/m²**（源：Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用））.
+- **Topsheet / backing layer development**: the EM 2026-06-02 programme targets **热风底布克重下探至 18–20 gsm**、打孔工艺力度收敛、3D 压花辊数路线（TR 三辊 vs ET 单辊）（源：Huayi Group（待核中文名））.
+- **SAP immobilisation carrier**: high-bulk air-through webs act as the SAP-carrying substrate in multilayer SAP cores（源：Multilayer SAP Core（多层SAP芯体）
+

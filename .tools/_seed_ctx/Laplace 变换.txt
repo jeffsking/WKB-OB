@@ -1,0 +1,114 @@
+# SEED: Laplace 变换
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+#
+# 全库正文命中 22 页，34 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)]]  (4 句)
+   • **恒 D 情形下解析解的三类工具箱**——反射与叠加法、分离变量法、Laplace 变换法，确立误差函数类与三角函数级数两类标准解的分类体系，为 SAP 溶胀动力学与芯体湿迁移建模提供解析基础。
+   • **三类解析方法**：
+  1. 反射与叠加法——利用线性方程叠加性构造边界解
+  2. 分离变量法——C = u(x) exp(-Dα²t)，得到 Bessel/三角本征值问题
+  3. Laplace 变换法——最强工具，p 域求像函数→逆变换给出时间域解
+- **两类标准解**：
+  - 误差函数类：小时间数值评估方便
+  - 三角函数级数：大时间收敛性最好
+- **平面源格林函数**：C = (M/2(πDt)^½) exp(-x²/4Dt)——基本"砖块"。
+- **反射法**：不透水边界 dC/dx=0（PP 底膜）；透湿边界 dC/dx+hc=0（顶表层）。
+- **推导逻辑链**：恒 D PDE→试探解→质量守恒定 A→反射+叠加→扩展初值→分离变量→Laplace 变换。
+   • **Laplace 变换是最强工具**——对复杂问题（多层复合芯体）尤其关键。
+- **两类标准解分工明确**——小时间（SAP 吸液初期）用误差函数，大时间（稳态接近）用级数。
+- **平面源格林函数是 SAP 建模的原子单元**——单个 SAP 微球=瞬时点源，多粒子场可叠加。
+- **反射法直接映射芯体结构**——不透水膜（PP 底膜）与透湿膜（顶表层）分别对应 dC/dx=0 与 dC/dx+hc=0。
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- Fick 定律
+- 格林函数 Green's Function
+- Laplace 变换
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (2 句)
+   • 1. **残液的两个出口条件由 Young-LaPlace 方程给出**：**ΔP = −2γcosθ / R**。毛细压由**润湿性（θ）**与**孔径（R）**共同决定。**毛细压越高 → 孔越想把液体留住；解吸能越高 → 纤维越难"晾干"**。因此降低残液只有两条路：**降低润湿性（提高 θ）**或**加大孔径 R**（以及让孔径分布收敛）。
+2. **孔径分布（PSD）比平均孔径更重要**：假说是**液体滞留在极小孔里，因为旁边没有足够大的孔把它拉出来**。双峰/宽分布会造成"抽不出来"的死角；对策是**让纤维尺寸趋同以收窄分布**，并**减少孔的总数以减少可拘留液体的位置**。
+3. **润湿性这条路有硬冲突**：去掉面层润湿处理确实降回渗（0.26 → 0.20 g），但**漏液率从 3.2% 升到 4.6%**——因为面层不亲水就拦不住涌流。**同一处改动同时影响"干"与"漏"，必须成对验收**；且该冲突在不同品类上结论不同（未处理面层在 BCC 可行，在成人护理上不可行）。
+4. **加大孔径这条路相对安全**：粗纤维 → 大孔径的面层（LOKI 类）在预测与实测上**
+   • **更难解吸是双重原因**（Young-LaPlace ）：**孔径 R 更小** + **润湿性更高（θ 更小）**。滴液润湿性（0→60 s）：Liner **POISE 2.4→4.7 vs AD 8.4→9.5**；Surge **POISE 8.4→9.2 vs AD 9.6→9.8**。
+- **BET 比表面积**：AD Core **17.48** vs POISE Core **1.37 m²/g**（约 **12.8×**）；AD 拆分为 composite 1 **56.25**、composite 2 **47.57**、SAM 颗粒（带胶）**0.70** → **高比表面积来自复合层，不是 SAP 颗粒**。
+
+--- [[Washburn Equation]]  (2 句)
+   • The equation governs **wicking rate and capacity in diaper / incontinence cores**, the physical foundation of absorbent technology（源：Liquid Flow in Porous Structures）。
+- Simulation interface 对接口：Washburn / Lucas-Washburn, together with Darcy's law and capillary pressure, forms the physical basis of absorption kinetics and interfaces directly with simulation（源：Absorbent Technology）。
+- Related concepts（navigational）：达西定律 Darcy's Law、毛细压力 Capillary Pressure、Laplace Pressure、Hagen-Poiseuille Equatio
+   • Computational Modeling in Absorbent Technology
+- Fluid Absorption in High Bulk Nonwovens
+- Porous Structure and Liquid Flow Models
+- The Role of Surfactants
+- Absorbent Technology
+- Liquid Flow in Porous Structures
+- Surface Tension and Surface Energy
+- 达西定律 Darcy's Law
+- 毛细压力 Capillary Pressure
+- Laplace Pressure
+- Hagen-Poiseuille Equation
+- Contact Angle
+- 孔隙率 Porosity
+- 渗透率 Permeability
+- ADL（导流层）
+- 吸收芯体
+- Klemm 法
+- GATS 重力吸收测试
+- Groove Capillary Suction
+- 时间滞后法 Time Lag Method
+- Hygiene Abs
+
+--- [[接触角 Contact Angle]]  (2 句)
+   • Traceable operational role 可溯源的操作定位: contact angle enters the Laplace capillary-pressure term as , i.e. it is the surface-chemistry variable that sets the sign and magnitude of capillary pull (源：Computational Modeling in Absorbent Technology).
+   • Citing sources 引用来源：Computational Modeling in Absorbent Technology、The Role of Surfactants
+- Additional vault pages used 另有正文来源：亲水整理耐久性、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：毛细压力 Capillary Pressure、Laplace Pressure、Washburn Equation、Surface Tension and Surface Energy、表面活性剂 Surfactant、润湿剂 Wetting Agent、再润湿剂 Rewetting Agent、CMC 临界胶束浓度
+- Application pages 应用页：Groove Capillary Suction、Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner、ADL（导流层）、绒毛浆（Fluff Pul
+
+--- [[格林函数 Green's Function]]  (2 句)
+   • **三类解析方法**：① 反射与叠加法 —— 利用线性方程叠加性构造边界解；② 分离变量法 —— ，得到 Bessel/三角本征值问题；③ **Laplace 变换法** —— 最强工具，p 域求像函数 → 逆变换给出时间域解（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **源函数族（点 / 面 / 球 / 柱）**：瞬时点源（n 维推广 ）、瞬时面源（一维基本解）、瞬时球源（三维有限初始分布）、瞬时柱源（二维有限初始分布）（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **反射法直接编码边界条件**：不透水膜（PP 底膜）对应 ；透湿膜（顶表层）对应 （源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **推导逻辑链**：恒 D PDE → 试探解 → 质量守恒定 A → 反射+叠加 → 扩展初值 → 分离变量 → Laplac
+   • Citing sources 引用来源：Infinite and Semi-Infinite Media (Crank Ch.3)、Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、Laplace 变换、Bessel 函数、时间滞后法 Time Lag Method、湿迁移 Wet Migration
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[毛细压力 Capillary Pressure]]  (2 句)
+   • **毛细压力是吸收的主要驱动力**：吸收由毛细压力驱动，外部施加的重力/压力只起次要作用 —— "Absorption is driven primarily by **capillary pressure** (p_c = 2γcosθ/r); externally imposed gravity or pressure plays only a secondary role"（源：Liquid Flow in Porous Structures）。
+- **物理基础是 Young-LaPlace 方程**：ΔP = −2γcosθ / R（ΔP 毛细压、γ 表面张力、θ 接触角、R 孔隙半径）；**毛细压由润湿性（θ）与孔径（R）共同决定**（源：Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量））。因此测到的毛细压差异**只能归因于这两者之一** —— 这是用它做根因诊断（润湿性 vs 孔径二分）的根据。
+   • Citing sources（3）: Computational Modeling in Absorbent Technology、Cross-linked Cellulose and Derivatives、Liquid Flow in Porous Structures
+- 测试 / 机理: Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）、MCCT Multi-Component Capillary Tension（多组分毛细张力测试）、Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）、Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）、Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）
+- 回渗与残液: 回渗 Rewet、LPR vs HPR Rewet（低压回渗 vs 高压
+
+--- [[2026-05-05 - QUINN.pptx]]  (2 句)
+   • K. Clemmer's "Depend War on Wetness" deck (2026-05-05) framing rewet as a competitive battle vs Always Discreet and positioning **capillarity** (Young–Laplace) as the engineering lever to close the gap.（Clemmel 的「Depend 抗湿战役」PPT（2026-05-05），将回渗定位为对 Always Discreet 的竞品攻坚战，并以毛细作用（Young–Laplace）作为缩小差距的工程杠杆。）
+   • Surge material flagged best-for-rewet: **Strahag SS7CT8H60** (SIROCCO-identified).（surge 材料中回渗最优：Strahag SS7CT8H60。）
+- Capillarity fundamentals: residual-fluid drivers are **wettability (θ)** and **pore radius (R)** via Young–Laplace ΔP = −2γcosθ/R. Expanded capillarity test capability targeted by end of June.（毛细作用机理由 Young–Laplace 方程支配，残留液体由润湿性 θ 与孔径 R 驱动；扩展毛细测试能力目标 6 月底。）
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]  (2 句)
+   • 本批**回渗竞品拆解的物性证据页（Richmond Cohen / Matt Valaskey，2025-09-11）**：用 Young-LaPlace 框架 + 孔径分布、毛细压力、吸/解吸能量、层压剥离强度四类新物性测试，量化 Depend 与 Always Discreet 摄入系统的差距来源。是本库回答「竞品到底赢在哪一个物性上」的一手数据来源。
+   • 分析以 Young-LaPlace 方程为统一框架：Δp = −2γcosθ / R（p 压力、γ 表面张力、θ 接触角、R 孔隙半径）。针对 DEPEND 与 ALWAYS DISCREET 摄入系统新增四类基础物性测试：**面层孔径分布**、**导流层孔径分布**、**导流层毛细压力**、**面层/导流层层压的粘合强度（剥离力）**。
+
+--- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]  (2 句)
+   • **为什么 AD 更难解吸（Young-LaPlace）**： —— 两个因素同时作用：① **孔径 R 更小**（AD liner 与 surge 的**模态孔径**均明显小于 POISE）；② **润湿性更高（接触角 θ 更小）**。滴液润湿性测试（0 s → 60 s）：**Liner POISE 2.4 → 4.7 vs AD 8.4 → 9.5**；**Surge POISE 8.4 → 9.2 vs AD 9.6 → 9.8**。
+   • **回渗 = 解吸 + 回流两种机制；POISE 的 FIUP 中解吸主导** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **解吸由摄入系统控制：高毛细压力与界面截留液体，受压时表达为回渗** —— 支撑页：Intake System（摄入系统）
+- **AD 的摄入系统毛细压力全面更高（更难解吸），按机理应回渗更高——但实测未如此 ⇒ 机理与实测之间存在未解释的缺口** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- **更难解吸是双重原因：更小孔径 + 更高润湿性（Young-LaPlace 的 R 与 θ 同时作用）** —— 支撑页：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+- **AD 芯体 BET 比表面积约为 POISE 的 12.8×，且高比表面积来自复合层而非 SAP 颗粒** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **"蓬松度"与"解吸难易"是两
+

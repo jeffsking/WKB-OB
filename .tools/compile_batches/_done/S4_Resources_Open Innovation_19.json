@@ -1,0 +1,44 @@
+{
+  "batch": "S4_Resources_Open Innovation_19",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": {
+    "new_this_run": [],
+    "preexisting_verified": [
+      "WIKI/sources/Rewet Principles v10.07.25.pdf.md",
+      "WIKI/sources/Rewet Principles.docx.md",
+      "WIKI/sources/Rewet Principles.pdf.md",
+      "WIKI/sources/Stakeholder Report-Out.pptx.md",
+      "WIKI/sources/Product Team Report-Outs.pptx.md",
+      "WIKI/sources/Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+      "WIKI/sources/Liner Surge Evolution.pptx.md",
+      "WIKI/sources/Hypothesis Map.xlsx.md",
+      "WIKI/sources/04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+      "WIKI/sources/2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md"
+    ],
+    "frontmatter_sourcepath_corrected_to_batch_src": [
+      "Rewet Principles.docx.md",
+      "Stakeholder Report-Out.pptx.md",
+      "Product Team Report-Outs.pptx.md",
+      "Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx.md",
+      "Liner Surge Evolution.pptx.md",
+      "Rewet Principles.pdf.md",
+      "Hypothesis Map.xlsx.md",
+      "04_B-CNF细菌纤维素纳米纤维技术研究报告.md.md",
+      "2026.04.21 - Capillarity Expansion - Raegan Informal.pptx.md",
+      "Rewet Principles v10.07.25.pdf.md"
+    ]
+  },
+  "concept_pages": { "new_this_run": [], "preexisting_verified": [] },
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "WIKI/entities/GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/Intake System（摄入系统）.md （含 5 处 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/BSL Tier Differentiation（面层分档与产品档位差异化）.md （已核实存在）",
+    "WIKI/concepts/细菌纳米纤维素.md （已核实存在）",
+    "WIKI/concepts/Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）.md （已核实存在）"
+  ],
+  "manual_review": 0,
+  "notes": "复核轮（2026-09-29 第二代理）结论：前代理（冻结轮）的 10/10 source 页**实际均已落盘**且内容完整（22-67 行/页，Rewet Principles 三载体为 slim 交叉引用页属正常设计）。唯一系统性缺陷：source 页 front matter 的 source_path 写成 RAW_FULL/ 前缀（而非批单 src 的 RAW/ 前缀），导致按 src 精确查重时 10 项被判缺失。本轮未重编译、未覆盖任何页面，仅将 10 页 source_path 一字不改校正为批单 src，使 10/10 全部通过 src 精确登记校验。派生页追加记录核实存在。"
+}

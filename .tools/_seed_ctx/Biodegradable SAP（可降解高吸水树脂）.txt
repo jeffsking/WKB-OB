@@ -1,0 +1,101 @@
+# SEED: Biodegradable SAP（可降解高吸水树脂）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 90 页，141 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]]  (3 句)
+   • A fuller English panorama report (market overview → new-product matrix → structure → materials → frontier R&D → roadmap). Richest single source for the China-market, probiotic-topsheet, fluff-free-core, and biodegradable-materials concept pages.
+   • **中国市场规模约700亿、CAGR 8-10%，国产替代加速** —— 支撑页：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）
+- **益生菌/弱酸护肤面层是高端价格带核心驱动** —— 支撑页：Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+- **无木浆第四代芯体量产，薄+强+绿成高端标配** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **PLA/PPC 可降解 2026 临界点，从小众走向主流** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   • 概念：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- 对比：China vs Korea Diaper Market（中韩纸尿裤市场对比）
+
+--- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]  (3 句)
+   • Peer-reviewed journal article that benchmarks a **citric-acid–crosslinked cellulose superabsorbent hydrogel (SAH)** head-to-head against commercial sodium-polyacrylate SAP in both DI water and 0.9 % saline — the library's cleanest **saline-based performance comparison** for the biodegradable-SAP route.
+   • **The advantage is saline-specific, not universal** — in DI water the commercial polyacrylate is ~3.6× better, but in 0.9 % saline the CA-crosslinked cellulose hydrogel slightly exceeds it. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Low crosslinker loading (1.5 %) is the claimed novelty** — it maximises swelling while minimising crosslinker consumption. → Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+- **Saline performance hinges on ion shielding** — Na⁺ from the medium sc
+   • Concepts 概念：Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）、Biodegradable SAP（可降解高吸水树脂）、SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）
+- Entity 实体：University of Waterloo（滑铁卢大学）
+- Comparison 对比：Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）
+
+--- [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]]  (3 句)
+   • A 2010 university application for a **CMC / acrylic / organo-modified-montmorillonite nanocomposite superabsorbent**（羧甲基纤维素-丙烯酸类-有机蒙脱土纳米复合树脂）made by in-situ intercalation grafting — the earliest "clay-reinforced biodegradable SAP" anchor in this batch, and its **130 g/g saline uptake + 13× gel strength** pair is the strongest published-cellulose-SAP number set in the library so far. 立足农用保水剂，但其「无机纳米片层补强凝胶强度」机理对芯体用纤维素基 SAP 有直接参考价值。
+   • **无机纳米片层补强是凝胶强度 13 倍的归因**——与 SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体） 的「纳米纤丝嵌入网络提凝胶强度」属同一机理家族（刚性纳米相增强弱凝胶） → 蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）
+- **AMPS 在 2010 年的农用 SAR 里已是耐盐标配**，与本批 CN120285261A（芯层 AMPS 改性剂）、CN117024899A（AMPS 类功能单体）构成跨年度证据链 → AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体
+- **CMC/蒙脱土替代部分丙烯酸 = 成本论点**，是纤维素基 SAP 经济性叙事的早期模板 → Biodegradable SAP（可降解高吸水树脂）
+   • Concept 概念：蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）、AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体、Biodegradable SAP（可降解高吸水树脂）
+- Entity 实体：陕西科技大学
+
+--- [[CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）]]  (3 句)
+   • A **granted** patent（已授权，B 公告 2023-01-10）from the same CNP&PRI team（李焕焕/毛萃/孟凡锦，与 CN 117024899 A 同团队）claiming a **dual-additive biodegradable SAP**：纳米纤维素补强度 + 可降解天然高分子供降解，用添加量把「降解率 vs 机械强度」的两难拆开。对本库是**可降解 SAP 专利链中首件已授权且带分组降解数据**的锚点。
+   • **「NC 补强度 + 天然高分子供降解」的双组分分工**是相对既有可降解 SAP 路线的差异化主张 → 可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）
+- **降解率可调且吸收代价可控**（Ex.1 vs Ex.2：降解 25%→80%、吸收仅 -2.4 g/g） → Biodegradable SAP（可降解高吸水树脂）
+- **同一团队的 CN 117024899 A（抗菌除臭 SAP）与本件共享纳米纤维素表面化学**，可视为该院「功能化 SAP」系列的两件 → China National Pulp and Paper Research Institute（中国制浆造纸研究院）
+   • Concept 概念：可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）、Biodegradable SAP（可降解高吸水树脂）、AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体、SAP（高吸水树脂）
+- Entity 实体：China National Pulp and Paper Research Institute（中国制浆造纸研究院）
+
+--- [[CN 112851860 A（可降解的纤维素-聚丙烯酰胺复合保水剂和制备方法·杭州所予科技）]]  (3 句)
+   • A startup application（初创公司申请）claiming a **covalently grafted cellulose-PAM superabsorbent**（纤维素-聚丙烯酰胺化学接枝网络）whose cellulose backbone makes the whole network biodegradable. 对本库的意义：这是「可降解高吸水材料」专利证据链中**接枝聚合路线**的代表（对比物理共混路线），但**口径是土壤保水剂而非卫生芯体**。
+   • **接枝聚合 vs 物理共混是本申请的核心对比轴**——申请人主张化学键交联网络「结构稳定性与保水性更强」→ Biodegradable SAP（可降解高吸水树脂）
+- **可降解性的实现方式是「可降解组分同时是结构组分」**——与海降 SAP 报告中的三维水凝胶-可溶粒子体系属两条不同降解路线 → SAP（高吸水树脂）
+- **ATRP 需多步有机溶剂工艺（丙酮/DMF/THF、CuBr）**，与卫材 SAP 工业化水溶液连续聚合工艺差距大，成本与安全需另评 → Biodegradable SAP（可降解高吸水树脂）
+   • Concept 概念：Biodegradable SAP（可降解高吸水树脂）、纳米纤维素（CNC、CNF、BNC）、SAP（高吸水树脂）
+
+--- [[Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径）]]  (3 句)
+   • The article frames the industry's shift from basic protection to a **systematic solution** built on four converging drivers. **Driver 1 — consumer value shift**: Gen-Z parents want green + smart + premium; they pay **20-30% premium** for biodegradable/plant-based and expect IoT wetness sensors (module cost forecast to fall from RMB 23-66 to 5-15 in 5 yrs). **Driver 2 — tech acceleration**: SAP moves to bio-based (bioSAP, carbon −15-25% but +20-50% cost) and functionalized; PLA fiber reaches full
+   • **绿色/智能/高端三位一体成为创新直接拉力** —— 支撑页：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）
+- **生物基 SAP 环保但成本溢价仍高，规模效应是关键** —— 支撑页：Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+- **无木浆第四代芯体 + 超声波工艺是确定性降本增效路径** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+   • 概念：China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）、Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）、Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+
+--- [[IMA 知识库索引（2026-09-18）]]  (3 句)
+   • The snapshot reports 471 cumulative entries and 7 additions. The week’s material includes a supplier data sheet for a biodegradable spinning compound, an internal decision matrix comparing candidate core materials against a sheath baseline, a four-component diaper performance-and-test-method consolidation, and project-management artifacts covering an OI project list and a resource-planning meeting. The index captures a period in which degradable air-through nonwoven architecture was explored in 
+   • **Sheath–core architecture decisions were extended into degradable material systems.（皮芯架构决策被扩展到可降解材料体系。）** — related page: 皮芯复合纤维.
+- **Component-level performance and test-method consolidation became a governance asset.（组件级性能与测试方法整合成为治理资产。）** — related page: 芯体测试方法与验收基准（STM）.
+- **Biodegradable and bio-based diaper materials were established as a parallel route family.（可降解与生物基卫材材料被确立为并行路线族。）** — related page: Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）.
+   • Concepts 概念：皮芯复合纤维, 芯体测试方法与验收基准（STM）, Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+
+--- [[Manufactured Fibre Technology Ch20 Reuse of Polymer and Fibre Waste]]  (3 句)
+   • **Recycling 回收**：[p.595] "Recycling of thermoplastics ... has therefore become a subject of vital importance"，几乎所有合成纤维均不可生物降解（non-biodegradable），废料处置已成严峻环境问题 [p.595]。
+- **Re-extrusion 再挤出**：[p.598] 将低损伤洁净废丝重新熔融造粒以回收可纺聚合物。
+- **Depolymerization 解聚**：[p.604] 将聚酯废料裂解为单体（DMT、EG、TPA）的化学过程。
+- **Glycolysis 醇解**：[p.606] "Poly(ethylene terephthalate) dissolves in boiling glycol ... oligomers of ethylene terephthalate are obtained."
+- **Caprolactam 己内酰胺**：[p.618] 尼龙6 解聚回收的单体，需满足高锰酸钾值（Pm no.）等规格。
+- **Saponi
+   • **PP 回收的凝胶瓶颈（对 REL 最有用的一条）** [p.627]：再生 PP 的 gel count 由 20–30 升至数百至数千，源于热氧降解（tertiary carbon 弱点，见 Manufactured Fibre Technology Ch16 Polypropylene Fibres）。这直接决定了卫材纺粘/熔喷边角料回用的可行性边界——回用料掺入比例受凝胶导致的断丝、喷丝板堵塞与纤网疵点限制，且熔体流动行为的漂移可用 MFI 与降解指标监控，见 熔融指数与化学降解。
+- **腈纶废料制吸水剂** [p.627–629]：20.6 节"交联废料作吸水剂"是本章唯一触及吸水材料的一节，与 Biodegradable SAP（可降解高吸水树脂） 的技术谱系有一线关联；但本章为 1997 年前的专利汇编，具体吸水倍率与工艺参数未给出 [待验证]，不宜直接引为 SAP 设计依据。皂化产物作增稠剂的路线与卫材无交集。
+- **不相关部分（如实说明）**：PET 的甲醇醇解/醇解/水解、尼龙6 己内酰胺回收、尼龙66 水解三条路线，面向瓶片与地毯/工业丝废料，与 REL 超
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres — PP 聚集态结构与热氧降解的制造端对应
+- Manufactured Fibre Technology Ch15 Acrylic Fibres — 20.6 节腈纶废料的纤维制造端对应
+- 熔融指数与化学降解 — PP 回用中 MFI 漂移与降解的监控指标
+- Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料） — 卫材可持续转型的 REL 侧资料
+- Biodegradable SAP（可降解高吸水树脂） — 腈纶交联废料制吸水剂的现代对照
+
+--- [[可降解生物基材料与薄且强芯体技术深度解析]]  (3 句)
+   • A 2026-04 survey of biodegradable/bio-based materials and thin-and-strong core technology: material matrix, domestic company progress, core-technology decomposition, and industrialisation bottlenecks with named fixes. （中文：可降解/生物基材料与薄且强芯体技术深度调研——材料矩阵、国内企业进展、芯体技术拆解与产业化瓶颈。）
+   • 1. **Thin and green are the same engineering problem 薄与绿是同一个工程问题** — 无木浆化靠蓬松无纺布基材 + 热风穿刺固结，可降解化靠 PLA/PPC 基材，二者共用同一套「基材替代」逻辑。
+2. **PLA's blocker is processing, not polymerisation PLA 的瓶颈在加工而非聚合** — 成本 +30–50% 与热轧收缩硬化，后者已有明确工艺解（四辊轧机 120–130 °C 分段控温）。
+3. **PPC is the only natural-condition route PPC 是唯一的自然条件降解路线** — 其余多数需工业堆肥，这决定了底膜可降解化的材料选择，见 Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）。
+4. **Thinning creates SAP migration 变薄带来 SAP 移位** — 固结（热风穿刺熔融）与分层导流是配套手段，不能只减厚度，见 Fluff-Free 4th-Gen
+   • Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体） — 四模块拆解与五层叠加专利落点。
+- Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料） — 材料矩阵与降解周期落点。
+- 热风粘合无纺布 — 热风蓬松基材与热风穿刺熔融固结落点。
+- Biodegradable SAP（可降解高吸水树脂） — SAP 生物基化瓶颈落点。
+
+--- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]  (3 句)
+   • Chitosan is positioned here as a **bio-based functional material whose value is antibacterial + skin-friendly + biodegradable**, rather than an absorbent. For diapers the realistic entry point is the **skin-contact topsheet** (and active-care positioning), not the core — consistent with its modest absorbency role in the literature cited.
+   • 1. **Antibacterial is the selling point, not absorbency 卖点是抗菌而非吸水** — 壳聚糖的卫材价值在天然抑菌 + 亲肤 + 可降解；吸收性能需通过与 PET 纤维/丙烯酸体系复合获得。
+2. **Topsheet before core 先面层后芯体** — 亲肤面层是壳聚糖最合理的切入点，与 Probiotic & Skin-Care Topsheet（益生菌护肤面层） 的「主动护理」定位同向。
+3. **Gel-on-fibre is the practical route 凝胶附着是可行路线** — 热喷粘附把功能凝胶固定在既有纤维（PET）上，避免壳聚糖单独成纤的强度与成本问题。
+4. **Three-layer design fixes the breathability conflict 三层结构解决透气冲突** — 高透气表皮 + 抗菌吸水芯，直接针对「吸水后不透气」；木棉 160° 接触角是该设计的关键材料手段。
+5. **Feedstock drives cost 原料驱动成本** — 虾蟹壳等工农业副产品 +
+   • Chitosan Fibre（壳聚糖纤维） — 本批新建的概念页，承载特性、工艺与位点。
+- Probiotic & Skin-Care Topsheet（益生菌护肤面层） — 主动护理面层定位。
+- Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料） — 生物基/可降解材料体系。
+- 抗菌整理定量测试（AATCC TM100 _ AATCC 100） — 抗菌效果的定量测试口径。
+

@@ -1,0 +1,104 @@
+# SEED: BSL Tier Differentiation（面层分档与产品档位差异化）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 83 页，108 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (5 句)
+   • 1. **Is BSL tier differentiation important to this brand for product tier differentiation?**（面层分档对该品牌的档位差异化是否重要？）
+2. **What would that look like? (Cues, functionality, etc.)**（那会长什么样？线索、功能……）
+3. **How much interest is there to address common BSL barriers to product tier differentiation? (Cost, process, etc.)**（有多大意愿去解决**共性障碍**——成本、工序……）
+   • **重要性**：*Yes, for competitive advantage*（是，为取得竞争优势）。
+  - *"POISE Originals will need to **beat Equate** for preference."*
+  - *"POISE UT & Originals need to offer the **same features** (other than thickness). Currently in same tier."*
+- **现状**：*"**Off track** on Poise Originals, with trickle effects on GFM (GN inserts discontinued)."*
+- **机会**：立即修 POISE Original 面层；*"Can we afford more expensive materials? **Note: Equate is already doing that.**"*；若 **ActivTech 2.0 for POISE** 获批，与 POISE UT 的诉求联
+   • **重要性**：*Yes, sort of*。*"New Leaf to be the most comfortable"*；*"BSL is not a key focus right now."*
+- ⚠️ **3/23/23 变更**：*"**TOOTSIE ROLL** considering **eliminating this liner differentiation**, hypothesizing **OC is the primary differentiation need**."*
+- **现状**：New Leaf **on track**，其余 **off track but OK**。
+- **机会**：TBD/未来 —— *Wetness feel*、*fit & feel like underwear*（是否不止底盘？）
+- **风险**：*"Haven't tested vs. **Easy Ups** in while (scorecard)."*
+- **障碍**：柔软度的工序能力（**尤其是粘合**）。
+   • **重要性**：Yes。*"UBK hypothesized that **BSL change on CleanWear was one of reasons for share loss**. **LORI** gets us back on track."*
+- **现状**：*Off track on SP, but LORI gets us back on track*。
+- **机会方向**：
+  - **Feel clean & dry**：*"Key focus area that BSL could support. However, **knowledge gaps exist on the cues that convey clean & dry** for UBK consumer targets."*
+  - ⚠️ *"consumers picked up on **softness & dryness** of better stain masking liners, **not directly the stain masking benefit**"*
+
+--- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]  (5 句)
+   • The problem framing is explicit: diaper microclimate (heat and humidity) drives skin irritation, caregivers lack a visible cue for "when to act"; a consumer-visible reason-to-believe (RTB) for thermal comfort / wetness is differentiation beyond basic absorbency; existing wetness indicators show "wet" only and do **not** signal thermal comfort or humidity accumulation. Success is bounded — any solution must show measured benefit in **both** dry and wet states with no unacceptable trade-off on abs
+   • Mechanisms: thermochromic systems are **reversible leuco-dye microcapsules** (leuco dye + developer + solvent, stable below threshold, electron transfer / phase change at or above threshold, reversible on cooling) with a customisable 30–37 °C activation band and representative display points 32/34/36 °C; hydrochromic systems trigger on **liquid contact** (far more realistic than a true RH sensor). For MVP the review prefers the hot-melt route and treats water-based ink as the phase-2 differentia
+   • **Sequencing rule**: do NOT replace the existing wetness indicator — use it as differentiation learning; the combo (C) only after single-function validation, and fall back to single-function if the misread rate is high.
+- **MVP A acceptance**: stable repeatable colour in band; ≥70% correctly read "too hot / too cold / just right"; no curl / blocking / set-off / smudge; readable after 40 °C / 75% RH for 1 week.
+- **MVP B acceptance**: stable colour after a set insult; caregivers distinguish it fr
+   • **International (8 ranked by hygiene fit)**: CTI (Chromatic Technologies, USA) thermo/photo/hydro full range — primary thermo; Matsui Shikiso (Japan) thermo/photo leader (Chromicolor / Thermolock) — primary thermo with a formaldehyde caution; Bostik (Arkema, France) hot-melt wetness glue (90% bio-based) — primary wet; Henkel (Germany) TECHNOMELT — primary wet; H.B. Fuller (USA) Full-Care — primary wet; Intellego Technologies (Sweden) photochromic wetness indicator; OliKrom (France) custom thermo
+
+--- [[Probiotic & Skin-Care Topsheet（益生菌护肤面层）]]  (3 句)
+   • 竹纤维线（tier 7）施加**柠檬酸**，理由明确是**"因为它来源于自然"** —— 即成分选择服务于**宣称逻辑**，而非性能最优。
+- 配套做法：叠加易获取的品类认证，与竹纤维品牌叙事一致。
+- 竹纤维添加量：实际 **5–5.5%**（研究建议 20%）；竹纤维在消费者认知中"不知为何"被视为比一般 natural 更 premium，故阶位由 6.5 上调至 **7**。
+   • **tier 8 的宣称策略（本批新增）**：**不宣称成分**（如氧化锌），只宣称**功效/保护** —— 概念测试中对成分宣称的反馈不佳。会中归纳的三个支点为：① 基于临床/电视研究；② 柔软（因所用材料）；③ 抗菌/抗刺激。
+   • China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026） —— 
+- New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025） —— 
+- China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图） ——
+
+--- [[BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx]]  (3 句)
+   • A 2022-Q3 China domestic diaper & pants bill-of-materials (BOM) workbook that breaks every tier (T7→T3.5) and size down into material category, grade, supplier and unit price — a procurement baseline for the Open Innovation cost work.（一份 2022 Q3 中国区纸尿裤/拉拉裤分档 BOM，逐档逐码拆解物料、牌号、供应商与单价，是开放创新成本工作的底表。）
+   • The workbook is a line-item BOM covering Domestic Diaper (OD) and Domestic Pants (PDP/MDP) across tiers T7, T6, T5.8, T5.5, T5.4, T5.2, T5, T4.5, T4, T3.5 and sizes NB/S/M/L/XL/XXL/XXXL.（工作簿为逐行 BOM，覆盖 T7 至 T3.5 各档与 NB–XXXL 各码。）
+- Chassis materials include Out cover (外层无纺布), Liner (面层), Liner/Poly Side Wrapsheet (上/下包裹), Waist band NW (弹性腰围无纺布), Flap (折页), Inner/Outer Panel (内/外腰围), plus SAP (吸水粉) and adhesives (EA elastic ad / CA cons ad).（底材含外覆、面层、上/下包裹、弹性腰围、折页、内/外腰围，以及 SAP 与胶黏剂。）
+- Vendors obs
+   • China diaper BOM is tier-graded: premium T7 uses higher-priced topsheet/cover grades than value T3.5.（中国区 BOM 按档分级：高端 T7 面层/外覆牌号单价高于入门 T3.5。）
+- 诺尔/Nuoer 511 is the lowest-priced SAP in this BOM, used broadly across tiers.（诺尔 511 是本表最低价 SAP，跨档广泛使用。）—— 支撑页：诺尔（Nuoer）、SAP（高吸水树脂）
+
+--- [[纳米纤维素供应商拜访计划 V3.1（2026Q2）]]  (3 句)
+   • A CTO-facing supplier visit programme covering 16 suppliers across six frontier material domains (PLA/PPC 可降解、生物基 SAP、CNF/BC 纳米纤维素、BC 微凝胶、SSMMS 五层复合、智能感知 IoT), compiled from seven IMA technical reports plus public registry and news retrieval. （中文：面向 CTO 的供应商拜访计划，覆盖 6 大前沿材料领域、16 家供应商，数据来自 IMA 知识库 7 篇技术报告全文 + 公开工商/新闻检索。）
+   • The plan also contains a global benchmarking layer (NatureWorks / TotalEnergies Corbion / 丰原 for PLA; Nippon Shokubai / BASF / Evonik / Sumitomo for SAP; CelluForce / Borregaard / Nippon Paper for nanocellulose; Ontex / P&G for smart diapers) and a three-tier strategic recommendation (Tier 1 立即行动, Tier 2 积极跟踪, Tier 3 技术储备).
+   • 1. **Nanocellulose is a reinforcement lever, not yet a cost lever 纳米纤维素当前是增强杠杆而非成本杠杆** — 1–10 wt% CNF delivers 20–100% tensile and 30–200% modulus gains, but the energy route (TEMPO 1–5 vs 30–50 kWh/kg) is what decides whether it becomes affordable; see 纳米纤维素（CNC、CNF、BNC） and 三类纳米纤维素对比（CNC、CNF、BNC）.
+2. **BC is high-purity but long-cycle 细菌纤维素高纯度但周期长** — >99% purity, 84–89% crystallinity and 200–1000× water uptake at 28–30 °C, yet 7–14 天静置周期 dominates cost; the 10:90 BC/壳聚糖 microgel route shows h
+
+--- [[Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）]]  (2 句)
+   • **环保价值 ≠ 零成本**：front-edge green materials (PLA, bioSAP) still carry a premium; bioSAP costs **+20~50%** vs conventional SAP, carbon footprint **−15~25%**. Scale effect is the unlock.
+- **高端消化溢价**：Hengan (恒安) already runs **70-80% degradable-material ratio** — proof the premium tier can absorb the cost.
+- **2025-2026 临界点**：Levima PPC commissioning + HaoYue PLA core mass production → degradable moves from niche to mainstream.
+   • China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图） —— 
+- China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026） —— 
+- China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026） —— 
+- Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径） —— 
+- 纳米纤维素供应商拜访计划 V3.1（2026Q2） ——
+
+--- [[Diaper Premiumization（纸尿裤高端化）]]  (2 句)
+   • 1. **Tier architecture（层级架构）**：offer a structured price ladder so consumers self-select trade-ups as willingness/ability to pay rises (e.g. Huggies' tier 4 → tier 8, with natural-skin and dry-comfort pillars).
+2. **Functional proof（功能证据）**：premium claims must be demonstrable (skin-health tech, "3°C cooler" liner, overnight dryness) — brand equity is built on credibility, not slogans.
+3. **Occasion-based marketing（场景营销）**：seasonal/sub-brand SKUs (summer +5~10% price) capture share and realize pri
+   • Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局） —— 
+- China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图） —— 
+- China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026） ——
+
+--- [[Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）]]  (2 句)
+   • 1. **1st gen 传统木浆芯体**：fluff pulp + SAP — thick, clumps, breaks after absorption.
+2. **2nd gen 复合芯体**：airlaid + nonwoven + SAP — less clumping, but slow uptake & uneven SAP use.
+3. **3rd gen 无木浆多维复合芯体**：hot-air tufted nonwoven + SAP — thin, no break, but strength challenge at extreme thinness.
+4. **4th gen 智能导流+功能复合芯体**：U-shaped/hetero-cut channels + antibacterial/skincare integration — current frontier: **thin + strong + multi-function**.
+   • China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图） —— 
+- China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026） —— 
+- China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026） —— 
+- Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径） —— 
+- New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025） —— 
+- 纸尿裤的核心结构及市场主流方向 ——
+
+--- [[Wetness Indicator Glue]]  (2 句)
+   • 1. **It runs on existing converting lines** — no new printing step, no new substrate, so pilot risk is the lowest of the three routes.（直接跑在现有转化线上——无新增印刷工序与基材，因此三条路线中试风险最低。）
+2. **The trigger is physically realistic**：liquid contact, not a true relative-humidity sensor. The review explicitly states liquid-contact triggering is "far more realistic than a true RH sensor".（触发方式物理上是现实的：液体接触，而非真正的相对湿度传感器；原文明确"液体接触触发远较真正 RH 传感器现实"。）
+3. **It is mature and de-risked**：84.1% of global wetness-indicator pro
+   • Hot-melt glue is irreversible and signals *that* wetness has occurred; water-based hydro ink can be designed reversible and would signal *how wet* it currently is. The trade-off is a **cost delta of roughly 2–3× (water-based ink vs hot-melt glue)**, which the deck says must be justified by consumer-test differentiation lift.（热熔胶不可逆，示意"已经湿了"；水基湿致油墨可设计为可逆，示意"当前湿量"。代价是约 **2–3 倍的成本差**，须由消费者测试的差异化提升来证明其合理性。）
+
+--- [[CTI (Chromatic Technologies)]]  (2 句)
+   • **2026-08 / 2026-09**（本批 Thermal Comfort 资料）：
+  - 在 Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) 的国际供应商表中列为 **★ Primary (thermo)**，能力项 "Thermo / photo / hydro full range"；
+  - Tiering 口径为 **Tier-1 primary contact**（一级接触）；
+  - **场景化选择**：温敏 MVP → **CTI + Matsui（定制温带）**；复合方案（温+湿）→ **CTI（温）+ Bostik（湿）**。
+- **在 Diaper Microclimate Visualization Feasibility (Dual-MVP) 中**：同样归入 "Thermochromic Specialists"，备注为 "**Full spectrum, requires diaper customization**"（全谱系，但需按尿裤场景定制
+   • **2026-09-17（供应商台账）**：CTI 出现在**三条舒适调节指示器线**（Hydrochromic / Thermochromic / Mechanochromic）的候选池中；力致变色方向的池内另有 Henan Jiayida（河南嘉亿达）。
+- **2026-09-18（重构版）**：**OI-15 热致变色**（Medium / In progress，'Conditional GO' Dual-MVP）候选池含 CTI；**OI-17 力致变色**（Medium，概念研究完成 GO，~0.09¢/pant、ΔE*ab >18、全可逆）的候选为 Jiayida 与 CTI 两家。
+- **2026-09-17（大纲 P20–P24）**：供应商分级——**Bostik pH 指示剂热熔胶 ★★★★★（行业标杆）、Henkel ★★★★☆、H.B. Fuller ★★★★☆、3M（无卤）★★★★☆、千色变 ★★☆☆☆**；**温变 MVP 首选 CTI + Matsui（定制）**；**力致变色主选 CTI 食品接触级油墨，Tier 2 为河南佳易达，IP 收购标的为
+

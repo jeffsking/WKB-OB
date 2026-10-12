@@ -1,0 +1,20 @@
+{
+ "stage": "S1",
+ "block": "Projects/BNC",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md",
+   "name": "05_材料合作分析模板_v2_痛点倒推法.md.md",
+   "title_hint": "05_材料合作分析模板_v2_痛点倒推法.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md",
+   "name": "06_BNC应用红线修订说明_20260905.md.md",
+   "title_hint": "06_BNC应用红线修订说明_20260905.md"
+  }
+ ]
+}

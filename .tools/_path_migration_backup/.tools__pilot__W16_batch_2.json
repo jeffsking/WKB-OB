@@ -1,0 +1,65 @@
+{
+ "batch_id": "W16-2",
+ "items": [
+  {
+   "media_id": "word_e5656dbc3d0f2888096a8b56b414d9fc_fa2d4c1051255a8b06130cd5e5a84f3a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/Adhesive/Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md",
+   "name": "Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_252f272a3e45a5491a16753145d0ca4a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/Nonwoven/CoPET_PET与PE_PET成本差异对比_v3.xlsx.md",
+   "name": "CoPET_PET与PE_PET成本差异对比_v3.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_7c55432db516c6b3b0a18dd5c64cb93c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/BUFF BABY DOE - January 2024.jmp.md",
+   "name": "BUFF BABY DOE - January 2024.jmp.md",
+   "type": "soundrecording"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_59941733dd5231e5d8dfeca11e39e007001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析数据.xlsx.md",
+   "name": "SAM_511_分析数据.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_a6d9df3a6fe80a8c4d35807669b8358b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨供应商综合技术联系表.xlsx.md",
+   "name": "变色油墨供应商综合技术联系表.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_cd7a3294162f839dfbd3068efb26c37c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素综述.md.md",
+   "name": "纳米纤维素综述.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_7e6d202cf914a31f90b0a9e895b5d4f6001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline.pptx.md",
+   "name": "Intake Systems Tech Pipeline.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_c8a64ab0183b8f9aa17c1e1ec4788ed4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/SAP选型策略与实验数据综合分析_20260721.docx.md",
+   "name": "SAP选型策略与实验数据综合分析_20260721.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_d1f57beef9a9560b2d1a10e3ffa6431b001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访会议纪要_含流程图.docx.md",
+   "name": "诺尔集团供应商拜访会议纪要_含流程图.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_90420bb6f969e42bccef8f556600c831001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Rewet Competitive Analysis 9-11-25-1.pptx.md",
+   "name": "Rewet Competitive Analysis 9-11-25-1.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

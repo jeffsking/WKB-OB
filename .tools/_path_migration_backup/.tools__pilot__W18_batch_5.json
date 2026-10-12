@@ -1,0 +1,47 @@
+{
+ "batch_id": "W18-5",
+ "items": [
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_9c1514e767def92735b46eed1b364b45001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/Document.docx.md",
+   "name": "Document.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_f5950a1f3ec854198489eeb69343a480001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/纸尿裤材料必读书单_v1.xlsx.md",
+   "name": "纸尿裤材料必读书单_v1.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_ffb801a95e3827a13943cd60bda0a930001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_04 01252021 Single Void Training Deck.pptx.md",
+   "name": "_04 01252021 Single Void Training Deck.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_0a0c4b19c2f4c084fcc3aceefeb7b5bf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Absorbency Core/_06 SAM training (Mar 2021).pptx.md",
+   "name": "_06 SAM training (Mar 2021).pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1e5971f18257d6ed79b93cb09edf2921001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Product Drawings 101 (KC Sept2025)/Product_Drawings_101_Sept2025_ch4_3D_Viewer_拆解报告.md.md",
+   "name": "Product_Drawings_101_Sept2025_ch4_3D_Viewer_拆解报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_141c65e34082bdb31ccef6cc6ed35595001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Adhesive Materials & Equipment - 101.pptx.md",
+   "name": "Adhesive Materials & Equipment - 101.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_423d07d8ceb6a9e76d9463b72e325444001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Training/Pants/Product Drawings 101_Sept2025.pptx.md",
+   "name": "Product Drawings 101_Sept2025.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

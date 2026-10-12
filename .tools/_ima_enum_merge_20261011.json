@@ -1,0 +1,64 @@
+{
+  "root": [],
+  "items": [
+    {
+      "kb_path": "NIFO参观速查卡_一页纸.pdf",
+      "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_01a12af47e4e78239acf8b94d561924e001a693ee6c0644e",
+      "media_type": 1,
+      "title": "NIFO参观速查卡_一页纸.pdf",
+      "media_state": 2,
+      "create_time": "1791722028906",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "kb_path": "NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012.docx",
+      "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a12af49e227d64bf4797083caa7b2b001a693ee6c0644e",
+      "media_type": 3,
+      "title": "NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012.docx",
+      "media_state": 2,
+      "create_time": "1791722036930",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "img_3867e2b60070d7dc3f413086d0b0036e_ac232596bfffc384dd7f2350c212b71e001a693ee6c0644e",
+      "media_type": 9,
+      "title": "COCO_V6_全Code关键参数总览_vsControl2_20261010.png",
+      "create_time": "1791733616525",
+      "kb_path": "ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_全Code关键参数总览_vsControl2_20261010.png.md",
+      "parent_folder_id": "folder_7504046193648820"
+    },
+    {
+      "media_id": "img_3867e2b60070d7dc3f413086d0b0036e_d661d766ba03fc4fb2516334a8a488db001a693ee6c0644e",
+      "media_type": 9,
+      "title": "COCO_V6_全Code关键参数横向条形对比_vsControl2_20261010.png",
+      "create_time": "1791733619657",
+      "kb_path": "ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261010.png.md",
+      "parent_folder_id": "folder_7504046193648820"
+    },
+    {
+      "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_d9f4ba6d59ece125eadd18a003c6293b001a693ee6c0644e",
+      "media_type": 5,
+      "title": "COCO_V6_第三轮trial_两组对照分析_20261010.xlsx",
+      "create_time": "1791733613551",
+      "kb_path": "ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析_20261010.xlsx.md",
+      "parent_folder_id": "folder_7504046193648820"
+    },
+    {
+      "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6283ef9272a3726d8025b429878ac198001a693ee6c0644e",
+      "media_type": 7,
+      "title": "COCO_V6_第三轮trial_两组对照分析报告_20261010.md",
+      "create_time": "1791733606781",
+      "kb_path": "ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析报告_20261010.md.md",
+      "parent_folder_id": "folder_7504046193648820"
+    },
+    {
+      "media_id": "html_3867e2b60070d7dc3f413086d0b0036e_48919c049dd3ce35f50cfd6d2668925b001a693ee6c0644e",
+      "media_type": 20,
+      "title": "COCO_V6_第三轮trial_两组对照分析报告_20261010.html",
+      "create_time": "1791733610341",
+      "kb_path": "ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析报告_20261010.html.md",
+      "parent_folder_id": "folder_7504046193648820"
+    }
+  ],
+  "folders": []
+}

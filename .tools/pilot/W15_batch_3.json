@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15-3",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_51a0318c2a29551135623f4b40f8d9d4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Questions and Concerns against the 1st draft.pptx.md",
+   "name": "Questions and Concerns against the 1st draft.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_a9a9dc6ce09a1193a4cb1fac107c873f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/柔性可拉伸电子_IMEC_拆解.md.md",
+   "name": "柔性可拉伸电子_IMEC_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_d9e6b3c5a2bcec430e013f46692bb786001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Stimuli_Responsive_Photonic_Coatings/Photonic_Coatings_深度拆解.md.md",
+   "name": "Photonic_Coatings_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_28b37bb917686d0345d44fb867b58e24001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Liquid_Crystalline_Polymers_for_Smart_Ap.pdf.md",
+   "name": "Liquid_Crystalline_Polymers_for_Smart_Ap.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_faeecb1c8e57f99ea247eb67b3071e02001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US5389093_温度型湿态指示_拆解.md.md",
+   "name": "US5389093_温度型湿态指示_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_17598dc1121592121db6e644dc4607f1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Preparation of a Mechanochromic Elastomer-ppt.pdf.md",
+   "name": "Preparation of a Mechanochromic Elastomer-ppt.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_cce23ebca24f8eaa30860257a6f77c3a001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/81-成型鼓ups选型计算.md.md",
+   "name": "81-成型鼓ups选型计算.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_784b30f8570753844d54b0441ceb2878001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Stimuli_responsive_photonic_polymer_coat.pdf.md",
+   "name": "Stimuli_responsive_photonic_polymer_coat.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a1891f0b426477fb595747af3838feda001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Thermoelectric_Phenomena_Materials_and_A.pdf.md",
+   "name": "Thermoelectric_Phenomena_Materials_and_A.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_b8b86b3b222e676c60b7ae3550f66f05001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/preview-Polypropylene Handbook.pdf.md",
+   "name": "preview-Polypropylene Handbook.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

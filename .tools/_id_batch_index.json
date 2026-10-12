@@ -1,0 +1,42 @@
+[
+  {
+    "batch": "idb_01",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_01.json"
+  },
+  {
+    "batch": "idb_02",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_02.json"
+  },
+  {
+    "batch": "idb_03",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_03.json"
+  },
+  {
+    "batch": "idb_04",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_04.json"
+  },
+  {
+    "batch": "idb_05",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_05.json"
+  },
+  {
+    "batch": "idb_06",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_06.json"
+  },
+  {
+    "batch": "idb_07",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_07.json"
+  },
+  {
+    "batch": "idb_08",
+    "n": 5,
+    "file": ".tools/compile_batches/idb_08.json"
+  }
+]

@@ -1,0 +1,318 @@
+{
+  "root": [
+    {
+      "media_id": "folder_7446577715112439",
+      "media_type": 99,
+      "title": "Archives",
+      "folder_info": {
+        "folder_id": "folder_7446577715112439",
+        "name": "Archives",
+        "file_number": "12",
+        "folder_number": "0",
+        "parent_folder_id": ""
+      }
+    },
+    {
+      "media_id": "folder_7446577555702299",
+      "media_type": 99,
+      "title": "Resources",
+      "folder_info": {
+        "folder_id": "folder_7446577555702299",
+        "name": "Resources",
+        "file_number": "6",
+        "folder_number": "6",
+        "parent_folder_id": ""
+      }
+    },
+    {
+      "media_id": "folder_7446577501179608",
+      "media_type": 99,
+      "title": "Areas",
+      "folder_info": {
+        "folder_id": "folder_7446577501179608",
+        "name": "Areas",
+        "file_number": "16",
+        "folder_number": "8",
+        "parent_folder_id": ""
+      }
+    },
+    {
+      "media_id": "folder_7446577425704361",
+      "media_type": 99,
+      "title": "Projects",
+      "folder_info": {
+        "folder_id": "folder_7446577425704361",
+        "name": "Projects",
+        "file_number": "19",
+        "folder_number": "12",
+        "parent_folder_id": ""
+      }
+    },
+    {
+      "media_id": "folder_7446576150638053",
+      "media_type": 99,
+      "title": "Inbox",
+      "folder_info": {
+        "folder_id": "folder_7446576150638053",
+        "name": "Inbox",
+        "file_number": "7",
+        "folder_number": "2",
+        "parent_folder_id": ""
+      }
+    }
+  ],
+  "items": [
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_d9dcf0d31f671856099892cf1f682987",
+      "media_type": 6,
+      "title": "涤纶市场研究与趋势研判",
+      "create_time": "1791702979758",
+      "kb_path": "涤纶市场研究与趋势研判.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_eb9251522cac0db9e906044b62d522ae",
+      "media_type": 6,
+      "title": "Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条",
+      "create_time": "1791702863946",
+      "kb_path": "Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_00ed849696dffe9a0b111601f6b798b7",
+      "media_type": 6,
+      "title": "可视化智能标签合集",
+      "create_time": "1791635624328",
+      "kb_path": "可视化智能标签合集.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_b9104314bd04e8d8f063bc0102529c6f",
+      "media_type": 6,
+      "title": "Leafclock焕新标，给健康多一份叮嘱（案例合集一）",
+      "create_time": "1791635585338",
+      "kb_path": "Leafclock焕新标，给健康多一份叮嘱（案例合集一）.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514131720577247",
+      "media_type": 11,
+      "title": "印刷技术总览（技术谱系）",
+      "create_time": "1791633888238",
+      "kb_path": "印刷技术总览（技术谱系）.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_656ed29530d9d409aaedf9f6c6b14a05001a693ee6c0644e",
+      "media_type": 4,
+      "title": "output.pptx",
+      "create_time": "1791633657558",
+      "kb_path": "output.pptx.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_2672a1fb03bcae8f8bb60db25b300084",
+      "media_type": 6,
+      "title": "温敏水凝胶负载AgNPs纳米银缓释体系定制",
+      "create_time": "1791613867079",
+      "kb_path": "温敏水凝胶负载AgNPs纳米银缓释体系定制.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6def89bf910e2eebee01a9fe36f38a47001a693ee6c0644e",
+      "media_type": 7,
+      "title": "IMA知识库索引_20261009.md",
+      "create_time": "1791538083570",
+      "kb_path": "IMA知识库索引_20261009.md.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514166931751435",
+      "media_type": 11,
+      "title": "OI团队会议-2026-2027项目与供应链建设",
+      "create_time": "1791528143854",
+      "kb_path": "OI团队会议-2026-2027项目与供应链建设.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a11eb39fbc7d628e60ff5f2a33a64e001a693ee6c0644e",
+      "media_type": 15,
+      "title": "Coco V6项目与供应链建设",
+      "create_time": "1791516451750",
+      "kb_path": "Coco V6项目与供应链建设.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514127706628285",
+      "media_type": 11,
+      "title": "会议纪要：TRY lite 橡筋规格选择讨论",
+      "create_time": "1791507917963",
+      "kb_path": "会议纪要：TRY lite 橡筋规格选择讨论.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514128608427948",
+      "media_type": 11,
+      "title": "会议纪要：OI 十月供应商考察与项目推进安排",
+      "create_time": "1791507912986",
+      "kb_path": "会议纪要：OI 十月供应商考察与项目推进安排.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a11e2b831176ccacdf457d7f2f36eb001a693ee6c0644e",
+      "media_type": 15,
+      "title": "橡筋规格选择讨论",
+      "create_time": "1791507531356",
+      "kb_path": "橡筋规格选择讨论.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7513847174797816",
+      "media_type": 11,
+      "title": "这个问题问得好——参数分级的逻辑本身就是本轮报告最值钱的设计...",
+      "create_time": "1791440779967",
+      "kb_path": "这个问题问得好——参数分级的逻辑本身就是本轮报告最值钱的设计....md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_93d03a7d289c8056eac3e2285e459cd4",
+      "media_type": 6,
+      "title": "又黏又弹：一文看懂高分子黏弹性的逻辑",
+      "create_time": "1791347664128",
+      "kb_path": "又黏又弹：一文看懂高分子黏弹性的逻辑.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1ce06a02c976dc99f6b85746dc484877001a693ee6c0644e",
+      "media_type": 7,
+      "title": "COCO_V6_第三轮trial_两组对照分析报告_20261006.md",
+      "create_time": "1791337811494",
+      "kb_path": "COCO_V6_第三轮trial_两组对照分析报告_20261006.md.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "img_3867e2b60070d7dc3f413086d0b0036e_31fa07b952ee9567426e9b2a76c19f02001a693ee6c0644e",
+      "media_type": 9,
+      "title": "COCO_V6_全Code关键参数总览_vsControl2_20261007.png",
+      "create_time": "1791337776005",
+      "kb_path": "COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "img_3867e2b60070d7dc3f413086d0b0036e_02e49cee1652a8bbc265d5a252943336001a693ee6c0644e",
+      "media_type": 9,
+      "title": "COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png",
+      "create_time": "1791337767979",
+      "kb_path": "COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md",
+      "parent_folder_id": "001a693ee6c0644e"
+    },
+    {
+      "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_063cd3c8c8285392bc7f053804bf225a",
+      "media_type": 6,
+      "title": "2025全球（中国）生物基材料产业情况",
+      "create_time": "1777981202293",
+      "kb_path": "Areas/2025全球（中国）生物基材料产业情况.md",
+      "parent_folder_id": "folder_7446577501179608"
+    }
+  ],
+  "_source": "MCP get_knowledge_list limit=50 sort=MEDIA_DESC @2026-10-11",
+  "_level": "root",
+  "folders": [
+    {
+      "media_id": "folder_7504546528001137",
+      "media_type": 99,
+      "title": "Areas/Test Method",
+      "folder_info": {
+        "folder_id": "folder_7504546528001137",
+        "name": "Test Method",
+        "file_number": "8",
+        "folder_number": "3",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7497100736602125",
+      "media_type": 99,
+      "title": "Areas/IP",
+      "folder_info": {
+        "folder_id": "folder_7497100736602125",
+        "name": "IP",
+        "file_number": "85",
+        "folder_number": "0",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7495728511326678",
+      "media_type": 99,
+      "title": "Areas/Supply Base",
+      "folder_info": {
+        "folder_id": "folder_7495728511326678",
+        "name": "Supply Base",
+        "file_number": "88",
+        "folder_number": "0",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7486805280582335",
+      "media_type": 99,
+      "title": "Areas/Regulation&PSC",
+      "folder_info": {
+        "folder_id": "folder_7486805280582335",
+        "name": "Regulation&PSC",
+        "file_number": "13",
+        "folder_number": "1",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7481360679718374",
+      "media_type": 99,
+      "title": "Areas/Personal",
+      "folder_info": {
+        "folder_id": "folder_7481360679718374",
+        "name": "Personal",
+        "file_number": "1",
+        "folder_number": "0",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7471141467720921",
+      "media_type": 99,
+      "title": "Areas/Meeting Minutes",
+      "folder_info": {
+        "folder_id": "folder_7471141467720921",
+        "name": "Meeting Minutes",
+        "file_number": "78",
+        "folder_number": "0",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7468308223756240",
+      "media_type": 99,
+      "title": "Areas/Nonwoven",
+      "folder_info": {
+        "folder_id": "folder_7468308223756240",
+        "name": "Nonwoven",
+        "file_number": "6",
+        "folder_number": "0",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    },
+    {
+      "media_id": "folder_7448382192755469",
+      "media_type": 99,
+      "title": "Areas/Market Insight",
+      "folder_info": {
+        "folder_id": "folder_7448382192755469",
+        "name": "Market Insight",
+        "file_number": "24",
+        "folder_number": "0",
+        "parent_folder_id": "folder_7446577501179608"
+      }
+    }
+  ]
+}

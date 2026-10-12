@@ -1,0 +1,96 @@
+# SEED: 粘合剂 Binder
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Chemical bonding
+#
+# 全库正文命中 39 页，53 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Chemical bonding]]  (4 句)
+   • Chapter 7 (R.A. Chapman) systematically treats chemical (latex/binder) bonding — the dominant alternative to thermal consolidation and the route of choice when a broad property palette must be engineered, with explicit flushable-wipe and incontinence binder chemistry.（中文：第 7 章系统讲化学（胶乳/粘合剂）粘合——热粘的主要替代路线，需在柔软/防水/透气/阻燃/可回收间做多目标设计，并明确给出可冲散拭布与失禁用品粘合剂化学。）
+   • It defines the binder and its multiple roles, then surveys binder polymer chemistry: vinyl, acrylic, butadiene (SBR/NBR/natural rubber), and specialty systems (PU, phenolic, epoxy).（先定义粘合剂及其多重角色，再梳理乙烯基、丙烯酸、丁苯等聚合物化学。）
+- A rigorous subsection explains emulsion polymerisation, the Fox equation for copolymer Tg, MFFT, and coagulation/migration and crosslinking.（严谨小节：乳液聚合、Fox 共聚物 Tg 方程、最低成膜温度、凝聚/迁移与交联。）
+- The mechanism of chemical bonding is analysed: wetting, binder cohesion, adhesion, distribution,
+   • Binder selection is a multi-objective design problem, not merely "hold fibres together".（粘合剂选型是多目标设计问题。）
+- Latices are the workhorse — water-borne for penetration and energy-efficient drying.（胶乳是主力，水基利于渗透与节能干燥。）
+- Copolymer Tg (Fox) sets handle and wet stability — softer monomers → softer fabric.（共聚物 Tg 决定手感与湿稳定性。）
+- Binder migration during drying creates binder-rich skin / starved core → delamination risk.（干燥中粘合剂迁移形成表富里贫，致分层风险。）
+   • 父书：Handbook of Nonwovens
+- 概念：粘合剂 Binder、胶乳 Latex、Surface Tension and Surface Energy、等离子处理 Plasma Treatment、可冲散拭布 Flushable Wipe
+- 关联章节：Thermal bonding、Nonwoven fabric finishing
+
+--- [[水刺 Hydroentanglement]]  (3 句)
+   • Hydroentanglement (also called **spunlacing 水刺**) is **high-velocity water-jet mechanical bonding** — **binder-free, lint-free, soft**.（源：Mechanical bonding）
+- 水刺属于**机械加固 mechanical bonding** 三技术之一，另两者为**缝编 stitch-bonding**（Maliwatt / Malimo / Malipol）与**针刺 needlepunching**。三者共同点是：不依赖粘合剂、热粘合或化学粘合剂，而是让纤维**互锁**成布。（源：Mechanical bonding）
+- 定位差异：缝编与针刺主要面向**耐用 / 工业制品**；水刺是**面向一次性用品（disposables）的增长引擎**。（源：Mechanical bonding）
+   • **成布原理**：高速水射流对纤维网施加冲击，迫使纤维相互缠结，从而在**无粘合剂**条件下获得强度（binder-free）。（源：Mechanical bonding）
+- **水刺章节给出的设计工具**：比能量 K、SE_c，射流冲击力 F ∝ p·d²，以及纤维选择规则与**原位微纤化（in-situ microfibre）路线** —— 可分裂双组分（splittable bicomponents）、Lyocell 原纤化 。（源：Mechanical bonding）
+- **纤维选择规则**：粘胶 / 莱赛尔（低湿模量，low wet modulus）**易缠结、成本低**；PP / PET 则**需做亲水处理（hydrophilic finishes）**。（源：Mechanical bonding）
+- **高冲击力解锁高端路线**：提高射流冲击力可解锁微纤化路线 —— 双组分分裂（BICO split）与 Lyocell 原纤化。（源：Mechanical bonding）
+- **湿法成网（wet-laid）相关机理**：湿法成网先以标准定义（EN 29092 /
+   • 水刺被明确列为**面向一次性用品的增长引擎**，是三者中最贴近卫材应用的机械加固方式。（源：Mechanical bonding）
+- **SAP 固定载体**：水刺用于把 SAP 颗粒固定在薄载体中 —— 底层选 spunmelt / SMS，因其在**很低的克重（最优选仅 4–12 gsm）**下仍能提供足够强度与足够小的孔径，这是把载体做薄的前提；顶层按**双峰纤维设计**（≤50% 短而轻 + ≥50% 长而重，至少两类 PET / PE / PP）。（源：Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体））
+- **柔软 / 不掉屑（soft, lint-free）** 与**无粘合剂**特性，适合与面层等贴身层相关的应用。（源：Mechanical bonding）
+- **成本杠杆**：K 与 SE_c 可工程化调控 —— 在强度不变的前提下**降低 SE_c 即降低水耗 / 电耗（water/power cost）**。（源：Mechanical bonding）
+- 库内相关条目并
+
+--- [[Nonwovens in Absorbent Materials]]  (3 句)
+   • **无纺布定义与双属性**：非针织、非机织、非编织、非纸的纤维/微纤维纤网，关键判别是"absence of a yarn element"。适合作为吸液材料的两大根本原因： + 。
+- **四要素因果链**：Constituent Fiber → Assembly Structure（Web Assemblage）→ Type of Bonding → Finish。"Each of these factors can have an effect on the absorbency of the resulting structure"——采购评审须按序追问而非单一比价。
+- **纤维吸液机制二元性**：亲水溶胀纤维通过 fiber imbibition + fiber swelling 吸收；疏水纤维仅靠毛细管与结构空隙（capillary and structure voids）。直接决定面材（顶面）与芯体选材逻辑。
+- **粘合-吸液权衡**：多数 binder 疏水，"the net effect usually is some reduction in absorbenc
+   • 1. **双属性论**：无纺布适合吸液结构的两个根本原因是单位质量储液能力高（high bulk）与原料-成品转换成本低——构成后续一切工艺-产品选择的底层约束。
+2. **四要素因果链**：纤维→排列→粘合→整理是因果链而非平行关系，采购评审必须按序分层评价供应商。
+3. **粘合-吸液权衡**：化学粘合（binder 多疏水）通常削弱吸液；机械粘合保持本征吸液但限制溶胀、增强抗压回弹——是面材/芯体粘合方式选择的核心权衡。
+4. **ADL 密度梯度机理**：上 1/3 低密度（大孔隙、快速获取）+ 下部高密度（细密毛细管、高压差），是 Ch3 毛细管压力原理在产品的直接工程化落地。
+5. **范式转移信号**：preformed airlaid pulp fabric 可直供 converting line，消除现场粉碎木浆的"大而吵且粉尘"工序——虽原料单价略高，但"简化集成后的整机运营成本可抵消"。
+   • **降克重**：13 g/m² SMMS ≈ 15 g/m² SS 拉伸强度，阻隔/SAP 控制更优 → "以 SMMS 替换 SS"降本。
+- **粘合剂**：airlaid pulp 中 binder 13–25% wt → 占 airlaid 采购价 15–25%，是议价重点。
+- **原料替代**：PP 13→458 百万磅 → 供应端议价已成熟，需关注原油传导。
+
+--- [[Thermal bonding]]  (3 句)
+   • Chapter 6 (A. Pourmohammadi) presents thermal bonding as web consolidation via heating a thermoplastic component to its softening/melting point then cooling — eliminating externally applied chemical adhesive in many cases, and the dominant route for diaper topsheet/ADL and many wipes.（中文：第 6 章讲热粘合——加热热塑组分至软化/熔融后冷却成布，多数情况免去外添化学粘合剂，是纸尿裤面层/导流层与多数拭布的主导工艺。）
+   • It opens with the historical origin (Reed, 1942) and the energy/environment shift away from latex bonding, then surveys raw materials: binder fibres, bicomponent (conjugate) fibres, polymeric powder binders, with Tg/Tm tables.（先讲起源（1942 Reed）与节能/环保驱动，再列原料与玻璃化/熔融温度表。）
+- The core systematically treats four heat-transfer routes: calender (conduction, area/point bonding), through-air/impingement (convection), and thermal-radiation/IR plus ultrasonic bonding.（核心梳理四种传热路径：轧光（传导）、热风/冲击（对流）、热辐射/红外与超声波。）
+
+   • The bond is intrinsic to the fibre/powder polymer, not an added adhesive — central to topsheet/ADL design.（粘合点内生于纤维/粉末聚合物而非外加粘合剂。）
+- Thermal bonding is a sustainability- and cost-led substitution for latex bonding.（热粘是替代胶乳粘合的节能/环保路线。）
+- Sheath-core PP/PE and CoPET/PET bicomponents dominate hygiene webs (low-melt sheath fuses, core preserves strength).（皮芯双组分主导卫材网。）
+- Target surface sintering; over-bonding embrittles and causes point-bond "popping".（目标为表面烧结；过粘致"爆点"失效。）
+
+--- [[湿迁移 Wet Migration]]  (2 句)
+   • ⚠️ 口径提示：「migration 迁移」在本库至少存在**三种不同指代**，不可混引：
+- **湿迁移（水分/液体在介质内的输运）** —— 本页主题，理论根基为 Fick 定律（源：Diffusion Equations (Crank Ch.1)）。
+- **助剂/粘合剂迁移（物料在干燥或老化中向表面富集）** —— 见 Chemical bonding、Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements。
+- **化学物迁移量（可萃取/可迁移物向模拟体液的溶出）** —— 见 GB-T 34405-2017 Determination of Acrylamide Migration in Household Papers（家用纸制品中丙烯酰胺迁移量的测定 LC-MS-MS法）。
+   • **6. 干燥过程中的迁移（另一口径）：** 干燥中粘合剂迁移形成**表富里贫（binder-rich skin / starved core）**，导致**分层风险**（源：Chemical bonding）。同一章对聚合物型增塑剂的表述为 "less susceptible to migration, and less extractible"，未给出迁移速率模型或萃取限量数值（源：Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements）。
+
+--- [[Mechanical bonding]]  (2 句)
+   • Chapter 5 completes the web-formation side by treating mechanical bonding — needlepunching, stitch-bonding and hydroentanglement — the family of consolidation methods that interlock fibres without adhesive, thermal or chemical binders.（中文：第 5 章讲机械加固（针刺、缝编、水刺），是不用粘合剂/热/化学粘合剂的纤维互锁成布方式。）
+   • Hydroentanglement is high-velocity water-jet mechanical bonding — binder-free, lint-free, soft.（水刺为高速水射流机械加固，无粘合剂、不掉屑、柔软。）
+- K and SE_c are engineerable levers; lowering SE_c at fixed strength cuts water/power cost.（K 与 SE_c 可工程化调控，降 SE_c 即降本。）
+- Viscose/Lyocell (low wet modulus) entangle cheaply; PP/PET need hydrophilic finishes.（粘胶/莱赛尔易缠结，PP/PET 需亲水处理。）
+- High impact force unlocks premium microfibre routes (BICO split, Lyocell fibrillation).（高冲击力解锁微纤化高端路线。）
+
+--- [[Porous Structure and Liquid Flow Models]]  (2 句)
+   • **Rate and capacity are antagonists, and both are geometric.** Bigger pores raise rate (Hagen–Poiseuille: flow ∝ r², so Y ×2 → flow ×16) but lower capillary pressure (p_c ∝ 1/r), so capacity falls. The optimum sits mid-range, not at either extreme.
+- **Kozeny–Carman is a leverage equation.** k ∝ Φ³/(1−Φ)² — a small porosity gain yields a large permeability gain, but raising Φ means lower packing fraction, i.e. thinner web, more thickness, or fewer g/m². The trade is real and unavoidable.
+- **Fib
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、毛细管压力 Capillary Pressure、孔隙率 Porosity、渗透率 Permeability、SAP（高吸水树脂）、Gel Blocking（凝胶阻塞）、吸收芯体、ADL（导流层）、绒毛浆（Fluff Pulp）、双组分纤维 Bicomponent
+- 相关章节/页面：Absorbent Technology Introduction、Characterisation, testing and modelling of nonwoven fabrics（测试与建模）、Chemical bonding（粘合剂容量税）、Dry-laid web formation（气流成网孔径）
+
+--- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]  (2 句)
+   • 定义部分给出四条关键界定：
+- **Intake Material（吸入层材料）**：负责接受液体的材料，可为纺熔面层（spunmelt body side liner）、梳理粘合surge 材料、芯体包裹层（wrapsheet）或组合。若试样含吸入层，申请方须提供其百分比与组分密度以提高 VV 计算精度。
+- **Superabsorbent（高吸水材料）**：颗粒或纤维状，吸水能力通常在 **15 g/g 以上**。
+- **Pulp（绒毛浆）**：通常与 SAM 混合成芯；常为木浆绒毛浆，亦可为粘胶、棉或其他吸收纤维。
+- **Binder（粘合剂）**：气流成网芯体中通常不存在；干法造纸（airlaid）材料中是赋予干湿强度的**双组分纤维**；在近 100% SAM 芯中则是把 SAM 粘住的胶。
+   • c = (1/100) × ( %SAM/ρ_SAM + %Pulp/ρ_Pulp + %Binder/ρ_Binder + %IntakeMatls/ρ_Intake )
+
+--- [[US5197958 Wetness Indicating Diaper]]  (2 句)
+   • **Microencapsulation（微胶囊化）** — required because the fatty acid is liquid and would otherwise be lost: "In-situ polymerization with **urea formalin resin** used as wall material"; the TC slurry is an aqueous dispersion containing about **"45% wt. of capsule particles"**, then formulated with a **water-based binder** into a water-based thermochromic ink. Table 3 lists chemical (interfacial/in-situ polymerization), physico-chemical (coacervation, organic-solution coacervation) and mechano-chemical 
+   • 1. **Direct formulation starting point（配方级起点）.** The **leuco dye : phenol : fatty acid = 1 : 5 : 50** three-component system, with the **fatty acid as the colour-change temperature switch**, is a concrete, quotable specification to take to chromic-ink suppliers. Cross-check against 温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18） and Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12） — the question to put to suppliers is whether their TC slurry matches the **~45% wt capsule / urea-formal
+
+--- [[Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）]]  (1 句)
+   • 来源页 未来3-5年纸尿裤商业化技术集与开发方向（网络综述，行业宣称口径 ）将超声波焊接定位为"未来 3–5 年最确定的降本工艺路径"：宣称**最高节省 90% 粘合剂相关运营成本**（采购/运输/合规）、良率 >95%、设备国产化率 >80%、约 18 个月投资回收（800 片/min 产线）、2026–27 主流产线导入后单位材料成本降 8–12%；并声称该工艺是蜂巢芯体（大王）、悬浮芯体、多层 SMS 导流层与 PLA 全降解材料等结构量产的工艺基础。此为市场侧佐证，与页面既有工艺对比结论方向一致，但数字均未经本库实测验证。
+

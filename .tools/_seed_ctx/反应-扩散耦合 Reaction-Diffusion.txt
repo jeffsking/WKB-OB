@@ -1,0 +1,47 @@
+# SEED: 反应-扩散耦合 Reaction-Diffusion
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Diffusion and Chemical Reaction (Crank Ch.14)
+#
+# 全库正文命中 3 页，5 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Mathematics of Diffusion]]  (3 句)
+   • **EN**: The classic reference for the mathematics of diffusion. 15 chapters cover Fick's laws, analytical and numerical solution methods, concentration-dependent diffusion, non-Fickian diffusion, heterogeneous media, moving boundaries, reaction-diffusion coupling, and simultaneous heat-moisture diffusion — the theoretical foundation for SAP swelling kinetics, absorbent core modeling, and wet migration simulation.
+   • **中文**: 扩散数学经典参考书——15 章完整覆盖 Fick 定律、解析/数值解法、D(C) 变系数扩散、非菲克扩散、复合介质、动边界、反应-扩散耦合、湿热耦合。SAP 溶胀动力学、芯体吸液、湿迁移建模的理论基础。
+   • 1. **Fick 定律与扩散 PDE**（Ch 1）：F = -D dC/dx 是核心假设；∂C/∂t = D∂²C/∂x² 是全书唯一核心 PDE
+2. **恒 D 解析解法**（Ch 2-3）：反射/叠加、分离变量、Laplace 变换；误差函数类与三角函数级数
+3. **三维几何模型**（Ch 4-6）：片层（芯体/湿巾）、柱（纤维）、球（SAP 颗粒）——u=Cr 变换是关键技巧
+4. **D(C) 变系数扩散**（Ch 7-9）：Boltzmann 变换、数值方法、等效扩散系数——SAP D(C) 常呈指数上升型
+5. **D 测量方法学**（Ch 10）：时间滞后法 L=l²/6D 是行业标准；SAP 必须用质量固定参考系
+6. **非菲克扩散**（Ch 11）：Alfrey-Gurnee-Lloyd 三分类——SAP S 形吸液曲线的物理根源
+7. **复合介质**（Ch 12）：串联阻力模型 Σ(lᵢ/Pᵢ)——芯体多层结构建模基础
+8. **动边界/Stefan 问题**（Ch 13）：SAP 溶胀前沿的定量实现
+9. **反应-扩散耦合**（Ch 14）：SAP 
+
+--- [[湿迁移 Wet Migration]]  (1 句)
+   • **延伸关联**
+- Fick 定律
+- Non-Fickian Diffusion (Crank Ch.11)
+- Diffusion in Heterogeneous Media (Crank Ch.12)
+- Moving Boundaries (Crank Ch.13)
+- Simultaneous Diffusion of Heat and Moisture (Crank Ch.15)
+- 湿热耦合 Heat-Moisture Coupling
+- 反应-扩散耦合 Reaction-Diffusion
+- Case II 扩散
+- SAP 溶胀 SAP Swelling
+- SAP（高吸水树脂）
+- 吸收芯体
+- 孔隙率 Porosity
+- 达西定律 Darcy's Law
+- Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）
+- MD Liquid Distribution
+- 回渗 Rewet
+- Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+- Fluff-Fre
+
+--- [[Diffusion and Chemical Reaction (Crank Ch.14)]]  (1 句)
+   • Mathematics of Diffusion
+- SAP（高吸水树脂）
+- 反应-扩散耦合 Reaction-Diffusion
+- Freundlich 等温线
+

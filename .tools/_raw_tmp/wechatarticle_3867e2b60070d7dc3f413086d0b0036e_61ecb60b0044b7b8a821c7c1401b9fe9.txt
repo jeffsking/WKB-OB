@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <image id="#js_content > section:nth-child(1)" src="x" alt=" 26&#xA; Central Asia NW &amp; Hygiene Development Forum&#xA; 中亚无纺布与卫生用品发展论坛&#xA;2026.7.27-28&#xA;Satpayev Institute of Geological Sciences | Almaty&#xA;哈萨克斯坦国家地质科学院|阿拉木图&#xA;"></image>
+  <image id="#js_content > section:nth-child(2)" src="x" alt="无纺布的秘密:解密“克重”与“纤维旦数”&#xA;从触感体验到底层逻辑的专业指南&#xA;"></image>
+  <image id="#js_content > section:nth-child(3)" src="x" alt=" 为什么同样的重量，手感却截然不同?&#xA;同样是25gsm的无纺布...&#xA;极度柔软、细腻、充满高级感。&#xA;25g&#xA;僵硬、粗糙、摸起来像“塑料纸”。&#xA;25g&#xA;答案藏在无纺布的两个核心概念中:克重(GSM)与纤维旦数(Denier)。&#xA;"></image>
+  <image id="#js_content > section:nth-child(4)" src="x" alt="  什么是克重(GSM)?&#xA;GSM = Grams per Square Meter (克/平方米)&#xA;克重代表的本质是单位面积里的“材料总量”。例如:25gsm意味着 1平方米的材料重量为25克。&#xA;"></image>
+  <image id="#js_content > section:nth-child(5)" src="x" alt="常见误区:克重越高=越厚?&#xA;羽绒服很厚，但不一定重。&#xA;牛仔布没那么厚，却很重。&#xA;结论:克重代表的是“重量”，而不是“厚度”。盲目追求高克重会导致成本增加、透气性下降、手感变硬。&#xA;"></image>
+  <image id="#js_content > section:nth-child(6)" src="x" alt=" 不同产品的克重分布与应用地图&#xA;20-25gsm:口罩外层&#xA;35-50gsm:手术衣&#xA;40-80gsm:湿巾类&#xA;70-100gsm+:购物袋&#xA; 湿巾市场的克重内卷&#xA;常规/低端湿巾(国内外):40-55g左右&#xA;国内中端湿巾:65g左右&#xA;国内高端湿巾:80g左右&#xA;高端洗脸巾(水刺布):卷至80-90g甚至更重。&#xA;"></image>
+  <image id="#js_content > section:nth-child(7)" src="x" alt=" 进入微观世界:什么是“旦数”(Denier)?&#xA;如果克重是“材料总量”,那么旦数就是衡量“纤维有多粗”的经典指标。&#xA;旦数数值越大，纤维越粗。&#xA;1D=很细;3D=较粗;15D=非常粗。&#xA;"></image>
+  <image id="#js_content > section:nth-child(8)" src="x" alt="纺织行业的经典标尺:9000米法则&#xA;9000米长的纤维，重量为1克=1 Denier(1D)。&#xA;9000米的纤维，重量为3克=3 Denier(3D)。&#xA;旦数的本质是“线密度”(固定长度测重量)。&#xA;"></image>
+  <image id="#js_content > section:nth-child(9)" src="x" alt="  为什么不用“直径”来直接衡量?&#xA;1.实在太细:微米级别的测量极具挑战。&#xA;2. 材质过软:接触测量时极易发生形变。&#xA;3. 截面不规则:并非完美的圆形,直接测直径不具备代表性。&#xA;因此，行业统一采用&quot;固定长度+重量&quot;的逻辑。&#xA;"></image>
+  <image id="#js_content > section:nth-child(10)" src="x" alt="补充单位:Denier 与dtex的区别&#xA;Denier (D): 9000米重多少克。&#xA;dtex (分特): 10000米重多少克。&#xA;1 Denier ≈ 1.11 dtex&#xA;两者本质相同，均用于描述纤维线密度。&#xA;"></image>
+  <image id="#js_content > section:nth-child(11)" src="x" alt=" 破解谜题:为什么同克重，手感不同?&#xA;【克重/GSM】决定:“有多少材料”&#xA;【旦数/Denier】决定:“材料有多细”&#xA;同样 25gsm 的布料，如果使用了不同旦数 (粗细) 的纤维，其内部的结构、接触点和蓬松度将完全不同，从而导致截然不同的触感。&#xA;"></image>
+  <image id="#js_content > section:nth-child(12)" src="x" alt=" 细旦 vs 粗旦:触感与支撑的对决&#xA;细旦纤维 / Fine Denier&#xA;犹如头发丝(Like Hair)&#xA;•纤维数量更多 •接触点倍增 ·结构更蓬松 •极度柔软细腻&#xA;粗旦纤维 / Coarse Denier&#xA;犹如粗麻绳(Like Hemp Rope)&#xA;•纤维粗壮 •更硬、更挺 •具备极强的支撑感与骨架感&#xA;"></image>
+  <image id="#js_content > section:nth-child(13)" src="x" alt=" 为什么卫生材料都在追求“超细旦”?&#xA;尿裤|卫生巾|面膜|高端湿巾&#xA;核心诉求:极致的“贴肤感”&#xA;这些直接接触人体最敏感肌肤的产品,对“柔软、细腻、舒适”有着严苛的要求。大量超细纤维堆叠，能带来云朵般的柔软触感。&#xA;"></image>
+  <image id="#js_content > section:nth-child(14)" src="x" alt="越细越好吗?生产背后的现实与挑战&#xA;•新手误区:纤维越细=越高级。&#xA;· 生产真相:越细意味着成本激增、工艺更难稳定、且可能牺牲材料的物理强度。&#xA;行业真正的技术壁垒不是“做细”，而是做到“又细又稳定”。&#xA;"></image>
+  <image id="#js_content > section:nth-child(15)" src="x" alt=" 警惕无纺布的&quot;假软&quot;陷阱&#xA;表象迷惑:压花(Embossing)、添加剂(Additives)、后整理与压光工艺(Calendering)&#xA;Result: 摸起来软，但纤维结构并未升级。&#xA;专业评判:观察纤维结构设计(Structure)、测试蓬松度(Loft)、评估均匀性(Uniformity)、感受回弹性(Resilience)&#xA;"></image>
+  <p id="#js_content > section:nth-child(17)">会议通知|2026中亚无纺布与卫生用品发展论坛将在7.27-28日哈萨克斯坦阿拉木图举办,欢迎报名参加！</p>
+  <h id="#js_content > p:nth-child(18)">微信扫码添加小编小卫即可获取更多服务与咨询！</h>
+  <p id="#js_content > section:nth-child(20)">关于我们</p>
+  <h id="#js_content > section:nth-child(20)">卫品屁事通</h>
+  <p id="#js_content > section:nth-child(20)">本着：“资源整合、知识共享”的初心，致力于服务全球一次性卫生用品行业从业人员，汇集：行业新闻热点、市场趋势、最新技术和材料、必备知识、政策法规、线上线下论坛、产业链分析等资讯。</p>
+</body>

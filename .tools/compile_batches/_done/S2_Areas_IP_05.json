@@ -1,0 +1,29 @@
+{
+  "batch": "S2_Areas_IP_05",
+  "stage": "S2",
+  "block": "Areas/IP",
+  "source_pages": [
+    "CN 110776598 B（一种高吸水性树脂及其在尿不湿中的应用）",
+    "CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）",
+    "CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）",
+    "CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）",
+    "US 20070270773 A1（Thermochromic Wetness Indicator）"
+  ],
+  "concept_pages": [
+    "SAP 表面包覆（SAP Particle Surface Coating）",
+    "蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）"
+  ],
+  "entity_pages": [
+    "巴斯夫欧洲公司（BASF SE）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "sources/CN 104004521 B（...）.md / CN 101679760 B（...）.md / CN 101641398 B（...）.md（2026-09-29 补记：为 5 份尾巴缺口副本在既有合并页 front matter 补 source_paths 登记——CN104004521B (1)、09_包覆（EDANA ERT）、10_Method for coating SAP（EN）、v3_9_Nippon_Shokubai_CN_101679760_B 登入 CN 101679760 B 页；10_包覆（含 SFC 详细计算）登入 CN 101641398 B 页、CN104004521B (1) 登入 CN 104004521 B 页；均为追加式登记，未改正文结论）"
+  ],
+  "manual_review": [
+    "CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）",
+    "CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）",
+    "SAP 表面包覆（SAP Particle Surface Coating）"
+  ],
+  "notes": "本批 10 个 item 实为 5 件独立专利：CN104004521B 两副本合并、CN101641398B 两副本合并、CN101679760B 四副本合并（注出处，source_path 取主副本）。法律状态有效性来源未明示，一律标 [待验证] 并记记录日期 2026-09-29；BASF 两项 SAP 包覆核心专利涉 FTO，已标 manual_review。US 标题以 US 20070270773 A1（去斜杠）作文件名，正文保留 US 2007/0270773 A1 原号。"
+}

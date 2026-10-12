@@ -1,0 +1,91 @@
+# SEED: Odor Control Technology Landscape（异味控制技术图谱）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 389 页，688 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Hygiene Absorption Model]]  (9 句)
+   • 该源性内容包括 12 章技术路线（从液体流动物理 → 超吸水树脂 → 非织造布 → 测试），被定义为 **REL / 吸收芯体研发的立论基础**（源：Absorbent Technology Introduction）。
+   • **1. 口径先行（define before design）：** absorbency/absorption 的语义歧义必须在术语层收口，否则**所有下游指标都会继承语义混乱**（源：Absorbent Technology Introduction）。
+   • **2. 科学缺位是绑定约束：** "The development of the majority of those products was not based on a scientific or mechanistic approach, but on trial and error techniques and on the intuitive imagination of innovative tech…"；**真正瓶颈是科学缺位而非资金**，仿真/计算机辅助设计是低成本出路（源：Absorbent Technology Introduction）。
+   • **3. 虚拟原型（virtual prototyping）路线：** 基于物理定律的建模在精度、成本与效率上优于实验 —— "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time"，且实验"would require building many such expensive machines"；并以**高速摄像、Fiberscope / Videoimagescope、静压探针**闭环验证（源：Computational Modeling in Absorbent Technology）。
+
+--- [[粘胶纤维 Viscose Fiber]]  (8 句)
+   • **Rayon is a regenerated cellulose fibre** — *"rayon, which is one of the oldest manufactured fibres, is a regenerated cellulose fibre"*, with *"a wide spectrum of properties"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Its raw material is cellulose, *"abundantly available and a renewable source"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。The **viscose** route specifically *"resulted from research in the UK by Cross, Bevan and Beadle during the 1880s"*（源：Manufactured Fibre Techn
+   • **Viscose process.** Chemistry is described by four mechanisms — **coagulation / neutralisation / desolvation / dexanthation（凝固/中和/脱溶/脱黄化）**; the manufacturing sequence is **steeping → shredding → ageing → xanthation → dissolution → filtration → mixing → ripening → spinning（浸渍→粉碎→老化→黄化→溶解→过滤→混合→熟成→纺丝）**（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Zinc is structural.** *"over 95% of the rayon produced today is spun with zinc in the spin bath, the role of zinc in the structural regulation of viscose fibre is of paramount importance"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Zinc regulates structure → **skin-core structure** → high strength; wet modulus can be raised stepwise (modifiers, low-temperature low-acid bath, formaldehyde) along the ladder **ordinary viscose → tyre yarn → HWM → polynosic → Ten-X**（源：Manufactured Fibre T
+   • **Variants.** Named families: high-bulk/high-crimp and inflated fibres; **high-absorbency fibres (alloy rayon, 51 Fibre)**; **flame-retardant Tufban**; and **carbon-containing fibres** (conductive / adsorptive)（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+
+--- [[Product Dimension Measurement（成品尺寸测量）]]  (7 句)
+   • **Purposes-of-testing chain（11.1）**：the four purposes are **quality control 质量控制, process control 工艺控制, product development 产品开发, process optimisation 工艺优化**；the whole chapter follows one chain — "definition → quantifying index → standard method → commercial instrument"（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Section order（尺寸/形态类量）**：fineness 11.2, crimp 11.3, tensile properties 11.4, evenness 11.5, friction 11.6, shrinkage 11.7, entanglement 11.8（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+   • **Linear density 线密度**：fibre and yarn fineness is measured as mass per unit length；the preferred method is direct weighing, standard ASTM D1577-79；the Vibroscope is useful for staple bundles but carries a practical trap[原文残缺]（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres，p.248–p.250）。
+   • **Shrinkage 收缩**：defined as the decrease in length of a specimen，a negative value being stretch；instruments Toray FTA-500, Lawson-Hemphill CTT-DST, Textechno Dynafil, Rothschild DEFT/CCT；standard ASTM D2102-90；the key claim（p.265）is that "there must be a means of assessing and controlling shrinkage behaviour of the yarn"，with boiling-water / dry-heat shrinkage **and** shrinkage force measurable simultaneously on a running yarn（源：Manufactured Fibre Technology Ch11 Testing of Manufactured Fibres）。
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (6 句)
+   • 同族（不同载体/机理）：Zeolite Odour Control（沸石除臭载体）、SymDeo™ XPP 抑臭聚合物、Odour-Control Granular Interference（除臭颗粒干扰）、咖啡炭纤维（异味吸附）
+- 载体相关：Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）、Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+- 评价方法：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+- 实体：汉高、中科依兰
+   • **样品设计（已决，本批新增）：** 借 COCO V6 芯体机试验同步制备三款 odour-control（气味控制）样品：
+   • ✅ **验证记录（2026-09-29）**：三款样品设计为已决方案；工程化卡点全部为**待决**，无一项已有结论。参见 COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）、Zeolite Odour Control（沸石除臭载体）、Odour-Control Granular Interference（除臭颗粒干扰）、诺尔（Nuoer）。
+   • ✅ **验证记录（2026-09-29）**：以上来自 **Workshop 准备材料 v1.0**，引用  **原始文件未随本批次提供**；200 μg/g 为**目标值**，未见实测；九种臭味物质未列全 [待验证]。参见 Skin Health Treatment on Nonwoven（无纺布护肤处理）、Zeolite Odour Control（沸石除臭载体）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）。
+
+--- [[热熔胶 Hot Melt Adhesive]]  (6 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • **1. 粘接机理五大类：** WLB 湿润、表面能、渗透、锚定、静电 —— 适用于所有粘接场景（源：Adhesive Handbook）。含纤网场景下**机械互锁占主导**："penetration of the protruding fiber ends into the rubber was the most important parameter"（Part 2, Line 71–75）（源：Handbook of Adhesive Technology Full Report）。
+   • **2. 胶接界面不是一条线：** "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（Part 2, Line 2900–2920）（源：Handbook of Adhesive Technology Full Report）。
+   • **3. 性能 = 胶 + 工艺的双轨：** Adhesive weight、application method、open time 各贡献 ~50%，与胶本身并列 —— R&D 与采购须**同时**投入两侧（源：Handbook of Adhesive Technology Full Report）。
+
+--- [[双组分纤维 Bicomponent]]  (5 句)
+   • A **bicomponent（双组分/复合）fibre** is a fibre formed by **conjugate spinning** of two polymers into one filament, classified by cross-section into **side-by-side (S/S, 并列)**, **sheath-core (S/C, 皮芯)** and **matrix-fibril (M/F, 基质-原纤)** architectures（源：Bicomponent Fibre Technology Development Trends）. Sheath-core variants are **concentric 同心型**（core centred）and **eccentric 偏心型**（core off-centre, enabling self-crimping）. The hygiene workhorse is the **low-melting bonding fibre**: the source states ver
+   • **Thermal-bonding mechanism（热粘合机理）：** during **air-through or calender bonding** the low-melting **sheath melts to form bond points** while the high-melting **core retains fibre integrity** — the structural basis of through-air bonding for sheath-core bicomponents（源：Bicomponent Fibre Technology Development Trends）. The bond is **intrinsic to the fibre polymer, not an added adhesive**; the target is **surface sintering**, and **over-bonding embrittles the web and causes point-bond "popping"**（源：T
+   • **Conjugated variants:** **island-in-sea（海岛型）** and **radial/split-pie（径向瓣/桔瓣型）** configurations are made spinnable and separable by bicomponent design, and are the direct ancestors of **splittable nonwovens** and high-coverage coverstock/wipe webs（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+   • No vault-sourced bicomponent fibre tensile/crimp data linked to a **named KC ES-fibre supplier** is evidenced here .
+- The vault notes that China's bicomponent field is "量大量粗" and that **submicron/nano spunmelt is essentially blank in China**（源：Bicomponent Fibre Technology Trends China and Abroad）— supply-risk quantification .
+- No direct bicomponent-to-REL-core performance data (e.g. bond-point density vs rewet) is evidenced .
+
+--- [[活性炭除臭（DARCO）]]  (5 句)
+   • **DARCO® KB-G** is a **powdered activated carbon (PAC)** made by **chemical activation of wood using the phosphoric acid process**（木基磷酸法化学活化）by **Cabot Norit Activated Carbon**（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)）. In this vault it anchors the **powdered activated carbon (PAC) option within the odour-control material family**（气味管理材料族中的「粉末活性炭」吸附型路线）（源：Cabot DARCO KB-G Powdered Activated Carbon (TDS)、Powdered Activated Carbon（粉末活性炭））.
+   • **Adsorption-type odour route**（吸附型除臭路线）: PAC removes odour molecules by adsorption rather than chemistry; the vault's odour-management family spans adsorption carriers（Powdered Activated Carbon（粉末活性炭）、Zeolite Odour Control（沸石除臭载体））and fibre-based routes（咖啡炭纤维（异味吸附））（源：Cabot Corporation（卡博特））.
+- **Low-dosage removal of large organics**: DARCO KB-G's stated differentiator is adsorbing **high-molecular-weight organics（大色体、蛋白质）at low carbon dosage**（源：Cabot Corporation（卡博特）、Cabot DARCO KB-G Powdere
+   • **Odour control in hygiene products**: the route is applied to **卫品气味控制**（源：SymDeo™ XPP 抑臭聚合物）and listed alongside fibre-based odour adsorption for **面层/内裤无纺布消臭**（源：咖啡炭纤维（异味吸附））.
+- **Route-family sibling**: within the odour-control material family it is cited next to SymDeo™ XPP 抑臭聚合物（抑臭聚合物）and 咖啡炭纤维（异味吸附）（物理吸附纤维）, all under the same supplier landscape note at Symrise（德之馨）（源：SymDeo™ XPP 抑臭聚合物、咖啡炭纤维（异味吸附）、Symrise（德之馨））.
+- **Supply-base context**: Cabot is logged as a **candidate supplier** with n
+   • No odour-specific performance data (e.g. ammonia / trimethylamine uptake) exists in the vault — the TDS targets liquid purification, not headspace odour .
+- No hygiene-article application trial, dosage, or cost data for DARCO KB-G is recorded（源：Cabot Corporation（卡博特））.
+- The present page was itself referenced under "待后续批次"（源：SymDeo™ XPP 抑臭聚合物）; whether a dedicated odour-control PAC application page will supersede it is undecided .
+
+--- [[珠光颜料 Lustre Pigment]]  (5 句)
+   • 1. **Fibre-geometry lustre（纤维几何致光泽）**: for speciality PA/PET yarns, **"the non-circular cross-sections result in greater lustre and covering power and improved handle"**, with geometry set by the **spinneret hole shape**（trilobal, rectangular, hexalobal, hollow）and melt rheology（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+2. **Structural colour without pigment（结构色）**: the Morphotex example produces **"colour from periodic layer thickness rather than from dye m
+   • **Geometry over formulation.** In the vault the sourced route to lustre is **non-circular fibre cross-section**, i.e. a spinneret-hole / melt-rheology design variable rather than an added pigment（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Periodic-layer optics.** Structural colour arises from **periodic layer thickness**, giving colour with no dye molecule — the physics shared with the vault's structural-colour strand（源：Intelligent Textiles and Sports Clo
+   • **Topsheet optics and hand.** The shaped-cross-section trade space（lustre × covering power × handle, p. 387）is named as relevant to **topsheet fibre selection**, though the source sentence tails off（）（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- **Adjacency to the chromic programme.** Structural colour without pigment is described as "directly adjacent to our chromic programme" — i.e. the vault's functional-colour work is optics-led, not dye-led（源：Intelligent
+   • **No pearlescent-pigment entry exists**: no mica/oxide/titanium-dioxide pearlescent chemistry, no particle-size / haze / gonio-appearance spec, and no supplier is recorded .
+- The vault "lustre" hits are about **fibre geometry** and **structural colour**, not about a pigment additive — the two framings are not interchangeable（源：Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns）.
+- The Table 14.6 ranking (trilobal bright…) is truncated in the digest and cannot be quoted 
+
+--- [[纺粘 Spunbond]]  (5 句)
+   • 纺粘（spunbond）与熔喷（meltblown）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 纺粘 / 熔喷是**熔体纺丝（melt spinning）的工程化延伸** —— PP 熔体经过喷丝板（spinneret）后被高速气流牵伸成细纤维；本章给出熔纺的物理框架（熔融 → 过滤 → 喷丝板 → 牵伸取向）。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- **非织造四要素因果链**：纤维 → 排列 → 粘合 → 整理；airlaid / spunbond / meltblown / spunlace / SMS 等工艺与四部件（Top Sheet / Core / ADL / Back Sheet）匹配 —— 纺粘是其中一种成网工艺。（源：Absorbent Technology）
+- **树脂牌号分野**：纺粘用 
+   • **硬件基础 —— 纤维挤出（fiber extrusion）**：纺粘 / 熔喷的硬件基础即熔体纺丝 —— "hundreds of continuous filaments extruded from the same die and drawn to hair-sized thickness"（p.285）；"crimped for added bulk or made into staples" 对应短纤 → 针刺 / 热风无纺布路线。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- **模口膨胀（die swell）**：熔体黏弹性导致模口膨胀（p.285），决定纺丝孔出口的初始纤维直径与射流稳定性 —— 这是"**口模孔径 ≠ 纤维直径**"的根因。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- **速度定义取向（speed-defined orientation）可直接为纺粘面层设
+   • **PET 在卫材中的角色**：PET 主要以**面层 / 导流层纺粘（topsheet / acquisition-layer spunbond）**以及**部分双组分短纤的芯层（core of some bicomponent staple）**出现，而非作为吸收体。（源：Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres）
+- **ATB 面层 + 双组分纺粘载体**：25 gsm 梳理 ATB 网 + 12 gsm PE/PP 双组分纺粘载体，在 600 m/min 车速下在线超声粘合与 3D 花型成型 —— **纺粘是载体 / 支撑层，不是导流芯（carrier, not a wick）**。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination、SMS复合结构）
+- **超声响应是 ES 属性**：不可粘的单组分 PET 会稀释花型可靠性；在腿围或侧封通道，PET 在 PP/PE 超声参数下**不软化**，作
+   • **拉伸比、冷却气流、纺丝甬道等专有参数**本章（Ebewole Ch11）未覆盖 。（源：Ebewole Polymer Science Ch11 Unit Operations in Polymer Processing）
+- 熔喷纤维直径、气流速度、驻极工艺等参数未见于 Seymour §17.1，需另查 。（源：Seymour Polymer Chemistry Ch17 Polymer Technology）
+- 三纤维配比 55–65 / 20–30 / 12–18 wt% 为**工作假设**，非实测验证 。（源：ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination）
+- 上述数据在来源中的**页码待核**（除已标 p.285 / p.299）。
+
+--- [[莱赛尔 Lyocell]]  (5 句)
+   • **Lyocell / Tencel is a regenerated cellulose fibre spun from a direct solvent, NMMO (N-methylmorpholine-N-oxide)** — a route that **omits xanthation and ripening**, such that *viscose's* fibre strength and wet modulus are exceeded, while it **retains a propensity for fibrillation**, verbatim *"propensity for some degree of fibrillation"*（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。Property comparisons are tabulated there as Table 17.12 (Camilon) and Table 17.14 (Tencel)（源：Manufactured Fi
+   • **Solvent route.** Lyocell sits under **direct solvent spinning (MMNO/NMMO)**, which needs no derivatisation — unlike the viscose process — and that is why its strength and wet modulus exceed viscose's; the same property set brings the fibrillation liability（源：Manufactured Fibre Technology Ch17 Rayon Fibres）。
+   • **Fibrillation mechanism and its two fixes.** The cause is intrinsic: the fibre has **no skin layer** and high crystallinity/orientation, so **water plus friction peels the surface open into fine fibrils**; it is most visible **wet** — invisible dry — so validation must be a **post-wash fabric comparison**（源：原纤化）。Two routes exist: (a) **intrinsic** cross-linking to lock the structure (Lenzing **A100** is the cross-linked type); (b) **process-side management** — tension/friction control in spinni
+   • **Trilobal Lyocell for LSN spunlace（芯包/水刺用）.** Trilobal Lyocell is a named carrier for the fibre cross-section that creates axial grooves → a quasi-continuous low-resistance distribution path along MD, for the LSN hydroentangled nonwoven; it maps to project **OI-08「Trilobal Lyocell for LSN」**, targeting wet strength and hydrophilic channels（源：三叶形截面纤维（Trilobal Fibre））。Concrete batch evidence: the COCO V6 Summary adds **LSN spunlace containing trilobal Lyocell** as a core-wrap material (6 km, arri
+

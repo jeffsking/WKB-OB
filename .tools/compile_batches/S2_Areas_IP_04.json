@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/IP",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/US20220125319A1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US20220125319A1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/US20220125319A1.pdf.md",
+   "name": "US20220125319A1.pdf.md",
+   "title_hint": "US20220125319A1.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN102245218B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN102245218B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN102245218B.pdf.md",
+   "name": "CN102245218B.pdf.md",
+   "title_hint": "CN102245218B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf.md",
+   "name": "一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf.md",
+   "title_hint": "一-12_Superabsorbent_hydrogels_enhanced_by_quaternized_tunicate_cellulose_na.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/CN116327488B.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN116327488B.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/CN116327488B.pdf.md",
+   "name": "CN116327488B.pdf.md",
+   "title_hint": "CN116327488B.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md",
+   "name": "五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf.md",
+   "title_hint": "五-1_一种便于识别吸湿状态的吸收性物品及其方法.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/WO2010071584A1_SCA_CNF-SAP.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/WO2010071584A1_SCA_CNF-SAP.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/WO2010071584A1_SCA_CNF-SAP.pdf.md",
+   "name": "WO2010071584A1_SCA_CNF-SAP.pdf.md",
+   "title_hint": "WO2010071584A1_SCA_CNF-SAP.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/KR102205294B1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/KR102205294B1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/KR102205294B1.pdf.md",
+   "name": "KR102205294B1.pdf.md",
+   "title_hint": "KR102205294B1.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/EP0776645A1.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/EP0776645A1.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/EP0776645A1.pdf.md",
+   "name": "EP0776645A1.pdf.md",
+   "title_hint": "EP0776645A1.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf.md",
+   "name": "六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf.md",
+   "title_hint": "六-1_Intelligent_Monitoring_Diaper_with_Enhanced_Features.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/IP/四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/IP/四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md",
+   "name": "四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md",
+   "title_hint": "四-4_具有前后弹性腰围的胶粘吸收制品.pdf"
+  }
+ ]
+}

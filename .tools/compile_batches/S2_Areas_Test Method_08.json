@@ -1,0 +1,76 @@
+{
+ "stage": "S2",
+ "block": "Areas/Test Method",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/3D面层CD拉伸强度测试.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/3D面层CD拉伸强度测试.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/3D面层CD拉伸强度测试.pdf.md",
+   "name": "3D面层CD拉伸强度测试.pdf.md",
+   "title_hint": "3D面层CD拉伸强度测试.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00061 折页渗漏.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00061 折页渗漏.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00061 折页渗漏.docx.md",
+   "name": "STM-00061 折页渗漏.docx.md",
+   "title_hint": "STM-00061 折页渗漏.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00064 Diaper尺寸.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00064 Diaper尺寸.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00064 Diaper尺寸.docx.md",
+   "name": "STM-00064 Diaper尺寸.docx.md",
+   "title_hint": "STM-00064 Diaper尺寸.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/WI-19395外层材料剥离测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/WI-19395外层材料剥离测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/WI-19395外层材料剥离测试.docx.md",
+   "name": "WI-19395外层材料剥离测试.docx.md",
+   "title_hint": "WI-19395外层材料剥离测试.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收量(From China National Testing Method).docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收量(From China National Testing Method).docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM吸收量(From China National Testing Method).docx.md",
+   "name": "SAM吸收量(From China National Testing Method).docx.md",
+   "title_hint": "SAM吸收量(From China National Testing Method).docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/橡筋拉伸比测试.doc.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/橡筋拉伸比测试.doc.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/橡筋拉伸比测试.doc.md",
+   "name": "橡筋拉伸比测试.doc.md",
+   "title_hint": "橡筋拉伸比测试.doc"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM保水量（From China National Testing Method）.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM保水量（From China National Testing Method）.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/SAM新引入测试方法-20250410/SAM保水量（From China National Testing Method）.docx.md",
+   "name": "SAM保水量（From China National Testing Method）.docx.md",
+   "title_hint": "SAM保水量（From China National Testing Method）.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00069 重量.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00069 重量.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00069 重量.docx.md",
+   "name": "STM-00069 重量.docx.md",
+   "title_hint": "STM-00069 重量.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00049 绒毛纤维度.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00049 绒毛纤维度.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00049 绒毛纤维度.docx.md",
+   "name": "STM-00049 绒毛纤维度.docx.md",
+   "title_hint": "STM-00049 绒毛纤维度.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/mocon底膜透气率测试.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/mocon底膜透气率测试.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/mocon底膜透气率测试.docx.md",
+   "name": "mocon底膜透气率测试.docx.md",
+   "title_hint": "mocon底膜透气率测试.docx"
+  }
+ ]
+}

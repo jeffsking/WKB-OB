@@ -1,0 +1,119 @@
+# SEED: Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 107 页，166 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (5 句)
+   • **品牌使命（Brand Purpose）**：*"We exist to Help Navigate the Unknowns of Babyhood"*（我们为帮助穿越育儿中的未知而存在）。
+- **六大战略支柱 Strategic Pillars**：**Baby's Skin Health**（远离刺激与红疹）／**Baby's Comfort**（远离不适）／**Baby's Dryness**（远离漏与湿）／**Baby's Future**（为所有婴儿守护未来）／**Parents' Choices**（守护父母的选择）／**Parenting Skills**（守护父母的育儿能力）。
+- **消费者需求空间 Consumer Need Spaces**：Skin Health / Wellness、Comfortable Fit / Wear、Long-Lasting Leakage Protection and Skin Dryness、Eco-Friendly、Convenience、Self-Fulfillment、Growth。
+- **覆盖品类**：Diape
+   • **框架**：**MENSTRUAL / BLADDER LEAKAGE / INTIMATE HEALTH & WELLNESS**，沿 **Puberty → Period → Sexual experience → Baby → Menopause** 的人生阶段展开；品牌对应 **Kotex（经期）／Poise（膀胱渗漏）／Depend（…）／Intimus（私处健康）**。
+- **三大全球关键词**：**RESPONSIVE**（2D & 3D contour、flexible、breathable、soft、gentle、body-conforming fit；Advanced Freshness = odor-elimination、cooling/thermo-regulation、clean & dry feel、moisture-wicking）／**NO FEEL**（seamless、weightless、moves with the body、thermo-balancing、skin-soothing）／**INTIMATE WELLNESS**（rest
+   • **POD（功能差异点）**：**Most responsive comfortable protection**；**POP（共同点）**：Leakage protection、Clean and dry、Safe for her body、Environmentally safe。
+- **RTB（相信理由）**：**解剖学导向的产品设计**（3D dimples、bodyside lines/pleats、"barely there" layer）／**响应身体的技术**（cooling、anti-bac）／**倡导行动**（She Can Initiative）／端到端设计。
+   • **品牌使命**：*"We exist to liberate women from the nonsense that holds them back from their true selves"*；**POD = Most unnoticeably comfortable protection**；**POP** = Leakage Protection、Designed for me、Discretion & Gentle on Skin。
+- **四大属性方向**：
+
+--- [[导电纱线 Conductive Yarn]]  (4 句)
+   • **导电纱线（conductive yarn）** is a yarn that carries an electrical function — used in e-textiles as **wiring and/or as the sensing transducer**. In the vault's one hygiene-grade application it is the **conductive element of an electronic wetness-detection system**: the conductive materials listed are **conductive threads, conductive tape, conductive rubber, conductive wires**, with the preferred element being a **silver-plated conductive thread at 60 ohms/meter**（源：US11013641 Garment for Detecting A
+   • **Resistive (conductive) sensing.** A controller applies voltage across a conductive thread and monitors the voltage at its ends; in the dry state the reading is ≈ full-scale, and when exudate wets the path the measured potential collapses（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **How fibres are made conductive.** Synthetic fibres are poor conductors and build up electrostatic charge (p. 374); three routes are named — **chemical modification, physical blending, and addin
+   • **The vault's hygiene use-case is a conductive-thread wetness sensor.** K-C's leakage-detection garment uses a silver-plated conductive thread (60 Ω/m) + controller + ADC read-out to answer "is it wet / did it leak" — but the claimed article is the **garment**, not the absorbent article, i.e. the yarn sits on an over-garment rather than in the core（源：US11013641 Garment for Detecting Absorbent Article Leakage）.
+- **Electronic vs chromic branch.** This conductive-thread route is the **electronic**
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+
+--- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]  (4 句)
+   • **"3 次加液"的统计学来源**（最关键的一条）：原表脚注——*"75ᵗʰ percentile total loadings from **ULS 34724** divided into 3"*（取自 2012 年尿液载荷研究 ULS 34724 的 **75 百分位总载荷，均分为 3 次**）。Poise 侧亦注明 *"FIUP TL says it uses 75th percentile total pad loading divided in 3"*。
+   • **总载荷研究（Total Loading Studies）**：Depend 侧 DPU1 / DPU2·DSU2 / DAU·DRU2 / Briefs / GFM 均用 **ULS 34724（2012）**，DSU1 用 HUT 36094（2014）。Poise 侧 Liners 与 UT 用 **ULS 34724（2012）**；**Mod–Ult 的 Long 规格因 ULS 34724 未区分 regular 与 long，改用 HUT**：Mod Long = HUT 36445（2014）、Max = HUT A83750（2003）、Max Long = HUT 31142（2007）、Ult = HUT 35609（2014）。
+   • **「3 次加液 × 每次 26 mL」不是经验值，而是 ULS 34724 的 75 百分位总载荷 ÷ 3** —— 支撑页：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+- **Long 规格的总载荷改用 HUT 而非 ULS 34724 —— 因为后者未区分 regular 与 long** —— 支撑页：Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）
+- **1999–2005 的 FIFE Flowback 不区分中高档（统一 30），2014 起才分档** —— 支撑页：Rewet Method Parameters（回渗测试方法参数沿革）
+- **FIUP 的前体方法由 2015 TOMLIN 项目开发（TL-15927）** —— 支撑页：Rewet Test（回渗测试）
+- **当前（2026）Poise 尺码体系为 1D–8D 数字命名（D = Drop 档）** —— 支撑页：Use-Test Loading & Leakage Percentil
+   • 概念：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）、Rewet Test（回渗测试）、LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）、芯体测试方法与验收基准（STM）
+- 源：Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）、Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）、Rewet Method Parameters（回渗测试方法参数沿革）、STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）、R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）
+- 对比：Rewet Method Comparison（回渗测试方法横向对比）
+- 组合：IPC BCC OI Portfolio（开放创新项目组合）（本资料使用 TL/STM/TTM 方法编号与项目代号体系，**与 OI 编号无关、不得换算**）
+
+--- [[R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）]]  (4 句)
+   • 本库**失禁产品线定量化的源头数据件**：把消费者使用实态转化为三条可直接用于设计的曲线——**单次排尿量分布（single insult）**、**累积载荷分布（loading）**、**渗漏发生率（LD50 / 渗漏率）**。下游所有 Poise/Depend 类 bench 加液参数（含 STM-00497）都由它派生。
+   • 报告明确三点用途分层：**single insult 决定 bench 冲击量，loading 决定所需容量，leakage 校核容量上限**。数据来自 2000–2008 年间的多项 HUT 与单次排尿量专项研究，覆盖 Poise® pantiliner 到 Ultimate Long 的全产品线；其中 Single Insult 部分给出各产品 10–100 百分位的分布（并注明 Ultimate Long 当时尚未测试、Regular 虽已退出美国市场但因其他地区仍在售而保留），N(insults) 从 311 到 1124、N(subjects) 从 38 到 161。Product Loading 部分给出各产品 50/70/80/90/95 百分位载荷，并记录了自 TL-11541 以来的两项变化：**Moderate 载荷上升、Maximum Long 载荷下降**；同时指出 Moderate Long / Maximum / Maximum Long / Ultimate 四者的载荷分布**显著重叠**，而 Pantiliner、Ultra Thin、Moderate、
+   • **bench 加液量不是实验室约定，而是消费者使用数据的统计分位**：缺失这一步的产品，其摄入/渗漏评价与真实工况脱节 —— 支撑页：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+- **排除渗漏样本会把容量需求算小**：本版把渗漏样本纳入后才得到真实分布，这是该系列报告最重要的方法论修正 —— 支撑页：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+- **三条曲线的分工清晰：single insult → bench 冲击量；loading → 容量目标；LD50 → 渗漏风险上限** —— 支撑页：Bladder Box Intake Test（膀胱箱压载摄入测试）、STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）
+   • 概念 Concept：Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）（本页派生）、Bladder Box Intake Test（膀胱箱压载摄入测试）、Rewet Test（回渗测试）、Run-off & Leakage Test（滑渗与渗漏测试）、Mannequin BM Test（BM 假人测试）
+- 源 Source：STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）（本报告的加液参数下游）
+- 实体 Entity：Kimberly-Clark（金佰利）
+
+--- [[US11013641 Garment for Detecting Absorbent Article Leakage]]  (4 句)
+   • **Electronic wetness/leakage detection on an over-garment（外穿服装上的电子湿感/渗漏检测）** — a substrate (garment) carrying a distributed wetness detection system, used to localise and time leakage from an absorbent article worn underneath.
+   • 1. **Conductive element as the transducer** — conductive materials listed: **conductive threads, conductive tape, conductive rubber, conductive wires**. Preferred: **silver-plated conductive thread at 60 ohms/meter**, exemplified by **Shieldex® 110/34 dtex 2 ply HC Premium Line**（polyamide 6.6 trilobal filament, **99% silver plating**）.
+2. **Read-out** — a controller applies **3.3 VDC** across the conductive thread and monitors the voltage at its ends. **Dry state ≈ full-scale 3.3 V; wet state v
+   • 1. **Direct route contrast: electronic vs chromic.** This patent is the *electronic* branch — silver-plated conductive thread + controller + ADC read-out. The KB's chromic branch（thermochromic / hydrochromic）answers the same "is it wet / did it leak" question **without power, electronics or an app**. Compare directly with Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3); see also Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04） for the broader se
+   • US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark) — 同一专利的既有另一摘要页
+- US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G) — 宝洁传感路线（windowed removable sensor）对照
+- Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04） — 智能感知纸尿裤技术全景
+- US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui) — 竞品集成式监测方案
+- Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) — 变色路线（本库 chromic-ink 
+
+--- [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]]  (4 句)
+   • P&G application publication that **quantifies blowout leakage**（稀便爆漏）as a measurable article property and claims a **waist guard + pocket** structure on the back elastic belt to suppress it — the source that connects diaper top-of-back architecture to a testable leakage number.
+   • The publication discloses a pant-type absorbent article having a **waist guard**（腰围护挡）on the back elastic belt, the waist guard comprising a waist guard elastic portion. Claim 1 defines the article by: front and back elastic belts whose transverse edge lengths are fully seamed over a seam length LS; the back elastic belt divided into zones as a percentage of LS (distal edge = 0%, proximal edge = 100%); a waist guard extending from a closed base line toward an open edge, **partially bonded to the
+   • **Blowout leakage is quantified, not asserted** — the patent supplies a test method (artificial BM on a tared paper towel) and a numeric gate. → Blowout Leakage Test（爆漏测试）
+- **Decoupled elastic zones are the mechanism** — the waist guard elastic portion and the correlated belt portion must have different tensile stress, otherwise the pocket cannot form/act. → Waist Guard（腰围护挡）
+- **The pocket is a geometric feature with a bounded location** (5%–60% of LS) — this is the claim-critical limitation. 
+   • Concepts 概念：Waist Guard（腰围护挡）、Blowout Leakage Test（爆漏测试）
+- Entities 实体：The Procter & Gamble Company（宝洁）
+- Related 相关：US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)、US10905605B2 Pull-On Wearable Article with Informational Image (P&G)
+
+--- [[Rewet Test（回渗测试）]]  (3 句)
+   • 1. **回渗的物理来源**：液体被 SAP 吸收后仍有一部分以**毛细水 / 颗粒间隙水**形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对**载荷**与**等待时间**极度敏感。
+2. **等待时间决定"自由回渗"的量**：注液后立即测（短等）读到的是面层残液；等待 10–15 min 后测读到的是"压力下长期未吸收液"。前者对应溢奶/快速活动的体感，后者对应久坐/夜间的体感。
+3. **载荷决定测量档位**：本库出现三档——国标 1.20 kg（直径 100 mm 压块）、U Rewet 的国标回渗压块（1 min）、高低压反渗的 2×4 kg（合计 8 kg）。**三档不可互相替代**。
+4. **读数计算在三种方法中高度一致**：（BM 便液版本同构）。
+5. **回渗与滑渗是互补指标而非重复**：回渗量液体"返出"，滑渗量液体"漏走"（见 Run-off & Leakage Test（滑渗与渗漏测试））。
+   • 上游指标：Cradle Intake Test（Cradle 摄入测试）（吸收时间）、SAP性能指标（CRC AUL GBP Vortex）（AUL / GBP 是回渗的物质基础）
+- 互补指标：Run-off & Leakage Test（滑渗与渗漏测试）（滑渗 / 渗漏）
+- 同族口径：Liquid Diffusion Test（液体扩散测试）（扩散长度）
+- 便液版本：Mannequin BM Test（BM 假人测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 对比：Rewet Protocols Compared（回渗测试口径对比）
+   • **约束**：*"Goal is to identify technologies that **won't negatively impact leakage**"* ⇒ **回渗可以升高，渗漏不可以**。
+
+--- [[Sensor-Equipped Absorbent Article（含传感器吸收性物品）]]  (3 句)
+   • 1. **两类集成位置**：
+   - **物品内置传感器**：在吸收性物品本体设窗口式可移除传感器（如 P&G US8273939B2 的 windowed removable sensor），直接读取物品内状态。
+   - **分体检测衣物**：穿戴在吸收性物品之外的独立衣物（如 K-C US11013641B2 的 leakage-detection garment），间接判断物品是否渗漏。
+2. **要解决的用户痛点**：看护者难以及时察觉渗漏/尿湿，导致漏液、红屁屁与频繁检查；传感化把"被动发现"变为"主动提示"。
+3. **与既有指示技术的区分**：不同于印刷/化学变色指示（湿敏油墨、力致变色），本方向偏**电子/结构传感**或窗口观察式，常配 APP/视觉提示。
+4. **商务边界**：具体电路、算法、量产成本与供应商属敏感信息；本页只沉淀专利面与机理，不页面化商务细节。
+   • 上位/相关：Wetness Indicator Ladder（尿湿指示阶梯）、Active Diagnostic Zones（主动诊断分区）、智能尿裤功能层
+- 传感测试：Pressure Sensory Test（压力触感测试）
+- 漏液测试：Run-off & Leakage Test（滑渗与渗漏测试）、Blowout Leakage Test（爆漏测试）
+   • US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G) —— 
+- US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark) —— 
+- US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand) —— （2026-09-29 追加）
+- US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui) —— （2026-09-29 追加）
+
+--- [[可穿戴传感器 Wearable Sensor]]  (3 句)
+   • **Core components & stimuli.** Smart textiles are built from **sensors, actuators and control units**; external stimuli are mechanical, thermal, magnetic, chemical and electrical（源：Smart Textiles Review）.
+- **Two hygiene integration positions.** (1) **In-article sensor** — a windowed, removable sensor in the absorbent article itself (e.g. P&G US8273939B2); (2) **separate detection garment** — an independent garment worn outside the article (e.g. K-C US11013641B2). The stated pain point: caregive
+   • **The main deployment battleground.** Hygiene products are ≈ **50% of the global medical-textiles market**, and "the most important feature is comfort" — the decisive acceptance factor for any wearable function（源：Smart Textiles Review）.
+- **Direct hygiene sensing routes** in the vault: windowed removable sensor (P&G) and leakage-detection garment (K-C)（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））；plus the smart-diaper IoT parameter pack（湿/温/尿量）（源：Sensor-Equipped Absorbent Article（含传感器吸收性物品））.
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (3 句)
+   • The **second-generation BM indicator design** for a composite breathable backsheet — it replaces the two-lane concept with a single protein-error lane, and works the problem from the other end: dye loading as the only selectivity knob, melt rheology, slot geometry, thermal load on the breathable film, and a full cost model.
+   • The mechanism is worked out in detail: the lane is buffered hard to pH 3.0 with a citrate / stearyl-phosphate acid system so the dye sits fully in its yellow protonated form; free amino groups on the polypeptide bind the dye anion electrostatically and stabilise it, shifting the apparent pKa down so the dye ionises and turns violet **while the bulk pH is still 3**. Trip point is set by dye loading alone via D × C* ≈ 2,500. Four independent defences against a false BM signal are listed (protein b
+   • 90-day plan：W1–2 screen the odour granular（go/no-go before any spend）→ W3–6 bench formulation（three dye loadings × two buffer levels）→ W7–9 pilot coater（capillary rheometer + 100–200 m/min + WVTR/hydrohead）→ W10–13 line trial（contact nozzle + chilled roll on one lane；Cpk、8-week ageing pull、stool panel）。
+- Odour-granular chemistry screen（risks）：Zeolite 4A/13X pH 9–11 HIGH；sodium bicarbonate pH 8.3 HIGH；activated carbon pH 6–10 MEDIUM（还会吸附染料）；cyclodextrin pH 6–7 LOW（兼容选择）；ion-exchange resin H⁺ for
+

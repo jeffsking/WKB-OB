@@ -1,0 +1,46 @@
+{
+  "batch": "S3_Areas_Supply Base_02",
+  "stage": "S3",
+  "block": "Areas/Supply Base",
+  "source_pages": [
+    "Symrise SymDeo™ XPP Polymer (Deo Polymer)",
+    "Symrise SymDeo™ XPP 抑臭聚合物（中文版）",
+    "Natural Superabsorbent Plastic Materials Based on Functionalized Soy Protein",
+    "AATCC TM100-2019 抗菌整理测试",
+    "AATCC 100 抗菌整理定量测试方法",
+    "SNF FloSorb & DryTech Superabsorbent（企业介绍）",
+    "功能性纤维产品简介（PTT/超仿棉/咖啡炭/纳米凉感）",
+    "GFL General Presentation for KC Asia 20260603",
+    "KC 访厂纪要 2026.7.1（江南高纤）",
+    "KC 访厂纪要 2026.7.1（总览·含江南高纤）"
+  ],
+  "concept_pages": [
+    "生物基高吸水材料（大豆蛋白 SAP）",
+    "抗菌整理定量测试（AATCC TM100 / AATCC 100）",
+    "SymDeo™ XPP 抑臭聚合物",
+    "咖啡炭纤维（异味吸附）",
+    "功能性差别化纤维（PTT/超仿棉/纳米凉感）"
+  ],
+  "entity_pages": [
+    "Symrise（德之馨）",
+    "SNF（法国）",
+    "GFL（热风无纺布）"
+  ],
+  "comparison_pages": [],
+  "updated_existing": [
+    "江南高纤"
+  ],
+  "manual_review": [
+    "GFL 年产能具体数字（商务敏感，仅记万吨级）",
+    "江南高纤 复合纤维 230 KTon/年 具体产能（商务敏感，仅记万吨级）"
+  ],
+  "notes": "本批多为企业/标准资料，Symrise 与 SNF 为供应商信息源；GFL、江南高纤产能数字按 §5 标 manual_review 仅记区间；江南高纤为既有页仅追加访厂信息。产品简介供应商名称未在读取段落出现，标 [待验证]。｜本轮复核（2026-09-29，串行复核）：10 份 source_path 在 WIKI/sources/ 均已存在对应页，按规则全部跳过重建、未覆盖任何已有页面；逐项反查派生引用，确认 10/10 源页均已被既有的 concept / entity 页引用（Symrise→Symrise（德之馨）+SymDeo™ XPP 抑臭聚合物；大豆蛋白→生物基高吸水材料（大豆蛋白 SAP）；AATCC 两份→抗菌整理定量测试（AATCC TM100 / AATCC 100）；SNF→SNF（法国）；产品简介→功能性差别化纤维 + 咖啡炭纤维（异味吸附）；GFL→GFL（热风无纺布）；访厂纪要两份→江南高纤），无断链、无需新建或追加。本轮新增页面 0。未改 index.md/log.md。",
+  "detail": {
+    "items_total": 10,
+    "source_pages_new_this_run": 0,
+    "source_pages_skipped_existing": 10,
+    "derived_pages_new_this_run": 0,
+    "derived_pages_appended_this_run": 0,
+    "link_check": "10/10 源页均已被派生页引用"
+  }
+}

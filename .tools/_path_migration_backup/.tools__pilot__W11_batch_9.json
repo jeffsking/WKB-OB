@@ -1,0 +1,65 @@
+{
+ "batch_id": "W11-9",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_65210118e68760694041875ae68bc332001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_原始引用索引.csv.md",
+   "name": "Chromic_Phenomena_原始引用索引.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_4cb6078755d71cc64fd1943b5210e39e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/Ebewole Polymer Science Technology_batch2_index_rebuilt.csv.md",
+   "name": "Ebewole Polymer Science Technology_batch2_index_rebuilt.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_295a90fa28902bc56d7f1d08d20b6fcb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch09_report.md.md",
+   "name": "Absorbent Technology_ch09_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_4ac222eb298983ecc0e1c979af73a6ef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ancient_Dyes_Pigments_Chemistry/Ancient_Dyes_深度拆解.md.md",
+   "name": "Ancient_Dyes_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_fa4efb2c37b4431784a764d6fee5f600001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Cosmetic Formulation Skin Care_深度拆书报告_academic_20260813.md.md",
+   "name": "Cosmetic Formulation Skin Care_深度拆书报告_academic_20260813.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_79a47a72b603fd747cc5d9b1256be423001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Cosmetic Science and Technology/ch34_Silicones_report.md.md",
+   "name": "ch34_Silicones_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_5b4bb7342d4b7fc5612fa395696d4731001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Dual Component Fiber/Dual Component Fiber_concepts.md.md",
+   "name": "Dual Component Fiber_concepts.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_3e1d3e2a881d6224df002119fd959473001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch02.md.md",
+   "name": "Ebewole Polymer Science Technology_ch02.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_10416c806dbb3a07524f5a6a7b77926f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters/Ebewole Polymer Science Technology_ch11.md.md",
+   "name": "Ebewole Polymer Science Technology_ch11.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_381baeecdb699f435000cffb747faa75001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Handbook of Adhesive Technology/Handbook of Adhesive Technology_Part3_report.md.md",
+   "name": "Handbook of Adhesive Technology_Part3_report.md.md",
+   "type": "markdown"
+  }
+ ]
+}

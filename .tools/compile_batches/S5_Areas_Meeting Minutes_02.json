@@ -1,0 +1,76 @@
+{
+ "stage": "S5",
+ "block": "Areas/Meeting Minutes",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/标准录音 2.mp3.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/标准录音 2.mp3.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/标准录音 2.mp3.md",
+   "name": "标准录音 2.mp3.md",
+   "title_hint": "标准录音 2.mp3"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与宝洁交流及行业情况.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与宝洁交流及行业情况.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与宝洁交流及行业情况.md",
+   "name": "与宝洁交流及行业情况.md",
+   "title_hint": "与宝洁交流及行业情况"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/企业介绍及合作交流.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/企业介绍及合作交流.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/企业介绍及合作交流.md",
+   "name": "企业介绍及合作交流.md",
+   "title_hint": "企业介绍及合作交流"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/不同人员自我介绍交流.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/不同人员自我介绍交流.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/不同人员自我介绍交流.md",
+   "name": "不同人员自我介绍交流.md",
+   "title_hint": "不同人员自我介绍交流"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/植物提取物功效测试与验证.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/植物提取物功效测试与验证.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/植物提取物功效测试与验证.md",
+   "name": "植物提取物功效测试与验证.md",
+   "title_hint": "植物提取物功效测试与验证"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/品牌定位与夏季产品策略.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/品牌定位与夏季产品策略.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/品牌定位与夏季产品策略.md",
+   "name": "品牌定位与夏季产品策略.md",
+   "title_hint": "品牌定位与夏季产品策略"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/材料及工艺相关探讨.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/材料及工艺相关探讨.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/材料及工艺相关探讨.md",
+   "name": "材料及工艺相关探讨.md",
+   "title_hint": "材料及工艺相关探讨"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903143922.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903143922.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903143922.md",
+   "name": "录音纪要_260903143922.md",
+   "title_hint": "录音纪要_260903143922"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司介绍与业务交流.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司介绍与业务交流.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司介绍与业务交流.md",
+   "name": "公司介绍与业务交流.md",
+   "title_hint": "公司介绍与业务交流"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司业务介绍及发展情况.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司业务介绍及发展情况.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司业务介绍及发展情况.md",
+   "name": "公司业务介绍及发展情况.md",
+   "title_hint": "公司业务介绍及发展情况"
+  }
+ ]
+}

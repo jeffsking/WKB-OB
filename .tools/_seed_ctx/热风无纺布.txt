@@ -1,0 +1,99 @@
+# SEED: 热风无纺布
+# type: concept | 原引用数: 3
+# 原 Cited by 列表:
+#   - Development of the nonwovens industry
+#   - Handbook of Nonwovens
+#   - Thermal bonding
+#
+# 全库正文命中 37 页，47 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[中科依兰]]  (3 句)
+   • **2026-06-15**：NDA 签署（OI-09，状态 Signed，On-hold 已解除，测试结果 positive）。
+- **2026-09-18（会议）**：明确技术方向调整——**重点从「尿味」转向「胶水/塑料袋气味」**；纳米除臭粉通过**油剂**施加于热风无纺布，需验证**喷嘴堵塞**与**线上跌落**问题。
+- 待办：中科依兰验证电话会（Teng 负责）确定悬浮液浓度与验证计划；是否推进到 JDA 或排他性协议（原文待讨论要点 6）。
+   • **2026-09-17（供应商台账）**：登记两个落点——**Plastic Odour Control（塑料异味控制）**与 **Zeolite Development（沸石开发）**；进展"测试结果为正面，需现场拜访"；**BM / 尿素方向待 SGS 报告**。法务：**NDA（2026-06-15）**；IP 保留。
+- **2026-09-18（重构版，OI-18 Odour Control）**：列为 **Medium / In progress**；**重点从"尿味"转向"胶水 / 塑料袋气味"**；技术口径为**纳米除臭粉 + 沸石经油剂施加于热风无纺布**，需验证**喷嘴堵塞**与**线上跌落**；待办含与供应商方的悬浊液浓度与验证方案电话会、以及 Sijie 除臭验证与油剂喷洒测试（10 月中旬）。
+- **2026-09-17（大纲 P25）**：评价体系锁定 **9 种代表性臭味物质**（丁酮、氨气、三甲胺、吲哚、异戊酸、2-乙烯醛、硫化氢、甲硫醇、二甲基二硫醚），其中**氨气是尿液分解的主要异味气体**；载体迭代关键—活性炭存在黑色污染与容量上限双重缺陷 →
+   • **2026-09（内部研讨，日期 ）**：
+  - **技术路线定案**：纳米除臭粉**不可能溶于油剂，但可做成悬浮液**放入油剂 —— 关键变量是**粉的纳米级别**与**悬浮液浓度**，需设定 n 个 code 做梯度验证。
+  - **施加位置定案**：喷在 **outcover 侧、贴 film 的那一面**（热风无纺布本身已有亲水油剂工序），由膜遮挡避免粉体跌落。
+  - **两个风险点（交付门槛）**：① 新维盛（辛维胜）的喷嘴喷含粉油剂时**是否堵塞**、能否均匀喷出；② 单层带粉材料上 KC 机器后，经多辊**粉体是否跌落（build-up）**。两点解决后即可交付。
+  - **推进节奏**：新维盛把油剂寄中科依兰 → 中科依兰配不同浓度悬浮液 → 路易斯（Louis）试喷 → 选出可喷浓度后立即做大货卷样 → 拉到 KC 工厂上机验证 build-up。
+  - **供方背景**：为**中科院体系下的实验室**（大连），需考察其**外包加工场地的稳定性**与科研能力；计划**年后组织现场考察**。
+  - **痛点优先级**：胶水/塑料袋气味是当前消费者痛点；**
+
+--- [[新维盛集团（Xinweisheng Group）]]  (3 句)
+   • **2021-12**：收购福建雷尔（松溪），使福建建阳与松溪两厂同属一个集团（来源：Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21））
+- **2024 下半年起**：与 K-C 中国开展生意，供货牌号含 R2100 系列；EM 侧亦有供货；并供 0.8 旦面层材料（ASR 转写另有「五八 k / 五 t」等牌号写法，[待验证]）
+- **来访交流会（日期 [待验证]）**：向 K-C BCC 侧完整介绍公司沿革、产能、设备与创新体系，并声明：
+  - **客户隔离机制**：P&G 与 K-C 的研发团队、销售团队、产线**完全分开**；未来可进一步**分工厂**
+  - **IP 机制**：主动开发项目可签 **1–2 年排他**；客户委托开发则 **IP 归客户**；明确拒绝抄袭客户产品
+  - **P&G 的量级为 K-C 的三倍**（⚠️ 商务量级，见下）
+- **行业排名**：供应商自述热风业务按量与营业额口径**排行业第三**（大元等在前），目标冲击第一/第二 [待验证]
+   • 热风粘合无纺布
+- ADL（导流层）
+- 延江（Yanjan）
+- Dayuan（大原）
+- 福建闽瑞新合纤
+- 江南高纤
+- Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）
+- P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况）
+   • P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况） —— 
+- Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） —— 
+- 双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21） —— （2026-09-29 追加）
+
+--- [[双组分纤维 Bicomponent]]  (2 句)
+   • Bicomponent fibres are the bonding and functional backbone of the hygiene stack: **carded / air-through webs**（热风无纺布）, **topsheet**（Topsheet（面层））, **ADL**（ADL（导流层））and spunbond/meltblown layers（纺粘 Spunbond、Meltblown Nonwoven（熔喷非织造布））all depend on low-melting sheath fibres — the industrial form of which is **ES fibre（PE/PP 皮芯）**（ES Fibre Hydrophilic Function and Applications、皮芯复合纤维）. In the drylaid branch, bicomponent blends are named alongside fluff pulp and SAP as the raw-material science that 
+   • Bicomponent Fibre Technology Development Trends
+- Bicomponent Fibre Technology Trends China and Abroad
+- Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）
+- Manufactured Fibre Technology Ch16 Polypropylene Fibres
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns
+- Thermal bonding
+- Dry-laid web formation
+- 皮芯复合纤维
+- ES Fibre Hydrophilic Function and Applications
+- 热风无纺布
+- 三叶形截面纤维（Trilobal Fibre）
+- Absorbent Techn
+
+--- [[Huayi Group（待核中文名）]]  (2 句)
+   • **2026-06-02（技术交流）**：KC 侧由 EM BCCC 研发负责人、原材料开发与工程团队负责人、李一凡、潘妮、Damon（无纺布/高分子/协调）及 IP 代表出席。交流结论集中在三处：**热风底布克重下探**（往 18–20 gsm 走）、**打孔工艺力度收敛**、**3D 压花的辊数路线（TR 三辊 vs ET 单辊）**；并确认 **DID 立体面层已在金佰利越南商用**、第二代 DID 目标 2026-08 泰国量产。
+- **2026-08-21（同批后续）**：因"三层切割（Triple Cutting）"这一前提被判定为**未验证概念**，本来源中"**华谊双功能导水面层、DID 立体面层为业界对标**"的对标结论被**一并剔除**（剔除的是**对标关系**，不是这两项产品本身）。详见 Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）、Triple Cutting Topsheet（三层切割面层）。
+   • EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流） —— 
+- Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） —— （2026-09-29 追加）
+
+--- [[格菲林（Gefilin）]]  (2 句)
+   • **2026-06-02（技术交流，KC 侧 HW Park、一凡、潘妮、Chris）**：议题为淮安新厂规划、**喷涂/滚涂能力**、**在线 3D 压花**与**「三梳理」产品定位**；KC 要求明确"三梳理"产品的具体应用方案与市场定位，并要求对齐全球测试标准。
+- **2026-08-21（同批后续）**：在热风无纺布供应商考察中被列为**可比供应商梯队**成员（与景其昌并列），详见 Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）。
+   • EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流） —— 
+- Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） —— （2026-09-29 追加）
+
+--- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]  (2 句)
+   • **四、卫材分层应用组合**：面层（Topsheet）——SMS（亲水）、SSS、水刺-纺粘，要求柔软亲肤、快速渗透、低回渗，**15–30 g/m²**；底层（Backsheet）——SMS/SMMS（拒水）、S/PE 膜复合，要求透气不透水、防渗漏、强度高，**13–25 g/m²**；芯体包裹——热风无纺布、SMS，要求蓬松柔软、导流性好、包裹 SAP，**10–18 g/m²**；腰围/魔术贴——SSS、SMMS，要求弹性好、可反复粘贴、不起毛，**20–40 g/m²**；左右贴/耳带——SMMS、SSS，要求强度高、柔软、可超声波粘合，**25–50 g/m²**；防漏隔边——SMS（拒水）、SMMS，要求拒水、柔软、不刺激皮肤，**12–20 g/m²**；湿巾基材——水刺-纺粘、水刺，要求吸水强、不掉絮、柔软，**40–80 g/m²**。
+   • **六、主要生产企业及产能（2025）**：厦门延江——热风无纺布、3D 打孔无纺布，**6–6.5 万吨/年**，3D 打孔技术、全球布局；浙江广鸿——SMS/SMMS/SSMMS/SSS，**6 万吨/年**，多层复合、在线检测；福建闽瑞——**ES 纤维（原料），10.5 万吨/年**，**超细旦 ES 纤维（≤1.0D）**；温州新宇——SMS/SMMS/水刺，6000 吨/年，医用卫材专用；金三发集团——水刺、纺粘、热风、可冲散，大规模，CAC 三梳理气流成网、可降解；稳健医疗——全棉水刺、SMS，大规模，全棉水刺专利技术。
+
+--- [[GFL General Presentation for KC Asia 20260603]]  (2 句)
+   • GFL（热风无纺布供应商）向 KC Asia 做的公司介绍（2026-06-03），本批作为「热风无纺布供应方」信息源。
+   • **GFL 是具备 13 条热风无纺布产线的卫品无纺布供应商** —— 支撑页：GFL（热风无纺布）
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (2 句)
+   • 1. **Free vs tension annealing 直接对应产线张力窗口**：自由 annealing 降取向降强力、增直径增旦数；张力 annealing 提强力而旦数不变。热风烘箱里网带是约束还是松弛状态，决定了成品布的 CD/MD 强力比与手感 — this is the same variable discussed in Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） and Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）。
+2. **永久定形机理解释了为什么热粘合后的布不再回缩**：皮层 PP/PE 的小不完善晶体在低于熔点处部分熔融并重结晶为更完善晶体，结构落到更低能量极小态。这是热风穿透温度必须略高于皮层熔点、又不能破坏芯层 PET/PP 取向的原因。参见 ES 双组分弹性纤维热风布（弹性体改性）。
+3. **两步收缩模型对尺寸公差有用**：非晶区解取向是快速的第一步，如果把商品布存放/再受热控制在第一步之后的结晶阶
+   • Manufactured Fibre Technology — book index
+- Manufactured Fibre Technology Ch08 Drawing of Melt-Spun Fibres — the orientation that heat-setting must stabilize
+- Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比） — bonding routes where set and shrinkage are set by the tension window
+- ES 双组分弹性纤维热风布（弹性体改性） — sheath-core ES fibre used in through-air bonding
+- Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21） — hot-air oven practice and line tension control
+- Elastic Tension & Cr
+
+--- [[可降解皮芯架构对比（PPC-PBAT 皮 × 四芯层）]]  (1 句)
+   • 可降解热风无纺布的架构决策，本质是**用 ΔTm 换工艺可行性、用货架期换降解叙事**：PLA 芯是唯一同时满足「工艺可调 + 货架期安全 + 供应现成」的方案，故为量产主线；PGA 芯提供最强叙事但须先过货架期关；PET 芯只作备份。真正决定成败的往往不是芯层，而是**皮层的粘合点强度（9.0 N/50 mm 门槛）与维卡 60.2 °C 的仓储边界**。
+
+--- [[Multilayer SAP Core（多层SAP芯体）]]  (1 句)
+   • 1. **固定机制**：SAP 沉积在下层高蓬松热风无纺布上 → 覆上层无纺布 → 在 land 区（无 SAP 带）land-to-land 压合/粘合，把 SAP 限制在 pocket 内。与 Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） 的"land 也是封堵凸台"原理同源。
+2. **功能分层**：靠**两层不同性能的 SAP** 分工——上层用**高渗透型**（high permeable，快速下渗），下层用**高保水型**（high retention，锁水）。这是本架构相对"单一 SAP 牌号均匀混合"的核心增益。
+3. **层间用胶极少量**：示例构型中每层界面仅 **3 gsm** 热熔胶，主固定力来自 land 压合而非胶（对照 Glueless Bonding（无胶粘合工艺族））。
+4. **与 Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体） 的关系**：本架构是"无浆化"的一条实现路径；差异在于**用高蓬松无纺布替代绒毛浆的分散与缓冲功能**，而非用 SAP 吸水纸（SAPP）或 
+

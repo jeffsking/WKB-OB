@@ -1,0 +1,65 @@
+# SEED: 电子纺织品 E-textile
+# type: concept | 原引用数: 2
+# 原 Cited by 列表:
+#   - Wearable Electronics (National Science Review 2023)
+#   - Wearable Sensors Fundamentals Implementation and Applications
+#
+# 全库正文命中 8 页，11 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[导电纱线 Conductive Yarn]]  (2 句)
+   • **导电纱线（conductive yarn）** is a yarn that carries an electrical function — used in e-textiles as **wiring and/or as the sensing transducer**. In the vault's one hygiene-grade application it is the **conductive element of an electronic wetness-detection system**: the conductive materials listed are **conductive threads, conductive tape, conductive rubber, conductive wires**, with the preferred element being a **silver-plated conductive thread at 60 ohms/meter**（源：US11013641 Garment for Detecting A
+   • Smart Textiles & Wearables — cited-by: parent index of the smart-textiles / wearables collection
+- Smart Textiles Review — cited-by: conductive-yarn resistivity range 0.5 Ω/m to kΩ/m; integration methods
+- US11013641 Garment for Detecting Absorbent Article Leakage — silver-plated conductive thread 60 Ω/m; Shieldex® exemplar; 3.3 VDC resistive sensing
+- Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns — antistatic / conductive-fibre routes and their wash-durability rank
+
+--- [[Smart Textiles & Wearables]]  (2 句)
+   • A curated set of 10 Chinese-named 拆解 extractions covering the smart-textiles & wearables knowledge landscape — from stimuli-responsive polymers and wearable sensing/electronics to e-textiles, flexible electronics, chromic/PCM/shape-memory functions, and thermoelectric harvesting.（中文：智能纺织品与可穿戴领域的 10 篇拆解合集，覆盖刺激响应聚合物、可穿戴传感/电子、电子织物、柔性电子、变色/相变/形状记忆、热电采集等主线。）
+   • Stimuli-Responsive Polymer Materials (Nature Materials Review) — 2010 Nature Materials 综述：刺激响应聚合物的2D薄膜/3D粒子架构与应用。
+- Wearable Sensors (Book Preview) — Elsevier《可穿戴传感器》专著预览（目录级）：e-textile→能量采集→算法→WBAN全栈。
+- Wearable Electronics (NSR Editorial) — 彭慧胜 NSR 社论：可穿戴电子从刚性→薄膜/纤维化演进与特刊10篇导读。
+- Smart Textiles and Sportswear — 运动/防护智能纺织品综述：特种纤维代际、感知-响应架构、PCM/SMP/仿生。
+- Smart Textile Visual Perception (GRID) — Koncar GRID 报告：机织光纤与电致变色两类纺织柔性显示及变色机理。
+- Smart & Connected Garments (IEEE) — IEEE 综述：CNT纤维天线/致动器、联网服装与
+
+--- [[Wearable Electronics (National Science Review 2023)]]  (2 句)
+   • **薄膜化与纤维化是两大主流**——薄膜（减小一个维度）与纤维（减小两个维度）是可穿戴电子的两个互补发展方向。
+- **纤维形态电子器件可水洗数百次**——电子纺织品的可洗性是区别于传统电子器件的关键特性。
+- **摩擦纳米发电机（TENG）是无源传感器的重要方向**——Zhong Lin Wang 综述的自供电传感器对智能纺织品/卫生用品传感有直接意义。
+- **辐射冷却材料是新兴方向**——Cheng-Wei Qiu & Guangming Tao 综述的辐射冷却对可穿戴热管理有潜力。
+- **表观电子学（John A. Rogers）**——表皮级柔性电子是可穿戴电子的终极形态。
+   • Wearable Electronics (National Science Review 2023)
+- 可穿戴传感器 Wearable Sensor
+- 电子纺织品 E-textile
+- 摩擦纳米发电机 TENG
+- 辐射冷却材料 Radiation Cooling
+- 柔性电子 Flexible Electronics
+
+--- [[可穿戴传感器 Wearable Sensor]]  (1 句)
+   • Wearable Electronics (National Science Review 2023) — two directions (thin-film / fibre-form); washability
+- Wearable Sensors Fundamentals Implementation and Applications — "meta-wearable" textiles; hygiene cross-points
+- Smart Textiles Review — passive/active/ultra-smart taxonomy; routes; market; six challenges
+- Smart Textiles & Wearables — parent collection index for the smart-textiles / wearables knowledge set
+- Sensor-Equipped Absorbent Article（含传感器吸收性物品） — in-article sensor vs separate det
+
+--- [[热电现象 Thermoelectric]]  (1 句)
+   • Within the smart-textiles & wearables landscape, **thermoelectric harvesting** is one of the named function families — listed alongside stimuli-responsive polymers, wearable sensing/electronics, e-textiles, flexible electronics, and chromic / PCM / shape-memory functions（源：Smart Textiles & Wearables）. A dedicated survey on the topic is carried as Thermoelectric Materials and Applications Review.
+
+--- [[Handbook of Polypropylene and Polypropylene Composites]]  (1 句)
+   • **SSMMS / coverstock work.** The ~35 MFR CR homopolymer (spunbond) vs. ≥500 MFR narrow-MWD (meltblown) pair is exactly what an SSMMS line buys in two different resin lots; see Polypropylene Handbook Spunbond and Meltblown Nonwoven Resins for the chapter-level extraction and Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes for the process mechanics.
+- **PP fibre feedstock selection.** Manufactured Fibre Technology Ch16 Polypropylene Fibres covers the same fibre families f
+
+--- [[Smart Fabric Textiles Recent Advances and Challenges]]  (1 句)
+   • US20070270773A1 Thermochromic Wetness Indicator — the disposable-implementation counterpart to this review's chromic taxonomy
+- Chromic Phenomena Solar Energy and Liquid Crystals — underlying physical chemistry of the chromic mechanisms listed in §4.1
+- Mechanochromic Elastomer from PDLC 5CB PDMS — pressure-chromic route, one of the seven mechanisms, developed further
+- Interactively Mechanochromic Electronic Textile Sensor — the printed-PEDOT / e-textile strain-sensor route from §3 in concrete 
+
+--- [[Wearable Sensors Fundamentals Implementation and Applications]]  (1 句)
+   • 可穿戴传感器 Wearable Sensor
+- Wearable Electronics (National Science Review 2023)
+- 电子纺织品 E-textile
+- 健康监测 Health Monitoring
+- 智能包装 Smart Packaging
+- 湿感指示条 Wetness Indicator
+

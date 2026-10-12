@@ -1,0 +1,65 @@
+{
+ "batch_id": "W15-6",
+ "items": [
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_5c73285ed30472ac1cf5d1a65eac36c4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/智能织物与联网服装_IEEE_拆解.md.md",
+   "name": "智能织物与联网服装_IEEE_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_a36794a26e2122e5302aebf75deba154001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/液晶物理学_书评_拆解.md.md",
+   "name": "液晶物理学_书评_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_5dbdeb2961a669eee13170db9a637033001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Intelligent_textiles_and_sports_clothing.pdf.md",
+   "name": "Intelligent_textiles_and_sports_clothing.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b0f8f6466944ecddb02ee6042477bb58001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US11013641_失禁传感_拆解.md.md",
+   "name": "US11013641_失禁传感_拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_38150b3603abe521df40e3586e055c9c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Origin_of_Rubber_Elasticity.pdf.md",
+   "name": "Origin_of_Rubber_Elasticity.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1bbebfe8e19e10e02dc4f6fe5c9dffd3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/LC_Antiferroelectric_DeepRead.md",
+   "name": "LC_Antiferroelectric_DeepRead.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_318fed7425b241fbad9bf31dcc5f5317001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Smart_Fabrics_and_Networked_Clothing.pdf.md",
+   "name": "Smart_Fabrics_and_Networked_Clothing.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7887557415b91204c814eb99d0589af9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Engineering/87-卫材产线约束常量表_待并入补充行.md.md",
+   "name": "87-卫材产线约束常量表_待并入补充行.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_1d4b851ee45903d524af453753ee2ec9001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Wearable_electronics.pdf.md",
+   "name": "Wearable_electronics.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_a308151c34aa43511dfadd9141488cd1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/涂布复合技术.pdf.md",
+   "name": "涂布复合技术.pdf.md",
+   "type": "pdf"
+  }
+ ]
+}

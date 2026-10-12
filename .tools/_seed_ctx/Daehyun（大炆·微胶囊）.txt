@@ -1,0 +1,103 @@
+# SEED: Daehyun（大炆·微胶囊）
+# type: entity | 原引用数: 6
+# 原 Cited by 列表:
+#   - Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一）
+#   - Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN）
+#
+# 全库正文命中 67 页，115 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[变色油墨]]  (5 句)
+   • 1. **热致变色（温敏）**：主流为 **leuco 染料微胶囊体系**——供电子体（leuco 染料）: 受电子体 : 脂肪酸 ≈ 1:5:50 的配比，通过熔融/结晶的可逆转变实现显色/褪色。典型用于尿湿指示（体温或尿温触发）。
+2. **力致变色（力敏）**：机械力改变分子排列或光子晶体结构导致颜色变化。代表应用为**拉伸变色**（K-C US7704589B2，已失效）与液晶弹性体变色纤维（可机洗应变可视化）。
+3. **湿敏/化学比色**：pH 或离子强度变化引发比色反应（如 CN114209501A 的 pH 纳米微胶囊纳米纤维膜）。
+4. **载体形态要求**：印刷油墨/涂层（丝网印刷于底膜外侧、弹性侧片等），或作为薄膜/纤维基材的负载相。**功能层多在非皮肤面**，对材料安全性要求相对低。
+5. **与本库其他方向的接口**：变色油墨可作为「视觉反馈」层与压力传感（力敏）、湿态指示（温敏/湿敏）耦合；BNC 膜/纤维可作比色指示基材。
+   • **要点**：leuco 微胶囊体系的三组分配比是性能（变色温度、灵敏度、可逆性）的核心杠杆；纺织/卫材场景还须考虑耐水洗与迁移安全性。
+- **2026-09-29 追加要点（力敏侧材料细目与阈值缺口）**：路线图列出四种力致变色候选——**HPC**（黏弹性格点间距变化 → 压缩蓝移；可食/无毒/可降解）、**Naphthopyrans**（共价键断裂 → 模块化变色；稳定性与合成可达性最优）、**Spiropyrans**（6π 电环化开环 → 强显色；**热致瞬态**）、**Cu-based HCP**（发光位移；抗环境污染）。共同瓶颈是**力值缺口**：工业力色团需 **40,000 PSI**，卫材目标仅 **20–150 kPa**，需用「stabilization bridge」（胶凝剂，如 gelatin）调流变下移阈值。出处同上；详见 Active Diagnostic Zones（主动诊断分区）。
+- **待补 **：变色油墨的迁移/安全合规口径（涉化学品，须过法规前置条件）。
+   • **100% 无 BPA、零甲醛、零重金属**；框架为 **ISO 10993**（细胞毒性/刺激性/致敏）+ **REACH** + **FDA** + **GB/T 35613-2017 / GB/T 36420-2018**。
+- **绝对禁止**回渗、可见渗色与直接皮肤接触；指示层须位于**非皮肤接触面**（外层/底膜窗口）；粉末形态在验证前禁用皮肤层。
+- **Matsui（松井）**部分产品含**微量甲醛**，官方指引排除婴儿直接接触 → 相关门控条件与实体记录见 Matsui Shikiso (松井)。
+- 微胶囊化（封装成熟度）是**供应商真实差异轴**，而非色化学本身，见 Microencapsulation。
+   • 本批**技术增量不在联系表，而在同批的 温变湿变微胶囊技术参数对比表**——首次给出温变 vs 湿变微胶囊约 15 个参数维度的横向对比（粒径与 CV、壁材、包覆率、可逆性、响应时间、循环寿命、印刷适配、耐候/储存寿命、成本区间、标杆供应商）。详见：
+
+--- [[Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一）]]  (4 句)
+   • 韩国微胶囊厂商 **Daehyun（(株)大炆 / 大炫）** 的中英双语产品目录，覆盖**温变（TCC）、感光（PCC）、香味（Aroma）、防虫（M-Care）、抗菌抗虫（I-Care）**五大胶囊系列。本批作为「变色微胶囊供应方」信息源。
+   • The catalogue presents Daehyun as a microcapsule specialist pursuing "The World of Microcapsule". Stated capabilities: **in-house synthesis** of ultrafine capsules, **oil- and water-based** applicability, **adjustable capsule size**, **customized activation temperature and colour**, **customized fragrance and concentration**, and optional **high light fastness (HLR)**. The **TCC (thermochromic)** line is offered as slurry or powder, in Normal and HLR grades, with a colour chart spanning roughly 
+   • **Daehyun 是具备自主合成能力的微胶囊厂商，覆盖温变/感光/香味/防虫/抗菌五条产品线** —— 支撑页：Daehyun（大炆·微胶囊）
+- **温变胶囊以 slurry / powder 两形态 + HLR 高耐光档供货，主打 BPA-free** —— 支撑页：温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）
+   • 实体：Daehyun（大炆·微胶囊）
+- 概念：温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）、变色油墨、Microencapsulation
+- 同源副本：Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN）
+
+--- [[Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN）]]  (4 句)
+   • Daehyun（(株)大炆 / 大炫）微胶囊产品目录的**另一份副本**（无「(1)」后缀），内容与副本一一致；作为「变色微胶囊供应方」信息源的重复登记件。
+   • Companion copy of the Daehyun EN-CN catalogue. It repeats the same structure: company vision "The World of Microcapsule", five product families (**TCC** thermochromic, **PCC** photochromic, **Aroma**, **M-Care**, **I-Care**), and the same capability claims — in-house synthesis, oil/water applicability, adjustable capsule size, customized temperature and colour, customized fragrance and concentration, optional **HLR** (high light resistance). Slurry and powder forms are offered. No hygiene-specif
+   • **本文件为副本，技术结论应回指副本一，避免重复计数** —— 支撑页：Daehyun（大炆·微胶囊）
+   • 实体：Daehyun（大炆·微胶囊）
+- 概念：温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）、变色油墨
+- 同源副本：Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一）
+
+--- [[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]  (4 句)
+   • 台系变色材料供方（CHT1608V2 系列）的**感温变色（thermochromic）微胶囊材料说明**：与库内 Thermochromic Microcapsule (Leuco Dye System) 概念直接互证，并补齐 **-15~70 ℃ 温区、IT/DT 滞回、多段变色**等选型参数。
+   • Product guide. Mechanism: microcapsule encapsulating 隐形染料（leuco dye）+ 色形成剂（colour developer）+ 控温剂（temperature regulator）；不同控温因子实现不同变色温区，产品范围 **-15~70 ℃**。Colour rule: low temperature coloured → high temperature colourless. 15 colours per temperature point (70 ℃ only black & deep blue), mixable and tintable; Pantone-approximate swatches. Forms: **感温水乳液**（3–10 µm 微胶囊水性分散液，固含约 45±5%；水性油墨/涂料 5–60% w/w 典型 25%；避免甲醇/乙醇/丙酮/丁酮等高极性溶剂渗透；凝集分层可 45 ℃ 水浴再分散；pH 变化可能影响显色）；**感温微胶囊粉**（平均粒径 3–10 µm，含水率 ≤3%，耐溶剂耐分散；油
+   • **温变微胶囊的 IT/DT 滞回（约 3–4 ℃）与基材导热会影响实际显色区间——尿显/温显阈值设计必须按滞回标定** —— 支撑页：Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）、Thermochromic Microcapsule (Leuco Dye System)
+- **多段变色靠不同控温点的感温粉 + 底色颜料级联拼配实现** —— 支撑页：温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）
+   • 概念：Thermochromic Microcapsule (Leuco Dye System)、温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）、Chromism Taxonomy（变色现象分类）、Wetness Indicator Ladder（尿湿指示阶梯）
+- 对比：CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）、温变 vs 湿变微胶囊技术参数对比
+
+--- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]  (4 句)
+   • 台系变色材料供方（CHT1608V2 系列）的**芳香微胶囊（fragrance microcapsule）材料说明**：在本库中对应 Microencapsulation 的香味缓释分支——卫品加香（湿巾/纸尿裤）应用的剂量与合规窗口来源；其「部分香精未过 IFRA」提示是关键风险点。
+   • Product guide. Principle: microencapsulated perfume oils release slowly via pressure, friction, heating or natural diffusion; scent lasts >6 months ("长效型香味材料"). Fragrance menu: standard（玫瑰/薰衣草/茉莉/尤加利/香茅/薄荷；草莓/柠檬/橘子/苹果/葡萄；桧木/檀香/樟脑）与 special（香草/洋甘菊/紫罗兰/郁金香/松树/野莓/兰花；西瓜/樱桃/哈密瓜/香蕉/凤梨；蜂蜜/肉桂/咖啡）；可代工客制包覆（须纯油性香精）。Forms: **芳香水乳液**（3–10 µm 微胶囊水性分散液；香精易挥发故无法测定标准固含量；水性网印/涂料/油墨 5–30% w/w 典型 25%；凝集分层可 45 ℃ 水浴再分散）；**芳香微胶囊粉**（**美耐皿 Melamine 壳材**，耐溶剂耐分散；油墨/涂料 5–30% w/w 典型 25%；射出/押出 1–5% w/w 典型 3%，建议低温树脂如 EVA/PU；油
+   • **芳香微胶囊的壳材为美耐皿、释放靠机械力/热触发——与温变/湿变微胶囊同为 Microencapsulation 平台的不同功能载荷** —— 支撑页：Microencapsulation
+- **「部分香精未通过 IFRA」是该系列用于卫品前必须逐项核对的第一道合规闸门** —— 支撑页：IFRA Standards 与 12 大产品类别体系
+   • 概念：Microencapsulation、IFRA Standards 与 12 大产品类别体系、Phenoxyethanol（苯氧乙醇）（防腐/香精安全对照）
+- 实体：Symrise（德之馨）、Matsui Shikiso (松井)（微胶囊技术对照）
+- 对比：CHT1608V2 三系列变色材料对比（UV 感光 vs TM 感温 vs SS 芳香）
+
+--- [[温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）]]  (3 句)
+   • 上位：变色油墨（微胶囊是变色油墨的功能相；形态与化学是两条独立轴）
+- 相关：Microencapsulation（包覆工艺族）、Thermochromic Microcapsule (Leuco Dye System)（leuco 体系专页）
+- 应用：Wetness Indicator Ladder（尿湿指示阶梯）、Water-Activated Ink（水变／湿变油墨）、Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）
+- 对比：温变 vs 湿变微胶囊技术参数对比（本页参数的横向对比页）
+   • **教训一（壁垒不在色化学，在微胶囊工程）**：本页参数显示，区分国内外厂商的关键不是「能不能变色」，而是**粒径 CV（≤15% vs ~30%）**、**包覆率（≥92% vs 75–85%）**与**储存寿命（12–24 月 vs 1–3 月）**三项工程指标。选型时应把这三项写进规格书，而非只谈变色温度。
+- **教训二（湿变的供应链风险显著高于温变）**：湿变对壁材致密性（水分子 ~0.28 nm）与全链路密封的要求，使其工艺难度、失效风险与供应商集中度都高于温变；**CTI 在湿变领域近乎垄断**，国产处于起步阶段 → 立项时须把「单点来源」当作显性风险，见 温变 vs 湿变微胶囊技术参数对比。
+- **教训三（国内厂商多为配方/应用，基础微胶囊外购）**：源表对多家国内厂商的备注是「以配方和应用为主，基础微胶囊技术仍落后」——采购国内方案时应追问**胶囊来源**，否则等于间接采购进口胶囊。
+- **待补 **：卫材产线（溶剂型凹印）下的粒径/粘度实测窗口；40 °C/75% RH 条件下的误触发率；尿显场景对可逆/不可逆的取舍；国内厂商第三方检测口径。
+   • 温变湿变微胶囊技术参数对比表 —— （2026-09-29 建立）
+
+--- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]  (3 句)
+   • **"用细菌纳米纤维素（BNC）纳米纤维网络本身做热管理层，不用相变微胶囊"的技术评审（英文）**。本库价值：它是 PCM-Free Thermoregulation 概念页的**主论证源**——把"温控"从一招拆成**四个可分离的物理功能**，并据此论证**微胶囊对多小时微气候舒适是冗余的**。
+   • **问题框定 · 微胶囊税（The Microcapsule Tax）**：相变微胶囊解决一个热尖峰，却从四个方向收费——① **+gsm / +cost**（每单位额外材料与转化工序）；② **壳层脆弱 → 破裂与批次差异**（破胶囊污染 SAP、放宽过程控制限）；③ **液态 PCM 泄漏 → 皮肤刺激 + 回渗/气味恶化**；④ **多供应商链 → 库存与 QA**（特种包埋增加一层脆弱且带可持续负担的供应层级）。
+   • **温控 = 四个可分离物理功能，其中 3 of 4 是结构性的 → 微胶囊对稳态舒适冗余** —— 支撑页：PCM-Free Thermoregulation
+- **多小时舒适是稳态问题；尖峰吸收只在排尿后最初 ~60 s 有意义** —— 支撑页：Diaper Microclimate
+- **微胶囊税四条账单：克重/成本、壳层脆弱、PCM 泄漏、多供应商链** —— 支撑页：Microencapsulation、Thermochromic Microcapsule (Leuco Dye System)
+- **Knudsen 效应是 BNC 低导热的物理根因：纳米孔 ≈20–200 nm ≈ 空气平均自由程 ≈68 nm** —— 支撑页：细菌纳米纤维素
+- **PCM 加固体壳质量反而略微恶化隔热（0.035 → 0.045–0.060 W/m·K）** —— 支撑页：PCM-Free Thermoregulation
+- **三条残余差距是有界的（超窗口后 PCM 同样无贡献）——PCM-free 是默认路径而非万能答案** —— 支撑页：Diaper Microclima
+
+--- [[Synthesis and Characterization of a New Family of Photoactive Liquid Crystalline Polyesters based on α-methylstilbene]]  (3 句)
+   • Establishes the photoresponsive main-chain LCP polyester family (P1–P4) and proves that α-methylstilbene E–Z isomerization is the switch for reversible liquid-crystalline order and surface wettability — the material basis for later microcapsule/permeability work.
+（确立了光响应主链液晶聚酯 P1–P4 家族，并证明 α-甲基芪 E–Z 异构是液晶序态与表面润湿可逆切换的开关，是后续微胶囊/透过性研究的材料基础。）
+   • The goal is a UV-sensitive main-chain nematic polyester family using 4,4′-dihydroxy-α-methylstilbene as the photoactive mesogen, as precursor shells for light-triggered-release microcapsules.（目标是以 4,4′-二羟基-α-甲基芪为光活性介晶制备主链型 UV 敏感向列液晶聚酯，作为光触发释放微胶囊壳材前驱体。）
+- Homogeneous condensation yields only oligomer (P1, DP≈7.9, 14% yield); liquid–liquid phase-transfer-catalysed interfacial polyesterification (Jegal & Blumstein) gives high-Mw P2 (Mw≈41,400 g/mol, 68% yield) — synthesis route is the key process c
+   • 父书索引：Liquid Crystalline Polymers Smart Applications
+- 微胶囊应用章：Preparation and Characterization of Light-Sensitive Microcapsules based on a Liquid Crystalline Polyester
+- 原子级机理章：An Atomistic Insight into Light-sensitive Polymers with Methylstilbene Building Blocks
+
+--- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]  (3 句)
+   • Three routes are defined, all sharing microencapsulation as the enabler: **R1 thermochromic ink/pigment** (printed stripe or laminated label patch at the outer-surface core-centreline / crotch panel; reversible for comfort cues); **R2 hot-melt wetness glue** (glue line on the backsheet inner face; urine triggers an irreversible yellow/orange→blue change; 84% of the market; lowest risk, fits existing converting lines); **R3 water/solvent hydrochromic ink** (printed on breathable film or nonwoven 
+   • Mechanisms: thermochromic systems are **reversible leuco-dye microcapsules** (leuco dye + developer + solvent, stable below threshold, electron transfer / phase change at or above threshold, reversible on cooling) with a customisable 30–37 °C activation band and representative display points 32/34/36 °C; hydrochromic systems trigger on **liquid contact** (far more realistic than a true RH sensor). For MVP the review prefers the hot-melt route and treats water-based ink as the phase-2 differentia
+   • **International (8 ranked by hygiene fit)**: CTI (Chromatic Technologies, USA) thermo/photo/hydro full range — primary thermo; Matsui Shikiso (Japan) thermo/photo leader (Chromicolor / Thermolock) — primary thermo with a formaldehyde caution; Bostik (Arkema, France) hot-melt wetness glue (90% bio-based) — primary wet; Henkel (Germany) TECHNOMELT — primary wet; H.B. Fuller (USA) Full-Care — primary wet; Intellego Technologies (Sweden) photochromic wetness indicator; OliKrom (France) custom thermo
+
+--- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]  (3 句)
+   • **机理**：温变 = 微胶囊包裹**隐色染料（leuco dye）+ 显色剂 + 溶剂/温控介质**，达到阈值时发生电子转移或相变，实现"有色 ↔ 无色"或颜色互变；湿变 = 油墨/胶层遇水后树脂溶解或结晶/络合反应，由无色或黄色变青/蓝色（或不透明 → 透明），**以液体接触/迁移触发为主**（比真正的 RH 传感器更现实），尿显胶主流为**不可逆变色**以确保一次性使用准确性。**微胶囊封装（microencapsulation）是三条路线共同的 enabling 技术**——决定色变稳定性、耐迁移性与印刷适性，是**供应商核心能力的分水岭**。
+   • **GO（条件通过）但须走"双低后悔 MVP"，且不得替代现有 WI** —— 支撑页：Thermochromic vs Hydrochromic Wetness-Comfort Indicators
+- **微胶囊封装是三条路线的共同 enabling 技术，也是供应商能力分水岭** —— 支撑页：Microencapsulation、Thermochromic Microcapsule (Leuco Dye System)
+- **湿变以液体接触/迁移触发为主，比真正 RH 传感器更现实；尿显胶主流为不可逆** —— 支撑页：Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Glue
+- **false trigger（误触发）率的量化是 MVP 退出的最关键门槛之一** —— 支撑页：Diaper Microclimate
+- **强 claim（"actively maintaining a just-right zone"）接受度不足，宜从"help you know when to act"的视觉 cue 切入** —— 支撑页：
+   • 概念：Thermochromic Microcapsule (Leuco Dye System)、Water-Activated Ink（水变／湿变油墨）、Wetness Indicator Glue、Microencapsulation、Chromism Taxonomy（变色现象分类）、Diaper Microclimate、Wetness Indicator Ladder（尿湿指示阶梯）、Signal Comprehension Gate、Material Safety Control（材料安全双轨管控）
+- 实体：CTI (Chromatic Technologies)、Matsui Shikiso (松井)、Bostik、汉高、H.B. Fuller（富乐）；其余候选（Intellego、OliKrom、DaeHyun、LCR Hallcrest/SpotSee、New Prismatic、Nan Pao、三瑞卫护、千色变、广州乐迪、科维尔 Keywell、格林春天、名博防伪、长沙新诺、崇裕科技、深圳市变色科技）**仅在本文供应商矩阵中登记，未单独建页**
+- 对比：Ther
+

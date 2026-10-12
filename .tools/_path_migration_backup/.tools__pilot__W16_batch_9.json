@@ -1,0 +1,65 @@
+{
+ "batch_id": "W16-9",
+ "items": [
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_686dbadf9f80619f7994118f429044c4001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/SAM_511_分析汇报.pptx.md",
+   "name": "SAM_511_分析汇报.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "markdown_f21d6858ac1535b95041b79130a4c57b_c1364531156ac82a33a9ace24552001d001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/07_智能感知纸尿裤技术研究报告.md.md",
+   "name": "07_智能感知纸尿裤技术研究报告.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_8b11427bd0352c600362f646daa47015001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/X-Chromic/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "name": "BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_b215e3d93505029e9e97714aae83a362001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/X-Chromic/The_Chromatic_Shift.pptx.md",
+   "name": "The_Chromatic_Shift.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_553bfb8ac16528977a0f503535f4b8e1001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/SAM/17-SAP选型与实验数据决策库.docx.md",
+   "name": "17-SAP选型与实验数据决策库.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_b1c50ded31984c999499de1be73c1706001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Intake/Product Report-Out FB.xlsx.md",
+   "name": "Product Report-Out FB.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_f329eae382fb30441f9bb5c89719ca59001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨生产商研究报告_20260612.md.md",
+   "name": "变色油墨生产商研究报告_20260612.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_c11277e06c23a2f59f39a100218c94cf001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Liner-Surge Interface HSBL Trial.xlsx.md",
+   "name": "Liner-Surge Interface HSBL Trial.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_3dab3f0eb28295698d2c252d14fe72ef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md",
+   "name": "GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_9a7d243571a865f61588e2f895b0f8cc001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.03.26 - Raegan Informal.pptx.md",
+   "name": "2025.03.26 - Raegan Informal.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

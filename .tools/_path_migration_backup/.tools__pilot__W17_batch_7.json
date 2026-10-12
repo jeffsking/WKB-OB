@@ -1,0 +1,65 @@
+{
+ "batch_id": "W17-7",
+ "items": [
+  {
+   "media_id": "session_3867e2b60070d7dc3f413086d0b0036e_69f06be0bdd6d377215bb6d1f767e9fd1a9a",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Structure/纸尿裤结构.md",
+   "name": "纸尿裤结构.md",
+   "type": "session"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_ca99e664684a5daa92ccc9f7a415fe23001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.06.25 - Learning Cycle Check In.pptx.md",
+   "name": "2025.06.25 - Learning Cycle Check In.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c769d70c735d8ebeeeaf8ed30a99e4e3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf.md",
+   "name": "R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf.md",
+   "type": "pdf"
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_f65afb82c91707b225b94cce95b55bb8001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+   "name": "2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx.md",
+   "type": "word"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_922c19a4e6b3991ea967a265057c0232001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx.md",
+   "name": "Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_19ed02b0b48a1714e4459bd911d1cdfb001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx.md",
+   "name": "03.25.26 - ADT Brain Trust - Fluff and Rewet.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_df4baf3bb49556c9460f41b074103cb3001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Always Discreet Adhesive Pattern Dimensions.pptx.md",
+   "name": "Always Discreet Adhesive Pattern Dimensions.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_e9e82c0d2e58087ab2dcfe00da6b4162001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/Rewet Method Parameters.pptx.md",
+   "name": "Rewet Method Parameters.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_403415d53ee7db8f21a81f24187dc252001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Products/1p v 3p CD Pants Overview.pptx.md",
+   "name": "1p v 3p CD Pants Overview.pptx.md",
+   "type": "ppt"
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_12cf0e1121f76684e3f9f8029340e517001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Open Innovation/Structure/REL_Simulation_Baby_Diaper_Core.pptx.md",
+   "name": "REL_Simulation_Baby_Diaper_Core.pptx.md",
+   "type": "ppt"
+  }
+ ]
+}

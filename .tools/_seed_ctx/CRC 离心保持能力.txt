@@ -1,0 +1,53 @@
+# SEED: CRC 离心保持能力
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Research Advances in Superabsorbent Polymers (Polymers 2024)
+#
+# 全库正文命中 4 页，6 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[AUL 加压吸水率]]  (3 句)
+   • 两条 cited-by 来源仅在其关联概念清单中把 **「AUL 加压吸水率」** 列为一项条目（与 SAP、CRC 离心保持能力 等同列），未展开其定义、口径或数值。因此本页暂不给出定义 。
+   • 同列概念（源：Research Advances in Superabsorbent Polymers (Polymers 2024)）：SAP（高吸水树脂）、吸收芯体、PAA 聚丙烯酸、CRC 离心保持能力。
+- 同列概念（源：Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）：SAP（高吸水树脂）、表面交联 Surface Cross-linking、蒙脱土 Montmorillonite。
+   • AUL（加压吸水率）是 SAP（高吸水树脂）的评价项之一，与 CRC 离心保持能力、表面交联 Surface Cross-linking 等在 SAP 综述文献中并列出现（源：Research Advances in Superabsorbent Polymers (Polymers 2024)、Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)）。
+- 本库同主题页面（交叉引用，未据其取数）：承压吸收 AUL、SAP性能指标（CRC AUL GBP Vortex）、SAM Testing Methods（超级吸水材料测试方法）、SAP（高吸水树脂）。
+
+--- [[Hygiene Absorption Model]]  (1 句)
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[离子强度 Ionic Strength]]  (1 句)
+   • **SAP absorbency in urine.** The in-use absorbency drop this vault watches (CRC / AUL / SFC) is tied to ionic strength and, more specifically, to divalent cations in the test fluid — so Ca²⁺ concentration is proposed as a controlled test variable（源：Ancient Organic Dyes and Pigments Chemistry）。See SAP（高吸水树脂）、CRC 离心保持能力、AUL 加压吸水率。
+- **Surface cross-linking as the direct lever.** Ionic (Al) surface cross-linking is exactly the route used to raise gel strength and reduce gel blocking — and its ionic
+
+--- [[Research Advances in Superabsorbent Polymers (Polymers 2024)]]  (1 句)
+   • SAP（高吸水树脂）
+- 吸收芯体
+- PAA 聚丙烯酸
+- CRC 离心保持能力
+- AUL 加压吸水率
+- 藻酸盐 Alginate
+- 壳聚糖 Chitosan
+

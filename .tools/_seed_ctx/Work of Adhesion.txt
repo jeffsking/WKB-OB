@@ -1,0 +1,139 @@
+# SEED: Work of Adhesion
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Surface Tension and Surface Energy
+#
+# 全库正文命中 210 页，325 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[智能织物 Smart Textile]]  (7 句)
+   • **No settled definition of smart textiles exists.** Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**（源：Intelligent Textiles and Sports Clothing）。The working definition used by the smart-polymer literature is verbatim: "Smart or intelligent materials have the capability to sense changes in their environment and respond to the changes in a preprogrammed 
+   • **The integration thesis** is producing fibres with electronic function *without compromising strength, comfort and aesthetic appeal* — stated as the core challenge for seamless, invisible electronics（源：Smart Fabrics and Networked Clothing）。
+   • **Cost verdict (negative result).** Both the active-fibre and electrochromic routes are explicitly blocked — on cost/integration and on lifetime/reliability respectively（源：Smart Textiles and Their Applications）。As-prepared CNT fibres are also reported to **fail** on softness and processability（源：Smart Fabrics and Networked Clothing）。
+   • **Fibre-level function without losing handle** is the one idea with genuine pull — making the fibre itself carry function while keeping softness, strength and flexibility is exactly the design problem a functional nonwoven faces（源：Smart Fabrics and Networked Clothing）。
+
+--- [[Hydrogels in Regenerative Medicine]]  (6 句)
+   • **Network structure and cross-linking 网络结构与交联**
+   • Hydrogel identity = a 3D polymeric network that absorbs water/biological fluids; **cross-links are mandatory** precisely to stop the hydrophilic chains dissolving in the aqueous phase.
+- **Physical vs chemical cross-linking is the central trade-off**: physical gels form by ionic interaction, hydrogen bonds, coordination bonds, hydrophobic interaction, crystallisation or protein interaction, are **reversible** (re-gel on returning to initial pH/temperature/solvent) and are **generally unstable an
+   • Hydrophilic character comes from −SO₃H, −COOH, −CONH₂, −OH and −NH₂ groups; charged nets (−SO₃, −COO) adsorb metal ions electrostatically.
+- Three structural types: neutral (nonionic), ionic (polyelectrolyte) and interconnected network structures.
+- Charged groups raise hydrophilicity ⇒ higher water absorption, and their **electrostatic repulsion raises solubility and swelling ratio**. Direction of pH response is explicit: **acid-group hydrogels swell more in basic media; base-group hydrogels sw
+   • **Release control**: porous structure is tunable via cross-link density; drug release rate depends on the diffusion coefficient through the gel network. Low interfacial tension ⇒ minimal protein adsorption from body fluids.
+- **Wound dressing (closest to our adjacency)**: an ideal dressing must maintain a moist interface, allow gas exchange, act as a microorganism barrier and remove excess exudate, while being non-toxic, non-allergenic, non-adherent and removable without trauma. Hydrogel dressin
+
+--- [[Smart Polymers Ch11 Smart Polymer Drug Delivery]]  (6 句)
+   • Chapter 11 moves from "smart materials that respond" to **quantitative structure–property–release modelling**. It supplies the canonical toolbox for any cross-linked hydrophilic network — including SAP: network characterization (Mc, ξ, υ₂,ₛ), equilibrium swelling (Flory–Rehner 平衡溶胀), diffusivity in porous media, and the three release-mechanism classes. Its own framing: "Intelligent or smart polymers are biocompatible polymeric materials that can respond to the physiological or biological environ
+   • **Flory–Rehner equilibrium swelling** (Flory–Rehner 平衡溶胀理论): an immersed equilibrium gel is subject to only two opposing forces — "the thermodynamic force of mixing and the retractive force of the polymer chains" (L126–134), giving ΔG_total = ΔG_elastic + ΔG_mixing. Mc relations appear as Eq. 11.3 (neutral network prepared without solvent, L173–181) and Eq. 11.4 (with the relaxed volume fraction υ₂,ᵣ, L190–202). Ionic networks add a ΔG_ionic term.
+   • This chapter is **one of the most transferable in the book** for SAP and absorbent-core work, because it treats exactly the same cross-linked hydrophilic network:
+   • 1. **SAP design as a mesh-size problem.** ξ = υ₂,ₛ^(−2/3)(2C_n·Mc/M_r)^(1/2)·l and Mc from Flory–Rehner are the proper language for the free-swell vs. gel-strength trade-off: lower Mc ⇒ tighter network, higher modulus, slower uptake. Map ξ against fluid-uptake rate to select SAP grade per layer (acquisition vs. anti-gel-blocking).
+2. **Acquisition/distribution nonwovens.** D_eff = D_iw·(ε/τ)·K_p·K_r makes porosity ε and tortuosity τ explicit process levers for fiber denier, basis weight and cale
+
+--- [[断裂力学 Fracture Mechanics]]  (4 句)
+   • **定义待补（引用来源未给出明确定义）** —— 两份引用来源都只把它列为胶接科学的**覆盖主题**，未给出本库口径的定义：断裂力学是胶接参考书 coverage 的一部分（与胶接热力学、表面力、润湿、胶接理论、定量测量并列）（源：Book Review Handbook of Adhesion by Packham）。
+   • Traceable operational content 可溯源的操作内容: in the adhesion literature it appears as the **fracture-energy formalism behind joint strength** — peel strength decomposed into an intrinsic fracture energy and a viscoelastic dissipation term, （源：Adhesive Handbook Part 2 Fundamental Aspects）.
+   • **粘弹性耗散而非界面热力学主导强度。** , and "the value of ψ is usually far higher than that of E and the energy dissipated can then be considered as the major contribution to the adhesion strength G"（源：Adhesive Handbook Part 2 Fundamental Aspects）. ⇒ peel rate 与温度是主变量。
+- **柔性胶层通过扩大断裂过程区降峰应力。** "Flexible or semirigid adhesives produce joints having higher short-term strength and fracture toughness compared to rigid adhesives."；柔性胶层扩展 fracture process zone 以降低峰值应力（源：Adhesive Handbook Part 2 Fundamental Aspects / 
+   • Citing sources 引用来源：Adhesive Handbook Part 2 Fundamental Aspects、Book Review Handbook of Adhesion by Packham
+- Additional vault pages used 另有正文来源：Ebewole Polymer Science Ch13 Mechanical Properties of Polymers、Handbook of Adhesive Technology Full Report
+- Adjacent concepts 相邻概念：胶接理论 Adhesion Theories、胶接热力学 Adhesion Thermodynamics、润湿 Wetting、Surface Tension and Surface Energy、硅烷偶联剂 Silane Coupling Agent、压敏胶 PSA、流变学 Rheology
+- Application pages 应用页：卫材胶黏系统 Hygiene Adhesive Systems、热熔胶 Hot Melt Adhes
+
+--- [[相变材料 Phase Change Material]]  (4 句)
+   • 形式化定义待补（引用来源未给出明确定义）。本页其余结论均来自卫材场景下对 PCM 微胶囊路线的评审（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。
+   • **微胶囊蓄热—释热（thermo-regulatory）**：PCM 微胶囊在较高温度蓄热、较低温度释热，从而提供调温性能（源：Intelligent Textiles and Sports Clothing）。
+- **"microcapsule tax"（微胶囊代价）**：相变微胶囊解决瞬时热峰，但要付出四重代价 ——
+  1. **Mass 质量**：每一克都要以 +gsm、+单位成本、每个循环计入；
+  2. **Risk 风险**：壳层脆性 → 破裂与批次波动，破裂胶囊污染 SAP 并放宽过程控制限；
+  3. **Liquid leakage 液体泄漏**：游离 PCM 提高皮肤风险，并恶化回渗 / 气味；
+  4. **Complexity 复杂度**：供应链新增专用封装层级。
+  （源：PCM-Free Thermoregulation with BNC Nanofiber Network）
+   • PCM knits 的微胶囊蓄放热机制为卫材提供可移植的调温思路（源：Intelligent Textiles and Sports Clothing）。
+- 在吸收性卫生用品中，微胶囊 PCM 是既有的热舒适路线，而 **PCM-free** 的工程化细菌纳米纤维素（BNC）纳米纤维网络是其「成本—机理」对照路线（源：PCM-Free Thermoregulation with BNC Nanofiber Network）。参见 PCM-Free Thermoregulation、BNC-Only vs BNC+PCM (Thermoregulation Ledger)、Diaper Microclimate。
+- 相关材料与概念页：Stimuli-Responsive PCM、纳米纤维素（CNC、CNF、BNC）、智能织物 Smart Textile。
+   • Smart Textiles & Wearables
+- Smart Textiles Review
+- Smart Textiles and Sportswear
+- Intelligent Textiles and Sports Clothing
+- PCM-Free Thermoregulation with BNC Nanofiber Network
+- Smart Polymers Ch01 Phase Transitions and Light Scattering
+
+--- [[芯体通道花型设计]]  (4 句)
+   • **What channels can and cannot do.** A channel is a **「物理槽」** — it addresses physical routing but **cannot solve U-shaped anti-gravity diffusion**; that half depends on material capillarity（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。**Bonding is double-edged:** it preserves the wet-state channel but harms U-shaped capillary conduction, so bonds **must be made narrow**（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+   • This is a **direct REL/ultra-thin-core design theme**: raising real SAP utilisation (reported elsewhere as only 30–40%) by structure rather than by material swap（源：Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略））。
+- It is the **design object of the patterned SAP-core forming drum**, so pattern design is coupled to the Patterned SAP Core Forming Drum（印花SAP芯体成型鼓） hardware and its forming-drum space / 3-D SAP-array engineering gap（源：V6 Product Design & Process Optimization Workshop（V
+   • 🔴 **Evidence-quality warning:** the transferable mechanism/constraint claims originate in **meeting discussion / process judgement, with no measured data**（源：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓））— treat the 「只加长、不加宽」and 「减 SAP + 加大开槽面积不成立」rules as会议判断, not proven results 。
+- **No geometry specification exists in the vault** — channel width, depth, length, pitch, count, and the boss dimensions are all unstated .
+- **No quantified performance delta** (utilisation %, cradle intake, rewet) at
+   • Gel Blocking（凝胶阻塞）
+- Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+- Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+- COCO芯体平台
+- COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）
+- Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）
+- ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）
+- 2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）
+- Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
+- SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）
+- 
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (4 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+   • **③ Post-workshop 会后**：通过 **KCNA Triangle Meetings** 与 **BCC/AFC global collaboration meetings** 做客户/相关方汇报。
+   • Intake System（摄入系统） · Cradle Intake Test（Cradle 摄入测试）
+- Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览） · Intake Systems Development Pathway 2023（摄入系统开发通路）
+
+--- [[Book Review Handbook of Adhesion by Packham]]  (4 句)
+   • **Handbook of Adhesion（Packham 第2版）的书评**——250+ 篇短文、60+ 位专家撰写的胶接科学与技术最全面参考，覆盖胶接热力学/表面力/润湿/断裂力学/胶接理论/定量测量/粘合胶接/密封胶/复合材料/涂料/橡胶/环境可持续性，是学生教科书与研究专著之间的桥梁。
+   • **Handbook of Adhesion 简介**：David E. Packham（ed.），John Wiley & Sons, Chichester, UK, 2005，liv+672 页，$270，ISBN 0-471-80874-1。
+- **胶接定义**：粘附是微观分子力作用下的表面相互作用与宏观力学性能（剪切强度、剥离强度、粘性）的多尺度现象。
+- **覆盖领域**：基础科学（物理、化学、生物）、材料科学与工程、医学；工业应用包括复合材料、纺织品、印刷、涂料等。
+- **内容范围**：250+ 篇短文，60+ 位专家撰写；交叉引用、自包含；覆盖胶接热力学、表面力、润湿、聚合物、断裂力学、胶接理论、定量测量、粘合胶接、密封胶/沥青、焊接与结构工程、复合材料/涂料/橡胶、环境考量/可持续性/可再生原料。
+- **读者定位**：从学生到专业研究人员的桥梁——填补简化教科书与专注研究专著之间的空白。
+- **目录**：字母表+分类双目录，便于定位具体信息与获得主题概览。
+- **评价**：高度推荐作为可靠、简洁的信息来源。
+   • **Handbook of Adhesion 是胶接领域最全面的参考**——250+ 篇短文覆盖从基础理论到工业应用的全谱系。
+- **双目录设计（字母表+分类）**——便于快速定位具体信息与获得主题概览，是专业参考书的标杆设计。
+- **学生与专业研究的桥梁**——填补简化教科书与研究专著之间的空白。
+- **环境考量与可持续性**——第2版特别关注环境考量、可持续性、可再生原料在胶接技术中的角色。
+   • Book Review Handbook of Adhesion by Packham
+- Adhesive Handbook
+- 胶接热力学 Adhesion Thermodynamics
+- 润湿 Wetting
+- 断裂力学 Fracture Mechanics
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (4 句)
+   • The **"remove the microcapsules" feasibility review**: engineered bacterial-nanocellulose (BNC) nanofiber networks as a standalone thermal-management layer for absorbent hygiene products, with no phase-change chemistry. It is the batch's cost-and-mechanism counterweight to microcapsule-based thermal comfort, and the bridge between 细菌纳米纤维素 and Diaper Microclimate.
+本页是**「去掉微胶囊」的可行性评审**：以工程化细菌纳米纤维素（BNC）纳米纤维网络作为吸收性卫生用品的独立调温层，完全不使用相变化学。它是本批针对微胶囊路线的**成本—机理对照页**，也是 细菌纳米纤维素 与 Diaper Microclimate 之间的桥梁。
+   • BNC's thermal behaviour is presented as a direct consequence of its nanofiber geometry: ≈85–95% porosity trapping still air (k_air ≈ 0.026 W/m·K); nano-pores ≈20–200 nm sitting near the air mean free path (≈68 nm) producing Knudsen suppression of gas-phase conduction; a point-contact fibril network (τ ≈ 1.5–3) minimising solid conduction paths plus phonon boundary scattering; a hydroxyl-rich surface whose bound water adds sensible-heat thermal mass; and a nanofiber mat that scatters IR radiation
+   • 1. Z-direction porosity gradient (dense skin / lofty core) — slows skin-side dT/dt further, builds on REL work.
+2. Higher BNC basis weight in the skin-facing zone — adds sensible thermal mass where it matters.
+3. Bound-water management (humectant tuning) — extends the buffering window past the void event.
+4. Breathable backsheet + ADL synergy — evaporative dissipation offsets the acute spike.
+5. REL reinforcement layer — mechanical robustness with no extra gsm.
+*Net result: PCM-free parity is ac
+   • **Four functions, three of them structural** — microcapsules address only the fourth —— 支撑页：PCM-Free Thermoregulation
+- **Insulation at aerogel level is a geometry effect** (porosity + Knudsen + point contact) —— 支撑页：细菌纳米纤维素
+- **For multi-hour wear, PCM is redundant; for transients it is marginal** —— 支撑页：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- **The compensation levers are the same structures the REL/capillary work already develops** —— 支撑页：毛细梯度设计、REL增强层、分区密度设计
+
+--- [[Smart Polymers Ch10 Boronate Copolymers and Gels]]  (4 句)
+   • **8. BCCs act as biomimetic lectins at living surfaces.** They bind glycosylated proteins and lipids, exhibit "lectinlike functions" (L963–964), sterically protect red blood cells, cut leukocyte adhesion by cross-linking the glycocalix (L1343–1345), and serve as "ideal mucoadhesives" (L1417–1418).
+   • Ionization follows a Henderson–Hasselbalch-type framework α (degree of ionization) vs pH (L236–260). 中文要点：降低 pKa（DDOPBA 7.8 → 7.8 对比 NAAPBA 8.6）是把响应窗口拉向生理 pH 的核心设计手段。
+   • 1. **Reversibly cross-linked SAP-like networks.** Boronate–diol gelation is instant and reversible; choose a low association constant (PVA–borate ≈ 4 M⁻¹, L1536) so the network is stable in use yet dissolveable by a competing polyol (fructose, 3–5 min at 5 w/v%, L1478–1480). Concept applicable to leak-barrier gels or on-demand-disposable cores. 中文：可逆二醇交联为"用完可解体"芯体提供了化学路径。
+2. **Nonenzymatic sugar / wetness sensing in the core.** Replace enzyme strips with boronate gels: linear 1–50 mM (L714–720) 
+   • Smart Polymers Ch01 Phase Transitions and Light Scattering — supplies the LCST / phase-transition and cloud-point vocabulary used here as T_P and CFT.
+- Smart Polymers Ch02 Responsive Polymer Brush Theory — grafting-density and ionization framework for putting PBA layers on nonwoven surfaces.
+- Smart Polymers Ch11 Smart Polymer Drug Delivery
+- Smart Polymers Ch12 Polymeric Carriers Regional Therapy
+- Smart Polymers Ch13 Affinity Precipitation of Proteins
+- Smart Polymers Ch14 Hydrogels in Microf
+

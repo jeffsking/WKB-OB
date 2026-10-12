@@ -1,0 +1,113 @@
+# SEED: 健康监测 Health Monitoring
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Wearable Sensors Fundamentals Implementation and Applications
+#
+# 全库正文命中 55 页，79 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]  (5 句)
+   • **品牌使命（Brand Purpose）**：*"We exist to Help Navigate the Unknowns of Babyhood"*（我们为帮助穿越育儿中的未知而存在）。
+- **六大战略支柱 Strategic Pillars**：**Baby's Skin Health**（远离刺激与红疹）／**Baby's Comfort**（远离不适）／**Baby's Dryness**（远离漏与湿）／**Baby's Future**（为所有婴儿守护未来）／**Parents' Choices**（守护父母的选择）／**Parenting Skills**（守护父母的育儿能力）。
+- **消费者需求空间 Consumer Need Spaces**：Skin Health / Wellness、Comfortable Fit / Wear、Long-Lasting Leakage Protection and Skin Dryness、Eco-Friendly、Convenience、Self-Fulfillment、Growth。
+- **覆盖品类**：Diape
+   • **结论**：**Rash-Free Skin Health is the #1 Unmet Need**；**尿布疹是最大的消费者痛点之一，也是品牌转换的触发因素**。
+- **三大未满足需求空间（排序）**：**1 Prevent Rash & Irritation（预防红疹与刺激）** → **2 Strengthen & Nurture（强化与滋养）** → **3 Treat & Restore（治疗与修复）**。
+- **尿布疹成因（八项，源文列举）**：
+   • **框架**：**MENSTRUAL / BLADDER LEAKAGE / INTIMATE HEALTH & WELLNESS**，沿 **Puberty → Period → Sexual experience → Baby → Menopause** 的人生阶段展开；品牌对应 **Kotex（经期）／Poise（膀胱渗漏）／Depend（…）／Intimus（私处健康）**。
+- **三大全球关键词**：**RESPONSIVE**（2D & 3D contour、flexible、breathable、soft、gentle、body-conforming fit；Advanced Freshness = odor-elimination、cooling/thermo-regulation、clean & dry feel、moisture-wicking）／**NO FEEL**（seamless、weightless、moves with the body、thermo-balancing、skin-soothing）／**INTIMATE WELLNESS**（rest
+   • 1. **无日期**：仅能由 2021 Claim Ranking 与 Sandberg 2023 推断为 **2023 前后**，。
+2. **"Minimum viable performance" 与 "clinically measured skin health benefit" 并存** —— 两者张力**源文未调和**，并列记录。
+3. **"Traps 2× more of mess"** 未给对照基准与测试方法，。
+4. **区域表的 Key Focus 字段在 EMEA/LAO/APAC 完全相同** —— 是否为模板复用而非独立调研结论，**源文未说明**。
+5. **透气性三项（airflow / temp / humidity）未给量化指标**，与库中"技术透气性尚未被证明，仅是感知"的判断**方向一致**，但本件**未提供证明**。
+6. **女性护理与婴儿护理的"摄入"定义是否一致** —— 本件未明确系统边界，与 item2 的六类材料定义**并列，不互推**。
+
+--- [[Intake System（摄入系统）]]  (4 句)
+   • **五大开发领域**：**Affordability / Leakage Protection / Comfortable Wear / Skin Health & Wellness / Sustainability**；
+- **14 个议题**，每个统一用「**机会 / 壁垒 / 项目 / TRL 0–5+ 表**」四段式；
+- **TRL 5+ 已落地项**：Resilient Surges（GNW、Shalag 等）、MOJAVE、ATACAMA PLUS、CLEANSHIELD/NAXOS/ZUIKO/AC4、Zn0/D-panthenol/lotion 活性物；
+- **TRL 0 新立项**：Fluid Distribution (CRO)、BM Fundamentals/Capabilities、Actives Playbook (GADT)。
+   • **子系统页**：ADL（导流层）、ATB双梳理面层（Dual-Card Topsheet）、Resilient Surge（PET 回弹导流层）、REL增强层（芯体侧收集传递层，与导流层**易混名**）、Core Channel Pattern（芯体通道花型设计）。
+- **机理页**：Residual Fluid & Pore Stranding（残液与孔隙滞留）（摄入层滞留 = 回渗源头）、毛细梯度设计、Gel Blocking（凝胶阻塞）（摄入失败会加重芯体侧阻塞）、Dryness Measure System（干爽度量三分）、Rewet Test（回渗测试）。
+- **功能化页**：Skin Health Treatment on Nonwoven（无纺布护肤处理）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）（对应"强化与滋养"需求空间）。
+- **组合页**：IPC BCC OI Portfolio（开放创新项目组合）。
+   • **教训一（摄入是系统，不是材料）**：换一层材料常常改的是**层序与界面**，而非单一指标。ATH 把绒毛浆并入摄入系统后回渗升高，就是反例。
+- **教训二（摄入层不该"装"液体）**：摄入层的价值在于**快速向下送**，装得越多回渗与皮肤湿润风险越高；评估摄入材料时**必须同时看它的"留住量"**。
+- **教训三（离开芯体谈摄入无效）**：同一导流层在 SAM/Fluff 与 AT hybrid 上档位不同，**引用摄入指标必须带芯体口径**。
+- **教训四（需求侧驱动 ≠ 技术判据）**：**"无疹皮肤健康是全球第一未满足需求"** 是需求判断，**不是可验收的技术指标**；把它转成判据需要**临床可测的终点**（区域表已把 "clinically measured skin health benefit" 列为机会，但**未给方法**）。
+- **教训五（区域约束不同，材料路线不能一刀切）**：同样的机会清单，EMEA 受**本地法规**、LAO 受**供应链**、APAC 受**上市速度**约束——**同一材料在不同区域的可行性不同**。
+   • **权威边界（2022 战略章程口径）**：**In Scope = Enterprise（Global & KCNA）Adult Care + Baby/Child Care，液体为尿液与稀便（Runny BM）**；**Out of Scope = 女性护理、以及吸收芯体技术（SAM / Fluff / Adhesives / CIRRUS）**。
+  - 关键补充：芯体虽被划出界，但章程要求**「consider how these impact the intake systems strategy」** → **摄入系统与芯体是「分域但必须做影响传递」**的关系，不是互不相关。
+  - 同样被排除的还有：**战术性材料迁移计划与 glidepath**、**特定项目/区域的技术对比 POV** —— 即摄入系统战略管的是**技术域与机理**，不管具体牌号迁移与区域选型。
+- **顶级需求即组织维度**：四大企业级需求为 **Skin Health & Wellness（含 Fresh Protection）、Leakage Protection、Comfortable Wea
+
+--- [[Wearable Sensors Fundamentals Implementation and Applications]]  (4 句)
+   • **EN**: Comprehensive reference on wearable sensors covering fundamentals, implementation, and applications. Chapters cover wearable fundamentals and roadmap, social aspects of wearability, wearable haptics, textile-based meta-wearables, and more. Cross-references with hygiene products in health monitoring sensing, smart packaging, and wetness indicators.
+   • **中文**: 可穿戴传感器综合参考——覆盖原理、实现与应用。章节涵盖可穿戴基础与路线图、社交可佩戴性、触觉显示、纺织基元可穿戴等。与卫生用品的交叉点在于健康监测传感、智能包装与湿感指示。
+   • 1. **可穿戴基础与路线图**——可穿戴世界、属性、挑战与机遇、未来研究路线图
+2. **社交可佩戴性**——美学解读、创新采用与美学变化、手势交互的社会接受性、Google Glass 案例
+3. **可穿戴触觉**——触觉/触觉显示分类、摩擦与重量幻觉、可穿戴感觉运动增强器
+4. **纺织品与服装**——作为"元可穿戴"载体的纺织品与服装
+5. **与卫生用品交叉**——健康监测（心率/体温/活动量）、智能包装传感、湿感指示条
+   • 可穿戴传感器 Wearable Sensor
+- Wearable Electronics (National Science Review 2023)
+- 电子纺织品 E-textile
+- 健康监测 Health Monitoring
+- 智能包装 Smart Packaging
+- 湿感指示条 Wetness Indicator
+
+--- [[Odour Management Routes（气味管理技术路线）]]  (3 句)
+   • 1. **五条路线的作用层级不同**：掩盖（④）不改变量；吸附（②）与中和（①）在发生后处理；酶解（③）在**生成前阻断**；一体化（⑤）把功能**内建到主体材料**。层级越靠前，技术难度越高但持续性越好。
+2. **"消臭型 SAP"是把功能从"添加剂"上移到"主体材料"** —— 与库内其他"母粒/纤维端功能化"的思路同构，也同样面临**添加量少 → 效果有限**（参见 Skin Health Treatment on Nonwoven（无纺布护肤处理））的质疑 → 因此**必须先给出 200 μg/g 这样的量化靶点**。
+3. **消臭被 Workshop 识别为市场空白机会点**（"目前市场少见"）→ 差异化价值高于其性能价值。
+   • ✅ **验证记录（2026-09-29）**：以上来自 **Workshop 准备材料 v1.0**，引用  **原始文件未随本批次提供**；200 μg/g 为**目标值**，未见实测；九种臭味物质未列全 [待验证]。参见 Skin Health Treatment on Nonwoven（无纺布护肤处理）、Zeolite Odour Control（沸石除臭载体）、Probiotic & Skin-Care Topsheet（益生菌护肤面层）。
+   • 1. **Capture 捕集**：Trap VOCs in structure（结构内捕集 VOC）
+2. **Alter 转化**：React with VOCs（与 VOC 反应）
+3. **Microbial 微生物**：Healthier odor environment（更健康的气味环境）
+4. **Perception 感知**：Sensorial reassurance cue（感官安抚线索）——即"技术解决 + 情绪解决"双轨
+
+--- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]  (3 句)
+   • **① 摄入材料开发管线（NA PC - Tech ICT - ADT）**：以「Resilient Surge + Standard Liner」为主轴，服务 Skin Health / Inge Dryness / Urine Protection / BM Protection 四类消费者利益。核心材料命题是**用 PET 驱动使用中表现**：PET 越多 → 表现越好、成本越低，但纤网越弱。牌号端给出 MOJAVE（40% PET）与 CT5（100% PET）的**成本—强度对照**，以及二者与两类芯体（SAM/Fluff 与 AT hybrid）组合后的摄入/回渗档位（CT5 在含浆芯体上摄入与回渗均"最佳"）。随后是 MOJAVE 的完整故事：为什么做（对 HPP/PICASSO 的干爽优势）、换来的代价（断头/粉尘/幅宽波动）、MOJAVE 2.1 的问题排查表与配方调整，以及下一步（接头强度一致性、Poise 紫色 MOJAVE、用 2.0d 替代 1.5d bico 消除 neps、在 T4 POME 与 GFM 中替换 HPP、优化克重、**认证 coPET 纤维
+   • 派生概念：Resilient Surge（PET 回弹导流层）、Skin Health Treatment on Nonwoven（无纺布护肤处理）、Liquid Modes（TL-1607 液体四态）
+- 已有相关：Liner-Surge Embossing（面层-导流层压花）（本页 PICASSO 与 MOJAVE 的回渗数据为其上游材料背景）、Intake Tech One-Pagers（摄入系统技术一页纸管线）（同主题的另一份一页纸管线）
+- 项目组合：IPC BCC OI Portfolio（开放创新项目组合）（本 block 默认互链；本页未引用任何 OI 编号，故无编号换算问题）
+   • "Resilient surges use PET to drive performance in-use / More PET can result in better performance and lower cost / More PET causes weaker webs, increasing converting risk / Current LL of BCC asset process window is within 3,000-6,000gf"（Comparing Resilient Surge Grades）
+- "MOJAVE 2.1 addresses most converting issues"（MOJAVE Problem-Solve）
+- "Depending on technology, claim, + intent of use, FDA may consider product with skin health treatments as an OTC Drug or Cosmetic"（Global regulatory complexi
+
+--- [[US8273939 Windowed Removable Sensor Absorbent Article]]  (3 句)
+   • **Non-electronic, visually-read health indication integrated into a disposable absorbent article（集成到一次性吸收制品的非电子目视健康指示）** — a **window** in the article's outer surface allowing a **removable thermochromic sensor** to be read from outside.
+   • Source note: the preamble's "for visually detecting health-related conditions" is a **use/intended-purpose limitation**; the source observes that infringing determination normally still requires the structural features. The claim is a five-element combination: **article + window + removable + thermochromic + ~99.5–102 °F + closed material list**.
+   • 1. **The closest competitive patent to the chromic-ink programme's "smart but non-electronic" branch.** P&G's architecture delivers a **battery-free, circuit-free visual readout** — the same value proposition as a chromic wetness/comfort indicator. It is the benchmark to read before positioning our own chromic concept. See Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3) and Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）.
+2. **Two different chr
+
+--- [[Chromism Taxonomy（变色现象分类）]]  (2 句)
+   • 3. **Reversibility is the second axis（第二条轴是可逆性）**：reversible（可逆）vs irreversible / one-shot（不可逆/一次性）。Continuous monitoring requires a reversible route; a single alarm may use a semi-reversible or irreversible one. **This is the axis that eliminates designs, not the chemistry family.**
+4. **Threshold is the third axis（第三条轴是阈值）**：industrial metrology materials are engineered for structural-failure detection above 40,000 psi; absorbent-hygiene products live in a low-tension window (20–150 kPa for wa
+   • ✅ **验证记录（2026-09-29）**：温变样品与微胶囊路线为会中口径，**未见实测数据**；阈值数字（36.8 / −2.5 / −2.8）由 ASR 英文转写还原，语义存在歧义，标 。参见 Material Safety Control（材料安全双轨管控）、Skin Health Treatment on Nonwoven（无纺布护肤处理）。
+
+--- [[电子纺织品 E-textile]]  (2 句)
+   • **Only adjacency, no quantified transfer.** The vault links the e-textile concept to 健康监测 Health Monitoring、智能包装 Smart Packaging and 湿感指示条 Wetness Indicator as adjacent concepts（源：Wearable Sensors Fundamentals Implementation and Applications）。The digest contains **no** data on a hygiene-product e-textile implementation, no diaper/absorbent-core linkage and no cost or lifetime figure at disposable scale 。
+   • 中文：digest 仅提供概念相邻关系（健康监测 / 智能包装 / 湿感指示条），**无**任何卫材成品的电子纺织品落地数据、成本或寿命数据，故不做外推。
+
+--- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]  (2 句)
+   • 本次为内部研发评审会，围绕 skin health 平台下的三个开发单元展开：① 植物提取物活性物及其递送系统（渗透机理与验证方法）；② 湿态可视化（Video Q，接触水/尿液后显图案）；③ 三圈（腰围一圈 + 腿围两圈）护肤乳液处理。会议同时讨论了平台化的 storytelling 与后续方向。
+   • Botanical Extract Efficacy Verification（植物提取物功效验证）
+- Skin Health Treatment on Nonwoven（无纺布护肤处理）
+- Hot-Melt Slot Coating（热熔狭缝涂布）
+- Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+- 延江（Yanjan）
+- SAP性能指标（CRC AUL GBP Vortex）
+
+--- [[Liner Differentiation Discussion v2（面层分层与产品档位差异化讨论）]]  (2 句)
+   • **重要性**：Yes。*"Differentiate **DSU** through **skin health additives**"*；**SIROCCO S&H** 将于 **5 月**给出洞察以明确还有哪些特性可差异化（在考虑柔软、纹理、颜色等）；*"Cascade benefits to **DPU** and scale degree of benefits as cost structure allows. **Unlikely to use skin health additives.**"*
+- **现状**：*"Off track on DPU and GFM, **DSU will be off track on softness after RIDDLER**."*
+- **机会**：RIDDLER 之后**把 DSU 的柔软度找回来**；视 S&H 结果**升级 DPU 面层**以强化对 **Assurance** 的地位。
+- **风险**：**Assurance**。
+- **障碍**：供应商能力（印刷、分区处理、添加剂、柔软……**如何同时做到**）
+   • **重要性**：Yes。*"UBK hypothesized that **BSL change on CleanWear was one of reasons for share loss**. **LORI** gets us back on track."*
+- **现状**：*Off track on SP, but LORI gets us back on track*。
+- **机会方向**：
+  - **Feel clean & dry**：*"Key focus area that BSL could support. However, **knowledge gaps exist on the cues that convey clean & dry** for UBK consumer targets."*
+  - ⚠️ *"consumers picked up on **softness & dryness** of better stain masking liners, **not directly the stain masking benefit**"*
+

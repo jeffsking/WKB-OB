@@ -1,0 +1,147 @@
+# SEED: Intake System（摄入系统）
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 293 页，485 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]  (8 句)
+   • **2022 Intake Systems Innovation Strategy Workshop Charter 摄入系统创新战略研讨会章程** — Kimberly-Clark 于 **2022-08-15~17** 在 **Neenah WRE**（Rm 2833，8/15–16；Rm 1727，8/17）及线上召开的跨职能研讨会的章程文件。议题为**更新摄入系统（intake systems）创新战略**，覆盖未来 **5+ 年**。
+   • **Define/update the intake system innovation strategy** to meet the **top 3–5 K-C consumer needs for the next 5+ years**，**detailing by benefits and sub-benefits**（按利益与子利益逐层细化）。
+- **Identify gaps in the current innovation portfolio** that require **new technology development or fundamentals projects**（识别需要新技术开发或基础机理项目的组合缺口）。
+   • **Out of Scope 明确排除**
+|排除项 Excluded|处理方式 Handling|
+|---|---|
+|Menses / Feminine Care 经期与女性护理|待 Voyage to Venus / Sitske 战略更新就绪后从中取用|
+|**吸收芯体技术**（SAM、Fluff、Adhesives、CIRRUS）|**单独处理**，但**必须考虑它们对摄入系统战略的影响**|
+|Tactical material migration plans & glidepaths 战术性材料迁移计划|单独处理|
+|Technology comparison POVs for specific projects & regions 特定项目/区域的技术对比观点|单独处理|
+   • **① Pre-work 会前**：确认摄入系统创新的 top 3–5 企业级需求；收集/汇总 KCNA 与 global 的品牌创新管线。
+**② Workshop 会中**：
+- Reflect on prior strategies 复盘既往战略；
+- Review top enterprise intake systems needs 评审顶级需求；
+- **Build the portfolio by benefit area**（现有组合来源：**M2M**、**其他 GNW & GRE 技术**、**其他 Global 技术**）；
+- **Identify and brainstorm on gaps in portfolio**；
+- **Prioritize "bigger bets" within the portfolio & gaps**；
+- **Identify top areas for joint collaboration**（GNW、GRE、GADT、更广泛的全球团队）；
+- Roll up to the high-level strategy 汇
+
+--- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]  (6 句)
+   • **假设**：ATH 产品的**解吸能量高于** SAM/绒毛浆芯体产品，因为**摄入系统多出的层**滞留了可能被表达为回渗的液体。
+   • **假设**：ATH 摄入系统的**残液质量高于** SAM/绒毛浆芯体摄入系统（同样归因于多出的层）。**结论：Supported**。
+   • **假设**：**microCT 会显示含绒毛浆的摄入系统相对 LSE 有额外的湿润**（因为多出的层）。**结论：Supported**（对照：Code 31 / Code 32 的 **LSE + core wrap** 与 **Whole Absorbent System**）。
+   • **「Bench testing did not show improved rewet by relocating SAM into ActivTech hybrid fluff layer」**；
+- **但解吸测试仍提示"给绒毛浆脱水（dewatering the fluff）"是一个好机理** —— 于是提出四个未解问题：**SAM 再分配为什么没做到这一点？时间尺度问题？其他原因？还能怎么切入？**
+- **「GRIFFIN has eliminated ActivTech hybrid from scope」** —— 由 Kerry 与 Aaron Schilpp 跟进是否继续该项工作。
+- **基础工具部分的结论**：ATH 可能因摄入系统的额外层数而**易感于更高回渗**；下一步是**与 ADT 跟进，确认基础测试结果是否与 ATH 产品测试相关**；**替代性的 ATH 设计可能改变本 deck 的结论**。
+
+--- [[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]  (5 句)
+   • 1. **Scope 定义范围**：ActiveTech enables **continuous, online formation** of Blizzard-type cores。在 ROTC 实现中包含：**ACF module**、**SAP feeding and metering**、**vacuum-assisted formation and transfer**、**wrapping/folding**、**core sealing**。
+2. **Critical process control 1 — SAP metering and distribution SAP 计量与分布**：ROTC uses **volumetric feeding** and **can employ two feeders**。（中文：体积式供料，可用双供料器——对应 SAP 分层/配比可编程。）
+3. **Critical process control 2 — Vacuum and web transfer 真空与转移**：low-fluff or fluffless str
+   • 1. **ATH 推高回渗已被"确认"** —— 源文用词为 **"Confirmed ActivTech Hybrid core system is increasing rewet"**，归因指向两点：**不同的包裹层（wrapsheet）**与**不同的 SAM/绒毛浆配置**。**这比上一节的"AT Hybrid 回渗归因"更进一步：从推断变为确认。**
+2. **核心机理是"系统边界变了"** —— **「Fluff becomes part of the intake system in ATH system」**：**在 ATH 体系里，绒毛浆不再属于吸收部分，而属于摄入系统的一部分**。**⇒ 同一个材料在不同结构中属于不同功能域，回渗归因必须先划边界。**
+3. **第二机理是"层数"** —— **「More layers = more places fluid can be trapped」**。**⇒ ATH 的结构复杂度本身就是持液点的来源，不是某个材料单方面的问题。**
+4. **对策方向是"内移吸收剂"** —— **在绒毛浆中加入少量 SAM，把该层解吸
+   • **总假设（源文原话）**：「AT hybrid core products will have **parity or higher rewet** than SAM/fluff products because **the pulp layer is part of the intake system**」。
+   • **三条基础工具假设全部 Supported**：① **解吸能量更高**；② **残液质量更高**；③ **microCT 显示含绒毛浆的摄入系统有额外湿润**。第四条（面层湿润度无差异）为 **Likely Supported 待跟进**。
+
+--- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]  (5 句)
+   • 本库**"回渗到底由谁决定"这个问题最系统的一份答案**：六套 DOE 一致地指向一条分工——**低压回渗（LPR / CCR）是绒毛浆与摄入系统的游戏，高压回渗（HPR）是 SAM 与容量的游戏**。它同时诚实地留下两个未解矛盾（SiF 在 CCR 上反向、容量排序在两条芯体路线上相反），是本批少见的"给出结论也给出无解"的资料。
+   • **背景段**先立起两条已被长期观察但未解释的现象：① 在 BCC 中 **SAM 用量对高压回渗影响显著**，但成因未定（是"液体足迹不同"还是"被锁住的液体量不同"——Aaron 的 ATH DOE 确认该结论对 BB 亦成立）；② 在 GRIFFIN 中反复调整保液容量**看不到对 closed cradle 回渗的影响**。随后的解释是全篇的钥匙：**CCR 由解吸驱动（残液在摄入系统），HPR 由回流驱动（芯体中松散持留液）**，因此容量只影响后者。
+   • **ATH 绒毛浆假说**：ATH 结构中回渗高于 SAM/Fluff，假说为「**在 ATH 里绒毛浆实际上是摄入系统的一部分**」，残液留在浆里再以解吸形式回来。2025 年 7 月的毛细测试给出旁证：为排除干扰而做成**不含 SAM** 的 GRIFFIN 样品，对比有浆/无浆——**有浆时解吸能更高、更难晾干，且截留残液更多**（两种包裹层 12 gsm dSB 与 20 gsm BCW 下趋势一致）。
+   • 派生概念：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- 已追加：绒毛浆（Fluff Pulp）（2026-09-29 追加：浆作为摄入系统一部分的解吸证据）
+- 相关：Rewet Test（回渗测试）（TTM-00623 的载荷口径）、Resilient Surge（PET 回弹导流层）（MOJAVE / CT5 / LIFESAVERS 三种导流层在本页 DOE 中作为变量出现）、GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）（容量段的另一种判读）
+- 供应商：巴斯夫欧洲公司（BASF SE）（BASF 5620 为本页多套 DOE 的 SAM 之一）
+
+--- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]  (5 句)
+   • **POISE（K-C）vs ALWAYS DISCREET（P&G）的回渗竞品机理分析（英文）**：用 BET 比表面积、毛细压力（吸收/解吸）、孔径分布、润湿性、Micro-CT 与 SEM 五种手段，回答"**为什么 POISE 在回渗测试中没有碾压 AD**"。本库价值：给出**回渗的两种机制划分（解吸 vs 回流）**与**摄入系统控制解吸**这一因果链，是本库 Residual Fluid & Pore Stranding（残液与孔隙滞留） 的**竞品实证来源**。
+   • **机制划分**：回渗由**两种机制驱动——解吸（Desorption）与回流（Flowback）**；在 **POISE 的 FIUP 测试中，解吸主导回渗**。解吸机制**由摄入系统（intake system）控制**：摄入系统中的**高毛细压力与界面会截留液体**，被截留的液体**在受压时表达为回渗**。机理要素为：解吸毛细张力 / 界面 / 回渗 / 液体可得性 / 润湿性 / 与芯体的分离 / 双向流动。
+   • **反直觉的核心发现**：按机理，AD 的摄入系统毛细压力显著更高 → **应表现出更高回渗**；但**实测中 POISE 并未在回渗上碾压 AD**。原文自设问题："*Why is POISE not crushing ALWAYS DISCREET in rewet tests?*"
+   • **回渗 = 解吸 + 回流两种机制；POISE 的 FIUP 中解吸主导** —— 支撑页：Residual Fluid & Pore Stranding（残液与孔隙滞留）
+- **解吸由摄入系统控制：高毛细压力与界面截留液体，受压时表达为回渗** —— 支撑页：Intake System（摄入系统）
+- **AD 的摄入系统毛细压力全面更高（更难解吸），按机理应回渗更高——但实测未如此 ⇒ 机理与实测之间存在未解释的缺口** —— 支撑页：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+- **更难解吸是双重原因：更小孔径 + 更高润湿性（Young-LaPlace 的 R 与 θ 同时作用）** —— 支撑页：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+- **AD 芯体 BET 比表面积约为 POISE 的 12.8×，且高比表面积来自复合层而非 SAP 颗粒** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **"蓬松度"与"解吸难易"是两
+
+--- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]  (5 句)
+   • 方法目的（1.1–1.2）：测定试样在给定饱和度下的孔隙体积（void volume）。**可用孔隙体积（available void volume）**即材料中可被液体侵入占据的空间，其大小直接估计材料作为**吸入层（intake material）**的表现，以及该材料能接受多少液体冲击（fluid insult）。正文特别强调：该信息是**按容量（capacity）与渗透性（permeability）要求设计吸收产品所必需的**。
+   • 定义部分给出四条关键界定：
+- **Intake Material（吸入层材料）**：负责接受液体的材料，可为纺熔面层（spunmelt body side liner）、梳理粘合surge 材料、芯体包裹层（wrapsheet）或组合。若试样含吸入层，申请方须提供其百分比与组分密度以提高 VV 计算精度。
+- **Superabsorbent（高吸水材料）**：颗粒或纤维状，吸水能力通常在 **15 g/g 以上**。
+- **Pulp（绒毛浆）**：通常与 SAM 混合成芯；常为木浆绒毛浆，亦可为粘胶、棉或其他吸收纤维。
+- **Binder（粘合剂）**：气流成网芯体中通常不存在；干法造纸（airlaid）材料中是赋予干湿强度的**双组分纤维**；在近 100% SAM 芯中则是把 SAM 粘住的胶。
+   • c = (1/100) × ( %SAM/ρ_SAM + %Pulp/ρ_Pulp + %Binder/ρ_Binder + %IntakeMatls/ρ_Intake )
+   • **VV = 总体积 − 液体体积 − 固体体积，是「可被液体侵入的空间」而非简单松厚度** —— 支撑页：Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+- **0.05 psi 是 VV 法的专属压力，与成品厚度法 0.2 PSI 分属两套尺度** —— 支撑页：芯体测试方法与验收基准（STM）
+- **无绒毛芯（no-fluff core）需把加载梯度上探到 30 g/g 才能画出近全饱和曲线** —— 支撑页：Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+- **预测渗漏建模要求保留吸入层，无绒毛竞品须按 Fluff Percent 报告** —— 支撑页：Cradle Intake Test（Cradle 摄入测试）
+- **SAM 在本法中的界定是吸水能力 ≥ 15 g/g** —— 支撑页：SAM Testing Methods（超级吸水材料测试方法）
+- **自配盐水须静置 ≥ 4 h，是易被忽略的系统误差源** —— 支撑页：尿液模拟液（Urine Analog）
+
+--- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]  (5 句)
+   • **US 5,197,958（母案，授权日 1993-03-30，23 项权利要求）** claims a diaper for indicating wetness comprising an inner surface adapted to be positioned against the skin of a baby, an outer surface opposed to it, **material positioned between them which, when dry, is insufficiently thermally conductive for a normal body temperature to raise the outer surface above a given threshold, but which is sufficiently thermally conductive when wet to do so** — i.e. the material at least partially thermally insulates the 
+   • **Chemistry section (the most transferable content of this document).** The reversible thermochromic system is explained as **colouring matter + colour-developing matter + desensitizer**: the electron-donating colour former (**leuco dye**, itself colourless) is developed by a **phenol compound or acid clay**, and the **discolouring temperature** is set by a desensitizer from **alcohol / fatty acid / amide / ester** compounds. The **discolouring temperature corresponds to the melting (fusing) tem
+   • **US 5,389,093（延续案，授权日 1995-02-14，9 项权利要求）** broadens from "diaper" to a **diaper system** (outer shell + insulation layer + thermal indicator) and to a **method of detecting when a wearer has excreted moisture between its legs**; its granted thresholds are narrowed to **above 80 °F** and **above 87 °F**, it adds that the indicator may be **a mixture of thermochromic inks, one of which becomes colourless above the threshold**, and the file carries a **Certificate of Correction** (dated June 13, 
+   • **这是一条不依赖 pH 的尿湿指示路线**：靠**热量传导**而非化学反应指示——"湿了才导热"是本族唯一的技术支点。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **误报是被结构性地压住的**：内垫只在前后端固定、留出通风层让体热散逸，这解释了为什么"体温"本身不会触发阈值。→ Wetness Indicator Ladder（尿湿指示阶梯）
+- **这也是一份隐色染料体系的完整配方/失活手册**：脂肪酸决定脱色温度、两种以上混用可微调、**配比失衡即永久失效**、因此**必须微胶囊化**。→ Thermochromic Microcapsule (Leuco Dye System)、Microencapsulation
+- **它的产品对象是可反复水洗的布尿裤**：因此对指示体系的隐含要求是**耐洗涤剂与耐热**（BACKGROUND 明确指出在先方案不耐反复洗涤），这与一次性纸尿裤的失效模式不同。
+
+--- [[FIFE Test（FIFE 摄入-回渗评价）]]  (4 句)
+   • FIFE 把「穿在身上的吸收体验」拆成三个可测输出：**吸收时间（intake time）**、**溢出量（run-off / 侧漏）**、**回渗量（flowback）**。一次实验即产出三次吸收时间、每次的溢出量与一次回渗量，是成品放行与配方对比的主力方法（编号 **STM-00034**）。
+   • **FIFE vs Cradle**：Cradle（TTM-00148）在模拟穿着姿态的弧形槽上注液，偏**姿态敏感性**；FIFE 在水平凸台上注液，偏**标准化可比性**。两者的吸收时间不可互换（详见 Cradle Intake Test（Cradle 摄入测试））。
+- **FIFE vs 单纯回渗法**：FIFE 的回渗是「三次注液后的饱和态回渗」，与 Rewet Test（回渗测试） 中按固定注液次数的回渗不是同一状态。
+- **FIFE vs 国标**：GB/T 28004.1-2021 用 **36 ± 1 ℃、40/60/80 mL、2.0/4.0 kPa、5 片均值**，与 FIFE 的 **37 ℃、35–100 mL、3.4 kPa** 不可互比（详见 GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比）。
+   • 同类摄入：Cradle Intake Test（Cradle 摄入测试）、Acquisition Test STM-00060（导流性能测试）
+- 输出项：Rewet Test（回渗测试）、Run-off & Leakage Test（滑渗与渗漏测试）、Retention Capacity Test（滞留能力测试）
+- 上位索引：芯体测试方法与验收基准（STM）
+- 试剂：尿液模拟液（Urine Analog）
+- 对比：GB-T 28004.1-2021 与 KC STM 成品吸收性能测试方法对比
+   • STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法） —— 全球母版，Rev.5
+- STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版） —— 
+- Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编） ——
+
+--- [[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]  (4 句)
+   • **对策**：在**绒毛浆层少量加入 SAM**，促使该层**解吸（desorb）**，把液体移出摄入系统。
+- **诊断前提**：**需要不含 SAM 的产品**才能完成诊断（源文："Need products without SAM for diagnosis"）。
+- ⚠️ **未闭环**：本件**只给出对策方向，未给出该对策的验证结果**；上文标  的"残液 ↔ 回渗定量系数"**仍未闭环**。
+   • 原文：**回渗由两种机制驱动——解吸（Desorption）与回流（Flowback）**；**在 POISE 的 FIUP 测试中，解吸主导回渗**。
+- **解吸由摄入系统（intake system）控制**：摄入系统中的**高毛细压力与界面会截留液体**，被截留的液体**在受压时表达为回渗**。
+- 机理要素清单（原文）：解吸毛细张力 / 界面 / 回渗 / **液体可得性（availability of fluid）** / **润湿性（wettability）** / **与芯体的分离（separation from core）** / **双向流动（two-way flow）**。
+   • 3. **"系统边界"决定了残液量** —— **"完整吸收系统"（Liner + surge + CW + 绒毛浆）的解吸能量约为"LSE+CW"的 3.6 倍**（本页据源文两值计算）。**⇒ 残液不是某一层的属性，而是"你把这个系统划到哪里"的函数。**
+4. **⚠️ 但本组数据有未控制的混淆** —— **完整系统样品 0.42 g vs LSE+CW 0.21 g（差 2 倍）**，源文未说明归一化。**⇒ 引用"3.6 倍"时必须连同质量差异一起说明。**
+5. **第三条独立路径：microCT** —— 假设"含绒毛浆的摄入系统相对 LSE 会显示额外湿润"**Supported**；而"面层湿润度在 ATH / LSE / 商品 Depend 之间无明显差异"为 **Likely Supported 待跟进**。**⇒ 残液的差异出现在摄入系统内部，不在面层。**
+6. **一条重要的负值结果（对"往持液层加吸收剂"这一思路）** —— 把 **30% / 47% 的 SAM 搬进绒毛浆层**后，**回渗由 0.34 g 变为 0.38 / 0.40 g（更差）**
+   • **决定性区分：平均孔径相近 ≠ 排液行为相同**。Depend 与 AD 导流层的**平均孔径（average pore size）相近**，但 **Depend 的 PSD 更宽、大孔更多**，回渗更差 → 直接坐实本页「孔径分布比平均孔径更重要」的判断。
+- **滞留机理（假设，B）**：**小孔里的液体不会被紧邻的非常大的孔拉出来**（大孔的毛细压低于小孔，无法把小孔抽空），于是液体被 **stranded 滞留**在导流层内。与 **SIROCCO 学习**一致。
+- **量化路径**：该假设的判据是**收窄 PSD 后回渗是否下降**（Shalag 已提供样品：先查 PSD，再上产品验回渗）。
+- **配套设计原则（本批新增）**：
+  -  —— **孔的数量要尽量少**，减少液体可被困住的位置；
+  -  —— **孔网络要连通良好，界面处不滞液**。
+- **归因级证据**：摄入互换实验显示，**仅替换面层+导流层**（芯体不变）即可把 Depend 回渗从 ~0.51 g 降到 0.15–0.17 g —— 残液主战场在**摄入系统**，不在芯体容量。
+- 方法论出
+
+--- [[Topsheet Fuzz & Pilling Test（面层起毛起球测试）]]  (4 句)
+   • ⚠️ **Scope caveat 口径提示**：the method text of the primary source TTM-00609 面层材料起毛起球测试.doc is **not present in this digest's excerpts**。The only content in the excerpts that directly concerns fuzz is its appearance as a **material-level screening gate** in the diffusion-enhanced-topsheet DOE acceptance system（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；the test principle, specimen size, rating method and instrument are 。
+   • Fuzz & pilling is a direct quality gate for skin-contact **feel and fibre shedding**，so it is placed in the material-level screening gate of the diffusion-enhanced topsheet, alongside softness（TS7 ≥50，源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）。
+- Process linkage：the ATB dual-card architecture and **no increase in oven temperature** are fixed factors（源：KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)）；a higher trilobal-fibre ratio improves in-plane distribution bu
+   • **Definition, specimen, rating method, instrument and tolerance of the topsheet fuzz & pilling test** —— （must be checked against TTM-00609 面层材料起毛起球测试.doc）。
+- The unit of "fuzz"（whether it links to TS7 / a visual rating）is not given in the digest 。
+- Quantitative relation between fuzz & pilling and TS7 softness / topsheet free-fibre shedding 。
+- Whether this gate has entered the KC global STM/TTM method system, or remains a project-level screening convention 。
+   • TTM-00609 面层材料起毛起球测试.doc
+- KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)
+- KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx
+- ATB双梳理面层（Dual-Card Topsheet）
+- 热风粘合无纺布
+- 3D In-line Embossing Topsheet（3D 在线压花面层）
+- Dryness Measure System（干爽度量三分）
+- Nonwoven Deformation Force Test（无纺布形变力测试）
+- 三叶形截面纤维（Trilobal Fibre）
+- 皮芯复合纤维
+- GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）
+- Finished Product Testing Method Summary（成品测试方法汇总表）
+- Raw Material Testing Method Summary（原材料
+

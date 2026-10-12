@@ -1,0 +1,99 @@
+# SEED: 毛细梯度设计
+# type: concept | 原引用数: 0
+# 原 Cited by 列表:
+#
+# 全库正文命中 40 页，49 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Median Absorption Pressure Gradient（中值吸收压梯度）]]  (2 句)
+   • 1. **MAP 是什么**：在吸收/解吸曲线上取**中值**（介于 0% 与 100% 液饱和度之间）对应的吸收压，单位用**液柱高度 cm**表示。它衡量的是"**这一层在多大的吸力下才肯把液体交出去**"——MAP 越高，吸力越强、越不肯放液。
+2. **梯度方向必须是"向下递增"**：面层 MAP 最低（吸力最弱）→ 摄入层居中 → 芯体/摄入层下方材料最高。**下一层永远比上一层更能吸**，液体才不会在任何界面上停住。若方向反了（贴肤侧吸力最高），液体就会留在贴肤层——本库 毛细梯度设计 把这称为 **inverted Z-gradient（倒置 Z 梯度）**，并已把它判为现状缺陷。
+3. **P&G 给出的门槛值是可直接抄的设计规则**：面层 **1–4 cm（优选 2–3）**；摄入层 **3–8 cm（优选 4–7）**；摄入层下方材料（芯体或交联纤维素纤维层）**8–11 cm**。三层区间**首尾相接而不重叠**，本身就是"梯度必须连续"的表达。
+4. **为什么它专门用来治"3D 面层偏湿"**：3D 高克重面层厚、持水多，天然偏湿。梯度设计不是减少面层的持水量
+   • 本库同原理：毛细梯度设计（以纤维结构实现"上细下粗"；本页是其**可测量版本**）
+- 测量对照：MCCT Multi-Component Capillary Tension（多组分毛细张力测试）（K-C 侧 Bn / n，与 MAP 同构但不可互换）
+- 失效判读：LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）（面层残液属解吸型低压回渗，正是 MAP 梯度要治的对象）
+- 同族专利解法：Skin Health Treatment on Nonwoven（无纺布护肤处理）（同为表面/界面工程，但目标是皮肤而非液体转移）
+- 结构前提：ADL（导流层）、Resilient Surge（PET 回弹导流层）（摄入层必须"接得住"上一层送下来的液体，梯度才成立）
+
+--- [[Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）]]  (2 句)
+   • 1. **分区动因**：液体在芯体内的落点与扩散不均匀（单点摄入 + MD 方向扩散），均匀垫在落点区易饱和、在远端浪费容量 → 按摄入/扩散行为**分区给料**（克重、SAM 浓度、密度梯度）。
+2. **flat（平区）**：成型鼓单一直径设计，工艺最简、换型成本低；性能上限依赖 ADL/面层去分布液体。
+3. **pocketed（袋区）**：成型鼓做局部轮廓（浅袋/深袋），在袋区形成**加厚/高容量区**、非袋区减薄——培训原话是「learn about different forming designs. Add section on absorbent designs」，即多种成型设计族谱。
+4. **相邻议题 channel / void absorbent**：议程批注提出「Should we add a couple slides to cover channel / void absorbent」——通道/空腔芯体（对应本库 芯体通道花型设计）是分区思想的进阶形态。
+5. **库内衔接**：本库的分区实践落在成型鼓工程（Patterned SAP Core Form
+   • 设计原理：分区密度设计、毛细梯度设计、芯体通道花型设计
+- 工程落点：Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）、81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）、Repitch（鼓距与产品节距解耦）
+- 材料语境：SAP（高吸水树脂）、绒毛浆（Fluff Pulp）
+
+--- [[ROTC（Real Online ThinTech Core）]]  (2 句)
+   • 1. **Two configurations, one trade-off 两种构型、一个权衡**：**ROTC Slim / Fluffless** = an all- or nearly all-fluffless core designed for **maximum thinness and flexibility**；**ROTC HBC (Hybrid Core)** = a **bottom 100 % fast-SAM ROTC layer** combined with a **SAM/fluff top layer and pad channel**，which **restores capacity and fluid-handling margin while retaining much of the thin-core benefit**。（中文：Slim 追薄度；HBC 用底层快吸 SAM + 上层含浆层 + 导流槽把容量与液体管理裕度加回来。）
+2. **Why the hybrid is needed 为什么需要混合构型**：纯无浆路线的两个实测代价
+   • 平台与构造 平台与构造：ActiveTech Platform（ActiveTech 在线薄芯体平台）、Blizzard Core（Blizzard 芯体结构）
+- 吸收剂与材料 吸收剂与材料：SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀、绒毛浆（Fluff Pulp）
+- 结构设计 结构设计：分区密度设计、ADL（导流层）、毛细梯度设计、亲水-疏水梯度设计
+- 验收 验收：芯体测试方法与验收基准（STM）
+- 库内同类平台 库内同类平台：COCO芯体平台、TBCW结构
+
+--- [[并列复合自卷曲纤维]]  (2 句)
+   • 1. **两种复合构型的根本分工**：
+   - **皮芯（sheath-core）**：同轴，皮层选择性熔融 → 提供**粘合点**（皮芯复合纤维）。
+   - **并列（side-by-side）**：并排 → 两侧收缩差 → 提供**卷曲/回弹**。
+   同一根纤维体系里，两者通常是「粘结组分 + 弹性组分」的搭配，而非替代关系。
+2. **潜卷曲需要温度触发**：7D PTT/PET 并列纤维的三维螺旋卷曲只在**约 135 ℃ 以上**才充分发展；因此穿透热风烘箱 Zone 2 必须可靠达到 138–143 ℃，否则蓬松与回弹欠发展——原文称这是「最大的蓬松杠杆」。
+3. **回弹是抗凝胶阻塞的结构基础**：液体负载下，卷曲纤维的弹簧效应抵抗压实、维持孔隙与 Z 向通路，与 毛细梯度设计 共同保证反复冲击后仍能下送液体。
+4. **与急冷工艺强耦合**：出炉后强制急冷（<40 ℃）可把卷曲与粘合蓬松「冻结」；慢冷会让纤维网松弛变平，厚度可下降 15–25%。
+5. **行业供给形态**：国内低熔点复合纤维厂商普遍同时供应同心型（皮芯）与并列型短纤维（例如嘉兴新丰的双组份同心
+   • 构型对照：皮芯复合纤维（同心粘合 vs 并列回弹）
+- 应用载体：REL增强层、ADL（导流层）
+- 机理耦合：毛细梯度设计（回弹保通路）、亲水整理耐久性
+- 对比：PP基皮芯与PET基皮芯对比、CoPET-PET 与 PE-PET 皮芯纤维对比
+
+--- [[CN 218515875 U（一种吸水性强的婴幼儿用尿裤·福建三只小猪）]]  (2 句)
+   • **速度梯度差 = 「上层慢、下层快」与库内 SAP错峰膨胀 的方向一致**，并给出具体的粒径/速度四档参数 → SAP错峰膨胀
+- **锯齿状颗粒形状用于锚定高蓬松热风布防起坨**——把「起坨断棉」归因于颗粒-纤维结合形态而非只看吸速 → 热风粘合无纺布
+- **中间层 10–15% 限量**是给凝胶膨胀留空间的做法，与多层芯体降低局密度的思路相通 → 毛细梯度设计
+   • Concept 概念：SAP错峰膨胀、毛细梯度设计、热风粘合无纺布、SAP（高吸水树脂）
+
+--- [[CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版）]]  (2 句)
+   • **ADL 的性能差异只在重复冲击中显现**——首次冲击两者接近，第 2/3 次才分叉 —— 支撑页：ADL（导流层）
+- **「过粘合」是 CoPET 方案的头号工程风险**：厚度/空隙体积是收益载体，不是强度 —— 支撑页：毛细梯度设计
+- **亲水整理的耐久性（抗洗脱/抗老化）是 CoPET 优势的物理来源** —— 支撑页：亲水整理耐久性
+- **最稳妥的落地不是二选一，而是分层选材 + 阶梯共混**：下层用 CoPET、贴面层保留 PE/PET —— 支撑页：CoPET-PET 与 PE-PET 皮芯纤维对比
+   • 概念：ADL（导流层）、CoPET（低熔点共聚酯）、亲水整理耐久性、毛细梯度设计
+- 实体：（本页未点名具体供应商）
+- 对比：CoPET-PET 与 PE-PET 皮芯纤维对比
+
+--- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]  (2 句)
+   • **Four functions, three of them structural** — microcapsules address only the fourth —— 支撑页：PCM-Free Thermoregulation
+- **Insulation at aerogel level is a geometry effect** (porosity + Knudsen + point contact) —— 支撑页：细菌纳米纤维素
+- **For multi-hour wear, PCM is redundant; for transients it is marginal** —— 支撑页：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- **The compensation levers are the same structures the REL/capillary work already develops** —— 支撑页：毛细梯度设计、REL增强层、分区密度设计
+   • Concepts 概念：PCM-Free Thermoregulation、Diaper Microclimate、细菌纳米纤维素、毛细梯度设计、分区密度设计、REL增强层、热风粘合无纺布
+- Comparisons 对比：BNC-Only vs BNC+PCM (Thermoregulation Ledger)
+- Sibling sources 同批来源：Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)、Diaper Microclimate Visualization Feasibility (Dual-MVP)
+
+--- [[REL for 100% SAP Core（全SAP芯体增强层设计）]]  (2 句)
+   • **在全 SAP 芯体中，REL 是唯一的工程杠杆**：没有绒毛浆做天然输运层，一切输运/回弹/抗塌都要靠纤维工程实现 —— 支撑页：REL增强层、COCO芯体平台
+- **旦数编码功能 Denier encodes function**：1.5D 骨架分散 / 2.2D 致密键合 / 4.0D 弹性支撑 / 6.0D MD 输运——旦数选错即功能错 —— 支撑页：热风粘合无纺布、并列复合自卷曲纤维
+- **双峰长度是刻意的 Bimodal length is deliberate**：38 mm 建 XY 键合面、51 mm 建 Z 向拱与 MD 取向 —— 支撑页：毛细梯度设计
+- **ATB 炉是量产临界点**：148–155 ℃ / 2.5–3.2 m/s / 8–12% 过喂这三个数字决定实验室设计能否活到量产 —— 支撑页：热风粘合无纺布
+- **PVA 必须是非水溶牌号，且须以 80 ℃、30 min 验证**：否则亲水整理被洗脱，第 2 次冲击起 STT 崩 —— 支撑页：REL增强层
+   • 概念 Concept：REL增强层（本页主派生关联，见其追加节）、毛细梯度设计、并列复合自卷曲纤维、热风粘合无纺布、分区密度设计、COCO芯体平台、ADL（导流层）
+- 对比 Comparison：REL vs ADL（收集传递层 vs 导流层）
+- 供应商线索 Supplier leads（本页不另建实体页）：ES 纤维（FiberVisions/Indorama、Huvis、Toray、远东新世纪）／PTT-PET（Toray、Teijin Frontier、Indorama、Hyosung）／偏心中空（北京京兰、ES FiberVisions 中空牌号、浙江恒逸、南亚塑胶）／非水溶 PVA（Kuraray KURALON™ K-II、皖维、中石化四川维尼纶）——详见 Kuraray（可乐丽）
+- 组合 Portfolio：IPC BCC OI Portfolio（开放创新项目组合）
+
+--- [[优化 REL 五纤维配方与穿透热风粘合工艺模拟]]  (2 句)
+   • **REL 的性能来源是「毛细梯度 + 单向流」，不是单一纤维指标** —— 支撑页：毛细梯度设计
+- **PVA 是增强填料而非粘结剂**，其存在把工艺窗口收窄（不熔融、须靠 ES 锚固、上限 ≤10%）—— 支撑页：REL增强层
+- **PTT/PET 并列自卷曲纤维是关键回弹构件**，但潜卷曲需 ≥135 ℃ 才激活 —— 支撑页：并列复合自卷曲纤维
+- **急冷锁蓬松与「避免过粘合」是同时守住摄入与回渗的前提** —— 支撑页：亲水整理耐久性
+   • 概念：REL增强层、毛细梯度设计、并列复合自卷曲纤维、亲水整理耐久性、ADL（导流层）、CoPET（低熔点共聚酯）
+- 实体：（本页未点名具体供应商，由后续 OI 项目批次补充）
+- 对比：CoPET-PET 与 PE-PET 皮芯纤维对比
+
+--- [[Acquisition Test STM-00060（导流性能测试）]]  (1 句)
+   • 输运族：Liquid Diffusion Test（液体扩散测试）、MD Liquid Distribution
+- 结构载体：ADL（导流层）、毛细梯度设计
+- 上位索引：芯体测试方法与验收基准（STM）
+

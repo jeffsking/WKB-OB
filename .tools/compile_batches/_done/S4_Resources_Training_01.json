@@ -1,0 +1,23 @@
+{
+  "batch": "S4_Resources_Training_01",
+  "stage": "S4",
+  "block": "Resources/Training",
+  "source_pages": [
+    "Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）",
+    "Absorbent System Overview（K-C 吸收系统概览培训·2021-02）",
+    "Urine and BM Absorbent Basic Training Introduction（尿与便吸收体基础培训·开篇·2021-02）"
+  ],
+  "concept_pages": [
+    "Core Wrap（芯体包裹层）",
+    "Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）"
+  ],
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "sources/SDHY Group ppt for KC_EM BCC R&E.md（登记 Resources/Training 重复下载件为归档件 source_paths，追加登记说明；实体页 [[SDHY Group（非织造布）]] 此前由 Supply Base 批已建并已追加，本批未重复追加）",
+    "concepts/SAP（高吸水树脂）.md（追加 2026-09-29 验证记录：培训口径 30–40 g/g saline 与供应商名单 San-Dia/Danson 对应关系 [待验证]）"
+  ],
+  "manual_review": [],
+  "notes": "4 项处理：#1 Agenda.xlsx 新建源页（两张 sheet 内容相同，按单页处理）；#2 SDHY deck 发现与 Supply Base 批已编译页同文档（不同子目录）→ 不另建页，仅归档件登记互引；#3 Overview deck 新建源页（K-C 培训口径：pulp ~8 g/g、SAM 30–40 g/g、surge 50–130 gsm、储存 ~1 年、讲义供应商名单），派生 Core Wrap 概念页（核心结构职能）；#4 _00 Introduction 新建源页（四场时间表 + 13 讲题分工，与 Agenda 互证；Bench 时长两版口径 45+45 vs 30+30 并列不取舍）。派生页门槛依据：Pad Zoning 在批内 2 份文件（Agenda + Introduction）均出现 → 满足 ≥2 份；Core Wrap 属核心结构机理（源内 SAM 容纳/防沾肤/释料三职能）。培训口径数字均标注『培训口径』并链回源页；讲义供应商名单仅作名单记录，不构成合作记录。过程说明：Pad Zoning 首次落盘因标题含半角冒号产生 0 字节 ADS 残件，已即时清理并以全角冒号『Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）』重建（仅涉本轮自建文件），相关链接已同步修正。",
+  "self_correction": "2026-09-29：清理本轮自建残件 WIKI/concepts/Pad Zoning（0 字节 ADS），重建为全角冒号文件名"
+}

@@ -1,0 +1,36 @@
+{
+  "batch": "idb_06",
+  "book": "Handbook_of_Industrial_Drying",
+  "items": [
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch30.md.md",
+      "chapter": "30",
+      "title_hint": "Drying of Nanosize Products",
+      "bytes": 18602
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch31.md.md",
+      "chapter": "31",
+      "title_hint": "Drying of Ceramics",
+      "bytes": 19286
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch32.md.md",
+      "chapter": "32",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 13312
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch36.md.md",
+      "chapter": "36",
+      "title_hint": "Drying of Wood: Principles and Practices",
+      "bytes": 19228
+    },
+    {
+      "src": "RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Industrial Drying/ID · analysis_ch37.md.md",
+      "chapter": "37",
+      "title_hint": "（标题未在源文件中找到，请打开源文件自行确定）",
+      "bytes": 21040
+    }
+  ]
+}

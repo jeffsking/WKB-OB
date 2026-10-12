@@ -1,0 +1,62 @@
+{
+ "stage": "S7",
+ "block": "(根层级)",
+ "items": [
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/gels-10-00474.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/gels-10-00474.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/gels-10-00474.pdf.md",
+   "name": "gels-10-00474.pdf.md",
+   "title_hint": "gels-10-00474.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md",
+   "name": "2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md",
+   "title_hint": "2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/LMP-PP Resin Development Brief (Integrated Edition).docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/LMP-PP Resin Development Brief (Integrated Edition).docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/LMP-PP Resin Development Brief (Integrated Edition).docx.md",
+   "name": "LMP-PP Resin Development Brief (Integrated Edition).docx.md",
+   "title_hint": "LMP-PP Resin Development Brief (Integrated Edition).docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/IMA知识库索引_20260925.md.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/IMA知识库索引_20260925.md.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/IMA知识库索引_20260925.md.md",
+   "name": "IMA知识库索引_20260925.md.md",
+   "title_hint": "IMA知识库索引_20260925.md"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/LMP-PP Brief - Plan C Supplement.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/LMP-PP Brief - Plan C Supplement.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/LMP-PP Brief - Plan C Supplement.docx.md",
+   "name": "LMP-PP Brief - Plan C Supplement.docx.md",
+   "title_hint": "LMP-PP Brief - Plan C Supplement.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/LMP-PP Resin Development Brief.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/LMP-PP Resin Development Brief.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/LMP-PP Resin Development Brief.docx.md",
+   "name": "LMP-PP Resin Development Brief.docx.md",
+   "title_hint": "LMP-PP Resin Development Brief.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/低熔点PP开发任务书·方案C技术要点补充页.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/低熔点PP开发任务书·方案C技术要点补充页.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/低熔点PP开发任务书·方案C技术要点补充页.docx.md",
+   "name": "低熔点PP开发任务书·方案C技术要点补充页.docx.md",
+   "title_hint": "低熔点PP开发任务书·方案C技术要点补充页.docx"
+  },
+  {
+   "src": "RAW/ima_sync/个人知识库/WKB/低熔点PP粒子开发任务书.docx.md",
+   "dst": "RAW_FULL/ima_sync/个人知识库/WKB/低熔点PP粒子开发任务书.docx.md",
+   "read": "RAW_FULL/ima_sync/个人知识库/WKB/低熔点PP粒子开发任务书.docx.md",
+   "name": "低熔点PP粒子开发任务书.docx.md",
+   "title_hint": "低熔点PP粒子开发任务书.docx"
+  }
+ ]
+}

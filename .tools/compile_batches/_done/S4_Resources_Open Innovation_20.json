@@ -1,0 +1,38 @@
+{
+  "batch": "S4_Resources_Open Innovation_20",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": {
+    "new_this_run": [],
+    "preexisting_verified": [
+      "WIKI/sources/indicator-video-mechanism-judgment.docx.md",
+      "WIKI/sources/Experiments to parallel Poise studies.docx.md",
+      "WIKI/sources/Liner-Surge Interface HSBL Trial.xlsx.md",
+      "WIKI/sources/CD pants machine process.pptx.md",
+      "WIKI/sources/SAP database for COCO.xlsx.md",
+      "WIKI/sources/Always Discreet Adhesive Pattern Dimensions.pptx.md",
+      "WIKI/sources/Liner Surge Development - Active Swoosh - Sept 2023.pptx.md"
+    ],
+    "frontmatter_sourcepath_corrected_to_batch_src": [
+      "indicator-video-mechanism-judgment.docx.md",
+      "Experiments to parallel Poise studies.docx.md",
+      "Liner-Surge Interface HSBL Trial.xlsx.md",
+      "CD pants machine process.pptx.md",
+      "SAP database for COCO.xlsx.md （同时补齐缺失的 .md 后缀）",
+      "Always Discreet Adhesive Pattern Dimensions.pptx.md",
+      "Liner Surge Development - Active Swoosh - Sept 2023.pptx.md"
+    ]
+  },
+  "concept_pages": { "new_this_run": [], "preexisting_verified": [] },
+  "entity_pages": [],
+  "comparison_pages": [],
+  "updated_existing": [
+    "WIKI/concepts/Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）.md （含 4 处 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/Rewet Measurement Variability（回渗测试变异性）.md （含 2026-09-29 dated note，已核实）",
+    "WIKI/concepts/CD Pants Converting Process（CD裤式产品加工工艺）.md （已核实存在）",
+    "WIKI/comparisons/SAP 四牌号性能对比（KC511 vs NR-610S vs NR-950 vs Code X）.md （含 8 处 2026-09-29 dated note + 1 处 manual_review 边界，已核实）",
+    "WIKI/concepts/Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）.md （含 2026-09-29 dated note，已核实）"
+  ],
+  "manual_review": 0,
+  "notes": "复核轮（2026-09-29 第二代理）结论：前代理（冻结轮）的 7/7 source 页**实际均已落盘**且内容完整（41-59 行/页）。唯一系统性缺陷：source 页 front matter 的 source_path 写成 RAW_FULL/ 前缀（而非批单 src 的 RAW/ 前缀），SAP database for COCO.xlsx.md 还漏了 .md 后缀，导致按 src 精确查重时 7 项被判缺失。本轮未重编译、未覆盖任何页面，仅将 7 页 source_path 一字不改校正为批单 src，使 7/7 全部通过 src 精确登记校验。派生页追加记录核实存在。另修复 1 处断链：2025.10.03 - STEC 2025 - Rewet Design Principles.pptx.md 的 pages_linked 中 [[...Script]] 补齐 .docx 后缀指向实际文件名（该断链由全库 pages_linked 目标存在性扫描发现）。"
+}

@@ -1,0 +1,51 @@
+{
+  "batch": "S4_Resources_Open Innovation_04",
+  "stage": "S4",
+  "block": "Resources/Open Innovation",
+  "source_pages": [
+    "SAP Selection Decision Base（17-SAP选型与实验数据决策库）",
+    "Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）",
+    "Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）",
+    "Intake Tech One-Pagers（摄入系统技术一页纸管线）",
+    "Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）",
+    "STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）",
+    "R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）",
+    "Personal Care Process 101 - How It's Made（卫品加工工艺入门）",
+    "REL for 100% SAP Core（全SAP芯体增强层设计）",
+    "Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）"
+  ],
+  "concept_pages": [
+    "GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）",
+    "Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）",
+    "Ultra-Low Add-On Adhesive Application（超低添加量施胶）",
+    "Liner-Surge Embossing（面层-导流层压花）",
+    "Bladder Box Intake Test（膀胱箱压载摄入测试）",
+    "Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）"
+  ],
+  "entity_pages": [
+    "Satellite Chemical（卫星化学）",
+    "Sumitomo Seika（住友精化）",
+    "Nippon Shokubai（日本触媒）",
+    "Shandong Nameixin Biotechnology（山东纳美欣生物科技）"
+  ],
+  "comparison_pages": [
+    "Olefin-Based vs EVA Construction Hot Melt（烯烃基 vs EVA 结构胶）",
+    "REL vs ADL（收集传递层 vs 导流层）",
+    "Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）",
+    "Rewet Method Comparison（回渗测试方法横向对比）"
+  ],
+  "updated_existing": [
+    "entities/汉高.md",
+    "concepts/芯体测试方法与验收基准（STM）.md",
+    "concepts/REL增强层.md"
+  ],
+  "manual_review": [
+    "SAP Selection Decision Base：17 家 SAP 牌号单价/供应条款属商务敏感，仅记相对关系与 rank，不落全价表",
+    "Adhesive Feasibility & Action Plan：$/SU 成本与 JDA 合作意向属商务敏感，仅记相对量级",
+    "Intake Tech One-Pagers：MOAB $/SU 节省额属商务敏感，仅记存在节省与方向；pptx 解析噪声已在页面标注",
+    "STM-00497 Intake via Bladder Box：K-C 内部 STM 草案全文，属内部方法文档，仅摘参数与判据",
+    "R150540-TL-14137：K-C CONFIDENTIAL 标注文件，渗漏率曲线仅记趋势不转数值表",
+    "Rewet Method Comparison：竞品（P&G）方法参数属竞争情报，已降级为要点+方法差异，不全量复制参数"
+  ],
+  "notes": "Batch 04 = 10 items, all NEW (no source_path collision with existing WIKI/sources). Cross-linked to [[IPC BCC OI Portfolio（开放创新项目组合）]] where applicable; OI numbering default = 重构版 19 项 (OI-1~OI-19, no zero-padding); no zero-padded OI list appeared in this batch, so no conversion note needed. Recorded one cross-source conflict without adjudication: REL recipe A (4-fibre blend 50/28/14/8 @35-45 gsm, ATB 148-155 °C, from 'REL for 100% SAP Core') vs REL recipe B (5-fibre 24 gsm, 128-143 °C, pre-existing on [[REL增强层]]) — logged as ⚠️ 矛盾记录（2026-09-29，待人工确认）on the REL 概念页, 不裁决、不换算. Large bodies read in chunks per rule. No index.md/log.md touched; no file moved/renamed/deleted."
+}

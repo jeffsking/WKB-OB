@@ -1,0 +1,100 @@
+# SEED: Lagrangian Particle Tracking
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Computational Modeling in Absorbent Technology
+#
+# 全库正文命中 74 页，101 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating superabsorbent polymer (SAP) particles** — spraying a liquid below the product-bed surface in a mixer with movable tools. The variant copy in this batch additionally exposes an **SFC (surface-crosslinking fraction [待验证]) calculation formula**, of direct interest to OEM SAP test protocols.
+   • The invention relates to a method for preparing superabsorbent polymer particles by polymerising a monomer solution or suspension. In a mixer equipped with a movable mixing tool, a liquid is sprayed through at least one nozzle to a position below the surface of the product bed. The disclosed variant further details an SFC calculation formula (surface-crosslinking fraction, abbreviation expansion [待验证]) for characterising the coated particles.
+   • **Liquid-below-bed-surface coating of SAP particles** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **SFC formula variant** supports surface-crosslinking process control for OEM SAP test protocols.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]]  (4 句)
+   • A granted Chinese invention patent (assignee: **BASF SE / 巴斯夫欧洲公司**) on a **process for coating SAP particles with a particulate solid dispersed by a gas stream**, fed below the product-bed surface. Process sibling of CN 101641398 B (liquid-spray coating) — both are BASF SAP post-treatment/core patents.
+   • The invention relates to a method for preparing superabsorbent polymer particles, wherein in a mixer the SAP particles are coated with a particulate solid that is dispersed by means of a gas stream, and the feed of the dispersed particulate solid into the mixer terminates below the surface of the product bed.
+   • **Gas-dispersed particulate-solid coating of SAP particles (below bed surface)** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- **Process sibling of CN 101641398 B** (liquid-spray variant) — same assignee, same FTO relevance.
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 实体：巴斯夫欧洲公司（BASF SE）
+- 同族：CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+
+--- [[CN 107854223 B（一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法）]]  (3 句)
+   • The invention discloses an SAP for fluff-pulp cores and its preparation: acrylic acid is mixed with deionised water and neutralised with NaOH; sodium silicate, acrylamide, crosslinker and initiator are added to give a milky solution; under N2, UV polymerisation yields a transparent gel; the gel is granulated, dried, milled to powder; the powder is stirred with sodium aluminate and surface-treated with a treatment liquid. Nano-SiO2 generated during neutralisation disperses uniformly, raising liqu
+   • **Fluff-pulp-core SAP with in-situ nano-SiO2 (permeability/diffusion ↑, rewet ↓)** — supporting page SAP（高吸水树脂） / SAP 表面包覆（SAP Particle Surface Coating）.
+   • 概念：SAP（高吸水树脂）、SAP 表面包覆（SAP Particle Surface Coating）
+- 实体：—
+
+--- [[Computational Modeling in Absorbent Technology]]  (3 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • **Model before you spin.** Pore radius, depth, contact angle, viscosity and external pressure each map monotonically onto penetration time — the parameter space can be scanned on a laptop instead of on a pilot line.
+- **Pressure can substitute for hydrophilisation.** Once θ ≥ 90°, capillary pull is zero and only imposed pressure breaks the deadlock; conversely a hydrophilic surface buys back penetration at zero pressure. The two are engineering substitutes.
+- **One-dimensional Washburn is a lowe
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Intelligent Textiles and Sports Clothing]]  (3 句)
+   • No settled definition of smart textiles exists. Some sources treat it as a single grouping; others split it into **smart** vs **intelligent**, where both sense stimuli but *intelligent* additionally responds with a **pre-programmed reaction**.
+- Core architecture: **sensor + activator (starter) + control unit**, executing five functions — receiving the environmental stimulus, capturing parameters, data processing, initiating response, storing data/energy, and communication/response output. In it
+   • **PCM (Phase Change Materials) knits**: microcapsules accumulate and retain heat at higher temperature and subsequently release it at lower temperature, giving thermo-regulatory performance.
+- **Shape memory polymer (SMP)**: characterised by a large reversible elasticity change at the glass transition temperature. The flagship example is **Diaplex** (Japan), which maintains body temperature by redistributing its particles: at low temperature the particles arrange into a solid plate forming an in
+   • **Lotus effect**: micro- and nano-scale combination (tiny papillae covered with hair-like wax crystals) greatly reduces contact between water molecules and the surface. Self-cleaning technology was named by Time magazine (2006) as one of the best investments. Butterfly- and dragonfly-wing-inspired surfaces are described as naturally hydrophobic and rough, effectively shedding dirt during rain.
+- **Velcro**: modelled on the burdock plant — many tiny hooks forming a hook-and-loop construction; a v
+
+--- [[Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）]]  (3 句)
+   • Commercial SAP particles were mixed with a corn-starch suspension (0.002–0.20 g starch per g SAP) and dried at 150 °C. Free Swell Capacity (FSC) and Absorption Under Pressure (AUP) were measured at varying NaCl concentrations vs untreated SAP. At 0.04 g/g starch, AUP beat the untreated SAP; GLP improved significantly, explained by controlled particle swelling and a more porous gel layer that speeds liquid flow. Starch (a biodegradable carbohydrate polymer) is proposed as a renewable surface modi
+   • **Renewable starch surface modifier raises AUP & GLP** — supporting page SAP 表面包覆（SAP Particle Surface Coating）.
+- Adjacent to SAP性能指标（CRC AUL GBP Vortex） (AUP / permeability).
+   • 概念：SAP 表面包覆（SAP Particle Surface Coating）、SAP（高吸水树脂）
+- 对比：—
+
+--- [[Controlled Radical Polymerization SAP（控制自由基聚合 SAP）]]  (2 句)
+   • 1. **问题起点**：常规水溶液自由基交联聚合中，高活性自由基成长种引发终止/链转移等副反应 → 体系混存多种分子量聚合物 → **网目结构不均一**，抑制吸水性能（厂商公告口径）。
+2. **CRP 解法**：控制自由基聚合使增长反应以外副反应最小化，得到均一分子量聚合物；但此前鲜有用于交联聚合、更少用于水溶液体系——且卫材级 SAP 还须满足低毒、无臭无着色、成本低。
+3. **有机碘控制剂**：与日本碘制造先驱合同资源（Godo Shigen）联合，找到适配丙烯酸单体的最优控制剂，实现工业化；主题获 **2018 年度碘学会赏**。
+4. **性能与组合性**：所得 SAP 网目均一、吸水性能大幅提升（幅度未公开量化 ）；**可与表面交联等既有技术叠加**——即 CRP 主链均质化与 SAP 表面包覆（SAP Particle Surface Coating） 是正交优化维度，可叠加设计。
+5. **供应格局定位**：与「水溶液前聚合（LG/台塑/日本触媒/BASF 口径）」「反相悬浮（住友精化口径）」并列的**第三条工艺轴**——见 SAM Supplier Landscap
+   • 上位 / 相关：SAP（高吸水树脂）、SAP性能指标（CRC AUL GBP Vortex）、SAP错峰膨胀（同为网络结构级优化）
+- 正交技术：SAP 表面包覆（SAP Particle Surface Coating）
+- 工艺对照：SAM Supplier Landscape Comparison（SAM 供应商格局对比）、Nippon Shokubai（日本触媒）（前聚合路线）
+
+--- [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]  (2 句)
+   • 1. **输送过程中 SAP 颗粒破碎**（particle breakage）—— 因输送摩擦所致；
+2. **计量偏差**（inconsistent dosing deviation）—— 由材料在到达目的地前的行为不一致造成。
+   • 1. **第一性原理的最简表述** —— 「**SAP only allocated on area where has vacuum**」：**有孔有风 ⇒ 有 SAP；无孔无风 ⇒ 无 SAP**。因此**洁净通道是"没落上去"的结果，不是压出来的**；花型与通道**同一工艺同时得到**。
+2. **定量是连续量而不是档位** —— 「More air flow leads to more SAP, less air flow results in less SAP」：**同一套成形鼓即可实现 MD 分区 / CD 分区 / MD+CD 复合分区 / 图案**（all-in-one）⇒ **分区 know-how 落在风量分布与孔型设计，而非机械换型**。
+3. **可控真空的来源是三件套** —— **成形风机 + 变频（inverter）与磁耦合（magnetic coupling）+ Nichidai 网技术**；各真空段压力**可在环内（in-loop）由 SAP 重量传感器与压力传感器实时调节**。
+4. **网的硬限制被量化** —— **当前能力下最小孔心距 0.14
+
+--- [[SAP（高吸水树脂）]]  (2 句)
+   • **二氧化硅（SiO₂）已在使用**，加入点在高速混料机加液处；目的是**改善颗粒流动性（flow rate）** —— 不加则颗粒粘连、流动性差、**影响吸水性**。
+- → 无机粉末在 SAP 后处理段不是"噱头"，而是**流动性与吸水性的功能性添加剂**；这与 SAP 表面包覆（SAP Particle Surface Coating） 的"无机粉末撒粉提 GBP"是同一机理的不同表述。
+   • ✅ **验证记录（2026-09-29）**：以上为**供应商现场讲解口径**，无第三方验证；温度、固含（96% vs 97%）、目数（30 / 30–50 目）与粒径（300–600 μm）的**对应关系与单位均未获澄清** [待验证]；"先聚合后中和"为本页据上下文还原，供应商未使用该术语 [待验证]。参见 诺尔（Nuoer）、SAP 表面包覆（SAP Particle Surface Coating）、SAP性能指标（CRC AUL GBP Vortex）。
+
+--- [[BASF]]  (2 句)
+   • **与 KC 的关系**：现有摘录**无**BASF 与金佰利的供货 / 合作 / 竞品关系证据 → 关系字段记 **待核**。
+- ：公司国别、成立信息、组织架构等基本盘信息在引用页中均未给出。
+- ：HySorb® N7059 的 AAP 值（0.3 psi 29.0）在摘录中截断，单位与后续指标不可读（源：BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫））。
+- ： 缩写的完整展开在源页标注为 ；相关公式见 SAP 表面包覆（SAP Particle Surface Coating）。
+- ：BASF 在生物质平衡 SAP 上的**认证机构与证书编号**在宣传页摘录中未给出具体名称（源：BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列））。
+- ：原始引用来源 4 页（Absorbent Technology / Ancient Organic Dyes and Pigments Chemistry / Chromic Phenomena… / Luminescence…
+   • **提供正文摘录的库内页面**
+- 巴斯夫欧洲公司（BASF SE）
+- BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）
+- BASF Biomass Balanced Superabsorbents（v3 归档同名件）
+- BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）
+- SAP 表面包覆（SAP Particle Surface Coating）
+- CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）
+- CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）
+- SAM Database-CW（全球 SAM 牌号性能数据库）
+- SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）
+- SAP Selection Decision Base（17-SAP选型与实验数据决策库）
+

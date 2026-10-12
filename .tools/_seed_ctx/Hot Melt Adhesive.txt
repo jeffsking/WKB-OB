@@ -1,0 +1,102 @@
+# SEED: Hot Melt Adhesive
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Handbook of Adhesive Technology Full Report
+#
+# 全库正文命中 289 页，580 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[热熔胶 Hot Melt Adhesive]]  (12 句)
+   • 定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：**Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种**（源：Adhesive Handbook）；另一处给出卫材常用胶种清单：**EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive**（源：Handbook of Adhesive Technology Full Report）。
+   • ⚠️ 口径提示：本库同时存在 Hot Melt Adhesive 与 Polyolefin Hot Melt Adhesive（聚烯烃热熔胶） 等分型页面，引用时应确认层级（通用 vs 聚烯烃分型）。
+   • **1. 粘接机理五大类：** WLB 湿润、表面能、渗透、锚定、静电 —— 适用于所有粘接场景（源：Adhesive Handbook）。含纤网场景下**机械互锁占主导**："penetration of the protruding fiber ends into the rubber was the most important parameter"（Part 2, Line 71–75）（源：Handbook of Adhesive Technology Full Report）。
+   • **2. 胶接界面不是一条线：** "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（Part 2, Line 2900–2920）（源：Handbook of Adhesive Technology Full Report）。
+
+--- [[Handbook of Adhesive Technology Full Report]]  (10 句)
+   • **Core thesis:** Adhesive strength is governed by **viscoelastic dissipation**, not just interfacial thermodynamics. The governing equation is:
+   • **Adhesive joint is not a thin line** — it is a complex three-dimensional interphase:
+> "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'" [Part 2, Line 2900–2920]
+   • **Hygiene implication:** Adhesive weight, application method, and open time each contribute ~50% alongside the adhesive itself — R&D and procurement must invest in both.
+   • **Mechanism:** Mechanical interlocking dominates — "penetration of the protruding fiber ends into the rubber was the most important parameter" [Part 2, Line 71–75]
+- **Key adhesives:** EVA hot melt / PO hot melt / starch-modified / water-based acrylic point-adhesive
+- **Critical parameters:**
+  - Adhesive layer thickness: **0.07–0.08 mm** [Part 2, Line 11904–11907]
+  - G = G₀·ψ(v,T) determines "no-leak at low speed, no-delamination at high speed" trade-off
+  - Small plasticizer addition (20 phr)
+
+--- [[聚氨酯 Polyurethane]]  (6 句)
+   • The vault's only structural statement is that **polyurethane is an addition polymerisation whose product nonetheless contains "condensation-type" repeat units** — used by the polymer source as the example that the addition/condensation split is not total ("There is a large but not total overlap")（源：Seymour Polymer Chemistry Ch06 Step-Reaction Polymerization）。Functionally, it appears in three hygiene forms — **elastic fibre/film, hot-melt/composite adhesive, and functional coating/membrane**（源：Po
+   • **Hard–soft segment microphase separation.** Spandex is a **polyurethane–polyester block copolymer**; the hard-soft segment microphase separation governs elastic recovery, which is why the TPE/TPU class combines *thermoplastic processing with rubber elasticity*（源：Seymour Polymer Chemistry Ch09 Copolymerization、Ebewole Polymer Science Ch15 Polymer Properties and Applications）。The same source names PU/TPE for **nonwoven bonding adhesives, elastic components and coatings**（源：Ebewole Polymer Science
+   • **Waterborne shift.** Waterborne PU adhesives emit **no VOC** and are nonflammable, hence "more environmentally friendly"; the shift was driven by rising solvent prices（源：Adhesive Handbook Part 3 Adhesive Classes）。
+   • **Three in-hygiene forms（三种形态，均关键）.** Elastic fibre/film（氨纶、PU elastic film for 弹性腰围 and 防漏隔边）、hot-melt/composite adhesive（PU 类胶）、and functional coating/membrane（透气膜、PU 膜复合）；the deck rates this **high relevance** as the raw-material/process basis for PU elastic parts and PU adhesives（源：Polyurethane Elastomer Handbook）。
+- **Elastic components.** Spandex and SBS/SEBS TPE are named as the material basis of the **elastic waistband, leak-guard side cuffs and elastic ear tabs**（源：Seymour Polymer Chemi
+
+--- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]  (6 句)
+   • The **second-generation BM indicator design** for a composite breathable backsheet — it replaces the two-lane concept with a single protein-error lane, and works the problem from the other end: dye loading as the only selectivity knob, melt rheology, slot geometry, thermal load on the breathable film, and a full cost model.
+   • Five candidate triggers are scored. **Soluble protein** (protein-error of a pH dye, 10,000–40,000 mg/L in faecal liquid vs < 150 mg/L in healthy urine) is SELECTED; bilirubin/bile pigment (diazonium coupling) is confirmatory tier 2 because diazonium salts are light- and heat-labile in a 125 °C melt; faecal protease (cleavable chromogen) is R&D only on cost and melt-survival grounds; faecal lipase is rejected for slow kinetics and no aqueous phase; conductivity/ionic strength is rejected for over
+   • Thermal load is the binding constraint: the contact interface reaches 69 °C at a 125 °C melt (comfortable), but the bulk equilibrium temperature reaches 85 °C at 125 °C and 90 °C at 135 °C — and a microporous CaCO₃-filled PE film loses WVTR irreversibly once the drawn structure anneals above ~90 °C. A chilled backing roll moves the ceiling up by ~15 K. Nominal set point 125 °C, window 115–132 °C (lower ≈112 °C by die pressure, upper ≈134 °C by film pore collapse; viscosity floor ≈136 °C).
+   • Cost: US$0.567 per 1,000 diapers all-in (material 0.142, capex amortised 0.109 over 707 M diapers/3 y, OEE allowance 0.240 at 0.30 %), i.e. 0.056–0.057 ¢/diaper. Net new hardware ≈ US$77 k core / US$109 k with in-line colour verification. Test plan covers a protein challenge ladder (0 / 150 / 1,000 / 5,000 / 10,000 / 40,000 mg/L bovine albumin), urine at pH 5.5 and 9.0, aged urine, stability (40 °C/75 % RH 8 weeks; 8 h melt at 130 °C; light; dye leach), process/product (Cpk ≥ 1.33 on 20 ± 3 gsm;
+
+--- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]  (6 句)
+   • Drawn but unset filaments do not possess **dimensional stability 尺寸稳定性**: they tend to shrink, crease and wrinkle. This chapter explains how hot dry air, steam or hot water — "by the action of heat in the absence or presence of swelling agents, with or without tension" (p.188) — give the fibre its **set 定形**. It classifies set into three classes, identifies **partial melting and recrystallization 部分熔融与重结晶** as the dominant mechanism of permanent set, analyses the two-stage nature of PET shrinkag
+   • Mechanism of permanent set (p.190–191): "The most important mechanism of permanent setting in crystalline polymers is through partial melting and recrystallization, whereby partial melting of small, imperfect crystals takes place below the melting point to allow the growth of larger more perfect and regular crystalline units."
+   • Why it cannot be undone (p.191): "the mechanism of heat-setting is to lead the structure to a position of lower minimum energy from the state prior to heat-setting." Hearle's crystal-size vs. melting-frequency diagram is cited with the plain statement that "small or imperfect crystals will melt and larger crystals will grow. This is a typical process of annealing" (p.192).
+   • Strength assessment from the source itself: the melting–recrystallization mechanism is strongly supported by multiple independent experiments; the tension effect on Tg/tenacity relies mostly on one group (Valk) and is self-consistent but single-sourced; the triacetate section rests on only two early studies and is rated medium-to-weak.
+
+--- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]  (6 句)
+   • PET is presented as "the most outstanding member of the polyester fibre family" (ISO definition, p.271): "a polymer comprising synthetic linear macromolecules having in the chain at least 85% (by mass) of an ester of a diol and terephthalic acid". The chapter covers the Whinfield and Dickson invention and commercialization by **DuPont (1953)** and **ICI (1954)** (pp.271–272), then runs the full chain: **polymer production** via two routes → **melt spinning** into four speed-defined product class
+   • Route comparison (pp.291–292): "cost of TPA is usually less than DMT"; "the reaction product in the DE step has a higher molecular weight than that obtained in the EI step"; and "PET produced via the PTA route has lower average molecular weight, lower melting point and higher dye uptake" — the differences are attributed mainly to **diethylene glycol (DEG 二甘醇)** content. DEG forms by etherification of two glycol molecules and makes the chain irregular, lowering melting point and raising dye uptak
+   • **Nucleative collapse 成核崩塌** (p.311): "This has been termed 'nucleative collapse' [36] because a large number of small nuclei come together to form a crystallite." In an oriented melt the entropy penalty is small and the critical nucleus size approaches the unit-cell size, so high-speed spun PET forms dense microcrystallites.
+- **Catalyst effects** (p.312): "the catalyst system could exhibit a greater influence than molecular weight in controlling the rate of crystallization of PET." Residual ca
+   • Assessment: polymerization and spinning sections are evidence-dense and highly credible; structure–property linkage is chart-dependent with shallow mechanism discussion; the applications section is narrative with little quantification. Some figures are OCR-reversed (Fig. 12.1–12.8 captions) and some values (DEG%, a melting-point decrease) are scan-garbled in the source — [待验证].
+
+--- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]  (6 句)
+   • Part Two screens seven families against applicator, cycle life, cost and tox. Only the geometric optical mask survives (TRL 8, native slot-coatable, 1.0× cost index, no new tox package); craze/cavitation whitening is Phase 2 (1.4×), interference pigment is backup (3×); polymer opal (25×), stretchable DBR (15×), cholesteric LCE (40×) and molecular mechanophores (60×) are rejected — the latter because ~240 pN per bond demands covalent incorporation into a cross-linked network, fades after ~3 cycle
+   • Part Three specifies the selected design: the elastic laminate's own corrugation (2.2× bonded, 1.2 mm relaxed pitch) acts as a mechanical shutter under a rigid, CD-zoned opaque hot melt (TB-A). One equation, φ(ε) = 1 − 2a/[λ₀(1+ε)], sets all three thresholds, and the three coat weights (7.5 / 9.0 / 11.0 g/m²) come from one shim whose land lengths (18.0 / 15.0 / 12.0 mm) give a 1.00 : 1.20 : 1.50 flow ratio — within 2 % of the required 1.00 : 1.20 : 1.47.
+   • Part Four covers the process: contact slot die, 200 µm shim (a 100 µm gap would have driven 165 bar and stalled the pump), 400 m/min, 12 °C chill roll, 0.4 s dwell, and a full setpoint table. Sensitivity analysis concludes that three variables matter (panel lamination pre-stretch, coat weight, web tension) and melt viscosity is self-compensating.
+   • Part Five closes cost (US$0.90/1,000 pants, US$38 k capex, 1:4 versus a typical wetness-indicator stripe), safety ("nothing new": every component already sits in diaper construction adhesives or printed backsheets), FTO (K-C US 7,704,589 B2 lapsed, adjusted expiry 2026-10-04 → free to practise, novel only in the coating architecture), a risk register, a measurement protocol (ΔE*ab = 6 crossing on the cycle-2 retraction branch) and a 24-week four-gate plan.
+
+--- [[卫材胶黏系统 Hygiene Adhesive Systems]]  (5 句)
+   • 卫材胶黏系统 = 一次性卫生用品（纸尿裤 / 卫生巾 / 湿巾）中**承担结构粘接、层合、SAP 包裹与皮肤接触自粘的胶黏剂体系总和**：从芯体点胶、面层-导流层-背膜层合，到腰贴/侧贴的压敏胶（PSA），再到防漏边"胶-密一体"的封边胶。
+- 口径不在"胶"这个名词上，而在**接头本身**：source 明确 "An adhesive joint is not a 'thin line' — it is a complex three-dimensional 'interphase'"（接头不是一条线，而是三维过渡层）（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **六大胶接理论互补而非互斥**："each of these theories is valid to some extent... they do not negate each other"（源：Adhesive Handbook Part 2 Fundamental Asp
+   • **粘弹性耗散主导强度，而非界面热力学。** 剥离强度 **G = G₀·ψ(v,T)**：G₀ = 本征断裂能，ψ(v,T) = 频率/温度相关的粘弹性函数。卫材含义："Temperature and peel rate directly determine core retention"— 配方开发的核心是设计 ψ(v,T) 的峰值（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **机械互锁是橡胶-纺织/绒毛浆界面的主导机制。** "penetration of the protruding fiber ends into the rubber was the most important parameter"，对应热熔胶点到浆纤维 / SAP 颗粒的锚固深度（源：Adhesive Handbook Part 2 Fundamental Aspects）。
+- **水基化转型不可逆。** 水性聚氨酯"no VOC emissions and
+   • **腰贴 / 侧贴 / 顶贴的 PSA 选型基准** — 行业直接命中："Personal hygiene products such as disposable diapers make use of self-adhesive strips... unmodified acrylic dispersions as well as hot melts dominate this application... in particular the adhesive must not cause skin irritation."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **芯体点胶** — 施胶花型（喷嘴）是最大杠杆、**胶型是最小杠杆**：HSBL 数据给出施胶应施加在导流层（surge）上以获得高剥离强度；"间隙小 → 回渗低"仍为未验证假设（源：HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）、Surge-Liner Adhesive Bonding（导流层-面
+   • **HSBL 试产的实测结果**（Peel / Capillarity / MicroCT / 回渗）与覆盖率—添加量的最优区间未见 （源：Surge-Liner Adhesive Bonding（导流层-面层施胶粘合））。
+- **SAP-胶复合界面的标准测试方法**（界面相容性、防霉）库内记载"尚无"（源：Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶））。
+- **湿态/尿液环境下的长期强度衰减**库内只有类比（85 % 损失为有机涂层数据），**卫材专属衰减曲线未见** 。
+- 以上定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+
+--- [[压敏胶 PSA]]  (5 句)
+   • **压敏胶（PSA, pressure-sensitive adhesive）** = 在**轻压**下即产生粘接的胶，无需溶剂、热或固化即可"润湿"基材。Source 原话："Tack is also believed to stem from the viscoelasticity of many polymers, allowing them to conform to the substrate to be adhered and 'wet' it even in the dry state."（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **产品三分类**："Pressure-sensitive adhesives fall into three broad product categories: water based, solvent based, and hot melt."（水基 / 溶剂型 / 热熔型）（源：Adhesive Handbook Part 3 Adhesive Classes）
+- **卫材直接命中口径
+   • **初粘力来自粘弹性润湿。** tack 由聚合物的粘弹性主导，使其在**干态**下即可贴合并"润湿"基材；因此 Tg 必须显著低于使用温度（源：Adhesive Handbook Part 3 Adhesive Classes）。
+- **剥离强度由粘弹性耗散主导。** 与结构胶同源，PSA 的剥离强度服从 **G = G₀·ψ(v,T)** —— 温度与剥离速率（"婴儿抓挠与穿着运动是高速剥离"）直接决定粘接表现（源：Adhesive Handbook Part 2 Fundamental Aspects、Handbook of Adhesive Technology Full Report）。
+- **三类体系的加工代价不同。** 水性化由 VOC 法规与溶剂价格推动（"as the price of solvents soared"），但"processing and end use performance are usually superior"指向溶剂型；因此水性 PSAs 应只用在不可逆环节（贴身面材、封条）（源：Adhesive Handbook Part 3 Adh
+   • **腰贴 / 侧贴 / 顶贴的皮肤接触主战场**：书中直接确认一次性纸尿裤自粘条由**非改性丙烯酸乳液 + 热熔胶**主导，且**皮肤不刺激是第一约束**（与急救敷料同一标准）（源：Adhesive Handbook Part 3 Adhesive Classes）。
+- **采购关注点**：自然橡胶基 PSA 仍是最大基料之一，但价格随农产品周期波动，需多源对冲（源：Adhesive Handbook Part 1 History and Information Resources）。
+- **结构胶（热熔）与 PSA 的边界**：卫材防漏边/腰围的 "SBS/SIS 热熔 PSA" 同时承担结构粘接与压敏功能，见 Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶） 与 Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）。
+- **供应商侧**：国内供应商将 PSA 与尿显水性油墨、热熔胶**配套供应**（热封胶 / 纸塑胶 / 压敏胶），面向一次性卫生用品工厂（源：Hygiene
+   • 卫材 PSA 的**皮肤刺激性定量阈值**与浸液/汗液后的**剪切保持衰减曲线**库内未见 。
+- **是否有独立概念页 PSA**：本库另存在一页仅 1 处引用的种子页 （引 Handbook of Adhesive Technology Full Report），与本页主题重叠，**页面合并 / 去重待决** 。
+- 上述定量数据在来源中的**页码/行号待核** （本页所记行号取自来源页转写）。
+
+--- [[熔喷 Meltblown]]  (5 句)
+   • 熔喷（meltblown）与纺粘（spunbond）同属**一体化熔融挤出（integrated melt-extrusion）成网工艺**：**树脂分子结构决定工艺窗口，工艺窗口决定纤维架构与终端性能**（卫材 / 医用一次性用品）。（源：Polymer-laid web formation）
+- 熔喷非织造布即 **meltblown nonwoven / 熔喷 PP 纤维（meltblown polypropylene）**，以高速热气流牵伸熔融聚合物形成超细纤维网。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造）、Polymer-laid web formation）
+- **树脂牌号分野**：纺粘用 ~35 MFR 的 CR 均聚物；熔喷用 **≥500 MFR、窄分子量分布（narrow-MWD）** 牌号 —— 这是熔喷与纺粘在树脂选型上的分界。（源：Handbook of Polypropylene and Polypropylene Composites）
+   • **阻力限制牵伸（drag-limited attenuation）**：纤维与空气射流达到**速度匹配**后，质量守恒即锁定直径（d ∝ v /(m·Λ·v_a)·…）；**熔体粘度只改变「多快达到匹配」**，不改变最终直径 —— 285 °C 时距模头 2.4 mm、250 °C 时 2.7 mm 达到匹配。（源：Meltblown Nonwoven（熔喷非织造布））
+- **三个真实杠杆**：降低单孔产量（cut g/hole/min，0.73 → 0.20，固定线产量下对应 35 → 130 hpi）、提高射流速度（150 → 250 m/s 带来 2.85 → 2.21 µm，随后饱和），以及「nothing else」。（源：Meltblown Nonwoven（熔喷非织造布））
+- **纤维细度不由温度买来**：在工业窗口内纤维直径受**阻力限制**（由单孔产量与射流速度设定，非熔体粘度）；模头温度 250 → 300 °C 使模拟直径变化 < 1%。（源：Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层））
+
+   • **芯体包裹层（core wrap）**：Coform 把**熔喷 PP 纤维与木浆纤维在同一成形过程中直接复合** —— 木浆提供吸收与蓬松，熔喷纤维提供连续相与强度；原用于湿巾基材，本库关注其在**纸尿裤芯体包裹层**上的迁移可行性。（源：Coform Composite Nonwoven（熔喷-木浆复合非织造））
+- **无膜背层（film-free backsheet）**：以熔喷无纺布**替代 PE 膜**作为一次性衣物的阻隔 / 透气组件，是"去膜背层"最早且参数最硬的一手出处（四参数窗口 = 纤维直径 / 克重 / 透气度 / 透湿度）。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- **SMS / SSMMS 载体**：熔喷是 SMS 复合结构中的阻隔层；纺粘 / 熔喷的 MFR 分野（~35 vs ≥500 MFR）正是 SSMMS 线在两批不同树脂上的采购口径。（源：Handbook of Polypropylene and Polypropylen
+   • SMS 各层的**克重配比与阻隔性能的定量关系**，本库暂无来源 。（源：SMS复合结构）
+- SMMMS 的**实测（非模拟）静水压**与单束成形 CV 仍缺 。（源：SMS复合结构）
+- **专利范围警示**：US7195621B2 摘要 / SUMMARY 讲的是 backsheet，而**唯一授权权利要求把熔喷网放在弹性腿围（elasticized leg cuff）**上 —— 读范围时须注意 。（源：US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)）
+- 上述数据在来源中的**页码待核** 。
+

@@ -1,0 +1,65 @@
+{
+ "batch_id": "W14-2",
+ "items": [
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_b98629362d30714ddfb86cd8b9ed4f9f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/PP Handbook/PP Handbook_index.csv.md",
+   "name": "PP Handbook_index.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_108510fed8a5a95c3f0db4a9238d8b4c001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/PP Handbook/PP Handbook_concepts.md.md",
+   "name": "PP Handbook_concepts.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_e4442555c2c960ed4b5aca0f7e2f72fd001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/master_index_rebuilt.csv.md",
+   "name": "master_index_rebuilt.csv.md",
+   "type": "excel"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_c201fb92520bf579a9696344b009bd05001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch06_Emulsion.md.md",
+   "name": "Polymer Reaction Engineering_ch06_Emulsion.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_4c9632f3fa6e45bd47b7747e9cdac45f001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch4_report.md.md",
+   "name": "ch4_report.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_121a579a258e7215c6dca789c9bafa08001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/Seymour Polymer Chemistry_README.md.md",
+   "name": "Seymour Polymer Chemistry_README.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_66596c58f369ac844691f56474ca9b52001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch05.md.md",
+   "name": "Seymour Polymer Chemistry_ch05.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_b6dec02e8981ef151d44589d76ee0e5e001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters/Seymour Polymer Chemistry_ch14.md.md",
+   "name": "Seymour Polymer Chemistry_ch14.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_ab15836e877fa6433a41def6e15bf237001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch12_深度拆解.md.md",
+   "name": "SmartPolymers_Ch12_深度拆解.md.md",
+   "type": "markdown"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1c1e4f7cff89e2007b676ce5f12700ef001a693ee6c0644e",
+   "dst": "RAW_FULL/ima_sync/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters/SmartPolymers_Ch7_深度拆解.md.md",
+   "name": "SmartPolymers_Ch7_深度拆解.md.md",
+   "type": "markdown"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+  "batches": ["S1_Projects_Mechanochromic_01", "S1_Projects_BM_01"],
+  "source_pages": [
+    "WIKI/sources/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.md",
+    "WIKI/sources/Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）.md",
+    "WIKI/sources/Mechanochromic Materials Technical Review（EN v3, 2026-08）.md",
+    "WIKI/sources/Chromic Materials Bibliography（变色材料书籍·温湿力精表）.md",
+    "WIKI/sources/BM Urine Indicator Concept（尿+便双指示概念）.md",
+    "WIKI/sources/BM Indicator Design — Viscosity & Cost（便指示·流变与成本）.md"
+  ],
+  "concept_pages": [
+    "WIKI/concepts/Geometric Optical Mask（几何光学掩膜）.md",
+    "WIKI/concepts/TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）.md",
+    "WIKI/concepts/Mechanophore Mechanochromism（机械力致变色分子）.md",
+    "WIKI/concepts/Structural Colour Mechanochromism（结构色力致变色）.md",
+    "WIKI/concepts/Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）.md",
+    "WIKI/concepts/Skin Contact Pressure（皮肤接触压力）.md",
+    "WIKI/concepts/Hot-Melt Slot Coating（热熔狭缝涂布）.md",
+    "WIKI/concepts/Protein Error of pH Dye（pH 染料的蛋白误差）.md",
+    "WIKI/concepts/Titratable Acidity Lane（可滴定酸度通道）.md",
+    "WIKI/concepts/Bile Pigment Mordant Lane（胆色素媒染通道）.md",
+    "WIKI/concepts/Odour-Control Granular Interference（除臭颗粒干扰）.md",
+    "WIKI/concepts/Wetness Indicator Ladder（尿湿指示阶梯）.md",
+    "WIKI/concepts/Chromism Taxonomy（变色现象分类）.md"
+  ],
+  "entity_pages": [
+    "WIKI/entities/Henan Jiayida（河南嘉亿达）.md",
+    "WIKI/entities/Shenzhen Xingcheng（深圳星辰）.md",
+    "WIKI/entities/Kimberly-Clark（金佰利）.md",
+    "WIKI/entities/Chungnam National University and Hanyang University（韩国大学研究伙伴）.md",
+    "WIKI/entities/CTI (Chromatic Technologies).md（本批内容以「Mechanochromic / BM 批次追记」一节追加，非新建；该页由并发批次 S1_Projects_Active Hygiene_01 / Thermal Comfort 建立）"
+  ],
+  "comparison_pages": [
+    "WIKI/comparisons/Mechanochromic Routes Comparison（力致变色技术路线对比）.md",
+    "WIKI/comparisons/Mechanochromic Ink Supplier Comparison（力致变色油墨供应商对比）.md",
+    "WIKI/comparisons/Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）.md"
+  ],
+  "updated_existing": [
+    "WIKI/concepts/Mechanochromic变色纤维.md（追加：解除「待编译」状态 + 验证记录 + 编译追记来源，未改写既有结论）",
+    "WIKI/concepts/变色油墨.md（追加：2026-09-29 验证记录两则 + 派生页来源清单，未改写既有结论；该页在同日亦被批次 S1_Projects_Active Hygiene_01 追加过，本批为叠加追加）",
+    "WIKI/concepts/智能尿裤功能层.md（追加新节「追加：Mechanochromic / BM 项目批（2026-09-29 追加）」+ 6 份来源，未改写既有结论）",
+    "WIKI/entities/CTI (Chromatic Technologies).md（追加「Mechanochromic / BM 批次追记（2026-09-29）」一节 + 2 份来源，未改写既有结论）",
+    "WIKI/entities/CTI（Chromatic Technologies Inc.）.md（追加「批次落点说明」一行，指向正页；该页现为并发批次建立的别名锚点页）"
+  ],
+  "manual_review": [
+    "WIKI/sources/Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）.md —— 内部寻源决策与商务行动项（主供/备份分级、索取报价与样品、锁定大学 IP 伙伴、申请角度）",
+    "WIKI/sources/BM Urine Indicator Concept（尿+便双指示概念）.md —— 内部专利申报角度（sorbent-isolated sampling wick + dual-lock 临时申请建议）与专利规避状态",
+    "WIKI/comparisons/Urine Indicator vs BM Indicator（尿湿指示 vs 便指示）.md —— 两代概念成本模型 / capex / OEE 让渡数字 + 内部专利申请角度与 FTO 清单",
+    "WIKI/entities/Chungnam National University and Hanyang University（韩国大学研究伙伴）.md —— 未公开联合研发与知识产权策略（锁定大学 IP 伙伴、共申专利、Track A/B 资源分配）",
+    "WIKI/entities/CTI (Chromatic Technologies).md（本批追加段）—— 内部寻源决策与报价索取动作",
+    "WIKI/concepts/智能尿裤功能层.md（本批追加段）—— 便指示专利申请角度、力致变色寻源决策、两代概念成本模型",
+    "【跨来源矛盾，待人工裁决】WIKI/concepts/Protein Error of pH Dye（pH 染料的蛋白误差）.md 与 WIKI/concepts/Titratable Acidity Lane（可滴定酸度通道）.md —— 同批两份来源对「便指示触发机制」主张不同：前者为『可溶性蛋白（蛋白误差）』单通道，后者为『可滴定酸度 + 胆色素媒染』双通道。库内并存不裁决，已在两页及 Urine Indicator vs BM Indicator 页留矛盾记录",
+    "【重复页面，待人工合并】WIKI/entities/CTI（Chromatic Technologies Inc.）.md 与 WIKI/entities/CTI (Chromatic Technologies).md —— 同一实体的两个页面/三个命名变体（CTI / CTI (Chromatic Technologies) / CTI (Chromatic Technologies Inc.)）。依 AGENTS.md §5「删除任何页面须人工确认」，AI 不删除、不合并、不重命名；本批改以『内容追加至正页 + 别名页留锚点』方式收敛"
+  ],
+  "notes": "1) 语言规范：全部新页按 AGENTS.md §2.0（2026-09-29 修订）产出——正文英文为主、小节标题与关键结论/表头附中文对照、术语首现附中文；页面文件名 = title = wikilink 文本，已逐页校验一致。2) source_path 严格等于 items.src（含中文路径与 .pptx.md/.xlsx.md 后缀），未做任何改写。3) 参数纪律：源中没有的数字一律标 [待验证]，未做单位换算与外推（尤其 240 pN/键 与 40,000 psi 的工程对照口径、mmHg 与 kPa/psi 的跨页混用，均已在页内标注）。4) 对比页均含「成本」与「供应链风险」两列，且逐行带来源尾注。5) 与并发批次的互操作：批次 S1_Projects_Active Hygiene_01 / Thermal Comfort 在并发运行中建立了 CTI (Chromatic Technologies)、Wetness Indicator Glue、Active Hygiene Roadmap 等页，并已在其页内反向链接本批的 Wetness Indicator Ladder / Mechanophore Mechanochromism；本批据此做了对称标注与跨批互链，未与其结论冲突。6) 并发冲突事件：本批原建的 entities/CTI（Chromatic Technologies Inc.）.md 在工作过程中被并发批次改写为别名锚点页（其内容未丢失，已转入正页 CTI (Chromatic Technologies) 的批次追记节）；本批遵守「禁止删除/重命名」约束，未回写覆盖对方页面。7) 未触碰 index.md / log.md（按指令）；RAW/、RAW_FULL/、AGENTS.md 全程只读；未创建 WIKI 三子目录与 _done 以外的任何目录。8) 存疑：S1 与 S4、S5 三份资料原文未标注发布日期，date_published 仅能记为 2026 并标 [待验证]；S6 页眉明确 JULY 2026，记为 2026-07。"
+}

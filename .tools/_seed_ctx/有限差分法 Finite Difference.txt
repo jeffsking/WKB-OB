@@ -1,0 +1,111 @@
+# SEED: 有限差分法 Finite Difference
+# type: concept | 原引用数: 1
+# 原 Cited by 列表:
+#   - Numerical Methods for Diffusion (Crank Ch.8)
+#
+# 全库正文命中 34 页，42 句。以下为原文摘录（禁止改写为不实内容）:
+
+--- [[Bessel 函数]]  (4 句)
+   • *"Bessel 函数：I₀, J₀, J₁ 是柱 / 球坐标下的标准工具"*（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- *"Bessel 函数 J₀ 级数是单纤维吸液动力学的解析工具"*（源：Diffusion in a Cylinder (Crank Ch.5)）。
+   • Bessel 函数由**分离变量法**在**柱 / 球坐标**下解恒 D 扩散方程时自然出现：C = u(x)·exp(−Dα²t) 得到 Bessel / 三角本征值问题（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- 在**柱坐标**（纤维 / 圆柱颗粒）中，Bessel 函数是扩散解析解的标准工具；J₀ 级数用于**单纤维吸液动力学**建模（源：Diffusion in a Cylinder (Crank Ch.5)）。
+- 在**圆盘源**（湿巾湿斑）解中，[J₁(ωa)]² 出现在积分核里（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+   • **单纤维吸液动力学**：J₀ 级数用于建模纤维径向吸液（源：Diffusion in a Cylinder (Crank Ch.5)）。
+- **湿巾湿斑扩散**：圆盘源解 Q(t) 含 [J₁(ωa)]² 项，作为湿斑扩散模型（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- 关联概念页：纤维扩散 Fiber Diffusion、湿迁移 Wet Migration、格林函数 Green's Function、SAP（高吸水树脂）、Nonwoven 非织造布、湿巾 Wet Wipes。
+   • Diffusion in a Cylinder (Crank Ch.5)
+- Infinite and Semi-Infinite Media (Crank Ch.3)
+- Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+- Mathematics of Diffusion
+- 纤维扩散 Fiber Diffusion
+- 格林函数 Green's Function
+
+--- [[格林函数 Green's Function]]  (3 句)
+   • **三类解析方法**：① 反射与叠加法 —— 利用线性方程叠加性构造边界解；② 分离变量法 —— ，得到 Bessel/三角本征值问题；③ **Laplace 变换法** —— 最强工具，p 域求像函数 → 逆变换给出时间域解（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **源函数族（点 / 面 / 球 / 柱）**：瞬时点源（n 维推广 ）、瞬时面源（一维基本解）、瞬时球源（三维有限初始分布）、瞬时柱源（二维有限初始分布）（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **反射法直接编码边界条件**：不透水膜（PP 底膜）对应 ；透湿膜（顶表层）对应 （源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **推导逻辑链**：恒 D PDE → 试探解 → 质量守恒定 A → 反射+叠加 → 扩展初值 → 分离变量 → Laplac
+   • **SAP 单球溶胀有解析解。** 球源轴心解  直接给出单个 SAP 微球（半径 a）球心浓度的指数演化，可估算 SAP 吸水饱和速率初段（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **单球=原子单元，多粒子场可叠加。** 平面源格林函数被直接用作 SAP 建模的"原子单元"，多个 SAP 颗粒场按叠加原理合成（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **湿巾湿斑扩散=圆盘源问题。**  的解析级数形式（Rideal & Tadayon 方法）可用于湿巾湿斑扩散（源：Infinite and Semi-Infinite Media (Crank Ch.3)）。
+- **反射法映射芯体分层结构。** 芯体的不透水 PP 底膜与透湿顶表层分别对应两类反射边界（源：Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)）。
+- **半无限域是芯
+   • Citing sources 引用来源：Infinite and Semi-Infinite Media (Crank Ch.3)、Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)
+- Parent book 父书：Mathematics of Diffusion
+- Adjacent concepts 相邻概念：Fick 定律、Laplace 变换、Bessel 函数、时间滞后法 Time Lag Method、湿迁移 Wet Migration
+- Application pages 应用页：SAP（高吸水树脂）、吸收芯体、水凝胶 Hydrogel
+
+--- [[CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）]]  (2 句)
+   • **LSE module / JOA *"Surge Cut and Place Module"***，位于 **2 楼夹层（2nd floor mezzanine）**；图注含 **Slip vacuum / Transfer vacuum**。
+- **Flap folding**：*"Normally, we use **3 different folding boards** with dimension difference. Meanwhile, the flap/leg elastics will be laminated with flap material. … Based on product spec, the **flap width and folding boards can be changed**."*
+- **Insert cut off**：*"This is a **critical process** before combining with panel material."*
+- ⚠️ **Insert applicator**：*"The 
+   • **Step 2（转向）**：*"Panel elastics web path is changed from the **vertical position to horizontal position with a twisted angle which is 90 degree**."*（弹性体走向由垂直转水平，**扭转角 90°**）
+- **Chopping**：*"While rotating the chopper module manually or automatically, the panel elastic will be **severing by chopper teeth** after panel material go through."*
+- **Insert to panel**：*"Insert to panel quality really depends on **panel adhesive pattern width** as well as **intermittent adhesive control** which is **so
+
+--- [[Computational Modeling in Absorbent Technology]]  (2 句)
+   • **The value claim.** "Computational modeling, when applicable, is a powerful and cost-effective tool to study a problem with considerable accuracy in a short time," and it is "far more convenient way of investigation than experiments" — chiefly because experiments "would require building many such expensive machines".
+- **Case A — Penetration absorbency.** A medium with no 3-D pore network ("the porous medium does not have a three-dimensional network of pores and therefore wicking phenomenon is 
+   • 父书：Absorbent Technology
+- 概念：达西定律 Darcy's Law、Washburn Equation、Hagen-Poiseuille Equation、Laplace Pressure、毛细压力 Capillary Pressure、接触角 Contact Angle
+- 方法：CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、k-ε 湍流模型、Stokes Number、Lagrangian Particle Tracking、虚拟原型 Virtual Prototyping
+- 设备/工艺：气铺 Airlaid、Fiberscope、Videoimagescope
+- 相邻章节：Porous Structure and Liquid Flow Models、Fluid Absorption in High Bulk Nonwovens、Characterisation, testing and modelling of nonwoven fabrics
+
+--- [[Seymour Polymer Chemistry Ch01 Introduction to Polymer Science]]  (2 句)
+   • Chapter 1 is the programmatic introduction: it answers **what a polymer is** (definition and nomenclature), **how polymers entered human civilisation** (from biopolymers to synthetic macromolecules), and **what economic weight the polymer industry carries**. Seymour argues on three levels — etymology/classification, history, and industrial economics — and closes with the axiom that governs the whole book: **the differences between all polymers are determined primarily by intermolecular and intra
+   • **词源 / Etymology**：*"The word polymer is derived from the Greek poly and meros, meaning many and parts, respectively. Some scientists prefer to use the word macromolecule, or large molecule, instead of polymer."* (line 11-12)
+- **时代定位**：*"Since most chemists and chemical engineers are now involved in some phase of polymer science or technology, some have called this the polymer age. Actually, we have always lived in a polymer age."* (line 5-6)
+- **同一原理 / Unified principle**：*"However, the same p
+
+--- [[CD Pants Converting Process（CD裤式产品加工工艺）]]  (1 句)
+   • 1. **"CD"来自 MD→CD 转向** —— insert applicator 是整线枢纽，决定了裤式与开放式在**产线形态**上的根本差异。
+2. **"很复杂"是结构性的** —— 五层布局来自两条支线 + 转向 + 包装，**不是布局没优化好**。
+3. **插入体切断是组合前的关键门** —— 源文明写 *"critical process before combining with panel material"*。
+4. **封合强度是独立质量门** —— 且**换材料即换工艺设定**（SMS / TABCW）。
+5. **间歇胶 = 电磁阀控制** —— insert-to-panel 质量**取决于胶型宽度 + 间歇控制**，不是只取决于胶量。
+6. **对折可调但只能调"间隙差"** —— wheel screw 按前后腰围片 **gap difference（mm）** 调整，**是补偿不是设计变量**。
+7. **相位链不可单点调** —— 从 Forming Drum 到 Side Panel seaming 全链联动；机器相位与胶相位**分开**但**
+
+--- [[Fick 定律]]  (1 句)
+   • **Scope limits:** Fick's law applies only to isotropic media — a composite core's MD/CD difference requires a **diffusion tensor **; forced-convection scenarios (e.g. wet-wipe wiping) need an added convection term（源：Diffusion Equations (Crank Ch.1)）.
+
+--- [[Hygiene Absorption Model]]  (1 句)
+   • **延伸关联**
+- Absorbent Technology
+- Porous Structure and Liquid Flow Models
+- Fluid Absorption in High Bulk Nonwovens
+- Dry-laid web formation
+- SAP（高吸水树脂）
+- 吸收芯体
+- ADL（导流层）
+- 绒毛浆（Fluff Pulp）
+- 复合材料 Composite
+- 回渗 Rewet
+- Rewet Test（回渗测试）
+- AUL 加压吸水率
+- CRC 离心保持能力
+- Dryness Measure System（干爽度量三分）
+- FIFE Test（FIFE 摄入-回渗评价）
+- Acquisition Test STM-00060（导流性能测试）
+- SAP 溶胀 SAP Swelling
+- Flory- Rehner Theory
+- 达西定律 Darcy's Law
+- Washburn Equation
+- Hagen-Poiseuille Equation
+- Laplace Pressure
+- 毛细压力 Capi
+
+--- [[LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）]]  (1 句)
+   • 1. **两档的竞争态势是相反的** —— **LPR 本来就有竞争力，HPR 才是落后项**。**若只报"回渗"一个词，会把"我们本来不错"和"我们很差"混为一谈。** 这直接支持本页的**分档必要性**。
+2. **改善只发生在 HPR 档** —— BUFF BABY 之后的收益描述是"**更一致且更低**"，且**明确挂在 HPR 档**。**⇒ BUFF BABY 的收益是"降低波动 + 降低均值"，两者都要报。**
+3. **T6 surge 是 HPR 的结构性来源** —— 「**T6 surges continue to result in high rewet**」；**⇒ 高压档的回渗可被单一结构件（surge）持续驱动，即使整体方案已改善。**
+4. **吸收体 DOE 已把因果指向 flowback** —— 源文假设：「**Absorbent core characteristics are driving differences in high pressure rewet via flowback**」，code 已产出、统计师在分析。**⇒ HPR 档
+
+--- [[Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）]]  (1 句)
+   • 1. **Mom pulls on, then lets go（妈妈拉上后松手）**：the donning motion loads the panel; the wear state sits on the unloading branch. Any threshold published against the extension curve therefore describes a state the baby never occupies.
+2. **The magnitude of the error（误差幅度）**：for an SEBS panel at 100 % strain the pull force is 5.2 N but the sustained worn tension is 3.9 N — publishing thresholds against the extension curve would **overstate comfort by ~30 %**.
+3. **A geometric read-out is hysteresis-bli
+
