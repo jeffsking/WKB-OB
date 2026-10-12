@@ -3,10 +3,10 @@
 
 # 放行必须的配置文件
 !.gitignore
-!.AGENTS.md
-!.index.md
-!.log.md
-!.wikilinks.md
+!AGENTS.md
+!index.md
+!log.md
+!wikilinks.md
 
 
 # 放行你想上传的文件夹
