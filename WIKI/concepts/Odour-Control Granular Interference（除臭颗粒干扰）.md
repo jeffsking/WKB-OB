@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Odour-Control Granular Interference（除臭颗粒干扰）"
-domain: [卫材研发, 芯体设计, 化学兼容]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-29
 tags: [除臭颗粒, 沸石, 环糊精, 便指示, 化学兼容, 假阳性, 碱度]
@@ -79,3 +79,11 @@ tags: [除臭颗粒, 沸石, 环糊精, 便指示, 化学兼容, 假阳性, 碱�
 
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
 - [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md`
+
+## Related Sources 关联来源
+
+- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]
+- [[BM Urine Indicator Concept（尿+便双指示概念）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]
+- [[纸尿裤的异味控制与消除.pdf]]

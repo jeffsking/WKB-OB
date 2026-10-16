@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -150,3 +151,7 @@ PTT：上游 PDO 工厂与纤维分离，纤维委外华丰；华丰价格太高
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/会议纪要：OI 十月供应商考察与项目推进安排.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/会议纪要：OI 十月供应商考察与项目推进安排.md`
+
+## 关联页面
+
+- [[Electrospinning（静电纺丝）]]　[[IEL]]　[[PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）]]　[[PPS（触感压力传感）]]　[[PTT（聚对苯二甲酸丙二醇酯）]]　[[Stimuli-Responsive PCM]]　[[异形纤维]]　[[恒安（Hengan）]]　[[格菲林（Gefilin）]]　[[皖维高新]]　[[福地（Fudi）]]　[[纳米纤维素（CNC、CNF、BNC）]]

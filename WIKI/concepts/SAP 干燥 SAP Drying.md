@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP 干燥 SAP Drying"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [sap, drying, tg-window, cross-linking, dry-state-assembly, energy]

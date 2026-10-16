@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "功能性差别化纤维（PTT_超仿棉_纳米凉感）"
-domain: [卫材研发, 功能纤维]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [PTT, 超仿棉, 纳米凉感, 差别化纤维, 弹性纤维]
@@ -36,3 +36,12 @@ aliases: ["功能性差别化纤维（PTT/超仿棉/纳米凉感）"]
 ## 来源
 
 - [[功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/产品简介.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]]
+- [[功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）]]
+- [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]]
+- [[德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）]]
+- [[苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）]]

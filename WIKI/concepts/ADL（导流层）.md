@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ADL（导流层）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [ADL, 导流层, 热风粘合, ES纤维, 回渗, 重复冲击]
@@ -209,3 +209,37 @@ on fibers / in pores → Fluid can drain out into core
 - 来源页 [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]；量化方法 [[Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[2025.03.26 - Learning Cycle Update]]
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Absorbent Technology]]
+- [[Absorbent Technology Introduction]]
+- [[Absorbent Technology Textile Science and Technology]]
+- [[Absorbent Technology_README]]
+- [[Absorbent Technology_ch10_report_20260823_031404]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[Adhesive Handbook Part 1 History and Information Resources]]
+- [[Adhesive Handbook Part 2 Fundamental Aspects]]
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）]]
+- [[BNC 卫品技术可行性评估（Slide 大纲版，20260824）]]
+- [[BNC 卫生用品技术可行性评估（访前尽调详细版）]]
+- [[Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[Characterisation, testing and modelling of nonwoven fabrics]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[CoPET ADL 转型蓝图（皮层聚合物替代评估）]]
+- [[CoPET 供应基盘背调汇总（26 家企业·联系方式版）]]
+- [[CoPET 双组份热粘合纤维市场与供应商（供应链分层·明细表）]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版）]]
+- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]
+

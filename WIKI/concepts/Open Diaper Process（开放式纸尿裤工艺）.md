@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Open Diaper Process（开放式纸尿裤工艺）"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [concept, OD, open-diaper, converting, pants, registration, cradle-intake]
@@ -49,3 +49,5 @@ tags: [concept, OD, open-diaper, converting, pants, registration, cradle-intake]
 - [[Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）]] · [[CD Pants Converting Process（CD裤式产品加工工艺）]] — 形态对照
 - [[Folded Product Dimension Test（折叠后长度·宽度测量）]] · [[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]] · [[Finished Product Testing Method Summary（成品测试方法汇总表）]] — OD 尺寸/测试口径
 - [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]] · [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]] — 产线架构与资产
+- [[Open Diaper Process Introduction--202104]]
+

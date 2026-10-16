@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAM Testing Methods（超级吸水材料测试方法）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [SAM, 超级吸水材料, 测试方法, Nuoer, 国标, 吸收, 通液, 密度]
@@ -105,3 +105,37 @@ tags: [SAM, 超级吸水材料, 测试方法, Nuoer, 国标, 吸收, 通液, 密
 
 > ⚠️ **口径提示（2026-09-29）**：本方法输出的是**含量（占比）**，与 [[STM-4597纸尿裤SAM分布测试.docx]] 输出的**分布形态（mm / 照片比对）**维度不同，**两者互补但不能互相替代**——含量达标不代表分布达标。
 > ⚠️ **待验证 `[待验证]`**：STM-00048 原文未给出"钠浓度 → SAM 含量"的换算式与合格阈值，引用前须回原文或配套标准确认。
+
+## Related Sources 关联来源
+
+- [[1780441413117.jpg]]
+- [[2025.03.26 - Learning Cycle Update]]
+- [[CD Pants产品学习]]
+- [[CI-06 COCO V6 3rd round trial-10.10]]
+- [[CI-06 COCO V6 3rd round trial-9.30]]
+- [[COCO_V6_第三轮trial_两组对照分析_20261010]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[Document]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[GBT28004.1-2021面层附着物.doc]]
+- [[IMA知识库索引_20261009]]
+- [[Inertia在美国推出生物基芯体卫生巾：韩国女性科技品牌引入专利植物源吸收技术]]
+- [[JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[OASIS SAF 102-80-10 技术数据表（Technical Absorbents）]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[Open Diaper Process Introduction--202104]]
+- [[Public Alternatives（书籍公开替代资源清单）]]
+- [[REL benchmark.png]]
+- [[Raw Material STM - Nanjing Plant（原材料STM-NJ）]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]
+- [[SAM Category Strategy - GADT 2022]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAM training 2025]]
+- [[SAM保水量（From China National Testing Method）.docx]]
+- [[SAM加压吸收(From Nuoer).docx]]
+- [[SAM吸收速度（From Nuoer）.docx]]
+- [[SAM吸收量(From China National Testing Method).docx]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）"
-domain: [卫材研发, 回渗, 摄入系统]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [回渗, rewet, desorption, flowback, 摄入系统, 机理]
@@ -68,3 +68,19 @@ tags: [回渗, rewet, desorption, flowback, 摄入系统, 机理]
 ## 来源 Sources
 
 - [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.01.31 - GRIFFIN Rewet.pptx.md`
+
+## Related Sources 关联来源
+
+- [[2025.10.03 - STEC 2025 - Rewet Design Principles Script.docx]]
+- [[2025.10.03 - STEC 2025 - Rewet Design Principles.pptx]]
+- [[2026.04.21 - Capillarity Expansion - Raegan Informal.pptx]]
+- [[Full Results.xlsx]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]
+- [[Hypothesis Map.xlsx]]
+- [[Liner Surge Evolution.pptx]]
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]
+- [[Rewet Principles v10.07.25.pdf]]
+- [[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]

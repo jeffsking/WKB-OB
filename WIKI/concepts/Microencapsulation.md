@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Microencapsulation"
-domain: [卫材研发, 智能功能化, 材料]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-29
 tags: [微胶囊, 包封, 显色材料, 供应商差异, 迁移, 打印适性]
@@ -62,3 +62,23 @@ Four consequences follow directly:
 
 - [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md`
 - [[PCM-Free Thermoregulation with BNC Nanofiber Network]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一）]]
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[LCP_全局合成报告]]
+- [[LCP_引用索引.csv]]
+- [[Mechanochromic Fluorescent Polymers with AIE Features]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[会议纪要：松井油墨（水变温变油墨技术分享）]]
+- [[温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）]]
+- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]
+

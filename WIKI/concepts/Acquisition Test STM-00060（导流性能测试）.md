@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Acquisition Test STM-00060（导流性能测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [Acquisition, 导流性能, 导流层, STM-00060, 斜面, 摄入]
@@ -42,3 +42,11 @@ tags: [Acquisition, 导流性能, 导流层, STM-00060, 斜面, 摄入]
 ## 来源
 
 - [[STM-00060 导流性能.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00060 导流性能.docx.md`
+
+## Related Sources 关联来源
+
+- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）]]
+- [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]]
+- [[STM-00060 导流性能.docx]]

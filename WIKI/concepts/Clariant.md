@@ -5,6 +5,7 @@ category: 供应商
 relationship: 待核
 updated: 2026-09-30
 tags: [供应商, 颜料, 染料, 变色材料, chromic]
+domain: [卫材研发, 实体与供应链]
 ---
 
 # Clariant
@@ -43,3 +44,5 @@ tags: [供应商, 颜料, 染料, 变色材料, chromic]
 
 - [[Ancient Organic Dyes and Pigments Chemistry]]
 - [[Chromic Phenomena Introduction and Reversible Colour Change]]
+- [[Chromic_Phenomena_深度拆书报告]]
+

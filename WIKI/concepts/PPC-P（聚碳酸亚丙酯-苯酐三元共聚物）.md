@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [PPC, PPC-P, 可降解, 家庭堆肥, 苯酐, CO2共聚, PBAT, 纺粘]
@@ -64,3 +64,17 @@ tags: [PPC, PPC-P, 可降解, 家庭堆肥, 苯酐, CO2共聚, PBAT, 纺粘]
 - [[LXBIO 拜访报告（2025-09-25 泰兴 PPC-P 基地）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/LXBIO visit report 20250925 1.pdf.md`
 - [[PPC&PGA 基无纺布开发方案（第二版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md`
 - [[PPC 纺粘试产记录（2026-05-01）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md`
+
+## Related Sources 关联来源
+
+- [[IMA知识库索引_20261009]]
+- [[LXBIO 拜访报告（2025-09-25 泰兴 PPC-P 基地）]]
+- [[PBAT复合材料怎么配？从有机_无机填料、助剂到吹膜与注塑的完整工程逻辑]]
+- [[PPC 纺粘试产记录（2026-05-01）]]
+- [[PPC&PGA 基无纺布开发方案（第二版）]]
+- [[《PBAT、PLA、PBS、PHA、PPC——五张“身份证”，一次认全》]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+- [[可降解_生物基材料与薄且强芯体技术深度解析]]
+- [[联欣 LXBIO T55P25T20 线纺专用料 TDS（PPC-P-PBAT 可降解）]]
+- [[联欣环保-包装行业(1)]]

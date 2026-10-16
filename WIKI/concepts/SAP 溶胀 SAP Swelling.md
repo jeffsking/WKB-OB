@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP 溶胀 SAP Swelling"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [concept, SAP, swelling, CRC, AUL, Flory-Rehner, Donnan, crosslink-density]

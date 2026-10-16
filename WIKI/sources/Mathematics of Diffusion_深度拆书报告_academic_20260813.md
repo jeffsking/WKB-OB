@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -162,3 +163,7 @@ Fick 1855（一维各向同性标量）→ 1.9 广义张量形式（各向异性
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion_深度拆书报告_academic_20260813.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion_深度拆书报告_academic_20260813.md.md`
+
+## 关联页面
+
+- [[Boltzmann 变换]]　[[Fick 定律]]　[[SAP（高吸水树脂）]]

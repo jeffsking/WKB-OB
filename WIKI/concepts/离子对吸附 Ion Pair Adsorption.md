@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "离子对吸附 Ion Pair Adsorption"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [surfactant, adsorption, ion-pair, interfacial, wetting, fluff-pulp, hygiene]

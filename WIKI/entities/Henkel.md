@@ -57,3 +57,10 @@ tags: [henkel, adhesive-supplier, hot-melt-adhesive, wetness-indicator, technome
 - [[Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）]]
 - [[Rextac（APAO 热熔胶）]]
 - [[Ontex]]
+- [[2026 Sensor China]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[IMA知识库索引_20261002]]
+- [[NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012]]
+- [[Ontex与汉高联手推广智能失禁护理产品]]
+- [[变色油墨供应商技术路线与产品性能差异评估]]
+

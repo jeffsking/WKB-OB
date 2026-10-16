@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "可穿戴传感器 Wearable Sensor"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [wearable, sensor, e-textile, flexible-electronics, hygiene-sensing, wetness-indicator, pressure-sensing]

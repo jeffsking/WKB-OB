@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）"
-domain: [卫材研发, 力致变色, 材料表征]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [力致变色, mechanochromic, 应变区间, 剪切变稀, 信号完整性]
@@ -51,3 +51,7 @@ tags: [力致变色, mechanochromic, 应变区间, 剪切变稀, 信号完整性
 ## 来源 Sources
 
 - [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Scaling_Visible_Force v2.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]

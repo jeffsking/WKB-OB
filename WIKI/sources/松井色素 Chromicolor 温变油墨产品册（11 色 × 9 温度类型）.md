@@ -3,19 +3,20 @@ type: source
 title: "松井色素 Chromicolor 温变油墨产品册（11 色 × 9 温度类型）"
 source_type: 供应商资料
 source_path: RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/Matsui 松井☆クロミ総合POP英語20260703.pdf.md
-source_credibility: 中
+credibility: 中
 knowledge_area: Areas/Supply Base
 subjects:
   - [[松井色素 Chromicolor 温变油墨产品册（11 色 × 9 温度类型）]]
   - [[温变油墨]]
-  - [[温变材料]]
-related:
+  - [[热致变色]]
+pages_linked:
   - [[会议纪要：松井油墨（水变温变油墨技术分享）]]
   - [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
 date_published: ""
   # 口径：源文件未记载发布日期，留空。RAW_FULL 的 extracted 字段是正文回填日期，不是发布日期
 knowledge_update_status: done
-compiled_at: 2026-10-11
+key_claims: []
+date_processed: 2026-10-11
 compile_batch: P0-B02/B03/B04
 ---
 

@@ -48,3 +48,8 @@ tags: [ppg, photochromic-supplier, transitions, colorant-supplier, ophthalmic-le
 - [[BASF]]
 - [[Clariant]]
 - [[Henkel]]
+- [[Chromic_Phenomena_深度拆书报告]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[北京泽声科技有限公司 生理信号采集产品及应用介绍-20260814]]
+- [[北京泽声科技有限公司 睡眠监测产品介绍 20250808]]
+

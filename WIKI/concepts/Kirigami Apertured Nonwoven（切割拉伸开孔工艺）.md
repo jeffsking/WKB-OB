@@ -4,7 +4,7 @@ title: Kirigami Apertured Nonwoven（切割拉伸开孔工艺）
 category: 工艺 / 非织造
 updated: 2026-09-30
 tags: [Kirigami, 开孔, 拉伸, surge, pitch, LSE, 超声波]
-domain: [卫材研发]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 ---
 
@@ -200,3 +200,13 @@ status: growing
 ## 来源
 
 - [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/不同人员自我介绍交流.md`
+
+## Related Sources 关联来源
+
+- [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]]
+- [[Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）]]
+- [[Pin-Hole Module, Targeted Fluff Distribution & Elastic Recovery Process Review（新材料开发与弹性恢复工艺探讨）]]
+- [[Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流）]]
+- [[Structured Minutes — New Material Development & Elastic Recovery Process（录音纪要 2026-09-20）]]
+- [[TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）]]
+- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "可家庭堆肥无纺布（Home Compostable Nonwoven）"
-domain: [卫材研发, 无纺布]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-29
 tags: [可堆肥, 家庭堆肥, 无纺布, 纺粘, 皮芯纤维, PPC-P, PGA, 认证]
@@ -61,3 +61,15 @@ tags: [可堆肥, 家庭堆肥, 无纺布, 纺粘, 皮芯纤维, PPC-P, PGA, 认
 - [[PPC&PGA 基无纺布开发方案（第二版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md`
 - [[PPC 纺粘试产记录（2026-05-01）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md`
 - [[MXD G-100 技术数据表（PGA 树脂）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/G-100 Technical data sheet rev1.pdf.md`
+
+## Related Sources 关联来源
+
+- [[2025至2030中国聚乙醇酸（PGA）行业投资策略与可持续发展建议报告]]
+- [[BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[LXBIO 拜访报告（2025-09-25 泰兴 PPC-P 基地）]]
+- [[MXD G-100 技术数据表（PGA 树脂）]]
+- [[PPC 纺粘试产记录（2026-05-01）]]
+- [[PPC&PGA 基无纺布开发方案（第二版）]]
+- [[皮芯架构决策矩阵（可降解热风无纺布）]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -142,3 +143,7 @@ Codex 新功能 Computer Use：CFD 工程师的"AI 鼠标手"来了
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/CFD人用Codex，建议先装这8个插件！.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/CFD人用Codex，建议先装这8个插件！.md`
+
+## 关联页面
+
+- [[AHPs Stewardship Program 与 CODEX™ 痕量物质管控]]　[[CFD 计算流体力学]]

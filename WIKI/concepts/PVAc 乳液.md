@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PVAc 乳液"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [pvac, emulsion-adhesive, waterborne-adhesive, lamination, wet-wipe]

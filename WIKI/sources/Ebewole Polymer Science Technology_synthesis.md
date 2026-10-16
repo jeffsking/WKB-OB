@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -115,3 +116,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/Ebewole Polymer Science Technology_synthesis.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/Ebewole Polymer Science Technology_synthesis.md.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[PPS（触感压力传感）]]　[[SAP（高吸水树脂）]]　[[TPE Tetraphenylethylene]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]

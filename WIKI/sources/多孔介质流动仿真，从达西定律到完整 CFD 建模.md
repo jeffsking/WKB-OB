@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -122,3 +123,7 @@ Re > 10 时，惯性项贡献可能超过粘性项。只设粘性阻力，压降
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/多孔介质流动仿真，从达西定律到完整 CFD 建模.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/多孔介质流动仿真，从达西定律到完整 CFD 建模.md`
+
+## 关联页面
+
+- [[CFD 计算流体力学]]

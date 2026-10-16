@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "植物基材料 Plant-Based Material"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [plant-based, bio-based, PLA, PPC, bioSAP, nanocellulose, sustainability, 生物基]

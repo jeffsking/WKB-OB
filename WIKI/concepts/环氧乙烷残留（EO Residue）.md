@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "环氧乙烷残留（EO Residue）"
-domain: [法规与产品安全, 限用物质]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [环氧乙烷, EO残留, 灭菌, GB 15979, 消毒级]
@@ -45,3 +45,7 @@ tags: [环氧乙烷, EO残留, 灭菌, GB 15979, 消毒级]
 ## 来源 Sources
 
 - [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 15979-2024一次性使用卫生用品卫生要求.pdf.md`
+
+## Related Sources 关联来源
+
+- [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]]

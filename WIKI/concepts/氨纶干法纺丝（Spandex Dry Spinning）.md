@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "氨纶干法纺丝（Spandex Dry Spinning）"
-domain: [卫材研发, 弹性体与纤维工艺]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [氨纶, spandex, 干法纺丝, DMAC, MDI, PTMG, 硬段, 弹性回复率]
@@ -59,3 +59,11 @@ aliases: ["Spandex Dry Spinning", "氨纶生产工艺"]
 
 - [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md`
 - [[August R&D Meeting 2026（华峰研发会议）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md`
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Manufactured Fibre Technology Ch15 Acrylic Fibres]]
+- [[Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres]]
+- [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]]
+- [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]]

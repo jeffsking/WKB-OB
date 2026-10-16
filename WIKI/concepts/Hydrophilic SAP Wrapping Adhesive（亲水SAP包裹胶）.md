@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）"
-domain: [卫材研发, 胶黏剂, 高吸水树脂]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 胶黏剂, 湿态粘接, 界面失效, 微胶囊, JDA]
@@ -91,3 +91,10 @@ aliases: ["亲水SAP包裹胶水", "Hydrophilic SAP encapsulation adhesive"]
 ## Sources 来源
 
 - [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/亲水SAP与烯烃基结构胶及低粘度水溶胶研发可行性深度评估与综合行动计划.md`
+
+## Related Sources 关联来源
+
+- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]]

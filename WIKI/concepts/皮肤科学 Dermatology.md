@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "皮肤科学 Dermatology"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [dermatology, skin-barrier, biocompatibility, wet-wipes, skin-safety]

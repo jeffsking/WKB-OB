@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Laplace 变换"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [diffusion, analytical-method, crank, sap-modelling, core-design]
@@ -52,3 +52,6 @@ tags: [diffusion, analytical-method, crank, sap-modelling, core-design]
 - [[Mathematics of Diffusion]]
 - [[SAP（高吸水树脂）]]
 - [[吸收芯体]]
+- [[concept_index]]
+- [[synthesis]]
+

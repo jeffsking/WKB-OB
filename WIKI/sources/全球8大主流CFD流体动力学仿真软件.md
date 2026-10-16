@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -124,3 +125,7 @@ Autodesk CFD 2026新增 FBX Exporter 6.0 插件，支持将仿真结果导出至
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/全球8大主流CFD流体动力学仿真软件.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/全球8大主流CFD流体动力学仿真软件.md`
+
+## 关联页面
+
+- [[CFD 计算流体力学]]　[[有限体积法]]

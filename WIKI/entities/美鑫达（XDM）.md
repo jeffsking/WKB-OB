@@ -63,3 +63,10 @@ tags: [PGA, 聚乙醇酸, 可降解树脂, 可堆肥, 注塑级, 供应商]
 - [[MXD G-100 技术数据表（PGA 树脂）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/G-100 Technical data sheet rev1.pdf.md`
 - [[MXD G-101 技术数据表（PGA 树脂）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/G-101 Technical data sheet.pdf.md`
 - [[PPC&PGA 基无纺布开发方案（第二版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md`
+
+## Related Sources 关联来源
+
+- [[2025至2030中国聚乙醇酸（PGA）行业投资策略与可持续发展建议报告]]
+- [[MXD G-100 技术数据表（PGA 树脂）]]
+- [[MXD G-101 技术数据表（PGA 树脂）]]
+- [[PPC&PGA 基无纺布开发方案（第二版）]]

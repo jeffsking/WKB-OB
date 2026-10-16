@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Danufil 粘胶"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [rayon, viscose, absorbent-core, fibre-blend]

@@ -57,8 +57,6 @@ tags: [supplier, nonwoven, air-through-bonded, ATB, ultrasonic-bonding, ultra-fi
 - [[SDHY Group（非织造布）]]
 - [[GFL（热风无纺布）]]
 - [[热风粘合无纺布]]
-- [[热风粘合无纺布]]
-- [[热风粘合无纺布]]
 - [[Nonwoven 非织造布]]
 - [[ATB双梳理面层（Dual-Card Topsheet）]]
 - [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
@@ -73,3 +71,5 @@ tags: [supplier, nonwoven, air-through-bonded, ATB, ultrasonic-bonding, ultra-fi
 - [[EDANA（欧洲非织造布协会）]]
 - [[Kimberly-Clark（金佰利）]]
 - [[IPC BCC（K-C Baby & Child Care 材料开发团队）]]
+- [[EM Supplier Meeting Follow-ups]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "生物纤维素 Bacterial Cellulose"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [bacterial-cellulose, nanocellulose, aerogel, drying, cellulose-superabsorbent, bio-sap]

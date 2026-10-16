@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）"
-domain: [卫材研发, 力致变色, 人因工程]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [力致变色, 激活阈值, 儿科力区, 流变凝胶剂, 压敏油墨]
@@ -54,3 +54,8 @@ tags: [力致变色, 激活阈值, 儿科力区, 流变凝胶剂, 压敏油墨]
 ## 来源 Sources
 
 - [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Scaling_Visible_Force v2.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]
+- [[indicator-video-mechanism-judgment.docx]]

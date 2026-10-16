@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -326,3 +327,7 @@ Triple cutting（三层切割）材料开发：研究配方搭配，未来可能
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/EM Supplier Meeting Follow-ups.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/EM Supplier Meeting Follow-ups.md`
+
+## 关联页面
+
+- [[IPC BCC OI Portfolio（开放创新项目组合）]]　[[TPU]]　[[WVTR 测试口径（失重法 vs 增重法）]]　[[延江（Yanjan）]]　[[拉拉裤]]　[[格菲林（Gefilin）]]　[[锦琪昶（KSC, King's Choice）]]

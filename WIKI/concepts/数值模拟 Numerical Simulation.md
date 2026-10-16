@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "数值模拟 Numerical Simulation"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [numerical-simulation, diffusion, SAP, core-modeling, grid-convergence, differentiable-CFD, finite-difference]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "光致变色油墨 Photochromic Ink"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [chromic-ink, photochromic, colour-change, wetness-indicator, hygiene-supplier]

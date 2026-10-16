@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -438,3 +439,7 @@ LSN：提前向蓝鲸发送打样方案，确认配方与纤维用量，确保8�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要 OI&FEI Cach-up.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要 OI&FEI Cach-up.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[REL Splice Tensile Test（REL 拼接拉断力测试）]]　[[SAP（高吸水树脂）]]　[[Stimuli-Responsive PCM]]　[[低温PP]]　[[光变材料]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[喷丝板]]　[[异形纤维]]　[[福地（Fudi）]]　[[蓝鲸]]　[[诺尔（Nuoer）]]

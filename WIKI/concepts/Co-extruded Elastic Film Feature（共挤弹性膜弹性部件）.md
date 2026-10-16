@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [elastic, film, co-extrusion, activation, absorbent-article, diaper-pants, P&G]
@@ -57,3 +57,5 @@ Directly relevant to **diaper/pant elastication** — waist, cuff and ear-panel 
 - [[Synthesis of Thermoplastic Polyester Elastomers]]
 - [[Origin of Rubber Elasticity Book]]
 - [[SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）]]
+- [[Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres]]
+

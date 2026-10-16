@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "纤维 Fibril"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [fibril, fibre, cellulose, fibrillation, lyocell, nanofibril, SAP-composite, pore-wall]

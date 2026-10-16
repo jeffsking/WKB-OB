@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "虚拟原型 Virtual Prototyping"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [virtual-prototyping, computational-modeling, simulation, absorbent, CFD]

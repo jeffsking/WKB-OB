@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Skin Contact Pressure（皮肤接触压力）"
-domain: [卫材研发, 结构设计, 贴合]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [接触压力, 腰围张力, 勒痕, 毛细血管闭塞, 防漏, 合身]
@@ -66,3 +66,16 @@ tags: [接触压力, 腰围张力, 勒痕, 毛细血管闭塞, 防漏, 合身]
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md`
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
 - [[智能尿裤功能层专利地图]] —— `RAW/ima_sync/个人知识库/WKB/智能尿裤功能层专利地图.md`（既有页，压力口径对照）
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]
+- [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]]
+- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]
+- [[Pressure Sensory 测试方法.docx]]
+- [[STM-00070 Elastic Tension - BCC Products（皮筋张力测试 第4版）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]
+- [[中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）]]

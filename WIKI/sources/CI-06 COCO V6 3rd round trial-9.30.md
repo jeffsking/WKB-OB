@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -114,3 +115,7 @@ Yanjan Code 1: 50gsm|Basis Weight(gsm)
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial-9.30.xlsx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial-9.30.xlsx.md`
+
+## 关联页面
+
+- [[FIFE Test（FIFE 摄入-回渗评价）]]　[[REL Splice Tensile Test（REL 拼接拉断力测试）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]　[[Unikorn]]

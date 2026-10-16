@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "珠光颜料 Lustre Pigment"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [lustre, pigment, optical-effect, structural-color, shaped-fibre, chromic, topsheet]

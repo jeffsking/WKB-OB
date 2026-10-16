@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "纺粘 Spunbond"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, spunbond, melt-extrusion, topsheet, hygiene-materials]
@@ -61,3 +61,5 @@ tags: [nonwoven, spunbond, melt-extrusion, topsheet, hygiene-materials]
 - [[Seymour Polymer Chemistry Ch17 Polymer Technology]]（熔纺框架与加工全景）
 - [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]、[[Ultrasonic Bonding of PET-Containing Topsheet]]、[[皮芯复合纤维]]、[[Pentagram PET vs Rounded Trilobal PET (Topsheet Shaped Fibre Selection)]]（面层应用）
 - [[Absorbent Technology]]、[[Development of the nonwovens industry]]、[[Fluid Absorption in High Bulk Nonwovens]]、[[Handbook of Nonwovens]]、[[Nonwovens in Absorbent Materials]]（概念并列登记）
+- [[MFR _ MFI（以及 MI、MVR）辨析]]
+

@@ -72,4 +72,4 @@ pages_linked: ["[[Folded Product Dimension Test（折叠后长度·宽度测量�
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md`
 - 原文链接：（无；内部 SOP）
 - 副本（已合并入本页）：`RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/产品折叠长度/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md`
-- 原副页：[[STM-01078 OD产品折叠后长度、宽度测量方法（产品折叠长度）.docx]]（2026-10-11 已合并并删除，备份见 `.tools/_backup_stm01078_20261011/`）
+- 原副页：[[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]]（2026-10-11 已合并并删除，备份见 `.tools/_backup_stm01078_20261011/`）

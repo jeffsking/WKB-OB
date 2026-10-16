@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "环氧氯丙烷 Epichlorohydrin"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [crosslinker, cellulose, CMC, superabsorbent, epichlorohydrin]
@@ -42,7 +42,6 @@ tags: [crosslinker, cellulose, CMC, superabsorbent, epichlorohydrin]
 - 与 SAP（聚丙烯酸系）相比的成本、残留单体与安全口径：`[待补]`。
 
 ## Related Sources 关联来源
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Cross-linked Cellulose and Its Derivatives]]
 - [[交联 CMC]]
 - [[CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学）]]

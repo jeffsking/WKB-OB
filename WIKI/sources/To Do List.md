@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -516,3 +517,7 @@ T: 授权费压力; 低成本新进入者
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/To Do List.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/To Do List.md`
+
+## 关联页面
+
+- [[OEKO-TEX]]　[[PET（聚酯）]]　[[PTT（聚对苯二甲酸丙二醇酯）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[弹性纤维]]　[[氨纶]]　[[诺尔（Nuoer）]]

@@ -16,7 +16,7 @@ key_claims:
   - "SAF/RCF 形状稳定芯体 Shape-stable SAF core：SAF 混纺比 60%（SR-2）时生理盐水吸液倍率 28.62 g/g、持液倍率 19.45 g/g；吸液后呈一体凝胶，仅厚度方向有限膨胀，解决起坨断层"
   - "品牌结构差异 Brand structures：帮宝适三条引流通道 + 0.06 cm 至薄 + 3D 打印铺 SAP；好奇 5D 蜂窝芯/反重力芯 + 叶脉导流；大王硫化Æ超声波粘接蜂巢芯；Ontex 引入 bioSAP，碳足迹较传统 SAP 低 15–25%"
   - "忌混淆 Terminology trap：REL 在本库语境为 Reception and Transfer Layer；同一缩写另指冶金的「规定非比例延伸强度」与 AIM Solder 的 REL61 焊料，检索时必须按语境过滤"
-pages_linked: ["[[REL vs ADL（收集传递层 vs 导流层）]]", "[[ADL（导流层）]]", "[[REL增强层]]", "[[芯体通道花型设计]]", "[[IPC BCC OI Portfolio（开放创新项目组合）]]"]
+pages_linked: ["[[REL vs ADL（收集传递层 vs 导流层）]]", "[[ADL（导流层）]]", "[[REL增强层]]", "[[Core Channel Pattern（芯体通道花型设计）]]", "[[IPC BCC OI Portfolio（开放创新项目组合）]]"]
 ---
 
 # Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）
@@ -63,13 +63,13 @@ pages_linked: ["[[REL vs ADL（收集传递层 vs 导流层）]]", "[[ADL（导�
 
 - **REL 讲「容得下、不塌陷」，ADL 讲「导得快、分得匀」——合并的前提是密度梯度而非简单替代** —— 支撑页：[[REL vs ADL（收集传递层 vs 导流层）]]、[[ADL（导流层）]]、[[REL增强层]]
 - **打孔 ADL 的价值不在"孔更多"，而在纤维直径 × 开孔率 × 厚度的三参数匹配** —— 支撑页：[[REL vs ADL（收集传递层 vs 导流层）]]
-- **形状稳定性（SAF/RCF）与无胶化（超声波粘接）是同一目标的两条路径：都为了解决起坨断层** —— 支撑页：[[芯体通道花型设计]]、[[Ultrasonic Bonding of PET-Containing Topsheet]]
+- **形状稳定性（SAF/RCF）与无胶化（超声波粘接）是同一目标的两条路径：都为了解决起坨断层** —— 支撑页：[[Core Channel Pattern（芯体通道花型设计）]]、[[Ultrasonic Bonding of PET-Containing Topsheet]]
 - **本文件含严重的 REL 术语歧义（冶金与焊料语境），检索时必须按语境过滤** —— 支撑页：[[REL增强层]]
 
 ## 关联页面 Linked pages
 
 - 对比 Comparison：[[REL vs ADL（收集传递层 vs 导流层）]]（本页派生）
-- 概念 Concept：[[ADL（导流层）]]、[[REL增强层]]、[[芯体通道花型设计]]、[[热风粘合无纺布]]、[[Ultrasonic Bonding of PET-Containing Topsheet]]、[[Biodegradable SAP（可降解高吸水树脂）]]
+- 概念 Concept：[[ADL（导流层）]]、[[REL增强层]]、[[Core Channel Pattern（芯体通道花型设计）]]、[[热风粘合无纺布]]、[[Ultrasonic Bonding of PET-Containing Topsheet]]、[[Biodegradable SAP（可降解高吸水树脂）]]
 - 组合 Portfolio：[[IPC BCC OI Portfolio（开放创新项目组合）]]
 
 > 📌 OI 互链说明 Open Innovation linkage：本页属 OI 的 Structure 资料层，供结构类 question 起手检索。涉及项目编号时默认采用 [[IPC BCC OI Portfolio（开放创新项目组合）]] 页认定的重构版 19 项口径（`OI-1`~`OI-19`）。

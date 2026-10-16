@@ -60,3 +60,13 @@ tags: [SAM, SAP, 高吸水材料, 供应基地, CIRRUS]
 - 来源页 [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**；业务出售一须以外部公告核实。
+
+## Related Sources 关联来源
+
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）]]
+- [[SAM Category Strategy - GADT 2022]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]
+- [[纸尿裤材料必读书单_v1]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]

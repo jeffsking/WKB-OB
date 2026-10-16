@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Seal Strength Test（端封·侧封强度测试）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [端封, 侧封, 粘合强度, gf, STM-00078, 胶量, 拉力仪]
@@ -82,3 +82,14 @@ aliases: ["端封强度测试", "STM-00078", "End/Side Seal Bond Strength"]
 - [[STM-00078 端封强度.doc]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00078 端封强度.doc.md`
 - [[STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc]] —— `RAW/…/成品/Pants 产品拉断测试方法/STM-01086 BCC Pants 产品拉断测试.doc.md`
 - [[Topical liner Supporting layer Embossing pressure.pdf]] —— `RAW/…/成品/NJ/Topical liner Supporting layer Embossing pressure.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CD Pants产品学习]]
+- [[STM-00078 端封强度.doc]]
+- [[STM-00090 腰围密封强度.doc]]
+- [[STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc]]
+- [[STM-01086 BCC Pants 产品拉断测试（成品）.doc]]
+- [[Topical liner Supporting layer Embossing pressure.pdf]]
+- [[WI-19395外层材料剥离测试.docx]]
+- [[面层粘合强度测试方法.pdf]]

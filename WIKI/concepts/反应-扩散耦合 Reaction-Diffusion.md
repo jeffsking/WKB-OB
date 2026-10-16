@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "反应-扩散耦合 Reaction-Diffusion"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [diffusion, modeling, sap, crank]

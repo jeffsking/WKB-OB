@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Protein Error of pH Dye（pH 染料的蛋白误差）"
-domain: [卫材研发, 比色传感, 化学]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [蛋白误差, 溴甲酚紫, 便指示, 比色, 缓冲, 假阳性]
@@ -84,3 +84,7 @@ tags: [蛋白误差, 溴甲酚紫, 便指示, 比色, 缓冲, 假阳性]
 
 - [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md`
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
+
+## Related Sources 关联来源
+
+- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]

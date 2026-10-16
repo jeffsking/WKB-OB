@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Wetness Indicator Glue"
-domain: [卫材研发, 智能功能化, 材料]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [尿显, 热熔胶, 湿致变色, 底膜, 84%, 转化兼容]
@@ -91,3 +91,16 @@ Hot-melt glue is irreversible and signals *that* wetness has occurred; water-bas
 - [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md`
 - [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260814232451_1.md`（2026-09-29 追加）
 - [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/Diaper_Microclimate_Visualization_Feasibility.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[US 20070270773 A1（Thermochromic Wetness Indicator）]]
+- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）]]
+- [[变色油墨供应商联系表（19 家 · 联系方式敏感）]]

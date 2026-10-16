@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ES 纤维驻极研究"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [es-fiber, electret, corona-charging, hot-air-nonwoven, filter-material]

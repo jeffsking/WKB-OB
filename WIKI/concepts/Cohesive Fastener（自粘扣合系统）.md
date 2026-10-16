@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Cohesive Fastener（自粘扣合系统）"
-domain: [卫材研发, 结构件]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [cohesive fastener, 自粘扣合, hook and loop, 魔术贴替代, 降本]
@@ -39,3 +39,7 @@ tags: [cohesive fastener, 自粘扣合, hook and loop, 魔术贴替代, 降本]
 ## 来源
 
 - [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md`
+
+## Related Sources 关联来源
+
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]

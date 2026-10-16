@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Nonwoven 非织造布"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, spunbond, meltblown, spunmelt, spunlace, air-through, hygiene, substrate]
@@ -60,3 +60,13 @@ Nonwovens are the load-bearing substrate of every hygiene article layer in this 
 - [[SMS复合结构]]
 - [[水刺 Hydroentanglement]]
 - [[气铺 Airlaid]]
+- [[Adhesive Handbook Part 3 Adhesive Classes]]
+- [[Cosmetic Formulation of Skin Care Products]]
+- [[Cosmetic Science and Technology]]
+- [[Diffusion in a Cylinder (Crank Ch.5)]]
+- [[ES 纤维热风非织造布驻极性能初探]]
+- [[Handbook of Cosmetic Science]]
+- [[Handbook of Industrial Drying]]
+- [[KC 团队内部技术讨论会（TBCW 在线超声波复合工艺）]]
+- [[Mechanochromic Photonic Sensors]]
+

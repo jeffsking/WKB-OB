@@ -2,10 +2,22 @@
 type: concept
 title: "摩擦纳米发电机 TENG"
 domain: hygiene-materials
-status: growing
-updated: 2026-09-30
+status: merged
+updated: 2026-10-12
 tags: [TENG, self-powered-sensor, wearable, e-textile, energy-harvesting]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：与 [[摩擦电自供电 TENG]] 同主题，已并入。
+> 入链已全量改写；本页保留为**指针页**（未删除，原文存档于下方）。
+
+本主题正文见：
+- [[摩擦电自供电 TENG]]
+
+
+---
+
+## 📦 原始内容存档（合并前，2026-10-12）
+
 
 # 摩擦纳米发电机 TENG
 > 📌 **Page completed 2026-09-30** from 1 citing source. All figures traced to its source page. Anything not evidenced is marked `[待补]`.

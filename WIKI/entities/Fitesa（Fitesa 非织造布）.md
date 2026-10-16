@@ -41,3 +41,16 @@ tags: [非织造布, 面层, 中试线, 皮肤健康处理, 寻源]
 
 - [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.16 - Adult Care Manager Rewet Update.pptx.md`
 - [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md`
+
+## Related Sources 关联来源
+
+- [[2025.03.26 - Learning Cycle Update]]
+- [[2026 Sensor China]]
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[Rewet Learning Plan（回渗学习计划工作表）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]

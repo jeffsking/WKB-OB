@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "亲水化 Hydrophilisation"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [wettability, contact-angle, topsheet, ES-fibre, surface-chemistry]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Glueless Bonding（无胶粘合工艺族）"
-domain: [卫材研发, 设备工程, 胶黏剂]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [无胶, 热封, 超声波, 降本, 腿围, ADL, 弹性腰围]
@@ -58,3 +58,13 @@ tags: [无胶, 热封, 超声波, 降本, 腿围, ADL, 弹性腰围]
 ## 来源
 
 - [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/Innovation 2026 - Overall_with Detials.pptx.md`
+
+## Related Sources 关联来源
+
+- [[CN 222018549 U（一种百褶裤型纸尿裤·湖州因爱伟大）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[T5 Pants COCO V2 TD34 Trial Results（四个 Bench Code 与试产数据）]]
+- [[联欣 LXBIO T55P25T20 线纺专用料 TDS（PPC-P-PBAT 可降解）]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -109,3 +110,7 @@ $$R_p = \frac{N\,\bar{n}\,k_p\,[M]}{N_A}$$
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch4_report.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch4_report.md.md`
+
+## 关联页面
+
+- [[交联 CMC]]　[[胶束 Micelle]]

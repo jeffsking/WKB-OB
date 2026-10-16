@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Resilient Surge（PET 回弹导流层）"
-domain: [卫材研发, 导流层]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [resilient surge, MOJAVE, CT5, PET, 回弹, 加工性, 断头, 粉尘]
@@ -87,3 +87,14 @@ aliases: ["回弹导流层", "Resilient Surge", "MOJAVE 导流层"]
 
 - [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md`
 - [[Intake Systems Development Pathway 2023（摄入系统开发通路）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Liner-Surge Pathway - Feb 2023.pptx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[03_卫材产线约束常量表（准入校验工具）]]
+- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]

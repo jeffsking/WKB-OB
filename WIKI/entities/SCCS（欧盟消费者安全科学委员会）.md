@@ -31,3 +31,8 @@ tags: [欧盟, 化妆品, 法规, 科学委员会, SCCS]
 ## 来源
 
 - [[SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS-1575-16, 2016)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_Final Opinion on Phenoxyethanol in cosmetic products.pdf.md`
+
+## Related Sources 关联来源
+
+- [[SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS-1575-16, 2016)]]
+- [[甲酰胺，可能源头，会下一个PFAS吗？]]

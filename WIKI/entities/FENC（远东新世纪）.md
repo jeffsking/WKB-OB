@@ -38,3 +38,7 @@ tags: [湿敏纤维, 生物基 PP, PET]
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`
 
 > 🔴 **manual_review（2026-09-29）**：来源含**联系人姓名**（未落页面），按 §2.2/§5 个人联系方式不页面化。
+
+## Related Sources 关联来源
+
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]

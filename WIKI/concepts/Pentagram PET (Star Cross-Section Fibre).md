@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Pentagram PET (Star Cross-Section Fibre)"
-domain: [卫材研发, 纤维材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [五角星形, 异形截面, 毛细, 面层, Liner, 可纺性]
@@ -76,3 +76,11 @@ Denier (at 10% add-on): **2D** raises fibre count and surface area but can reduc
 
 - [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md`
 - [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md`
+
+## Related Sources 关联来源
+
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres]]
+- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]
+- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]
+- [[异型截面涤纶纤维卫生用品生产商清单（11 家·产能与应用确认）]]

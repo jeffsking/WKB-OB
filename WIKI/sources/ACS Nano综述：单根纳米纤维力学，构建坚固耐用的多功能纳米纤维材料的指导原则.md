@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -90,3 +91,7 @@ section">点击蓝字 直接跳转至原文
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/ACS Nano综述：单根纳米纤维力学，构建坚固耐用的多功能纳米纤维材料的指导原则.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/ACS Nano综述：单根纳米纤维力学，构建坚固耐用的多功能纳米纤维材料的指导原则.md`
+
+## 关联页面
+
+- [[Electrospinning（静电纺丝）]]　[[东华大学]]　[[纳米纤维素（CNC、CNF、BNC）]]

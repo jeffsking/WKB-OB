@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Biodegradable SAP（可降解高吸水树脂）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 可降解, 海洋降解, PDA, 淀粉]
@@ -200,3 +200,31 @@ tags: [SAP, 可降解, 海洋降解, PDA, 淀粉]
 > 3. **下游产品侧（江西安秀 CN 117379257 A，A 公开 2024-01-12）**：纸尿裤芯体从属权利要求把「淀粉衍生物、纤维素衍生物、甲壳质衍生物、聚丙烯酸系、聚乙烯醇系吸水树脂中的一种或多种」写入高分子吸收层——说明**生物基/可降解 SAP 在 2023 年国内产品申请中已是常规从属选项**。
 >
 > `[待验证]`：三件中仅 CN 112442152 B 为授权文本；其余两件授权结果来源未记载。专利有效性/FTO 不作 AI 结论 → 🔴 **manual_review（2026-09-29）**。
+
+## Related Sources 关联来源
+
+- [[BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）]]
+- [[CMC-Na CA CNF SAP original article.pdf]]
+- [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]]
+- [[CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院）]]
+- [[CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）]]
+- [[CN 112851860 A（可降解的纤维素-聚丙烯酰胺复合保水剂和制备方法·杭州所予科技）]]
+- [[CN 117379257 A（具有护脐功能的超高腰婴儿纸尿裤及其生产工艺·江西安秀）]]
+- [[CN 1330679 C（两性离子高吸水树脂及其制备方法·中国林科院林化所）]]
+- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]
+- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]
+- [[Ebewole Polymer Science Ch12 Solution Properties of Polymers]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[Manufactured Fibre Technology Ch20 Reuse of Polymer and Fibre Waste]]
+- [[Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021)]]
+- [[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]
+- [[Seawater-Degradable SAP 3D Hydrogel System Technical Report（海水可降解SAP三维水凝胶体系技术调研）]]
+- [[US9950308B2 Superabsorbent Polymer (LG Chem)]]
+- [[可降解生物基材料与薄且强芯体技术深度解析]]
+- [[海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]
+

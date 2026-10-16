@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PTT（聚对苯二甲酸丙二醇酯）"
-domain: [卫材研发, 纤维材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [PTT, PDO, 生物基, 并列复合, 弹力纤维, 降克重]
@@ -73,3 +73,31 @@ aliases: ["Polytrimethylene Terephthalate", "PTT 纤维"]
 
 - [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md`
 - [[优化 REL 五纤维配方与穿透热风粘合工艺模拟]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/REL simulation.pptx.md`
+
+## Related Sources 关联来源
+
+- [[2025全球（中国）生物基材料产业情况]]
+- [[Dual Component Fiber_concepts]]
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）]]
+- [[IMA知识库索引_20261002]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[OI（Open Innovation）团队会议纪要]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[REL benchmark.png]]
+- [[REL 结构优化与选材技术方案]]
+- [[REL_Optimized_PTT_PVA_Composition]]
+- [[Screenshot_2026-07-01-15-13-09-17_45e686c594768066ad9911d54d96f72b.jpg]]
+- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]
+- [[To Do List]]
+- [[output]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+- [[恒碳公司与KC团队的PTT材料合作交流会议]]
+- [[满足要求的四大组件性能指标与测试方法]]
+

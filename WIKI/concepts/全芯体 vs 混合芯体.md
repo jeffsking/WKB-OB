@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "全芯体 vs 混合芯体"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [absorbent-core, SAP, fluff-pulp, core-design, COCO]

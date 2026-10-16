@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "粘合剂 Binder"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [binder, latex, chemical-bonding, nonwoven, airlaid, binder-migration, fox-equation, hygiene]

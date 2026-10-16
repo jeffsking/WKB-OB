@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "CFD 计算流体力学"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [modeling, CFD, simulation, fluid-flow, porous-media]
@@ -41,3 +41,13 @@ tags: [modeling, CFD, simulation, fluid-flow, porous-media]
 - [[Computational Modeling in Absorbent Technology]] — CFD 所在章节；方法族与设备语境
 - [[Hygiene Absorption Model]] — 延伸关联体系中纳入 CFD
 - 相关概念：[[Navier-Stokes Equation]]、[[有限体积法]]、[[有限元法]]、[[有限差分法]]、[[k-ε 湍流模型]]、[[Stokes Number]]、[[Lagrangian Particle Tracking]]、[[虚拟原型 Virtual Prototyping]]、[[气铺 Airlaid]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[CFD人用Codex，建议先装这8个插件！]]
+- [[Polymer Reaction Engineering_深度拆书报告_academic_20260813]]
+- [[全球8大主流CFD流体动力学仿真软件]]
+- [[多孔介质流动仿真，从达西定律到完整 CFD 建模]]
+- [[尿液在婴儿纸尿裤中的吸收和扩散模拟仿真]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]
+- [[针对您想构建的“尿液在纸尿裤中的流动和吸收流体数值计算模型及]]
+

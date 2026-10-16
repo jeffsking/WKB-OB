@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）"
-domain: [卫材研发, SAP, 纳米纤维素]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [纳米纤维素, 蔗髓, 保水剂, SAP, 昆明理工大学, 专利]
@@ -38,3 +38,11 @@ tags: [纳米纤维素, 蔗髓, 保水剂, SAP, 昆明理工大学, 专利]
 ## 来源 / Source
 
 - [[CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN104004521B.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）]]
+- [[CN 107057251 B（一种聚丙烯酸钠-纳米纤维素晶体复合高吸水性树脂及其制备方法）]]
+- [[CN 113423778 B（吸水性组合物及其制造方法·花王）]]
+- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]
+- [[Nanocellulose Review（纳米纤维素综述 · 2026-09-09）]]

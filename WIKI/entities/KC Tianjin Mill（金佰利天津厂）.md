@@ -43,3 +43,11 @@ tags: [测试方法, 成品, 原材料, WI-60632, 金佰利]
 
 - [[Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/质量成品标准测试方法-TJ.pdf.md`
 - [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM原材料-TJ.pdf.md`
+
+## Related Sources 关联来源
+
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]
+- [[TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）]]
+- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]

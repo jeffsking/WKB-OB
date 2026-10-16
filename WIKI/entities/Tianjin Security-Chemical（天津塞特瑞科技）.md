@@ -54,3 +54,7 @@ tags: [光致变色, 螺吡喃, 螺噁嗪, spiropyran, spirooxazine, 光-力双�
 - [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/photochromic-supplier-report-2026-08-03.docx.md`
 
 > ⚠️ **单一来源警示**：本实体的全部信息**仅来自上述一份调研报告**，且该报告的市场与份额部分**依赖行业博客与 B2B 平台**。**建议按 `[I]` 层级使用，并以一手尽调替换。**
+
+## Related Sources 关联来源
+
+- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]

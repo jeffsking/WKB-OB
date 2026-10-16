@@ -1,11 +1,13 @@
 ---
 type: concept
 title: "摩擦电自供电 TENG"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [TENG, self-powered, triboelectric, wearable, sensor, CLCE]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：[[摩擦纳米发电机 TENG]] 已并入本页（同主题重复），入链已改写。
 
 # 摩擦电自供电 TENG
 
@@ -48,7 +50,7 @@ tags: [TENG, self-powered, triboelectric, wearable, sensor, CLCE]
 
 - [[Self-Powered Photonic Sensor CLCE Sandwich]]
 - [[Wearable Electronics (National Science Review 2023)]]
-- [[摩擦纳米发电机 TENG]]
+- [[摩擦电自供电 TENG]]
 - [[机械变色 Mechanochromic]]
 - [[胆甾相液晶弹性体 CLCE]]
 - [[结构色 Structural Color]]
@@ -56,3 +58,6 @@ tags: [TENG, self-powered, triboelectric, wearable, sensor, CLCE]
 - [[柔性电子 Flexible Electronics]]
 - [[可穿戴传感器 Wearable Sensor]]
 - [[电子纺织品 E-textile]]
+- [[output]]
+- [[产品手册-力腾力腾化工(无锡)有限公司]]
+

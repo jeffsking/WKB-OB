@@ -29,7 +29,7 @@ key_claims:
   - "Waterborne polyurethane adhesives have no VOC emissions and are nonflammable, making them the more environmentally friendly route"
   - "In wood adhesives, application parameters other than the characteristics of the adhesive itself account for around 50% of performance"
   - "Disposable diapers make use of self-adhesive strips; unmodified acrylic dispersions and hot melts dominate"
-pages_linked: ["[[Handbook of Adhesive Technology Full Report]]", "[[Absorbent Technology]]", "[[Handbook of Nonwovens]]", "[[SAP（高吸水树脂）]]", "[[PSA]]", "[[热熔胶 Hot Melt Adhesive]]", "[[硅烷偶联剂 Silane Coupling Agent]]", "[[Nonwoven Lamination]]"]
+pages_linked: ["[[Handbook of Adhesive Technology Full Report]]", "[[Absorbent Technology]]", "[[Handbook of Nonwovens]]", "[[SAP（高吸水树脂）]]", "[[压敏胶 PSA]]", "[[热熔胶 Hot Melt Adhesive]]", "[[硅烷偶联剂 Silane Coupling Agent]]", "[[Nonwoven Lamination]]"]
 ---
 
 # Handbook of Adhesive Technology — Full Report
@@ -280,7 +280,7 @@ $$G = G_0 \cdot \psi(v, T)$$
 - [[Absorbent Technology]] — Core absorption mechanics
 - [[Handbook of Nonwovens]] — Nonwoven lamination
 - [[SAP（高吸水树脂）]] — Super Absorbent Polymer
-- [[PSA]] — Pressure-Sensitive Adhesive
+- [[压敏胶 PSA]] — Pressure-Sensitive Adhesive
 - [[热熔胶 Hot Melt Adhesive]] — Hot melt adhesives
 - [[硅烷偶联剂 Silane Coupling Agent]] — Silicon coupling agents
 - [[Nonwoven Lamination]] — Nonwoven lamination technology

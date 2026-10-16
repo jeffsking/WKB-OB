@@ -1,11 +1,13 @@
 ---
 type: concept
 title: "刺激响应聚合物 Stimuli-Responsive Polymer"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [stimuli-responsive-polymer, 刺激响应聚合物, smart-polymer, LCST, hydrogel, SAP, PNIPAAM, phase-transition]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：[[Stimuli-Responsive Polymers]] 已并入本页（同主题重复），入链已改写。
 
 # 刺激响应聚合物 Stimuli-Responsive Polymer
 
@@ -66,3 +68,13 @@ The vault gives an explicit thermodynamic definition: smart / stimuli-responsive
 - [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]
 - [[Stimuli-Responsive Polymer Materials (Nature Materials Review)]]
 - [[Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications]]
+- [[A review on superabsorbent polymers]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[EDANA 2022 Absorbent Hygiene Products]]
+- [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]
+- [[Emerging applications of stimuli-responsive polymer materials]]
+- [[Research Advances in Superabsorbent Polymers]]
+- [[Smart Textiles & Wearables]]
+- [[Smart Textiles and Sportswear]]
+- [[Superabsorbent Polymers and Superabsorbent Polymer Composites]]
+

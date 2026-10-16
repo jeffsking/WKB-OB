@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -305,3 +306,7 @@ Class 2体系正式表单化及中国本地化适配（检测机构、供应商�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC&YK FEI 团队创新合作计划分享会 -5.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC&YK FEI 团队创新合作计划分享会 -5.md`
+
+## 关联页面
+
+- [[IPC BCC OI Portfolio（开放创新项目组合）]]　[[Material Safety Control（材料安全双轨管控）]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -126,3 +127,7 @@ section">4. Khemani K. Polymer Degradation and Stability, 2000, 67: 91–100.
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/PET 在高温下为什么生成乙醛：酯键断裂、乙烯基酯端基与互变异构.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/PET 在高温下为什么生成乙醛：酯键断裂、乙烯基酯端基与互变异构.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]

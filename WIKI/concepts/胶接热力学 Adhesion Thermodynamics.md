@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "胶接热力学 Adhesion Thermodynamics"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [adhesion, thermodynamics, work-of-adhesion, dupre, surface-energy, viscoelastic, peel, hygiene]

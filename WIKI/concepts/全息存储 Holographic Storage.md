@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "全息存储 Holographic Storage"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [holographic-recording, structural-color, photopolymer, mechanochromic, strain-sensor, PEGDA]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Composite Core Patent Clearance（复合芯体专利规避审查）"
-domain: [卫材研发, 知识产权]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [复合芯体, FTO, 专利规避, 导流压槽, REL, 权利要求]
@@ -108,3 +108,9 @@ tags: [复合芯体, FTO, 专利规避, 导流压槽, REL, 权利要求]
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**（含"过期母专利上的改进专利反向布局"一节）。
 > 🔴 **manual_review（2026-09-29）**：来源为 **2017-08-07 时点快照**；**所列专利编号的授权/失效状态未经核验，用于规避结论前必须逐件复核**。Drylock 段源文标注 **"Confidential information"**，本页**只记公开专利范围内的结构与机理**。竞品与供应商名称**仅作谱系追溯，不构成商务评价**。
+
+## Related Sources 关联来源
+
+- [[Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "IPA（间苯二甲酸）"
-domain: [采购, 成本分析]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [IPA, 间苯二甲酸, 共聚单体, CoPET, 成本波动]
@@ -58,3 +58,12 @@ aliases: ["IPA（间苯二甲酸 / Isophthalic Acid）"]
 - [[CoPET-PET 与 PE-PET 成本结构深度拆解报告]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_PET与PE_PET成本结构拆解报告.docx.md`
 - [[CoPET 采购蓝图：成本拆解与供应分层]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md`
 - [[CoPET ADL 转型蓝图（皮层聚合物替代评估）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_ADL_Strategic_Blueprint.pptx.md`
+
+## Related Sources 关联来源
+
+- [[CoPET 与 PET 成本差异对比（2026 年 7 月）]]
+- [[CoPET 采购蓝图：成本拆解与供应分层]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[CoPET-PET 与 PE-PET 成本差异对比 v3（卫材级对等口径修正）]]
+- [[CoPET-PET 与 PE-PET 成本结构深度拆解报告]]
+- [[CoPET_PET与PE_PET成本结构拆解.xlsx]]

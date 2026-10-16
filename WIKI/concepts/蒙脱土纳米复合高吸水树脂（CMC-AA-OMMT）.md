@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）"
-domain: [卫材研发, SAP]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 蒙脱土, 纳米复合, 纤维素]
@@ -35,3 +35,7 @@ tags: [SAP, 蒙脱土, 纳米复合, 纤维素]
 ## Sources 来源
 
 - [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN101787101A.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]]

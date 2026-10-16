@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "斯托克斯位移 Stokes Shift"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [luminescence, fluorescence, fluorophore, optical-brightener, supplier-qualification]

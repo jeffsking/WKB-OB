@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "AHPs Stewardship Program 与 CODEX™ 痕量物质管控"
-domain: [法规与产品安全, 卫品]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [EDANA, AHPs, 痕量物质, CODEX, 卫生用品,  stewardship]
@@ -36,3 +36,12 @@ tags: [EDANA, AHPs, 痕量物质, CODEX, 卫生用品,  stewardship]
 ## 来源
 
 - [[EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/20_EDANA_AHPs_Whitepaper_2022.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CFD人用Codex，建议先装这8个插件！]]
+- [[EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program]]
+- [[如果你也想用 AI 做 COMSOL 有限元模拟研究]]
+- [[我用一句 _goal，让 Codex 自己复现了一个 COMSOL 仿真]]
+- [[还在手动点COMSOL？Codex+COMSOL自动化仿真工作流，让参数扫描效率翻10倍]]
+- [[针对您想构建的“尿液在纸尿裤中的流动和吸收流体数值计算模型及]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "形状记忆聚合物 Shape Memory Polymer"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [shape-memory-polymer, smp, stimuli-responsive, smart-textile, thermoregulation, smart-adhesive, phase-change, hygiene-materials]

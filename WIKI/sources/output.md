@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -136,3 +137,7 @@ Enhancement is the entry. Platform is the goal.
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/output.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/output.pptx.md`
+
+## 关联页面
+
+- [[APAC 卫生纸产品矩阵（2017  workshop 预研）]]　[[CoPET（低熔点共聚酯）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[IPC BCC（K-C Baby & Child Care 材料开发团队）]]　[[PET（聚酯）]]　[[PTT（聚对苯二甲酸丙二醇酯）]]　[[REL Splice Tensile Test（REL 拼接拉断力测试）]]　[[SAP（高吸水树脂）]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[摩擦电自供电 TENG]]

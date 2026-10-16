@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Technology Roadmap 2026-2029（技术路线图）"
-domain: [卫材研发, 技术路线图]
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-29
 tags: [技术路线图, TRL, 双轨, 四阶段, 六大方向, 可降解, 超声波]
@@ -75,3 +75,10 @@ Reverse-engineered from the knowledge base; the basis of the 2027 initiation pro
 ## Source 来源
 
 - [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md`
+
+## Related Sources 关联来源
+
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[OI能力矩阵和培养计划]]
+- [[消费者可见（consumer-visible）的话，最像样的]]

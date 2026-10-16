@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "纺粘熔喷 Spunbond-Meltblown"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, spunmelt, spunbond, meltblown, SMS, SSMMS, hygiene]
@@ -55,6 +55,5 @@ tags: [nonwoven, spunmelt, spunbond, meltblown, SMS, SSMMS, hygiene]
 - [[水刺 Hydroentanglement]]
 - [[纺粘 Spunbond]]
 - [[熔喷 Meltblown]]
-- [[SMS复合结构]]
 - [[SMS复合结构]]
 - [[06_SSMMS无纺布技术研究报告.md]]

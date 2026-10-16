@@ -39,3 +39,8 @@ tags: [Cabot, 卡博特, Norit, activated-carbon, 活性炭, odour-control]
 ## Sources 来源
 
 - [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/21_DARCO® KB-G Powdered Activated Carbon (TDS).pdf.md`
+
+## Related Sources 关联来源
+
+- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]
+- [[Cabot DARCO KB-G TDS（v3 归档同名件）]]

@@ -61,3 +61,21 @@ tags: [SAP, 高吸水树脂, 表面包覆, 专利]
 - 供应格局意义：N7059 为**国产化 BASF SAP** 的对标基线牌号，与 [[SAP性能指标（CRC AUL GBP Vortex）]] 中的其他牌号横向可比。
 
 > 🔴 **manual_review（2026-09-29，追加）**：N7059 原文含**销售/技术联系人姓名、电话、邮箱**——不页面化，仅存原文。
+
+## Related Sources 关联来源
+
+- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）]]
+- [[BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）]]
+- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]
+- [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]]
+- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP性能指标（CRC AUL GBP Vortex）"
-domain: [卫材研发, 高吸水树脂]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-29
 tags: [SAP, CRC, AUL, GBP, Vortex, PSD, 高吸水树脂, 测试口径]
@@ -297,3 +297,37 @@ aliases: ["SAP 性能指标（CRC / AUL / GBP / Vortex）"]
 - [[SAM Database-CW（全球 SAM 牌号性能数据库）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAM Database-CW.xlsx.md`（2026-09-29 追加）
 - [[COCO V6 试产原料准备会（英文版，2026-09-11）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_EN.pptx.md`
 - [[CI-06 COCO V6 第三轮试产测试结果]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[84 Sleeve 工程规格与换装防错设计]]
+- [[BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）]]
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）]]
+- [[CN 1330679 C（两性离子高吸水树脂及其制备方法·中国林科院林化所）]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]
+- [[GB-T28004-2011 PH.doc]]
+- [[GBP（From Nuoer）.docx]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]
+- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]
+- [[Raw Material STM - Nanjing Plant（原材料STM-NJ）]]
+

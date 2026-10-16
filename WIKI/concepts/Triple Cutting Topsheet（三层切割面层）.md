@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Triple Cutting Topsheet（三层切割面层）"
-domain: [卫材研发, 面层结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [topsheet, 面层, 三层切割, triple-cutting, REL, 扩散]
@@ -41,3 +41,8 @@ tags: [topsheet, 面层, 三层切割, triple-cutting, REL, 扩散]
 ## Sources 来源
 
 - [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx.md`
+
+## Related Sources 关联来源
+
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]]

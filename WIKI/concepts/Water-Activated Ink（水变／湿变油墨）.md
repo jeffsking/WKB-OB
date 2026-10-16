@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Water-Activated Ink（水变／湿变油墨）"
-domain: [卫材研发, 智能功能化, 材料]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [水变油墨, 湿变, 尿显, PEG, 酯类溶剂, 透显性, 图案化]
@@ -103,3 +103,20 @@ aliases: ["Hydrochromic Ink", "水变油墨", "湿变油墨"]
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**。
 > 🔴 **manual_review（2026-09-29）**：源文**成本区间（元/kg）为公开资料汇编的估算**，附"因品牌/型号/批次不同可能存在差异"的免责说明；**不得作为采购议价依据、不得对外引用**。**"CTI 垄断""国内尚无大规模量产"等为源文判断，本页未独立核验**。**Ledio / 广州乐迪"宣称 >5,000 次循环"为厂商宣称，非实测**。另：MF 壁材的**甲醛属性**在卫材接触场景须由材料安全流程单独评估。
+
+## Related Sources 关联来源
+
+- [[CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）]]
+- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）]]
+- [[NOTE]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）]]
+- [[indicator-video-mechanism-judgment.docx]]
+- [[会议纪要：松井油墨（水变温变油墨技术分享）]]
+- [[变色油墨供应商技术路线与产品性能差异评估]]
+- [[感光变色材料产品资料（UV_CHT1608V2 · 台系变色供方）]]
+- [[温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）]]

@@ -1,0 +1,4713 @@
+{
+ "2025.06.25 - Learning Cycle Check In（GRIFFIN 学习周期复盘）": {
+  "dir": "concepts",
+  "title": "2025.06.25 - Learning Cycle Check In（GRIFFIN 学习周期复盘）",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）"
+ },
+ "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）": {
+  "dir": "concepts",
+  "title": "2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "（中文：本页不是 GRIFFIN 项目的总定义，而是 2025-08-25 撰写、8-28 更新的那次重整复盘；该件首次把\"回渗测不准\"单列为问题。）"
+ },
+ "3D In-line Embossing Topsheet（3D 在线压花面层）": {
+  "dir": "concepts",
+  "title": "3D In-line Embossing Topsheet（3D 在线压花面层）",
+  "domain": "[卫材研发, 面层结构]",
+  "status": "growing",
+  "defn": "1. 成型：两层热风布（或 SMS）复合后即时通过凹凸配对压花辊；鼓包结构在面层表面形成规律立体图案。"
+ },
+ "82 鼓距与产品节距解耦 repitch 选型": {
+  "dir": "concepts",
+  "title": "82 鼓距与产品节距解耦 repitch 选型",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））"
+ },
+ "83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）": {
+  "dir": "concepts",
+  "title": "83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault's cited statements describe this architecture as a four-layer stratification of changeover elements with change control（换型要素四层分层与变"
+ },
+ "87 卫材产线约束常量表（待并入补充行）": {
+  "dir": "concepts",
+  "title": "87 卫材产线约束常量表（待并入补充行）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本页是 80 系 pattern 芯体成型工程文档族的约束常量汇总占位页（标题自注「待并入补充行·合并脚本」），将各工程规格中已确认的产线硬约束汇成一行行常量，用于立项准入校验（源：03_卫材产线约束常量表（准入校验工具））。"
+ },
+ "Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）": {
+  "dir": "concepts",
+  "title": "Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）",
+  "domain": "[卫材研发, 胶黏剂, 回渗]",
+  "status": "growing",
+  "defn": "1. LTD 施胶量（唯一统计显著的杠杆）：降低 LTD add-on 降低回渗，假设是 LTD 胶阻碍了液体向下层流动（即胶本身成了\"拦水坝\"）。这是三处施胶中唯一取得统计显著改善的改动。"
+ },
+ "Acquisition Test STM-00060（导流性能测试）": {
+  "dir": "concepts",
+  "title": "Acquisition Test STM-00060（导流性能测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "导流性能关注的是\"液体去向\"：若产品导流好，液体被迅速吸入并横向/纵向输运，到达斜面收集端的量就少；若导流差，液体在注液点附近积滞并顺斜面下淌，收集端量就多。它与扩散（spreading）互补——扩散看铺展多远，导流看是否\"被带走\"。两者共同指向 ADL/面层的结构设计。"
+ },
+ "Active Diagnostic Zones（主动诊断分区）": {
+  "dir": "concepts",
+  "title": "Active Diagnostic Zones（主动诊断分区）",
+  "domain": "[卫材研发, 智能功能化]",
+  "status": "growing",
+  "defn": "1. The framing idea 命题：integrating force-responsive, power-free sensors turns commodity diapers into \"smart\" safety devices, solving complex"
+ },
+ "ActiveTech Platform（ActiveTech 在线薄芯体平台）": {
+  "dir": "concepts",
+  "title": "ActiveTech Platform（ActiveTech 在线薄芯体平台）",
+  "domain": "[卫材研发, 芯体工艺]",
+  "status": "growing",
+  "defn": "1. Scope 定义范围：ActiveTech enables continuous, online formation of Blizzard-type cores。在 ROTC 实现中包含：ACF module、SAP feeding and metering、vacuum"
+ },
+ "ADL（导流层）": {
+  "dir": "concepts",
+  "title": "ADL（导流层）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 三层职责分工：ACQUIRE（面层→ADL 快速摄入）、DISTRIBUTE（ADL 内 MD 横向铺展）、TRANSFER（ADL→吸收芯体下送）。三者的共同约束是空隙体积（void volume）——空隙被压实或过粘合熔掉，三项指标同时恶化。"
+ },
+ "AHPs Stewardship Program 与 CODEX™ 痕量物质管控": {
+  "dir": "concepts",
+  "title": "AHPs Stewardship Program 与 CODEX™ 痕量物质管控",
+  "domain": "[法规与产品安全, 卫品]",
+  "status": "growing",
+  "defn": "1. CODEX™ 清单：EDANA 选定的痕量化学物质列表，会员企业承诺 AHP 中这些物质浓度不高于各自指导值（用统一的、消费者相关的测试方法测定）。"
+ },
+ "Airlaid Paper（无尘纸）": {
+  "dir": "concepts",
+  "title": "Airlaid Paper（无尘纸）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 工艺本质：纤维不经湿法抄造，而以气流分散成网，再用热熔纤维/胶乳/水刺等固结——孔洞结构比湿法纸更蓬松、各向异性更弱。"
+ },
+ "Airy Window（腰围透气窗）": {
+  "dir": "concepts",
+  "title": "Airy Window（腰围透气窗）",
+  "domain": "[卫材研发, 透气与热舒适]",
+  "status": "growing",
+  "defn": "1. 消费者痛点：腰围区闷热与湿气积聚是皮肤刺激的前因（deck 的 Skin Light Boat 概念语境）。"
+ },
+ "AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体": {
+  "dir": "concepts",
+  "title": "AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体",
+  "domain": "[卫材研发, SAP]",
+  "status": "growing",
+  "defn": "1. 尿液的 Na⁺/Ca²⁺ 等阳离子会压缩聚丙烯酸网络的双电层，抑制渗透压吸水（盐敏性 salt sensitivity）。"
+ },
+ "Antimony-Free PET Fibre（无锑 PET 纤维）": {
+  "dir": "concepts",
+  "title": "Antimony-Free PET Fibre（无锑 PET 纤维）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "1. 检出限决定结论：同一批货送 SGS（约 20 mg 检出限）与送 GALAB（约 0.1）会得出完全不同的结论。做无锑项目时，标准里必须同时写清机构、检出限、测试方法（消解/萃取），否则\"合格\"无意义。"
+ },
+ "APAC 卫生纸产品矩阵（2017  workshop 预研）": {
+  "dir": "concepts",
+  "title": "APAC 卫生纸产品矩阵（2017  workshop 预研）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出「APAC 卫生纸产品矩阵」的显式定义）。"
+ },
+ "APAO（非晶态聚α-烯烃）": {
+  "dir": "concepts",
+  "title": "APAO（非晶态聚α-烯烃）",
+  "domain": "[卫材研发, 胶黏剂]",
+  "status": "growing",
+  "defn": "1. \"非晶\"是市场名，不是严格意义：来源记录 Bostik 内部实测表明，市场上以 \"amorphous poly-alpha-olefins\" 出售的牌号并非完全非晶，DSC 熔融焓普遍< 25 J/g（最高实测值 20.4 J/g，Vestoplast® 708；REXta"
+ },
+ "Ardex": {
+  "dir": "concepts",
+  "title": "Ardex",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Ardex 在本库中仅以变色材料供应商身份出现：来源页（父书 Chromic Phenomena）在光/热致变色等变色现象讨论中列出的供应商清单成员之一（与 PPG Industries、BASF、Clariant、DIC、Sun Chemical 并列）。除此之外，库内没有任何"
+ },
+ "ATB双梳理面层（Dual-Card Topsheet）": {
+  "dir": "concepts",
+  "title": "ATB双梳理面层（Dual-Card Topsheet）",
+  "domain": "[卫材研发, 无纺布结构]",
+  "status": "growing",
+  "defn": "1. \"双梳理\"= 两套独立梳理系统：上下各一套梳理分别成网，再叠合后进入穿透热风烘箱（ATB）粘合。好处是上下层可以配不同的纤维组合与克重，而不必在同一梳理里迁就。"
+ },
+ "AUL 加压吸水率": {
+  "dir": "concepts",
+  "title": "AUL 加压吸水率",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "两条 cited-by 来源仅在其关联概念清单中把 「AUL 加压吸水率」 列为一项条目（与 SAP、CRC 离心保持能力 等同列），未展开其定义、口径或数值。因此本页暂不给出定义 [待补]。"
+ },
+ "Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）": {
+  "dir": "concepts",
+  "title": "Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）",
+  "domain": "[卫材研发, 生物基材料]",
+  "status": "growing",
+  "defn": "Bacterial cellulose aerogel drying is the controlled removal of liquid from a bacterial cellulose (BC，细菌纤维素) hydrogel while managing capilla"
+ },
+ "BC Microgel（细菌纤维素微凝胶）": {
+  "dir": "concepts",
+  "title": "BC Microgel（细菌纤维素微凝胶）",
+  "domain": "[卫材研发, 生物材料, 载体技术]",
+  "status": "growing",
+  "defn": "微凝胶（microgel）：生物聚合物分子经交联构成的三维网络结构胶体粒子，粒径通常 100 nm–100 μm。BC 微凝胶以细菌纤维素为骨架材料，常复合壳聚糖、海藻酸钠等功能材料，负载药物、香精、营养物等活性成分。"
+ },
+ "Bessel 函数": {
+  "dir": "concepts",
+  "title": "Bessel 函数",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Bile Pigment Mordant Lane（胆色素媒染通道）": {
+  "dir": "concepts",
+  "title": "Bile Pigment Mordant Lane（胆色素媒染通道）",
+  "domain": "[卫材研发, 比色传感, 化学]",
+  "status": "growing",
+  "defn": "1. Binary presence, not a threshold（二值存在性，而非阈值）：bile pigment is BEST as a discriminator because normal urine contains none (bilirubin absent"
+ },
+ "Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）": {
+  "dir": "concepts",
+  "title": "Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "⚠️ 本文件是方法标准，不设合格阈值（2026-09-29 记录）：文件中出现的 ≥70%（参比材料 45 d 生物分解率）、≤20%（容器间相对偏差）、≥70%（空白发芽率）均为试验有效性判据，不是「产品可降解」的合格门槛。本文件未出现生物分解率 ≥90% 之类的降解合格值 →"
+ },
+ "Biodegradable SAP（可降解高吸水树脂）": {
+  "dir": "concepts",
+  "title": "Biodegradable SAP（可降解高吸水树脂）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "本批来源给出四类技术路径（同一份海水降解研究报告）："
+ },
+ "Bladder Box Intake Test（膀胱箱压载摄入测试）": {
+  "dir": "concepts",
+  "title": "Bladder Box Intake Test（膀胱箱压载摄入测试）",
+  "domain": "[卫材研发, 测试与验收, 成人护理]",
+  "status": "growing",
+  "defn": "1. 压力是被隐藏的自变量 Hidden variable = pressure：液体是否被「吸收」取决于产品受压后的孔隙状态；常压法下孔隙张开，会系统性高估摄入能力。膀胱箱的作用就是把这条路堵死。"
+ },
+ "Blizzard Core（Blizzard 芯体结构）": {
+  "dir": "concepts",
+  "title": "Blizzard Core（Blizzard 芯体结构）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. What fluff actually does in a conventional core 绒毛浆在传统芯体里的真实作用：fluff pulp provides capillary wicking and temporary void volume，supporting"
+ },
+ "Blowout Leakage Test（爆漏测试）": {
+  "dir": "concepts",
+  "title": "Blowout Leakage Test（爆漏测试）",
+  "domain": "[卫材研发, 测试方法]",
+  "status": "growing",
+  "defn": "1. 测量量：渗漏到已配衡（tared）纸巾上的人造 BM 克重。"
+ },
+ "BM Simulant A（便液模拟液 A）": {
+  "dir": "concepts",
+  "title": "BM Simulant A（便液模拟液 A）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "尿液可以用盐水近似（见 尿液模拟液（Urine Analog）），便液不行：便液是含蛋白、脂肪与固体颗粒的非牛顿流体，其滑渗与吸收行为由黏度与屈服应力主导，而非芯体的吸收速度。因此便液测试必须单独建立模拟液体系。"
+ },
+ "BNC Application Red Line（BNC 应用红线）": {
+  "dir": "concepts",
+  "title": "BNC Application Red Line（BNC 应用红线）",
+  "domain": "[采购, 立项治理]",
+  "status": "growing",
+  "defn": "1. The rule before 2026-09-05：a single sentence — \"do not start projects replacing fluff pulp / SAP\". Its judgement basis was the substituti"
+ },
+ "BNC 基 SAP 表面交联": {
+  "dir": "concepts",
+  "title": "BNC 基 SAP 表面交联",
+  "domain": "[卫材研发, 高吸水树脂]",
+  "status": "growing",
+  "defn": "1. 三重收益："
+ },
+ "BNC-PEG 母粒（干态可复水中介体）": {
+  "dir": "concepts",
+  "title": "BNC-PEG 母粒（干态可复水中介体）",
+  "domain": "[卫材研发, 材料加工]",
+  "status": "growing",
+  "defn": "1. 四步工艺链：2–4% BNC:H₂O 水凝胶 → 水溶性 PEG 置换水分 → 机械挤压 → 干燥 → BNC-PEG 母粒（干粉、易运输）。"
+ },
+ "Boltzmann 变换": {
+  "dir": "concepts",
+  "title": "Boltzmann 变换",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "d²C/dη² + 2η · d/dη ( D · dC/dη ) = 0"
+ },
+ "Botanical Extract Efficacy Verification（植物提取物功效验证）": {
+  "dir": "concepts",
+  "title": "Botanical Extract Efficacy Verification（植物提取物功效验证）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "植物提取物从\"原料有活性\"到\"产品有效\"，需要穿过四个环节，每一环都会损失："
+ },
+ "BSL Tier Differentiation（面层分档与产品档位差异化）": {
+  "dir": "concepts",
+  "title": "BSL Tier Differentiation（面层分档与产品档位差异化）",
+  "domain": "[卫材研发, 产品档位与材料策略]",
+  "status": "growing",
+  "defn": "1. 触发逻辑：性能相近时，感知决定溢价 —— \"Performs similarly, but private label is more comfortable and softer\"（性能相近，但自有品牌更舒适更软）；\"Supply chain disruptions al"
+ },
+ "Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）": {
+  "dir": "concepts",
+  "title": "Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）",
+  "domain": "[卫材研发, 吸收机理, 测试方法]",
+  "status": "growing",
+  "defn": "1. 物理基础是 Young-LaPlace：ΔP = −2γcosθ / R。毛细压由润湿性（θ）与孔径（R）共同决定，因此测到的毛细压差异只能归因于这两者之一——这是用它做根因诊断的根据（润湿性 vs 孔径，二分法）。"
+ },
+ "Case II 扩散": {
+  "dir": "concepts",
+  "title": "Case II 扩散",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "（中文：Case II 是 Alfrey–Gurnee–Lloyd 三分类中的一类——扩散速率远大于松弛速率（快速溶剂化）。）"
+ },
+ "Cassie-Baxter Equation": {
+  "dir": "concepts",
+  "title": "Cassie-Baxter Equation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The Cassie–Baxter relation, as recorded in the vault：cos θCB = f1 · cos θY + f2 · cos 180° = f1(cos θY + 1) − 1 — the composite / gas-trappi"
+ },
+ "CD Pants Converting Process（CD裤式产品加工工艺）": {
+  "dir": "concepts",
+  "title": "CD Pants Converting Process（CD裤式产品加工工艺）",
+  "domain": "[卫材研发, 加工与转换工程]",
+  "status": "growing",
+  "defn": "1. 两条支线 + 一次转向："
+ },
+ "CFD 计算流体力学": {
+  "dir": "concepts",
+  "title": "CFD 计算流体力学",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Changeover Four-Layer Architecture（换型要素四层分层与变更控制）": {
+  "dir": "concepts",
+  "title": "Changeover Four-Layer Architecture（换型要素四层分层与变更控制）",
+  "domain": "[卫材研发, 设备工程, 芯体工艺]",
+  "status": "growing",
+  "defn": "对任何一个\"换型时会变化的量\"，按序判定："
+ },
+ "China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）": {
+  "dir": "concepts",
+  "title": "China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）",
+  "domain": "[采购, 市场洞察]",
+  "status": "growing",
+  "defn": "China's baby-diaper market is estimated at ~RMB 70B (2025E) with 8-10% CAGR; domestic-brand share jumped from <1% (2019) to 8-10% (2024). Un"
+ },
+ "Chitosan Fibre（壳聚糖纤维）": {
+  "dir": "concepts",
+  "title": "Chitosan Fibre（壳聚糖纤维）",
+  "domain": "[卫材研发, 功能材料]",
+  "status": "growing",
+  "defn": "1. 抑菌来源：分子链上的氨基（–NH₂）赋予天然抑菌性，可抑制大肠杆菌、金黄色葡萄球菌等常见菌；宣称 50 次洗涤后仍保持抗菌率（厂商宣称，未附协议）。（壳聚糖及壳聚糖纤维技术与应用总结报告）"
+ },
+ "Chromism Taxonomy（变色现象分类）": {
+  "dir": "concepts",
+  "title": "Chromism Taxonomy（变色现象分类）",
+  "domain": "[卫材研发, 材料科学, 知识组织]",
+  "status": "growing",
+  "defn": "1. Classify by trigger, not by chemistry（按触发量分类，而非按化学分类）：the same molecule can serve two classes. Spiropyran is photo-, thermo- and mechano-"
+ },
+ "Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）": {
+  "dir": "concepts",
+  "title": "Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 交联是两步酯化：低温段（30 ℃ / 24 h）先脱除吸附水并接通柠檬酸分子的一端；随后升温至 85 ℃ / 24 h，使柠檬酸两端完成交联并成膜（来源 Scheme II）。"
+ },
+ "Clariant": {
+  "dir": "concepts",
+  "title": "Clariant",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": "引用来源未给出任何产品、牌号或规格 [待补]。"
+ },
+ "CLC 手性向列晶": {
+  "dir": "concepts",
+  "title": "CLC 手性向列晶",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "CMC 临界胶束浓度": {
+  "dir": "concepts",
+  "title": "CMC 临界胶束浓度",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）": {
+  "dir": "concepts",
+  "title": "Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "An improved composite elastic feature（复合弹性部件） for absorbent articles that is easier to handle during manufacture and subsequent processing, "
+ },
+ "COCO芯体平台": {
+  "dir": "concepts",
+  "title": "COCO芯体平台",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. V6 是当前多条 REL/Liner/SAP 项目的共同载体：OI-04（PVA/PTT REL）、OI-14（3-Carded REL with SAP）、OI-20（Three-layer Carded REL + SAP）、OI-13（SAP Selection & "
+ },
+ "Coform Composite Nonwoven（熔喷-木浆复合非织造）": {
+  "dir": "concepts",
+  "title": "Coform Composite Nonwoven（熔喷-木浆复合非织造）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "1. 配方 lever：提高 PP 比例（40/60 → 70/30）。最有效但直接推高成本，与\"降本\"目标冲突。"
+ },
+ "Cohesive Fastener（自粘扣合系统）": {
+  "dir": "concepts",
+  "title": "Cohesive Fastener（自粘扣合系统）",
+  "domain": "[卫材研发, 结构件]",
+  "status": "growing",
+  "defn": "1. 替代对象与痛点：现行 hook & loop 材质硬、有噪音、可能刮伤婴儿皮肤；cohesive 材料只自身互粘（A 对 B），剥离安静、轻量、不刮肤。"
+ },
+ "Composite Core Patent Clearance（复合芯体专利规避审查）": {
+  "dir": "concepts",
+  "title": "Composite Core Patent Clearance（复合芯体专利规避审查）",
+  "domain": "[卫材研发, 知识产权]",
+  "status": "growing",
+  "defn": "1. 比对的最小单元是「特征」而非「产品」：先把专利拆成独立特征（材料层构成、层序、槽的形成方式、压合位置、数值范围），再逐条对照我方产品「有 / 没有」。"
+ },
+ "Contact Angle": {
+  "dir": "concepts",
+  "title": "Contact Angle",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：接触角 Contact Angle"
+ },
+ "Controlled Radical Polymerization SAP（控制自由基聚合 SAP）": {
+  "dir": "concepts",
+  "title": "Controlled Radical Polymerization SAP（控制自由基聚合 SAP）",
+  "domain": "[卫材研发, SAP 机理]",
+  "status": "growing",
+  "defn": "1. 问题起点：常规水溶液自由基交联聚合中，高活性自由基成长种引发终止/链转移等副反应 → 体系混存多种分子量聚合物 → 网目结构不均一，抑制吸水性能（厂商公告口径）。"
+ },
+ "CoPET（低熔点共聚酯）": {
+  "dir": "concepts",
+  "title": "CoPET（低熔点共聚酯）",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. 降熔原理是「破坏结晶」而非「改变化学骨架」：常规 PET 是 PTA + MEG 的均聚物，链段规整、结晶度高；掺入 IPA 后共聚链段无序，结晶度与熔点同步下降——所以 CoPET 与 PET 同属聚酯体系（这也是它与 PE 皮芯的本质差别）。"
+ },
+ "Core Channel Pattern（芯体通道花型设计）": {
+  "dir": "concepts",
+  "title": "Core Channel Pattern（芯体通道花型设计）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 中轴通道（central axial channel）是必需要素 —— 须有一条贯穿的中轴，且镂空槽必须正对注液点（行业标准注液点 = 中心靠前 35 mm；低压/cradle 注液点 = 中心靠前 85 mm）。机理：注液点下方有通道，液体第一时间被导走，而不是在尿点处堆"
+ },
+ "Core Wrap（芯体包裹层）": {
+  "dir": "concepts",
+  "title": "Core Wrap（芯体包裹层）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. SAM containment（SAP 容纳）：使用中把 SAM 与绒毛浆保持在芯体内，防止凝胶沾肤——这是包裹层的第一职能。"
+ },
+ "Cradle Intake Test（Cradle 摄入测试）": {
+  "dir": "concepts",
+  "title": "Cradle Intake Test（Cradle 摄入测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. Cradle 试架的作用是\"消除重力与贴合差异\"：产品被拉伸固定、前端面朝测试者、中心对准托架凹槽最底部，折页被捋开立起且不挡吸收芯——目的是让每片产品以相同的几何姿态接受注液。"
+ },
+ "CRC 离心保持能力": {
+  "dir": "concepts",
+  "title": "CRC 离心保持能力",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "CRC（Centrifuge Retention Capacity，离心保水 / 保液率）：0.9% 盐水、250 G 离心后的持液量（g/g），代表 SAP 的静态容量——储库型 SAP 的主指标（源：SAP性能指标（CRC AUL GBP Vortex）、GBP-Limite"
+ },
+ "CTMP 化学热磨浆": {
+  "dir": "concepts",
+  "title": "CTMP 化学热磨浆",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "Danufil 粘胶": {
+  "dir": "concepts",
+  "title": "Danufil 粘胶",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "引用来源未给出明确定义。库内可确认：Danufil 粘胶被列为来源章节（父书 Absorbent Technology）\"材料/工艺\"项下的芯体材料之一，与 绒毛浆（Fluff Pulp）、CTMP 化学热磨浆 并列；并在 WRV 水保留值、交联 CMC 两页的相关概念清单中出现"
+ },
+ "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）": {
+  "dir": "concepts",
+  "title": "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The governing relation for flow in porous media as used in the vault: q = −K·∇P, with the conduction coefficient K = k/μ (k = permeability, "
+ },
+ "Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）": {
+  "dir": "concepts",
+  "title": "Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "→ 因此尽调必须换成\"物理定律是否成立 + 资本是否有耐心\"这两条主线。"
+ },
+ "Diaper Microclimate": {
+  "dir": "concepts",
+  "title": "Diaper Microclimate",
+  "domain": "[卫材研发, 舒适性]",
+  "status": "growing",
+  "defn": "1. The pain（痛点）：diaper microclimate (heat & humidity) drives skin irritation; caregivers lack a visible cue for \"when to act\".（微气候（热与湿）引发皮肤刺"
+ },
+ "Diaper Premiumization（纸尿裤高端化）": {
+  "dir": "concepts",
+  "title": "Diaper Premiumization（纸尿裤高端化）",
+  "domain": "[采购, 市场洞察]",
+  "status": "growing",
+  "defn": "1. Tier architecture（层级架构）：offer a structured price ladder so consumers self-select trade-ups as willingness/ability to pay rises (e.g. Hugg"
+ },
+ "DIC": {
+  "dir": "concepts",
+  "title": "DIC",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本库中 DIC 仅以供应商名称出现在 Chromic Phenomena Introduction and Reversible Colour Change 的供应商矩阵中；其公司全称、背景在本库当前源页中无记载，[待补]。（中文：不可凭外部常"
+ },
+ "Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）": {
+  "dir": "concepts",
+  "title": "Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）",
+  "domain": "[仿真建模, 吸收仿真, AI4Science, 开放创新]",
+  "status": "growing",
+  "defn": "1. 可微分路径（differentiable path）：求解器本身由 PyTorch/JAX/Julia AD 承载，PDE 离散与数值格式进入计算图 → 损失函数可对求解结果求导 → 神经网络（闭合模型、源项、边界模型）可用物理梯度训练。工程价值在于训练目标与物理一致，而不"
+ },
+ "DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制": {
+  "dir": "concepts",
+  "title": "DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制",
+  "domain": "[卫材研发, 材料安全与法规]",
+  "status": "growing",
+  "defn": "1. Residue is inherent to the process, not a defect——干法纺丝必须在原液中用 DMAC 溶解聚合物；溶剂回收技改只降低残值，不改变\"存在残留\"这一事实。（见 氨纶干法纺丝（Spandex Dry Spinning））"
+ },
+ "Donnan 溶胀": {
+  "dir": "concepts",
+  "title": "Donnan 溶胀",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Swelling of a fixed-charge polyelectrolyte matrix driven by Donnan osmotic pressure: mobile ions distributed across a charged, semipermeable"
+ },
+ "Dryness Measure System（干爽度量三分）": {
+  "dir": "concepts",
+  "title": "Dryness Measure System（干爽度量三分）",
+  "domain": "[卫材研发, 消费者研究]",
+  "status": "growing",
+  "defn": "1. 三类度量对应三个不同的\"干\"：产品里干了 ≠ 皮肤上干了 ≠ 消费者觉得干。三者之间隔着微气候与主观解释两层转换，因此不能互相替代。"
+ },
+ "Elastic Strand Snicking（弹性橡筋断丝失效化）": {
+  "dir": "concepts",
+  "title": "Elastic Strand Snicking（弹性橡筋断丝失效化）",
+  "domain": "[卫材研发, 工艺]",
+  "status": "growing",
+  "defn": "1. 为什么必须断丝：吸收体（含 SAP + 绒毛浆）有一定刚度，弹性件若持续横跨吸收体收缩，会限制其延伸，导致腰围贴合不良、外观不佳，或使吸收体起皱、开裂而降低吸收能力。"
+ },
+ "Elastic Tension & Creep（橡筋张力与回缩率）": {
+  "dir": "concepts",
+  "title": "Elastic Tension & Creep（橡筋张力与回缩率）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 弹性体的两个失效方向："
+ },
+ "Electrospinning（静电纺丝）": {
+  "dir": "concepts",
+  "title": "Electrospinning（静电纺丝）",
+  "domain": "[卫材研发, 非织造与纳米纤维]",
+  "status": "growing",
+  "defn": "1. 四步机理："
+ },
+ "ES 双组分弹性纤维热风布（弹性体改性）": {
+  "dir": "concepts",
+  "title": "ES 双组分弹性纤维热风布（弹性体改性）",
+  "domain": "[卫材研发, 无纺布]",
+  "status": "growing",
+  "defn": "1. 三态结构：弹性皮层 / 弹性芯层 / 皮芯双弹性层——权利要求按「弹性体加在哪一层」分三态覆盖。"
+ },
+ "ES 纤维 ES Fiber": {
+  "dir": "concepts",
+  "title": "ES 纤维 ES Fiber",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "ES 纤维驻极研究": {
+  "dir": "concepts",
+  "title": "ES 纤维驻极研究",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Fiberscope": {
+  "dir": "concepts",
+  "title": "Fiberscope",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "An observation instrument used for experimental validation in absorbent-technology modeling studies. 定义待补（引用来源未给出明确定义）。中文：纤维内窥观测仪，用于吸收材料建模研究"
+ },
+ "Fick 定律": {
+  "dir": "concepts",
+  "title": "Fick 定律",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Diffusion is the process by which matter is transported from one part of a system to another as a result of random molecular motion（扩散是分子随机运"
+ },
+ "FIFE Test（FIFE 摄入-回渗评价）": {
+  "dir": "concepts",
+  "title": "FIFE Test（FIFE 摄入-回渗评价）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "FIFE 把「穿在身上的吸收体验」拆成三个可测输出：吸收时间（intake time）、溢出量（run-off / 侧漏）、回渗量（flowback）。一次实验即产出三次吸收时间、每次的溢出量与一次回渗量，是成品放行与配方对比的主力方法（编号 STM-00034）。"
+ },
+ "Film-Free Backsheet（无膜背层）": {
+  "dir": "concepts",
+  "title": "Film-Free Backsheet（无膜背层）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. Two barrier mechanisms, not one 两种阻隔机理：the film's barrier is a solid wall；the nonwoven's barrier is a capillary。That is why the film hold"
+ },
+ "FIUP Test Method TTM-00643（女性摄入与回渗测试法）": {
+  "dir": "concepts",
+  "title": "FIUP Test Method TTM-00643（女性摄入与回渗测试法）",
+  "domain": "[卫材研发, 测试方法, 回渗]",
+  "status": "growing",
+  "defn": "1. 方法族谱：FIFE flowback（TTM-0001 / STM-2417，1999 起，真空箱施加 0.5 psi）→ Ad Claim / 膀胱箱法（TOMLIN，2014-10）→ FIUP 前身（4 点加液、0.25 psi 加液、0.7 psi 回流）→ STM"
+ },
+ "Flory- Rehner Theory": {
+  "dir": "concepts",
+  "title": "Flory- Rehner Theory",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）": {
+  "dir": "concepts",
+  "title": "Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 1st gen 传统木浆芯体：fluff pulp + SAP — thick, clumps, breaks after absorption."
+ },
+ "Folded Product Dimension Test（折叠后长度·宽度测量）": {
+  "dir": "concepts",
+  "title": "Folded Product Dimension Test（折叠后长度·宽度测量）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "产品出厂是折叠状态，消费者开包所见也是折叠态。折叠态尺寸 ≠ 展开尺寸：折痕位置、折叠松紧、皮筋回缩都会改变读数。因此这类尺寸的可比性完全来自取样与操作口径，而不是尺子本身。"
+ },
+ "Formation-Limited Barrier（阻隔的成形受限机理）": {
+  "dir": "concepts",
+  "title": "Formation-Limited Barrier（阻隔的成形受限机理）",
+  "domain": "[卫材研发, 阻隔性能, 统计力学]",
+  "status": "growing",
+  "defn": "1. The ideal-pore model over-predicts by 15× 理想孔模型高估 15 倍：Laplace on the median pore of a 1.5 µm web gives roughly 800 mbar；real webs delive"
+ },
+ "Freundlich 等温线": {
+  "dir": "concepts",
+  "title": "Freundlich 等温线",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Freundlich 等温线指扩散-化学反耦合框架中非线性等温线 S = R·Cⁿ 的 n < 1 情形（幂律型）；此时等效扩散系数 D 随含水率上升，表现为后期加速（源：Diffusion and Chemical Reaction (Crank Ch.14)）。"
+ },
+ "Front Belt Force Window（前腰带弹性力窗口）": {
+  "dir": "concepts",
+  "title": "Front Belt Force Window（前腰带弹性力窗口）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "直觉上\"腰带越紧越防漏\"。本案给出的反例是：前腰带力过高会破坏穿戴流程与穿着形态，其失效链为："
+ },
+ "FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）": {
+  "dir": "concepts",
+  "title": "FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）",
+  "domain": "[法规与产品安全, 原料标准]",
+  "status": "growing",
+  "defn": "1. 位置分类取代工艺分类：同一标准下，面层、底层、防漏隔边、导流层、包裹层、腰间及左右贴各有功能定位；复合/层压产品不在范围内（那些走合同或复合标准）。"
+ },
+ "Gasketing Effectiveness（防漏阻隔有效性）": {
+  "dir": "concepts",
+  "title": "Gasketing Effectiveness（防漏阻隔有效性）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "KC 尿液泄漏管理五支柱（按序）："
+ },
+ "GATS 重力吸收测试": {
+  "dir": "concepts",
+  "title": "GATS 重力吸收测试",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "引用来源未给出明确定义。库内仅能确认：GATS（重力吸收测试）是一种吸收/润湿测试方法，在 Washburn Equation 页的导航性关联方法清单中与 Klemm 法、Groove Capillary Suction、时间滞后法 Time Lag Method 并列出现；并被"
+ },
+ "GB 15979-2024（一次性使用卫生用品卫生要求）": {
+  "dir": "concepts",
+  "title": "GB 15979-2024（一次性使用卫生用品卫生要求）",
+  "domain": "[法规与产品安全, 中国标准体系]",
+  "status": "growing",
+  "defn": "1. 地位：强制性国标（GB，无 /T），ICS 11.080 / CCS C59，国家疾病预防控制局提出并归口；2024-06-25 发布、2025-07-01 实施，代替 GB 15979—2002（1996 年首次发布为 GB 15979—1995）。"
+ },
+ "GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）": {
+  "dir": "concepts",
+  "title": "GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）",
+  "domain": "[法规与产品安全, 限用物质]",
+  "status": "growing",
+  "defn": "1. 强制属性：GB 无 /T——不达标即不得在 CN 市场生产/销售；品类标准（GB/T 27728.2-2024 婴童湿巾、GB/T 28004.1-2021 婴儿纸尿裤）把「安全指标」整体委托给它。"
+ },
+ "GB-T 28004-2011（纸尿裤国标测试口径）": {
+  "dir": "concepts",
+  "title": "GB-T 28004-2011（纸尿裤国标测试口径）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "GB-T 28004-2011 《Disposable Diapers（纸尿裤 片、垫）》 is the historical (superseded) Chinese national product standard for disposable diapers — reta"
+ },
+ "GB-T 28004.1-2021（纸尿裤国标）": {
+  "dir": "concepts",
+  "title": "GB-T 28004.1-2021（纸尿裤国标）",
+  "domain": "[卫材研发, 测试方法与合规]",
+  "status": "growing",
+  "defn": "在本库中，GB/T 28004.1-2021 具有双重身份："
+ },
+ "GB-T 36420-2018（生活用纸化学品安全评价体系）": {
+  "dir": "concepts",
+  "title": "GB-T 36420-2018（生活用纸化学品安全评价体系）",
+  "domain": "[法规与产品安全, 限用物质]",
+  "status": "growing",
+  "defn": "1. 体系闭环七环节：供应商评价（MSDS 或 CAS 级成分清单）→ 企业内部安全评价小组逐项评估 → 合格清单 + 使用工艺文件 → 采购验收（COA 核验 + 抽检）→ 贮存/领用登记 → 使用记录 → 可追溯 + 年审。"
+ },
+ "GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）": {
+  "dir": "concepts",
+  "title": "GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）",
+  "domain": "[卫材研发, 高吸水树脂, 测试方法]",
+  "status": "stable",
+  "defn": "1. GBP-limited regime 渗透受限：单次大剂量 + 高载荷 + 短间隔（如 3.5 kg，80 ml × 3）时，液体必须在凝胶床中快速向下输运。此时谁的 GBP 高谁赢——KC 511 因 GBP 24 最高，凝胶床不阻塞，吸收速度最快（0 min 20.83"
+ },
+ "Gel Blocking（凝胶阻塞）": {
+  "dir": "concepts",
+  "title": "Gel Blocking（凝胶阻塞）",
+  "domain": "[卫材研发, 吸收芯体, 仿真模型]",
+  "status": "growing",
+  "defn": "1. 膨胀即堵塞：SAP 吸液后体积膨胀、占据孔隙，使局部渗透率急剧下降。仿真中有效渗透率从基准 1e-12 m² 降至 ~2e-13 m²（约 1/5），液体无法继续向更深层输运。"
+ },
+ "Geometric Optical Mask（几何光学掩膜）": {
+  "dir": "concepts",
+  "title": "Geometric Optical Mask（几何光学掩膜）",
+  "domain": "[卫材研发, 智能功能化, 涂层工艺]",
+  "status": "growing",
+  "defn": "1. The corrugation is a free mechanical shutter（波纹是免费的机械快门）. A 2.2× bonded elastic laminate arrives with a relaxed corrugation pitch λ₀ of 1"
+ },
+ "Glueless Bonding（无胶粘合工艺族）": {
+  "dir": "concepts",
+  "title": "Glueless Bonding（无胶粘合工艺族）",
+  "domain": "[卫材研发, 设备工程, 胶黏剂]",
+  "status": "growing",
+  "defn": "1. 超声波可焊性的硬前提：两种材料必须含同种或可相容的聚合物。源文给的唯一判据示例 —— ADL（含 PP 的双组分热风材料）+ PP 基非织造面层可焊；跨聚合物体系（如 PP 面层 × PET 基 ADL）不能直接焊。"
+ },
+ "Grafted Cellulose and Starch": {
+  "dir": "concepts",
+  "title": "Grafted Cellulose and Starch",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Graphic Sheet in Non-Stretch Zone（非弹性区图形片）": {
+  "dir": "concepts",
+  "title": "Graphic Sheet in Non-Stretch Zone（非弹性区图形片）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. 为什么要把图形放在非弹性区：外装若全为弹性区，收缩皱褶会使印刷图案失真、模糊；非弹性区因弹性件不产生收缩力、几乎无收缩皱褶，透光率高，因此适合放图形片。"
+ },
+ "Groove Capillary Suction": {
+  "dir": "concepts",
+  "title": "Groove Capillary Suction",
+  "domain": "[卫材研发, 导流机理]",
+  "status": "growing",
+  "defn": "1. Two capillary paths in parallel（两条并联毛细路径）：Δp = 2γcosθ / r。For a 3.3 dtex trilobal, r_groove ≈ 2–3 µm; for the inter-fibre pore network, r"
+ },
+ "GST": {
+  "dir": "concepts",
+  "title": "GST",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Hagen-Poiseuille Equation": {
+  "dir": "concepts",
+  "title": "Hagen-Poiseuille Equation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）—— 库内来源未给出 Hagen–Poiseuille 的独立定义句，仅以工作方程形式记录：在无三维孔网的多孔介质（被建模为均匀圆管束）中，毛细流动 q = (r_c² / 8μ)(ΔP / L)，标注为 Hagen–Poiseuille（源：C"
+ },
+ "HEC 羟乙基纤维素": {
+  "dir": "concepts",
+  "title": "HEC 羟乙基纤维素",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "HEC（hydroxyethyl cellulose）是纤维素醚：由纤维素经 ethylene oxide 或 chloroethanol 醚化制得；本身通常水溶，需经交联或接枝（polyacrylamide、PMMA、PDA 或 sodium polyacrylate）才成为超"
+ },
+ "Hercules Aqualon": {
+  "dir": "concepts",
+  "title": "Hercules Aqualon",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Hercules Aqualon（亦记作 CLD）is the commercial product name under which the vault's most mature and most commercialised cellulose-based superabs"
+ },
+ "High-Density Fluff Core（高密度绒毛浆芯体）": {
+  "dir": "concepts",
+  "title": "High-Density Fluff Core（高密度绒毛浆芯体）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 替代路径：源文明确指出\"在线 airlaid 芯（fluff + SAP）正在取代预制 airlaid 芯\"，且这是跨品类的通用趋势（femcare 起步，可外推至其它品类）。"
+ },
+ "Hook-and-Loop Strength Test（粘扣系统强度测试）": {
+  "dir": "concepts",
+  "title": "Hook-and-Loop Strength Test（粘扣系统强度测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 四个界面 / 四个问题："
+ },
+ "Hot Melt Adhesive": {
+  "dir": "concepts",
+  "title": "Hot Melt Adhesive",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：热熔胶 Hot Melt Adhesive"
+ },
+ "Hot-Melt Slot Coating（热熔狭缝涂布）": {
+  "dir": "concepts",
+  "title": "Hot-Melt Slot Coating（热熔狭缝涂布）",
+  "domain": "[卫材研发, 涂层工艺, 流变]",
+  "status": "growing",
+  "defn": "1. The governing slot equations（狭缝的支配方程）：wall shear rate = 6Q/(w·t²); pressure drop over the land ΔP = 12·η·Q·L/(w·t³). Pressure scales with"
+ },
+ "Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）": {
+  "dir": "concepts",
+  "title": "Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 分工是刻意不对称的：顶层多孔、柔软、蓬松（porous, soft and bulky），让颗粒钻进纤维之间而不是只躺在表面上；底层孔径小得多、机械强度高得多，负责拦住颗粒不掉落。"
+ },
+ "Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）": {
+  "dir": "concepts",
+  "title": "Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）",
+  "domain": "[卫材研发, 胶黏剂, 高吸水树脂]",
+  "status": "growing",
+  "defn": "1. 核心矛盾 Root conflict：SAP 吸液溶胀会①稀释胶层有效成分（削内聚与粘附）、②在界面产生巨大膨胀内应力（微裂纹与剥离）、③而高湿环境又会干扰胶自身固化进程。结果是湿态剪切强度随时间快速衰减。"
+ },
+ "Hygiene Absorption Model": {
+  "dir": "concepts",
+  "title": "Hygiene Absorption Model",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。引用页未给出「Hygiene Absorption Model」这一模型本身的定义句，但给出本库吸收性（absorbency）的规范口径——后续建模应统一采用："
+ },
+ "IFRA Standards 与 12 大产品类别体系": {
+  "dir": "concepts",
+  "title": "IFRA Standards 与 12 大产品类别体系",
+  "domain": "[法规与产品安全, 香精合规]",
+  "status": "growing",
+  "defn": "1. 分类逻辑：将产品按皮肤暴露（致敏）端点分组，并兼顾光毒性与系统毒性；Category 1（唇部产品，暴露最高）→ Category 12（不直接接触皮肤/最小转移，暴露最低）。"
+ },
+ "In-line 3D Nonwoven Formation（在线三维成形非织造）": {
+  "dir": "concepts",
+  "title": "In-line 3D Nonwoven Formation（在线三维成形非织造）",
+  "domain": "[卫材研发, 无纺布工艺, 设备工程]",
+  "status": "growing",
+  "defn": "四步工艺链（Fameccanica 版）："
+ },
+ "Informational Image on Pull-On Article（可穿脱制品信息图形）": {
+  "dir": "concepts",
+  "title": "Informational Image on Pull-On Article（可穿脱制品信息图形）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. 传达对象是识字前的儿童：沟通载体必须是符号 / 图形 / 标记，不能依赖文字（pre-literate child）。这是本概念与常规\"包装说明\"的根本差别。"
+ },
+ "Intake System（摄入系统）": {
+  "dir": "concepts",
+  "title": "Intake System（摄入系统）",
+  "domain": "[卫材研发, 摄入层, 面层, 导流层]",
+  "status": "growing",
+  "defn": "1. 摄入与保持是两件事：摄入系统负责快速接纳与向下输运，保持由芯体（SAP / 绒毛浆）负责。摄入层本身不\"装\"液体——它装得越多，回渗与皮肤湿润风险越高（见 Residual Fluid & Pore Stranding（残液与孔隙滞留））。"
+ },
+ "IPA（间苯二甲酸）": {
+  "dir": "concepts",
+  "title": "IPA（间苯二甲酸）",
+  "domain": "[采购, 成本分析]",
+  "status": "growing",
+  "defn": "1. 化学作用：IPA 是对苯二甲酸（PTA）的间位异构体。间位羧基使链段无法紧密堆砌，结晶度与熔点同步下降——这就是「加 IPA 降熔点」的物理本质。"
+ },
+ "IPC BCC OI Portfolio（开放创新项目组合）": {
+  "dir": "concepts",
+  "title": "IPC BCC OI Portfolio（开放创新项目组合）",
+  "domain": "[采购, 项目管理]",
+  "status": "growing",
+  "defn": "1. Five technology platforms 五大技术平台：① Resins & Fibre Substrates ｜ ② Nonwoven Functionality ｜ ③ Fibre Morphology & Structural Parts ｜ ④ Chemi"
+ },
+ "k-ε 湍流模型": {
+  "dir": "concepts",
+  "title": "k-ε 湍流模型",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "引用来源未给出明确定义。库内可确认：k-ε 湍流模型被列为 Absorbent Technology 计算建模章节（Computational Modeling in Absorbent Technology）\"方法\"清单成员之一，与 CFD 计算流体力学、Navier-Stok"
+ },
+ "Kirigami Apertured Nonwoven（切割拉伸开孔工艺）": {
+  "dir": "concepts",
+  "title": "Kirigami Apertured Nonwoven（切割拉伸开孔工艺）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "1. 用作 surge（导流层） 时，形变有利于创造 void volume（空隙体积） → 有利。"
+ },
+ "Klemm 法": {
+  "dir": "concepts",
+  "title": "Klemm 法",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Klemm 法是一种毛细前沿（capillary front）吸液测试法：测量毛细上升高度随时间的演化，以 lg h vs t 关系求取 Washburn k₀（源：Absorbent Product Testing）。"
+ },
+ "Lagrangian Particle Tracking": {
+  "dir": "concepts",
+  "title": "Lagrangian Particle Tracking",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "原 cited-by 来源 Computational Modeling in Absorbent Technology 仅在其方法清单中把 「Lagrangian Particle Tracking」 与 CFD 计算流体力学、Navier-Stokes Equation、有限"
+ },
+ "Laplace Pressure": {
+  "dir": "concepts",
+  "title": "Laplace Pressure",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。The vault does not state a standalone definition sentence; it consistently uses the Young–Laplace relation as the operativ"
+ },
+ "Laplace 变换": {
+  "dir": "concepts",
+  "title": "Laplace 变换",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）：库内未给出 Laplace 变换的数学单句定义。Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2) 把它列为恒扩散系数（恒 D）条件下解析解三类工具箱中的第三类"
+ },
+ "Laser-Assisted Die Tip（激光辅助模头）": {
+  "dir": "concepts",
+  "title": "Laser-Assisted Die Tip（激光辅助模头）",
+  "domain": "[卫材研发, 熔喷设备, 聚合物加工]",
+  "status": "growing",
+  "defn": "1. It is a heat-delivery method, not new physics 是供热方式，不是新物理：the enthalpy to lift 192 kg/h of melt by 55 K is 13.3 kW whatever the heater — "
+ },
+ "LbL 自组装 Layer-by-Layer": {
+  "dir": "concepts",
+  "title": "LbL 自组装 Layer-by-Layer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）：库内未给出 LbL 的单句定义。Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010) 仅把 LbL 列为四类刺激响应聚合物架构"
+ },
+ "Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）": {
+  "dir": "concepts",
+  "title": "Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "本库现有的两条湿显路线——Wetness Indicator Glue（热熔胶，pH/树脂溶解型，不可逆）与 Water-Activated Ink（水变／湿变油墨）——都依赖化学变色体系。光散射路线提供第三条路径："
+ },
+ "Liner-Surge Embossing（面层-导流层压花）": {
+  "dir": "concepts",
+  "title": "Liner-Surge Embossing（面层-导流层压花）",
+  "domain": "[卫材研发, 摄入系统, 工艺工程]",
+  "status": "growing",
+  "defn": "1. 空体积是唯一主控变量 Working variable = void volume：bond 面积越大、bond 点间距越小，压合吃掉的有效空隙越多，结果是摄入变慢、回渗升高。"
+ },
+ "Liner-Surge Interstitial Space（面层-导流层界面间隙）": {
+  "dir": "concepts",
+  "title": "Liner-Surge Interstitial Space（面层-导流层界面间隙）",
+  "domain": "[卫材研发, 摄入系统, 回渗]",
+  "status": "growing",
+  "defn": "1. 代理关系：剥离强度与界面间隙量负相关——高剥离强度 = 少界面间隙。这使\"看不见的层间空隙\"变成可测量的工程指标。"
+ },
+ "Liquid Diffusion Test（液体扩散测试）": {
+  "dir": "concepts",
+  "title": "Liquid Diffusion Test（液体扩散测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 扩散长度反映的是\"液体在面层/ADL/芯体表层的横向输运能力\"，而非容量：液体如果只在注液点就地吸收，扩散长度就短、局部饱和早、回渗与滑渗风险高。"
+ },
+ "Liquid Modes（TL-1607 液体四态）": {
+  "dir": "concepts",
+  "title": "Liquid Modes（TL-1607 液体四态）",
+  "domain": "[卫材研发, 测试方法]",
+  "status": "growing",
+  "defn": "1. 四档对应四种被束缚的强度：Mode 4 是可以自由流动的液体（仍在表面或未进入结构）；Mode 3 是被结构松散抓住、仍可在压力下移动的液体；Mode 2 是被毛细力紧密持留的液体；Mode 1 是被 SAP 化学锁定、实际上不可被压力挤出的液体。压力能把 Mode 3 挤"
+ },
+ "LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）": {
+  "dir": "concepts",
+  "title": "LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）",
+  "domain": "[卫材研发, 测试方法]",
+  "status": "growing",
+  "defn": "1. 液体位置决定机理：低压下能回来的液体，是还留在摄入系统（面层/导流层/绒毛浆）里的残液——它们从未真正进入芯体的持留结构；高压下挤出来的液体，是已经进入芯体但只被松散持留（Liquid Modes（TL-1607 液体四态） 的 Mode 3）的那部分。位置不同 → 压力响"
+ },
+ "Mannequin BM Test（BM 假人测试）": {
+  "dir": "concepts",
+  "title": "Mannequin BM Test（BM 假人测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 为什么 BM 要单独一套方法：便液与尿液的流变、颗粒物、黏度不同，SAP 对便液基本不吸收（吸收主要靠绒毛浆/无纺布的毛细与过滤）；因此 BM 测试考察的是\"封住 / 摊开 / 不让返出\"的能力，而不是容量。"
+ },
+ "Marangoni Effect": {
+  "dir": "concepts",
+  "title": "Marangoni Effect",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "原 cited-by 来源 Surface Tension and Surface Energy 仅在其概念清单中把 「Marangoni Effect」 与 Contact Angle、Young's Equation、Wenzel Equation、Cassie-Baxter"
+ },
+ "Marketing Claim Translation Paradigms（市场宣称六大转化范式）": {
+  "dir": "concepts",
+  "title": "Marketing Claim Translation Paradigms（市场宣称六大转化范式）",
+  "domain": "[采购, 市场与产品定义]",
+  "status": "growing",
+  "defn": "1. 范式 1–2 解决\"看不见\"：芯体结构与吸收性能不可直接观察，隐喻提供画面、极值提供判据。"
+ },
+ "Material Open Innovation Function（材料开放创新职能）": {
+  "dir": "concepts",
+  "title": "Material Open Innovation Function（材料开放创新职能）",
+  "domain": "[卫材研发, 技术管理, 开放创新]",
+  "status": "growing",
+  "defn": "1. 需求输入：来自 FEI 概念需求 → 材料层需给出快速可行性评估（rapid material feasibility assessments）。"
+ },
+ "Material Safety Control（材料安全双轨管控）": {
+  "dir": "concepts",
+  "title": "Material Safety Control（材料安全双轨管控）",
+  "domain": "[卫材研发, 合规]",
+  "status": "growing",
+  "defn": "1. Two-track control 双轨管控"
+ },
+ "MCCT Multi-Component Capillary Tension（多组分毛细张力测试）": {
+  "dir": "concepts",
+  "title": "MCCT Multi-Component Capillary Tension（多组分毛细张力测试）",
+  "domain": "[卫材研发, 测试方法]",
+  "status": "growing",
+  "defn": "1. 测的是「毛细压—饱和度」关系，不是吸水量：样品在每个高度台阶上达到平衡（equilibrium）后称重，减重即含水量；压差由液面相对样品的高度给出。由此得到吸收（absorption）与解吸（desorption）两条分支，二者不重合即滞后（hysteresis）——滞后本"
+ },
+ "MD Liquid Distribution": {
+  "dir": "concepts",
+  "title": "MD Liquid Distribution",
+  "domain": "[卫材研发, 面层结构]",
+  "status": "growing",
+  "defn": "1. Carded webs are anisotropic by construction（梳理网的各向异性来自工艺）：fibres are laid with a partial MD orientation, so the pore network is not isotr"
+ },
+ "Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）": {
+  "dir": "concepts",
+  "title": "Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）",
+  "domain": "[卫材研发, 力致变色, 人因工程]",
+  "status": "growing",
+  "defn": "1. 问题的由来（The Hurdle）：工业 mechanophore 的检测对象是高性能聚合物的灾难性失效，因此被工程化为需要极大力才激活；而婴儿护理场景（nursery environment）要求材料在低张力的人体工效区间触发——这是一条从\"工业态\"到\" nursery "
+ },
+ "Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）": {
+  "dir": "concepts",
+  "title": "Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）",
+  "domain": "[卫材研发, 力致变色, 材料表征]",
+  "status": "growing",
+  "defn": "1. Zone 1（<25% 应变，黏弹区 Viscoelastic Regime）：材料呈弹性响应。特征为高稳定性、可靠的方波状（square-like）输出信号、一致的颜色松弛（color relaxation）——即受力变色、卸载复色可重复。"
+ },
+ "Mechanochromic变色纤维": {
+  "dir": "concepts",
+  "title": "Mechanochromic变色纤维",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "1. 技术路线：光子晶体结构变色、液晶弹性体（LCE）取向变色、染料-聚合物体系受力构象变化变色。已报道的突破方向为可机洗的液晶弹性体变色纤维（Nature Materials 系报道），使布料自带应变可视化能力。"
+ },
+ "Mechanophore Mechanochromism（机械力致变色分子）": {
+  "dir": "concepts",
+  "title": "Mechanophore Mechanochromism（机械力致变色分子）",
+  "domain": "[卫材研发, 智能功能化, 高分子化学]",
+  "status": "growing",
+  "defn": "1. Spiropyran activation（螺吡喃活化）：6π electrocyclic ring-opening under tensile force — the spiro C–O bond scissions at ≈ 240 pN per bond; spiro"
+ },
+ "Median Absorption Pressure Gradient（中值吸收压梯度）": {
+  "dir": "concepts",
+  "title": "Median Absorption Pressure Gradient（中值吸收压梯度）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. MAP 是什么：在吸收/解吸曲线上取中值（介于 0% 与 100% 液饱和度之间）对应的吸收压，单位用液柱高度 cm表示。它衡量的是\"这一层在多大的吸力下才肯把液体交出去\"——MAP 越高，吸力越强、越不肯放液。"
+ },
+ "Meltblown Nonwoven（熔喷非织造布）": {
+  "dir": "concepts",
+  "title": "Meltblown Nonwoven（熔喷非织造布）",
+  "domain": "[卫材研发, 无纺布工艺]",
+  "status": "growing",
+  "defn": "1. Drag-limited attenuation 阻力限制的牵伸：filament reaches velocity-matching with the air jet, and after that mass conservation fixes the diameter"
+ },
+ "Microencapsulation": {
+  "dir": "concepts",
+  "title": "Microencapsulation",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "Four consequences follow directly:"
+ },
+ "Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）": {
+  "dir": "concepts",
+  "title": "Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）",
+  "domain": "[法规与产品安全, 限用物质]",
+  "status": "growing",
+  "defn": "1. 为什么只管「可迁移」：荧光增白剂本身用于提高白度；风险在于迁移到人体接触面或被摄入/接触黏膜。因此标准管控的是「可迁移部分」而非「总含量」——这决定了检测方法（迁移/萃取法）与判定口径。"
+ },
+ "Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）": {
+  "dir": "concepts",
+  "title": "Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 矿物粉功能 Spreadsheet —— 先把火山石、电气石、玉石粉、氧化锌、石墨烯等按\"对应宣称功能\"逐一梳理成清单，避免逐项目重复调研。"
+ },
+ "Moisture-Responsive Fibre（湿敏变形纤维）": {
+  "dir": "concepts",
+  "title": "Moisture-Responsive Fibre（湿敏变形纤维）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 变形响应湿 —— 纤维遇湿变形（源内列为公司\"探索性领域：湿度响应变形材料\"），目标是在湿态下减少与皮肤接触、保持干爽。"
+ },
+ "Motion Mannequin Test（动态假人测试）": {
+  "dir": "concepts",
+  "title": "Motion Mannequin Test（动态假人测试）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "与 Static Mannequin Test（静态假人测试）（TTM-00459-7 强制失效法）和 Mannequin BM Test（BM 假人测试）（TTM-00467 BM 吸收）并列，动态假人是本库第三条假人路线，也是唯一带运动的成品评价方法。"
+ },
+ "Multilayer SAP Core（多层SAP芯体）": {
+  "dir": "concepts",
+  "title": "Multilayer SAP Core（多层SAP芯体）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "同一架构可切换三种构型（按产品需求）："
+ },
+ "Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）": {
+  "dir": "concepts",
+  "title": "Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）",
+  "domain": "[卫材研发, 材料科学, 开放创新]",
+  "status": "growing",
+  "defn": "1. 方向一 SAP 增强（第一优先级）：CNF/CNC 的高比表面积与表面羟基（–OH）充当 SAP（高吸水树脂）的物理交联点或共聚组分，提升凝胶强度 gel strength、降低回渗 rewet、改善颗粒间结合力。三条技术路径——CNF 与丙烯酸/丙烯酰胺共聚接枝（化学键合"
+ },
+ "Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）": {
+  "dir": "concepts",
+  "title": "Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 尺寸筛选原理（原文口径）：孔径远小于液态水滴（约 100 µm）→ 阻挡雨水 / 液体渗透（waterproof）；孔径远大于水蒸气分子（约 0.0004 µm）→ 汗气快速逸出（breathable）。"
+ },
+ "Navier-Stokes Equation": {
+  "dir": "concepts",
+  "title": "Navier-Stokes Equation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）—— 库内来源未给出 Navier–Stokes 的独立定义句；它出现在气流成网（airlaid web-forming / pneumophoresis）案例的支配方程组中，作为连续相的动量方程，与质量守恒 ∂ρ/∂t + ∇·(ρU) = 0"
+ },
+ "Nonwoven Deformation Force Test（无纺布形变力测试）": {
+  "dir": "concepts",
+  "title": "Nonwoven Deformation Force Test（无纺布形变力测试）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "产线上无纺布在放卷、牵引、复合、分切过程中被持续施加张力。张力过大 → 布被拉长、幅宽收缩、克重与孔隙结构变形；张力过小 → 打褶跑偏。2% 形变力正是这条\"张力—形变\"曲线在工作点附近的斜率，因此它是工艺适配性指标而非安全强度指标。"
+ },
+ "Nonwoven Lamination": {
+  "dir": "concepts",
+  "title": "Nonwoven Lamination",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "形式化定义：定义待补（引用来源未给出明确定义）。库内给出的是功能口径：层压（lamination）通过胶黏 / 复合工艺为组件设计阻隔与透气性能 —— \"lamination engineers barrier/permeability for backsheets\"（层压为背层"
+ },
+ "Nonwoven Process Classification（非织造布工艺分类）": {
+  "dir": "concepts",
+  "title": "Nonwoven Process Classification（非织造布工艺分类）",
+  "domain": "[卫材研发, 非织造布, 材料工艺]",
+  "status": "growing",
+  "defn": "非织造布（无纺布）：不经纺纱织造，由纤维网经粘合/缠结/加固形成的纤维结构材料。分类维度为成网方式（聚合物挤压成网 vs 短纤维梳理成网）与加固方式（热轧、水力缠结、机械穿刺、热风粘合、化学粘合）。"
+ },
+ "Nonwoven 非织造布": {
+  "dir": "concepts",
+  "title": "Nonwoven 非织造布",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A nonwoven resists a single clean definition — the field is convergent and boundary-crossing, because the industry drew on textile, paper an"
+ },
+ "Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）": {
+  "dir": "concepts",
+  "title": "Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）",
+  "domain": "[卫材研发, 仿真与建模方法]",
+  "status": "growing",
+  "defn": "1. 数值扩散的来源：网格越粗（dx 越大），离散格式的截断误差越大，表现为额外的、虚假的扩散。在吸收模型中，它把液体错误地推向两侧，看起来像\"扩散得很好、SAP 用得很充分\"。"
+ },
+ "Odor Control Technology Landscape（异味控制技术图谱）": {
+  "dir": "concepts",
+  "title": "Odor Control Technology Landscape（异味控制技术图谱）",
+  "domain": "[卫材研发, 异味控制, 消臭]",
+  "status": "growing",
+  "defn": "异味控制（odor control）/ 消臭（deodorization）：在吸收制品内通过吸附、中和、抑制发酵与缓释等手段，降低使用中挥发性臭味物质（以氨气为主）的感知浓度。在成人失禁用品领域，消臭性能已成为产品升级的重要方向。"
+ },
+ "Odour Management Routes（气味管理技术路线）": {
+  "dir": "concepts",
+  "title": "Odour Management Routes（气味管理技术路线）",
+  "domain": "[卫材研发, 气味控制]",
+  "status": "growing",
+  "defn": "1. 为什么有味道：某些化学成分挥发性强，挥发后到达嗅觉即产生气味感受 → 干预点要么是「换一个更好闻的挥发物」，要么是「降低该物质的挥发/存在」。"
+ },
+ "Odour-Control Granular Interference（除臭颗粒干扰）": {
+  "dir": "concepts",
+  "title": "Odour-Control Granular Interference（除臭颗粒干扰）",
+  "domain": "[卫材研发, 芯体设计, 化学兼容]",
+  "status": "growing",
+  "defn": "1. The problem the granular created（颗粒制造出的问题）：the odour granular (zeolite / silica / cyclodextrin in the core) scavenges NH₃, amines, H₂S an"
+ },
+ "Olefin Block Copolymer (OBC) 烯烃嵌段共聚物": {
+  "dir": "concepts",
+  "title": "Olefin Block Copolymer (OBC) 烯烃嵌段共聚物",
+  "domain": "[卫材研发, 胶黏剂]",
+  "status": "growing",
+  "defn": "1. 与 APAO / 茂金属无规共聚物的本质差别是\"嵌段 vs 无规\"：OBC 是特意造出结晶区的嵌段结构；APAO 的低结晶度是 Ziegler-Natta 无规聚合的副产物。因此两者不可互换。"
+ },
+ "Open Diaper Process（开放式纸尿裤工艺）": {
+  "dir": "concepts",
+  "title": "Open Diaper Process（开放式纸尿裤工艺）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。The vault treats OD（Open Diaper，开放式纸尿裤） as a product form rather than a defined process: it is the form measured and teste"
+ },
+ "PAA 聚丙烯酸": {
+  "dir": "concepts",
+  "title": "PAA 聚丙烯酸",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "库内引用来源未给出词典式定义，但给出可直接引用的功能式口径："
+ },
+ "Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）": {
+  "dir": "concepts",
+  "title": "Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 分区动因：液体在芯体内的落点与扩散不均匀（单点摄入 + MD 方向扩散），均匀垫在落点区易饱和、在远端浪费容量 → 按摄入/扩散行为分区给料（克重、SAM 浓度、密度梯度）。"
+ },
+ "Pain-Point Backward Derivation（痛点倒推法）": {
+  "dir": "concepts",
+  "title": "Pain-Point Backward Derivation（痛点倒推法）",
+  "domain": "[卫材研发, 方法论, 立项与拜访]",
+  "status": "growing",
+  "defn": "1. Two classification axes, and only one of them admits intermediates. The forward axis (old) asked \"what performance does the material have"
+ },
+ "Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）": {
+  "dir": "concepts",
+  "title": "Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）",
+  "domain": "[卫材研发, 测试方法, 应变指示]",
+  "status": "growing",
+  "defn": "1. Mom pulls on, then lets go（妈妈拉上后松手）：the donning motion loads the panel; the wear state sits on the unloading branch. Any threshold publis"
+ },
+ "Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）": {
+  "dir": "concepts",
+  "title": "Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. 形态起点不同：常规开放式纸尿裤是\"装上之后才像裤子\"，裤型产品从一开始就是裤子——由制造商把前后部的侧边缘接合（见 EP1581159B1 Method for Producing Diaper Pants（弹性片材））。"
+ },
+ "Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）": {
+  "dir": "concepts",
+  "title": "Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）",
+  "domain": "[卫材研发, 芯体工艺, 设备工程]",
+  "status": "growing",
+  "defn": "鼓距 P = πD / n（D 鼓径、n 每转芯体数）。鼓径固定 + ppm 固定时，改变鼓距的唯一方式是 n。"
+ },
+ "PCM-Free Thermoregulation": {
+  "dir": "concepts",
+  "title": "PCM-Free Thermoregulation",
+  "domain": "[卫材研发, 材料科学, 舒适性]",
+  "status": "growing",
+  "defn": "Thermoregulation is four separable physical functions, not one trick:（调温是四个可分离的物理功能，而非一个技巧：）"
+ },
+ "PE-PET Bond Efficiency Model": {
+  "dir": "concepts",
+  "title": "PE-PET Bond Efficiency Model",
+  "domain": "[卫材研发, 无纺布工艺]",
+  "status": "growing",
+  "defn": "B(w) = w² + 2w(1 − w) · k"
+ },
+ "Peel Test STM-00438（剥离强度测试）": {
+  "dir": "concepts",
+  "title": "Peel Test STM-00438（剥离强度测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 测的是界面，读的是力：剥离过程记录一条力—位移曲线，Average Load 反映整段剥离的平均抗力，Peak Load 反映最强的局部锚点。两者常常不同步（本批数据中码 1 的平均 43.2 gf 却出现 113.7 gf 的峰值），说明结合是不均匀的。"
+ },
+ "Pentagram PET (Star Cross-Section Fibre)": {
+  "dir": "concepts",
+  "title": "Pentagram PET (Star Cross-Section Fibre)",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "The star section maximises wettable surface and capillary edge count per gram. Mechanistically three things are claimed for it in a 25 gsm A"
+ },
+ "PET（聚酯）": {
+  "dir": "concepts",
+  "title": "PET（聚酯）",
+  "domain": "[卫材研发, 聚合物]",
+  "status": "growing",
+  "defn": "1. 投料比与成本骨架：PET 切片 ≈ 0.86 t PTA + 0.34 t MEG（每吨切片），切片原料成本约 6,445.5 元/吨；PTA 在切片内占比约 77%，是价格主导项。"
+ },
+ "PGA（聚乙醇酸）": {
+  "dir": "concepts",
+  "title": "PGA（聚乙醇酸）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 降解快的结构原因：PGA 主链为–O–CH₂–CO–重复单元，无侧基、链段规整、结晶度高，但酯键密度远高于 PET，且亲水；因此水解/酶解速率快，可吸收性与可堆肥性同源。"
+ },
+ "pH 响应材料": {
+  "dir": "concepts",
+  "title": "pH 响应材料",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。The vault's clearest operational statement is the microgel mechanism: \"A pH- and temperature-sensitive microgel can be pre"
+ },
+ "Phenoxyethanol（苯氧乙醇）": {
+  "dir": "concepts",
+  "title": "Phenoxyethanol（苯氧乙醇）",
+  "domain": "[法规与产品安全, 化妆品合规]",
+  "status": "growing",
+  "defn": "1. 功能定位：作为防腐剂抑制化妆品中微生物生长；因溶剂特性常与其他防腐剂复配。"
+ },
+ "PLA 玉米纤维": {
+  "dir": "concepts",
+  "title": "PLA 玉米纤维",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。在 Fibers and Fibrous Materials（Absorbent Technology 第 6 章）中，PLA corn fibre 被列于\"特种吸收纤维（specialised absorbent fibres）\"材料目录，与"
+ },
+ "PNIPAAM": {
+  "dir": "concepts",
+  "title": "PNIPAAM",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）；the closest vault definition is: \"Poly(N-isopropyl-acrylamide) (PNIPAAm) is the most widely studied temperature-responsive"
+ },
+ "Polyolefin Absorbent Materials": {
+  "dir": "concepts",
+  "title": "Polyolefin Absorbent Materials",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）": {
+  "dir": "concepts",
+  "title": "Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）",
+  "domain": "[卫材研发, 胶黏剂]",
+  "status": "growing",
+  "defn": "1. 主体聚合物决定天花板、助剂决定窗口：EP2456819B1 的 OBC 提供高温抗蠕变与弹性回复；US11878492B2 则以低分子量茂金属聚合物 + 高分子量聚烯烃 + 非晶聚烯烃 + 增粘树脂四段结构拼出\"高强度 + 可喷涂\"的平衡。"
+ },
+ "Pore Size Distribution Monodispersity（孔径分布单分散性）": {
+  "dir": "concepts",
+  "title": "Pore Size Distribution Monodispersity（孔径分布单分散性）",
+  "domain": "[卫材研发, 摄入系统, 回渗]",
+  "status": "growing",
+  "defn": "1. mode 相同 ≠ 性能相同：Depend 与 Always Discreet 的面层/导流层最可几孔径基本相同（面层相当；surge 320 vs 315 μm），但 AD 的分布更单分散。因此\"用孔径解释回渗\"的假设被原文明确否证。"
+ },
+ "Powdered Activated Carbon（粉末活性炭）": {
+  "dir": "concepts",
+  "title": "Powdered Activated Carbon（粉末活性炭）",
+  "domain": "[采购, 气味管理材料]",
+  "status": "growing",
+  "defn": "1. 活化造孔：木基原料经磷酸法化学活化（phosphoric acid activation）形成发达中孔-微孔网络；对照水蒸气物理活化，磷酸法孔径偏中孔、利于吸附大分子。"
+ },
+ "PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）": {
+  "dir": "concepts",
+  "title": "PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 三元共聚而非改性共混：单体为 CO₂ 35~40% + PO 40~55% + 苯酐 10~20%（三组分在同一聚合过程内投入），苯酐被明确定位为「PPC-P 中的 P 单体、用于稳定 PPC」。因此 PPC-P 不是「PPC 加添加剂」，而是共聚物本身。"
+ },
+ "Pressure Sensory Test（压力触感测试）": {
+  "dir": "concepts",
+  "title": "Pressure Sensory Test（压力触感测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "本方法不直接测\"硬度\"，而是测局部压强：把半充气的气囊传感器贴在标记点位（人体模型上的产品、或绕在手臂上的橡筋环），传感器受压后主机通道输出一个电压值，稳定后读取并 ×10 得到最终读数（单位 V，作为相对压强指标）。其物理本质是气囊形变 → 电压的标定映射，因此读数一致性高度依"
+ },
+ "Probiotic & Skin-Care Topsheet（益生菌护肤面层）": {
+  "dir": "concepts",
+  "title": "Probiotic & Skin-Care Topsheet（益生菌护肤面层）",
+  "domain": "[卫材研发, 面层]",
+  "status": "growing",
+  "defn": "1. Probiotic microcapsule（益生菌微胶囊）：slow-release active probiotics regulate skin flora and help prevent diaper rash (红屁屁)."
+ },
+ "Product Dimension Measurement（成品尺寸测量）": {
+  "dir": "concepts",
+  "title": "Product Dimension Measurement（成品尺寸测量）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "Product Safety Crisis Management（产品安全危机管理）": {
+  "dir": "concepts",
+  "title": "Product Safety Crisis Management（产品安全危机管理）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "1. 披露 vs 不披露：危机期间，安全团队拒绝向公众提供检测信息，与会者对此明确失望 → 披露策略在内部存在分歧。"
+ },
+ "Product Waist Break Test（产品腰围拉断测试）": {
+  "dir": "concepts",
+  "title": "Product Waist Break Test（产品腰围拉断测试）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "本方法是为应对消费者投诉而新创建的方法，不是 KC 全球 STM 体系内的既有编号方法。它来自 BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）（Tulip Cai，2026-03）；Nanjing South Plant BCC"
+ },
+ "Protein Error of pH Dye（pH 染料的蛋白误差）": {
+  "dir": "concepts",
+  "title": "Protein Error of pH Dye（pH 染料的蛋白误差）",
+  "domain": "[卫材研发, 比色传感, 化学]",
+  "status": "growing",
+  "defn": "1. Buffer hard, then let protein do the work（先强缓冲，再让蛋白起作用）：the lane is buffered to pH 3.0 with a citrate / stearyl-phosphate acid system. Th"
+ },
+ "PSA": {
+  "dir": "concepts",
+  "title": "PSA",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "PTT（聚对苯二甲酸丙二醇酯）": {
+  "dir": "concepts",
+  "title": "PTT（聚对苯二甲酸丙二醇酯）",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. 单体路径决定成本：PDO 可由石油基或生物基（非粮粗甘油转化）路线获得；生物基/非粮路线是 PTT 成本竞争力的主要来源（见 恒碳（Hengtan））。"
+ },
+ "PVAc 乳液": {
+  "dir": "concepts",
+  "title": "PVAc 乳液",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "PVAc 乳液即聚醋酸乙烯酯（poly(vinyl acetate)）乳液，是卫材胶黏剂体系中的水基（water-borne）胶种。按库内时间轴，它是芯体面材贴合、湿巾无纺布贴合最常用、最经济的水基体系，成本优势与性能经 70+ 年验证（源：Adhesive Handbook P"
+ },
+ "PVA纤维（湿强骨架）": {
+  "dir": "concepts",
+  "title": "PVA纤维（湿强骨架）",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. \"湿强\"来自不水溶：PVA 纤维经缩醛化/热处理后不溶于水，在湿态下仍保留相当强度 → 直接抬升纤网的湿态抗张与抗塌陷能力。"
+ },
+ "REL Splice Tensile Test（REL 拼接拉断力测试）": {
+  "dir": "concepts",
+  "title": "REL Splice Tensile Test（REL 拼接拉断力测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "REL 常以卷料上机，换卷时需手工拼接。本方法把两片 REL 用双面胶拼接成\"毛面—光面\"接合，保压后上拉力仪拉断，记录断裂力。其原理是用标准化拼接条件消除人为差异，使拉断力可横向比较——反映的是拼接工艺而非材料本身强度。"
+ },
+ "REL增强层": {
+  "dir": "concepts",
+  "title": "REL增强层",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 核心设计思路——「快输运 + 强支撑」解耦：REL 双层设计把液体输运与结构支撑两件事分层承担，与「分区化取代均匀化」的路线级方向一致（V7 已要求分区密度）。"
+ },
+ "Repitch（鼓距与产品节距解耦）": {
+  "dir": "concepts",
+  "title": "Repitch（鼓距与产品节距解耦）",
+  "domain": "[卫材研发, 设备工程, 芯体工艺]",
+  "status": "growing",
+  "defn": ""
+ },
+ "Residual Fluid & Pore Stranding（残液与孔隙滞留）": {
+  "dir": "concepts",
+  "title": "Residual Fluid & Pore Stranding（残液与孔隙滞留）",
+  "domain": "[卫材研发, 吸收机理]",
+  "status": "growing",
+  "defn": "1. 残液的两个出口条件由 Young-LaPlace 方程给出：ΔP = −2γcosθ / R。毛细压由润湿性（θ）与孔径（R）共同决定。毛细压越高 → 孔越想把液体留住；解吸能越高 → 纤维越难\"晾干\"。因此降低残液只有两条路：降低润湿性（提高 θ）或加大孔径 R（以及让孔"
+ },
+ "Resilient Surge（PET 回弹导流层）": {
+  "dir": "concepts",
+  "title": "Resilient Surge（PET 回弹导流层）",
+  "domain": "[卫材研发, 导流层]",
+  "status": "growing",
+  "defn": "1. 回弹为什么能降回渗：回渗的本质是受压后结构塌陷、把已吸收的液体挤回面层。PET 纤维的弯曲回弹率显著高于聚烯烃，受压卸载后能重建导流层下的空隙（void），断掉\"液体被挤回贴肤侧\"的通路。这是 MOJAVE 相对 HPP / PICASSO 回渗从 2.96 g 降到 0."
+ },
+ "Retention Capacity Test（滞留能力测试）": {
+  "dir": "concepts",
+  "title": "Retention Capacity Test（滞留能力测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "样品先自由漂浮吸液（无纺布面朝下、不触底），再在乳胶膜覆盖下承受真空外压，迫使未\"锁住\"的自由液被抽出；剩余液量即为滞留量。它测的是结构锁液能力而非表面回渗，因此与 Rewet（回渗）互补：Rewet 看表层返湿，Retention 看整体保液。"
+ },
+ "Rewet Measurement Variability（回渗测试变异性）": {
+  "dir": "concepts",
+  "title": "Rewet Measurement Variability（回渗测试变异性）",
+  "domain": "[卫材研发, 回渗, 测试方法]",
+  "status": "growing",
+  "defn": "1. 两类变异源并存：① 批次间——同一机台生产的两个批次就有差异；② 测试请求间——同一 RSR（retained sample）产品在不同 LabVantage 请求中复测也会差异。二者叠加后，单次读数的可比性很弱。"
+ },
+ "Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）": {
+  "dir": "concepts",
+  "title": "Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）",
+  "domain": "[卫材研发, 回渗, 摄入系统]",
+  "status": "growing",
+  "defn": "1. Desorption 解吸通路：液体被困在摄入系统（面层 liner / 导流层 surge 及其界面）的孔隙与\"小口袋\"中，受压时释放。治理抓手是让摄入材料不拉住、不滞留液体并促使排空——降低亲水性、打开粘合花型（减少滞留小口袋）、改用非纤维/开孔结构、提高毛细连通性与单"
+ },
+ "Rewet Test（回渗测试）": {
+  "dir": "concepts",
+  "title": "Rewet Test（回渗测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 回渗的物理来源：液体被 SAP 吸收后仍有一部分以毛细水 / 颗粒间隙水形式停留在面层与芯体表层；受皮肤压力时，这部分水被挤出到滤纸上。因此回渗量对载荷与等待时间极度敏感。"
+ },
+ "Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）": {
+  "dir": "concepts",
+  "title": "Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "→ 材质选择在开孔/模切之外同样影响耗材与停机，是同一类\"材质—寿命—成本\"权衡。"
+ },
+ "ROTC（Real Online ThinTech Core）": {
+  "dir": "concepts",
+  "title": "ROTC（Real Online ThinTech Core）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. Two configurations, one trade-off 两种构型、一个权衡：ROTC Slim / Fluffless = an all- or nearly all-fluffless core designed for maximum thinness an"
+ },
+ "Run-off & Leakage Test（滑渗与渗漏测试）": {
+  "dir": "concepts",
+  "title": "Run-off & Leakage Test（滑渗与渗漏测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 三条泄漏路径："
+ },
+ "SAM Distribution Test（SAM 分布膨胀测试）": {
+  "dir": "concepts",
+  "title": "SAM Distribution Test（SAM 分布膨胀测试）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "SAM Testing Methods（超级吸水材料测试方法）": {
+  "dir": "concepts",
+  "title": "SAM Testing Methods（超级吸水材料测试方法）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": ""
+ },
+ "SAP Dosing Speed Matching（SAP 落料速度匹配与容差）": {
+  "dir": "concepts",
+  "title": "SAP Dosing Speed Matching（SAP 落料速度匹配与容差）",
+  "domain": "[卫材研发, 芯体工艺, 过程控制]",
+  "status": "growing",
+  "defn": "v [m/s] = 鼓距 P [mm] × ppm / 60 000　　v [m/min] = P [mm] × ppm / 1 000"
+ },
+ "SAP 吸水纸（SAPP）": {
+  "dir": "concepts",
+  "title": "SAP 吸水纸（SAPP）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 湿法造纸 + 计量施加：原文口径为 wet paper making process + 专利 SAP dosage system，核心目的是\"保证 SAP 与纸浆纤维稳定固着\"——即解决 SAP 在纸基中的分布均匀性与固着牢度。"
+ },
+ "SAP 干燥 SAP Drying": {
+  "dir": "concepts",
+  "title": "SAP 干燥 SAP Drying",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "SAP 溶胀 SAP Swelling": {
+  "dir": "concepts",
+  "title": "SAP 溶胀 SAP Swelling",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。The vault's operative framing: swelling is set by two opposing structural levers — \"when the amount of cross-linking agent"
+ },
+ "SAP 表面包覆（SAP Particle Surface Coating）": {
+  "dir": "concepts",
+  "title": "SAP 表面包覆（SAP Particle Surface Coating）",
+  "domain": "[卫材研发, SAP]",
+  "status": "growing",
+  "defn": "1. 目的：SAP 颗粒表面包覆用于改善粉尘、流动性、表面交联层（surface-crosslinking），从而影响 AUL / CRC 等性能与加工性。"
+ },
+ "SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）": {
+  "dir": "concepts",
+  "title": "SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 结构判据是\"在网内\"：SCA 专利族权利要求 1 的限定是 \"cellulosic nanofibrils having a diameter equal to or less than 100 nm incorporated within a three-dimensio"
+ },
+ "SAP性能指标（CRC AUL GBP Vortex）": {
+  "dir": "concepts",
+  "title": "SAP性能指标（CRC AUL GBP Vortex）",
+  "domain": "[卫材研发, 高吸水树脂]",
+  "status": "growing",
+  "defn": "1. CRC（Centrifuge Retention Capacity，离心保水率）：0.9% 盐水、250 G 离心后的持液量（g/g）。代表静态容量——储库型 SAP 的主指标（NR-950 典型值最高）。"
+ },
+ "SAP错峰膨胀": {
+  "dir": "concepts",
+  "title": "SAP错峰膨胀",
+  "domain": "[卫材研发, 高吸水树脂]",
+  "status": "growing",
+  "defn": "1. 双 SAP 架构：OI-13 采用 SAP1（皮肤侧，快速吸收：CRC 31 / GBP 53，低回渗）+ SAP2/SAP3 混合（快速膨胀 + 延迟膨胀，错峰膨胀）。位置分工 + 时间分工双重解耦。"
+ },
+ "SAP（高吸水树脂）": {
+  "dir": "concepts",
+  "title": "SAP（高吸水树脂）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "SAP = Superabsorbent Polymer（高吸水树脂）：一类能吸收并在压力下保留自身质量数十倍以上水溶液的交联高分子材料，"
+ },
+ "SBS 弹性体": {
+  "dir": "concepts",
+  "title": "SBS 弹性体",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Adhesive Handbook Part 3 Adhesive Classes 将其归入 「SBR + 嵌段共聚物」 胶类（该类含 SBS/SIS），并作为概念条目与 压敏胶 PSA、热熔胶 Hot Melt Adhesive、丙烯酸丙烯酸酯胶 Acrylic Adhesiv"
+ },
+ "Seal Strength Test（端封·侧封强度测试）": {
+  "dir": "concepts",
+  "title": "Seal Strength Test（端封·侧封强度测试）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "密封强度测的不是\"材料强度\"，而是界面结合强度：外层与体侧层通过热熔胶/热压在端部与侧部形成封合，封合太弱会开胶漏液，太强则浪费胶量与手感变硬。因为断裂是瞬时事件，本方法读峰值（gf）而非平台值。"
+ },
+ "Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）": {
+  "dir": "concepts",
+  "title": "Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）",
+  "domain": "[卫材研发, 可降解材料, 高吸水材料]",
+  "status": "growing",
+  "defn": "1. Step 1 — 溶解致孔（Porosity generation）：水溶性粒子（PVA / PVOH、PEO 等）在海水环境中优先溶解流失，在基体内形成多孔通道。"
+ },
+ "Sensor-Equipped Absorbent Article（含传感器吸收性物品）": {
+  "dir": "concepts",
+  "title": "Sensor-Equipped Absorbent Article（含传感器吸收性物品）",
+  "domain": "[卫材研发, 智能监测]",
+  "status": "growing",
+  "defn": "1. 两类集成位置："
+ },
+ "Shaped PET Add-On Window": {
+  "dir": "concepts",
+  "title": "Shaped PET Add-On Window",
+  "domain": "[卫材研发, 配方设计]",
+  "status": "growing",
+  "defn": "1. Shaped PET carries no low-melt sheath（异形 PET 无低熔点皮层）：every bond point in an air-through-bonded web must come from the ES fraction, and PE"
+ },
+ "Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）": {
+  "dir": "concepts",
+  "title": "Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）",
+  "domain": "[卫材研发, 造纸工艺]",
+  "status": "growing",
+  "defn": "1. 经济驱动：BSKP 与 BEKP 之间存在价差，替代即降本；供应商侧也借此推动客户多用短纤。"
+ },
+ "Signal Comprehension Gate": {
+  "dir": "concepts",
+  "title": "Signal Comprehension Gate",
+  "domain": "[卫材研发, 消费者验证]",
+  "status": "growing",
+  "defn": "1. Sequencing rule 排序规则：do not replace the existing wetness indicator — use it as differentiation learning; run MVP C (combo) only after sin"
+ },
+ "Silane Coupling Agent": {
+  "dir": "concepts",
+  "title": "Silane Coupling Agent",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：硅烷偶联剂 Silane Coupling Agent"
+ },
+ "Skin Contact Pressure（皮肤接触压力）": {
+  "dir": "concepts",
+  "title": "Skin Contact Pressure（皮肤接触压力）",
+  "domain": "[卫材研发, 结构设计, 贴合]",
+  "status": "growing",
+  "defn": "1. The chain that justifies a fit indicator（支撑合身指示器的物理链）：strain → force → skin pressure. For a given panel construction the elongation-to-fo"
+ },
+ "Skin Health Treatment on Nonwoven（无纺布护肤处理）": {
+  "dir": "concepts",
+  "title": "Skin Health Treatment on Nonwoven（无纺布护肤处理）",
+  "domain": "[卫材研发, 功能整理]",
+  "status": "growing",
+  "defn": "1. 四类成分对应四条不同的作用路径："
+ },
+ "SMS 复合无纺布": {
+  "dir": "concepts",
+  "title": "SMS 复合无纺布",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": ""
+ },
+ "SMS 纺粘熔喷复合": {
+  "dir": "concepts",
+  "title": "SMS 纺粘熔喷复合",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": "定义待补（引用来源未给出明确定义）。库内同主题页给出的定义：按「纺粘—熔喷—纺粘」顺序叠加的三明治型复合无纺布，用纺粘的强度弥补熔喷的强度短板，同时保留熔喷的过滤性能（源：SMS复合结构）。"
+ },
+ "SMS复合结构": {
+  "dir": "concepts",
+  "title": "SMS复合结构",
+  "domain": "[卫材研发, 无纺布工艺]",
+  "status": "growing",
+  "defn": "1. 分工逻辑：纺粘层（纤维 7–30 μm）提供强度骨架；熔喷层（纤维 1–5 μm 超细）提供过滤/阻隔功能。三明治式分工。"
+ },
+ "Specific Air Volume": {
+  "dir": "concepts",
+  "title": "Specific Air Volume",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）": {
+  "dir": "concepts",
+  "title": "Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "传统纤维素基高吸水体的醚化工艺需使用 MSDS 中被列为有害毒性气体的环氧乙烷／环氧丙烷（alkylene oxide），带来工艺系统建设成本高、运行苛刻、事故后果严重三项问题（KR 10-2205294 说明书 [0006]）。本路线只靠\"氧化淀粉自带醛基\"完成交联，从而在不使"
+ },
+ "Static Mannequin Test（静态假人测试）": {
+  "dir": "concepts",
+  "title": "Static Mannequin Test（静态假人测试）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "假人实验室（BSG1，Rockwell 平台）用蠕动泵把加热到体温的尿液模拟液按程序注入穿戴好的产品，模拟一次或多次排泄；注液过程中产品在 Sitting / Prone / Side 等姿势下承受液体冲击，漏出的液体被漏点探测垫捕获。核心是用可控的\"人工排泄\"替代主观穿戴评价，"
+ },
+ "Stefan 问题": {
+  "dir": "concepts",
+  "title": "Stefan 问题",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Stefan 问题是一类相变动边界问题——其数学结构等价于冰融化前沿，可用成熟的 Stefan 工具（erfc 解、守恒条件）处理（源：Moving Boundaries (Crank Ch.13)）。"
+ },
+ "Stimuli-Responsive PCM": {
+  "dir": "concepts",
+  "title": "Stimuli-Responsive PCM",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "主要引用来源给出可直接引用的定义式口径："
+ },
+ "Stimuli-Responsive Polymers": {
+  "dir": "concepts",
+  "title": "Stimuli-Responsive Polymers",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：刺激响应聚合物把化学/物理信号转译为光/电/热/力信号（反之亦然）——材料本身既是传感器又是执行器。本库另见其热力学口径页：刺激响应聚合物 Stimuli-Responsive Polymer（smartness = 可逆相变 + 临界点敏感性）（源：Smart Polym"
+ },
+ "STM-00146": {
+  "dir": "concepts",
+  "title": "STM-00146",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "Stokes Number": {
+  "dir": "concepts",
+  "title": "Stokes Number",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "原 cited-by 来源 Computational Modeling in Absorbent Technology 仅在其方法清单中把 「Stokes Number」 与 CFD 计算流体力学、Navier-Stokes Equation、有限差分法、有限元法、有限体积法、"
+ },
+ "Structural Colour Mechanochromism（结构色力致变色）": {
+  "dir": "concepts",
+  "title": "Structural Colour Mechanochromism（结构色力致变色）",
+  "domain": "[卫材研发, 智能功能化, 光学材料]",
+  "status": "growing",
+  "defn": "1. Photonic crystals / polymer opals（光子晶体 / 聚合物蛋白石）：core-shell PS/PEA particles ~200–300 nm shear-assemble into elastomeric opals with inten"
+ },
+ "Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）": {
+  "dir": "concepts",
+  "title": "Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）",
+  "domain": "[卫材研发, 胶黏剂]",
+  "status": "growing",
+  "defn": "1. 两相结构是全部性能的来源：硬相 = 两端聚苯乙烯嵌段（A），提供强度与耐热（物理交联点）；软相 = 中间聚异戊二烯（SIS）或聚丁二烯（SBS）嵌段（B），提供初粘与柔顺。"
+ },
+ "Super Absorbent Fibre（超吸水纤维 SAF）": {
+  "dir": "concepts",
+  "title": "Super Absorbent Fibre（超吸水纤维 SAF）",
+  "domain": "[卫材研发, 吸收材料]",
+  "status": "growing",
+  "defn": "1. 形态即机理：纤维相互交错形成多个连通的纤维空间，SAP 颗粒均匀分布其中，相邻颗粒间的纤维空间自然成为导流通道，避免 SAP 吸水膨胀凝聚形成阻滞层（凝胶阻塞）。（纸尿裤的核心结构及市场主流方向）"
+ },
+ "Surface Moisture Test（面层干爽性测试）": {
+  "dir": "concepts",
+  "title": "Surface Moisture Test（面层干爽性测试）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "面层干爽性回答的是\"液体进去之后，表面还剩多少水\"。它与 Rewet Test（回渗测试） 的区别在于载荷与时间：本方法用常压 + 177 g 压板 + 2 min，而国标回渗是 1.20 kg 压块 + 1 min、FIFE 全球版是 14 ± 1 inH₂O 真空 + 2 m"
+ },
+ "Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）": {
+  "dir": "concepts",
+  "title": "Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）",
+  "domain": "[卫材研发, 粘合工艺]",
+  "status": "growing",
+  "defn": "1. 为什么界面连接会影响回渗：面层与导流层若只是\"叠在一起\"，受压时会分层、出现间隙，液体被挤回贴肤侧时没有连续的毛细通路把它拉回芯体。连接（continuity）本身就是一条抗回渗通道——这正是试验假设\"覆盖率越高 → 回渗越低\"的物理基础。"
+ },
+ "SymDeo™ XPP 抑臭聚合物": {
+  "dir": "concepts",
+  "title": "SymDeo™ XPP 抑臭聚合物",
+  "domain": "[卫材研发, 气味控制]",
+  "status": "merged",
+  "defn": "本主题的正文见：Symrise SymDeo™ XPP 抑臭聚合物（中文版）"
+ },
+ "TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）": {
+  "dir": "concepts",
+  "title": "TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）",
+  "domain": "[卫材研发, 涂层工艺, 配方]",
+  "status": "growing",
+  "defn": "1. The whole formulation exists to hit one number（整个配方只为一件事）：2,500–3,500 mPa·s at the die (design 2,900 ± 400 mPa·s @ 160 °C), so it runs on"
+ },
+ "TBCW结构": {
+  "dir": "concepts",
+  "title": "TBCW结构",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 结构分层：TBCW 结构底层为 Span Bond（纺粘），原克重 20 gsm；降本路径第一步是降至 12 gsm，第二步是材料替换。"
+ },
+ "TCF Bleaching（全无氯漂白）": {
+  "dir": "concepts",
+  "title": "TCF Bleaching（全无氯漂白）",
+  "domain": "[采购, 木浆]",
+  "status": "growing",
+  "defn": "1. 等级切换 = 化学品体系变更：TCF 意味着漂白段化学品体系整体改变；一旦体系变更，下游客户（卫材/纸巾）需要重新做产品安全认证。"
+ },
+ "Technology Roadmap 2026-2029（技术路线图）": {
+  "dir": "concepts",
+  "title": "Technology Roadmap 2026-2029（技术路线图）",
+  "domain": "[卫材研发, 技术路线图]",
+  "status": "growing",
+  "defn": "The industry table (from the WKB document Diaper Commercialisation Technology Set…) is used as a \"reference ruler\"（行业对照标尺）:"
+ },
+ "Thermochromic Microcapsule (Leuco Dye System)": {
+  "dir": "concepts",
+  "title": "Thermochromic Microcapsule (Leuco Dye System)",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "Two design variants are used in hygiene: reversible type for comfort cues, irreversible type for high-temperature / breach alerts.（卫材中两种变体：可"
+ },
+ "Thickness Test（成品厚度测试）": {
+  "dir": "concepts",
+  "title": "Thickness Test（成品厚度测试）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "纸尿裤是可压缩的多孔介质：绒毛浆/SAP 芯体在低压下仍保有大量空隙，压力一变厚度就变。因此成品厚度的可比性完全来自口径三件套："
+ },
+ "Titratable Acidity Lane（可滴定酸度通道）": {
+  "dir": "concepts",
+  "title": "Titratable Acidity Lane（可滴定酸度通道）",
+  "domain": "[卫材研发, 比色传感, 化学]",
+  "status": "growing",
+  "defn": "1. Why not pH（为什么不用 pH）：a pH-only BM stripe is a coin toss — roughly half of formula-fed stool and most late-day urine land in the same pH w"
+ },
+ "Topsheet Fuzz & Pilling Test（面层起毛起球测试）": {
+  "dir": "concepts",
+  "title": "Topsheet Fuzz & Pilling Test（面层起毛起球测试）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "Topsheet（面层）": {
+  "dir": "concepts",
+  "title": "Topsheet（面层）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 功能定位：液体通过的第一道界面，决定穿透速度（吸收时间）与表面残留（液体残留量）→ 直接决定干爽感；同时承担手感与外观。"
+ },
+ "Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）": {
+  "dir": "concepts",
+  "title": "Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. 它是叠层指标，不是片材指标：测量路径是外片 → 吸收结构体 → 内片的整体透光，任一层变厚或不透光都会把它压下来。"
+ },
+ "TPE Tetraphenylethylene": {
+  "dir": "concepts",
+  "title": "TPE Tetraphenylethylene",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Tetraphenylethylene（四苯乙烯，TPE）：典型的 AIE 发光体（AIEgen），分子结构呈扭曲的螺旋桨状（twisted propeller-shaped moieties），聚集后经 RIM 机理发光；来源页同时把\"给平面发光核接上扭曲螺旋桨基团\"列为将 A"
+ },
+ "Triple Cutting Topsheet（三层切割面层）": {
+  "dir": "concepts",
+  "title": "Triple Cutting Topsheet（三层切割面层）",
+  "domain": "[卫材研发, 面层结构]",
+  "status": "growing",
+  "defn": "1. 切分：连续热风/SMS 布在线或离线纵切成三条窄幅；切割方式（在线/离线、热切/机械切）待确认（G4）。"
+ },
+ "Ultra-Low Add-On Adhesive Application（超低添加量施胶）": {
+  "dir": "concepts",
+  "title": "Ultra-Low Add-On Adhesive Application（超低添加量施胶）",
+  "domain": "[卫材研发, 胶黏剂, 工艺工程]",
+  "status": "growing",
+  "defn": "1. 为何不能只改配方 Why formulation alone fails：add-on 降到 0.1 g/m² 以下时，同时保障①足够粘接强度、②耐水性、③不影响 SAP 吸水速率，是材料学上的固有矛盾——胶量越少，容错空间越小。"
+ },
+ "Ultrasonic Bonding of PET-Containing Topsheet": {
+  "dir": "concepts",
+  "title": "Ultrasonic Bonding of PET-Containing Topsheet",
+  "domain": "[卫材研发, 无纺布工艺, 转化]",
+  "status": "growing",
+  "defn": "1. Ultrasonic bonding is a microstructure effect（超声粘合是微观结构效应）：performance depends on microstructure, local energy concentration and pattern "
+ },
+ "Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）": {
+  "dir": "concepts",
+  "title": "Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）",
+  "domain": "[卫材研发, 测试与验收, 成人护理]",
+  "status": "growing",
+  "defn": "1. 三条曲线，三种用途 Three curves, three jobs："
+ },
+ "Videoimagescope": {
+  "dir": "concepts",
+  "title": "Videoimagescope",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A video-based imaging instrument used for experimental validation in absorbent-technology modeling studies. 定义待补（引用来源未给出明确定义）。中文：视频成像观测仪，用于吸"
+ },
+ "VO2": {
+  "dir": "concepts",
+  "title": "VO2",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "VO₂（二氧化钒）：一种易失性（volatile）相变材料（PCM），升温相变、冷却后恢复原态，与非易失性的 GST（GST）互补——VO₂ 适合传感/切换（恢复态），GST 适合存储/显示（保持态）（源：Stimuli-Responsive Phase Change Mater"
+ },
+ "Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）": {
+  "dir": "concepts",
+  "title": "Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）",
+  "domain": "[卫材研发, 测试方法与表征]",
+  "status": "growing",
+  "defn": "两条互补的表征路线："
+ },
+ "Waist Guard（腰围护挡）": {
+  "dir": "concepts",
+  "title": "Waist Guard（腰围护挡）",
+  "domain": "[卫材研发, 结构设计]",
+  "status": "growing",
+  "defn": "1. 要解决的是\"爆漏\"而非\"吸收不足\"：目标是阻止低黏度体液排出物从后腰口溢出，同时不牺牲裤型制品原有的其他功能。"
+ },
+ "Washburn Equation": {
+  "dir": "concepts",
+  "title": "Washburn Equation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出 Washburn 方程的完整显式解析式）。"
+ },
+ "Water-Activated Ink（水变／湿变油墨）": {
+  "dir": "concepts",
+  "title": "Water-Activated Ink（水变／湿变油墨）",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "1. Three-material system 三物质体系：物质一 + 物质二遇水反应显色（最终颜色由两者混合决定）；物质三是隔离层，负责在干燥态把一、二隔开，遇水被冲走 → 一、二接触 → 显色。物质三疑似中低分子量 PEG 成分 [待验证]。"
+ },
+ "Wenzel Equation": {
+  "dir": "concepts",
+  "title": "Wenzel Equation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The source states its meaning in one line: roughness and structured surfaces change wetting only by amplifying the underlying tendency — rou"
+ },
+ "Wetness Indicator Glue": {
+  "dir": "concepts",
+  "title": "Wetness Indicator Glue",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "1. It runs on existing converting lines — no new printing step, no new substrate, so pilot risk is the lowest of the three routes.（直接跑在现有转化线"
+ },
+ "Wetness Indicator Ladder（尿湿指示阶梯）": {
+  "dir": "concepts",
+  "title": "Wetness Indicator Ladder（尿湿指示阶梯）",
+  "domain": "[卫材研发, 智能功能化, 尿显]",
+  "status": "growing",
+  "defn": "1. The point is to spend nothing here（这一层刻意不花钱）：this is proven, commodity chemistry — the intent is to keep this element as the cheapest rel"
+ },
+ "Wetting Pattern Target Zone（润湿图谱目标区）": {
+  "dir": "concepts",
+  "title": "Wetting Pattern Target Zone（润湿图谱目标区）",
+  "domain": "[卫材研发, 吸收系统设计]",
+  "status": "growing",
+  "defn": "1. Two design inputs 设计双输入：absorbent design criteria depend on (a) single insult loadings（单次排液量） and (b) single insult wetting patterns（润湿图谱"
+ },
+ "Wilhelmy 湿附力法": {
+  "dir": "concepts",
+  "title": "Wilhelmy 湿附力法",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A wetting-force measurement method forming the first-principles tier of absorbent product interface-energy testing. 定义待补（引用来源未给出明确定义）。中文：通过测"
+ },
+ "Work of Adhesion": {
+  "dir": "concepts",
+  "title": "Work of Adhesion",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：附着功 = 分离单位面积液/固界面所需的自由能，由液-气表面张力 γLV 与固-气、固-液界面能之差给出；它随平衡接触角 θeq 减小而单调升高。源页强调它是由能量（标量）定义的热力学量，而非力平衡（源：Surface Tension and Surface Energy）"
+ },
+ "WRV 水保留值": {
+  "dir": "concepts",
+  "title": "WRV 水保留值",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "[待补] — no source read here describes how WRV is measured or what it physically represents beyond the name \"water retention value\". The only "
+ },
+ "WVTR 测试口径（失重法 vs 增重法）": {
+  "dir": "concepts",
+  "title": "WVTR 测试口径（失重法 vs 增重法）",
+  "domain": "[卫材研发, 测试与标准]",
+  "status": "growing",
+  "defn": "1. 两种方法测量的是相反方向的通量：失重法跟踪杯内水的减少，增重法跟踪干燥剂的增重；两者对边界层、温度梯度与密封条件的敏感性不同。"
+ },
+ "Young's Equation": {
+  "dir": "concepts",
+  "title": "Young's Equation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The source explicitly overturns the common misreading：\"Young's equation is not a force balance\" — it is a thermodynamic equation relating en"
+ },
+ "Zeolite Odour Control（沸石除臭载体）": {
+  "dir": "concepts",
+  "title": "Zeolite Odour Control（沸石除臭载体）",
+  "domain": "[卫材研发, 材料]",
+  "status": "growing",
+  "defn": "1. 异味来源与评价标准化 —— 行业已锁定 9 种代表性臭味物质：丁酮、氨气、三甲胺、吲哚、异戊酸、2-乙烯醛、硫化氢、甲硫醇、二甲基二硫醚；其中氨气是尿液分解的主要异味气体。"
+ },
+ "ZnO Antibacterial Fibre（氧化锌抗菌纤维）": {
+  "dir": "concepts",
+  "title": "ZnO Antibacterial Fibre（氧化锌抗菌纤维）",
+  "domain": "[卫材研发, 抗菌材料]",
+  "status": "growing",
+  "defn": "1. 接触反应（主要抗菌机理）：Zn²⁺ 借库仑引力吸附带负电的菌体细胞膜 → 穿透细胞壁与巯基（-SH）反应 → 蛋白凝固、合成酶失活、丧失繁殖能力；菌体失活后金属离子重新游离、重复杀菌 → 抗菌效果持久（厂商口径）。"
+ },
+ "一氯乙酸 Monochloroacetic Acid": {
+  "dir": "concepts",
+  "title": "一氯乙酸 Monochloroacetic Acid",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未给出一氯乙酸（monochloroacetic acid, MCA）的独立定义；只以其工艺角色出现：它是交联 CMC 路线的醚化试剂——纤维素的羧甲基化（carboxyalkyl 取代）由一氯乙酸完成（源：Cross-linked Cellulose and Its Der"
+ },
+ "三叶形截面纤维（Trilobal Fibre）": {
+  "dir": "concepts",
+  "title": "三叶形截面纤维（Trilobal Fibre）",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. 截面决定功能：圆形截面纤维之间只有\"点接触\"，液体靠纤维间孔隙毛细力输运；三叶形截面的三个凹槽在纤维表面形成轴向沟道，纤网中相邻纤维的沟道叠加即成为准连续的低阻导流路径。"
+ },
+ "三相接触线 TPL": {
+  "dir": "concepts",
+  "title": "三相接触线 TPL",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "丙烯酸丙烯酸酯胶 Acrylic Adhesive": {
+  "dir": "concepts",
+  "title": "丙烯酸丙烯酸酯胶 Acrylic Adhesive",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — the vault does not give a formal definition of the acrylic/acrylate adhesive class. It is evidenced functionally: acryli"
+ },
+ "两亲吸附 Amphipathic Adsorption": {
+  "dir": "concepts",
+  "title": "两亲吸附 Amphipathic Adsorption",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Adsorption at an interface driven by the amphipathic (dual hydrophilic–hydrophobic) nature of the molecule. The source defines surfactant fu"
+ },
+ "两性离子高吸水树脂（纤维素接枝耐电解质）": {
+  "dir": "concepts",
+  "title": "两性离子高吸水树脂（纤维素接枝耐电解质）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "在同一聚合物网络中同时引入阴离子基团（—COO⁻）、阳离子基团（季铵）与非离子基团（酰胺），并常以水溶性纤维素（CMC/HEC）为接枝骨架的高吸水树脂。其差异化价值不在吸液倍率的绝对值，而在盐溶液中的性能保持率（耐电解质性）。中文对照：两性离子高吸水树脂。"
+ },
+ "中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）": {
+  "dir": "concepts",
+  "title": "中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）",
+  "domain": "[法规与产品安全, 中国标准体系]",
+  "status": "growing",
+  "defn": "1. 适用对象（§1.2）：涂、擦、散布于人体表面任何部位（表皮、毛发、指甲、口唇等）或口腔粘膜，以达到清洁、护肤、美容和修饰目的的产品；国内生产、销售及进口化妆品均须符合（§1.3）。"
+ },
+ "中空纤维 Hollow Fibre": {
+  "dir": "concepts",
+  "title": "中空纤维 Hollow Fibre",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出「中空纤维」的正式定义）。"
+ },
+ "乳化剂 Emulsifier": {
+  "dir": "concepts",
+  "title": "乳化剂 Emulsifier",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "An ingredient class used in formulation design for stabilising emulsions. 定义待补（引用来源未给出明确定义）。中文：使油/水两相形成稳定乳液的配方组分。"
+ },
+ "交联 CMC": {
+  "dir": "concepts",
+  "title": "交联 CMC",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "交联密度 Crosslink Density": {
+  "dir": "concepts",
+  "title": "交联密度 Crosslink Density",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "亲水-疏水梯度设计": {
+  "dir": "concepts",
+  "title": "亲水-疏水梯度设计",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 梯度方向：上疏下亲。"
+ },
+ "亲水化 Hydrophilisation": {
+  "dir": "concepts",
+  "title": "亲水化 Hydrophilisation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内口径：通过表面化学手段（如接枝 −OH/−COOH）降低纤维/无纺布的平衡接触角 θeq，使其可被水相润湿与芯吸的工程处理（源：Surface Tension and Surface Energy）。"
+ },
+ "亲水整理 Hydrophilic Finish": {
+  "dir": "concepts",
+  "title": "亲水整理 Hydrophilic Finish",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：亲水整理 = 使疏水非织造布（主要是 PP）具备可润湿性的后整理工序；源页给出功能定义——亲水柔软剂即回渗剂（rewetter），把液体横向铺展以保持皮肤干爽。整理无标准流程，由终端用途驱动。"
+ },
+ "亲水整理耐久性": {
+  "dir": "concepts",
+  "title": "亲水整理耐久性",
+  "domain": "[卫材研发, 无纺布工艺]",
+  "status": "growing",
+  "defn": "1. 常规亲水整理会在 1–2 次冲击后被洗脱：一旦表面助剂流失，纤维恢复疏水，毛细驱动力下降，摄入变慢、ADL 滞留液增加、回渗上升。"
+ },
+ "低熔点聚丙烯": {
+  "dir": "concepts",
+  "title": "低熔点聚丙烯",
+  "domain": "[卫材研发, 纤维材料, 聚合物]",
+  "status": "growing",
+  "defn": "1. 熔点由结晶能力决定，而结晶能力由聚合端锁定。i-PP 是可结晶主体（熔点 160–170°C），a-PP 完全不能结晶；乙烯共聚单体进入 PP 链会「显著改变分子链性质」，直接带来熔点下降。因此所有降熔点路线的本质都是破坏等规序列、抑制片晶完善度——这是必须从聚合端入手、而"
+ },
+ "保湿剂 Humectant": {
+  "dir": "concepts",
+  "title": "保湿剂 Humectant",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。在本库语境，保湿剂（Humectant）作为配方成分类别出现——与乳化剂、防腐剂、活性成分并列于护肤品配方设计（源：Cosmetic Formulation of Skin Care Products）；在无微胶囊温控方案中，「结合水管理（保湿"
+ },
+ "保留层 Retention Layer": {
+  "dir": "concepts",
+  "title": "保留层 Retention Layer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — the vault carries no independent definition sentence for the retention layer. It is evidenced as the final store of the "
+ },
+ "健康监测 Health Monitoring": {
+  "dir": "concepts",
+  "title": "健康监测 Health Monitoring",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "偶氮染料 Azo Dye": {
+  "dir": "concepts",
+  "title": "偶氮染料 Azo Dye",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "光子晶体 Photonic Crystal": {
+  "dir": "concepts",
+  "title": "光子晶体 Photonic Crystal",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "（中文：光子晶体 = 与光相互作用的周期性有序纳米结构，由此产生的颜色即结构色；该定义直接来自引文原文。）"
+ },
+ "光致变色 Photochromic": {
+  "dir": "concepts",
+  "title": "光致变色 Photochromic",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault classifies chromic materials by the stimulus that induces the colour change, with photochromic = light-induced colour change（源：Sma"
+ },
+ "光致变色油墨 Photochromic Ink": {
+  "dir": "concepts",
+  "title": "光致变色油墨 Photochromic Ink",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Photochromic ink is a colour-changing (\"chromic\") ink whose colour change is triggered by light. The vault classifies chromic materials by t"
+ },
+ "全息存储 Holographic Storage": {
+  "dir": "concepts",
+  "title": "全息存储 Holographic Storage",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "In this vault the term is used in the sense of holographic recording — writing a periodic (grating) structure into a photopolymer film so th"
+ },
+ "全芯体 vs 混合芯体": {
+  "dir": "concepts",
+  "title": "全芯体 vs 混合芯体",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内口径分流为两条路线：混合芯体（绒毛浆 + SAP） 与 复合芯体（无尘纸 + 蓬松无纺布 + SAP）（源：Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析））；「全芯体」在本库语境"
+ },
+ "再润湿剂 Rewetting Agent": {
+  "dir": "concepts",
+  "title": "再润湿剂 Rewetting Agent",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The Role of Surfactants 第 5 章（pp. 166–215）是该书的配方章节，建立了\"表面活性剂 → 界面吸附 → 界面自由能变化 → 润湿与渗透动力学 → 宏观吸液性\"的完整因果链，并明确把最易混淆的两个产品角色——润湿剂（Wetting Agent）与"
+ },
+ "分区密度设计": {
+  "dir": "concepts",
+  "title": "分区密度设计",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 实现手段："
+ },
+ "分布层 Distribution Layer": {
+  "dir": "concepts",
+  "title": "分布层 Distribution Layer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — the vault carries no independent definition sentence for the distribution layer. What is evidenced is its position as th"
+ },
+ "刺激响应聚合物 Stimuli-Responsive Polymer": {
+  "dir": "concepts",
+  "title": "刺激响应聚合物 Stimuli-Responsive Polymer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault gives an explicit thermodynamic definition: smart / stimuli-responsive polymers are \"thermodynamic systems capable of going revers"
+ },
+ "功能性差别化纤维（PTT_超仿棉_纳米凉感）": {
+  "dir": "concepts",
+  "title": "功能性差别化纤维（PTT_超仿棉_纳米凉感）",
+  "domain": "[卫材研发, 功能纤维]",
+  "status": "growing",
+  "defn": "1. PTT 弹性纤维：本身具弹性（织物弹性约 20%，接近氨纶包覆丝），价格更低、尺寸稳定性好。"
+ },
+ "动边界 Moving Boundary": {
+  "dir": "concepts",
+  "title": "动边界 Moving Boundary",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Its mathematical structure is the Stefan problem（相变问题）—— equivalent to an ice-melting front — so it can be handled with mature Stefan tools（"
+ },
+ "化妆品微生物限值（细菌总数·致病菌）": {
+  "dir": "concepts",
+  "title": "化妆品微生物限值（细菌总数·致病菌）",
+  "domain": "[法规与产品安全, 微生物]",
+  "status": "growing",
+  "defn": "1. 分档逻辑：风险越高的接触场景（眼部、口唇、口腔粘膜）与人群（婴幼儿）→ 菌落总数限值越严。这一定档逻辑与卫材侧（GB 15979 按产品种类分档）同构但数值不同。"
+ },
+ "化妆品科学 Cosmetic Science": {
+  "dir": "concepts",
+  "title": "化妆品科学 Cosmetic Science",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出「化妆品科学」的显式定义）。"
+ },
+ "化妆品限用-准用组分体系（中国 2015 技术规范）": {
+  "dir": "concepts",
+  "title": "化妆品限用-准用组分体系（中国 2015 技术规范）",
+  "domain": "[法规与产品安全, 化妆品合规]",
+  "status": "growing",
+  "defn": "1. 三层结构：禁用组分（表1/2，共 1388 项）→ 限用组分（表3，47 项，带使用范围与最大允许浓度）→ 准用组分（表4–7：防腐剂 51 / 防晒剂 27 / 着色剂 157 / 染发剂 75）。"
+ },
+ "半胶束 Hemimicelle": {
+  "dir": "concepts",
+  "title": "半胶束 Hemimicelle",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "协同吸附 Cooperative Adsorption": {
+  "dir": "concepts",
+  "title": "协同吸附 Cooperative Adsorption",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Cooperative adsorption is the cooperative binding of surfactant molecules to polymer chains — the source states that surfactants \"bind to po"
+ },
+ "卫材胶黏系统 Hygiene Adhesive Systems": {
+  "dir": "concepts",
+  "title": "卫材胶黏系统 Hygiene Adhesive Systems",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "压敏胶 PSA": {
+  "dir": "concepts",
+  "title": "压敏胶 PSA",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "原纤化": {
+  "dir": "concepts",
+  "title": "原纤化",
+  "domain": "[卫材研发, 采购, 纤维素纤维]",
+  "status": "growing",
+  "defn": "1. 成因在莱赛尔自身结构：这种纤维表面没有皮层，结晶度和取向度又高，遇水加摩擦后表皮一层层剥开，长出细小原纤。"
+ },
+ "双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）": {
+  "dir": "concepts",
+  "title": "双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）",
+  "domain": "[卫材研发, 生物材料]",
+  "status": "growing",
+  "defn": "1. 第一重网络：乙酸体系中壳聚糖/PVA/TOCNF 共溶，静电+氢键成胶；−30~−10 °C 冷冻 1–2 h 定型。"
+ },
+ "双组分纤维 Bicomponent": {
+  "dir": "concepts",
+  "title": "双组分纤维 Bicomponent",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A bicomponent（双组分/复合）fibre is a fibre formed by conjugate spinning of two polymers into one filament, classified by cross-section into side-"
+ },
+ "反应-扩散耦合 Reaction-Diffusion": {
+  "dir": "concepts",
+  "title": "反应-扩散耦合 Reaction-Diffusion",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Diffusion coupled with simultaneous chemical reaction, treated in Crank Ch.14. 定义待补（引用来源未给出明确定义）。中文：扩散过程与化学反应同时发生并相互耦合的传递现象。"
+ },
+ "取代度 DS": {
+  "dir": "concepts",
+  "title": "取代度 DS",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "DS 的理论上限为 3——每个葡萄糖单元有 3 个羟基全部反应（源：Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers）。"
+ },
+ "变色材料 Chromic Materials": {
+  "dir": "concepts",
+  "title": "变色材料 Chromic Materials",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault gives no single chemistry-based definition; chromic materials are instead framed as a classification by trigger quantity（按触发量分类）ra"
+ },
+ "变色油墨 Color-Changing Ink": {
+  "dir": "concepts",
+  "title": "变色油墨 Color-Changing Ink",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "变色油墨": {
+  "dir": "concepts",
+  "title": "变色油墨",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "1. 热致变色（温敏）：主流为 leuco 染料微胶囊体系——供电子体（leuco 染料）: 受电子体 : 脂肪酸 ≈ 1:5:50 的配比，通过熔融/结晶的可逆转变实现显色/褪色。典型用于尿湿指示（体温或尿温触发）。"
+ },
+ "可冲散拭布 Flushable Wipe": {
+  "dir": "concepts",
+  "title": "可冲散拭布 Flushable Wipe",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "可家庭堆肥无纺布（Home Compostable Nonwoven）": {
+  "dir": "concepts",
+  "title": "可家庭堆肥无纺布（Home Compostable Nonwoven）",
+  "domain": "[卫材研发, 无纺布]",
+  "status": "growing",
+  "defn": "1. 「家庭可堆肥」不是「可降解」的同义词：它要求材料在家庭堆肥的温湿度条件下也完成降解并取得对应认证（工业可堆肥的温度与停留时间条件更宽松）。TDS 侧的表述可作对照——PGA 树脂已同时取得工业堆肥与家庭堆肥双认证，而 PPC-P 目前记录为 TÜV 可降解 + DIN CE"
+ },
+ "可穿戴传感器 Wearable Sensor": {
+  "dir": "concepts",
+  "title": "可穿戴传感器 Wearable Sensor",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）": {
+  "dir": "concepts",
+  "title": "可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "中国制浆造纸研究院（CNPPRI）提出的双组分分工型可降解高吸水树脂：纳米纤维素（NC，0.5–20 wt%）负责补强度 + 吸水保水，可降解天然高分子（羧甲基壳聚糖/壳聚糖季铵盐/糊化玉米淀粉/海藻酸钠/羧甲基纤维素钠，5–40 wt%）负责供降解，以各自添加量拆开「可降解高分"
+ },
+ "可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）": {
+  "dir": "concepts",
+  "title": "可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）",
+  "domain": "[法规与产品安全, 测试方法]",
+  "status": "growing",
+  "defn": "1. 为什么是三段：只看「能否被微生物分解」不够 —— 还要看能否碎成小片（崩解，物理层面）以及分解后的堆肥是否毒害植物（生态毒性，后果层面）。三者缺一不构成「可堆肥」。"
+ },
+ "合金粘胶 Alloy Rayon": {
+  "dir": "concepts",
+  "title": "合金粘胶 Alloy Rayon",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）：库内未给出「合金粘胶 / alloy rayon」的单句定义。Fibers and Fibrous Materials 仅把 alloy rayon 列为第 6 章材料目录中的一种 special-purpose fibre（特种纤维，与 mo"
+ },
+ "含水率 Moisture Regain": {
+  "dir": "concepts",
+  "title": "含水率 Moisture Regain",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "原 cited-by 来源 Fibers and Fibrous Materials 仅在概念清单中把 「含水率 Moisture Regain」 与孔隙率 Porosity、Specific Air Volume、双组分纤维 Bicomponent、毛细管吸收 Capillar"
+ },
+ "吸收芯体": {
+  "dir": "concepts",
+  "title": "吸收芯体",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault has no standalone generic definition of 吸收芯体 (the absorbent core); the working sense used across the citing sources is the liquid-"
+ },
+ "咖啡炭纤维（异味吸附）": {
+  "dir": "concepts",
+  "title": "咖啡炭纤维（异味吸附）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "将回收咖啡渣经摄氏 1000 度以上煅烧处理（使晶向与孔隙呈最佳状态）制得的消臭功能纤维，属吸附型除臭路线（adsorption-type odour route）中的纤维化物理吸附分支（源：功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）、活性炭除臭（DARCO））。"
+ },
+ "回渗 Rewet": {
+  "dir": "concepts",
+  "title": "回渗 Rewet",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Rewet（回渗）is the liquid that returns out of an absorbent article toward the skin under load. The vault's physical account: after being taken "
+ },
+ "壳聚糖 Chitosan": {
+  "dir": "concepts",
+  "title": "壳聚糖 Chitosan",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "For diapers, the source states the realistic entry point is the skin-contact topsheet（and active-care positioning）, not the core — consisten"
+ },
+ "复合吸收芯体（Composite Absorbent Core）": {
+  "dir": "concepts",
+  "title": "复合吸收芯体（Composite Absorbent Core）",
+  "domain": "[卫材研发, 芯体]",
+  "status": "growing",
+  "defn": "1. 层级位置：上游原料（绒毛浆 GB/T 21331、SAP GB/T 22875、无尘纸 GB/T 24292）→ 本层（QB/T 5650 复合芯体） → 下游成品（GB/T 28004.1 婴儿 / 28004.2 成人）。三层各有独立指标，不可互相替代。"
+ },
+ "复合材料 Composite": {
+  "dir": "concepts",
+  "title": "复合材料 Composite",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "复合膜 Composite Membrane": {
+  "dir": "concepts",
+  "title": "复合膜 Composite Membrane",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "No standalone formal definition is given in the cited sources → 定义待补（引用来源未给出明确定义）. The vault uses \"composite membrane 复合膜\" operationally in "
+ },
+ "天丝 Tencel": {
+  "dir": "concepts",
+  "title": "天丝 Tencel",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "TENCEL™ 是莱赛尔（Lyocell）纤维的商品名：以 NMMO（N-甲基吗啉-N-氧化物）直接溶剂法纺丝的再生纤维素纤维——省去粘胶法的黄化与熟成工序，纤维强度与湿模量超越传统粘胶，但保留一定原纤化倾向（\"propensity for some degree of fibr"
+ },
+ "天然染料 Natural Dye": {
+  "dir": "concepts",
+  "title": "天然染料 Natural Dye",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "孔隙率 Porosity": {
+  "dir": "concepts",
+  "title": "孔隙率 Porosity",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本库引用页未就「孔隙率」给出独立的定义句；仅在模型与换算语境下给出可操作的表达式与输出口径："
+ },
+ "季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）": {
+  "dir": "concepts",
+  "title": "季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 微球分区：PAM 微球多孔储液、表面氨基/酰胺基结合离子，兼顾吸附与防团聚；树脂网络负责整体强度。"
+ },
+ "导电无纺布 Conductive Nonwoven": {
+  "dir": "concepts",
+  "title": "导电无纺布 Conductive Nonwoven",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "形式化定义：定义待补（引用来源未给出明确定义）。库内没有任何页面给出\"导电无纺布（conductive nonwoven）\"的定义或规格。引用来源（cited-by）讨论的是一次导电涤纶织物（conductive polyester textile, CPT）——纬编涤纶 + A"
+ },
+ "导电纱线 Conductive Yarn": {
+  "dir": "concepts",
+  "title": "导电纱线 Conductive Yarn",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "尾水培养基（非粮生物合成）": {
+  "dir": "concepts",
+  "title": "尾水培养基（非粮生物合成）",
+  "domain": "[采购, 生物制造]",
+  "status": "growing",
+  "defn": "1. 原料替代逻辑：传统 BNC 用椰子水、糖等培养基，成本高、周期长；尾水路线用屠宰/食品/消毒废水，原料低价甚至零成本获取。多篇材料口径为综合生产成本降低 80% 以上。"
+ },
+ "尿液模拟液（Urine Analog）": {
+  "dir": "concepts",
+  "title": "尿液模拟液（Urine Analog）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "卫品吸收/渗漏测试若用纯盐水，会丢失尿液中表面活性剂（胆盐）对 SAP 溶胀与液体铺展的影响。为此在生理盐水基础上加入牛黄酸胆酸钠（sodium taurocholate）等胆盐，并把液体加热至体温，以更真实地驱动芯体摄入与渗漏。"
+ },
+ "局部亲水印花面层（锥形孔导流）": {
+  "dir": "concepts",
+  "title": "局部亲水印花面层（锥形孔导流）",
+  "domain": "[卫材研发, 面层]",
+  "status": "growing",
+  "defn": "1. 表面张力门槛（原文数据）：水 70 dyne/cm > 拒水纤维表面 31–50 dyne/cm → 拒水布打孔水进不去；亲水剂成膜把表面张力降到 <30 dyne/cm 后孔才导流。"
+ },
+ "层压 Lamination": {
+  "dir": "concepts",
+  "title": "层压 Lamination",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本库引用来源给出的是功能性口径："
+ },
+ "干燥塌孔（Horrification）": {
+  "dir": "concepts",
+  "title": "干燥塌孔（Horrification）",
+  "domain": "[卫材研发, 材料加工]",
+  "status": "growing",
+  "defn": "1. 驱动力是毛细管压力：干燥开裂/塌孔主因 P = 2σcosθ/r_p——孔径 r_p 越小，毛细压力越大；BNC 是纳米级孔（比表面巨大），因此比常规纤维更易塌。"
+ },
+ "干燥角质化 Hornification": {
+  "dir": "concepts",
+  "title": "干燥角质化 Hornification",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Hornification（干燥角质化）is the irreversible drying-induced change of fibre structure that closes off the fibre wall and welds fibres together. T"
+ },
+ "并列复合自卷曲纤维": {
+  "dir": "concepts",
+  "title": "并列复合自卷曲纤维",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. 两种复合构型的根本分工："
+ },
+ "应力诱导取向与结晶": {
+  "dir": "concepts",
+  "title": "应力诱导取向与结晶",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. 纤维晶态与模塑件根本不同：纺丝与牵伸使分子链高度取向，形成拉长的 shish-kebab 结构；注塑件则从成核点径向生长球晶。这直接造成机械性能差异。"
+ },
+ "底膜 Backsheet": {
+  "dir": "concepts",
+  "title": "底膜 Backsheet",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "弹性热熔胶腰围（减压腰围）": {
+  "dir": "concepts",
+  "title": "弹性热熔胶腰围（减压腰围）",
+  "domain": "[卫材研发, 弹性腰围]",
+  "status": "growing",
+  "defn": "1. 压强分散：氨纶丝与皮肤是线面接触，收缩时产生交替勒痕红肿；弹性胶膜面面贴合增大接触面积。"
+ },
+ "形状记忆聚合物 Shape Memory Polymer": {
+  "dir": "concepts",
+  "title": "形状记忆聚合物 Shape Memory Polymer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "微纤丝化纤维素 MFC": {
+  "dir": "concepts",
+  "title": "微纤丝化纤维素 MFC",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "引用来源未给出明确定义。库内可确认：MFC 是来源章节（父书 Absorbent Technology）在分子层面论述的纤维素化学改性超吸水路线之一，与交联 交联 CMC（最成熟的纤维素基路线）、HEC 羟乙基纤维素、磷酸化纤维素、磺化/氧化纤维素及含木质素 CTMP 并列，并以"
+ },
+ "快速吸水自膨胀纳米纤维素材料（华东师大）": {
+  "dir": "concepts",
+  "title": "快速吸水自膨胀纳米纤维素材料（华东师大）",
+  "domain": "[卫材研发, 纳米纤维素]",
+  "status": "growing",
+  "defn": "1. 整体性来源：柠檬酸/戊二醛/环氧氯丙烷等共价交联使纳米纤维成整体网络，吸水膨胀后保持形状。"
+ },
+ "感湿-感温双变色层大小便判别": {
+  "dir": "concepts",
+  "title": "感湿-感温双变色层大小便判别",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "在纸尿裤外表层并置感湿变色层（水显墨/感水涂料）与感温变色层（温变涂料），外加透明隔水层（塑料薄膜或微孔透气膜）：尿液与粪便对「湿度 + 温度」两个通道产生不同组合响应，用算法区分大、小便。是尿湿指示从「单点变色提醒」升级到「排泄物类型判别」的双通道方案。"
+ },
+ "戊二醛 Glutaraldehyde": {
+  "dir": "concepts",
+  "title": "戊二醛 Glutaraldehyde",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "在本库语境的柠檬酸 / 环氧氯丙烷等共价交联剂谱系中，戊二醛被列为使纳米纤维素/纤维素成整体网络的一类交联剂（源：快速吸水自膨胀纳米纤维素材料（华东师大）、CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学））。"
+ },
+ "成纤性判据": {
+  "dir": "concepts",
+  "title": "成纤性判据",
+  "domain": "[卫材研发, 纤维材料, 聚合物]",
+  "status": "growing",
+  "defn": "1. 分子结构（最硬的门槛）：必须线形（非交联、非高度支化）；分子量落在「足够高但不至于过高」的窗口（过低则缠绕不足、一拉即断；过高则粘度过大、塑化不均）；链刚柔性平衡（过刚如芳香族聚酰胺需液晶/特殊溶剂体系；过柔如硅橡胶 Tg 过低、室温即高弹态）；结构规整且有适当分子间作用力"
+ },
+ "扁平形截面纤维（Flat Fibre）": {
+  "dir": "concepts",
+  "title": "扁平形截面纤维（Flat Fibre）",
+  "domain": "[卫材研发, 纤维结构]",
+  "status": "growing",
+  "defn": "1. 抗起球机理：异形化使纤维比表面积增加 → 丝条内纤维间抱合力增大 → 起毛起球大幅减少（科普口径）。"
+ },
+ "承压吸收 AUL": {
+  "dir": "concepts",
+  "title": "承压吸收 AUL",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "AUL（加压吸水率）is one of the evaluation items for SAP. 定义待补（引用来源未给出明确定义）。中文：SAP 在受压条件下的吸液能力评价指标，与加压吸水率（AUL 加压吸水率）同主题。"
+ },
+ "抗菌整理": {
+  "dir": "concepts",
+  "title": "抗菌整理",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内口径：抗菌整理指对卫品面料/无纺布（如面层）施加抗菌处理，并用定量方法评估其效果（源：抗菌整理定量测试（AATCC TM100 _ AATCC 100）：「评估卫品面料、无纺布的抗菌整理效果（如面层抗菌处理）」）。"
+ },
+ "抗菌整理定量测试（AATCC TM100 _ AATCC 100）": {
+  "dir": "concepts",
+  "title": "抗菌整理定量测试（AATCC TM100 _ AATCC 100）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The quantitative test for antibacterial finishes on textile materials issued by AATCC (American Association of Textile Chemists and Colorist"
+ },
+ "抗菌除臭高吸水树脂（CNC 载体双功能 SAP）": {
+  "dir": "concepts",
+  "title": "抗菌除臭高吸水树脂（CNC 载体双功能 SAP）",
+  "domain": "[卫材研发, SAP]",
+  "status": "growing",
+  "defn": "1. 立项逻辑：抗菌≠除臭——抗菌剂只能抑制细菌产臭，排泄物自带的氨/硫/酸异味需化学中和（蓖麻油锌酸酯）+物理吸附（CNC 空腔）双通道。"
+ },
+ "抗（抑）菌性能评价（杀菌率·抑菌率）": {
+  "dir": "concepts",
+  "title": "抗（抑）菌性能评价（杀菌率·抑菌率）",
+  "domain": "[法规与产品安全, 测试方法]",
+  "status": "growing",
+  "defn": "1. 两种数学口径："
+ },
+ "接枝共聚 Graft Copolymer": {
+  "dir": "concepts",
+  "title": "接枝共聚 Graft Copolymer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未对接枝共聚给形式化定义；只以其应用形态出现——以纤维素为骨架接枝合成聚合物链：HEC（羟乙基纤维素）可经交联或接枝聚丙烯酰胺（p-PAM）、PMMA、PDA 或聚丙烯酸钠而具备高吸水性（源：Cross-linked Cellulose and Its Derivatives"
+ },
+ "接触角 Contact Angle": {
+  "dir": "concepts",
+  "title": "接触角 Contact Angle",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Traceable operational role 可溯源的操作定位: contact angle enters the Laplace capillary-pressure term as P_s = 2γcosθ/r_c, i.e. it is the surface-ch"
+ },
+ "摩擦电自供电 TENG": {
+  "dir": "concepts",
+  "title": "摩擦电自供电 TENG",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "摩擦电自供电（TENG，triboelectric nanogenerator）在本库中作为无源（自供电）传感器的重要方向出现——Zhong Lin Wang 综述的自供电传感器对智能纺织品 / 卫生用品传感有直接意义（源：Wearable Electronics (Nation"
+ },
+ "摩擦纳米发电机 TENG": {
+  "dir": "concepts",
+  "title": "摩擦纳米发电机 TENG",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "改性纤维素 Modified Cellulose": {
+  "dir": "concepts",
+  "title": "改性纤维素 Modified Cellulose",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "数值模拟 Numerical Simulation": {
+  "dir": "concepts",
+  "title": "数值模拟 Numerical Simulation",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本库引用页只给出定位式口径而非定义句："
+ },
+ "断裂力学 Fracture Mechanics": {
+  "dir": "concepts",
+  "title": "断裂力学 Fracture Mechanics",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Traceable operational content 可溯源的操作内容: in the adhesion literature it appears as the fracture-energy formalism behind joint strength — peel "
+ },
+ "斯托克斯位移 Stokes Shift": {
+  "dir": "concepts",
+  "title": "斯托克斯位移 Stokes Shift",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "无溶剂氨纶（Solvent-free Spandex）": {
+  "dir": "concepts",
+  "title": "无溶剂氨纶（Solvent-free Spandex）",
+  "domain": "[卫材研发, 材料安全与法规]",
+  "status": "growing",
+  "defn": "1. 移除溶剂即移除残留路径：常规干法纺丝必须用 DMAC 溶解聚合物，成品不可避免残留微量 DMAC（见 DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制）；无溶剂路线从源头断开该路径。"
+ },
+ "无锑聚酯": {
+  "dir": "concepts",
+  "title": "无锑聚酯",
+  "domain": "[采购, 材料合规]",
+  "status": "growing",
+  "defn": "1. 锑来自催化剂而非单体：常规 PET/CoPET 缩聚普遍使用锑系催化剂，锑残留随切片带入纤维。无锑化的技术路径是换催化剂体系（钛系为主），不改变主链化学。"
+ },
+ "时间滞后法 Time Lag Method": {
+  "dir": "concepts",
+  "title": "时间滞后法 Time Lag Method",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "It is listed as one of the standard D-measurement families in Crank Ch.10 — 稳态法 / 非稳态法 / 时间滞后法（Ch.4） / 动态法 / D(C) 反演（源：Definition and Measur"
+ },
+ "智能包装 Smart Packaging": {
+  "dir": "concepts",
+  "title": "智能包装 Smart Packaging",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "No formal definition is given in the cited sources → 定义待补（引用来源未给出明确定义）. The vault records \"smart packaging\" only as (a) one of the hygiene c"
+ },
+ "智能尿裤功能层": {
+  "dir": "concepts",
+  "title": "智能尿裤功能层",
+  "domain": "[卫材研发, 智能功能化, 专利]",
+  "status": "growing",
+  "defn": "1. 四层功能定位与载体要求："
+ },
+ "智能织物 Smart Textile": {
+  "dir": "concepts",
+  "title": "智能织物 Smart Textile",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "有限体积法": {
+  "dir": "concepts",
+  "title": "有限体积法",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Finite Volume Method（有限体积法），一种将控制方程在离散单元上积分求解的数值离散方法。来源页仅列出其为四种离散方法之一（\"Finite difference, finite element, finite volume and spectral methods"
+ },
+ "有限元法": {
+  "dir": "concepts",
+  "title": "有限元法",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Finite Element Method（有限元法），将连续域离散为单元求解偏微分方程的数值方法。来源页仅在与有限差分、有限体积、谱方法并列处提及（\"Finite difference, finite element, finite volume and spectral me"
+ },
+ "有限差分法 Finite Difference": {
+  "dir": "concepts",
+  "title": "有限差分法 Finite Difference",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内给出的是可执行的格式口径："
+ },
+ "有限差分法": {
+  "dir": "concepts",
+  "title": "有限差分法",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：有限差分法 Finite Difference"
+ },
+ "木浆 Pulp": {
+  "dir": "concepts",
+  "title": "木浆 Pulp",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "机械变色 Mechanochromic": {
+  "dir": "concepts",
+  "title": "机械变色 Mechanochromic",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Mechanochromic（机械变色 / 力致变色）is colour change triggered by a mechanical input. The vault sets a hard scope rule: it covers 只由拉伸、压力、形变或剪切触发的变色，"
+ },
+ "机械脱水 Mechanical Dewatering": {
+  "dir": "concepts",
+  "title": "机械脱水 Mechanical Dewatering",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未给出机械脱水的独立定义；只以其工艺定位出现——在干燥（蒸发）之前用机械方式去除水分；对应的第一红线是「机械脱水优先」：能压掉的水不要去蒸发（源：Handbook of Industrial Drying）。"
+ },
+ "染料敏化太阳能电池 DSSC": {
+  "dir": "concepts",
+  "title": "染料敏化太阳能电池 DSSC",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Dye-Sensitised Solar Cell（染料敏化太阳能电池）：以染料敏化纳米晶 TiO₂ 为光阳极的光电化学电池。来源页未给出完整器件定义，仅记载其核心构型为\"染料敏化 TiO₂ 光阳极\"（Grätzel 体系）。[定义待补（引用来源未给出明确定义）]"
+ },
+ "柔性电子 Flexible Electronics": {
+  "dir": "concepts",
+  "title": "柔性电子 Flexible Electronics",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "格林函数 Green's Function": {
+  "dir": "concepts",
+  "title": "格林函数 Green's Function",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "棉纤维 Cotton": {
+  "dir": "concepts",
+  "title": "棉纤维 Cotton",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。The vault treats cotton as a natural cellulosic fibre, grouped with viscose in the \"天然纤维\" class among the four topsheet ma"
+ },
+ "植物基材料 Plant-Based Material": {
+  "dir": "concepts",
+  "title": "植物基材料 Plant-Based Material",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出「植物基材料」的正式定义）。"
+ },
+ "植物提取物 Plant Extract": {
+  "dir": "concepts",
+  "title": "植物提取物 Plant Extract",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出「植物提取物」的显式定义）。"
+ },
+ "每克厚度 T／W": {
+  "dir": "concepts",
+  "title": "每克厚度 T／W",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "毛细压力 Capillary Pressure": {
+  "dir": "concepts",
+  "title": "毛细压力 Capillary Pressure",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "毛细梯度设计": {
+  "dir": "concepts",
+  "title": "毛细梯度设计",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 「两根吸管」模型：细纤维层 = 高毛细压吸管（主动抽取凝胶表面游离液，防止积液与回渗）；粗纤维层 = 低阻大流量吸管（快速下送并抗压，反复冲击后仍保持通路）。"
+ },
+ "毛细管压力 Capillary Pressure": {
+  "dir": "concepts",
+  "title": "毛细管压力 Capillary Pressure",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：毛细压力 Capillary Pressure"
+ },
+ "毛细管吸收 Capillary Sorption": {
+  "dir": "concepts",
+  "title": "毛细管吸收 Capillary Sorption",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：毛细管吸收 = 液体被保持在纤维之间的孔隙中的吸收模式（区别于纤维本体吸附/吸收）；因\"纤维表面即孔壁\"，其控制变量是润湿与表面能，而不是换树脂。"
+ },
+ "毛细芯吸 Capillary Wicking": {
+  "dir": "concepts",
+  "title": "毛细芯吸 Capillary Wicking",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未对「毛细芯吸」下形式化定义；只以其驱动力 + 动力学形态出现：吸收由毛细压力驱动，外加重力 / 外压仅起次要作用（源：Porous Structure and Liquid Flow Models，p. 19；Porous Structure and Liquid Flow"
+ },
+ "气铺 Airlaid": {
+  "dir": "concepts",
+  "title": "气铺 Airlaid",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Airlaid（air-laid / airlaying，气铺/气流成网）is the dry-laid web-formation route based on aerodynamic web formation（气流成网）. The dry-laid chapter prog"
+ },
+ "氨纶干法纺丝（Spandex Dry Spinning）": {
+  "dir": "concepts",
+  "title": "氨纶干法纺丝（Spandex Dry Spinning）",
+  "domain": "[卫材研发, 弹性体与纤维工艺]",
+  "status": "growing",
+  "defn": "1. 硬段比例是抗蠕变的杠杆：提高 MDI（二异氰酸酯）含量 → 增加硬段比例 → 提高氢键化水平 → 增强抗蠕变。华峰 HDS 的差异化正是沿此路径（\"硬段强化 + 氢键网络增强\"）。"
+ },
+ "水凝胶 Hydrogel": {
+  "dir": "concepts",
+  "title": "水凝胶 Hydrogel",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "水凝胶基 SAP 的补充口径：以亲水聚合物为骨架、经交联形成三维网络，吸水后能维持吸水结构、不溶胀崩解，兼具高吸水/保水与形状恢复能力（源：Hydrogel-based Superabsorbent Polymers）。"
+ },
+ "水凝胶脱水干燥工艺族谱": {
+  "dir": "concepts",
+  "title": "水凝胶脱水干燥工艺族谱",
+  "domain": "[卫材研发, 材料加工]",
+  "status": "growing",
+  "defn": "1. 分族判据是「干态里留下什么」：族①只留纤维素骨架；族②留下孔结构但无功能组分；族③刻意留下可溶出组分（PEG/甘油/海藻酸钠），使产物可复水。此前库内只有族①与族②，族③是本次补库对象。"
+ },
+ "水刺 Hydroentanglement": {
+  "dir": "concepts",
+  "title": "水刺 Hydroentanglement",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "水性聚氨酯 Waterborne PU": {
+  "dir": "concepts",
+  "title": "水性聚氨酯 Waterborne PU",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "引用来源未给出\"水性聚氨酯\"的严格化学定义。可追溯的表述为：水性聚氨酯（Waterborne PU）胶黏剂不含 VOC 排放且不易燃（nonflammable），因此被描述为\"更环保（more environmentally friendly）\"（源：Adhesive Handb"
+ },
+ "活性炭除臭（DARCO）": {
+  "dir": "concepts",
+  "title": "活性炭除臭（DARCO）",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Per its technical datasheet (TDS, dated 6 April 2016), it targets purification of highly colored and/or foaming process liquids in the food,"
+ },
+ "流变学 Rheology": {
+  "dir": "concepts",
+  "title": "流变学 Rheology",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "浊点 Cloud Point": {
+  "dir": "concepts",
+  "title": "浊点 Cloud Point",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "消毒产品标签宣称红线（中国 GB 38598-2020）": {
+  "dir": "concepts",
+  "title": "消毒产品标签宣称红线（中国 GB 38598-2020）",
+  "domain": "[法规与产品安全, 标签合规]",
+  "status": "growing",
+  "defn": "1. 强制属性：GB（无 /T），ICS 11.080 / CCS C50，国家卫健委提出并归口；2020-11-17 发布、2021-12-01 实施；不适用于不在国内销售和使用的出口消毒产品。"
+ },
+ "润湿 Wetting": {
+  "dir": "concepts",
+  "title": "润湿 Wetting",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本库引用来源只把\"润湿\"当作操作量使用，未给出形式化定义句："
+ },
+ "润湿剂 Wetting Agent": {
+  "dir": "concepts",
+  "title": "润湿剂 Wetting Agent",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未给出「润湿剂」的独立定义，只按功能区分角色：润湿剂与再润湿剂（rewetting agent）是最易混淆的两个产品角色，其最优分子结构正好相反 —— \"many good wetting agents are poor rewetters, and vice versa\"（"
+ },
+ "液晶 Liquid Crystal": {
+  "dir": "concepts",
+  "title": "液晶 Liquid Crystal",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "深沟槽涤纶 Deep-groove Polyester": {
+  "dir": "concepts",
+  "title": "深沟槽涤纶 Deep-groove Polyester",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "No textbook definition sentence exists in the citing sources [待补]. The vault records it as a special-purpose absorbent fibre whose declared "
+ },
+ "渗透率 Permeability": {
+  "dir": "concepts",
+  "title": "渗透率 Permeability",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "渗透率 k 是达西定律中的材料属性：传导系数 K = k/μ（k 为渗透率，μ 为流体黏度），流率正比于压力梯度 q = −K·∇P（源：达西定律 Darcy's Law）。"
+ },
+ "温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）": {
+  "dir": "concepts",
+  "title": "温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）",
+  "domain": "[卫材研发, 智能功能化, 材料]",
+  "status": "growing",
+  "defn": "1. 温变（Thermochromic）机理：隐色染料（leuco dye，如 CVL/荧烷类）+ 显色剂（双酚 A 类）+ 脂肪醇/酯类相变溶剂；温度改变 → 溶剂熔融/凝固 → 电子转移或晶体结构变化 → 颜色可逆变化（也有不可逆的一次性高温指示）。"
+ },
+ "温度响应材料": {
+  "dir": "concepts",
+  "title": "温度响应材料",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。据 Hydrogel-based Superabsorbent Polymers：部分水凝胶具有温度响应性，在特定温度下发生相变，释放或保持水分。（中文：本库当前对\"温度响应材料\"的全部可溯源描述来自该 SAP 综述章节对水凝胶温度响应行为的陈"
+ },
+ "湿冷感 Wet-Cool": {
+  "dir": "concepts",
+  "title": "湿冷感 Wet-Cool",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "湿冷感（Wet-Cool）is the physical manifestation of coupled heat–moisture transport —— 它是湿热耦合的物理表现：大量吸液后局部温度下降（感觉凉），蒸发后更凉（源：Simultaneous Diffusion"
+ },
+ "湿巾 Wet Wipes": {
+  "dir": "concepts",
+  "title": "湿巾 Wet Wipes",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "湿强剂 Wet-Strength Resin": {
+  "dir": "concepts",
+  "title": "湿强剂 Wet-Strength Resin",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "湿态压缩模量": {
+  "dir": "concepts",
+  "title": "湿态压缩模量",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "引用来源未给出明确定义。库内可确认：湿态压缩模量是 Absorbent Technology Ch.11（Absorbent Product Testing）登记的吸收芯体相关测试概念之一，属于纤维/浆料验收指标体系。（源：Absorbent Product Testing）"
+ },
+ "湿态强度 Wet Strength": {
+  "dir": "concepts",
+  "title": "湿态强度 Wet Strength",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "湿感指示条 Wetness Indicator": {
+  "dir": "concepts",
+  "title": "湿感指示条 Wetness Indicator",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A wetness indicator (WI) is a consumer-visible visual signal on an absorbent article that tells the caregiver that wetness/urination has occ"
+ },
+ "湿热耦合 Heat-Moisture Coupling": {
+  "dir": "concepts",
+  "title": "湿热耦合 Heat-Moisture Coupling",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Heat-moisture coupling is the coupled transport of heat and moisture, in which the two cannot be treated independently: in a diaper in use, "
+ },
+ "湿迁移 Wet Migration": {
+  "dir": "concepts",
+  "title": "湿迁移 Wet Migration",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。引用页未给出「湿迁移」的独立定义句；相关表述均以扩散数学为母体：Fick 定律（一维/标量形式）被建立为数学公理，并由其导出 Fick 第二定律（扩散 PDE），再延伸到各向异性介质与多组分情形；SAP 溶胀动力学、芯体吸液速率、湿迁移模型的本"
+ },
+ "热传递 Heat Transfer": {
+  "dir": "concepts",
+  "title": "热传递 Heat Transfer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Heat transfer — transport of thermal energy — is treated in the vault not as a standalone subject but as one half of a coupled heat-and-mois"
+ },
+ "热熔胶 Hot Melt Adhesive": {
+  "dir": "concepts",
+  "title": "热熔胶 Hot Melt Adhesive",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。引用页未给出「热熔胶」的独立定义句，仅有分类式表述：Hot melt 体系（EVA / APAO / polyamide / TPU / curing hot melt）是芯体复合、SMS 复合、湿巾封口的最常用胶种（源：Adhesive Ha"
+ },
+ "热电现象 Thermoelectric": {
+  "dir": "concepts",
+  "title": "热电现象 Thermoelectric",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "In this vault, thermoelectricity (TE) is framed as a thermal-management + energy-harvesting function: the \"conversion of waste heat into ele"
+ },
+ "热粘合热风无纺布 Airlaid": {
+  "dir": "concepts",
+  "title": "热粘合热风无纺布 Airlaid",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": ""
+ },
+ "热致变色 Thermochromic": {
+  "dir": "concepts",
+  "title": "热致变色 Thermochromic",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Directly relevant to the hygiene chromic-ink programme — thermal-comfort and wetness indication layers on the outer surface of the article（湿"
+ },
+ "热致变色": {
+  "dir": "concepts",
+  "title": "热致变色",
+  "domain": "[待补]",
+  "status": "merged",
+  "defn": "本主题的正文见：热致变色 Thermochromic"
+ },
+ "热轧粘合 Calender Bonding": {
+  "dir": "concepts",
+  "title": "热轧粘合 Calender Bonding",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：热轧粘合是热粘合的四种传热路径之一——纤网通过加热轧辊，热塑组分软化/熔融后冷却固化形成粘合点，传热方式为传导；粘合点内生于纤维聚合物而非外加粘合剂。可在轧辊上做面积粘合（area）或点粘（point）。"
+ },
+ "热风无纺布": {
+  "dir": "concepts",
+  "title": "热风无纺布",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": "The vault carries several overlapping headings for this material/process — 热风粘合无纺布、热风粘合无纺布、热风粘合无纺布 — see Open Questions（源：本页 cited-by 与全库同名标"
+ },
+ "热风粘合无纺布": {
+  "dir": "concepts",
+  "title": "热风粘合无纺布",
+  "domain": "[卫材研发, 无纺布工艺]",
+  "status": "growing",
+  "defn": "1. 选择性熔融是本质：只熔化配方中的粘结纤维（或双组分纤维的皮层），主体纤维被「焊」在原位。若所有纤维都熔融，蓬松结构会直接塌陷——这正是热风棉能同时兼顾蓬松度与强度的原因。"
+ },
+ "热风非织造 Hot-Air Bonded Nonwoven": {
+  "dir": "concepts",
+  "title": "热风非织造 Hot-Air Bonded Nonwoven",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": ""
+ },
+ "熔喷 Meltblown": {
+  "dir": "concepts",
+  "title": "熔喷 Meltblown",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "熔融指数与化学降解": {
+  "dir": "concepts",
+  "title": "熔融指数与化学降解",
+  "domain": "[卫材研发, 聚合物加工]",
+  "status": "growing",
+  "defn": "1. MFR 与分子量、可纺性直接挂钩：纤维级 2–50 g/10min，纺粘 6–150 g/10min（ISO 1133，230°C/2.16 kg）。MFR 越高熔体流动性越好、可纺越细，但分子量越低。"
+ },
+ "爆裂纤维 Burst Fibre": {
+  "dir": "concepts",
+  "title": "爆裂纤维 Burst Fibre",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "形式化定义：定义待补（引用来源未给出明确定义）。库内引用来源给出的是工艺—功能口径：爆裂纤维（burst fibre）是低取代度（low-DS）纤维素纤维经\"机械固定溶胀态 → 干燥\"后，由干燥收缩力把纤维撑裂所得的一类高比表面吸收纤维 —— \"The swollen fiber"
+ },
+ "环氧乙烷残留（EO Residue）": {
+  "dir": "concepts",
+  "title": "环氧乙烷残留（EO Residue）",
+  "domain": "[法规与产品安全, 限用物质]",
+  "status": "growing",
+  "defn": "1. 来源：EO 消毒（灭菌）工艺的必然副产物；只有经 EO 消毒的卫生用品才考核，其他消毒方式（电离辐射、压力蒸汽）不适用本项。"
+ },
+ "环氧氯丙烷 Epichlorohydrin": {
+  "dir": "concepts",
+  "title": "环氧氯丙烷 Epichlorohydrin",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "珠光颜料 Lustre Pigment": {
+  "dir": "concepts",
+  "title": "珠光颜料 Lustre Pigment",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "What the vault does record are two optics routes to a lustrous or colours appearance without a dye molecule:"
+ },
+ "生物基单体 Bio-based Monomer": {
+  "dir": "concepts",
+  "title": "生物基单体 Bio-based Monomer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A bio-based monomer is a polymerizable monomer derived from renewable feedstock — the library names starch, cellulose, proteins and bio-base"
+ },
+ "生物基高吸水材料（大豆蛋白 SAP）": {
+  "dir": "concepts",
+  "title": "生物基高吸水材料（大豆蛋白 SAP）",
+  "domain": "[卫材研发, 吸水材料]",
+  "status": "growing",
+  "defn": "1. 动机：传统 SAP 多由丙烯酸及其衍生物聚合，存在生物降解性差、成本高的问题。"
+ },
+ "生物纤维素 Bacterial Cellulose": {
+  "dir": "concepts",
+  "title": "生物纤维素 Bacterial Cellulose",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Bacterial cellulose (BC, 细菌纤维素) is cellulose produced by bacteria, forming a high-purity, highly crystalline, hydrophilic nanoscale fibre ne"
+ },
+ "生物胶黏剂 Bioadhesive": {
+  "dir": "concepts",
+  "title": "生物胶黏剂 Bioadhesive",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。（The cited pages name 生物胶黏剂 as a chapter topic of the Adhesive Handbook but do not give a formal definition.）"
+ },
+ "甲醛 Formaldehyde": {
+  "dir": "concepts",
+  "title": "甲醛 Formaldehyde",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）：库内未给出甲醛的化学单句定义。库内实际用法有两条：① 作为受管制的痕量物质（强制国标 + CODEX™ 自愿清单）；② 作为纤维素交联/变色化学中的化学品与旧技术残留隐患。"
+ },
+ "甲醛排放 E1": {
+  "dir": "concepts",
+  "title": "甲醛排放 E1",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "E1 is cited in the vault as a formaldehyde-emission regulation applicable to UF (urea-formaldehyde) resin adhesives in the wood industry.（E1"
+ },
+ "电子纺织品 E-textile": {
+  "dir": "concepts",
+  "title": "电子纺织品 E-textile",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "电致发光 Electroluminescence": {
+  "dir": "concepts",
+  "title": "电致发光 Electroluminescence",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内口径：属于「吸收能量后发射光」的发光现象分类之一（\"Those phenomena that involve absorption of energy and subsequent emission of light are classif"
+ },
+ "电致变色 Electrochromic": {
+  "dir": "concepts",
+  "title": "电致变色 Electrochromic",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "皮肤科学 Dermatology": {
+  "dir": "concepts",
+  "title": "皮肤科学 Dermatology",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。本库中该词条由 Handbook of Cosmetic Science（Barel, van der Strate, Maibach eds., CRC Press 2009, 2nd ed.）索引页引入，作为化妆品科学的皮肤生物学支柱。（中"
+ },
+ "皮芯复合纤维": {
+  "dir": "concepts",
+  "title": "皮芯复合纤维",
+  "domain": "[卫材研发, 纤维材料]",
+  "status": "growing",
+  "defn": "1. 皮芯熔点差是关键：以最常见的 PE/PP 皮芯（即 ES 纤维）为例，皮层 PE 约 130 °C 熔融粘合，芯层 PP 熔点更高，粘合过程几乎不受影响 → 这是热风棉能同时保持蓬松回弹性与基础强度的根本原因。"
+ },
+ "相变材料 Phase Change Material": {
+  "dir": "concepts",
+  "title": "相变材料 Phase Change Material",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "No formal definition is given by the citing sources. The most precise evidenced statement is a mechanism description for PCM knits: \"microca"
+ },
+ "硅烷偶联剂 Silane Coupling Agent": {
+  "dir": "concepts",
+  "title": "硅烷偶联剂 Silane Coupling Agent",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A coupling agent is defined (by function) as \"a compound capable of chemical reaction with both the polymer and the substrate\"（源：Adhesive Ha"
+ },
+ "磷酸化纤维素 Phosphonoalkylcellulose": {
+  "dir": "concepts",
+  "title": "磷酸化纤维素 Phosphonoalkylcellulose",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A cellulose-derivative route in the cellulose superabsorbent family covered by Absorbent Technology Ch.7 (pp. 250–299). 定义待补（引用来源未给出明确定义）。中文"
+ },
+ "离子变色 Ionochromic": {
+  "dir": "concepts",
+  "title": "离子变色 Ionochromic",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Ionochromism（离子变色，含 halochromic / pH 致变色分支）：因离子环境（如 pH、离子强度）变化而引起可逆颜色变化的色变现象。来源页将其列为四大商业化色变现象之一（photochromism、thermochromism、electrochromism"
+ },
+ "离子对吸附 Ion Pair Adsorption": {
+  "dir": "concepts",
+  "title": "离子对吸附 Ion Pair Adsorption",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The four mechanisms the source lists are, in order: amphipathic adsorption（疏水基锚定、亲水基朝外，主力机制）→ ion-pair adsorption → ion exchange（表面活性剂离子置换 S"
+ },
+ "离子强度 Ionic Strength": {
+  "dir": "concepts",
+  "title": "离子强度 Ionic Strength",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "稀释便液 BM simulant A": {
+  "dir": "concepts",
+  "title": "稀释便液 BM simulant A",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": "稀释便液 = 把 BM Simulant A（便液模拟液 A）母液 按 Simulant A : 生理盐水 = 3 : 1（例 300 mL : 100 mL）兑稀后所得、代表稀便（runny stool）的测试液；改变配比即改变流体，跨配比的结果不可比较（源：BM Simula"
+ },
+ "等电点 Isoelectric Point": {
+  "dir": "concepts",
+  "title": "等电点 Isoelectric Point",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "（蛋白质口径）库内另给出一个定量值：自由抗体的等电点 pI ≈ 5.95（源：Smart Polymers Ch01 Phase Transitions and Light Scattering，L2352–2353）。"
+ },
+ "等离子处理 Plasma Treatment": {
+  "dir": "concepts",
+  "title": "等离子处理 Plasma Treatment",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "粘合剂 Binder": {
+  "dir": "concepts",
+  "title": "粘合剂 Binder",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "粘胶 Rayon": {
+  "dir": "concepts",
+  "title": "粘胶 Rayon",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": ""
+ },
+ "粘胶纤维 Viscose Fiber": {
+  "dir": "concepts",
+  "title": "粘胶纤维 Viscose Fiber",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：粘胶（viscose）是人造丝（rayon）的一种——再生纤维素纤维；原料纤维素充足且可再生；粘胶工艺源自 1880 年代英国 Cross、Bevan、Beadle 的研究。"
+ },
+ "粘附张力 Adhesion Tension": {
+  "dir": "concepts",
+  "title": "粘附张力 Adhesion Tension",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault gives an explicit dynamic form only: in the surfactant chapter, dynamic adhesion tension (γSG − γSL) = γ₂ₗ·(k/k_water)（源：The Role "
+ },
+ "纤维 Fibril": {
+  "dir": "concepts",
+  "title": "纤维 Fibril",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出独立的词典式定义）。库内\"fibril / 纤维\"出现两个可区分的口径，本页二者都登记："
+ },
+ "纤维干燥 Fiber Drying": {
+  "dir": "concepts",
+  "title": "纤维干燥 Fiber Drying",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：纤维干燥 = 从纤维群体中可控脱除水分的操作；由两个同步子过程支配——外部（环境向表面传递能量以蒸发表面水）与内部（内部水分迁移至表面并蒸发）。干燥对卫材而言不是单纯除水，而会改变材料结构。"
+ },
+ "纤维扩散 Fiber Diffusion": {
+  "dir": "concepts",
+  "title": "纤维扩散 Fiber Diffusion",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — the vault does not give a standalone definition of fibre diffusion. It is evidenced through its method chapter — Crank C"
+ },
+ "纳米纤维素基高吸水树脂（茶渣-CNC 接枝）": {
+  "dir": "concepts",
+  "title": "纳米纤维素基高吸水树脂（茶渣-CNC 接枝）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "以废茶渣为纤维素来源，经酸水解 → 漂白 → 超声纳米化得到纳米纤维素（宣称中空度 ≥80%），再与丙烯酰胺 + 中和丙烯酸接枝共聚制得的 SAP。核心工艺主张是两条减法：免通氮除氧（归因丙烯酸用量少 + 水蒸气携氧）、丙烯酸免预处理（不蒸馏除阻聚剂）。"
+ },
+ "纳米纤维素（CNC、CNF、BNC）": {
+  "dir": "concepts",
+  "title": "纳米纤维素（CNC、CNF、BNC）",
+  "domain": "[卫材研发, 材料科学]",
+  "status": "growing",
+  "defn": "1. CNC = 「刚性填料」：酸水解无定形区，留下高结晶短棒（直径 3–20 nm、长 100–500 nm），结晶度 >70%、模量 100–150 GPa；缺点是分散难、脆性大。"
+ },
+ "纸浆干燥 Pulp Drying": {
+  "dir": "concepts",
+  "title": "纸浆干燥 Pulp Drying",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：纸浆干燥 = 在机规模上把浆料脱除水分至极低含水（商品浆约 10%，即 90% 纤维 / 10% 水），以烘缸（传导）与闪蒸（对流）路线为主。对卫材而言，干燥温度历史直接决定纤维可解纤性与溶胀性。"
+ },
+ "纺粘 Spunbond": {
+  "dir": "concepts",
+  "title": "纺粘 Spunbond",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "纺粘熔喷 Spunbond-Meltblown": {
+  "dir": "concepts",
+  "title": "纺粘熔喷 Spunbond-Meltblown",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "纺粘熔喷（spunmelt）是把纺粘 Spunbond 层（S）与熔喷 Meltblown 层（M）在同一产线上复合而成的非织造布族，属 polymer-laid（熔融挤出成网）工艺家族；SMS 为其标准型，SSMMS 为五层变体（源：Nonwoven 非织造布、06_SSMMS"
+ },
+ "细菌纳米纤维素": {
+  "dir": "concepts",
+  "title": "细菌纳米纤维素",
+  "domain": "[卫材研发, 材料科学]",
+  "status": "growing",
+  "defn": "1. 材料本征优势：纳米级纤维（40–60 nm）带来高比表面积与多孔三维网络（孔隙率 >90%），持水率 200–1000×，机械性能突出（杨氏模量 78 GPa、拉伸强度 826 MPa）。这些特性使其天然适合作为负载型载体（抗菌剂/除臭剂/导电填料）与吸水/保水介质。"
+ },
+ "绒毛浆（Fluff Pulp）": {
+  "dir": "concepts",
+  "title": "绒毛浆（Fluff Pulp）",
+  "domain": "[卫材研发, 芯体结构]",
+  "status": "growing",
+  "defn": "1. 功能分工（行业基准架构）：吸收芯 = 绒毛浆 + SAP；浆负责快速芯吸，SAP 负责受压下的液体保持；典型配比纤维素/SAP = 80/20 – 90/10（EDANA AHPs 白皮书 2022）。"
+ },
+ "结构性常数 K": {
+  "dir": "concepts",
+  "title": "结构性常数 K",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Structural constant K：在高蓬松非织造布吸液速率模型 Q = (π·γ·r·cosθ·T)/(K·η·W)（Eq. 11）中，表征实际毛细网络偏离理想 Washburn 毛细管程度的经验常数。K = 1 为理想值；实测 K ≈ 4–10（源：Fluid Abs"
+ },
+ "结构色 Structural Color": {
+  "dir": "concepts",
+  "title": "结构色 Structural Color",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "羧甲基纤维素 CMC": {
+  "dir": "concepts",
+  "title": "羧甲基纤维素 CMC",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "羧甲基纤维素（carboxymethyl cellulose, CMC）是纤维素的羧甲基化醚衍生物，可作为吸水主体构筑高吸水体；其钠盐记作 CMC-Na（sodium carboxymethyl cellulose）（源：Starch-CMC Acetal Crosslinked"
+ },
+ "聚合物分散液晶 PDLC": {
+  "dir": "concepts",
+  "title": "聚合物分散液晶 PDLC",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "PDLC = polymer-dispersed liquid crystal. The source defines it as \"immiscible mixtures of liquid crystal and polymer,\" whose materials \"cons"
+ },
+ "聚合物刷 Polymer Brush": {
+  "dir": "concepts",
+  "title": "聚合物刷 Polymer Brush",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Responsiveness comes from crowding, not from the single chain: 「An inherent feature of a polymer brush with high surface coverage is strong "
+ },
+ "聚氨酯 Polyurethane": {
+  "dir": "concepts",
+  "title": "聚氨酯 Polyurethane",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出完整定义）。"
+ },
+ "聚酯水解与水分控制": {
+  "dir": "concepts",
+  "title": "聚酯水解与水分控制",
+  "domain": "[卫材研发, 聚合物加工]",
+  "status": "growing",
+  "defn": "1. 化学本质：水解是缩聚的逆反应（P–COO–P′ + H₂O → P–COOH + HO–P′）。早期表现为分子量下降而非失重（长链切成两条短链，总质量近似不变、链数增加）。"
+ },
+ "聚集诱导发光 AIE": {
+  "dir": "concepts",
+  "title": "聚集诱导发光 AIE",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Aggregation-Induced Emission（聚集诱导发光）：一类 fluorophore（AIEgen）在聚集态/固态下发光反而增强的现象，由 Tang 等 2001 年发现（源：Mechanochromic Fluorescent Polymers with AI"
+ },
+ "胆甾相液晶 Cholesteric Liquid Crystal": {
+  "dir": "concepts",
+  "title": "胆甾相液晶 Cholesteric Liquid Crystal",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — no standalone definition sentence is carried in the read excerpts. The vault registers the cholesteric (chiral-nematic) "
+ },
+ "胆甾相液晶弹性体 CLCE": {
+  "dir": "concepts",
+  "title": "胆甾相液晶弹性体 CLCE",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "CLCE = Cholesteric Liquid Crystal Elastomer（胆甾相液晶弹性体）：一种结构色力致变色弹性体 —— 受压时胆甾相螺距蓝移，颜色由物理螺距（而非染料）决定；在库内路线分类中记为 M3「CLCE mesogen orientation（介晶取向"
+ },
+ "胶乳 Latex": {
+  "dir": "concepts",
+  "title": "胶乳 Latex",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "胶乳胶黏剂 Latex": {
+  "dir": "concepts",
+  "title": "胶乳胶黏剂 Latex",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "胶接热力学 Adhesion Thermodynamics": {
+  "dir": "concepts",
+  "title": "胶接热力学 Adhesion Thermodynamics",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "胶接理论 Adhesion Theories": {
+  "dir": "concepts",
+  "title": "胶接理论 Adhesion Theories",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "胶束 Micelle": {
+  "dir": "concepts",
+  "title": "胶束 Micelle",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Surfactant molecules above the CMC self-assemble into aggregates (micelles). 定义待补（引用来源未给出明确定义）。中文：超过临界胶束浓度后，表面活性剂分子自组装形成的聚集体。"
+ },
+ "胶黏剂 Adhesive": {
+  "dir": "concepts",
+  "title": "胶黏剂 Adhesive",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — the vault does not give a dictionary-style definition. It defines the adhesive by its joint, not by the material: \"An ad"
+ },
+ "自-sizing Self-sizing": {
+  "dir": "concepts",
+  "title": "自-sizing Self-sizing",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "自-sizing（self-sizing）是一种老化失效模式（ageing failure mode）：未去除的树脂袋（unremoved resin pockets）缓慢挥发并随后沉积，在纤维素表面形成疏水斑块（patches of hydrophobic surface on"
+ },
+ "自由体积 Free Volume": {
+  "dir": "concepts",
+  "title": "自由体积 Free Volume",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "芯体测试方法与验收基准（STM）": {
+  "dir": "concepts",
+  "title": "芯体测试方法与验收基准（STM）",
+  "domain": "[卫材研发, 测试与验收]",
+  "status": "growing",
+  "defn": "1. 方法与基准是两件事：STM 编号（如 STM-00059-2）锁定的是\"怎么测\"（设备、载荷、液量、时序）；基准锁定的是\"多少算过\"（Pass / Excellent）。两者必须成对引用，否则数字不可比。"
+ },
+ "芯体通道花型设计": {
+  "dir": "concepts",
+  "title": "芯体通道花型设计",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "茂金属聚丙烯": {
+  "dir": "concepts",
+  "title": "茂金属聚丙烯",
+  "domain": "[卫材研发, 聚合物, 催化剂]",
+  "status": "growing",
+  "defn": "1. 单活性中心的均匀性红利。传统 Ziegler-Natta 催化剂是多活性中心，共聚单体会在链间分布不均；茂金属单活性中心使共聚单体分布更均匀，因而在达到同样熔点降幅时，结晶完善度的破坏更可控，强度损失更小。"
+ },
+ "荧光增白剂 Optical Brightener": {
+  "dir": "concepts",
+  "title": "荧光增白剂 Optical Brightener",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未给出荧光增白剂（optical brightener / fluorescent whitening agent, FWA）的独立定义，只给出其科学定位：它属于「能量吸收后发射光」（luminescence）这一类功能性色料，是发光现象在颜色化学中的第三维度（源：Lumin"
+ },
+ "莱赛尔 Lyocell": {
+  "dir": "concepts",
+  "title": "莱赛尔 Lyocell",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：莱赛尔/天丝是用 NMMO 直接溶剂纺丝的再生纤维素纤维；省去黄化与熟成，强度与湿模量超越传统粘胶，但存在原纤化倾向（原文 p.512）。"
+ },
+ "获取层 Acquisition Layer": {
+  "dir": "concepts",
+  "title": "获取层 Acquisition Layer",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "中文：获取层 = 吸收产品「获取–分布–保留」三层功能模型中最上一层的摄入功能层；负责快速接纳液体并向下传递。该章以三层模型作为理解超薄型吸收产品的核心框架（源：Products and Technology Perspective）。"
+ },
+ "蒙脱土 Montmorillonite": {
+  "dir": "concepts",
+  "title": "蒙脱土 Montmorillonite",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Montmorillonite (MMT) is used in the vault as an inorganic nanolayered silicate clay serving two distinct roles: a rigid nano-reinforcement "
+ },
+ "蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）": {
+  "dir": "concepts",
+  "title": "蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）",
+  "domain": "[卫材研发, SAP]",
+  "status": "growing",
+  "defn": "1. 插层聚合：OMMT 层间季铵盐有机化后与 CMC 水溶液混合，丙烯酸类单体在其间隙原位聚合，形成有机-无机纳米复合网络。"
+ },
+ "蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）": {
+  "dir": "concepts",
+  "title": "蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）",
+  "domain": "[卫材研发, SAP, 纳米纤维素]",
+  "status": "growing",
+  "defn": "1. 原料：榨糖后蔗渣风干筛分得到蔗髓（bagasse pith）。"
+ },
+ "薄膜压力分布传感（Pressure-Sensing Film）": {
+  "dir": "concepts",
+  "title": "薄膜压力分布传感（Pressure-Sensing Film）",
+  "domain": "[卫材研发, 测试与量测]",
+  "status": "growing",
+  "defn": "1. 分布式而非单点：传感单元按阵列排布，输出二维压力分布图与随时间的压力曲线，用于看「哪里压、压多久、怎么变」——这是贴合/舒适度问题的关键维度，单点力值无法给出。"
+ },
+ "藻酸盐 Alginate": {
+  "dir": "concepts",
+  "title": "藻酸盐 Alginate",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内口径：天然聚合物类 SAP 材料之一，在 SAP 综述的天然聚合物性能对比表中作为独立材料类别列出（源：Research Advances in Superabsorbent Polymers (Polymers 2024)）。"
+ },
+ "虚拟原型 Virtual Prototyping": {
+  "dir": "concepts",
+  "title": "虚拟原型 Virtual Prototyping",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Physics-based computer modelling used in place of physical prototypes to design and study absorbent structures. Within the absorbent-technol"
+ },
+ "螺噁嗪 Spiroxazine": {
+  "dir": "concepts",
+  "title": "螺噁嗪 Spiroxazine",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。"
+ },
+ "表面交联 Surface Cross-linking": {
+  "dir": "concepts",
+  "title": "表面交联 Surface Cross-linking",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义） — the vault does not carry a standalone definition sentence. Surface cross-linking is evidenced through its process pages "
+ },
+ "表面活性剂 Surfactant": {
+  "dir": "concepts",
+  "title": "表面活性剂 Surfactant",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "A surfactant, defined by function, not by structure：\"a substance which, when present at a low overall concentration in a system, exhibits a "
+ },
+ "角化 Hornification": {
+  "dir": "concepts",
+  "title": "角化 Hornification",
+  "domain": "hygiene-materials",
+  "status": "merged",
+  "defn": "角化（Hornification）即干燥角质化：干燥过程不可逆地改变纤维结构，使纤维壁闭合、纤维间焊死。工业干燥手册将其列为红线之一 ——「干燥会改变材料结构（hornification / case-hardening）」（源：Handbook of Industrial Dr"
+ },
+ "解键剂 Debonding Agent": {
+  "dir": "concepts",
+  "title": "解键剂 Debonding Agent",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "原 cited-by 来源 The Role of Surfactants 仅在其概念清单中把 「解键剂 Debonding Agent」 列为条目之一，与 表面活性剂 Surfactant、CMC 临界胶束浓度、润湿剂 Wetting Agent、再润湿剂 Rewetting "
+ },
+ "认证与法规的区别": {
+  "dir": "concepts",
+  "title": "认证与法规的区别",
+  "domain": "[采购, 合规]",
+  "status": "growing",
+  "defn": "1. 两套体系不可相互替代：没有 OEKO-TEX 认证，产品照样可以合法进入欧盟市场（前提是满足 REACH 要求）；但若欧洲买家在合同中要求认证，不做就可能失去订单。"
+ },
+ "超分子 Host-Guest Chemistry": {
+  "dir": "concepts",
+  "title": "超分子 Host-Guest Chemistry",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "本库未对 host-guest（主客体）化学给出形式化定义；相关来源中它只以其应用形态出现：超分子主客体（host-guest）调控指用主体分子对客体（金属离子 / 分子）的选择性结合来调节体系反应性（源：Molecular and Supramolecular Systems，"
+ },
+ "超细氨纶密排腰围（褶皱布纹）": {
+  "dir": "concepts",
+  "title": "超细氨纶密排腰围（褶皱布纹）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "以多根超细氨纶丝平行密排（丝径 10–80 D、间隙 0.01–0.1 mm）替代「少根粗橡筋」的腰围路线：拉伸 1–3× 后热熔胶粘接，回缩时外层无纺布形成自然褶皱布纹。三个卖点（来源原文逻辑）：丝间间隙流通空气（透气、随呼吸伸缩）、多根细分担受力（无集中力线 → 无勒痕）、褶"
+ },
+ "超高腰护脐结构（5-10cm 腰围）": {
+  "dir": "concepts",
+  "title": "超高腰护脐结构（5-10cm 腰围）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "把裤型腰围高度抬高到 5–10 cm（常规腰围「到不了肚脐」），配合内/外腰围均复合氨纶丝（20–50 根），使腰围上沿覆盖肚脐；再在内腰围中部复合护脐贴（水刺布喷涂中药草植物提取液，烘干后短切 25–100 cm²，热熔胶贴合）。卖点逻辑：保暖防受凉 + 有效成分穿戴中持续挥发"
+ },
+ "辐射冷却材料 Radiation Cooling": {
+  "dir": "concepts",
+  "title": "辐射冷却材料 Radiation Cooling",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "达西定律 Darcy's Law": {
+  "dir": "concepts",
+  "title": "达西定律 Darcy's Law",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Darcy's law（达西定律）is the governing relation for flow in porous media as used in the vault: q = −K·∇P，K = k/μ（流率正比于压力梯度，K 为传导系数 = 渗透率 k / 流体黏度"
+ },
+ "过滤材料 Filter Material": {
+  "dir": "concepts",
+  "title": "过滤材料 Filter Material",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出「过滤材料」的正式定义）。"
+ },
+ "透气弹性腰围（打孔氨纶）": {
+  "dir": "concepts",
+  "title": "透气弹性腰围（打孔氨纶）",
+  "domain": "[卫材研发]",
+  "status": "growing",
+  "defn": "在氨纶弹性布（后腰）/氨纶弹性带（前腰）上开设圆形透气孔的腰围结构：同时瞄准两个目标——减压（与腹部接触面积小、不勒紧 → 缓解勒痕）与通风（腰围区散热散湿）。在以「弹性力窗口」为主流的腰围文献里，这是少见的透气维度结构选项。"
+ },
+ "针刺 Needlepunching": {
+  "dir": "concepts",
+  "title": "针刺 Needlepunching",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Needlepunching is one of the three mechanical bonding consolidation technologies for nonwovens: fibres are mechanically interlocked into a f"
+ },
+ "银纳米线 AgNW": {
+  "dir": "concepts",
+  "title": "银纳米线 AgNW",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Silver Nanowire（银纳米线）：一维银纳米导体，用作柔性透明/可拉伸电极的导电网络材料。来源页未给出独立定义，仅在柔性电极工艺中记载其用法。[定义待补（引用来源未给出明确定义）]"
+ },
+ "锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧": {
+  "dir": "concepts",
+  "title": "锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧",
+  "domain": "[法规与产品安全, 测试方法]",
+  "status": "growing",
+  "defn": "1. 锑从哪来：PET 缩聚用三氧化二锑作催化剂（非后期添加物），现有纤维普遍如此，催化添加量约 100 ppm 量级；国内无锑 PET 切片约自 2022 年起才有。"
+ },
+ "防水透气 Waterproof Breathable": {
+  "dir": "concepts",
+  "title": "防水透气 Waterproof Breathable",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "The vault gives the operating principle, not a textbook definition: waterproof-breathable pores are 20,000× smaller than a water drop yet 70"
+ },
+ "防腐剂 Preservative": {
+  "dir": "concepts",
+  "title": "防腐剂 Preservative",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。（No cited page gives a formal definition of \"preservative\"; the pages treat it as a regulated functional group — preservat"
+ },
+ "香豆素 Coumarin": {
+  "dir": "concepts",
+  "title": "香豆素 Coumarin",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "Coumarin（香豆素）：一类荧光染料/增白剂的母体发色环系。来源页以\"香豆素荧光染料\"身份在荧光章节出现，未给出化学结构定义。[定义待补（引用来源未给出明确定义）]"
+ },
+ "驻极体 Electret": {
+  "dir": "concepts",
+  "title": "驻极体 Electret",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。（Neither cited page states a formal definition of \"electret\"; both treat it as the charged state of a nonwoven and explain"
+ },
+ "鸡毛纤维 Chicken-feather Fibre": {
+  "dir": "concepts",
+  "title": "鸡毛纤维 Chicken-feather Fibre",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "形式化定义：定义待补（引用来源未给出明确定义）。库内引用来源给出的是结构—功能口径：鸡毛纤维（chicken-feather fibre）是一种中空（hollow）的天然蛋白（角蛋白 keratin）纤维，以湿态抗塌陷（wet collapse resistance）、饱和后仍保"
+ },
+ "BASF": {
+  "dir": "entities",
+  "title": "BASF",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "bluesign": {
+  "dir": "entities",
+  "title": "bluesign",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Bostik": {
+  "dir": "entities",
+  "title": "Bostik",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. 角色定位 —— 源文把复合芯体的推进明确为两条腿：材料创新 + 资产创新，并点名 Bostik 为材料供应商（与 BASF 并列为 \"Basf/Bostik core\"）。"
+ },
+ "C1 Life Biotech": {
+  "dir": "entities",
+  "title": "C1 Life Biotech",
+  "domain": "供应商",
+  "status": "候选（PTT 树脂）",
+  "defn": ""
+ },
+ "Cabot Corporation（卡博特）": {
+  "dir": "entities",
+  "title": "Cabot Corporation（卡博特）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "China National Pulp and Paper Research Institute（中国制浆造纸研究院）": {
+  "dir": "entities",
+  "title": "China National Pulp and Paper Research Institute（中国制浆造纸研究院）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Chungnam National University and Hanyang University（韩国大学研究伙伴）": {
+  "dir": "entities",
+  "title": "Chungnam National University and Hanyang University（韩国大学研究伙伴）",
+  "domain": "机构",
+  "status": "候选（联合研发 / IP 伙伴）",
+  "defn": ""
+ },
+ "CTI (Chromatic Technologies)": {
+  "dir": "entities",
+  "title": "CTI (Chromatic Technologies)",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "CTI（Chromatic Technologies Inc.）": {
+  "dir": "entities",
+  "title": "CTI（Chromatic Technologies Inc.）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Daehyun（大炆·微胶囊）": {
+  "dir": "entities",
+  "title": "Daehyun（大炆·微胶囊）",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "Daio Paper Corporation（大王製紙）": {
+  "dir": "entities",
+  "title": "Daio Paper Corporation（大王製紙）",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "Dayuan（大原）": {
+  "dir": "entities",
+  "title": "Dayuan（大原）",
+  "domain": "供应商",
+  "status": "候选（3 梳理 REL + SAP）",
+  "defn": ""
+ },
+ "Dow Chemical Company": {
+  "dir": "entities",
+  "title": "Dow Chemical Company",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）": {
+  "dir": "entities",
+  "title": "Duke Capital Partners（Dr. Cary Ritter 力致变色 IP 目标）",
+  "domain": "研发 / IP 目标（初创生态）",
+  "status": "候选（IP 收购目标，未接触）",
+  "defn": ""
+ },
+ "EDANA（欧洲非织造布协会）": {
+  "dir": "entities",
+  "title": "EDANA（欧洲非织造布协会）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Elmarco（Elmarco 纳米纤维设备）": {
+  "dir": "entities",
+  "title": "Elmarco（Elmarco 纳米纤维设备）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Emon Jiangsu（江苏益盟）": {
+  "dir": "entities",
+  "title": "Emon Jiangsu（江苏益盟）",
+  "domain": "供应商",
+  "status": "候选（异形截面短纤）",
+  "defn": ""
+ },
+ "Evonik（赢创）": {
+  "dir": "entities",
+  "title": "Evonik（赢创）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": "1. \"被 ICIG 收购\" 的时点与完成状态未标日期，需人工核验。"
+ },
+ "Fameccanica（Angelini Technologies）": {
+  "dir": "entities",
+  "title": "Fameccanica（Angelini Technologies）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": "1. 角色定位被源文明确 —— 在复合芯体生态中，Fameccanica 是\"资产（设备）供应商\"，而 P&G 与 Drylock 是竞争对手、Bostik 是材料供应商。⇒ 对标 Fameccanica 时，对标的是设备/工艺能力，不是产品。"
+ },
+ "FENC（远东新世纪）": {
+  "dir": "entities",
+  "title": "FENC（远东新世纪）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "Fibertex（Fibertex 非织造布供应商）": {
+  "dir": "entities",
+  "title": "Fibertex（Fibertex 非织造布供应商）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Fitesa（Fitesa 非织造布）": {
+  "dir": "entities",
+  "title": "Fitesa（Fitesa 非织造布）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "Formosa Plastics（台塑）": {
+  "dir": "entities",
+  "title": "Formosa Plastics（台塑）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. BC283FAN/BC283GAN/BC283HA 在 Sheet 1、Global v2、KCC-YJ 三表中的 CRC/AUL 数值互不一致（如 BC283HA：41 / ~32），源文未解释，不取代表值。"
+ },
+ "GFL（热风无纺布）": {
+  "dir": "entities",
+  "title": "GFL（热风无纺布）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "GHC（福建冠泓·冠和）": {
+  "dir": "entities",
+  "title": "GHC（福建冠泓·冠和）",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "GIC Korea（K-C 韩国 GIC）": {
+  "dir": "entities",
+  "title": "GIC Korea（K-C 韩国 GIC）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": "1. ⚠️ GIC / KCI / KGIC 三个写法并存 —— 源文标题写 KCI，正文指向 KGIC 表格，封面写 GIC Korea；关系未说明，本页不推断。"
+ },
+ "GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）": {
+  "dir": "entities",
+  "title": "GRIFFIN Rewet Program（GRIFFIN 超低回渗项目）",
+  "domain": "项目",
+  "status": "内部研发项目",
+  "defn": ""
+ },
+ "Guoke Haina（国科海纳）": {
+  "dir": "entities",
+  "title": "Guoke Haina（国科海纳）",
+  "domain": "供应商",
+  "status": "候选（PDA / 海洋降解材料）",
+  "defn": ""
+ },
+ "H.B. Fuller（富乐）": {
+  "dir": "entities",
+  "title": "H.B. Fuller（富乐）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "HaoYue Nursing（豪悦护理）": {
+  "dir": "entities",
+  "title": "HaoYue Nursing（豪悦护理）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Henan Jiayida（河南嘉亿达）": {
+  "dir": "entities",
+  "title": "Henan Jiayida（河南嘉亿达）",
+  "domain": "供应商",
+  "status": "候选（含二级备份定位主张）",
+  "defn": ""
+ },
+ "Henkel": {
+  "dir": "entities",
+  "title": "Henkel",
+  "domain": "供应商",
+  "status": "技术交流 / 试产评估中（非合同口径）",
+  "defn": ""
+ },
+ "Huayi Group（待核中文名）": {
+  "dir": "entities",
+  "title": "Huayi Group（待核中文名）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "IFRA（国际香料协会）": {
+  "dir": "entities",
+  "title": "IFRA（国际香料协会）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Intellego Technologies AB": {
+  "dir": "entities",
+  "title": "Intellego Technologies AB",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "IPC BCC（K-C Baby & Child Care 材料开发团队）": {
+  "dir": "entities",
+  "title": "IPC BCC（K-C Baby & Child Care 材料开发团队）",
+  "domain": "机构",
+  "status": "内部团队（本库服务对象所在组织）",
+  "defn": ""
+ },
+ "KC Nanjing Plant（金佰利南京厂）": {
+  "dir": "entities",
+  "title": "KC Nanjing Plant（金佰利南京厂）",
+  "domain": "机构",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "KC Tianjin Mill（金佰利天津厂）": {
+  "dir": "entities",
+  "title": "KC Tianjin Mill（金佰利天津厂）",
+  "domain": "机构",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "Kimberly-Clark（金佰利）": {
+  "dir": "entities",
+  "title": "Kimberly-Clark（金佰利）",
+  "domain": "竞品",
+  "status": "竞品对标 | 信息源（专利）",
+  "defn": "1. Free to practise（可自由实施）：专利已失效，调整后期限止于 2026 年 10 月；在美国实施该概念不构成对该专利族的侵权暴露。"
+ },
+ "Kimtech（毛细测试设备外协加工与装配）": {
+  "dir": "entities",
+  "title": "Kimtech（毛细测试设备外协加工与装配）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "Koch Industries": {
+  "dir": "entities",
+  "title": "Koch Industries",
+  "domain": "供应商 supplier",
+  "status": "待核",
+  "defn": ""
+ },
+ "Kuraray（可乐丽）": {
+  "dir": "entities",
+  "title": "Kuraray（可乐丽）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Levima New Materials（联泓新材料）": {
+  "dir": "entities",
+  "title": "Levima New Materials（联泓新材料）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "来源 01_PLA_PPC_可降解材料研究报告.md（2026-04，行业口径 [待验证]）：确认联泓全产业链可降解布局——PLA 4 万吨/年 + 乳酸 10 万吨/年（江西科院生物新材料，2024 年投产）；PPC 5 万吨/年（联泓格润·山东，2025 年底投产，投资约 1"
+ },
+ "LG Chem（LG 化学）": {
+  "dir": "entities",
+  "title": "LG Chem（LG 化学）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "LUGH Liner Program（LUGH 面层项目）": {
+  "dir": "entities",
+  "title": "LUGH Liner Program（LUGH 面层项目）",
+  "domain": "项目",
+  "status": "内部研发项目",
+  "defn": ""
+ },
+ "Main S.p.A.（SOFTCARE HAF）": {
+  "dir": "entities",
+  "title": "Main S.p.A.（SOFTCARE HAF）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. SAF 纤维来源未确认（源文为\"很可能来自 TAL\"）。"
+ },
+ "Mannequin Lab（Rockwell 假人平台）": {
+  "dir": "entities",
+  "title": "Mannequin Lab（Rockwell 假人平台）",
+  "domain": "机构 / 设备平台",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Matsui Shikiso (松井)": {
+  "dir": "entities",
+  "title": "Matsui Shikiso (松井)",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Nagase（长濑产业）": {
+  "dir": "entities",
+  "title": "Nagase（长濑产业）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. 它定义了\"海洋可降解 SAP\"的认证门槛参照：180 天 ≥90% CO₂ 转化（ASTM D6691 / ISO 16204）。"
+ },
+ "Nichidai（日丝）": {
+  "dir": "entities",
+  "title": "Nichidai（日丝）",
+  "domain": "供应商（成型丝网 / 印花芯体套筒）",
+  "status": "候选询价对象（未确认供货 / 未确认可制造性）",
+  "defn": "1. 本页原记为 [待验证] 的转述源已有一手来源页 —— 「Patterned SAP core 6.pptx」现已编译为独立 source 页，其中关于 Nichidai 的口径可直接核验（此前系经 84 号与 One Drum Two Ups 两份派生文件转述）。"
+ },
+ "Nippon Shokubai（日本触媒）": {
+  "dir": "entities",
+  "title": "Nippon Shokubai（日本触媒）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "OEKO-TEX": {
+  "dir": "entities",
+  "title": "OEKO-TEX",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Ontex": {
+  "dir": "entities",
+  "title": "Ontex",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "OxyChem": {
+  "dir": "entities",
+  "title": "OxyChem",
+  "domain": "supplier",
+  "status": "供应商（登记于《Absorbent Technology》供应商条目）",
+  "defn": ""
+ },
+ "PPG Industries": {
+  "dir": "entities",
+  "title": "PPG Industries",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "PPS（触感压力传感）": {
+  "dir": "entities",
+  "title": "PPS（触感压力传感）",
+  "domain": "供应商",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Qiansebian（千色变新材料）": {
+  "dir": "entities",
+  "title": "Qiansebian（千色变新材料）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Rengo Nonwoven Products": {
+  "dir": "entities",
+  "title": "Rengo Nonwoven Products",
+  "domain": "供应商",
+  "status": "候选（日方合作方 · 电气石功能纤维）",
+  "defn": ""
+ },
+ "Rextac（APAO 热熔胶）": {
+  "dir": "entities",
+  "title": "Rextac（APAO 热熔胶）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "RKW SE": {
+  "dir": "entities",
+  "title": "RKW SE",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Sabic": {
+  "dir": "entities",
+  "title": "Sabic",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Sanyo Chemical · SDP Global（三洋化成工业）": {
+  "dir": "entities",
+  "title": "Sanyo Chemical · SDP Global（三洋化成工业）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Satellite Chemical（卫星化学）": {
+  "dir": "entities",
+  "title": "Satellite Chemical（卫星化学）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "SCA Hygiene Products AB": {
+  "dir": "entities",
+  "title": "SCA Hygiene Products AB",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "SCCS（欧盟消费者安全科学委员会）": {
+  "dir": "entities",
+  "title": "SCCS（欧盟消费者安全科学委员会）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "SDHY Group（非织造布）": {
+  "dir": "entities",
+  "title": "SDHY Group（非织造布）",
+  "domain": "供应商",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Shalag（Shalag 导流层与面层材料）": {
+  "dir": "entities",
+  "title": "Shalag（Shalag 导流层与面层材料）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "Shandong Nameixin Biotechnology（山东纳美欣生物科技）": {
+  "dir": "entities",
+  "title": "Shandong Nameixin Biotechnology（山东纳美欣生物科技）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "来源 高吸水纤维技术应用.pdf（2026-05-03）补充：注册资本 300 万元；山东省瞪羚企业、专精特新企业；科研合作方为中科院微生物研究所、复旦大学、齐鲁工业大学；古籍修复领域持有多项纳米纤维素加固专利（纤维涂布/转移加固装置、负压梯度加热干燥装置）；股权结构为大股东徐梅"
+ },
+ "Shenghong Group（盛虹集团）": {
+  "dir": "entities",
+  "title": "Shenghong Group（盛虹集团）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. 源文为二手公开资料汇编（百科、行业报告、B2B listings），无供应商直核；产能除盛虹披露值外不可作为供应保障依据。"
+ },
+ "Shenzhen Xingcheng（深圳星辰）": {
+  "dir": "entities",
+  "title": "Shenzhen Xingcheng（深圳星辰）",
+  "domain": "供应商",
+  "status": "候选（成本杠杆 / 进口替代）",
+  "defn": ""
+ },
+ "Shin-Etsu Chemical（信越化学）": {
+  "dir": "entities",
+  "title": "Shin-Etsu Chemical（信越化学）",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "SNF（法国）": {
+  "dir": "entities",
+  "title": "SNF（法国）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Sumitomo Seika（住友精化）": {
+  "dir": "entities",
+  "title": "Sumitomo Seika（住友精化）",
+  "domain": "供应商",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "Sun Chemical": {
+  "dir": "entities",
+  "title": "Sun Chemical",
+  "domain": "供应商（可印刷力致变色油墨 / 涂层）",
+  "status": "供应商候选 / 竞品（力致变色油墨）",
+  "defn": ""
+ },
+ "Suzano（书赞桉诺）": {
+  "dir": "entities",
+  "title": "Suzano（书赞桉诺）",
+  "domain": "浆厂",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "Suzhou Yimeng (Mono-PET Spinner)": {
+  "dir": "entities",
+  "title": "Suzhou Yimeng (Mono-PET Spinner)",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Symrise（德之馨）": {
+  "dir": "entities",
+  "title": "Symrise（德之馨）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "Technical Absorbents Ltd（TAL）": {
+  "dir": "entities",
+  "title": "Technical Absorbents Ltd（TAL）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. 产能数字未公开——源文仅给星级评价，无吨位/月出货量；\"提前 6–12 个月产能预留\"是建议而非已验证的周期。"
+ },
+ "The LYCRA Company（莱卡）": {
+  "dir": "entities",
+  "title": "The LYCRA Company（莱卡）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. \"无油无粉\"被定为莱卡最深的一条护城河 —— 源文把表面油剂单列一项并注明「莱卡安全性优势明显」；其场景价值被表述为直接接触婴儿皮肤更安全。这是华峰在 7 项对比中唯一被判为\"明显劣势\"的性能/安全项（其余为性价比与合规成本）。"
+ },
+ "The Procter & Gamble Company（宝洁）": {
+  "dir": "entities",
+  "title": "The Procter & Gamble Company（宝洁）",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": "1. 物质安全：P&G 在物质安全上「绝对是行业标杆」；对无锑（Sb-free，锑系催化剂替代）等议题数年前已有要求并商业化；历史上对塑化剂等问题高度重视并投入整改。"
+ },
+ "Tianjin Security-Chemical（天津塞特瑞科技）": {
+  "dir": "entities",
+  "title": "Tianjin Security-Chemical（天津塞特瑞科技）",
+  "domain": "供应商（光致变色染料 / 特种化学品）",
+  "status": "候选（力响应路线的**原料级第一采购锚点**，推断级）",
+  "defn": ""
+ },
+ "TotalEnergies": {
+  "dir": "entities",
+  "title": "TotalEnergies",
+  "domain": "供应商",
+  "status": "竞品对标 / 候选",
+  "defn": ""
+ },
+ "Toyobo（东洋纺）": {
+  "dir": "entities",
+  "title": "Toyobo（东洋纺）",
+  "domain": "供应商",
+  "status": "信息源",
+  "defn": ""
+ },
+ "TTOBMA（木浆市场研究与价格指数机构）": {
+  "dir": "entities",
+  "title": "TTOBMA（木浆市场研究与价格指数机构）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": "（信息源，无供货关系；按日期登记其对本库的输入。）"
+ },
+ "Unicharm Corporation（尤妮佳）": {
+  "dir": "entities",
+  "title": "Unicharm Corporation（尤妮佳）",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "Unikorn": {
+  "dir": "entities",
+  "title": "Unikorn",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": "（注：英文版与 v2 Final 写 \"4 km / 数量 2 km\"，Summary 写 \"2 km\"；长度口径不一致，标 [待验证]。）"
+ },
+ "University of Waterloo（滑铁卢大学）": {
+  "dir": "entities",
+  "title": "University of Waterloo（滑铁卢大学）",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "Wanhua Chemical（万华化学）": {
+  "dir": "entities",
+  "title": "Wanhua Chemical（万华化学）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. WH 系列与 WHS 系列是否为同一产品族（WH700 vs WHS 700），源文未说明，不合并。"
+ },
+ "Yundi（佛山裕迪）": {
+  "dir": "entities",
+  "title": "Yundi（佛山裕迪）",
+  "domain": "供应商",
+  "status": "信息源",
+  "defn": ""
+ },
+ "三房巷": {
+  "dir": "entities",
+  "title": "三房巷",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "上海德福伦": {
+  "dir": "entities",
+  "title": "上海德福伦",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "1. 4T锌力康：ZnO 熔体添加型抗菌涤纶（4T 方形截面），纺纱型 1.56–6.67 dtex / 32–102 mm、填充型 6–76 mm、非织造型 32–65 mm（卫品非织造直接适用）；AAA 级抗菌（洗 50 次 94.2/88.0/89.8%）、非溶出（抑菌圈 "
+ },
+ "东丽": {
+  "dir": "entities",
+  "title": "东丽",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内唯一可溯源事实：本页被 Nonwovens in Absorbent Materials（Absorbent Technology 一书第 10 章，Gupta & Smith, 2002）的 Related Pages 列为供应商（sup"
+ },
+ "东华大学": {
+  "dir": "entities",
+  "title": "东华大学",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": ""
+ },
+ "东莞市天正纸业有限公司": {
+  "dir": "entities",
+  "title": "东莞市天正纸业有限公司",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": ""
+ },
+ "中弘芯（青岛）传感科技（Zhonghangxin Sensing）": {
+  "dir": "entities",
+  "title": "中弘芯（青岛）传感科技（Zhonghangxin Sensing）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "中石化": {
+  "dir": "entities",
+  "title": "中石化",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "中石油石化研究院": {
+  "dir": "entities",
+  "title": "中石油石化研究院",
+  "domain": "机构 / 供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "中科依兰": {
+  "dir": "entities",
+  "title": "中科依兰",
+  "domain": "供应商",
+  "status": "现有供应商（NDA 已签）",
+  "defn": ""
+ },
+ "仪征化纤": {
+  "dir": "entities",
+  "title": "仪征化纤",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "优彩环保": {
+  "dir": "entities",
+  "title": "优彩环保",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "兰精集团": {
+  "dir": "entities",
+  "title": "兰精集团",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "利安德巴塞尔": {
+  "dir": "entities",
+  "title": "利安德巴塞尔",
+  "domain": "供应商",
+  "status": "竞品对标 / 候选",
+  "defn": ""
+ },
+ "华东师范大学": {
+  "dir": "entities",
+  "title": "华东师范大学",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "华峰集团（Huafon Group）": {
+  "dir": "entities",
+  "title": "华峰集团（Huafon Group）",
+  "domain": "供应商",
+  "status": "现有供应商 | 候选",
+  "defn": "✅ 验证记录（2026-09-29）：以上参数均为供应商自述，未见第三方或本方实测；MVTR 与复合克重（15–20 克 / 28 克）口径存在歧义，标 [待验证]。参见 DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制、Electrospinning（静电纺丝）、汉高、"
+ },
+ "厦门翔鹭": {
+  "dir": "entities",
+  "title": "厦门翔鹭",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "嘉兴新丰": {
+  "dir": "entities",
+  "title": "嘉兴新丰",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "天富龙集团（Tinfulong Group）": {
+  "dir": "entities",
+  "title": "天富龙集团（Tinfulong Group）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "天津石化": {
+  "dir": "entities",
+  "title": "天津石化",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "宁波大发": {
+  "dir": "entities",
+  "title": "宁波大发",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "宜兴丹森科技有限公司": {
+  "dir": "entities",
+  "title": "宜兴丹森科技有限公司",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "巴斯夫欧洲公司（BASF SE）": {
+  "dir": "entities",
+  "title": "巴斯夫欧洲公司（BASF SE）",
+  "domain": "供应商",
+  "status": "候选 | 信息源",
+  "defn": ""
+ },
+ "广州石化": {
+  "dir": "entities",
+  "title": "广州石化",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "广鸿新材": {
+  "dir": "entities",
+  "title": "广鸿新材",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "延江（Yanjan）": {
+  "dir": "entities",
+  "title": "延江（Yanjan）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": "✅ 验证记录（2026-09-29）：以上为竞争/同行供应商在会上的转述，未经延江或韩国客户确认，属二手信息；引用前须回溯原文。参见 Coform Composite Nonwoven（熔喷-木浆复合非织造）、Meltblown Nonwoven（熔喷非织造布）。"
+ },
+ "德泽贸易（松井中国代理商）": {
+  "dir": "entities",
+  "title": "德泽贸易（松井中国代理商）",
+  "domain": "机构",
+  "status": "信息源 | 候选",
+  "defn": ""
+ },
+ "恒安（Hengan）": {
+  "dir": "entities",
+  "title": "恒安（Hengan）",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "恒碳（Hengtan）": {
+  "dir": "entities",
+  "title": "恒碳（Hengtan）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "恒逸": {
+  "dir": "entities",
+  "title": "恒逸",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "新维盛集团（Xinweisheng Group）": {
+  "dir": "entities",
+  "title": "新维盛集团（Xinweisheng Group）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "昆明理工大学": {
+  "dir": "entities",
+  "title": "昆明理工大学",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "格菲林（Gefilin）": {
+  "dir": "entities",
+  "title": "格菲林（Gefilin）",
+  "domain": "供应商",
+  "status": "候选 | 现有供应商",
+  "defn": ""
+ },
+ "桐昆集团": {
+  "dir": "entities",
+  "title": "桐昆集团",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "汇维仕": {
+  "dir": "entities",
+  "title": "汇维仕",
+  "domain": "供应商",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "汉高": {
+  "dir": "entities",
+  "title": "汉高",
+  "domain": "供应商",
+  "status": "技术合作方 / 候选",
+  "defn": "1. 必谈三项 = 汉高核心优势区 —— 生物基结构胶、超低添加量、弹性材料专用胶被判定为\"直接影响下一代产品竞争力\"；这三项可作为评估汉高技术领先度的锚点议题。"
+ },
+ "江南高纤": {
+  "dir": "entities",
+  "title": "江南高纤",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "海南拜瑞科": {
+  "dir": "entities",
+  "title": "海南拜瑞科",
+  "domain": "供应商",
+  "status": "现有供应商（NDA 已签）",
+  "defn": ""
+ },
+ "皖维高新": {
+  "dir": "entities",
+  "title": "皖维高新",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "盐城市中联": {
+  "dir": "entities",
+  "title": "盐城市中联",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "盛色科技（BLOCLO）": {
+  "dir": "entities",
+  "title": "盛色科技（BLOCLO）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "福地（Fudi）": {
+  "dir": "entities",
+  "title": "福地（Fudi）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": "✅ 验证记录（2026-09-29）：以上为供应商自述与会议口径，非本方实测；K-C 月度供货量级、无锑成本增量属商务敏感，已在源摘要页以 🔴 manual_review 标注，本页不展开。参见 Antimony-Free PET Fibre（无锑 PET 纤维）、热风粘合无纺布"
+ },
+ "福建兴泰": {
+  "dir": "entities",
+  "title": "福建兴泰",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "福建闽瑞新合纤": {
+  "dir": "entities",
+  "title": "福建闽瑞新合纤",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": "✅ 验证记录（2026-09-29）：50% 份额为下游客户自述口径，非闽瑞官方披露；起积量与报废案例为客户经验值，标 [待验证]。参见 新维盛集团（Xinweisheng Group）、江南高纤、热风粘合无纺布。"
+ },
+ "紫华公司（Zihua, Zijiang Group）": {
+  "dir": "entities",
+  "title": "紫华公司（Zihua, Zijiang Group）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": ""
+ },
+ "美鑫达（XDM）": {
+  "dir": "entities",
+  "title": "美鑫达（XDM）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "联欣环保科技（泰兴）": {
+  "dir": "entities",
+  "title": "联欣环保科技（泰兴）",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "舒美": {
+  "dir": "entities",
+  "title": "舒美",
+  "domain": "hygiene-materials",
+  "status": "growing",
+  "defn": "定义待补（引用来源未给出明确定义）。库内唯一可溯源事实：本页被 Nonwovens in Absorbent Materials（Absorbent Technology 一书第 10 章，Gupta & Smith, 2002）的 Related Pages 列为供应商（sup"
+ },
+ "花王株式会社（Kao Corporation）": {
+  "dir": "entities",
+  "title": "花王株式会社（Kao Corporation）",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "诺尔（Nuoer）": {
+  "dir": "entities",
+  "title": "诺尔（Nuoer）",
+  "domain": "供应商",
+  "status": "现有供应商",
+  "defn": "✅ 验证记录（2026-09-29）：高 GBP 牌号参数来自会议转述（「我看了一下参数」），非实测数据；GBP ≈40、CRC 略降为参数表口径，须以诺尔正式 TDS 复核。参见 COCO V6 Trial Code Design & Process Alignment（录音纪"
+ },
+ "贵州卡布婴童用品有限责任公司": {
+  "dir": "entities",
+  "title": "贵州卡布婴童用品有限责任公司",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "赛得利": {
+  "dir": "entities",
+  "title": "赛得利",
+  "domain": "供应商",
+  "status": "候选",
+  "defn": ""
+ },
+ "道恩集团（Dawn Group）": {
+  "dir": "entities",
+  "title": "道恩集团（Dawn Group）",
+  "domain": "供应商",
+  "status": "信息源",
+  "defn": ""
+ },
+ "锦琪昶（KSC, King's Choice）": {
+  "dir": "entities",
+  "title": "锦琪昶（KSC, King's Choice）",
+  "domain": "供应商",
+  "status": "待核",
+  "defn": ""
+ },
+ "陕西科技大学": {
+  "dir": "entities",
+  "title": "陕西科技大学",
+  "domain": "机构",
+  "status": "信息源",
+  "defn": "（无；本页为机构信息页，不涉及商务。）"
+ },
+ "露乐健康科技股份有限公司": {
+  "dir": "entities",
+  "title": "露乐健康科技股份有限公司",
+  "domain": "竞品",
+  "status": "竞品对标",
+  "defn": ""
+ },
+ "아시아나노텍 주식회사（Asiananotech）": {
+  "dir": "entities",
+  "title": "아시아나노텍 주식회사（Asiananotech）",
+  "domain": "技术主体",
+  "status": "情报源",
+  "defn": ""
+ }
+}

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "CTMP 化学热磨浆"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [pulp, CTMP, BCTMP, cellulose-superabsorbent, market-pulp]
@@ -43,7 +43,6 @@ tags: [pulp, CTMP, BCTMP, cellulose-superabsorbent, market-pulp]
 - WRV 131 的测量条件与对照基准：`[待补]`。
 
 ## Related Sources 关联来源
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Cross-linked Cellulose and Its Derivatives]]
 - [[WRV 水保留值]]
 - [[Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）]]

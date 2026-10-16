@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Pain-Point Backward Derivation（痛点倒推法）"
-domain: [卫材研发, 方法论, 立项与拜访]
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-29
 tags: [痛点倒推法, 材料角色, 交付形态, 立项模板, 候选集准入, BNC]
@@ -58,3 +58,8 @@ tags: [痛点倒推法, 材料角色, 交付形态, 立项模板, 候选集准�
 
 - [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md`
 - [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md`
+
+## Related Sources 关联来源
+
+- [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]]
+- [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]]

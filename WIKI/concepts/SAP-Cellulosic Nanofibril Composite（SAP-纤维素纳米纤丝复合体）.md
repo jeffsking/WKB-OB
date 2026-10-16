@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 纳米纤维素, NFC, MFC, 凝胶强度, 凝胶堵塞, SCA]
@@ -61,3 +61,12 @@ aliases: ["NFC-SAP composite", "SAP-纤维素纳米纤丝复合体"]
 - [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/WO2010071584A1.pdf.md`（同族另含 `US9162007.pdf.md`、`US9162007 (1).pdf.md`）
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观摘录**，不构成侵权或 FTO 判断；本族含 PCT 与 US 成员，各地域法律状态须逐件核实。
+
+## Related Sources 关联来源
+
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[CMC-Na CA CNF SAP original article.pdf]]
+- [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]]
+- [[Nanocellulose Review（纳米纤维素综述 · 2026-09-09）]]
+- [[Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021)]]
+- [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]]

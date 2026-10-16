@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:RAW -path:.tools",
+  "search": "-path:RAW -path:RAW_FULL -path:.tools -path:TEMPLATES",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.059326171874997474,
+  "scale": 0.11660891579457229,
   "close": true
 }

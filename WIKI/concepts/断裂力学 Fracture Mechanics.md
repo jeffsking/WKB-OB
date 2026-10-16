@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "断裂力学 Fracture Mechanics"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [断裂力学, 胶接强度, 剥离强度, 断裂韧性, 非织造力学]

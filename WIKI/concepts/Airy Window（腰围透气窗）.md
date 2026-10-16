@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Airy Window（腰围透气窗）"
-domain: [卫材研发, 透气与热舒适]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [airy window, 透气腰围, waistband window, die-cut, breathability]
@@ -40,3 +40,9 @@ tags: [airy window, 透气腰围, waistband window, die-cut, breathability]
 ## 来源
 
 - [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md`
+
+## Related Sources 关联来源
+
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]

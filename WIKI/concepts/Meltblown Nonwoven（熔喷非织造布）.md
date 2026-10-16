@@ -139,3 +139,21 @@ tags: [熔喷, Meltblown, 纤维直径, 孔密度, 阻隔, SMS, SMMMS]
 > 🔴 **manual_review（2026-09-29）**：法律状态（是否仍在 154(b) 延长后的有效期内、有无更正后再公告）与侵权比对**不作 AI 结论**，详见该源摘要页。
 >
 > 追加 `[待验证]`：3–10 µm 窗口在本库主力 SSMMS/SMMMS 结构中的对应纺丝参数（该来源只给结果指标，未给对应的 g/hole/min 与射流速度）。
+
+## Related Sources 关联来源
+
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]
+- [[Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）]]
+- [[Manufactured Fibre Technology Ch01 Introduction]]
+- [[Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres]]
+- [[Manufactured Fibre Technology Ch03 Fluid Flow in Fibre Spinning]]
+- [[Manufactured Fibre Technology Ch04 Melt-Spinning Processes]]
+- [[Manufactured Fibre Technology Ch05 Computer Simulation of Melt Spinning]]
+- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]
+- [[Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes]]
+- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]
+- [[无纺布分类工艺及性能差异.docx]]
+- [[纳米纤维素供应商拜访计划 V3.1（2026Q2）]]
+- [[纸尿裤核心技术与应用材料全景解析]]

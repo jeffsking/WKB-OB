@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Formation-Limited Barrier（阻隔的成形受限机理）"
-domain: [卫材研发, 阻隔性能, 统计力学]
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-29
 tags: [阻隔, 静水压, 成形CV, Gumbel, 多束, 克重, 极值统计]
@@ -61,3 +61,10 @@ tags: [阻隔, 静水压, 成形CV, Gumbel, 多束, 克重, 极值统计]
 
 - [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md`
 - [[无纺布五大工艺对比]] —— 库内页（过滤精度视角的对照基线）
+
+## Related Sources 关联来源
+
+- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]
+- [[Raw Material STM - Nanjing Plant（原材料STM-NJ）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]

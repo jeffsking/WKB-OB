@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）"
-domain: [卫材研发, 智能功能化, 材料]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [微胶囊, 温变, 湿变, 尿显, leuco, 壁材, 包覆率, 粒径]
@@ -56,3 +56,12 @@ aliases: ["温变湿变微胶囊（Thermochromic/Hydrochromic Microcapsules）"]
 ## 来源 Sources
 
 - [[温变湿变微胶囊技术参数对比表]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/温变湿变微胶囊技术参数对比表.xlsx.md`（2026-09-29 建立）
+
+## Related Sources 关联来源
+
+- [[Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN 副本一）]]
+- [[Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN）]]
+- [[NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）]]
+- [[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]
+- [[温变湿变微胶囊技术参数对比表]]
+- [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]]

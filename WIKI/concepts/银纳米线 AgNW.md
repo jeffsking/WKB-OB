@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "银纳米线 AgNW"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [AgNW, flexible-electrode, PDMS, wearable-sensor]

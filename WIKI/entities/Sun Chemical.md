@@ -48,3 +48,6 @@ tags: [entity, supplier, ink, mechanochromic, printable-ink, chromic, BPA-free]
 - [[Chromic Phenomena Introduction and Reversible Colour Change]]
 - 同类实体：[[CTI（Chromatic Technologies Inc.）]]、[[BASF]]、[[Clariant]]、[[DIC]]、[[Ardex]]
 - 相关概念：[[Mechanophore Mechanochromism（机械力致变色分子）]]
+- [[光子晶体膜拉伸贴合指示器]]
+- [[消费者可见（consumer-visible）的话，最像样的]]
+

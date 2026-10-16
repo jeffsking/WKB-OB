@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "GATS 重力吸收测试"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [testing, absorption, gats]

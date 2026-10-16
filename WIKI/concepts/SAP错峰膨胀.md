@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP错峰膨胀"
-domain: [卫材研发, 高吸水树脂]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-29
 tags: [SAP, 双SAP架构, 错峰膨胀, 回渗, AUL]
@@ -139,3 +139,35 @@ aliases: ["SAP 错峰膨胀（Staggered Swelling）"]
 ### 6. 专利证据追加（2026-09-29）
 
 > ✅ 验证（2026-09-29，来源 [[CN 218515875 U（一种吸水性强的婴幼儿用尿裤·福建三只小猪）]]）：本页「错峰/梯度吸水」思路在专利文献中有一件**参数化实施例**——实用新型 CN 218515875 U 给出四档速度-粒径阶梯（330–340 µm/55–60 s → 320–330 µm/45–55 s → 300–320 µm/35–45 s → 280–300 µm/25–35 s，自上而下逐层加速；底层改用反向悬浮聚合葡萄状颗粒），并要求中间层蓬松布 SAP 占比 10–15% 留膨胀空间。本追加未修正本页任何既有结论；其吸收速度口径未注明测试标准 `[待验证]`。
+
+## Related Sources 关联来源
+
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）]]
+- [[CN 218515875 U（一种吸水性强的婴幼儿用尿裤·福建三只小猪）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]
+- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]
+- [[OI项目清单与优先级]]
+- [[PEG-多元醇 × 纤维素吸水体系交叉索引]]
+- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）]]
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]
+- [[STM-00305 SAM分布.docx]]
+- [[Three-Way SAP Design Comparison（三方案 SAP 设计仿真对比）]]
+- [[全芯体材料清单与实验计划 v2.0]]
+- [[芯体花型设计评审会（录音纪要 20260724）]]
+

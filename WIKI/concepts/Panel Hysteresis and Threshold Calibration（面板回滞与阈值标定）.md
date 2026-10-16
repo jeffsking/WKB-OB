@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）"
-domain: [卫材研发, 测试方法, 应变指示]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [回滞, 应力松弛, 阈值标定, ΔE, 合身指示器, 测试方法]
@@ -68,3 +68,9 @@ tags: [回滞, 应力松弛, 阈值标定, ΔE, 合身指示器, 测试方法]
 
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md`
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
+- [[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]

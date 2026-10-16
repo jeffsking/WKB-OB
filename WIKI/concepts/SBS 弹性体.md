@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SBS 弹性体"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [SBS, 苯乙烯嵌段共聚物, 热熔胶, 弹性体, PSA, 无纺布复合]
@@ -53,3 +53,17 @@ tags: [SBS, 苯乙烯嵌段共聚物, 热熔胶, 弹性体, PSA, 无纺布复合
 - [[卫材胶黏系统 Hygiene Adhesive Systems]]
 - [[Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）]]
 - [[Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[Introduction to Physical Polymer Science_ch9_report]]
+- [[Introduction to Physical Polymer Science_原始引用索引.csv]]
+- [[Introduction to Physical Polymer Science_深度拆书_full]]
+- [[Manufactured Fibre Technology · Manufactured_Fibre_Technology_聚合科学交叉参考（PoP）]]
+- [[Principles of Polymerization README]]
+- [[Principles_of_Polymerization_深度拆书_full]]
+- [[Seymour Polymer Chemistry_batch2_concepts]]
+- [[Seymour Polymer Chemistry_synthesis]]
+- [[东莞市藩泰新材料有限公司产品新目录]]
+- [[纸尿裤材料必读书单_v1]]
+- [[纸尿裤材料必读书单_v2_专题]]
+- [[终于有人讲清楚聚合反应的类型了！]]
+

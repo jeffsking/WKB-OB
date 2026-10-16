@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Blizzard Core（Blizzard 芯体结构）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [Blizzard, 无绒毛浆芯体, fluffless, SAM, 芯体胶, 全包裹, 回渗, 高吸水树脂]
@@ -61,3 +61,12 @@ tags: [Blizzard, 无绒毛浆芯体, fluffless, SAM, 芯体胶, 全包裹, 回�
 
 - [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md`
 - 源文引用的内部资料：ROTC Operations Training；YK Absorbent Core_Global ActiveTech Forum_May 2024；ROTC HBC POV_Mar.2026
+
+## Related Sources 关联来源
+
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]]
+- [[__一句话：ActiveTech 是平台_工艺能力，Bliz]]

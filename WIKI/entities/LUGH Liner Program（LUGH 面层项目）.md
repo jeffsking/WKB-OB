@@ -42,3 +42,7 @@ tags: [回渗, 面层, liner, LUGH, Fibertex, 项目代号]
 ## 来源 Sources
 
 - [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md`
+
+## Related Sources 关联来源
+
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]

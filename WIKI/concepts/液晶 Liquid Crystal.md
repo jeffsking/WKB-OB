@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "液晶 Liquid Crystal"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [liquid-crystal, mesophase, LCP, chromic, stimuli-responsive, photonic]
@@ -74,3 +74,5 @@ tags: [liquid-crystal, mesophase, LCP, chromic, stimuli-responsive, photonic]
 - [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]
 - [[Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications]]
 - [[Liquid Crystalline Polymeric Wires for Selective Proton Transport, Part 1]]
+- [[Smart Textiles & Wearables]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）"
-domain: [卫材研发, 生物材料]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [水凝胶, 纳米纤维素, 壳聚糖]
@@ -34,3 +34,37 @@ tags: [水凝胶, 纳米纤维素, 壳聚糖]
 ## Sources 来源
 
 - [[CN 114044919 A（TEMPO氧化纳米纤维素基复合水凝胶及制备方法·陕西科技大学）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN114044919A.pdf.md`
+
+## Related Sources 关联来源
+
+- [[BNC_SAP_platform_onepage_EN_detailed]]
+- [[BNC增强SAP表面交联_试验工程方案_匿名版_20261010]]
+- [[CN 114044919 A（TEMPO氧化纳米纤维素基复合水凝胶及制备方法·陕西科技大学）]]
+- [[Ebewole Polymer Science Technology_synthesis]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[Introduction to Physical Polymer Science_ch13_report]]
+- [[NW · 00_核心观点汇总]]
+- [[Nat. Commun. ǁ细菌纤维素：可持续生物塑料的“潜力股”ǁ 科研综述]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[Polymer Reaction Engineering_ch05_Suspension]]
+- [[REL benchmark.png]]
+- [[REL 结构优化与选材技术方案]]
+- [[REL_Optimized_PTT_PVA_Composition]]
+- [[SAP Research Advances_README]]
+- [[SAP Research Advances_concepts]]
+- [[SAP Research Advances_index.csv]]
+- [[Screenshot_2026-07-01-15-13-09-17_45e686c594768066ad9911d54d96f72b.jpg]]
+- [[ch9_report]]
+- [[output]]
+- [[为什么纯 PEG 不能常规熔纺]]
+- [[为什么能纺丝的聚合物就那几种]]
+- [[从微生物织就的纳米奇迹到拯救地球的绿色未来：一文读懂为什么细菌纤维素是终结“白色污染”的新希望]]
+- [[会议纪要 OI&FEI Cach-up]]
+- [[会议纪要：V6产品开发技术研讨会]]
+- [[化纤基础知识（60张PPT）]]
+- [[比PLA便宜5倍的草酸聚酯，才是真正的可降解潜力股？]]
+

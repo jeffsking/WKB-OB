@@ -50,3 +50,8 @@ tags: [Unicharm, 尤妮佳, 日本, 吸收物品, 弹性部件, 排泄可视]
 - [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md`
 - [[EP2413866B1 Disposable Wearing Article (Unicharm)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md`
 - [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/EP0776645A1.pdf.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]
+- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]

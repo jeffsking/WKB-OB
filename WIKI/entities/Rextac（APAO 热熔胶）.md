@@ -39,3 +39,11 @@ tags: [APAO, 热熔胶, RT-8723, 非晶态聚α烯烃, 密度]
 ## 来源
 
 - [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md`
+
+## Related Sources 关联来源
+
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]
+- [[HSBL Peel Test Results（面层-导流层剥离强度实测）]]
+- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]

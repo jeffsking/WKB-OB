@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "交联 CMC"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [CMC, cross-linked-cellulose, superabsorbent, DS, crosslink-density, Hercules-Aqualon, gel-blocking]
@@ -57,3 +57,15 @@ tags: [CMC, cross-linked-cellulose, superabsorbent, DS, crosslink-density, Hercu
 - [[Cross-linked Cellulose and Its Derivatives]] — cross-linked CMC synthesis, DS/cross-link trade-off, Hercules Aqualon / CLD
 - [[Fibers and Fibrous Materials]] — modified CMC retention 16–21% vs 1.0%; "wins precisely where SAP loses"
 - 相关概念：[[取代度 DS]]、[[交联密度 Crosslink Density]]、[[HEC 羟乙基纤维素]]、[[磷酸化纤维素 Phosphonoalkylcellulose]]、[[微纤丝化纤维素 MFC]]、[[接枝共聚 Graft Copolymer]]、[[Donnan 溶胀]]、[[Gel Blocking（凝胶阻塞）]]、[[爆裂纤维 Burst Fibre]]、[[干燥角质化 Hornification]]、[[WRV 水保留值]]、[[改性纤维素 Modified Cellulose]]、[[合金粘胶 Alloy Rayon]]、[[绒毛浆（Fluff Pulp）]]、[[SAP（高吸水树脂）]]、[[CTMP 化学热磨浆]]、[[Danufil 粘胶]]、[[Kimberly-Clark（金佰利）]]、[[Hercules Aqualon]]、[[Absorbent Technology]]、[[Grafted Cellulose and Starch]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[NW · 00_核心观点汇总]]
+- [[SAM training 2025]]
+- [[SmartPolymers_citation_index.csv]]
+- [[_06 SAM training (Mar 2021)]]
+- [[ch23_Anti-irritants_for_Surfactant_report]]
+- [[ch36_Surfactants_report]]
+- [[ch37_Classification_of_Surfactants_report]]
+- [[ch4_report]]
+- [[我先读取这两份资料，再做对比分析。]]
+

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -126,3 +127,7 @@ TAD技术正展现出极强的原料适配性。除传统的木浆外，100%竹�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/纸中“黄金”：揭秘TAD技术，开启生活用纸的“高定”时代.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Pulp World/纸中“黄金”：揭秘TAD技术，开启生活用纸的“高定”时代.md`
+
+## 关联页面
+
+- [[Kimberly-Clark（金佰利）]]　[[恒安（Hengan）]]

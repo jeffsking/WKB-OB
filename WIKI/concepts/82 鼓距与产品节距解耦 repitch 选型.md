@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "82 鼓距与产品节距解耦 repitch 选型"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [repitch, 鼓距, chassis-pitch, 成型鼓, 换型, converting, pattern-SAP]
@@ -51,7 +51,7 @@ tags: [repitch, 鼓距, chassis-pitch, 成型鼓, 换型, converting, pattern-SA
 ## Hygiene Relevance 卫材关联
 
 - repitch 是「**一鼓多规格**」成型架构的必要条件，直接支撑 11 码单鼓方案的落地（源：[[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]）。
-- 与换型架构耦合：repitch 转塔凸轮属于 Recipe 层（cams），**换 ups 时真正需要改的只有 Recipe 一列（+ 换 sleeve）**；repitch 转塔与 ups 归属同层（源：[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]）。
+- 与换型架构耦合：repitch 转塔凸轮属于 Recipe 层（cams），**换 ups 时真正需要改的只有 Recipe 一列（+ 换 sleeve）**；repitch 转塔与 ups 归属同层（源：[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]）。
 - 相邻工程页：[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]、[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]、[[Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）]]。
 - 结构性缺口：本地唯一的成型设备培训文档（2021 KC 培训）**完全没有** repitch 解耦等 pattern-SAP 量产方法（源：[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]）。
 
@@ -66,6 +66,6 @@ tags: [repitch, 鼓距, chassis-pitch, 成型鼓, 换型, converting, pattern-SA
 - [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]
 - [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]
 - [[Repitch（鼓距与产品节距解耦）]]
-- [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
+- [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
 - [[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]
 - [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]

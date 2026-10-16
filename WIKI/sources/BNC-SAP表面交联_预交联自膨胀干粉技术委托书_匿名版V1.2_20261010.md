@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -160,3 +161,7 @@ V1.2 形态决策：功能验证阶段（材料级+芯体级）主样 D 以 2% �
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版V1.2_20261010.docx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/BNC/BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版V1.2_20261010.docx.md`
+
+## 关联页面
+
+- [[BNC 基 SAP 表面交联]]　[[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[SAP（高吸水树脂）]]　[[承压吸收 AUL]]　[[纳米纤维素（CNC、CNF、BNC）]]　[[细菌纳米纤维素]]

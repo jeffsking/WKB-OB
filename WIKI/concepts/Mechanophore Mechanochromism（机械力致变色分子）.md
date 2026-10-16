@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Mechanophore Mechanochromism（机械力致变色分子）"
-domain: [卫材研发, 智能功能化, 高分子化学]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [Mechanochromic, 力致变色, 螺吡喃, 萘并吡喃, 力化学, FTO]
@@ -150,3 +150,19 @@ tags: [Mechanochromic, 力致变色, 螺吡喃, 萘并吡喃, 力化学, FTO]
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
 - [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md`
 - [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/变色材料书籍_温湿力精表.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]
+- [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]
+- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]
+- [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[河南嘉屹达新材料官网：热压敏染料产品页（JYDR-5）]]

@@ -41,3 +41,11 @@ tags: [ODM, 芯体, 无木浆, 超声波, 可降解]
 - [[China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Roadmap_2026.pptx.md`
 - [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Report_2026.pptx.md`
 - [[New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/纸尿裤新品调研报告（2024-2025）.pdf.md`
+
+## Related Sources 关联来源
+
+- [[ADT POV 2025 Complex Core Strategy（ActivTech vs 外部复合芯体）]]
+- [[China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图）]]
+- [[China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026）]]
+- [[New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025）]]
+- [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]]

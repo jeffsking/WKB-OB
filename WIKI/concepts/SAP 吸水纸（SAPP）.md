@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP 吸水纸（SAPP）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAPP, SAP paper, 湿法造纸, 卫生巾, 厚度, 预制吸收芯]
@@ -50,3 +50,9 @@ aliases: ["SAP Paper", "SAP 吸水纸", "SAPP"]
 ## Sources 来源
 
 - [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/NUOER GROUP 2026.pdf.md`
+
+## Related Sources 关联来源
+
+- [[BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）]]
+- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]
+- [[Nuoer Group 2026（诺尔集团公司介绍）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Elastic Strand Snicking（弹性橡筋断丝失效化）"
-domain: [卫材研发, 工艺]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [橡筋, 弹性件, 断丝, snicking, 非弹性区, 加压加热, idle elastic]
@@ -56,3 +56,13 @@ aliases: ["Snicking", "弹性橡筋断丝失效化", "idle elastic members"]
 - [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-3_Underpants-style_disposable_diaper_and_manufacturing_method_therefor.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观摘录**，不构成侵权或 FTO 判断；实施前须比对权利要求原文并由专利代理/法务独立评估。
+
+## Related Sources 关联来源
+
+- [[CN 114376803 A（一种裤型吸收制品弹性腰围·米卫（杭州））]]
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[Ebewole Polymer Science Ch14 Polymer Viscoelasticity]]
+- [[Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres]]
+- [[STM-00070 Elastic Tension - BCC Products（皮筋张力测试 第4版）]]
+- [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]]
+- [[橡筋拉伸比测试.doc]]

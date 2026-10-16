@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Pore Size Distribution Monodispersity（孔径分布单分散性）"
-domain: [卫材研发, 摄入系统, 回渗]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [孔径分布, 单分散, 孔隙连通性, 解吸能, 回渗, 非织造布]
@@ -53,3 +53,7 @@ tags: [孔径分布, 单分散, 孔隙连通性, 解吸能, 回渗, 非织造布
 ## 来源 Sources
 
 - [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Rewet Competitive Analysis 9-11-25-1.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]

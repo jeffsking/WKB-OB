@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "IPC BCC OI Portfolio（开放创新项目组合）"
-domain: [采购, 项目管理]
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-29
 aliases: ["OI Portfolio（开放创新组合）", "OI Portfolio", "Open Innovation Portfolio"]
@@ -136,3 +136,37 @@ tags: [OI, 开放创新, 项目组合, 供应商寻源, 卫材研发]
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`
 - [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md`
 - [[OI项目清单与优先级]] —— `RAW/ima_sync/个人知识库/WKB/好，资料已经齐了。根据知识库中最新（2026-09-18）的.md`
+
+## Related Sources 关联来源
+
+- [[03_卫材产线约束常量表（准入校验工具）]]
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[ADT POV 2025 Complex Core Strategy（ActivTech vs 外部复合芯体）]]
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[Baby Wipes 101 - September 2025]]
+- [[Baby_Wipes_101_Sept2025_ch1_Consumer_拆解报告]]
+- [[CoPET-PET 与 PE-PET 成本差异对比 v3（卫材级对等口径修正）]]
+- [[Coco V6项目与供应链建设]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]
+- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]
+- [[EM Supplier Meeting Follow-ups]]
+- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]
+- [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[IMA知识库索引_20261002]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+

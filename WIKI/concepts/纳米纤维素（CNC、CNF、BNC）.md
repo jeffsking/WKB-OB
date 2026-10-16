@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "纳米纤维素（CNC、CNF、BNC）"
-domain: [卫材研发, 材料科学]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [纳米纤维素, CNC, CNF, BNC, 生物基材料, 阻隔, 增强]
@@ -83,3 +83,35 @@ tags: [纳米纤维素, CNC, CNF, BNC, 生物基材料, 阻隔, 增强]
 > 新增参数门槛（供 RFQ 与打样）：方向 1 需 CNF 直径 <30 nm、羧基 <0.5 mmol/g；方向 4 需 CNC 结晶度 >80%、模量 >140 GPa；方向 5 需 CNF 分散液固含量 1–3%、稳定期 >6 月。
 >
 > 关联新页：[[Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）]]、[[Nanocellulose Application Lanes Comparison（纳米纤维素八大应用方向对比）]]。
+
+## Related Sources 关联来源
+
+- [[04_B-CNF细菌纤维素纳米纤维技术研究报告.md]]
+- [[05_细菌纤维素微凝胶技术研究报告.md]]
+- [[ACS Nano综述：单根纳米纤维力学，构建坚固耐用的多功能纳米纤维材料的指导原则]]
+- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]
+- [[BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）]]
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[BNC 卫品技术可行性评估（Slide 大纲版，20260824）]]
+- [[BNC 卫生用品技术可行性评估（访前尽调详细版）]]
+- [[BNC 技术分享 PPT 大纲（20260908）]]
+- [[BNC 技术分享讲稿（中文，20260908）]]
+- [[BNC 技术分享（英文完整版，20260911）]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版V1.2_20261010]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版_20261010]]
+- [[BNC增强SAP表面交联_抗菌除臭一体化延伸方案_20261010]]
+- [[BNC增强SAP表面交联_试验工程方案_匿名版_20261010]]
+- [[CMC-Na CA CNF SAP original article.pdf]]
+- [[CN 104004521 B（一种蔗髓纳米纤维素基复合保水剂的制备方法）]]
+- [[CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院）]]
+- [[CN 112851860 A（可降解的纤维素-聚丙烯酰胺复合保水剂和制备方法·杭州所予科技）]]
+- [[CN 114044919 A（TEMPO氧化纳米纤维素基复合水凝胶及制备方法·陕西科技大学）]]
+- [[CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学）]]
+- [[CN 117024899 A（抗菌除臭高吸水树脂及其制备方法·中国制浆造纸研究院）]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条]]
+- [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]]
+- [[IMA 知识库索引（2026-09-11）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+

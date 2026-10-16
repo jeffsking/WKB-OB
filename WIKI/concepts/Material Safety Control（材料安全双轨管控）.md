@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Material Safety Control（材料安全双轨管控）"
-domain: [卫材研发, 合规]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [合规, COC, 材料安全, 甲酰胺, 前置条件]
@@ -142,3 +142,19 @@ aliases: ["Material Safety Control", "材料安全双轨管控", "Class 1 / Clas
 ## Source 来源
 
 - [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md`
+
+## Related Sources 关联来源
+
+- [[Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流）]]
+- [[GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）]]
+- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -2]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -5]]
+- [[Market, Government Relations & Product Safety Crisis Review（市场、政府关系及产品问题探讨）]]
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]
+- [[Structured Minutes — New Material Development & Elastic Recovery Process（录音纪要 2026-09-20）]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]]
+- [[感光变色材料产品资料（UV_CHT1608V2 · 台系变色供方）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "BSL Tier Differentiation（面层分档与产品档位差异化）"
-domain: [卫材研发, 产品档位与材料策略]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [BSL, 面层, 产品档位, Tier, 柔软度, 视觉线索, 成本, 工序能力]
@@ -89,3 +89,8 @@ aliases: ["面层分档（BSL Tiers）", "BSL 分档", "产品档位差异化（
 ## 追加：Today→Tomorrow 档位演进图（2026-09-29 追加 · 来源：Liner Surge Evolution.pptx）
 
 > ✅ Verification（2026-09-29，source 来源 [[Liner Surge Evolution.pptx]]）：本页档位结构获得 **Today→Tomorrow 演进版**补全（草案 2023-10-18，Trading Up 方向）——Tomorrow 的 **Top/Best 档定义升级为「skin health 与 leakage 性能 best-in-class」的柔软 3D topsheets with actives/dryness/高质量图形**（POME Diapers 定最高 3D）；Mid/Better 走"最柔软 SB+BCW+柔软 NW/Films"；Low/Good 走"可负担柔软度+低粘合区 SB+传统图形"。配套 **Topical 3D Pathway 四级路径**：Flat Liners → 3D Visual Cues（纹理/孔）→ 3D Skin Health（Cleanshield/ZEN/BITS/Dryness）→ 3D Enhanced Cues（非面层印刷造深度线索）。**近期建议**：建 3D liner + topical surge 低回渗（0-0.3 g）新技术项目（应用 Active Baby Diapers/POISE Ultra Thins，spin-off DEPEND DSU/UBK）；**长期**：摄入系统印刷方案（障碍：高速印刷质量/油墨堆积/非贴肤侧可见性）。本源为草案（等待 45-day challenge 量化洞察），演进图为方向性表述 `[待验证]`。
+
+## Related Sources 关联来源
+
+- [[Liner Surge Development - Active Swoosh - Sept 2023.pptx]]
+- [[Liner Surge Evolution.pptx]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [芯体, 无木浆, 第四代, 复合芯体, 导流通道]
@@ -75,3 +75,25 @@ Fluff-free 4th-gen core is cited as **China's leading edge and patent moat** (Ha
 > 融合方向：PLA 纤维替代传统无纺布作为芯体基材（无木浆 + 可降解）；薄芯体 + 生物基 SAP（淀粉基/纤维素基 SAP 研发中）；抗菌植入 SAP + 天然植物抗菌剂替代化学品。
 >
 > 追加 `[待验证]`：SAP 锁定率的定义与测试方法（本批未给量化口径）；多道导槽与五层叠加结构的兼容性；无浆板/中凸结构（蓬松无纺布替代浆板）对吸收速度的实际贡献。
+
+## Related Sources 关联来源
+
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）]]
+- [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]]
+- [[China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图）]]
+- [[China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026）]]
+- [[Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）]]
+- [[Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径）]]
+- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]
+- [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025）]]
+- [[QUOTATION For Dual forming drum system 20260721.pdf]]
+- [[SAF 高吸水纤维的生产工艺与技术进展]]
+- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]
+- [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]]
+- [[可降解生物基材料与薄且强芯体技术深度解析]]
+- [[纸尿裤核心技术与应用材料全景解析]]
+- [[纸尿裤的核心结构及市场主流方向]]
+

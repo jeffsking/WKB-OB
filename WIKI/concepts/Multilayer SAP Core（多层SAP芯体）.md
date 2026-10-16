@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Multilayer SAP Core（多层SAP芯体）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 无绒毛浆, 高蓬松无纺布, 芯体架构, 设备工艺]
@@ -135,3 +135,18 @@ tags: [SAP, 无绒毛浆, 高蓬松无纺布, 芯体架构, 设备工艺]
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**（含"上层通液好 + 下层快吸"的反向分层思路）。
 > 🔴 **manual_review（2026-09-29）**：来源为 **2017-08-07 时点快照（约 9 年前）**，**叠构与市场状态可能已变**；源文含 **P&G / Drylock / Fameccanica / Bostik / BASF / Evonik / TWE** 等厂商名称，**仅作技术谱系追溯，不构成供应或商务评价**；专利编号**未核验法律状态**。
+
+## Related Sources 关联来源
+
+- [[Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）]]
+- [[Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）]]
+- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]
+- [[SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[Three-Way SAP Design Comparison（三方案 SAP 设计仿真对比）]]
+- [[V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）]]
+- [[V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

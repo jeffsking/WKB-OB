@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Bessel 函数"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [Bessel, 数学工具, 扩散, 柱坐标, Crank, 建模]
@@ -55,3 +55,5 @@ tags: [Bessel, 数学工具, 扩散, 柱坐标, Crank, 建模]
 - [[Mathematics of Diffusion]]
 - [[纤维扩散 Fiber Diffusion]]
 - [[格林函数 Green's Function]]
+- [[synthesis]]
+

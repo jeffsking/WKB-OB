@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -302,3 +303,7 @@ KC内部工程师（亚洲工程团队，Casey所属）负责设备细节设计�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC&YK FEI 团队创新合作计划分享会 -3.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC&YK FEI 团队创新合作计划分享会 -3.md`
+
+## 关联页面
+
+- [[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[SAP（高吸水树脂）]]　[[Stimuli-Responsive PCM]]　[[Super Absorbent Fibre（超吸水纤维 SAF）]]　[[绒毛浆（Fluff Pulp）]]

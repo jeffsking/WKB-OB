@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -149,3 +150,7 @@ SMV (Smith-Ewart-Ewart / Smith-Mortimer-Vergez) 理论是乳液聚合的骨架:�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch06_Emulsion.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters/Polymer Reaction Engineering_ch06_Emulsion.md.md`
+
+## 关联页面
+
+- [[SAP（高吸水树脂）]]

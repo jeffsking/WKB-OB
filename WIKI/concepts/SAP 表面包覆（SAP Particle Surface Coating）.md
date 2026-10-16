@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP 表面包覆（SAP Particle Surface Coating）"
-domain: [卫材研发, SAP]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 表面包覆, 表面交联, BASF, 专利]
@@ -75,3 +75,18 @@ tags: [SAP, 表面包覆, 表面交联, BASF, 专利]
 - [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/v3非传统资源_②OEM测试协议_10_Nippon_Shokubai_CN_101641398_B___SFC_计算公式公开.pdf.md`
 - [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN101679760B.pdf.md`
 - [[Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/Surface_Treatment_of_Superabsorbent_Poly.pdf.md`（2026-09-29 追加：玉米淀粉作为可再生表面改性剂，0.04 g/g 淀粉用量下 AUP 优于未处理 SAP，GLP 显著提升）
+
+## Related Sources 关联来源
+
+- [[CN 101641398 B（包覆吸水性聚合物颗粒的方法·BASF）]]
+- [[CN 101679760 B（包覆吸水性聚合物颗粒的方法·BASF）]]
+- [[CN 107854223 B（一种适用于木浆芯体纸尿裤的吸水树脂及其制备方法）]]
+- [[CN 110862635 A（一种抗菌耐盐高吸水树脂及其制备方法和应用）]]
+- [[CN 114149650 A（一种抗盐抗菌型高吸水树脂及其制备方法）]]
+- [[CN 115368497 B（一种纸尿裤生产用高吸水性树脂及其制备方法）]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]
+- [[SAP Production Process Walkthrough — Polymerisation, Grinding & Surface Treatment（I sap生产流程介绍）]]
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]
+- [[Surface Treatment of SAP with Corn Starch（玉米淀粉 SAP 表面处理）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

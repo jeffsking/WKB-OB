@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PLA 玉米纤维"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [pla, biodegradable, fibre, absorbent-materials]
@@ -40,3 +40,28 @@ tags: [pla, biodegradable, fibre, absorbent-materials]
 
 - [[Fibers and Fibrous Materials]]（Absorbent Technology Ch.6, Rebenfeld, 2002）
 - 父书：[[Absorbent Technology]]
+- [[2025全球（中国）生物基材料产业情况]]
+- [[2026年主流复合无纺布种类、工艺特性及应用场景]]
+- [[Biodegradable Thermoplastic_concepts]]
+- [[Biodegradable Thermoplastic_index.csv]]
+- [[Dual Component Fiber_concepts]]
+- [[Ebewole Polymer Science Technology_README]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[Introduction to Physical Polymer Science_README]]
+- [[Introduction to Physical Polymer Science_ch14_report]]
+- [[Introduction to Physical Polymer Science_深度拆书_full]]
+- [[Manufactured Fibre Technology · Manufactured_Fibre_Technology_聚合科学交叉参考（PoP）]]
+- [[NW · 00_核心观点汇总]]
+- [[Nat. Commun. ǁ细菌纤维素：可持续生物塑料的“潜力股”ǁ 科研综述]]
+- [[PBAT复合材料怎么配？从有机_无机填料、助剂到吹膜与注塑的完整工程逻辑]]
+- [[Principles of Polymerization README]]
+
+- [[Principles_of_Polymerization_深度拆书_full]]
+- [[ch7_report]]
+- [[《PBAT、PLA、PBS、PHA、PPC——五张“身份证”，一次认全》]]
+- [[从微生物织就的纳米奇迹到拯救地球的绿色未来：一文读懂为什么细菌纤维素是终结“白色污染”的新希望]]
+- [[从雀巢AI数字孪生到玛氏单一材料革命：2026全球包装行业5大包装趋势]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+- [[卫生用品供应商如何应对全新市场格局_荣格工业资源网]]
+- [[可降解_生物基材料与薄且强芯体技术深度解析]]
+

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -60,3 +61,7 @@ Prism Pads 提供日用型和量大夜用型选择。在美国，18 片装定价
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Inertia在美国推出生物基芯体卫生巾：韩国女性科技品牌引入专利植物源吸收技术.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Inertia在美国推出生物基芯体卫生巾：韩国女性科技品牌引入专利植物源吸收技术.md`
+
+## 关联页面
+
+- [[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[吸收芯体]]

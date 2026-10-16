@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "深沟槽涤纶 Deep-groove Polyester"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [polyester, profiled-fibre, capillary-sorption, wetlaid-nonwoven, absorbent-fibre]

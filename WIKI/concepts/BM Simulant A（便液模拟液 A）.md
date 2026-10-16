@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "BM Simulant A（便液模拟液 A）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [BM, 便液模拟液, simulant, 配方, BM gun, 稀便, 3:1]
@@ -59,3 +59,10 @@ aliases: ["BM Simulant A", "便液模拟液", "Bowel Movement Simulant"]
 - [[TTM-00445 BM Run-off.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00445 BM Run-off.docx.md`
 
 > 🔗 治理合并（2026-09-30）：[[稀释便液 BM simulant A]] 已并入本页（指针页保留，原文存档于指针页）。同名对象双页（命名变体），并入高入链页
+
+## Related Sources 关联来源
+
+- [[BM simulant A配方 & BM gun操作.docx]]
+- [[IMA知识库索引_20261002]]
+- [[Product Report-Out FB.xlsx]]
+- [[TTM-00445 BM Run-off.docx]]

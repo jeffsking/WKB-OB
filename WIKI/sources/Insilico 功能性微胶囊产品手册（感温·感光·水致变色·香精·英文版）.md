@@ -3,21 +3,22 @@ type: source
 title: "Insilico 功能性微胶囊产品手册（英文）"
 source_type: 供应商资料
 source_path: RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/Insilico_brochure_eng.pdf.md
-source_credibility: 中
+credibility: 中
 knowledge_area: Areas/Supply Base
 subjects:
   - [[Insilico]]
-  - [[微胶囊]]
-  - [[感温变色微胶囊]]
+  - [[Microencapsulation]]
+  - [[温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）]]
   - [[感光变色微胶囊]]
-  - [[水致变色油墨]]
-related:
+  - [[Water-Activated Ink（水变／湿变油墨）]]
+pages_linked:
   - [[Insilico 功能性微胶囊（中文产品册·2019）]]
   - [[Daehyun Microcapsule Catalogue（DH-Catalogue EN-CN）]]
 date_published: ""
   # 口径：源文件未记载发布日期，留空。RAW_FULL 的 extracted 字段是正文回填日期，不是发布日期
 knowledge_update_status: done
-compiled_at: 2026-10-11
+key_claims: []
+date_processed: 2026-10-11
 compile_batch: P0-B02/B03/B04
 ---
 

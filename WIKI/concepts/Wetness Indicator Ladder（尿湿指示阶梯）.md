@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Wetness Indicator Ladder（尿湿指示阶梯）"
-domain: [卫材研发, 智能功能化, 尿显]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [尿显, 卤致变色, 溴酚蓝, 三色阶梯, 热熔胶, 载量仪表]
@@ -124,3 +124,34 @@ tags: [尿显, 卤致变色, 溴酚蓝, 三色阶梯, 热熔胶, 载量仪表]
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
 - [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md`
 - [[智能尿裤功能层专利地图]] —— `RAW/ima_sync/个人知识库/WKB/智能尿裤功能层专利地图.md`（既有页，尿显量产口径对照）
+
+## Related Sources 关联来源
+
+- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]
+- [[BM Urine Indicator Concept（尿+便双指示概念）]]
+- [[CN 102961219 A（一种新型尿不湿·南通蒲公英）]]
+- [[CN 111317617 A（可判断大小便的纸尿裤·马西臣）]]
+- [[CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）]]
+- [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]]
+- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui)]]
+- [[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]]
+- [[US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark)]]
+- [[US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)]]
+- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]
+- [[US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）]]
+- [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]]
+- [[卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）]]
+- [[变色油墨供应商联系表（19 家 · 联系方式敏感）]]
+- [[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]
+- [[智能尿裤功能层专利地图（湿态指示-压力传感-抗菌除臭-导电加热·2026-09-05）]]
+- [[温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）]]
+

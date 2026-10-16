@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -314,3 +315,7 @@ Model Context Protocol 官方文档
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/我用一句 _goal，让 Codex 自己复现了一个 COMSOL 仿真.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/我用一句 _goal，让 Codex 自己复现了一个 COMSOL 仿真.md`
+
+## 关联页面
+
+- [[AHPs Stewardship Program 与 CODEX™ 痕量物质管控]]

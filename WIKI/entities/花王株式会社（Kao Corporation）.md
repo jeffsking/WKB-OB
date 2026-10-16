@@ -40,3 +40,8 @@ tags: [纸尿裤, 卫材, SAP, 吸水组合物, 专利, 日本]
 ## 来源 / Source
 
 - [[CN 113423778 B（吸水性组合物及其制造方法·花王）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN113423778B.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CN 113423778 B（吸水性组合物及其制造方法·花王）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "湿强剂 Wet-Strength Resin"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [湿强剂, UF树脂, 甲醛合规, 浆粕, 湿巾]

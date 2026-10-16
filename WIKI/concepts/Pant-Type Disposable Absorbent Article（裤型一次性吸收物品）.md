@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [裤型, pull-on, pants-type, 侧缝焊接, tearable seam, 一次性吸收物品]
@@ -53,3 +53,11 @@ aliases: ["Diaper Pants", "Pull-On Article", "裤型纸尿裤", "拉拉裤"]
 - [[EP1581159B1 Method for Producing Diaper Pants（弹性片材）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/20_模块四：氨纶橡筋_弹性纤维_EP1581159B1_Method_for_producing_diaper_pants_(含弹性片材.pdf.md`
 - [[EP2413866B1 Disposable Wearing Article (Unicharm)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/19_模块四：氨纶橡筋_弹性纤维_EP2413866B1_Disposable_wearing_article_(弹性部件).pdf.md`
 - [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-2_Pant-type_absorbent_article_with_waist_guard.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[EM leadership meeting - R&D presentation -Jan 9th 2025 v4 MDCD]]
+- [[EP1581159B1 Method for Producing Diaper Pants（弹性片材）]]
+- [[EP2413866B1 Disposable Wearing Article (Unicharm)]]

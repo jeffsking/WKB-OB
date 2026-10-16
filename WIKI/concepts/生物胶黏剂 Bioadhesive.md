@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "生物胶黏剂 Bioadhesive"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [bioadhesive, adhesives, natural-binder, skin-contact-adhesive, hygiene-bonding]

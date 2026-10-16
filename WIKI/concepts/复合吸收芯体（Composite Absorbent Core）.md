@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "复合吸收芯体（Composite Absorbent Core）"
-domain: [卫材研发, 芯体]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [复合芯体, QB-T 5650, 中间材料, 吸收倍率, 回渗, 型式检验]
@@ -58,3 +58,7 @@ tags: [复合芯体, QB-T 5650, 中间材料, 吸收倍率, 回渗, 型式检验
 
 - [[QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md`
 - [[GB-T 22875-2018 SAP for Diapers and Sanitary Towels（纸尿裤和卫生巾用高吸收性树脂）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 22875-2018纸尿裤和卫生巾用高吸收性树脂.pdf.md`
+
+## Related Sources 关联来源
+
+- [[QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）]]

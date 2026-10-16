@@ -78,3 +78,11 @@ tags: [莱卡, LYCRA, HYFIT, 氨纶, 无油无粉, OEKO-TEX, 腰围弹性]
 ## Sources 来源
 
 - [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md`
+
+## Related Sources 关联来源
+
+- [[2026 Sensor China]]
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]]
+- [[化纤基础知识（60张PPT）]]
+- [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]]

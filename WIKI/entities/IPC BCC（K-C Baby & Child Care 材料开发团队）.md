@@ -46,3 +46,16 @@ tags: [Kimberly-Clark, IPC, BCC, OI, 材料开发]
 - [[IPC BCC OI Project List 17.9.2026（供应商明细版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md`
 
 > 🔴 **manual_review（2026-09-29）**：团队成员姓名、采购 POC 人名与内部负责人安排属**个人身份信息**，按 AGENTS.md §2.2/§5 不页面化。
+
+## Related Sources 关联来源
+
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]]
+- [[Nonwoven Supplier Capability & 3D Embossing Platform Review（标准录音 2）]]
+- [[OI_Project_Profile_OnePager]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[OI能力矩阵和培养计划]]
+- [[Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[output]]

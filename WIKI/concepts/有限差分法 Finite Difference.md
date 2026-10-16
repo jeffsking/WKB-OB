@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "有限差分法 Finite Difference"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [finite-difference, explicit-scheme, numerical-stability, diffusion, SAP-modeling, grid-convergence]

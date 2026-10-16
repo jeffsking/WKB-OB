@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PNIPAAM"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [concept, PNIPAAm, thermoresponsive, LCST, smart-hydrogel, macroporous, wetness-indication]
@@ -59,3 +59,7 @@ tags: [concept, PNIPAAm, thermoresponsive, LCST, smart-hydrogel, macroporous, we
 - [[Smart Polymers Ch12 Polymeric Carriers Regional Therapy]] — LCST≈32 °C 与细胞毒性警示
 - [[Smart Polymers Ch05 Microgels from Smart Polymers]] — NIPAM + 丙烯酸双敏微凝胶
 - [[刺激响应聚合物 Stimuli-Responsive Polymer]] · [[温度响应材料]] · [[Hydrogel-based Superabsorbent Polymers]] — 同族页面
+- [[SmartPolymers_README]]
+- [[SmartPolymers_citation_index.csv]]
+- [[SmartPolymers_全局合成报告]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "REL增强层"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-27
 tags: [REL, 增强层, 空体积, STT, 分区密度, COCO]
@@ -302,3 +302,37 @@ aliases: ["REL 增强层（Relative Enhancement Layer / 超薄芯体增强层）
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**。
 > 🔴 **manual_review（2026-09-29）**：来源为 **K-C 内部研究**；**"疏水"为源文的定性判断，源文未给出接触角、润湿时间或测试方法**；**不得据此判定该材料不合格**，仅作为选型时需核验润湿性的登记项。另注：[[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]] 中 REL 被描述为**由 COPET/PET ES 与 PE/PET 中空 ES 构成、经热风粘合 + 耐久亲水处理**，**与本节的"20 gsm TABCW 疏水"指向不同规格/不同处理状态**，**两者并列登记，不合并**。
+
+## Related Sources 关联来源
+
+- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[COCO_V6_第三轮trial_两组对照分析_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261006]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]
+- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]
+- [[IMA 知识库索引（2026-08-21）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]
+- [[OI项目清单与优先级]]
+- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）]]
+- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[REL Simulation Baby Diaper Core（五纤维 TAB 增强层模拟与改进路线图）]]
+- [[REL for 100% SAP Core（全SAP芯体增强层设计）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+

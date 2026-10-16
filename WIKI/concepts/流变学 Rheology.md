@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "流变学 Rheology"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [rheology, viscoelasticity, hot-melt-adhesive, peel-strength, MFR, melt-rheology, PSA]

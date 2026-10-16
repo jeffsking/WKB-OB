@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Dryness Measure System（干爽度量三分）"
-domain: [卫材研发, 消费者研究]
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-30
 tags: [干爽, 回渗, EWL, STEWIE, 感官, 微气候, 宣称]
@@ -159,3 +159,20 @@ aliases: ["干爽度量", "三类干爽", "Dryness Measures"]
 
 - [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.16 - Adult Care Manager Rewet Update.pptx.md`
 - [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Updates and Presentations/2026.03.31 - ADT Rewet Update.pptx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[2026.02.18 - Raegan Informal.pptx]]
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[Experiments to parallel Poise studies.docx]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]
+- [[Rewet Development.pptx]]
+- [[Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）]]
+- [[STM-00059 反渗.docx]]
+- [[Scope Contract - 2025 Fundamental Rewet Improvement.pptx]]
+- [[Summary of Pressures on Products（产品在使用中的受压汇总）]]
+- [[TTM-00302 面层干爽性.doc]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]

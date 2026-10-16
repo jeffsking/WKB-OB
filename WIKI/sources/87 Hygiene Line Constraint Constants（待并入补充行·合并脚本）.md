@@ -116,7 +116,7 @@ pages_linked: ["[[03_卫材产线约束常量表（准入校验工具）]]", "[[
 
 ## 关联页面
 
-- 概念：[[Repitch（鼓距与产品节距解耦）]]、[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]、[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
+- 概念：[[Repitch（鼓距与产品节距解耦）]]、[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]、[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
 - 源：[[03_卫材产线约束常量表（准入校验工具）]]、[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]、[[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]、[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]
 
 ## 原文

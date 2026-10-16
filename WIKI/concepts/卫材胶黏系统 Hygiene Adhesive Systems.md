@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "卫材胶黏系统 Hygiene Adhesive Systems"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [adhesive, hot-melt, psa, core-bonding, nonwoven-lamination, sap-encapsulation, hydrolysis-resistance, hygiene-materials]

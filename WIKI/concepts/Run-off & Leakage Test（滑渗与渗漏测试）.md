@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Run-off & Leakage Test（滑渗与渗漏测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [滑渗, run-off, 渗漏, leakage, pin hole, 30度, TTM-00279, 外层渗漏]
@@ -107,3 +107,20 @@ aliases: ["滑渗与渗漏测试（run-off / leakage）", "Run-off & Leakage"]
 > - **输出不同**：BM 还输出**铺展尺寸（CD/MD）**，因为稀便的污染范围由铺展决定而非仅由滑落量决定。
 > **⇒ "滑渗量"三个字在 BM 与尿语境下指的不是同一个量**，详见 [[BM Run-off 与尿滑渗测试方法对比（TTM-00445 vs 30° 尿滑渗）]]。
 > 📌 **编号提示**：TTM-00445 页眉另见 **TTM-00645**，两号并存、本页**不裁决**，引用时建议附原文文件名。
+
+## Related Sources 关联来源
+
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]
+- [[GB-T28004-2011 回渗渗漏.doc]]
+- [[GB-T28004-2011 滑渗.doc]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）]]
+- [[R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]
+- [[STM-00061 折页渗漏.docx]]
+- [[TTM-00279产品30°滑渗测试.docx]]
+- [[TTM-00296产品外层滚轮测试（Pin Hole）.docx]]
+- [[TTM-00445 BM Run-off.docx]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]

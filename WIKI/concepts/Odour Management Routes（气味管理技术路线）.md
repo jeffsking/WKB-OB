@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Odour Management Routes（气味管理技术路线）"
-domain: [卫材研发, 气味控制]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [气味管理, 除臭, 掩盖, 物理捕捉, 化学捕捉, 氨, VOC, 热熔胶]
@@ -127,3 +127,13 @@ tags: [气味管理, 除臭, 掩盖, 物理捕捉, 化学捕捉, 氨, VOC, 热�
 ## 来源
 
 - [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/气味管理技术介绍.md`
+
+## Related Sources 关联来源
+
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]
+- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]]
+- [[德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）]]
+- [[汉高亚太研发中心技术交流会会议纪要]]

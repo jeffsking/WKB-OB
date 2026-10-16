@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Thermochromic Microcapsule (Leuco Dye System)"
-domain: [卫材研发, 智能功能化, 材料]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [热致变色, leuco染料, 微胶囊, 可逆, 显示点, 面层外表面]
@@ -123,3 +123,29 @@ An activation window of **30–37 °C** covers the meaningful diaper microclimat
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**。
 > 🔴 **manual_review（2026-09-29）**：源文**成本区间（元/kg，国内 200~800 / 进口 800~1,500+）为公开资料汇编的估算**，附批次差异免责；**不得作为采购议价依据、不得对外引用**。**Matsui/CTI ">10,000 次"、聚脲"50,000 次"为源文/厂商口径，非本库实测**。**国内外保质期对比为源文判断，本页未独立核验**。
+
+## Related Sources 关联来源
+
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[CN 111317617 A（可判断大小便的纸尿裤·马西臣）]]
+- [[CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）]]
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）]]
+- [[Probiotic-Prebiotic-Postbiotic Diaper Project Review（益生菌-益生元-后生元尿布项目方案评审 · 录音纪要 2026-08）]]
+- [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[Thermochromic_Products_Comparison_by_Company]]
+- [[US 20070270773 A1（Thermochromic Wetness Indicator）]]
+- [[US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)]]
+- [[US5197958A & US5389093A Wetness Indicating Diaper (Howell)]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[感光变色材料产品资料（UV_CHT1608V2 · 台系变色供方）]]
+- [[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]
+- [[河南嘉屹达新材料官网：热压敏染料产品页（JYDR-5）]]
+- [[温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）]]
+- [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]]
+

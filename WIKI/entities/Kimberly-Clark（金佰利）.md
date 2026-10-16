@@ -119,3 +119,37 @@ tags: [金佰利, K-C, 专利, 合身指示器, FTO, 竞品对标]
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
 - [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md`
 - [[智能尿裤功能层专利地图]] —— `RAW/ima_sync/个人知识库/WKB/智能尿裤功能层专利地图.md`（既有页，专利状态口径）
+
+## Related Sources 关联来源
+
+- [[1780441413046.jpg]]
+- [[2025.03.13 - GML update.pptx]]
+- [[2026-05-05 - QUINN.pptx]]
+- [[Absorbent Technology]]
+- [[Absorbent Technology_ch12_report_20260823_031406]]
+- [[Adhesive Materials & Equipment - 101]]
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[Baby Wipes 101 - September 2025]]
+- [[Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告]]
+- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]
+- [[CD Pants产品学习]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[Cross-linked Cellulose and Its Derivatives]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[Hydroknit 101]]
+- [[IMA知识库索引_20261002]]
+- [[IMA知识库索引_20261009]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC与FBI团队创新合作计划]]
+- [[KC_CapabilityDays2025_引用索引.csv]]
+- [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]]
+- [[Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）]]
+- [[Market, Government Relations & Product Safety Crisis Review（市场、政府关系及产品问题探讨）]]
+

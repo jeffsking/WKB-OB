@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "辐射冷却材料 Radiation Cooling"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [radiative-cooling, wearable-electronics, thermal-management, cooling, thermo-regulation, emerging-direction]
@@ -38,7 +38,7 @@ tags: [radiative-cooling, wearable-electronics, thermal-management, cooling, the
 
 - **Cooling / thermo-regulation is a named hygiene attribute**: in the intake-workshop global keywords, **Advanced Freshness = odor-elimination, cooling/thermo-regulation, clean & dry feel, moisture-wicking**（源：[[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]）.
 - Radiative cooling is a **wearable-electronics frontier topic**, not yet an in-vault hygiene material or measured product feature（源：[[Wearable Electronics (National Science Review 2023)]]）.
-- Related pages: [[柔性电子 Flexible Electronics]] · [[电子纺织品 E-textile]] · [[可穿戴传感器 Wearable Sensor]] · [[摩擦纳米发电机 TENG]] · [[湿冷感 Wet-Cool]] · [[Stimuli-Responsive PCM]].
+- Related pages: [[柔性电子 Flexible Electronics]] · [[电子纺织品 E-textile]] · [[可穿戴传感器 Wearable Sensor]] · [[摩擦电自供电 TENG]] · [[湿冷感 Wet-Cool]] · [[Stimuli-Responsive PCM]].
 
 ## Open Questions 待补
 

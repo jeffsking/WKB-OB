@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "改性纤维素 Modified Cellulose"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [modified-cellulose, cellulose-derivative, cmc, superabsorbent, crosslink-density, degree-of-substitution, bio-based-sap]

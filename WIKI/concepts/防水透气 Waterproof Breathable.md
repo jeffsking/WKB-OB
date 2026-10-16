@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "防水透气 Waterproof Breathable"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [waterproof-breathable, backsheet, microporous-film, WVTR, nanofibre-membrane, film-free]

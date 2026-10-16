@@ -27,6 +27,8 @@ REQ = {
     'entity':     ['type', 'title', 'category', 'relationship', 'updated', 'tags'],
     'comparison': ['type', 'title', 'subjects', 'dimension', 'updated', 'tags'],
 }
+# MOC 是导航层，不参与 status 治理（AGENTS §1）→ 豁免必填字段校验
+MOC_TYPES = {'moc'}
 FM = re.compile(r'^---\n(.*?)\n---\n', re.S)
 ok, fail = 0, []
 for p in sorted(glob.glob('WIKI/**/*.md', recursive=True)):
@@ -42,6 +44,9 @@ for p in sorted(glob.glob('WIKI/**/*.md', recursive=True)):
         fail.append((name, '缺 type'))
         continue
     typ = tm.group(1)
+    if typ in MOC_TYPES:
+        ok += 1                      # MOC 豁免（不参与 status 治理，AGENTS §1）
+        continue
     if typ not in REQ:
         fail.append((name, 'type 非法: ' + typ))
         continue

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Mannequin BM Test（BM 假人测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [BM, 便便, mannequin, 假人, 模拟便液, TTM-00234, TTM-00466, 可视化, 感官测试]
@@ -64,3 +64,17 @@ aliases: ["BM 假人测试（便液可视化与量化）", "Mannequin BM Test"]
 - [[TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx.md`
 - [[TTM-00466 BM Benefit Visualization Validation.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00466 BM Benefit Visualization Validation.docx.md`
 - [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00467 BM Mannequin Absorption NB-S2.docx.md`
+
+## Related Sources 关联来源
+
+- [[BM simulant A配方 & BM gun操作.docx]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[IMA知识库索引_20261002]]
+- [[R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）]]
+- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]
+- [[TTM-00234 Rock N Roll Mannequin BM Test With Movement.docx]]
+- [[TTM-00445 BM Run-off.docx]]
+- [[TTM-00466 BM Benefit Visualization Validation.docx]]
+- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]
+- [[WI-63848 Static mannequin.docx]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]

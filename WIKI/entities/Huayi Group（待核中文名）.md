@@ -59,3 +59,10 @@ tags: [Huayi, 华谊, 非织造布, 泰国, 热风底布, 3D压花, TR, ET, DID�
 
 - [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md`
 - [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/热风无纺布供应商考察纪要（修订版）.docx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[Huayi 集团创新非织造布技术交流会]]
+- [[Nonwoven Supplier Capability & 3D Embossing Platform Review（标准录音 2）]]

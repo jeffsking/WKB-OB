@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -254,3 +255,7 @@ SSMMS，结构更复杂：
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布之SMS.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布之SMS.md`
+
+## 关联页面
+
+- [[PLA 玉米纤维]]　[[SMMS 纺粘-熔喷-熔喷-纺粘无纺布]]

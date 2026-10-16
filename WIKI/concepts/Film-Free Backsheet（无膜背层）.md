@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Film-Free Backsheet（无膜背层）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [背层, 底膜, 无膜, SMMMS, 透气, 单一材质, 分区设计]
@@ -66,3 +66,14 @@ tags: [背层, 底膜, 无膜, SMMMS, 透气, 单一材质, 分区设计]
 
 - [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md`
 - [[SMS复合结构]] —— 库内页（PFAS 风险基线）
+
+## Related Sources 关联来源
+
+- [[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]
+- [[CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[Handbook of Plastic Films]]
+- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]
+- [[US11612524B2 Breathable Diaper Backsheet (Colormasters)]]
+- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]
+- [[mocon底膜透气率测试.docx]]

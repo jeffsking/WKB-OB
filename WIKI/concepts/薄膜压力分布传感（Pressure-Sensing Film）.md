@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "薄膜压力分布传感（Pressure-Sensing Film）"
-domain: [卫材研发, 测试与量测]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [压力分布, 薄膜传感, 电容式传感, 触感量测, 舒适度, 贴合]
@@ -47,3 +47,8 @@ tags: [压力分布, 薄膜传感, 电容式传感, 触感量测, 舒适度, 贴
 ## 来源 Sources
 
 - [[PPS 薄膜压力传感应用场景（触感压力分布技术）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/PPS薄膜压力传感应用场景说明- PPS (中国)触感压力分布技术.pdf.md`（2026-09-29 建立）
+
+## Related Sources 关联来源
+
+- [[PPS 薄膜压力传感应用场景（触感压力分布技术）]]
+- [[中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）]]

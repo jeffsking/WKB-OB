@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -118,3 +119,7 @@ WRV 与 graft 关系: WRV 与初始 PAN graft yield 在 ~120% 内近似线性, �
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch09_report_20260823_031404.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch09_report_20260823_031404.md.md`
+
+## 关联页面
+
+- [[Gel Blocking（凝胶阻塞）]]　[[Grafted Cellulose and Starch]]　[[SAP（高吸水树脂）]]　[[SUPER ABSORBENT RESIN]]　[[WRV 水保留值]]

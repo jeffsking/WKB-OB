@@ -75,3 +75,8 @@ tags: [SAF, 超吸水纤维, Airlaid, 可水洗, 单一来源, 供应风险]
 2. **FDA / EFSA 批准**的具体范围（食品接触 vs 卫材）源文未展开，**不推断其在卫材的合规状态**。
 3. **可水洗面料的 250 次循环**为源文引用 TAL 数据，**未经本库验证**。
 4. 本页**未记录与 K-C 的任何接触、送样或商务历史**；状态为**候选**。
+
+## Related Sources 关联来源
+
+- [[OASIS SAF 102-80-10 技术数据表（Technical Absorbents）]]
+- [[SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）]]

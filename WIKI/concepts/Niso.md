@@ -1,0 +1,44 @@
+---
+type: concept
+title: "Niso"
+domain: [卫材研发, 测试与标准]
+status: growing
+updated: 2026-10-12
+tags: [seed, 待补]
+---
+
+
+# Niso
+
+
+## Definition 定义
+
+弹性材料相关供应商/材料代号，出现在尿裤弹性收紧力改进的会议讨论中。
+
+
+## Key Points 要点
+
+- 会议议题为「尿裤（卫生巾）弹性收紧力不足问题及 Niso 材料工艺改进方案探讨」，Niso 为该方案涉及的材料方（源：同名会议纪要）
+- ⚠️ 库内来源未展开 Niso 的公司全称、材料规格或供货关系，标 `[待验证]`
+
+
+## Related 关联
+
+- [[320D]]
+- [[弹性收紧力]]
+- [[华峰橡筋]]
+
+
+## Cited by 主要引用来源（1 处）
+
+- [[尿裤（卫生巾）弹性收紧力不足问题及 Niso 材料工艺改进方案探讨]]
+
+
+> 内容依据：见上方 Cited by 所列来源页；未在来源中出现的表述均未写入。
+
+## Related Sources 关联来源
+
+- [[OI_Project_Profile_OnePager]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[尿裤（卫生巾）弹性收紧力不足问题及 Niso 材料工艺改进方案探讨]]

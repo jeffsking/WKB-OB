@@ -62,3 +62,8 @@ tags: [PTT, 生物基, PDO, 并列复合纤维, S-S, 弹性纤维, 供应基地]
 1. 源文为**二手公开资料汇编**（百科、行业报告、B2B listings），**无供应商直核**；产能除盛虹披露值外不可作为供应保障依据。
 2. 「新建 3.5 万 m² 绿色工厂」在源文中同时出现在 Longjie 与 Shenghong 的相关描述中，**归属需人工确认**，本页照录不作归属裁决。
 3. 本页**未记录任何与 K-C 的实际合作、送样或报价历史**——盛虹在本库中的状态为**候选**，非现有供应商。
+
+## Related Sources 关联来源
+
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]]

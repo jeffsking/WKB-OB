@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -90,3 +91,7 @@ PCA总体判断：我方方案在"BNC纤维网络作为表面交联共反应组�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/竞品IP专利竞争分析_PCA_BNC-SAP表面交联_20261010.docx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/竞品IP专利竞争分析_PCA_BNC-SAP表面交联_20261010.docx.md`
+
+## 关联页面
+
+- [[BASF]]　[[BNC 基 SAP 表面交联]]　[[BNC-PEG 母粒（干态可复水中介体）]]　[[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[Nippon Shokubai（日本触媒）]]　[[SAP（高吸水树脂）]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）]]　[[承压吸收 AUL]]　[[纳米纤维素（CNC、CNF、BNC）]]

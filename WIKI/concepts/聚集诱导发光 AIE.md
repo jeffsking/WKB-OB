@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "聚集诱导发光 AIE"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [AIE, fluorescence, mechanochromic, smart-materials]
@@ -36,3 +36,5 @@ Aggregation-Induced Emission（聚集诱导发光）：一类 fluorophore（AIEg
 
 ## Related Sources 关联来源
 - [[Mechanochromic Fluorescent Polymers with AIE Features]] · [[Mechanochromic Photonic Sensors]] · [[机械变色 Mechanochromic]] · [[TPE Tetraphenylethylene]] · [[Microencapsulation]]
+- [[Mechanochromic_Fluorescent_Polymers_with]]
+

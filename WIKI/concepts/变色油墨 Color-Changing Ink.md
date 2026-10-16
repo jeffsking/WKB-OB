@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "变色油墨 Color-Changing Ink"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [变色油墨, chromic-ink, 湿敏油墨, 温敏油墨, 力致变色, 尿湿指示, 微胶囊, 供应商基盘]
@@ -85,7 +85,6 @@ What the digest *does* evidence is the **classification frame**, not a definitio
 - [[Chromism Taxonomy（变色现象分类）]]
 - [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
 - [[变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）]]
-- [[变色油墨供应商综合技术联系表]]
 - [[变色油墨供应商综合技术联系表]]
 - [[Chromic Ink Supplier Landscape Comparison（变色油墨供应商梯队对比）]]
 - [[Qiansebian（千色变新材料）]]

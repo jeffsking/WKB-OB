@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "蒙脱土 Montmorillonite"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [montmorillonite, MMT, clay, nano-reinforcement, SAP, odour-control]

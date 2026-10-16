@@ -4,7 +4,7 @@ title: Rotary Die Tooling Material Route（旋转模切刀具材质路线：高�
 category: 工艺 / 刀具与工装
 updated: 2026-09-30
 tags: [rotary die, 模切, 高速钢, 硬质合金, tungsten carbide, 花型, pinhole, Kirigami, tooling]
-domain: [卫材研发]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 ---
 
@@ -86,3 +86,7 @@ status: growing
 - [[Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/合作开发新模具设计.md`
 - [[Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/公司介绍与业务交流.md`
 - [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md`（分切刀材质口径：steel vs carbide/ceramic）
+
+## Related Sources 关联来源
+
+- [[Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）]]

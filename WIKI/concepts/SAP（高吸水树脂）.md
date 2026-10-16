@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP（高吸水树脂）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, SAP与流体]
 status: growing
 knowledge_update_status: pending
 updated: 2026-09-30
@@ -116,3 +116,37 @@ SAP = Superabsorbent Polymer（高吸水树脂）：一类能吸收并**在压�
 ✅ **验证记录（2026-09-29）**：以上为**供应商现场讲解口径**，无第三方验证；温度、固含（96% vs 97%）、目数（30 / 30–50 目）与粒径（300–600 μm）的**对应关系与单位均未获澄清** [待验证]；"先聚合后中和"为本页据上下文还原，供应商未使用该术语 [待验证]。参见 [[诺尔（Nuoer）]]、[[SAP 表面包覆（SAP Particle Surface Coating）]]、[[SAP性能指标（CRC AUL GBP Vortex）]]。
 
 > ✅ 验证（2026-09-29，来源 [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]）：K-C 2021 内部培训口径与本页既有结论**方向一致**——容量 30–40 g/g（0.9% saline，培训口径；本页既有口径为 50–80 g/g 茶袋法，测试法不同、并列不矛盾）；部分中和聚丙烯酸颗粒、交联度控形变、表面处理改善渗透/流动/吸入速度均吻合。培训补充口径：SAM 为 Personal Care **单项金额最大**原材料（800–1000 kg 袋装、湿度敏感）；讲义供应商名单 Evonik、BASF、**San-Dia**、LG、**Danson**——后两家与本库 [[Sanyo Chemical · SDP Global（三洋化成工业）]]、[[宜兴丹森科技有限公司]] 的对应关系 [待验证]。
+
+## Related Sources 关联来源
+
+- [[2026年主流复合无纺布种类、工艺特性及应用场景]]
+- [[A review on superabsorbent polymers]]
+- [[AI Core Settings for Chris Wang 2026-06-06 v3（AI核心设定_王总_2026-06-06_v3）]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Absorbent Technology]]
+- [[Absorbent Technology Introduction]]
+- [[Absorbent Technology Textile Science and Technology]]
+- [[Absorbent Technology_README]]
+- [[Absorbent Technology_ch09_report_20260823_031404]]
+- [[Absorbent Technology_ch10_report_20260823_031404]]
+- [[Absorbent Technology_ch12_report_20260823_031406]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[Acrylic-Based Superabsorbent Polymers]]
+- [[Adhesive Handbook]]
+- [[Adhesive Handbook Part 2 Fundamental Aspects]]
+- [[Adhesive Handbook Part 4 Applications]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[BASF Biomass Balanced Superabsorbents 产品页（HySorb B-N-BG-BX-T 系列）]]
+- [[BASF-YPC HySorb N7059 SAP 产品介绍（扬子石化-巴斯夫）]]
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版V1.2_20261010]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版_20261010]]
+- [[BNC_SAP_platform_onepage_EN_detailed]]
+- [[BNC增强SAP表面交联_抗菌除臭一体化延伸方案_20261010]]
+- [[BNC增强SAP表面交联_试验工程方案_匿名版_20261010]]
+- [[BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx]]
+- [[CD Pants产品学习]]
+- [[CMC-Na CA CNF SAP original article.pdf]]
+- [[CN 101464548 A（光缆-电缆阻水材料及其制备方法·含超吸水纤维 SAF）]]
+

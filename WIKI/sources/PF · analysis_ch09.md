@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -94,3 +95,7 @@ Ch9 is the application anchor for "films in service." It is referenced by Ch8 (m
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch09.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch09.md.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[SUPER ABSORBENT RESIN]]　[[WVTR 测试口径（失重法 vs 增重法）]]

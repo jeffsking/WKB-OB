@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Super Absorbent Fibre（超吸水纤维 SAF）"
-domain: [卫材研发, 吸收材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [SAF, 超吸水纤维, 芯体, 纤维形态, 可降解]
@@ -153,3 +153,23 @@ tags: [SAF, 超吸水纤维, 芯体, 纤维形态, 可降解]
 - **工艺路线定量**：超支化改性天然纤维**吸水 ≥360 g/g**（金属离子交换度 60–80%）；碱化醚化可降解生物质短纤 **60–100 g/g**（取代度 0.6–0.95）；冻融 PVA 纤维吸水自重 200 倍（免化学处理）。
 - **前沿**：Janus"导液-储液-阻隔"三层不对称结构（毛细压差"只进不出"）；β-环糊精包合牛至精油（吸水+长效气相抗菌）；Y/十字/W 异形截面与亲疏水交叉铺网。
 - 医用敷料→纸尿裤迁移清单（鞣酸含药面层、黄疸遮光衬垫、湿度传感+蓝牙报警、臭氧再生 SAP/绒毛浆闭环）见 [[Shandong Nameixin Biotechnology（山东纳美欣生物科技）]]。
+
+## Related Sources 关联来源
+
+- [[03_卫材产线约束常量表（准入校验工具）]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -3]]
+- [[Manufactured Fibre Technology Ch06 Solution Spinning Processes]]
+- [[Manufactured Fibre Technology Ch15 Acrylic Fibres]]
+- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]
+- [[OASIS SAF 102-80-10 技术数据表（Technical Absorbents）]]
+- [[SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）]]
+- [[SAF 高吸水纤维的生产工艺与技术进展]]
+- [[SAM training 2025]]
+- [[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]
+- [[Shin-Etsu Chemical IR 公告（v3 SAF 归档同名件·2026-07-30）]]
+- [[Shin-Etsu Chemical IR 公告（第27·28次新股预约权条款决定·2026-07-30）]]
+- [[Toyobo 转换价格调整公告（2011 · 文件名误标 SAF Datasheet）]]
+- [[一文带您了解婴儿纸尿裤里的非织造布！]]
+- [[海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）]]
+- [[高吸水纤维技术应用.pdf]]
+

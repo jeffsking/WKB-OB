@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）"
-domain: [卫材研发, 粘合工艺]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [施胶, 面层-导流层界面, 添加量, 喷嘴, 覆盖率, 压合, 回渗]
@@ -122,3 +122,34 @@ aliases: ["导流层-面层施胶", "Surge-Liner Interface Adhesive", "HSBL"]
 ## 追加：AD 竞品双花型尺寸实测（2026-09-29 追加 · 来源：Always Discreet Adhesive Pattern Dimensions.pptx）
 
 > ✅ Verification（2026-09-29，source 来源 [[Always Discreet Adhesive Pattern Dimensions.pptx]]）：AC Brand Connect 所述"AD 两种 surge attachment adhesive 花型"的**量化落地**（2025-08-07 HSBL 拆解采集）——**CF Swirl**（Line 80，XL 码）：swirl 直径 1.5-2 cm、宽 1-1.5 cm、列间距 1 cm、swirl 间距 0.5 cm；**Slot Coat**（Line 82/83）：中带 0.2 cm、侧带 0.1 cm、带间距 0.6 cm、外带间距 1 cm，且 **S/M 与 L 码同一花型尺寸复用**。P&G 大区 slot 线 + 高端 swirl 线的双花型产品化事实，为本库"花型是独立设计变量"的判断提供竞品佐证；具体数值为竞品拆解数据，不外发。花型编码（Code 6/6B/8/9）对应 [[Liner-Surge Interface HSBL Trial.xlsx]] 变量表。
+
+## Related Sources 关联来源
+
+- [[CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）]]
+- [[Code 10.jpg]]
+- [[Code 11.jpg]]
+- [[Code 13.jpg]]
+- [[Code 2 (2).jpg]]
+- [[Code 2 - liner.jpg]]
+- [[Code 2.jpg]]
+- [[Code 5 - liner.jpg]]
+- [[Code 5.jpg]]
+- [[Code 6b.jpg]]
+- [[Code 8.jpg]]
+- [[Code 9 try 1.jpg]]
+- [[Code 9 try 2.jpg]]
+- [[Code 9.jpg]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]
+- [[HSBL Peel Test Results（面层-导流层剥离强度实测）]]
+- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]
+- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]
+- [[Rewet Learning Plan（回渗学习计划工作表）]]
+- [[Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]
+

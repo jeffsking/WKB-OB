@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "接枝共聚 Graft Copolymer"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [接枝共聚, 接枝, 纤维素, SAP, 聚合物改性, graft-copolymer]

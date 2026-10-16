@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "BNC 基 SAP 表面交联"
-domain: [卫材研发, 高吸水树脂]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-29
 tags: [BNC, SAP, 表面交联, AUL, 凝胶强度, 多元醇, 碳酸亚烃酯, 环氧化物]
@@ -62,3 +62,30 @@ aliases: ["BNC 基 SAP 表面交联（BNC-based SAP Surface Crosslinking）"]
 - [[BNC 技术分享（英文完整版，20260911）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Tech_Sharing_PPT_EN_20260911.pptx.md`
 - [[BNC 技术分享讲稿（中文，20260908）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT讲稿版_20260908.pptx.md`
 - [[PEG-多元醇 × 纤维素吸水体系交叉索引]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/02_PEG多元醇_纤维素吸水体系_交叉索引.md.md`
+
+## Related Sources 关联来源
+
+- [[BCC RD 供应商拜访情报 — 拜科瑞（20260831）]]
+- [[BNC 卫品技术可行性评估（Slide 大纲版，20260824）]]
+- [[BNC 卫生用品技术可行性评估（访前尽调详细版）]]
+- [[BNC 技术分享 PPT 大纲（20260908）]]
+- [[BNC 技术分享讲稿（中文，20260908）]]
+- [[BNC 技术分享（英文完整版，20260911）]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版V1.2_20261010]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版_20261010]]
+- [[BNC_SAP_platform_onepage_EN_detailed]]
+- [[BNC增强SAP表面交联_抗菌除臭一体化延伸方案_20261010]]
+- [[BNC增强SAP表面交联_试验工程方案_匿名版_20261010]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[IMA知识库索引_20261002]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI团队会议-2026-2027项目与供应链建设]]
+- [[PEG-多元醇 × 纤维素吸水体系交叉索引]]
+- [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+- [[我先读取这两份资料，再做对比分析。]]
+- [[拜科瑞 BNC 发酵与发泡线纪要]]
+- [[浅谈绿色材料新锐：纳米纤维素]]
+- [[竞品IP专利竞争分析_PCA_BNC-SAP表面交联_20261010]]
+- [[纳米纤维素可降解材料项目合作交流会议记录]]
+

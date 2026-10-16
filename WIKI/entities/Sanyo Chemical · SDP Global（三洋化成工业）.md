@@ -38,3 +38,10 @@ tags: [Sanyo-Chemical, 三洋化成, SDP-Global, SAP, 控制自由基聚合, 日
 ## Sources 来源
 
 - [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md`
+
+## Related Sources 关联来源
+
+- [[2026 Sensor China]]
+- [[SAM Category Strategy - GADT 2022]]
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]

@@ -16,7 +16,7 @@ key_claims:
   - "CD 变更必须走 chute 宽度插片：用 ups 解决 CD 不可能（P=πD/n 只作用于 MD）；做进鼓体则 3 套鼓体与单一鼓体前提矛盾；做进 sleeve 则 22 片爆炸到 33 片"
   - "换型 SOP 四步：Stop & swap ≤15 min ／ Recipe load ／ Auto-phase（±0.05 mm 引脚 + ~17 片相机收敛）／ Verify；总目标 <30 min 但 Step 2–4 工时缺失 ⇒ 「<30 min」无法从分项加总验证"
   - "⚠️ sleeve 换装工时存在 30 倍分歧：源文件 ≤15 min/鼓 vs WKB [日本Nichdai 丝网工艺技术交流] 的 30 s/网，必须并列呈现不得择一"
-pages_linked: ["[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]", "[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]", "[[Repitch（鼓距与产品节距解耦）]]", "[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]", "[[84 Sleeve 工程规格与换装防错设计]]", "[[Nichidai（日丝）]]"]
+pages_linked: ["[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]", "[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]", "[[Repitch（鼓距与产品节距解耦）]]", "[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]", "[[84 Sleeve 工程规格与换装防错设计]]", "[[Nichidai（日丝）]]"]
 ---
 
 # 83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）
@@ -84,15 +84,15 @@ P8「At grade change」双栏：**Changes** = 2 sleeves (skin + poly) · SAP chu
 
 ## 关键论断（key_claims）
 
-- **「定相位 vs 定尺寸」的正交切分是全部换型设计的根** —— 支撑页：[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
-- **CD 走 chute 插片是本架构最重要的成本设计：宽度族扩展的边际成本降到只剩一片插片** —— 支撑页：[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
+- **「定相位 vs 定尺寸」的正交切分是全部换型设计的根** —— 支撑页：[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
+- **CD 走 chute 插片是本架构最重要的成本设计：宽度族扩展的边际成本降到只剩一片插片** —— 支撑页：[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
 - **Q4 的"不能"分支是架构缺陷检测器** —— 任何"随尺寸变、又必须换实体件、且换起来很贵"的量，都是设计没做干净
 - **ups 是整线级参数（双鼓必须同 ups），不是单鼓参数** —— 支撑页：[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]
 - **换 ups 时真正需要改的只有 Recipe 一列（+ 换 sleeve）** —— 支撑页：[[Repitch（鼓距与产品节距解耦）]]
 
 ## 关联页面
 
-- 概念：[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[Repitch（鼓距与产品节距解耦）]]、[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]
+- 概念：[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[Repitch（鼓距与产品节距解耦）]]、[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]
 - 源：[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]、[[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]、[[84 Sleeve 工程规格与换装防错设计]]、[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]、[[03_卫材产线约束常量表（准入校验工具）]]
 - 实体：[[Nichidai（日丝）]]
 

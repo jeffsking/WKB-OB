@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ES 纤维 ES Fiber"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [es-fibre, bicomponent-fibre, sheath-core, air-through-nonwoven, electret, hydrophilic-finish, topsheet]
@@ -53,3 +53,6 @@ tags: [es-fibre, bicomponent-fibre, sheath-core, air-through-nonwoven, electret,
 - [[驻极体 Electret]]
 - [[热风粘合无纺布]]
 - [[亲水整理 Hydrophilic Finish]]
+- [[会议纪要：Bryan 1_1 纤维加工工艺验证及材料研发规划]]
+- [[会议纪要：山东希瑞新材（双色 ES 纤维）]]
+

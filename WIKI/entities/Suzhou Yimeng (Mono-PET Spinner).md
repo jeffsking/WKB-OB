@@ -46,3 +46,7 @@ tags: [苏州, Suzhou Yimeng, 单组分PET, 纺锭型, 异形截面, 新供方, 
 ## Sources 来源
 
 - [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]

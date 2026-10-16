@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Rewet Test（回渗测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [回渗, Rewet, Flowback, 反渗, GB-T28004, STM-00059-2, 测试口径, 载荷]
@@ -392,3 +392,37 @@ aliases: ["回渗测试（Rewet / Flowback）", "Rewet 测试"]
 > ✅ 验证（2026-09-29，来源 [[STM-00059 反渗.docx]]）：上方既有表把 STM-00059-2 记为「14±1 in WC · 3 min + 2 min」——**本次母本 SOP 将其确认为「真空 14 ± 1 inH₂O、3 min ± 15 s + 等待 1 min + 2 min ± 15 s」**，**原结论未被修正，仅补齐中间等待段与精度**。
 > ⚠️ **口径差异（2026-09-29）**：STM-00059 的**注液量 150–240 mL 显著高于 FIFE 的 35–100 mL 档**，且**放置方向为底膜朝下**（与 FIFE 面层朝上相反）——**同产品跨方法读数会差一个量级，不可互推**。
 > ⚠️ **待验证 `[待验证]`**：STM-00059 原文未给合格阈值（Pass/Excellent 门槛）。
+
+## Related Sources 关联来源
+
+- [[2025.03.13 - GML update.pptx]]
+- [[2026-05-05 - QUINN.pptx]]
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
+- [[CN 110776598 B（一种高吸水性树脂及其在尿不湿中的应用）]]
+- [[Competitive Benchmark - 1Q 2026.xlsx]]
+- [[Depend Rewet Over Time.xlsx]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]
+- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]
+- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]
+- [[FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]
+- [[GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）]]
+- [[GB-T 28004.2-2021 Adult Diapers（纸尿裤 第2部分 成人纸尿裤）]]
+- [[GB-T28004-2011 回渗渗漏.doc]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）]]
+- [[KC U Rewet测试.docx]]
+- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]]
+

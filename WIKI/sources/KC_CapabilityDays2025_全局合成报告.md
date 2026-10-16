@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -164,3 +165,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/KC CapabilityDays2025 深度拆解/KC_CapabilityDays2025_全局合成报告.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/KC CapabilityDays2025 深度拆解/KC_CapabilityDays2025_全局合成报告.md.md`
+
+## 关联页面
+
+- [[绒毛浆（Fluff Pulp）]]

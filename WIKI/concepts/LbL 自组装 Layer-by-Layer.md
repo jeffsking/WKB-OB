@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "LbL 自组装 Layer-by-Layer"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [stimuli-responsive, self-assembly, multilayer-film, swelling, polyelectrolyte]
@@ -47,6 +47,5 @@ tags: [stimuli-responsive, self-assembly, multilayer-film, swelling, polyelectro
 
 - [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]
 - [[刺激响应聚合物 Stimuli-Responsive Polymer]]
-- [[Stimuli-Responsive Polymers]]
 - [[聚合物刷 Polymer Brush]]
 - [[PNIPAAM]]

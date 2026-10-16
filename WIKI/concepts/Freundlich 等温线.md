@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Freundlich 等温线"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [sorption-isotherm, diffusion, reaction-diffusion, SAP, Crank]
@@ -49,3 +49,5 @@ Freundlich 等温线指扩散-化学反耦合框架中**非线性等温线** `S 
 - [[SAP（高吸水树脂）]]
 - [[Smart Polymers Ch07 Imprinting Using Smart Polymers]]
 - [[Absorbent Product Testing]]
+- [[concept_index]]
+

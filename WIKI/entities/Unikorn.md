@@ -57,3 +57,20 @@ tags: [Unikorn, 芯包, Core Wrap, MPM, PP+fluff, LSN, PSN, COCO V6]
 
 > **名称口径**：`Unikorn` 在本批来源中另有拼写变体 `Unikom`（Summary 版），指同一方；中文名未出现，标 `[待验证]`。
 > 🔴 **manual_review（2026-09-29）**：本页所载**试产供应商分工**属内部供应关系信息（AGENTS.md §5 边界），页面按内部追溯保留；对外引用前须人工确认。
+
+## Related Sources 关联来源
+
+- [[CI-06 COCO V6 3rd round trial-10.10]]
+- [[CI-06 COCO V6 3rd round trial-9.30]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[COCO_V6_全Code关键参数总览_vsControl2_20261010.png]]
+- [[COCO_V6_全Code关键参数横向条形对比_vsControl2_20261010.png]]
+- [[COCO_V6_第三轮trial_两组对照分析_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261006]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010.html]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]

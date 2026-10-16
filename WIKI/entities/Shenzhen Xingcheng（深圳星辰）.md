@@ -45,3 +45,13 @@ tags: [力致变色, 珠光颜料, 特种颜料, 力致变色粉体, 国产替�
 
 - [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md`
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]
+- [[光子晶体膜拉伸贴合指示器]]
+- [[力致变色供应商甄选报告（2026-08-01·证据标注版）]]
+- [[力致变色材料研究报告（2026-08-02·纸尿裤应用研判）]]
+- [[消费者可见（consumer-visible）的话，最像样的]]

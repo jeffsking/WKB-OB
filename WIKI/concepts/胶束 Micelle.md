@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "胶束 Micelle"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [surfactant, colloid, emulsion-polymerization, wetting]
@@ -42,3 +42,5 @@ Micelle formation sets the ceiling for useful wetting-agent dosing in absorbent 
 - [[Seymour Polymer Chemistry Ch08 Free Radical Chain Polymerization]]
 - [[Smart Polymers Ch02 Responsive Polymer Brush Theory]]
 - [[CMC 临界胶束浓度]] · [[半胶束 Hemimicelle]] · [[乳化剂 Emulsifier]] · [[表面活性剂 Surfactant]]
+- [[ch4_report]]
+

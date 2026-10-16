@@ -53,3 +53,18 @@ tags: [力致变色, 压敏染料, 精细化工, 医用着色剂, 国产替代]
 
 - **公司名异写**：官网名称为「河南嘉屹达新材料科技有限公司」（屹），本页沿用既有写法「嘉亿达」（亿）——**同音异写，工商全称待人工核对后统一**。
 - **业务印证**：官网以「热压敏染料生产厂家」自述并列出品号 **JYDR-5**（热压敏染料），与上方「压敏染料 + 医用着色剂」口径相容；抓取页面为售后模板文案，**无任何技术参数**——JYDR 系列 TDS/SDS 仍需索取（与上方「TDS/SDS + 阈值核验」前置条件一致）。
+
+## Related Sources 关联来源
+
+- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]
+- [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]]
+- [[光子晶体膜拉伸贴合指示器]]
+- [[力致变色供应商甄选报告（2026-08-01·证据标注版）]]
+- [[力致变色材料研究报告（2026-08-02·纸尿裤应用研判）]]
+- [[河南嘉屹达新材料官网：热压敏染料产品页（JYDR-5）]]
+- [[消费者可见（consumer-visible）的话，最像样的]]

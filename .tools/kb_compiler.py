@@ -184,6 +184,7 @@ def build_front_matter(item, extra=None):
         f"date_published: {today()}",
         f"date_processed: {today()}",
         "credibility: 中",
+        "knowledge_update_status: pending",
         "key_claims: []",
         "pages_linked: []",
     ]

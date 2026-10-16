@@ -72,7 +72,7 @@ pages_linked: ["[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]
 
 - 概念：[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[Core Channel Pattern（芯体通道花型设计）]]、[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]
 - 源：[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]、[[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]、[[84 Sleeve 工程规格与换装防错设计]]
-- 同族待补：[[82 鼓距与产品节距解耦 repitch 选型]]、[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[87 卫材产线约束常量表（待并入补充行）]]
+- 同族待补：[[82 鼓距与产品节距解耦 repitch 选型]]、[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[87 卫材产线约束常量表（待并入补充行）]]
 
 ## 原文
 

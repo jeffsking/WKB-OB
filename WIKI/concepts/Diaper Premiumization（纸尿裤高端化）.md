@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Diaper Premiumization（纸尿裤高端化）"
-domain: [采购, 市场洞察]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [高端化, 品牌, 场景营销, 溢价]
@@ -49,3 +49,11 @@ tags: [高端化, 品牌, 场景营销, 溢价]
 - [[Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/韩国尿布市场分析及竞争格局.md`
 - [[China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/中国纸尿裤市场：技术创新的前沿与未来路线图.pptx.md`
 - [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/China_Diaper_Tech_Report_2026.pptx.md`
+
+## Related Sources 关联来源
+
+- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局）]]
+- [[中国母婴市场未来3-5年趋势洞察_2027-2030.pptx]]
+- [[未来3-5年纸尿裤商业化技术集与开发方向]]

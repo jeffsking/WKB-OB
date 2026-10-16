@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -216,3 +217,7 @@ $\bullet$ Some humidity required for processing
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_01 Absorbent System - Overview.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_01 Absorbent System - Overview.pptx.md`
+
+## 关联页面
+
+- [[ADL（导流层）]]　[[Core Wrap（芯体包裹层）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[Kimberly-Clark（金佰利）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[Shalag（Shalag 导流层与面层材料）]]

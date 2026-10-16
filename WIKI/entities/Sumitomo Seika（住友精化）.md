@@ -77,3 +77,14 @@ aliases: ["Sumitomo（住友精化）", "住友精化", "Sumitomo Seika Chemical
 - 来源页 [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）]]
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

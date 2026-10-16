@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Boltzmann 变换"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [Boltzmann, 扩散, 变系数扩散, Crank, SAP建模, 数学工具]
@@ -55,3 +55,8 @@ d²C/dη² + 2η · d/dη ( D · dC/dη ) = 0
 - [[Mathematics of Diffusion]]
 - [[Fick 定律]]
 - [[自由体积 Free Volume]]
+- [[Mathematics of Diffusion_深度拆书报告_academic_20260813]]
+- [[concept_index]]
+- [[index.csv]]
+- [[synthesis]]
+

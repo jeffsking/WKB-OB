@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "BC Microgel（细菌纤维素微凝胶）"
-domain: [卫材研发, 生物材料, 载体技术]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [细菌纤维素, 微凝胶, BC, 载体, 壳聚糖, 缓释]
@@ -67,3 +67,9 @@ tags: [细菌纤维素, 微凝胶, BC, 载体, 壳聚糖, 缓释]
 
 ## 来源 Sources
 - [[05_细菌纤维素微凝胶技术研究报告.md]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/05_细菌纤维素微凝胶技术研究报告.md.md`
+
+## Related Sources 关联来源
+
+- [[04_B-CNF细菌纤维素纳米纤维技术研究报告.md]]
+
+

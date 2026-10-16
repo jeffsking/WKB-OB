@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SymDeo™ XPP 抑臭聚合物"
-domain: [卫材研发, 气味控制]
+domain: [卫材研发, 功能添加剂与整理]
 status: merged
 updated: 2026-09-30
 tags: [merged, 指针页]

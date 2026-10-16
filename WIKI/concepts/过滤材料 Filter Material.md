@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "过滤材料 Filter Material"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [filter-material, nonwoven, meltblown, electret, SMS, air-filtration, PFAS]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Young's Equation"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [wetting, contact-angle, surface-thermodynamics, capillary, absorbency]
@@ -68,3 +68,7 @@ The source explicitly overturns the common misreading：**"Young's equation is n
 - [[Marangoni Effect]] · [[三相接触线 TPL]] · [[Laplace Pressure]] · [[亲水化 Hydrophilisation]] · [[毛细压力 Capillary Pressure]]
 - [[底膜 Backsheet]] · [[SAP（高吸水树脂）]] · [[Chemical bonding]]
 - [[Absorbent Technology]] · [[Porous Structure and Liquid Flow Models]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[Introduction to Physical Polymer Science_ch12_report]]
+

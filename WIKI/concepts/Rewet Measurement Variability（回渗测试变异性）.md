@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Rewet Measurement Variability（回渗测试变异性）"
-domain: [卫材研发, 回渗, 测试方法]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [回渗, 测试变异, 干厚度, 批次差异, 统计口径]
@@ -82,3 +82,13 @@ tags: [回渗, 测试变异, 干厚度, 批次差异, 统计口径]
 
 - [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/GRIFFIN - Female DPU2 AT Hybrid Rewet Summary.pptx.md`
 - [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Experiments to parallel Poise studies.docx]]
+- [[FIUP collagen Testing Victoria Maria.pptx]]
+- [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]
+- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]
+- [[Rewet Method Comparison_brief.pptx]]

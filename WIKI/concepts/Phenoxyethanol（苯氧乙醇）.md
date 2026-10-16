@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Phenoxyethanol（苯氧乙醇）"
-domain: [法规与产品安全, 化妆品合规]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [苯氧乙醇, 防腐剂, 限用物质, 化妆品, Phenoxyethanol]
@@ -57,3 +57,14 @@ tags: [苯氧乙醇, 防腐剂, 限用物质, 化妆品, Phenoxyethanol]
 > ✅ 追加（2026-09-29，来源 [[GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）]]）：生活用纸行业标准的**资料性附录 B.1**（湿巾限用化学物质建议清单）亦将苯氧乙醇限为 **≤1.0%** —— 与 EU（SCCS 1.0%）及 GB 7916-1987 表4 口径**数值一致**，但**出处与法规性质均不同**（行业推荐性标准附录 vs 强制化妆品规范），第三条口径不可与前者混写。
 >
 > 同表相邻防腐剂限值（湿巾建议口径，供湿巾 lotion 配方参考）：IPBC ≤0.01% 且**不得用于婴儿湿巾**；氯己定及其盐总量 ≤0.3%（以氯己定计）；聚氨丙基双胍 ≤0.3%；苯扎氯铵/溴铵/糖精铵总量 ≤0.1%；苄索氯铵 ≤0.1%；MIT/MCI 禁用（B.1.4）。
+
+## Related Sources 关联来源
+
+- [[GB 7916-1987 Hygienic Standard for Cosmetics（化妆品卫生标准）]]
+- [[GB-T 36420-2018 Management System for Safety Evaluation of Chemicals and Raw Materials（生活用纸和纸制品 化学品及原料安全评价管理体系）]]
+- [[SCCS Final Opinion on Phenoxyethanol in Cosmetic Products (SCCS-1575-16, 2016)]]
+- [[ch09_Allergy_and_Hypoallergenic_report]]
+- [[ch58_Baby_Care_report]]
+- [[化妆品安全技术规范（2015年版）·检验方法篇]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]
+- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]

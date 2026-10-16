@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "一氯乙酸 Monochloroacetic Acid"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [一氯乙酸, 醚化剂, CMC, 交联纤维素, 超吸水, monochloroacetic-acid, MCA]

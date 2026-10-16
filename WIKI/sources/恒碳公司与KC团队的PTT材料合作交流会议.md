@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -276,3 +277,7 @@ KC表示若价格合适可继续讨论，否则后补。
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/恒碳公司与KC团队的PTT材料合作交流会议.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/恒碳公司与KC团队的PTT材料合作交流会议.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[PTT（聚对苯二甲酸丙二醇酯）]]　[[SAP（高吸水树脂）]]　[[恒碳（Hengtan）]]

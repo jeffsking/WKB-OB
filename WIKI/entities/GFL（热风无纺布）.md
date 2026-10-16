@@ -35,3 +35,7 @@ tags: [GFL, 热风无纺布, 卫材, 无纺布]
 ## 来源
 
 - [[GFL General Presentation for KC Asia 20260603]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/GFL General Presentation for KC Asia 20260603.pdf.md`
+
+## Related Sources 关联来源
+
+- [[GFL General Presentation for KC Asia 20260603]]

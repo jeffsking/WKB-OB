@@ -50,3 +50,9 @@ tags: [PTT, 生物基, REL, 并列复合]
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页来源含**供应商联系人姓名、邮箱**与**报价性表述**，按 AGENTS.md §2.2/§5 不页面化。
+
+## Related Sources 关联来源
+
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）]]

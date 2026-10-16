@@ -44,3 +44,11 @@ tags: [力致变色, mechanophore, IP 收购, 专有 mechanophore, 高灵敏度]
 ## Sources 来源
 
 - [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/Strategic Roadmap_ Commerciali....pdf.md`
+
+## Related Sources 关联来源
+
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]
+- [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]]
+- [[Strategic Roadmap_ Commerciali]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[力致变色材料研究报告（2026-08-02·纸尿裤应用研判）]]

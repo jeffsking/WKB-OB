@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "变色材料 Chromic Materials"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [chromic-materials, 热致变色, 变色油墨, wetness-indicator, smart-textile]

@@ -12,7 +12,7 @@ knowledge_update_status: done
 key_claims:
   - "我方愿意承担一定百分比的 tooling cost，但不是 100%，因为是 co-development"
   - "评估 co-develop 新 pinhole module 的 tooling cost 并反馈，前提是确认部分承担（非 100%）及不向其他客户销售的排他条件"
-pages_linked: ["[[Daehyoon]]", "[[Pinhole 开孔]]", "[[Tooling Cost]]"]
+pages_linked: ["[[Daehyun（大炆·微胶囊）]]", "[[Pinhole 开孔]]", "[[Tooling Cost]]"]
 ---
 
 # Daehyoon 供应商技术来访（总结与行动项）
@@ -39,7 +39,7 @@ Daehyoon 技术来访的总结页，按三项 follow-up（KA/Kiga、Li XG 询问
 
 ## 关联页面
 
-- [[Daehyoon]]　[[Pinhole 开孔]]　[[Tooling Cost]]
+- [[Daehyun（大炆·微胶囊）]]　[[Pinhole 开孔]]　[[Tooling Cost]]
 
 ## 原文
 

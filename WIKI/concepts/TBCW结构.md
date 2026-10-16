@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "TBCW结构"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [TBCW, TABCW, 超声波复合, 纺粘底层, 降本]
@@ -99,3 +99,15 @@ aliases: ["TBCW 结构（在线超声波复合）"]
 - [[低温PP纺粘与TBCW低成本方案]] —— `raw/ima_sync/个人知识库/WKB/低温PP相关的纺粘布讨论主要集中在TBCW低成本方案.md`
 - [[OI项目清单与优先级]] —— `raw/ima_sync/个人知识库/WKB/好，资料已经齐了。根据知识库中最新（2026-09-18）的.md`
 - [[PPC&PGA 基无纺布开发方案（第二版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]]
+- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]
+- [[KC 团队内部技术讨论会（TBCW 在线超声波复合工艺）]]
+- [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]]
+- [[PPC&PGA 基无纺布开发方案（第二版）]]
+- [[Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流）]]
+- [[SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）]]
+- [[TJ 供应商工厂访问与会谈纪要（英文）]]
+- [[低温PP纺粘与TBCW低成本方案]]

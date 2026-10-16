@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Product Dimension Measurement（成品尺寸测量）"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [尺寸测量, dimension-measurement, 线密度, 收缩率, 规格标注, STM-00433, 测量方法, 待补]

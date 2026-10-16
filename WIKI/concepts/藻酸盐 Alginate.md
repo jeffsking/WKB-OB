@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "藻酸盐 Alginate"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [alginate, biopolymer, SAP, hydrogel, wound-dressing, crosslinking]

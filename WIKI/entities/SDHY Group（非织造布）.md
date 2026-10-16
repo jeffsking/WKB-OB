@@ -65,3 +65,9 @@ real_name_hint: "源文同时出现 Shanp Deng – Hua Yi Group 与中文「上�
 - 本页由 **Supply Base 供应基地批（S3_Areas_Supply Base_03）** 于 2026-09-29 编译建立；源摘要页已存在，本页为派生实体页（新建）。
 - ⚠️ 命名：源摘要页与文件名为 **SDHY Group**，源文全称为 **Shanp Deng – Hua Yi Group（上登華儀集團）**；本页以 `SDHY Group（非织造布）` 为规范名并登记别名，**不新建重复页**。
 - ⚠️ 创始人姓名属个人信息，依 AGENTS.md §5 **不页面化**。
+
+## Related Sources 关联来源
+
+- [[GHC 福建冠泓·冠和 公司介绍（KC 2026）]]
+- [[SDHY Group ppt for KC_EM BCC R&E]]
+- [[锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）]]

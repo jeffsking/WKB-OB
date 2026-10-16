@@ -95,3 +95,25 @@ tags: [松井, Matsui, 热致变色, Chromicolor, Thermolock, 微胶囊, 甲醛,
 - [[IPC BCC OI Project List 17.9.2026（供应商明细版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md`（2026-09-29 追加）
 - [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md`（2026-09-29 追加）
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[IMA知识库索引_20261009]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]
+- [[Probiotic-Prebiotic-Postbiotic Diaper Project Review（益生菌-益生元-后生元尿布项目方案评审 · 录音纪要 2026-08）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[Thermochromic_Products_Comparison_by_Company]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）]]
+- [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]]
+- [[卫生护理用品行业特种变色油墨（光敏温敏湿.pdf]]
+- [[卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）]]
+- [[变色油墨供应商技术路线与产品性能差异评估]]
+- [[变色油墨供应商联系表（19 家 · 联系方式敏感）]]
+- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]
+

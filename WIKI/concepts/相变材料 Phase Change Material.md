@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "相变材料 Phase Change Material"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [PCM, 相变材料, thermoregulation, temperature-comfort, microcapsule, smart-textile]

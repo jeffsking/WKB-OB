@@ -59,3 +59,9 @@ tags: [supplier, microcapsule, thermochromic, phase-change, korea, hygiene-mater
 - [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]、[[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]（供应商矩阵登记处）
 - [[变色油墨]]、[[变色油墨供应商综合技术联系表]]、[[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]、[[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]、[[Matsui Shikiso (松井)]]（变色材料供应商对照）
 - [[Chromism Taxonomy（变色现象分类）]]、[[Wetness Indicator Ladder（尿湿指示阶梯）]]
+- [[Daehyoon 供应商技术来访（主会）]]
+- [[Daehyoon 供应商技术来访（总结与行动项）]]
+- [[Daehyoon 供应商技术来访（技术专场）]]
+- [[Thermochromic_Products_Comparison_by_Company]]
+- [[温度变色指示器（Thermochromic Indicato]]
+

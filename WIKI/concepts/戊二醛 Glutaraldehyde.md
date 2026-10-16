@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "戊二醛 Glutaraldehyde"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [crosslinker, cellulose, nanocellulose, SAP, CMC, gel-strength]
@@ -44,7 +44,6 @@ tags: [crosslinker, cellulose, nanocellulose, SAP, CMC, gel-strength]
 
 ## Related Sources 关联来源
 
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Cross-linked Cellulose and Its Derivatives]]
 - [[CN 116731354 A（快速吸水自膨胀纳米纤维素材料及其制备方法和应用·华东师范大学）]]
 - [[快速吸水自膨胀纳米纤维素材料（华东师大）]]

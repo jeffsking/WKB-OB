@@ -4,7 +4,7 @@ title: Antimony-Free PET Fibre（无锑 PET 纤维）
 category: 物质安全 / 纤维
 updated: 2026-09-30
 tags: [无锑, Sb-free, PET催化剂, 钛系催化, GALAB, 韩国法规, ES纤维]
-domain: [卫材研发]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 ---
 
@@ -109,3 +109,12 @@ status: growing
 
 - [[锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧]]
 - [[锑测试方法：ICP-MS vs ICP-OES（检出限·成本·适用性）]]
+
+## Related Sources 关联来源
+
+- [[Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）]]
+- [[Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流）]]
+- [[GB 5009.137-2025 Determination of Antimony in Foods（食品安全国家标准 食品中锑的测定）]]
+- [[MR Fiber 福建闽瑞新合纤公司介绍（KC 2026-07-06）]]
+- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]
+- [[Market, Government Relations & Product Safety Crisis Review（市场、政府关系及产品问题探讨）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "三相接触线 TPL"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [wetting, surface-energy, contact-line, capillarity]

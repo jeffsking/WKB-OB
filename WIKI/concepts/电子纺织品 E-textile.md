@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "电子纺织品 E-textile"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [e-textile, smart-textile, wearable, flexible-electronics]

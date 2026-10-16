@@ -4,7 +4,7 @@ title: Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四�
 category: 开放创新 / 技术转化
 updated: 2026-09-30
 tags: [深科技, 尽职调查, 耐心资本, 生态系统杠杆, ESG, 技术成熟度]
-domain: [卫材研发]
+domain: [卫材研发, 实体与供应链]
 status: growing
 ---
 
@@ -109,3 +109,9 @@ status: growing
 ## 来源
 
 - [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/压力变色环保屏.md`
+
+## Related Sources 关联来源
+
+- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]
+- [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]]
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]

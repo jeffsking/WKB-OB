@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）"
-domain: [卫材研发, 吸收机理, 测试方法]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [毛细压力, 解吸能量, 饱和度, 孔径分布, 回渗, 静水压头]
@@ -58,3 +58,9 @@ aliases: ["毛细压力法（Capillary Pressure Method）", "解吸毛细压力�
 > 🔴 **manual_review（2026-09-29）**
 > 1. 本页引用的 Depend / Always Discreet 毛细压力与解吸能量**定性结论**（谁高谁低）来自内部拆解汇报，**具体数值未以文本形式落地**，对外引用须脱敏且不得补写数值。
 > 2. ATH SAM Relocation 的 ergs 数值存在试样质量混淆，**不得作为设计阈值使用**，仅作量级参考。
+
+## Related Sources 关联来源
+
+- [[2026.04.21 - Capillarity Expansion - Raegan Informal.pptx]]
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]

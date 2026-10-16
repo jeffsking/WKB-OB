@@ -1,11 +1,13 @@
 ---
 type: concept
 title: "压敏胶 PSA"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [psa, pressure-sensitive-adhesive, acrylic, hot-melt, natural-rubber, tack, viscoelasticity, skin-contact, hygiene-materials]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：[[PSA]] 已并入本页（同主题重复），入链已改写。
 
 # 压敏胶 PSA
 > 📌 **Page completed 2026-09-30** from 3 citing sources. All figures traced to their source pages. Anything not evidenced is marked `[待补]`.
@@ -49,7 +51,7 @@ tags: [psa, pressure-sensitive-adhesive, acrylic, hot-melt, natural-rubber, tack
 ## Open Questions 待补
 
 - 卫材 PSA 的**皮肤刺激性定量阈值**与浸液/汗液后的**剪切保持衰减曲线**库内未见 `[待补]`。
-- **是否有独立概念页 [[PSA]]**：本库另存在一页仅 1 处引用的种子页 `PSA`（引 [[Handbook of Adhesive Technology Full Report]]），与本页主题重叠，**页面合并 / 去重待决** `[待补]`。
+- **是否有独立概念页 [[压敏胶 PSA]]**：本库另存在一页仅 1 处引用的种子页 `PSA`（引 [[Handbook of Adhesive Technology Full Report]]），与本页主题重叠，**页面合并 / 去重待决** `[待补]`。
 - 上述定量数据在来源中的**页码/行号待核** `[待补]`（本页所记行号取自来源页转写）。
 
 ## Related Sources 关联来源
@@ -58,3 +60,8 @@ tags: [psa, pressure-sensitive-adhesive, acrylic, hot-melt, natural-rubber, tack
 - 汇总 / 父书: [[Handbook of Adhesive Technology Full Report]]、[[Adhesive Handbook Part 4 Applications]]
 - 相邻概念: [[卫材胶黏系统 Hygiene Adhesive Systems]]、[[热熔胶 Hot Melt Adhesive]]、[[热熔胶 Hot Melt Adhesive]]、[[胶黏剂 Adhesive]]、[[丙烯酸丙烯酸酯胶 Acrylic Adhesive]]、[[Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）]]、[[胶乳 Latex]]、[[弹性热熔胶腰围（减压腰围）]]
 - 机理 / 应用: [[Origin of Rubber Elasticity Book]]、[[Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）]]、[[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]、[[Biodegradable Thermoplastic Synthesis PLA Triblock Elastomers]]、[[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]、[[Polyolefin HM vs SIS-SBS HM Adhesives（性能·成本·供应链）]]
+- [[Introduction to Physical Polymer Science_ch12_report]]
+- [[Introduction to Physical Polymer Science_深度拆书_full]]
+- [[纸尿裤材料必读书单_v1]]
+- [[纸尿裤材料必读书单_v2_专题]]
+

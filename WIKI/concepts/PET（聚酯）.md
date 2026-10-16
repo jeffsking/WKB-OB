@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PET（聚酯）"
-domain: [卫材研发, 聚合物]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [PET, 聚酯, PTA, MEG, 短纤, 价格基准]
@@ -62,3 +62,37 @@ aliases: ["PET（聚酯 / Polyethylene Terephthalate）"]
 - [[CoPET-PET 与 PE-PET 成本结构深度拆解报告]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_PET与PE_PET成本结构拆解报告.docx.md`
 - [[CoPET 供应基盘背调汇总（布局核实精简版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET Supply Base Summary.pdf.md`
 - [[CoPET 采购蓝图：成本拆解与供应分层]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md`
+
+## Related Sources 关联来源
+
+- [[2026年主流复合无纺布种类、工艺特性及应用场景]]
+- [[Baby Wipes 101 - September 2025]]
+- [[Baby_Wipes_101_Sept2025_ch1_Consumer_拆解报告]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[Dual Component Fiber_README]]
+- [[Dual Component Fiber_concepts]]
+- [[Dual Component Fiber_index.csv]]
+- [[Ebewole Polymer Science Technology_README]]
+- [[Ebewole Polymer Science Technology_synthesis]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[ID · 00_核心观点汇总]]
+- [[ID · 聚合科学交叉参考（PoP）]]
+- [[IMA知识库索引_20261002]]
+- [[Introduction to Physical Polymer Science_README]]
+- [[Introduction to Physical Polymer Science_ch12_report]]
+- [[Introduction to Physical Polymer Science_ch1_report]]
+- [[Introduction to Physical Polymer Science_ch6_report]]
+- [[Introduction to Physical Polymer Science_原始引用索引.csv]]
+- [[Introduction to Physical Polymer Science_深度拆书_full]]
+- [[Manufactured Fibre Technology · 00_全书摘要]]
+- [[Manufactured Fibre Technology · 00_核心观点汇总]]
+- [[Manufactured Fibre Technology · Manufactured_Fibre_Technology_聚合科学交叉参考（PoP）]]
+- [[NW · 00_全书摘要]]
+- [[NW · 00_核心观点汇总]]
+- [[NW · 原始引用索引.csv]]
+- [[NW · 深度拆书文摘]]
+- [[NW · 聚合科学交叉参考（PoP）]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[PET 在高温下为什么生成乙醛：酯键断裂、乙烯基酯端基与互变异构]]
+

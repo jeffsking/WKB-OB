@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "毛细压力 Capillary Pressure"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [capillary-pressure, young-laplace, wicking, pore-size, wettability, rewet, desorption, absorbent-core, hygiene-materials]
@@ -67,3 +67,6 @@ tags: [capillary-pressure, young-laplace, wicking, pore-size, wettability, rewet
 - 回渗与残液: [[回渗 Rewet]]、[[LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）]]、[[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]、[[Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）]]
 - 方程与相邻概念: [[Laplace Pressure]]、[[达西定律 Darcy's Law]]、[[Washburn Equation]]、[[接触角 Contact Angle]]、[[孔隙率 Porosity]]
 - 材料 / 结构: [[SAP（高吸水树脂）]]、[[绒毛浆（Fluff Pulp）]]、[[ADL（导流层）]]、[[吸收芯体]]、[[Resilient Surge（PET 回弹导流层）]]、[[Absorbent Technology]]
+- [[Cross-linked Cellulose and Derivatives]]
+- [[Liquid Flow in Porous Structures]]
+

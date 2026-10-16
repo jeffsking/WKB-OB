@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Grafted Cellulose and Starch"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [graft-copolymer, cellulose, starch, superabsorbent, bio-based-sap, postpolymerization]
@@ -53,3 +53,6 @@ tags: [graft-copolymer, cellulose, starch, superabsorbent, bio-based-sap, postpo
 - [[Degradable SAP Routes（可降解 SAP 四路线对比）]]
 - [[Biodegradable SAP（可降解高吸水树脂）]]
 - [[Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）]]
+- [[Absorbent Technology_ch09_report_20260823_031404]]
+- [[Absorbent Technology_master_index.csv]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ROTC（Real Online ThinTech Core）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [ROTC, ROTC Slim, ROTC HBC, 混合芯体, pad channel, 回渗, 摄入速度, 薄芯体]
@@ -62,3 +62,11 @@ tags: [ROTC, ROTC Slim, ROTC HBC, 混合芯体, pad channel, 回渗, 摄入速�
 
 - [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md`
 - 源文引用的内部资料（含 ROTC HBC POV_Mar.2026）：见源页
+
+## Related Sources 关联来源
+
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]]
+- [[__一句话：ActiveTech 是平台_工艺能力，Bliz]]

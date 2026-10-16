@@ -86,3 +86,8 @@ tags: [Toyobo, 东洋纺, 日本, 纤维, 材料集团, SAF]
 
 - 作为**潜在 SAF（超吸水性纤维）相关方**，Toyobo 的技术/制造资质（3 研发中心、4,677 专利、37 基地、ISO 45001 多站点）可信度较高，但**本批来源未提供任何 SAF 产品级参数**，故不能据此判定其 SAF 供货能力。
 - 若后续推进 SAF 相关评估，需另取产品级 TDS 并核实合资主体（TOYOBO MC）是否为实际商务窗口。
+
+## Related Sources 关联来源
+
+- [[Toyobo Group Integrated Report FY2025（东洋纺）]]
+- [[Toyobo 转换价格调整公告（2011 · 文件名误标 SAF Datasheet）]]

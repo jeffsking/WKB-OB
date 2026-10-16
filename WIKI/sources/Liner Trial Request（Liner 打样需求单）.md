@@ -13,7 +13,7 @@ key_claims:
   - "Code 1：50 gsm——上层 25 gsm（10% 三叶草截面纤维 KC 提供 + 90% 2D Bico PE/PET 延江提供）、下层 25 gsm（50% 三叶草 + 50% 4D Bico PE/PET）；幅宽 102 mm"
   - "Code 2-A：30 gsm（优先）——上层 15 gsm（10% 三叶草 + 90% 2D Bico）、下层 15 gsm（50% 三叶草 + 50% 4D Bico）；幅宽 82 mm"
   - "Code 2-B：30 gsm，具体取决于异型纤维的用量"
-pages_linked: ["[[三叶草截面纤维]]", "[[双组分纤维PE/PET]]", "[[Liner（面层）]]", "[[异形纤维]]"]
+pages_linked: ["[[三叶形截面纤维（Trilobal Fibre）]]", "[[双组分纤维PE／PET]]", "[[Topsheet（面层）]]", "[[异形纤维]]"]
 ---
 
 # Liner Trial Request（Liner 打样需求单）
@@ -48,7 +48,7 @@ Liner 打样需求单，向延江提出三个 Code 规格。**Code 1（50 gsm）
 
 ## 关联页面
 
-- [[三叶草截面纤维]]　[[双组分纤维PE/PET]]　[[Liner（面层）]]　[[异形纤维]]
+- [[三叶形截面纤维（Trilobal Fibre）]]　[[双组分纤维PE／PET]]　[[Topsheet（面层）]]　[[异形纤维]]
 
 ## 原文
 

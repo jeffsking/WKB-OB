@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "生物基单体 Bio-based Monomer"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [bio-based, monomer, bio-sap, pla, ppc, polymer-chemistry, sustainability]

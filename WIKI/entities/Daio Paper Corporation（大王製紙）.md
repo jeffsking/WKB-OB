@@ -46,3 +46,9 @@ tags: [Daio Paper, 大王製紙, 日本, 专利权利人, 裤型纸尿裤, 图�
 - [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-3_Underpants-style_disposable_diaper_and_manufacturing_method_therefor.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页信息全部来自**专利公开文本**（申请人/专利权人字段），属可公开引用事实；**不得**据此推断 Daio Paper 的产能、供货关系或商业策略。专利**法律状态或同族在其他国家的成员**来源未记载，标 `[待验证]`；AI **不作出 FTO 判断**。
+
+## Related Sources 关联来源
+
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Nanocellulose Review（纳米纤维素综述 · 2026-09-09）]]
+- [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]]

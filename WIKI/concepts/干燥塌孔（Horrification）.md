@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "干燥塌孔（Horrification）"
-domain: [卫材研发, 材料加工]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-29
 tags: [干燥, 塌孔, 角质化, 不可逆, 孔隙率, BNC, 复水]
@@ -61,3 +61,16 @@ aliases: ["干燥塌孔（Horrification / Hornification）"]
 - [[BCC RD 供应商拜访情报 — 拜科瑞（20260831）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BCC RD Vendor Visit Intelligence- Baikerui(拜科瑞).pptx.md`
 - [[BNC 技术分享（英文完整版，20260911）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Tech_Sharing_PPT_EN_20260911.pptx.md`
 - [[BNC 卫生用品技术可行性评估（访前尽调详细版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNCforHygieneProduct.pdf.md`
+
+## Related Sources 关联来源
+
+- [[BCC RD 供应商拜访情报 — 拜科瑞（20260831）]]
+- [[BNC 卫品技术可行性评估（Slide 大纲版，20260824）]]
+- [[BNC 卫生用品技术可行性评估（访前尽调详细版）]]
+- [[BNC 技术分享 PPT 大纲（20260908）]]
+- [[BNC 技术分享讲稿（中文，20260908）]]
+- [[BNC 技术分享（英文完整版，20260911）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[拜科瑞 BNC 发酵与发泡线纪要]]
+- [[海南拜科瑞公司介绍（纳米纤维素全产业链智造方案）]]
+- [[脱水干燥工艺族谱（一页纸）]]

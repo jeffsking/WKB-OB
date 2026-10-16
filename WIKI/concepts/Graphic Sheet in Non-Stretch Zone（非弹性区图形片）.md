@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Graphic Sheet in Non-Stretch Zone（非弹性区图形片）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [图形片, graphic sheet, 非弹性区, 裤型纸尿裤, 外装, 印刷]
@@ -39,7 +39,7 @@ aliases: ["Graphic Sheet", "非弹性区图形片"]
 
 - 配套机理：[[Elastic Strand Snicking（弹性橡筋断丝失效化）]]
 - 同族视觉设计：[[Informational Image on Pull-On Article（可穿脱制品信息图形）]]、[[Geometric Optical Mask（几何光学掩膜）]]、[[Wetness Indicator Ladder（尿湿指示阶梯）]]
-- 结构语境：[[分区密度设计]]、[[芯体通道花型设计]]、[[REL增强层]]
+- 结构语境：[[分区密度设计]]、[[Core Channel Pattern（芯体通道花型设计）]]、[[REL增强层]]
 - 权利人：[[Daio Paper Corporation（大王製紙）]]
 - 对比/相邻专利：[[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]]
 
@@ -56,3 +56,9 @@ aliases: ["Graphic Sheet", "非弹性区图形片"]
 - [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-3_Underpants-style_disposable_diaper_and_manufacturing_method_therefor.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观摘录**，不构成侵权或 FTO 判断；实施前须比对权利要求原文并由专利代理/法务独立评估。
+
+## Related Sources 关联来源
+
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]]
+- [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]]

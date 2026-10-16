@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "水凝胶 Hydrogel"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [水凝胶, 交联网络, SAP, 溶胀, 离子强度, 可降解]

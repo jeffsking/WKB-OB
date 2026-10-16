@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -192,3 +193,7 @@ Ch1 → Ch4 → Ch7 → Ch9 → Ch10 → Ch11 → Ch13 → Ch14
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/synthesis.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/synthesis.md.md`
+
+## 关联页面
+
+- [[Bessel 函数]]　[[Boltzmann 变换]]　[[Fick 定律]]　[[Laplace 变换]]　[[SAP（高吸水树脂）]]　[[Stefan 问题]]

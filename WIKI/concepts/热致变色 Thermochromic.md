@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "热致变色 Thermochromic"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [thermochromic, chromic, leuco-dye, microcapsule, wetness-indicator, liquid-crystal, diaper]
@@ -65,3 +65,16 @@ Directly relevant to the **hygiene chromic-ink programme** — thermal-comfort a
 - [[CTI (Chromatic Technologies)]]
 - [[Matsui Shikiso (松井)]]
 - [[智能尿裤功能层]]
+- [[Ancient Dyes and Pigments]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[Chromic Phenomena]]
+- [[Chromic Phenomena Introduction and Reversible Colour Change]]
+- [[Chromic Phenomena Solar Energy and Liquid Crystals]]
+- [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]
+- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]
+- [[Mechanochromic Photonic Sensors]]
+- [[Smart Textile Visual Perception (GRID)]]
+- [[Smart Textiles & Wearables]]
+- [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]
+- [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]]
+

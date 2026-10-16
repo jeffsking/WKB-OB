@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -171,3 +172,7 @@ Prototypes better perform design attributes, but it's contribution into final ev
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/EM leadership meeting - R&D presentation -Jan 9th 2025 v4 MDCD.pdf.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/EM leadership meeting - R&D presentation -Jan 9th 2025 v4 MDCD.pdf.md`
+
+## 关联页面
+
+- [[FIUP Test Method TTM-00643（女性摄入与回渗测试法）]]　[[Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）]]

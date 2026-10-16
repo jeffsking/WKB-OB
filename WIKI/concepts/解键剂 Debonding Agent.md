@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "解键剂 Debonding Agent"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [debonding-agent, 解键剂, surfactant, fluff-pulp, 芯层化学]

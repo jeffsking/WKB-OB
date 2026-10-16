@@ -70,7 +70,7 @@ def cell(v, default='—'):
 
 def main():
     os.chdir(VAULT)
-    pages = {'sources': [], 'concepts': [], 'entities': [], 'comparisons': []}
+    pages = {'sources': [], 'concepts': [], 'entities': [], 'comparisons': [], 'MOC': []}
     for sub in pages:
         for f in glob.glob('WIKI/%s/*.md' % sub):
             t = open(f, encoding='utf-8', errors='ignore').read()
@@ -97,8 +97,8 @@ def main():
     out.append('> 查询时**先读本索引定位页面，再加载具体页面**，回答须附来源（页面名 + 其 source_path）。')
     out.append('> 本库结构：`raw/`（原始资料，AI 只读）→ `wiki/`（编译知识层，AI 读写）→ 本索引 + `log.md`（操作日志）。')
     out.append('')
-    out.append('**当前规模：** %d 页 Wiki（源摘要 %d / 概念 %d / 实体 %d / 对比 %d）'
-               % (total, n['sources'], n['concepts'], n['entities'], n['comparisons']))
+    out.append('**当前规模：** %d 页 Wiki（源摘要 %d / 概念 %d / 实体 %d / 对比 %d / MOC %d）'
+               % (total, n['sources'], n['concepts'], n['entities'], n['comparisons'], n['MOC']))
     out.append('**语言规范：** WIKI 页面自 2026-09-29 起为**英文为主 + 中文对照**（AGENTS.md §2.0）；'
                '此前产出的中文页不强制回溯，编辑时逐步补齐。')
     out.append('**raw 盘存：** `RAW/` 1718 份 .md（**唯一事实锚点与判重锚**，2026-09-30 起 source_path 全库统一指 RAW/）；'
@@ -162,6 +162,17 @@ def main():
         out.append('| [[%s]] | %s | %s | %s |' % (
             p['title'], cell(fm.get('dimension')), cell(fm.get('subjects')), p['sum']))
     out.append('')
+    # MOC 导航层（type: moc，不参与 status 治理）
+    out.append('## 导航层 `WIKI/MOC/`')
+    out.append('')
+    out.append('> Map of Content 导航页（`type: moc`，不参与 status 治理；由 `.tools/_rebuild_moc.py` 幂等重建）。')
+    out.append('')
+    out.append('| 页面 | 域 | 更新时间 |')
+    out.append('|---|---|---|')
+    for p in pages['MOC']:
+        fm = p['fm']
+        out.append('| [[%s]] | %s | %s |' % (p['title'], cell(fm.get('domain')), cell(fm.get('updated'))))
+    out.append('')
     out.append('---')
     out.append('')
 
@@ -186,8 +197,8 @@ def main():
                   tail)
 
     open('index.md', 'w', encoding='utf-8').write('\n'.join(out) + tail)
-    print('index.md 已重建：%d 页（源摘要 %d / 概念 %d / 实体 %d / 对比 %d）'
-          % (total, n['sources'], n['concepts'], n['entities'], n['comparisons']))
+    print('index.md 已重建：%d 页（源摘要 %d / 概念 %d / 实体 %d / 对比 %d / MOC %d）'
+          % (total, n['sources'], n['concepts'], n['entities'], n['comparisons'], n['MOC']))
     print('回执 manual_review 合计: %d 条' % mr_total)
 
 

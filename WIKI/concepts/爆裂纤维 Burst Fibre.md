@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "爆裂纤维 Burst Fibre"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [burst-fibre, gel-blocking, crosslinked-cmc, cellulose, absorbency, structural-modification]

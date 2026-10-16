@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ATB双梳理面层（Dual-Card Topsheet）"
-domain: [卫材研发, 无纺布结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [ATB, 穿透热风粘合, 双梳理, Topsheet, Z梯度, MD沟槽, 三叶形纤维]
@@ -128,3 +128,27 @@ aliases: ["ATB 双梳理面层（Dual-Card Topsheet）"]
 - [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md`
 - [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md`
 - [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]
+- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]
+- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]
+- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]
+- [[TTM-00609 面层材料起毛起球测试.doc]]
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]
+- [[锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）]]
+

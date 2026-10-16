@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Chitosan Fibre（壳聚糖纤维）"
-domain: [卫材研发, 功能材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [壳聚糖, chitosan, 抗菌, 亲肤面层, 生物基]
@@ -57,3 +57,7 @@ tags: [壳聚糖, chitosan, 抗菌, 亲肤面层, 生物基]
 
 - [[壳聚糖及壳聚糖纤维技术与应用总结报告]] —— `RAW/ima_sync/个人知识库/WKB/Areas/壳聚糖及壳聚糖纤维技术与应用总结报告.pdf.md`
 - [[纳米纤维素供应商拜访计划 V3.1（2026Q2）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/纳米纤维素供应商拜访计划_V3_2026Q2_FullData.docx.md`（BC:壳聚糖 10:90 微凝胶配方）
+
+## Related Sources 关联来源
+
+- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]

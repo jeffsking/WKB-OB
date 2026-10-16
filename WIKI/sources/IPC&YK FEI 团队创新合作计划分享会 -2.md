@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -479,3 +480,7 @@ Origami 折叠芯体（已暂停）
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC&YK FEI 团队创新合作计划分享会 -2.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/IPC&YK FEI 团队创新合作计划分享会 -2.md`
+
+## 关联页面
+
+- [[IPC BCC OI Portfolio（开放创新项目组合）]]　[[Material Safety Control（材料安全双轨管控）]]　[[SAP（高吸水树脂）]]　[[SUPER ABSORBENT RESIN]]　[[吸收芯体]]　[[氨纶]]　[[益生菌]]

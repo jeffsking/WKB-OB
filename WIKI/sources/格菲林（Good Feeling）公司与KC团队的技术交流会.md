@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -405,3 +406,7 @@ KC建议格菲林尽快明确三出产品的具体应用方案与市场定位。
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/格菲林（Good Feeling）公司与KC团队的技术交流会.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/格菲林（Good Feeling）公司与KC团队的技术交流会.md`
+
+## 关联页面
+
+- [[ADL（导流层）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[SAP（高吸水树脂）]]　[[STM-00146]]　[[格菲林（Gefilin）]]

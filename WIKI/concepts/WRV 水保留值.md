@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "WRV 水保留值"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [WRV, water-retention, pulp-testing, fibre-acceptance, cellulose, capacity-parameter]
@@ -43,3 +43,6 @@ tags: [WRV, water-retention, pulp-testing, fibre-acceptance, cellulose, capacity
 - [[Absorbent Product Testing]] — WRV named as a required fibre-acceptance metric (Ch.11)
 - [[Cross-linked Cellulose and Its Derivatives]] — WRV 131 for lignin-bearing CTMP (Ch.7)
 - 相关概念：[[交联 CMC]]、[[取代度 DS]]、[[交联密度 Crosslink Density]]、[[HEC 羟乙基纤维素]]、[[微纤丝化纤维素 MFC]]、[[接枝共聚 Graft Copolymer]]、[[Donnan 溶胀]]、[[Gel Blocking（凝胶阻塞）]]、[[干燥角质化 Hornification]]、[[爆裂纤维 Burst Fibre]]、[[回渗 Rewet]]、[[湿态压缩模量]]、[[Klemm 法]]、[[Wilhelmy 湿附力法]]、[[达西定律 Darcy's Law]]、[[绒毛浆（Fluff Pulp）]]、[[CTMP 化学热磨浆]]、[[Danufil 粘胶]]、[[SAP（高吸水树脂）]]、[[Kimberly-Clark（金佰利）]]、[[Hercules Aqualon]]、[[Absorbent Technology]]、[[Grafted Cellulose and Starch]]
+- [[Absorbent Technology_ch09_report_20260823_031404]]
+- [[Absorbent Technology_ch11_report_20260823_031405]]
+

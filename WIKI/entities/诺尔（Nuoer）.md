@@ -358,3 +358,37 @@ tags: [Nuoer, 诺尔, SAP, 高吸水树脂, 610S, 950, Code X, COCO V6]
 ## 追加：511 水刺布打样实验分析结论（2026-09-29 追加 · 来源：SAM_511_分析汇报.pptx）
 
 > ✅ Verification（2026-09-29，source 来源 [[SAM_511_分析汇报.pptx]]）：7 月现场打样（511 基准 vs 951+N8 预混下层，见上方 2026-07-18/19 记录）的**系统分析结论落地**——8 种 SAP 搭配 × 3 协议（盐水/新国标/企标）三视角分析：**纯 511 综合排名前二但 3/7 留存三协议全最差（≈最优 2.6×），"可行但留不住"**；**比率（5/5 vs 3/7）为第一主导轴**（强支持）；**511/951+N8 双封顶（90/60s）配方整体失效，建议剔除**；**959 净正（+0.08）、610S 中性偏负、N8 全混淆无法孤立**。统计局限：无组内重复无法做正式检验；单指标排名跨协议翻转——"最优配方"依赖所选测试法。对诺尔的行动含义：纯511 比率扫描 + N8 孤立单元打样为本周级任务。原始数据与实验设计审计见 [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]。
+
+## Related Sources 关联来源
+
+- [[BNC增强SAP表面交联_抗菌除臭一体化延伸方案_20261010]]
+- [[BOM cost (T7 T6 T5 T4.5 diaper) China-Sept 2022 11.15.xlsx]]
+- [[Baby Diaper Absorbent Core Design（五层无浆 SAP 芯体设计方案与仿真 KPI）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[GBP（From Nuoer）.docx]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]
+- [[Nuoer Group 2026（诺尔集团公司介绍）]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAM_511_分析汇报.pptx]]
+- [[SAM加压吸收(From Nuoer).docx]]
+- [[SAM通液速度(From Nuoer).docx]]
+- [[SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）]]
+- [[SAP Production Process Walkthrough — Polymerisation, Grinding & Surface Treatment（I sap生产流程介绍）]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Case II 扩散"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [diffusion, non-fickian, sap-swelling, glassy-polymer, absorbency-modelling]

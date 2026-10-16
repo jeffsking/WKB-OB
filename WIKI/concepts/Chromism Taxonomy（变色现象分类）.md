@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Chromism Taxonomy（变色现象分类）"
-domain: [卫材研发, 材料科学, 知识组织]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [chromism, 热致变色, 湿致变色, 光致变色, 力致变色, halochromism, 文献地图]
@@ -260,3 +260,32 @@ tags: [chromism, 热致变色, 湿致变色, 光致变色, 力致变色, halochr
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md`
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
 - [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]
+- [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]]
+- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]
+- [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）]]
+- [[Photochromic Supplier Report 2026-08-03（光致变色供应商调研·含光-力双响应）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）]]
+- [[X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）]]
+- [[中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）]]
+- [[变色油墨供应商综合技术联系表]]
+- [[变色油墨供应商综合技术联系表（1）]]
+- [[变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）]]
+- [[感光变色材料产品资料（UV_CHT1608V2 · 台系变色供方）]]
+- [[感温变色材料产品资料（TM_CHT1608V2 · 台系变色供方）]]
+- [[温变湿变微胶囊技术参数对比表（X-Chromic 版 · 2026-06-18）]]
+- [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "毛细管吸收 Capillary Sorption"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [capillarity, absorbency, surface-energy, pore-wall, nonwoven, pulp]

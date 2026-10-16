@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "结构性常数 K"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [K-constant, capillary-flow, absorbency-rate, nonwovens, modeling]

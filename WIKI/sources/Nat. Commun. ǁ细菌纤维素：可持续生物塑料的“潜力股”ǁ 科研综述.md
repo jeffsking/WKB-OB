@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -139,3 +140,7 @@ ul:nth-child(36) > li:nth-child(2)">纺织品：改性BC具有类似皮革的柔
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/Nat. Commun. ǁ细菌纤维素：可持续生物塑料的“潜力股”ǁ 科研综述.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/Nat. Commun. ǁ细菌纤维素：可持续生物塑料的“潜力股”ǁ 科研综述.md`
+
+## 关联页面
+
+- [[PLA 玉米纤维]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[纳米纤维素（CNC、CNF、BNC）]]

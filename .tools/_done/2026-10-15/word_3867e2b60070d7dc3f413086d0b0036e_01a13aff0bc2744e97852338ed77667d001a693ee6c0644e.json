@@ -1,0 +1,8 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "REST get_media_info 原件下载 → docx 文本抽取",
+  "original_attachment": "RAW_FULL/ima_sync/个人知识库/WKB/attachments/5CB贴身合规评估结论备忘录_20261014.docx",
+  "audio_bytes": 12599
+ }
+}

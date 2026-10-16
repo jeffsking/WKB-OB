@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "智能织物 Smart Textile"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [smart-textile, wearable, chromic, stimuli-responsive, functional-fibre]
@@ -77,3 +77,10 @@ tags: [smart-textile, wearable, chromic, stimuli-responsive, functional-fibre]
 - [[US20070270773A1 Thermochromic Wetness Indicator]]
 - [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
 - [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[Smart Textile Visual Perception (GRID)]]
+- [[Smart Textiles & Wearables]]
+- [[Smart Textiles Review]]
+- [[Smart Textiles and Sportswear]]
+- [[Wearable Electronics (NSR Editorial)]]
+- [[Wearable Sensors (Book Preview)]]
+

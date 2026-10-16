@@ -68,3 +68,7 @@ tags: [SAF, Airlaid 芯材, SOFTCARE HAF, 第二供应渠道, 卫生用品]
 2. 产能、交期、最小起订量**源文未提供**；"现货样品可供测试，定制开发需协商"是唯一交期信息。
 3. **HAF 07 / HAF 10 的具体克重与 SAF 含量**源文未给出（仅 70–500 gsm 范围）。
 4. 本页**未记录与 K-C 的任何接触、送样或商务历史**；状态为**候选**。
+
+## Related Sources 关联来源
+
+- [[SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "抗菌整理定量测试（AATCC TM100 _ AATCC 100）"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [antibacterial, AATCC, TM100, test-method, 抗菌整理]
@@ -50,3 +50,8 @@ The **quantitative test for antibacterial finishes on textile materials** issued
 - [[抗菌整理]]
 - [[Chitosan Fibre（壳聚糖纤维）]]
 - [[壳聚糖及壳聚糖纤维技术与应用总结报告]]
+- [[Absorbent Technology_ch11_report_20260823_031405]]
+- [[德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）]]
+- [[无纺布工艺与材料实验室]]
+- [[纺粘无纺布]]
+

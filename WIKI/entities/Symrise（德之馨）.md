@@ -37,3 +37,9 @@ tags: [Symrise, 德之馨, 香料, 气味控制, SymDeo, 抑臭]
 
 - [[Symrise SymDeo™ XPP Polymer (Deo Polymer)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/30_Symrise SymDeo™ XPP Polymer (Deo Polymer).pdf.md`
 - [[Symrise SymDeo™ XPP 抑臭聚合物（中文版）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑧Odor_control_30_Symrise_SymDeo__XPP_抑臭聚合物.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Symrise SymDeo™ XPP Polymer (Deo Polymer)]]
+- [[Symrise SymDeo™ XPP 抑臭聚合物（中文版）]]
+- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]

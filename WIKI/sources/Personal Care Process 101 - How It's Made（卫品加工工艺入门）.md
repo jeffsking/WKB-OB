@@ -58,7 +58,7 @@ K-C 内部**加工工艺（converting）入门教材**：把「一片纸尿裤/�
 ## 关联页面 Linked pages
 
 - 对比 Comparison：[[Pressure vs Thermal vs Ultrasonic Bonding（压力·热·超声波粘合对比）]]（本页派生）
-- 概念 Concept：[[Ultrasonic Bonding of PET-Containing Topsheet]]、[[Hot-Melt Slot Coating（热熔狭缝涂布）]]、[[Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）]]、[[分区密度设计]]、[[芯体通道花型设计]]、[[COCO芯体平台]]、[[Ultra-Low Add-On Adhesive Application（超低添加量施胶）]]
+- 概念 Concept：[[Ultrasonic Bonding of PET-Containing Topsheet]]、[[Hot-Melt Slot Coating（热熔狭缝涂布）]]、[[Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）]]、[[分区密度设计]]、[[Core Channel Pattern（芯体通道花型设计）]]、[[COCO芯体平台]]、[[Ultra-Low Add-On Adhesive Application（超低添加量施胶）]]
 - 组合 Portfolio：[[IPC BCC OI Portfolio（开放创新项目组合）]]
 
 > 📌 OI 互链说明 Open Innovation linkage：本页属 OI Products/工艺资料层，是判断 OI 项目「工艺就绪度（Process Readiness）」的通用底座。涉及组合编号时默认采用 [[IPC BCC OI Portfolio（开放创新项目组合）]] 页认定的重构版 19 项口径（`OI-1`~`OI-19`）。

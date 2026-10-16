@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "交联密度 Crosslink Density"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [crosslink-density, SAP, hydrogel, swelling, Flory-Rehner, CRC-AUL]

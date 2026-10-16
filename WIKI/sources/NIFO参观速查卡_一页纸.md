@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -76,3 +77,7 @@ NIFO捻幅科技
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/NIFO参观速查卡_一页纸.pdf.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/NIFO参观速查卡_一页纸.pdf.md`
+
+## 关联页面
+
+- [[Bostik]]　[[Stimuli-Responsive PCM]]　[[东华大学]]　[[尿显胶]]

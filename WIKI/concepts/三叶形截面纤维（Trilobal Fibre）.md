@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "三叶形截面纤维（Trilobal Fibre）"
-domain: [卫材研发, 纤维材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [三叶形, 异形截面, MD沟槽, 导流, Lyocell, PE/PET, 皮芯复合纤维]
@@ -296,3 +296,37 @@ aliases: ["三叶形截面纤维（Trilobal Cross-section Fibre）"]
 - [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md`
 - [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md`
 - [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
+- [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]
+- [[Jiangnan High-Fibre Company Visit & Fibre Technical Exchange（江南高纤公司介绍及产品技术交流会议纪要 · 2026-07-01）]]
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[Liner Trial Request（Liner 打样需求单）]]
+- [[Manufactured Fibre Technology Ch01 Introduction]]
+- [[Manufactured Fibre Technology Ch06 Solution Spinning Processes]]
+- [[Manufactured Fibre Technology Ch14 Speciality Polyamide and Polyester Yarns]]
+- [[Manufactured Fibre Technology Ch15 Acrylic Fibres]]
+- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]
+- [[Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[OI（Open Innovation）团队会议纪要]]
+- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]
+- [[Product Development & Trial Plan Workshop（产品研发与实验计划研讨）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]
+

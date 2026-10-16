@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Donnan 溶胀"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [Donnan, swelling, polyelectrolyte, SAP, osmotic-pressure, ionic-strength]
@@ -43,7 +43,6 @@ Swelling of a **fixed-charge polyelectrolyte matrix** driven by **Donnan osmotic
 
 ## Related Sources 关联来源
 
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Cross-linked Cellulose and Its Derivatives]]
 - [[Industrial Drying Ch28 Osmotic Dehydration and SAP Physics]]
 - [[离子强度 Ionic Strength]]

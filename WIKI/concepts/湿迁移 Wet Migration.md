@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "湿迁移 Wet Migration"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [wet-migration, diffusion, fick-law, absorbent-core, SAP-swelling, drying, binder-migration]

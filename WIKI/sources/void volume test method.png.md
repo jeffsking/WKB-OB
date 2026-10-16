@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -37,3 +38,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/void volume test method.png.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/Material/void volume test method.png.md`
+
+## 关联页面
+
+- [[FIUP Test Method TTM-00643（女性摄入与回渗测试法）]]　[[SAP（高吸水树脂）]]　[[STM-00146]]

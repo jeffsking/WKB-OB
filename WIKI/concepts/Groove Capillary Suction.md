@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Groove Capillary Suction"
-domain: [卫材研发, 导流机理]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-29
 tags: [毛细, 沟槽, 异形截面, 导流, 面层, Liner]
@@ -64,3 +64,9 @@ A groove network at 40–50 kPa suction is a genuine reservoir. If it out-compet
 - [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md`
 - [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md`
 - [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]
+- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]

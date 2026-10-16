@@ -40,3 +40,7 @@ tags: [背层膜, breathable film, RKW, 透气膜, 填充拉伸膜, 印刷背层
 ## Sources 来源
 
 - [[US20240099910A1 Digitally Printed Backsheet Film (RKW SE)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/三-2_Digitally_printed_backsheet_film.pdf.md`
+
+## Related Sources 关联来源
+
+- [[US20240099910A1 Digitally Printed Backsheet Film (RKW SE)]]

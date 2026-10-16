@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "无溶剂氨纶（Solvent-free Spandex）"
-domain: [卫材研发, 材料安全与法规]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [氨纶, 无溶剂, DMAC-free, 热粘合温度, 蠕变, 模量]
@@ -71,3 +71,13 @@ aliases: ["Solvent-free Spandex", "DMAC-free 氨纶"]
 
 - [[August R&D Meeting 2026（华峰研发会议）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md`
 - [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md`
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）]]
+- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]]
+- [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]]
+- [[与华峰集团会晤纪要（2026-07-29）]]
+- [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]]

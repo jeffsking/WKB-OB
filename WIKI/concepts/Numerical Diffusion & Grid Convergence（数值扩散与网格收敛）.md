@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）"
-domain: [卫材研发, 仿真与建模方法]
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [数值扩散, 网格收敛, Numerical Diffusion, Grid Convergence, 离散化, 验证基准]
@@ -116,3 +116,11 @@ aliases: ["数值扩散（Numerical Diffusion）", "网格收敛性（Grid Conve
 - [[纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/纸尿裤 2D 吸收模型 v10 优化结果报告.pdf.md`
 - [[2D Absorption Model v9 Red-Teaming Optimization Report（二维吸收模型v9红蓝对抗优化报告）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/2D_v9_RedTeaming优化报告.pdf.md`
 - [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v11_simulation_report_20260708.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）]]
+- [[Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）]]
+- [[v10 优化执行方案建议（Claude Code + Gemini CLI 分工评估 · 2026-06-16）]]
+- [[纸尿裤 2D 吸收模型 v10 优化结果报告（Markdown 原稿版 · 2026-06-16）]]
+- [[纸尿裤 2D 吸收模型 v10 优化结果报告（自适应 dt + Flory-Rehner）]]

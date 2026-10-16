@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Moisture-Responsive Fibre（湿敏变形纤维）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [湿敏, 变形纤维, 透气, 面层]
@@ -52,3 +52,11 @@ tags: [湿敏, 变形纤维, 透气, 面层]
 ## 追加：IPC×FBI 合作计划中的应用灵感（2026-09-29 追加 · 不改上方结论）
 
 来源页 [[IPC与FBI团队创新合作计划]]（转写）：FBI 分享了一款**遇湿变形纤维材料**（湿度/水活性触发纤维自身形态改变），灵感场景为运动服——出汗后纤维按预设花型变形、减少与皮肤接触面积以保持干爽；会议中提出与**开孔（aperture）结构组合**的设想：湿度达到阈值时孔洞打开。属温控（thermal regulation）新需求空间的候选技术，与页面上方的湿敏变形机理一致，应用方向可作纸尿裤温控概念输入。转写细节 `[待验证]`。
+
+## Related Sources 关联来源
+
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC与FBI团队创新合作计划]]
+- [[Manufactured Fibre Technology Ch13 Nylon 6 and Nylon 66 Fibres]]

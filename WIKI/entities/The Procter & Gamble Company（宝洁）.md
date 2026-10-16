@@ -85,3 +85,23 @@ tags: [P&G, 宝洁, 竞品, 专利权利人, 结构专利, 热熔胶, 弹性部�
 - [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-4_具有前后弹性腰围的胶粘吸收制品.pdf.md`（2026-09-29 追加）
 
 > 🔴 **manual_review（2026-09-29）**：本页信息全部来自**专利公开文本**（申请人/专利权人字段），属可公开引用事实；**不得**据此推断 P&G 的产能、采购关系或商业策略。专利**法律状态**（是否维持有效、是否进入各国）来源未记载，标 `[待验证]`；AI **不作出 FTO 判断**。
+
+## Related Sources 关联来源
+
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[EP0820747A1 Absorbent Article with Elastic Feature (P&G)]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况）]]
+- [[Products and Technology Perspective]]
+- [[R164444 - TL-15927 Dryness Claim Substantiation for Poise pads vs Always Discreet 2015.pdf]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]]
+- [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]]
+- [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]]
+- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]
+- [[US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)]]
+

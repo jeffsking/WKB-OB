@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "干燥角质化 Hornification"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [hornification, drying, fluff-pulp, fibre-structure, pulp-qualification]

@@ -1,0 +1,661 @@
+## hygiene-materials  (261)
+   2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）
+   82 鼓距与产品节距解耦 repitch 选型
+   83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+   87 卫材产线约束常量表（待并入补充行）
+   APAC 卫生纸产品矩阵（2017  workshop 预研）
+   AUL 加压吸水率
+   Ardex
+   Bessel 函数
+   Boltzmann 变换
+   CFD 计算流体力学
+   CLC 手性向列晶
+   CMC 临界胶束浓度
+   CRC 离心保持能力
+   CTMP 化学热磨浆
+   Case II 扩散
+   Cassie-Baxter Equation
+   Co-extruded Elastic Film Feature（共挤弹性膜弹性部件）
+   DIC
+   Danufil 粘胶
+   Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）
+   Donnan 溶胀
+   ES 纤维 ES Fiber
+   ES 纤维驻极研究
+   Fiberscope
+   Fick 定律
+   Flory- Rehner Theory
+   Freundlich 等温线
+   GATS 重力吸收测试
+   GB-T 28004-2011（纸尿裤国标测试口径）
+   GST
+   Grafted Cellulose and Starch
+   HEC 羟乙基纤维素
+   Hagen-Poiseuille Equation
+   Hercules Aqualon
+   Hygiene Absorption Model
+   Klemm 法
+   Lagrangian Particle Tracking
+   Laplace Pressure
+   Laplace 变换
+   LbL 自组装 Layer-by-Layer
+   Marangoni Effect
+   Navier-Stokes Equation
+   Nonwoven Lamination
+   Nonwoven 非织造布
+   Open Diaper Process（开放式纸尿裤工艺）
+   PAA 聚丙烯酸
+   PLA 玉米纤维
+   PNIPAAM
+   PSA
+   PVAc 乳液
+   Polyolefin Absorbent Materials
+   Product Dimension Measurement（成品尺寸测量）
+   SAM Distribution Test（SAM 分布膨胀测试）
+   SAP 干燥 SAP Drying
+   SAP 溶胀 SAP Swelling
+   SBS 弹性体
+   SMS 复合无纺布
+   SMS 纺粘熔喷复合
+   STM-00146
+   Specific Air Volume
+   Stefan 问题
+   Stimuli-Responsive PCM
+   Stimuli-Responsive Polymers
+   Stokes Number
+   TPE Tetraphenylethylene
+   Topsheet Fuzz & Pilling Test（面层起毛起球测试）
+   VO2
+   Videoimagescope
+   WRV 水保留值
+   Washburn Equation
+   Wenzel Equation
+   Wilhelmy 湿附力法
+   Work of Adhesion
+   Young's Equation
+   k-ε 湍流模型
+   pH 响应材料
+   一氯乙酸 Monochloroacetic Acid
+   三相接触线 TPL
+   丙烯酸丙烯酸酯胶 Acrylic Adhesive
+   两亲吸附 Amphipathic Adsorption
+   中空纤维 Hollow Fibre
+   乳化剂 Emulsifier
+   交联 CMC
+   交联密度 Crosslink Density
+   亲水化 Hydrophilisation
+   亲水整理 Hydrophilic Finish
+   保湿剂 Humectant
+   保留层 Retention Layer
+   健康监测 Health Monitoring
+   偶氮染料 Azo Dye
+   光子晶体 Photonic Crystal
+   光致变色 Photochromic
+   光致变色油墨 Photochromic Ink
+   全息存储 Holographic Storage
+   全芯体 vs 混合芯体
+   再润湿剂 Rewetting Agent
+   分布层 Distribution Layer
+   刺激响应聚合物 Stimuli-Responsive Polymer
+   动边界 Moving Boundary
+   化妆品科学 Cosmetic Science
+   半胶束 Hemimicelle
+   协同吸附 Cooperative Adsorption
+   卫材胶黏系统 Hygiene Adhesive Systems
+   压敏胶 PSA
+   双组分纤维 Bicomponent
+   反应-扩散耦合 Reaction-Diffusion
+   取代度 DS
+   变色材料 Chromic Materials
+   变色油墨 Color-Changing Ink
+   可冲散拭布 Flushable Wipe
+   可穿戴传感器 Wearable Sensor
+   合金粘胶 Alloy Rayon
+   含水率 Moisture Regain
+   吸收芯体
+   咖啡炭纤维（异味吸附）
+   回渗 Rewet
+   壳聚糖 Chitosan
+   复合材料 Composite
+   复合膜 Composite Membrane
+   天丝 Tencel
+   天然染料 Natural Dye
+   孔隙率 Porosity
+   导电无纺布 Conductive Nonwoven
+   导电纱线 Conductive Yarn
+   层压 Lamination
+   干燥角质化 Hornification
+   底膜 Backsheet
+   形状记忆聚合物 Shape Memory Polymer
+   微纤丝化纤维素 MFC
+   戊二醛 Glutaraldehyde
+   承压吸收 AUL
+   抗菌整理
+   抗菌整理定量测试（AATCC TM100 _ AATCC 100）
+   接枝共聚 Graft Copolymer
+   接触角 Contact Angle
+   摩擦电自供电 TENG
+   摩擦纳米发电机 TENG
+   改性纤维素 Modified Cellulose
+   数值模拟 Numerical Simulation
+   断裂力学 Fracture Mechanics
+   斯托克斯位移 Stokes Shift
+   时间滞后法 Time Lag Method
+   智能包装 Smart Packaging
+   智能织物 Smart Textile
+   有限体积法
+   有限元法
+   有限差分法 Finite Difference
+   木浆 Pulp
+   机械变色 Mechanochromic
+   机械脱水 Mechanical Dewatering
+   染料敏化太阳能电池 DSSC
+   柔性电子 Flexible Electronics
+   格林函数 Green's Function
+   棉纤维 Cotton
+   植物基材料 Plant-Based Material
+   植物提取物 Plant Extract
+   每克厚度 T／W
+   毛细压力 Capillary Pressure
+   毛细管吸收 Capillary Sorption
+   毛细芯吸 Capillary Wicking
+   气铺 Airlaid
+   水凝胶 Hydrogel
+   水刺 Hydroentanglement
+   水性聚氨酯 Waterborne PU
+   活性炭除臭（DARCO）
+   流变学 Rheology
+   浊点 Cloud Point
+   润湿 Wetting
+   润湿剂 Wetting Agent
+   液晶 Liquid Crystal
+   深沟槽涤纶 Deep-groove Polyester
+   渗透率 Permeability
+   温度响应材料
+   湿冷感 Wet-Cool
+   湿巾 Wet Wipes
+   湿强剂 Wet-Strength Resin
+   湿态压缩模量
+   湿态强度 Wet Strength
+   湿感指示条 Wetness Indicator
+   湿热耦合 Heat-Moisture Coupling
+   湿迁移 Wet Migration
+   热传递 Heat Transfer
+   热熔胶 Hot Melt Adhesive
+   热电现象 Thermoelectric
+   热粘合热风无纺布 Airlaid
+   热致变色 Thermochromic
+   热轧粘合 Calender Bonding
+   热风无纺布
+   热风非织造 Hot-Air Bonded Nonwoven
+   熔喷 Meltblown
+   爆裂纤维 Burst Fibre
+   环氧氯丙烷 Epichlorohydrin
+   珠光颜料 Lustre Pigment
+   生物基单体 Bio-based Monomer
+   生物纤维素 Bacterial Cellulose
+   生物胶黏剂 Bioadhesive
+   甲醛 Formaldehyde
+   甲醛排放 E1
+   电子纺织品 E-textile
+   电致发光 Electroluminescence
+   电致变色 Electrochromic
+   皮肤科学 Dermatology
+   相变材料 Phase Change Material
+   硅烷偶联剂 Silane Coupling Agent
+   磷酸化纤维素 Phosphonoalkylcellulose
+   离子变色 Ionochromic
+   离子对吸附 Ion Pair Adsorption
+   离子强度 Ionic Strength
+   稀释便液 BM simulant A
+   等电点 Isoelectric Point
+   等离子处理 Plasma Treatment
+   粘合剂 Binder
+   粘胶 Rayon
+   粘胶纤维 Viscose Fiber
+   粘附张力 Adhesion Tension
+   纤维 Fibril
+   纤维干燥 Fiber Drying
+   纤维扩散 Fiber Diffusion
+   纸浆干燥 Pulp Drying
+   纺粘 Spunbond
+   纺粘熔喷 Spunbond-Meltblown
+   结构性常数 K
+   结构色 Structural Color
+   羧甲基纤维素 CMC
+   聚合物分散液晶 PDLC
+   聚合物刷 Polymer Brush
+   聚氨酯 Polyurethane
+   聚集诱导发光 AIE
+   胆甾相液晶 Cholesteric Liquid Crystal
+   胆甾相液晶弹性体 CLCE
+   胶乳 Latex
+   胶乳胶黏剂 Latex
+   胶接热力学 Adhesion Thermodynamics
+   胶接理论 Adhesion Theories
+   胶束 Micelle
+   胶黏剂 Adhesive
+   自-sizing Self-sizing
+   自由体积 Free Volume
+   芯体通道花型设计
+   荧光增白剂 Optical Brightener
+   莱赛尔 Lyocell
+   获取层 Acquisition Layer
+   蒙脱土 Montmorillonite
+   藻酸盐 Alginate
+   虚拟原型 Virtual Prototyping
+   螺噁嗪 Spiroxazine
+   表面交联 Surface Cross-linking
+   表面活性剂 Surfactant
+   角化 Hornification
+   解键剂 Debonding Agent
+   超分子 Host-Guest Chemistry
+   辐射冷却材料 Radiation Cooling
+   达西定律 Darcy's Law
+   过滤材料 Filter Material
+   针刺 Needlepunching
+   银纳米线 AgNW
+   防水透气 Waterproof Breathable
+   防腐剂 Preservative
+   香豆素 Coumarin
+   驻极体 Electret
+   鸡毛纤维 Chicken-feather Fibre
+## [卫材研发, 芯体结构]  (20)
+   ADL（导流层）
+   Airlaid Paper（无尘纸）
+   Blizzard Core（Blizzard 芯体结构）
+   COCO芯体平台
+   Core Channel Pattern（芯体通道花型设计）
+   Core Wrap（芯体包裹层）
+   Fluff-Free 4th-Gen Absorbent Core（无木浆第四代芯体）
+   High-Density Fluff Core（高密度绒毛浆芯体）
+   Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）
+   Multilayer SAP Core（多层SAP芯体）
+   Pad Zoning：Flat vs Pocketed（成型分区：平区 vs 袋区）
+   REL增强层
+   ROTC（Real Online ThinTech Core）
+   SAP 吸水纸（SAPP）
+   TBCW结构
+   亲水-疏水梯度设计
+   分区密度设计
+   季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）
+   毛细梯度设计
+   绒毛浆（Fluff Pulp）
+## [卫材研发, 测试与验收]  (18)
+   Acquisition Test STM-00060（导流性能测试）
+   BM Simulant A（便液模拟液 A）
+   Cradle Intake Test（Cradle 摄入测试）
+   Elastic Tension & Creep（橡筋张力与回缩率）
+   FIFE Test（FIFE 摄入-回渗评价）
+   Hook-and-Loop Strength Test（粘扣系统强度测试）
+   Liquid Diffusion Test（液体扩散测试）
+   Mannequin BM Test（BM 假人测试）
+   Peel Test STM-00438（剥离强度测试）
+   Pressure Sensory Test（压力触感测试）
+   REL Splice Tensile Test（REL 拼接拉断力测试）
+   Retention Capacity Test（滞留能力测试）
+   Rewet Test（回渗测试）
+   Run-off & Leakage Test（滑渗与渗漏测试）
+   SAM Testing Methods（超级吸水材料测试方法）
+   Static Mannequin Test（静态假人测试）
+   尿液模拟液（Urine Analog）
+   芯体测试方法与验收基准（STM）
+## [卫材研发]  (18)
+   Antimony-Free PET Fibre（无锑 PET 纤维）
+   Botanical Extract Efficacy Verification（植物提取物功效验证）
+   Coform Composite Nonwoven（熔喷-木浆复合非织造）
+   Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）
+   Front Belt Force Window（前腰带弹性力窗口）
+   Gasketing Effectiveness（防漏阻隔有效性）
+   Kirigami Apertured Nonwoven（切割拉伸开孔工艺）
+   Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）
+   Product Safety Crisis Management（产品安全危机管理）
+   Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）
+   Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）
+   两性离子高吸水树脂（纤维素接枝耐电解质）
+   可降解纳米纤维素-天然高分子复合 SAP（制浆造纸研究院）
+   感湿-感温双变色层大小便判别
+   纳米纤维素基高吸水树脂（茶渣-CNC 接枝）
+   超细氨纶密排腰围（褶皱布纹）
+   超高腰护脐结构（5-10cm 腰围）
+   透气弹性腰围（打孔氨纶）
+## [卫材研发, 材料]  (12)
+   Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）
+   Biodegradable SAP（可降解高吸水树脂）
+   Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）
+   Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）
+   Moisture-Responsive Fibre（湿敏变形纤维）
+   Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）
+   PGA（聚乙醇酸）
+   PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）
+   SAP-Cellulosic Nanofibril Composite（SAP-纤维素纳米纤丝复合体）
+   SAP（高吸水树脂）
+   Topsheet（面层）
+   Zeolite Odour Control（沸石除臭载体）
+## [卫材研发, 纤维材料]  (8)
+   CoPET（低熔点共聚酯）
+   PTT（聚对苯二甲酸丙二醇酯）
+   PVA纤维（湿强骨架）
+   Pentagram PET (Star Cross-Section Fibre)
+   三叶形截面纤维（Trilobal Fibre）
+   并列复合自卷曲纤维
+   应力诱导取向与结晶
+   皮芯复合纤维
+## [卫材研发, 测试方法与表征]  (8)
+   Folded Product Dimension Test（折叠后长度·宽度测量）
+   Motion Mannequin Test（动态假人测试）
+   Nonwoven Deformation Force Test（无纺布形变力测试）
+   Product Waist Break Test（产品腰围拉断测试）
+   Seal Strength Test（端封·侧封强度测试）
+   Surface Moisture Test（面层干爽性测试）
+   Thickness Test（成品厚度测试）
+   Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）
+## [待补]  (7)
+   2025.06.25 - Learning Cycle Check In（GRIFFIN 学习周期复盘）
+   Contact Angle
+   Hot Melt Adhesive
+   Silane Coupling Agent
+   有限差分法
+   毛细管压力 Capillary Pressure
+   热致变色
+## [卫材研发, 结构设计]  (7)
+   Film-Free Backsheet（无膜背层）
+   Graphic Sheet in Non-Stretch Zone（非弹性区图形片）
+   Informational Image on Pull-On Article（可穿脱制品信息图形）
+   Median Absorption Pressure Gradient（中值吸收压梯度）
+   Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）
+   Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）
+   Waist Guard（腰围护挡）
+## [卫材研发, 智能功能化, 材料]  (7)
+   Mechanochromic变色纤维
+   Microencapsulation
+   Thermochromic Microcapsule (Leuco Dye System)
+   Water-Activated Ink（水变／湿变油墨）
+   Wetness Indicator Glue
+   变色油墨
+   温变湿变微胶囊（Thermochromic_Hydrochromic Microcapsules）
+## [卫材研发, 无纺布工艺]  (5)
+   Meltblown Nonwoven（熔喷非织造布）
+   PE-PET Bond Efficiency Model
+   SMS复合结构
+   亲水整理耐久性
+   热风粘合无纺布
+## [卫材研发, SAP]  (4)
+   AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体
+   SAP 表面包覆（SAP Particle Surface Coating）
+   抗菌除臭高吸水树脂（CNC 载体双功能 SAP）
+   蒙脱土纳米复合高吸水树脂（CMC-AA-OMMT）
+## [卫材研发, 胶黏剂]  (4)
+   APAO（非晶态聚α-烯烃）
+   Olefin Block Copolymer (OBC) 烯烃嵌段共聚物
+   Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）
+   Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）
+## [卫材研发, 测试方法]  (4)
+   Blowout Leakage Test（爆漏测试）
+   LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）
+   Liquid Modes（TL-1607 液体四态）
+   MCCT Multi-Component Capillary Tension（多组分毛细张力测试）
+## [法规与产品安全, 限用物质]  (4)
+   GB 43631-2023（婴幼儿及儿童纸品化学安全总门槛）
+   GB-T 36420-2018（生活用纸化学品安全评价体系）
+   Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）
+   环氧乙烷残留（EO Residue）
+## [卫材研发, 面层结构]  (3)
+   3D In-line Embossing Topsheet（3D 在线压花面层）
+   MD Liquid Distribution
+   Triple Cutting Topsheet（三层切割面层）
+## [卫材研发, 比色传感, 化学]  (3)
+   Bile Pigment Mordant Lane（胆色素媒染通道）
+   Protein Error of pH Dye（pH 染料的蛋白误差）
+   Titratable Acidity Lane（可滴定酸度通道）
+## [卫材研发, 高吸水树脂]  (3)
+   BNC 基 SAP 表面交联
+   SAP性能指标（CRC AUL GBP Vortex）
+   SAP错峰膨胀
+## [卫材研发, 材料加工]  (3)
+   BNC-PEG 母粒（干态可复水中介体）
+   干燥塌孔（Horrification）
+   水凝胶脱水干燥工艺族谱
+## [法规与产品安全, 测试方法]  (3)
+   可降解纸制品评价（需氧堆肥：生物分解·崩解·生态毒性）
+   抗（抑）菌性能评价（杀菌率·抑菌率）
+   锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧
+## [卫材研发, 测试与验收, 成人护理]  (2)
+   Bladder Box Intake Test（膀胱箱压载摄入测试）
+   Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）
+## [卫材研发, 设备工程, 芯体工艺]  (2)
+   Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
+   Repitch（鼓距与产品节距解耦）
+## [采购, 市场洞察]  (2)
+   China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）
+   Diaper Premiumization（纸尿裤高端化）
+## [卫材研发, 材料安全与法规]  (2)
+   DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制
+   无溶剂氨纶（Solvent-free Spandex）
+## [卫材研发, 无纺布]  (2)
+   ES 双组分弹性纤维热风布（弹性体改性）
+   可家庭堆肥无纺布（Home Compostable Nonwoven）
+## [法规与产品安全, 中国标准体系]  (2)
+   GB 15979-2024（一次性使用卫生用品卫生要求）
+   中国化妆品卫生标准体系（GB 7916 表1-表6 清单结构）
+## [卫材研发, 摄入系统, 回渗]  (2)
+   Liner-Surge Interstitial Space（面层-导流层界面间隙）
+   Pore Size Distribution Monodispersity（孔径分布单分散性）
+## [卫材研发, 气味控制]  (2)
+   Odour Management Routes（气味管理技术路线）
+   SymDeo™ XPP 抑臭聚合物
+## [法规与产品安全, 化妆品合规]  (2)
+   Phenoxyethanol（苯氧乙醇）
+   化妆品限用-准用组分体系（中国 2015 技术规范）
+## [卫材研发, 面层]  (2)
+   Probiotic & Skin-Care Topsheet（益生菌护肤面层）
+   局部亲水印花面层（锥形孔导流）
+## [卫材研发, 纤维材料, 聚合物]  (2)
+   低熔点聚丙烯
+   成纤性判据
+## [卫材研发, 聚合物加工]  (2)
+   熔融指数与化学降解
+   聚酯水解与水分控制
+## [卫材研发, 材料科学]  (2)
+   纳米纤维素（CNC、CNF、BNC）
+   细菌纳米纤维素
+## [卫材研发, 胶黏剂, 回渗]  (1)
+   Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）
+## [卫材研发, 智能功能化]  (1)
+   Active Diagnostic Zones（主动诊断分区）
+## [卫材研发, 芯体工艺]  (1)
+   ActiveTech Platform（ActiveTech 在线薄芯体平台）
+## [法规与产品安全, 卫品]  (1)
+   AHPs Stewardship Program 与 CODEX™ 痕量物质管控
+## [卫材研发, 透气与热舒适]  (1)
+   Airy Window（腰围透气窗）
+## [卫材研发, 无纺布结构]  (1)
+   ATB双梳理面层（Dual-Card Topsheet）
+## [卫材研发, 生物基材料]  (1)
+   Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）
+## [卫材研发, 生物材料, 载体技术]  (1)
+   BC Microgel（细菌纤维素微凝胶）
+## [采购, 立项治理]  (1)
+   BNC Application Red Line（BNC 应用红线）
+## [卫材研发, 产品档位与材料策略]  (1)
+   BSL Tier Differentiation（面层分档与产品档位差异化）
+## [卫材研发, 吸收机理, 测试方法]  (1)
+   Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）
+## [卫材研发, 加工与转换工程]  (1)
+   CD Pants Converting Process（CD裤式产品加工工艺）
+## [卫材研发, 功能材料]  (1)
+   Chitosan Fibre（壳聚糖纤维）
+## [卫材研发, 材料科学, 知识组织]  (1)
+   Chromism Taxonomy（变色现象分类）
+## 供应商  (1)
+   Clariant
+## [卫材研发, 结构件]  (1)
+   Cohesive Fastener（自粘扣合系统）
+## [卫材研发, 知识产权]  (1)
+   Composite Core Patent Clearance（复合芯体专利规避审查）
+## [卫材研发, SAP 机理]  (1)
+   Controlled Radical Polymerization SAP（控制自由基聚合 SAP）
+## [卫材研发, 舒适性]  (1)
+   Diaper Microclimate
+## [仿真建模, 吸收仿真, AI4Science, 开放创新]  (1)
+   Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）
+## [卫材研发, 消费者研究]  (1)
+   Dryness Measure System（干爽度量三分）
+## [卫材研发, 工艺]  (1)
+   Elastic Strand Snicking（弹性橡筋断丝失效化）
+## [卫材研发, 非织造与纳米纤维]  (1)
+   Electrospinning（静电纺丝）
+## [卫材研发, 测试方法, 回渗]  (1)
+   FIUP Test Method TTM-00643（女性摄入与回渗测试法）
+## [卫材研发, 阻隔性能, 统计力学]  (1)
+   Formation-Limited Barrier（阻隔的成形受限机理）
+## [法规与产品安全, 原料标准]  (1)
+   FZ-T 64112-2024（婴幼儿纸尿裤用非织造布行业标准）
+## [卫材研发, 测试方法与合规]  (1)
+   GB-T 28004.1-2021（纸尿裤国标）
+## [卫材研发, 高吸水树脂, 测试方法]  (1)
+   GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）
+## [卫材研发, 吸收芯体, 仿真模型]  (1)
+   Gel Blocking（凝胶阻塞）
+## [卫材研发, 智能功能化, 涂层工艺]  (1)
+   Geometric Optical Mask（几何光学掩膜）
+## [卫材研发, 设备工程, 胶黏剂]  (1)
+   Glueless Bonding（无胶粘合工艺族）
+## [卫材研发, 导流机理]  (1)
+   Groove Capillary Suction
+## [卫材研发, 涂层工艺, 流变]  (1)
+   Hot-Melt Slot Coating（热熔狭缝涂布）
+## [卫材研发, 胶黏剂, 高吸水树脂]  (1)
+   Hydrophilic SAP Wrapping Adhesive（亲水SAP包裹胶）
+## [法规与产品安全, 香精合规]  (1)
+   IFRA Standards 与 12 大产品类别体系
+## [卫材研发, 无纺布工艺, 设备工程]  (1)
+   In-line 3D Nonwoven Formation（在线三维成形非织造）
+## [卫材研发, 摄入层, 面层, 导流层]  (1)
+   Intake System（摄入系统）
+## [采购, 成本分析]  (1)
+   IPA（间苯二甲酸）
+## [采购, 项目管理]  (1)
+   IPC BCC OI Portfolio（开放创新项目组合）
+## [卫材研发, 熔喷设备, 聚合物加工]  (1)
+   Laser-Assisted Die Tip（激光辅助模头）
+## [卫材研发, 摄入系统, 工艺工程]  (1)
+   Liner-Surge Embossing（面层-导流层压花）
+## [采购, 市场与产品定义]  (1)
+   Marketing Claim Translation Paradigms（市场宣称六大转化范式）
+## [卫材研发, 技术管理, 开放创新]  (1)
+   Material Open Innovation Function（材料开放创新职能）
+## [卫材研发, 合规]  (1)
+   Material Safety Control（材料安全双轨管控）
+## [卫材研发, 力致变色, 人因工程]  (1)
+   Mechanochromic Activation Threshold Down-Shifting（力致变色激活阈值下调）
+## [卫材研发, 力致变色, 材料表征]  (1)
+   Mechanochromic Strain Regime Transition（力致变色 25–27% 应变区间转型）
+## [卫材研发, 智能功能化, 高分子化学]  (1)
+   Mechanophore Mechanochromism（机械力致变色分子）
+## [卫材研发, 材料科学, 开放创新]  (1)
+   Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）
+## [卫材研发, 非织造布, 材料工艺]  (1)
+   Nonwoven Process Classification（非织造布工艺分类）
+## [卫材研发, 仿真与建模方法]  (1)
+   Numerical Diffusion & Grid Convergence（数值扩散与网格收敛）
+## [卫材研发, 异味控制, 消臭]  (1)
+   Odor Control Technology Landscape（异味控制技术图谱）
+## [卫材研发, 芯体设计, 化学兼容]  (1)
+   Odour-Control Granular Interference（除臭颗粒干扰）
+## [卫材研发, 方法论, 立项与拜访]  (1)
+   Pain-Point Backward Derivation（痛点倒推法）
+## [卫材研发, 测试方法, 应变指示]  (1)
+   Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）
+## [卫材研发, 芯体工艺, 设备工程]  (1)
+   Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）
+## [卫材研发, 材料科学, 舒适性]  (1)
+   PCM-Free Thermoregulation
+## [卫材研发, 聚合物]  (1)
+   PET（聚酯）
+## [采购, 气味管理材料]  (1)
+   Powdered Activated Carbon（粉末活性炭）
+## [卫材研发, 吸收机理]  (1)
+   Residual Fluid & Pore Stranding（残液与孔隙滞留）
+## [卫材研发, 导流层]  (1)
+   Resilient Surge（PET 回弹导流层）
+## [卫材研发, 回渗, 测试方法]  (1)
+   Rewet Measurement Variability（回渗测试变异性）
+## [卫材研发, 回渗, 摄入系统]  (1)
+   Rewet Mechanisms Desorption and Flowback（回渗双机理：解吸与回流）
+## [卫材研发, 芯体工艺, 过程控制]  (1)
+   SAP Dosing Speed Matching（SAP 落料速度匹配与容差）
+## [卫材研发, 可降解材料, 高吸水材料]  (1)
+   Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）
+## [卫材研发, 智能监测]  (1)
+   Sensor-Equipped Absorbent Article（含传感器吸收性物品）
+## [卫材研发, 配方设计]  (1)
+   Shaped PET Add-On Window
+## [卫材研发, 造纸工艺]  (1)
+   Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）
+## [卫材研发, 消费者验证]  (1)
+   Signal Comprehension Gate
+## [卫材研发, 结构设计, 贴合]  (1)
+   Skin Contact Pressure（皮肤接触压力）
+## [卫材研发, 功能整理]  (1)
+   Skin Health Treatment on Nonwoven（无纺布护肤处理）
+## [卫材研发, 智能功能化, 光学材料]  (1)
+   Structural Colour Mechanochromism（结构色力致变色）
+## [卫材研发, 吸收材料]  (1)
+   Super Absorbent Fibre（超吸水纤维 SAF）
+## [卫材研发, 粘合工艺]  (1)
+   Surge-Liner Adhesive Bonding（导流层-面层施胶粘合）
+## [卫材研发, 涂层工艺, 配方]  (1)
+   TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）
+## [采购, 木浆]  (1)
+   TCF Bleaching（全无氯漂白）
+## [卫材研发, 技术路线图]  (1)
+   Technology Roadmap 2026-2029（技术路线图）
+## [卫材研发, 胶黏剂, 工艺工程]  (1)
+   Ultra-Low Add-On Adhesive Application（超低添加量施胶）
+## [卫材研发, 无纺布工艺, 转化]  (1)
+   Ultrasonic Bonding of PET-Containing Topsheet
+## [卫材研发, 智能功能化, 尿显]  (1)
+   Wetness Indicator Ladder（尿湿指示阶梯）
+## [卫材研发, 吸收系统设计]  (1)
+   Wetting Pattern Target Zone（润湿图谱目标区）
+## [卫材研发, 测试与标准]  (1)
+   WVTR 测试口径（失重法 vs 增重法）
+## [卫材研发, 抗菌材料]  (1)
+   ZnO Antibacterial Fibre（氧化锌抗菌纤维）
+## [卫材研发, 功能纤维]  (1)
+   功能性差别化纤维（PTT_超仿棉_纳米凉感）
+## [法规与产品安全, 微生物]  (1)
+   化妆品微生物限值（细菌总数·致病菌）
+## [卫材研发, 采购, 纤维素纤维]  (1)
+   原纤化
+## [卫材研发, 生物材料]  (1)
+   双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）
+## [卫材研发, 芯体]  (1)
+   复合吸收芯体（Composite Absorbent Core）
+## [采购, 生物制造]  (1)
+   尾水培养基（非粮生物合成）
+## [卫材研发, 弹性腰围]  (1)
+   弹性热熔胶腰围（减压腰围）
+## [卫材研发, 纳米纤维素]  (1)
+   快速吸水自膨胀纳米纤维素材料（华东师大）
+## [卫材研发, 纤维结构]  (1)
+   扁平形截面纤维（Flat Fibre）
+## [采购, 材料合规]  (1)
+   无锑聚酯
+## [卫材研发, 智能功能化, 专利]  (1)
+   智能尿裤功能层
+## [卫材研发, 弹性体与纤维工艺]  (1)
+   氨纶干法纺丝（Spandex Dry Spinning）
+## [法规与产品安全, 标签合规]  (1)
+   消毒产品标签宣称红线（中国 GB 38598-2020）
+## [卫材研发, 吸水材料]  (1)
+   生物基高吸水材料（大豆蛋白 SAP）
+## [卫材研发, 聚合物, 催化剂]  (1)
+   茂金属聚丙烯
+## [卫材研发, SAP, 纳米纤维素]  (1)
+   蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）
+## [卫材研发, 测试与量测]  (1)
+   薄膜压力分布传感（Pressure-Sensing Film）
+## [采购, 合规]  (1)
+   认证与法规的区别

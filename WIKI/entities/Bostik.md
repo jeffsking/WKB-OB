@@ -74,3 +74,24 @@ tags: [Bostik, Arkema, 热熔胶, 尿显, 湿致变色, 生物基, 法国]
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**。
 > 🔴 **manual_review（2026-09-29）**：来源为 **2017-08-07 时点快照**；源文将该芯体标为 **"patent application"，未给出申请号**，**本页未推测编号**；厂商名称**仅作技术谱系追溯，不构成供应或商务评价**。
+
+## Related Sources 关联来源
+
+- [[2026 Sensor China]]
+- [[Complex Core Landscape in China（2017-08-07 COCO F2F · 复合芯体格局与专利谱系）]]
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik)]]
+- [[EP1347788B1 Antimicrobial Hot Melt Adhesive (Bostik)]]
+- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]
+- [[EP4428211A1 Hot Melt Adhesive Composition (Bostik)]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[NIFO参观速查卡_一页纸]]
+- [[NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[X-Chromic Ink Supplier Contact & Technology Table（变色油墨供应商综合技术联系表）]]
+- [[变色油墨供应商技术路线与产品性能差异评估]]
+- [[变色油墨供应商联系表（19 家 · 联系方式敏感）]]
+

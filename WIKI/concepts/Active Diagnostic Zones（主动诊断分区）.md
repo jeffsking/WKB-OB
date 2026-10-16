@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Active Diagnostic Zones（主动诊断分区）"
-domain: [卫材研发, 智能功能化]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [诊断分区, 力致变色, 防勒伤, 压力分布, 无源传感, 婴儿安全, HPC]
@@ -69,3 +69,9 @@ tags: [诊断分区, 力致变色, 防勒伤, 压力分布, 无源传感, 婴儿
 - [[Active Hygiene Roadmap（力致变色材料商业化路线图）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/Active_Hygiene_Roadmap.pptx.md`
 - [[Mechanochromic变色纤维]] —— 库内页（力致变色材料侧基线）
 - [[智能尿裤功能层专利地图]] —— 库内页（功能层与 FTO 基线）
+
+## Related Sources 关联来源
+
+- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]
+- [[Force-to-Colour Direct Conversion — Mechanophore Chemistry & HPC Photonic Bandgap（把压力变成颜色）]]
+- [[Mechanochromic Screen from Molecule to Market — HPC Structural Colour & Deep-Tech Funding（压力变色环保屏）]]

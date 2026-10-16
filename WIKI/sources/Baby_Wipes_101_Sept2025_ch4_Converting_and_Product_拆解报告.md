@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -75,3 +76,7 @@ SLIDE 21 and SLIDE 29 convert a physical property into two distinct commercial c
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告.md.md`
+
+## 关联页面
+
+- [[Kimberly-Clark（金佰利）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Blowout Leakage Test（爆漏测试）"
-domain: [卫材研发, 测试方法]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [测试方法, 爆漏, 稀便, Blowout, 效率因子, 腰围力]
@@ -66,3 +66,7 @@ aliases: ["Blowout Method", "爆漏测试"]
 - [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-2_Pant-type_absorbent_article_with_waist_guard.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利申请公开文本所载测试方法的客观摘录**；方法细节在来源中并不完整，实施前须回原文核对。
+
+## Related Sources 关联来源
+
+- [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -81,3 +82,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch11_report_20260823_031405.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch11_report_20260823_031405.md.md`
+
+## 关联页面
+
+- [[EDANA（欧洲非织造布协会）]]　[[Klemm 法]]　[[WRV 水保留值]]　[[Wilhelmy 湿附力法]]　[[Work of Adhesion]]　[[承压吸收 AUL]]　[[抗菌整理定量测试（AATCC TM100 _ AATCC 100）]]

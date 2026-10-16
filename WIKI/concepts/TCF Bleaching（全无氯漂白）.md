@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "TCF Bleaching（全无氯漂白）"
-domain: [采购, 木浆]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [TCF, 漂白, 桉木浆, BEKP, 产品安全认证, PSC, grade 变更]
@@ -49,3 +49,8 @@ tags: [TCF, 漂白, 桉木浆, BEKP, 产品安全认证, PSC, grade 变更]
 ## 来源
 
 - [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md`
+
+## Related Sources 关联来源
+
+- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]
+- [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]]

@@ -53,3 +53,9 @@ tags: [紫华, 紫江集团, 流延膜, 吹膜, PE底膜, BCC, 越南, VMI]
 ## Sources 来源
 
 - [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md`
+
+## Related Sources 关联来源
+
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[Zihua 上海紫华薄膜科技公司介绍（KC 2026-06-02）]]
+- [[紫华公司与 KC 团队技术交流会议]]

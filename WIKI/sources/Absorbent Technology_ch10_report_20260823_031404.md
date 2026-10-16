@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -79,3 +80,7 @@ Cross-Industry Genesis(跨行业起源论): "nonwoven technology has had its gen
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch10_report_20260823_031404.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch10_report_20260823_031404.md.md`
+
+## 关联页面
+
+- [[ADL（导流层）]]　[[SAP（高吸水树脂）]]　[[SMMS 纺粘-熔喷-熔喷-纺粘无纺布]]　[[Topsheet（面层）]]

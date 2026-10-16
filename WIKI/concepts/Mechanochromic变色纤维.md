@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Mechanochromic变色纤维"
-domain: [卫材研发, 智能功能化, 材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [Mechanochromic, 力致变色, 液晶弹性体, 可机洗, 应变可视化]
@@ -63,3 +63,17 @@ aliases: ["Mechanochromic 变色纤维（力致变色纺织材料）"]
 - [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/变色材料书籍_温湿力精表.xlsx.md`
 - 派生新页（追加，2026-09-29）：[[Geometric Optical Mask（几何光学掩膜）]]、[[TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）]]、[[Mechanophore Mechanochromism（机械力致变色分子）]]、[[Structural Colour Mechanochromism（结构色力致变色）]]、[[Panel Hysteresis and Threshold Calibration（面板回滞与阈值标定）]]、[[Skin Contact Pressure（皮肤接触压力）]]、[[Chromism Taxonomy（变色现象分类）]]、[[Mechanochromic Routes Comparison（力致变色技术路线对比）]]、[[Kimberly-Clark（金佰利）]]
 - [[Active Hygiene Roadmap（力致变色材料商业化路线图）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/Active_Hygiene_Roadmap.pptx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]
+- [[Chromic Materials Bibliography（变色材料书籍·温湿力精表）]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[Scaling Visible Force in Consumer Hygiene v2（可见力可视化放大路线 v2）]]
+- [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]

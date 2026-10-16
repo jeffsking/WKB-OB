@@ -96,3 +96,17 @@ tags: [CTI, Chromatic Technologies, 热致变色, 光致变色, 湿致变色, �
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`（2026-09-29 追加）
 - [[Active Hygiene Roadmap（力致变色材料商业化路线图）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/Active_Hygiene_Roadmap.pptx.md`（2026-09-29 追加：力致变色「油墨路径」的食品接触级油墨能力位点）
 - **批次追加（2026-09-29，Mechanochromic/BM）**：[[Mechanochromic Materials Technical Review（EN v3, 2026-08）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md`；[[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Active Hygiene Roadmap（力致变色材料商业化路线图）]]
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[Thermochromic_Products_Comparison_by_Company]]
+- [[光子晶体膜拉伸贴合指示器]]
+- [[变色油墨供应商技术路线与产品性能差异评估]]
+- [[消费者可见（consumer-visible）的话，最像样的]]
+- [[温度变色指示器（Thermochromic Indicato]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Total Luminous Transmittance for Excretion Visibility（排泄可视·全光线透过率）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [全光线透过率, total luminous transmittance, 排泄可视, 薄型芯体, 无绒毛浆, 光学验收]
@@ -55,3 +55,7 @@ aliases: ["Excretion Visibility", "Total Luminous Transmittance", "排泄可视�
 ## Sources 来源
 
 - [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/04_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP2529717A1_Disposable_absorbent_article_(亲水化SMS面层).pdf.md`
+
+## Related Sources 关联来源
+
+- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Lagrangian Particle Tracking"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [lagrangian-particle-tracking, CFD, 数值方法, 计算建模, 吸液建模]

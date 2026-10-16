@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "甲醛 Formaldehyde"
-domain: hygiene-materials
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [trace-substance, chemical-safety, regulation, crosslinker, chromic-chemistry]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Seawater-Degradable 3D Hydrogel System（海水可降解三维水凝胶体系）"
-domain: [卫材研发, 可降解材料, 高吸水材料]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [海水降解, 三维水凝胶, 牺牲相, PVA, PLA, 降解触发, ASTM D6691]
@@ -131,3 +131,9 @@ tags: [海水降解, 三维水凝胶, 牺牲相, PVA, PLA, 降解触发, ASTM D6
 
 - [[Seawater-Degradable SAP 3D Hydrogel System Technical Report（海水可降解SAP三维水凝胶体系技术调研）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Seawater_Degradable_SAP_3D_Hydrogel_System_Technical_Report_20260521.docx.md`
 - [[海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/海水降解SAP技术研究报告.docx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021)]]
+- [[Seawater-Degradable SAP 3D Hydrogel System Technical Report（海水可降解SAP三维水凝胶体系技术调研）]]
+- [[海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）]]

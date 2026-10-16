@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -45,3 +46,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP生产工艺流程图.png.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP生产工艺流程图.png.md`
+
+## 关联页面
+
+- [[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[诺尔（Nuoer）]]

@@ -1,0 +1,7 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "raw-mirror (plugin synced body into RAW)",
+  "body_chars": 4418
+ }
+}

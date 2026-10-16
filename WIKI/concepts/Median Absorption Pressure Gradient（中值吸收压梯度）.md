@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Median Absorption Pressure Gradient（中值吸收压梯度）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [MAP, 中值吸收压, 毛细吸收试验, 梯度设计, 面层干爽, P&G]
@@ -57,3 +57,7 @@ aliases: ["Median Absorption Pressure", "MAP 梯度", "中值吸收压"]
 ## 来源
 
 - [[P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Patent Deep Dive PG Rewet_Richmond Cohen_2025.pptx.md`
+
+## Related Sources 关联来源
+
+- [[P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）]]

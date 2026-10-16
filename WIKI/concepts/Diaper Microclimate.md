@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Diaper Microclimate"
-domain: [卫材研发, 舒适性]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [微气候, 热舒适, 湿度, 指示层, RTB, 皮肤健康]
@@ -90,3 +90,24 @@ Two independent observations bound the design space: phase-change microcapsules 
 
 > ✅ Verification（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**（含"微气候是已确认痛点、需双态论证"与底膜量化口径）。
 > 🔴 **manual_review（2026-09-29）**：来源为 **K-C 内部研究报告**，含内部方法编号（STEWIE、EWL、TTM-00623、TL-25526 FTIR 臂带法）；本页**只记机理链与相关强度**，**不转述任何未定案的宣称文案**（源文中与 Legal 的讨论**在进行中**）。**R² 均取自极端回渗样本，不得外推到商品正常量级。**
+
+## Related Sources 关联来源
+
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[CN 116327488 B（便于识别吸湿状态的吸收性物品及其方法·露乐健康科技）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]
+- [[Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui)]]
+- [[US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)]]
+- [[WI-64766温湿度纽扣测试方法.docx]]
+- [[纸尿裤核心技术与应用材料全景解析]]
+- [[纸尿裤的核心结构及市场主流方向]]
+

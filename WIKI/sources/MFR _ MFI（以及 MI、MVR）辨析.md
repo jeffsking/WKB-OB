@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -98,3 +99,7 @@ CR 树脂（Controlled Rheology）：通过过氧化物控释降解把 MWD 收�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Test Method/MFR _ MFI（以及 MI、MVR）辨析.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/MFR _ MFI（以及 MI、MVR）辨析.md`
+
+## 关联页面
+
+- [[熔喷 Meltblown]]　[[纺粘 Spunbond]]

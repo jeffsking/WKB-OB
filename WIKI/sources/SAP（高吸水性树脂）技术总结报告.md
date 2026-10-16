@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -264,3 +265,7 @@ GB/T 22875-2018：规定纸尿裤用SAP丙烯酸残留单体应低于800mg/kg。
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP（高吸水性树脂）技术总结报告.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/SAP（高吸水性树脂）技术总结报告.md`
+
+## 关联页面
+
+- [[Gel Blocking（凝胶阻塞）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[SUPER ABSORBENT RESIN]]　[[Satellite Chemical（卫星化学）]]　[[承压吸收 AUL]]

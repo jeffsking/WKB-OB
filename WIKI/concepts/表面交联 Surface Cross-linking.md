@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "表面交联 Surface Cross-linking"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [SAP, surface-crosslinking, GBP, AUL, post-treatment]
@@ -45,3 +45,5 @@ tags: [SAP, surface-crosslinking, GBP, AUL, post-treatment]
 - [[Superabsorbent Polymers and SAP Composites (ScienceAsia 2007)]]（原引用来源）
 - [[SAP（高吸水树脂）]]、[[SAP 表面包覆（SAP Particle Surface Coating）]]、[[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]、[[离子强度 Ionic Strength]]、[[BASF]]、[[诺尔（Nuoer）]]
 - Adjacent pages 相邻页：[[交联密度 Crosslink Density]]、[[Gel Blocking（凝胶阻塞）]]
+- [[纸尿裤原材料全链条甲酰胺风险筛查与管控计划]]
+

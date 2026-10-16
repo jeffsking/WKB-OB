@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "智能包装 Smart Packaging"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [smart-packaging, sensing, wetness-indicator, conductive-ink, chromic-materials, supplier-capability]

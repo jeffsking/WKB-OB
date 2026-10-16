@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Ardex"
-domain: hygiene-materials
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-30
 tags: [supplier, chromic-materials, thermochromic]

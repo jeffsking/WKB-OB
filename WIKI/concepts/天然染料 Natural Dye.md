@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "天然染料 Natural Dye"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [natural-dye, plant-based, chromophore, mordant, ancient-chemistry, color-changing-ink, hygiene]

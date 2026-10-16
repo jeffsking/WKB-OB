@@ -4,7 +4,7 @@ title: Botanical Extract Efficacy Verification（植物提取物功效验证）
 category: 测试方法 / 功效验证
 updated: 2026-09-30
 tags: [植物提取物, HPTLC, 紫外分光光度法, 渗透, 3D皮肤模型, 芦丁示踪, 转移率]
-domain: [卫材研发]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 ---
 
@@ -80,3 +80,7 @@ status: growing
 ## 来源
 
 - [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/植物提取物功效测试与验证.md`
+
+## Related Sources 关联来源
+
+- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]

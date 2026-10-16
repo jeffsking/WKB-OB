@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "HEC 羟乙基纤维素"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [cellulose-ether, hec, superabsorbent, crosslinking, grafting]
@@ -33,3 +33,6 @@ HEC（hydroxyethyl cellulose）是纤维素醚：由纤维素经 **ethylene oxid
 
 ## Related Sources 关联来源
 - [[Cross-linked Cellulose and Its Derivatives]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+

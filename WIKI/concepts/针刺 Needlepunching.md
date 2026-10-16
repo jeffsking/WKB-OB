@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "针刺 Needlepunching"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwovens, mechanical-bonding, needlepunching]

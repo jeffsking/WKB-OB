@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "绒毛浆（Fluff Pulp）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [绒毛浆, fluff pulp, 芯体骨架, 毛细通道, 24 Mt, 吸收芯]
@@ -143,3 +143,37 @@ tags: [绒毛浆, fluff pulp, 芯体骨架, 毛细通道, 24 Mt, 吸收芯]
 - [[BNC 技术分享讲稿（中文，20260908）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT讲稿版_20260908.pptx.md`
 - [[拜科瑞 BNC 发酵与发泡线纪要]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BaiKerui BNC.pptx.md`
 - [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md`（2026-09-29 追加：去浆方向的实测代价）
+
+## Related Sources 关联来源
+
+- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Absorbent Technology]]
+- [[Absorbent Technology Introduction]]
+- [[Absorbent Technology Textile Science and Technology]]
+- [[Absorbent Technology_README]]
+- [[Absorbent Technology_ch12_report_20260823_031406]]
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[Adhesive Handbook]]
+- [[Adhesive Handbook Part 2 Fundamental Aspects]]
+- [[Adhesive Handbook Part 4 Applications]]
+- [[BCC RD 供应商拜访情报 — 拜科瑞（20260831）]]
+- [[BNC 卫品技术可行性评估（Slide 大纲版，20260824）]]
+- [[BNC 卫生用品技术可行性评估（访前尽调详细版）]]
+- [[BNC 技术分享 PPT 大纲（20260908）]]
+- [[BNC 技术分享讲稿（中文，20260908）]]
+- [[BNC 技术分享（英文完整版，20260911）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[Cross-linked Cellulose and Derivatives]]
+- [[Cross-linked Cellulose and Its Derivatives]]
+- [[Daehyoon 供应商技术来访（技术专场）]]
+- [[Dry-laid web formation]]
+- [[Fibers and Fibrous Materials]]
+- [[Fluid Absorption in High Bulk Nonwovens]]
+- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]
+- [[GB-T 28004-2011 Disposable Diapers（纸尿裤 片、垫）]]
+- [[ID · 原始引用索引.csv]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -1]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -3]]
+- [[KC_CapabilityDays2025_全局合成报告]]
+

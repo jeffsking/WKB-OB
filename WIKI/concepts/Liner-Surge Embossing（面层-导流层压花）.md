@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Liner-Surge Embossing（面层-导流层压花）"
-domain: [卫材研发, 摄入系统, 工艺工程]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [LSE, 压花, 摄入, 回渗, 空体积, 图案设计]
@@ -141,3 +141,25 @@ aliases: ["LSE（Liner-Surge Embossing）", "面层-导流层压花", "PICASSO �
 | 读数 Readout | 峰值 **gf** | 峰值 **gf** | 同上 |
 
 > ⚠️ **同一界面两套方法说明什么（2026-09-29）**：厂内是**按工序建方法**而非按界面建方法——**在线复合**归 WI-56934、**压花压合**归 WI-57507。**引用必须写清 WI 号与试样尺寸**，否则两个 gf 值会被误当成同一指标的趋势数据。详见 [[3D 面层-支持层结合强度两法对比（WI-56934 vs WI-57507）]]。
+
+## Related Sources 关联来源
+
+- [[2025.03.26 - Learning Cycle Update]]
+- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]
+- [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]
+- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]
+- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]
+- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]
+- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]
+- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]
+- [[Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx]]
+- [[Rewet Principles History and Opportunity（2025-03-04 回渗总纲与历史沿革）]]
+- [[Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）]]
+- [[Topical liner Supporting layer Embossing pressure.pdf]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]
+- [[面层粘合强度测试方法.pdf]]
+

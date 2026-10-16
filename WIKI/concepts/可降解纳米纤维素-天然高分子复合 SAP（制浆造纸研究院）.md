@@ -5,7 +5,7 @@ date_processed: 2026-09-29
 knowledge_update_status: done
 sources: 
 tags: [SAP, 可降解, 纳米纤维素, 专利, 制浆造纸研究院]
-domain: [卫材研发]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 ---
@@ -47,3 +47,7 @@ updated: 2026-09-30
 - [[Biodegradable SAP（可降解高吸水树脂）]]、[[抗菌除臭高吸水树脂（CNC 载体双功能 SAP）]]、[[SAP（高吸水树脂）]]
 - Source 来源：[[CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）]]
 - Entity 实体：[[China National Pulp and Paper Research Institute（中国制浆造纸研究院）]]
+
+## Related Sources 关联来源
+
+- [[CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）]]

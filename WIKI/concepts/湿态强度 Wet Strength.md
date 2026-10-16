@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "湿态强度 Wet Strength"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [wet-strength, crystallinity, cellulose, viscose, lyocell, fluff-pulp, nonwoven, 湿态强度]

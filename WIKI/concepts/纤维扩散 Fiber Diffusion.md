@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "纤维扩散 Fiber Diffusion"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [diffusion, fibre, Bessel, Crank, wet-migration]

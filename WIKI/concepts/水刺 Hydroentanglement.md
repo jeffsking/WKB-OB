@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "水刺 Hydroentanglement"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, hydroentanglement, spunlacing, mechanical-bonding, hygiene-materials]
@@ -63,3 +63,5 @@ tags: [nonwoven, hydroentanglement, spunlacing, mechanical-bonding, hygiene-mate
 - [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]（水刺粘合载体的权利要求）
 - [[Absorbent Technology]]、[[Nonwovens in Absorbent Materials]]、[[Handbook of Nonwovens]]、[[Fluid Absorption in High Bulk Nonwovens]]（概念并列登记）
 - 相关工艺章节：[[Dry-laid web formation]]、[[Polymer-laid web formation]]、[[Thermal bonding]]
+- [[KC 拜访供应商维盛（新维盛）技术交流]]
+

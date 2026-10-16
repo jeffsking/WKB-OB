@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "光致变色 Photochromic"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [photochromic, 光致变色, chromic-materials, spiropyran, diarylethene, azobenzene, UV-indicator, wetness-indicator]
@@ -67,3 +67,14 @@ The vault classifies chromic materials **by the stimulus that induces the colour
 - [[Tianjin Security-Chemical（天津塞特瑞科技）]]
 - [[热致变色 Thermochromic]]
 - [[变色油墨 Color-Changing Ink]]
+- [[Ancient Dyes and Pigments]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[Chromic Phenomena]]
+- [[Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)]]
+- [[Luminescence Fluorescence Phosphorescence and Electroluminescence]]
+- [[Mechanochromic Photonic Sensors]]
+- [[Smart Textile Visual Perception (GRID)]]
+- [[Smart Textiles & Wearables]]
+- [[Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications]]
+- [[Stimuli-Responsive Polymer Materials (Nature Materials Review)]]
+

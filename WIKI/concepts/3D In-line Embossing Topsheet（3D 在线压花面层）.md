@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "3D In-line Embossing Topsheet（3D 在线压花面层）"
-domain: [卫材研发, 面层结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [topsheet, 面层, 压花, embossing, 降克重, 透气]
@@ -42,3 +42,9 @@ tags: [topsheet, 面层, 压花, embossing, 降克重, 透气]
 ## Sources 来源
 
 - [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/双供应商拜访讨论计划_闽瑞_新维盛_20260820-21.docx.md`
+
+## Related Sources 关联来源
+
+- [[Liner Surge Development - Active Swoosh - Sept 2023.pptx]]
+- [[Liner Surge Evolution.pptx]]
+- [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]]

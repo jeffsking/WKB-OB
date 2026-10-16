@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Surface Moisture Test（面层干爽性测试）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [面层干爽性, surface moisture, TTM-00302, FIFE, 177g, 三次注液, 回渗]
@@ -66,3 +66,8 @@ aliases: ["表面干爽性测试", "TTM-00302", "Surface Dryness Test"]
 ## 来源
 
 - [[TTM-00302 面层干爽性.doc]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00302 面层干爽性.doc.md`
+
+## Related Sources 关联来源
+
+- [[TTM-00302 面层干爽性.doc]]
+- [[_12 Absorbent System Test Methods - Urine Only - DDB]]

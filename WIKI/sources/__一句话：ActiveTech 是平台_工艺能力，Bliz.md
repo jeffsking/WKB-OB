@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -133,3 +134,7 @@ Adhesive：固定 SAP、维持 pad integrity；示例工艺中用量约为 SAP �
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/__一句话：ActiveTech 是平台_工艺能力，Bliz.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/Active Hygiene/__一句话：ActiveTech 是平台_工艺能力，Bliz.md`
+
+## 关联页面
+
+- [[Blizzard Core（Blizzard 芯体结构）]]　[[Core Wrap（芯体包裹层）]]　[[ROTC（Real Online ThinTech Core）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[绒毛浆（Fluff Pulp）]]

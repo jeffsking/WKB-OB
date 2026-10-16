@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "IFRA Standards 与 12 大产品类别体系"
-domain: [法规与产品安全, 香精合规]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [IFRA, 香精, 限用物质, 12大类别, QRA2]
@@ -39,3 +39,9 @@ tags: [IFRA, 香精, 限用物质, 12大类别, QRA2]
 
 - [[IFRA Standards Guidance (2023-06-30)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/27_IFRA Category Lookup Tool.pdf.md`
 - [[IFRA Standards Guidance (2023-06-30) · 12 大产品类别版]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf.md`
+
+## Related Sources 关联来源
+
+- [[IFRA Standards Guidance (2023-06-30)]]
+- [[IFRA Standards Guidance (2023-06-30) · 12 大产品类别版]]
+- [[芳香微胶囊材料产品资料（SS_CHT1608V2 · 台系变色供方）]]

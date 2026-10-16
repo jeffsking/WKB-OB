@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -157,3 +158,7 @@ NMR / XPS / 接枝、表面元素与化学态 / 表
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PBAT复合材料怎么配？从有机_无机填料、助剂到吹膜与注塑的完整工程逻辑.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PBAT复合材料怎么配？从有机_无机填料、助剂到吹膜与注塑的完整工程逻辑.md`
+
+## 关联页面
+
+- [[PLA 玉米纤维]]　[[PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）]]　[[纳米纤维素（CNC、CNF、BNC）]]

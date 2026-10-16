@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "生物基高吸水材料（大豆蛋白 SAP）"
-domain: [卫材研发, 吸水材料]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, 生物基, 大豆蛋白, 可降解, 高吸水]
@@ -49,3 +49,8 @@ tags: [SAP, 生物基, 大豆蛋白, 可降解, 高吸水]
 - 来源页 [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[Natural Superabsorbent Plastic Materials Based on Functionalized Soy Protein]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

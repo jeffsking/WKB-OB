@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）"
-domain: [卫材研发, 测试方法]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [LPR, HPR, 回渗机理, 解吸, 回流, 绒毛浆, SAM, 容量]
@@ -189,3 +189,30 @@ aliases: ["低压回渗 vs 高压回渗", "LPR vs HPR", "Lo/Hi Pressure Rewet"]
 - 相关页面：[[SAP（高吸水树脂）]]、[[Multilayer SAP Core（多层SAP芯体）]]、[[Residual Fluid & Pore Stranding（残液与孔隙滞留）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）]]
+- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]
+- [[HSBL Peel Test Results（面层-导流层剥离强度实测）]]
+- [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]]
+- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]
+- [[P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[Rewet Learning Plan（回渗学习计划工作表）]]
+- [[Rewet Materials Study - Draft for initial scoping discussions 0.7.17.25.pptx]]
+- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]
+- [[Rewet Method Parameters（回渗测试方法参数沿革）]]
+- [[Rewet Principles History and Opportunity（2025-03-04 回渗总纲与历史沿革）]]
+- [[Rewet Principles（回渗设计原则与测试方法关联）]]
+- [[Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）]]
+- [[Summary of Pressures on Products（产品在使用中的受压汇总）]]
+- [[WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]
+

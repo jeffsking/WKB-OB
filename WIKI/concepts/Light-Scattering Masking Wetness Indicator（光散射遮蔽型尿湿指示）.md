@@ -4,7 +4,7 @@ title: "Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指
 category: 技术
 updated: 2026-09-30
 tags: [尿湿指示, 光散射, 二氧化硅, 氧化铝, 湿致透明, 无染料体系, Unicharm]
-domain: [卫材研发]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 ---
 
@@ -66,3 +66,8 @@ status: growing
 - Entity 实体：[[Unicharm Corporation（尤妮佳）]]
 - Sibling routes 同族路线：[[Wetness Indicator Glue]]、[[Water-Activated Ink（水变／湿变油墨）]]、[[Chromism Taxonomy（变色现象分类）]]
 - Adjacent 相邻：[[Wetness Indicator Ladder（尿湿指示阶梯）]]、[[Geometric Optical Mask（几何光学掩膜）]]、[[Diaper Microclimate]]、[[SMMMS Film-Free vs Microporous Film Backsheet（无膜背层 vs 微孔膜背层）]]
+
+## Related Sources 关联来源
+
+- [[EP 0 776 645 A1 Disposable Diaper with Visual Wetness Indicator (Unicharm)]]
+- [[US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui)]]

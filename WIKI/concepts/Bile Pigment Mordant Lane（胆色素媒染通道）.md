@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Bile Pigment Mordant Lane（胆色素媒染通道）"
-domain: [卫材研发, 比色传感, 化学]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [胆色素, 胆红素, 阴离子交换, 媒染, 便指示, 二值标记]
@@ -69,3 +69,8 @@ tags: [胆色素, 胆红素, 阴离子交换, 媒染, 便指示, 二值标记]
 
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
 - [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md`
+
+## Related Sources 关联来源
+
+- [[BM Urine Indicator Concept（尿+便双指示概念）]]
+- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]

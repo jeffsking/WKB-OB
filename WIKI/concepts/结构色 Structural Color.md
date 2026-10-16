@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "结构色 Structural Color"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [structural-color, mechanochromic, photonic-crystal, hpc, clce, hygiene-materials]

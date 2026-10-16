@@ -2,10 +2,22 @@
 type: concept
 title: "83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）"
 domain: hygiene-materials
-status: growing
-updated: 2026-09-30
+status: merged
+updated: 2026-10-12
 tags: [changeover, converting, forming-drum, ups, repitch, sleeve, change-control, pattern-core]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：与 [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] 同主题，已并入。
+> 入链已全量改写；本页保留为**指针页**（未删除，原文存档于下方）。
+
+本主题正文见：
+- [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]
+
+
+---
+
+## 📦 原始内容存档（合并前，2026-10-12）
+
 
 # 83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
 

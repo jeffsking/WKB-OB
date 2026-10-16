@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "螺噁嗪 Spiroxazine"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [photochromic, spiroxazine, dye-molecule, anti-counterfeiting, indicator]

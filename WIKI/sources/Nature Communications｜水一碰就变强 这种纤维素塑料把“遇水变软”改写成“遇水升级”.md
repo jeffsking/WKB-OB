@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -66,3 +67,7 @@ https://doi.org/10.1038/s41467-026-70998-9
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Nature Communications｜水一碰就变强 这种纤维素塑料把“遇水变软”改写成“遇水升级”.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Nature Communications｜水一碰就变强 这种纤维素塑料把“遇水变软”改写成“遇水升级”.md`
+
+## 关联页面
+
+- [[生物基材料]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "光子晶体 Photonic Crystal"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [photonic-crystal, structural-color, bragg-diffraction, mechanochromic, chromic-materials, hygiene-materials]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Bladder Box Intake Test（膀胱箱压载摄入测试）"
-domain: [卫材研发, 测试与验收, 成人护理]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [STM-00497, intake, 摄入时间, 压力, 回渗, 失禁用品, 成人护理]
@@ -71,3 +71,12 @@ aliases: ["Intake via Bladder Box", "膀胱箱法", "STM-00497"]
 ## Sources 来源
 
 - [[STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/Intake via Bladder Box draft STM-00497 - Copy.docx.md`
+
+## Related Sources 关联来源
+
+- [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）]]
+- [[Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）]]
+- [[Rewet Method Parameters（回渗测试方法参数沿革）]]
+- [[STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）]]

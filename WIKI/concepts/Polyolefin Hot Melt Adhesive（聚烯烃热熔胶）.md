@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Polyolefin Hot Melt Adhesive（聚烯烃热熔胶）"
-domain: [卫材研发, 胶黏剂]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-29
 tags: [热熔胶, 聚烯烃, OBC, APAO, 茂金属, 弹性粘合, 结构粘合, 模块三]
@@ -97,3 +97,19 @@ aliases: ["聚烯烃热熔胶", "Polyolefin-based HM", "Olefinic hot melt adhesi
 - [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/15_模块三：聚烯烃类热熔胶_US11878492B2_United_States_Patent_(热熔胶含聚烯烃).pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观归纳**，不构成侵权或 FTO 判断；配方窗口的具体数值以各专利权利要求原文为准，商业实施前须经专利代理/法务独立评估。
+
+## Related Sources 关联来源
+
+- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]
+- [[CN 111973346 A（一种纸尿裤的减压腰围及其制作工艺·贵州卡布）]]
+- [[EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik)]]
+- [[EP1347788B1 Antimicrobial Hot Melt Adhesive (Bostik)]]
+- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]
+- [[EP4428211A1 Hot Melt Adhesive Composition (Bostik)]]
+- [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]
+- [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]
+- [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]]

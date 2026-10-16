@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "保湿剂 Humectant"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [cosmetics, formulation, wet-wipes, bound-water, thermoregulation]

@@ -52,3 +52,9 @@ tags: [恒碳, PTT, PDO, 非粮粗甘油, 生物基, ES纤维, 并列复合]
 ## Sources 来源
 
 - [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md`
+
+## Related Sources 关联来源
+
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）]]
+- [[恒碳公司与KC团队的PTT材料合作交流会议]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "机械变色 Mechanochromic"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [mechanochromic, 机械变色, 力致变色, chromic-materials, mechanophore, photonic-crystal, geometric-optical-mask, wearable-indicator]
@@ -70,3 +70,16 @@ Mechanochromic（机械变色 / 力致变色）is colour change triggered by a *
 - [[智能尿裤功能层]]
 - [[Mechanochromic Routes Comparison（力致变色技术路线对比）]]
 - [[Geometric Optical Mask（几何光学掩膜）]]
+- [[Adhesive Handbook Part 4 Applications]]
+- [[Chromic Phenomena]]
+- [[Chromic Phenomena Introduction and Reversible Colour Change]]
+- [[Holographic Structurally Colored Mechanochromic Films]]
+- [[Mechanochromic Elastomer from PDLC 5CB PDMS]]
+- [[Mechanochromic Fluorescent Polymers with AIE Features]]
+- [[Mechanochromic Photonic Sensors]]
+- [[Photochromism Dihydroindolizines]]
+- [[Self-Powered Photonic Sensor CLCE Sandwich]]
+- [[Smart Textile Visual Perception (GRID)]]
+- [[Smart Textiles & Wearables]]
+- [[Stimuli-Responsive Polymer Materials (Nature Materials Review)]]
+

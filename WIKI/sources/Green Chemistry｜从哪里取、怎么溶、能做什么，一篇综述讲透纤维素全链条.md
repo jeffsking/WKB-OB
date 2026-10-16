@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -94,3 +95,7 @@ section:nth-child(1) > section:nth-child(9) > section > p:nth-child(3)">https://
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md`
+
+## 关联页面
+
+- [[纳米纤维素（CNC、CNF、BNC）]]

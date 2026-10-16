@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "孔隙率 Porosity"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [porosity, porous-media, absorbent-core, SAP, gel-blocking, BNC, electrospinning, void-volume]
@@ -77,7 +77,6 @@ tags: [porosity, porous-media, absorbent-core, SAP, gel-blocking, BNC, electrosp
 - [[Characterisation, testing and modelling of nonwoven fabrics]]
 - [[Fibers and Fibrous Materials]]
 - [[Porous Structure and Liquid Flow Models]]
-- [[Porous Structure and Liquid Flow Models]]
 
 **提供正文摘录的库内页面**
 - [[Smart Polymers Ch09 Macroporous Hydrogels from Smart Polymers]]
@@ -107,3 +106,5 @@ tags: [porosity, porous-media, absorbent-core, SAP, gel-blocking, BNC, electrosp
 - [[分区密度设计]]
 - [[细菌纳米纤维素]]
 - [[Rewet Test（回渗测试）]]
+- [[Liquid Flow in Porous Structures]]
+

@@ -1,0 +1,80 @@
+---
+type: source
+title: "Interactively mechanochromic electronic textile sensor"
+source_type: Smart-Materials
+source_path: RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Interactively mechanochromic electronic textile sensor.pdf.md
+original_link: ""
+date_published: 2026-10-11
+date_processed: 2026-10-11
+credibility: 中
+key_claims: []
+pages_linked: []
+compile_mode: extractive
+---
+
+# Interactively mechanochromic electronic textile sensor
+
+## Positioning 定位
+
+抽取式源摘要页（`source_type: Smart-Materials`）。正文摘录自镜像层，未做语义改写。
+
+## Extracted Content 原文摘录
+
+# Interactively mechanochromic electronic textile sensor.pdf.md
+
+8
+Chemical Engineering Journal 426 (2021) 130870
+
+ELSEVIER
+
+Contents lists available at ScienceDirect
+
+Chemical Engineering Journal
+
+journal homepage: www.elsevier.com/ locate/cej
+
+Chemical Engineering
+Journal
+
+GIF production
+
+# Interactively mechanochromic electronic textile sensor with rapid and durable electrical/optical response for visualized stretchable electronics.
+
+Kai Zhao $^{a}$, Xianfei Cao $^{a}$, Yousif Alsaid $^{b}$, Jie Cheng $^{a}$, Yunpeng Wang $^{a}$, Yusen Zhao $^{b}$, Ximin He $^{b}$, Shufen Zhang $^{a}$, Wenbin Niu $^{a,*}$
+
+$^{a}$ State Key Laboratory of Fine Chemicals, Dalian University of Technology, West Campus, 2 Linggong Rd., Dalian 116024, China
+
+b Department of Materials Science and Engineering, University of California, Los Angeles, CA 90095, USA
+
+## ARTICLE INFO
+
+### Keywords:
+
+Stretchable electronics
+Electronic textile
+Structural color
+Mechanochromism
+Visualization
+
+### ABSTRACT
+
+Textile-based electronic devices are significant components of emerging wearable electronics. However, the current textile-based electronics are limited by single electrical signal input/output, and unable to be visualized directly by human eyes, restricting their diverse applications in visualized human-interactive electronics. Here, we develop a series of novel interactively mechanochromic electronic textile (MET) sensors for visualized stretchable electronics. The MET sensors are based on the ingenious coupling of new supramolecular photonic elastomers (PSs) with hierarchical-fiber-structured conductive polyester textiles (CPTs). Benefiting from their semi-embedded structures, the MET sensors demonstrate not only distinct negative electrical response but also simultaneous mechanochromic capability upon stretching, via reconstructing conductive paths and adjusting the lattice spacing of the photonic crystals. Notably, the MET sensors exhibit bright structural colors, enhanced toughness (35.6 kJ m$^{-3}$), excellent mechanical resilience, fast optical/electrical response (≈0.30 s) and recovery speed (≈0.22 s). Most importantly, the structural colors and electrical responses of the MET sensors remain constant even after 30,000 stretching/releasing cycles, showing outstanding mechanical stability, reliability, and excellent durability. Based on these merits, the MET sensors are used as visually interactive wearable devices for monitoring human joint movements in real time. This research provides a general platform for achieving visualized interaction of the electronic textiles, which shows great prospects in wearable devices, human-machine interfaces, and soft robotics.
+
+## 1. Introduction
+
+The ever-increasing demand for higher quality of life has motivated the rapid evolution of wearable and stretchable electronic devices that can be comfortably mounted on the human body. They aim to convert various personal and environmental stimuli into measurable electrical signals (e.g., resistance and capacitance) [1–7]. As an important component of wearable electronics, flexible electronic materials have shown great potential for numerous applications, including human health monitoring [8,9], electronic skin [10–12], soft robotics [13,14] and human-machine interactions [15,16]. Great efforts have been focused on the development of different types of flexible electronic materials. Among them, textiles that are indispensable in our daily life have been regarded as appealing candidates, mainly due to their light-weight, flexibility, biocompatibility, washability, and human tissue-like adaptability [17–21]. By incorporating conductive fillers (e.g., metallic
+
+nanoparticles and carbon materials) [22–24] or transforming into carbon textiles through thermal treatment [25–27], these textiles can be endowed with improved electrical performance. Based on the conductivity, various textile-based sensors have been demonstrated [3,18]. However, most of them are limited by single electrical signal input/output, which requires connection to external electrical instruments and subsequent signal processing for data acquisition [12]. In addition, the electrical signals are unable to be directly visualized by human eyes, thereby restricting their applications in visualized intelligent human-machine interaction. Furthermore, the electrical signals can fluctuate irregularly under interference (i.e., temperature, humidity) and thus cause measurement error in monitoring human activities due to their sensitive responsiveness [28,29]. To this end, the introduction of additional visible signal output (i.e., color change) that can be easily and accurately perceived by the human eye would be an effective strategy to address these issues.
+
+K. Zhao et al.
+
+Chemical Engineering Journal 426 (2021) 130870
+
+Structural colors, arising from light interaction with periodically ordered nanostructures that are widely known as photonic crystals (PCs), are widespread in nature and play a crucial role in the survival of many creatures [30–34]. As a representative example, chameleons can rapidly change skin color for camouflage via actively tuning the lattice spacing of guanine nanocrystal arrays within their iridophore cells in response to environmental changes [30,35]. Inspired by this fascinating phenomenon, mechanochromic PC materials have attracted increasing attention and shown great promise in visualized strain sensing, owing to their unique capability of producing instantaneous and intuitive visual response to the user [36–39]. Generally, these materials are constructed by combining colloidal PCs with different elastic matrixes, such as hydrogels [40–43] and polymeric elastomers [35,44–48]. Although photonic hydrogels show sensitive color-changing ability and excellent biocompatibility, they usually suffer from low mechanical strength and water evaporation-induced environmental instability, limiting their long-term practical uses [35]. Alternatively, combining co
+
+*（正文超过 6000 字，此处截断）*
+
+## Original 原文
+
+- 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Interactively mechanochromic electronic textile sensor.pdf.md`
+- 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Interactively mechanochromic electronic textile sensor.pdf.md`

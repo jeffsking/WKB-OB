@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Product Waist Break Test（产品腰围拉断测试）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [拉断强度, 腰围, Pants, 快速上提, 内控, gf]
@@ -91,3 +91,11 @@ tags: [拉断强度, 腰围, Pants, 快速上提, 内控, gf]
 
 > ⚠️ **口径提示（2026-09-29）**：STM-01086 与母方法 STM-00078 **夹具距离不同（3 in vs 2 in）**，同属 gf 峰值法族但**数值不可互比**，详见 [[峰值 gf 粘合强度方法族对比（端封 vs Pants 拉断 vs 面层压纹）]]、[[Seal Strength Test（端封·侧封强度测试）]]。
 > 📌 **重复副本（2026-09-29）**：同一 SOP 在 `成品/` 与 `成品/Pants 产品拉断测试方法/` 两个目录下各存一份、正文一致，**不得计为两次独立证据**。
+
+## Related Sources 关联来源
+
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[STM-00078 端封强度.doc]]
+- [[STM-00090 腰围密封强度.doc]]
+- [[STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc]]
+- [[STM-01086 BCC Pants 产品拉断测试（成品）.doc]]

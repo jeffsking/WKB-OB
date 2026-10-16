@@ -72,3 +72,7 @@ B(w) = w² + 2w(1 − w) · k
 - [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_free_shaped_PET_alternatives_8slides.pptx.md`
 - [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md`
 - [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]

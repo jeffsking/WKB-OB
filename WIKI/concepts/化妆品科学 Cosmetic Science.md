@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "化妆品科学 Cosmetic Science"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [cosmetic-science, 化妆品科学, preservation, formulation, labelling, wet-wipes, regulatory]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Olefin Block Copolymer (OBC) 烯烃嵌段共聚物"
-domain: [卫材研发, 胶黏剂]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-29
 tags: [OBC, 烯烃嵌段共聚物, Infuse, 热熔胶, 弹性粘合, 结晶度]
@@ -56,3 +56,9 @@ aliases: ["OBC", "烯烃嵌段共聚物"]
 - [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/11_模块三：聚烯烃类热熔胶_EP2456819B1_Hot_melt_adhesive_based_on_olefin_block_.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观摘录**，不构成侵权或 FTO 判断；"OBC 由 Dow 生产"为**来源时点的记述**，须以当前市场核实。
+
+## Related Sources 关联来源
+
+- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]
+- [[Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres]]
+- [[为什么纯 PEG 不能常规熔纺]]

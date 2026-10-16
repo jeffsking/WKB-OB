@@ -38,3 +38,8 @@ tags: [BLOCLO, 盛色科技, thermochromic, photochromic, 变色材料]
 ## Sources 来源
 
 - [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/关于我们_盛色科技.html.md`
+
+## Related Sources 关联来源
+
+- [[Thermochromic_Products_Comparison_by_Company]]
+- [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]]

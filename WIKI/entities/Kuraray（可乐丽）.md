@@ -44,3 +44,11 @@ tags: [PVA, KURALON, REL, OI-02, 湿强骨架]
 ## Source 来源
 
 - [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Materials Development Team 2026 Annual Review Outline_v7_EN_Red-White Theme and Doubled Header Bar.md.md`
+
+## Related Sources 关联来源
+
+- [[2026聚氨酯产品手册-第五版 - 上海沂庆贸易有限公司]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[Kururay_Bio based polyols]]
+- [[REL for 100% SAP Core（全SAP芯体增强层设计）]]
+- [[REL 结构优化与选材技术方案]]

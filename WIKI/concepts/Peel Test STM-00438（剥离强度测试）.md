@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Peel Test STM-00438（剥离强度测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [剥离, peel, STM-00438, 结合强度, 失效模式, 界面]
@@ -60,3 +60,9 @@ aliases: ["剥离测试（Peel Test）", "STM-00438"]
 
 - [[HSBL Peel Test Results（面层-导流层剥离强度实测）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Peel Test Results.xlsx.md`
 - [[HSBL Rewet Trial Plan & Adhesive Calcs（面层-导流层施胶回渗试产计划）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/53267-HSBL-REWET-CLEMMER Trial Plan and Adhesive Calcs .xlsx.md`（配套测试计划：Peel / Capillarity / MicroCT）
+
+## Related Sources 关联来源
+
+- [[HSBL Peel Test Results（面层-导流层剥离强度实测）]]
+- [[STM-00232布质外层与loop的粘连强度（人工方法）.docx]]
+- [[WI-19395外层材料剥离测试.docx]]

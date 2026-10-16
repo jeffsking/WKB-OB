@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Liquid Diffusion Test（液体扩散测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [扩散, spreading, MD分布, STM-1002, U型扩散, 平面扩散, 测试口径]
@@ -67,3 +67,11 @@ aliases: ["液体扩散长度测试", "平面扩散 / U 型扩散"]
 - [[KC U Rewet测试.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/KC U Rewet测试.docx.md`
 - [[TTM-00148 Cradle测试.doc]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00148 Cradle测试.doc.md`
 - [[TTM-00279产品30°滑渗测试.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/TTM-00279产品30°滑渗测试.docx.md`
+
+## Related Sources 关联来源
+
+- [[KC U Rewet测试.docx]]
+- [[STM-00060 导流性能.docx]]
+- [[STM-1001平面扩散实验.docx]]
+- [[STM-1002U型扩散实验.docx]]
+- [[TTM-00148 Cradle测试.doc]]

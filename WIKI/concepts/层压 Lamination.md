@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "层压 Lamination"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [lamination, nonwoven-finishing, backsheet, hot-melt-adhesive, ultrasonic-bonding, embossing, barrier]

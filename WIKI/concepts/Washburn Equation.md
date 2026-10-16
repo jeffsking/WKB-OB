@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Washburn Equation"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [Washburn, 毛细上升, 芯吸, 多孔介质流动, 吸收动力学, Lucas-Washburn, Rudd 关系]
@@ -64,7 +64,6 @@ What the digest *does* evidence is its **result form and its theoretical family*
 - [[Porous Structure and Liquid Flow Models]]
 - [[The Role of Surfactants]]
 - [[Absorbent Technology]]
-- [[Porous Structure and Liquid Flow Models]]
 - [[Surface Tension and Surface Energy]]
 - [[达西定律 Darcy's Law]]
 - [[毛细压力 Capillary Pressure]]
@@ -80,3 +79,6 @@ What the digest *does* evidence is its **result form and its theoretical family*
 - [[Groove Capillary Suction]]
 - [[时间滞后法 Time Lag Method]]
 - [[Hygiene Absorption Model]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+

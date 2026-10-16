@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "保留层 Retention Layer"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [absorbent-core, three-layer-model, retention, retention-capacity, REL]

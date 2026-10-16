@@ -53,3 +53,7 @@ aliases: ["bluesign technologies ag"]
 ## 来源
 
 - [[卫生用品认证体系完全指南]] —— `raw/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/卫生用品认证体系 完全指南.md`
+
+## Related Sources 关联来源
+
+- [[卫生用品认证体系完全指南]]

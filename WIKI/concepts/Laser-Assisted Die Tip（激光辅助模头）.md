@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Laser-Assisted Die Tip（激光辅助模头）"
-domain: [卫材研发, 熔喷设备, 聚合物加工]
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [激光模头, 976nm, DLC涂层, 热剂量, 断链, MFR漂移, 熔喷]
@@ -76,3 +76,7 @@ tags: [激光模头, 976nm, DLC涂层, 热剂量, 断链, MFR漂移, 熔喷]
 
 - [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Film/Laser_Meltblown_Film_Free_Backsheet.pptx - 已修复.pptx.md`
 - [[熔融指数与化学降解]] —— 库内页（MFR-分子量关系的基线）
+
+## Related Sources 关联来源
+
+- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]

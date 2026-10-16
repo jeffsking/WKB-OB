@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Elastic Tension & Creep（橡筋张力与回缩率）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [橡筋, 弹性体, creep, 回缩率, 张力, gf, 40℃, 腰围, 弧形皮筋]
@@ -138,3 +138,31 @@ aliases: ["橡筋张力与回缩率测试", "Elastic Creep / Tension"]
 
 > ⚠️ **三级尺度不要混（2026-09-29）**：本库弹性张力存在**三级尺度**——① **整圈腰围**（STM-00440，套杆、170/190 mm 尺寸档）；② **单根腰围皮筋**（STM-00070，90% 伸长、校准杆）；③ **部位级弧形腿皮筋**（STM-00686 / WI-59910，90%、110/160 mm 或 100 mm）。**三者受力状态与分母不同，gf 值不可互推。**
 > ⚠️ **待验证 `[待验证]`**：STM-00440 原文未写明读数单位，亦未给合格阈值。
+
+## Related Sources 关联来源
+
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[CN 111973346 A（一种纸尿裤的减压腰围及其制作工艺·贵州卡布）]]
+- [[CN 114376803 A（一种裤型吸收制品弹性腰围·米卫（杭州））]]
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[EP2413866B1 Disposable Wearing Article (Unicharm)]]
+- [[Ebewole Polymer Science Ch14 Polymer Viscoelasticity]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[MDP plus弧形皮筋张力测试.pdf]]
+- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]
+- [[Manufactured Fibre Technology Ch18 High Performance and Non-Conventional Fibres]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]]
+- [[Pin-Hole Module, Targeted Fluff Distribution & Elastic Recovery Process Review（新材料开发与弹性恢复工艺探讨）]]
+- [[Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）]]
+- [[STM-00070 Elastic Tension - BCC Products（皮筋张力测试 第4版）]]
+- [[STM-00440 腰围皮筋张力.doc]]
+- [[STM-00686弧形皮筋张力.doc]]
+- [[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]]
+- [[Structured Minutes — New Material Development & Elastic Recovery Process（录音纪要 2026-09-20）]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]
+- [[内部测试方法 橡筋回缩率 -20210926最新.pdf]]
+- [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]]
+- [[橡筋拉伸比测试.doc]]
+

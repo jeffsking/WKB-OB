@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Zeolite Odour Control（沸石除臭载体）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [除臭, 沸石, 异味控制, 合规]
@@ -57,3 +57,19 @@ tags: [除臭, 沸石, 异味控制, 合规]
 - [[IPC BCC OI Project List 17.9.2026（供应商明细版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 17.9.2026.xlsx.md`
 - [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI Project List - 20260918 (Restructured).xlsx.md`
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`
+
+## Related Sources 关联来源
+
+- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[Nuoer Group 2026 Company Deck（诺尔集团 2026 版公司介绍）]]
+- [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]]
+- [[Product Development & Trial Plan Workshop（产品研发与实验计划研讨）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[纸尿裤的异味控制与消除.pdf]]

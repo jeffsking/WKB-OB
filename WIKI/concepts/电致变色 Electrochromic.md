@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "电致变色 Electrochromic"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [electrochromic, chromic, reversible-colour, smart-textile, textile-display, powered-indicator]

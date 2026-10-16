@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "超分子 Host-Guest Chemistry"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [超分子化学, 主客体化学, host-guest, 分子识别, 冠醚, 指示剂, supramolecular]

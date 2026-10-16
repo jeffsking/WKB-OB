@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "再润湿剂 Rewetting Agent"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [rewetting-agent, 再润湿剂, surfactant, 润湿剂, CMC, fluff-pulp]

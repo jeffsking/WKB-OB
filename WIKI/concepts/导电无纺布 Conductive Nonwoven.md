@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "导电无纺布 Conductive Nonwoven"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [conductive-nonwoven, conductive-textile, e-textile, ALD, AZO, wetness-sensing, electrochromic]

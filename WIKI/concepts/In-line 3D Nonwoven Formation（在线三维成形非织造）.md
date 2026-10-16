@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "In-line 3D Nonwoven Formation（在线三维成形非织造）"
-domain: [卫材研发, 无纺布工艺, 设备工程]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [在线成形, 厚度, 柔软度, 针辊, 超声波, 降本]
@@ -90,3 +90,9 @@ tags: [在线成形, 厚度, 柔软度, 针辊, 超声波, 降本]
 ## 来源
 
 - [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/Innovation 2026 - Overall_with Detials.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]
+- [[Nonwoven Supplier Capability & 3D Embossing Platform Review（标准录音 2）]]

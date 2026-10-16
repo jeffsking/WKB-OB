@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "中空纤维 Hollow Fibre"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [hollow-fibre, fibre-cross-section, spinneret, REL, surge-layer, nonwoven, PET]

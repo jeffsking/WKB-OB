@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Residual Fluid & Pore Stranding（残液与孔隙滞留）"
-domain: [卫材研发, 吸收机理]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [残液, 孔径分布, Young-LaPlace, 润湿性, 层间空隙, 毛细]
@@ -342,3 +342,25 @@ Increasing Fiber Size (at same basis wt)
 - 方法论出处见 [[Capillary Pressure Method（毛细压力法·解吸毛细压力与解吸能量）]]；来源页 [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]
+- [[Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]
+- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]
+- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[Rewet Learning Plan（回渗学习计划工作表）]]
+- [[Rewet Principles History and Opportunity（2025-03-04 回渗总纲与历史沿革）]]
+- [[Rewet Principles（回渗设计原则与测试方法关联）]]
+- [[Rewet Quarterly Update 2025-08（设计原则落地与五个项目战绩）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Use-Test Loading & Leakage Percentile（使用测试载荷与渗漏分位）"
-domain: [卫材研发, 测试与验收, 成人护理]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [HUT, single insult, loading, LD50, 渗漏, 容量设计, 成人护理]
@@ -152,3 +152,14 @@ aliases: ["使用测试载荷分位", "Single Insult Distribution", "LD50（半�
 - **AV / AVI**（截至 **2014-12-16** 的单次加液载荷目标与总产品载荷假设）同样**未随本文件提供**。
 
 > ✅ 验证（2026-09-29）：本追加段**未修正**上方任何结论；上方四条经验教训**全部保留**，本批补的是**更新周期的制度依据、招募人群口径风险、以及目标维护的降本方法**。
+
+## Related Sources 关联来源
+
+- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[R150540-TL-14137 Poise Use-Test Load & Leakage Summary（2009）]]
+- [[R160739 TL-15582（单次加液与总载荷目标的方法学更新 · 2015）]]
+- [[Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）]]
+- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAP Dosing Speed Matching（SAP 落料速度匹配与容差）"
-domain: [卫材研发, 芯体工艺, 过程控制]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP 落料, chute, eductor, 鼓面线速, ups, 相位锁定, 滑移, 图案边缘锐度, 容差]
@@ -116,7 +116,7 @@ tags: [SAP 落料, chute, eductor, 鼓面线速, ups, 相位锁定, 滑移, 图�
 
 - **推导**：脉冲数/转 = **n**；转速 = **ppm/n**；相乘得脉冲频率 = **ppm/60 = 16.7 Hz @1,000 ppm**，**n 被消去**。
 - **工程含义**：**随 ups 切换而变的只有「落料到达速度」（6.60 / 7.70 m/s），脉冲频率不变**。等级 **A（可推导）** —— 这是本页少有的**纯推导级**结论，不依赖仿真或厂商标称。
-- ⚠️ 因此 Recipe 层里 **chute 一项只锁速度，不锁频率**；把频率也做成 recipe 项属于**过度参数化**（见 [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] 的 Q4 判据）。
+- ⚠️ 因此 Recipe 层里 **chute 一项只锁速度，不锁频率**；把频率也做成 recipe 项属于**过度参数化**（见 [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] 的 Q4 判据）。
 
 ### 2. ⚠️ 两类「SAP 公差」不可混用（本批新增的易混口径）
 
@@ -153,3 +153,13 @@ tags: [SAP 落料, chute, eductor, 鼓面线速, ups, 相位锁定, 滑移, 图�
 
 - [[SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/86-SAP落料速度匹配与容差规范.md.md`
 - [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/87-卫材产线约束常量表_待并入补充行.md.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[03_卫材产线约束常量表（准入校验工具）]]
+- [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]
+- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]
+- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]
+- [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]
+- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]
+- [[SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）]]

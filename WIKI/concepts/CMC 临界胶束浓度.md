@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "CMC 临界胶束浓度"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [surfactant, CMC, micelle, wetting, absorbency]

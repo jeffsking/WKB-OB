@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "CoPET（低熔点共聚酯）"
-domain: [卫材研发, 纤维材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-29
 tags: [CoPET, 低熔点, 共聚酯, 皮芯复合纤维, ADL, 4080]
@@ -66,3 +66,36 @@ aliases: ["CoPET（低熔点共聚酯 / Low-Melt Copolyester）"]
 - [[CoPET 与 PET 成本差异对比（2026 年 7 月）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET与PET成本差异对比.pdf.md`
 - [[CoPET 采购蓝图：成本拆解与供应分层]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/CoPET_Sourcing_Blueprint.pptx.md`
 - [[CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/REL/COPET.pptx.md`
+
+## Related Sources 关联来源
+
+- [[CoPET ADL 转型蓝图（皮层聚合物替代评估）]]
+- [[CoPET 与 PET 成本差异对比（2026 年 7 月）]]
+- [[CoPET 供应基盘背调汇总（26 家企业·联系方式版）]]
+- [[CoPET 供应基盘背调汇总（布局核实精简版）]]
+- [[CoPET 双组份热粘合纤维市场与供应商（供应链分层·文档版）]]
+- [[CoPET 双组份热粘合纤维市场与供应商（供应链分层·明细表）]]
+- [[CoPET 采购蓝图：成本拆解与供应分层]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[CoPET-PET 与 PE-PET ES 纤维 ADL 影响模拟（英文详版）]]
+- [[CoPET-PET 与 PE-PET 成本差异对比 v3（卫材级对等口径修正）]]
+- [[CoPET-PET 与 PE-PET 成本结构深度拆解报告]]
+- [[CoPET_PET与PE_PET成本结构拆解.xlsx]]
+- [[Dual Component Fiber_README]]
+- [[Dual Component Fiber_concepts]]
+- [[Dual Component Fiber_index.csv]]
+- [[Elite Color (ECER) Company Profile（优彩环保英文版公司介绍）]]
+- [[IMA知识库索引_20261002]]
+- [[IMA知识库索引_20261009]]
+- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]
+- [[Manufactured Fibre Technology Ch12 Polyethylene Terephthalate Fibres]]
+- [[NW · 00_核心观点汇总]]
+- [[NW · 原始引用索引.csv]]
+- [[REL benchmark.png]]
+- [[Screenshot_2026-07-01-15-13-09-17_45e686c594768066ad9911d54d96f72b.jpg]]
+- [[output]]
+- [[优化 REL 五纤维配方与穿透热风粘合工艺模拟]]
+- [[国内 CoPET 纤维厂商与无锑细旦核实表（2026-07-09）]]
+- [[天富龙集团与扬州富威尔公司简介（Tinfulong／Fuweier 2025-05-10）]]
+- [[非织造芯体材料技术讨论会（Bryan 优先清单 2026-06-09）]]
+

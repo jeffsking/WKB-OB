@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "熔喷 Meltblown"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, meltblown, barrier, backsheet, hygiene-materials]
@@ -65,3 +65,5 @@ tags: [nonwoven, meltblown, barrier, backsheet, hygiene-materials]
 - [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]（无膜背层专利）
 - [[ES 纤维热风非织造布驻极性能初探]]、[[驻极体 Electret]]（驻极与 PFAS 议题）
 - [[Absorbent Technology]]、[[Fluid Absorption in High Bulk Nonwovens]]、[[Handbook of Nonwovens]]、[[Nonwovens in Absorbent Materials]]（概念并列登记）
+- [[MFR _ MFI（以及 MI、MVR）辨析]]
+

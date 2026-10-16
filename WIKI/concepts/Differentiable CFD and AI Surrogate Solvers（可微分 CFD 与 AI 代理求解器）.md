@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Differentiable CFD and AI Surrogate Solvers（可微分 CFD 与 AI 代理求解器）"
-domain: [仿真建模, 吸收仿真, AI4Science, 开放创新]
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [CFD, 可微分编程, differentiable, 神经算子, neural operator, 代理模型, surrogate, OpenFOAM, SPH, AI-Agent]
@@ -51,3 +51,7 @@ tags: [CFD, 可微分编程, differentiable, 神经算子, neural operator, 代�
 ## 来源 Sources
 
 - [[Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/基于搜索结果，目前确实存在多种开源的流体.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Open-Source AI-CFD Frameworks Landscape（开源 AI+流体仿真框架调研）]]

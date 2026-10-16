@@ -36,3 +36,7 @@ aliases: ["TotalEnergies（道达尔能源）"]
 
 - [[LMP-PP方案C技术论证]] —— `raw/ima_sync/个人知识库/WKB/王总，先说结论：知识库里没有专门讲_低熔点PP粒子（Low.md`
 - 对标建议（原文）：国产粒子按「MFR 20–40 + 熔点 135–150°C + 乙烯 3–8%」设定，即可填上 MR 2002 之外的**纤维级低熔点空档**
+
+## Related Sources 关联来源
+
+- [[LMP-PP方案C技术论证]]

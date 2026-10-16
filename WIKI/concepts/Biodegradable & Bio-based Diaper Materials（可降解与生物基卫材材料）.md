@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [可降解, 生物基, PLA, PPC, PHA, bioSAP, 纳米纤维素]
@@ -97,3 +97,29 @@ tags: [可降解, 生物基, PLA, PPC, PHA, bioSAP, 纳米纤维素]
 - **商业化定位**：当前定位于高端环保线；路线图预计 2028–29 进入限量高端与环保主题系列的规模化销售。
 
 > ⚠️ 本节为市场侧预测性证据追加，未修改上方结论；所有时间表与数字为综述口径，`[待验证]`。
+
+## Related Sources 关联来源
+
+- [[01_PLA_PPC_可降解材料研究报告.md]]
+- [[BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）]]
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]]
+- [[China Diaper Market Tech Frontier & Roadmap 2026（中国纸尿裤市场技术创新的前沿与未来路线图）]]
+- [[China Diaper Tech Roadmap 2026（China_Diaper_Tech_Roadmap_2026）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[Diaper Tech Innovation Roadmap Next 5 Years（未来五年纸尿裤技术创新路径）]]
+- [[GB-T 39951-2021 Degradability Evaluation for Disposable Paper Products（一次性纸制品降解性能评价方法）]]
+- [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]]
+- [[IMA 知识库索引（2026-09-18）]]
+- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]
+- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]
+- [[Manufactured Fibre Technology Ch20 Reuse of Polymer and Fibre Waste]]
+- [[Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[可降解生物基材料与薄且强芯体技术深度解析]]
+- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]
+- [[未来3-5年纸尿裤商业化技术集与开发方向]]
+- [[纳米纤维素供应商拜访计划 V3.1（2026Q2）]]
+- [[纸尿裤的核心结构及市场主流方向]]
+
+

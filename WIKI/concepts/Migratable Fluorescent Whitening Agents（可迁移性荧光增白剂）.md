@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Migratable Fluorescent Whitening Agents（可迁移性荧光增白剂）"
-domain: [法规与产品安全, 限用物质]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [荧光增白剂, 可迁移, GB 15979, 卫材合规, 纸类原料]
@@ -58,3 +58,19 @@ tags: [荧光增白剂, 可迁移, GB 15979, 卫材合规, 纸类原料]
 - [[QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/QBT 5650-2021 一次性纸制卫生用品用复合吸收芯体.pdf.md`
 - [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 21331-2021 绒毛浆.pdf.md`（2026-09-29 追加）
 - [[GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 27741-2018 纸和纸板 可迁移性荧光增白剂的测定.pdf.md`（2026-09-29 追加：方法标准锚点）
+
+## Related Sources 关联来源
+
+- [[Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）]]
+- [[Ebewole Polymer Science Ch09 Polymer Additives and Reinforcements]]
+- [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]]
+- [[GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）]]
+- [[GB-T 21331-2021 Fluff Pulp（绒毛浆）]]
+- [[GB-T 27728-2011 Wipes（湿巾）]]
+- [[GB-T 27728.3-2024 Wipes Part 3 Disinfectant Wipes（湿巾 第3部分 消毒湿巾专用要求）]]
+- [[GB-T 27741-2018 Determination of Migratable Fluorescent Whitening Agents in Paper and Board（纸和纸板 可迁移性荧光增白剂的测定）]]
+- [[GB-T 28004.1-2021 Baby Diapers（纸尿裤 第1部分 婴儿纸尿裤）]]
+- [[GB-T 28004.2-2021 Adult Diapers（纸尿裤 第2部分 成人纸尿裤）]]
+- [[GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）]]
+- [[GB-T 43585-2023 Disposable Tampons（一次性卫生棉条）]]
+- [[QB-T 5650-2021 Composite Absorbent Core for Disposable Paper Sanitary Products（一次性纸制卫生用品用复合吸收芯体）]]

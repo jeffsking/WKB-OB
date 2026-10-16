@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）"
-domain: [卫材研发, 芯体工艺, 设备工程]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [印花芯体, 成型鼓, ups, 套筒, 相位, 套准, 真空扇区, 再分距, 伺服架构]
@@ -548,3 +548,24 @@ tags: [印花芯体, 成型鼓, ups, 套筒, 相位, 套准, 真空扇区, 再�
 - [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md`
 - [[85 双层pattern芯体套准工程规格]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/85-双层pattern芯体套准工程规格.md.md`（2026-09-29 追加）
 - [[SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/86-SAP落料速度匹配与容差规范.md.md`（由本源派生的工程规范，提供 Δp 缺口与口径警示）
+
+## Related Sources 关联来源
+
+- [[03_卫材产线约束常量表（准入校验工具）]]
+- [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]
+- [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]
+- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]
+- [[84 Sleeve 工程规格与换装防错设计]]
+- [[85 双层pattern芯体套准工程规格]]
+- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]
+- [[Precision Rotary Die & Module Supplier Review — Stretch Cutting, SAP Dosing & Layer Config（公司介绍与业务交流）]]
+- [[V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）]]
+- [[engineering proposal.pptx]]
+

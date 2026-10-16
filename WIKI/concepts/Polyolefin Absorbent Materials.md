@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Polyolefin Absorbent Materials"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [polyolefin, absorbent-materials, seed-completion, 待补]

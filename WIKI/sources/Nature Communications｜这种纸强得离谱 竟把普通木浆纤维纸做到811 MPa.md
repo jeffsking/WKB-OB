@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -62,3 +63,7 @@ https://doi.org/10.1038/s41467-026-70357-8
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nature Communications｜这种纸强得离谱 竟把普通木浆纤维纸做到811 MPa.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nature Communications｜这种纸强得离谱 竟把普通木浆纤维纸做到811 MPa.md`
+
+## 关联页面
+
+- [[纳米纤维素（CNC、CNF、BNC）]]

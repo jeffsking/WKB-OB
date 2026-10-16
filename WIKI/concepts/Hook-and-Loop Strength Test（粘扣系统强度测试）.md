@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Hook-and-Loop Strength Test（粘扣系统强度测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [粘扣, hook-and-loop, 剥离, 剪切, loop, 失效模式, 拉力仪, 测试口径]
@@ -71,3 +71,13 @@ aliases: ["粘扣强度测试（剥离 / 剪切 / 结合 / Loop 粘连）", "Fas
 - [[STM-00076 剪切.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00076 剪切.docx.md`
 - [[STM-00071 粘扣结合强度.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00071 粘扣结合强度.docx.md`
 - [[STM-00240Loop 粘连强度测试.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00240Loop 粘连强度测试.docx.md`
+
+## Related Sources 关联来源
+
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[STM-00071 粘扣结合强度.docx]]
+- [[STM-00075 剥离.docx]]
+- [[STM-00076 剪切.docx]]
+- [[STM-00232布质外层与loop的粘连强度（人工方法）.docx]]
+- [[STM-00240Loop 粘连强度测试.docx]]

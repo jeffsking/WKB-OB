@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -164,3 +165,7 @@ Ch1(元地图) → Ch2(配位聚合/聚烯烃) → Ch3(均相FRP)
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/Polymer Reaction Engineering_synthesis.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/Polymer Reaction Engineering_synthesis.md.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[SAP（高吸水树脂）]]　[[聚烯烃]]

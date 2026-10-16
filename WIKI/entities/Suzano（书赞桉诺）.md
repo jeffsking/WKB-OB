@@ -48,3 +48,12 @@ tags: [Suzano, 桉木浆, BEKP, BHKP, TCF, 巴西, fiber-to-fiber]
 ## 来源
 
 - [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md`
+
+## Related Sources 关联来源
+
+- [[Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）]]
+- [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]]
+- [[【信达消费】造纸数据跟踪：针阔分化，纸价分化260329]]
+- [[【头条】2025—2026年溶解浆市场回顾与展望]]
+- [[中国纸浆市场行情持稳，供应商取消涨价计划、终端需求持续疲软]]
+- [[纸尿裤结构与技术全景_内容大纲_20260428232500]]

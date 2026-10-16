@@ -42,3 +42,8 @@ aliases: ["GIC Korea", "KGIC", "KCI（源文混用写法）"]
 ## 来源
 
 - [[CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD Pants Process Overview -GIC Korea.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[Handbook of Polymer Testing_ch12_report]]

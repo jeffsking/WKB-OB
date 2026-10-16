@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Gel Blocking（凝胶阻塞）"
-domain: [卫材研发, 吸收芯体, 仿真模型]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [gel blocking, 凝胶阻塞, 渗透率, Carman-Kozeny, ADL 排水, SAP 利用率, MD 铺展]
@@ -118,3 +118,34 @@ aliases: ["凝胶阻塞", "Gel Blocking", "凝胶阻塞效应"]
 
 - [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/v11_simulation_report_20260708.pdf.md`
 - [[Core Channel Pattern（芯体通道花型设计）]] —— 提供 Code 10 类"中心加密反而不好"的独立观察（结构分区反例）
+
+## Related Sources 关联来源
+
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[Absorbent Technology_README]]
+- [[Absorbent Technology_ch09_report_20260823_031404]]
+- [[Absorbent Technology_ch12_report_20260823_031406]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[Cross-linked Cellulose and Its Derivatives]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[Fibers and Fibrous Materials]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Porous Structure and Liquid Flow Models]]
+- [[Products and Technology Perspective]]
+- [[REL Simulation Baby Diaper Core（五纤维 TAB 增强层模拟与改进路线图）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAM通液速度(From Nuoer).docx]]
+- [[SAP Four Core Metrics Breakdown（SAP 四大核心指标拆解 CRC_AUL_GBP_Vortex）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）]]
+- [[SAP（高吸水性树脂）技术总结报告]]
+- [[Superabsorbent Polymers Review_深度拆书报告_academic_20260813]]
+- [[一文带您了解婴儿纸尿裤里的非织造布！]]
+- [[会议纪要：V6产品开发技术研讨会]]
+- [[基于 v9 实际状态的 Claude + Gemini 优化]]
+- [[尿液在婴儿纸尿裤中的吸收和扩散模拟仿真]]
+- [[纸尿裤结构与技术全景_内容大纲_20260428232500]]
+

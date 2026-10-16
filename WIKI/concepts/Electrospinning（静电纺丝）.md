@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Electrospinning（静电纺丝）"
-domain: [卫材研发, 非织造与纳米纤维]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [静电纺丝, Electrospinning, EHD, 泰勒锥, 纳米纤维, 孔隙率, 产能瓶颈]
@@ -105,3 +105,19 @@ aliases: ["静电纺丝（Electrospinning / 电纺丝）", "电纺丝", "EHD 纺
 ## 来源 Sources
 
 - [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx.md`
+
+## Related Sources 关联来源
+
+- [[ACS Nano综述：单根纳米纤维力学，构建坚固耐用的多功能纳米纤维材料的指导原则]]
+- [[Dual Component Fiber_concepts]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]
+- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]
+- [[Manufactured Fibre Technology Ch03 Fluid Flow in Fibre Spinning]]
+- [[Manufactured Fibre Technology Ch06 Solution Spinning Processes]]
+- [[Manufactured Fibre Technology Ch15 Acrylic Fibres]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[SAP Research Advances_README]]
+- [[SAP Research Advances_concepts]]
+- [[与华峰集团会晤纪要（2026-07-29）]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]

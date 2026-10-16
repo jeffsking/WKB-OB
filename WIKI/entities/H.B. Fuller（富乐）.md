@@ -65,3 +65,10 @@ aliases: ["富乐（H.B. Fuller）", "H.B. Fuller"]
 ## 来源
 
 - [[变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨生产商研究报告_20260612.md.md`
+
+## Related Sources 关联来源
+
+- [[NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]
+- [[变色油墨供应商技术路线与产品性能差异评估]]
+- [[变色油墨供应商联系表（19 家 · 联系方式敏感）]]

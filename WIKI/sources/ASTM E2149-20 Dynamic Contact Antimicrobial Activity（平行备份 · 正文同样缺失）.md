@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2020
 date_processed: 2026-09-29
 credibility: 中
+knowledge_update_status: pending
 key_claims:
   - "本页为 ASTM E2149-20 目标的**第二份同步副本**（文件名带「v3非传统资源_⑦抗菌_9_」前缀，media_id 与另一份不同，正文内容一致）；**同样不含 E2149-20 方法正文**，详 [[ASTM E2149-20 Dynamic Contact Antimicrobial Activity（标准正文缺失 · 仅 ASTM 知识产权政策前置页）]]"
   - "两份副本均仅含 ASTM International 知识产权政策前置页（2003-10-28、2010-04-13 两次修订），结尾一致；差异仅为标题层级符号（`#   ` 与 `# `）等版面噪声"

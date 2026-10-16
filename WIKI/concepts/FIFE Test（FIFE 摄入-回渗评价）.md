@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "FIFE Test（FIFE 摄入-回渗评价）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [FIFE, STM-00034, 摄入时间, 回渗, 溢出量, SAT CAP, 吸收性能, 目标区]
@@ -74,3 +74,15 @@ FIFE 把「穿在身上的吸收体验」拆成三个可测输出：**吸收时�
 - [[STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）]] —— 全球母版，Rev.5
 - [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00034 FIFE.docx.md`
 - [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/BCC成品STM-南京南厂 1.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CI-06 COCO V6 3rd round trial-10.10]]
+- [[CI-06 COCO V6 3rd round trial-9.30]]
+- [[COCO_V6_第三轮trial_两组对照分析_20261010]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[IMA知识库索引_20261002]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[MD Pants innovation_YK R&E]]
+- [[TTM-00302 面层干爽性.doc]]
+- [[满足要求的四大组件性能指标与测试方法]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -123,3 +124,7 @@ KC 的产品图纸并非一张「图」，而是六个信息区块的标准组�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Product Drawings 101 (KC Sept2025)/Product_Drawings_101_Sept2025_ch2_Reading_Drawings_拆解报告.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Product Drawings 101 (KC Sept2025)/Product_Drawings_101_Sept2025_ch2_Reading_Drawings_拆解报告.md.md`
+
+## 关联页面
+
+- [[Kimberly-Clark（金佰利）]]

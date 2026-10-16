@@ -3,18 +3,19 @@ type: source
 title: "US 5,266,394 A SIS 嵌段共聚物热熔胶（Dow/Exxon，多线贴合用）"
 source_type: 专利
 source_path: RAW/ima_sync/个人知识库/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(嵌段共聚物).pdf.md
-source_credibility: 中
+credibility: 中
 knowledge_area: Areas/IP
 subjects:
   - [[SIS 嵌段共聚物]]
-  - [[热熔胶]]
+  - [[热熔胶 Hot Melt Adhesive]]
   - [[多线贴合（multi-line construction）]]
   - [[可弃式服装（P&G 专利族）]]
-related:
+pages_linked:
   - [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]
 date_published: 1993-11-30
 knowledge_update_status: done
-compiled_at: 2026-10-11
+key_claims: []
+date_processed: 2026-10-11
 compile_batch: P0-B02/B03/B04
 ---
 

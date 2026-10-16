@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）"
-domain: [卫材研发, 高吸水树脂, 测试方法]
+domain: [卫材研发, SAP与流体]
 status: stable
 updated: 2026-09-29
 tags: [SAP, GBP, CRC, 测试协议, DOE, 回渗, 选型]
@@ -100,3 +100,37 @@ aliases: ["测试协议依赖（Protocol-Dependent Ranking）", "GBP 受限 vs C
 ## Sources 来源
 
 - [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/17-SAP选型与实验数据决策库.docx.md`
+
+## Related Sources 关联来源
+
+- [[ADT Brain Trust - Fluff and Rewet（绒毛浆与回渗 DOE 复盘）]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版V1.2_20261010]]
+- [[BNC-SAP表面交联_预交联自膨胀干粉技术委托书_匿名版_20261010]]
+- [[BNC_SAP_platform_onepage_EN_detailed]]
+- [[BNC增强SAP表面交联_抗菌除臭一体化延伸方案_20261010]]
+- [[BNC增强SAP表面交联_试验工程方案_匿名版_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261006]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010.html]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[ID · 00_全书摘要]]
+- [[ID · 聚合科学交叉参考（PoP）]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -3]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）]]
+- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAM training 2025]]
+- [[SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Research Advances_README]]
+- [[SAP Research Advances_index.csv]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）]]
+- [[SAP生产工艺流程图.png]]
+- [[SAP表面处理工艺通过离子相互作用提高凝胶渗透性（GBP）的]]
+- [[SmartPolymers_README]]
+- [[SmartPolymers_全局合成报告]]
+- [[Three-Way SAP Design Comparison（三方案 SAP 设计仿真对比）]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "柔性电子 Flexible Electronics"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [flexible-electronics, stretchable-electronics, UTCP, imec, wearable, smart-textiles]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Nonwoven Deformation Force Test（无纺布形变力测试）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [无纺布, 形变力, 2% strain, N/cm, WI-62416, MD, 加工张力]
@@ -57,3 +57,8 @@ aliases: ["无纺布变形测试", "2% Deformation Force", "Nonwoven MD Modulus"
 ## 来源
 
 - [[China-WI-62416 无纺布变形测试 20240201.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/China-WI-62416 无纺布变形测试 20240201.docx.md`
+
+## Related Sources 关联来源
+
+- [[3D面层CD拉伸强度测试.pdf]]
+- [[China-WI-62416 无纺布变形测试 20240201.docx]]

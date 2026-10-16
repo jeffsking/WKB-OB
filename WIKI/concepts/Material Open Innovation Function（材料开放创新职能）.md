@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Material Open Innovation Function（材料开放创新职能）"
-domain: [卫材研发, 技术管理, 开放创新]
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [开放创新, 材料开发, FEI, F2G, 供应商联合开发, 技术窗口, 知识管理]
@@ -79,3 +79,8 @@ tags: [开放创新, 材料开发, FEI, F2G, 供应商联合开发, 技术窗口
 ## Sources 来源
 
 - [[JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/JD-Material_Development_Engineer_Bilingual.docx.md`
+
+## Related Sources 关联来源
+
+- [[JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）]]
+- [[OI（Open Innovation）团队会议纪要]]

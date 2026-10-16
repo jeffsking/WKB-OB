@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "MD Liquid Distribution"
-domain: [卫材研发, 面层结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [MD铺展, 各向异性, 面层, 取向, Liner, 侧漏]
@@ -175,3 +175,16 @@ aliases: ["MD Liquid Distribution 机向液体铺展"]
 3. **边缘旁通**：最外侧 2 个切片（各 6.7 mm）240 s 时近乎零吸收 ⇒ 与 [[Core Channel Pattern（芯体通道花型设计）]] 的"横向导流槽不超出 pad 边缘、预留数毫米"**互相呼应**——**边缘既不能浪费（未激活 SAP），也不能成为旁通通路**。
 
 > ✅ 验证（2026-09-29）：本追加段**未修正**本页任何既有结论；上文「MD 铺展三档」「理论极限 36.7% 为网格口径」「D_aniso 稳定边界」均未被触及，本批补的是**v8 与 v9 网格警示之间的交叉检验**。
+
+## Related Sources 关联来源
+
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]
+- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]

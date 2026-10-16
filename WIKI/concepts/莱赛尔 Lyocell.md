@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "莱赛尔 Lyocell"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [lyocell, tencel, regenerated-cellulose, NMMO, fibrillation, trilobal, hydroentanglement]
@@ -67,3 +67,6 @@ tags: [lyocell, tencel, regenerated-cellulose, NMMO, fibrillation, trilobal, hyd
 - [[赛得利]]
 - [[Fibers and Fibrous Materials]]
 - [[COCO V6 试产原料准备会（Summary 版）]]
+- [[会议纪要：Bryan 1_1 纤维加工工艺验证及材料研发规划]]
+- [[第30期：全球纤维与非纤维市场深度解析]]
+

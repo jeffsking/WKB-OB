@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Geometric Optical Mask（几何光学掩膜）"
-domain: [卫材研发, 智能功能化, 涂层工艺]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-29
 tags: [Mechanochromic, 几何掩膜, 应变指示, 合身指示器, 热熔狭缝涂布, 波纹快门]
@@ -89,3 +89,11 @@ tags: [Mechanochromic, 几何掩膜, 应变指示, 合身指示器, 热熔狭缝
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md`
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
 - [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_TechReview_EN_v3_2026-08-02_fixed.pptx.md`
+
+## Related Sources 关联来源
+
+- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
+- [[US20240099910A1 Digitally Printed Backsheet Film (RKW SE)]]

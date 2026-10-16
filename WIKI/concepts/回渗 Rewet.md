@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "回渗 Rewet"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [rewet, 回渗, absorption-testing, capillary, desorption, SAP, ADL, liner]
@@ -72,3 +72,17 @@ Rewet（回渗）is the liquid that returns out of an absorbent article toward t
 - [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]
 - [[LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）]]
 - [[Rewet Protocols Compared（回渗测试口径对比）]]
+- [[Absorbent Product Testing]]
+- [[Absorbent Technology]]
+- [[Absorbent Technology Introduction]]
+- [[Ancient Organic Dyes and Pigments Chemistry]]
+- [[Characterisation, testing and modelling of nonwoven fabrics]]
+- [[Cross-linked Cellulose and Derivatives]]
+- [[Fluid Absorption in High Bulk Nonwovens]]
+- [[Handbook of Nonwovens]]
+- [[Liquid Flow in Porous Structures]]
+- [[Nonwoven fabric finishing]]
+- [[Nonwovens in Absorbent Materials]]
+- [[Products and Technology Perspective]]
+- [[The Role of Surfactants]]
+

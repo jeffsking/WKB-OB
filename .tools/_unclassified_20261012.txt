@@ -1,0 +1,114 @@
+2025.08.28 - GRIFFIN Regroup（GRIFFIN 重整与再聚焦）	（中文：本页不是 GRIFFIN 项目的总定义，而是 2025-08-25 撰写、8-28 更新的那次重整复盘；该件首次把"回渗测不准"单列为问题。）
+82 鼓距与产品节距解耦 repitch 选型	（源：82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦））
+87 卫材产线约束常量表（待并入补充行）	定义待补（引用来源未给出明确定义）。本页是 80 系 pattern 芯体成型工程文档族的约束常量汇总占位页（标题自注「待并入补充行·合并脚本」），将各工程规格中已确认的产线硬约束汇成一行行
+APAC 卫生纸产品矩阵（2017  workshop 预研）	定义待补（引用来源未给出「APAC 卫生纸产品矩阵」的显式定义）。
+AUL 加压吸水率	两条 cited-by 来源仅在其关联概念清单中把 「AUL 加压吸水率」 列为一项条目（与 SAP、CRC 离心保持能力 等同列），未展开其定义、口径或数值。因此本页暂不给出定义 [待补]
+Ardex	Ardex 在本库中仅以变色材料供应商身份出现：来源页（父书 Chromic Phenomena）在光/热致变色等变色现象讨论中列出的供应商清单成员之一（与 PPG Industries、B
+Botanical Extract Efficacy Verification（植物提取物功效验证）	植物提取物从"原料有活性"到"产品有效"，需要穿过四个环节，每一环都会损失：
+CLC 手性向列晶	
+CRC 离心保持能力	CRC（Centrifuge Retention Capacity，离心保水 / 保液率）：0.9% 盐水、250 G 离心后的持液量（g/g），代表 SAP 的静态容量——储库型 SAP 
+CTMP 化学热磨浆	定义待补（引用来源未给出明确定义）。
+Clariant	引用来源未给出任何产品、牌号或规格 [待补]。
+DIC	定义待补（引用来源未给出明确定义）。本库中 DIC 仅以供应商名称出现在 Chromic Phenomena Introduction and Reversible Colour Chang
+Deep-Tech Commercialisation Due Diligence（深科技商业化尽调四支柱）	→ 因此尽调必须换成"物理定律是否成立 + 资本是否有耐心"这两条主线。
+Front Belt Force Window（前腰带弹性力窗口）	直觉上"腰带越紧越防漏"。本案给出的反例是：前腰带力过高会破坏穿戴流程与穿着形态，其失效链为：
+GST	
+Grafted Cellulose and Starch	
+Hercules Aqualon	Hercules Aqualon（亦记作 CLD）is the commercial product name under which the vault's most mature and
+Hygiene Absorption Model	定义待补（引用来源未给出明确定义）。引用页未给出「Hygiene Absorption Model」这一模型本身的定义句，但给出本库吸收性（absorbency）的规范口径——后续建模应统一
+IPA（间苯二甲酸）	1. 化学作用：IPA 是对苯二甲酸（PTA）的间位异构体。间位羧基使链段无法紧密堆砌，结晶度与熔点同步下降——这就是「加 IPA 降熔点」的物理本质。
+IPC BCC OI Portfolio（开放创新项目组合）	1. Five technology platforms 五大技术平台：① Resins & Fibre Substrates ｜ ② Nonwoven Functionality ｜ ③ 
+Klemm 法	Klemm 法是一种毛细前沿（capillary front）吸液测试法：测量毛细上升高度随时间的演化，以 lg h vs t 关系求取 Washburn k₀（源：Absorbent Pr
+Lagrangian Particle Tracking	原 cited-by 来源 Computational Modeling in Absorbent Technology 仅在其方法清单中把 「Lagrangian Particle Tra
+LbL 自组装 Layer-by-Layer	定义待补（引用来源未给出明确定义）：库内未给出 LbL 的单句定义。Emerging Applications of Stimuli-Responsive Polymer Materials
+Material Safety Control（材料安全双轨管控）	1. Two-track control 双轨管控
+PAA 聚丙烯酸	库内引用来源未给出词典式定义，但给出可直接引用的功能式口径：
+PET（聚酯）	1. 投料比与成本骨架：PET 切片 ≈ 0.86 t PTA + 0.34 t MEG（每吨切片），切片原料成本约 6,445.5 元/吨；PTA 在切片内占比约 77%，是价格主导项。
+PVAc 乳液	PVAc 乳液即聚醋酸乙烯酯（poly(vinyl acetate)）乳液，是卫材胶黏剂体系中的水基（water-borne）胶种。按库内时间轴，它是芯体面材贴合、湿巾无纺布贴合最常用、最经
+Pain-Point Backward Derivation（痛点倒推法）	1. Two classification axes, and only one of them admits intermediates. The forward axis (old) a
+Polyolefin Absorbent Materials	定义待补（引用来源未给出明确定义）。
+Product Dimension Measurement（成品尺寸测量）	定义待补（引用来源未给出明确定义）。
+Product Safety Crisis Management（产品安全危机管理）	1. 披露 vs 不披露：危机期间，安全团队拒绝向公众提供检测信息，与会者对此明确失望 → 披露策略在内部存在分歧。
+Rotary Die Tooling Material Route（旋转模切刀具材质路线：高速钢 vs 硬质合金）	→ 材质选择在开孔/模切之外同样影响耗材与停机，是同一类"材质—寿命—成本"权衡。
+SBS 弹性体	Adhesive Handbook Part 3 Adhesive Classes 将其归入 「SBR + 嵌段共聚物」 胶类（该类含 SBS/SIS），并作为概念条目与 压敏胶 PSA、热
+STM-00146	
+Sensor-Equipped Absorbent Article（含传感器吸收性物品）	1. 两类集成位置：
+Shaped PET Add-On Window	1. Shaped PET carries no low-melt sheath（异形 PET 无低熔点皮层）：every bond point in an air-through-bond
+Signal Comprehension Gate	1. Sequencing rule 排序规则：do not replace the existing wetness indicator — use it as differentiati
+Specific Air Volume	
+TCF Bleaching（全无氯漂白）	1. 等级切换 = 化学品体系变更：TCF 意味着漂白段化学品体系整体改变；一旦体系变更，下游客户（卫材/纸巾）需要重新做产品安全认证。
+TPE Tetraphenylethylene	Tetraphenylethylene（四苯乙烯，TPE）：典型的 AIE 发光体（AIEgen），分子结构呈扭曲的螺旋桨状（twisted propeller-shaped moietie
+Technology Roadmap 2026-2029（技术路线图）	The industry table (from the WKB document Diaper Commercialisation Technology Set…) is used as 
+VO2	VO₂（二氧化钒）：一种易失性（volatile）相变材料（PCM），升温相变、冷却后恢复原态，与非易失性的 GST（GST）互补——VO₂ 适合传感/切换（恢复态），GST 适合存储/显示
+Videoimagescope	A video-based imaging instrument used for experimental validation in absorbent-technology model
+WRV 水保留值	[待补] — no source read here describes how WRV is measured or what it physically represents beyon
+k-ε 湍流模型	引用来源未给出明确定义。库内可确认：k-ε 湍流模型被列为 Absorbent Technology 计算建模章节（Computational Modeling in Absorbent T
+pH 响应材料	定义待补（引用来源未给出明确定义）。The vault's clearest operational statement is the microgel mechanism: "A pH- 
+一氯乙酸 Monochloroacetic Acid	本库未给出一氯乙酸（monochloroacetic acid, MCA）的独立定义；只以其工艺角色出现：它是交联 CMC 路线的醚化试剂——纤维素的羧甲基化（carboxyalkyl 取代
+三相接触线 TPL	
+交联 CMC	
+健康监测 Health Monitoring	定义待补（引用来源未给出明确定义）。
+全息存储 Holographic Storage	In this vault the term is used in the sense of holographic recording — writing a periodic (grat
+动边界 Moving Boundary	Its mathematical structure is the Stefan problem（相变问题）—— equivalent to an ice-melting front — s
+化妆品科学 Cosmetic Science	定义待补（引用来源未给出「化妆品科学」的显式定义）。
+原纤化	1. 成因在莱赛尔自身结构：这种纤维表面没有皮层，结晶度和取向度又高，遇水加摩擦后表皮一层层剥开，长出细小原纤。
+取代度 DS	DS 的理论上限为 3——每个葡萄糖单元有 3 个羟基全部反应（源：Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers）。
+可冲散拭布 Flushable Wipe	定义待补（引用来源未给出明确定义）。
+可穿戴传感器 Wearable Sensor	
+含水率 Moisture Regain	原 cited-by 来源 Fibers and Fibrous Materials 仅在概念清单中把 「含水率 Moisture Regain」 与孔隙率 Porosity、Specifi
+复合材料 Composite	
+复合膜 Composite Membrane	No standalone formal definition is given in the cited sources → 定义待补（引用来源未给出明确定义）. The vault us
+天丝 Tencel	TENCEL™ 是莱赛尔（Lyocell）纤维的商品名：以 NMMO（N-甲基吗啉-N-氧化物）直接溶剂法纺丝的再生纤维素纤维——省去粘胶法的黄化与熟成工序，纤维强度与湿模量超越传统粘胶，但
+导电纱线 Conductive Yarn	
+尾水培养基（非粮生物合成）	1. 原料替代逻辑：传统 BNC 用椰子水、糖等培养基，成本高、周期长；尾水路线用屠宰/食品/消毒废水，原料低价甚至零成本获取。多篇材料口径为综合生产成本降低 80% 以上。
+戊二醛 Glutaraldehyde	在本库语境的柠檬酸 / 环氧氯丙烷等共价交联剂谱系中，戊二醛被列为使纳米纤维素/纤维素成整体网络的一类交联剂（源：快速吸水自膨胀纳米纤维素材料（华东师大）、CN 116731354 A（快速
+承压吸收 AUL	AUL（加压吸水率）is one of the evaluation items for SAP. 定义待补（引用来源未给出明确定义）。中文：SAP 在受压条件下的吸液能力评价指标，与加压吸
+接枝共聚 Graft Copolymer	本库未对接枝共聚给形式化定义；只以其应用形态出现——以纤维素为骨架接枝合成聚合物链：HEC（羟乙基纤维素）可经交联或接枝聚丙烯酰胺（p-PAM）、PMMA、PDA 或聚丙烯酸钠而具备高吸水性
+摩擦电自供电 TENG	摩擦电自供电（TENG，triboelectric nanogenerator）在本库中作为无源（自供电）传感器的重要方向出现——Zhong Lin Wang 综述的自供电传感器对智能纺织品
+时间滞后法 Time Lag Method	It is listed as one of the standard D-measurement families in Crank Ch.10 — 稳态法 / 非稳态法 / 时间滞后法（
+智能包装 Smart Packaging	No formal definition is given in the cited sources → 定义待补（引用来源未给出明确定义）. The vault records "smar
+智能织物 Smart Textile	
+机械脱水 Mechanical Dewatering	本库未给出机械脱水的独立定义；只以其工艺定位出现——在干燥（蒸发）之前用机械方式去除水分；对应的第一红线是「机械脱水优先」：能压掉的水不要去蒸发（源：Handbook of Industri
+柔性电子 Flexible Electronics	定义待补（引用来源未给出明确定义）。
+植物基材料 Plant-Based Material	定义待补（引用来源未给出「植物基材料」的正式定义）。
+植物提取物 Plant Extract	定义待补（引用来源未给出「植物提取物」的显式定义）。
+每克厚度 T／W	
+浊点 Cloud Point	
+深沟槽涤纶 Deep-groove Polyester	No textbook definition sentence exists in the citing sources [待补]. The vault records it as a sp
+温度响应材料	定义待补（引用来源未给出明确定义）。据 Hydrogel-based Superabsorbent Polymers：部分水凝胶具有温度响应性，在特定温度下发生相变，释放或保持水分。（中文：
+湿冷感 Wet-Cool	湿冷感（Wet-Cool）is the physical manifestation of coupled heat–moisture transport —— 它是湿热耦合的物理表现：大量
+湿巾 Wet Wipes	定义待补（引用来源未给出明确定义）。
+湿强剂 Wet-Strength Resin	
+湿态压缩模量	引用来源未给出明确定义。库内可确认：湿态压缩模量是 Absorbent Technology Ch.11（Absorbent Product Testing）登记的吸收芯体相关测试概念之一，
+湿态强度 Wet Strength	定义待补（引用来源未给出明确定义）。
+湿热耦合 Heat-Moisture Coupling	Heat-moisture coupling is the coupled transport of heat and moisture, in which the two cannot b
+湿迁移 Wet Migration	定义待补（引用来源未给出明确定义）。引用页未给出「湿迁移」的独立定义句；相关表述均以扩散数学为母体：Fick 定律（一维/标量形式）被建立为数学公理，并由其导出 Fick 第二定律（扩散 P
+热传递 Heat Transfer	Heat transfer — transport of thermal energy — is treated in the vault not as a standalone subje
+热电现象 Thermoelectric	In this vault, thermoelectricity (TE) is framed as a thermal-management + energy-harvesting fun
+环氧氯丙烷 Epichlorohydrin	定义待补（引用来源未给出明确定义）。
+生物基单体 Bio-based Monomer	A bio-based monomer is a polymerizable monomer derived from renewable feedstock — the library n
+甲醛 Formaldehyde	定义待补（引用来源未给出明确定义）：库内未给出甲醛的化学单句定义。库内实际用法有两条：① 作为受管制的痕量物质（强制国标 + CODEX™ 自愿清单）；② 作为纤维素交联/变色化学中的化学品
+甲醛排放 E1	E1 is cited in the vault as a formaldehyde-emission regulation applicable to UF (urea-formaldeh
+电子纺织品 E-textile	定义待补（引用来源未给出明确定义）。
+皮肤科学 Dermatology	定义待补（引用来源未给出明确定义）。本库中该词条由 Handbook of Cosmetic Science（Barel, van der Strate, Maibach eds., CRC
+硅烷偶联剂 Silane Coupling Agent	A coupling agent is defined (by function) as "a compound capable of chemical reaction with both
+离子强度 Ionic Strength	定义待补（引用来源未给出明确定义）。
+粘合剂 Binder	
+结构性常数 K	Structural constant K：在高蓬松非织造布吸液速率模型 Q = (π·γ·r·cosθ·T)/(K·η·W)（Eq. 11）中，表征实际毛细网络偏离理想 Washburn 
+聚合物刷 Polymer Brush	Responsiveness comes from crowding, not from the single chain: 「An inherent feature of a polyme
+自-sizing Self-sizing	自-sizing（self-sizing）是一种老化失效模式（ageing failure mode）：未去除的树脂袋（unremoved resin pockets）缓慢挥发并随后沉积，在
+自由体积 Free Volume	
+茂金属聚丙烯	1. 单活性中心的均匀性红利。传统 Ziegler-Natta 催化剂是多活性中心，共聚单体会在链间分布不均；茂金属单活性中心使共聚单体分布更均匀，因而在达到同样熔点降幅时，结晶完善度的破坏
+蒙脱土 Montmorillonite	Montmorillonite (MMT) is used in the vault as an inorganic nanolayered silicate clay serving tw
+薄膜压力分布传感（Pressure-Sensing Film）	1. 分布式而非单点：传感单元按阵列排布，输出二维压力分布图与随时间的压力曲线，用于看「哪里压、压多久、怎么变」——这是贴合/舒适度问题的关键维度，单点力值无法给出。
+藻酸盐 Alginate	定义待补（引用来源未给出明确定义）。库内口径：天然聚合物类 SAP 材料之一，在 SAP 综述的天然聚合物性能对比表中作为独立材料类别列出（源：Research Advances in Su
+虚拟原型 Virtual Prototyping	Physics-based computer modelling used in place of physical prototypes to design and study absor
+螺噁嗪 Spiroxazine	定义待补（引用来源未给出明确定义）。
+解键剂 Debonding Agent	原 cited-by 来源 The Role of Surfactants 仅在其概念清单中把 「解键剂 Debonding Agent」 列为条目之一，与 表面活性剂 Surfactant
+超分子 Host-Guest Chemistry	本库未对 host-guest（主客体）化学给出形式化定义；相关来源中它只以其应用形态出现：超分子主客体（host-guest）调控指用主体分子对客体（金属离子 / 分子）的选择性结合来调节
+辐射冷却材料 Radiation Cooling	
+过滤材料 Filter Material	定义待补（引用来源未给出「过滤材料」的正式定义）。
+银纳米线 AgNW	Silver Nanowire（银纳米线）：一维银纳米导体，用作柔性透明/可拉伸电极的导电网络材料。来源页未给出独立定义，仅在柔性电极工艺中记载其用法。[定义待补（引用来源未给出明确定义）]
+防水透气 Waterproof Breathable	The vault gives the operating principle, not a textbook definition: waterproof-breathable pores
+香豆素 Coumarin	Coumarin（香豆素）：一类荧光染料/增白剂的母体发色环系。来源页以"香豆素荧光染料"身份在荧光章节出现，未给出化学结构定义。[定义待补（引用来源未给出明确定义）]
+驻极体 Electret	定义待补（引用来源未给出明确定义）。（Neither cited page states a formal definition of "electret"; both treat it a

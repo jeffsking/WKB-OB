@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "胶乳 Latex"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [latex, binder, nonwoven-bonding, adhesive, hygiene]
@@ -51,3 +51,5 @@ tags: [latex, binder, nonwoven-bonding, adhesive, hygiene]
 - [[压敏胶 PSA]]
 
 > 🔗 治理合并（2026-09-30）：[[胶乳胶黏剂 Latex]] 已并入本页（指针页保留，原文存档于指针页）。同物两角度（胶黏剂类别 vs 粘合介质），并入来源更全页
+- [[The Role of Surfactants]]
+

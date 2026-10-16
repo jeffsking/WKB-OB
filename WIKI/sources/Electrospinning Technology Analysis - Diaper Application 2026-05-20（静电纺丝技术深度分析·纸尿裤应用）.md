@@ -248,3 +248,7 @@ pages_linked: ["[[IPC BCC OI Portfolio（开放创新项目组合）]]", "[[Elec
 8. **"前次报告"（S-S 双组分弹性纳米纤维）** —— **不在本件内**，无从核验。
 9. **清华/东华/浙大** 电纺研究组为源文点名，**本页不作合作建议**。
 10. **PAN 标注"较少直接用于纸尿裤"** 但仍列入推荐材料表 —— 源文自身口径**略有张力**，**照录不调和**。
+
+## 关联页面
+
+- [[ADL（导流层）]]　[[Electrospinning（静电纺丝）]]　[[Elmarco（Elmarco 纳米纤维设备）]]　[[Gel Blocking（凝胶阻塞）]]　[[PET（聚酯）]]　[[PLA 玉米纤维]]　[[SAP（高吸水树脂）]]　[[SBS 弹性体]]　[[Stimuli-Responsive PCM]]　[[TPU]]　[[Topsheet（面层）]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]

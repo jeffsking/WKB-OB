@@ -141,3 +141,37 @@ tags: [延江, Yanjan, ES纤维, 面层, Liner, PE/PET, COCO V6]
 
 > **名称口径**：本批中文版原料清单中，Liner 的「90% 2D Bico PE/PET（延江提供）」与本批英文材料的 "Yanjan" 指同一方——**Yanjan = 延江**。
 > 🔴 **manual_review（2026-09-29）**：本页所载**试产供应商分工与交付站点**属内部供应关系信息（AGENTS.md §5 边界）。页面按内部追溯保留；对外引用前须人工确认。
+
+## Related Sources 关联来源
+
+- [[2026年主流复合无纺布种类、工艺特性及应用场景]]
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]]
+- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[COCO_V6_全Code关键参数总览_vsControl2_20261007.png]]
+- [[COCO_V6_全Code关键参数总览_vsControl2_20261010.png]]
+- [[COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png]]
+- [[COCO_V6_全Code关键参数横向条形对比_vsControl2_20261010.png]]
+- [[COCO_V6_第三轮trial_两组对照分析_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261006]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010.html]]
+- [[Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[EM Supplier Meeting Follow-ups]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Nonwoven Supplier Capability & 3D Embossing Platform Review（标准录音 2）]]
+- [[V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）]]
+- [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]]
+- [[福建闽瑞 vs 厦门延江 产品定位对比]]
+

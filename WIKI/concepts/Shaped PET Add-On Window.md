@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Shaped PET Add-On Window"
-domain: [卫材研发, 配方设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [添加量, 异形纤维, 面层, 配方窗口, 粘合完整性]
@@ -58,3 +58,12 @@ aliases: ["Shaped PET Add-On Window 异形 PET 添加窗口"]
 - [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md`
 - [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md`
 - [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]]
+- [[Pentagram-Free Shaped PET Alternatives for 25 gsm Diaper Topsheet]]
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]
+- [[异型截面涤纶纤维卫生用品生产商清单（11 家·产能与应用确认）]]

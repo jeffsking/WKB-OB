@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "表面活性剂 Surfactant"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [surfactant, wetting-agent, fluff-pulp, cnc-cmc, topsheet-finish, absorbency]

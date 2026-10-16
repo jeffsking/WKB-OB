@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Odor Control Technology Landscape（异味控制技术图谱）"
-domain: [卫材研发, 异味控制, 消臭]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [异味控制, odor control, 消臭, 氨气, 微胶囊, SAP]

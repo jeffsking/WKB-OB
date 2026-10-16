@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "活性炭除臭（DARCO）"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [odour-control, activated-carbon, PAC, DARCO, Cabot, adsorption, hygiene]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "底膜 Backsheet"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [backsheet, breathable-film, microporous-film, film-free, SMMMS, hydrohead, WVTR, barrier, hygiene-materials]
@@ -76,3 +76,6 @@ tags: [backsheet, breathable-film, microporous-film, film-free, SMMMS, hydrohead
 - 结构 / 机理: [[SMS复合结构]]、[[Meltblown Nonwoven（熔喷非织造布）]]、[[纺粘 Spunbond]]、[[Formation-Limited Barrier（阻隔的成形受限机理）]]、[[层压 Lamination]]、[[Cassie-Baxter Equation]]、[[接触角 Contact Angle]]、[[Young's Equation]]
 - 专利与实体: [[CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）]]、[[US11612524B2 Breathable Diaper Backsheet (Colormasters)]]、[[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]、[[CN 111890767 A（一种超薄聚乙烯微孔透气膜及其制备方法）]]、[[RKW SE]]
 - 测试与关联功能: [[WVTR 测试口径（失重法 vs 增重法）]]、[[mocon底膜透气率测试.docx]]、[[回渗 Rewet]]、[[Light-Scattering Masking Wetness Indicator（光散射遮蔽型尿湿指示）]]、[[Wetness Indicator Glue]]、[[等离子处理 Plasma Treatment]]、[[亲水整理 Hydrophilic Finish]]、[[吸收芯体]]、[[Absorbent Technology]]
+- [[与华峰集团研发及合作会议纪要]]
+- [[紫华公司与 KC 团队技术交流会议]]
+

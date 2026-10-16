@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "胶黏剂 Adhesive"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [adhesive, interphase, viscoelasticity, structural-bonding, hygiene-adhesive]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Void Volume & Pore Space Modulus（孔隙体积与孔隙空间模量）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-29
 tags: [孔隙结构, 厚度, 压缩, 建模, STM-00429, TTM-00038]
@@ -67,3 +67,13 @@ tags: [孔隙结构, 厚度, 压缩, 建模, STM-00429, TTM-00038]
 - [[STM-00429 Void Volume as a Function of Saturation（方法正文）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 VOID VOLUME AS A FUNCTION OF SATURATION.pdf.md`
 - [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/STM-00429 Void Volume Template.xlsx.md`
 - [[TTM-00038 Compression Test for Absorbent（吸收体压缩测试）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/TTM-00038 Compression Test for Absorbent .pdf.md`
+
+## Related Sources 关联来源
+
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]
+- [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]]
+- [[TTM-00038 Compression Test for Absorbent（吸收体压缩测试）]]
+- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]

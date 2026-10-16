@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -117,3 +118,7 @@ GO / CONDITIONAL GO / HOLD / NO-GO
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/Template/OI_Project_Profile_OnePager.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/Template/OI_Project_Profile_OnePager.pptx.md`
+
+## 关联页面
+
+- [[APAC 卫生纸产品矩阵（2017  workshop 预研）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[IPC BCC（K-C Baby & Child Care 材料开发团队）]]　[[Niso]]　[[WVTR 测试口径（失重法 vs 增重法）]]

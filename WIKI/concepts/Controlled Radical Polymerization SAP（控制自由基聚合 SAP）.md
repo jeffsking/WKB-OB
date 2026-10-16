@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Controlled Radical Polymerization SAP（控制自由基聚合 SAP）"
-domain: [卫材研发, SAP 机理]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, CRP, 控制自由基聚合, 有机碘, 网目均一化, 三洋化成]
@@ -39,3 +39,9 @@ tags: [SAP, CRP, 控制自由基聚合, 有机碘, 网目均一化, 三洋化成
 ## Sources 来源
 
 - [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Polymer Reaction Engineering]]
+- [[Principles of Polymerization]]
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]

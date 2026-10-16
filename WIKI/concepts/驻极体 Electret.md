@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "驻极体 Electret"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [electret, nonwoven, filtration, corona-charging, pp-pe, meltblown, es-fiber]

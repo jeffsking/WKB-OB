@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Hydroentangled Nonwoven Carrier for SAP Immobilization（水刺复合 SAP 固定载体）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [水刺, hydroentanglement, 梳理短纤, carded staple fibre, SMS, SMMS, SAP 固定, 无木浆, 孔径分级]
@@ -54,3 +54,7 @@ aliases: ["Nonwoven Carrier for SAP", "Hydroentangled Carrier", "水刺复合 SA
 ## Sources 来源
 
 - [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md`
+
+## Related Sources 关联来源
+
+- [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]

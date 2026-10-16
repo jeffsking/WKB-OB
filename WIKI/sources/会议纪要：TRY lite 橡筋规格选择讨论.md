@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -224,3 +225,7 @@ Outer cover（OC / face）：中国区用 TBCW，彩山/巴西用 15 克；15 �
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/会议纪要：TRY lite 橡筋规格选择讨论.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/会议纪要：TRY lite 橡筋规格选择讨论.md`
+
+## 关联页面
+
+- [[OEKO-TEX]]　[[PTMEG]]

@@ -59,3 +59,20 @@ aliases: ["SMS 复合结构（Spunbond-Meltblown-Spunbond）"]
 > 🔗 治理合并（2026-09-30）：[[SMS 纺粘熔喷复合]] 已并入本页（指针页保留，原文存档于指针页）。SMS 同主题三页收敛（本页自标重叠待裁定）
 
 > 🔗 治理合并（2026-09-30）：[[SMS 复合无纺布]] 已并入本页（指针页保留，原文存档于指针页）。SMS 同主题三页收敛
+
+## Related Sources 关联来源
+
+- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Absorbent Technology]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[EP2529717A1 Disposable Absorbent Article with Excretion-Visible Core (Unicharm)]]
+- [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[Laser-Assisted Meltblown Film-Free Backsheet（激光辅助熔喷无膜背层）]]
+- [[Nonwovens in Absorbent Materials]]
+- [[Polymer-laid web formation]]
+- [[US7195621B2 Disposable Garment Comprising Meltblown Nonwoven Backsheet (P&G)]]
+- [[无纺布-五大工艺论剑]]
+- [[无纺布工艺与材料实验室]]
+- [[纺粘无纺布]]

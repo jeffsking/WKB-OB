@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Skin Health Treatment on Nonwoven（无纺布护肤处理）"
-domain: [卫材研发, 功能整理]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [皮肤健康, ZnO, pH调节, 凡士林, 益生, OTC专论, MoCRA, 法规]
@@ -135,3 +135,11 @@ aliases: ["护肤处理剂", "Skin Health Treatment", "皮肤健康处理"]
 ## 来源
 
 - [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）]]
+- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]
+- [[Manufactured Fibre Technology Ch07 Spin Finishes]]

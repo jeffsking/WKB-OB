@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Retention Capacity Test（滞留能力测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [Retention, 滞留能力, STM-00033, 保液, 芯体]
@@ -51,3 +51,15 @@ tags: [Retention, 滞留能力, STM-00033, 保液, 芯体]
 
 > ✅ 验证（2026-09-29，来源上述两份）：本页原「待补」的滞留能力正式口径已确认——方法编号 **STM-00033**，全称明写压力为 **3.45 kPa（0.5 PSI）**；南京南厂 WI-56234 的滞留能力法与之一致，写作 **14 ± 1 英寸水柱**（≈ 3.4 kPa），并规定浸泡 20 min ± 15 s、滴水 1 min ± 15 s、测试 5 min ± 15 s。两处表述**互相印证 0.5 psi ≈ 3.4–3.45 kPa 这一换算锚点**。滞留能力分级：**绝对滞留（g）= 湿重 − 干重**；**相对滞留（g/g）= 绝对滞留 / 干重**。
 - [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/早产儿测试方法.docx.md`
+
+## Related Sources 关联来源
+
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]]
+- [[Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）]]
+- [[STM-00033 滞留能力.docx]]
+- [[STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）]]
+- [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]]
+- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]

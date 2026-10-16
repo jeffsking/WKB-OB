@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -155,3 +156,7 @@ GreenPla / 日本生物降解塑料协会 / 符合日本本土的生物降解标
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/《PBAT、PLA、PBS、PHA、PPC——五张“身份证”，一次认全》.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/《PBAT、PLA、PBS、PHA、PPC——五张“身份证”，一次认全》.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[PGA（聚乙醇酸）]]　[[PLA 玉米纤维]]　[[PPC-P（聚碳酸亚丙酯-苯酐三元共聚物）]]

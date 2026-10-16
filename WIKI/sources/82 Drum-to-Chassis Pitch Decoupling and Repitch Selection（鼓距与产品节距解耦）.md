@@ -16,7 +16,7 @@ key_claims:
   - "反向校核靶：要让 Open NB 进入 cut-and-slip 窗口需 C_NB ≥ 407.7 mm，即 open 股间间隙 k_open ≥ 127.7 mm"
   - "芯片废切 chip trim 规则：端区 E > 80 mm 则切回 60 mm（NB 切 55.8≈56 mm、S 切 21.8≈22 mm）；NB 的硬冲突是「芯长 > 产品节距」（395.8 > 390 mm），剪到 340 mm 后才放得进"
   - "与 G1 的耦合：ups 加多 → 鼓距减小 → 端区减小（省包覆）但 ratio 减小；ratio 下界构成 ups 选择的隐藏约束"
-pages_linked: ["[[Repitch（鼓距与产品节距解耦）]]", "[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]", "[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]", "[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]", "[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]"]
+pages_linked: ["[[Repitch（鼓距与产品节距解耦）]]", "[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]", "[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]", "[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]", "[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]"]
 ---
 
 # 82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）
@@ -65,7 +65,7 @@ pages_linked: ["[[Repitch（鼓距与产品节距解耦）]]", "[[Patterned SAP 
 ## 关联页面
 
 - 概念：[[Repitch（鼓距与产品节距解耦）]]、[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[Core Channel Pattern（芯体通道花型设计）]]
-- 源：[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]、[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]、[[03_卫材产线约束常量表（准入校验工具）]]
+- 源：[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]、[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]、[[80 高速pattern芯体成型工程总纲（导航·速查·口径·分歧·验收）]]、[[03_卫材产线约束常量表（准入校验工具）]]
 - 参考标准：[[GB-T 28004.1-2021（纸尿裤国标）]]
 
 ## 原文

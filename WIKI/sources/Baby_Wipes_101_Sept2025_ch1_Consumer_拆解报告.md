@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -131,3 +132,7 @@ The first-listed item on the consumer purchase-need list for baby wipes; restate
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch1_Consumer_拆解报告.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch1_Consumer_拆解报告.md.md`
+
+## 关联页面
+
+- [[IPC BCC OI Portfolio（开放创新项目组合）]]　[[PET（聚酯）]]　[[SUPER ABSORBENT RESIN]]

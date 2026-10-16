@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "硅烷偶联剂 Silane Coupling Agent"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [偶联剂, 硅烷, 粘合, 耐水解, 卫材胶黏, coupling-agent]

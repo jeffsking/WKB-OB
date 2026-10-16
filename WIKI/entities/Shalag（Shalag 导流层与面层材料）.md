@@ -53,3 +53,18 @@ tags: [导流层, surge, CT5, CT8, CT9, 孔径分布, 开孔面层]
 - 来源页 [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[2025.03.26 - Learning Cycle Update]]
+- [[ADT Rewet Update 2026-03-31（回渗进展 ADT 版）]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[Rewet Learning Plan（回渗学习计划工作表）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[War on Rewet Update 2026-01-21（Depend · Poise · Huggies 三条战线基准与假设台账）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]
+- [[_01 Absorbent System - Overview]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "SAM Distribution Test（SAM 分布膨胀测试）"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [test-method, SAM, SAP, core, distribution, bromocresol]

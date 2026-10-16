@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "渗透率 Permeability"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [permeability, 渗透率, 达西定律, Kozeny-Carman, 凝胶阻塞, 吸收芯体]

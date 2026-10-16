@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -44,3 +45,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/Absorbent Technology_master_index.csv.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/Absorbent Technology_master_index.csv.md`
+
+## 关联页面
+
+- [[ADL（导流层）]]　[[CFD 计算流体力学]]　[[Gel Blocking（凝胶阻塞）]]　[[Grafted Cellulose and Starch]]　[[HEC 羟乙基纤维素]]　[[PAA 聚丙烯酸]]　[[SAP（高吸水树脂）]]　[[Washburn Equation]]　[[Work of Adhesion]]　[[Young's Equation]]　[[交联 CMC]]　[[承压吸收 AUL]]

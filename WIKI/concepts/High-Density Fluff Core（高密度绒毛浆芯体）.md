@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "High-Density Fluff Core（高密度绒毛浆芯体）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [绒毛浆, 高密度, 卫生巾, 轻失禁, airlaid替代]
@@ -55,3 +55,8 @@ tags: [绒毛浆, 高密度, 卫生巾, 轻失禁, airlaid替代]
 ## 来源
 
 - [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/Innovation 2026 - Overall_with Detials.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[TTM-00512 绒毛完整性.doc]]

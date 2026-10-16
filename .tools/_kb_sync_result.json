@@ -1,20 +1,16 @@
 {
- "at": "2026-10-12T18:06:36+08:00",
- "written": 1,
- "skipped": 1,
+ "at": "2026-10-15T18:13:34+08:00",
+ "written": 0,
+ "skipped": 2,
  "failed": 0,
  "log": [
   {
-   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515332654669274",
-   "action": "written",
-   "path": "RAW_FULL/ima_sync/个人知识库/WKB/会议纪要：2026-10-12.md",
-   "status": "ok"
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_2d1e817902369759b52479695a1540c7",
+   "action": "already-done-or-unplanned"
   },
   {
-   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_6467148e3f02d889a14e11e463913d65",
-   "action": "skip-terminal",
-   "path": "RAW_FULL/ima_sync/个人知识库/WKB/芯吸效应：水为什么自己往细缝里钻.md",
-   "status": "ok"
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a13aff0bc2744e97852338ed77667d001a693ee6c0644e",
+   "action": "already-done-or-unplanned"
   }
  ]
 }

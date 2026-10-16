@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Styrenic Block Copolymer Hot Melt（SIS-SBS 苯乙烯嵌段共聚物热熔胶）"
-domain: [卫材研发, 胶黏剂]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [SIS, SBS, 苯乙烯嵌段共聚物, 热熔胶, 增粘树脂, SAFT, 多线结构粘接]
@@ -56,3 +56,8 @@ aliases: ["SIS Hot Melt", "SBS Hot Melt", "Styrenic Block Copolymer HM", "苯乙
 ## Sources 来源
 
 - [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/16_模块三：聚烯烃类热熔胶_US5266394A_Hot_melt_adhesive_compositions_(block_co.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]

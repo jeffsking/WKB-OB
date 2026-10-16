@@ -43,3 +43,7 @@ tags: [纳米纤维素, 生物基高吸水体, 氧化淀粉, CMC, 油棕树干, 
 ## Sources 来源
 
 - [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/KR102205294B1.pdf.md`
+
+## Related Sources 关联来源
+
+- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]

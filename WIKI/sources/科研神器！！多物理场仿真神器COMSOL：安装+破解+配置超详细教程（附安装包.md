@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -76,3 +77,7 @@ COMSOL Multiphysics是功能强大的多物理场仿真软件，基于有限元�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/科研神器！！多物理场仿真神器COMSOL：安装+破解+配置超详细教程（附安装包.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/科研神器！！多物理场仿真神器COMSOL：安装+破解+配置超详细教程（附安装包.md`
+
+## 关联页面
+
+- [[有限元法]]

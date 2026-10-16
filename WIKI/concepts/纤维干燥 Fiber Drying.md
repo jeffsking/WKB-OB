@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "纤维干燥 Fiber Drying"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [drying, fiber, fluff-pulp, hornification, bound-water, nonwoven]

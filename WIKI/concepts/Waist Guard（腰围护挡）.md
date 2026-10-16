@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Waist Guard（腰围护挡）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [腰围护挡, 爆漏, 稀便, 裤型纸尿裤, 口袋, 弹性解耦]
@@ -65,3 +65,13 @@ aliases: ["Waist Guard", "腰围护挡", "waist guard pocket"]
 - [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-2_Pant-type_absorbent_article_with_waist_guard.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利申请公开文本的技术摘录**，不构成侵权或 FTO 判断；申请公开 ≠ 已授权。
+
+## Related Sources 关联来源
+
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[CN 117379257 A（具有护脐功能的超高腰婴儿纸尿裤及其生产工艺·江西安秀）]]
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[CN 210932251 U（一种透气弹性腰围的纸尿裤·广州汉氏卫生用品）]]
+- [[EP1581159B1 Method for Producing Diaper Pants（弹性片材）]]
+- [[STM-00061 折页渗漏.docx]]
+- [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]]

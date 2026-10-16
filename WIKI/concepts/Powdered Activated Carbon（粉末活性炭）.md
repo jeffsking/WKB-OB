@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Powdered Activated Carbon（粉末活性炭）"
-domain: [采购, 气味管理材料]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [PAC, 活性炭, activated-carbon, odour-control, 吸附]
@@ -43,3 +43,8 @@ tags: [PAC, 活性炭, activated-carbon, odour-control, 吸附]
 ## Sources 来源
 
 - [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/21_DARCO® KB-G Powdered Activated Carbon (TDS).pdf.md`
+
+## Related Sources 关联来源
+
+- [[Cabot DARCO KB-G Powdered Activated Carbon (TDS)]]
+- [[Cabot DARCO KB-G TDS（v3 归档同名件）]]

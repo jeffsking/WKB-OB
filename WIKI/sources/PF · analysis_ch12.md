@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -89,3 +90,7 @@ Ch.12 is the "how do we verify it" companion to Ch.8 (modifications), Ch.9 (pack
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch12.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · analysis_ch12.md.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[Topsheet（面层）]]　[[WVTR 测试口径（失重法 vs 增重法）]]

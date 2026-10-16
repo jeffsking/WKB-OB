@@ -146,6 +146,8 @@ python .tools/wkb_link_guard.py report             # 汇总最新一次 plan/app
 
 ## 四、待王总裁决的 3 个问题
 
+> **✅ 2026-10-12 已裁决并落地**：① **seed 只出清单**（`apply` 默认不建页，须显式 `--mode=seed/all`）；② **先建工具**、断链另开批次；③ 已核实并修复（见 §六）。落地报告见 `LINK_GUARD_REPORT_2026-10-12.md`。
+
 1. **seed 建页纪律**：沿用第 2 代「自动建 seed」，还是第 3 代「只出清单、人工裁决后建」？（我倾向：**默认只出清单**，`apply --mode=seed` 需显式指定才建。）
 2. **127 条现存断链**：本次是否一并处理？还是先只建工具、断链另行开批次？
 3. **front matter FAIL —— ✅ 已核实完毕（见 §六）**：`knowledge_update_status` **不是过时字段**，`verify_wiki.py` 口径正确。根因是**生成器漏写**（`kb_compiler.py` / `_compile_extractive.py`）+ **AGENTS §2.3 示例漏列**。待裁决：**补齐** 还是 **废弃**。

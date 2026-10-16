@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "羧甲基纤维素 CMC"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [cellulose, CMC, superabsorbent, crosslinking, bio-based, SAP]
@@ -49,7 +49,6 @@ tags: [cellulose, CMC, superabsorbent, crosslinking, bio-based, SAP]
 ## Related Sources 关联来源
 
 - [[Cross-linked Cellulose and Its Derivatives]]
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联高吸水体）]]
 - [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]
 - [[CMC-Na CA CNF SAP original article.pdf]]
@@ -58,3 +57,5 @@ tags: [cellulose, CMC, superabsorbent, crosslinking, bio-based, SAP]
 - [[SAF Core Application Feasibility Assessment 2026-07（SAF 芯体应用可行性评估）]]
 - [[交联 CMC]]
 - [[蒙脱土 Montmorillonite]]
+- [[Cross-linked Cellulose and Derivatives]]
+

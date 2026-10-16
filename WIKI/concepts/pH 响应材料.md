@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "pH 响应材料"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [concept, pH-responsive, stimuli-responsive, microgel, polyelectrolyte, wetness-indication, urine-ph]

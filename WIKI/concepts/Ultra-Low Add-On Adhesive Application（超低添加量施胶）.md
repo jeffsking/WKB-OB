@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Ultra-Low Add-On Adhesive Application（超低添加量施胶）"
-domain: [卫材研发, 胶黏剂, 工艺工程]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [热熔胶, UFD, 降本, 喷嘴, MFI, 添加量]
@@ -134,3 +134,12 @@ aliases: ["超低添加量胶线技术", "Ultra-low add-on", "Low add-on adhesiv
 与卫材最相关的一条：**温/湿响应结构胶的理想四阶段**——[生产] 强粘接 ｜ [存储] 稳定 ｜ [穿着-干态] 维持 ｜ **[穿着-尿湿] 粘接力自适应↑增强（防止结构松散导致侧漏）**。技术路径中**湿度响应（PVA/PVP/PEG 接枝，吸湿溶胀 → 接触面积↑）可行性最高（⭐⭐⭐⭐，近期）**，温度响应（SMP）为中期 3–5 年。
 
 > 📌 **概念外延提示**：若该路径成立，**「上胶量」将不再是静态指标——而是随使用阶段变化的函数**。届时本页的「超低添加量」判据需**分状态定义**（干态最低 vs 湿态所需）。**此为前瞻登记，非既有结论。**
+
+## Related Sources 关联来源
+
+- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]
+- [[Fameccanica Innovations 2026（婴儿·巾·成人护理技术与创新总览）]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]

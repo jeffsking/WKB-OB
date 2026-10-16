@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PCM-Free Thermoregulation"
-domain: [卫材研发, 材料科学, 舒适性]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [PCM, 相变, BNC, 调温, 隔热, 结构补偿, 成本]
@@ -140,3 +140,11 @@ A bacterial-nanocellulose (BNC) nanofiber mat suppresses every conductive/radiat
 
 - [[PCM-Free Thermoregulation with BNC Nanofiber Network]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md`
 - [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[GHC 福建冠泓·冠和 公司介绍（KC 2026）]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Nonwoven Lamination"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [lamination, nonwoven, adhesion, hot-melt-adhesive, coupling-agent, diffusion-theory, wet-wipe, backsheet]

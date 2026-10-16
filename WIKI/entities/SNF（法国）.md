@@ -35,3 +35,8 @@ tags: [SNF, FloSorb, DryTech, 高吸水树脂, SAP, 法国]
 ## 来源
 
 - [[SNF FloSorb & DryTech Superabsorbent（企业介绍）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/06_FloSorb _ DryTech Superabsorbent — SNF.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Absorbent Technology]]
+- [[SNF FloSorb & DryTech Superabsorbent（企业介绍）]]

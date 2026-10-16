@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "COCO芯体平台"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [COCO, 芯体平台, V6, V7, 分区密度]
@@ -234,3 +234,37 @@ aliases: ["COCO 芯体平台（COCO V6 / V7）"]
 - **Origami 折纸芯体（Zheng Yu 供应商）暂停**：IP 顾虑 + 资源让位于 V6 提速；两方案上市间隔仅约一年故二选一。
 
 > ⚠️ 本节为追加记录，未修改上方任何结论；转写数字（如 V6 上市年份、线速）待人工核实。
+
+## Related Sources 关联来源
+
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[IMA 知识库索引（2026-09-04）]]
+- [[IMA 知识库索引（2026-09-25）]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]]
+- [[IPC与FBI团队创新合作计划]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[OI项目清单与优先级]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]
+- [[REL for 100% SAP Core（全SAP芯体增强层设计）]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]
+- [[SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+

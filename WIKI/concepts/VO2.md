@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "VO2"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [VO2, phase-change-material, thermochromic, IR, smart-materials]

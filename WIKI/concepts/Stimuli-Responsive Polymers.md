@@ -2,10 +2,22 @@
 type: concept
 title: "Stimuli-Responsive Polymers"
 domain: hygiene-materials
-status: growing
-updated: 2026-09-30
+status: merged
+updated: 2026-10-12
 tags: [smart-polymers, stimuli-responsive, pnipaam, polymer-brush, lbl, phase-transition]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：与 [[刺激响应聚合物 Stimuli-Responsive Polymer]] 同主题，已并入。
+> 入链已全量改写；本页保留为**指针页**（未删除，原文存档于下方）。
+
+本主题正文见：
+- [[刺激响应聚合物 Stimuli-Responsive Polymer]]
+
+
+---
+
+## 📦 原始内容存档（合并前，2026-10-12）
+
 
 # Stimuli-Responsive Polymers
 

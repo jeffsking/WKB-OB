@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "APAC 卫生纸产品矩阵（2017  workshop 预研）"
-domain: hygiene-materials
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-30
 tags: [bath-tissue, APAC, product-matrix, cost-lever, open-innovation, 卫生纸, 产品矩阵]
@@ -53,3 +53,8 @@ tags: [bath-tissue, APAC, product-matrix, cost-lever, open-innovation, 卫生纸
 - [[Pre-work BFS APAC Workshop 2017 (Product Metrix)_BL_VerC.xlsx]]
 - 相关概念（区域口径）：[[Intake System（摄入系统）]]
 - 同类实体：[[Kimberly-Clark（金佰利）]]
+- [[OI_Project_Profile_OnePager]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[output]]
+

@@ -41,3 +41,7 @@ tags: [Tinfulong, 天富龙, Fuweier, 富威尔, CoPET, ES纤维, 低熔点纤�
 ## Sources 来源
 
 - [[天富龙集团与扬州富威尔公司简介（Tinfulong／Fuweier 2025-05-10）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/天富龙集团-扬州富威尔简介20250510.pdf.md`
+
+## Related Sources 关联来源
+
+- [[天富龙集团与扬州富威尔公司简介（Tinfulong／Fuweier 2025-05-10）]]

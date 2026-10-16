@@ -1,11 +1,13 @@
 ---
 type: concept
 title: "Core Channel Pattern（芯体通道花型设计）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [芯体, 花型, channel, 分区密度, SAP, 超声波]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：[[芯体通道花型设计]] 已并入本页（同主题重复），入链已改写。
 
 # Core Channel Pattern（芯体通道花型设计）
 
@@ -191,3 +193,35 @@ tags: [芯体, 花型, channel, 分区密度, SAP, 超声波]
 > ⚠️ 口径：品牌级「三条吸收通道」「5D 蜂窝」「X 单向导流」等均为**公开宣传口径**，未见对比测试数据。
 >
 > 追加 `[待验证]`：通道深度/宽度与稀便黏度的匹配关系；基材自带通道（干法纸）与压花通道在同一芯体中的叠加效应。
+
+## Related Sources 关联来源
+
+- [[2D Absorption Model v11 Simulation Report（二维吸收模型 v11 仿真报告）]]
+- [[2D Absorption Model v8 Simulation Report（二维吸收模型 v8 仿真报告）]]
+- [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]
+- [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]
+- [[84 Sleeve 工程规格与换装防错设计]]
+- [[85 双层pattern芯体套准工程规格]]
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]
+- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[Co-Development Tooling Design Review — Kirigami Pattern, Pin-Hole Module & Carbide Guidance（合作开发新模具设计）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]]
+- [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]
+- [[SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）]]
+- [[SAP GBP Improvement & Surface Crosslinking Process Review（GDP提升工艺探讨）]]
+- [[SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）]]
+- [[V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）]]
+- [[engineering proposal.pptx]]
+- [[纸尿裤的核心结构及市场主流方向]]
+- [[芯体花型设计评审会（录音纪要 20260724）]]
+- [[诺尔集团供应商拜访会议纪要_含流程图.docx]]
+

@@ -1,0 +1,354 @@
+{
+ "root": [
+  {
+   "media_id": "folder_7446577715112439",
+   "title": "Archives",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 99
+  },
+  {
+   "media_id": "folder_7446577555702299",
+   "title": "Resources",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 99
+  },
+  {
+   "media_id": "folder_7446577501179608",
+   "title": "Areas",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 99
+  },
+  {
+   "media_id": "folder_7446577425704361",
+   "title": "Projects",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 99
+  },
+  {
+   "media_id": "folder_7446576150638053",
+   "title": "Inbox",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 99
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515692005855171",
+   "title": "莱博药妆（上海直纳）公司介绍及研发合作洽谈",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515666085054555",
+   "title": "会议主题：聚烯烃胶（Polyolefin Hotmelt）应...",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515557066707691",
+   "title": "会议纪要：NIFO visit - 可视化材料技术在纸尿裤/...",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515618626510038",
+   "title": "会议纪要：益生菌/益生元项目——复配体系与丝网印刷工艺讨论",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bcd67769122b8fabfd29b6a56d5b3f05001a693ee6c0644e",
+   "title": "REL增强层专项对比分析_6样品benchmark_20260924.md",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 7
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515332654669274",
+   "title": "会议纪要：2026-10-12",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_6467148e3f02d889a14e11e463913d65",
+   "title": "芯吸效应：水为什么自己往细缝里钻",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_01a12af49e227d64bf4797083caa7b2b001a693ee6c0644e",
+   "title": "NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012.docx",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 3
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_01a12af47e4e78239acf8b94d561924e001a693ee6c0644e",
+   "title": "NIFO参观速查卡_一页纸.pdf",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 1
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_d9dcf0d31f671856099892cf1f682987",
+   "title": "涤纶市场研究与趋势研判",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_eb9251522cac0db9e906044b62d522ae",
+   "title": "Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_00ed849696dffe9a0b111601f6b798b7",
+   "title": "可视化智能标签合集",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_b9104314bd04e8d8f063bc0102529c6f",
+   "title": "Leafclock焕新标，给健康多一份叮嘱（案例合集一）",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514131720577247",
+   "title": "印刷技术总览（技术谱系）",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "ppt_3867e2b60070d7dc3f413086d0b0036e_656ed29530d9d409aaedf9f6c6b14a05001a693ee6c0644e",
+   "title": "output.pptx",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 4
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_2672a1fb03bcae8f8bb60db25b300084",
+   "title": "温敏水凝胶负载AgNPs纳米银缓释体系定制",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_6def89bf910e2eebee01a9fe36f38a47001a693ee6c0644e",
+   "title": "IMA知识库索引_20261009.md",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 7
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514166931751435",
+   "title": "OI团队会议-2026-2027项目与供应链建设",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a11eb39fbc7d628e60ff5f2a33a64e001a693ee6c0644e",
+   "title": "Coco V6项目与供应链建设",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 15
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514127706628285",
+   "title": "会议纪要：TRY lite 橡筋规格选择讨论",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7514128608427948",
+   "title": "会议纪要：OI 十月供应商考察与项目推进安排",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a11e2b831176ccacdf457d7f2f36eb001a693ee6c0644e",
+   "title": "橡筋规格选择讨论",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 15
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7513847174797816",
+   "title": "COCO V6 测试参数分级逻辑",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_93d03a7d289c8056eac3e2285e459cd4",
+   "title": "又黏又弹：一文看懂高分子黏弹性的逻辑",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1ce06a02c976dc99f6b85746dc484877001a693ee6c0644e",
+   "title": "COCO_V6_第三轮trial_两组对照分析报告_20261006.md",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 7
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7507092344697181",
+   "title": "会议纪要一",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7507099454024396",
+   "title": "会议纪要：V6产品设计与工艺优化研讨会",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7507102197098929",
+   "title": "会议纪要：OI 项目梳理与资源规划讨论会",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7507101203046818",
+   "title": "会议纪要：V6产品开发技术研讨会",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7507100590678332",
+   "title": "会议纪要 Knight IV",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7511607722648947",
+   "title": "为什么纯 PEG 不能常规熔纺",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7511790632042793",
+   "title": "为什么能纺丝的聚合物就那几种",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 11
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_1e918c90df28177ca74216dbc00c184e001a693ee6c0644e",
+   "title": "IMA知识库索引_20261002.md",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 7
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_9267767ac49fd761051b3e07220e8809",
+   "title": "纳米银怎么负载？水凝胶、石墨烯、壳聚糖复合材料定制",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_7699c693020c521141abffc81a4073ff",
+   "title": "PET 在高温下为什么生成乙醛：酯键断裂、乙烯基酯端基与互变异构",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_8fad8baf88dcfc64d678ebf51ec1c049001a693ee6c0644e",
+   "title": "gels-10-00474.pdf",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 1
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_86cec8709675cd5b7733cf4fe19968cd",
+   "title": "【深度分析】柔性压力传感器的技术路线",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_bd77e000dfd1bad5bf0bc08fdd148dcc",
+   "title": "为什么能做成纤维的聚合物，就那么几种？",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_bd2ad5da0e0b0d744c66ab6f8864ed93",
+   "title": "聚酯为什么要控制水分：水解机理、动力学方程与纺丝后果",
+   "parent_folder_id": "001a693ee6c0644e",
+   "tags": [],
+   "media_type": 6
+  }
+ ],
+ "items": [
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515692005855171",
+   "media_type": 11,
+   "title": "莱博药妆（上海直纳）公司介绍及研发合作洽谈",
+   "create_time": null,
+   "kb_path": "ima_sync/个人知识库/WKB/莱博药妆（上海直纳）公司介绍及研发合作洽谈.md",
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515666085054555",
+   "media_type": 11,
+   "title": "会议主题：聚烯烃胶（Polyolefin Hotmelt）应...",
+   "create_time": null,
+   "kb_path": "ima_sync/个人知识库/WKB/会议主题：聚烯烃胶（Polyolefin Hotmelt）应.md",
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515557066707691",
+   "media_type": 11,
+   "title": "会议纪要：NIFO visit - 可视化材料技术在纸尿裤/...",
+   "create_time": null,
+   "kb_path": "ima_sync/个人知识库/WKB/会议纪要：NIFO visit - 可视化材料技术在纸尿裤_.md",
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515618626510038",
+   "media_type": 11,
+   "title": "会议纪要：益生菌/益生元项目——复配体系与丝网印刷工艺讨论",
+   "create_time": null,
+   "kb_path": "ima_sync/个人知识库/WKB/会议纪要：益生菌_益生元项目——复配体系与丝网印刷工艺讨论.md",
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_bcd67769122b8fabfd29b6a56d5b3f05001a693ee6c0644e",
+   "media_type": 7,
+   "title": "REL增强层专项对比分析_6样品benchmark_20260924.md",
+   "create_time": null,
+   "kb_path": "ima_sync/个人知识库/WKB/REL增强层专项对比分析_6样品benchmark_20260924.md.md",
+   "parent_folder_id": "001a693ee6c0644e"
+  }
+ ]
+}

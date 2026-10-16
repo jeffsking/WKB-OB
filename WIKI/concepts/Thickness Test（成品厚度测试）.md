@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Thickness Test（成品厚度测试）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [厚度, caliper, 0.2 PSI, TTM-001, STM-00040, 澳洲出口, mm]
@@ -61,3 +61,11 @@ aliases: ["成品厚度测试", "Caliper Test", "产品厚度"]
 
 - [[澳洲厚度测试.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲厚度测试.docx.md`
 - [[STM-00040 厚度.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00040 厚度.docx.md`（2026-09-29 补齐：0.2 PSI / 3 s / 单点口径）
+
+## Related Sources 关联来源
+
+- [[CD Pants产品学习]]
+- [[STM-00040 厚度.docx]]
+- [[可降解_生物基材料与薄且强芯体技术深度解析]]
+- [[澳洲dip and drip 实验.docx]]
+- [[澳洲厚度测试.docx]]

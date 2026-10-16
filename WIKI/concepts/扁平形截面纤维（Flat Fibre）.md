@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "扁平形截面纤维（Flat Fibre）"
-domain: [卫材研发, 纤维结构]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [flat-fibre, 扁平纤维, 异形纤维, 导流层, ADL]
@@ -37,3 +37,9 @@ tags: [flat-fibre, 扁平纤维, 异形纤维, 导流层, ADL]
 
 - [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/华南理工异形纤维：创新科技的纺织材料.html.md`
 - [[Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流）]] —— 扁平纤维"触感偏棉感 → 转向 ADL 扩散"的供方口径（经 [[福地（Fudi）]] 页引用）
+
+## Related Sources 关联来源
+
+- [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]]
+- [[德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）]]
+- [[苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）]]

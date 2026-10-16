@@ -86,3 +86,25 @@ tags: [LG Chem, LG化学, SAP, 高吸水树脂, 韩国, 专利权利人]
 > ✅ **命名收敛记录（2026-09-29）**：两份源摘要页中的链向写作 `[[LG Chem（LG 化学）]]`（「LG」与「化学」间无空格），与本页规范标题 `LG Chem（LG 化学）` 不一致；本页为 LG Chem 的**唯一规范页**，后续链向一律使用本页标题，**不新建重复页**。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Absorbent Technology]]
+- [[EP3636698B1 Super Absorbent Resin (LG Chem)]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[LG Chem SAP Product Page（Chinaplas Acrylates_SAP）]]
+- [[LG Chem SAPPYER SAP（Chinaplas Acrylates_SAP）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SAP Selection Strategy and Trial Data Synthesis v3（SAP选型策略与实验数据综合分析）]]
+- [[SAPPYER® SLI_SLIM_SLIE + Bio-balanced SAP（LG Chem）]]
+- [[US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem)]]
+- [[US9950308B2 Superabsorbent Polymer (LG Chem)]]
+- [[WO2024111948A1 Superabsorbent Polymer and Preparation Method Therefor (LG Chem)]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]
+

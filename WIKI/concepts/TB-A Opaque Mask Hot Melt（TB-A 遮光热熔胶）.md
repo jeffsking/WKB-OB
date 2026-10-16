@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "TB-A Opaque Mask Hot Melt（TB-A 遮光热熔胶）"
-domain: [卫材研发, 涂层工艺, 配方]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-29
 tags: [热熔胶, 遮光掩膜, 热熔狭缝涂布, TiO2, α-甲基苯乙烯, 合身指示器]
@@ -88,3 +88,8 @@ tags: [热熔胶, 遮光掩膜, 热熔狭缝涂布, TiO2, α-甲基苯乙烯, �
 
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md`
 - [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]

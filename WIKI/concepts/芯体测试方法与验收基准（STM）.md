@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "芯体测试方法与验收基准（STM）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [STM, 回渗, STT, Cradle, L-H, 验收基准, 试产, KPI]
@@ -97,3 +97,37 @@ tags: [STM, 回渗, STT, Cradle, L-H, 验收基准, 试产, KPI]
 > ✅ 验证（2026-09-29，来源 [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]、[[Finished Product Testing Method Summary（成品测试方法汇总表）]]）：本批确认 STM/TTM 编号体系的**三条结构性事实**——① 编号族分 STM（QA 归口，可用于验收/放行）/ TTM（研发用，明言不用于验收）/ China-STM + 内控（中国区与厂内自定）；② 同一编号在两厂可能为不同版本（南京 WI-56234 Rev.8 vs 天津各方法独立版本）；③ 成品总表方法编号带版本后缀（如 STM-00034-4、TTM-00148-11），与 PDF 页眉的 Revision 体系不同。**引用门槛值必须写明厂别 + 版本来源**，与本页既有「跨批次比较前先对齐基准版本」教训一致。
 - [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md`
 - [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00034 FIFE.docx.md`
+
+## Related Sources 关联来源
+
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[FIUP Insult Amounts（FIUP 加液量阶梯与 TL 溯源）]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]
+- [[GBP（From Nuoer）.docx]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[IMA 知识库索引（2026-08-21）]]
+- [[IMA 知识库索引（2026-09-18）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）]]
+- [[MDP plus弧形皮筋张力测试.pdf]]
+- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]]
+- [[Quality Finished Product STM - Tianjin Plant（质量成品标准测试方法-TJ）]]
+- [[Raw Material STM - Nanjing Plant（原材料STM-NJ）]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]
+- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]
+- [[Rewet Method Parameters（回渗测试方法参数沿革）]]
+- [[SAM 511 Trial Dataset and Statistical Audit（打样原始数据与实验设计审计）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）]]
+- [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]]
+

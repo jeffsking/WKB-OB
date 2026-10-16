@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ActiveTech Platform（ActiveTech 在线薄芯体平台）"
-domain: [卫材研发, 芯体工艺]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [ActiveTech, 在线成型, 无绒毛浆, 真空成垫, D-wrap, SAP 计量, 芯体工艺]
@@ -341,3 +341,32 @@ tags: [ActiveTech, 在线成型, 无绒毛浆, 真空成垫, D-wrap, SAP 计量,
 > ✅ Verification（2026-09-29，source 来源 [[BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx]]）：**摄入目标下的 SAM 迁移获得商业化级成功**——Training Pants（SAM 由 ATH 层移入 fluff 层 + 宽度 80→100 mm + 胶 4.0%→3.2%）cradle intake **25s-25s-220s → 15s-15s-30s**；Youth Pants（+MACH 5）**25s-15s-40s → 15s-10s-20s**（XS 码）；Open Diapers（fluff +0.5 g + MACH 4）**15s-15s-60s+ → 10s-10s-40s**。
 >
 > **与上方"对策失败"节的方向性张力（不构成矛盾，需并读）**：上方台架测试以**回渗**为判据——SAM 迁移后回渗 0.34→0.38/0.40 g 恶化；本页以**摄入**为判据——同一迁移手段（配以宽度/胶量/克重协同改动）带来大幅摄入改善。⇒ **SAM 迁移是"摄入↑ / 回渗↑"的同向双刃改动**，目标函数决定取舍；两轮改动都不是单因子实验，迁移本身的净效应无法从本页拆分 `[待验证]`。设计原则四条：增加 void volume、更快锁液、SAM 更可及且更快溶胀、更充分覆盖 target zone。
+
+## Related Sources 关联来源
+
+- [[2025.03.13 - GML update.pptx]]
+- [[ADT POV 2025 Complex Core Strategy（ActivTech vs 外部复合芯体）]]
+- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[BIG LEAGUE - Cradle Intake Improvements Across BCC One Pager (April 2026).pptx]]
+- [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]
+- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]
+- [[Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）]]
+- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]
+- [[GRIFFIN Female DPU2 AT Hybrid Rewet Summary（女性 DPU2 AT Hybrid 回渗总结）]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[Intake Systems Development Pathway 2023（摄入系统开发通路）]]
+- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]
+- [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]]
+- [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Rewet Learning Plan（回渗学习计划工作表）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[SAP Dosing Speed Matching & Tolerance Spec（SAP 落料速度匹配与容差规范）]]
+- [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]]
+- [[Scope Contract - 2025 Fundamental Rewet Improvement.pptx]]
+

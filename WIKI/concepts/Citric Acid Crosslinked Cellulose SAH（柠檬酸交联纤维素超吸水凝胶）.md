@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [SAH, 超吸水凝胶, 柠檬酸, CMC, HEC, 可降解SAP, 盐水吸收]
@@ -68,3 +68,11 @@ aliases: ["CA-crosslinked cellulose SAH", "柠檬酸交联纤维素超吸水凝�
 - [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/NEW SAP idea.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页为**学术论文结论的客观摘录**，属实验室尺度成果，不构成商业化或供应可行性判断。
+
+## Related Sources 关联来源
+
+- [[CMC-Na CA CNF SAP original article.pdf]]
+- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]
+- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]
+- [[Quaternized Tunicate Cellulose Nanocrystal Superabsorbent Hydrogels (Cellulose 2021)]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

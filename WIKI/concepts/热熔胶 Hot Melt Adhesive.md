@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "热熔胶 Hot Melt Adhesive"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [hot-melt-adhesive, adhesive, lamination, polyolefin, EVA, APAO, slot-coating, diaper-construction]
@@ -126,3 +126,5 @@ tags: [hot-melt-adhesive, adhesive, lamination, polyolefin, EVA, APAO, slot-coat
 - [[H.B. Fuller（富乐）]]
 - [[Bostik]]
 - [[The Procter & Gamble Company（宝洁）]]
+- [[会议纪要：FEI & OI 益生菌项目]]
+

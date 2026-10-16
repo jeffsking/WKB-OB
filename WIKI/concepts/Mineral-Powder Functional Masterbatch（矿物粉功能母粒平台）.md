@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Mineral-Powder Functional Masterbatch（矿物粉功能母粒平台）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [母粒, 电气石, 石墨烯, 功能纤维, 排他]
@@ -148,3 +148,12 @@ tags: [母粒, 电气石, 石墨烯, 功能纤维, 排他]
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`
 
 > 🔴 **manual_review（2026-09-29）**：本主题涉及**未公开合作方（日方伙伴以 tripartite 架构出现，名称为 Rengo Nonwoven Products 但合作范围与商务条款未公开）**、**排他 MOU 触发条件与签约主体选择**、以及**供应商报价区间**。按 AGENTS.md §2.2/§5，上述内容不页面化，需人工确认后处理。
+
+## Related Sources 关联来源
+
+- [[Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]

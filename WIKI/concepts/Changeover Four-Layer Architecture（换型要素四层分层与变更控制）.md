@@ -1,15 +1,17 @@
 ---
 type: concept
 title: "Changeover Four-Layer Architecture（换型要素四层分层与变更控制）"
-domain: [卫材研发, 设备工程, 芯体工艺]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [换型, 分层架构, 变更控制, Body, Sleeve, Recipe, Change-part, 降本]
 ---
 
+> 🔴 **治理合并（2026-10-12）**：[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] 已并入本页（同主题重复），入链已改写。
+
 # Changeover Four-Layer Architecture（换型要素四层分层与变更控制）
 
-> 🔴 **manual_review（2026-09-30）**：本页与 [[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] 主题重复，**双方均有实质内容**，未自动合并。请人工裁决保留哪一版或人工并入。
+> 🔴 **manual_review（2026-09-30）**：本页与 [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] 主题重复，**双方均有实质内容**，未自动合并。请人工裁决保留哪一版或人工并入。
 
 > One-line definition 一句话定义：**把"换规格时要动的所有量"按「定相位 / 定尺寸 / 可设定 / 仅特定规格」切成 Body、Sleeve、Recipe、Change-part 四层**，使规格扩展的边际成本降到最低——其第一原则是 **"定相位的都在鼓体，定尺寸的都在套筒"**。（中文：换型不是"重新调机器"，而是"只换必要那一层"。）
 
@@ -116,3 +118,10 @@ Q4. 它能否仅靠设定值（伺服/变频/阀）表达，无需换实体件�
 ## 来源
 
 - [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/83-换型要素四层分层与变更控制.md.md`
+
+## Related Sources 关联来源
+
+- [[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]
+- [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]
+- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]
+- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]

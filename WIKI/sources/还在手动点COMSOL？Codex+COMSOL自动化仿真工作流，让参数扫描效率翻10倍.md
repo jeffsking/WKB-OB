@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -240,3 +241,7 @@ Codex负责把重复劳动变成可复用代码，COMSOL负责专业物理求解
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/还在手动点COMSOL？Codex+COMSOL自动化仿真工作流，让参数扫描效率翻10倍.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/还在手动点COMSOL？Codex+COMSOL自动化仿真工作流，让参数扫描效率翻10倍.md`
+
+## 关联页面
+
+- [[AHPs Stewardship Program 与 CODEX™ 痕量物质管控]]

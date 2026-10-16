@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "BNC Application Red Line（BNC 应用红线）"
-domain: [采购, 立项治理]
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-29
 tags: [BNC, 红线, 立项评审, 角色化表述, 终端材料, 中间体, 供应链自主]
@@ -62,3 +62,11 @@ tags: [BNC, 红线, 立项评审, 角色化表述, 终端材料, 中间体, 供�
 - [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md`
 - [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md`
 - [[BNC 卫生用品技术可行性评估（访前尽调详细版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNCforHygieneProduct.pdf.md`
+
+## Related Sources 关联来源
+
+- [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]]
+- [[纳米纤维素增强无纺布技术研究报告（2026-04·NFC_CNC 路线）]]
+- [[纳米纤维素纤维技术及应用深度研究报告]]

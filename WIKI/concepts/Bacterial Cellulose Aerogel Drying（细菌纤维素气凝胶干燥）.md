@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Bacterial Cellulose Aerogel Drying（细菌纤维素气凝胶干燥）"
-domain: [卫材研发, 生物基材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [bacterial-cellulose, aerogel, drying, thermal-properties, mechanical-properties]
@@ -56,3 +56,13 @@ Bacterial cellulose aerogel drying is the controlled removal of liquid from a ba
 ## Sources 来源
 
 - [[Effect of Drying Methods on Bacterial Cellulose Aerogel]] — `RAW/ima_sync/个人知识库/WKB/gels-10-00474.pdf.md`
+
+## Related Sources 关联来源
+
+- [[05_细菌纤维素微凝胶技术研究报告.md]]
+- [[BCNF Nonwoven Application Status and Outlook（BCNF 无纺布应用现状与展望 · 2026-04-13）]]
+- [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
+- [[Effect of Drying Methods on Bacterial Cellulose Aerogel]]
+- [[Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）]]
+
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [纳米纤维, 静电纺丝, electrospinning, PU, 防水透湿, 底膜, 热熔胶复合, 克重]
@@ -60,3 +60,10 @@ aliases: ["Nanofibre WBM", "静电纺丝防水透湿膜"]
 
 - [[August R&D Meeting 2026（华峰研发会议）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md`
 - [[与华峰集团会晤纪要（2026-07-29）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与华峰集团会晤纪要_20260729.docx.md`
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Handbook of Plastic Films]]
+- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]
+- [[与华峰集团会晤纪要（2026-07-29）]]

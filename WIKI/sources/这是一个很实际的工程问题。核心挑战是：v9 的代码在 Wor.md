@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -154,3 +155,7 @@ WorkBuddy → 生成代码 → push 到 GitHub repo                             
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/这是一个很实际的工程问题。核心挑战是：v9 的代码在 Wor.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/这是一个很实际的工程问题。核心挑战是：v9 的代码在 Wor.md`
+
+## 关联页面
+
+- [[REL Splice Tensile Test（REL 拼接拉断力测试）]]

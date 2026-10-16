@@ -80,3 +80,16 @@ aliases: ["Satellite（卫星化学）", "卫星化学"]
 - 来源页 [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[Nuoer High-GBP SAP Visit Plan & Roadmap（诺尔高GBP SAP拜访预案）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAP Grade Selection - Three-PPT Comparison（SAP 选型三份 PPT 对比 · 中文版）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SAP（高吸水性树脂）技术总结报告]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]
+- [[纸尿裤结构与技术全景_内容大纲_20260428232500]]

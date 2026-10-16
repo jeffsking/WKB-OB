@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Signal Comprehension Gate"
-domain: [卫材研发, 消费者验证]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-29
 tags: [解读率, 消费者测试, MVP门, 语义分离, 信任落差]
@@ -57,3 +57,11 @@ aliases: ["Signal Comprehension Gate 信号解读门"]
 
 - [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md`
 - [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/Diaper_Microclimate_Visualization_Feasibility.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Diaper Microclimate Visualization Feasibility (Dual-MVP)]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]]
+- [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]]

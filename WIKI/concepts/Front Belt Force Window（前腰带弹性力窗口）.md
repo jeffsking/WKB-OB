@@ -4,7 +4,7 @@ title: "Front Belt Force Window（前腰带弹性力窗口）"
 category: 技术
 updated: 2026-09-30
 tags: [胶粘尿布, 前腰带, 后腰带, 弹性力, EGEL, 贴合度, 失效模式, 宝洁]
-domain: [卫材研发]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 ---
 
@@ -83,3 +83,12 @@ status: growing
 - Source 来源：[[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
 - Entity 实体：[[The Procter & Gamble Company（宝洁）]]
 - Adjacent 相邻：[[Waist Guard（腰围护挡）]]、[[Elastic Tension & Creep（橡筋张力与回缩率）]]、[[Elastic Strand Snicking（弹性橡筋断丝失效化）]]、[[Product Waist Break Test（产品腰围拉断测试）]]、[[Pant-Type Disposable Absorbent Article（裤型一次性吸收物品）]]
+
+## Related Sources 关联来源
+
+- [[CN 114376803 A（一种裤型吸收制品弹性腰围·米卫（杭州））]]
+- [[CN 118369075 A（具有前后弹性腰带的胶粘吸收制品·宝洁）]]
+- [[CN 210932251 U（一种透气弹性腰围的纸尿裤·广州汉氏卫生用品）]]
+- [[CN 222018549 U（一种百褶裤型纸尿裤·湖州因爱伟大）]]
+- [[STM-00440 腰围皮筋张力.doc]]
+- [[STM-00686弧形皮筋张力.doc]]

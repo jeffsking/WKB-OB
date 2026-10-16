@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "荧光增白剂 Optical Brightener"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [荧光增白剂, 发光, 功能性色料, 迁移风险, 绒毛浆, optical-brightener, FWA]

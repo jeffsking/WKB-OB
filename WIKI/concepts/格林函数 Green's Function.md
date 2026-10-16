@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "格林函数 Green's Function"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [格林函数, 点源解, 扩散建模, SAP建模, Crank]

@@ -51,3 +51,7 @@ tags: [SAM, SAP, 高吸水材料, OTIF, 供应基地]
 1. BC283FAN/BC283GAN/BC283HA 在 Sheet 1、Global v2、KCC-YJ 三表中的 CRC/AUL 数值**互不一致**（如 BC283HA：41 / ~32），源文未解释，**不取代表值**。
 2. "Has sustainable option" 的可持续选项具体所指（生物基？再生？认证？）源文未展开，**不推断**。
 3. 本页**未记录与 K-C 的商务、送样或定点历史**；台塑在本库状态为**候选**。
+
+## Related Sources 关联来源
+
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]

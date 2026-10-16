@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Motion Mannequin Test（动态假人测试）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [假人, 漏尿性, 合身性, WI-63849, TTM-00318, 模拟液]
@@ -66,3 +66,7 @@ tags: [假人, 漏尿性, 合身性, WI-63849, TTM-00318, 模拟液]
 
 - [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63849 Motion mannequin.docx.md`
 - [[Finished Product Testing Method Summary（成品测试方法汇总表）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/Finished Product Testing Method Summary.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[WI-64766温湿度纽扣测试方法.docx]]

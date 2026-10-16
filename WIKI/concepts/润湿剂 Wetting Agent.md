@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "润湿剂 Wetting Agent"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [润湿剂, 表面活性剂, CMC, 绒毛浆, 芯体配方, 润湿, wetting-agent]

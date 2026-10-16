@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "DMAC（N,N-二甲基乙酰胺）残留与 REACH 限制"
-domain: [卫材研发, 材料安全与法规]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-29
 tags: [DMAC, 氨纶, 干法纺丝, REACH, 残留溶剂, OEKO-TEX, GB/T 28004]
@@ -130,3 +130,14 @@ aliases: ["DMAc Residue and REACH Restriction", "DMAC 残留"]
 
 - [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要_氨纶弹性体品牌对比及DMAC安全评估_2026-07-28.md`
 - [[August R&D Meeting 2026（华峰研发会议）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/August R&D Meeting.pdf.md`
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）]]
+- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]
+- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]
+- [[Introduction to Physical Polymer Science_ch3_report]]
+- [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]]
+- [[与华峰集团会晤纪要（2026-07-29）]]
+- [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]]

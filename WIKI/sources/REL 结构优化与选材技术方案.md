@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -306,3 +307,7 @@ VV ∝ (1 - ρ_rel/ρ_fiber) × ε × f(compression)  其中： ρ_rel = REL 堆
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/REL/REL 结构优化与选材技术方案.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/REL/REL 结构优化与选材技术方案.md`
+
+## 关联页面
+
+- [[Kuraray（可乐丽）]]　[[PET（聚酯）]]　[[PTT（聚对苯二甲酸丙二醇酯）]]　[[REL Splice Tensile Test（REL 拼接拉断力测试）]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[尿液模拟液（Urine Analog）]]

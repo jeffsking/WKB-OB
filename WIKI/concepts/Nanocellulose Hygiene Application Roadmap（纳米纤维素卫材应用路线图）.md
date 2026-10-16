@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）"
-domain: [卫材研发, 材料科学, 开放创新]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [纳米纤维素, CNF, CNC, 应用路线图, 技术梯队, OI]
@@ -56,3 +56,8 @@ tags: [纳米纤维素, CNF, CNC, 应用路线图, 技术梯队, OI]
 ## 来源 Sources
 
 - [[Nanocellulose Technology Roadmap for Hygiene Materials（纳米纤维素卫材应用技术路线图 V1）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/纳米纤维素卫材应用技术路线图_V1.docx.md`
+
+## Related Sources 关联来源
+
+- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]
+- [[Nanocellulose Technology Roadmap for Hygiene Materials（纳米纤维素卫材应用技术路线图 V1）]]

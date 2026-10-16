@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Core Wrap（芯体包裹层）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [core wrap, wrapsheet, SAM containment, 芯体包裹, SMS]
@@ -40,3 +40,17 @@ tags: [core wrap, wrapsheet, SAM containment, 芯体包裹, SMS]
 ## 来源
 
 - [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Absorbent Training - Overview.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[OI团队会议-2026-2027项目与供应链建设]]
+- [[Open Diaper Process Introduction--202104]]
+- [[Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）]]
+- [[_01 Absorbent System - Overview]]
+- [[_07 Fibers & Fluff]]
+- [[_08 Nonwovens Technologies]]
+- [[__一句话：ActiveTech 是平台_工艺能力，Bliz]]
+- [[消费者可见（consumer-visible）的话，最像样的]]
+- [[满足要求的四大组件性能指标与测试方法]]

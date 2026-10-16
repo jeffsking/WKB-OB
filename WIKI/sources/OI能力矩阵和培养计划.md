@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -392,3 +393,7 @@ TRIZ创新理论、设计思维
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/OI能力矩阵和培养计划.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/OI能力矩阵和培养计划.md`
+
+## 关联页面
+
+- [[EDANA（欧洲非织造布协会）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[IPC BCC（K-C Baby & Child Care 材料开发团队）]]　[[Technology Roadmap 2026-2029（技术路线图）]]　[[拉拉裤]]

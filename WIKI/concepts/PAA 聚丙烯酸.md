@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PAA 聚丙烯酸"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [PAA, polyacrylic-acid, SAP, sodium-polyacrylate, crosslinking, salt-sensitivity, superabsorbent]
@@ -65,3 +65,12 @@ tags: [PAA, polyacrylic-acid, SAP, sodium-polyacrylate, crosslinking, salt-sensi
 - [[AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体]]、[[表面交联 Surface Cross-linking]]、[[Flory- Rehner Theory]]、[[Donnan 溶胀]]
 - [[Handbook of Adhesive Technology Full Report]]
 - [[吸收芯体]]、[[CRC 离心保持能力]]、[[AUL 加压吸水率]]、[[藻酸盐 Alginate]]、[[壳聚糖 Chitosan]]、[[蒙脱土 Montmorillonite]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[SAP Research Advances_README]]
+- [[SAP Research Advances_concepts]]
+- [[SAP Research Advances_index.csv]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+

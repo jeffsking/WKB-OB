@@ -1,0 +1,8 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "channel-B get_media_info original",
+  "bytes": 47629,
+  "body_chars": 28043
+ }
+}

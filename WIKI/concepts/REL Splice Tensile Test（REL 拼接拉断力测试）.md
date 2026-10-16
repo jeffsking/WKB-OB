@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "REL Splice Tensile Test（REL 拼接拉断力测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [REL, 拼接, 拉断力, WI-60236, 增强层,  tensile]
@@ -43,3 +43,34 @@ REL 常以卷料上机，换卷时需手工拼接。本方法把两片 REL 用�
 ## 来源
 
 - [[WI-60236 REL拼接拉断测试.pdf]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/Material/WI-60236 REL拼接拉断测试.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CD Pants产品学习]]
+- [[CI-06 COCO V6 3rd round trial-10.10]]
+- [[CI-06 COCO V6 3rd round trial-9.30]]
+- [[COCO_V6_第三轮trial_两组对照分析_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261006]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010]]
+- [[COCO_V6_第三轮trial_两组对照分析报告_20261010.html]]
+- [[Coco V6项目与供应链建设]]
+- [[IMA知识库索引_20261009]]
+- [[Introduction to Physical Polymer Science_ch3_report]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[OI团队会议-2026-2027项目与供应链建设]]
+- [[REL benchmark.png]]
+- [[REL 结构优化与选材技术方案]]
+- [[REL_Optimized_PTT_PVA_Composition]]
+- [[Screenshot_2026-07-01-15-13-09-17_45e686c594768066ad9911d54d96f72b.jpg]]
+- [[WI-60236 REL拼接拉断测试.pdf]]
+- [[output]]
+- [[会议纪要 OI&FEI Cach-up]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+- [[会议纪要：V6产品开发技术研讨会]]
+- [[基于 v9 实际状态的 Claude + Gemini 优化]]
+- [[满足要求的四大组件性能指标与测试方法]]
+- [[这是一个很实际的工程问题。核心挑战是：v9 的代码在 Wor]]
+

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "润湿 Wetting"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [wetting, surface-energy, contact-angle, surfactant, CMC, hydrophilic-finish, PP-nonwoven, plasma-treatment]

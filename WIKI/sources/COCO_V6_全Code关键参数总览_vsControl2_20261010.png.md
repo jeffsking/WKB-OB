@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-12
 date_processed: 2026-10-12
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -46,3 +47,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_全Code关键参数总览_vsControl2_20261010.png.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_全Code关键参数总览_vsControl2_20261010.png.md`
+
+## 关联页面
+
+- [[SAP（高吸水树脂）]]　[[Unikorn]]　[[延江（Yanjan）]]

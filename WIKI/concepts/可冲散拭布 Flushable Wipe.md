@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "可冲散拭布 Flushable Wipe"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [wipes, flushable, chemical-bonding, sustainability, wipes-regulation-cn]

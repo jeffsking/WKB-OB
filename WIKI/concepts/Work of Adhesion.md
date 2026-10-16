@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Work of Adhesion"
-domain: hygiene-materials
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [surface-energy, adhesion, wetting, absorbency, contact-angle]
@@ -55,4 +55,11 @@ tags: [surface-energy, adhesion, wetting, absorbency, contact-angle]
 
 - [[Surface Tension and Surface Energy]]
 - Adjacent concepts 相邻概念：[[接触角 Contact Angle]]、[[Young's Equation]]、[[Wenzel Equation]]、[[Cassie-Baxter Equation]]、[[Laplace Pressure]]、[[三相接触线 TPL]]、[[Marangoni Effect]]、[[亲水化 Hydrophilisation]]
-- Application pages 应用页：[[卫材胶黏系统 Hygiene Adhesive Systems]]、[[PSA]]、[[Chemical bonding]]
+- Application pages 应用页：[[卫材胶黏系统 Hygiene Adhesive Systems]]、[[压敏胶 PSA]]、[[Chemical bonding]]
+- [[Absorbent Technology_ch11_report_20260823_031405]]
+- [[Absorbent Technology_master_index.csv]]
+- [[Absorbent Technology_synthesis]]
+- [[Introduction to Physical Polymer Science_ch12_report]]
+- [[Introduction to Physical Polymer Science_深度拆书_full]]
+- [[PF · analysis_ch11]]
+

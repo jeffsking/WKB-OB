@@ -140,3 +140,23 @@ tags: [Fudi, Fudy, 福地, 三叶形, trilobal, PE/PET, 异形纤维, COCO V6]
 
 > ⚠️ **名称口径待核**：本批英文材料拼作 `Fudy`，中文汇报稿写作 **福地（Fudi）**，两者是否为同一家、以及其中文正式名称，`[待验证]`。
 > 🔴 **manual_review（2026-09-29）**：本页涉及**试产供应关系与出行/合作安排**（内部信息，AGENTS.md §5 边界）。页面按内部追溯保留；对外引用前须人工确认。
+
+## Related Sources 关联来源
+
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Coco V6项目与供应链建设]]
+- [[Fudi ES Fibre Capability Review & Sb-Free Switching（企业介绍及合作交流）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]]
+- [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]]
+- [[Material Portfolio & Process Priorities Review — SAP, Trilobal Fibre & Masterbatch（材料及工艺相关探讨）]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[会议纪要 OI&FEI Cach-up]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]
+- [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]]
+- [[苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）]]
+

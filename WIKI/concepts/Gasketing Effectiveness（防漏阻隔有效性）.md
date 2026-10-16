@@ -4,7 +4,7 @@ title: Gasketing Effectiveness（防漏阻隔有效性）
 category: 结构 / 防漏
 updated: 2026-09-30
 tags: [Gasketing, 腰围垫片, 腿围垫片, 护围, 最小阻力路径, Gap Test, STCH, Tunnel Leakage]
-domain: [卫材研发]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 ---
 
@@ -86,3 +86,11 @@ KC 尿液泄漏管理**五支柱**（按序）：
 ## 来源
 
 - [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/TJ_Mill_Visit_Pre-Brief_20260907_v3.1_EN.docx.md`
+
+## Related Sources 关联来源
+
+- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]
+- [[STM-00061 折页渗漏.docx]]
+- [[TJ Mill Visit Pre-Brief v3.1（中文版 · TJ工厂访问会前简报 2026-09-07）]]
+- [[TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）]]
+- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "毛细芯吸 Capillary Wicking"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [毛细芯吸, 毛细压力, 多孔介质, 芯体, 面层, wicking, capillary]
@@ -54,7 +54,6 @@ tags: [毛细芯吸, 毛细压力, 多孔介质, 芯体, 面层, wicking, capill
 ## Related Sources 关联来源
 
 - [[Characterisation, testing and modelling of nonwoven fabrics]] — cited-by 来源
-- [[Porous Structure and Liquid Flow Models]]
 - [[Porous Structure and Liquid Flow Models]]
 - [[毛细压力 Capillary Pressure]]
 - [[Washburn Equation]]

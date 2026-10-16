@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "健康监测 Health Monitoring"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [health-monitoring, wearable-sensor, wetness-indicator, skin-health, absorbent-article-sensing]

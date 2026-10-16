@@ -83,3 +83,11 @@ tags: [丝网, sleeve, pattern 成型, 锥度方向, 卡簧快换, pattern-SAP �
 - [[84 Sleeve 工程规格与换装防错设计]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/84-Sleeve工程规格与换装防错设计.md.md`
 - [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md`
 - ⚠️ 源文中引用的 **WKB〔日本 Nichidai 丝网工艺技术交流〕** 与 **Patterned SAP core 6.pptx** 在本库中**尚未建立独立来源页**，其口径经上述两份派生文件转述，**未经一手文件核验**，记为 `[待验证]`。
+
+## Related Sources 关联来源
+
+- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]
+- [[84 Sleeve 工程规格与换装防错设计]]
+- [[85 双层pattern芯体套准工程规格]]
+- [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]]
+- [[日本 Nichidai 丝网工艺技术交流]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Hygiene Absorption Model"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [absorption-model, absorbent-core, computational-modeling, virtual-prototyping, wicking, rewet, SAP, drying]

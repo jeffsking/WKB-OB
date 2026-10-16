@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Wetting Pattern Target Zone（润湿图谱目标区）"
-domain: [卫材研发, 吸收系统设计]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-29
 tags: [Target Zone, Wetting Pattern, 成人失禁, X-ray, 设计准则]
@@ -49,3 +49,10 @@ tags: [Target Zone, Wetting Pattern, 成人失禁, X-ray, 设计准则]
 ## Sources 来源
 
 - [[R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs/R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Consumer Relevancy of FIUP Method Feb 2025.docx]]
+- [[R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf]]
+- [[Relevant Product Measurements.pptx]]
+- [[Relevant Product Measurements.xlsx]]

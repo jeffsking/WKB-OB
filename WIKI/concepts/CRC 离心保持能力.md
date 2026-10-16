@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "CRC 离心保持能力"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [crc, sap, centrifuge-retention, sap-metrics, absorbent-core]

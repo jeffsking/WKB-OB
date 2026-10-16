@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "取代度 DS"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [degree-of-substitution, DS, cellulose-ether, CMC, superabsorbent, specification]
@@ -56,7 +56,6 @@ DS 的理论上限为 3——每个葡萄糖单元有 3 个羟基全部反应（
 - 游离酸比例（5–40%）对实际吸收性能的定量影响：`[待补]`。
 
 ## Related Sources 关联来源
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Cross-linked Cellulose and Its Derivatives]]
 - [[Seymour Polymer Chemistry Ch10 Naturally Occurring Polymers]]
 - [[交联 CMC]]

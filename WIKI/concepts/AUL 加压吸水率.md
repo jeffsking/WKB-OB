@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "AUL 加压吸水率"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [AUL, 加压吸水率, SAP, 测试指标, absorbency]

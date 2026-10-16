@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "聚合物分散液晶 PDLC"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [PDLC, liquid-crystal, 5CB, mechanochromic, PDMS, smart-material]
@@ -52,3 +52,6 @@ PDLC = **polymer-dispersed liquid crystal**. The source defines it as "immiscibl
 - [[液晶 Liquid Crystal]]
 - [[Introduction to Liquid Crystals]]
 - [[结构色 Structural Color]]
+- [[Preparation of a Mechanochromic Elastomer]]
+- [[Preparation of a Mechanochromic Elastomer-ppt]]
+

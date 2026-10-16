@@ -33,3 +33,9 @@ tags: [Sabic, 低温PP, 改性PP, TBCW]
 ## 来源
 
 - [[低温PP纺粘与TBCW低成本方案]] —— `raw/ima_sync/个人知识库/WKB/低温PP相关的纺粘布讨论主要集中在TBCW低成本方案.md`
+
+## Related Sources 关联来源
+
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -6]]
+- [[低温PP纺粘与TBCW低成本方案]]

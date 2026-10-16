@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "磷酸化纤维素 Phosphonoalkylcellulose"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [cellulose, superabsorbent, crosslinking, sap]
@@ -36,6 +36,5 @@ The SAP lineage has two poles: cellulose-based (Ch.7, Kimberly-Clark phosphonoal
 
 ## Related Sources 关联来源
 
-- [[Cross-linked Cellulose and Its Derivatives]]
 - [[Cross-linked Cellulose and Its Derivatives]]
 - [[交联 CMC]] · [[取代度 DS]] · [[交联密度 Crosslink Density]] · [[Donnan 溶胀]] · [[Hercules Aqualon]] · [[Kimberly-Clark（金佰利）]] · [[SAP（高吸水树脂）]]

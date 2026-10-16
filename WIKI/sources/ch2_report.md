@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -225,3 +226,7 @@ pc = 1/(rf)^{1/2}                        式 2-152（无 A-A，仅 Af + B-B）
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch2_report.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Principles of Polymerization/ch2_report.md.md`
+
+## 关联页面
+
+- [[PET（聚酯）]]　[[SAP（高吸水树脂）]]　[[弹性纤维]]

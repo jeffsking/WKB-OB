@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Stimuli-Responsive PCM"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [phase-change-material, stimuli-responsive, GST, VO2, photonics, thermoregulation, smart-textile]
@@ -63,3 +63,15 @@ tags: [phase-change-material, stimuli-responsive, GST, VO2, photonics, thermoreg
 - [[刺激响应聚合物 Stimuli-Responsive Polymer]]、[[GST]]、[[VO2]]、[[液晶 Liquid Crystal]]、[[光致变色 Photochromic]]
 - [[Smart Textiles & Wearables]]、[[智能织物 Smart Textile]]、[[热电现象 Thermoelectric]]
 - [[纳米纤维素（CNC、CNF、BNC）]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[IPC&YK FEI 团队创新合作计划分享会 -3]]
+- [[NIFO参观速查卡_一页纸]]
+- [[NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012]]
+- [[NW · 00_核心观点汇总]]
+- [[Thermochromic_Products_Comparison_by_Company]]
+- [[为什么纯 PEG 不能常规熔纺]]
+- [[会议纪要 OI&FEI Cach-up]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]
+- [[光子晶体膜拉伸贴合指示器]]
+- [[段工谈材料｜PCM相变微胶囊：把“空调”做进纤维里，真的靠谱吗？科学解读]]
+

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -80,3 +81,7 @@ SAP的独特保留机制（p.477）：与传统纤维体系通过毛细管力持
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch12_report_20260823_031406.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch12_report_20260823_031406.md.md`
+
+## 关联页面
+
+- [[Gel Blocking（凝胶阻塞）]]　[[Kimberly-Clark（金佰利）]]　[[SAP（高吸水树脂）]]　[[吸收芯体]]　[[绒毛浆（Fluff Pulp）]]

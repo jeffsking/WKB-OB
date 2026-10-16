@@ -97,3 +97,10 @@ tags: [PDA, 海洋降解, SAP 替代, 中科院]
 - [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/IPC BCC OI 材料开发团队 2026 年度汇报大纲_v7_红白配色与标题栏加倍版.md.md`
 
 > 🔴 **manual_review（2026-09-29）**：来源含**联系人姓名与邮箱**，按 AGENTS.md §2.2/§5 不页面化。
+
+## Related Sources 关联来源
+
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[IPC BCC OI Project List 17.9.2026（供应商明细版）]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[IPC BCC OI 材料开发团队 2026 年度汇报大纲 v7（2026-09-17）]]

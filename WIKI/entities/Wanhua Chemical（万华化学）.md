@@ -61,3 +61,10 @@ tags: [SAM, SAP, 高吸水材料, 釜式工艺, 供应基地]
 - 来源页 [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[与华峰集团会晤纪要（2026-07-29）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

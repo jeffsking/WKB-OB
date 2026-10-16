@@ -50,6 +50,5 @@ tags: [供应商, 非织造布, 纺粘, 热风无纺布, 泉州晋江, 福建冠
 - [[锦琪昶（KSC, King's Choice）]]
 - [[SDHY Group（非织造布）]]
 - [[热风粘合无纺布]]
-- [[热风粘合无纺布]]
 - [[无纺布五大工艺对比]]
 - [[PCM-Free Thermoregulation]]

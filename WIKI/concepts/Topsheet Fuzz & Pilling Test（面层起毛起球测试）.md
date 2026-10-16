@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Topsheet Fuzz & Pilling Test（面层起毛起球测试）"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [面层, topsheet, 起毛起球, fuzz, pilling, TTM-00609, 材料级筛选门, 待补]

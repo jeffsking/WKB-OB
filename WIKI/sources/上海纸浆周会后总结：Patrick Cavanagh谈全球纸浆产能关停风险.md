@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -70,3 +71,7 @@ Patrick总结指出，自2021年中国大规模投资自制浆产能以来，商
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/上海纸浆周会后总结：Patrick Cavanagh谈全球纸浆产能关停风险.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Pulp World/上海纸浆周会后总结：Patrick Cavanagh谈全球纸浆产能关停风险.md`
+
+## 关联页面
+
+- [[绒毛浆（Fluff Pulp）]]

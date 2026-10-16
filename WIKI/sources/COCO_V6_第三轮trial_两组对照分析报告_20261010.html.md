@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-12
 date_processed: 2026-10-12
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -88,3 +89,7 @@ REL · Code A	新开发 REL（闽瑞五组分）28.8gsm	克重/厚度/MD
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析报告_20261010.html.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/COCO/COCO_V6_第三轮trial_两组对照分析报告_20261010.html.md`
+
+## 关联页面
+
+- [[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[REL Splice Tensile Test（REL 拼接拉断力测试）]]　[[SAP（高吸水树脂）]]　[[Unikorn]]　[[延江（Yanjan）]]

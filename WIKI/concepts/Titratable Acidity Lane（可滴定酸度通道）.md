@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Titratable Acidity Lane（可滴定酸度通道）"
-domain: [卫材研发, 比色传感, 化学]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [可滴定酸度, 卤致变色, 便指示, 缓冲容量, VFA, 热熔胶]
@@ -66,3 +66,9 @@ tags: [可滴定酸度, 卤致变色, 便指示, 缓冲容量, VFA, 热熔胶]
 ## Sources 来源
 
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
+
+## Related Sources 关联来源
+
+- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]
+- [[BM Urine Indicator Concept（尿+便双指示概念）]]
+- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]

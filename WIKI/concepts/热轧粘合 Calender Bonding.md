@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "热轧粘合 Calender Bonding"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, thermal-bonding, calender, point-bonding, topsheet, adl]

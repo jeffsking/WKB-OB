@@ -55,3 +55,12 @@ tags: [格菲林, 广东, 淮安, 热风无纺布, 双梳理, 三出, 三梳理,
 
 - [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/6.2EM供应商会议纪要.pdf.md`
 - [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/热风无纺布供应商考察纪要（修订版）.docx.md`（2026-09-29 追加）
+
+## Related Sources 关联来源
+
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[EM Supplier Meeting Follow-ups]]
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]
+- [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]]
+- [[格菲林（Good Feeling）公司与KC团队的技术交流会]]

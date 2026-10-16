@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Absorbent System Adhesive Effects on Rewet（吸收系统施胶对回渗的影响）"
-domain: [卫材研发, 胶黏剂, 回渗]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [施胶, 热熔胶, 回渗, LTD, PAA, SLA, 亲水胶, 覆盖率]
@@ -54,3 +54,7 @@ tags: [施胶, 热熔胶, 回渗, LTD, PAA, SLA, 亲水胶, 覆盖率]
 
 - [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.06.25 - Learning Cycle Check In.pptx.md`
 - [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Attachment Strength Results.pptx.md`（喷头排序旁证）
+
+## Related Sources 关联来源
+
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]

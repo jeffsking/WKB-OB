@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Marangoni Effect"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [marangoni-effect, surface-tension, 表面张力, 界面, 润湿]

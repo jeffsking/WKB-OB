@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Probiotic & Skin-Care Topsheet（益生菌护肤面层）"
-domain: [卫材研发, 面层]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [面层, 护肤, 益生菌, 弱酸, 花苞腰围]
@@ -129,3 +129,17 @@ tags: [面层, 护肤, 益生菌, 弱酸, 花苞腰围]
 - AFC 与 BCC 之间存在**迁移可能**：管线中提及未来成人护理学习可反向迁移（该句出现在干爽域，此处仅登记相邻性）。
 
 > ✅ 验证（2026-09-29）：本追加段**未修正**上方任何结论；上方市场侧对益生菌/护肤面层的描述**全部保留**，本批补的是**内部管线的路线分层、具体成分浓度与载体约束**。
+
+## Related Sources 关联来源
+
+- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]
+- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]
+- [[China Baby Diaper Product & Tech Panorama Report 2026（China_Diaper_Tech_Report_2026）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[Intake Systems Tech Pipeline（吸收系统技术管线 2025-11）]]
+- [[Intake Tech One-Pagers（摄入系统技术一页纸管线）]]
+- [[Nameixin & SAF-Medical Dressing Dossier（济南纳美欣·高吸水纤维与医用敷料）]]
+- [[New Diaper Product Survey Report 2024-2025（纸尿裤新品调研报告2024-2025）]]
+- [[Probiotic-Prebiotic-Postbiotic Diaper Project Review（益生菌-益生元-后生元尿布项目方案评审 · 录音纪要 2026-08）]]
+- [[壳聚糖及壳聚糖纤维技术与应用总结报告]]

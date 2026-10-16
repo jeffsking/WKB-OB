@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -75,3 +76,7 @@ Code X 的 GBP 55.3 ≈ KC511(24) 的 2.3 倍、610S(6) 的 9 倍，且主粒径
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Test Method/以下是四者主要 SAP 性能参数对比（注：AUL 口径与CR.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Test Method/以下是四者主要 SAP 性能参数对比（注：AUL 口径与CR.md`
+
+## 关联页面
+
+- [[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[SAP（高吸水树脂）]]　[[承压吸收 AUL]]　[[诺尔（Nuoer）]]

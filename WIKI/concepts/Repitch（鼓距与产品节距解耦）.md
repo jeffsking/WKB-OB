@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Repitch（鼓距与产品节距解耦）"
-domain: [卫材研发, 设备工程, 芯体工艺]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [repitch, 再分距, 节距, 转塔, cut-and-slip, chip trim, 成型鼓]
@@ -59,7 +59,7 @@ tags: [repitch, 再分距, 节距, 转塔, cut-and-slip, chip trim, 成型鼓]
 ## Adjacent Concepts 相邻概念
 
 - 上游：[[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]（鼓距来源）、[[81 Forming Drum Ups Selection（鼓距·端区·11 尺寸分配）]]
-- 同层：[[83 Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]（ups / cams / chute 的层级归属）
+- 同层：[[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]]（ups / cams / chute 的层级归属）
 - 下游：[[SAP Dosing Speed Matching（SAP 落料速度匹配与容差）]]（落料速度随线速）
 - 易混：[[GB-T 28004.1-2021（纸尿裤国标）]]——**尺寸标准给成品外形（长×宽），不是工艺节距**；用尺寸标准推 chassis pitch 会引入系统性误差。
 - 易混：**17 片**是换型后**相位闭环收敛**的片数，不是换型总废片（见 [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]）
@@ -77,3 +77,9 @@ tags: [repitch, 再分距, 节距, 转塔, cut-and-slip, chip trim, 成型鼓]
 ## 来源
 
 - [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/82-鼓距与产品节距解耦repitch选型.md.md`
+
+## Related Sources 关联来源
+
+- [[82 Drum-to-Chassis Pitch Decoupling and Repitch Selection（鼓距与产品节距解耦）]]
+- [[83 Changeover Four-Layer Architecture and Change Control（换型要素四层分层与变更控制）]]
+- [[87 Hygiene Line Constraint Constants（待并入补充行·合并脚本）]]

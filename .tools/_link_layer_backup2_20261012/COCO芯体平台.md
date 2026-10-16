@@ -1,0 +1,254 @@
+---
+type: concept
+title: "COCO芯体平台"
+domain: [卫材研发, 芯体与吸收]
+status: growing
+updated: 2026-09-29
+tags: [COCO, 芯体平台, V6, V7, 分区密度]
+aliases: ["COCO 芯体平台（COCO V6 / V7）"]
+---
+
+# COCO 芯体平台（COCO V6 / V7）
+
+> 一句话定义：本库卫生用品芯体研发的项目平台代号，V6 为当前数据基线（全量数据已产出），V7 引入了**分区密度**等新的架构要求。
+
+## 机理 / 结构拆解
+
+1. **V6 是当前多条 REL/Liner/SAP 项目的共同载体**：OI-04（PVA/PTT REL）、OI-14（3-Carded REL with SAP）、OI-20（Three-layer Carded REL + SAP）、OI-13（SAP Selection & Blending）均标注为 COCO V6。
+2. **V6 的关键结构决策**（OI-20，全芯体 v2.0，2026-07-27）：Route A（**Multi-SAP + REL**）升级为优先级；**移除 ADL 与亲水剂**；面层 pattern 选定三叶形 PET。
+3. **V6 已确认可行的工程方案**：丝网分区密度（通过孔径分区实现 SAP 分区密度）、3D 凹凸网面方案、气垫滚筒（非接触输送）。
+4. **V7 的新要求**：**分区密度**（V7 已要求分区密度，各项目需对齐架构）；「分区化取代均匀化」被列为六条技术路线的新方向之一。
+5. **数据基线**：Coco V6 全量数据已产出，是各项目对标的共同起点。
+
+## 关键参数表
+
+| 项目 | 内容 | 出处 |
+|---|---|---|
+| V6 全芯体 v2.0 决定 | Route A（Multi-SAP + REL）升为优先；移除 ADL 与亲水剂 | [[OI项目清单与优先级]] |
+| V6 面层选型 | 三叶形 PET（定稿） | [[OI项目清单与优先级]] |
+| V6 已确认可行方案 | 丝网分区密度、3D 凹凸网面、气垫滚筒 | [[OI项目清单与优先级]] |
+| V7 新要求 | 分区密度 | [[OI项目清单与优先级]] |
+| 关联项目 | OI-04 / OI-13 / OI-14 / OI-20 | [[OI项目清单与优先级]] |
+
+## 相邻概念
+
+- 架构原则：[[分区密度设计]]
+- 结构实体：[[REL增强层]]
+- SAP 协同：[[SAP错峰膨胀]]
+- 落点：[[智能尿裤功能层]]
+
+## 经验教训
+
+> ⚠️ 本页为 seed 状态：库内关于 COCO 的信息散见于 OI 清单与会议纪要，**尚无 V6/V7 的技术文档级来源**。若需引用具体参数，应回源 `raw/ima_sync/个人知识库/WKB/Projects/COCO/` 目录。
+
+- **要点**：V6 → V7 的核心变化是**从均匀化转向分区化**，这会同时影响 REL、Liner、SAP 三条线的架构设计，是项目评审的必过项。
+
+
+> ✅ 验证（2026-09-29，来源 [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]、[[Raw Material Testing Method Summary（原材料测试方法汇总表）]]）：COCO 成型质量判读已形成**成品侧六项方法（China-STM-03/04/05、TTM-02/03）**，第 4 版把宽度测量扩展为 **LSS / PSS × Diaper / Pants** 四套步骤，统一判据为「MD 方向超 **1/2 pad 长度**范围内均有 SAM 颗粒即为 SAM 边缘」，宽度取 **（最宽 + 最窄）/ 2**，**PSS 与 LSS 必须各自单独备样**。但**进厂侧仍是空白**：复合芯体九项判读全部指向 Inner Quality Testing Standard（内控），无 KC STM 编号——**成品判读方法体系与进厂放行体系尚未打通**（详见 [[COCO 芯体成型质量判读方法对比（China-STM-03_04_05 vs TTM-02_03）]]）。
+
+## 追加：Meeting Minutes 批（2026-09-29 追加）
+
+> 本节为 **S5_Areas_Meeting Minutes_01 批次** 编译时的追加记录，**不改动上方既有结论**。
+
+- **2026-09（专利排查会，日期 `[待验证]`）**：以 COCO V6 / 客户 V5、V6 结构为对象做 FTO 比对，确认了 V6 相对同行专利的**七条结构差异**（详见 [[Composite Core Patent Clearance（复合芯体专利规避审查）]]）。其中与平台直接相关的两条：
+  1. **胶与 SAP 混合施胶、无独立胶层** —— 是本次最主要的规避支点；但**分层施胶仍是保留 option**，若切换则该支点失效。
+  2. **压合位置设计**：理想设计是**所有无 SAP 的凹槽位都压合**，但高速下能否 100% 覆盖**未验证**；「狗骨头/哑铃形」花型的侧边区域目前**不规划压**。
+- **对 V7 的提示**：V7 的「分区密度」方向与竞品（如 [[恒安（Hengan）]]）的 **SAP 分区化专利**属同一趋势，**落地前须重做 FTO**（原话：「后面设计上的变化跟生产工艺上的变化，肯定还是要重新来做的」）。
+
+> ✅ 验证（2026-09-29，来源 [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]）：本页既有「V6 是当前多条 REL/Liner/SAP 项目的共同载体」被支持——本次排查即以 V6 结构为比对基线；既有结论未被修正。
+
+## 追加：Meeting Minutes 批（在线新品竞争与策略 workshop，2026-09-29 追加）
+
+> 本节为 **S5_Areas_Meeting Minutes_01 批次** 编译时的追加记录，**不改动上方既有结论**（含同批次「专利排查」追加内容）。
+
+- **V6 的问题定义（本批首次量化）**：真实使用场景（L 号 2–3 h、尿液 50–70 mL）下 **SAP 利用率仅 30–40%**；一片按 12 g SAP 计，约 **7 g 用不到**。平板测试（170 mL）利用率 65–70%、U 型（255 mL）约 50%。→ V6 的 slogan 定为 **「让每一颗 SAP 皆有其用」**。
+- **V6 的三条成功标准**：① 平板与 U 型下的传导/扩散；② **intake time**（U 型下 cradle time 与国标吸收时间）；③ 贴近实际使用的性能。**对标基准为 5.6 X**（市场 top 水平）。
+- **两条收益路径**：利用率提升后，要么放大性能优势，要么**拿掉无用材料换成本节约**（仅 T6+ 产品、基于 2027 forecast 的初步估算见源摘要页）。
+- **本轮已试的 pattern**：X、海王（poke3）、巧克力、燕麦、特斯拉阀、以及**哑铃形**（燕麦 7）——并已在天津 4 月新建的离线复合芯体机上完成两轮实验。
+- **REL cutting 暂列 option**：本轮设备不具备能力，收益未评估出显著提升，短期不做。
+
+> ✅ 验证（2026-09-29，来源 [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]）：本页既有「V6 是当前多条项目的共同载体」被支持，且**首次把 V6 的目标量化为「芯体利用率」**；同时明确 **U 型扩散不能靠 channel 反重力解决、必须靠材料毛细**（与「分区密度」方向互补）。**原结论未被修正**。
+
+## 追加：Meeting Minutes 批（2026-09-29 追加 · COCO V6 code 1–9：平台定位、Be max 边界与面层构成）
+
+> 来源：[[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]（2026-08-17 ASR 转写）。本批只**追加**，不修改既有结论。
+
+**平台定位（已决，本批新增）：**
+
+- **Be max 不进入 COCO V6**：Be max 的另一名为 affordable manner，定位是「给买不起 3D++ 的客户」的低成本路线，因此**不会**用于 COCO V6，也不进入客户回流路线；宽幅统一一事亦不再因 Be max 而推进。
+- 本轮（第二轮，2026-08）目标是「**基于性能找最佳 design**」，而非「为 concept / claim 去改 pattern」；若最佳 design 挖不出想要的落地概念如何对齐，仍属待讨论项。
+- 上线时间参照：离线最早 2028，在线 2029 → concept 准备不宜提前 2–3 年，应先有 design 再围绕 design 打造 concept。
+
+**V6 面层构成（本批新增）：**
+
+| Item 项目 | Value 数值 | Note 备注 |
+| --- | --- | --- |
+| 面层总重 | 50 gsm | 上层 25 + 下层 25，在延江处复合（「岩浆/延江」[待验证]） |
+| 复合方式 | 先由延江双处理复合成 50 g 面层，再到传越做超声波 bonding 粘合 ADL | 与巴西方案同构（复合后作为 topsheet） |
+| 巴西方案 GSM | 上下各 15 g（亦有 15/15、13/30 等搭配） | 仅功能性验证，不纠结细分 |
+| 结构 | 五层结构 | — |
+
+**实验排程约束（本批新增）：**
+
+- code 1–9 中，可合并的组合为 1+2、6+7+8+9；code 3/4/5 因需整体调鼓上 SAP 密度，**必须单独开**。
+- 顺序可打乱，不存在「必须等某个 code 结果才能做下一个」的硬依赖。
+- V6 后续实验**可能不跑 ISR**（视资源与结论而定）→ 待决。
+
+✅ **验证记录（2026-09-29）**：Be max 不进 V6 为会议中已明确结论；面层 50 gsm 构成与巴西方案对比为会议口径，其中「延江」供应商名由 ASR 音转（原文作「岩浆」）[待验证]。参见 [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]、[[Core Channel Pattern（芯体通道花型设计）]]、[[Ultrasonic Bonding of PET-Containing Topsheet]]。
+
+## 追加：Meeting Minutes 批（2026-09-29 追加 · 高速成型机路线与现有 COCO 资产互斥）
+
+> 来源：[[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]（技术评审会 ASR 转写，2026-09-03）。本批只**追加**，不修改既有结论。
+
+**路线互斥的判断（本批新增，重要）：**
+
+- 会中明确：**该高速成型机路线与现有 COCO 资产不可合并** —— "you cannot add this, it's totally different. **You must make a selection, either a or b**"。
+- 明确回答"是否会替换现有 COCO"：**不会替换**；该路线是**新增技术路线的交付**，"谁采用是业务决策"。
+- 属性判断：把 COCO 这类能力装进该机器会变成"**一项新投资**"；若追求**柔性就要多付钱**，若只要直截了当的方案则**不需要真空系统**。
+- 决策现状：上级的视角是**至少先把 pilot 订单下出去**；最终是否采用待定。
+
+**项目时间锚点（本批新增）：**
+
+| Item 项目 | Value 数值 | Note 备注 |
+| --- | --- | --- |
+| pilot 线启动 | **2026 年 10–11 月** | 计划 |
+| 投产目标 | **2028 年** | 上级推动 |
+| 成品目标 | **明年下半年** | [待验证] |
+| 验证路径 | 先在设备方侧验证 → 合格后带回本方 | 可能腾出一条现有商业化产线做 machine bay |
+
+**性能归因（本批新增）**：会中判断 —— 成品性能 **20% 来自制造工艺、80% 来自选什么材料**；因此 pilot 机"应尽可能交付全部能力与柔性"，但材料选择才是决定性的。
+
+✅ **验证记录（2026-09-29）**：路线互斥为会中**判断**而非已决业务决策；时间表为计划值，须以项目立项文件复核。参见 [[Patterned SAP Core Forming Drum（印花SAP芯体成型鼓）]]、[[分区密度设计]]、[[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]、[[Blizzard Core（Blizzard 芯体结构）]]。
+
+## 追加：Meeting Minutes 批（2026-08-06 追加 · V6 第二轮排程、Be max 合并与 SAP 上下层收敛）
+
+> 来源：[[V6 & Be Max Materials Alignment — Profiled Fibre, Colour Spunbond & SAP Layering（录音纪要 2026-08-06）]]（K-C 内部项目对齐会 ASR 转写，2026-08-06）。本批只**追加**，不修改既有结论。
+
+**项目边界的变化（本批新增）：**
+
+- **Be max 与"加异形纤维"被合并为一个项目**（决策方同意，认为"aggressive 一点是好的"）→ Be max 从"仅 saving 项目"升级为**含性能改善**的项目。
+- **中空纺粘**（中间中空、两边实心，用色母实现分区颜色）是当天的新灵感，放 **phase 2**，不进本轮。
+
+**时间表（本批新增）：**
+
+| 节点 | 时间 |
+| --- | --- |
+| V6 第二轮实验 | **2026-08-19 起**，约 **8 天** |
+| 目标完成 | **2026 年 9 月中下旬** |
+| 打样（含巴西 commercial code + 创新验证 code） | **2026-09-21**（已定） |
+| 进口纤维（南京提供）就绪 | **8 月底 / 9 月初** → 只能赶 9/20 那轮 |
+
+**SAP 上下层搭配的收敛（本批新增）：**
+
+| 层 | 牌号 |
+| --- | --- |
+| 上层 | **511** |
+| 下层 | **950 + 610S** / **950** / **950 + 511** |
+| **优先** | **950 + 511** —— 这样整条线**只有两种 SAP**，更简单 |
+
+**其他材料议题（本批新增）：**
+
+- **REL**：**28 gsm** 的样品手感已接近 **40 gsm**，归因于 **PPT**；本周 PVA 到位后上机中试，预计 **9 月**能赶上。
+- **ICP**：topsheet 是否更换未定；可在 **V6 中作为 secondary**；若芯体机实在不行，再考虑直接拉芯体到产线上跑。
+- **LSN 基准**：现行为**常规 100% 粘胶 30 gsm** [待验证]。
+
+**验证边界的原则（本批新增，值得记）：**
+
+> 巴西 commercial 项目有严格成本要求、供应商由对方选定（俊富 / 冠宏 / 华龙）；本方**只做 FEI 验证，不干涉其供应商选择** —— "至于他以后下单要下给谁，不关我们的事"。
+> 但反过来：**创新类技术应在"策略型/核心供应商"上搭平台**，因为一旦成功要 scale up 时"不太可能用非核心供应商去 scale up"。
+
+✅ **验证记录（2026-09-29）**：全部牌号代号由 ASR 音转还原（511 / 950 / 610S）[待验证]；时间点为会中排程，实际执行结果未回溯。参见 [[Multilayer SAP Core（多层SAP芯体）]]、[[三叶形截面纤维（Trilobal Fibre）]]、[[Chromism Taxonomy（变色现象分类）]]。
+
+## 来源
+
+- [[OI项目清单与优先级]] —— `raw/ima_sync/个人知识库/WKB/好，资料已经齐了。根据知识库中最新（2026-09-18）的.md`
+
+## 追加：COCO V6 第三轮试产批（2026-09-29 追加）
+
+> 本节为 **COCO V6 试产批（批次 S1_Projects_COCO_01）** 编译时的追加记录，**不改动上方既有结论**。本批带来 **6 份文档级来源**，其中 CI-06 为**实测级**来源。
+
+### 1. 前文一处状态说明的更正（追加，不改写原文）
+
+> ⚠️ 前文「尚无 V6/V7 的技术文档级来源」在本批后**不再成立**——本批已补入 OI 官方英文清单、试产原料准备会（3 版）、试产物料清单与 **CI-06 第三轮试产实测**共 6 份文档级来源。原文保留，以此条为准。
+
+### 2. 新增事实（V6 试产）
+
+| 项目 | 内容 | 出处 |
+|---|---|---|
+| 试产批次 | **CI-06 COCO V6 第三轮试产**，2026-09-21~30 于天津，19 个码位（Code 1–17 + Control 1/2），测试均在中间加 bonding | [[CI-06 COCO V6 第三轮试产测试结果]] |
+| 试产口径 | 4 位置 · 9 项 · 3 选择维度；供应商 Yanjan / Minrui / Nuoer / Unikorn | [[COCO V6 试产原料准备会（英文版，2026-09-11）]] |
+| 分层架构 | 面层 → **SAP1（皮肤侧独立层）** → **REL（5 纤维 TAB，28 gsm）** → **SAP2 + SAP3 同层混合（poly 侧）** → poly 侧水刺 | [[COCO V6 试产原料准备会（v2 Final）]] |
+| 输出物 | Core Code List（试产目标） | [[COCO V6 试产原料准备会（英文版，2026-09-11）]] |
+| 官方项目侧 | 平台 5「Cores & Absorbent Materials」= OI-20（Signed, high）+ OI-14（In progress, high）；OI-04 明确承接 **V7 分区密度要求** | [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]] |
+
+### 3. 验证记录
+
+> ✅ 验证（2026-09-29，来源 [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]] 等本批 6 份）：本批在「COCO V6 是 REL/Liner/SAP 三线共同载体」「V7 引入分区密度」「V6 全量数据是共同基线」三点上与既有结论**一致**；新增的是 **V6 已从"架构决策"进入"第三轮实物试产"**，并首次有了 **CI-06 实测数据**。
+
+- **重要口径**：既有页面的「V6 全芯体 v2.0：移除 ADL 与亲水剂」与试产实际执行**表面上相反**——试产面层 Code 1/2 明确带**亲水胶 3.5*4 / 2*4**，且 Code 3/4 为「Control-2 基底 + 面层 1/2」。二者**是否冲突、以哪版为准，本页不裁决**（AGENTS.md §5 跨来源矛盾 → manual_review）。
+
+> 🔴 **manual_review（2026-09-29）**：上述「移除亲水剂 vs 试产实际使用亲水胶」的差异需人工确认。
+
+### 4. 追加来源（2026-09-29）
+
+- [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md`
+- [[Coco V6 试产原料清单（Raw material list v3.0）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Raw material list for Coco V6 trial.xlsx.md`
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_EN.pptx.md`
+- [[COCO V6 试产原料准备会（v2 Final）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md`
+- [[COCO V6 试产原料准备会（Summary 版）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_Summary.pptx.md`
+- [[CI-06 COCO V6 第三轮试产测试结果]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial.xlsx.md`
+- 待编译：`raw/ima_sync/个人知识库/WKB/Projects/COCO/`（原条目保留；本批已覆盖其 6 份）
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/CoCo Product-REL Width, SAM Width in REL, LSS and PSS width China STM-05 20200303.pdf.md`
+
+---
+
+### 5. 追加：Resources/Open Innovation 批（2026-09-29 追加 · COCO V2 早期基线）
+
+> 追加来源：[[T5 Pants COCO V2 TD34 Trial Results（四个 Bench Code 与试产数据）]]（`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/T5 Pants COCO V2 with trial on TD34 Results Summary - 20191112.pptx.md`，China BCC R&D，2019-11-12）。
+> **本追加不修正上方任何结论**（上方为 V6/V7 当代内容）；此处补入 **V2 代（2019）基线**，用于把平台演进的**时间轴补齐**。
+
+| 项 | V2 基线（2019-11，CD Pants，TD34 产线） | 与上方 V6/V7 的关系 |
+|---|---|---|
+| **层序** | Liner → LSN → **LSS** → **REL** → **PSS** → PSN → Poly | **「双 SAP 层夹 REL」架构在 V2 已确立**，V6/V7 为同架构的后续代次 |
+| **SAP 上下不对称分配** | M 6/4 g、L 6/6 g、XL 6.5/6.5 g、XXL 7/6.5 g（总量 10/12/13/13.5 g） | M→L 的增量**全部给 PSS**（4→6 g），即**大码补下层**；该「按码调下层」思路可追溯至 V2 |
+| **固定层** | Liner 26gsm DY DL794；REL DY 40gsm TABCW（12D+6D 混纤）；SAM Sandia N210 | 与 V6 时代的 REL/原料体系**已完全不同**，不可数值比较 |
+| **施胶** | 四处全为 **Construction 胶 + Signature 花型**；上下包裹各 0.397 g、REL 两侧各 0.341 g（L 码） | 与后期减胶方向（[[Glueless Bonding（无胶粘合工艺族）]]）形成对照 |
+
+**本批新增的三条可迁移判读（与代次无关，属方法学）**：
+
+1. **LSN × PSN 存在组合效应，不能单因子外推**：四个 Code 仅变 LSN 与 PSN。LSN 同为木芯 38gsm 时，配 Hezhong 35gsm PSN 回渗 **0.07 g（最优）**，配 Ouli 36gsm PSN 回渗 **0.65 g（最差）** ⇒ **换供应商必须重跑组合验证，不能沿用「LSN 已验证」的结论**。
+2. **表面残液（Surface Moisture）比回渗更敏感**：Code 8 0.14 g vs Code 7 1.12 g（差 8 倍），而回渗仅 0.07 vs 0.09 g（差 1.3 倍）⇒ 在**低回渗区间**应改用表面残液做鉴别指标。
+3. **第三次吸收时间与回渗排序完全一致**（A 32.05 s > C9 20.60 s ≈ C7 20.26 s > C8 14.14 s）⇒ 可作回渗的**早期代理指标**；**Pad integrity 四码均 ≥980 次（上限封顶）已失去分辨力**，不可用于 Code 优选。
+
+> ⚠️ **跨代不可比声明**：V2（2019）与 V6/V7（2026）相隔约 7 年，**测试协议、原料供应商、产线均已变更**，两代数据**不得直接数值比较**，仅作结构演进脉络引用。
+>
+> ⚠️ **存疑（2026-09-29）**：V2 数据全部自图表图片文本提取，**未报重复数与标准差**；Code 9 回渗 Max = 1.84 g vs Ave 0.65 g，**组内离散极大**，其 Ave 不足以支撑结论，须重测后方可引用。
+
+### 6. 追加：IPC×FBI 创新合作计划转写（2026-09-29 追加 · 通道芯体机理与时间线）
+
+来源页 [[IPC与FBI团队创新合作计划]]（录音转写，ASR 噪声大，专名与数字 `[待验证]`）：
+
+- **通道位置学习**：窄通道置于加液点附近可改善 MD 方向液体分布；芯体正中放直通道则对任意加液点都稳健；**shift core（裆区密度保留、SAP 仅上下分布）显著改善第三次 Cradle 摄入与 U 形测试表现**——与页面既有「通道花型设计」结论一致。
+- **两步走计划**：Step 1 通道结构优化（改善平放测试分布）→ Step 2 材料筛选（上层/底层换材、毛细性能材料）以攻克 U 形（抗重力）测试；单靠通道无法解决 U 形。
+- **时间线**：COCO V6 中国上市由 2029 提前至 **2028**（管理层压力）；试点线 4 月建成，天津试点线低速 ~100 m/min，高速工程方案进行中。
+- **Origami 折纸芯体（Zheng Yu 供应商）暂停**：IP 顾虑 + 资源让位于 V6 提速；两方案上市间隔仅约一年故二选一。
+
+> ⚠️ 本节为追加记录，未修改上方任何结论；转写数字（如 V6 上市年份、线速）待人工核实。
+
+## Related Sources 关联来源
+
+- [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[CI-06 COCO V6 第三轮试产测试结果]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[COCO V6 试产原料准备会（Summary 版）]]
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[COCO V6 试产原料准备会（英文版，2026-09-11）]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]]
+- [[IMA 知识库索引（2026-09-04）]]
+- [[IMA 知识库索引（2026-09-25）]]
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]

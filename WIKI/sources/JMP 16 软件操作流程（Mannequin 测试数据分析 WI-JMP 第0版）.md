@@ -3,17 +3,18 @@ type: source
 title: "JMP 16 软件操作流程（Mannequin 测试数据分析 WI-JMP 第0版）"
 source_type: 内部作业指导书
 source_path: RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/JMP软件操作流程.docx.md
-source_credibility: 中
+credibility: 中
 knowledge_area: Areas/Test Method/成品/TJ
 subjects:
   - [[JMP 统计分析软件]]
   - [[Mannequin 测试]]
   - [[测试数据分析]]
-related:
+pages_linked:
   - [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
 date_published: 2024-02-26
 knowledge_update_status: done
-compiled_at: 2026-10-11
+key_claims: []
+date_processed: 2026-10-11
 compile_batch: P0-B02/B03/B04
 ---
 

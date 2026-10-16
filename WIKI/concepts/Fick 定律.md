@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Fick 定律"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [diffusion, fick, transport, SAP, absorbent-core, modelling, Crank]
@@ -60,3 +60,10 @@ This is the mathematical foundation layer for the REL core: **[[SAP 溶胀 SAP S
 - [[时间滞后法 Time Lag Method]]
 - [[Boltzmann 变换]]
 - [[湿迁移 Wet Migration]]
+- [[Concentration-Dependent Diffusion Methods (Crank Ch.7)]]
+- [[Introduction to Physical Polymer Science_深度拆书_full]]
+- [[Mathematics of Diffusion_深度拆书报告_academic_20260813]]
+- [[Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)]]
+- [[synthesis]]
+- [[温敏水凝胶负载AgNPs纳米银缓释体系定制]]
+

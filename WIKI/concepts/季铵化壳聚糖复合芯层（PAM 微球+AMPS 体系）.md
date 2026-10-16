@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "季铵化壳聚糖复合芯层（PAM 微球+AMPS 体系）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [芯体, 壳聚糖, PAM, 耐盐]
@@ -33,3 +33,11 @@ tags: [芯体, 壳聚糖, PAM, 耐盐]
 ## Sources 来源
 
 - [[CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/一-8_超吸水纸尿裤及其制备方法和应用.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Absorbent Technology_synthesis]]
+- [[CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）]]
+- [[NOTE]]
+- [[SmartPolymers_全局合成报告]]
+- [[竞品IP专利竞争分析_PCA_BNC-SAP表面交联_20261010]]

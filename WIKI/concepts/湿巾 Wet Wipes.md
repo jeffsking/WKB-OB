@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "湿巾 Wet Wipes"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [湿巾, wipes, 婴童湿巾, 消毒湿巾, GB-T 27728, GB 43631, 化妆水, 无纺布载体]
@@ -77,3 +77,8 @@ What the digest *does* evidence is the **regulatory scope boundary**（口径边
 - [[乳化剂 Emulsifier]]
 - [[保湿剂 Humectant]]
 - [[防腐剂 Preservative]]
+- [[Adhesive Handbook Part 3 Adhesive Classes]]
+- [[Cosmetic Science and Technology]]
+- [[Handbook of Cosmetic Science]]
+- [[Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments]]
+

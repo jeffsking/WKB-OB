@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "乳化剂 Emulsifier"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [formulation, skincare, wet-wipes, surfactant]

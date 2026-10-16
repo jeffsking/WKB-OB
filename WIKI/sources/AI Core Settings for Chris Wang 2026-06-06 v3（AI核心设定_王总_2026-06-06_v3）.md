@@ -43,7 +43,7 @@ The document sets WB (a "lobster" persona) as a principled execution partner for
 
 ## 关联页面
 
-- （无派生页；个人配置文档，仅作索引）
+- [[SAP（高吸水树脂）]]
 
 ## 原文
 

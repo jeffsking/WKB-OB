@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Hot-Melt Slot Coating（热熔狭缝涂布）"
-domain: [卫材研发, 涂层工艺, 流变]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-29
 tags: [热熔胶, 狭缝涂布, 流变, Cross指数, 压降, 冷却辊, 垫片]
@@ -123,3 +123,16 @@ tags: [热熔胶, 狭缝涂布, 流变, Cross指数, 压降, 冷却辊, 垫片]
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Stretch-Triggered Colour Indicator for Diaper Pant Side Panels.pptx.md`
 - [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Indicator_Design_Viscosity_Cost.pptx.md`
 - [[BM Urine Indicator Concept（尿+便双指示概念）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BM/BM_Urine_Indicator_Concept.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Adhesive Feasibility & Action Plan（亲水SAP·烯烃基结构胶·低粘度水溶胶）]]
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[BM Indicator Design — Viscosity & Cost（便指示·流变与成本）]]
+- [[BM Urine Indicator Concept（尿+便双指示概念）]]
+- [[Botanical Extract Efficacy, Wetness Visualisation & Tri-Zone Lotion Review（植物提取物功效测试与验证）]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]]
+- [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]
+- [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
+- [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]

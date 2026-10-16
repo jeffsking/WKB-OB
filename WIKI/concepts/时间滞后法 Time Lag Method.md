@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "时间滞后法 Time Lag Method"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [时间滞后法, 扩散系数测量, 湿迁移, SAP表征, Crank]

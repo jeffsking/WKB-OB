@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Liquid Modes（TL-1607 液体四态）"
-domain: [卫材研发, 测试方法]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [液体四态, TL-1607, 摄入定义, 持留, 锁定, 自由液]
@@ -51,3 +51,7 @@ aliases: ["Liquid Modes", "液体模式", "TL-1607"]
 ## 来源
 
 - [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Intake/Intake Systems Tech Pipeline - Archive.pptx.md`
+
+## Related Sources 关联来源
+
+- [[Intake Systems Tech Pipeline - Archive（摄入系统技术管线·汇编存档）]]

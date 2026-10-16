@@ -5,7 +5,7 @@ date_processed: 2026-09-29
 knowledge_update_status: done
 sources: 
 tags: [SAP, 纳米纤维素, 废弃物利用, 接枝共聚, 专利]
-domain: [卫材研发]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 ---
@@ -43,3 +43,7 @@ updated: 2026-09-30
 
 - [[Biodegradable SAP（可降解高吸水树脂）]]、[[纳米纤维素（CNC、CNF、BNC）]]、[[SAP（高吸水树脂）]]、[[蔗髓纳米纤维素基复合保水剂（Bagasse Nanocellulose SAP）]]
 - Source 来源：[[CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院）]]
+
+## Related Sources 关联来源
+
+- [[CN 108659171 A（一种纳米纤维素超强吸水树脂的制备方法·重庆文理学院）]]

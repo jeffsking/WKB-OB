@@ -10,7 +10,7 @@ date_processed: 2026-10-11
 credibility: 中
 knowledge_update_status: done
 key_claims:
-pages_linked: ["[[紫华公司]]", "[[底膜]]", "[[流延工艺]]", "[[吹膜工艺]]"]
+pages_linked: ["[[紫华公司（Zihua, Zijiang Group）]]", "[[底膜 Backsheet]]", "[[流延工艺]]", "[[吹膜工艺]]"]
 ---
 
 # 紫华公司与 KC 团队技术交流会议
@@ -34,7 +34,7 @@ pages_linked: ["[[紫华公司]]", "[[底膜]]", "[[流延工艺]]", "[[吹膜�
 
 ## 关联页面
 
-- [[紫华公司]]　[[底膜]]　[[流延工艺]]　[[吹膜工艺]]
+- [[紫华公司（Zihua, Zijiang Group）]]　[[底膜 Backsheet]]　[[流延工艺]]　[[吹膜工艺]]
 
 ## 原文
 

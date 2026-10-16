@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -130,3 +131,7 @@ SAP 定义为可吸收自身重量 10-1000% 水而不丧失结构完整性的聚
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Superabsorbent Polymers Review_深度拆书报告_academic_20260813.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Superabsorbent Polymers Review_深度拆书报告_academic_20260813.md.md`
+
+## 关联页面
+
+- [[Gel Blocking（凝胶阻塞）]]　[[SAP（高吸水树脂）]]

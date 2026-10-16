@@ -53,3 +53,19 @@ tags: [恒安, Hengan, 竞品, 卫生巾, BNC 发泡, 供应商竞合]
 - [[BNC 技术分享 PPT 大纲（20260908）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC技术分享_PPT大纲_20260908.md.md`
 - [[拜科瑞 BNC 发酵与发泡线纪要]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BaiKerui BNC.pptx.md`
 - [[CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/三-4_一种分区透气底膜及其制备方法、纸尿裤.pdf.md`
+
+## Related Sources 关联来源
+
+- [[BCC RD 供应商拜访情报 — 拜科瑞（20260831）]]
+- [[BNC 技术分享讲稿（中文，20260908）]]
+- [[BNC 技术分享（英文完整版，20260911）]]
+- [[CN 112778606 A（一种分区透气底膜及其制备方法、纸尿裤）]]
+- [[CoPET-PET vs PE-PET Cost Difference Analysis v3（成本差异分析报告 v3 · 卫材级对等口径）]]
+- [[Composite Core Channel Structure & Bonding Method — Patent Clearance Review（导流压槽区结构及压合方式探讨·专利排查）]]
+- [[IPC BCC OI Materials Development Team 2026 Annual Review Outline（v7）]]
+- [[会议纪要：OI 十月供应商考察与项目推进安排]]
+- [[可降解_生物基材料与薄且强芯体技术深度解析]]
+- [[拜科瑞 BNC 发酵与发泡线纪要]]
+- [[福建闽瑞 vs 厦门延江 产品定位对比]]
+- [[纳米纤维素可降解材料项目合作交流会议记录]]
+- [[纸中“黄金”：揭秘TAD技术，开启生活用纸的“高定”时代]]

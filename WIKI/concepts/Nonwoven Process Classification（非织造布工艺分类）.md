@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Nonwoven Process Classification（非织造布工艺分类）"
-domain: [卫材研发, 非织造布, 材料工艺]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [非织造布, 无纺布, 纺粘, 水刺, 熔喷, 热风, 工艺分类]
@@ -46,3 +46,14 @@ tags: [非织造布, 无纺布, 纺粘, 水刺, 熔喷, 热风, 工艺分类]
 
 ## 来源 Sources
 - [[无纺布分类工艺及性能差异.docx]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/无纺布分类工艺及性能差异.docx.md`
+
+## Related Sources 关联来源
+
+- [[Manufactured Fibre Technology Ch01 Introduction]]
+- [[Manufactured Fibre Technology Ch03 Fluid Flow in Fibre Spinning]]
+- [[Manufactured Fibre Technology Ch04 Melt-Spinning Processes]]
+- [[Manufactured Fibre Technology Ch05 Computer Simulation of Melt Spinning]]
+- [[Manufactured Fibre Technology Ch07 Spin Finishes]]
+- [[Manufactured Fibre Technology Ch16 Polypropylene Fibres]]
+- [[Manufactured Fibre Technology Ch19 Spunbonding and Melt-Blowing Processes]]
+- [[无纺布分类工艺及性能差异.docx]]

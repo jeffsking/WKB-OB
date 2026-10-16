@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -172,3 +173,7 @@ table:nth-child(
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/甲酰胺，可能源头，会下一个PFAS吗？.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/甲酰胺，可能源头，会下一个PFAS吗？.md`
+
+## 关联页面
+
+- [[SCCS（欧盟消费者安全科学委员会）]]　[[甲酰胺（Formamide）]]

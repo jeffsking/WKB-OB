@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -204,3 +205,7 @@ Kimberly-Clark Confidential
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_04 01252021 Single Void Training Deck.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_04 01252021 Single Void Training Deck.pptx.md`
+
+## 关联页面
+
+- [[FIUP Test Method TTM-00643（女性摄入与回渗测试法）]]　[[Kimberly-Clark（金佰利）]]

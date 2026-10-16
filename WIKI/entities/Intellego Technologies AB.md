@@ -40,3 +40,9 @@ tags: [变色油墨, 光致变色, 湿敏指示, 瑞典, 上市公司]
 ## 来源 Sources
 
 - [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理行业变色油墨供应商调研报告.md.md`
+
+## Related Sources 关联来源
+
+- [[Hygiene Chromic Ink Supplier Landscape（卫生护理变色油墨供应商调研 · 2026-06-12）]]
+- [[卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）]]
+- [[变色油墨供应商联系表（19 家 · 联系方式敏感）]]

@@ -49,3 +49,8 @@ tags: [SCA, Essity, 瑞典, 专利权利人, SAP, 纳米纤维素]
 - [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/WO2010071584A1.pdf.md`（同族另含 `US9162007.pdf.md`、`US9162007 (1).pdf.md`）
 
 > 🔴 **manual_review（2026-09-29）**：本页信息全部来自**专利公开文本**（申请人字段），属可公开引用事实；**不得**据此推断 SCA/Essity 的产能、供货关系或商业策略。专利**法律状态与受让人现状**来源未记载，标 `[待验证]`；AI **不作出 FTO 判断**。
+
+## Related Sources 关联来源
+
+- [[EP1581159B1 Method for Producing Diaper Pants（弹性片材）]]
+- [[WO2010071584A1 & US9162007 SAP-Cellulosic Nanofibril Composite (SCA)]]

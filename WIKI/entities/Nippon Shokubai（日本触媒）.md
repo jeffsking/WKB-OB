@@ -107,3 +107,17 @@ aliases: ["日本触媒", "Nippon Shokubai Co., Ltd.", "NSKK"]
 - 来源页 [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]。
 
 > 校验：本节为 2026-09-29 追加，**未修正上方任何结论**。
+
+## Related Sources 关联来源
+
+- [[P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）]]
+- [[SAM Database-CW（全球 SAM 牌号性能数据库）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]]
+- [[我先读取这两份资料，再做对比分析。]]
+- [[海水降解SAP技术研究报告（三维水凝胶-可溶粒子体系·2026-05-21）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]
+- [[竞品IP专利竞争分析_PCA_BNC-SAP表面交联_20261010]]
+- [[纸尿裤材料必读书单_v1]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "GST"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [gst, phase-change-material, chalcogenide, non-volatile, photonics]
@@ -44,3 +44,5 @@ tags: [gst, phase-change-material, chalcogenide, non-volatile, photonics]
 
 - [[Stimuli-Responsive Phase Change Materials Optical and Optoelectronic Applications]]（Vassalini et al., Materials 2021, MDPI 综述）
 - 主题页：[[Stimuli-Responsive PCM]]；对照材料：[[VO2]]
+- [[Stimuli_Responsive_Phase_Change_Material]]
+

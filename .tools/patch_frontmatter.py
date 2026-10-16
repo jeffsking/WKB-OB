@@ -15,7 +15,7 @@ DEFAULTS = {
     'domain': '[卫材研发]', 'status': 'seed', 'category': '待核', 'relationship': '待核',
     'subjects': '[待补]', 'dimension': '[待补]', 'tags': '[待补]',
     'source_type': '待核', 'date_published': '[待验证]', 'date_processed': '2026-09-29',
-    'credibility': '待核', 'knowledge_update_status': 'done', 'original_link': '""',
+    'credibility': '待核', 'knowledge_update_status': 'pending', 'original_link': '""',
     'key_claims': '[待补]', 'pages_linked': '[待补]', 'source_path': '[待补]',
 }
 

@@ -40,3 +40,9 @@ tags: [REL, 梳理, SAP, 芯体]
 - [[芯体花型设计评审会（录音纪要 20260724）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/录音纪要_260724133403.md`
 
 > ⚠️ 信息缺口：源内**无**大原的产能、基地、设备清单等基本盘数据 → `[待验证]`。
+
+## Related Sources 关联来源
+
+- [[2025.03.26 - Learning Cycle Update]]
+- [[IPC BCC OI Project List 2026-09-18（重构版·19 项）]]
+- [[P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况）]]

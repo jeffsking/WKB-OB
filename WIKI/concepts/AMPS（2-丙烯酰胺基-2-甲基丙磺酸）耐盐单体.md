@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "AMPS（2-丙烯酰胺基-2-甲基丙磺酸）耐盐单体"
-domain: [卫材研发, SAP]
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [SAP, AMPS, 耐盐]
@@ -34,3 +34,9 @@ tags: [SAP, AMPS, 耐盐]
 
 - [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN101787101A.pdf.md`
 - [[CN 120285261 A（一种超吸收纸尿裤及其制备方法和应用·广东宜柔）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/一-8_超吸水纸尿裤及其制备方法和应用.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CN 101787101 A（一种高吸水性纳米树脂的制备方法·陕西科技大学）]]
+- [[CN 112442152 B（一种高吸水树脂及其制备方法·中国制浆造纸研究院）]]
+- [[Ebewole Polymer Science Ch08 Copolymerization]]

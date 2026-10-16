@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Short-Fibre Substitution & Refiner Plate Design（短纤替代与磨片设计）"
-domain: [卫材研发, 造纸工艺]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [fiber-to-fiber, 短纤替代, BSKP, BEKP, 桉木浆, 磨片, refiner plate, 打浆]
@@ -48,3 +48,8 @@ tags: [fiber-to-fiber, 短纤替代, BSKP, BEKP, 桉木浆, 磨片, refiner plat
 ## 来源
 
 - [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/甘蔗酒业务及合作讨论.md`
+
+## Related Sources 关联来源
+
+- [[STM-00049 绒毛纤维度.docx]]
+- [[Suzano Pulp Business & Collaboration Review（甘蔗酒业务及合作讨论·实为 Suzano 浆业务）]]

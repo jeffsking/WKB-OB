@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "棉纤维 Cotton"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [cotton, 棉纤维, natural-fibre, wet-strength, topsheet]

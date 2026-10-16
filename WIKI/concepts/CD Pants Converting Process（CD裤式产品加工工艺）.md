@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "CD Pants Converting Process（CD裤式产品加工工艺）"
-domain: [卫材研发, 加工与转换工程]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [CD Pants, 裤式产品, Insert Applicator, MD-to-CD, 腰围片, 相位联动, Scarfing]
@@ -82,3 +82,9 @@ aliases: ["CD 裤式产品加工工艺", "Pants Converting", "拉拉裤加工工
 ## 来源 Sources
 
 - [[CD Pants Process Overview - GIC Korea（CD裤式产品工艺概览·韩国上岗培训）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD Pants Process Overview -GIC Korea.pptx.md`
+
+## Related Sources 关联来源
+
+- [[CD Pants Overview 1-Piece vs 3-Piece Design（裤型 1P 与 3P 设计总览 · 2017-11-30）]]
+- [[CD pants machine process.pptx]]
+- [[EP1581159B1 Method for Producing Diaper Pants（弹性片材）]]

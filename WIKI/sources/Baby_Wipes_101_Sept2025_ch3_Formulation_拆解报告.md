@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -42,7 +43,7 @@ Huggies wipe lotion is >99% purified water, with everything else together making
 - Supporting evidence："for HUGGIES®, over 99% of our formulation is purified water! Everything else makes up less than 1% of the formulation." — SLIDE 11（演讲者备注）
 - Supporting evidence：p11 饼图显示 Water 99%，其余 Preservative System / Surfactants / Botanicals & Vitamins / pH Adjuster / Additives 均为极微量 — SLIDE 11（图像）
 - Supporting evidence："Formulation - #1 Ingredient is Water" — SLIDE 16（标题）
-- Analytical note [[推断]]**：原文只给出水占比，未给出水活度（aw）、未给出单张湿巾的配液添加量（add-on）克重或百分比 — [未找到原句]。因此"水占比高 ⇒ 微生物风险最高"这一因果链中的风险量化环节**是本报告基于 SLIDE 13 防腐剂目的表述的推理延伸，而非原文直接陈述。
+- Analytical note 推断**：原文只给出水占比，未给出水活度（aw）、未给出单张湿巾的配液添加量（add-on）克重或百分比 — [未找到原句]。因此"水占比高 ⇒ 微生物风险最高"这一因果链中的风险量化环节**是本报告基于 SLIDE 13 防腐剂目的表述的推理延伸，而非原文直接陈述。
 ### Core Argument 2 — The preservative system is ranked by the author as the single most important non-water element, and it works by a dual-mechanism design: pH suppression + multi-ingredient breadth.
 
 The speaker explicitly ranks it: excluding water, "the most important ingredient I see on this list is the preservative system." Its design logic has two independent legs — (i) push the solution to pH < 5.0, and (ii) stack multiple preservative ingredients to obtain broad spectrum activity.
@@ -50,14 +51,14 @@ The speaker explicitly ranks it: excluding water, "the most important ingredient
 - Supporting evidence："the most important ingredient I see on this list is the preservative system. Preservatives keep baby wipes fresh and safe to use by preventing microbial, mold and mildew growth and contamination." — SLIDE 16（演讲者备注）
 - Supporting evidence："To prevent microbial growth and rancidification" / "To prevent appearance/odor changes" — SLIDE 13
 - Supporting evidence："Approach — Lower the solution pH (<5.0); Multiple ingredients for broad spectrum activity" — SLIDE 13
-- **Analytical note [[推断]]**："Lower pH + multiple actives" is a classic hurdle technology stacking logic. The deck states both legs but never states why two legs are needed (e.g. no statement that any single preservative fails at some organism class) — [未找到原句]。
+- **Analytical note 推断**："Lower pH + multiple actives" is a classic hurdle technology stacking logic. The deck states both legs but never states why two legs are needed (e.g. no statement that any single preservative fails at some organism class) — [未找到原句]。
 ### Core Argument 3 — Preservation has a hard, non-negotiable boundary: it covers incidental contamination only, never systemic manufacturing hygiene.
 
 This is the chapter's sharpest operational claim and the one with the largest business consequence. Preservatives "Protect the product from incidental microbial exposure" but "Do NOT protect against systemic mill hygiene issues."
 
 - Supporting evidence："Preservatives…. Protect the product from incidental microbial exposure / Do NOT protect against systemic mill hygiene issues" — SLIDE 13
 - Supporting evidence（跨章印证）：KC 使用若干代工厂，包括美国的 Merisco 与 Tufco、英国的 Nice Pack — Ch2 SLIDE 10（演讲者备注）
-- Analytical note [[推断]]**：原文未定义 "incidental" 与 "systemic" 的判定阈值（如 CFU/g 上限、检出频次、环境监控点位） — [未找到原句]。该区分在本报告中按"防腐剂是消耗性保险而非过程控制替代**"来理解。
+- Analytical note 推断**：原文未定义 "incidental" 与 "systemic" 的判定阈值（如 CFU/g 上限、检出频次、环境监控点位） — [未找到原句]。该区分在本报告中按"防腐剂是消耗性保险而非过程控制替代**"来理解。
 ### Core Argument 4 — The surfactant/humectant pair is a balanced design, not a feature list: the humectant exists to compensate for the lipid the surfactant removes.
 
 The humectant's stated function is mechanical and compensatory, not decorative: it maintains skin moisturization "by replacing oils that can get emulsified by the surfactant." This makes Glycerin in the premium lines a technical compensation for a cleaning-induced side effect, not a marketing additive.
@@ -80,3 +81,7 @@ Botanicals/vitamins are justified by recognition ("Aloe and Vitamin E, that care
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告.md.md`
+
+## 关联页面
+
+- [[BNC-PEG 母粒（干态可复水中介体）]]

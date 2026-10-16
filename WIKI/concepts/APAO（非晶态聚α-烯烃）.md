@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "APAO（非晶态聚α-烯烃）"
-domain: [卫材研发, 胶黏剂]
+domain: [卫材研发, 表面处理与胶黏剂]
 status: growing
 updated: 2026-09-30
 tags: [APAO, 非晶聚烯烃, 热熔胶, DSC, 熔融焓, Vestoplast, Eastoflex, Rextac]
@@ -56,3 +56,14 @@ aliases: ["APAO", "Amorphous Poly Alpha Olefin", "非晶态聚α-烯烃"]
 - [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/15_模块三：聚烯烃类热熔胶_US11878492B2_United_States_Patent_(热熔胶含聚烯烃).pdf.md`（以"amorphous polyolefin，熔融焓 <10 J/g"为权利要求组分）
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观摘录**，不构成侵权或 FTO 判断。
+
+## Related Sources 关联来源
+
+- [[EP1146916B1 Oil Resistant Polybutylene-Based Hot Melt Adhesive (Bostik)]]
+- [[EP1347788B1 Antimicrobial Hot Melt Adhesive (Bostik)]]
+- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]
+- [[EP4428211A1 Hot Melt Adhesive Composition (Bostik)]]
+- [[Ebewole Polymer Science Ch08 Copolymerization]]
+- [[Ebewole Polymer Science Ch14 Polymer Viscoelasticity]]
+- [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]]
+- [[东莞市藩泰新材料有限公司产品新目录]]

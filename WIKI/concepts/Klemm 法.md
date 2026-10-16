@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Klemm 法"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [klemm, test-method, capillary-front, washburn, absorbency-testing]
@@ -50,3 +50,5 @@ Klemm 法是一种**毛细前沿（capillary front）吸液测试法**：测量�
 - [[湿态压缩模量]]
 - [[GATS 重力吸收测试]]
 - [[Groove Capillary Suction]]
+- [[Absorbent Technology_ch11_report_20260823_031405]]
+

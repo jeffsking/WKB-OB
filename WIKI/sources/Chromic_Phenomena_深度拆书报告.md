@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -153,3 +154,7 @@ W. 光子晶体三维禁带仍是关键挑战（行 19100+）
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_深度拆书报告.md.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_深度拆书报告.md.md`
+
+## 关联页面
+
+- [[BASF]]　[[Clariant]]　[[DIC]]　[[PPG Industries]]　[[染料敏化太阳能电池 DSSC]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -148,3 +149,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/化纤基础知识（60张PPT）.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/化纤基础知识（60张PPT）.md`
+
+## 关联页面
+
+- [[The LYCRA Company（莱卡）]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[异形纤维]]　[[弹性纤维]]　[[氨纶]]　[[聚烯烃]]

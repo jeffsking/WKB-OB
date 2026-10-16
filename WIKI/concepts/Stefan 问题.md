@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Stefan 问题"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [stefan-problem, moving-boundary, sap-swelling, diffusion, non-fickian]
@@ -49,3 +49,6 @@ Stefan 问题是一类**相变动边界问题**——其数学结构等价于**�
 - [[Case II 扩散]]
 - [[SAP 溶胀 SAP Swelling]]
 - [[SAP（高吸水树脂）]]
+- [[concept_index]]
+- [[synthesis]]
+

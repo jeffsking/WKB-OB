@@ -1,0 +1,97 @@
+---
+type: source
+title: "Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条"
+source_type: 公众号
+source_path: RAW/ima_sync/个人知识库/WKB/Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md
+original_link: ""
+date_published: 2026-10-11
+date_processed: 2026-10-11
+credibility: 中
+knowledge_update_status: pending
+key_claims: []
+pages_linked: []
+compile_mode: extractive
+---
+
+# Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条
+
+## Positioning 定位
+
+本文为 IMA 知识库条目的抽取式源摘要页（`source_type: 公众号`）。
+正文直接摘录自镜像层 `RAW_FULL/ima_sync/个人知识库/WKB/Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md`，未做语义改写；
+待后续深度编译时补全 `key_claims` 与实体链接。
+
+## Extracted Content 原文摘录
+
+# Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条
+
+Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条
+
+作者: 先进微纳纤维复合材料研究荟
+
+发布时间: 2026年10月10日 08:05
+
+发布地点: 广东
+
+section:nth-child(1) > section:nth-child(1) > section:nth-child(2) > section > p">点击蓝字
+
+section:nth-child(1) > section:nth-child(1) > section:nth-child(4) > section > p">关注我们
+
+section:nth-child(1) > section:nth-child(2) > section:nth-child(2) > section > section > p">1.研究背景
+
+section:nth-child(1) > section:nth-child(3) > section > p">纤维素既是地球上最丰富的天然高分子，也是材料、能源和生物医学的重要平台，但“纤维素”并不是单一原料：植物、细菌和海洋生物来源不同，晶型、聚合度、杂质和微观形态都会改变后续加工；分离强度、溶剂体系和再生路径又决定能耗、污染与最终性能。本文以初学者和产品开发者的实际决策为主线，从来源、分离、纯化、晶体结构和溶解策略一路讲到纤维、纳米晶、薄膜、气凝胶、3D打印、包装和建筑应用，并在每个环节标出更绿色的可选路线与尚未解决的规模化难题。产业转化还要求原料波动可管理、工艺与既有设备兼容，并能对水、化学品和能耗进行闭环核算。若只在实验室尺度比较强度或比表面积，往往会忽略从生物质预处理到产品报废之间的环境转移。综述因此把化学结构、加工技术和应用需求放在同一流程图中讨论。
+
+section:nth-child(1) > section:nth-child(4) > section:nth-child(2) > section > section > p">2.本文要点
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(1) > p:nth-child(1)">1.先按目标性能反推纤维素来源。植物纤维素储量大但伴随木质素和半纤维素，细菌纤维素纯度和纳米网络更高却受发酵成本限制。来源决定晶型、尺寸、杂质与可持续边界。选材阶段需要把原料可得性、纯度和目标形态一起考虑，而不能只比较产率。
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(1) > p:nth-child(2)">2.分离与溶解是全链条的关键瓶颈。酸碱、氧化、离子液体、深共熔溶剂和衍生化路线各有选择性、链损伤与回收代价。综述强调不能只看溶解率，还要同时核算聚合度保持、溶剂闭环和副产物利用。作者还比较了机械、化学和生物预处理对能耗、纤维损伤与后续功能化的影响。
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(1) > p:nth-child(3)">3.结构层级决定应用，而非只看化学式。同一葡萄糖链可形成Iα、Iβ、II等晶型，并加工成微纤维、纳米晶、纳米纤维或多孔网络，进而覆盖复合增强、打印、包装、隔热、能源和生物医用场景。这种层级视角解释了纤维素为何能够在承载、传质和界面功能之间切换。
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(3) > p">Scheme 1.给出β-1,4连接葡萄糖单元构成纤维素链的基本化学结构
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(5) > p">图1.总览纤维素来源、分离加工路线和材料应用之间的全链条关系
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(7) > p">图2.展示离子液体破坏纤维素氢键网络并实现溶解—再生的分子过程
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(9) > p">图3.汇总木质素中常见芳香单元及其在分离过程中的结构来源
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(11) > p">Scheme 2.对比纤维素I与纤维素II的链排列和分子内外氢键网络
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(13) > p">图4.比较纤维素Iα与Iβ晶型的晶胞结构和X射线衍射特征
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(15) > p">图5.细菌纤维素的生物医药应用
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(17) > p:nth-child(1)">图6.细菌纤维素为可再生应用做功能化改性
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(19) > p:nth-child(1)">图7.木质纤维素制造生物质能源图谱
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(21) > p:nth-child(1)">图8.展示纤维素与其他生物聚合物共同参与3D打印墨水设计
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(23) > p:nth-child(1)">图9.比较熔融沉积、直写、数字光处理和立体光刻等增材制造方式
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(25) > p:nth-child(1)">图10.3D打印抗菌凝胶用于伤口修复
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(27) > p:nth-child(1)">图11.展示多孔抗菌凝胶的应用
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(29) > p:nth-child(1)">图12.生物墨水成型与3D打印
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(31) > p:nth-child(1)">图13.展示纤维素薄膜与涂层在食品包装中的阻隔、抗菌和可降解功能
+
+section:nth-child(1) > section:nth-child(5) > section > section:nth-child(33) > p">图14.展示纤维素纤维板和气凝胶在建筑保温、隔声与低碳围护中的应用
+
+section:nth-child(1) > section:nth-child(6) > section:nth-child(2) > section > section > p">3.研究结论
+
+section:nth-child(1) > section:nth-child(7) > section > p">综述指出，纤维素的可持续价值不能只由“生物基”三个字决定，而要贯穿原料来源、分离纯化、溶剂循环、结构保持、成形和终端处置全过程。植物来源适合规模化，但应减少过度脱木质素并提高副产物利用；细菌纤维素性能突出，却需要更高效发酵与放大；溶解和再生必须兼顾效率、聚合度与溶剂回收。未来重点包括低成本纳米纤维素生产、保留木质素的全组分加工、晶型和取向的精准控制，以及适用于工业连续制造的绿色溶剂体系。文章由此给出一张从资源到产品的路线图，帮助研究者把材料性能与真实环境代价一起优化。文章同时提醒，实验室使用的绿色试剂只有在回收率、循环次数和放大能耗可接受时才真正可持续。将来源差异、晶型演变、溶剂闭环和产品寿命纳入同一评价体系，是纤维素从性能展示走向稳定制造的前提。
+
+section:nth-child(1) > section:nth-child(8) > section:nth-child(2) > section > section > p">4.文章信息
+
+section:nth-child(1) > section:nth-child(9) > section > p:nth-child(1)">Binayak Raj Pandey，Nazanin Tabatabaei，Cynthia C. Okafor，Iman Ghaderi Jouybari，Uchechukwu (Grace) Johnwealth，Prateek Aryal，Aliasger K. Salem，Scott K. Shaw，Hyeongmin Seo，Xuan Song，Colin L. Weeks，Chunhui Xiang，Florence J. Williams*. Green Chemistry (2026).
+
+section:nth-child(1) > section:nth-child(9) > section > p:nth-child(3)">https://doi.org/10.1039/d6gc04559f
+
+## Original 原文
+
+- 本地路径：`RAW/ima_sync/个人知识库/WKB/Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md`
+- 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Green Chemistry｜从哪里取、怎么溶、能做什么，一篇综述讲透纤维素全链条.md`

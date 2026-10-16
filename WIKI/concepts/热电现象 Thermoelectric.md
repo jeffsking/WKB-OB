@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "热电现象 Thermoelectric"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [thermoelectric, energy-harvesting, ZT, thermoregulation, smart-textile, wearables]

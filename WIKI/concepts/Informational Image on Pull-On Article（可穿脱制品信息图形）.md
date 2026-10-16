@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Informational Image on Pull-On Article（可穿脱制品信息图形）"
-domain: [卫材研发, 结构设计]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [信息图形, informational image, pull-on, pre-literate child, 图形·纹理复合]
@@ -47,3 +47,7 @@ aliases: ["Informational Image", "Cognitively Functional Graphic", "可穿脱制
 
 - [[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/US10905605.pdf.md`
 - [[US11071659B2 Underpants-Type Disposable Diaper with Graphic Sheet (Daio Paper)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-3_Underpants-style_disposable_diaper_and_manufacturing_method_therefor.pdf.md`
+
+## Related Sources 关联来源
+
+- [[US10905605B2 Pull-On Wearable Article with Informational Image (P&G)]]

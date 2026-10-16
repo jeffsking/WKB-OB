@@ -61,3 +61,30 @@ tags: [测试方法, 成品, 原材料, WI-56234, 金佰利]
 - **2026-09-29**：**"一方法两副本"现象在本批再次出现**（STM-01078 存于 `成品/NJ/` 与 `成品/产品折叠长度/`），与批次 05 的 STM-01086 情况相同——**IMA 同步层存在同文多存**，引用时须按 source_path 定位。
 
 > ⚠️ 商务敏感信息：本页不含任何报价或合同条款。
+
+## Related Sources 关联来源
+
+- [[BCC Pants Waist Break Study（Pants 产品拉断研究与两项新方法创建）]]
+- [[China-STM-05 REL _ LSS _ PSS Width（COCO 芯体分层宽度测量 V4）]]
+- [[China-WI-62416 无纺布变形测试 20240201.docx]]
+- [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]]
+- [[GB-T28004-2011 滑渗.doc]]
+- [[GBT28004.1-2021纸尿裤中交货水分的测定.doc]]
+- [[GBT28004.1-2021面层附着物.doc]]
+- [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]]
+- [[STM-00040 厚度.docx]]
+- [[STM-00048 SAM含量.docx]]
+- [[STM-00059 反渗.docx]]
+- [[STM-00070 Elastic Tension - BCC Products（皮筋张力测试 第4版）]]
+- [[STM-00078 端封强度.doc]]
+- [[STM-00090 腰围密封强度.doc]]
+- [[STM-00440 腰围皮筋张力.doc]]
+- [[STM-00686弧形皮筋张力.doc]]
+- [[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]]
+- [[STM-01086 BCC Pants 产品拉断测试（Pants 产品拉断测试方法）.doc]]
+- [[STM-01086 BCC Pants 产品拉断测试（成品）.doc]]
+- [[TTM-00302 面层干爽性.doc]]
+- [[Topical liner Supporting layer Embossing pressure.pdf]]
+- [[澳洲厚度测试.docx]]
+- [[面层粘合强度测试方法.pdf]]
+

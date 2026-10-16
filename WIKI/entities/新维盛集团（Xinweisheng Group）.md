@@ -78,3 +78,12 @@ tags: [热风非织造布, 面层, 福建, 特吕茨勒, 无锑, 排他开发]
 - **竞争对照问题（Q8）**：与格菲林、景其昌相比的差异化技术——现场提问项，库内暂无答案 `[待验证]`。
 
 > 🔴 **manual_review（2026-09-29，追加）**：本节涉及**内部项目议题与供应商关系疑问**（AGENTS.md §5 边界），仅保留要点与缺口编号。
+
+## Related Sources 关联来源
+
+- [[Air-Through Nonwoven Supplier Audit（热风无纺布供应商考察纪要·修订版 2026-08-21）]]
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[KC 拜访供应商维盛（新维盛）技术交流]]
+- [[P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况）]]
+- [[Water-Activated Ink Wetness Indicator & Matsui Shikiso Technical Exchange（水变油墨尿显暨松井技术交流纪要 2026-08-14）]]
+- [[双供应商拜访讨论计划：闽瑞与新维盛（REL 超薄芯体与面层创新 · 2026-08-20 和 08-21）]]

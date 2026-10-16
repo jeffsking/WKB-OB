@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "防腐剂 Preservative"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [preservative, cosmetic-regulation, phenoxyethanol, wet-wipes, antimicrobial, sccs, gb7916]

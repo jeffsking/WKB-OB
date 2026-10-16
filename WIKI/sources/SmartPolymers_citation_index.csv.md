@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -81,3 +82,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/SmartPolymers_citation_index.csv.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/SmartPolymers_citation_index.csv.md`
+
+## 关联页面
+
+- [[BNC-PEG 母粒（干态可复水中介体）]]　[[PNIPAAM]]　[[SAP（高吸水树脂）]]　[[交联 CMC]]

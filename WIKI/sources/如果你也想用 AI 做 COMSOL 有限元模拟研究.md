@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -180,3 +181,7 @@ COMSOL 这种软件不会因为接上 Claude 或 Codex，就突然变成一个�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/如果你也想用 AI 做 COMSOL 有限元模拟研究.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/如果你也想用 AI 做 COMSOL 有限元模拟研究.md`
+
+## 关联页面
+
+- [[AHPs Stewardship Program 与 CODEX™ 痕量物质管控]]

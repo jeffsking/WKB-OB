@@ -4,7 +4,7 @@ title: "Starch-CMC Acetal Crosslinked Superabsorbent（淀粉-CMC 缩醛交联�
 category: 材料
 updated: 2026-09-30
 tags: [生物基高吸水体, 氧化淀粉, 羧甲基纤维素 CMC, 缩醛交联, 球形纳米纤维素, 无外加交联剂]
-domain: [卫材研发]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 ---
 
@@ -75,3 +75,8 @@ status: growing
 - Entity 实体：[[아시아나노텍 주식회사（Asiananotech）]]
 - Concept 概念：[[Citric Acid Crosslinked Cellulose SAH（柠檬酸交联纤维素超吸水凝胶）]]、[[Biodegradable & Bio-based Diaper Materials（可降解与生物基卫材材料）]]、[[SAP性能指标（CRC AUL GBP Vortex）]]
 - Comparison 对比：[[Sodium Polyacrylate SAP vs Cellulose-Based SAH（成本·性能·供应链）]]
+
+## Related Sources 关联来源
+
+- [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]]
+- [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]]

@@ -36,3 +36,11 @@ tags: [Ontex, Orizon, 智能失禁用品, 导电油墨]
 - [[智能尿裤功能层专利地图]] —— `raw/ima_sync/个人知识库/WKB/智能尿裤功能层专利地图.md`
 - [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/03_模块一：SMMS_纺粘-熔喷-熔喷-纺粘无纺布_EP3085346A1_Nonwoven_carrier_for_absorbent_article.pdf.md`
 - 对标价值（原文）：Orizon 印证了**印刷浆料路线**的可行性，是与 BNC 印刷功能层最直接的对标
+
+## Related Sources 关联来源
+
+- [[EP3085346A1 Nonwoven Carrier for Absorbent Article (Ontex)]]
+- [[Ontex与汉高联手推广智能失禁护理产品]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[卫生用品供应商如何应对全新市场格局_荣格工业资源网]]
+- [[智能尿裤功能层专利地图]]

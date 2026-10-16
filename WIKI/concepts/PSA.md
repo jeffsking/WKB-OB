@@ -2,10 +2,22 @@
 type: concept
 title: "PSA"
 domain: hygiene-materials
-status: growing
-updated: 2026-09-30
+status: merged
+updated: 2026-10-12
 tags: [psa, pressure-sensitive-adhesive, side-tape, acrylic, hot-melt]
 ---
+
+> 🔴 **治理合并（2026-10-12）**：与 [[压敏胶 PSA]] 同主题，已并入。
+> 入链已全量改写；本页保留为**指针页**（未删除，原文存档于下方）。
+
+本主题正文见：
+- [[压敏胶 PSA]]
+
+
+---
+
+## 📦 原始内容存档（合并前，2026-10-12）
+
 
 # PSA
 

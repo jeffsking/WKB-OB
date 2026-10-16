@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -86,3 +87,7 @@ Elea & Lili 的构思始于 2017 年，当时 Tatu Miettinen 在第一个孩子�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/VTT衍生公司Elea & Lili获融资，研发无塑高倍吸水树脂 (SAP).md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/VTT衍生公司Elea & Lili获融资，研发无塑高倍吸水树脂 (SAP).md`
+
+## 关联页面
+
+- [[SAM Testing Methods（超级吸水材料测试方法）]]　[[SAP（高吸水树脂）]]　[[SUPER ABSORBENT RESIN]]

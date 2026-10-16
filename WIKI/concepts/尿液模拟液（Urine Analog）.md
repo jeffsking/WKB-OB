@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "尿液模拟液（Urine Analog）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [Urine Analog, 尿液模拟液, 胆盐, 渗漏测试, 吸收测试]
@@ -50,3 +50,19 @@ tags: [Urine Analog, 尿液模拟液, 胆盐, 渗漏测试, 吸收测试]
 - [[GB-T 28004.1-2021 Absorption Tester SOP（国标吸收性能测试仪操作步骤）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/GBT28004.1-2021纸尿裤国标吸收性能测试仪操作步骤.doc.md`
 - [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63849 Motion mannequin.docx.md`
 - [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/BM测试方法/TTM-00467 BM Mannequin Absorption NB-S2.docx.md`
+
+## Related Sources 关联来源
+
+- [[BM simulant A配方 & BM gun操作.docx]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[REL 结构优化与选材技术方案]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Rewet Method Parameter Matrix (xlsx)（回渗测试方法参数矩阵·11 方法）]]
+- [[STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）]]
+- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]
+- [[STM-00429 Void Volume vs Saturation Template（孔隙体积-饱和度曲线计算模板）]]
+- [[TTM-00038 Compression Test for Absorbent（吸收体压缩测试）]]
+- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]
+- [[WI-63848 Static mannequin.docx]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]

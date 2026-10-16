@@ -38,3 +38,7 @@ tags: [TTOBMA, 木浆, 价格指数, 研报, 信息源]
 ## 来源
 
 - [[Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/Market_Pulp_Monthly-March__2026年3月15日.pdf.md`
+
+## Related Sources 关联来源
+
+- [[Market Pulp Monthly March 2026（TTOBMA 木浆月报 · 2026-03-15）]]

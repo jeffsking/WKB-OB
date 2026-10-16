@@ -21,7 +21,7 @@ key_claims:
   - "纤维形态电子器件可编织成高柔性透气纺织品，可水洗数百次——电子纺织品如普通衣物"
   - "特种专题含 10 篇论文：4 篇前瞻（下一代电源系统、可穿戴显示技术）、1 篇研究（人工肌肉材料）、4 篇综述（摩擦纳米发电机、界面键合策略、热拉伸纤维、辐射冷却材料）、1 篇访谈（表观电子学）"
   - "关键科学家：Joseph Wang、Ye Zhang、Peter Bruce（电源）、Zhenan Bao、Huisheng Peng（显示）、Xiang Zhou、Zunfeng Liu（人工肌肉）、Zhong Lin Wang（摩擦纳米发电机）、Xiaodong Chen（界面键合）、Wei Yan（热拉伸纤维）、Cheng-Wei Qiu、Guangming Tao（辐射冷却）、John A. Rogers（表观电子学）"
-pages_linked: ["[[Wearable Electronics (National Science Review 2023)]]", "[[可穿戴传感器 Wearable Sensor]]", "[[电子纺织品 E-textile]]", "[[摩擦纳米发电机 TENG]]", "[[辐射冷却材料 Radiation Cooling]]", "[[柔性电子 Flexible Electronics]]"]
+pages_linked: ["[[Wearable Electronics (National Science Review 2023)]]", "[[可穿戴传感器 Wearable Sensor]]", "[[电子纺织品 E-textile]]", "[[摩擦电自供电 TENG]]", "[[辐射冷却材料 Radiation Cooling]]", "[[柔性电子 Flexible Electronics]]"]
 ---
 
 # Wearable Electronics (National Science Review 2023 Guest Editorial)
@@ -73,7 +73,7 @@ pages_linked: ["[[Wearable Electronics (National Science Review 2023)]]", "[[可
 - [[Wearable Electronics (National Science Review 2023)]]
 - [[可穿戴传感器 Wearable Sensor]]
 - [[电子纺织品 E-textile]]
-- [[摩擦纳米发电机 TENG]]
+- [[摩擦电自供电 TENG]]
 - [[辐射冷却材料 Radiation Cooling]]
 - [[柔性电子 Flexible Electronics]]
 

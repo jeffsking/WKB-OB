@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "达西定律 Darcy's Law"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [darcy-law, 达西定律, porous-media, permeability, capillary-pressure, wicking, washburn, absorbent-core]
@@ -52,7 +52,6 @@ Darcy's law（达西定律）is the governing relation for flow in porous media 
 ## Related Sources 关联来源
 
 - [[Porous Structure and Liquid Flow Models]]
-- [[Porous Structure and Liquid Flow Models]]
 - [[Absorbent Technology]]
 - [[Fluid Absorption in High Bulk Nonwovens]]
 - [[Computational Modeling in Absorbent Technology]]
@@ -63,3 +62,5 @@ Darcy's law（达西定律）is the governing relation for flow in porous media 
 - [[吸收芯体]]
 - [[Washburn Equation]]
 - [[毛细压力 Capillary Pressure]]
+- [[Liquid Flow in Porous Structures]]
+

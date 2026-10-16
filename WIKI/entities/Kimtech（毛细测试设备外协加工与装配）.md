@@ -43,3 +43,7 @@ tags: [设备外协, 金加工, 装配, 测试仪器, 图纸]
 ## 来源
 
 - [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Capillarity Testing Increased Throughput Plan.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]]

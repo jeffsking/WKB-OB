@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "锑（Antimony, Sb）测试方法三口径：可迁移·消解·燃烧"
-domain: [法规与产品安全, 测试方法]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [锑, Sb, 无锑, 消解法, 可迁移, ICP-MS, ICP-OES, PET纤维]
@@ -68,3 +68,9 @@ tags: [锑, Sb, 无锑, 消解法, 可迁移, ICP-MS, ICP-OES, PET纤维]
 
 - [[Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/录音纪要_260710100449.md`（中文 ASR 转写，credibility 低）
 - [[Antimony-Free PET Fibre（无锑 PET 纤维）]]（既有概念页，本页与其互链）
+
+## Related Sources 关联来源
+
+- [[Antimony-Free PET Fibre Compliance Strategy Meeting（无锑合规策略会·录音纪要 2026-07-10）]]
+- [[GB 43631-2023 General Safety Technical Specification for Infants and Children Paper Products（婴幼儿及儿童用纸品基本安全技术规范）]]
+- [[GB 5009.137-2025 Determination of Antimony in Foods（食品安全国家标准 食品中锑的测定）]]

@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -187,3 +188,7 @@ P&G p
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_12 Absorbent System Test Methods - Urine Only - DDB.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_12 Absorbent System Test Methods - Urine Only - DDB.pptx.md`
+
+## 关联页面
+
+- [[FIUP Test Method TTM-00643（女性摄入与回渗测试法）]]　[[IPC BCC OI Portfolio（开放创新项目组合）]]　[[Intake System（摄入系统）]]　[[STM-00146]]　[[Surface Moisture Test（面层干爽性测试）]]

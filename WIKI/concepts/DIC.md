@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "DIC"
-domain: hygiene-materials
+domain: [卫材研发, 实体与供应链]
 status: growing
 updated: 2026-09-30
 tags: [dic, supplier, thermochromic, dyes, chromic-materials]
@@ -41,3 +41,5 @@ tags: [dic, supplier, thermochromic, dyes, chromic-materials]
 ## Related Sources 关联来源
 
 - [[Chromic Phenomena Introduction and Reversible Colour Change]]（Bamfield, RSC 2001）
+- [[Chromic_Phenomena_深度拆书报告]]
+

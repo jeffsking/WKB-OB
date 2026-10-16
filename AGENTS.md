@@ -2,7 +2,8 @@
 
 > 本文件是 AI（WorkBuddy / 其他 Agent）操作本知识库的唯一规则来源。
 > 任何写入、编译、查询、治理行为都必须遵守本手册。
-> 最后更新：2026-09-30（判重锚统一：source_path 全库一律指 RAW/，RAW_FULL 仅作编译输入；§1 目录结构对齐磁盘实况；§2.1 新增 stable 判据与晋升机制）
+> 最后更新：2026-10-12（§2.3 补列 `knowledge_update_status` 字段——此前示例漏列，与 `TEMPLATES/source.md` 矛盾，致生成器漏写、483 页缺字段；已修生成器并回填存量）
+> 前次更新：2026-09-30（判重锚统一：source_path 全库一律指 RAW/，RAW_FULL 仅作编译输入；§1 目录结构对齐磁盘实况；§2.1 新增 stable 判据与晋升机制）
 
 ---
 
@@ -189,6 +190,7 @@ original_link: https://...         # 微信/网页原文链接，如有
 date_published: 2026-09-10
 date_processed: 2026-09-27
 credibility: 高 | 中 | 低          # 研报>官方>公众号>个人日志；判断依据写进正文
+knowledge_update_status: pending | done | manual_review   # 处理状态（§5 状态字段防重复处理）：已 done 的资料不再重复处理
 key_claims:                        # 从中提炼的核心论断（供概念/实体页回链）
   - "阔叶浆报价预计Q4承压"
 pages_linked: ["[[PIX NBSK]]", "[[某浆厂]]"]

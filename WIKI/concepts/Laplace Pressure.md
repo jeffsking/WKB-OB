@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Laplace Pressure"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [concept, 毛细作用, capillary-pressure, young-laplace, rewet, surge-liner]
@@ -55,3 +55,5 @@ tags: [concept, 毛细作用, capillary-pressure, young-laplace, rewet, surge-li
 - [[LPR vs HPR Rewet（低压回渗 vs 高压回渗机制）]] — 分档归因
 
 > 注：digest 中 [[Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)]]（Laplace 变换）与 [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]（工业测压材料阈值）为关键词误命中，与本概念无关，未采信。
+- [[Surface Tension and Surface Energy]]
+

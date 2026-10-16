@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -110,3 +111,7 @@ gate+deal / samples / bench / 100g / material / 11CPK
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/Template/BNC_SAP_platform_onepage_EN_detailed.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/Template/BNC_SAP_platform_onepage_EN_detailed.pptx.md`
+
+## 关联页面
+
+- [[BNC 基 SAP 表面交联]]　[[BNC-PEG 母粒（干态可复水中介体）]]　[[GBP-Limited vs CRC-Limited Regime（渗透受限 vs 容量受限机制）]]　[[SAP（高吸水树脂）]]　[[双物理交联网络水凝胶（PVA-壳聚糖-TOCNF）]]　[[承压吸收 AUL]]

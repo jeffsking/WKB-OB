@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "壳聚糖 Chitosan"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [chitosan, bio-based, antibacterial, topsheet, superabsorbent, skin-friendly]

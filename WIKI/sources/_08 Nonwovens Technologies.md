@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -165,3 +166,7 @@ bicomponent BCW
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_08 Nonwovens Technologies.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/_08 Nonwovens Technologies.pptx.md`
+
+## 关联页面
+
+- [[Core Wrap（芯体包裹层）]]　[[Kimberly-Clark（金佰利）]]

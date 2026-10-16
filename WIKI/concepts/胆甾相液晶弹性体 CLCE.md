@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "胆甾相液晶弹性体 CLCE"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [mechanochromic, structural-colour, chiral-nematic, elastomer, fit-indication]
@@ -55,3 +55,7 @@ CLCE = **Cholesteric Liquid Crystal Elastomer（胆甾相液晶弹性体）**：
 - [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
 - [[Mechanochromic Materials Technical Review（EN v3, 2026-08）]]
 - [[Chromism Taxonomy（变色现象分类）]]
+- [[Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromi]]
+- [[光子晶体膜拉伸贴合指示器]]
+- [[消费者可见（consumer-visible）的话，最像样的]]
+

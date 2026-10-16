@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "染料敏化太阳能电池 DSSC"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [DSSC, TiO2, photoelectrochemistry, solar-energy, chromic]
@@ -42,3 +42,7 @@ Dye-Sensitised Solar Cell（染料敏化太阳能电池）：以染料敏化纳�
 - [[Chromic Phenomena Solar Energy and Liquid Crystals]]
 - 父书：[[Chromic Phenomena]]
 - 相关联概念：[[光致变色 Photochromic]]、[[液晶 Liquid Crystal]]
+- [[Chromic_Phenomena_README]]
+- [[Chromic_Phenomena_原始引用索引.csv]]
+- [[Chromic_Phenomena_深度拆书报告]]
+

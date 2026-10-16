@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Airlaid Paper（无尘纸）"
-domain: [卫材研发, 芯体结构]
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [无尘纸, airlaid, 干法造纸, SAP, 湿巾, 卫品材料]
@@ -40,3 +40,7 @@ tags: [无尘纸, airlaid, 干法造纸, SAP, 湿巾, 卫品材料]
 
 - [[GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB／T 24292-2009 卫生用品用无尘纸.pdf.md`
 - [[GB-T 27728.2-2024 Wipes Part 2 Baby and Child Wipes（湿巾 第2部分 婴童湿巾专用要求）]] —— 适用范围将无尘纸列为湿巾基材之一
+
+## Related Sources 关联来源
+
+- [[GB-T 24292-2009 Airlaid Paper for Sanitary Products（卫生用品用无尘纸）]]

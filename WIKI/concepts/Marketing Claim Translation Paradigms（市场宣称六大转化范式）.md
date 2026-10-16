@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Marketing Claim Translation Paradigms（市场宣称六大转化范式）"
-domain: [采购, 市场与产品定义]
+domain: [卫材研发, 法规与合规]
 status: growing
 updated: 2026-09-30
 tags: [市场宣称, 营销概念, 差异化, 品类创造, 消费者语言, RTB]
@@ -156,3 +156,11 @@ tags: [市场宣称, 营销概念, 差异化, 品类创造, 消费者语言, RTB
 
 > ✅ 验证（2026-09-29）：本节为**追加**，**未修正上方任何既有结论**（含 8 概念内部草案一节）。
 > 🔴 **manual_review（2026-09-29）**：来源为 **K-C 内部汇报**。**本页只记门槛结构与判定逻辑，不转述任何对外宣称文案**；源文含**竞品实测回渗均值与对标品牌（AD、Assurance、Tena）**，**属竞品内部分析，不外发、不作对外宣称依据**。
+
+## Related Sources 关联来源
+
+- [[Brand Portfolio & Summer Product Strategy Review（品牌定位与夏季产品策略）]]
+- [[Depend Rewet Update 2025-04-04（成功标准 · LUGH-GRIFFIN-ATH 进展 · Walmart NWSP 070.9 方法对比）]]
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）]]

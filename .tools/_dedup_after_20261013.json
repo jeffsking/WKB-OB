@@ -1,0 +1,26 @@
+{
+  "uncompiled": [
+    "RAW/ima_sync/个人知识库/WKB/会议主题：聚烯烃胶（Polyolefin Hotmelt）应.md",
+    "RAW/ima_sync/个人知识库/WKB/会议纪要：益生菌_益生元项目——复配体系与丝网印刷工艺讨论.md",
+    "RAW/ima_sync/个人知识库/WKB/莱博药妆（上海直纳）公司介绍及研发合作洽谈.md"
+  ],
+  "duplicate_registration": {},
+  "duplicate_governed_by_merged": {
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Porous Structure and Liquid Flow Models.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Liquid Flow in Porous Structures.md"
+      ]
+    },
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch07_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Cross-linked Cellulose and Its Derivatives.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Cross-linked Cellulose and Derivatives.md"
+      ]
+    }
+  }
+}

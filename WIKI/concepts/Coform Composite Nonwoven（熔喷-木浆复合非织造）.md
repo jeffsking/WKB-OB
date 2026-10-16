@@ -4,7 +4,7 @@ title: Coform Composite Nonwoven（熔喷-木浆复合非织造）
 category: 材料 / 非织造
 updated: 2026-09-30
 tags: [Coform, 熔喷, 木浆, 芯体包裹层, 低克重, 强力, 双色熔喷]
-domain: [卫材研发]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 ---
 
@@ -109,3 +109,13 @@ status: growing
 ## 来源
 
 - [[Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/尿裤包覆层材料探讨.md`
+
+## Related Sources 关联来源
+
+- [[Low-GSM Pulp-Meltblown Core Wrap Review — Strength, Dual Colour & Cost（尿裤包覆层材料探讨）]]
+- [[Manufactured Fibre Technology Ch01 Introduction]]
+- [[Manufactured Fibre Technology Ch04 Melt-Spinning Processes]]
+- [[Manufactured Fibre Technology Ch17 Rayon Fibres]]
+- [[TJ Mill Visit Pre-Brief v3（中文版 · TJ工厂访问会前简报 2026-09-07）]]
+- [[TJ Mill Visit Pre-Brief — GRID × Kirigami, Coform & Gasket Deep-Dive（2026-09-07 v3.1）]]
+- [[无纺布分类工艺及性能差异.docx]]

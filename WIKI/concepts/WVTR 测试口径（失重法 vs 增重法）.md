@@ -71,3 +71,20 @@ aliases: ["Water Vapour Transmission Rate", "水蒸气透过率测试口径"]
 | 读数 | Transmission Rate gm/m²·day + Permeation gm·mil/m²·day | 同上 |
 
 > ✅ 验证（2026-09-29，来源 [[mocon底膜透气率测试.docx]]）：本页「同材料跨方法差一倍以上、口径是比价前提」的结论获得**第三条证据链**——KC 内部现并存**杯式失重（TJ）、杯式增湿（NJ）、MOCON 仪器（37.8 ℃）三种 WVTR 口径**，跨口径数值只能排序、不能换算，引用 WVTR 必须三要素齐全：**方法族 + 温湿度 + 仪器/杯式**。
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[EM Supplier Meeting Follow-ups]]
+- [[EM Supplier Meetings 2026-06-02（紫华、恒碳、格菲林、Huayi 四场技术交流）]]
+- [[OI_Project_Profile_OnePager]]
+- [[OI_Project_Review_KC_BCC_Red]]
+- [[OI_Project_Summary]]
+- [[PF · 00_全书摘要]]
+- [[PF · analysis_ch09]]
+- [[PF · analysis_ch12]]
+- [[Raw Material STM - Nanjing Plant（原材料STM-NJ）]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]
+- [[US20240099910A1 Digitally Printed Backsheet Film (RKW SE)]]
+- [[mocon底膜透气率测试.docx]]

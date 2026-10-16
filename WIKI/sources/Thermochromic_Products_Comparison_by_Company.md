@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -49,3 +50,7 @@ compile_mode: extractive
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Inbox/Thermochromic_Products_Comparison_by_Company.xlsx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Inbox/Thermochromic_Products_Comparison_by_Company.xlsx.md`
+
+## 关联页面
+
+- [[CTI (Chromatic Technologies)]]　[[Daehyun（大炆·微胶囊）]]　[[Insilico]]　[[Matsui Shikiso (松井)]]　[[SUPER ABSORBENT RESIN]]　[[Stimuli-Responsive PCM]]　[[Thermochromic Microcapsule (Leuco Dye System)]]　[[盛色科技（BLOCLO）]]

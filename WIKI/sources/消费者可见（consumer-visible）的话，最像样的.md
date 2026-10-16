@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -297,3 +298,7 @@ Jiayida
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/消费者可见（consumer-visible）的话，最像样的.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/消费者可见（consumer-visible）的话，最像样的.md`
+
+## 关联页面
+
+- [[CTI (Chromatic Technologies)]]　[[Core Wrap（芯体包裹层）]]　[[Henan Jiayida（河南嘉亿达）]]　[[Shenzhen Xingcheng（深圳星辰）]]　[[Sun Chemical]]　[[Technology Roadmap 2026-2029（技术路线图）]]　[[纳米纤维素（CNC、CNF、BNC）]]　[[胆甾相液晶弹性体 CLCE]]

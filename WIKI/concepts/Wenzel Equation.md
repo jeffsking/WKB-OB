@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Wenzel Equation"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [wetting, surface-roughness, contact-angle, hydrophilisation, surface-thermodynamics]

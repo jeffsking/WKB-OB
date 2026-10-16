@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "离子变色 Ionochromic"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [chromic, halochromic, pH-indicator, wetness-indicator]

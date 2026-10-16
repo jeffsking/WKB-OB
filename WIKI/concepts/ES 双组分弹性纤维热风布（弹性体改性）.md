@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ES 双组分弹性纤维热风布（弹性体改性）"
-domain: [卫材研发, 无纺布]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [热风布, ES纤维, 弹性体]
@@ -35,3 +35,9 @@ tags: [热风布, ES纤维, 弹性体]
 ## Sources 来源
 
 - [[CN 105862253 A（一种热粘合无纺布及其生产方法·湖北高翔）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/07_模块二：热风布_热风粘合无纺布（HBT，含ES双组分）_CN105862253A_一种热粘合无纺布及其生产方法（ES皮芯弹性纤维）.pdf.md`
+
+## Related Sources 关联来源
+
+- [[CN 105862253 A（一种热粘合无纺布及其生产方法·湖北高翔）]]
+- [[Manufactured Fibre Technology Ch02 Structural Principles of Polymeric Fibres]]
+- [[Manufactured Fibre Technology Ch09 Heat-setting of Thermoplastic Fibres]]

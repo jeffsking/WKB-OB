@@ -45,3 +45,8 @@ tags: [Dow, 陶氏, OBC, Infuse, 茂金属, 聚烯烃树脂, 热熔胶原料]
 - [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/11_模块三：聚烯烃类热熔胶_EP2456819B1_Hot_melt_adhesive_based_on_olefin_block_.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页**仅记录专利文本对 Dow 牌号的技术性引用**，不构成供应商评估结论；"OBC 由 Dow 独家生产"是**来源原文的时点记述**，须以当前市场核实为准，标 `[待验证]`。商务条件来源未给出，**禁止推测**。
+
+## Related Sources 关联来源
+
+- [[EP2456819B1 Olefin Block Copolymer Hot Melt Adhesive (Bostik)]]
+- [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]

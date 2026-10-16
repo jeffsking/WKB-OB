@@ -30,3 +30,8 @@ tags: [IFRA, 香料, 香精, 法规, 行业标准]
 
 - [[IFRA Standards Guidance (2023-06-30)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/27_IFRA Category Lookup Tool.pdf.md`
 - [[IFRA Standards Guidance (2023-06-30) · 12 大产品类别版]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_27_IFRA_Category_Lookup_Tool_12_大产品类别_.pdf.md`
+
+## Related Sources 关联来源
+
+- [[IFRA Standards Guidance (2023-06-30)]]
+- [[IFRA Standards Guidance (2023-06-30) · 12 大产品类别版]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "PVA纤维（湿强骨架）"
-domain: [卫材研发, 纤维材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [PVA, 聚乙烯醇, 湿强, REL, 非水溶, 骨架纤维]
@@ -81,3 +81,13 @@ aliases: ["PVA 纤维（湿强骨架）"]
 - [[COCO V6 试产原料准备会（v2 Final）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Coco_V6_Trial_Raw_Materials_v2_Final.pptx.md`
 - [[IPC BCC OI 项目清单 2026 v2（2026-09-17）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/COCO/IPC_BCC_OI_Project_List_2026_v2_EN_20260917.pptx.md`
 - [[REL增强层]] —— `raw/ima_sync/个人知识库/WKB/好，资料已经齐了。根据知识库中最新（2026-09-18）的.md`
+
+## Related Sources 关联来源
+
+- [[COCO V6 试产原料准备会（v2 Final）]]
+- [[Coco V6 试产原料清单（Raw material list v3.0）]]
+- [[Manufactured Fibre Technology Ch06 Solution Spinning Processes]]
+- [[OI（Open Innovation）团队会议纪要]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[TTM-00038 Pore Space Modulus to Void Volume Conversion（换算逻辑）]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]

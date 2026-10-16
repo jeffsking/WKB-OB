@@ -38,3 +38,19 @@ tags: [EDANA, 非织造布, 卫品, AHPs, 行业协会]
 > Member-count figures differ across sources (this page records >300; the new source states 250+). The discrepancy is left unresolved here — no existing conclusion is changed; treat membership scale as approximate. （中文：会员数口径存在差异（本页 >300 vs 新源 250+），此处不作裁决，既有结论不改。）
 >
 > INDA and CNITA are not given standalone pages in this wiki: each is mentioned by a single source only, below the two-source threshold. （中文：INDA 与 CNITA 仅单份来源提及，未达两来源门槛，故不新建独立页面。）
+
+## Related Sources 关联来源
+
+- [[Absorbent Technology_ch11_report_20260823_031405]]
+- [[Absorbent Technology_synthesis]]
+- [[EDANA AHPs Dossier (2022 V2.0) — CODEX 痕量物质与 Stewardship Program]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[NW · 00_核心观点汇总]]
+- [[NW · 原始引用索引.csv]]
+- [[NW · 深度拆书文摘]]
+- [[OI能力矩阵和培养计划]]
+- [[Raw Material STM - Tianjin Mill WI-60632（原材料标准测试方法-TJ）]]
+- [[Smithers发布可冲散无纺布市场最新研究报告]]
+- [[满足要求的四大组件性能指标与测试方法]]
+- [[移动版的workbuddy还可以选择Claude的模型？]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]

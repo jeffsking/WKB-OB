@@ -173,3 +173,14 @@ tags: [华峰, Huafon, 氨纶, spandex, 千禧, HDS, PU, TPU, 无溶剂, 生物�
 | 合规路线图 | 1 周内估投资，本周/下周反馈 | [[Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）]] |
 | 数据对齐 | 内部 ↔ SGS 相关性；10 ppm-in-diaper 基准 | 同上 |
 | ISR 试用 | 材料到位后 3–6 个月验证窗口 | 同上 |
+
+## Related Sources 关联来源
+
+- [[August R&D Meeting 2026（华峰研发会议）]]
+- [[Huafeng Group Cooperation Meeting Summary & Action Items（Huafeng Group合作会议总结与行动项）]]
+- [[Huafon Group Capability Review — Spandex DMAC Compliance, Bio-based & Electrospun PU Film（公司业务介绍及发展情况）]]
+- [[Huafon 华峰 August R&D Meeting（氨纶与纳米纤维膜）]]
+- [[Spandex Elastomer Brand Comparison & DMAC Safety Assessment（氨纶弹性体品牌对比及 DMAC 安全评估 2026-07-28）]]
+- [[与华峰集团会晤纪要（2026-07-29）]]
+- [[与华峰集团研发及合作会议纪要]]
+- [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]]

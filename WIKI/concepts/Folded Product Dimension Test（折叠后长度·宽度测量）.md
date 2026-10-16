@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Folded Product Dimension Test（折叠后长度·宽度测量）"
-domain: [卫材研发, 测试方法与表征]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [折叠尺寸, folded length, folded width, STM-01078, OD, 推板, 皮筋回缩]
@@ -55,3 +55,8 @@ aliases: ["折叠后长度宽度测量", "STM-01078", "Folded Dimension"]
 
 - [[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md`
 - [[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/产品折叠长度/STM-01078 OD产品折叠后长度、宽度测量方法.docx.md`
+
+## Related Sources 关联来源
+
+- [[STM-00064 Diaper尺寸.docx]]
+- [[STM-01078 OD产品折叠后长度、宽度测量方法（成品·NJ）.docx]]

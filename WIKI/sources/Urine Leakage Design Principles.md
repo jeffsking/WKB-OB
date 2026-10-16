@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -216,3 +217,7 @@ There should be enough containment space above the body side absorbent materials
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Urine Leakage Design Principles.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Training/Absorbency Core/Urine Leakage Design Principles.pptx.md`
+
+## 关联页面
+
+- [[Kimberly-Clark（金佰利）]]　[[SAM Testing Methods（超级吸水材料测试方法）]]

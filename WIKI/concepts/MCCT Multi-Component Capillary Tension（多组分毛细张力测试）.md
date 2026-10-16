@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "MCCT Multi-Component Capillary Tension（多组分毛细张力测试）"
-domain: [卫材研发, 测试方法]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [MCCT, 毛细张力, Bn, 解吸, 吸收曲线, 停留时间, 终点判定, 测试吞吐]
@@ -56,3 +56,11 @@ aliases: ["MCCT（多组分毛细张力）", "Capillarity Testing（毛细测试
 ## 来源
 
 - [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Capillarity Testing Increased Throughput Plan.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
+- [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]]
+- [[P&G Rewet Patent Deep Dive（宝洁回渗专利深挖）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[War on Wetness - Adult Care Rewet Update（成人护理回渗进展 2026-03）]]

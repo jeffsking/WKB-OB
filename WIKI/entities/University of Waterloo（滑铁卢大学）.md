@@ -38,3 +38,7 @@ tags: [滑铁卢大学, 加拿大, 研究机构, 超吸水凝胶, 纳米纤维�
 - [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]] —— `RAW/ima_sync/个人知识库/WKB/Areas/IP/NEW SAP idea.pdf.md`
 
 > 🔴 **manual_review（2026-09-29）**：本页记录的是**实验室规模学术成果**，不代表商业成熟度、供货能力或与 KC 的合作关系；**不得**由 AI 推断其技术可量产。成本与产能数据来源未给出，标 `[待验证]`。
+
+## Related Sources 关联来源
+
+- [[Citric Acid Crosslinked Cellulose Superabsorbent Hydrogels (CEJ 2025)]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Sensor-Equipped Absorbent Article（含传感器吸收性物品）"
-domain: [卫材研发, 智能监测]
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [sensor, leakage detection, 漏液检测, 传感, 尿湿监测, 智能纸尿裤]
@@ -118,3 +118,16 @@ tags: [sensor, leakage detection, 漏液检测, 传感, 尿湿监测, 智能纸�
 > 追加 `[待验证]`：电阻法在多次排尿后的**基线漂移与误报率**；pogo pin 与栅格线缆在反复拆装后的**接触可靠性**；气味传感器在真实尿裤微环境下的**选择性与阈值**。
 
 > 🔴 **manual_review（2026-09-29）**：本页为**专利技术方案的客观摘录**，不构成侵权或 FTO 判断；各专利法律状态须逐件核实。具体电路/算法/供应商与成本属商务敏感，不页面化。
+
+## Related Sources 关联来源
+
+- [[Diaper Market Claims and Marketing Concept Landscape（市场宣称与营销概念全景）]]
+- [[Diaper NPD Workshop Prep — Absorbency, Skin Health & Comfort Feature Map（2026-06-05）]]
+- [[Elastic Tension Visualization Technology Assessment（拉力松紧可视化技术评估）]]
+- [[New Core Concepts and Claims Draft（芯体新概念与市场宣称草案·8 概念）]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]
+- [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+- [[US 20250064649A1 Intelligent Monitoring Diaper with Enhanced Features (Wu Guohui)]]
+- [[US11013641B2 Garment for Detecting Absorbent Article Leakage (Kimberly-Clark)]]
+- [[US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)]]
+- [[US8273939B2 Disposable Absorbent Articles Having a Windowed Removable Sensor (P&G)]]

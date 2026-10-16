@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "自-sizing Self-sizing"
-domain: hygiene-materials
+domain: [卫材研发, 无纺布工艺]
 status: growing
 updated: 2026-09-30
 tags: [surfactant, pulp, ageing, hydrophobicity, fluff-pulp, rewetting]

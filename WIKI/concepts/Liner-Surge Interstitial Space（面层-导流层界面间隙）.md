@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Liner-Surge Interstitial Space（面层-导流层界面间隙）"
-domain: [卫材研发, 摄入系统, 回渗]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [界面间隙, 剥离强度, 施胶花型, 面层, 导流层, 回渗]
@@ -58,3 +58,8 @@ tags: [界面间隙, 剥离强度, 施胶花型, 面层, 导流层, 回渗]
 
 - [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/HSBL Attachment Strength Results.pptx.md`
 - [[Liner-Surge Rewet Density Testing（面层-导流层密度测试数据）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results/Liner-Surge Rewet - Density Testing.xlsx.md`
+
+## Related Sources 关联来源
+
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[HSBL Attachment Strength Results（HSBL 附着强度结果 · 2025-11-18）]]

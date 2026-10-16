@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "导电纱线 Conductive Yarn"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [conductive-yarn, e-textile, conductive-thread, silver-plated, resistive-sensing, wetness-detection, CNT]

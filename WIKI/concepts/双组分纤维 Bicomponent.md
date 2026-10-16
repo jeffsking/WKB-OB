@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "双组分纤维 Bicomponent"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [bicomponent, fibre, sheath-core, side-by-side, matrix-fibril, ES-fibre, thermal-bonding, nonwoven]
@@ -61,3 +61,13 @@ Bicomponent fibres are the bonding and functional backbone of the hygiene stack:
 - [[热风粘合无纺布]]
 - [[三叶形截面纤维（Trilobal Fibre）]]
 - [[Absorbent Technology]]
+- [[Fibers and Fibrous Materials]]
+- [[Handbook of Nonwovens]]
+- [[KC 与福建兴泰 SMS 无纺布供应商技术交流]]
+- [[Mechanical bonding]]
+- [[Porous Structure and Liquid Flow Models]]
+- [[Products and Technology Perspective]]
+- [[Wet-laid web formation]]
+- [[会议纪要：山东希瑞新材（双色 ES 纤维）]]
+- [[复合纤维生产工艺及性能探讨（KC 与闽瑞纤维技术交流）]]
+

@@ -101,3 +101,13 @@ tags: [supplier, SAP, superabsorbent, HySorb, surface-coating, patent-holder, bi
 - [[IPC BCC（K-C Baby & Child Care 材料开发团队）]]
 - [[IPC BCC OI Portfolio（开放创新项目组合）]]
 - [[COCO芯体平台]]
+- [[Chromic_Phenomena_深度拆书报告]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[Polymer Reaction Engineering_ch04_FRP_Heterogeneous]]
+- [[Polymer Reaction Engineering_深度拆书报告_academic_20260813]]
+- [[SAM Category Strategy - GADT 2022]]
+- [[东莞市藩泰新材料有限公司产品新目录]]
+- [[竞品IP专利竞争分析_PCA_BNC-SAP表面交联_20261010]]
+- [[纸尿裤材料必读书单_v1]]
+- [[纸尿裤材料必读书单_v3_非传统资源]]
+

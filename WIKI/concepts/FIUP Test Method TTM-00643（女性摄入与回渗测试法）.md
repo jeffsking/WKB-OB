@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "FIUP Test Method TTM-00643（女性摄入与回渗测试法）"
-domain: [卫材研发, 测试方法, 回渗]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [FIUP, TTM-00643, 摄入, 回渗, 测试方法, 载荷口径]
@@ -62,3 +62,25 @@ tags: [FIUP, TTM-00643, 摄入, 回渗, 测试方法, 载荷口径]
 ## 来源 Sources
 
 - [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/History of FIUP.docx.md`
+
+## Related Sources 关联来源
+
+- [[2025.10.03 - STEC 2025 - Rewet Design Principles.pptx]]
+- [[Consumer Relevancy of FIUP Method Feb 2025.docx]]
+- [[EM leadership meeting - R&D presentation -Jan 9th 2025 v4 MDCD]]
+- [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]]
+- [[IMA知识库索引_20261002]]
+- [[R168596_TL-16794_Adult Care Wetting Pattern Fundamentals 2015-2016 New Methodologies and Target Zones.pdf]]
+- [[Rewet Development.pptx]]
+- [[Scope Contract - 2025 Fundamental Rewet Improvement.pptx]]
+- [[_04 01252021 Single Void Training Deck]]
+- [[_10b BM Test Methods (out dated)]]
+- [[_10b BM Test Methods updated 08-06-21]]
+- [[_12 Absorbent System Test Methods - Urine Only - DDB]]
+- [[_13 Absorbent_System_Modeling_2021]]
+- [[old BM Test Method Summary]]
+- [[pictures of AD hump]]
+- [[void volume test method.png]]
+- [[满足要求的四大组件性能指标与测试方法]]
+- [[这个问题问得好——参数分级的逻辑本身就是本轮报告最值钱的设计]]
+

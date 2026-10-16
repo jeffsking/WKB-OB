@@ -3,20 +3,21 @@ type: source
 title: "BLOCLO 盛色科技（广州盛色）光变/温变动态色彩材料产品册"
 source_type: 供应商资料
 source_path: RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/BLOCLO盛色科技公司及产品介绍.pdf.md
-source_credibility: 中
+credibility: 中
 knowledge_area: Areas/Supply Base
 subjects:
   - [[盛色科技（BLOCLO）]]
   - [[光变材料]]
-  - [[温变材料]]
+  - [[热致变色]]
   - [[动态色彩]]
-related:
+pages_linked:
   - [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]]
   - [[变色油墨]]
 date_published: ""
   # 口径：源文件未记载发布日期，留空。RAW_FULL 的 extracted 字段是正文回填日期，不是发布日期
 knowledge_update_status: done
-compiled_at: 2026-10-11
+key_claims: []
+date_processed: 2026-10-11
 compile_batch: P0-B02/B03/B04
 ---
 

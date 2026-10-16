@@ -18,7 +18,7 @@ key_claims:
   - "纳米纤维素热熔胶：以纳米纤维素为核，用 PEG + PCL 作成Masterbatch，可替代或减少 SAP，作为 2027 年重点创新项目"
   - "PTT 价格过高现仅用于 REL；若降至 PP 的 3 倍左右可拓展弹性熔喷/纺粘应用"
   - "团队分工：Claire 侧重供应商资源与外部信息，Chris 负责材料端项目执行，越南小哥加入则负责产品结构，争取 Score 回归；项目 Review 建议每季度一次"
-pages_linked: ["[[Open Innovation]]", "[[纳米纤维素]]", "[[三叶草截面纤维]]", "[[SAP（高吸水树脂）]]", "[[中纺技术]]", "[[蓝鲸]]", "[[PVA]]", "[[PTT]]"]
+pages_linked: ["[[Material Open Innovation Function（材料开放创新职能）]]", "[[纳米纤维素（CNC、CNF、BNC）]]", "[[三叶形截面纤维（Trilobal Fibre）]]", "[[SAP（高吸水树脂）]]", "[[中纺技术]]", "[[蓝鲸]]", "[[PVA纤维（湿强骨架）]]", "[[PTT（聚对苯二甲酸丙二醇酯）]]"]
 ---
 
 # OI（Open Innovation）团队会议纪要
@@ -60,7 +60,7 @@ OI 团队的季度性项目盘点与优先级评审纪要，涵盖 22 个项目�
 
 ## 关联页面
 
-- [[Open Innovation]]　[[纳米纤维素]]　[[三叶草截面纤维]]　[[SAP（高吸水树脂）]]　[[中纺技术]]　[[蓝鲸]]　[[PVA]]　[[PTT]]
+- [[Material Open Innovation Function（材料开放创新职能）]]　[[纳米纤维素（CNC、CNF、BNC）]]　[[三叶形截面纤维（Trilobal Fibre）]]　[[SAP（高吸水树脂）]]　[[中纺技术]]　[[蓝鲸]]　[[PVA纤维（湿强骨架）]]　[[PTT（聚对苯二甲酸丙二醇酯）]]
 
 ## 原文
 

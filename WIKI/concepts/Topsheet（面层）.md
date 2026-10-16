@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Topsheet（面层）"
-domain: [卫材研发, 材料]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [面层, Topsheet, GB-T 30133, 打孔膜, PFOS, PFOA, 回收原料]
@@ -65,3 +65,33 @@ tags: [面层, Topsheet, GB-T 30133, 打孔膜, PFOS, PFOA, 回收原料]
 
 - [[GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GBT 30133-2022一次性卫生用品用面层.pdf.md`
 - [[GB 15979-2024 Hygienic Requirements for Disposable Sanitary Products（一次性使用卫生用品卫生要求）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/GB 15979-2024一次性使用卫生用品卫生要求.pdf.md`
+
+## Related Sources 关联来源
+
+- [[2026年主流复合无纺布种类、工艺特性及应用场景]]
+- [[3D面层CD拉伸强度测试.pdf]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[Absorbent Technology_ch10_report_20260823_031404]]
+- [[Adhesive Handbook Part 1 History and Information Resources]]
+- [[Development of the nonwovens industry]]
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]
+- [[FZ-T 64112-2024 Nonwovens for Baby Diapers（婴幼儿纸尿裤用非织造布）]]
+- [[GB-T 30133-2022 Topsheet for Disposable Sanitary Products（一次性卫生用品用面层）]]
+- [[Handbook of Nonwovens]]
+- [[Liner Trial Request（Liner 打样需求单）]]
+- [[Mechanical bonding]]
+- [[NW · 00_全书摘要]]
+- [[NW · 深度拆书文摘]]
+- [[Nonwoven fabric finishing]]
+- [[PF · analysis_ch11]]
+- [[PF · analysis_ch12]]
+- [[Polymer-laid web formation]]
+- [[Thermal bonding]]
+- [[Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）]]
+- [[V6 Product Design & Process Optimization Workshop（V6产品设计与工艺优化 · ASR 纪要）]]
+- [[关键区别是：__liner（面层）优先解决皮肤界面；surg]]
+- [[德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）]]
+- [[无纺布（非织造布）主要分类、工艺及性能差]]
+- [[温度变色指示器（Thermochromic Indicato]]
+- [[纸尿裤结构与技术全景_内容大纲_20260428232500]]
+

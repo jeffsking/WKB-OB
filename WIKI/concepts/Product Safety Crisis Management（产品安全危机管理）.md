@@ -4,7 +4,7 @@ title: Product Safety Crisis Management（产品安全危机管理）
 category: 合规 / 市场
 updated: 2026-09-30
 tags: [危机管理, 舆情, 政府关系, 跨品类外溢, 市场份额长尾损失, 透明化]
-domain: [卫材研发]
+domain: [卫材研发, 法规与合规]
 status: growing
 ---
 
@@ -87,3 +87,8 @@ status: growing
 ## 来源
 
 - [[Market, Government Relations & Product Safety Crisis Review（市场、政府关系及产品问题探讨）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/市场、政府关系及产品问题探讨.md`
+
+## Related Sources 关联来源
+
+- [[Market, Government Relations & Product Safety Crisis Review（市场、政府关系及产品问题探讨）]]
+- [[Smart Sensing Diaper Technology Research Report（智能感知纸尿裤技术研究报告 · 2026-04）]]

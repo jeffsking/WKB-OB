@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Wilhelmy 湿附力法"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [wetting, contact-angle, testing, surface-energy]
@@ -39,3 +39,5 @@ Wilhelmy-derived contact angle / wetting index data decide whether a fibre or we
 
 - [[Absorbent Product Testing]]
 - [[接触角 Contact Angle]]
+- [[Absorbent Technology_ch11_report_20260823_031405]]
+

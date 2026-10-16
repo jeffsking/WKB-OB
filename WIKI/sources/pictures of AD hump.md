@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 ---
@@ -21,3 +22,7 @@ Auto-generated minimal source page（正文过短/无文字层，171 chars）。
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/pictures of AD hump.pptx.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/pictures of AD hump.pptx.md`
+
+## 关联页面
+
+- [[FIUP Test Method TTM-00643（女性摄入与回渗测试法）]]

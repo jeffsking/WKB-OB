@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "植物提取物 Plant Extract"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [plant-extract, botanical-extract, 植物提取物, skin-health, wet-wipes, rutin, inulin, permeability]

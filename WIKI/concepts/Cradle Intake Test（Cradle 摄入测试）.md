@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Cradle Intake Test（Cradle 摄入测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-29
 tags: [Cradle, intake, 吸收时间, 摄入时间, TTM-00148, 注液点, 泵校验, 测试口径]
@@ -88,3 +88,31 @@ aliases: ["Cradle 摄入/吸收时间测试", "Cradle Intake（TTM-00148）"]
 
 > ✅ 验证（2026-09-29，来源上述两份）：本页原「待补」的 Flow rate 量纲问题仍未在原文中明确（表头写 `Flow rate (mL)` 但 DISP = 60 s、Insult Rate 单位为 mL/s，二者相乘得 mL）——**维持 `[待验证]`**。可补：Cradle 的**失效判据**（液体滴到非吸收区 / 流出折页到模具 / 超过 5 min 才流走，均判无效并记作产品失败）、**泵校验**（流出重量须在目标值 ± 3 g 内）、**出液口距产品水平 10 mm**、**间隔 15 min × 3 次**。成品总表另列 **TTM-00617-4 Cut Cradle（Free Fluid）** 为独立变体。
 - [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/早产儿测试方法.docx.md`
+
+## Related Sources 关联来源
+
+- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]
+- [[ADT POV 2025 Complex Core Strategy（ActivTech vs 外部复合芯体）]]
+- [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
+- [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]]
+- [[Depend Rewet Update 2025-04-04（LUGH 与 GRIFFIN 回渗进展）]]
+- [[Depend Ultra-Low Rewet M2M Learning Share（2025-04-22 面层与 ActivTech 芯体）]]
+- [[Depend Ultra-Low Rewet Update 2025-03-26（Raegan Informal · 面层处理与 ActivTech Hybrid 芯体）]]
+- [[Finished Product Testing Method Summary（成品测试方法汇总表）]]
+- [[KC U Rewet测试.docx]]
+- [[NWSP and ISO Test Methods Comparison 11-10-2022 updated.docx]]
+- [[Nanjing South Plant BCC Finished Product STM Compendium WI-56234 Rev.8（南京南厂BCC成品标准测试方法汇编）]]
+- [[Online Core Competition & COCO V6 Strategy Workshop（在线新品竞争与策略）]]
+- [[Preemie Diaper Absorption Test Methods & Parameters（早产儿纸尿裤吸收性能测试方法与参数）]]
+- [[R160739 TL-15582（单次加液与总载荷目标的方法学更新 · 2015）]]
+- [[Rewet Method Comparison（回渗测试方法横向对比·K-C vs P&G）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[Rewet and the Consumer Experience（2026-02-26 ACoP · 回渗与干爽三域关联）]]
+- [[STM-00034 FIFE Nanjing Edition（FIFE 吸收时间与溢出量·南京厂第5版）]]
+- [[STM-00429 Void Volume as a Function of Saturation（方法正文）]]
+- [[STM-00497 Intake via Bladder Box（成人·女性护理压载摄入法草案）]]
+- [[T5 Pants COCO V2 TD34 Trial Results（四个 Bench Code 与试产数据）]]
+- [[TTM-00148 Cradle测试.doc]]
+- [[TTM-00279产品30°滑渗测试.docx]]
+- [[TTM-00623高低压反渗测试.docx]]
+

@@ -50,3 +50,7 @@ aliases: ["Elmarco（纳诺斯彼德）", "纳诺斯彼德"]
 ## 来源
 
 - [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]] —— `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/Electrospinning_Technology_Analysis_Diaper_Application_20260520.docx.md`
+
+## Related Sources 关联来源
+
+- [[Electrospinning Technology Analysis - Diaper Application 2026-05-20（静电纺丝技术深度分析·纸尿裤应用）]]

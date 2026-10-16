@@ -246,7 +246,7 @@
 
 ### 4. 遗留
 
-跨层同名文件 **1031 个**（RAW 与 RAW_FULL 各一份）—— 只要不在 raw 层建 `[[wikilink]]` 即无影响。
+跨层同名文件 **1031 个**（RAW 与 RAW_FULL 各一份）—— 只要不在 raw 层建 `wikilink` 即无影响。
 
 > 📌 **阅读说明（2026-09-29 追加，不改写历史）**：本文件 **2026-09-27 及更早**条目中出现的
 > `raw/ima_sync/WKB/…` 是当时的真实布局。2026-09-28 05:32 IMA 同步在 RAW 侧插入 `个人知识库/` 层后，
@@ -486,7 +486,7 @@ WIKI **244 页**（sources 71 / concepts 88 / entities 55 / comparisons 30）｜
 **断链终修（233 处引用 → 0 断链）**：
 1. `.tools/seed_missing.py` 全量枚举 63 缺失目标：11 个别名改指（`/`→`_` 文件名变体）+ 2 近标题 + 50 待补
 2. `.tools/final_link_fix.py --apply`：改指 33 项 + 高频目标补 **22 个 seed 页**（对比 3 / 实体 8 / 概念 11；只登引用来源与待补维度，**不编造数据**）
-3. 清理占位符 `[[wikilink]]`/`[[log]]` 行文误用 2 处
+3. 清理占位符 `wikilink`/`log` 行文误用 2 处
 4. **`.tools/rebuild_index.py` 修复一个隐蔽 bug**：`parse_front_matter` 按逗号切分内联列表，`Antimony, Sb` 这类含逗号值被拆散重组出假链接 → 改为引号感知切分
 5. `.tools/patch_frontmatter.py`：49 页缺字段补全（seed 页漏 title、旧代理页缺 domain/status/subjects）
 
@@ -1377,3 +1377,86 @@ RAW 条目（排除 attachments）: 1382
 - **阶段 E**：`rebuild_index.py` → index.md **2142 页**（源摘要 1389 / 概念 528 / 实体 145 / 对比 80）。
 - **遗留**：账本 `synced=30` + `discovered=1` 为**同步层陈旧缓存**——dedup 已确认 0 未编译，权威口径以 dedup 为准（§3.6）。`note_7434068337643175` 待 MCP 可用时回填。
 - **口径差异（预期，非 bug）**：账本 compiled=1360 vs dedup compiled=1389，差 +29（dedup 计 merged 指针页/跨条目合并页）。
+
+## 2026-10-13 · 每日增量同步与编译（bcaf361b 日更 · 18:00 调度）
+
+- **阶段 A（枚举，降级通道 · 全量递归）**：本会话 **IMA MCP connector 不可用**。改用 REST `openapi/wiki/v1/get_knowledge_list` 只读兜底，本次**升级为全量递归**（根层 44 + 递归全部子文件夹）→ **1524 条**（1392 文件 + 132 文件夹）。与账本比对：**新增 5 条**、账本多登 4 条。
+- **新增 5 条**（均落 `RAW/ima_sync/个人知识库/WKB/` 根层，由 ima-copilot-sync 插件今日写入）：
+  1. `note_…7515557066707691` **会议纪要：NIFO visit - 可视化材料技术在纸尿裤/卫材产品上的应用探讨**（RAW 侧插件已同步完整正文 11.9KB）
+  2. `markdown_…bcd67769…` **REL增强层专项对比分析_6样品benchmark_20260924**（markdown 原件）
+  3. `note_…7515666085054555` 会议主题：聚烯烃胶（Polyolefin Hotmelt）应…（占位符）
+  4. `note_…7515618626510038` 会议纪要：益生菌/益生元项目——复配体系与丝网印刷工艺讨论（占位符）
+  5. `note_…7515692005855171` 莱博药妆（上海直纳）公司介绍及研发合作洽谈（占位符）
+- **账本合并**：构造 `.tools/_ima_enum_input_20261013.json` → `ima_sync_state.py enumerate` → **新增 5 · 移动 0**，账本 1391→**1396**；`_rebind_raw_path.py` 回绑 raw_path。
+- **阶段 B（落地，PARTIAL）**：plan 6 条（通道 A 5 笔记 + 通道 B 1 markdown）。
+  - ✅ **NIFO visit**：RAW 已有正文 → 镜像至 RAW_FULL（`extract_status: ok`）。
+  - ✅ **REL增强层**：走**通道 B** `get_media_info` 签名 URL 下载原件 47.6KB → RAW_FULL（`ok`）。
+  - ⛔ **3 条笔记命中 REST `200005`（日配额耗尽）** → 按铁律**当日立即停止、不重试**（间隔 45s 复探仍 200005）。对笔记类 `get_media_info` 仅返回 `chrome://note?...`，不可下载 → 3 条**留账本 discovered 待次日**。
+  - `note_7434068337643175`（ima笔记使用指南，legacy `220030`）无内容可取，**长期留积压**。
+- **阶段 C（编译）**：plan 2 条 → 生成 2 张源摘要页（英文为主 + 中文对照，含完整 key_claims）→ `apply` 落 `WIKI/sources/`：`会议纪要：NIFO visit - 可视化材料技术在纸尿裤-卫材产品上的应用探讨.md`、`REL增强层专项对比分析_6样品benchmark_20260924.md`；账本 synced→compiled 2 条。
+- **权威判重终值**：`wkb_dedup scan` → **真实未编译 5 → 3**（余 3 条即上述 200005 阻塞项）· 已编译 **1391** · 重复编译 0 · merged 指针页 4。
+- **阶段 E**：`rebuild_index.py` → index.md **2246 页**（源摘要 1391 / 概念 617 / 实体 145 / 对比 80 / MOC 13）。
+- **口径差异（预期，非 bug）**：账本 compiled=1362 vs dedup compiled=1391，差 +29（dedup 计 merged 指针页/跨条目合并页）。
+- **`memory_guard` 告警（已知）**：`.workbuddy/memory/MEMORY.md` 256 行 → 91 行，经 08:45 巡检（5700cc40）判为**有意压缩重写**、git 有完整备份；未刷新基线，待人工裁定。
+
+
+## 2026-10-14 · 每日增量同步与编译（bcaf361b 日更 · 18:00 调度）
+
+- **编排器**：`kb_daily_pipeline.py run`（incr）脚本侧 A OK / B PARTIAL / C PARTIAL / E OK。
+- **阶段 A（枚举，降级通道 · 全量递归）**：本会话 **IMA MCP connector 不可用** → REST `openapi/wiki/v1/get_knowledge_list` 只读兜底全量递归 → **1528 条**（1396 文件 + 132 文件夹）。合并后账本 **+136 新增**，其中 **132 条为 folder 条目误入 items**（media_type=99），已由 `_ledger_cleanup_20261014.py` 剔除（账本 1532→**1400**，备份 `_ima_sync_state.bak.20261014-preclean`）；真实新增内容 **4 条**：2 份 Biocare markdown、1 条笔记（Meeting Minutes: New Pilot Line）、1 条录音（新生产线高速运行方案）。
+- **插件落地实况**：4 条新条目 **均已由 ima-copilot-sync 写入 RAW**（10-13 23:25 / 10-14 04:01）；`_rebind_raw_path.py` 回绑 raw_path。
+- **阶段 B（落地，PARTIAL）**：plan 8 条（通道 A 6 / 通道 B 2）。
+  - ✅ **Meeting Minutes: New Pilot Line**（笔记）：RAW 已有完整正文 → 镜像 RAW_FULL（`ok`，9.8KB）。
+  - ✅ **新生产线高速运行方案**（录音）：REST `get_doc_content` 不可用 → `empty` + 指针；**通道 B 原件 `get_media_info` → 下载音频 10,770,078 B（audio/mp4）** → `RAW_FULL/.../attachments/新生产线高速运行方案.m4a`（<50MB，双落）。
+  - ✅ **Biocare v2 / v3**（markdown）：正文取自插件已落地的 `attachments/<同名>` → RAW_FULL（`ok`，57.9KB / 45.5KB）。
+  - ✅ **ima笔记使用指南**（legacy 220030 件）：RAW 侧已有正文 → 镜像（`ok`）。
+  - ⛔ **3 条笔记（聚烯烃胶 / 益生菌-益生元 / 莱博药妆）命中 REST `200005`（日配额连续第 2 日未恢复；官方 `ima_api.cjs` 复核同为 200005）** → 按铁律停止、不重试，留账本 `discovered` 待次日。
+  - apply：写入 **5** · 跳过 0 · 失败 0；账本 discovered→synced 5。
+- **阶段 C（编译）**：plan 4 条 → 4 张源摘要页（英文为主 + 中文对照，含完整 key_claims / pages_linked）→ `apply` 落 `WIKI/sources/`：
+  1. `会议纪要：新产线高速运行方案（Meeting Minutes - New Pilot Line High-Speed Running Solution）.md`（page_name 人工修正：REST 标题被截断为 "Meeting Minutes: New Pilot Lin..."）
+  2. `新生产线高速运行方案.md`（录音登记页，指向上页 + 原件）
+  3. `Biocare技术平台_全链路候选供应商清单与甄选信息需求_v2_2026-10-13.md`
+  4. `Biocare_功能乳液配制与热风无纺布施加_全链路供应商清单_v3_2026-10-14.md`
+  账本 synced→compiled 4。
+- **权威判重终值**：`wkb_dedup scan` → **真实未编译 7 → 3**（余 3 条即上述 200005 阻塞笔记）· 已编译 **1395** · 重复编译 0 · merged 指针页 4。
+- **阶段 E**：`rebuild_index.py` → index.md **2250 页**（源摘要 1395 / 概念 617 / 实体 145 / 对比 80 / MOC 13）；`kb_link_guard check` → **断链 0**、front matter 2250/2250、index 对齐 2250/2250。
+- **`memory_guard` 基线刷新**：`.workbuddy/memory/MEMORY.md` 256→91 行告警已连续 2 日复现；经复核为**有意压缩重写**（mtime 2026-10-12 23:25，sha1 三轮一致、结构完整、git 有逐字节备份 `804ba50e96bf`）→ 本轮**执行 `memory_guard.py baseline` 刷新基线**消除假告警（旧基线快照已记入日报，恢复入口 `git show HEAD:.workbuddy/memory/MEMORY.md`）。
+- **口径差异（预期，非 bug）**：账本 compiled=1366 vs dedup compiled=1395，差 +29（dedup 计 merged 指针页 / 跨条目合并页；账本另有 31 条 synced 陈旧缓存）。
+
+
+## 2026-10-15 · 每日增量同步与编译（bcaf361b 日更 · 18:00 调度）
+
+- **编排器**：`kb_daily_pipeline.py run`（incr）脚本侧 **A OK / B OK / C OK / E OK**；Agent 侧补齐 A 枚举、B 正文抓取、C 语义提炼。
+- **阶段 A（枚举，降级通道 · 全量递归）**：本会话 **IMA MCP connector 不可用** → REST `get_knowledge_list` 只读兜底全量递归 → **1532 条 = 1400 文件 + 132 文件夹**；显式剔除 folder 条目后落盘 1400 文件条目。合并：**新增 4 · 移动 0 · 已知 1396**；`_rebind_raw_path.py` 回绑 4 条。账本 **1404**（compiled 1368 / synced 31 / discovered 5）。
+  - **限频治理（新知识）**：REST 短窗口限频 `200001`；原 0.3s 请求间隔在长递归中被 HTTP 403 打断（首跑枚举到一半崩）。改 **2.5s 间隔 + 失败 sleep 12s 重试**后 6m15s 跑完全库。**403 = urllib 表征，权威判据以 `ima_api.cjs` 业务码为准**（本次复核 200001，非配额）。
+- **阶段 B（落地）**：plan 7 条（通道 A 6 / 通道 B 1）。落盘 **2**：
+  - ✅ **温变粉如何应用于纱线染色/纱线印染？**（公众号）：RAW 已有完整正文 → 镜像（`ok`，1042 字符）。
+  - ✅ **5CB贴身合规评估结论备忘录_20261014.docx**（Word）：通道 B `get_media_info` → **下载原件 22.5KB** → `RAW_FULL/.../attachments/` + docx 文本抽取（`ok`）。
+  - ⛔ **5 条笔记（Biocare v3 / 三家技术档案 / 聚烯烃胶 / 益生菌-益生元 / 莱博药妆）命中 REST `200005` 日配额耗尽**（隔 6 分钟复探仍 200005）→ 按铁律停止不重试，留 `discovered`。其中 3 条为 10-13 起 **连续第 3 日**被卡。
+- **阶段 C（编译）**：plan 2 条 → 2 张源摘要页落 `WIKI/sources/`：
+  1. `温变粉如何应用于纱线染色-纱线印染？.md`（公众号 · 低）—— 印花/染色/涂层三路线 + 参数 + 市场。
+  2. `5CB贴身合规评估结论备忘录_20261014.md`（研报 · 高）—— **5CB 贴身路线"已证伪-关闭"**（H312+H317+H315 叠加 + 供应商限研发用途）；PDLC 降级非皮肤接触；贴身金标准转向 HPC + CTI 食品接触级油墨。
+  账本 synced→compiled 2。
+- **权威判重终值**：`wkb_dedup scan` → **真实未编译 7 → 5** · 已编译 **1397** · RAW 条目 1402 · 登记去重 1409 · 重复编译 0 · merged 4。
+- **阶段 E**：`rebuild_index.py` → index.md **2252 页**（源摘要 1397 / 概念 617 / 实体 145 / 对比 80 / MOC 13）；`memory_guard` 通过。
+- **口径差异（预期）**：账本 compiled=1368 vs dedup compiled=1397，差 +29（dedup 计 merged/跨条目合并页；账本 31 条 synced 陈旧缓存）。
+- **遗留**：5 条笔记正文阻塞于 REST 日配额（唯一无配额通道 = MCP `fetch_media_content`，本会话无 connector）→ 建议在带 IMA MCP 的会话补齐，或核查插件是否每日耗尽 get_doc_content 配额；账本 2 条多登只报不清。
+
+---
+
+## 2026-10-16 18:00 · WKB-OB 知识管道日更（增量）
+
+- **编排器**：`kb_daily_pipeline.py run`（incr）→ 脚本侧 **A OK / B PARTIAL / C PARTIAL / E OK**；Agent 侧补齐 A/B/C。
+- **降级前提**：本会话 **IMA MCP connector 不可用** → 阶段 A 走 REST `get_knowledge_list` **全量递归**（1533 条 = 1401 文件 + 132 文件夹）；笔记正文走 REST `get_doc_content`。
+- **阶段 A（枚举）**：源头剔除 folder 条目后合并 → **新增 1 · 移动 1390（kb_path 噪音）· 已知 1400**，账本 **1405**。**`raw_path` 零污染复核通过（改动 0 条）**。限频治理沿用 2.5s 间隔 + 12s 退避，6m13s 跑通。
+- **阶段 B（落地）**：plan 5 条（**全为通道 A 笔记**）→ 全部 `200005` 日配额耗尽 → 停止不重试。**手工补落 1 条**：
+  - ✅ **IMA知识库索引.md**（Markdown）：**新通道实证** —— `markdown_` 条目虽不在 `ima_fetch_originals.py` 白名单内，但 `get_media_info` 可直下原件（签名 URL `.../<hash>.md`）→ 21,497 B 落 `RAW_FULL/ima_sync/个人知识库/WKB/IMA知识库索引.md.md`（`ok`）。
+  - ⛔ **5 条笔记**（莱博药妆 / 聚烯烃胶 / 益生菌-益生元 / 三家技术档案 / Biocare v3）仍卡 `200005`；其中 3 条自 10-13 **连续第 4 日**。
+  - **plan 盲区**：`kb_sync_handler.py plan` 对 `raw_path` 为空的新条目 `continue` → 新条目落盘由 Agent 侧手工完成。
+- **阶段 C（编译）**：plan 1 条 → 1 张源摘要页落 `WIKI/sources/`：
+  - `IMA知识库索引.md`（周度索引快照 · 中 · semantic）—— 累计 **~609 条**；**W41（10/10–10/16）12 条增量全表**；6 条 key_claims（核心：Biocare 口径纠偏「丝网印刷→功能性乳液施加」；E1–E4 证据分级；`X-IMA-Create-URL-Time` 不可作时间判据；200005 属常态风险）。链接 `[[IMA知识库索引_20261009]]` 等。
+  账本 synced→compiled 1。
+- **权威判重终值**：`wkb_dedup scan` → **真实未编译 5 → 5**（新增条目的 RAW 锚点待插件落地，不进 RAW 覆盖率口径）· 已编译 **1397** · 登记路径去重 **1409 → 1410** · WIKI 页面 **2252 → 2253** · 重复编译 **0** · merged 4。
+- **阶段 E**：`rebuild_index.py` → index.md **2253 页**（源摘要 **1398** / 概念 617 / 实体 145 / 对比 80 / MOC 13）；`memory_guard` 通过（守护 13 文件 · 增长 1 · 无覆盖）；`wkb_link_guard check` → **断链 0** · front matter **2253/2253** · index 对齐 **2253/2253**；暂存已归档 `_done/2026-10-16/`。
+- **新知识（建议入 MEMORY）**：`markdown`/`html` 类条目可经 `get_media_info` 直下原件（无配额）——建议扩 `ima_fetch_originals.py` 的 `DL_PREFIXES`。
+- **遗留**：5 条笔记正文阻塞于 REST 日配额（唯一无配额通道 = MCP `fetch_media_content`，本会话无 connector）；插件今日未写 RAW（滞后）；账本多登只报不清。

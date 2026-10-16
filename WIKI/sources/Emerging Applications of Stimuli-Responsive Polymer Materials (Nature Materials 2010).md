@@ -14,7 +14,7 @@ publisher: "Nature Materials"
 year: 2010
 isbn: ""
 original_language: "EN"
-parent_book: "[[Stimuli-Responsive Polymers]]"
+parent_book: "[[刺激响应聚合物 Stimuli-Responsive Polymer]]"
 key_claims:
   - "刺激响应聚合物的本质是'将化学/物理信号转译为多模态信号'——材料本身既是传感器又是执行器"
   - "四类架构的响应时间与幅度权衡：本体聚合物（分钟到数十小时）vs 聚合物刷/薄膜（秒级到分钟级）；Tanaka-Fillmore 模型显示响应时间∝L²"
@@ -22,7 +22,7 @@ key_claims:
   - "LbL 自组装薄膜溶胀度可达 400%；空芯 LbL 胶囊实现 pH/激光触发释药"
   - "P2VP 刷+pH 响应：刷厚 22nm→7nm，SPR 位移 ~50nm——微流控芯片传感器集成"
   - "理论建模仍是薄弱环节：平衡态预测良好但动力学预测能力不足，工业'设计→制造→验证'仍需大量试错"
-pages_linked: ["[[Stimuli-Responsive Polymers]]", "[[刺激响应聚合物 Stimuli-Responsive Polymer]]", "[[PNIPAAM]]", "[[LbL 自组装 Layer-by-Layer]]", "[[聚合物刷 Polymer Brush]]", "[[光致变色 Photochromic]]", "[[热致变色 Thermochromic]]"]
+pages_linked: ["[[刺激响应聚合物 Stimuli-Responsive Polymer]]", "[[刺激响应聚合物 Stimuli-Responsive Polymer]]", "[[PNIPAAM]]", "[[LbL 自组装 Layer-by-Layer]]", "[[聚合物刷 Polymer Brush]]", "[[光致变色 Photochromic]]", "[[热致变色 Thermochromic]]"]
 ---
 
 # Emerging Applications of Stimuli-Responsive Polymer Materials (Nature Materials 2010)
@@ -74,7 +74,7 @@ pages_linked: ["[[Stimuli-Responsive Polymers]]", "[[刺激响应聚合物 Stimu
 
 ## Related Pages 关联页面
 
-- [[Stimuli-Responsive Polymers]]
+- [[刺激响应聚合物 Stimuli-Responsive Polymer]]
 - [[刺激响应聚合物 Stimuli-Responsive Polymer]]
 - [[PNIPAAM]]
 - [[LbL 自组装 Layer-by-Layer]]

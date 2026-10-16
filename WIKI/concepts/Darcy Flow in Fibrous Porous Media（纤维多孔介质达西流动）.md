@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Darcy Flow in Fibrous Porous Media（纤维多孔介质达西流动）"
-domain: hygiene-materials
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [porous-media, Darcy, capillary-flow, absorbent-core, permeability]

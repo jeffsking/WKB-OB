@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "TPE Tetraphenylethylene"
-domain: hygiene-materials
+domain: [卫材研发, 变色与智能材料]
 status: growing
 updated: 2026-09-30
 tags: [TPE, AIEgen, fluorescence, mechanochromic]
@@ -34,3 +34,17 @@ Tetraphenylethylene（四苯乙烯，TPE）：典型的 AIE 发光体（AIEgen�
 
 ## Related Sources 关联来源
 - [[Mechanochromic Fluorescent Polymers with AIE Features]] · [[聚集诱导发光 AIE]] · [[机械变色 Mechanochromic]] · [[Microencapsulation]]
+- [[Biodegradable Thermoplastic_README]]
+- [[Biodegradable Thermoplastic_concepts]]
+- [[Biodegradable Thermoplastic_index.csv]]
+- [[Ebewole Polymer Science Technology_synthesis]]
+- [[Origin of Rubber Elasticity_README]]
+- [[Principles of Polymerization README]]
+- [[Seymour Polymer Chemistry_batch2_concepts]]
+- [[Seymour Polymer Chemistry_batch2_index.csv]]
+- [[Seymour Polymer Chemistry_master_index.csv]]
+- [[Seymour Polymer Chemistry_synthesis]]
+- [[上海星霞产品宣传册中文-20240620(1)]]
+- [[产品手册-力腾力腾化工(无锡)有限公司]]
+- [[纸尿裤材料必读书单_v2_专题]]
+

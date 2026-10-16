@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -90,3 +91,7 @@ The PDMS doped with AgNWs was observed under the SEM, and it was found that the 
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromism and Triboelectric Response.pdf.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Ebook/Self-Powered Photonic Sensor Using Cholesteric Liquid Crystal Elastomer-Based Sandwiched Architecture with Mechanochromism and Triboelectric Response.pdf.md`
+
+## 关联页面
+
+- [[胆甾相液晶弹性体 CLCE]]

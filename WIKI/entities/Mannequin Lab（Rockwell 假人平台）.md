@@ -36,3 +36,11 @@ tags: [Mannequin, 假人测试, Rockwell, BSG1, 渗漏测试]
 ## 来源
 
 - [[WI-63848 Static mannequin.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/WI-63848 Static mannequin.docx.md`
+
+## Related Sources 关联来源
+
+- [[Relevant Product Measurements.xlsx]]
+- [[TTM-00467 BM Mannequin Absorption NB-S2（BM 假人吸收测试）]]
+- [[WI-63848 Static mannequin.docx]]
+- [[WI-63849 Motion Mannequin（动态假人漏尿性与合身性测试）]]
+- [[WI-64766温湿度纽扣测试方法.docx]]

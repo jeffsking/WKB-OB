@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "ZnO Antibacterial Fibre（氧化锌抗菌纤维）"
-domain: [卫材研发, 抗菌材料]
+domain: [卫材研发, REL增强层与纤维]
 status: growing
 updated: 2026-09-30
 tags: [ZnO, 抗菌, in-melt, 非溶出, 除臭, 抗紫外]
@@ -41,3 +41,9 @@ tags: [ZnO, 抗菌, in-melt, 非溶出, 除臭, 抗紫外]
 ## Sources 来源
 
 - [[德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/4T锌力康纤维产品介绍.pdf.md`
+
+## Related Sources 关联来源
+
+- [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]]
+- [[德福伦 4T锌力康纤维产品介绍（ZnO 抗菌涤纶）]]
+- [[德福伦高感性聚酯纤维简介（蜂窝微孔吸湿速干）]]

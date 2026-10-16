@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "聚合物刷 Polymer Brush"
-domain: hygiene-materials
+domain: [卫材研发, 基础理论与模型]
 status: growing
 updated: 2026-09-30
 tags: [polymer-brush, stimuli-responsive, surface-grafting, polyelectrolyte, LCST, PNIPAAm, SCF-theory]

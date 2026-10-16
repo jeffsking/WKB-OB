@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "浊点 Cloud Point"
-domain: hygiene-materials
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-30
 tags: [cloud-point, 浊点, nonionic-surfactant, LCST, phase-transition, light-scattering, rewetting-agent]

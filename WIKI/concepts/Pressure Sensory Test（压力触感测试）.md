@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Pressure Sensory Test（压力触感测试）"
-domain: [卫材研发, 测试与验收]
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [Pressure Sensory, 皮肤接触压力, WI-65030, 舒适度, 橡筋]
@@ -41,3 +41,8 @@ tags: [Pressure Sensory, 皮肤接触压力, WI-65030, 舒适度, 橡筋]
 ## 来源
 
 - [[Pressure Sensory 测试方法.docx]] —— `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/Pressure Sensory 测试方法.docx.md`
+
+## Related Sources 关联来源
+
+- [[Pressure Sensory 测试方法.docx]]
+- [[中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）]]

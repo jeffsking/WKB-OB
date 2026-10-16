@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Ultrasonic Bonding of PET-Containing Topsheet"
-domain: [卫材研发, 无纺布工艺, 转化]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-29
 tags: [超声波粘合, 3D花型, 面层, 转化, PET, 600mpm]
@@ -167,3 +167,17 @@ aliases: ["Ultrasonic Bonding of PET-Containing Topsheet 含 PET 面层的超声
 
 - [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/ATB_topsheet_600mpm_ultrasonic_8slides.pptx.md`
 - [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Liner/Trilobal_PET_Liner_MD_Distribution.pptx.md`
+
+## Related Sources 关联来源
+
+- [[ATB Topsheet with Bico Spunbond for 600 mpm Ultrasonic Lamination]]
+- [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]]
+- [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]]
+- [[Composite Nonwoven Types Processes and Applications 2026（主流复合无纺布种类·工艺·应用）]]
+- [[Diaper Structure & ADL-REL Compendium（纸尿裤结构·ADL与REL辨析）]]
+- [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]]
+- [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]]
+- [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]
+- [[Product Development & Trial Plan Workshop（产品研发与实验计划研讨）]]
+- [[Trilobal PET for MD Distribution in 45 gsm Dual-Card ATB Liner]]
+- [[芯体花型设计评审会（录音纪要 20260724）]]

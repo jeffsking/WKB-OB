@@ -7,6 +7,7 @@ original_link: ""
 date_published: 2026-10-11
 date_processed: 2026-10-11
 credibility: 中
+knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
@@ -60,3 +61,7 @@ COMSOL Multiphysics是一款我用了很多年的多物理场仿真软件，从�
 
 - 本地路径：`RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/从零开始COMSOL教程：1、导论.md`
 - 镜像正文：`RAW_FULL/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/从零开始COMSOL教程：1、导论.md`
+
+## 关联页面
+
+- [[有限体积法]]　[[有限元法]]

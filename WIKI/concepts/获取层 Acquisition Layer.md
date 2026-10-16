@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "获取层 Acquisition Layer"
-domain: hygiene-materials
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [absorbent-core, acquisition, adl, surge-layer, three-layer-model]

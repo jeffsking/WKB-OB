@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "协同吸附 Cooperative Adsorption"
-domain: hygiene-materials
+domain: [卫材研发, SAP与流体]
 status: growing
 updated: 2026-09-30
 tags: [cooperative-adsorption, surfactant, polymer-binding, CAC, CMC]

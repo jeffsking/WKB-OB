@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Intake System（摄入系统）"
-domain: [卫材研发, 摄入层, 面层, 导流层]
+domain: [卫材研发, 芯体与吸收]
 status: growing
 updated: 2026-09-30
 tags: [intake system, liner, surge, transfer layer, wrapsheet, 摄入, 尿布疹, 透气性, 区域优先级]
@@ -111,3 +111,26 @@ aliases: ["摄入系统", "Intake System", "Intake Systems"]
 ## 追加：研讨会成果落地（2026-09-29 追加 · 来源：Stakeholder Report-Out.pptx）
 
 > ✅ Verification（2026-09-29，source 来源 [[Stakeholder Report-Out.pptx]]）：2022-08 研讨会（即上方章程所在活动，"rebuilt from the ground up"）的**成果侧数据**：按 TRL 定义技术组合、逐 sub-benefit 识别缺口、**缺口优先级 17 → 4**。Top 4 缺口：① Active Ingredients——往摄入材料施加活性成分的最优方式（Go Do）；② Less Irritants on Skin——**Runny BM foundations**（BM 沾肤机理与测试方法开发，Go Do）；③ Fluid Distribution（Prioritize）；④ Skin Dryness——**zoned treated materials** 分区处理材料（Connect）。行动项含请求 surfactant SME、No Feel 关键驱动优先级化、优化 liner & surge 与 zoned 方案连接其他 IMF 项目。技术组合按 benefit/sub-benefit 组织的上方判断由此获得成果侧实证。
+
+## Related Sources 关联来源
+
+- [[2022 Intake Systems Innovation Strategy Workshop Charter（摄入系统创新战略研讨会章程 · 2022-08）]]
+- [[Absorbent System Overview（K-C 吸收系统概览培训·2021-02）]]
+- [[BCNF as SAP Replacement - Feasibility Analysis（BCNF 替代 SAP 可行性分析 · 2026-04-13）]]
+- [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]]
+- [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]]
+- [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]]
+- [[Global Overview - Intake Workshop（摄入系统研讨会·全球品牌与区域概览）]]
+- [[Intake Strategy Report-Out - Sept 22 Global Collaboration.pptx]]
+- [[Product Team Report-Outs.pptx]]
+- [[Rewet Competitive Analysis - Depend vs Always Discreet Intake System（回渗竞品分析 · 2025-09-11）]]
+- [[Rewet Competitive Analysis Poise vs Always Discreet（解吸机制与毛细压力）]]
+- [[Rewet Principles（回渗设计原则与测试方法关联）]]
+- [[Rewet Update 2025-12-02（Raegan Informal · Depend 拆解与毛细机理）]]
+- [[SAP Grade Selection for Baby Diaper Core（三份PPT对比·最终推荐）]]
+- [[Stakeholder Report-Out.pptx]]
+- [[Urine and BM Absorbent Basic Training Agenda（尿与便吸收体基础培训议程）]]
+- [[_10 BM Leakage design principles]]
+- [[_11 BM user insights]]
+- [[_12 Absorbent System Test Methods - Urine Only - DDB]]
+

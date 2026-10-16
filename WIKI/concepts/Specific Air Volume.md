@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "Specific Air Volume"
-domain: hygiene-materials
+domain: [卫材研发, 测试与标准]
 status: growing
 updated: 2026-09-30
 tags: [nonwoven, porosity, absorbent-core, capacity-parameter, specific-air-volume, packing-fraction]

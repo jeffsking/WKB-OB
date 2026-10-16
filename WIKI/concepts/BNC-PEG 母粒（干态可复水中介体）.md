@@ -1,7 +1,7 @@
 ---
 type: concept
 title: "BNC-PEG 母粒（干态可复水中介体）"
-domain: [卫材研发, 材料加工]
+domain: [卫材研发, 功能添加剂与整理]
 status: growing
 updated: 2026-09-29
 tags: [BNC, PEG, 母粒, 牺牲占位剂, 可复水, 芯体胶, 供应链自主]
@@ -89,3 +89,37 @@ tags: [BNC, PEG, 母粒, 牺牲占位剂, 可复水, 芯体胶, 供应链自主]
 - [[BNC 技术分享（英文完整版，20260911）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/BNC_Tech_Sharing_PPT_EN_20260911.pptx.md`
 - [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/06_BNC应用红线修订说明_20260905.md.md`
 - [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md`
+
+## Related Sources 关联来源
+
+- [[BCC RD 供应商拜访情报 — 拜科瑞（20260831）]]
+- [[BNC Application Red Line Revision 20260905（BNC 应用红线修订说明）]]
+- [[BNC 技术分享 PPT 大纲（20260908）]]
+- [[BNC 技术分享讲稿（中文，20260908）]]
+- [[BNC 技术分享（英文完整版，20260911）]]
+- [[BNC_SAP_platform_onepage_EN_detailed]]
+- [[BNC增强SAP表面交联_抗菌除臭一体化延伸方案_20261010]]
+- [[BNC增强SAP表面交联_试验工程方案_匿名版_20261010]]
+- [[Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告]]
+- [[Biodegradable Thermoplastic_README]]
+- [[Biodegradable Thermoplastic_concepts]]
+- [[Biodegradable Thermoplastic_index.csv]]
+- [[FTO备忘录_US12145129B2_权项比对_BNC-SAP表面交联_20261010]]
+- [[IMA知识库索引_20261009]]
+- [[Manufactured Fibre Technology · Manufactured_Fibre_Technology_聚合科学交叉参考（PoP）]]
+- [[NOTE]]
+- [[OI供应商拜访计划_2026年10月]]
+- [[OI供应商拜访计划_2026年10月_v2_20261008]]
+- [[OI团队会议-2026-2027项目与供应链建设]]
+- [[PEG-多元醇 × 纤维素吸水体系交叉索引]]
+- [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]]
+- [[Principles of Polymerization README]]
+- [[Principles_of_Polymerization_深度拆书_full]]
+- [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[SmartPolymers_citation_index.csv]]
+- [[ch23_Anti-irritants_for_Surfactant_report]]
+- [[为什么纯 PEG 不能常规熔纺]]
+- [[会议纪要 Knight IV]]
+- [[会议纪要：OI 项目梳理与资源规划讨论会]]
+- [[印刷技术总览（技术谱系）]]
+
