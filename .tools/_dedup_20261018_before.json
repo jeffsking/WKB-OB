@@ -1,0 +1,28 @@
+{
+  "uncompiled": [
+    "RAW/ima_sync/个人知识库/WKB/Anti-staphylococcal potential of montanine-type derivatives from amaryllidaceae alkaloids alone and in combination with antibiotics.pdf.md",
+    "RAW/ima_sync/个人知识库/WKB/一句话结论.md",
+    "RAW/ima_sync/个人知识库/WKB/三家技术档案都在知识库里，我重新调取本轮证据，把参数对齐后给.md",
+    "RAW/ima_sync/个人知识库/WKB/中科一然除臭粉.md",
+    "RAW/ima_sync/个人知识库/WKB/宣布完成超亿元A轮融资 _ 相变储能：六年，完成相变调温纤维从“材料科学”到“产业工程”的跨越.md"
+  ],
+  "duplicate_registration": {},
+  "duplicate_governed_by_merged": {
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Porous Structure and Liquid Flow Models.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Liquid Flow in Porous Structures.md"
+      ]
+    },
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch07_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Cross-linked Cellulose and Its Derivatives.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Cross-linked Cellulose and Derivatives.md"
+      ]
+    }
+  }
+}

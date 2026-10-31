@@ -1,0 +1,11 @@
+{
+ "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_c6f6b257ee30b33ce168d35c6c36ccae001a693ee6c0644e",
+ "extract_status": "ok",
+ "channel": "B",
+ "original_file": "RAW_FULL/ima_sync/个人知识库/WKB/attachments/Decisions.pdf",
+ "content_type": "application/pdf",
+ "bytes": 90388,
+ "chars": 19507,
+ "title": "Decisions.pdf",
+ "extractor": "pypdf-managed-venv"
+}

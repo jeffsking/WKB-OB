@@ -1,0 +1,12 @@
+{
+ "media_id": "soundrecording_3867e2b60070d7dc3f413086d0b0036e_01a1863e29397b9baf6df11cdbe0f0ea001a693ee6c0644e",
+ "extract_status": "ok",
+ "channel": "B-audio",
+ "original_file": "RAW_FULL/ima_sync/个人知识库/WKB/attachments/锦江机场业务介绍.m4a",
+ "content_type": "audio/mp4",
+ "bytes": 18009901,
+ "chars": 5561,
+ "title": "锦江机场业务介绍",
+ "extract_method": "get_media_info 原件 m4a 下载 + AudioTranscribe 转写 + 时间轴清洗结构化",
+ "asr_duration_min": 71
+}

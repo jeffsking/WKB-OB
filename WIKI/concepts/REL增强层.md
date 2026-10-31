@@ -3,7 +3,7 @@ type: concept
 title: "REL增强层"
 domain: [卫材研发, REL增强层与纤维]
 status: growing
-updated: 2026-09-27
+updated: 2026-10-29
 tags: [REL, 增强层, 空体积, STT, 分区密度, COCO]
 aliases: ["REL 增强层（Relative Enhancement Layer / 超薄芯体增强层）"]
 ---
@@ -305,6 +305,8 @@ aliases: ["REL 增强层（Relative Enhancement Layer / 超薄芯体增强层）
 
 ## Related Sources 关联来源
 
+- [[锦琪昶拜访背景资料与 REL 打样清单（20261029）]]  ⟵ **NEW 2026-10-29**：KC NEW REL 4 十项资质矩阵（含 Void Volume / 压缩回弹 / 三级 STT 的合格·优秀双阈值）、四纤维基准 vs 五组分配方、三项决定性缺口（VV / 湿态结合 / 压缩回弹全未测）、临界克重 34.93 gsm 成本模型
+- [[锦琪昶拜访 2026-10-29（热风·超声波 3D 能力与细旦面层、REL 打样路径）]]  ⟵ **NEW 2026-10-29**：REL 打样路径决议（2.3–2.4 m 小线先试）、穿透慢疑因（中空 lumen 坍塌 / 过度粘合）、纤维端添加只能概念宣称
 - [[ATH SAM Relocation（2025-07-29 · 解吸能量·残液·microCT 与 SAM 再分配台架）]]
 - [[BNC PCM-Free Thermoregulation v1（无微胶囊温控·细菌纳米纤维素）]]
 - [[CI-06 COCO V6 第三轮试产测试结果]]

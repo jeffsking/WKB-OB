@@ -55,3 +55,4 @@ tags: [electrochromic, chromic, reversible-colour, smart-textile, textile-displa
 - [[US20070270773A1 Thermochromic Wetness Indicator]]
 - [[湿感指示条 Wetness Indicator]]
 - [[变色油墨]]
+- [[Chromic Six-Trigger Combinations（变色局 005 · 六触发源组合追问 · 2026-10-26）]]

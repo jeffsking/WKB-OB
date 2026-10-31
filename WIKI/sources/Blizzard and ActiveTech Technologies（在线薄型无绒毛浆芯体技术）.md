@@ -3,6 +3,9 @@ type: source
 title: "Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）"
 source_type: 技术说明
 source_path: RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md
+source_paths:
+  - RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md
+  - RAW/ima_sync/个人知识库/WKB/blizzard_activetech_explained.md.md
 original_link: ""
 date_published: "[待验证]"
 date_processed: 2026-09-29
@@ -73,6 +76,15 @@ A **technical explainer** separating three things that are routinely conflated i
 - Concepts 概念：[[Blizzard Core（Blizzard 芯体结构）]]、[[ActiveTech Platform（ActiveTech 在线薄芯体平台）]]、[[ROTC（Real Online ThinTech Core）]]、[[绒毛浆（Fluff Pulp）]]、[[SAP错峰膨胀]]、[[分区密度设计]]、[[ADL（导流层）]]、[[亲水-疏水梯度设计]]
 - Test methods 测试方法：[[芯体测试方法与验收基准（STM）]]、[[SAP性能指标（CRC AUL GBP Vortex）]]
 - Sibling source 同批源：[[Active Hygiene Roadmap（力致变色材料商业化路线图）]]
+
+## Merge Record 并入记录（2026-10-28）
+
+| 项 | 内容 |
+|---|---|
+| 触发 | IMA 侧同日新增条目 `blizzard_activetech_explained.md`（media_id 前缀 `markdown_3867e2b6…f025334e`），kb_path 位于**知识库根层**，与本页既有源（`Projects/Active Hygiene/` 子目录）**文件名相同** |
+| 判据 | 原件 SHA-1 **完全一致**（`b6a4e078d8ec87156e54c00f7ae2528f82ff1dc1`，4,602 B），非版本迭代、非同族不同文 |
+| 处置 | 按 AGENTS.md §1.1.4 以既有页为主件，新条目路径并入 `source_paths`，**未建平行页**（已删除同日误建页并备份至 `.tools/_backup_blizzard_dup_20261028/`） |
+| 锚点状态 | 新条目 `RAW/` 侧文件**尚未落盘**（插件未同步该根层路径），正文取自 `get_media_info` 原件下载并经 `RAW_FULL/ima_sync/个人知识库/WKB/attachments/` 镜像；待插件落盘后自动自愈 |
 
 ## Source 原文
 

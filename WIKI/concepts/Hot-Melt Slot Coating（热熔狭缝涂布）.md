@@ -136,3 +136,5 @@ tags: [热熔胶, 狭缝涂布, 流变, Cross指数, 压降, 冷却辊, 垫片]
 - [[Personal Care Process 101 - How It's Made（卫品加工工艺入门）]]
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
 - [[US5266394A Disposable Articles Containing SIS Block Copolymers (Dow)]]
+
+- [[PEG-Based Slot-Die Emulsion for Visual Cue Layer（可视化功能层复配乳液方案集 · 2026-10-30）]]

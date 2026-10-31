@@ -1,0 +1,67 @@
+{
+  "at": "2026-10-25T09:22:54+08:00",
+  "ledger": {
+    "total": 1435,
+    "stages": {
+      "compiled": 1427,
+      "synced": 4,
+      "discovered": 4
+    },
+    "with_kb_path": 1427
+  },
+  "dedup": {
+    "rc": 0,
+    "compiled": 1411,
+    "uncompiled": 3,
+    "raw_entries": 1414,
+    "dup_live": 0,
+    "merged_pages": 4
+  },
+  "ledger_vs_raw": {
+    "ledger_count": 1431,
+    "raw_count": 1414,
+    "only_in_raw": [],
+    "only_in_ledger": [
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/Here's the integrated project ....md",
+      "RAW/ima_sync/个人知识库/WKB/NTMT丨PCM相变调温纤维：是黑科技还是噱头？从芯材选择到纺丝应用，这篇全讲明白了.md",
+      "RAW/ima_sync/个人知识库/WKB/OBC_纸尿裤皮筋可行性方案_2026-10-22.md.md",
+      "RAW/ima_sync/个人知识库/WKB/OBC产业化核实报告_2026-10-22.md.md",
+      "RAW/ima_sync/个人知识库/WKB/OBC方案_vs_NISO工艺_弹性膜与弹性无纺布对比_2026-10-22.md.md",
+      "RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×中科一然_除味材料技术对接.md.md",
+      "RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×聚合芯能_功能性材料技术对接_20261023_CN.md.md",
+      "RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×聚合芯能_功能性材料技术对接_20261023_EN.md.md",
+      "RAW/ima_sync/个人知识库/WKB/功能性材料配方与应用探讨.md",
+      "RAW/ima_sync/个人知识库/WKB/卫生巾材料与功效成分.md",
+      "RAW/ima_sync/个人知识库/WKB/卫生用品功能性材料研发.md",
+      "RAW/ima_sync/个人知识库/WKB/吸湿发热纤维的热物理学分析.md",
+      "RAW/ima_sync/个人知识库/WKB/大连化物所科研贡献与发展历程.md",
+      "RAW/ima_sync/个人知识库/WKB/柔性纤维传感器技术介绍.md",
+      "RAW/ima_sync/个人知识库/WKB/金佰利业务架构与创新交流.md"
+    ],
+    "only_in_ledger_no_anchor": [
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/Here's the integrated project ....md",
+      "RAW/ima_sync/个人知识库/WKB/NTMT丨PCM相变调温纤维：是黑科技还是噱头？从芯材选择到纺丝应用，这篇全讲明白了.md",
+      "RAW/ima_sync/个人知识库/WKB/OBC_纸尿裤皮筋可行性方案_2026-10-22.md.md",
+      "RAW/ima_sync/个人知识库/WKB/OBC产业化核实报告_2026-10-22.md.md",
+      "RAW/ima_sync/个人知识库/WKB/OBC方案_vs_NISO工艺_弹性膜与弹性无纺布对比_2026-10-22.md.md",
+      "RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×中科一然_除味材料技术对接.md.md",
+      "RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×聚合芯能_功能性材料技术对接_20261023_CN.md.md",
+      "RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×聚合芯能_功能性材料技术对接_20261023_EN.md.md",
+      "RAW/ima_sync/个人知识库/WKB/功能性材料配方与应用探讨.md",
+      "RAW/ima_sync/个人知识库/WKB/卫生巾材料与功效成分.md",
+      "RAW/ima_sync/个人知识库/WKB/卫生用品功能性材料研发.md",
+      "RAW/ima_sync/个人知识库/WKB/吸湿发热纤维的热物理学分析.md",
+      "RAW/ima_sync/个人知识库/WKB/大连化物所科研贡献与发展历程.md",
+      "RAW/ima_sync/个人知识库/WKB/柔性纤维传感器技术介绍.md",
+      "RAW/ima_sync/个人知识库/WKB/金佰利业务架构与创新交流.md"
+    ],
+    "only_in_ledger_deleted": []
+  },
+  "drift": [
+    "RAW 锚点未落地 17 条（账本已登记 raw_path、RAW_FULL 有镜像、RAW 侧无文件 → 须等 IMA 插件补齐，非删除，不自动清账本）"
+  ]
+}

@@ -57,6 +57,10 @@ tags: [Blizzard, 无绒毛浆芯体, fluffless, SAM, 芯体胶, 全包裹, 回�
 - **Lesson 4（混合构型是工程解）**：婴儿形态下漏尿趋势上升 → 保留带导流槽的混合构型。这与本库「分区设计优于单参数优化」的一贯判断一致（[[分区密度设计]]）。
 - **待补 `[待验证]`**：Blizzard/ROTC 的**成本与供应链**信息（本批来源完全缺失）；粘接剂类型与添加量对**摄入动力学**的定量曲线；不同 SAP 粒径/GBP 组合在无浆结构中的适配性；无浆结构在**持续坐压下的塌缩与回弹**行为。
 
+## Asset Note 现役资产注记（2026-10-28）
+
+Blizzard 在本库不只是技术构造，还是**在产的现金资产**：ND33 机台目前仍承担实际 Blizzard 产量，而**双鼓 COCO V6 与现有 Blizzard（2 套 SAM hopper）在同一空间内共存被判定为不可能**。这条约束把「去 fluff 的技术演进」变成了「带停产损失的资产替换」——评估方法见 [[Pilot Retrofit vs Greenfield Decision Framework（改造 vs 新建 pilot 线决策框架）]]。换言之：**Blizzard 的技术价值决定了替换它的门槛，Blizzard 的在产状态决定了替换它的成本。**
+
 ## Sources 来源
 
 - [[Blizzard and ActiveTech Technologies（在线薄型无绒毛浆芯体技术）]] —— `RAW/ima_sync/个人知识库/WKB/Projects/Active Hygiene/blizzard_activetech_explained.md.md`

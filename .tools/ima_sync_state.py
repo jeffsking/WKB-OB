@@ -31,8 +31,18 @@ STATE = TOOLS / "_ima_sync_state.json"
 RAW = ROOT / "RAW"
 WIKI_SOURCES = ROOT / "WIKI" / "sources"
 
-KB_ID_MCP = "001a693ee6c0644e"
-KB_ID_REST = "F8DbmyEF1G8cO-4woYjmlpOs1dETfSgd8-mu6PSsPOI="
+# ⚠ 2026-10-22 实测：IMA 已迁移知识库 ID 体系，「Chris的知识库」更名为「WKB」。
+#   旧 ID（直接传 get_knowledge_list 均报 220004 invalid knowledge_base_id）：
+#     MCP  001a693ee6c0644e
+#     REST F8DbmyEF1G8cO-4woYjmlpOs1dETfSgd8-mu6PSsPOI=
+#   新 ID（由 get_addable_knowledge_base_list 返回，MCP/REST 同一套）：
+#     WKB   ima_kb_l24tiCGM
+#     AI KB ima_kb_yNwCq5No
+#   注意：media_id 末段仍带旧 ID 尾巴（001a693ee6c0644e），属历史命名，不影响调用。
+KB_ID_MCP = "ima_kb_l24tiCGM"
+KB_ID_REST = "ima_kb_l24tiCGM"
+KB_ID_LEGACY_MCP = "001a693ee6c0644e"
+KB_ID_LEGACY_REST = "F8DbmyEF1G8cO-4woYjmlpOs1dETfSgd8-mu6PSsPOI="
 
 MIRROR_PREFIX = "ima_sync/个人知识库/WKB/"
 AUDIO_ORIGINAL_MAX_MB = 50  # §5.1

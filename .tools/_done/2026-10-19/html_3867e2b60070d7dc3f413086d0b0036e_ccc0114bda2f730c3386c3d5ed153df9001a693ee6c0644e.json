@@ -1,0 +1,9 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "REST get_media_info -> signed URL -> download original HTML (118460 B) -> strip tags",
+  "original_bytes": 118460,
+  "content_type": "text/html",
+  "note": "media_type=20 (html) 原件可下载，无配额通道"
+ }
+}

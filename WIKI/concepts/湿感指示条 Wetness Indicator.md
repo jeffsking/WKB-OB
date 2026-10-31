@@ -56,3 +56,5 @@ The library's mainstream commercial format is the hot-melt **wetness-indicator g
 - [[Thermochromic vs Hydrochromic Wetness-Comfort Indicators]]
 - [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]
 - [[Wearable Sensors Fundamentals Implementation and Applications]]
+
+- [[PEG-Based Slot-Die Emulsion for Visual Cue Layer（可视化功能层复配乳液方案集 · 2026-10-30）]]

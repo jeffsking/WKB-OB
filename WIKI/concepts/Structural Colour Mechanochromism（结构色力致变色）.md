@@ -209,3 +209,5 @@ tags: [Mechanochromic, 结构色, 光子晶体, 液晶弹性体, HPC, 角度依�
 - [[Strategic Roadmap - Commercializing Mechanochromic Materials（力致变色商业化战略路线图·X-Chromic 版）]]
 - [[Stretch-Triggered Colour Indicator for Diaper Pant Side Panels]]
 - [[The Chromatic Shift（力致变色：Naphthopyran 与 HPC 双路线）]]
+
+- [[Cellulose-Based LCE with Salt-Tuned Hydrogen Bonding（盐调控氢键网络 · 纤维素液晶弹性体 · NC 2026）]]

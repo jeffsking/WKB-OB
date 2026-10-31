@@ -1,0 +1,20 @@
+{
+ "code": 0,
+ "msg": "success",
+ "data": {
+  "media_type": 5,
+  "url_info": {
+   "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a16d8f8a71714aa58b27e001f1418e.xlsx?media_id=excel_3867e2b60070d7dc3f413086d0b0036e_37abcdd9529d15c386310e20902922c6001a693ee6c0644e&media_title=REL_Cost_Model_28gsm_vs_40gsm_20261023.xlsx&sign=b9b61e59ff6951e929ea1efe7df7d2b37feb861a&t=6adddaae",
+   "headers": {
+    "X-IMA-Create-URL-Time": "1792922534",
+    "X-IMA-Platform": "H5",
+    "X-IMA-Resource-Category": "",
+    "X-IMA-Sign": "eafdaaaf68e882fe8fff57edf986d415e37faf2d51ca1cbbd46a0efb389e3a33",
+    "X-IMA-Trace-ID": "8e45ac5060c62aa7300e230bdf2a3ee5",
+    "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+   }
+  },
+  "notebook_ext_info": null
+ },
+ "request_id": "8e45ac5060c62aa7300e230bdf2a3ee5"
+}

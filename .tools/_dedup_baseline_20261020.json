@@ -1,0 +1,25 @@
+{
+  "uncompiled": [
+    "RAW/ima_sync/个人知识库/WKB/MEETING MINUTES.md",
+    "RAW/ima_sync/个人知识库/WKB/三家技术档案都在知识库里，我重新调取本轮证据，把参数对齐后给.md"
+  ],
+  "duplicate_registration": {},
+  "duplicate_governed_by_merged": {
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Porous Structure and Liquid Flow Models.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Liquid Flow in Porous Structures.md"
+      ]
+    },
+    "RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch07_report.md.md": {
+      "active": [
+        "WIKI\\sources\\Cross-linked Cellulose and Its Derivatives.md"
+      ],
+      "merged": [
+        "WIKI\\sources\\Cross-linked Cellulose and Derivatives.md"
+      ]
+    }
+  }
+}

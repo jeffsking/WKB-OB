@@ -235,6 +235,54 @@ aliases: ["COCO 芯体平台（COCO V6 / V7）"]
 
 > ⚠️ 本节为追加记录，未修改上方任何结论；转写数字（如 V6 上市年份、线速）待人工核实。
 
+## 追加：2026-10-27 南京 High Speed Converting Meeting 批（COCO V6 工艺与设备口径定版）
+
+> 本节把 V6 从「数据基线」推进到**可设闸门的工程计划**：五期路线、双鼓、五层、70/30 分配与 channel 几何基线。上游依据为 Bryan 的《Key point for COCO V6 engineering plan》。
+
+### 1. 工艺定义定量锁定
+
+| 项 | 口径 |
+|---|---|
+| 速度 | **设计 1200 PPM，最低运行 1000 PPM**（20% 余量已内化，不二次加余量） |
+| 产品结构 | **5 层**：LSN + SAP1 + REL + SAP2 + PSN |
+| 成型 | **两个成型鼓（2 forming drum）** |
+| Pattern | 每层 SAM 均需 pattern —— 视觉提示 + channel 处更高 void volume；**LSS/PSS pattern 需对齐并压花** |
+| channel 几何基线 | 主通道与侧通道均 **8 mm**，8 mm 中央设 **3 mm 压花** |
+| 尺寸覆盖 | **11 个尺寸 / 3 种宽度（100/110/120 mm）**，约对应 **8 种鼓规格**（待工程验证） |
+
+### 2. 五期路线（Bryan 定调，当前只做 Phase 1–2）
+
+| Phase | 内容 |
+|---|---|
+| 1 | 100% SAM + shaped（**入场券**：一期不含 fluff） |
+| 2 | LSS/PSS **add-on 差异化** + SAM **密度差异化** + **覆盖差异化** |
+| 3 | PSS 加少量 fluff 建立毛细吸收（**capex 允许可提前并入**） |
+| 4 | REL **pattern cut**（带 trimming handle） |
+| 5 | PSS = fluff + SAM，双面 pattern，可全球扩展 |
+
+### 3. SAP 上下层分工（70/30 的真实含义）
+
+| 层位 | 功能 | SAP 特性 |
+|---|---|---|
+| 顶层（LSS） | 调节与分配 / intake | 高 AUL、高 GBT、**大 PSD** |
+| 底层（PSS） | 快速吸收、抑制凝胶阻塞 | 高 CR、高 Vortex、**较小 PSD** |
+
+目标密度分配 **70/30**（约 30% 高 AUL 置顶层）；**两侧同量 = 牺牲吸收量**，故需「底层高 CRC/高克重 + 顶层高 AUL」的**不等克重**结构，这也是必须上**两套独立可调量 SAP 给料系统**（并预留第三套供非 SAP 功能颗粒）的根本理由。
+
+### 4. 与现役资产的关系（工程硬约束）
+
+- **双鼓 COCO V6 与现有 Blizzard（2 套 SAM hopper）在同一空间共存：不可能**；旁路 core collector 离线供其他机台：也不可能。
+- **ND33 目前仍承担实际 Blizzard 产量** → 任何「移除 Blizzard 上 COCO V6」的评估都带真实停产损失，不是理论风险。
+- **11 月中**须判定「ND33 改造 vs 北京机湾新建 pilot 线」；判断方法见 [[Pilot Retrofit vs Greenfield Decision Framework（改造 vs 新建 pilot 线决策框架）]]。
+
+### 5. 商业化与卡点
+
+商业化基线维持 **2029**（探索 2028 但不承诺）；**真正的卡点是「第二道拉伸（second draw）」**，而非密度或速度——该工艺来源与能否取消待核实。
+
+### 6. 未证实项（重要）
+
+**「双层 pattern 优于单层」的机理未证实**：目前仅以「双层带来更多 void volume」作假设。双层方案是**业务目标驱动的决策**（已与 China 领导团队及市场对齐），不是技术最优结论——此点须在对外立论时明确，否则无法回答「为什么不用更简单的单层」。
+
 ## Related Sources 关联来源
 
 - [[ActivTech Spring Portfolio 2026（ActivTech 春季组合评审）]]
@@ -267,4 +315,8 @@ aliases: ["COCO 芯体平台（COCO V6 / V7）"]
 - [[Raw Material Testing Method Summary（原材料测试方法汇总表）]]
 - [[SAP Grade Strategy for Composite Core & Overseas Market Review — Nuoer Visit（复合芯体产品市场推广·诺尔交流）]]
 - [[SAP Selection Decision Base（17-SAP选型与实验数据决策库）]]
+- [[High Speed Converting Meeting 南京 2026-10-27（COCO V6 成型工艺与设备方向）]]
+- [[Key point for COCO V6 engineering plan（Bryan 五阶段路线）]]
+- [[ND33 改造 · Gate 0–Gate 2 分期能力清单 v2.1（Capability Staging List）]]
+- [[Pilot Retrofit vs Greenfield Decision Framework（改造 vs 新建 pilot 线决策框架）]]
 

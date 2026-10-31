@@ -1,0 +1,8 @@
+{
+ "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_5a7a531e7cb98131298210372e8ceb8d",
+ "extract_status": "ok",
+ "channel": "A",
+ "chars": 6601,
+ "title": "遮阳隔热·热致变色/温致变色调光材料日报",
+ "extract_method": "get_media_info → mp.weixin.qq.com（curl Chrome UA + Referer）→ #js_content"
+}

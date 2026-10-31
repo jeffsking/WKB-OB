@@ -30,6 +30,7 @@
   "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": true,
+  "autoAttachActiveNote": true,
   "defaultOpenArea": "view",
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
@@ -317,13 +318,13 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": "4.0.14",
+  "lastShownStartupVersion": "4.0.16",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
-  "enableMiyoSearchSkill": false,
+  "enableMiyoSearchSkill": true,
   "miyoSearchAll": false,
   "miyoExtraSearchFolders": [],
   "relevantNotesLiveUpdate": true,
@@ -334,7 +335,7 @@
   "parallelApiKey": "",
   "exaApiKey": "",
   "supadataApiKey": "",
-  "docProcessorBackend": "plus",
+  "enableMiyoDocumentProcessing": false,
   "enableLexicalBoosts": true,
   "suggestedDefaultCommands": false,
   "autonomousAgentEnabledToolIds": [
@@ -365,6 +366,7 @@
     "activeBackend": "opencode",
     "backends": {},
     "debugFullFrames": true,
+    "offerFeedbackCards": true,
     "notificationSound": true,
     "notificationSoundId": "piano",
     "welcomeDismissed": false,
@@ -385,7 +387,7 @@
       },
       "providerId": "95d8257d-69a7-479b-9bc4-763f1511ea59",
       "addedAt": 1791382581801,
-      "apiKeyKeychainId": "copilot-v5148d4fa-provider-95d8257d-69a7-479b-9bc4-763f1511ea59"
+      "apiKeyKeychainId": "copilot-v5148d4fa-provider-deepseek-api-key"
     }
   },
   "configuredModels": [
@@ -491,10 +493,7 @@
         "description": "A frontier open-weight model.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -552,10 +551,7 @@
         "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
         "toolCall": true,
         "reasoning": true,
-        "reasoningEfforts": [
-          "none",
-          "high"
-        ],
+        "reasoningEfforts": [],
         "modalities": {
           "input": [
             "text"
@@ -637,8 +633,9 @@
       "minimax-m3"
     ]
   },
+  "docProcessorBackend": "plus",
   "autoAddActiveContentToContext": true,
   "miyoConnectionMode": "local",
   "_keychainVaultId": "5148d4fa",
-  "settingsVersion": 14
+  "settingsVersion": 16
 }

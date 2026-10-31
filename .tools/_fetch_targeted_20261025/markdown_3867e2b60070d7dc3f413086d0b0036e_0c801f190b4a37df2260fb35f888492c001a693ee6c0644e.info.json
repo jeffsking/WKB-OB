@@ -1,0 +1,20 @@
+{
+ "code": 0,
+ "msg": "success",
+ "data": {
+  "media_type": 7,
+  "url_info": {
+   "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a1681b8c3273f59ab246886521006f.md?media_id=markdown_3867e2b60070d7dc3f413086d0b0036e_0c801f190b4a37df2260fb35f888492c001a693ee6c0644e&media_title=IMA%E7%9F%A5%E8%AF%86%E5%BA%93%E7%B4%A2%E5%BC%95.md&response-content-type=text%2Fmarkdown%3B+charset%3Dutf-8&sign=bc62f8cfb3052f5145eb0441f858162e801f4c24&t=6adddaaf",
+   "headers": {
+    "X-IMA-Create-URL-Time": "1792922535",
+    "X-IMA-Platform": "H5",
+    "X-IMA-Resource-Category": "",
+    "X-IMA-Sign": "a56569746e4db5e3e85aca501790c55d09a3056ea9df0e191da0e50683e0cd07",
+    "X-IMA-Trace-ID": "241ab03496b85a997d8107d72a82f145",
+    "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+   }
+  },
+  "notebook_ext_info": null
+ },
+ "request_id": "241ab03496b85a997d8107d72a82f145"
+}

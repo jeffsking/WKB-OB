@@ -59,3 +59,5 @@ CLCE = **Cholesteric Liquid Crystal Elastomer（胆甾相液晶弹性体）**：
 - [[光子晶体膜拉伸贴合指示器]]
 - [[消费者可见（consumer-visible）的话，最像样的]]
 
+
+- [[Cellulose-Based LCE with Salt-Tuned Hydrogen Bonding（盐调控氢键网络 · 纤维素液晶弹性体 · NC 2026）]]

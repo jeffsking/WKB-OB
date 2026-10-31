@@ -1,0 +1,8 @@
+{
+ "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_649da9df864de859cd2d6ee45e5a6439",
+ "extract_status": "ok",
+ "channel": "A",
+ "chars": 3865,
+ "title": "温致变·热致变·电致变·光致变·力致变·气致变 六触发源组合追问",
+ "extract_method": "get_media_info → mp.weixin.qq.com（curl Chrome UA + Referer）→ #js_content"
+}

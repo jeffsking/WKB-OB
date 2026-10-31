@@ -1,0 +1,20 @@
+{
+ "code": 0,
+ "msg": "success",
+ "data": {
+  "media_type": 7,
+  "url_info": {
+   "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a18d5df1c1781abf437333f1bc9639.md?media_id=markdown_3867e2b60070d7dc3f413086d0b0036e_3bb235881e629b6e72a4b2a94d21ab15001a693ee6c0644e&media_title=Knight_IV_PEG%E5%9F%BAslot_die%E5%A4%8D%E9%85%8D%E4%B9%B3%E6%B6%B2%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88_20261030.md&response-content-type=text%2Fmarkdown%3B+charset%3Dutf-8&sign=11cf79774ae87cb3dfec2ba3824823dc3c9d9b60&t=6ae5c645",
+   "headers": {
+    "X-IMA-Create-URL-Time": "1793441597",
+    "X-IMA-Platform": "H5",
+    "X-IMA-Resource-Category": "",
+    "X-IMA-Sign": "a388f4e5861616fa76b783e6beec769b065b6eda2f6d00c18b64b945d44e9570",
+    "X-IMA-Trace-ID": "cdbf6fcc269173e76ffbd8085c7f9fb2",
+    "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+   }
+  },
+  "notebook_ext_info": null
+ },
+ "request_id": "cdbf6fcc269173e76ffbd8085c7f9fb2"
+}

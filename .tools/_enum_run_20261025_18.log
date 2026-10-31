@@ -1,0 +1,140 @@
+root: 82
+  [1/5] Archives: 12
+  [2/5] Resources: 6
+  [3/11] Areas: 16
+  [4/19] Projects: 19
+  [5/31] Inbox: 7
+  [6/33] Resources/FEI: 1
+  [7/33] Resources/Ebook: 64
+  [8/34] Resources/Training: 15
+  [9/41] Resources/Soft Skills: 1
+  [10/41] Resources/Open Innovation: 14
+  [11/48] Resources/Pulp World: 17
+  [12/48] Areas/Test Method: 8
+  [13/51] Areas/IP: 85
+  [14/51] Areas/Supply Base: 90
+  [15/51] Areas/Regulation&PSC: 13
+  [16/52] Areas/Personal: 1
+  [17/52] Areas/Meeting Minutes: 78
+  [18/52] Areas/Nonwoven: 6
+  [19/52] Areas/Market Insight: 22
+  [20/52] Projects/Template: 5
+  [21/52] Projects/LMP-PP: 11
+  [22/52] Projects/PPC: 6
+  [23/52] Projects/Film: 1
+  [24/52] Projects/BNC: 20
+  [25/52] Projects/COCO: 11
+  [26/53] Projects/BM: 2
+  [27/53] Projects/Mechanochromic: 6
+  [28/53] Projects/Active Hygiene: 3
+  [29/53] Projects/Thermal Comfort: 5
+  [30/53] Projects/Liner: 6
+  [31/53] Projects/REL: 13
+  [32/53] Inbox/Extract: 0
+  [33/53] Inbox/Selected: 0
+  [34/53] Resources/Ebook/Ebook Extract: 46
+  [35/91] Resources/Training/OD: 2
+  [36/91] Resources/Training/SAM: 2
+  [37/91] Resources/Training/Pants: 16
+  [38/95] Resources/Training/GNW 101: 0
+  [39/95] Resources/Training/2021 Urine and BM Basic absorbency training: 1
+  [40/95] Resources/Training/Absorbency Core: 24
+  [41/95] Resources/Training/Diaper 101: 3
+  [42/95] Resources/Open Innovation/Engineering: 14
+  [43/95] Resources/Open Innovation/Performance: 2
+  [44/97] Resources/Open Innovation/Simulation Model: 25
+  [45/97] Resources/Open Innovation/Structure: 7
+  [46/97] Resources/Open Innovation/Technology Management: 3
+  [47/97] Resources/Open Innovation/Products: 21
+  [48/97] Resources/Open Innovation/Material: 28
+  [49/103] Areas/Test Method/成品: 8
+  [50/108] Areas/Test Method/Material: 12
+  [51/109] Areas/Test Method/BM测试方法: 5
+  [52/109] Areas/Regulation&PSC/GBT: 42
+  [53/109] Projects/COCO/Test Result: 3
+  [54/109] Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解: 6
+  [55/109] Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解: 11
+  [56/109] Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解: 4
+  [57/109] Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications: 11
+  [58/109] Resources/Ebook/Ebook Extract/Ancient_Dyes_Pigments_Chemistry: 1
+  [59/109] Resources/Ebook/Ebook Extract/Photochromism_Dihydroindolizines: 1
+  [60/109] Resources/Ebook/Ebook Extract/Stimuli_Responsive_Photonic_Coatings: 1
+  [61/109] Resources/Ebook/Ebook Extract/Mechanochromic_Fluorescent_Polymers_AIE: 1
+  [62/109] Resources/Ebook/Ebook Extract/Stimuli_Responsive_PCM_Optical: 1
+  [63/109] Resources/Ebook/Ebook Extract/Superabsorbent_Polymers_SAP_Composites: 1
+  [64/109] Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed: 4
+  [65/110] Resources/Ebook/Ebook Extract/Physics_Liquid_Crystals_DeepBook: 1
+  [66/110] Resources/Ebook/Ebook Extract/Flexible_Stretchable_Electronics_DeepBook: 1
+  [67/110] Resources/Ebook/Ebook Extract/Introduction_Liquid_Crystals_DeepBook: 1
+  [68/110] Resources/Ebook/Ebook Extract/Thermoelectric_Phenomena_DeepBook: 1
+  [69/110] Resources/Ebook/Ebook Extract/Stimuli_Responsive_Polymers_DeepBook: 1
+  [70/110] Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook: 6
+  [71/110] Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta): 4
+  [72/111] Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity: 2
+  [73/112] Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua): 4
+  [74/113] Resources/Ebook/Ebook Extract/Dual Component Fiber: 5
+  [75/114] Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic: 5
+  [76/115] Resources/Ebook/Ebook Extract/Viscoelastic Properties: 5
+  [77/116] Resources/Ebook/Ebook Extract/SAP Research Advances: 5
+  [78/117] Resources/Ebook/Ebook Extract/PP Handbook: 5
+  [79/118] Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology: 8
+  [80/119] Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry: 12
+  [81/120] Resources/Ebook/Ebook Extract/Handbook of Plastic Films: 18
+  [82/120] Resources/Ebook/Ebook Extract/Handbook of Industrial Drying: 58
+  [83/120] Resources/Ebook/Ebook Extract/Handbook of Nonwovens: 14
+  [84/120] Resources/Ebook/Ebook Extract/Mathematics of Diffusion: 18
+  [85/120] Resources/Ebook/Ebook Extract/Cosmetic Science and Technology: 15
+  [86/120] Resources/Ebook/Ebook Extract/Handbook of Adhesive Technology: 5
+  [87/120] Resources/Ebook/Ebook Extract/Handbook of Polymer Testing: 13
+  [88/120] Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science: 17
+  [89/120] Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology: 24
+  [90/120] Resources/Ebook/Ebook Extract/Principles of Polymerization: 11
+  [91/120] Resources/Ebook/Ebook Extract/Polymer Chemistry: 2
+  [92/120] Resources/Training/Pants/KC CapabilityDays2025 深度拆解: 3
+  [93/120] Resources/Training/Pants/Product Drawings 101 (KC Sept2025): 5
+  [94/120] Resources/Training/Pants/Gravure Roll 101 (KC 2025): 4
+  [95/120] Resources/Training/Pants/Baby Wipes 101 (KC Sept2025): 4
+  [96/120] Resources/Open Innovation/Performance/Rewet: 16
+  [97/125] Resources/Open Innovation/Performance/Intake: 14
+  [98/125] Resources/Open Innovation/Material/PCM: 1
+  [99/125] Resources/Open Innovation/Material/X-Chromic: 12
+  [100/125] Resources/Open Innovation/Material/CNF&CNC: 14
+  [101/125] Resources/Open Innovation/Material/Adhesive: 3
+  [102/125] Resources/Open Innovation/Material/SAM: 24
+  [103/125] Resources/Open Innovation/Material/Nonwoven: 30
+  [104/125] Areas/Test Method/成品/产品折叠长度: 1
+  [105/125] Areas/Test Method/成品/TJ: 5
+  [106/125] Areas/Test Method/成品/STM-00034 FIFE: 2
+  [107/125] Areas/Test Method/成品/Pants 产品拉断测试方法: 2
+  [108/125] Areas/Test Method/成品/NJ: 50
+  [109/125] Areas/Test Method/Material/SAM新引入测试方法-20250410: 8
+  [110/125] Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters: 14
+  [111/125] Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters: 17
+  [112/125] Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity/chapters: 1
+  [113/125] Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters: 8
+  [114/125] Resources/Ebook/Ebook Extract/Dual Component Fiber/chapters: 0
+  [115/125] Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic/chapters: 0
+  [116/125] Resources/Ebook/Ebook Extract/Viscoelastic Properties/chapters: 0
+  [117/125] Resources/Ebook/Ebook Extract/SAP Research Advances/chapters: 0
+  [118/125] Resources/Ebook/Ebook Extract/PP Handbook/chapters: 0
+  [119/125] Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters: 15
+  [120/125] Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters: 18
+  [121/125] Resources/Open Innovation/Performance/Rewet/Updates and Presentations: 8
+  [122/125] Resources/Open Innovation/Performance/Rewet/Test Methods: 9
+  [123/126] Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals: 4
+  [124/127] Resources/Open Innovation/Performance/Rewet/Poise Rewet: 2
+  [125/127] Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet: 8
+  [126/129] Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643: 8
+  [127/130] Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface: 4
+  [128/132] Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates: 14
+  [129/132] Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Depend Machine Variability: 2
+  [130/132] Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs: 3
+  [131/132] Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results: 4
+  [132/132] Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/HSBL Trial - Oct 13 2025: 13
+
+遍历文件夹 132 · 原始文件条目 1431 · 去重后 1431 · 重复路径 0
+media_state 解析成功 0 · 状态未知(REST 未返回) 1431
+媒体类型分布 {7: 420, 1: 333, 4: 149, 3: 137, 6: 105, 11: 99, 5: 84, 15: 48, 9: 36, 12: 8, 20: 7, 2: 5}
+耗时 373.5s
+
+→ E:\WKB-OB\.tools\_ima_enum_full_20261025.json

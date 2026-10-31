@@ -1,0 +1,8 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "REST get_media_info 原件直下（md 原文）",
+  "bytes": 20791,
+  "content_type": "text/markdown; charset=utf-8"
+ }
+}

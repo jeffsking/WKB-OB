@@ -1,0 +1,301 @@
+---
+media_id: "pdf_3867e2b60070d7dc3f413086d0b0036e_75adcbd57b508275abff7ad3d9de8e88001a693ee6c0644e"
+extract_status: "original-only"
+extract_channel: "B"
+synced_at: "2026-10-26T18:30:00+08:00"
+source_path: "RAW/ima_sync/个人知识库/WKB/Projects/Baymax/Summary of Brazil Dam liner sampling in Chuanyue.pdf.md"
+media_type: 1
+original_path: "RAW/ima_sync/个人知识库/WKB/Projects/Baymax/Summary of Brazil Dam liner sampling in Chuanyue.pdf.md"
+original_file: "RAW_FULL/ima_sync/个人知识库/WKB/Projects/Baymax/attachments/Summary of Brazil Dam liner sampling in Chuanyue.pdf"
+---
+
+# Summary of Brazil Dam liner sampling in Chuanyue.pdf
+
+> 正文由 PDF 文字层抽取（pypdf，6861 字符）。原件见 `RAW_FULL/ima_sync/个人知识库/WKB/Projects/Baymax/attachments/Summary of Brazil Dam liner sampling in Chuanyue.pdf`。
+
+Kimberly-Clark  ·   Confidential
+P R O J E C T  B A Y M A X
+Baymax
+Sheet Samples collection based on Brazil Dam 
+Liner pattern
+Oct 14. 2026
+Tingting Du
+Kimberly-Clark  ·   Confidential
+Kimberly-Clark  ·   Confidential
+Brazil Dam Liner Pattern 
+Baymax - New material combination screening
+Top Layer
+(82mm x 259mm)
+Bottom Layer
+(80mm x 259mm)
+1
+20 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+SB BICO (PE/PP)
+or PP
+or low melting PP
+2
+30 gsm
+Upper: 50% 2D,Semi philic
+Lower: 50% 6D eccentric, Full philic
+Based on the result of code 1
+3
+40 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric,  Full philic
+Based on the result of code 1
+4
+30 gsm
+Upper:50% 2D，Semi philic
+Lower: 50% 3D,  Full philic
+Based on the result of code 1
+5
+30 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D, Full philic
+Based on the result of code 1
+6 Explore TABCW in Bottom Layer, comparing to
+SB
+Depend on the 3D effect from
+previous codes but Except the
+40gsm one
+TABCW 4D 18 gsm, Full philic
+7 If higher ratio of Lower layer can improve 3D
+effect
+30 gsm
+Upper: 10gsm 2D，Semi philic
+Lower: 20gsm 6D, Full philic
+Based on the result of code 1
+8 If adding trilobal can improve performance
+Code 2-A: 30 gsm
+上层：15gsm，10% 三叶草截面纤维，
+90% 2D Bico PE/PET
+下层：15gsm，50% 三叶草截面纤维，
+50% 4D Bico PE/PET
+Based on the result of code 1
+CN & FEI Code
+Explore impact of different basis weight on
+visual perception and 3D appareance w/
+eccentric fibers
+Explore impact of different fibers types in dual
+top layer on visual perception and 3D
+appareance, maintaining 2D on Upper layer for
+softness and chaging from 3D to 8D w/o
+eccentric fiber on Lower layer for 3D effect.
+Code Exploration Objective
+MATERIAL COMBINATION
+Code List design
+Brazil Dam Liner 
+- The 20gsm with eccentric fiber shows uneven fiber distribution, which may negatively affect the 3D effect.
+- The 30gsm with eccentric fiber shows same fiber distribution with normal 20gsm TABCW
+Jofo 30g eccentric
+Wisdom 20g 2D+3D
+- The Code 3 (40gsm with eccentric fiber) shows the best 3D effect
+- For the bottom layer, the lamination strength ranks as Bico > Low melting PP> 
+Normal PP . However the lamination strength between TABCW and normal PP is also 
+acceptable and there is no significant difference in the 3D effect among the three 
+bottom-layer options.
+- Due to the necking of top-layer it cannot be guaranteed that 3 Dam on each side, 
+only 2 Dam on each side. Therefore, the top layer width should be 90 mm.
+Code 1 Code 2 Code 3
+Top Layer
+(82mm x 259mm)
+Bottom Layer
+(80mm x 259mm)
+1
+20 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+Normal PP
+2
+30 gsm
+Upper: 50% 2D,Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+Normal PP
+3
+40 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric,  Full philic
+10gsm, Full philic
+Normal PP
+4
+30 gsm
+Upper:50% 2D，Semi philic
+Lower: 50% 3D,  Full philic
+10gsm, Full philic
+Normal PP
+5
+30 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D, Full philic
+10gsm, Full philic
+Normal PP
+6
+40 gsm
+Upper: 50%  2D，Semi philic
+Lower: 50%  6D eccentric,  Full
+philic
+TABCW 4D 18
+gsm, Full philic
+7
+30 gsm
+Upper: 10gsm 2D，Semi philic
+Lower: 20gsm 6D, Full philic
+10gsm, Full philic
+Normal PP
+8
+40 gsm
+Upper: 50%  2D，Semi philic
+Lower: 50%  6D eccentric,  Full
+philic
+10gsm, Full philic
+Bico
+Code
+MATERIAL COMBINATION
+Brazil Dam Liner 
+Code 2 Code 5
+ Code 4 Code 5
+- Code 2 vs Code 5: no significant different in 3D effect
+- Code 4 vs Code 5: no significant different in 3D effect
+• The effect of eccentric fibers on the 3D effect was not 
+significant in this trial.
+• Increasing the lower-layer fiber denier from 3D to 6D did not 
+significantly affect the 3D effect in this trial.
+Top Layer
+(82mm x 259mm)
+Bottom Layer
+(80mm x 259mm)
+1
+20 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+Normal PP
+2
+30 gsm
+Upper: 50% 2D,Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+Normal PP
+3
+40 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric,  Full philic
+10gsm, Full philic
+Normal PP
+4
+30 gsm
+Upper:50% 2D，Semi philic
+Lower: 50% 3D,  Full philic
+10gsm, Full philic
+Normal PP
+5
+30 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D, Full philic
+10gsm, Full philic
+Normal PP
+6
+40 gsm
+Upper: 50%  2D，Semi philic
+Lower: 50%  6D eccentric,  Full
+philic
+TABCW 4D 18
+gsm, Full philic
+7
+30 gsm
+Upper: 10gsm 2D，Semi philic
+Lower: 20gsm 6D, Full philic
+10gsm, Full philic
+Normal PP
+8
+40 gsm
+Upper: 50%  2D，Semi philic
+Lower: 50%  6D eccentric,  Full
+philic
+10gsm, Full philic
+Bico
+Code
+MATERIAL COMBINATION
+Brazil Dam Liner 
+- Code 4 vs Code 6: no significant different in 3D effect
+- Code 5 vs Code 7: no significant different in 3D effect
+Code 7Code 5
+Code 6Code 4
+• The bottom-layer material had no significant effect on the 3D effect.
+• Increasing the proportion of higher-denier fibers in the dual-carded 
+lower layer did not significantly affect the 3D effect in this trial.
+Code
+MATERIAL COMBINATION
+Top Layer
+(82mm x 259mm)
+Bottom Layer
+(80mm x 259mm) Comparative Summary
+1
+20 gsm
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+Normal PP 1，2，3 Not recommended, as the uneven fiber distribution in the 
+material results in a very poor 3D effect.
+2
+30 gsm 
+Upper: 50% 2D,Semi philic
+Lower: 50% 6D eccentric, Full philic
+10gsm, Full philic
+Normal PP 1，2，3 The 3D effect is acceptable
+3
+40 gsm 
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D eccentric,  Full philic
+10gsm, Full philic
+Normal PP 1，2，3 Delivers the best 3D effect among the three codes, but has no cost 
+advantage.
+4
+30 gsm 
+Upper:50% 2D，Semi philic
+Lower: 50% 3D,  Full philic
+10gsm, Full philic
+Normal PP 4，5 - The 3D effect is acceptable
+- The lower layer with higher denier fibers did not show 
+improvement for 3D effect.
+- The lower layer with eccentic fibers did not show improvement for 
+3D effect.5
+30 gsm 
+Upper: 50% 2D，Semi philic
+Lower: 50% 6D, Full philic
+10gsm, Full philic
+Normal PP 2，4，5
+6
+40 gsm 
+Upper: 50% 2D，Semi philic
+Lower: 50%3D eccentric,  Full philic
+TABCW 4D 18 gsm, Full 
+philic 4，6 - The choice of material for the bottom layer has little impact on the 
+3D effect of the top layer
+7
+30 gsm 
+Upper: 10gsm 2D，Semi philic
+Lower: 20gsm 6D, Full philic
+10gsm, Full philic
+Normal PP 5，7
+- The 3D effect is acceptable
+- More higer denier fiber in lower layer did not show improvement 
+for 3D effect.
+8
+40 gsm 
+Upper: 50% 2D，Semi philic
+Lower: 50% 3D eccentric,  Full philic
+10gsm, Full philic
+Bico 4，8
+- If the lamination strength of normal PP with TABCW cant meet 
+Brazil team’s requirements, Bico Spunbond would be a good backup 
+option.
+Summary
+- The lamination strength ranks as Bico > Low melting PP> Normal PP . However the lamination strength between TABCW and normal PP is also 
+acceptable 
+- The top layer width should be 90 mm to make sure 3 Dams in each side

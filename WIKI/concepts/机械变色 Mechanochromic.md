@@ -82,4 +82,4 @@ Mechanochromic（机械变色 / 力致变色）is colour change triggered by a *
 - [[Smart Textile Visual Perception (GRID)]]
 - [[Smart Textiles & Wearables]]
 - [[Stimuli-Responsive Polymer Materials (Nature Materials Review)]]
-
+- [[Chromic Six-Trigger Combinations（变色局 005 · 六触发源组合追问 · 2026-10-26）]]

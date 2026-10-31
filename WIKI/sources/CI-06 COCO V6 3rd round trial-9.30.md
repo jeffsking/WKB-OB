@@ -11,7 +11,18 @@ knowledge_update_status: pending
 key_claims: []
 pages_linked: []
 compile_mode: extractive
+status: merged
 ---
+> 🔴 **治理合并（2026-10-27）**：`9.30` 是同一 COCO V6 第三次试产的中途快照，其数据已被完全包含于 `final` 定稿版。按「版本迭代就地归并、禁建平行页」规则，本页保留为**指针页**（未删除，原文存档于下方），登记路径已并入主件的 `source_paths`。
+> 备份：`.tools/_backup_20261027/`
+
+本主题正文见：[[CI-06 COCO V6 3rd round trial - final]]
+
+---
+
+## 📦 原始内容存档（合并前，2026-10-27）
+> 说明：本页原为 `compile_mode: extractive` 抽取式摘要（`key_claims` 为空），未做语义提炼；语义化版本见主件。
+
 
 # CI-06 COCO V6 3rd round trial-9.30.xlsx
 

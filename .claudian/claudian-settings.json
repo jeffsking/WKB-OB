@@ -35,7 +35,8 @@
       "selectedModels": [],
       "outputStyle": null,
       "promptSuggestions": false,
-      "discoveredOutputStyles": []
+      "discoveredOutputStyles": [],
+      "sessionEnvironmentHash": ""
     },
     "codex": {
       "enabled": false,
@@ -52,7 +53,8 @@
       "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
       "selectedModels": [],
-      "responseVerbosity": "default"
+      "responseVerbosity": "default",
+      "sessionEnvironmentHash": ""
     },
     "grok": {
       "cliPath": "",
@@ -85,6 +87,7 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
+      "sessionEnvironmentHash": "",
       "visibleModels": [],
       "selectedModels": []
     },
@@ -104,6 +107,7 @@
   },
   "settingsProvider": "claude",
   "lastSelectedChatModel": null,
+  "inlineEditModel": null,
   "savedProviderModel": {},
   "savedProviderEffort": {},
   "savedProviderServiceTier": {},
@@ -114,6 +118,7 @@
   "enableAutoScroll": true,
   "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "enableZenMode": true,
@@ -124,6 +129,7 @@
   "skillsSynced": false,
   "sessionManagerOrganization": "list",
   "sessionManagerSort": "last-updated",
+  "projectSort": "last-updated",
   "sessionAutoArchiveAfter": "off",
   "pinnedLinkedContentPaths": [],
   "hiddenCommands": [],

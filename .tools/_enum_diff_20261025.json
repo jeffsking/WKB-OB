@@ -1,0 +1,70 @@
+{
+ "date": "20261025",
+ "enum": {
+  "_mode": "full-no-prune-rest",
+  "_date": "20261025",
+  "_kb_id": "ima_kb_l24tiCGM",
+  "_caveat": "REST 不返回 media_state；state 过滤无法在 REST 侧执行，改以总数对账替代",
+  "_elapsed_s": 373.4,
+  "folders_visited": 132,
+  "file_items_raw": 1431,
+  "dup_paths": 0,
+  "unique_items": 1431,
+  "parse_success": 0,
+  "state_unknown": 1431,
+  "not_success": 0,
+  "media_state_hist": {
+   "None": 1431
+  },
+  "media_type_hist": {
+   "6": 105,
+   "5": 84,
+   "11": 99,
+   "7": 420,
+   "15": 48,
+   "20": 7,
+   "3": 137,
+   "1": 333,
+   "12": 8,
+   "9": 36,
+   "4": 149,
+   "2": 5
+  },
+  "not_success_detail": []
+ },
+ "enum_items": 1431,
+ "ledger_items": 1435,
+ "raw_md_files": 1414,
+ "only_in_enum": 0,
+ "only_in_ledger": 4,
+ "only_in_ledger_by_stage": {
+  "compiled": 4
+ },
+ "only_in_enum_detail": [],
+ "only_in_ledger_detail": [
+  {
+   "media_id": "img_3867e2b60070d7dc3f413086d0b0036e_02e49cee1652a8bbc265d5a252943336001a693ee6c0644e",
+   "stage": "compiled",
+   "raw_path": "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md",
+   "kb_path": "ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md"
+  },
+  {
+   "media_id": "img_3867e2b60070d7dc3f413086d0b0036e_31fa07b952ee9567426e9b2a76c19f02001a693ee6c0644e",
+   "stage": "compiled",
+   "raw_path": "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md",
+   "kb_path": "ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md"
+  },
+  {
+   "media_id": "note_7434068337643175",
+   "stage": "compiled",
+   "raw_path": "RAW/ima_sync/notes/ima笔记使用指南.md",
+   "kb_path": "ima_sync/notes/ima笔记使用指南.md"
+  },
+  {
+   "media_id": "note_7434084477312512",
+   "stage": "compiled",
+   "raw_path": "RAW/ima_sync/notes/飞书.md",
+   "kb_path": "ima_sync/notes/飞书.md"
+  }
+ ]
+}

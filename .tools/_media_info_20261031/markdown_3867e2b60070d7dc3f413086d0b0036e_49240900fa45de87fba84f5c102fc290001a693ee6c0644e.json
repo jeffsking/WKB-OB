@@ -1,0 +1,20 @@
+{
+ "code": 0,
+ "msg": "success",
+ "data": {
+  "media_type": 7,
+  "url_info": {
+   "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a18d81bd817cbd8f3fae3851f4e9e1.md?media_id=markdown_3867e2b60070d7dc3f413086d0b0036e_49240900fa45de87fba84f5c102fc290001a693ee6c0644e&media_title=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E5%8F%AF%E8%A7%86%E5%8C%96%E5%8A%9F%E8%83%BD%E5%B1%82_PEG%E5%9F%BAslot_die%E5%A4%8D%E9%85%8D%E4%B9%B3%E6%B6%B2%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88_20261030.md&response-content-type=text%2Fmarkdown%3B+charset%3Dutf-8&sign=f091df1781ab6c4e15856af06287394fc14b4871&t=6ae5c636",
+   "headers": {
+    "X-IMA-Create-URL-Time": "1793441582",
+    "X-IMA-Platform": "H5",
+    "X-IMA-Resource-Category": "",
+    "X-IMA-Sign": "0b429c6dc2f3047ec2744409805e363f95ddfae13c2d34e833534a60d1ef64be",
+    "X-IMA-Trace-ID": "5d8eed4983d567b5a2ebcc09638e0685",
+    "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+   }
+  },
+  "notebook_ext_info": null
+ },
+ "request_id": "5d8eed4983d567b5a2ebcc09638e0685"
+}

@@ -77,4 +77,5 @@ Directly relevant to the **hygiene chromic-ink programme** — thermal-comfort a
 - [[Smart Textiles & Wearables]]
 - [[Stimuli-Responsive Photonic Polymer Coatings (ChemComm 2014)]]
 - [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]]
-
+- [[Thermochromic Light-Modulation Daily No.14（遮阳隔热 · 热致与温致变色日报 · 2026-10-12）]]
+- [[Chromic Six-Trigger Combinations（变色局 005 · 六触发源组合追问 · 2026-10-26）]]

@@ -1,0 +1,38 @@
+{
+ "docx1": {
+  "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_ae4c453381f5201d1d534112e88d2f46001a693ee6c0644e",
+  "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a1489f0476764ba41c42379cd2c44f.docx?media_id=word_3867e2b60070d7dc3f413086d0b0036e_ae4c453381f5201d1d534112e88d2f46001a693ee6c0644e&media_title=%E9%99%A4%E8%87%AD%E7%B2%89%E6%82%AC%E6%B5%AE%E6%B6%B2%E6%8E%89%E7%B2%89%E9%97%AE%E9%A2%98_%E5%B7%A5%E8%89%BA%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%96%B9%E6%A1%88_20261017.docx&sign=9441614cd5b41ffba78196511a6864d99f641d61&t=6ad351c6",
+  "headers": {
+   "X-IMA-Create-URL-Time": "1792232126",
+   "X-IMA-Platform": "H5",
+   "X-IMA-Resource-Category": "",
+   "X-IMA-Sign": "8a2fd3139da7cc4fdd2ec4698407ba7f399e0d8c49ecd7dc0cabaadd0f233fab",
+   "X-IMA-Trace-ID": "fd672ab6275e50a596b373448216d5d6",
+   "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+  }
+ },
+ "docx2": {
+  "media_id": "word_3867e2b60070d7dc3f413086d0b0036e_cf4e14ebd709901da7120aa0a893f127001a693ee6c0644e",
+  "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a147c5d9267d879562e0fa56b087f9.docx?media_id=word_3867e2b60070d7dc3f413086d0b0036e_cf4e14ebd709901da7120aa0a893f127001a693ee6c0644e&media_title=%E8%8F%8C%E8%8D%89%E7%BA%A4%E7%BB%B4%E6%8A%80%E6%9C%AF%E7%AE%80%E6%8A%A5_Workshop_20261017.docx&sign=721e8ac3aab64cd23b3a93329a30f370ffdd18e3&t=6ad351c8",
+  "headers": {
+   "X-IMA-Create-URL-Time": "1792232128",
+   "X-IMA-Platform": "H5",
+   "X-IMA-Resource-Category": "",
+   "X-IMA-Sign": "bf7218606ea62b3e2e38305af913c6b80032d9c3b3c68e46135cfa94d16123af",
+   "X-IMA-Trace-ID": "2d2b1c7e6af220dd096106c7e3c78254",
+   "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+  }
+ },
+ "pdf": {
+  "media_id": "pdf_3867e2b60070d7dc3f413086d0b0036e_74277e404d8efb37c8eadba141799942001a693ee6c0644e",
+  "url": "https://pkb.ima.myqcloud.com/2/Oy0YFe4o874ND9Udefofxe/file_manager/01a14799526b79b3a3970c9a8f002188.pdf?media_id=pdf_3867e2b60070d7dc3f413086d0b0036e_74277e404d8efb37c8eadba141799942001a693ee6c0644e&media_title=lxag173.pdf&sign=d96cf71558bd742141a5aa68b18202ec2b2037fe&t=6ad351cb",
+  "headers": {
+   "X-IMA-Create-URL-Time": "1792232131",
+   "X-IMA-Platform": "H5",
+   "X-IMA-Resource-Category": "",
+   "X-IMA-Sign": "d48e153cbdeeff4a03fe99d6438e02d8130052bbb02fee06170fd3e7bf7918b6",
+   "X-IMA-Trace-ID": "54843945290b8d92de35005a4f80b4cf",
+   "X-IMA-UID-SHA256": "d9e82bf32ba002338f91351c909f146da7ca260be6c6bb3cfabc138af3b0811e"
+  }
+ }
+}

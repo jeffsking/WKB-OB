@@ -201,11 +201,23 @@ def _recon_raw_vs_ledger():
         for f in fs:
             if f.endswith(".md"):
                 raw.add(os.path.relpath(os.path.join(r, f), ROOT).replace("\\", "/"))
+
+    # 多登细分（2026-10-18 增）：区分「RAW 从未落地」与「RAW 真被删」
+    #   成因：IMA 插件未落盘的新条目，Agent 侧按预期路径登记 raw_path 并写 RAW_FULL 镜像
+    #   → RAW 侧无文件、RAW_FULL 侧有镜像。这不是删除，是锚点未落地，须插件补齐。
+    only_led = sorted(ledger - raw)
+    no_anchor, deleted = [], []
+    for p in only_led:
+        mirror = (ROOT / p.replace("RAW/", "RAW_FULL/", 1))
+        (no_anchor if mirror.exists() else deleted).append(p)
+
     return {
         "ledger_count": len(ledger),
         "raw_count": len(raw),
         "only_in_raw": sorted(raw - ledger),
-        "only_in_ledger": sorted(ledger - raw),
+        "only_in_ledger": only_led,
+        "only_in_ledger_no_anchor": no_anchor,   # RAW 未落地但有 RAW_FULL 镜像
+        "only_in_ledger_deleted": deleted,       # RAW 与 RAW_FULL 双缺，疑似真删
     }
 
 
@@ -279,7 +291,9 @@ def stage_R(state):
         steps["黑账核对"] = {
             "rc": 0,
             "out": (f"RAW {cmp['raw_count']} vs 账本 {cmp['ledger_count']} · "
-                    f"账本漏登 {len(only_raw)} · 账本多登 {len(only_led)}"),
+                    f"账本漏登 {len(only_raw)} · 账本多登 {len(only_led)}"
+                    f"（其中 RAW 锚点未落地 {len(cmp.get('only_in_ledger_no_anchor') or [])}、"
+                    f"疑似真删除 {len(cmp.get('only_in_ledger_deleted') or [])}）"),
         }
         if only_raw:
             drift.append(f"账本漏登 {len(only_raw)} 条（IMA 新增未枚举，日更期间产生）")
@@ -287,7 +301,15 @@ def stage_R(state):
                 steps.setdefault("漏登明细", {"rc": 0, "out": ""})
                 steps["漏登明细"]["out"] += (" / " if steps["漏登明细"]["out"] else "") + p.split("/WKB/")[-1]
         if only_led:
-            drift.append(f"账本多登 {len(only_led)} 条（RAW 已删但账本未清）")
+            na = cmp.get("only_in_ledger_no_anchor") or []
+            dl = cmp.get("only_in_ledger_deleted") or []
+            if na:
+                drift.append(f"RAW 锚点未落地 {len(na)} 条（账本已登记 raw_path、"
+                             f"RAW_FULL 有镜像、RAW 侧无文件 → 须等 IMA 插件补齐，"
+                             f"非删除，不自动清账本）")
+            if dl:
+                drift.append(f"账本多登 {len(dl)} 条（RAW 与 RAW_FULL 双缺，疑似已删，"
+                             f"交人工裁定）")
 
     if dedup.get("dup_live"):
         drift.append(f"一条 RAW 被多个活跃页登记（疑似重复编译）：{dedup['dup_live']} 条")

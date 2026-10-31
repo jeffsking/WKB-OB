@@ -1,19 +1,7 @@
 {
- "generated": "2026-10-16T18:10:03+08:00",
- "count": 1,
+ "generated": "2026-10-31T18:16:52+08:00",
+ "count": 0,
  "stub_only": 0,
  "note": "待编译源摘要页；stub_only=True 的正文过短，只能建 minimal 页",
- "items": [
-  {
-   "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_7424725e5aeb8eb37d0f7f6e71eff6d9001a693ee6c0644e",
-   "prefix": "markdown",
-   "source_type": "行业新闻",
-   "title": "IMA知识库索引.md",
-   "raw_path": "RAW/ima_sync/个人知识库/WKB/IMA知识库索引.md.md",
-   "full_path": "RAW_FULL/ima_sync/个人知识库/WKB/IMA知识库索引.md.md",
-   "page_name": "IMA知识库索引",
-   "body_chars": 11863,
-   "stub_only": false
-  }
- ]
+ "items": []
 }

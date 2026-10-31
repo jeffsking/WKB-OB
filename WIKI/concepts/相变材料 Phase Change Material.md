@@ -55,9 +55,14 @@ No formal definition is given by the citing sources. The most precise evidenced 
 
 ## Related Sources 关联来源
 
+- [[Intelligent Textiles and Sports Clothing]]
+- [[NTMT丨PCM相变调温纤维：是黑科技还是噱头？从芯材选择到纺丝应用，这篇全讲明白了]]
+- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]
+- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]
 - [[Smart Textiles & Wearables]]
 - [[Smart Textiles Review]]
 - [[Smart Textiles and Sportswear]]
-- [[Intelligent Textiles and Sports Clothing]]
-- [[PCM-Free Thermoregulation with BNC Nanofiber Network]]
-- [[Smart Polymers Ch01 Phase Transitions and Light Scattering]]
+- [[会议纪要_金佰利×中科一然_除味材料技术对接]]
+- [[段工谈材料｜PCM相变微胶囊：把“空调”做进纤维里，真的靠谱吗？科学解读]] — 微胶囊后整理路线的批判视角
+- [[相变储能（杭州）AC-TEX相变调温纤维：超亿元A轮与万吨产线规划]] — 纳米限域封装 + 高温熔纺，产业化的对立路线样本
+

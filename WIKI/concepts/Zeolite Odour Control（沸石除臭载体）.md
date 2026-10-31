@@ -72,4 +72,6 @@ tags: [除臭, 沸石, 异味控制, 合规]
 - [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]]
 - [[Product Development & Trial Plan Workshop（产品研发与实验计划研讨）]]
 - [[Project Portfolio Review & Resource Planning（项目梳理与资源规划）]]
+- [[会议纪要_金佰利×中科一然_除味材料技术对接]]
 - [[纸尿裤的异味控制与消除.pdf]]
+

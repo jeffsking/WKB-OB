@@ -1,0 +1,22 @@
+[自证] merged 指针页      : 4
+[自证] WIKI 页面总数      : 2267
+[自证] 含登记的 source 页 : 1410
+[自证] 登记路径去重总数   : 1423
+[自证]单值登记页: 1399 / 多值登记页: 11
+
+[自证] RAW 条目数（排除 attachments）: 1414
+
+============================================================
+真实未编译: 3 条
+已编译    : 1411 条
+============================================================
+
+[!] 一条 RAW 被多个「活跃」页登记（真实重复编译，需人工裁定）: 0
+
+[i] 已被 merged 指针页治理过的登记（非新问题，仅存档线索）: 2
+   ogy (Chatterjee & Gupta)/chapters/Absorbent Technology_ch01_report.md.md
+      (merged) WIKI\sources\Liquid Flow in Porous Structures.md
+      (active)-> WIKI\sources\Porous Structure and Liquid Flow Models.md
+   ogy (Chatterjee & Gupta)/chapters/Absorbent Technology_ch07_report.md.md
+      (merged) WIKI\sources\Cross-linked Cellulose and Derivatives.md
+      (active)-> WIKI\sources\Cross-linked Cellulose and Its Derivatives.md

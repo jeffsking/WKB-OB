@@ -1,0 +1,43 @@
+{
+  "at": "2026-10-18T09:27:27+08:00",
+  "ledger": {
+    "total": 1413,
+    "stages": {
+      "synced": 32,
+      "compiled": 1377,
+      "discovered": 4
+    },
+    "with_kb_path": 1405
+  },
+  "dedup": {
+    "rc": 0,
+    "compiled": 1404,
+    "uncompiled": 1,
+    "raw_entries": 1405,
+    "dup_live": 0,
+    "merged_pages": 4
+  },
+  "ledger_vs_raw": {
+    "ledger_count": 1410,
+    "raw_count": 1405,
+    "only_in_raw": [],
+    "only_in_ledger": [
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/lxag173.pdf.md",
+      "RAW/ima_sync/个人知识库/WKB/菌草纤维技术简报_Workshop_20261017.docx.md",
+      "RAW/ima_sync/个人知识库/WKB/除臭粉悬浮液掉粉问题_工艺可行性方案_20261017.docx.md"
+    ],
+    "only_in_ledger_no_anchor": [
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数总览_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/COCO_V6_全Code关键参数横向条形对比_vsControl2_20261007.png.md",
+      "RAW/ima_sync/个人知识库/WKB/lxag173.pdf.md",
+      "RAW/ima_sync/个人知识库/WKB/菌草纤维技术简报_Workshop_20261017.docx.md",
+      "RAW/ima_sync/个人知识库/WKB/除臭粉悬浮液掉粉问题_工艺可行性方案_20261017.docx.md"
+    ],
+    "only_in_ledger_deleted": []
+  },
+  "drift": [
+    "RAW 锚点未落地 5 条（账本已登记 raw_path、RAW_FULL 有镜像、RAW 侧无文件 → 须等 IMA 插件补齐，非删除，不自动清账本）"
+  ]
+}

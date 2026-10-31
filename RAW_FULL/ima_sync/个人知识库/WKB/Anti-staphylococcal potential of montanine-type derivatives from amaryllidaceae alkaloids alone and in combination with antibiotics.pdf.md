@@ -1,0 +1,1342 @@
+---
+media_id: "pdf_3867e2b60070d7dc3f413086d0b0036e_74277e404d8efb37c8eadba141799942001a693ee6c0644e"
+extract_status: "ok"
+extract_channel: "B"
+synced_at: "2026-10-17T18:16:44+08:00"
+source_path: "RAW/ima_sync/个人知识库/WKB/lxag173.pdf.md"
+media_type: 1
+extract_method: "REST get_media_info 原件直下 → pypdf 文本层抽取（无配额通道）"
+original_file: "RAW_FULL/ima_sync/个人知识库/WKB/attachments/lxag173.pdf"
+---
+
+# lxag173.pdf
+
+Journal of Applied Microbiology , 2026, 137 (7), lxag173 
+https://doi.org/10.1093/jambio/lxag173 
+Published: 15 July 2026 
+Research article 
+Anti-staphylococcal potential of montanine-type 
+derivatives from amaryllidaceae alkaloids alone and in 
+combination with antibiotics 
+Adéla Diepoltová 1 , Negar Maafi1 , Ondˇrej Janˇdourek1 , Kateˇrina HradiskáBreiterová1 , Pavlína Vávrová1 , 
+Pavel Bárta1 , Darja Koutová2 , Radim Havelek2 , Marcela Vejsová1 , Barbora Voxová1 , Petr Nachtigal1 , 
+Lucie Cahlíková1 , Klára Koneˇcná 1 , * 
+1 Faculty of Pharmacy in Hradec Králové, Charles University, Akademika Heyrovského 1203, Hradec Králové 500 03, Czech Republic 
+2 Faculty of Medicine in Hradec Králové, Charles University, Šimkova 870, Hradec Králové 500 03, Czech Republic 
+∗Corresponding author. Faculty of Pharmacy in Hradec Králové, Charles University, Akademika Heyrovského 1203, 500 03 Hradec Králové, Czech Republic. 
+E-mail: konecna@faf.cuni.cz . 
+Abstract 
+Aims The rising wave of antimicrobial resistant organisms, together with the lack of novel group of antibacterial agents, rep- 
+resents a major concern in modern medicine. This study aims to investigate the anti-staphylococcal potential of two semi- 
+synthetic derivatives of naturally occurring nitrogen-containing molecules [2-O-(3-methoxybenzoyl)-3-O-methylpancracine 
+(1 nm) and 2-O-(3,5-dimethoxybenzoyl)-3-O-methylpancracine (2 nm)]. 
+Methods and results The two semi-synthetic analogues were evaluated against reference bacterial strains and clinical bacte- 
+rial isolates. Furthermore, the most active compound, 1 nm, was subjected to synergistic activity screening with the commer- 
+cial antibiotics against MRSA. The toxicity profile of 1 nm was further explored using in vitro (HepG2 and HK-2 cells) and in 
+vivo ( Galleria mellonella ) models, accompanied by an insight into its in silico physicochemical characteristics and cytotoxicity. 
+Our results suggest that this derivative possesses promising activity against clinically relevant staphylococci, while showing a 
+favourable safety and bioavailability profile. In addition, this compound showed synergistic or additive effects in combination 
+with several clinically important antibiotics. 
+Conclusions 1 nm demonstrates promising adjuvant anti-staphylococcal activity, with a favourable safety profile and an ad- 
+ditive interaction with the last-resort antibiotic linezolid, supporting its potential to mitigate resistance development within 
+combination strategies. 
+Impact statement 
+With antimicrobial resistance continuing to outpace antibiotic discovery, effective antibiotic adjuvants represent a promising 
+strategy to maximize the utility of existing treatments. This study identifies a novel anti-staphylococcal compound with a 
+favourable safety profile and additive activity with linezolid, highlighting its translational potential for combination therapies 
+aimed at improving treatment efficacy and helping preserve last-resort antibiotics. 
+Keywords multidrug-resistant bacteria, antibiotics, staphylococci, bacteria, antibiotic resistance 
+Introduction 
+Almost a century ago, the discovery of antibiotics significantly 
+changed the rudiments of medicine and helped to control the 
+most world-threatening illnesses. However, antimicrobial resis- 
+tance (AMR), supported by the current overuse, misuse, and agri- 
+cultural use of antimicrobial agents, brings infectious diseases 
+back to global awareness (Muller 2022 ). Infections associated with 
+AMR lead to prolonged hospital admissions, treatment failures, 
+major increases in healthcare costs, and, sadly, a higher mortality 
+rate. Since the effec tiveness of antibiotics will continue to decline 
+due to persistent trends of AMR, physicians might use last-resort 
+groups of drugs such as carbapenems and polymyxins, which are 
+expensive, have many differ ent side effec t s, and ar e not br oadly 
+available (Dadgostar 2019 ). The need for new antibiotic agents’ 
+discovery is a long-lasting and inevitable problem worldwide. 
+Confirming this desperate urge, the World Health Organiza- 
+tion (WHO) introduced the Global Action Plan on Antimicrobial 
+Resistance in 2015 to increase awareness and understanding of 
+AMR. Nowadays, the main focus lies in supporting research and 
+Received:3March2026. Revised:17June2026. Accepted:1July2026
+©TheAuthor(s)2026.PublishedbyOxfordUniversityPressonbehalfofAppliedMicrobiologyInternational.ThisisanOpenAccessarticledistribut edunderthetermsoftheCreativeCommons
+AttributionLicense( https://creativecommons.org/licenses/by/4.0/),whichpermitsunrestrictedreuse,distribution,andreproductioninanymedium,providedtheoriginalworkisproperlycited.
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+2 Journal of Applied Microbiology,2026,Volume137,Issue7
+developing new antimicrobial candidates or alternative strategies 
+to combat AMR (Terreni et al . 2021 ). 
+Meanwhile, the antibiotic pipeline is gradually drying up, the 
+spread of AMR is not slowing down. Clinicians are desperately 
+challenged by the spread of superbugs, multidrug-resistant mi- 
+croorganisms, which are recognized as a serious global threat 
+to human health. In 2024, the WHO published an updated list 
+of pathogens, organized in three categories according to the ur- 
+gency of the emergence (WHO 2024 ). Many of them are also gath- 
+ered under the infamous acronym, ESKAPE—pathogens that have 
+developed a great level of multi-resistance to agents from dif- 
+ferent antibiotic groups, such as oxazolidinones, lipopeptides, 
+macrolides, fluoroquinolones, tetracyclines, β-lactams, β-lactam- 
+β-lactamase inhibitor combinations, and even to the last line of 
+defence, such as carbapenems, glycopeptides, and polymyxins 
+(De Oliveira et al . 2020 ). 
+Despite the global effort to control the impact of staphylococ- 
+cal infections upon the public and a healthcare environment en- 
+hanced by WHO’s announcement in 2024, Staphylococcus aureus 
+remains a threat to society especially in hospital environment, 
+where it is transferred between patients, by contact with con- 
+taminated medical material and healthcare personnel or from ex- 
+ogenous environment and community (Santajit and Indrawattana 
+2016 ). While 30% of the population carries S. aureus as a harm- 
+less commensal, in specific conditions or immunocompromised 
+patients, S. aureus represents a causative agent of wide-ranged 
+diseases affecting most of the human tissues, such as skin, blood, 
+bones, and organs—typically, heart and lungs. Such infections are 
+complicated by prolonged hospital stays, higher mortality, and a 
+large economic burden (Tong et al . 2015 , Ajibola et al . 2023 , Jiang 
+et al . 2023 ). 
+Only shortly after discovery of methicillin as an alternative 
+to treat penicillin-resistant strains, illustrious methicillin-resistant 
+Staphylococcus aureus (MRSA) became the most frequently occur- 
+ring resistant pathogen across continents. Furthermore, contrary 
+to traditional variants, new clones of MRSA appear not only in hos- 
+pital environments but also affect people without any predisposi- 
+tions (Lakhundi and Zhang 2018 ). This status and the increasing 
+resistance level should lead to a deeper interest focused on new 
+antimicrobials development. 
+No less of a problem is represented by coagulase-negative 
+staphylococci (CoNS). Despite its benign reputation, this hetero- 
+geneous group is responsible for potentially critical infections 
+in healthcare environments, predominantly in immunocompro- 
+mised patients (Heilmann et al . 2019 ). The situation is, again, trag- 
+ically worsened by a broad AMR of CoNS caused by various mecha- 
+nisms of resistance, including biofilm formation. In addition, CoNS 
+have been identified as a reservoir of resistance even against last- 
+resort antibiotics, such as linezolid (LIN) or daptomycin (Marincola 
+et al . 2021 ). 
+Invariable structures of synthetic anti-infective molecules and 
+their short lifespan in combating bacterial resistance develop- 
+ment have reversed the research trends in favour of natural prod- 
+ucts. Isolated natural compounds could either provide a source of 
+anti-infective drugs or supply a potential core as ‘lead molecules’, 
+which could be chemically modified while incorporating the active 
+pharmacophores (Cushnie et al . 2014 ). 
+The observed antibacterial characteristics of natural product- 
+derived molecules are assumed to be due to the evolution of 
+secondary metabolite scaffolds through millennia, guarantee- 
+ing a competitive dominance over other microbes. Natural com- 
+pounds likely evolved to infiltrate cell membranes and interact 
+with particular receptors of microorganisms, with their chemically 
+complex structure required to inhibit many bacterial protein tar- 
+gets. Thus, the discovery of well-optimized molecules with anti- 
+infective properties from nature is not surprising (Butler and Buss 
+2006 , Brown and Dawson 2015 ). Examples of introduced natural- 
+derived antibacterial classes are β-lactam antibiotics such as peni- 
+cillin, bacterial peptides such as bacitracin, aminoglycosides such 
+as streptomycin, and macrolides such as erythromycin (Butler and 
+Buss 2006 ). 
+Developing new anti-infective agents via chemical manipula- 
+tion of naturally occurring scaffolds of antibiotics has gained pop- 
+ularity over the years. From 1995 to 2005, from 22 FDA (Food 
+and Drug Administration) approved antibacterial drugs, 12 were 
+natural product-derived drugs belonging to five antimicrobial 
+classes ( β-lactams, streptogramins, macrolides, tetracyclines, and 
+lipopeptides). The remaining drugs were synthetic compounds, 
+limited to only two antibacterial classes, with quinolones account- 
+ing for nine approvals (Butler and Buss 2006 ). In addition, between 
+2010 and 2022, of 14 small-molecule antibacterials approved by 
+the FDA, nine were derivatives of naturally occurring scaffolds, 
+highlighting the role of derivatization of natural frameworks in an- 
+tibacterial drug discovery (Jung and Gademann 2023 ). 
+Alkaloids are one of the largest groups of secondary metabo- 
+lites produced by plants, characterized by diverse nitrogen- 
+containing chemical structures. Although they are famous as poi- 
+sonous compounds, yet have been exploited in medicine in many 
+cases (Shah and Seth 2010 ). 
+Given the various bioactivities assigned to alkaloids, re- 
+searchers have persistently evaluated their antibacterial proper- 
+ties, leading to the introduction of promising antibacterial activ- 
+ity of alkaloids, particularly from the indole, indolizidine, piper- 
+azine, quinoline, isoquinoline, and quinolone classes, with min- 
+imum inhibitory concentration (MIC) values equal to or below 10 
+μg ml−1 (Cushnie et al . 2014 , Debnath et al . 2018 ). The isoquinoline 
+group of alkaloids, despite the significant chemical variation ex- 
+hibited, shares a common isoquinoline core and is predominantly 
+distributed in Papaveraceae, Berberidaceae, Ranunculaceae, and 
+Amaryllidaceae plants (Jin and Yao 2019 , Yan et al . 2021 ). 
+The Amaryllidaceae family represents a plentiful source of 
+isoquinoline core-bearing molecules, commonly referred to as 
+Amaryllidaceae alkaloids (AAs) (Kornienko and Evidente 2008 , Nair 
+et al . 2017 , Berkov et al. 2020 ). Allegedly, extensive utilization of 
+this family in folk medicine is largely attributed to the presence 
+of AAs regarding their verified biological values in neurodegener- 
+ative diseases, antitumour properties, and antimicrobial activity 
+(Ding et al . 2017 , Nair et al . 2017 ). To date, the majority of sub- 
+micromolar antibacterial activity observed by AAs are predomi- 
+nantly reported from narciclasine-, lycorine-, and α-crinane-type, 
+against a range of Gram-negative and Gram-positive pathogens, 
+especially Bacillus subtilis, Klebsiella pneumoniae , Escherichia coli , 
+Helicobacter pylori, Pseudomonas aeruginosa , Staphylococcus epi- 
+dermidis , and S. aureus (Nair et al . 2017 ). 
+Montanine-type alkaloids are among the rare scaffolds of AAs 
+and yet compelling as potential bioactive molecules (Govindaraju 
+et al . 2018 ). However, the montanine-type nucleus has been pro- 
+posed to be achievable easily through a semi-synthetic rear- 
+rangement of widely available haemanthamine (Fig. 1 ) (Inubushi 
+et al . 1960 , Cedrón et al . 2009 , Govindaraju et al . 2018 ). This 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 3
+Figure 1 Reaction scheme for haemanthamine ring rearrangement to montanine-type AAs core and preparation of title compounds, 
+2-O-(3-methoxybenzoyl)-3-O-methylpancracine (1 nm) and 2-O-(3,5-dimethoxybenzoyl)-3-O-methylpancracine (2 nm). 
+approach has offered an accessible source of the montanine back- 
+bone (as in 3- O -methylpancracine), enabling further derivatiza- 
+tion and allowing research groups to explore this intriguing scaf- 
+fold (Govindaraju et al . 2018, Maafi et al . 2021a , 2021b ). Interest- 
+ingly, derivatization of montanine-type core has led to a significant 
+enhancement of activity in this class against Mycobacterium tuber- 
+culosis H37Ra, Mycolicibacterium aurum , and Mycolicibacterium 
+smegmatis . Similarly, the same outcome has been observed with 
+other AAs such as galanthamine, maritidine, and vittatine (Maafi 
+et al . 2021a ). 
+Given the known bioactivity of montanine-type AAs and lever- 
+aging the intramolecular transformation of the haemanthamine 
+core into the montanine-type scaffold, our research group has 
+developed a library of semi-synthetic derivatives of these al- 
+kaloids and evaluated their biological properties (Maafi et al . 
+2021a , 2021b ). Compounds 1 nm and 2 nm (Fig. 1 ) are selected 
+hits from this library based on our positive assessment on the 
+preliminary antibacterial screening. In the previous study, com- 
+pounds 1 nm (previously published as ‘1f’) were subjected to 
+cholinesterase inhibitory screening to contribute to a compre- 
+hensive structure–activity relationship (SAR) analysis (Maafi et al . 
+2021b ). Moreover, in this study, both compounds were also in- 
+cluded in preliminary antimycobacterial screening, which exhib- 
+ited satisfactory results (MIC1nm = 66.2 μM, MIC2nm = 31.1 μM, 
+both for M. tuberculosis H37Ra). Pilot screening provided a ratio- 
+nale for extending the antimicrobial activity investigation of 1 nm 
+and 2 nm against a broader spectrum of microorganisms. In this 
+study, 1 nm and 2 nm are subjected to screening against reference 
+strains, followed by bacteria isolated from clinical samples, with 
+particular emphasis on pathogens known for their high level of 
+resistance. 
+As an alternative to the conventional, long, and expensive de- 
+velopment of a new leading drug, novel strategies for the therapy 
+of infectious diseases are increasingly being explored, such as the 
+use of combination therapy. 
+Antibiotic combinations are already a common strategy in the 
+treatment of severely ill patient, predominantly through the use 
+of two or more antibiotic molecules, each capable of acting as an 
+independent therapeutic agent. Other strategies may also involve 
+a combination of an existing antibiotic agent with an adjuvant, 
+which, acting on its own, may show little to non-therapeutic effec t 
+but confers important advantages when used alongside the antibi- 
+otic. In fact, adjuvants can not only potentiate or enhance the an- 
+timicrobial activity of primary therapeutic agent but also minimize 
+or even prevent AMR (Boyd et al . 2021 ). 
+The present study aimed to evaluate two semi-synthetic 
+montanine-type derivatives, 1 nm and 2 nm, which belong to a 
+class of compounds known to exhibit a broad spectrum of bio- 
+logical activities, including antibacterial effects. Within the frame- 
+work of this study, we sought to characterize their antimicrobial 
+and other relevant biological properties to assess their potential 
+as promising candidate antibiotics or adjuvants. Furthermore, wa- 
+ter solubility test for 1 nm and 2 nm was conducted in vitro and fur- 
+ther physicochemical and ADME-related (Absorption, Distribution, 
+Metabolism, and Excretion) parameters were evaluated in silico for 
+both compounds to discuss their drug-likeness. 
+Materials and methods 
+General chemistry methods 
+All solvents were pretreated using standard procedures prior to 
+use. Reagents and catalysts were obtained from Merck, Germany 
+and used as received, without further purification. The NMR spec- 
+tra were measured in CDCl3 on a VNMR S500 (Varian) spectrome- 
+ter operating at 500 MHz for1 H and 126 MHz for13 C at an ambi- 
+ent temperature. The chemical shifts were recorded as δvalues in 
+parts per million (ppm). The residual signal of CDCl3 at δ7.26 ppm 
+was used as the reference for1 H NMR spectra, while the central 
+signal at δ77.0 ppm served as the reference for proton-decoupled 
+1 3 C NMR spectra. The coupling constant ( J ) is given in Hz. ESI- 
+HRMS was obtained with a Waters Synapt G2-Si hybrid mass anal- 
+yser of a quadrupole-time-of-flight (Q-TOF) type, coupled to a Wa- 
+ters Acquity I-Class UHPLC system. Purity assessment of deriva- 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+4 Journal of Applied Microbiology,2026,Volume137,Issue7
+tives was performed using a Waters HPLC-PDA-MS system (Waters 
+Corporation, MA, USA), confirming > 95% purity for both com- 
+pounds (PDA detection, UV–Vis, uncalibrated). Thin-layer chro- 
+matography was carried out on Merck precoated silica gel 60 F254 
+plates, and compounds on the plates were observed under UV 
+light (254 and 366 nm) and visualized by Dragendorff’s reagent 
+spraying. 
+Preparation of 3- O -methylpancracine 
+3- O -methylpancracine was prepared as previously described, us- 
+ing ample quantities of haemanthamine isolated from Narcissus 
+pseudonarcissus cv. Dutch Master bulbs (Hulcová et al . 2019 , Maafi 
+et al . 2021a , 2021b ). Spectroscopic data of 3- O -methylpancracine 
+corresponds with data reported before (Maafi et al . 2021b ). The re- 
+action was repeated multiple times to obtain sufficient quantities 
+of 3- O -methylpancracine for the preparation of compounds 1 nm 
+and 2 nm, if required. 
+Preparation of 1 nm and 2 nm 
+1 nm and 2 nm were prepared according to the previously de- 
+scribed procedure (Kohelová et al . 2019 , Al Shammari et al . 2021 ). 
+Physical, spectroscopic, and spectrometric 
+data of derivatives 1 nm and 2 nm 
+2- O -(3-methoxybenzoyl)-3- O -methylpancracine (1 nm) 
+Spectrometric data of 1 nm corresponds to previously pub- 
+lished records (Maafi et al . 2021b ). 
+2- O -(3,5-dimethoxybenzoyl)-3- O -methylpancracine (2 nm) 
+Yield 96%; pale yellow amorphous solid; [ α] 28 
+D = + 27.16◦ ( c 
+0.27, CHCl3 ); 1 H NMR (500 MHz, CDCl3 ) δ: 7.18 (d, J = 2.3 Hz, 2H), 
+6.66 (t, J = 2.3 Hz, 1H), 6.55 (s, 1H), 6.47 (s, 1H), 5.88 (d, overlap, 
+J = 13.4 Hz, 1H), 5.88 (d, overlap, J = 13.4 Hz, 1H), 5.58–5.53 (m, 
+1H), 5.40–5.35 (m, 1H), 4.36 (d, J = 16.7 Hz, 1H), 3.87 (d, overlap, 
+J = 16.7 Hz, 1H), 3.84 (s, overlap, 6H), 3.70–3.65 (m, 1H), 3.48–
+3.40 (m, overlap, 1H), 3.46 (s, overlap, 3H), 3.31 (d, J = 2.4 Hz, 
+1H), 3.12 (dd, J = 11.2, J = 2.4 Hz, 1H), 3.07 (d, J = 11.2 Hz, 1H), 
+2.39–2.31 (m, 1H), 1.54 (td, J = 12.4, J = 2.4 Hz, 1H); 13 C NMR 
+(126 MHz, CDCl3 ) δ: 165.4, 160.6, 156.4, 146.8, 145.9, 132.0, 124.8, 
+111.0, 107.5, 107.4, 106.8, 105.4, 100.7, 78.5, 68.8, 61.1, 58.1, 57.3, 
+55.6, 55.5, 45.8, 30.2. ESI-HRMS m/z calculated for C26 H28 NO7 + 
+[M + H]+ 466.1860, found 466.1862. 
+Conversion of 1 nm and 2 nm to hydrochloride salts: 
+The synthesized derivatives 1 nm and 2 nm were dissolved in 
+ethereal HCl and converted to the corresponding hydrochlorides. 
+ADME and drug-likeness prediction in silico 
+Evaluation of the drug-likeness and ADME features of novel com- 
+pounds in silico is streamlining the progression of these com- 
+pounds in the realm of drug discovery. Presently, the freely avail- 
+able SwissADME bioinformatics web tool (accessible at http:// 
+www.swissadme.ch/ , Molecular Modelling Group of the Swiss In- 
+stitute of Bioinformatics, Switzerland) was used to predict the 
+physicochemical parameters and drug-likeness descriptors of 
+compounds 1 nm and 2 nm. Their drug similarity was assessed 
+based on Lipinski’s rule of five, Abbott’s bioavailability score (ABS), 
+and SwissADME oral bioavailability criteria. Gastrointestinal (GI) 
+absorption was predicted using the BOILED-Egg model, and the 
+compounds were also evaluated for pan-assay interference struc- 
+tures (PAINS) as a medicinal chemistry filter, all conducted in silico . 
+Aqueous solubility evaluation of 1 nm and 
+2 nm in vitro 
+The water solubility of the two derivatives as their hydrochloride 
+salts was determined following the method described by Pidany 
+et al . ( 2024 ), with minor modifications (Pidany et al . 2024 ). Stock 
+solutions of each test compounds were prepared at a concentra- 
+tion of 500 μM in ultrapure distilled water containing 5% dimethyl 
+sulfoxide (DMSO). The maximum UV–Vis absorption wavelength 
+was determined using a Shimadzu UV-1601 UV–Vis spectropho- 
+tometer (Shimadzu Corporation, Japan) and the measured wave- 
+length was subsequently used as a reference to measure the ab- 
+sorbance across a range of concentrations. Seven serial dilutions 
+were prepared from the stock solution with concentrations rang- 
+ing from 250 to 1 μM. For each concentration, 2 ml was used to 
+record the UV absorbance at the predetermined wavelength. The 
+experiment was repeated as triplicate and the mean absorption 
+was calculated for each concentration. The obtained data were 
+used to generate a calibration curve by linear regression method. 
+To determine water solubility, an oversaturated solution of each 
+test compound was prepared and sonicated at 37◦C for 10 min. 
+The solution was then centrifuged at 8000 rpm for 10 min. The su- 
+pernatant was collected for UV–Vis absorbance measurement. If 
+the absorbance exceeded the range of the calibration curve, the 
+solution was appropriately diluted. The maximum aqueous solu- 
+bility concentration was calculated using the derived calibration 
+formula. 
+Determination of antibacterial activity of 
+1 nm and 2 nm against selected reference 
+and clinical isolate bacterial strains 
+The microdilution broth method was performed according to The 
+European Committee on Antimicrobial Susceptibility Testing (EU- 
+CAST) instructions, with slight modifications (Hasselmann and Mi- 
+crobiology 2003 ). Eight reference bacterial strains purchased from 
+the Czech Collection of Microorganisms (CCM, Czech Republic) or 
+from the German Collection of Microorganisms and Cell Cultures 
+(DSM, Germany), namely: S. aureus subsp. aureus CCM 4223 (ATCC 
+29213), MRSA CCM 4750 (ATCC 43300), S. epidermidis CCM 4418 
+(ATCC 12228), Enterococcus faecalis CCM 4224 (ATCC 29212), E. coli 
+CCM 3954 (ATCC 25922), K. pneumoniae CCM 4415 (ATCC 10031), 
+Acinetobacter baumannii DSM 30007, (ATCC 19606), and P. aerugi- 
+nosa CCM 3955 (ATCC 27853). Clinical isolates were provided by the 
+Department of Clinical Microbiology, University Hospital, Hradec 
+Králové, Czech Republic. All mentioned strains were taxonom- 
+ically classified by biochemical tests and MALDI-TOF (Microflex 
+LH/SH MALDITOF, Bruker Biotyper 3.0 SW, Bruker Daltonic GmbH, 
+Germany) instrumentation. The antibiograms of the strains were 
+determined using the disc diffusion method following EUCAST rec- 
+ommendations (Matuschek et al . 2014 ). 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 5
+The cultivation of bacteria was performed in Cation-adjusted 
+Mueller–Hinton broth (CAMHB, M-H 2 Broth, Sigma–Aldrich, USA) 
+at 35 ± 2◦C. The tested compounds were dissolved in DMSO 
+(Merck, Germany) to produce stock solutions. The final concen- 
+tration of DMSO in the testing medium did not exceed 1% ( v/v ) 
+of the total solution composition and did not affec t the growth of 
+bacteria. Both positive (microbe solely) and negative (cultivation 
+medium and DMSO) controls were included in the assays. Inter- 
+nal quality standard—ciprofloxacin (CIP, Merck, USA) was used in 
+assays. Antibacterial activity expressed as MIC (reported in μM), 
+was evaluated after 24 (48 h) of static incubation in a dark and 
+humidified atmosphere at 35 ±2◦C. Visual inspectionand  spec- 
+trophotometric measurements (530 nm, Synergy HTX Multi-Mode 
+Microplate reader, BioTek, USA) were used for MIC endpoint eval- 
+uation. 
+Determination of antibacterial activity of 
+1 nm and 2 nm against selected 
+mycobacterial strains 
+The antimycobacterial assay was performed with rapidly grow- 
+ing M. smegmatis DSM 43465 (ATCC 607), M. aurum DSM 43999 
+(ATCC 23366) from German Collection of Microorganisms and 
+Cell Cultures (DSM, Germany), and with an avirulent strain of 
+M. tuberculosis H37Ra ITM M-006710 (ATCC 9431) from Belgian 
+Co-ordinated Collections of Microorganisms (Belgium). The tech- 
+nique used for activity determination was the microdilution broth 
+panel method using 96-well microtitration plates. The mycobac- 
+terial strains were cultured on Middlebrook 7H9 agar and suspen- 
+sions were prepared in Middlebrook 7H9 broth (Merck, Germany) 
+enriched with 0.4% glycerol (Merck, Germany) and 10% Middle- 
+brook OADC growth supplement (Himedia, India). The final den- 
+sity of bacterial suspension was adjusted to 1.0 on the McFarland 
+scale and diluted in the ratio of either 1:20 (for rapidly growing my- 
+cobacteria) or 1:10 (for slow growing mycobacteria) with broth. 
+The tested compounds were dissolved in DMSO (Merck, Ger- 
+many), and then Middlebrook broth was added to obtain a con- 
+centration of 2000 μg ml−1 . Isoniazid (INH), Rifampicin (RIF), and 
+CIP (Merck, Germany) were used as standards for the activity de- 
+termination. The final concentration of DMSO did not exceed 2.5% 
+( v/v ) and did not affec t the gr owth of all strains. Positive (broth, 
+DMSO, bacteria) and negative (broth, DMSO) growth controls were 
+included. 
+The antimycobacterial activity was expressed as MIC and was 
+determined using Alamar Blue solution (Alamar Blue TM Cell Vi- 
+ability reagent, Thermo Fisher Scientific, USA). The value was 
+read based on stain colour change (blue colour—active com- 
+pound; pink colour—inactive compound). All experiments were 
+conducted in duplicate. 
+Preliminary in vitro cytotoxicity or 
+antiproliferative activity evaluation of 
+compounds 1 nm and 2 nm 
+Compounds 1 nm and 2 nm were evaluated for preliminary off- 
+target cytotoxic activity against a panel of nine selected human tu- 
+mour and non-tumour cell lines. Jurkat (acute T-cell leukaemia), 
+MOLT-4 (acute lymphoblastic leukaemia), A549 (lung adenocar- 
+cinoma), HT-29 (colorectal adenocarcinoma), PANC-1 (pancreatic 
+epithelioid carcinoma), A2780 (ovarian carcinoma), HeLa (cervix 
+adenocarcinoma), MCF-7 (breast adenocarcinoma), SAOS-2 (os- 
+teosarcoma), and MRC-5 (normal lung fibroblasts) were purchased 
+from European Collection of Authenticated Cell Cultures (ECACC, 
+UK) and cultured according to the guidelines from the provider. All 
+cell lines were cultured at 37◦C in a humidified incubator with 5% 
+CO2 . For the experiments, cells were used in the maximum range 
+of either 10 passages for the primary cell line (MRC-5) or 20 pas- 
+sages for the cancerous cell lines, in an exponential growth phase. 
+Immediately prior to each experiment, the tested compounds and 
+doxorubicin (used as a positive control) were freshly dissolved in 
+DMSO (Sigma–Aldrich, USA) to prepare stock solutions at a con- 
+centration of 50 mM. These stock solutions were subsequently di- 
+luted in the appropriate cell culture medium to achieve the final 
+working concentrations used in the assays. In this assay, the DMSO 
+concentration was consistently maintained below 0.1%. Control 
+cells were mock treated with DMSO (0.1%; control). 
+The WST-1 (Roche, Germany) reagent was employed to assess 
+the cytostatic effect of the compounds using a 96-well-plate for- 
+mat (Sigma, USA). The cells were seeded at previously optimized 
+densities (1 × 103 to 50 × 103 cells per well) and let to set- 
+tle overnight. Following cell seeding, cells were treated with the 
+respective compound derivative or doxorubicin stock solution, 
+yielding final concentrations of 10 μM for the derivatives and 1 μM 
+for doxorubicin. Treated cells were then incubated at 37◦C in a hu- 
+midified atmosphere containing 5% CO2 . At 48 h post-treatment, 
+WST-1 reagent was prepared according to the manufacturer’s pro- 
+tocol and added per well. Absorbance was measured at 440 nm 
+on a Tecan Spark multimode microplate reader (Tecan Group, 
+Switzerland). Experiments were run in triplicate and repeated in- 
+dependently at least three times. Results are presented as the pro- 
+liferation percent relative to 0.1% DMSO treated control cells (set 
+to 100%). 
+Descriptive statistics were calculated, and all charts were gener- 
+ated drawn in MicrosoftOffice 365 Excel (Microsoft, USA) or Graph- 
+Pad Prism (GraphPad Prism 9.3.0, USA). The values are presented 
+as mean ± standard deviation (SD) of triplicate measurements 
+( n = 3), unless stated otherwise. 
+Evaluation of the IC50 values of 1 nm and 
+2 nm against HepG2 cells 
+Human hepatocellular carcinoma HepG2 cells (ATCC HB-8065; 
+passage 20–25) were acquired from European Collection of Au- 
+thenticated Cell Cultures (ECACC, UK) and were cultured in Min- 
+imum Essential Eagle Medium supplemented with 10% foetal 
+bovine serum and 1% L -glutamine solution (Sigma–Aldrich, USA) 
+at 37◦C in a humidified incubator with 5% CO2 . For passage, the 
+cells were treated with trypsin-ethylenediamine tetraacetic acid 
+(EDTA, Sigma–Aldrich, USA) at 37◦C and subsequently harvested. 
+The treated cells with 1 nm and 2 nm were used as cytotoxicity 
+screening group. The untreated HepG2 cells served as the con- 
+trol group, and a blank group was also included in assay. The cells 
+were plated in a 96-well plate at a density of 10 000 cells per well 
+and were incubated for 24 h. Afterwards, the cells were treated 
+with tested compounds dissolved in DMSO with not exceeding 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+6 Journal of Applied Microbiology,2026,Volume137,Issue7
+concentration of 0.5% v/v for DMSO. The testing compounds were 
+prepared at different concentrations in triplicates according to 
+their solubility and incubated for 24 h in a humidified incubator 
+with 5% CO2 at 37◦C. After incubation, a solution of thiazolyl blue 
+tetrazolium bromide (Sigma–Aldrich, USA) in RPMI 1640 without 
+phenol red (BioTech, Czech Republic) was added and incubated for 
+30 min under the previously described conditions. Subsequently, 
+DMSO was used to dissolve the formed formazan crystals, and 
+the absorbance of the samples was recorded at 570 nm (Synergy 
+Neo2 Multi-Mode Reader NEO2SMALPHAB; Agilent BioTek, USA). 
+The IC50 values were determined by nonlinear regression analy- 
+sis of semi-logarithmic plots of compound concentration vs. ab- 
+sorbance percentage relative to untreated controls, using Graph- 
+Pad Prism software (GraphPad Prism 9.3.0, USA). The results are 
+expressed as the concentration of the compound required to re- 
+duce cell viability to 50% of the maximum observed viability (IC50 ). 
+The values are expressed as arithmetic means ±SD of triplicate 
+measurements ( n = 3). 
+Evaluation of the IC50 value of 1 nm against 
+HK-2 cells 
+The cytotoxicity of compound 1 nm was assessed using the 
+CellTiter 96 colorimetric assay (Promega, WI, USA). This assay is 
+based on the reduction of tetrazolium dye MTS by viable cells to 
+form a formazan product. The IC50 as the quantitative parame- 
+ter was measured using the colorimetric assay. The IC50 value was 
+calculated with GraphPad Prism software (GraphPad Prism 9.3.0, 
+USA) using log(inhibitor) vs. normalized response model, which 
+enabled the comparison of cytotoxic effect for the selected cell 
+line. 
+The human kidney cortex proximal tubule HK-2 cell line (ATCC, 
+USA) was cultured in Dulbecco’s Modified Eagle Medium (DMEM) 
+High Glucose, supplemented with 10% fetal bovine serum and 2 
+mM L -glutamine. (All cell culture consumables were purchased 
+from Sigma–Aldrich, USA.) Cells were maintained at 37◦C in a hu- 
+midified incubator with 5% CO2 and subcultured for experiments 
+once they reached 80%–90% confluency. 
+For subculturing, the cells were harvested after trypsin-EDTA 
+(Sigma–Aldrich, USA) treatment at 37◦C. To evaluate cytotoxicity, 
+the cells treated with the test compound served as experimental 
+groups and the untreated HK-2 cells employed as controls. The 
+cells were seeded with the density of 10 000 cells per well in a 96- 
+well plate. The next day, the cells were treated with 1 nm dissolved 
+in DMSO with the prepared concentrations of 0.0001, 1, 5, 10, 25, 
+50, and 100 μM in triplicates. Higher concentrations were excluded 
+due to observed precipitation of 1 nm in the culture medium, start- 
+ing at a concentration of 100 μM. Treated cells were incubated for 
+the following 24 h. Control group representing 100% cell viability, 
+0% viability (cells treated with 10% DMSO), cell-free blanks, and 
+vehicle controls were incubated in parallel. After 24 h of incuba- 
+tion in a humidified atmosphere containing 5% CO2 at 37◦C, the 
+reagent from the kit CellTiter 96 AQueous One Solution Cell Prolif- 
+eration Assay (CellTiter 96; Promega, USA) was added, followed by 
+2 h of incubation under the described condition. The absorbance 
+of samples was then recorded at 490 nm in a spectrophotometer 
+(Tecan, Infinite M200, Austria). The IC50 was determined by non- 
+linear regression analysis of a semi-logarithmic plot of incubation 
+concentration vs. percentage of absorbance relative to untreated 
+controls, using GraphPad Prism software (GraphPad Prism 9.3.0, 
+USA). 
+Screening of in vivo toxicity of compound 
+1 nm using the invertebrate animal model 
+Galleria mellonella 
+Galleria mellonella animals were reared in the laboratory of the 
+Department of Biological and Medical Sciences, at the Faculty of 
+Pharmacy in Hradec Králové, Charles University. The larvae were 
+fed with an artificial diet according to Haydak ( 1936 ) and reared in 
+the dark at 29◦C. Only fully vital, cream-coloured larvae with body 
+weight ranging from 300 to 320 mg were selected for the adminis- 
+tration of test compounds before each experiment. 
+Briefly, the tested compounds were dissolved in DMSO and di- 
+luted to the required working concentration using a phosphate- 
+buffered saline, pH 7.4 (Merck, USA). The final concentration of 
+DMSO corresponded to 30% ( v/v ). The samples were adminis- 
+tered into the larvae at a total volume of 10 μl per larva, into the 
+haemocoel through the last leftproleg using a Hamilton syringe. 
+Two control groups (untreated control and buffer-injected con- 
+trol) were included in the in vivo toxicity assessment of compound 
+1 nm. The inoculated larvae and control groups were then incu- 
+bated in Petri dishes at 37◦C. The survival and conditions of lar- 
+vae were recorded over a 120-h period (24, 48, 72, 96, and 120 
+h after administra tion). De a th was defined as the complete loss 
+of mobility, including a physical stimulus using a plastic pipette. 
+The mortality for each dose/time interval was calculated, and sur- 
+vival Kaplan–Meier curves were designed via SW analysis (Graph- 
+Pad Prism 9.3.0, USA). 
+Evaluation of the anti-staphylococcal 
+activity of 1 nm in combination with 
+selected commercially available 
+antibacterial agents 
+The Checkerboard assay based on the microdilution method was 
+employed as a screening approach to evaluate the antibacterial ef- 
+fect within the mutual interaction of two compounds with antimi- 
+crobial activity (1 nm vs. selected antibacterial drug). The assays 
+were performed in Honeycomb plates (Oy Growth Curves, Fin- 
+land) in a ten-by-ten well configuration. Six antibiotic agents used 
+for the treatment of infections caused by Gram-positive bacteria 
+CIP, vancomycin (VAN), LIN, RIF, trimethoprim-sulfamethoxazole 
+(SXT), and tigecycline (TGC) were selected for combinations (all 
+purchased from Sigma–Aldrich, USA). Within the checkerboard as- 
+says, the MRSA ATCC 43300 strain was used for detecting the an- 
+tibacterial activity of the compounds in combination. The com- 
+pounds were dissolved in DMSO (Sigma–Aldrich, USA) to produce 
+stock solutions. The final concentration of DMSO in the testing 
+medium did not exceed 1% ( v/v ) of the total solution composition 
+and did not affec t the gr owth of bac teria. The compounds wer e 
+serially diluted in CAMHB in separate microtiter plates and then 
+transferred to a Honeycomb plate at a 1:1 volume ratio. The 1 nm 
+was transferred in a vertical direction and a selected antibacterial 
+drug in a horizontal direction. Each well with a final volume of 200 
+μL compound mixtures was inoculated with the reference MRSA 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 7
+bacterial strain in CAMHB. The positive controls consisted solely 
+of the test microbe, while the negative controls contained the cul- 
+tivation medium only. The honeycomb plates were incubated in 
+a Bioscreen C instrument (Oy Growth Curves, Finland) at 36.8 ◦C 
+for 20 h. After the incubation, the percentage of growth inhibition 
+was calculated in comparison to the positive controls (background 
+values subtracted). Spectrophotometric data, optical density, was 
+recorded at 580 nm. A visual inspection using a metabolic activ- 
+ity indicator, Alamar Blue (Alamar Blue TM Cell Viability reagent, 
+Thermo Fisher Scientific, USA), was also employed for evaluating 
+MIC endpoints. The total fractional inhibitory concentration index 
+(FICI) was then used to interpret the checkerboard assays. The FICI 
+was calculated according to the following formula: FICI = FIC(A) + 
+FIC(B). FIC(A) and FIC(B) were calculated as follows: FIC (A or B) 
+= MIC of drug A (or B) in combination/MIC of drug A (or B) alone. 
+The results of the FICI were defined as follows: FICI ≤0.5, synergy; 
+0.5 < FICI ≤1, additivity; 1 < FICI ≤4, indiffer ence; and FICI > 4, 
+antagonism. 
+Statistical analysis 
+Screening survival experiments with in vivo toxicity studies con- 
+sisted of 84 individuals for evaluation of 1 nm and 2 nm ( n = 7). All 
+data outputs were analysed by GraphPad Prism (GraphPad Prism 
+9.3.0, USA). Data from survival experiments were subjected to the 
+log-rank Mantel–Cox (curve comparison) test. Results were con- 
+sidered significant at a P -value < 0.05 in all analyses. 
+Results and discussion 
+Primary scaffolds of different classes of AAs are constantly sub- 
+jected to modifications to find new potential drugs. Devel- 
+opment of narciclasine-4- O - β- D -glucopyranoside as a potential 
+compound to combat brain tumours, semi-synthetic 11- O -(1- 
+naphthoyl)ambelline and 11- O -(2-methylbenzoyl)ambelline with 
+significant potency in butyrylcholinesterase (BuChE) inhibition 
+(IC50 values < 0.3 μM), and 3,11-dinicotyl-11-hydroxyvittatine with 
+16 times better IC50 than its basal alkaloid against Plasmodium fal- 
+ciparum F32 (IC50 value of 0.8 ±0.06 μM) are successful examples 
+of these alkaloids chemical modification (Ingrassia et al . 2009 , Ce- 
+drón et al . 2012 , Maríková et al . 2020 ). Additionally, antimicrobial 
+property investigations have also been targeted in the structural 
+optimization of AAs; in one study targeting columnaris disease in 
+catfish caused by the Gram-negative bacterium Flavobacterium 
+columnare , a carbamate analogue of lycorine exhibited promising 
+activity against two isolated strains of this bacterium, i.e. MIC of 
+5.5 ±0 mg l−1 for both (Tan et al. 2011 ). In another study aim- 
+ing to identify novel natural-based antimycobacterial molecules, 
+semi-synthetic esters of various classes of AAs were prepared, 
+which in some cases resulted in markedly increased activity of the 
+scaffold. Two compounds, 6- O -(4-butylbenzoyl)galanthamine and 
+6- O -(2-naphthoyl)galanthamine, with MIC values of 3.5 and 4.1 
+μM against M. tuberculosis H37Ra expressed the best antitubercu- 
+lar potencies. In the aforementioned study, seven semi-synthetic 
+derivatives with montanine-type scaffold were included, among 
+which ester derivatives with 4- tert- butylbenzoyl, 4-butylbenzoyl, 
+3,5-diethoxybenzoyl, and 1-naphthoyl on C2 position of 3- O - 
+methylpancracine skeleton displayed MIC values < 8 μM against 
+M. tuberculosis H37Ra (Maafi et al . 2021a ). 
+In this study, attention is given to two compounds, 1 nm 
+and 2 nm, which are semi-synthetic derivatives featuring 
+montanine-type scaffolds, bearing the characteristic 5,11- 
+methanomorphantridine core. Their specific attributes, which 
+determine their suitability as potential antimicrobial drug can- 
+didates, are thoroughly investigated in this work. Specifically, 
+properties such as drug-likeness, cytotoxicity, toxicity in vivo, and 
+antibacterial activity of 1 nm and 2 nm were studied. 
+Aqueous solubility and in silico 
+drug-likeness prediction for 1 nm and 2 nm 
+Drug-like properties, derived from structures and characteristics 
+of existing drugs and drug candidates, has been widely used to 
+filter out undesirable compounds in the early phases of drug 
+discovery. The initial concept of drug-likeness for orally active 
+compounds is proposed by Lipinski, known as the Rule of Five, 
+which defines four key physicochemical parameters: molecular 
+weight ≤500, ClogP ≤5 (or MlogP ≤4.15), hydrogen bond donors 
+≤5, and hydrogen bond acceptors ≤10 (Lipinski et al . 2001 , Lip- 
+inski 2004 ). 
+The evaluation of drug similarity and ADME attributes of 1 nm 
+and 2 nm was performed in silico using the free online tool, Swis- 
+sADME (Table 1 ) (Daina et al . 2017 ). None of the compounds 
+showed any violations of Lipinski’s and SwissADME oral bioavail- 
+ability criteria, indicating the positive in silico assessment of these 
+two as orally bioavailable (Lipinski et al . 2001 , Daina et al . 2017 ). 
+The ABS of 0.55 predicts that both compounds are likely to ex- 
+hibit at least 10% of oral bioavailability in rats or possess iden- 
+tifiable permeability in Caco-2 cells, according to in silico assess- 
+ment. Furthermore, the GI absorption according to BOILED-Egg 
+method concurs with high absorption of 1 nm and 2 nm from the 
+GI tract (Daina and Zoete 2016 ). These findings suggest the high 
+bioavailability of both compounds and possibility of GI adminis- 
+tration. PAINS are miscellaneous fragments prone to interfere with 
+assay readouts, leading to false-positive results (Daina et al . 2017 ). 
+Notably, no such fragments were detected in 1 nm and 2 nm. 
+Additionally, the aqueous solubility of both derivatives in their 
+hydrochloride salt forms was determined using UV–Vis spec- 
+trophotometry. 1 nm exhibited slightly lower maximum solu- 
+bility (4613.96 μM, equivalent to 2177.46 mg l−1 ) in aqueous 
+medium compared to 2 nm (4669.47 μM, equivalent to 2343.89 
+mg l−1 ). These findings are further supported by the predicted 
+log S (ESOL) values, which indicate a well-balanced lipophilic–
+hydrophilic character, highlighting their potential as promising 
+drug candidates with moderate to sparing solubility. However, it 
+should be noted that the measured solubility values may have 
+been slightly overestimated in comparison to the true solubility in 
+pure aqueous medium, due to the presence of DMSO in the testing 
+medium. 
+Antibacterial potential of 1 nm and 2 nm 
+Total number of 32 bacterial strains were included in this study to 
+determine the antibacterial potential of 1 nm and 2 nm (Table 2 ). In 
+the study, 22 Gram-positive bacterial strains (4 reference represen- 
+tatives and 18 clinical isolates), 7 Gram-negative bacterial strains 
+(4 reference strains and 3 clinical isolates), and 3 mycobacterial 
+strains were included for determination of antibacterial activities. 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+8 Journal of Applied Microbiology,2026,Volume137,Issue7
+Table 1 Physicochemical, ADME, drug likeness, and medicinal chemistry characteristics of compounds 1 nm and 2 nm. 
+Parameters 1 nm 2 nm 
+MW 435.47 g/mol 465.50 g/mol 
+HBA 7 8 
+HBD 0 0 
+RB 5 6 
+TPSA 66.46˚A 2 75.69˚A 2 
+LogPo/w (XLOGP3) 2.78 2.75 
+LogPo/w (MLogP) 2.50 2.19 
+Log S (ESOL) −4.24 (Moderately soluble) −4.32 (Moderately soluble) 
+Csp3 0.40 0.42 
+GI absorption High High 
+LP violation Zero violation Zero violation 
+OBR violation Zero violation Zero violation 
+ABS 0.55 0.55 
+PAINS Zero alert Zero alert 
+All parameters and descriptors are obtained from the SwissADME bioinformatics web tool. 
+MW,molecularweight;  HBA,numberofH-bondacceptors,  HBD, number of H-bond donors, RB, number of rotatable bonds; TPSA, topological polarity surface 
+area; Log Po/w (XLOGP3), logarithm of the octanol–water partition coefficient calculated using the XLOGP3 algorithm; Log Po/w (MLogP), logarithm of the octanol–
+water partition coefficient estimated using the MLOGP method; Log S (ESOL), aqueous solubility by the ESOL model; Fraction Csp3–Fraction of carbon atoms in sp3 
+hybridization; GI absorption, gastrointestinal absorption according to the white of the BOILED-Egg; LP Violation, number of the violations of Lipinski’s rule of five 
+(MW ≤500 g/mol, MlogP ≤4.15, HBD ≤5, HBA ≤10); OBR Violation, number of the violations of SwissADME oral bioavailability radar (lipophilicity: -0.7 < XLOGP3 
+< + 5.0, 150 g/mol < MW < 500 g/mol, 20˚A 2 < TPSA < 130˚A 2 , −6 < Log S (ESOL) < 0, 0.25 < Fraction Csp3 < 1, 0 < RB < 9); ABS, Abbott’s bioavailability score; and 
+PAINS, pan-assay interference compounds. 
+As shown in Table 2 , the most potent antibacterial activity of 
+1 nm was registered against S. aureus (ATCC 29213, MIC1nm ranged 
+from 3.9 to 15.6 μM), MRSA (ATCC 43300; MIC1nm ranged from 15.6 
+to 62.5 μM), and S. epidermidis (ATCC 12228; MIC1nm ranged from 
+15.6 to 31.3). 
+The lowest MIC of 2 nm was registered against S. aureus (ATCC 
+29213) (MIC2nm ranged from 7.8 to 31.3 μM), MRSA (ATCC 43300) 
+(MIC2nm ranged from 7.8 to 31.3 μM), and S. epidermidis (ATCC 
+12228) (MIC2nm ranged from 15.6 to 31.3 μM). The promising 
+antibacterial activity of candidate compounds 1 nm and 2 nm 
+demonstrated against reference bacterial strains was corrobo- 
+rated by results obtained using bacterial strains isolated from clin- 
+ical specimens. Susceptibility profiles of each bacterial isolate can 
+be found in the Supporting Information ( Supplement SA ). 
+An anti-staphylococcal activity was confirmed in com- 
+pound 1 nm, with MIC1nm = 7.8 μM against S. aureus (141/16) 
+and MIC1nm = 15.6 μM against MRSA (153/16). Similarly, 
+MIC2nm = 15.6 μM was detected against S. haemolyticus (111/16) 
+and MIC2nm = 31.3 μM was revealed in two MRSA strains (153/16 
+and 154/16). Such results are in close accordance with the MICs of 
+1 nm and 2 nm against corresponding reference strains. 
+Interestingly, a promising activity revealed against Enterococ- 
+cus faecalis (ATCC 29212, MIC1nm) = 31.3–62.5 μM MIC2nm = 31.2 
+–125 μM,) was not confirmed in vancomycin-resistant bacte- 
+rial isolates (2/21, 7/21, 8/21, 17/21, and 18/21). Accordingly, 
+moderate activity against some Gram-negative reference strains, 
+e.g. K. pneumoniae (ATCC 10031; MIC1nm = 15.6–62.5 μM and 
+MIC2nm = 31.3–62.5 μM) was not detected against bacterial strains 
+isolated from clinical specimens. 
+Moderate antimycobacterial effect in 1 nm and 2 nm was also re- 
+vealed. The lowest MIC1nm corresponding to 33.1 μM was revealed 
+against M. smegmatis . MIC2nm of 31.1 μM was registered against all 
+three mycobacterial collection reference strains ( M. smegmatis , M. 
+aurum , and M. tuberculosis H37Ra. 
+In summary, in both 1 nm and 2 nm, a promising antibac- 
+terial activity was revealed against reference bacteria and bac- 
+terial strains isolated from clinical specimens. Furthermore, the 
+antibacterial effect seems to be the most prominent specifically 
+against staphylococci isolated from clinical specimens (MIC1nm 
+corresponded to 7.8–62.5 μM and MIC2nm corresponded to 15.6–
+62.5 μM). Such results may initially appear as a less compelling, 
+given that staphylococci are not always perceived as the most 
+pressing threat. Nevertheless, these pathogens must continue to 
+be considered, as they are characterized by evolving resistance 
+mechanisms and remain clinically relevant. This is further under- 
+scored by the 2024 update of the WHO priority pathogens list, in 
+which MRSA strains were again classified under the ‘High Priority’ 
+category (WHO 2024 ). 
+Among all classes of AAs, montanine-type alkaloids are known 
+as potent antimicrobial agents due to their reported activ- 
+ity against pathogenic bacteria. For example, Castilhos et al . 
+( 2007 ) studied the antibacterial potency of montanine against 
+pathogenic S. epidermidis , (MIC = 15 μg ml−1 ), S. aureus (MIC = 
+5 μg ml−1 ), E. coli (MIC = 5 μg ml−1 ), and P. aeruginosa (MIC = 20 
+μg ml−1 ) (Castilhos et al . 2007 ). Despite these promising findings, 
+this group remains largely unexplored with respect to its antimi- 
+crobial potential (Koutova et al . 2020 ). 
+Cytotoxicity profile determination of 1 nm 
+and 2 nm 
+Montanine, the most well-known alkaloid of montanine-type AAs, 
+is renowned for its pronounced antiproliferative effect against a 
+range of cancer cell lines (Koutova et al . 2023 ). Given that our 
+derivatives share the same core scaffold with this alkaloid, the pre- 
+liminary cytotoxicity/anti-proliferative profiling was conducted 
+against a panel of nine cancer cell lines and one non-cancerous 
+cell line. The results from the screening are demonstrated in 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 9
+Table 2 Antibacterial 5activity of 1 nm and 2 nm against Gram-positive and Gram-negative bacterial reference strains, clinical bacterial isolates, and three mycobacterial reference strains. 
+Origin 1 nm 2 nm CIP 
+MIC (μM) MIC (μM) MIC (μM) 
+Gram-positive bacterial strains 
+Staphylococcus aureus subsp. a ureus (ATCC 29213) Reference 3.9–15.6 7.8–31.3 1.5 
+Methicillin-resistant Staphylococcus aureus subsp. aureus , MRSA (ATCC 43300) Reference 15.6–62.5 7.8–31.3 0.8 
+Staphylococcus epidermidis (ATCC 12228) Reference 15.6–31.3 15.6–31.3 0.8 
+Enterococcus faecalis (ATCC 29212) Reference 31.3–62.5 31.3–125 3 
+Staphylococcus capitis (ID No. 74/16) Peripheral venous catheter 31.3 62.5 1.5–6 
+Staphylococcus haemolyticus (ID No. 111/16) Urine catheter 62.5 15.6 3–≥6 
+Methicillin-resistant Staphylococcus aureus subsp. aureus , MRSA (ID No. 131/16) Laryngeal swab 31.3 62.5 ≥6 
+Staphylococcus aureus (ID No. 136/16) Laryngeal swab 62.5 62.5 0.8–1.5 
+Methicillin-resistant Staphylococcus aureus subsp. aureus , MRSA (ID No. 138/16) Sputum 62.5 62.5 > 6 
+Staphylococcus aureus (ID No. 141/16) Eye swab 7.8 31.3–62.5 0.4–1.5 
+Methicillin-resistant Staphylococcus aureus subsp. aureus , MRSA (ID No. 153/16) Laryngeal swab 15.6 31.3 > 6 
+Methicillin-resistant Staphylococcus aureus subsp. aureus , MRSA (ID No. 154/16) Bronchoalveolar lavage 31.3–62.5 31.3 > 6 
+Staphylococcus epidermidis (ID No. 196/16) Drain 62.5 500 1.5–6 
+Vancomycin-resistant Enterococcus faecium (ID No. 198/16) Catheter tube > 500 > 500 6 
+Vancomycin-resistant Staphylococcus aureus (ID No. 206/16) ND 62.5 62.5 0.8–3 
+Staphylococcus hominis (ID No. 109/18) Central venous catheter 62.5 62.5 3 
+Vancomycin-resistant Staphylococcus aureus (ID No. 203/19; NIPH) NIPH 62.5 62.5 0.8 
+Vancomycin-resistant Enterococcus faecalis, VRE (ID No. 2/21) ND > 250 > 250 > 6 
+Vancomycin-resistant Enterococcus faecalis, VRE (ID No. 7/21) ND > 250 > 250 > 6 
+Vancomycin-resistant Enterococcus faecalis, VRE (ID No. 8/21) ND > 250 > 250 > 6 
+Vancomycin-resistant Enterococcus faecium, VRE (ID No. 17/21) Urine > 250 > 250 > 6 
+Vancomycin-resistant Enterococcus faecium, VRE (ID No. 18/21) Urine > 250 > 250 > 6 
+Gram-negative strains 
+Escherichia coli (ATCC 25922) Reference > 125 > 125 1.5 
+Klebsiella pneumoniae (ATCC 10031) Reference 15.6–62.5 31.3–62.5 1.5 
+Acinetobacter baumannii (ATCC 19606) Reference > 125 > 125 3 
+Pseudomonas aeruginosa (ATCC 27853) Reference > 125 > 125 0.8 
+Klebsiella pneumoniae (ID No. 13/21) Urine > 500 > 500 > 6 
+Klebsiella pneumoniae (ID No. 14/21) Rectal swab > 500 > 500 > 6 
+Klebsiella pneumoniae (ID No. 15/21) Rectal swab > 500 > 500 6 
+Mycobacterial strains INH MIC (μM) RIF MIC (μM) CIP MIC (μM) 
+Mycolicibacterium smegmatis (ATCC 607) Reference 33.1 31.1 113.8 3.8 0.2 
+Mycolicibacterium aurum (ATCC 23366) Reference 66.2 31.1 28.4 0.5 0.06 
+Mycobacterium tuberculosis H37Ra ITM-M006710 (ATCC 9431) Reference 66.2 31.1 2.2 0.004 0.9 
+The antibacterial activity was determined by the microdilution broth method according to EUCAST recommendations. The MIC was evaluated by visual inspection via the metabolic indicator Alamar Blue, and by spectropho- 
+tometric measurement. The results were read after 24 h of incubation for bacterial strains and 48 h of incubation for M. smegmatis , 72 h for M. aurum , and 120 h for M. tuberculosis at 37◦C. 
+ATCC, American Type Culture Collection; CIP, ciprofloxacin; ID No., internal laboratory identification number; INH, isoniazid; MIC, minimum inhibitory concentration; MRSA, methicillin-resistant Staphylococcus aureus ; ND, 
+not determined; NIPH, The National Institute of Public Health in Prague, Czech Republic; RIF, rifampicin; VR, vancomycin-resistant; and VRE, vancomycin-resistant Enterococcus sp. 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+10 Journal of Applied Microbiology,2026,Volume137,Issue7
+Table 3 Cell proliferation registered 48 h after exposition of human cell lines to 1 nm and 2 nm at final concentration corresponding to 10 μM. 
+Cell types 
+Jurkat MOLT-4 A549 HT-29 PANC-1 A2780 HeLa MCF-7 SAOS-2 MRC-5 
+1 nm 124 ±7% ∗ 85 ±9% ∗ 100 ±13% ∗ 77 ±12% ∗ 110 ±8% ∗ 87 ±8% ∗ 104 ±5% ∗ 88 ±3% ∗ 103 ±14% ∗ 98 ±12% ∗
+2 nm 134 ±12% ∗ 86 ±5% ∗ 74 ±20% ∗ 60 ±16% ∗ 119 ±16% ∗ 92 ±22% ∗ 94 ±8% ∗ 76 ±11% ∗ 94 ±17% ∗ 112 ±7% ∗
+DOX 2 ±0% ∗ 1 ±1% ∗ 28 ±26% ∗ 50 ±2% ∗ 87 ±5% ∗ 9 ±4% ∗ 15 ±2% ∗ 31 ±7% ∗ 21 ±3% ∗ 22 ±3% ∗
+Values represent cell proliferation expressed as a percentage of the proliferation related to the untreated control cell line. Each value represents the mean of three 
+independent experiments. Doxorubicin was used as a reference drug at final concentration corresponding to 1 μM. 
+% ∗, percentage of the proliferation related to the untreated control cell line. DOX, doxorubicin; Jurkat, human acute T-cell leukaemia; MOLT-4, human acute lym- 
+phoblastic leukaemia; A549, human lung adenocarcinoma; HT-29, human colorectal adenocarcinoma; PANC-1, human pancreatic adenocarcinoma; A2780, human 
+ovarian carcinoma; HeLa, human cervical adenocarcinoma; MCF-7, breast adenocarcinoma; SAOS-2, human osteosarcoma; and MRC-5, Human non-cancer fetal 
+lung fibroblast cell line. 
+Table 4 Evaluation of in vitro IC50 values against HepG2 and HK-2 cells. 
+IC50 ( μM) against HepG2 
+cells SIHepG2 ∗
+IC50 ( μM) against HK-2 
+cells SIHK-2 ∗
+1 nm 36.03 ±5.17 9.2–0.6 > 50 > 12.8 to 
+> 0.8 
+2 nm 29.68 ±6.95 3.8–0.5 n.d. n.d. 
+Tetrazolium-based colorimetric assay was employed to assess IC50 values of 1 nm and 2 nm against HepG2, and 1 nm against HK-2 cell lines. The results are expressed 
+as a mean of three replicate measurements. IC50 , half maximal inhibitory concentration; HepG2, human hepatocellular carcinoma cell line; and HK-2, normal human 
+renal proximal tubular epithelial cell line. ∗Selectivity index (SI) is calculated as the IC50 against HepG2 cells or HK-2 cells in μM/MICs ≤62.5 in μM. n.d.: stands for 
+‘not determined’. 
+Table 3 . Treatment of cells with 10 μM concentrations of 1 nm or 
+2 nm did not result in significant antiproliferative activity. This out- 
+come stands in contrast to our previous findings on the parent 
+compound montanine, which was identified as the most potent 
+isoquinoline alkaloid in that study, exhibiting notable cytotoxicity 
+with IC50 values ranging from 1.04 to 2.30 μM. These results sug- 
+gest that structural modification of montanine at the positions in- 
+troduced in derivatives 1 nm and 2 nm may attenuate its cytotoxic 
+activity (Koutova et al . 2023 ). 
+Hepatotoxicity and nephrotoxicity are critical markers to con- 
+sider when evaluating candidate drugs during the development 
+of novel antimicrobial agents. Although none of the derivatives 
+exhibited any significant cytotoxicity at low doses in vitro , HepG2 
+cells were employed as a hepatotoxicity model to determine the 
+IC50 values for both compounds (Table 4 ). 1 nm, with an IC50 of 
+36.03 ±5.17 μM, displayed slightly lower toxicity towards HepG2 
+cells compared to 2 nm. Dose-response curves for compounds 
+1 nm and 2 nm against HepG2 cells are provided in Support- 
+ing Information ( Supplement SB ). Given its lower hepatotoxicity, 
+1 nm was further tested on the human kidney epithelial cell line 
+HK-2. 
+Since in the higher concentrations (100 μM) of 1 nm the solubil- 
+ity of the compound in the culture medium limited the measure- 
+ment, the IC50 value of 1 nm for HK-2 cells was determined to be 
+greater than 50 μM (Fig. 2 ). 
+To discuss the in vitro hepatotoxicity and nephrotoxicity find- 
+ings, the selectivity index (SI) is defined as the ratio of IC50 value 
+against HepG2 cells or HK-2 cells to the MIC ≤ 62.5 μM, which 
+serves as a useful in vitro indicator of a compound’s therapeu- 
+tic potential. An SI value > 10 is generally indicative of a com- 
+pound with both sufficient efficacy and an acceptable safety mar- 
+gin (Sanchez and Kouznetsov 2010 ). Our results suggest that 1 nm 
+Figure 2 Evaluation of in vitro cytotoxicity of 1 nm against the HK-2 cell 
+line. The cytotoxic effect was expressed as the IC5 0 value, i.e. the 
+concentration of 1 nm that induced a cytotoxic effect in 50% of the cells. 
+The IC5 0 parameter was calculated using GraphPad Prism 9.3.0 software 
+(GraphPad Software, Inc., USA). 
+with SIHepG2 ranging from 9.2 to 0.6 has a better safety profile than 
+2 nm, while maintaining a selectivity range of > 12.8 to > 0.8 for 
+HK-2 cells. 
+Given the promising antibacterial activity, better aqueous solu- 
+bility and more favourable hepatotoxicity profile, it was ultimately 
+decided that derivative 1 nm would be included in subsequent 
+evaluations. 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 11
+Figure 3 Survival curves of animal model, Galleria mellonella , after intra-haemocoel administration of 1 nm. After administration, larvae were incubated 
+at 37◦C for 5 days and inspected after 24, 48, 72, 96, and 120 h of incubation. 
+In vivo toxicity of 1 nm using Galleria 
+mellonella 
+In vivo toxicity of 1 nm was evaluated using invertebrate animal 
+model, Galleria mellonella. The larvae were divided into groups ac- 
+cording to the final volume of administered compound per kg of 
+the animal’s body weight. The highest administered doses corre- 
+sponded to 475.6 mg per kg of body weight; the lowest doses had 
+a final concentration of 83.64 mg per kg of body weight of larvae. 
+The tested compound, 1 nm, was administered into the haemo- 
+coel through the last left proleg by an injection, which mimics 
+the intravenous route of administration in mammals and reflects 
+systemic toxicity. As it is presented in Fig. 3 and Supplement SC 
+(Supporting Information), the median lethal dose leading to the 
+death of 50% of the animals (LD50 ) was not reached after the intra- 
+haemocoel administration of 1 nm in all groups. Therefore, it can 
+be concluded that the LD50 of 1 nm within the 24- to 120-h post- 
+exposure interval exceeds 475.6 mg per kg of larval body weight. 
+The in vivo toxicity data were also statistically analysed using 
+the paired Log-rank (Mantel–Cox) test ( Supplement SD in Support- 
+ing Information). Following the intra-haemocoel administration of 
+1 nm derivative, no statistically significant differences in survival 
+were observed among any of the experimental groups. 
+Based on these findings, 1 nm could be categorized within the 
+GHS (Globally Harmonized System) as class 4, which represents 
+non/low toxic compounds (Ignasiak and Maxwell 2017 ). 
+Exploring the potential of the nm1 as a 
+synergistic adjuvant in antimicrobial 
+therapy 
+Synergistic interaction between two compounds, in which one 
+agent enhances the effec t of the other and they act more effi- 
+ciently together than as individuals, inspired many scientists to ex- 
+amine the significance of synergistic acting of plant-derived com- 
+pounds and traditional antibiotics. Synergistically active plant- 
+based compounds usually represent structurally diverse biologi- 
+cally active secondary metabolites. 
+Many researchers have proven synergistic effects of plant- 
+based compounds in combination with common antibiotics 
+against Gram-positive and Gram-negative species (Stefanovi´c 
+2018 ). For example, a combination of grape pomace extracts and 
+β-lactams, quinolones, tetracyclines, and chloramphenicol acted 
+in synergy against all S. aureus and E. coli strains (Sanhueza et al . 
+2017 ). Ethanol extract of Punica granatum rind possesses synergis- 
+tic activity with CIP against resistant strain of K. pneumoniae (Rafiq 
+et al . 2017 ). 
+Ideally, combination therapy lowers the effec tive concentration 
+of the active drug compared to the concentration necessary for the 
+compound to be efficient alone. Such mutually convenient rela- 
+tions between two compounds could also lead to potentially re- 
+duced toxicity of the employed drugs and diminished adverse ef- 
+fects. Furthermore, combination therapy can mitigate the risk of 
+the development of AMR, especially in those compounds with dif- 
+ferent mechanisms of action. 
+Due to favourable biological properties and strong premise of 
+a good anti-staphylococcal activity of 1 nm against some of the 
+most worrisome Gram-positive pathogens with multidrug resis- 
+tance profiles and limited antibiotic treatment options targeted 
+on this bacterial group, our team suggests that the drug candidate 
+could act successfully as an adjuvant compound with a beneficial 
+mutual effec t to commer cially available antibiotics. 
+To determine the effect of 1 nm in combination with clini- 
+cally approved antibacterial drugs, 6 different drugs with different 
+mechanisms of action were selected. Namely, CIP, VAN, LIN, RIF, 
+SXT, and TGC were included to reveal the possible promising mu- 
+tual interactions. 
+Due to its continuous clinical relevance, MRSA (ATCC 433000) 
+was selected for evaluation of the impact of mutual interac- 
+tion of 1 nm and selected antibacterial drug(s), on antibac- 
+terial activity. According to FICI values, presented in Supple- 
+ments SE–SJ (Supporting Information), concentration ratios of 
+all employed combinations were evaluated as synergistic, ad- 
+ditive, indifferent or antagonistic relation. Combination of CIP 
++ 1 nm revealed additive effec t in 6 concentration ratios 
+(MICCIP + 1 nm = 0.006/0.012/0.024/0.05/0.09/0.19 + 62.50 μM) and 
+all other ratios were evaluated as indiffer ent. In the combination 
+VAN + 1 nm, 5 concentration ratios were evaluated as additive 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+12 Journal of Applied Microbiology,2026,Volume137,Issue7
+Figure 4 (a–g) Two-colour heat maps of checkerboard MIC assays. The percentage of growth inhibition (compared to positive growth control) of 
+bacterial strain, methicillin resistant Staphylococcus aureus , MRSA (ATCC 43300), after 20 h of exposition at 37◦C to 1 nm in combination with selected 
+antibiotic drugs, expressed by colour spectrum. (a) Colour spectrum, (b) 1 nm in combination with ciprofloxacin (CIP), (c) vancomycin (VAN), (d) linezolid 
+(LIN), (e) rifampicin (RIF), (f) trimethoprim-sulfamethoxazole (SXT), and (g) tigecycline (TGC). The black horizontal (selected antibacterial drug) and 
+vertical (1 nm) lines denote the MIC of each compound alone. 
+(MICVAN + 1 nm = 0.01/0.02/0.04/0.09 + 62.50 μM and MICVAN + 1 nm = 
+0.17 + 31.25 μM), other concentration ratios showed indiffer- 
+ent effect. In the combination of LIN + 1 nm, synergistic ef- 
+fect was registered in one ratio (MICLIN + 1 nm = 0.74 + 15.63 μM). 
+Other concentration ratios in this combination were evaluated 
+as additive. Combination of RIF + 1 nm revealed additive effec t 
+in all tested concentration ratios. Seven ratios with additive ef- 
+fect were revealed in the combination of SXT + 1 nm (MICSXT + 
+MIC1 nm = 0.06/0.12/0.23/0.46/0.92/1.84/3.67 + 62.50 μM), other 
+ratios were evaluated as indifferent. And finally, 2 synergistic 
+ratios (MICTGC + 1 nm 0.02/0.03 + 31.25 μM) and 5 ratios with 
+additive effec t (MICTGC + 1 nm = 0.002/0.004/0.008 + 31.25 μM, 
+MICTGC + 1 nm = 0.07 + 15.63 μM, and MICTGC + 1 nm = 0.01 + 7.8 μM) 
+were revealed in combination of TGC + 1 nm. Indiffer ent effec t w as 
+assessed in all other concentration ratios of this combination. 
+The results of checkerboard assays are also presented in the 
+form of heat maps (Fig. 4 b–g). Each figure illustrates the per- 
+centual growth inhibition of the reference bacterial strain (MRSA) 
+after being exposed to 1 nm in combination with selected antibi- 
+otic drugs. The percentage of growth inhibition is illustrated us- 
+ing a colour scheme (Fig. 4 a), where the darkest shade represents 
+the lowest inhibition and, therefore, the highest growth of the em- 
+ployed bacterial strain, while the lightest shade indicates the high- 
+est achieved inhibition and, consequently, the lowest growth of 
+MRSA. 
+The heat maps clearly show that combination of 1 nm with an- 
+tibiotics LIN (4C) or RIF (4F), causes a significant inhibition of the 
+MRSA strain even at sub-inhibitory concentrations. These findings 
+support the clinical relevance of these antibiotics. LIN is one of 
+the last resort options for treating S. aureus infection, especially 
+MRSA. Therefore, its use should be approached with caution and 
+restraint, as the prevalence of S. aureus resistance to LIN remains 
+low (Yang et al . 2025 ). In contrast, staphylococcal resistance to RIF 
+is widespread. Therefore, RIF is commonly administered in com- 
+bination with a second antibiotic drug, particularly in the treat- 
+ment of staphylococcal biofilm-associated staphylococcal infec- 
+tions (Musumeci et al . 2025 ). The observed additive effec t of 1 nm 
+with both LIN and RIF suggests that 1 nm could potentially serve as 
+a valuable adjuvant, enhancing the efficacy of existing antibiotics 
+and helping to mitigate the development of AMR. 
+Conclusion 
+The prominent aim of this study was to investigate specific at- 
+tributes of semi-synthetic montanine-type derivatives, labelled 
+1 nm and 2 nm, to evaluate their potential as adjuvant compounds 
+for clinically used antibiotics. Our results demonstrate that 1 nm 
+exhibits promising antibacterial activity, particularly against clini- 
+cally relevant staphylococci, including MRSA strains. This narrow 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 13
+spectrum profile may help maintain microbiome balance. Both 
+1 nm and 2 nm displayed low cytotoxicity in vitro against a panel 
+of cancerous and one non-cancer human cell line, while 1 nm 
+showed more favourable cytotoxicity assessment against HepG2 
+cells with better selectivity, in comparison to 2 nm. Furthermore, 
+the agreeable in vitro cytotoxicity assessment of 1 nm against HK- 
+2 cells, and its low toxicity using the Galleria mellonella model, in- 
+dicates favourable safety profile of 1 nm. Notably, this compound 
+showed synergistic or additive effec t s when combined with sev- 
+eral clinically important antibiotics, including LIN and RIF, sug- 
+gesting its potential to enhance the efficacy of existing antimicro- 
+bial therapies. Though the in silico ADME parameters of both com- 
+pounds suggest them as drug-like, the main limitation of these 
+compounds may be their moderate solubility in aqueous media, 
+which could affec t the bioavailability. Overall, 1 nm represents a 
+strong candidate for further development as an adjuvant antimi- 
+crobial agent, combining efficacy, safety, and synergistic potential 
+with standard antibiotics, thus fulfilling a key requirement consid- 
+ered in the development and research of antimicrobial drugs. 
+Acknowledgements 
+We thank Associate Professor Jiˇrí Kuneš, Professor Lucie 
+Nováková, and Assistant Professor Jaroslav Jenˇco from Charles 
+University, Faculty of Pharmacy in Hradec Králové, for providing 
+the NMR spectra, ESI-HRMS spectra, and the HPLC-UV chro- 
+matogram of compound 2 nm, respectively. We also thank Faculty 
+Hospital in Hradec Královéfor providing clinical bacterial isolates, 
+and Jana Vacková and Ida Dufková for technical support. This 
+manuscript is devoid of any plagiarism with respect to ideas, 
+data, words, graphic materials, or other forms of communication. 
+We confirm that all the research meets the ethical guidelines, in- 
+cluding adherence to the legal requirements of the study country. 
+Used animal model, the invertebrate Gallleria mellonella , does 
+not require ethical approval. 
+Author contributions 
+Adéla Diepoltová (Conceptualization, Data curation, Formal 
+Analysis, Investigation, Methodology, Writing – original draft, 
+Writing –review & editing), Negar Maafi (Conceptualization, Data 
+curation, Formal Analysis, Investigation, Methodology, Writing 
+– original draft, Writing – review & editing), Ondˇrej Janˇdourek 
+(Investigation, Writing –review & editing), Katerina HradiskáBre- 
+iterová(Investigation, Writing –review & editing), Pavlína Vávrová
+(Investigation), Pavel Bárta (Investigation, Writing – review & 
+editing), Darja Koutová(Investigation, Writing –review & editing), 
+Radim Havelek (Investigation, Writing –review & editing), Marcela 
+Vejsová (Investigation), Barbora Voxová (Investigation, Writing –
+review & editing), Petr Nachtigal (Writing –review & editing), Lucie 
+Cahlíková (Conceptualization, Writing – review & editing), Klára 
+Koneˇcná (Conceptualization,Investigation,Writing – review & 
+editing) 
+Supplementary material 
+Supplementary material is available at Journal of Applied 
+Microbiologyonline. 
+Conflicts of interest 
+None declared. 
+Funding 
+This research was supported by Specific University Research [SVV 
+260 549]. 
+Data availability 
+The data underlying this article are available in the article and in 
+its online Supplementary material. 
+Reference 
+Ajibola O . Infective endocarditis-induced lung injury mim- 
+icking acute vanishing lung syndrome. Cureus J Med Sci 
+2023; 15 :e35454. 
+Al Shammari L , HulcováD, MaˇríkováJ et al. Amaryllidaceae alka- 
+loids from Hippeastrum X Hybridum CV. Ferrari, and prepara- 
+tion of vittatine derivatives as potential ligands for Alzheimer’s 
+disease. S Afr J Bot 2021; 136 :137–46. https://doi.org/10.1016/j. 
+sajb.2020.06.024 
+Berkov S . Chemodiversity, chemotaxonomy and chemoecology of 
+Amaryllidaceae alkaloids. Alkaloids Chem Biol 2020; 83 :113–85. 
+Boyd NK ,TengCW,FreiCR.Briefoverviewofapproachesandchal-  
+lenges in new antibiotic development: a focus on drug repur- 
+posing. Front Cell Infect Mi 2021; 11 :684515. 
+Brown P , Dawson MJ. A perspective on the next generation of an- 
+tibacterial agents derived by manipulation of natural products. 
+Prog Med Chem 2015; 54 :135–84. 
+Butler MS , Buss AD. Natural products—the future scaffolds for 
+novel antibiotics?. Biochem Pharmacol 2006; 71 :919–29. https: 
+//doi.org/10.1016/j.bcp.2005.10.012 
+Castilhos TS , Giordani RB, Henriques AT et al. Avaliação in vitro das 
+atividades antiinflamatória, antioxidante e antimicrobiana do 
+alcalóide montanina. Rev Bras Farmacogn 2007; 17 :209–14. ht 
+tps://doi.org/10.1590/S0102-695X2007000200013 
+Cedrón JC . Bioactive montanine derivatives from halide-induced 
+rearrangements of haemanthamine-type alkaloids. absolute 
+configuration by VCD. Org Lett 2009; 11 :1491–94. 
+Cedrón JC . Synthesis and antimalarial activity of new 
+haemanthamine-type derivatives. Bioorgan Med Chem 
+2012; 20 :5464–72. 
+Cushnie TP , Cushnie B, Lamb AJ. Alkaloids: an overview of their an- 
+tibacterial, antibiotic-enhancing and antivirulence activities. 
+Int J Antimicrob Agents 2014; 44 :377–86. https://doi.org/10.101 
+6/j.ijantimicag.2014.06.001 
+Dadgostar P . Antimicrobial resistance: implications and Costs. In- 
+fect Drug Resist 2019; 12 :3903–10. https://doi.org/10.2147/IDR. 
+S234610 
+Daina A , Michielin O, Zoete V. SwissADME: a free web tool to evalu- 
+ate pharmacokinetics, drug-likeness and medicinal chemistry 
+friendliness of small molecules. Sci Rep 2017; 7 :42717. 
+Daina A , Zoete V. A BOILED-egg to predict gastrointestinal absorp- 
+tion and brain penetration of small molecules. ChemMedChem 
+2016; 11 :1117–21. https://doi.org/10.1002/cmdc.201600182 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+14 Journal of Applied Microbiology,2026,Volume137,Issue7
+Debnath B , Singh WS, Das M et al. Role of plant alkaloids on 
+human health: a review of biological activities. Mater Today 
+Chem 2018; 9 :56–72. https://doi.org/10.1016/j.mtchem.2018. 
+05.001 
+De Oliveira DMP , Forde BM, Kidd TJ et al. Antimicrobial resistance 
+in ESKAPE pathogens. Clin Microbiol Rev 2020; 33 :e00181–19. ht 
+tps://doi.org/10.1128/CMR.00181-19 
+Ding Y , Qu D, Zhang K-M et al. Phytochemical and biological in- 
+vestigations of Amaryllidaceae alkaloids: a review. J Asian Nat 
+Prod Res 2017; 19 :53–100. https://doi.org/10.1080/10286020.2 
+016.1198332 
+Govindaraju K , IngelsA,Hasan  MN et al.Synthetic analoguesof  
+the montanine-type alkaloids with activity against apoptosis- 
+resistant cancer cells. Bioorg Med Chem Lett 2018; 28 :589–93. ht 
+tps://doi.org/10.1016/j.bmcl.2018.01.041 
+Hasselmann C. and Microbiology, European Soc Clinical. Determi- 
+nation of minimum inhibitory concentrations (MICs) of antibac- 
+terial agents by broth dilution. Clin Microbiol Infec 2003; 9 :ix–xv. 
+Haydak MH . Valueof  foodsother  thanpollen  innutrition  ofthe  
+honeybee. J Econ Entomol 1936; 29 :870–7. https://doi.org/10.1 
+093/jee/29.5.870 
+Heilmann C , Ziebuhr W, Becker K. Are coagulase-negative staphy- 
+lococci virulent?. Clin Microbiol Infect 2019; 25 :1071–80. https: 
+//doi.org/10.1016/j.cmi.2018.11.012 
+HulcováD . Amaryllidaceae alkaloids from L. cv. Dutch Master as 
+potential drugs in treatment of Alzheimer’s disease. Phyto- 
+chemistry 2019:165. 
+Ignasiak K , Maxwell A. Galleria mellonella (greater wax moth) lar- 
+vae as a model for antibiotic susceptibility testing and acute 
+toxicity trials. BMC Res Notes 2017; 10 :428. https://doi.org/10.1 
+186/s13104- 017- 2757- 8 
+Ingrassia L , Lefranc F, Dewelle J et al. Structure −activity re- 
+lationship analysis of novel derivatives of narciclasine (an 
+Amaryllidaceae isocarbostyril derivative) as potential anti- 
+cancer agents. J Med Chem 2009; 52 :1100–14. https://doi.org/ 
+10.1021/jm8013585 
+Inubushi Y , Fales HM, WarnhoffEW et al. Structures of montanine, 
+coccinine, and manthine. J Org Chem 1960; 25 :2153–64. https: 
+//doi.org/10.1021/jo01082a019 
+Jiang J-H , Cameron DR, Nethercott C et al. Virulence attributes 
+of successful methicillin-resistant lineages. Clin Microbiol Rev 
+2023; 36 :e0014822. https://doi.org/10.1128/cmr.00148-22 
+Jin Z ,Y a o GM. Amaryllidaceae and alkaloids. Nat Prod Rep 
+2019; 36 :1462–88. https://doi.org/10.1039/C8NP00055G 
+Jung E ,Gademann K.Clinicallyapproved  antibiotics from 2010 to 
+2022. Chimia 2023; 77 :230–34. https://doi.org/10.2533/chimia 
+.2023.230 
+Kohelová E . Derivatives of the β-Crinane amaryllidaceae al- 
+kaloid haemanthamine as multi-target directed ligands for 
+Alzheimer’s disease. Molecules 2019; 24 :1307. 
+Kornienko A , Evidente A. Chemistry, biology, and medici- 
+nal potential of narciclasine and its congeners. Chem Rev 
+2008; 108 :1982–2014. https://doi.org/10.1021/cr078198u 
+KoutováD ,MaafiN,  HavelekR et al. Chemicalandbiologicalas-  
+pects of montanine-type alkaloids isolated from plants of the 
+amaryllidaceae family. Molecules 2020; 25 :2337. https://doi.or 
+g/10.3390/molecules25102337 
+Koutova D , Maafi N, Muthna D et al. Antiproliferative activity 
+and apoptosis-inducing mechanism of Amaryllidaceae alka- 
+loid montanine on A549 and MOLT-4 human cancer cells. 
+Biomed Pharmacother 2023; 166 :115295. https://doi.org/10.1 
+016/j.biopha.2023.115295 
+Lakhundi S ,ZhangK.Methicillin-resistant  Staphylococcus aureus : 
+molecular characterization, evolution, and epidemiology. Clin 
+Microbiol Rev 2018; 31 :e00020–18. https://doi.org/10.1128/CM 
+R.00020-18 
+Lipinski CA , LombardoF,DominyBW  et al.Experimental andcom- 
+putational approaches to estimate solubility and permeabil- 
+ity in drug discovery and development settings. Adv Drug Deliv 
+Rev 2001; 46 :3–26. https://doi.org/10.1016/S0169-409X(00)001 
+29-0 
+Lipinski CA . Lead- and drug-like compounds: the rule-of-five rev- 
+olution. Drug Discov Today: Technol 2004; 1 :337–41. https://doi. 
+org/10.1016/j.ddtec.2004.11.007 
+Maafi N , MamunAA, JanˇdourekO et al. Semisyntheticderivatives 
+of selected amaryllidaceae alkaloids as a new class of antimy- 
+cobacterial agents. Molecules 2021a; 26 :6023. https://doi.org/ 
+10.3390/molecules26196023 
+Maafi N , PidanýF, MaˇríkováJ et al. Derivatives of montanine-type 
+alkaloids and their implication for the treatment of Alzheimer’s 
+disease: synthesis, biological activity and study. Bioorg Med 
+Chem Lett 2021; 51 :128374. https://doi.org/10.1016/j.bmcl.202 
+1.128374 
+MaríkováJ .Aromatic  esters of the crinane amaryllidaceae alka- 
+loid ambelline as selective inhibitors of butyrylcholinesterase. 
+J Nat Prod 2020; 83 :1359–67. 
+Marincola G , Liong O, Schoen C et al. Antimicrobial resistance 
+profiles of coagulase-negative staphylococci in community- 
+based healthy individuals in Germany. Front Public Health 
+2021; 9 :684456. https://doi.org/10.3389/fpubh.2021.684456 
+Matuschek E , Brown DFJ, Kahlmeter G. Development of the EU- 
+CAST disk diffusion antimicrobial susceptibility testing method 
+and its implementation in routine microbiology laboratories. 
+Clin Microbiol Infect 2014; 20 :O255–66. https://doi.org/10.1111/ 
+1469-0691.12373 
+Muller C . Antibiotics and antimicrobials resistance: mechanisms 
+and new strategies to fight resistant bacteria. Antibiotics (Basel) 
+2022; 11 :400. 
+Musumeci S , Giulieri SG, Pham T-T. Rifampicin in staphylococ- 
+cal implant infections: precision use or pitfall? CMI Com- 
+mun 2025; 2 :105085. https://doi.org/10.1016/j.cmicom.2025. 
+105085 
+Nair JJ , Wilhelm A, Bonnet SL et al. Antibacterial constituents 
+of the plant family Amaryllidaceae. Bioorg Med Chem Lett 
+2017; 27 :4943–51. https://doi.org/10.1016/j.bmcl.2017.09.052 
+Pidany F , Kroustkova J, Jenco J et al. Carltonine-derived com- 
+pounds for targeted butyrylcholinesterase inhibition. RSC 
+Med Chem 2024; 15 :1601–25. https://doi.org/10.1039/D4MD00 
+060A 
+Rafiq Z , Narasimhan S, Haridoss M et al. Punica granatum rind ex- 
+tract: antibiotic potentiator and efflux pump inhibitor of mul- 
+tidrug resistant Klebsiella pneumoniae clinical isolates. Asian 
+J Pharm Clin Res 2017; 10 :1–5. https://doi.org/10.22159/ajpcr.2 
+017.v10i3.16000 
+Sánchez JGB , Kouznetsov VV. Antimycobacterial susceptibility 
+testing methods for natural products research. Braz J Mi- 
+crobiol 2010; 41 :270–7. https://doi.org/10.1590/S1517-838220 
+10000200001 
+Sanhueza L , Melo R, Montero R et al. Synergistic interactions be- 
+tween phenolic compounds identified in grape pomace extract 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026
+
+
+Journal of Applied Microbiology,2026,Volume137,Issue7 15
+with antibiotics of differ ent classes against Staphylococcus 
+aureus and Escherichia coli . PLoS One 2017; 12 :e0172273. https: 
+//doi.org/10.1371/journal.pone.0172273 
+Santajit S , Indrawattana N. Mechanisms of antimicrobial resis- 
+tance in ESKAPE pathogens. Biomed Res Int 2016; 2016 :1. https: 
+//doi.org/10.1155/2016/2475067 
+Shah B , Seth AK. 2010. Textbook of Pharmacognosy and Phyto- 
+chemistry . 1 edn. India: Elsevier. 
+Stefanovi´c OD . Synergistic activity of antibiotics and bioac- 
+tive plant extracts: a study against Gram-positive and Gram- 
+negative bacteria. Bact Pathog Antibact Control 2018; 23 :23–48. 
+Tan C-X , Schrader KK, Mizuno CS et al. Activity of lycorine ana- 
+logues against the fish bacterial pathogen Flavobacterium 
+columnare . J Agric Food Chem 2011; 59 :5977–85. https://doi.or 
+g/10.1021/jf200452z 
+Terreni M , Taccani M, Pregnolato M. New antibiotics for multidrug- 
+resistant bacterial strains: latest research developments and 
+future perspectives. Molecules 2021; 26 :2671. https://doi.org/ 
+10.3390/molecules26092671 
+Tong SYC , Davis JS, Eichenberger E et al. Staphylococcus aureus 
+infections: epidemiology, pathophysiology, clinical manifesta- 
+tions, and management. Clin Microbiol Rev 2015; 28 :603–61. ht 
+tps://doi.org/10.1128/CMR.00134-14 
+WHO . WHO bacterial priority pathogens list. 2024. https: 
+//iris.who.int/bitstream/handle/10665/376776/978924009 
+3461-eng.pdf?sequence=1 (13 January 2026, date last ac- 
+cessed). 
+Yan YM . Research progress on antibacterial activities and 
+mechanisms of natural alkaloids: a review. Antibiotics-Basel 
+2021; 10 :318. 
+Yang W ,Chen  T,ZhouQ et al.Resistance to linezolid in Staphy- 
+lococcus aureus by mutation, modification, and acquisition of 
+genes. J Antibiot 2025; 78 :4–13. https://doi.org/10.1038/s41429 
+- 024- 00778- 4 
+Received: 3 March 2026. Revised: 17 June 2026. Accepted: 1 July 2026 
+©The Author(s) 2026. Published by Oxford University Press on behalf of Applied Microbiology International. This is an Open Access article distributed under the terms of the Creative Commons 
+Attribution License ( https://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Downloaded from academic.oup.com/jambio/article/137/7/lxag173/8734837 by guest on 17 October 2026

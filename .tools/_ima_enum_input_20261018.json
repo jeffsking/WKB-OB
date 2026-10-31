@@ -1,0 +1,1139 @@
+{
+ "_mode": "full-no-prune-rest",
+ "_date": "20261018",
+ "root": [
+  {
+   "media_id": "folder_7446577715112439",
+   "title": "Archives",
+   "media_type": 99,
+   "folder_info": {
+    "folder_id": "folder_7446577715112439",
+    "file_number": 0,
+    "folder_number": 0,
+    "parent_folder_id": ""
+   }
+  },
+  {
+   "media_id": "folder_7446577555702299",
+   "title": "Resources",
+   "media_type": 99,
+   "folder_info": {
+    "folder_id": "folder_7446577555702299",
+    "file_number": 0,
+    "folder_number": 0,
+    "parent_folder_id": ""
+   }
+  },
+  {
+   "media_id": "folder_7446577501179608",
+   "title": "Areas",
+   "media_type": 99,
+   "folder_info": {
+    "folder_id": "folder_7446577501179608",
+    "file_number": 0,
+    "folder_number": 0,
+    "parent_folder_id": ""
+   }
+  },
+  {
+   "media_id": "folder_7446577425704361",
+   "title": "Projects",
+   "media_type": 99,
+   "folder_info": {
+    "folder_id": "folder_7446577425704361",
+    "file_number": 0,
+    "folder_number": 0,
+    "parent_folder_id": ""
+   }
+  },
+  {
+   "media_id": "folder_7446576150638053",
+   "title": "Inbox",
+   "media_type": 99,
+   "folder_info": {
+    "folder_id": "folder_7446576150638053",
+    "file_number": 0,
+    "folder_number": 0,
+    "parent_folder_id": ""
+   }
+  }
+ ],
+ "items": [
+  {
+   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7517367571588832",
+   "media_type": 11,
+   "title": "一句话结论",
+   "create_time": null,
+   "media_state": null,
+   "kb_path": "一句话结论",
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_cd94616e39037f464b7b3ae01a198e98",
+   "media_type": 6,
+   "title": "宣布完成超亿元A轮融资 |  相变储能：六年，完成相变调温纤维从“材料科学”到“产业工程”的跨越",
+   "create_time": null,
+   "media_state": null,
+   "kb_path": "宣布完成超亿元A轮融资 |  相变储能：六年，完成相变调温纤维从“材料科学”到“产业工程”的跨越",
+   "parent_folder_id": "001a693ee6c0644e"
+  }
+ ],
+ "folders": [
+  {
+   "media_id": "folder_7446577715112439",
+   "title": "Archives",
+   "chain": "",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "folder_7446577555702299",
+   "title": "Resources",
+   "chain": "",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "folder_7446577501179608",
+   "title": "Areas",
+   "chain": "",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "folder_7446577425704361",
+   "title": "Projects",
+   "chain": "",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "folder_7446576150638053",
+   "title": "Inbox",
+   "chain": "",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "001a693ee6c0644e"
+  },
+  {
+   "media_id": "folder_7499457272745319",
+   "title": "FEI",
+   "chain": "Resources/FEI",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577555702299"
+  },
+  {
+   "media_id": "folder_7499332320241979",
+   "title": "Ebook",
+   "chain": "Resources/Ebook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577555702299"
+  },
+  {
+   "media_id": "folder_7493360835110662",
+   "title": "Training",
+   "chain": "Resources/Training",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577555702299"
+  },
+  {
+   "media_id": "folder_7446565346084794",
+   "title": "Soft Skills",
+   "chain": "Resources/Soft Skills",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577555702299"
+  },
+  {
+   "media_id": "folder_7446239473855774",
+   "title": "Open Innovation",
+   "chain": "Resources/Open Innovation",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577555702299"
+  },
+  {
+   "media_id": "folder_7438423904227199",
+   "title": "Pulp World",
+   "chain": "Resources/Pulp World",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577555702299"
+  },
+  {
+   "media_id": "folder_7504546528001137",
+   "title": "Test Method",
+   "chain": "Areas/Test Method",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7497100736602125",
+   "title": "IP",
+   "chain": "Areas/IP",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7495728511326678",
+   "title": "Supply Base",
+   "chain": "Areas/Supply Base",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7486805280582335",
+   "title": "Regulation&PSC",
+   "chain": "Areas/Regulation&PSC",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7481360679718374",
+   "title": "Personal",
+   "chain": "Areas/Personal",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7471141467720921",
+   "title": "Meeting Minutes",
+   "chain": "Areas/Meeting Minutes",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7468308223756240",
+   "title": "Nonwoven",
+   "chain": "Areas/Nonwoven",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7448382192755469",
+   "title": "Market Insight",
+   "chain": "Areas/Market Insight",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577501179608"
+  },
+  {
+   "media_id": "folder_7514611515398913",
+   "title": "Template",
+   "chain": "Projects/Template",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7511592639932611",
+   "title": "LMP-PP",
+   "chain": "Projects/LMP-PP",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7506643474448837",
+   "title": "PPC",
+   "chain": "Projects/PPC",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7506643365401343",
+   "title": "Film",
+   "chain": "Projects/Film",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7504875973775421",
+   "title": "BNC",
+   "chain": "Projects/BNC",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7504046193648820",
+   "title": "COCO",
+   "chain": "Projects/COCO",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7497320350382687",
+   "title": "BM",
+   "chain": "Projects/BM",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7494054019365294",
+   "title": "Mechanochromic",
+   "chain": "Projects/Mechanochromic",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7494054015172170",
+   "title": "Active Hygiene",
+   "chain": "Projects/Active Hygiene",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7486816928153051",
+   "title": "Thermal Comfort",
+   "chain": "Projects/Thermal Comfort",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7486816852655810",
+   "title": "Liner",
+   "chain": "Projects/Liner",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7486816781351865",
+   "title": "REL",
+   "chain": "Projects/REL",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446577425704361"
+  },
+  {
+   "media_id": "folder_7499332857135043",
+   "title": "Extract",
+   "chain": "Inbox/Extract",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446576150638053"
+  },
+  {
+   "media_id": "folder_7492942306483209",
+   "title": "Selected",
+   "chain": "Inbox/Selected",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446576150638053"
+  },
+  {
+   "media_id": "folder_7493306023939167",
+   "title": "Ebook Extract",
+   "chain": "Resources/Ebook/Ebook Extract",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499332320241979"
+  },
+  {
+   "media_id": "folder_7499460376531943",
+   "title": "OD",
+   "chain": "Resources/Training/OD",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7493360839306977",
+   "title": "SAM",
+   "chain": "Resources/Training/SAM",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7493360839327436",
+   "title": "Pants",
+   "chain": "Resources/Training/Pants",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7493360835110218",
+   "title": "GNW 101",
+   "chain": "Resources/Training/GNW 101",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7493360835112486",
+   "title": "2021 Urine and BM Basic absorbency training",
+   "chain": "Resources/Training/2021 Urine and BM Basic absorbency training",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7468307410067842",
+   "title": "Absorbency Core",
+   "chain": "Resources/Training/Absorbency Core",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7454917178440937",
+   "title": "Diaper 101",
+   "chain": "Resources/Training/Diaper 101",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360835110662"
+  },
+  {
+   "media_id": "folder_7508883270542127",
+   "title": "Engineering",
+   "chain": "Resources/Open Innovation/Engineering",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7499462033285059",
+   "title": "Performance",
+   "chain": "Resources/Open Innovation/Performance",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7469738397535657",
+   "title": "Simulation Model",
+   "chain": "Resources/Open Innovation/Simulation Model",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7468290507023879",
+   "title": "Structure",
+   "chain": "Resources/Open Innovation/Structure",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7448367848236881",
+   "title": "Technology Management",
+   "chain": "Resources/Open Innovation/Technology Management",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7448365524582776",
+   "title": "Products",
+   "chain": "Resources/Open Innovation/Products",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7448365348432726",
+   "title": "Material",
+   "chain": "Resources/Open Innovation/Material",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7446239473855774"
+  },
+  {
+   "media_id": "folder_7504546536388344",
+   "title": "成品",
+   "chain": "Areas/Test Method/成品",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546528001137"
+  },
+  {
+   "media_id": "folder_7504546532192475",
+   "title": "Material",
+   "chain": "Areas/Test Method/Material",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546528001137"
+  },
+  {
+   "media_id": "folder_7504546532173816",
+   "title": "BM测试方法",
+   "chain": "Areas/Test Method/BM测试方法",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546528001137"
+  },
+  {
+   "media_id": "folder_7494788618156655",
+   "title": "GBT",
+   "chain": "Areas/Regulation&PSC/GBT",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7486805280582335"
+  },
+  {
+   "media_id": "folder_7508883799047727",
+   "title": "Test Result",
+   "chain": "Projects/COCO/Test Result",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504046193648820"
+  },
+  {
+   "media_id": "folder_7497306962164637",
+   "title": "US_Patents_智能织物传感_拆解",
+   "chain": "Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497306962161821",
+   "title": "Smart_Textiles_Wearables_拆解",
+   "chain": "Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497306957970916",
+   "title": "Mechanochromic_Photonic_Sensors_拆解",
+   "chain": "Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497300028979767",
+   "title": "Liquid Crystalline Polymers Smart Applications",
+   "chain": "Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282358375941",
+   "title": "Ancient_Dyes_Pigments_Chemistry",
+   "chain": "Resources/Ebook/Ebook Extract/Ancient_Dyes_Pigments_Chemistry",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282354162043",
+   "title": "Photochromism_Dihydroindolizines",
+   "chain": "Resources/Ebook/Ebook Extract/Photochromism_Dihydroindolizines",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282354180865",
+   "title": "Stimuli_Responsive_Photonic_Coatings",
+   "chain": "Resources/Ebook/Ebook Extract/Stimuli_Responsive_Photonic_Coatings",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282349986739",
+   "title": "Mechanochromic_Fluorescent_Polymers_AIE",
+   "chain": "Resources/Ebook/Ebook Extract/Mechanochromic_Fluorescent_Polymers_AIE",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282349967295",
+   "title": "Stimuli_Responsive_PCM_Optical",
+   "chain": "Resources/Ebook/Ebook Extract/Stimuli_Responsive_PCM_Optical",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282349988627",
+   "title": "Superabsorbent_Polymers_SAP_Composites",
+   "chain": "Resources/Ebook/Ebook Extract/Superabsorbent_Polymers_SAP_Composites",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497282345793417",
+   "title": "Smart_Polymers_Biotech_Biomed",
+   "chain": "Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497222690185861",
+   "title": "Physics_Liquid_Crystals_DeepBook",
+   "chain": "Resources/Ebook/Ebook Extract/Physics_Liquid_Crystals_DeepBook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497222690187709",
+   "title": "Flexible_Stretchable_Electronics_DeepBook",
+   "chain": "Resources/Ebook/Ebook Extract/Flexible_Stretchable_Electronics_DeepBook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497222685992521",
+   "title": "Introduction_Liquid_Crystals_DeepBook",
+   "chain": "Resources/Ebook/Ebook Extract/Introduction_Liquid_Crystals_DeepBook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497222656632015",
+   "title": "Thermoelectric_Phenomena_DeepBook",
+   "chain": "Resources/Ebook/Ebook Extract/Thermoelectric_Phenomena_DeepBook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497222656631719",
+   "title": "Stimuli_Responsive_Polymers_DeepBook",
+   "chain": "Resources/Ebook/Ebook Extract/Stimuli_Responsive_Polymers_DeepBook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497222656655353",
+   "title": "Chromic_Phenomena_DeepBook",
+   "chain": "Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7497110601608688",
+   "title": "Absorbent Technology (Chatterjee & Gupta)",
+   "chain": "Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493652964189368",
+   "title": "Origin of Rubber Elasticity",
+   "chain": "Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493652964210045",
+   "title": "Polymer Reaction Engineering (Asua)",
+   "chain": "Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456502990420",
+   "title": "Dual Component Fiber",
+   "chain": "Resources/Ebook/Ebook Extract/Dual Component Fiber",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456498798176",
+   "title": "Biodegradable Thermoplastic",
+   "chain": "Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456498795378",
+   "title": "Viscoelastic Properties",
+   "chain": "Resources/Ebook/Ebook Extract/Viscoelastic Properties",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456498796527",
+   "title": "SAP Research Advances",
+   "chain": "Resources/Ebook/Ebook Extract/SAP Research Advances",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456494601067",
+   "title": "PP Handbook",
+   "chain": "Resources/Ebook/Ebook Extract/PP Handbook",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456494623535",
+   "title": "Ebewole Polymer Science Technology",
+   "chain": "Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493456494603165",
+   "title": "Seymour Polymer Chemistry",
+   "chain": "Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493451448854659",
+   "title": "Handbook of Plastic Films",
+   "chain": "Resources/Ebook/Ebook Extract/Handbook of Plastic Films",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493450844893364",
+   "title": "Handbook of Industrial Drying",
+   "chain": "Resources/Ebook/Ebook Extract/Handbook of Industrial Drying",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493450484165957",
+   "title": "Handbook of Nonwovens",
+   "chain": "Resources/Ebook/Ebook Extract/Handbook of Nonwovens",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493386189698638",
+   "title": "Mathematics of Diffusion",
+   "chain": "Resources/Ebook/Ebook Extract/Mathematics of Diffusion",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493386185506357",
+   "title": "Cosmetic Science and Technology",
+   "chain": "Resources/Ebook/Ebook Extract/Cosmetic Science and Technology",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493362189890893",
+   "title": "Handbook of Adhesive Technology",
+   "chain": "Resources/Ebook/Ebook Extract/Handbook of Adhesive Technology",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493362189893252",
+   "title": "Handbook of Polymer Testing",
+   "chain": "Resources/Ebook/Ebook Extract/Handbook of Polymer Testing",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493344171161708",
+   "title": "Introduction to Physical Polymer Science",
+   "chain": "Resources/Ebook/Ebook Extract/Introduction to Physical Polymer Science",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493324185301538",
+   "title": "Manufactured_Fibre_Technology",
+   "chain": "Resources/Ebook/Ebook Extract/Manufactured_Fibre_Technology",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493312076348261",
+   "title": "Principles of Polymerization",
+   "chain": "Resources/Ebook/Ebook Extract/Principles of Polymerization",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7493311250047865",
+   "title": "Polymer Chemistry",
+   "chain": "Resources/Ebook/Ebook Extract/Polymer Chemistry",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493306023939167"
+  },
+  {
+   "media_id": "folder_7499884395526052",
+   "title": "KC CapabilityDays2025 深度拆解",
+   "chain": "Resources/Training/Pants/KC CapabilityDays2025 深度拆解",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360839327436"
+  },
+  {
+   "media_id": "folder_7499855463196575",
+   "title": "Product Drawings 101 (KC Sept2025)",
+   "chain": "Resources/Training/Pants/Product Drawings 101 (KC Sept2025)",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360839327436"
+  },
+  {
+   "media_id": "folder_7499855459021861",
+   "title": "Gravure Roll 101 (KC 2025)",
+   "chain": "Resources/Training/Pants/Gravure Roll 101 (KC 2025)",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360839327436"
+  },
+  {
+   "media_id": "folder_7499855459001628",
+   "title": "Baby Wipes 101 (KC Sept2025)",
+   "chain": "Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493360839327436"
+  },
+  {
+   "media_id": "folder_7499462071030309",
+   "title": "Rewet",
+   "chain": "Resources/Open Innovation/Performance/Rewet",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462033285059"
+  },
+  {
+   "media_id": "folder_7499462066837887",
+   "title": "Intake",
+   "chain": "Resources/Open Innovation/Performance/Intake",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462033285059"
+  },
+  {
+   "media_id": "folder_7486815804078062",
+   "title": "PCM",
+   "chain": "Resources/Open Innovation/Material/PCM",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7448365348432726"
+  },
+  {
+   "media_id": "folder_7486815728591578",
+   "title": "X-Chromic",
+   "chain": "Resources/Open Innovation/Material/X-Chromic",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7448365348432726"
+  },
+  {
+   "media_id": "folder_7486809898496037",
+   "title": "CNF&CNC",
+   "chain": "Resources/Open Innovation/Material/CNF&CNC",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7448365348432726"
+  },
+  {
+   "media_id": "folder_7486809655240932",
+   "title": "Adhesive",
+   "chain": "Resources/Open Innovation/Material/Adhesive",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7448365348432726"
+  },
+  {
+   "media_id": "folder_7480622163453700",
+   "title": "SAM",
+   "chain": "Resources/Open Innovation/Material/SAM",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7448365348432726"
+  },
+  {
+   "media_id": "folder_7468304029452008",
+   "title": "Nonwoven",
+   "chain": "Resources/Open Innovation/Material/Nonwoven",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7448365348432726"
+  },
+  {
+   "media_id": "folder_7504546544778390",
+   "title": "产品折叠长度",
+   "chain": "Areas/Test Method/成品/产品折叠长度",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546536388344"
+  },
+  {
+   "media_id": "folder_7504546540581824",
+   "title": "TJ",
+   "chain": "Areas/Test Method/成品/TJ",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546536388344"
+  },
+  {
+   "media_id": "folder_7504546540562461",
+   "title": "STM-00034 FIFE",
+   "chain": "Areas/Test Method/成品/STM-00034 FIFE",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546536388344"
+  },
+  {
+   "media_id": "folder_7504546540582996",
+   "title": "Pants 产品拉断测试方法",
+   "chain": "Areas/Test Method/成品/Pants 产品拉断测试方法",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546536388344"
+  },
+  {
+   "media_id": "folder_7504546536368874",
+   "title": "NJ",
+   "chain": "Areas/Test Method/成品/NJ",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546536388344"
+  },
+  {
+   "media_id": "folder_7504546532175128",
+   "title": "SAM新引入测试方法-20250410",
+   "chain": "Areas/Test Method/Material/SAM新引入测试方法-20250410",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7504546532192475"
+  },
+  {
+   "media_id": "folder_7497293544566268",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Smart_Polymers_Biotech_Biomed/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7497282345793417"
+  },
+  {
+   "media_id": "folder_7497110601626740",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7497110601608688"
+  },
+  {
+   "media_id": "folder_7493653006151913",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Origin of Rubber Elasticity/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493652964189368"
+  },
+  {
+   "media_id": "folder_7493653060677831",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Polymer Reaction Engineering (Asua)/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493652964210045"
+  },
+  {
+   "media_id": "folder_7493456620451170",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Dual Component Fiber/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456502990420"
+  },
+  {
+   "media_id": "folder_7493456620432565",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Biodegradable Thermoplastic/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456498798176"
+  },
+  {
+   "media_id": "folder_7493456616238005",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Viscoelastic Properties/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456498795378"
+  },
+  {
+   "media_id": "folder_7493456616256660",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/SAP Research Advances/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456498796527"
+  },
+  {
+   "media_id": "folder_7493456616236449",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/PP Handbook/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456494601067"
+  },
+  {
+   "media_id": "folder_7493456612061820",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Ebewole Polymer Science Technology/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456494623535"
+  },
+  {
+   "media_id": "folder_7493456612063930",
+   "title": "chapters",
+   "chain": "Resources/Ebook/Ebook Extract/Seymour Polymer Chemistry/chapters",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7493456494603165"
+  },
+  {
+   "media_id": "folder_7499462159107185",
+   "title": "Updates and Presentations",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Updates and Presentations",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462071030309"
+  },
+  {
+   "media_id": "folder_7499462133941909",
+   "title": "Test Methods",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Test Methods",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462071030309"
+  },
+  {
+   "media_id": "folder_7499462104584928",
+   "title": "Rewet Fundamentals",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462071030309"
+  },
+  {
+   "media_id": "folder_7499462100393070",
+   "title": "Poise Rewet",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Poise Rewet",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462071030309"
+  },
+  {
+   "media_id": "folder_7499462079417637",
+   "title": "GRIFFIN Rewet",
+   "chain": "Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462071030309"
+  },
+  {
+   "media_id": "folder_7499462138134832",
+   "title": "FIUP - TTM-00643",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462133941909"
+  },
+  {
+   "media_id": "folder_7499462112972416",
+   "title": "Surge-Liner Interface",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462104584928"
+  },
+  {
+   "media_id": "folder_7499462092004513",
+   "title": "Updates",
+   "chain": "Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462079417637"
+  },
+  {
+   "media_id": "folder_7499462087803229",
+   "title": "Depend Machine Variability",
+   "chain": "Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Depend Machine Variability",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462079417637"
+  },
+  {
+   "media_id": "folder_7499462146526886",
+   "title": "FIUP Research Docs",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/FIUP Research Docs",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462138134832"
+  },
+  {
+   "media_id": "folder_7499462125551959",
+   "title": "Test Results",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/Test Results",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462112972416"
+  },
+  {
+   "media_id": "folder_7499462117165238",
+   "title": "HSBL Trial - Oct 13 2025",
+   "chain": "Resources/Open Innovation/Performance/Rewet/Rewet Fundamentals/Surge-Liner Interface/HSBL Trial - Oct 13 2025",
+   "file_number": null,
+   "folder_number": null,
+   "parent_folder_id": "folder_7499462112972416"
+  }
+ ]
+}

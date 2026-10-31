@@ -1,68 +1,7 @@
 {
- "generated": "2026-10-16T18:08:28+08:00",
- "count": 5,
+ "generated": "2026-10-31T18:16:52+08:00",
+ "count": 0,
  "already_terminal": 0,
  "note": "待回填条目；channel A=MCP fetch_media_content, B=REST get_media_info 原件下载",
- "items": [
-  {
-   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7516286313594639",
-   "prefix": "note",
-   "type_label": "笔记",
-   "media_type": 11,
-   "title": "Biocare 技术平台 · 全链路供应商清单（修正版 v3...",
-   "raw_path": "RAW/ima_sync/个人知识库/WKB/Biocare 技术平台 · 全链路供应商清单（修正版 v3.md",
-   "full_path": "RAW_FULL/ima_sync/个人知识库/WKB/Biocare 技术平台 · 全链路供应商清单（修正版 v3.md",
-   "kb_path": "",
-   "channel": "A",
-   "channel_basis": "type"
-  },
-  {
-   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7516355100157487",
-   "prefix": "note",
-   "type_label": "笔记",
-   "media_type": 11,
-   "title": "三家技术档案都在知识库里，我重新调取本轮证据，把参数对齐后给...",
-   "raw_path": "RAW/ima_sync/个人知识库/WKB/三家技术档案都在知识库里，我重新调取本轮证据，把参数对齐后给.md",
-   "full_path": "RAW_FULL/ima_sync/个人知识库/WKB/三家技术档案都在知识库里，我重新调取本轮证据，把参数对齐后给.md",
-   "kb_path": "",
-   "channel": "A",
-   "channel_basis": "type"
-  },
-  {
-   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515666085054555",
-   "prefix": "note",
-   "type_label": "笔记",
-   "media_type": 11,
-   "title": "会议主题：聚烯烃胶（Polyolefin Hotmelt）应...",
-   "raw_path": "RAW/ima_sync/个人知识库/WKB/会议主题：聚烯烃胶（Polyolefin Hotmelt）应.md",
-   "full_path": "RAW_FULL/ima_sync/个人知识库/WKB/会议主题：聚烯烃胶（Polyolefin Hotmelt）应.md",
-   "kb_path": "ima_sync/个人知识库/WKB/会议主题：聚烯烃胶（Polyolefin Hotmelt）应...",
-   "channel": "A",
-   "channel_basis": "type"
-  },
-  {
-   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515618626510038",
-   "prefix": "note",
-   "type_label": "笔记",
-   "media_type": 11,
-   "title": "会议纪要：益生菌/益生元项目——复配体系与丝网印刷工艺讨论",
-   "raw_path": "RAW/ima_sync/个人知识库/WKB/会议纪要：益生菌_益生元项目——复配体系与丝网印刷工艺讨论.md",
-   "full_path": "RAW_FULL/ima_sync/个人知识库/WKB/会议纪要：益生菌_益生元项目——复配体系与丝网印刷工艺讨论.md",
-   "kb_path": "ima_sync/个人知识库/WKB/会议纪要：益生菌/益生元项目——复配体系与丝网印刷工艺讨论",
-   "channel": "A",
-   "channel_basis": "type"
-  },
-  {
-   "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7515692005855171",
-   "prefix": "note",
-   "type_label": "笔记",
-   "media_type": 11,
-   "title": "莱博药妆（上海直纳）公司介绍及研发合作洽谈",
-   "raw_path": "RAW/ima_sync/个人知识库/WKB/莱博药妆（上海直纳）公司介绍及研发合作洽谈.md",
-   "full_path": "RAW_FULL/ima_sync/个人知识库/WKB/莱博药妆（上海直纳）公司介绍及研发合作洽谈.md",
-   "kb_path": "ima_sync/个人知识库/WKB/莱博药妆（上海直纳）公司介绍及研发合作洽谈",
-   "channel": "A",
-   "channel_basis": "type"
-  }
- ]
+ "items": []
 }

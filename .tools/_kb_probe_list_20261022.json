@@ -1,0 +1,71 @@
+{
+ "ima_kb_l24tiCGM": {
+  "code": 0,
+  "msg": "success",
+  "data": {
+   "knowledge_list": [
+    {
+     "media_id": "folder_7446577715112439",
+     "title": "Archives",
+     "parent_folder_id": "ima_kb_l24tiCGM",
+     "tags": [],
+     "media_type": 99
+    },
+    {
+     "media_id": "folder_7446577555702299",
+     "title": "Resources",
+     "parent_folder_id": "ima_kb_l24tiCGM",
+     "tags": [],
+     "media_type": 99
+    },
+    {
+     "media_id": "folder_7446577501179608",
+     "title": "Areas",
+     "parent_folder_id": "ima_kb_l24tiCGM",
+     "tags": [],
+     "media_type": 99
+    },
+    {
+     "media_id": "folder_7446577425704361",
+     "title": "Projects",
+     "parent_folder_id": "ima_kb_l24tiCGM",
+     "tags": [],
+     "media_type": 99
+    },
+    {
+     "media_id": "folder_7446576150638053",
+     "title": "Inbox",
+     "parent_folder_id": "ima_kb_l24tiCGM",
+     "tags": [],
+     "media_type": 99
+    }
+   ],
+   "is_end": false,
+   "next_cursor": "CAU=",
+   "current_path": [
+    {
+     "folder_id": "ima_kb_l24tiCGM",
+     "name": "WKB",
+     "file_number": "0",
+     "folder_number": "0",
+     "parent_folder_id": "",
+     "is_top": false
+    }
+   ],
+   "searched_tags": []
+  },
+  "request_id": "345cec8686d035169c56020752141996"
+ },
+ "001a693ee6c0644e": {
+  "code": 220004,
+  "msg": "invalid knowledge_base_id. You MUST correct the value before retrying. Do not retry with the same value.",
+  "data": {},
+  "request_id": "aa392197eaf63b5b2d940d5f402398ea"
+ },
+ "F8DbmyEF1G8cO-4woYjmlpOs1dETfSgd8-mu6PSsPOI=": {
+  "code": 220004,
+  "msg": "invalid knowledge_base_id. You MUST correct the value before retrying. Do not retry with the same value.",
+  "data": {},
+  "request_id": "03981c6021cdc6f5155c891f20e8c865"
+ }
+}

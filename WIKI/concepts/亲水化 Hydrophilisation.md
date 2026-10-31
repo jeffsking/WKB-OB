@@ -38,3 +38,5 @@ tags: [wettability, contact-angle, topsheet, ES-fibre, surface-chemistry]
 - [[Surface Tension and Surface Energy]]
 - [[ES Fibre Hydrophilic Function and Applications]]
 - [[Computational Modeling in Absorbent Technology]]
+
+- [[PEG-Based Slot-Die Emulsion for Visual Cue Layer（可视化功能层复配乳液方案集 · 2026-10-30）]]

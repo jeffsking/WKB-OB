@@ -127,6 +127,36 @@ def raw_to_full(raw_path):
     return "RAW_FULL/" + raw_path[len("RAW/"):]
 
 
+# 文件名非法字符（Windows）。含这些字符的标题不可类推绑定（插件会把 / 换成 _，
+# 但换法不唯一，凭猜绑定 = 制造幽灵锚点）。
+ILLEGAL_FS_CHARS = set('/\\:*?"<>|')
+
+
+def expected_raw_path(it):
+    """raw_path 缺失时，按 kb_path + 插件命名惯例推导「预期 RAW 锚点」。
+
+    惯例依据（库内 400+ 存量样本，2026-10-24 首次标定）：
+      kb_path 形如 `ima_sync/个人知识库/WKB/<链>`（不带 RAW/ 前缀）
+      预期 RAW 路径 = `RAW/<kb_path>.md`
+        · 标题已含 .md（markdown 类）→ 插件再追加一次 → 实为本条 `.md.md`
+        · 其它（docx/pdf/ppt/录音/公众号…）→ 原件名 + `.md` 索引壳
+
+    返回 (path|None, reason)。None 表示不可绑定（缺 kb_path / 标题含非法字符）。
+    ⚠ 预期路径 ≠ 插件实落名。插件恢复落盘后必须复核实落名，不符则三处同步修
+      （RAW_FULL 镜像 / 账本 raw_path·full_path / WIKI source_path），禁建重复页。
+    """
+    kb = (it.get("kb_path") or "").replace("\\", "/").strip()
+    if not kb:
+        return None, "kb_path 为空"
+    title = it.get("title") or ""
+    bad = [c for c in ILLEGAL_FS_CHARS if c in title]
+    if bad:
+        return None, f"标题含非法文件名字符 {bad}，不可类推绑定"
+    if kb.startswith("RAW/"):
+        kb = kb[4:]
+    return "RAW/" + kb.rstrip("/") + ".md", "expected"
+
+
 # ---------------------------------------------------------------- plan
 
 def cmd_plan(args):
@@ -136,13 +166,22 @@ def cmd_plan(args):
     s = json.loads(STATE.read_text(encoding="utf-8"))
     items = s.get("items", {})
 
-    todo, done = [], 0
+    todo, done, unbound, rebound = [], 0, [], []
     for mid, it in items.items():
         if it.get("stage") != "discovered":
             continue
         rp = it.get("raw_path")
         if not rp:
-            continue
+            # 修复 2026-10-11 起的「plan 空 raw_path 盲区」：插件零落盘时新条目
+            # 永远进不了计划。改为按 kb_path 推导预期锚点并回写账本，标注来源。
+            rp, why_bad = expected_raw_path(it)
+            if not rp:
+                unbound.append((mid, it.get("title") or "", why_bad))
+                continue
+            it["raw_path"] = rp
+            it["raw_path_source"] = "expected"
+            it["raw_path_bound"] = today()
+            rebound.append((mid, rp))
         fp = raw_to_full(rp)
         if full_body_ok(str(ROOT / fp)):
             done += 1
@@ -171,7 +210,25 @@ def cmd_plan(args):
     }
     PLAN.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    if rebound or unbound:
+        for mid, rp in rebound:
+            items[mid]["full_path"] = raw_to_full(rp)
+        s.setdefault("stage_log", []).append({
+            "at": now_iso(), "stage": "B-plan",
+            "raw_path_expected_bound": len(rebound),
+            "raw_path_unbound": len(unbound)})
+        STATE.write_text(json.dumps(s, ensure_ascii=False, indent=2), encoding="utf-8")
+
     print(f"[plan] 待回填 {len(todo)} 条（账本 discovered；已终态 {done} 条）")
+    if rebound:
+        print(f"       [锚点] 按 kb_path 推导预期 RAW 路径并回写 {len(rebound)} 条"
+              f"（标记 raw_path_source=expected，插件落盘后须复核）")
+        for mid, rp in rebound:
+            print(f"         + {rp.split('/')[-1]}")
+    if unbound:
+        print(f"       [!] 无法绑定锚点 {len(unbound)} 条（需人工处理）")
+        for mid, t, why in unbound:
+            print(f"         - {t[:60]} :: {why}")
     print(f"       已写 {rel(PLAN)}")
     for ch in ("A", "B"):
         sub = [x for x in todo if x["channel"] == ch]

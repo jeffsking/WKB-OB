@@ -62,3 +62,5 @@ tags: [binder, latex, chemical-bonding, nonwoven, airlaid, binder-migration, fox
 - [[湿迁移 Wet Migration]]
 - [[Handbook of Nonwovens]]
 - [[Nonwoven fabric finishing]]
+- [[除臭粉悬浮液掉粉问题_工艺可行性方案_20261017]] — 缺粘结相导致干态掉粉的根因分析与六条路线
+- [[除臭粉小样实测反馈：烘干后粉体脱落、与无纺布无连接力]] — 供应商侧独立复现同一失效模式

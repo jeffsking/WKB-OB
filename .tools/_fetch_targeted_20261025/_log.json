@@ -1,0 +1,36 @@
+[
+ {
+  "media_id": "excel_3867e2b60070d7dc3f413086d0b0036e_37abcdd9529d15c386310e20902922c6001a693ee6c0644e",
+  "ok": true,
+  "ct": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 14741,
+  "file": "E:\\WKB-OB\\.tools\\_fetch_targeted_20261025\\excel_3867e2b60070d7dc3f413086d0b0036e_37abcdd9529d15c386310e20902922c6001a693ee6c0644e.xlsx",
+  "ext": ".xlsx"
+ },
+ {
+  "media_id": "wechatarticle_3867e2b60070d7dc3f413086d0b0036e_4af337dbbd6bcdb191e5411ceb72c6ab",
+  "ok": true,
+  "ct": "text/html",
+  "bytes": 18164,
+  "file": "E:\\WKB-OB\\.tools\\_fetch_targeted_20261025\\wechatarticle_3867e2b60070d7dc3f413086d0b0036e_4af337dbbd6bcdb191e5411ceb72c6ab.csv",
+  "ext": ".csv"
+ },
+ {
+  "media_id": "markdown_3867e2b60070d7dc3f413086d0b0036e_0c801f190b4a37df2260fb35f888492c001a693ee6c0644e",
+  "ok": true,
+  "ct": "text/markdown",
+  "bytes": 28898,
+  "file": "E:\\WKB-OB\\.tools\\_fetch_targeted_20261025\\markdown_3867e2b60070d7dc3f413086d0b0036e_0c801f190b4a37df2260fb35f888492c001a693ee6c0644e.md",
+  "ext": ".md"
+ },
+ {
+  "media_id": "note_3867e2b60070d7dc3f413086d0b0036e_7519362139311345",
+  "ok": false,
+  "err": "no-url",
+  "data_keys": [
+   "media_type",
+   "url_info",
+   "notebook_ext_info"
+  ]
+ }
+]

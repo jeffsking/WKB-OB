@@ -1,0 +1,7 @@
+{
+ "extract_status": "ok",
+ "meta": {
+  "extract_method": "REST get_media_info 原件直下 → docx/pdf 文本层抽取（无配额通道）",
+  "original_file": "RAW_FULL/ima_sync/个人知识库/WKB/attachments/菌草纤维技术简报_Workshop_20261017.docx"
+ }
+}

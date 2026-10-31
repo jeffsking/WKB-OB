@@ -11,7 +11,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 > 查询时**先读本索引定位页面，再加载具体页面**，回答须附来源（页面名 + 其 source_path）。
 > 本库结构：`raw/`（原始资料，AI 只读）→ `wiki/`（编译知识层，AI 读写）→ 本索引 + `log.md`（操作日志）。
 
-**当前规模：** 2253 页 Wiki（源摘要 1398 / 概念 617 / 实体 145 / 对比 80 / MOC 13）
+**当前规模：** 2316 页 Wiki（源摘要 1455 / 概念 620 / 实体 148 / 对比 80 / MOC 13）
 **语言规范：** WIKI 页面自 2026-09-29 起为**英文为主 + 中文对照**（AGENTS.md §2.0）；此前产出的中文页不强制回溯，编辑时逐步补齐。
 **raw 盘存：** `RAW/` 1718 份 .md（**唯一事实锚点与判重锚**，2026-09-30 起 source_path 全库统一指 RAW/）；`RAW_FULL/` 为已回填正文的镜像（与 RAW 路径 1:1，**仅作编译输入，不作判重锚**）。待编译积压见 `.tools/_compile_backlog.json`（2026-09-30 按统一锚重建）。
 **最后编译：** 2026-09-30（P0 书目收官 + 判重锚统一，进度见 [[log]]）
@@ -147,6 +147,8 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Baby_Wipes_101_Sept2025_ch2_Basesheet_拆解报告]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch2_Basesheet_拆解报告.md.md` | pending |
 | [[Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch3_Formulation_拆解报告.md.md` | pending |
 | [[Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Baby Wipes 101 (KC Sept2025)/Baby_Wipes_101_Sept2025_ch4_Converting_and_Product_拆解报告.md.md` | pending |
+| [[Baymax Brazil Dam 花型面层样品矩阵（2026-10-14 抽样总结）]] | 研报 | 2026-10-14 | 高 | `RAW/ima_sync/个人知识库/WKB/Projects/Baymax/Summary of Brazil Dam liner sampling in Chuanyue.pdf.md` | done |
+| [[Baymax T4 Vista 卷样取样总结（2026-10-14）]] | 研报 | 2026-10-14 | 高 | `RAW/ima_sync/个人知识库/WKB/Projects/Baymax/Summary of T4 VISTA sampling in Chuanyue.pdf.md` | manual_review |
 | [[Be Max Platform — Trilobal Fibre Ratio, Ultrasonic Bonding & MD Distribution Target（纤维加工温度与成本验证）]] | 会议纪要 | [待验证]（ASR 未标注会议日期；锚点：初始样品「下个月 10 月」可拿、本月底供应商侧建 600 m 平台、巴西 2028 采用 → 推测 2026 年 9 月） | 内部一手（跨团队技术交流 ASR 转写，全英文但转写质量差、时间戳乱序，含供应商报价与项目代号） | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/纤维加工温度与成本验证.md` | done |
 | [[Bicomponent Fibre Production & Performance Review — Spinneret, Crimp & Functional Masterbatch（复合纤维生产及性能探讨）]] | 会议纪要 | [待验证]（ASR 未标注会议日期；会中提及「昨天我们聊过」「上次赵金分享」「下午去生产现场」→ 为一次两天访问的第二天） | 内部一手（ES 双组分纤维供应商工厂交流 ASR 转写，时间戳乱序，中英夹杂，含保密项目与商务信息） | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合纤维生产及性能探讨.md` | done |
 | [[Bicomponent Fibre Technology Development Trends]] | book | 2008 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Dual Component Fiber/Dual Component Fiber_report.md.md` | done |
@@ -167,6 +169,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[CD Pants产品学习]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/CD Pants产品学习.pptx.md` | pending |
 | [[CD pants machine process.pptx]] | pptx | — | internal-training | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/CD pants machine process.pptx.md` | done |
 | [[CFD人用Codex，建议先装这8个插件！]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/CFD人用Codex，建议先装这8个插件！.md` | pending |
+| [[CI-06 COCO V6 3rd round trial - final]] | 报价单 | 2026-09-30 | 高 | `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial - final.xlsx.md` | done |
 | [[CI-06 COCO V6 3rd round trial-10.10]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial-10.10.xlsx.md` | pending |
 | [[CI-06 COCO V6 3rd round trial-9.30]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial-9.30.xlsx.md` | pending |
 | [[CI-06 COCO V6 第三轮试产测试结果]] | 试产测试数据表（内部 Excel） | 2026-09 | 高 | `RAW/ima_sync/个人知识库/WKB/Projects/COCO/Test Result/CI-06 COCO V6 3rd round trial.xlsx.md` | done |
@@ -206,6 +209,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[CN 210932251 U（一种透气弹性腰围的纸尿裤·广州汉氏卫生用品）]] | 专利 | 2020-07-07 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-6_一种透气弹性腰围的纸尿裤.pdf.md` | done |
 | [[CN 218515875 U（一种吸水性强的婴幼儿用尿裤·福建三只小猪）]] | 专利 | 2023-02-24 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/一-2_强吸水婴儿纸尿裤.pdf.md` | done |
 | [[CN 222018549 U（一种百褶裤型纸尿裤·湖州因爱伟大）]] | 专利 | 2024-11-19 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-7_一种百褶裤型纸尿裤.pdf.md` | done |
+| [[CN119278082A 纳米颗粒保留于纤维材料内的系统与方法（Mativ×LMS）]] | 专利 | 2025-01-07 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/CN119278082A.pdf.md` | done |
 | [[CO V6 新体机芯体验证实验方案评审]] | 会议纪要 | — | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/CO V6 新体机芯体验证实验方案评审.md` | done |
 | [[COCO V6 Trial Code Design & Process Alignment（录音纪要 2026-08-17）]] | 会议纪要 | 2026-08-17 | 内部一手（ASR 转写稿，含讹字） | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260817133440.md` | done |
 | [[COCO V6 Trial Round-2 Review（录音纪要 2026-09-16）]] | 会议纪要 | 2026-09-16 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260916112250.md` | done |
@@ -225,6 +229,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Cabot DARCO KB-G TDS（v3 归档同名件）]] | 供应商资料（产品技术数据表 TDS · 归档同名件） | 2016-04-06 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑧Odor_control_21_Cabot_Corporation_DARCO__KB-G_粉末活性炭.pdf.md` | done |
 | [[Calculated Results for Variable Diffusion Coefficients (Crank Ch.9)]] | book | 1975 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch09_SOME_CALCULATED_RESULTS_FOR_VARIABLE_DIFFUSION_COEFFICIENTS_report.md.md` | done |
 | [[Capillarity Testing Throughput Upgrade Plan（毛细测试吞吐提升计划）]] | 项目任务书 | 2026-05-07 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Capillarity Testing Increased Throughput Plan.xlsx.md` | done |
+| [[Cellulose-Based LCE with Salt-Tuned Hydrogen Bonding（盐调控氢键网络 · 纤维素液晶弹性体 · NC 2026）]] | 公众号 | 2026-05-05 | 中 | `RAW/ima_sync/个人知识库/WKB/NC｜盐调控氢键网络：纤维素液晶弹性体实现可视化力致变色.md` | done |
 | [[Characterisation, testing and modelling of nonwoven fabrics]] | book | 2007 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch09.md.md` | done |
 | [[Chemical bonding]] | book | 2007 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch07.md.md` | done |
 | [[Child Care 101 -Capability Days]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Child Care 101 -Capability Days.pptx.md` | pending |
@@ -237,6 +242,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Chromic Phenomena]] | book-index | 2001 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook` | done |
 | [[Chromic Phenomena Introduction and Reversible Colour Change]] | book | 2001 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_Ch1_解析.md.md` | done |
 | [[Chromic Phenomena Solar Energy and Liquid Crystals]] | book | 2001 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_Ch4_5_解析.md.md` | done |
+| [[Chromic Six-Trigger Combinations（变色局 005 · 六触发源组合追问 · 2026-10-26）]] | 公众号 | 2026-10-26 | 中 | `RAW/ima_sync/个人知识库/WKB/温致变 · 热致变 · 电致变 · 光致变 · 力致变 · 气致变  六个触发源里，你觉得哪两个的组合会最先在同一个器件里跑通？.md` | done |
 | [[Chromic_Phenomena_README]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_README.md.md` | pending |
 | [[Chromic_Phenomena_The_Technological_Appl]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Chromic_Phenomena_The_Technological_Appl.pdf.md` | pending |
 | [[Chromic_Phenomena_原始引用索引.csv]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Chromic_Phenomena_DeepBook/Chromic_Phenomena_原始引用索引.csv.md` | pending |
@@ -431,6 +437,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[GRIFFIN Learning Cycle Check In（GRIFFIN 学习周期复盘 · 2025-06-25）]] | 提案 | 2025-06-25 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.06.25 - Learning Cycle Check In.pptx.md` | done |
 | [[GRIFFIN Regroup - Depend Rewet Update（GRIFFIN 重整更新 · 2025-08-28）]] | 提案 | 2025-08-28 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.08.28 - GRIFFIN Regroup.pptx.md` | done |
 | [[GRIFFIN Rewet Technical Problem Statement（GRIFFIN 回渗技术问题描述 · 2025-01-31）]] | 提案 | 2025-01-31 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/GRIFFIN Rewet/Updates/2025.01.31 - GRIFFIN Rewet.pptx.md` | done |
+| [[Gate 0 基线口径确认书（ND33-COCOV6-G0-001）]] | 工作日志 | 2026-10-28 | 高 | `RAW/ima_sync/个人知识库/WKB/Gate0_基线口径确认书_20261028.md.md` | done |
 | [[General Conclusions and Appendixes]] | book | 2015 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch7_Conclusions_深度拆解.md.md` | done |
 | [[General Introduction and Objectives]] | book | 2015 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_Ch0_General_Intro_深度拆解.md.md` | done |
 | [[Global Online Embossing Platform & Active Tech Direction Review（录音纪要 2026-09-03）]] | 会议纪要 | 2026-09-03 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903154213.md` | done |
@@ -467,6 +474,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Handbook_of_adhesion]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Handbook_of_adhesion.pdf.md` | pending |
 | [[Henkel 纸尿裤胶粘剂技术交流议题清单（2026-05-26 · 汉高全球研发中心参观提纲）]] | 供应商技术交流提纲（前瞻性研发 · 议题清单） | 2026-05-26 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/Henkel_Adhesive_Technical_Discussion_Agenda_20260526.docx.md` | done |
 | [[Henkel 议题补充：超低添加量与智能响应胶（2026-05-26 交流背景）]] | 技术交流背景资料（汉高全球研发中心参观 · 前沿热点议题 #2 与 #4） | 2026-05-26 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Adhesive/Henkel_Adhesive_Topics_Supplement_UltraLowAddOn_and_SmartAdhesive_20260526.docx.md` | manual_review |
+| [[High Speed Converting Meeting 南京 2026-10-27（COCO V6 成型工艺与设备方向）]] | 会议纪要 | 2026-10-27 | 中 | `RAW/ima_sync/个人知识库/WKB/会议纪要_HighSpeedConverting_20261027.md.md` | done |
 | [[High-Speed Core Forming Machine & SAP Dosing Design Review（录音纪要 2026-09-03 14-39）]] | 会议纪要 | 2026-09-03 | 内部一手（技术评审会 ASR 转写，英文为主，时间戳乱序） | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/录音纪要_260903143922.md` | done |
 | [[History of FIUP TTM-00643（FIUP 测试方法沿革史）]] | 提案 | 2017-08-25 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Performance/Rewet/Test Methods/FIUP - TTM-00643/History of FIUP.docx.md` | done |
 | [[Holographic Structurally Colored Mechanochromic Films]] | book | 待验证 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mechanochromic_Photonic_Sensors_拆解/全息结构色机械变色薄膜_拆解.md.md` | done |
@@ -492,7 +500,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[IMA 知识库索引（2026-09-11）]] | 知识库索引 | 2026-09-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Archives/IMA知识库索引_20260911.md.md` | done |
 | [[IMA 知识库索引（2026-09-18）]] | 知识库索引 | 2026-09-18 | 中 | `RAW/ima_sync/个人知识库/WKB/Archives/IMA知识库索引_20260918.md.md` | done |
 | [[IMA 知识库索引（2026-09-25）]] | 知识库索引 | 2026-09-25 | 中 | `RAW/ima_sync/个人知识库/WKB/IMA知识库索引_20260925.md.md` | done |
-| [[IMA知识库索引]] | 行业新闻 | 2026-10-16 | 中 | `RAW/ima_sync/个人知识库/WKB/IMA知识库索引.md.md` | done |
+| [[IMA知识库索引]] | 行业新闻 | 2026-10-23 | 中 | `RAW/ima_sync/个人知识库/WKB/IMA知识库索引.md.md` | done |
 | [[IMA知识库索引_20261002]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/IMA知识库索引_20261002.md.md` | pending |
 | [[IMA知识库索引_20261009]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/IMA知识库索引_20261009.md.md` | pending |
 | [[IPC BCC FEI Update（IA2.0 · 2026-06-22）]] | 会议纪要 | 2026-06 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/FEI/IPC BCC FEI update (IA2.0)- 20260622.pdf.md` | done |
@@ -594,6 +602,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Introduction_Liquid_Crystals_精简摘要]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Introduction_Liquid_Crystals_DeepBook/Introduction_Liquid_Crystals_精简摘要.md.md` | pending |
 | [[JD - IPC BCC Material Development Engineer（材料开发工程师岗位说明书）]] | 岗位说明书（JD）+ 产品规格表（同文件内） | [待验证]（文件无日期；内含生效日期为 2025-12-02 至 2026-01-13 的产品规格行） | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/JD-Material_Development_Engineer_Bilingual.docx.md` | done |
 | [[JMP 16 软件操作流程（Mannequin 测试数据分析 WI-JMP 第0版）]] | 内部作业指导书 | 2024-02-26 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/TJ/JMP软件操作流程.docx.md` | done |
+| [[JP2981714B2 除臭过滤器（Nichias · Mn-Cu 催化剂+高硅铝比沸石）]] | 专利 | 1999-11-22 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/JP2981714B2 - Deodorizing filter - Google Patents.pdf.md` | done |
 | [[JRCA RCES SER01 Standards Development Expert Qualification（规格开发专家资格基准 · 文件名误标 JIS L 1902）]] | 标准 | 2026-08-03 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑦抗菌_7_JIS_L_1902_2015_纺织品抗菌活性测试.pdf.md` | done |
 | [[Jiangnan High-Fibre Company Visit & Fibre Technical Exchange（江南高纤公司介绍及产品技术交流会议纪要 · 2026-07-01）]] | 会议纪要 | 2026-07-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/江南高纤公司介绍及产品技术交流会议纪要.pdf.md` | done |
 | [[KC Diffusion-Enhanced Topsheet v3 DOE Plan (C1-C4 Liner DOE)]] | 会议纪要 | 2026-08-14 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Liner/KC_Diffusion_Enhanced_Topsheet_v3.xlsx.md` | done |
@@ -607,10 +616,13 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[KC_CapabilityDays2025_引用索引.csv]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/KC CapabilityDays2025 深度拆解/KC_CapabilityDays2025_引用索引.csv.md` | pending |
 | [[KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx]] | 研发计划 | 2026-08-14 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/KC_REL_Diffusion_Enhanced_Topsheet_RD_Plan.xlsx.md` | done |
 | [[KR 10-2205294 B1（氧化淀粉-CMC-球形纳米纤维素高吸水体·Asiananotech）]] | 专利 | 2021-01-20 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/KR102205294B1.pdf.md` | done |
+| [[KR20000000187A 除臭过滤器及制法（新昌科技 · 泡沫涂层固着）]] | 专利 | 2000-01-15 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/KR20000000187A.pdf.md` | done |
+| [[Key point for COCO V6 engineering plan（Bryan 五阶段路线）]] | 会议纪要 | 2026-10-27 | 高 | `RAW/ima_sync/个人知识库/WKB/Key point for COCO V6 engineer.md.md` | done |
 | [[Kirigami Process, LSE Bonding & Pattern Pitch Review（不同人员自我介绍交流）]] | 会议纪要 | [待验证]（ASR 未标注会议日期） | 内部一手（K-C 内部现场交流会 ASR 转写，中英夹杂，时间戳乱序） | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/不同人员自我介绍交流.md` | done |
 | [[Korea Visa Grant Notice APEV03R08CH（APEV03R08CH-new passport）]] | 工作日志 | 2025-08-28 | 低 | `RAW/ima_sync/个人知识库/WKB/Areas/Personal/APEV03R08CH-new passport.pdf.md` | done |
 | [[Korean Diaper Market Analysis & Competitive Landscape（韩国尿布市场分析及竞争格局）]] | 行业新闻 | 2026-08 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/韩国尿布市场分析及竞争格局.md` | done |
 | [[Kururay_Bio based polyols]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/Kururay_Bio based polyols.pdf.md` | pending |
+| [[LAE抑菌剂产品介绍]] | 研报 | 2026-06-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/LAE抑菌剂产品介绍.pptx.md` | done |
 | [[LCP_README]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_README.md.md` | pending |
 | [[LCP_全局合成报告]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_全局合成报告.md.md` | pending |
 | [[LCP_引用索引.csv]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Liquid Crystalline Polymers Smart Applications/LCP_引用索引.csv.md` | pending |
@@ -681,15 +693,22 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Mechanochromic Supplier Report 2026-08（力致变色供应商调研·英文版）]] | 供应商资料 | 2026-08-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/mechanochromic-supplier-report-2026-08-01-en.docx.md` | done |
 | [[Mechanochromic Waistband Tension Indicator Proposal（2026-08-19）]] | 提案（内部项目建议书） | 2026-08-19 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Mechanochromic/Mechanochromic_Waistband_Tension_Indicator_Proposal_2026-08-19.pptx.md` | done |
 | [[Mechanochromic_Fluorescent_Polymers_with]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Mechanochromic_Fluorescent_Polymers_with.pdf.md` | pending |
+| [[Meeting Minutes — Wire Screen (Mesh) Design for Tianjin Pilot Machine]] | 会议纪要 | 2026-10-16 | 中 | `RAW/ima_sync/个人知识库/WKB/Meeting Minutes — Wire Screen.md` | pending |
 | [[Methods of Solution for Constant Diffusion Coefficient (Crank Ch.2)]] | book | 1975 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch02_METHODS_OF_SOLUTION_WHEN_THE_DIFFUSION_COEFFICIENT_IS_CONSTANT_report.md.md` | done |
 | [[Modern Chemistry of the Ancient Chemical Processing of Organic Dyes and Pigments]] | book-index | 2011 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Modern_Chemistry_of_the_Ancient_Chemical.pdf.md` | done |
 | [[Modern Size Exclusion Liquid Chromatography]] | book-index | 2009 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Modern_size_exclusion_liquid_chromatogra.pdf.md` | done |
 | [[Molecular and Supramolecular Systems]] | book-index | 1995 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Molecular_and_supramolecular_systems_in.pdf.md` | done |
+| [[Montanine 型石蒜科生物碱抗葡萄球菌活性（Diepoltová 2026, J Appl Microbiol lxag173）]] | 研报 | 2026-07-15 | 高 | `RAW/ima_sync/个人知识库/WKB/Anti-staphylococcal potential of montanine-type derivatives from amaryllidaceae alkaloids alone and in combination with antibiotics.pdf.md` | done |
 | [[Moving Boundaries (Crank Ch.13)]] | book | 1975 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Mathematics of Diffusion/ch13_MOVING_BOUNDARIES_report.md.md` | done |
+| [[ND33 改造 · Gate 0–Gate 2 分期能力清单 v2.1（Capability Staging List）]] | 研报 | 2026-10-28 | 高 | `RAW/ima_sync/个人知识库/WKB/Gate0-Gate2_决策清单_ND33vs北京_20261028.md.md` | done |
+| [[ND33 改造决策包 · 模板 v1.0（20261113 评审）]] | 工作日志 | 2026-10-28 | 高 | `RAW/ima_sync/个人知识库/WKB/决策包模板_ND33_20261113.md.md` | done |
+| [[ND33 改造可行性评估·推进计划（20261028）]] | 工作日志 | 2026-10-28 | 高 | `RAW/ima_sync/个人知识库/WKB/ND33改造评估推进计划_20261028.md.md` | done |
+| [[ND33 评估 · 12 项输入清单（认领版·群发短版）]] | 工作日志 | 2026-10-28 | 高 | `RAW/ima_sync/个人知识库/WKB/ND33_12项输入清单_20261028.md.md` | done |
 | [[NIFO参观速查卡_一页纸]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/NIFO参观速查卡_一页纸.pdf.md` | pending |
 | [[NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/NIFO捻幅科技参观背景资料与纸尿裤材料议题_20261012.docx.md` | pending |
 | [[NL 長效型夜光材料產品資料（Glow-in-the-Dark Material）]] | 供应商资料（产品技术说明） | 2026-09-27 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/NL_CHT1608V2.pdf.md` | done |
 | [[NOTE]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/NOTE.docx.md` | pending |
+| [[NTMT丨PCM相变调温纤维：是黑科技还是噱头？从芯材选择到纺丝应用，这篇全讲明白了]] | 公众号 | 2026-10-23 | 低 | `RAW/ima_sync/个人知识库/WKB/NTMT丨PCM相变调温纤维：是黑科技还是噱头？从芯材选择到纺丝应用，这篇全讲明白了.md` | done |
 | [[NW · 00_全书摘要]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · 00_全书摘要.md.md` | pending |
 | [[NW · 00_核心观点汇总]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · 00_核心观点汇总.md.md` | pending |
 | [[NW · 原始引用索引.csv]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · 原始引用索引.csv.md` | pending |
@@ -717,6 +736,9 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[OASIS SAF 102-80-10 技术数据表（02_ 归档同名件）]] | 供应商资料（归档同名件） | 2026-09-27 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/02_OASIS SAF™ 102_80_10 _ 105_80_20.pdf.md` | done |
 | [[OASIS SAF 102-80-10 技术数据表（Technical Absorbents）]] | 供应商资料（产品技术数据表 TDS） | 2026-09-27 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/17_OASIS SAF™ 102_80_10 Technical Data.pdf.md` | done |
 | [[OASIS SAF 102-80-10 技术数据表（v3 归档同名件）]] | 供应商资料（归档同名件） | 2026-09-27 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_2_Technical_Absorbents_OASIS_SAF__102_80_10_数据手册.pdf.md` | done |
+| [[OBC_纸尿裤皮筋可行性方案_2026-10-22]] | 研报 | 2026-10-22 | 高 | `RAW/ima_sync/个人知识库/WKB/OBC_纸尿裤皮筋可行性方案_2026-10-22.md.md` | done |
+| [[OBC产业化核实报告_2026-10-22]] | 研报 | 2026-10-22 | 高 | `RAW/ima_sync/个人知识库/WKB/OBC产业化核实报告_2026-10-22.md.md` | done |
+| [[OBC方案_vs_NISO工艺_弹性膜与弹性无纺布对比_2026-10-22]] | 研报 | 2026-10-22 | 高 | `RAW/ima_sync/个人知识库/WKB/OBC方案_vs_NISO工艺_弹性膜与弹性无纺布对比_2026-10-22.md.md` | done |
 | [[OI_Project_Profile_OnePager]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Template/OI_Project_Profile_OnePager.pptx.md` | pending |
 | [[OI_Project_Review_KC_BCC_Red]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Template/OI_Project_Review_KC_BCC_Red.pptx.md` | pending |
 | [[OI_Project_Summary]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Template/OI_Project_Summary.pptx.md` | pending |
@@ -726,6 +748,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[OI能力矩阵和培养计划]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Technology Management/OI能力矩阵和培养计划.md` | pending |
 | [[OI项目清单与优先级]] | 内部会议材料（AI 依 OI 清单/纪要/年度大纲整理） | 2026-09-18 | 高 | `RAW/ima_sync/个人知识库/WKB/好，资料已经齐了。根据知识库中最新（2026-09-18）的.md` | done |
 | [[OI（Open Innovation）团队会议纪要]] | 会议纪要 | 2026-09-18 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/OI 会议纪要.md` | done |
+| [[ONE-PAGE OI PROJECT PROFILE - REL&Trilobal Liner]] | 研报 | 2026-10-27 | 高 | `RAW/ima_sync/个人知识库/WKB/Projects/Template/ONE-PAGE OI PROJECT PROFILE - REL&Trilobal Liner.pptx.md` | done |
 | [[Odor Testing Capabilities (Odor Central) 2025]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Pants/Odor Testing Capabilities (Odor Central) 2025.pptx.md` | pending |
 | [[Odour Management & Polyolefin Hot Melt Adhesive Platform — Henkel Tech Seminar（气味管理技术介绍·汉高技术交流）]] | 会议纪要 | 2026（推测，月份 [待验证]） | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/气味管理技术介绍.md` | done |
 | [[One Drum Two Ups 11 Sizes 1000 ppm（单鼓双ups 11码 1000ppm 芯体印花方案）]] | 设备方案 / 工程概念（DEEP DIVE） | [待验证]（文件无日期；为本库 86 号工程规范的原始来源 pptx） | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Engineering/One_Drum_Two_Ups_11_Sizes_1000ppm.pptx.md` | done |
@@ -740,6 +763,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[P&G–KC Industry Review and Xinweisheng Supplier Capability Visit（与宝洁交流及行业情况）]] | 会议纪要 | [待验证]（ASR 未标注会议日期） | 内部一手（供应商交流会 ASR 转写，时间戳乱序，含讹字） | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/与宝洁交流及行业情况.md` | done |
 | [[PBAT复合材料怎么配？从有机_无机填料、助剂到吹膜与注塑的完整工程逻辑]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PBAT复合材料怎么配？从有机_无机填料、助剂到吹膜与注塑的完整工程逻辑.md` | pending |
 | [[PCM-Free Thermoregulation with BNC Nanofiber Network]] | 会议纪要 | 2026-07-31 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/BNC_PCMfree_Thermoregulation_v1_20260731.pptx.md` | done |
+| [[PEG-Based Slot-Die Emulsion for Visual Cue Layer（可视化功能层复配乳液方案集 · 2026-10-30）]] | 研报 | 2026-10-30 | 中 | `RAW/ima_sync/个人知识库/WKB/纸尿裤可视化功能层_PEG基slot_die复配乳液技术方案_20261030.md.md` | done |
 | [[PEG-多元醇 × 纤维素吸水体系交叉索引]] | 内部技术材料 | 2026-09-05 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/BNC/02_PEG多元醇_纤维素吸水体系_交叉索引.md.md` | done |
 | [[PET 在高温下为什么生成乙醛：酯键断裂、乙烯基酯端基与互变异构]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/PET 在高温下为什么生成乙醛：酯键断裂、乙烯基酯端基与互变异构.md` | pending |
 | [[PF · 00_全书摘要]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Plastic Films/PF · 00_全书摘要.md.md` | pending |
@@ -767,10 +791,13 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[PP Handbook_index.csv]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/PP Handbook/PP Handbook_index.csv.md` | pending |
 | [[PPC 纺粘试产记录（2026-05-01）]] | 会议纪要 | 2026-05-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC spunbond trial ， 2026 May 1.pptx.md` | done |
 | [[PPC&PGA 基无纺布开发方案（第二版）]] | 提案 | [未标注]（内容含 2026 Q1 试产计划） | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/PPC/PPC&PGA based NW development 2.pptx.md` | done |
+| [[PPS Sensor — Principle and Application Introduction]] | 会议纪要 | 2026-10-16 | 中 | `RAW/ima_sync/个人知识库/WKB/PPS Sensor — Principle and App.md` | done |
 | [[PPS 薄膜压力传感应用场景（触感压力分布技术）]] | 技术白皮书 | 2025 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/PPS薄膜压力传感应用场景说明- PPS (中国)触感压力分布技术.pdf.md` | done |
 | [[PP纤维级树脂技术综述]] | 专利情报平台技术综述（英文） | 2026-04-17 | 中高 | `RAW/ima_sync/个人知识库/WKB/Polypropylene Fiber Grade_ Adv.md` | done |
 | [[PTT-PET S-S Fiber Domestic Supplier Comparison 2026-05（PTT-PET 并列纤维国内供应商对比）]] | 供应商调研报告 | 2026-05-19 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519.docx.md` | done |
 | [[PTT-PET S-S Fiber Domestic Supplier Comparison CN（并列纤维国内供应商对比·中文版）]] | 提案 | 2026-05-19 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/PTT_PET_SideBySide_Fiber_DomesticSupplier_Comparison_20260519_CN.docx.md` | done |
+| [[PTT-PET双组份纤维成本拆解（恒碳千吨级成本结构与下渗异常）]] | 会议纪要 | 2026-10-24 | 中 | `RAW/ima_sync/个人知识库/WKB/恒碳ptt_pet成本拆解.md` | done |
+| [[PTT切片价格对标：恒碳非切片厂，26,000元每吨报价偏离公开行情]] | 研报 | 2026-10-18 | 中 | `RAW/ima_sync/个人知识库/WKB/一句话结论.md` | done |
 | [[Pain-Point Backward Derivation Template v2（材料合作分析模板 v2）]] | 内部模板 | 2026-09-05 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/BNC/05_材料合作分析模板_v2_痛点倒推法.md.md` | done |
 | [[Patterned SAP Core 6（印花·分区·成形 SAP 芯体开发目标与收益 · 2026-07）]] | 内部技术方案（IPC FEI & OI · 芯体印花/分区开发目标） | 2026-07 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/Patterned SAP core 6.pptx.md` | done |
 | [[Pentagram PET Fiber Add-On for 25 gsm ATB Diaper Liner (Deep Dive)]] | 会议纪要 | [待验证] | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Liner/pentagram_PET_diaper_liner_deep_dive 1.pptx.md` | done |
@@ -843,6 +870,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[REL benchmark.png]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/REL/REL benchmark.png.md` | pending |
 | [[REL for 100% SAP Core（全SAP芯体增强层设计）]] | 会议纪要 | 2025 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/NEW REL 4.pptx.md` | done |
 | [[REL 结构优化与选材技术方案]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/REL/REL 结构优化与选材技术方案.md` | pending |
+| [[REL_Cost_Model_28gsm_vs_40gsm]] | 报价单 | 2026-10-24 | 中 | `RAW/ima_sync/个人知识库/WKB/REL_Cost_Model_28gsm_vs_40gsm_20261024.xlsx.md` | done |
 | [[REL_Optimized_PTT_PVA_Composition]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/REL/REL_Optimized_PTT_PVA_Composition.pptx.md` | pending |
 | [[REL增强层专项对比分析_6样品benchmark_20260924]] | 研报 | 2026-09-24 | 中 | `RAW/ima_sync/个人知识库/WKB/REL增强层专项对比分析_6样品benchmark_20260924.md.md` | pending |
 | [[RISTRO - COMPANY INTRODUCTION - 青岛雷森托尔环保科技有限公司]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/RISTRO - COMPANY INTRODUCTION - 青岛雷森托尔环保科技有限公司.pdf.md` | pending |
@@ -908,6 +936,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[SDP Global 控制自由基聚合 SAP 公告（18_ 归档同名件）]] | 行业新闻（厂商公告 · 归档同名件） | 2018-05-21 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/18_SDP Global — First Industrial NMP-based SAF.pdf.md` | done |
 | [[SDP Global 控制自由基聚合 SAP 公告（v3 归档同名件）]] | 行业新闻（厂商公告 · 归档同名件） | 2018-05-21 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/v3非传统资源_⑥SAF_3_Sanyo_Chemical___SDP_Global_活性自由基聚合_SAF.pdf.md` | done |
 | [[SDP Global 控制自由基聚合 SAP 工业化公告（三洋化成 No.1814 · 2018-05-21）]] | 行业新闻（厂商公告 · 日文原稿） | 2018-05-21 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/03_SDP Global — Industrial NMP-based SAF.pdf.md` | done |
+| [[SMMSS亲水技术路线评估_内部实名版_20261026]] | 研报 | 2026-10-26 | 中 | `RAW/ima_sync/个人知识库/WKB/SMMSS亲水技术路线评估_内部实名版_20261026.md.md` | done |
 | [[SNF FloSorb & DryTech Superabsorbent（企业介绍）]] | 公司介绍 | 2023 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/06_FloSorb _ DryTech Superabsorbent — SNF.pdf.md` | done |
 | [[STM-00033 滞留能力.docx]] | 内部测试方法 / SOP | 2021-12-04 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/STM-00033 滞留能力.docx.md` | done |
 | [[STM-00034 FIFE - Fluid Intake Flowback Evaluation Rev.5（FIFE 摄入-回渗评价全球方法）]] | 标准测试方法（STM） | 2020-09-28 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/STM-00034 FIFE/STM-00034.pdf.md` | done |
@@ -1053,6 +1082,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[The Role of Surfactants]] | book | 2002 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Absorbent Technology (Chatterjee & Gupta)/chapters/Absorbent Technology_ch05_report.md.md` | done |
 | [[Thermal bonding]] | book | 2007 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Handbook of Nonwovens/NW · analysis_ch06.md.md` | done |
 | [[Thermochromic & Hydrochromic Materials for Diapers (Feasibility Review v3)]] | 会议纪要 | 2026-08-05 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Thermal Comfort/ThermoHydro_TechReview_EN_v3_2026-08-05.pptx.md` | done |
+| [[Thermochromic Light-Modulation Daily No.14（遮阳隔热 · 热致与温致变色日报 · 2026-10-12）]] | 公众号 | 2026-10-12 | 低 | `RAW/ima_sync/个人知识库/WKB/遮阳隔热 · 热致变色_温致变色调光材料日报.md` | done |
 | [[Thermochromic and Hydrochromic Materials Feasibility Review（温变湿变材料可行性分析·中文版）]] | 提案 | 2026-08-04 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/温变湿变材料可行性分析报告_2026-08-04.docx.md` | done |
 | [[Thermochromic_Products_Comparison_by_Company]] | 报价单 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Inbox/Thermochromic_Products_Comparison_by_Company.xlsx.md` | pending |
 | [[Thermoelectric Materials and Applications Review]] | book | 2011 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/Smart_Textiles_Wearables_拆解/热电现象材料应用综述_拆解.md.md` | done |
@@ -1078,6 +1108,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[US11612524B2 Breathable Diaper Backsheet (Colormasters)]] | 专利 | 2023-03-28 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/三-1_Breathable_diaper_backsheet.pdf.md` | done |
 | [[US11878492B2 Tackified Hotmelt Adhesive Composition (P&G)]] | 专利 | 2024-01-23 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/15_模块三：聚烯烃类热熔胶_US11878492B2_United_States_Patent_(热熔胶含聚烯烃).pdf.md` | done |
 | [[US12145129B2 Superabsorbent Polymer Composition and Method for Preparing the Same (LG Chem)]] | 专利 | 2024-11-19 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/一-1_Superabsorbent_polymer_composition_and_method_for_preparing_the_same.pdf.md` | done |
+| [[US2005-0084412A1 胶体纳米颗粒降味（金佰利 2003 申请）]] | 专利 | 2005-04-21 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/US20050084412A1.pdf.md` | done |
 | [[US20070270773A1 Thermochromic Wetness Indicator]] | patent | 2007 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Ebook/Ebook Extract/US_Patents_智能织物传感_拆解/US20070270773A1_P&G热变色湿态指示_拆解.md.md` | done |
 | [[US2022-0339044A1 Pant-Type Absorbent Article with Waist Guard (P&G)]] | 专利 | 2022-10-27 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/四-2_Pant-type_absorbent_article_with_waist_guard.pdf.md` | done |
 | [[US20220125319A1 Moisture and Fever Sensing Apparatus (Farnaz Zand)]] | 专利 | 2022-04-28 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/US20220125319A1.pdf.md` | done |
@@ -1188,6 +1219,8 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[【深度分析】柔性压力传感器的技术路线]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/【深度分析】柔性压力传感器的技术路线.md` | pending |
 | [[【造纸】造纸行业再现涨价潮，多家上市公司迎阶段性上涨]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/【造纸】造纸行业再现涨价潮，多家上市公司迎阶段性上涨.md` | pending |
 | [[一文带您了解婴儿纸尿裤里的非织造布！]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/一文带您了解婴儿纸尿裤里的非织造布！.md` | pending |
+| [[一片纸尿裤的六层，只有一层真的在吸水（与卫生巾工艺相同）]] | 公众号 | 2026-10-24 | 中 | `RAW/ima_sync/个人知识库/WKB/一片纸尿裤的六层，只有一层真的在吸水（与卫生巾工艺相同）.md` | done |
+| [[三家柔性压力传感技术档案对比（PPS vs 矩侨 vs 中弘芯）]] | 会议纪要 | 2026-10-15 | 中 | `RAW/ima_sync/个人知识库/WKB/三家技术档案都在知识库里，我重新调取本轮证据，把参数对齐后给.md` | done |
 | [[上海星霞产品宣传册中文-20240620(1)]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/上海星霞产品宣传册中文-20240620(1).pdf.md` | pending |
 | [[上海纸浆周会后总结：Patrick Cavanagh谈全球纸浆产能关停风险]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/上海纸浆周会后总结：Patrick Cavanagh谈全球纸浆产能关停风险.md` | pending |
 | [[不会讲故事怎么做汇报？——外企 Presentation讲述力训练指南]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Soft Skills/不会讲故事怎么做汇报？——外企 Presentation讲述力训练指南.md` | pending |
@@ -1198,6 +1231,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[中国母婴市场未来3-5年趋势洞察_2027-2030.pptx]] | 行业新闻 | 2026-05 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/中国母婴市场未来3-5年趋势洞察_2027-2030.pptx.md` | done |
 | [[中国纸浆市场行情持稳，供应商取消涨价计划、终端需求持续疲软]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/中国纸浆市场行情持稳，供应商取消涨价计划、终端需求持续疲软.md` | pending |
 | [[中弘芯（青岛）传感科技产品宣传册（纺织基压力传感与发光-发热纤维）]] | 公司介绍 | 2026-09-27 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/产品宣传册-中弘芯(青岛)传感科技有限公司.pdf.md` | done |
+| [[中科一然-公司介绍]] | 研报 | 2026-10-26 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/中科一然-公司介绍.pdf.md` | done |
 | [[为什么PP无纺布天生疏水？纸尿裤为什么既需要亲水又需要疏水？]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/为什么PP无纺布天生疏水？纸尿裤为什么既需要亲水又需要疏水？.md` | pending |
 | [[为什么纯 PEG 不能常规熔纺]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/为什么纯 PEG 不能常规熔纺.md` | pending |
 | [[为什么能纺丝的聚合物就那几种]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/为什么能纺丝的聚合物就那几种.md` | pending |
@@ -1211,8 +1245,11 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[从零开始COMSOL教程：1、导论]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/从零开始COMSOL教程：1、导论.md` | pending |
 | [[以下是四者主要 SAP 性能参数对比（注：AUL 口径与CR]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/以下是四者主要 SAP 性能参数对比（注：AUL 口径与CR.md` | pending |
 | [[优化 REL 五纤维配方与穿透热风粘合工艺模拟]] | 内部报告 | 未知（内部模拟稿，未标注日期） | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/REL/REL simulation.pptx.md` | done |
+| [[会议主题：聚烯烃胶（Polyolefin Hotmelt）应用及工艺探讨]] | 会议纪要 | 2026-10-13 | 中 | `RAW/ima_sync/个人知识库/WKB/会议主题：聚烯烃胶（Polyolefin Hotmelt）应.md` | pending |
 | [[会议纪要 Knight IV]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/会议纪要 Knight IV.md` | pending |
 | [[会议纪要 OI&FEI Cach-up]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要 OI&FEI Cach-up.md` | pending |
+| [[会议纪要_金佰利×中科一然_除味材料技术对接]] | 会议纪要 | 2026-10-23 | 中 | `RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×中科一然_除味材料技术对接.md.md` | done |
+| [[会议纪要_金佰利×聚合芯能_功能性材料技术对接_20261020]] | 会议纪要 | 2026-10-20 | 中 | `RAW/ima_sync/个人知识库/WKB/会议纪要_金佰利×聚合芯能_功能性材料技术对接_20261023_CN.md.md` | done |
 | [[会议纪要一]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/会议纪要一.md` | pending |
 | [[会议纪要图片：1780974481237.jpg]] | 会议纪要 | — | 低 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/1780974481237.jpg.md` | manual_review |
 | [[会议纪要图片：1781253653675_note.png]] | 会议纪要 | — | 低 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/1781253653675_note.png.md` | manual_review |
@@ -1230,6 +1267,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[会议纪要：山东希瑞新材（双色 ES 纤维）]] | 会议纪要 | — | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要 山东希瑞新材.md` | manual_review |
 | [[会议纪要：新产线高速运行方案（Meeting Minutes - New Pilot Line High-Speed Running Solution）]] | 会议纪要 | 2026-10-13 | 中 | `RAW/ima_sync/个人知识库/WKB/Meeting Minutes_ New Pilot Lin.md` | pending |
 | [[会议纪要：松井油墨（水变温变油墨技术分享）]] | 会议纪要 | — | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/会议纪要 松井油墨分享.md` | done |
+| [[会议纪要：益生菌-益生元项目——复配体系与丝网印刷工艺讨论]] | 会议纪要 | 2026-10-13 | 中 | `RAW/ima_sync/个人知识库/WKB/会议纪要：益生菌_益生元项目——复配体系与丝网印刷工艺讨论.md` | pending |
 | [[低温PP纺粘与TBCW低成本方案]] | 内部录音纪要汇编（AI 整理） | 2026-09-26 | 中 | `RAW/ima_sync/个人知识库/WKB/低温PP相关的纺粘布讨论主要集中在TBCW低成本方案.md` | done |
 | [[低熔点 PP 开发任务书：方案 C 技术要点补充页]] | 项目任务书 | 2026-09-21 | 中 | `RAW/ima_sync/个人知识库/WKB/低熔点PP开发任务书·方案C技术要点补充页.docx.md` | done |
 | [[低熔点 PP 粒子开发任务书]] | 项目任务书 | 2026-09-21 | 中 | `RAW/ima_sync/个人知识库/WKB/低熔点PP粒子开发任务书.docx.md` | done |
@@ -1249,6 +1287,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[再生纤维知识]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Training/Diaper 101/再生纤维知识.md` | pending |
 | [[力致变色供应商甄选报告（2026-08-01·证据标注版）]] | 供应商甄选报告（原材料供应商甄选专家 · 含 Day-1 假设翻转测试） | 2026-08-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/mechanochromic-supplier-report-2026-08-01-zh.docx.md` | manual_review |
 | [[力致变色材料研究报告（2026-08-02·纸尿裤应用研判）]] | 研究报告（战略路线图 + 供应商选型两份材料的综合研判） | 2026-08-02 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/力致变色材料研究报告_2026-08-02.docx.md` | done |
+| [[功能性材料配方与应用探讨]] | 会议纪要 | 2026-10-22 | 中 | `RAW/ima_sync/个人知识库/WKB/功能性材料配方与应用探讨.md` | done |
 | [[功能性纤维产品简介（PTT_超仿棉_咖啡炭_纳米凉感）]] | 产品资料 | 2024 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/产品简介.pdf.md` | done |
 | [[化妆品安全技术规范（2015年版）]] | 技术规范 | 2015 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/v3非传统资源_⑤湿巾lotion_4_CIR_Safety_Assessment_of_Butoxyethanol.pdf.md` | done |
 | [[化妆品安全技术规范（2015年版）·检验方法篇]] | 技术规范 | 2015 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/GBT/04_Safety Assessment of Butoxyethanol (湿巾溶剂).pdf.md` | done |
@@ -1257,10 +1296,12 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[北京泽声科技有限公司 睡眠监测产品介绍 20250808]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/北京泽声科技有限公司 睡眠监测产品介绍 20250808.pdf.md` | pending |
 | [[华南理工异形纤维：创新科技的纺织材料（公众号科普）]] | 公众号（高分子物理学 · 科普转载） | 2024-10-31 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/华南理工异形纤维：创新科技的纺织材料.html.md` | done |
 | [[华峰化学拜访议题清单（超细旦皮筋与去 DMAC 工艺 · 2026）]] | 供应商拜访提纲 + 背景备忘（战略采购 · 超细旦氨纶与去 DMAC 专题） | 2026 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Structure/华峰化学拜访议题清单_超细旦皮筋与去DMAC工艺.docx.md` | done |
+| [[卫生巾材料与功效成分]] | 会议纪要 | 2026-10-22 | 中 | `RAW/ima_sync/个人知识库/WKB/卫生巾材料与功效成分.md` | done |
 | [[卫生护理用品特种变色油墨供应商调研（光敏温敏湿敏 · AI 痕迹件）]] | 供应商调研报告（AI 生成 · 公开信息整理） | 2026-09-27 | 低 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md` | done |
 | [[卫生护理用品行业特种变色油墨（光敏温敏湿.pdf]] | 行业新闻 | 2026 | 低 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/卫生护理用品行业特种变色油墨（光敏温敏湿.pdf.md` | done |
 | [[卫生护理行业变色油墨供应商调研报告（AI 整理 · 2026-06）]] | 供应商调研报告（AI 生成 · 公开信息整理） | 2026-06-17 | 低 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/由于我无法直接生成并输出PDF文件，我已为你准备了一份可直接....pdf.md` | done |
 | [[卫生用品供应商如何应对全新市场格局_荣格工业资源网]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/卫生用品供应商如何应对全新市场格局_荣格工业资源网.md` | pending |
+| [[卫生用品功能性材料研发]] | 会议纪要 | 2026-10-22 | 中 | `RAW/ima_sync/个人知识库/WKB/卫生用品功能性材料研发.md` | done |
 | [[卫生用品认证体系完全指南]] | 公众号 | 2026-07-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/卫生用品认证体系 完全指南.md` | done |
 | [[印刷技术总览（技术谱系）]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/印刷技术总览（技术谱系）.md` | pending |
 | [[原料成本大幅上涨难挡降价，中国进口木浆市场迎来调整]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/原料成本大幅上涨难挡降价，中国进口木浆市场迎来调整.md` | pending |
@@ -1272,10 +1313,12 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[变色油墨供应商综合技术联系表（1）]] | 报价单 | 2025 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商综合技术联系表 (1).xlsx.md` | pending |
 | [[变色油墨供应商联系表（19 家 · 联系方式敏感）]] | 供应商联系与技术概览表（内部汇编） | 2026-09-27 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/变色油墨供应商联系表.xlsx.md` | done |
 | [[变色油墨生产商研究报告 2026-06-12（卫生护理变色油墨与胶粘剂供应商全景）]] | 供应商调研报告（湿敏 / 温敏 / 光敏三类 × 生产商名录 × 选型建议 × 市场数据），AI 研究报告 | 2026-06-12 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/X-Chromic/变色油墨生产商研究报告_20260612.md.md` | done |
+| [[口罩用消臭过滤器及消臭口罩（东亚合成 CN107105801A）]] | 专利 | 2017-08-29 | 高 | `RAW/ima_sync/个人知识库/WKB/6.口罩用消臭过滤器及消臭口罩.html.md` | done |
 | [[可视化智能标签合集]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/可视化智能标签合集.md` | pending |
 | [[可降解_生物基材料与薄且强芯体技术深度解析]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/可降解_生物基材料与薄且强芯体技术深度解析.md` | pending |
 | [[可降解生物基材料与薄且强芯体技术深度解析]] | 深度调研 | 2026-04-10 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/可降解生物基材料与薄且强芯体技术深度解析.pdf.md` | done |
 | [[向大海要能量！纳米纤维素“编织”绿色能源膜，攻克蓝色能源转化世界难题！]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/CNF&CNC/向大海要能量！纳米纤维素“编织”绿色能源膜，攻克蓝色能源转化世界难题！.md` | pending |
+| [[吸湿发热纤维的热物理学分析]] | 公众号 | 2026-10-23 | 中 | `RAW/ima_sync/个人知识库/WKB/吸湿发热纤维的热物理学分析.md` | done |
 | [[国内 CoPET 纤维厂商与无锑细旦核实表（2026-07-09）]] | 供应商调研表（公开渠道汇编 · 含核实结论） | 2026-07-09 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/国内CoPET纤维厂商_无锑细旦核实.xlsx.md` | done |
 | [[在宝洁，一个新品上市前要闯过哪“五道门”？--宝洁内部新品上市手册：年销十亿的爆款，都是这样筛出来的！]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/在宝洁，一个新品上市前要闯过哪“五道门”？--宝洁内部新品上市手册：年销十亿的爆款，都是这样筛出来的！.md` | pending |
 | [[基于 v9 实际状态的 Claude + Gemini 优化]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/基于 v9 实际状态的 Claude + Gemini 优化.md` | pending |
@@ -1284,8 +1327,10 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[复合纤维生产工艺及性能探讨（KC 与闽瑞纤维技术交流）]] | 会议纪要 | — | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/复合纤维生产工艺及性能探讨（KC 与闽瑞纤维技术交流）.md` | done |
 | [[多孔介质流动仿真，从达西定律到完整 CFD 建模]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/多孔介质流动仿真，从达西定律到完整 CFD 建模.md` | pending |
 | [[多相流仿真最怕“看起来像”：界面、时间步和质量守恒必须闭环]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/多相流仿真最怕“看起来像”：界面、时间步和质量守恒必须闭环.md` | pending |
+| [[大连化物所科研贡献与发展历程]] | 会议纪要 | 2026-10-22 | 中 | `RAW/ima_sync/个人知识库/WKB/大连化物所科研贡献与发展历程.md` | done |
 | [[天丝为什么突然这么难买]] | 公众号 | 2026-09-18 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/天丝为什么突然这么难买，国产的又能不能替.md` | done |
 | [[天富龙集团与扬州富威尔公司简介（Tinfulong／Fuweier 2025-05-10）]] | 公司介绍 | 2025-05-10 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/天富龙集团-扬州富威尔简介20250510.pdf.md` | done |
+| [[天津聚合芯能公司及产品介绍2610]] | 研报 | 2026-10-26 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/天津聚合芯能公司及产品介绍2610.pptx.md` | done |
 | [[如果你也想用 AI 做 COMSOL 有限元模拟研究]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/如果你也想用 AI 做 COMSOL 有限元模拟研究.md` | pending |
 | [[宝洁首席品牌官预警营销“大拐点”：营销新S曲线、AI加速、零售闭环]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Market Insight/宝洁首席品牌官预警营销“大拐点”：营销新S曲线、AI加速、零售闭环.md` | pending |
 | [[尿液在婴儿纸尿裤中的吸收和扩散模拟仿真]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/尿液在婴儿纸尿裤中的吸收和扩散模拟仿真.md` | pending |
@@ -1322,6 +1367,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[智能尿裤功能层专利地图（湿态指示-压力传感-抗菌除臭-导电加热·2026-09-05）]] | 内部技术材料 | 2026-09-05 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/IP/04_智能尿裤功能层专利地图.md.md` | done |
 | [[未来3-5年纸尿裤商业化技术集与开发方向]] | 行业新闻 | 2026 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/未来3-5年纸尿裤商业化技术集与开发方向.md` | done |
 | [[松井色素 Chromicolor 温变油墨产品册（11 色 × 9 温度类型）]] | 供应商资料 | — | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/Matsui 松井☆クロミ総合POP英語20260703.pdf.md` | done |
+| [[柔性纤维传感器技术介绍]] | 会议纪要 | 2026-10-23 | 中 | `RAW/ima_sync/个人知识库/WKB/柔性纤维传感器技术介绍.md` | done |
 | [[核心产品样册 2026 -扬州日发干燥工程有限公司]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/核心产品样册 2026 -扬州日发干燥工程有限公司.pdf.md` | pending |
 | [[格菲林（Good Feeling）公司与KC团队的技术交流会]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Meeting Minutes/格菲林（Good Feeling）公司与KC团队的技术交流会.md` | pending |
 | [[橡筋拉伸比测试.doc]] | 会议纪要 | 2021-03-04 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/橡筋拉伸比测试.doc.md` | done |
@@ -1348,12 +1394,15 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[澳洲厚度测试.docx]] | 内部测试方法 / SOP | 2019-05-15 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/澳洲厚度测试.docx.md` | done |
 | [[炜盛科技电子鼻_郑州炜盛电子科技有限公司]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/炜盛科技电子鼻_郑州炜盛电子科技有限公司.pdf.md` | pending |
 | [[热风与针刺无纺布]] | 公众号 | 2026-08-20 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Nonwoven/热风与针刺无纺布.md` | done |
+| [[环球植萃&东方植萃]] | 研报 | 2026-06-01 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/环球植萃&东方植萃.pptx.md` | done |
 | [[生物基SAP-SAF技术研究报告（2026-04 · 生物基 SAP 路线·产业化与成本结构）]] | md（行业/技术综述报告 · 二手） | 2026-04 | C（二手行业综述：无一手实验数据、无逐条出处；产能/价格为 2024–2025 市场口径，属 C 级；工艺参数区间可作 B 级参考） | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/02_生物基SAP_SAF技术研究报告.md.md` | done |
 | [[生物降解材料的真正卡脖子问题：不是产能不够，是产业链协同跟不上]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/生物降解材料的真正卡脖子问题：不是产能不够，是产业链协同跟不上.md` | pending |
 | [[甲酰胺，可能源头，会下一个PFAS吗？]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Regulation&PSC/甲酰胺，可能源头，会下一个PFAS吗？.md` | pending |
 | [[皮芯架构决策矩阵（可降解热风无纺布）]] | 技术评审 | 2026-09-17 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Nonwoven/皮芯架构决策矩阵-可降解热风无纺布.docx.md` | done |
 | [[盛色科技官网关于我们（BLOCLO 温变与光变材料）]] | 公司介绍（官网） | 2026-09-27 | 低 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/关于我们_盛色科技.html.md` | done |
+| [[相变储能（杭州）AC-TEX相变调温纤维：超亿元A轮与万吨产线规划]] | 公众号 | 2026-10-13 | 中 | `RAW/ima_sync/个人知识库/WKB/宣布完成超亿元A轮融资 _ 相变储能：六年，完成相变调温纤维从“材料科学”到“产业工程”的跨越.md` | done |
 | [[矩侨工业 JQ Industries- Baby Diaper Pressure Comfort Mapping Solution.jpg]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/矩侨工业 JQ Industries- Baby Diaper Pressure Comfort Mapping Solution.jpg.md` | pending |
+| [[祛味类产品介绍（天津聚合芯能）]] | 研报 | 2026-10-26 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/祛味类产品new.pptx.md` | done |
 | [[福建闽瑞 vs 厦门延江 产品定位对比]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/福建闽瑞 vs 厦门延江 产品定位对比.md` | pending |
 | [[科研神器！！多物理场仿真神器COMSOL：安装+破解+配置超详细教程（附安装包]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/科研神器！！多物理场仿真神器COMSOL：安装+破解+配置超详细教程（附安装包.md` | pending |
 | [[移动版的workbuddy还可以选择Claude的模型？]] | 知识库问答 | 2026-09-28 | 低 | `RAW/ima_sync/个人知识库/WKB/Archives/移动版的workbuddy还可以选择Claude的模型？.md` | done |
@@ -1391,6 +1440,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[联欣 LXBIO T55P25T20 线纺专用料 TDS（PPC-P-PBAT 可降解）]] | 供应商资料（产品技术数据表 TDS） | 2026-09-27 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/LX-T55P25T20线纺专用料（TDS-CN）.pdf.md` | done |
 | [[联欣环保-包装行业(1)]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/联欣环保-包装行业(1).pptx.md` | pending |
 | [[聚乳酸无纺布的介绍以及在卫生用品上的应用]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/聚乳酸无纺布的介绍以及在卫生用品上的应用.md` | pending |
+| [[聚合芯能协作项目清单（Collaboration Project List）]] | 会议纪要 | 2026-10-22 | 中 | `RAW/ima_sync/个人知识库/WKB/Here's the integrated project ....md` | done |
 | [[聚酯为什么要控制水分：水解机理、动力学与纺丝后果]] | 公众号（材料有门道） | 2026-08-18 | 中 | `RAW/ima_sync/个人知识库/WKB/聚酯为什么要控制水分：水解机理、动力学方程与纺丝后果.md` | done |
 | [[脱水干燥工艺族谱（一页纸）]] | 内部技术材料 | 2026-09-05 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/BNC/01_脱水干燥工艺族谱_一页纸.md.md` | done |
 | [[艾媒咨询 _ 2026-2027年全球母婴市场及中国母婴产业出海机遇研究报告]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Products/艾媒咨询 _ 2026-2027年全球母婴市场及中国母婴产业出海机遇研究报告.md` | pending |
@@ -1401,7 +1451,9 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[苏州益盟新材料官网：纺纱光纤纤维产品页（Emon）]] | 公司介绍（官网产品页） | 2026-09-27 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/纺纱纤维-苏州益盟新材料科技有限公司.html.md` | done |
 | [[茂金属聚丙烯进口依赖度较高，进口替代空间广阔]] | 行业周报 | 2023-10-08 | 中 | `RAW/ima_sync/个人知识库/WKB/2.茂金属聚丙烯进口依赖度较高,进口替代空间广阔 --行业周报.pdf.md` | done |
 | [[草居然能做衣服？菌草纤维也太厉害了吧!]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/草居然能做衣服？菌草纤维也太厉害了吧!.md` | pending |
+| [[莱博药妆（上海直纳）公司介绍及研发合作洽谈]] | 会议纪要 | 2026-10-13 | 中 | `RAW/ima_sync/个人知识库/WKB/莱博药妆（上海直纳）公司介绍及研发合作洽谈.md` | pending |
 | [[菌草在再生纤维素纤维行业的开发现状]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/菌草在再生纤维素纤维行业的开发现状.md` | pending |
+| [[菌草纤维技术简报_Workshop_20261017]] | 研报 | 2026-10-17 | 中 | `RAW/ima_sync/个人知识库/WKB/菌草纤维技术简报_Workshop_20261017.docx.md` | done |
 | [[计算多孔介质的孔隙率和渗透率]] | 行业新闻 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/计算多孔介质的孔隙率和渗透率.md` | pending |
 | [[诺尔集团供应商拜访会议纪要_含流程图.docx]] | 会议纪要 | 2026-07-19 | 高 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访会议纪要_含流程图.docx.md` | done |
 | [[诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx]] | pptx | 2026-07-19 | supplier-stated | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/SAM/诺尔集团供应商拜访纪要_Visit_Report_20260720153001.pptx.md` | done |
@@ -1411,10 +1463,15 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[这是一个很实际的工程问题。核心挑战是：v9 的代码在 Wor]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/这是一个很实际的工程问题。核心挑战是：v9 的代码在 Wor.md` | pending |
 | [[造纸行业负债总额1.06万亿元，行业进入存量博弈的“绞肉机”时代丨活着，就是最大的胜利]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/造纸行业负债总额1.06万亿元，行业进入存量博弈的“绞肉机”时代丨活着，就是最大的胜利.md` | pending |
 | [[道恩集团介绍（道恩斯维特 2026）]] | 公司介绍 | 2026 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/道恩斯维特26年介绍.pptx.md` | done |
+| [[金佰利业务架构与创新交流]] | 会议纪要 | 2026-10-22 | 中 | `RAW/ima_sync/个人知识库/WKB/金佰利业务架构与创新交流.md` | done |
 | [[针刺无纺布：针刺厚度、密度和深度]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Material/Nonwoven/针刺无纺布：针刺厚度、密度和深度.md` | pending |
 | [[针对您想构建的“尿液在纸尿裤中的流动和吸收流体数值计算模型及]] | 会议纪要 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Open Innovation/Simulation Model/针对您想构建的“尿液在纸尿裤中的流动和吸收流体数值计算模型及.md` | pending |
 | [[锦琪昶 KSC 公司与产品介绍（King's Choice 2026-06-03）]] | 公司介绍 | 2026-06-03 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/锦琪昶公司和产品介绍20260603.pdf.md` | done |
+| [[锦琪昶拜访 2026-10-29（热风·超声波 3D 能力与细旦面层、REL 打样路径）]] | 会议纪要 | 2026-10-29 | 高 | `RAW/ima_sync/个人知识库/WKB/会议纪要_锦琪昶_20261029.md.md` | done |
+| [[锦琪昶拜访背景资料与 REL 打样清单（20261029）]] | 研报 | 2026-10-29 | 高 | `RAW/ima_sync/个人知识库/WKB/锦琪昶拜访讨论清单与背景资料_20261029.docx.md` | done |
 | [[阔叶浆（Hardwood Pulp）纤维增强秘籍（一）]] | 公众号 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Resources/Pulp World/阔叶浆（Hardwood Pulp）纤维增强秘籍（一）.md` | pending |
+| [[除臭粉小样实测反馈：烘干后粉体脱落、与无纺布无连接力]] | 会议纪要 | 2026-10-18 | 中 | `RAW/ima_sync/个人知识库/WKB/中科一然除臭粉.md` | done |
+| [[除臭粉悬浮液掉粉问题_工艺可行性方案_20261017]] | 研报 | 2026-10-17 | 高 | `RAW/ima_sync/个人知识库/WKB/除臭粉悬浮液掉粉问题_工艺可行性方案_20261017.docx.md` | done |
 | [[青岛雷森托尔环保科技有限公司企业简介-25版]] | 研报 | 2026-10-11 | 中 | `RAW/ima_sync/个人知识库/WKB/Areas/Supply Base/青岛雷森托尔环保科技有限公司企业简介-25版.pdf.md` | pending |
 | [[非织造芯体材料技术讨论会（Bryan 优先清单 2026-06-09）]] | 会议纪要 | 2026-06-09 | 中 | `RAW/ima_sync/个人知识库/WKB/Projects/Priority List From Bryan.docx.md` | done |
 | [[面层粘合强度测试方法.pdf]] | 内部测试方法 / SOP | 2022-08-10 | 高 | `RAW/ima_sync/个人知识库/WKB/Areas/Test Method/成品/NJ/面层粘合强度测试方法.pdf.md` | done |
@@ -1481,6 +1538,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Case II 扩散]] | 卫材研发、SAP与流体 | growing | Case II diffusion is one class in the Alfrey–Gurnee–Lloyd three-way clas… |
 | [[Cassie-Baxter Equation]] | 卫材研发、基础理论与模型 | growing | The Cassie–Baxter relation, as recorded in the vault：cos θCB = f1 · cos … |
 | [[Changeover Four-Layer Architecture（换型要素四层分层与变更控制）]] | 卫材研发、芯体与吸收 | growing | 对任何一个"换型时会变化的量"，按序判定： |
+| [[Chemical Adsorption Deodorant（化学吸附型消臭剂）]] | 卫材研发、功能添加剂与整理 | growing | 化学吸附型消臭剂（chemisorption-type deodorant）指通过化学吸附或与恶臭成分形成化学键来捕捉臭气的材料。与之并列的另两… |
 | [[China Diaper Market 2024-2026（中国纸尿裤市场2024-2026）]] | 卫材研发、芯体与吸收 | growing | China's baby-diaper market is estimated at ~RMB 70B (2025E) with 8-10% C… |
 | [[Chitosan Fibre（壳聚糖纤维）]] | 卫材研发、REL增强层与纤维 | growing | 1. 抑菌来源：分子链上的氨基（–NH₂）赋予天然抑菌性，可抑制大肠杆菌、金黄色葡萄球菌等常见菌；宣称 50 次洗涤后仍保持抗菌率（厂商宣称，未… |
 | [[Chromism Taxonomy（变色现象分类）]] | 卫材研发、变色与智能材料 | growing | 1. Classify by trigger, not by chemistry（按触发量分类，而非按化学分类）：the same molecu… |
@@ -1597,7 +1655,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Nanocellulose Hygiene Application Roadmap（纳米纤维素卫材应用路线图）]] | 卫材研发、REL增强层与纤维 | growing | 1. 方向一 SAP 增强（第一优先级）：CNF/CNC 的高比表面积与表面羟基（–OH）充当 SAP（高吸水树脂）的物理交联点或共聚组分，提升… |
 | [[Nanofiber Waterproof-Breathable Membrane（纳米纤维防水透湿膜）]] | 卫材研发、REL增强层与纤维 | growing | 1. 尺寸筛选原理（原文口径）：孔径远小于液态水滴（约 100 µm）→ 阻挡雨水 / 液体渗透（waterproof）；孔径远大于水蒸气分子（… |
 | [[Navier-Stokes Equation]] | 卫材研发、基础理论与模型 | growing | 定义待补（引用来源未给出明确定义）—— 库内来源未给出 Navier–Stokes 的独立定义句；它出现在气流成网（airlaid web-fo… |
-| [[Niso]] | 卫材研发、测试与标准 | growing | 弹性材料相关供应商/材料代号，出现在尿裤弹性收紧力改进的会议讨论中。 |
+| [[Niso]] | 卫材研发、弹性材料 | growing | Niso = 「捏塑」的 ASR 音译（niē sù → ni-so），指一类自粘型热塑性弹性体 + 熔喷短丝在线复合的弹性部件工艺路线，出现在… |
 | [[Nonwoven Deformation Force Test（无纺布形变力测试）]] | 卫材研发、无纺布工艺 | growing | 产线上无纺布在放卷、牵引、复合、分切过程中被持续施加张力。张力过大 → 布被拉长、幅宽收缩、克重与孔隙结构变形；张力过小 → 打褶跑偏。2% 形… |
 | [[Nonwoven Lamination]] | 卫材研发、无纺布工艺 | growing | 形式化定义：定义待补（引用来源未给出明确定义）。库内给出的是功能口径：层压（lamination）通过胶黏 / 复合工艺为组件设计阻隔与透气性能… |
 | [[Nonwoven Process Classification（非织造布工艺分类）]] | 卫材研发、无纺布工艺 | growing | 非织造布（无纺布）：不经纺纱织造，由纤维网经粘合/缠结/加固形成的纤维结构材料。分类维度为成网方式（聚合物挤压成网 vs 短纤维梳理成网）与加固… |
@@ -1630,6 +1688,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[Peel Test STM-00438（剥离强度测试）]] | 卫材研发、测试与标准 | growing | 1. 测的是界面，读的是力：剥离过程记录一条力—位移曲线，Average Load 反映整段剥离的平均抗力，Peak Load 反映最强的局部锚… |
 | [[Pentagram PET (Star Cross-Section Fibre)]] | 卫材研发、REL增强层与纤维 | growing | The star section maximises wettable surface and capillary edge count per… |
 | [[Phenoxyethanol（苯氧乙醇）]] | 卫材研发、法规与合规 | growing | 1. 功能定位：作为防腐剂抑制化妆品中微生物生长；因溶剂特性常与其他防腐剂复配。 |
+| [[Pilot Retrofit vs Greenfield Decision Framework（改造 vs 新建 pilot 线决策框架）]] | 卫材研发、无纺布工艺 | growing | A retrofit-vs-greenfield decision is structurally different from a norma… |
 | [[Pinhole 开孔]] | 卫材研发、待归类 | growing | 旋转刀具 + 拉伸实现的针孔开孔工艺，用于面层（liner）分区开孔。 |
 | [[Pinhole开孔]] | 卫材研发、待归类 | seed |  |
 | [[Polyolefin Absorbent Materials]] | 卫材研发、SAP与流体 | growing | 定义待补（引用来源未给出明确定义）。 |
@@ -1803,6 +1862,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[合金粘胶 Alloy Rayon]] | 卫材研发、REL增强层与纤维 | growing | 定义待补（引用来源未给出明确定义）：库内未给出「合金粘胶 / alloy rayon」的单句定义。Fibers and Fibrous Mate… |
 | [[含水率 Moisture Regain]] | 卫材研发、测试与标准 | growing | 定义待补（引用来源未给出明确定义）。 |
 | [[吸收芯体]] | 卫材研发、芯体与吸收 | growing | The vault has no standalone generic definition of 吸收芯体 (the absorbent co… |
+| [[吸湿发热 Moisture-Absorption Heat Generation]] | 卫材研发、基础理论与模型 | growing | Moisture-absorption heat generation (吸湿发热) is the transient release of h… |
 | [[吹膜工艺]] | 卫材研发、待归类 | seed |  |
 | [[咖啡炭纤维（异味吸附）]] | 卫材研发、REL增强层与纤维 | growing | 将回收咖啡渣经摄氏 1000 度以上煅烧处理（使晶向与孔隙呈最佳状态）制得的消臭功能纤维，属吸附型除臭路线（adsorption-type od… |
 | [[哑铃型版型]] | 卫材研发、待归类 | growing | 芯体/产品的哑铃型（两端宽中间窄）版型设计，配合撒粉工艺。 |
@@ -2150,6 +2210,7 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[中弘芯（青岛）传感科技（Zhonghangxin Sensing）]] | 供应商 | 候选 |  |
 | [[中石化]] | 供应商 | 候选 |  |
 | [[中石油石化研究院]] | 机构 / 供应商 | 候选 |  |
+| [[中科一然（Zhongke Yiran）]] | 供应商 | 候选 |  |
 | [[中科依兰]] | 供应商 | 现有供应商（NDA 已签） |  |
 | [[仪征化纤]] | 供应商 | 候选 |  |
 | [[优彩环保]] | 供应商 | 候选 |  |
@@ -2182,19 +2243,21 @@ maintainer: AI（WorkBuddy，依 AGENTS.md 自动维护）
 | [[皖维高新]] | 供应商 | 候选 |  |
 | [[盐城市中联]] | 供应商 | 候选 |  |
 | [[盛色科技（BLOCLO）]] | 供应商 | 候选 |  |
+| [[相变储能（杭州）· 三沐新材料（AC-TEX®）]] | 供应商 | 信息源 |  |
 | [[福地（Fudi）]] | 供应商 | 现有供应商 | 产能与基地扩张（本批新增）： |
 | [[福建兴泰]] | 供应商 | 候选 |  |
 | [[福建闽瑞新合纤]] | 供应商 | 候选 | 在下游客户处的份额与定位（本批新增）： |
 | [[紫华公司（Zihua, Zijiang Group）]] | 供应商 | 现有供应商 |  |
 | [[美鑫达（XDM）]] | 供应商 | 候选 |  |
 | [[联欣环保科技（泰兴）]] | 供应商 | 候选 |  |
+| [[聚合芯能（Unergy）]] | 供应商 | 现有供应商（蔓越莓卫生巾已供货）+ 功能性材料候选 | 检测能力（本库认定为该供方最有价值的资产） |
 | [[舒美]] | 供应商 | 信息源 | 定义待补（引用来源未给出明确定义）。库内唯一可溯源事实：本页被 Nonwovens in Absorbent Materials（Absorbe… |
 | [[花王株式会社（Kao Corporation）]] | 竞品 | 竞品对标 |  |
 | [[诺尔（Nuoer）]] | 供应商 | 现有供应商 | 开发速度（本批新增）： |
 | [[贵州卡布婴童用品有限责任公司]] | 供应商 | 待核 |  |
 | [[赛得利]] | 供应商 | 候选 |  |
 | [[道恩集团（Dawn Group）]] | 供应商 | 信息源 |  |
-| [[锦琪昶（KSC, King's Choice）]] | 供应商 | 待核 | 原始引用来源（Cited by, 4 处，实际独立 2 处） |
+| [[锦琪昶（KSC, King's Choice）]] | 供应商 | 现有供应商（T6.5 背层供货中；REL 保底/第二源评估中） | 原始引用来源（Cited by, 4 处，实际独立 2 处） |
 | [[陕西科技大学]] | 机构 | 信息源 | （无；本页为机构信息页，不涉及商务。） |
 | [[露乐健康科技股份有限公司]] | 竞品 | 竞品对标 |  |
 | [[아시아나노텍 주식회사（Asiananotech）]] | 技术主体 | 情报源 |  |

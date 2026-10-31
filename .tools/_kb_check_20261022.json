@@ -1,0 +1,21 @@
+{
+ "addable": {
+  "code": 0,
+  "msg": "success",
+  "data": {
+   "addable_knowledge_base_list": [
+    {
+     "id": "ima_kb_l24tiCGM",
+     "name": "WKB"
+    },
+    {
+     "id": "ima_kb_yNwCq5No",
+     "name": "AI KB"
+    }
+   ],
+   "next_cursor": "CgQIARgBCgQIAhgB",
+   "is_end": true
+  },
+  "request_id": "efd124b58b8c51b00793e29af024156b"
+ }
+}
